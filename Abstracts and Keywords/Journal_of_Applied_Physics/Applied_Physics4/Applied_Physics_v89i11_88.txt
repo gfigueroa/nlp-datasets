@@ -1,0 +1,8 @@
+Growth and magnetic properties of Co ultrathin films on Pd(111) surface are studied with a ultrahigh vacuum scanning tunneling microscope (STM) and in situ surface magneto-optical Kerr effect measurement as a function of Co thickness. STM images of Co-covered surface reveal that the growth proceeds as a good layer-by-layer epitaxy up to a thickness of 2 ML. Image at a coverage of 1 ML shows almost complete monolayer coverage instead of disconnected islands. At higher coverages, the surface shows uniformly distributed three-dimensional (3D) clusters of <5 nm size manifesting 3D-like growth mode. Co films begin to show ferromagnetism at a coverage of 1.5 ML with a strong perpendicular magnetic anisotropy, which persists up to 5 ML. For the Co films thicker than 5 ML, reorientation transition from perpendicular to in-plane magnetic anisotropy is observed to occur over a thickness range of <1.5 ML. Interestingly, in this thickness range, Pd overlayer is found to drastically change the magnetic behavior. © 2001 American Institute of Physics.
+
+cobalt
+magnetic thin films
+Kerr magneto-optical effect
+scanning tunnelling microscopy
+perpendicular magnetic anisotropy
+ferromagnetic materials

@@ -1,0 +1,13 @@
+Carrier concentration profiles of two-dimensional electron gases are investigated in wurtzite, Ga-face AlxGa1xN/GaN/AlxGa1xN and N-face GaN/AlxGa1xN/GaN heterostructures used for the fabrication of field effect transistors. Analysis of the measured electron distributions in heterostructures with AlGaN barrier layers of different Al concentrations (0.15&lt;x&lt;0.5) and thickness between 20 and 65 nm demonstrate the important role of spontaneous and piezoelectric polarization on the carrier confinement at GaN/AlGaN and AlGaN/GaN interfaces. Characterization of the electrical properties of nominally undoped transistor structures reveals the presence of high sheet carrier concentrations, increasing from 6×1012 to 2×1013
+cm2 in the GaN channel with increasing Al-concentration from x = 0.15 to 0.31. The observed high sheet carrier concentrations and strong confinement at specific interfaces of the N- and Ga-face pseudomorphic grown heterostructures can be explained as a consequence of interface charges induced by piezoelectric and spontaneous polarization effects. © 1999 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor heterojunctions
+electron density
+two-dimensional electron gas
+dielectric polarisation
+piezoelectricity
+junction gate field effect transistors

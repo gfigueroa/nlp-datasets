@@ -1,0 +1,5 @@
+In many prospective power applications based on high-temperature superconductors, the hysteresis losses will be an important parameter. To obtain an optimized device, models of the hysteresis losses valid at applicationlike conditions are needed. In this article the superconductor is modeled as a thin strip with negligible thickness, a geometry which probably is especially suitable for the new wires of the coated-conductor type. The strip is assumed to carry a transport current in phase with an externally applied magnetic field perpendicular to the strip. Calculations of the hysteresis losses, based on the critical state theory, are performed resulting in exact analytical equations. © 2001 American Institute of Physics. 	 
+
+high-temperature superconductors
+superconducting thin films
+magnetic hysteresis

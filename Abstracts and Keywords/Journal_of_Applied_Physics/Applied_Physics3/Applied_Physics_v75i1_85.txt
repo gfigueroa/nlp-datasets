@@ -1,0 +1,11 @@
+In order to clarify the formation mechanism of extremely finegrained microstructures by crystallization of the FeBSi metallic glass, the nucleation and crystalgrowth rates have been determined. The results indicate that the parabolic growth rate increases with annealing temperature, showing a maximum nucleation rate at an intermediate temperature range. Obviously it is possible to obtain nanocrystalline structures by controlling crystallization of the metallic glass on annealing at temperatures near the maximum nucleation rate.
+
+METALLIC GLASSES
+CRYSTALLIZATION
+IRON SILICIDES
+BORON SILICIDES
+TERNARY ALLOYS
+MICROSTRUCTURE
+GRAIN SIZE
+CRYSTAL GROWTH
+NUCLEATION

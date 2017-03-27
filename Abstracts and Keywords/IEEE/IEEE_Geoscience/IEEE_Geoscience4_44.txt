@@ -1,0 +1,5 @@
+Spatial information retrieval which is mainly catalog service based on metadata is the foundation of spatial information sharing. Today's information retrieval methods in catalog service are typically limited to keyword searches or matches of sub-strings, which do not meet user's retrieval demand. This paper presents a semantic similarity degree algorithm, in which geo-ontology is compared from concept of the hierarchical structure similarity degree and property similarity degree to adjust the relations of concept. Firstly, overall evaluating the geo-ontology concept hierarchical structure similarity degree and attribute similarity degree; secondly, the semantic similarity degree was calculated as the basis for spatial information retrieval; In the end, the retrieval algorithm was applied in the ldquoOcean Grid Portalrdquo, the retrieval results demonstrate the feasibility and effectiveness of the semantic similarity degree retrieval algorithm.
+
+Geo-ontology
+semantic similarity degree
+spatial information retrieval

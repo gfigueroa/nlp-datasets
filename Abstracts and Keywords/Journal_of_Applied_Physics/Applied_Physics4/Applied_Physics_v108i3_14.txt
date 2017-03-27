@@ -1,0 +1,9 @@
+The electrochemical behavior of carbon nanotubes (CNTs) containing both intrinsic and extrinsically introduced defects has been investigated through the study of bamboo and hollow multiwalled CNT morphologies. The controlled addition of argon ions was used for varying the charge and type of extrinsic defects. It was indicated from Raman spectroscopy and voltammetry that the electrocatalytic response of hollow type CNTs could be tailored more significantly, compared to bamboo type CNTs which have innately high reactive site densities and are less amenable to modification. An in-plane correlation length parameter was used to understand the variation of the defect density as a function of argon ion irradiation. The work has implications in the design of nanotube based chemical sensors, facilitated through the introduction of suitable reactive sites.
+
+carbon nanotubes
+chemical sensors
+crystal defects
+crystal morphology
+ion beam effects
+Raman spectra
+voltammetry (chemical analysis)

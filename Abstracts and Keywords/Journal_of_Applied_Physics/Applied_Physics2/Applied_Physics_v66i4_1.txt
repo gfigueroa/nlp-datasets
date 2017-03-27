@@ -1,0 +1,17 @@
+B+implanted Si layers preamorphized with 100keV Ge+ implantation have been evaluated using Rutherford backscattering spectrometry and the van der Pauw technique. We suggest that the lower structural recovery, 98% of Si occupies substitutional sites, arises from the difference in tetrahedral covalent radii among Si, Ge, and B atoms. Electrical properties of dual Ge+/B+implanted layers are discussed by a twocarrier model consisting of both electron and hole. The conversion temperature from the p to the ntype varies from <15 to < 125	°C with increasing electrical activation of the boron acceptor. The activation saturates at annealing temperatures above 800	°C. This restriction is due to the presence of the level and/or the defect induced in the preamorphization process.
+
+SILICON
+LAYERS
+AMORPHOUS STATE
+ION IMPLANTATION
+BORON IONS
+GERMANIUM IONS
+KEV RANGE 10100
+ELECTRICAL PROPERTIES
+RBS
+ELECTRONS
+HOLES
+NTYPE CONDUCTORS
+PTYPE CONDUCTORS
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE

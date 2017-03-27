@@ -1,0 +1,6 @@
+This article presents a set of conventional approaches to the modelling of dysfunctioning of a process in the context of maintenance activities. It recalls advantages and disadvantages in their use. The normative framework of maintenance, the priorities of the long-term maintenance and the content of the maintenance function will also be presented. This paper presents a state of the research of usual maintenance methods. We give hints about the use of these methods for new products for e-maintenance.
+
+classical approach
+maintenance
+modelling
+process

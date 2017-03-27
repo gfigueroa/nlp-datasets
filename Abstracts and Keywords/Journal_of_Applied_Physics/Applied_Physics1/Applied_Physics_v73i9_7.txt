@@ -1,0 +1,11 @@
+Photoinduced and thermally induced bleachings of asdeposited GexS100x and (Ge0.3S0.7)100yAgy films were systematically studied in the ranges of 21dxd42 and 0dyd67 using optical transmission measurement. The bleachings for the GeS system show a maximum at around the stoichiometric composition GeS2, whereas that for the GeSAg system become smaller with an increase of the Ag content and vanish above 40 at.	%. The composition dependence for the GeS system can reasonably be explained by an increase in the GeS bond density and subsequent decrease of short and mediumrange disordering. The bleaching rates, which are relatively small for Gerich films, are considered to be associated with the flexibility of the local network structure. The photooxidation phenomenon, which is observed for the films illuminated in air, also shows a maximum at around GeS2. The composition dependence for the bleaching of Agcontaining Ge30S70 films can be understood in a similar way to the GeS system. The vanishing at yB40 is associated with a thermodynamically stable phase at that composition for the GeSAg system.
+
+GERMANIUM SULFIDES
+SILVER ALLOYS
+AMORPHOUS STATE
+BLEACHING
+CHEMICAL COMPOSITION
+THIN FILMS
+LIGHT TRANSMISSION
+STOICHIOMETRY
+SHORTRANGE ORDER

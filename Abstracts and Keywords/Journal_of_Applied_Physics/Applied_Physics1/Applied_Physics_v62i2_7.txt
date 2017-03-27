@@ -1,0 +1,11 @@
+As a sequel to certain studies of fast diffusers in leadtin alloys, we have carried out a comparable program for leadindium alloys with silver, gold, and copper as mobile elements. It has been found that the addition of In greatly increased DAg up to 60 times, but made the electromigration parameter Z@B|a,Ag more negative and it eventually became zero. On the other hand, DAu drops quickly with the addition of In, indicating an AuIn binding energy of about 0.5 eV. The comparable binding energy of Ni with In was found to be 1.1 eV. For the mobile copper, DCu decreased when In was introduced at low concentration but started increasing when In concentration was 7 at.	%. Measurements of electromigration of Au and Cu indicated that the added In has little influence on Za.
+
+ELECTROPHORESIS
+SILVER
+GOLD
+COPPER
+LEAD ALLOYS
+INDIUM ALLOYS
+DIFFUSION
+ATOM TRANSPORT
+BINDING ENERGY

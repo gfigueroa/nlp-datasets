@@ -1,0 +1,7 @@
+The electrical switching properties of electrically conductive polymer composites are studied at high current densities. It is shown that the switching properties at high current densities are substantially different from those at low current densities which depend on a positive temperature coefficient of resistance effect. Experiments are described that show that this type of switching appears to be a general feature in conductor-filled polymer composite materials and a qualitative model for the switching phenomenon is proposed. These results suggest that conductor-filled polymer composite materials can provide a new nonmechanical way of rapidly limiting high power short-circuit currents. This should have broad applications in the circuit protection industry. © 1997 American Institute of Physics. 
+
+conducting polymers
+polymer blends
+electrical resistivity
+short-circuit currents
+electrical conductivity transitions

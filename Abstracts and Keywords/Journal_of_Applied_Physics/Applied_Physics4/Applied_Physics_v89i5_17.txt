@@ -1,0 +1,7 @@
+We report on the realization of a compact distributed feedback laser using luminescent polymer films where the optical feedback is provided by Bragg diffraction on an index grating. Permanent modulation of the polymer refractive index is achieved using an original technique for photoinduced patterning of surface relief grating, using laser-controlled mass-transport in azoaromatic polymers. We describe the fabrication of such surface gratings and show the laser emission properties resulting from a transversal one-photon pumping of the sinusoidally modulated polymer films upcovered with a luminescent-dye-doped film. Control of the laser wavelength by the grating pitch is evidenced. © 2001 American Institute of Physics.
+
+polymer films
+optical feedback
+refractive index
+distributed feedback lasers
+optical modulation

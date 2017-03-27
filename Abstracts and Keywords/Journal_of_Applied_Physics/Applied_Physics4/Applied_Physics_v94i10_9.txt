@@ -1,0 +1,7 @@
+When subjected to sufficiently large compressive stresses, amorphous silica glass densifies permanently. Such densification is facilitated by shear stresses. It also exhibits some unique features upon grinding, which are associated with the plastic behavior of amorphous silica under constrained compression. To describe the effect of densification, a constitutive law proposed by Lambropoulos et al. [J. Am. Ceram. Soc. 79, 1441 (1996)] is used to model plastic deformation of silica. A densification parameter is introduced as a material parameter. Analytic solution of cavity expansion is presented here for this constitutive law. Both associated and nonassociated flow theories are studied. The range of values of the densification parameter for amorphous silica is estimated. For amorphous silica, the cavity expansion model shows that, based on the induced stress distribution, densification contributes to lower removal rate and less subsurface damage. © 2003 American Institute of Physics. 
+
+silicon compounds
+glass
+densification
+plastic deformation
+internal stresses

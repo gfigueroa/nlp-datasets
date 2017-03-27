@@ -1,0 +1,11 @@
+Oriented Fe1xPtx nanoparticles have been formed in single-crystal Al2O3 host matrices by the sequential implantation of Fe and Pt ions followed by thermal annealing. For x in the range of <3555 at.
+% Pt, these nanoparticles are in the chemically ordered tetragonal L10 structure of FePt and appear to be fully ordered. The nanoparticles are ferromagnetic, and the magnetic coercivity is a strong function of the alloy composition, reaching values in excess of 20 kOe for x<45%. The crystallographic orientation and morphology of the nanoparticles are strongly dependent on the implantation conditions. Under certain implantation conditions, a buried amorphous layer can be formed in the Al2O3 matrix which crystallizes during annealing giving rise to the formation of an interconnected network of large FePt particles with a single orientation. Oriented nanoparticles of Fe3Pt and FePt3 were also synthesized. The Fe3Pt and FePt3 particles have the ordered, cubic L12 structure with an order parameter of 0.50.8; and these particles also exhibit ferromagnetic behavior. The magnetic and structural properties of the Fe1xPtx nanoparticles are compared to and contrasted with those of nanoparticles of Fe and Pt in Al2O3 that were also formed by ion-beam synthesis. Evidence for Al incorporation into the nanoparticles is also presented. © 2003 American Institute of Physics. 
+
+iron alloys
+platinum alloys
+nanoparticles
+ferromagnetic materials
+magnetic particles
+ion implantation
+annealing
+coercive force

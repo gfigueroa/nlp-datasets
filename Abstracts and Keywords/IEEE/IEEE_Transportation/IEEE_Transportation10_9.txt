@@ -1,0 +1,8 @@
+It is common knowledge that 500 kV extra high voltage and long distant transmission line join a shunt reactor and a neutral grounding via small reactor; This paper analysis systematically an possible condition of the frequency-regulating resonance over-voltage on single phase cut fault to refusing-shut of the 500 kV extra high voltage transmission line which join a shunt reactor, the system compose an complex series resonance circuits, and present a rational mode of reactive compensation. This paper also build rational mathematic mode on systemic parameter of 500 kV ci-yong transmission line, and resolute detailedly its power frequency component, low frequency component and its DC component of single phase cut fault voltage and secondary arc current by the mean of Laplacian transformation ruling formula. All the this is to offer an farther analysis on switching over-voltage and secondary arc current interrupter of long distant transmission line. In the end, this system also implemented using MATLAB software, compute the transient process on single phase cut fault voltage and secondary arc current.
+
+frequency-regulating resonance over-voltage
+reactive compensation
+secondary arc current
+series resonance circuits
+shunt reactor
+single phase cut fault

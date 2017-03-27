@@ -1,0 +1,10 @@
+Nanotube sheets, or bucky papers, have been proposed for use in actuating, structural and electrochemical systems, based in part on their potential mechanical properties. Here, we present results of detailed simulations of networks of nanotubes/ropes, with special emphasis on the effect of joint morphology. We perform detailed simulations of three-dimensional joint deformation, and use the results to inform simulations of two-dimensional (2D) networks with intertube connections represented by torsion springs. Upper bounds are established on moduli of nanotube sheets, using the 2D Euler beam-network simulations. Comparisons of experimental and simulated response for HiPco-nanotube and laser-ablated nanotube sheets, indicate that <230-fold increases in moduli may be achievable in these materials. Increasing the numbers of interrope connections appears to be the best target for improving nanotube sheet stiffnesses in materials containing straight segments. © 2004 American Institute of Physics. 
+
+carbon nanotubes
+sheet materials
+deformation
+Young's modulus
+tensile strength
+laser ablation
+elastic constants
+finite element analysis

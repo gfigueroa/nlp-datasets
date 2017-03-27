@@ -1,0 +1,10 @@
+Femtosecond time-resolved microscopy has been used to analyze the structural transformation dynamics (melting, ablation, and solidification phenomena) induced by single intense 130 fs laser pulses in single-crystalline (100)-indium phosphide wafers in air on a time scale from < 100fs up to 8 ns. In the ablative regime close to the ablation threshold, transient surface reflectivity patterns are observed by fs microscopy on a ps to ns time scale as a consequence of the complex spatial density structure of the ablating material (dynamic Newton fringes). At higher fluences, exceeding six times the ablation threshold, optical breakdown causes another, more violent ablation regime, which reduces the energy deposition depth along with the time of significant material removal. As a consequence, ablation lasts longer in a ring-shaped region around the region of optical breakdown. This leads to the formation of a crater profile with a central protrusion. In the melting regime below the ablation threshold, the melting dynamics of indium phosphide has been quantified and subsequent superficial amorphization has been observed upon solidification on the ns time scale leading to amorphous layer thicknesses of the order of a few tens of nanometers.
+
+electric breakdown
+III-V semiconductors
+indium compounds
+laser materials processing
+melting
+reflectivity
+solidification
+solid-state phase transformations

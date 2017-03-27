@@ -1,0 +1,7 @@
+We study analytically and numerically a problem of self-heating in small mesa structures. Our results show that self-heating is proportional to a characteristic in-plane size of the mesa. Experimental data for small high-Tc superconductor Bi2212 mesas are in qualitative agreement with our calculations. We estimate self-heating in Bi2212 mesas with different sizes and demonstrate that self-heating can effectively be obviated in small mesa structures. © 2001 American Institute of Physics.
+
+bismuth compounds
+strontium compounds
+calcium compounds
+high-temperature superconductors
+superconducting integrated circuits

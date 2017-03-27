@@ -1,0 +1,18 @@
+The dependence of perpendicular magnetic anisotropy on temperature and composition has been investigated for various (Fe,Co)rareearth amorphous binary alloy films prepared by evaporation. The temperature dependence of the perpendicular magnetic anisotropy is proportional to the third power of the rareearth sublattice magnetization. The perpendicular magnetic anisotropy consists of two terms related to concentration. One is proportional to the rareearth content and the other to its square. Both terms can be explained by a large rareearth singleion anisotropy.
+
+IRON BASE ALLOYS
+COBALT BASE ALLOYS
+PRASEODYMIUM ALLOYS
+NEODYMIUM ALLOYS
+SAMARIUM ALLOYS
+DYSPROSIUM ALLOYS
+ERBIUM ALLOYS
+FILMS
+MAGNETIC PROPERTIES
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+MAGNETIZATION
+ANISOTROPY
+KERR EFFECT
+MAGNETOOPTICAL EFFECTS
+CURIE POINT

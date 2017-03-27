@@ -1,0 +1,10 @@
+This paper proposes a new architecture named Human As a Control Module (HACM) architecture to harmonize automation and adaptive nature of pilot maneuver. HACM architecture treats a pilot as a single module of controller in flight. By using the proposed architecture, it becomes possible to reduce or eliminate inappropriate pilot maneuvers caused by cognitive or decision making process and deliberate acts taken by hijackers. Additionally, the architecture can protect piloting based on pilots' exceptional assessment of the situation. In this research, HACM architecture is applied to Pilot Induced Oscillation (PIO) problem and the effectiveness of the architecture is confirmed.
+
+Human As a Control Module architecture
+Pilot Induced Oscillation
+automation
+controller design
+human error
+man-machine system
+neural networks
+pilot maneuver

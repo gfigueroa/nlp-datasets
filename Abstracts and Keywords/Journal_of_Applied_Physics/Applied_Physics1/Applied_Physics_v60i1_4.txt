@@ -1,0 +1,13 @@
+Newly discovered Znassociated emissions in GaAs, g and [gg], were found to be completely suppressed by the simultaneous presence of Zn and Se atoms. This selective optical compensation (SOC) effect observed when acceptor (Zn) and donor (Se) atoms exist in combination was established by simultaneously implanting Zn+ and Se+ ions into almost carbonfree ultrapure GaAs made by molecularbeam epitaxy. It is suggested that the failure to observe g and [gg] emissions in acceptorincorporated GaAs prepared by conventional epitaxial methods may be ascribed to this SOC effect, in which donor atoms were unintentionally introduced into the epitaxial layer.
+
+PHOTOLUMINESCENCE
+IMPURITY STATES
+IMPURITIES
+DONORS
+ACCEPTORS
+GALLIUM ARSENIDES
+ZINC IONS
+SELENIUM IONS
+ION IMPLANTATION
+EPITAXIAL LAYERS
+MOLECULAR BEAM EPITAXY

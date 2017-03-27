@@ -1,0 +1,9 @@
+The Cs intercalation process in multiwalled carbon nanotubes (MWNTs) was studied by cross-sectional scanning photoemission microscopy. Cs atoms initially deposited on the tips of aligned nanotubes diffused toward their roots. The Cs diffusion constant for the MWNTs at room temperature was evaluated from the Cs distribution measured along the axes of the tubes. The value of 2×1012	cm2/s obtained is seven orders of magnitude smaller than that in graphite, although the local atomic structure of an intercalated MWNT is very similar to that of intercalated graphite. © 2002 American Institute of Physics. 
+
+carbon nanotubes
+caesium
+intercalation compounds
+diffusion
+impurity distribution
+scanning probe microscopy
+photoemission

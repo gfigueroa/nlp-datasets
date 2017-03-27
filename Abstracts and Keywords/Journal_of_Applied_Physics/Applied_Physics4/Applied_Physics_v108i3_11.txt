@@ -1,0 +1,16 @@
+The effect of nanosecond pulsed laser excitation on the self-assembly of Ge quantum dots grown by pulsed laser deposition on Si(100)-(2×1) was studied. In situ reflection high-energy electron diffraction and ex situ atomic force microscopy were used to probe the quantum dot structure and morphology. At room temperature, applying the excitation laser decreased the surface roughness of the grown Ge film. With surface electronic excitation, crystalline Ge quantum dots were formed at 250	°C, a temperature too low for their formation without excitation. At a substrate temperature of 390	°C, electronic excitation during growth was found to improve the quantum dot crystalline quality, change their morphology, and decrease their size distribution almost by half. A purely electronic mechanism of enhanced surface hopping of the Ge adatoms is proposed.
+
+atomic force microscopy
+elemental semiconductors
+germanium
+high-speed optical techniques
+hopping conduction
+pulsed laser deposition
+reflection high energy electron diffraction
+self-assembly
+semiconductor growth
+semiconductor quantum dots
+semiconductor thin films
+surface conductivity
+surface morphology
+surface roughness

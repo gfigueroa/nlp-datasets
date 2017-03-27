@@ -1,0 +1,9 @@
+Bias dependence of Schottky barrier height ÕB was directly measured using an internal photoemission effect in AunGaAs Schottky barrier diodes under both the forward and reverse applied voltages. ÕB increased by about 0.0150.016 eV as the forward bias increased from 0 to 0.3 V. This is probably due to an appliedvoltageinduced change in electron population in the interface states. The results were compared with the bias dependence derived from dark forward currentvoltage (IV) characteristics. Both bias dependences were in good agreement, indicating that nonideal forward IV characteristics (a deviation from the ideal thermionic emission theory) could be fully explained by the bias dependence of ÕB for diodes of a relatively good quality (an ideality factor, n=1.021.07). The effective Richardson constant A was calculated to be about 1.31.4×105 A	K2	m2 for the diodes of the lower n values using the value of the measured Schottky barrier height at zero bias. These values of A were higher than the calculated value of about 8×104 A	K2	m2 and that of 0.41±0.15×104 A	K2	m2 reported by Missous and Rhoderick [J. Appl. Phys. 69, 7142 (1991)]. This is probably due to an enhancement of an electron tunneling through the high density interface states in our case. ÕB decreased by about 0.050.06 eV when the reverse voltage increased from 0 to 3.0 V. An image force lowering effect could not account for this large reverse bias dependence of the barrier height. The nonideal reverse IV characteristics could not be interpreted solely by the bias dependence of ÕB. This discrepancy was attributed to other leakage current mechanisms.
+
+SCHOTTKY BARRIER DIODES
+BARRIER HEIGHT
+GALLIUM ARSENIDES
+PHOTOEMISSION
+CV CHARACTERISTIC
+NTYPE CONDUCTORS
+PHOTOCONDUCTIVITY

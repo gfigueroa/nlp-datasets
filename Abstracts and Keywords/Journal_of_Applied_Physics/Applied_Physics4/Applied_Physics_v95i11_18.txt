@@ -1,0 +1,12 @@
+Magneto-optical properties with quaternary CdMnCoTe and CdMnFeTe films deposited on quartz glass substrates using molecular beam epitaxy equipment are studied at an optical wavelength of 635 nm. The magnitude of the Faraday rotation ¸F in the CdMnCoTe films was compared with that in the CdMnFeTe films, and the largest ¸F has been obtained for the Cd0.603Mn0.371Co0.026Te film. It is shown that a large ¸F was also observed in the Cd0.575Mn0.372Fe0.053Te film and its optical properties were poor compared to those in the Cd0.603Mn0.371Co0.026Te film. A few problems that occur for measurements of the Faraday rotation are indicated. © 2004 American Institute of Physics. 
+
+cadmium compounds
+manganese compounds
+cobalt compounds
+iron compounds
+semimagnetic semiconductors
+semiconductor thin films
+magnetic thin films
+molecular beam epitaxial growth
+transparency
+Faraday effect

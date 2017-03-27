@@ -1,0 +1,6 @@
+A sequential pulsed process is utilized for deposition of nonstoichiometric silicate films without employing an oxidizing agent. The metal precursors were HfCl4, AlCl3, and ZrCl4, as well as Hf(NO3)4 and the silicon source was tris(tert-butoxy)silanol. Unlike atomic layer deposition, the growth per cycle was several monolayers thick, where the enhancement in growth was due to a catalytic reaction. The bulk and electrical properties of these films are similar to those of silicon dioxide. Silicon carbide devices coated with these films show good insulating characteristics. © 2003 American Institute of Physics. 
+
+hafnium compounds
+insulating thin films
+vapour deposition
+catalysis

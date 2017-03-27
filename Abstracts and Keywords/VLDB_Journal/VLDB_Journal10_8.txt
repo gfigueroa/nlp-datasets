@@ -1,0 +1,7 @@
+Views over databases have regained attention in the context of data warehouses, which are seen as materialized views. In this setting, efficient view maintenance is an important issue, for which the notion of self-maintainability has been identified as desirable. In this paper, we extend the concept of self-maintainability to (query and update) independence within a formal framework, where independence with respect to arbitrary given sets of queries and updates over the sources can be guaranteed. To this end we establish an intuitively appealing connection between warehouse independence and view complements. Moreover, we study special kinds of complements, namely monotonic complements, and show how to compute minimal ones in the presence of keys and foreign keys in the underlying databases. Taking advantage of these complements, an algorithmic approach is proposed for the specification of independent warehouses with respect to given sets of queries and updates.
+
+Data warehouse
+Independence
+Materialized view
+Self-maintainability
+View complement

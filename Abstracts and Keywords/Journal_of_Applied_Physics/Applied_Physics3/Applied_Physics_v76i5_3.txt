@@ -1,0 +1,12 @@
+We present a summary of our work on the dc electric field effect on the microwave properties of YBa2Cu3O7/SrTiO3 (YBCO/STO) layered structures. We briefly describe the fabrication of these layered structures, their structural and electrical properties related to the microwave response, and experimental methods to investigate dc electric field effects at microwave frequencies. Analysis of microwave measurements shows that dc electric field modulated changes in both the complex conductivity of YBCO layers and the dielectric properties of the STO layers contribute to the overall device response. At low temperatures (&lt;50 K) and large electric fields, good samples show linear gatevoltage modulation of microwave surface resistance and surface reactance attributable to field induced superconducting hole filling and depletion in the dominant YBCO layer.
+
+SUPERCONDUCTING FILMS
+MICROWAVE RADIATION
+MULTILAYERS
+ELECTRIC FIELD EFFECTS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+HIGHTC SUPERCONDUCTORS
+STRONTIUM TITANATES

@@ -1,0 +1,16 @@
+The effect of In concentration on the red photoluminescence (PL) from trivalent Pr rare-earth (RE) ions in InGaN layers is investigated. A series of Pr-doped InxGa1xN thin layers with 0 } x } 0.15 is grown by radio-frequency plasma-assisted molecular beam epitaxy on GaNsapphire templates. Photoexcitation with a HeCd laser results in characteristic red emission at 652nm, corresponding to the  transition of Pr3+. The Pr PL is the highest for samples grown under slightly N-rich conditions, but the yellow luminescence caused by Ga vacancies is also present. The intensity of the characteristic Pr PL in InxGa1xN:Pr decreases by one order of magnitude when increasing the In content from x = 0 to 0.15, even though the matching of the band gap to the Pr3+ energy states is better. Low-temperature PL measurements show that the de-excitation energy backtransfer process from excited Pr3+ ions is more severe for In-richer samples, although the amount of backtransfer cannot be the sole reason for the significant drop of the Pr3+ emission with the band gap reduction. The dissociation of bound excitons from Pr-related traps as well as the presence of In-related exciton localization centers are also likely to decrease the excitation of the Pr3+ ions. In view of ongoing efforts to search for efficient RE-doped III-V emitters, the results indicate that the formationdissociation rate of RE-bound excitons is one of the key factors that determine the RE emission yield.
+
+energy gap
+excitons
+gallium compounds
+III-V semiconductors
+indium compounds
+localised states
+molecular beam epitaxial growth
+photoexcitation
+photoluminescence
+plasma materials processing
+praseodymium
+semiconductor epitaxial layers
+vacancies (crystal)
+wide band gap semiconductors

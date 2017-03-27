@@ -1,0 +1,6 @@
+Regional gross national product (GDP) is an important indicator of national economic accounting. Regional GDP is an important part of the country's GDP, and it is of great significance for formulating scientifically the strategy and the policy of regional development that to effectively forecast regional GDP. A method based on genetic algorithm optimizing grey modeling process is introduced in this paper. This method makes full use of the advantages of the grey forecast model and characteristics of genetic algorithm to find global optimization. So the forecast model is more accurate. According to data from a province, the GM (1, 1) model for forecasting regional GDP was given based on the grey system theories and genetic algorithm. The result indicates that the model can be used as regional GDP an effective tool for forecasting.
+
+genetic algorithm
+grey forecasing t model
+optimization
+regional gross national product

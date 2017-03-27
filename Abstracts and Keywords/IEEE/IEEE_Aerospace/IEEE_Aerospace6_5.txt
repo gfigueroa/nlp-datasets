@@ -1,0 +1,6 @@
+A novel printed collinear dipole array antenna element is presented. The antenna comprises 8 back-to-back dipole arrays with balanced microstrip as its feed line. It works in the TD-SCDMA band with a good omnidirectional radiation pattern (with variations less than 1 dB) in the horizontal plane and a high gain level of over 9.5dBi. Simulated results obtained by Ansoft HFSS are given.
+
+TD-SCDMA
+dipole antenna
+omni-directional high-gain antenna
+printed antenna

@@ -1,0 +1,10 @@
+Oxides with higher dielectric constants are required to act as gate dielectrics for future generations of electronic devices. The electronic structure and band offsets of the oxides on Si have been calculated for many candidate gate oxides using the local density formalism pseudopotential method. The predicted conduction band offsets are similar to those found earlier using the tight-binding method, and where available, with experimental values found by photoemission and internal photoemission. The oxides which are acceptable as gate oxides in terms of their band offsets are ZrO2,HfO2,La2O3,Y2O3,Al2O3, silicates such as ZrSiO4 and HfSiO4 and aluminates such as LaAlO3. © 2002 American Institute of Physics. 
+
+silicon
+dielectric materials
+Schottky barriers
+permittivity
+band structure
+pseudopotential methods
+density functional theory
+elemental semiconductors

@@ -1,0 +1,9 @@
+We consider the chain of N spheres contacting each other with an area and study the change of the magnetic behaviors of this chain by the contact area. Critical field Hcri for the discontinuous jump of the magnetization and coercive force Hc by both the parallel rotation and fanning mechanisms, and uniaxial magnetic anisotropy constant Ku due to the shape of the chain are found to increase, reach the maximum value, and decrease with an increase in the contact area. The ratios of the maximum value to the value at the point contact for Hcri, Hc, and Ku are also found to increase with an increase in the number of the spheres.
+
+CHAINS
+SPHERES
+PARTICULATES
+CRITICAL FIELD
+MAGNETIC ANISOTROPY
+COERCIVE FORCE
+MAGNETIC MATERIALS

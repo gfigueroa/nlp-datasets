@@ -1,0 +1,5 @@
+Optical properties of soft tissue in the near infrared are determined using optoacoustic spectroscopy. The acoustic signals are generated with an optical parametric oscillator (OPO) having a tuning range from 1500 to 3500 nm. In order to record the acoustic wave on the same side as the exciting laser pulse (backward mode), an infrared transparent pressure transducer was developed. The effective attenuation coefficients of cartilage and chicken breast were determined in a range between 1860 and 1940 nm. The minimum absorption or effective attenuation coefficient that could be measured with the presented method was 10 cm1, limited by the detector sensitivity of 1.68% signal change per bar. The maximum measurable coefficient was about 1000 cm1, limited by temporal broadening of the acoustic signals due to the finite pulse duration (6 ns) of the OPO. Optoacoustic infrared spectroscopy is shown to be suitable for on-line noninvasive, in vivo tissue characterization. © 2000 American Institute of Physics. 
+
+infrared spectroscopy
+photoacoustic spectroscopy
+biological techniques

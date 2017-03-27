@@ -1,0 +1,14 @@
+We have found that various Mn oxides have the universal resistivity and thermopower in the high temperature limit. The resistivities and thermopowers of all the samples go toward constant values of 7±1	m©
+cm and 79±3	¼V/K, which are independent of carrier density and crystal structures. We propose that the electric conduction occurs in a highly localized way in the high temperature limit, where the exchange of entropy and charge occurs in the neighboring Mn3+ and Mn4+ ions. © 2004 American Institute of Physics. 
+
+calcium compounds
+manganese compounds
+copper compounds
+praseodymium compounds
+lithium compounds
+magnetoresistance
+entropy
+thermoelectric power
+carrier density
+electrical conductivity
+exchange interactions (electron)

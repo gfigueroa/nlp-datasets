@@ -1,0 +1,15 @@
+InxGa1xAs/AlyGa1yAs/AlzGa1zAs asymmetric step quantum-well middle wavelength (35 ¼m) infrared detectors are fabricated. The components display photovoltaic-type photocurrent response as well as the bias-controlled modulation of the peak wavelength of the main response, which is ascribed to the Stark shifts of the intersubband transitions from the local ground states to the extended first excited states in the quantum wells, at the 35.3 ¼m infrared atmospheric transmission window. The blackbody detectivity (Dbb) of the detectors reaches to about 1.0×1010
+cm
+Hz1/2/W at 77 K under bias of ±7 V. By expanding the electron wave function in terms of normalized plane wave basis within the framework of the effective-mass envelope-function theory, the linear Stark effects of the intersubband transitions between the ground and first excited states in the asymmetric step well are calculated. The obtained results agree well with the corresponding experimental measurements. © 2001 American Institute of Physics. 
+
+infrared detectors
+III-V semiconductors
+semiconductor quantum wells
+quantum well devices
+indium compounds
+gallium arsenide
+aluminium compounds
+Stark effect
+blackbody radiation
+effective mass
+wave functions

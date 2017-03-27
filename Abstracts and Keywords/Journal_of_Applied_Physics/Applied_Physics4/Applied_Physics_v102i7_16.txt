@@ -1,0 +1,4 @@
+The influence of storage in three different commonly used solvents on the stability of bottom-contact organic field-effect transistors (OFETs) using poly(3-hexylthiophene)-2,5-diyl (P3HT) as the active layer was studied. It is demonstrated that the immersion in a nonpolar solvent, cyclohexane, caused the devices to degrade rapidly. In contrast, the immersion of the devices in two polar solvents, acetone and water, did not significantly affect the performance of these OFETs for periods as long as 20h. Due to the significantly extended device stability in comparison with that in ambient air, de-ionized water might be a convenient storage medium for P3HT OFETs during device fabrication if a temporary isolation from ambient atmosphere is required.
+
+field effect transistor circuits
+organic semiconductors

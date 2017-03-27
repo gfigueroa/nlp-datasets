@@ -1,0 +1,7 @@
+A combined photon scanning tunneling and shear-force microscope has been developed to investigate the optical field distribution in a planar waveguide splitter and a multibranch mode mixer. The optical intensity distribution just above the surface of a planar waveguide is mapped with subwavelength resolution by a tapered optical fiber that probes the evanescent field. Simultaneously, the topography of the waveguide is recorded with subnanometer accuracy using a constant-distance feedback system based on shear-force detection with a tuning fork sensor. The experimental field patterns are quantitatively compared with field patterns simulated with the two-dimensional finite difference beam propagation method and amode solver. Good quantitative agreement between experiment and simulation is obtained. Moreover, the experiment reveals several details in the field distribution that results from incoupling conditions, mask imperfections, waveguide edges, and surface roughness. The surface effects in the optical field distribution are introduced by the use of the constant-distance feedback system. © 2001 American Institute of Physics.
+
+optical planar waveguides
+optical beam splitters
+scanning tunnelling microscopy
+atomic force microscopy
+surface topography

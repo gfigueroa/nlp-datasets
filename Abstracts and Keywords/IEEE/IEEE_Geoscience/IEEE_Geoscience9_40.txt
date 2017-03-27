@@ -1,0 +1,7 @@
+In this paper a method based on the Particle Swarm Optimization (PSO) algorithm is presented for tuning Power System Stabilizer (PSS) parameters. In the proposed method, based on the optimization of a suitable objective function, optimal values for PSS controlling parameters including lead-lag compensator time constants as well as the controller gain are calculated. The employed objective function is the damping ratio of eigenvalues corresponding to system critical modes obtained from the analysis of the linearized model of system around the operating point. Controllable and critical modes of the system are identified using modal controllability and observability criteria. The proposed algorithm is applied to a single machine power system and for various operating conditions. Simulation results prove the capability of the proposed algorithm in damping improvement of power system.
+
+controllability
+observability
+particle swarm optimization
+power system stabilizer
+root locus

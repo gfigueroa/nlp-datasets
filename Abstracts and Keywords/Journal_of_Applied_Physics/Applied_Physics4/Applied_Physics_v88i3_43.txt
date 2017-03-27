@@ -1,0 +1,14 @@
+A Monte Carlo analysis of bipolar transport and voltage fluctuations in a p+-Si/n-Si0.7Ge0.3 heterojunction and in a p+n Si homojunction under different operation regimes is presented. Comparison of the spectral density of voltage fluctuations at low frequency, SV(x,0), between both structures reveals the strong effect of the SiGe layer on the noise behavior in the heterojunction. Alloy scattering hinders the electron mobility enhancement expected from the removal of valley degeneracy in the SiGe layer. Despite this mobility reduction, the greater accumulation of carriers in the low-doped region supported by the valence band discontinuity reduce SV(x,0) in the heterojunction for a given average voltage. This study also reveals the impact of hot carriers on noise performance in the quasisaturation regime of both diodes. © 2000 American Institute of Physics. 
+
+silicon
+Ge-Si alloys
+semiconductor materials
+elemental semiconductors
+semiconductor diodes
+p-n heterojunctions
+p-n junctions
+Monte Carlo methods
+semiconductor device noise
+semiconductor device models
+carrier mobility
+hot carriers

@@ -1,0 +1,8 @@
+Integrating a battery energy storage system (BESS) with a solar photovoltaic (PV) system or a wind farm can make these intermittent renewable energy sources more dispatchable. This paper focuses on the development of a control strategy for optimal use of the BESS for this purpose. The paper considers a rule-based control scheme, which is the solution of the optimal control problem defined, to incorporate the operating constraints of the BESS, such as state of charge limits, charge/discharge current limits, and lifetime. The goal of the control is to have the BESS provide as much smoothing as possible so that the renewable resource can be dispatched on an hourly basis based on the forecasted solar/wind conditions. The effectiveness of this control strategy has been tested by using an actual PV system and wind farm data and it is shown that the BESS can indeed help to cope with variability in wind's and solar's generation.
+
+Battery energy storage system (BESS)
+closed loop optimal control
+dispatchability
+photovoltaic (PV) system
+rule-based control
+wind energy

@@ -1,0 +1,15 @@
+The epitaxial interfaces of Si/Pd2Si, Si/NiSi2, and, to a lesser extent, Si/PtSi have been investigated by transmission electron microscopy using crosssectional specimens. Direct lattice imaging was used to image the Si/Pd2Si and the Si/NiSi2 interfaces. The Si/Pd2Si interface was found to be rather smooth on a macroscopic scale but rough on a atomic scale, whereas the opposite is true for the Si/NiSi2 interface. A twinning relationship between NiSi2 and {111} Si has been observed. The Si/PtSi interface is very rough on a macroscopic scale. Interface dislocations are present in the Pd and Nisilicide cases. No evidence for an amorphous interfacial layer has been obtained.
+
+INTERFACES
+TRANSMISSION ELECTRON MICROSCOPY
+SILICON
+DATA
+EPITAXY
+PALLADIUM SILICIDES
+NICKEL SILICIDES
+PLATINUM SILICIDES
+CRYSTAL LATTICES
+IMAGES
+TWINNING
+DISLOCATIONS
+AMORPHOUS STATE

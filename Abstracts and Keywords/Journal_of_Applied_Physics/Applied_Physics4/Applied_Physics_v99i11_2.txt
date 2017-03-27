@@ -1,0 +1,9 @@
+A Monte Carlo analysis of hot electron noise properties of bulk n-type GaAs in crossed electric and magnetic fields is presented. Effects due to the nonparabolicity of the conduction band are properly taken into account by means of a local parabolic approximation. Stochastic properties of electron transport are investigated by computing the velocity autocorrelation function as well as the spectral density of its fluctuations. It is found that these functions are significantly affected by the presence of the magnetic field and exhibit signatures of nonparabolicity and of occurrence of intervalley scattering between nonequivalent valleys. At suitable electric field strengths noise is lowered in a wide range of frequencies with a simultaneous decreasing of its total power.
+
+gallium arsenide
+III-V semiconductors
+hot carriers
+Monte Carlo methods
+noise
+conduction bands
+stochastic processes

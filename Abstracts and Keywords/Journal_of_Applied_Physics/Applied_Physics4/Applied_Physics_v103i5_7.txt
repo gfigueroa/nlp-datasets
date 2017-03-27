@@ -1,0 +1,9 @@
+The effect of frequency upconversion (UC) was investigated in 0.05 and 2.00mol	% Er2O3 doped in ZrO2 nanocrystals prepared by a sol-emulsion-gel process. Laser excitation at 1.426¼m produced UC luminescence at < 0.800, < 0.525, < 0.550, and < 0.660¼m corresponding to Er3+ transitions ’, ’, ’, and ’, respectively. The role played by excited state absorption and energy transfer mechanisms in the UC process was analyzed using rate equations for Er3+ energy level populations. The energy transfer rate between pairs of Er3+ ions (+’+) was determined from comparison between theoretical predictions and experimental data.
+
+europium
+excited states
+nanostructured materials
+nanotechnology
+photoluminescence
+sol-gel processing
+zirconium compounds

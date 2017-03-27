@@ -1,0 +1,12 @@
+Solid-state spin filters consisting of ultrathin ferromagnetic layers can be used as convenient spin polarimeters. A few years ago, a good sensitivity was demonstrated using a Pd/Fe bilayer deposited onto a n-type ozonized GaAs substrate, the spin detector being operated around 800eV primary energy. From the analysis of the experimental data, a spin-dependent transport scheme is proposed. This provides keys for the practical development of spin filters in the keV range, an energy domain which is well suited for application, and opens perspectives in the study of hot-electron transport in metals.
+
+palladium
+iron
+ferromagnetic materials
+magnetic thin films
+spin polarised transport
+Fermi level
+polarimeters
+interface states
+electronic density of states
+interface magnetism

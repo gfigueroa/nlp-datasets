@@ -1,0 +1,18 @@
+A flashlamp of the relaxation type with dissymmetrical thoriated tungsten electrodes is described for generation of intense electrical and light pulses of width as short as 1 ns at high repetition rates. Comprehensive data on the dependence of emission spectra, intensity, and pulse shape on operating parameters as pressure, electrode gap distance, and polarity are presented. The results provide a useful guide for users as well as information on the physics of low ionized plasmas.
+
+FLASH TUBES
+HYDROGEN MOLECULES
+EMISSION SPECTRA
+LIGHT SOURCES
+VISIBLE RADIATION
+EXTREME ULTRAVIOLET RADIATION
+ELECTRODES
+SPARK GAPS
+RELAXATION
+WEAKLY IONIZED GASES
+NS RANGE
+OPERATION
+TUNGSTEN
+FABRICATION
+DESIGN
+PULSE GENERATION

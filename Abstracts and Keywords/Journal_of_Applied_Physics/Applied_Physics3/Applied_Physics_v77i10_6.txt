@@ -1,0 +1,10 @@
+A quantummechanical theory of hole transport in SiO2 is developed based on modeling of the oxide as an array of timedependent ´function potential well distribution. Holes undergo a variable range hopping transport which is dispersive in nature. The oxide, being an insulator, involves a maximum cutoff phonon frequency of 10141015 s1. The Schrödinger equation is solved along with the Poisson equation using a piecewise linear internal field. The theory is applied to metaloxidesemiconductor structures subjected to a short radiation pulse. © 1995 American Institute of Physics.
+
+SILICON OXIDES
+AMORPHOUS STATE
+HOPPING
+HOLES
+TRANSPORT THEORY
+SCHROEDINGER EQUATION
+POISSON EQUATION
+MOS JUNCTIONS

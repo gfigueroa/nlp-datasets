@@ -1,0 +1,6 @@
+Parameters related to pore-space structure of the trabeculae in cancellous bone are difficult to determine quantitatively, but they can be important to characterize changes induced in bone by diseases such as osteoporosis. We present two nuclear magnetic resonance (NMR) methods to measure the internal porosity Ætrab of the trabeculae, based on two different measurements of the fraction of intratrabecular and intertrabecular pore-space in animal femur samples. These procedures have been developed within the more general framework of the NMR studies for fluids in porous media. In the first method we use the ratio between the amount of collagen (solid-like) 1H and that of the fluids in the samples. In the second, which can be applied only on defatted and water saturated samples, we use the distributions of longitudinal relaxation times. The Ætrab values obtained are constant for porosity Æ of the samples over the range 40%70%, with each method giving Ætrab=(29±4)%, which is consistent with the only data available, the porosity of related cortical bone. The traditional parameter bone volume fraction is simply given by (1Æ)/(1Ætrab). © 2004 American Institute of Physics. 
+
+biomedical NMR
+porosity
+bone
+diseases

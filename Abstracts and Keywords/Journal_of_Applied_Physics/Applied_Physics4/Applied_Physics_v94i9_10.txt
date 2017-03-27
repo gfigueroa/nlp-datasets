@@ -1,0 +1,9 @@
+We have determined the thicknesses of naturally and chemically grown oxides on HF-cleaned silicon surfaces in ambient air and in NH4OH/H2O2/H2O solution, respectively, using spectroscopic ellipsometry. The naturally grown oxide thickness versus air-exposure time plots yield a rate constant of 3.5±0.5	Å/decade in ambient air. Chemical oxidation occurs immediately upon immersing the sample in the chemical solution and leaves the sample surface terminated with <6	Å of a chemical oxide. Photoreflectance intensity is found to be strongly dependent on such surface processing, and results are explained by the different degree of surface (interface) states. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+oxidation
+surface states
+photoreflectance
+ellipsometry
+surface cleaning

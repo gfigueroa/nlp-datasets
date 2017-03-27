@@ -1,0 +1,13 @@
+Effects of the substitution of nontransition metal Al on phase transition, crystal structures, and magnetic properties of Nd3(Fe,Ti)29-type intermetallics have been systematically investigated by means of x-ray diffractions, time-of-flight powder neutron diffraction, and magnetic measurements. Rietveld analyses of x-ray diffraction patterns indicate that Nd3Fe27.5xTi1.5Alx compounds mainly crystallize in Nd3(Fe,Ti)29-type structure (A2/m space group) when x } 1.5, but the main phase was replaced by Th2Zn17-type structure (Rm space group) when x&gt;1.5. The lattice parameters a, b, c, and unit cell volume V of 3:29 phase in Nd3Fe27.5xTi1.5Alx increase linearly with the substitution of Al. The site distributions of Ti and Al atoms were determined by refining the powder neutron diffraction data and it was found that Ti atoms prefer to occupy 4i1, 4i2, and 4g sites with the largest number of Fe neighbors while Al atoms prefer to take 4i4 and 8j4 sites with the largest number of rare earth neighbors. The Curie temperature of Nd3Fe27.5xTi1.5Alx increases monotonously while the saturated magnetization decreases almost linearly with increasing Al content (x } 1.5).
+
+neodymium alloys
+iron alloys
+titanium alloys
+aluminium alloys
+X-ray diffraction
+neutron diffraction
+solid-state phase transformations
+crystal structure
+lattice constants
+Curie temperature
+magnetisation

@@ -1,0 +1,12 @@
+The photoluminescence (PL) wavelength of highpurity 0.5¼mthick metalorganic vaporphase epitaxy In1xGaxAs/InP was measured at room temperature (RT) as a function of composition. The relaxed mismatch of these coherently strained layers was between 0.25% and +0.13%, corresponding to x=0.503  0.448. The composition was determined by xray diffraction (XRD) using a fourcrystal monochromator. Extremely narrow XRD linewidths as a function of layer thickness are reported. The PL peak wavelength »p at RT of exactly latticematched InGaAs is 1668 nm, corresponding to a band gap Eg=731 meV. The bowing parameter of the strainfree Eg(x) relation is c=0.494. The measured »p vs x relation agrees well with the strainfree Eg(x) corrected by the hydrostatic part of the strain energy. From lineshape analysis of RT and 77 K PL spectra it is found that the spectra of strained layers contain two lines in accordance with the valence band splitting under uniaxial strain. The conditions for a reliable determination of the compositional homogeneity of large InGaAs wafers by a mapping of »p are given; e.g., a variation ”x=8.7×103 over a 2 in. wafer is found. 	
+
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+INDIUM PHOSPHIDES
+VPE
+PHOTOLUMINESCENCE
+CHEMICAL COMPOSITION
+LATTICE PARAMETERS
+XRD
+WAVELENGTHS
+TERNARY COMPOUNDS

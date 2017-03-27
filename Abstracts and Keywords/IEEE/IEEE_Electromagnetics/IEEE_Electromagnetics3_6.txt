@@ -1,0 +1,6 @@
+We are developing an innovative low noise borehole radar system that is designed for a single borehole providing 3D imaging capabilities. Harsh and changing operating environments are challenges to the electronic design. Low noise systems are particularly sensitive to operating conditions. After a brief introduction, testing and calibration methods are introduced. Included are new measurement results and figures depicting the practical results achieved so far.
+
+calibration
+data acquisition
+directional borehole radar
+test signal

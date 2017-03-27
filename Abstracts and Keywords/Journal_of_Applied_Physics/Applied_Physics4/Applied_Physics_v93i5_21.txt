@@ -1,0 +1,7 @@
+The present article describes the energy evaluation of bubble generation and shock wave emission by laser focusing in liquid nitrogen at 78 K. By adjusting the ambient pressures to 164.9 kPa which corresponds to an overpressure, ”p, of 58.8 kPa, the threshold energy for bubble generation can be investigated. When the energy level of a laser beam at the focus exceeds an irradiance threshold, optical breakdown occurs, followed by a series of high-speed phenomena such as plasma formation, shock wave emission, and vapor bubble generation. It is found that at a threshold laser energy there is some probability of a cavitation bubble being generated whose extent tends to decrease with increasing ”p. For an incident laser energy larger than the energy capable of forming cavities with 100% probability, a cavitation bubble is inevitably generated and its maximum size tends to increase with the incident laser energy. The cavitation bubble energy EB reaches about 26% of the consumed laser energy, which is the energy substantially dissipated at the focus, fluctuating between 20% and 30% and independent of the overpressure. The shock wave energy Es is estimated by solving a nonlinear wave equation and calculated as about 35% of the consumed laser energy. Consequently, for liquid nitrogen, the conversion rate of absorbed laser energy to mechanical energy, EB+Es, is calculated as 55%65%. © 2002 American Institute of Physics. 
+
+nitrogen
+cavitation
+bubbles
+laser beam effects
+shock waves

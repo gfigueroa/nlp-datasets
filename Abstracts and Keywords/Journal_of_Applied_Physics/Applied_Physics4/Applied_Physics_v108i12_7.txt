@@ -1,0 +1,17 @@
+We present a comprehensive investigation of the low-field hole mobility in strained Ge and III-V (GaAs, GaSb, InSb, and In1xGaxAs) p-channel inversion layers with both SiO2 and high-∫ insulators. The valence (sub)band structure of Ge and III-V channels, relaxed and under biaxial strain (tensile and compressive) is calculated using an efficient self-consistent method based on the six-band k≈p perturbation theory. The hole mobility is then computed using the KuboGreenwood formalism accounting for nonpolar hole-phonon scattering (acoustic and optical), surface roughness scattering, polar phonon scattering (III-Vs only), alloy scattering (alloys only) and remote phonon scattering, accounting for multisubband dielectric screening. As expected, we find that Ge and III-V semiconductors exhibit a mobility significantly larger than the universal Si mobility. This is true for MOS systems with either SiO2 or high-∫ insulators, although the latter ones are found to degrade the hole mobility compared to SiO2 due to scattering with interfacial optical phonons. In addition, III-Vs are more sensitive to the interfacial optical phonons than Ge due to the existence of the substrate polar phonons. Strainespecially biaxial tensile stress for Ge and biaxial compressive stress for III-Vs (except for GaAs)is found to have a significant beneficial effect with both SiO2 and HfO2. Among strained p-channels, InSb exhibits the largest mobility enhancement. In0.7Ga0.3As also exhibits an increased hole mobility compared to Si, although the enhancement is not as large. Finally, our theoretical results are favorably compared with available experimental data for a relaxed Ge p-channel with a HfO2 insulator.
+
+compressive strength
+gallium alloys
+gallium arsenide
+germanium
+hole mobility
+indium compounds
+insulators
+inversion layers
+MIS structures
+perturbation theory
+scattering
+SCF calculations
+surface roughness
+tensile strength
+valence bands

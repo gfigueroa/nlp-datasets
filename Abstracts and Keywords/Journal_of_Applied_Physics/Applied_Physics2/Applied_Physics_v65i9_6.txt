@@ -1,0 +1,19 @@
+The kinetics of interfacial chemical reaction noise at sodium amalgam, NaI in propylene carbonate, and aqueous NaNO3 contacts to Na²3 alumina are examined by determining the time, temperature, and sodium ion concentration dependence of the noise. The rate constant for the reaction noise is smallest for the NaI propylene carbonate contacts, 2.0×104 s1, increases with sodium concentration, and has a thermal activation energy of 0.5 eV. Contact noise is interpreted in terms of ionic shot noise at the interface during the buildup of the electric double layer.
+
+chemical reactions
+signaltonoise ratio
+sodium iodides
+propylene
+carbonates
+interfaces
+aqueous solutions
+sodium nitrites
+sodium compounds
+aluminium oxides
+time dependence
+temperature dependence
+quantity ratio
+electric contacts
+sodium ions
+activation energy
+sodium

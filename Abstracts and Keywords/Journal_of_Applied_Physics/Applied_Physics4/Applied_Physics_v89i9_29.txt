@@ -1,0 +1,9 @@
+The boundaries of the diamond deposition region in the CHO (Bachmann) atomic phase composition diagram have been reproduced successfully for 38 different C, H, and O containing gas mixtures using the CHEMKIN computer package, together with just two criteriaa minimum mole fraction of methyl radicals [CH3] and a limiting value of the [H]/[C2H2] ratio. The diamond growth/no-growth boundary coincides with the line along which the input mole fractions of C and O are equal. For every gas mixture studied, no-growth regions are found to coincide with a negligible (&lt;1010) mole fraction of CH3 radicals, while for gas mixtures lying within the diamond growth region the CH3 mole fraction is <107. Each no-growth’diamond growth boundary is seen to be accompanied by a 23 order of magnitude step in CH3 mole fraction. The boundary between diamond and nondiamond growth is less clearly defined, but can be reproduced by assuming a critical, temperature dependent [H]/[C2H2] ratio (0.2, in the case that Tgas=2000
+K) that reflects the crucial role of H atoms in the etching of nondiamond phases. The analysis allows prediction of the composition process window for good quality diamond growth for all stable input gas mixtures considered in this study. © 2001 American Institute of Physics. 
+
+diamond
+CVD coatings
+gas mixtures
+carbon
+hydrogen
+oxygen

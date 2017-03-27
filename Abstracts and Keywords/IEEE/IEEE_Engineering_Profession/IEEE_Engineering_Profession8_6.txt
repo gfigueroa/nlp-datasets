@@ -1,0 +1,7 @@
+The World Wide Web provides a unique opportunity to connect robots to the Internet. Easy to use Web interfaces enable people all over the world to control mobile robots and to monitor their operation from the distance. To be successful in real-world applications, Internet based robots require a high degree of autonomy and local intelligence based on multi agents systems to deal with the restricted bandwidth and arbitrary transmission delay of the Internet. In a first part of this paper, we are presenting the main interests of such a remote control. In second part, we are describing some existing applications. In a third part, we are presenting our remote control architecture based on multi agents systems and we are proposing a software architecture to realize such remote control over internet. An illustration of our architecture is given in an application of control of an autonomous mobile robot.
+
+Internet
+Multi agents systems
+Remote control
+control architecture
+software architecture

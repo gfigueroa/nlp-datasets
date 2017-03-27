@@ -1,0 +1,5 @@
+We have investigated the effects of temperature on the photoluminescence (PL) characteristics of excitons in ordinary stacked quantum dots (QDs) and QD chains in which QDs are interconnected along the growth direction. While the temperature dependence of the PL intensity of both samples is similar, that of the PL decay time is different. In addition, the PL decay times of both samples monitored at 150 K clearly depend on the detection energy. This result is attributed to lateral QD coupling. From these results, in ordinary stacked QDs, the exciton transfer owing to the lateral coupling is the only cause of the increase in the PL decay time. On the other hand, in QD chains, the interconnection along the chain direction as well as the lateral coupling is considered to cause the change in the PL characteristics and induce the extremely long exciton lifetime.
+
+excitons
+photoluminescence
+quantum dots

@@ -1,0 +1,12 @@
+The Mo(001) stepped surface was self-assembled on Al2O3(1-102) substrate by molecular beam epitaxy. Ni80Fe20 films were subsequently deposited on the fresh Mo(001) stepped surface at growth temperature (Tg) between 30 and 400
+°C. Interestingly, in the low Tg regime (&lt;100
+°C) the Ni80Fe20 films were grown as (001) single crystal while high Tg (&gt;300
+°C) results in the growth of Ni80Fe20 (110) quadcrystal. For low Tg samples, the easy axis of the Ni80Fe20 film is directed parallel to the underlying Mo step edge direction and the M-H loop along the hard axis reveals a two-step magnetic moment rotation process. In contrast, the high Tg samples display isotropic-like magnetic behavior with a much enhanced coercivity due likely to the surface roughness effect. We conclude that the growth temperature of Ni80Fe20 film on the Mo stepped surface plays an important role on the crystal structure and magnetic anisotropy of Ni80Fe20 film. © 2001 American Institute of Physics. 
+
+Permalloy
+magnetic anisotropy
+magnetic epitaxial layers
+surface magnetism
+magnetic moments
+coercive force
+surface topography

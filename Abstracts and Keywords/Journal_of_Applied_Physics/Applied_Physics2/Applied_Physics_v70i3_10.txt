@@ -1,0 +1,21 @@
+Magnetic and recording properties of CoPtCr on Mo and W underlayers were investigated and compared to Cr underlayers over the sputtering pressure range of 324 mTorr. Normalized media transition noise decreases with increasing pressure in all cases, and the reduction can be attributed to a reduced intergrain exchange coupling due to isolation of the magnetic grains. In the lowpressure regime, the transition noise increases with increasing atomic mass of the underlayer, Cr&lt;Mo&lt;W. This trend can be attributed to the growth features of the underlayers which change from a partially coupled structure for Cr to closely coupled grains for W. We attribute this behavior in the lowpressure regime to increasing mobility with increasing atomic mass since the energy flux of the sputtered atoms and the backreflected argon atoms increases with the atomic mass of the target. In the highpressure regime, all underlayers produce an isolated grain morphology in the magnetic layer, which indicates sufficient thermalization of the atoms during the transport, resulting in similarly low values of transition noise.
+
+COBALT ALLOYS
+PLATINUM ALLOYS
+CHROMIUM ALLOYS
+FILMS
+MOLYBDENUM
+TUNGSTEN
+SUBSTRATES
+MAGNETIC PROPERTIES
+MAGNETIC STORAGE DEVICES
+SIGNALTONOISE RATIO
+SPUTTERING
+PRESSURE DEPENDENCE
+MEDIUM VACUUM
+ATOMS
+REST MASS
+GRANULAR MATERIALS
+RECORDING SYSTEMS
+THICKNESS
+PRESSURE GRADIENTS

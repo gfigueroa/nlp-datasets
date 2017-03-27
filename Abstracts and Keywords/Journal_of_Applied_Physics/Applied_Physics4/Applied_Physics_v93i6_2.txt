@@ -1,0 +1,13 @@
+The relative role of the residual strain and dimensional scaling on heat transport in nanostructures is investigated by molecular dynamics simulations of a model Lennard-Jones solid. It is observed that tensile (compressive) strains lead to a reduction (enhancement) of the lattice thermal conductivity. A nonhydrostatic strain induces thermal conductivity anisotropy in the material. This effect is due to the variation with strain of the stiffness tensor and lattice anharmonicity, and therefore of the phonon group velocity and phonon mean free path. The effect due to the lattice anharmonicity variation appears to be dominant. The size effect was studied separately in unstrained thin films. Phonon scattering on surfaces leads to a drastic reduction of the thermal conductivity effect which is much more important than that due to strain in the bulk. It is suggested that strain may be used to tailor the phonon mean free path which offers an indirect method to control the size effect. © 2003 American Institute of Physics. 
+
+quantum wells
+superlattices
+thermal conductivity
+internal stresses
+size effect
+molecular dynamics method
+Lennard-Jones potential
+anharmonic lattice modes
+phonons
+Debye temperature
+Gruneisen coefficient

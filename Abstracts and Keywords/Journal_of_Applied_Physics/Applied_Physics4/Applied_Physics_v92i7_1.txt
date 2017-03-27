@@ -1,0 +1,16 @@
+We measured the infrared reflectance of thin films of degenerate n-type InxGa1xAs and n-InAsyP1y as a function of doping for compositions that correspond to x=0.53, 0.66, and 0.78 (band gaps of 0.74, 0.60, and 0.50 eV, respectively) and y=0.00, 0.31, 0.52, and 0.71 (band gaps of 1.34, 1.00, 0.75, and 0.58 eV, respectively). We then used the Drude theory and Hall measurements to determine the effective electron mass for these samples, and checked the results using Raman spectroscopy. The effective electron mass for these compositions increases abruptly as a function of free-electron density and converges at 5×1019 electrons/cm3. Consequently, it is difficult to attain plasma edges at wavelengths shorter than 5 ¼m using these materials, and the plasma edge is nearly independent of composition at large electron density levels. Results from similar studies on InP, InAs, and GaAs have been compiled and compared with our data. It is clear that the Kane band model offers an accurate description of the conduction-band nonparabolicity. © 2002 American Institute of Physics. 
+
+gallium arsenide
+indium compounds
+III-V semiconductors
+semiconductor thin films
+effective mass
+infrared spectra
+reflectivity
+energy gap
+optical constants
+Hall effect
+Raman spectra
+electron density
+semiconductor plasma
+conduction bands

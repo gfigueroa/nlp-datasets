@@ -1,0 +1,5 @@
+We present the results of theoretical and experimental investigation on the effect of radiative cooling (heating) of a thin layer with the pulsed semiconductor source of galvanomagnetic negative (positive) interband luminescence. The kinetics of layer cooling (heating), as well as subsequent layer temperature relaxation, is studied. Allowance is made for the attendant radiative heating of the layer related to Joule heating of the source. We analyze how the magnitude and rate of layer cooling depend on the parameters of the semiconductor source, cooled layer, and optical filter. The effect dependence on controlling electric and magnetic fields is investigated. It is shown that, having chosen the optimal parameter values, one can exert efficient radiative control over the passive object temperature by decreasing or increasing it relative to the ambient. © 2002 American Institute of Physics. 
+
+semiconductors
+cooling
+luminescence

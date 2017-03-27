@@ -1,0 +1,5 @@
+ We present a technique that allows a user to look beyond occluding objects in arbitrary 3D graphics scenes. In order to control this form of virtual x-ray vision, the user interactively cuts holes into the occluding geometry. The user can rapidly define a cutout shape or choose a standard shape and sweep it over the occluding wall segments to reveal what lies behind them. Holes are rendered in the correct 3D perspective as if they were actually cut into the obstructing geometry, including border regions that give the cutout shape physical depth, simulating penetration of a physical wall that possesses some generic thickness.
+
+ Cut-away view
+ interactive cutout
+ x-ray vision

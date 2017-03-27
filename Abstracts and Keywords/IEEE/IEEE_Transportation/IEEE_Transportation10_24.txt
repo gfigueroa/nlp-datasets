@@ -1,0 +1,7 @@
+Load forecasting is an important component in the economic and secure operation of the restructured power system energy management. This paper presents the use of an artificial neural network to half hourly load forecasting and a day ahead load forecasting application. By using historical weather, load consumption, price and calendar data, a multi-layer feed forward (FF) neural network trained with Back propagation (BP) algorithm was developed for the half hour and a day ahead forecasting. The developed algorithm for a day ahead forecasting has been tested with IIT Roorkee campus data. The half hourly forecasting algorithm has been tested with Australian market data. The results of ANN forecasting model is compared with the conventional Multiple Regression (MR) forecasting model.
+
+Artificial Neural Network (ANN)
+Multiple Regression (MR)
+Selection of variables
+Short Term Load Forecasting
+electricity market

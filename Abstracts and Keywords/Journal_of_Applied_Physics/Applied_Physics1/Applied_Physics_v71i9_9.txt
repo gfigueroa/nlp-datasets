@@ -1,0 +1,13 @@
+Reaction of Au with GaAs in conventional NiAuGe/GaAs ohmic contacts results in rough interfaces, poor surface morphology, and deterioration at the edges of films. To improve these properties, ohmic contacts to GaAs were formed by heating initially discrete layers of volatile arsenic and nonvolatile gallium under a GeAu alloy thin film. The layer sequence beginning at the air interface was AuGe(1500 Å)/As(500 Å)/Ga(400 Å), all evaporated onto chemically cleaned (100) GaAs surfaces, followed by annealing at 400 to 650	°C in forming gas. A regrown layer of highly doped GaAs was formed between the AuGe layer and the original GaAs substrate. This layer was characterized by scanning Auger electron spectroscopy, scanning electron microscopy, and electrical measurements. The carrier concentration of the regrown GaAs layer was estimated from fourpoint probe data to be in the range of 1019 to 1020 cm3. The specific contact resistivity for the AuGe/As/Ga/GaAs regrown at 550	°C for 10 min was J1.5×105 ©	cm2, which is similar to values measured for AuGe/GaAs annealed at 450	°C for 2 min. The mechanism of GaAs regrowth and ohmic contact formation are discussed.
+
+GALLIUM ARSENIDES
+OHMIC CONTACTS
+ALLOYING EFFECTS
+DOPED MATERIALS
+NTYPE CONDUCTORS
+GOLD ALLOYS
+GERMANIUM ALLOYS
+THIN FILMS
+BINARY ALLOYS
+ANNEALING
+AUGER ELECTRON SPECTROSCOPY

@@ -1,0 +1,12 @@
+Pulsedlaser cleaning of metal optical surfaces at cryogenic temperatures is modeled. Temperature dependencies of the substrate thermal and optical parameters were taken into account since they are quite sensitive to thermal variations at very low temperatures. Calculations of the heating of clean substrates were done to determine damage thresholds as well as computations of the heating of absorbing and transparent films on the substrates to ascertain the film removal process. The theoretical results are compared to available experimental measurements.
+
+OPTICAL COATINGS
+METALS
+SURFACE CLEANING
+LASERRADIATION HEATING
+MATHEMATICAL MODELS
+TEMPERATURE RANGE 1365 K
+HEAT TRANSFER
+GOLD
+BERYLLIUM
+PULSES

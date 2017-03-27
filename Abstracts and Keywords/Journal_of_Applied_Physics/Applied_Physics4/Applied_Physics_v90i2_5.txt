@@ -1,0 +1,10 @@
+We have investigated the formation energies and electronic structure of native defects in ZnO by a first-principles plane-wave pseudopotential method. When p-type conditions are assumed, the formation energies of donor-type defects can be quite low. The effect of self-compensation by the donor-type defects should be significant in p-type doping. Under n-type conditions, the oxygen vacancy exhibits the lowest formation energy among the donor-type defects. The electronic structure, however, implies that only the zinc interstitial or the zinc antisite can explain the n-type conductivity of undoped ZnO. © 2001 American Institute of Physics.
+
+zinc compounds
+II-VI semiconductors
+wide band gap semiconductors
+defect states
+vacancies (crystal)
+interstitials
+antisite defects
+pseudopotential methods

@@ -1,0 +1,11 @@
+With better than 1% control of alloy composition, binary alloy films CoxNi1x/Cu(100) with x}10% were prepared for the study of the spin-reorientation transition at variations of composition, thickness, and temperature. Only the films with a Co concentration less than 10% reveal the spin-reorientation with the film thickness. The critical thickness for the spin-reorientation transition was shifted drastically from 7.5 to 17.5 monolayers for a Co concentration variation from 0% to 8%. These findings indicate a strong influence of the composition on the magnetoelastic anisotropy. A kind of temperature-driven spin-reorientation from in-plane to perpendicular with increasing temperature was also found. © 2001 American Institute of Physics.
+
+cobalt alloys
+nickel alloys
+copper
+magnetic thin films
+ferromagnetic materials
+spin dynamics
+magnetic transitions
+magnetoelastic effects
+magnetic anisotropy

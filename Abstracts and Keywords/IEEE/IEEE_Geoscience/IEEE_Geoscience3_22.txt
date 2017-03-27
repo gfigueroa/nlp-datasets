@@ -1,0 +1,6 @@
+A very important task in electricity market operation is to forecast day ahead market price in order to implement adequate bidding strategies. In this direction, this paper proposes a technique to forecast day-ahead electricity prices based on the mean reverting process, using a properly fitted model. Results from the electricity market of Italy during year 2009 are finally reported.
+
+Electricity Market
+price forecasting
+risk management
+stochastic programming

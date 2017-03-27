@@ -1,0 +1,11 @@
+A recent paper having to do with numerical calculations of the temperature distribution in field emitters is criticized for an error in the governing heatconduction equation used to formulate the finite difference algorithm. The correct form of the equation is derived retaining a possibly significant nonlinear term in the final formula.
+
+FIELD EMISSION
+LASERRADIATION HEATING
+ION EMISSION
+ION MICROSCOPY
+SAMPLE PREPARATION
+OPERATION
+TEMPERATURE DISTRIBUTION
+THERMAL DIFFUSION
+THERMAL CONDUCTION

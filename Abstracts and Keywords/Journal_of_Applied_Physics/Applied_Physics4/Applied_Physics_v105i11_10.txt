@@ -1,0 +1,10 @@
+In search of novel detectors of electromagnetic radiation at terahertz frequencies, field-effect transistors (FETs) have recently gained much attention. The current literature studies them with respect to the excitation of plasma waves in the two-dimensional channel. Circuit aspects have been taken into account only to a limited degree. In this paper, we focus on embedding silicon FETs in a proper circuitry to optimize their responsivity to terahertz radiation. This includes impedance-matched antenna coupling and amplification of the rectified signal. Special attention is given to the investigation of high-frequency short-circuiting of the gate and drain contacts by a capacitive shunt, a common approach of high-frequency electronics to induce resistive mixing in transistors. We theoretically study the effect of shunting in the framework of the DyakonovShur plasma-wave theory, with the following key results. In the quasistatic limit, the capacitive shunt induces the longitudinal high-frequency field needed in the FETs channel for resistive mixing. In the non-quasi-static case, the shunts role is taken over by plasma waves. Rectification can then be described as distributed self-mixing in the transistors channel. Based on such considerations as well as other circuit-related aspects, we arrive at a rational design for FET-based detectors of terahertz radiation, and implement the first monolithically integrated 0.65 THz focal-plane array including antennas and amplifiers on a single silicon die. The measured performance data compare well with the theoretical predictions.
+
+elemental semiconductors
+field effect transistors
+focal planes
+integrated optics
+optical design techniques
+rectification
+silicon
+terahertz wave detectors

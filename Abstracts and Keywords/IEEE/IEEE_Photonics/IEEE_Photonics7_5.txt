@@ -1,0 +1,5 @@
+Investigation of As2 adsorption on(111) and (001) GaAs srfaces was carried out using Monte Carlo simulation. The program package SilSim3D-7Comp taking into account chemical reactions on the surface in multicomponent systems and reconstruction of (001) surface was developed. Dependences of arsenic coverage on energy parameters of the model system were examined.
+
+GaAs
+Monte-Carlo
+adsorption

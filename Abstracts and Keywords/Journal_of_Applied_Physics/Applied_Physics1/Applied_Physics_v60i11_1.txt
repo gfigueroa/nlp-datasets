@@ -1,0 +1,10 @@
+To calculate the head field distribution first we pursue the Poisson integral approach3 using Fourier series method retaining up to 200 terms in the series. The parameters related to the rational approximation to the field equation for both ring heads and polekeeper heads have been obtained and tabulated. The idea of the Poisson integral is then extended, denoted as Poisson integral II, to enable us to calculate the head fields both within and without the head gap regions. The first Poisson integral II involves eight parameters and enables us to calculate head fields in reasonably good agreement with the direct Fourier series calculations. The second Poisson integral II involves a selfconsistent calculation, which is reducible to the rational field equations with five parameters and is highly capable of producing head field distribution anywhere with great accuracy at low spacings. Results of a comparison with a finite element method calculation are excellent.
+
+MAGNETIC TAPES
+RECORDING SYSTEMS
+MAGNETIC STORAGE DEVICES
+MAGNETIC CORES
+MAGNETIC DISKS
+MAGNETS
+FOURIER ANALYSIS
+ANALYTICAL SOLUTION

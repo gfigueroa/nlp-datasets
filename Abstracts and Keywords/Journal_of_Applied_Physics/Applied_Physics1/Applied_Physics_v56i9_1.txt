@@ -1,0 +1,13 @@
+The hydrogen absorption in the CaCu5type compound ThFe5 was studied by xray diffraction, magnetic measurements, and 57Fe Mössbauer spectroscopy. Hydrogen absorption leads to a 6% increase of the unit cell volume without change in crystal structure. There is only a slight change in magnetic properties. The 57Fe Mössbauer spectra of the ternary hydride are characterized by relatively sharp lines, an increase in hyperfine field, and an increase in isomer shift relative to the uncharged compound. The increase in 57Fe isomer shift invariably observed after charging of Fe compounds with hydrogen is explained in terms of the Miedemavan der Woude model. The relatively low tendency of the hydride of ThFe5 to decompose (disproportionate) as compared to some other ThFe hydrides is explained on the basis of a kinetic approach.
+
+IRON
+XRAY DIFFRACTION
+MAGNETIZATION
+MAGNETIC PROPERTIES
+ISOMERIC TRANSITIONS
+MOESSBAUER EFFECT
+SPECTRAL SHIFT
+DECOMPOSITION
+ADSORPTION
+HYDROGEN
+SORPTIVE PROPERTIES

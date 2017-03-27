@@ -1,0 +1,9 @@
+A model is developed to describe the migration mechanism of monomers during the lithographic preparation of polymer gratings by ultraviolet polymerization. The model is based on the FloryHuggins theory: a thermodynamic theory that deals with monomer/polymer solutions. During the photoinduced polymerization process, monomer migration is assumed to be driven by a gradient in the chemical potential rather than the concentration. If the chemical potential is used as the driving force, monomer migration is not only driven by a difference in concentration, or volume fraction, but also by other entropic effects such as monomer size and the degree of crosslinking of the polymer network, which is related to the ability of a polymer to swell. Interaction of the monomers with each other or the polymer is an additional energetic term in the chemical potential. The theoretical background of the model is explained and results of simulations are compared with those of nuclear microprobe measurements. A nuclear microprobe is used to determine the spatial monomer distribution in the polymer gratings. It is shown that two-way diffusion is expected if the monomers are both difunctional and have the same size. In some cases, if one monomer is considerably smaller than the other, it can eventually have a higher concentration in the illuminated regions, even when it has a lower reactivity. The model is used to simulate the grating formation process. This results in a calculated distribution of the monomer volume fractions as a function of position in polymer gratings. An excellent agreement with the nuclear microprobe measurements is obtained. © 2004 American Institute of Physics. 
+
+polymer solutions
+optical polymers
+polymerisation
+lithography
+entropy
+chemical potential
+reaction-diffusion systems

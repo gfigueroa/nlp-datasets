@@ -1,0 +1,7 @@
+A widely supported effort to modernize the United States power system has led to an engineering initiative variously known as &#x2018;smart grid&#x2019;, &#x2018;intelligrid&#x2019;, &#x201C;gridwise&#x201D;, &#x201C;modern grid&#x201D;, &#x201C;perfect grid&#x201D;, &#x201C;future grid&#x201D;, and similarly denominated programs. These efforts generally include features of: self-healing from power disturbance events, enabling active participation by consumers, assuring resilient operation against physical and cyber attack, delivering power quality for digital economy, accommodating all generation and storage options, enabling new products, and optimizing the use of assets. This paper addresses the question as to where engineers needed to address the smart grid will be educated, how they should be trained, and to what levels of comprehension in integrative fields they must be educated.
+
+Smart grid
+power engineering curriculum
+power engineering education
+power engineering resources
+power engineering workforce

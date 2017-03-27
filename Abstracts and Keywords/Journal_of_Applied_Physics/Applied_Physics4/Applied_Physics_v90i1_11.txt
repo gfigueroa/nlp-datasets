@@ -1,0 +1,19 @@
+Structural and electrical properties of SrRuO3 thin films grown at various temperatures (Td) were investigated. The films grew epitaxially when Tdg350
+°C. The dependences of crystallinity, conductivity, and carrier density on temperature were less pronounced when Td was above 400
+°C, whereas crystallinity and conductivity were markedly degraded with decreasing Td when Tdf400
+°C. Owing to this unique dependence, SrRuO3 thin film deposited at Td as low as 400
+°C showed an acceptable quality for application to electronic devices. For the SrRuO3/SrTiO3/SrRuO3 trilayered capacitor structure, when the top SrRuO3 layer was grown at 400
+°C, a symmetric permittivityvoltage curve was observed and the SrRuO3 permittivity value of 340 õ0 was obtained. When the top SrRuO3 layer was grown at 600
+°C, the permittivity value of SrTiO3 decreased and even a slight asymmetry of the permittivityvoltage curve could ever be observed. This indicates that the lower temperature deposition of SrRuO3 thin film causes less interface degradation. © 2001 American Institute of Physics. 
+
+strontium compounds
+ferroelectric materials
+ferroelectric thin films
+pulsed laser deposition
+crystal structure
+epitaxial layers
+electrical conductivity
+carrier density
+ferroelectric capacitors
+permittivity
+interface structure

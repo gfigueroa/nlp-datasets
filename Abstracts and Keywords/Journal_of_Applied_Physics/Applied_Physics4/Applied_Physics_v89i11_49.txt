@@ -1,0 +1,7 @@
+The spin-dependent electron inelastic mean free path (IMFP) in transition metals is studied in the energy range 550 eV above the Fermi level. It is shown that the spin-dependent IMFP is simply related to the number of holes in both d spin subbands, whatever the detail of the d-band structure. This analysis allows us to disentangle the different scattering channels. Many experimental determinations of the spin-dependent part of the electron scattering cross section, from several teams, are analyzed in the framework of this model. The strong energy dependence of the exchange matrix element is clearly evidenced. © 2001 American Institute of Physics. 
+
+transition metals
+Fermi level
+electron mean free path
+exchange interactions (electron)
+electron spectra

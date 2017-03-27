@@ -1,0 +1,7 @@
+Caching query results is one efficient approach to improving the performance of XML management systems. This entails the discovery of frequent XML queries issued by users. In this paper, we model user queries as a stream of XML query pattern trees and mine the frequent query patterns over the query stream. To facilitate the one-pass mining process, we devise a novel data structure called DTS to summarize the pattern trees seen so far. By grouping the incoming pattern trees into batches, we can dynamically mark the active portion of the current batch in DTS and limit the enumeration of candidate trees to only the currently active pattern trees. We also design another summary data structure called ECTree that provides for the incremental computation of the frequent tree patterns over the query stream. Based on the above two constructs, we present two mining algorithms called XQSMinerI and XQSMinerII. XQSMinerI is fast, but it tends to overestimate, while XQSMinerII adopts a filter-and-refine approach to minimize the amount of overestimation. Experimental results show that the proposed methods are both efficient and scalable and require only small memory footprints.
+
+Frequent pattern mining
+Pattern tree
+Stream mining
+Tree mining
+XML query pattern

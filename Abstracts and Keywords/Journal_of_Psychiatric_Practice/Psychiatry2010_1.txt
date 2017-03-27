@@ -1,0 +1,12 @@
+Background: Metabolic encephalopathy is one of the crucial manifestations of carnitine deficiency. In psychiatric patients, low serum carnitine levels may result from chronic valproate therapy. Despite the widespread use of valproate in psychiatry, neither carnitine deficiency nor supplementation has been studied in a psychiatric population. Objective: To describe clinical outcomes in hospitalized psychiatric patients with documented hypocarnitinemia who were receiving oral levocarnitine supplementation. Method: Retrospective chart review. Results: In 38 patients with hypocarnitinemia, a low-dose oral levocarnitine supplementation, in association with comprehensive psychiatric therapy, did not result in any adverse psychiatric or medical outcomes, and was associated with overall improved behavioral, cognitive, and motor functioning. Initially all patients had some degree of cognitive impairment, but after correction of carnitine serum levels, scores on the Mini-Mental State Examination (MMSE) improved in most of the patients (mean improvement 5.5 points, <em>P</em> &lt;0.0001), and normalized in 11 cases. This allowed a correction of the diagnosis in 8 of 14 patients who had initially been diagnosed with dementia. African-American patients achieved significantly lower serum carnitine levels and MMSE scores than Caucasian patients with comparable therapy. Conclusion: We hypothesize that correction of carnitine depletion, either by levocarnitine supplementation or by valproate dose reduction, may enhance recovery from hypocarnitinemia-associated encephalopathy in psychiatric patients. Our findings also suggest that ethnic traits may affect carnitine bioavailability as well as cognitive outcomes in this clinical context. Further studies of carnitine metabolism and supplementation in psychiatric patients are warranted. (<em>Journal of Psychiatric Practice</em> 2010;16:514) 
+
+L-carnitine
+carnitine deficiency
+psychiatric patients
+valproic acid
+valproate
+encephalopathy
+dementia
+race
+ethnicity
+Mini-Mental State Examination

@@ -1,0 +1,4 @@
+In this paper we define and analyse the notion of a Privacy Impact Assessment (PIA), with reference to various examples that have been carried out in different countries. We compare and contrast such approaches and examine current trends, including the potential role - and limitations - of technology in future assessments.
+
+Privacy
+privacy impact assessments

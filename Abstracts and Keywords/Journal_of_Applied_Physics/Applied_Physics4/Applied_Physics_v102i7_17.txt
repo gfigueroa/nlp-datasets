@@ -1,0 +1,5 @@
+Nonlinear simulations are presented to analyze the influences of the electron beam and the magnetic field parameters on the output power of a large-orbit coaxial-waveguide cyclotron autoresonance maser (CARM) amplifier. It is found that the guiding-center spread of the relativistic electrons has negligible impact on the output power due to the small field change felt by the large-orbit electrons. The electron-beam velocity spread and energy spread substantially decrease the output power, because these spreads directly affect the beam-wave interaction through the Doppler term and the relativistic cyclotron frequency term in the cyclotron resonance condition. However, this adverse effect may be offset by properly tapering the operating magnetic field. The output power is sensitive to both the slope and the amplitude of the tapered magnetic field. Nonlinear simulation demonstrates the feasibility that a large-orbit coaxial-waveguide CARM amplifier can be expected to provide output power with several megawatts, ultrahigh gain, and good bandwidth in the millimeter and submillimeter wavelength ranges.
+
+coaxial waveguides
+cyclotron masers
+electron beams

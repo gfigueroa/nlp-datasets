@@ -1,0 +1,10 @@
+The influences of high energy ion irradiation on the Ni/nSi Schottky barrier are discussed as a function of irradiation fluence. The variations in Schottky diode parameters are studied by using in situ current-voltage characterization in a fluence range between 1×109 and 1×1013ions/cm2. The ion irradiation results in an increase of Schottky barrier height from a value of 0.59eV for unirradiated diode to 0.68eV after irradiation at a fluence of 1×1013ions/cm2. A decrease of the leakage current by about two orders of magnitude was observed after ion irradiation. These results are interpreted in terms of the ion irradiation induced defects inside the materials.
+
+elemental semiconductors
+ion beam effects
+leakage currents
+nickel
+Schottky barriers
+Schottky diodes
+semiconductor-metal boundaries
+silicon

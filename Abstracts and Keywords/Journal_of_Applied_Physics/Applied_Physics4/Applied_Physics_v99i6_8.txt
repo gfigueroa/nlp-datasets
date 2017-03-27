@@ -1,0 +1,13 @@
+High-speed rewritable digital versatile discs based on GeSnSb phase-change materials may show poor archival-overwrite performance. We have related this to a decrease in the crystalline reflectivity. Transmission electron microscopy images indicate that this is connected to morphology changes of the material. Materials optimization by addition of dopants such as Se or Te can stabilize the crystalline reflectivity and, as a result, improve the archival-overwrite performance to within the specifications for optical recording.
+
+tin compounds
+germanium compounds
+phase change materials
+reflectivity
+transmission electron microscopy
+surface morphology
+doping
+selenium
+tellurium
+storage media
+optical disc storage

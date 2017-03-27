@@ -1,0 +1,6 @@
+Semantic Web services pledge the automation of core Web service tasks such as discovery, selection, composition, and execution. They are supposed to enable seamless interoperation between systems, whereby human intervention is kept at a minimum. Nevertheless, semantic Web services have not yet been adopted by the industry. Within the scope of this work, we discuss the correspondence of the viewpoints of experts from academia and industry with respect to current challenges and the latest achievements in the field of Semantic Web service research. Our primary objective is to identify technology locks between industrial needs and research activities. Additionally, we take a first step toward the production of a technology roadmap with respect to Semantic Web services. The discourse is based on the findings of a comprehensive Delphi study which was conducted in early 2007. In order to also assess Semantic Web services in an organizational context, we occasionally focus on the technologypsilas application as basis of integration architectures.
+
+Delphi study
+Semantic Web services
+integration architectures
+technology roadmap

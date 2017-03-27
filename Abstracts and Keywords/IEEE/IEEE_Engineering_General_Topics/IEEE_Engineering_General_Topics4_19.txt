@@ -1,0 +1,6 @@
+Polyketide synthases are multifunctional enzymes that involve the synthesis of pigments and mycotoxin which is normally known as citrinin. The gene involving citrinin biosynthesis especially, acyltransferase in polyketide synthase gene of M. purpureus TISTR 3541 isolated in Thailand as the wild type and the ultrasonic induced mutation of this wild type as the mutants (generations 1-4, G1-G4) was investigated. The transcription level of the acyltransferase in M. purpureus TISTR 3541 wild type (G<sub>0</sub>) and of mutants (G<sub>1</sub> to G<sub>4</sub>) was studied by using RT-PCR with the actin gene as a positive control. The nucleotide sequences were analyzed by using Automated DNA Sequencing. Results showed that the nucleotide sequences of acyltransferase in polyketide synthase gene of M. purpureus mutants and wild type were absolutely similar. When the sequence comparison was aligned, the obtained nucleotide sequence showed 100% sequence similarity with pksCT gene that involving in citrinin biosynthesis in M. purpureus. The RT - PCR results were in agreement with real - time PCR analysis which was showed that shape intact DNA band of M. purpureus TISTR 3541 G<sub>2</sub> more than other generations resulting in the better acyltransferase expression than others.
+
+DNA sequencing
+Monascus purpureus
+acyltransferease
+polyketide synthase

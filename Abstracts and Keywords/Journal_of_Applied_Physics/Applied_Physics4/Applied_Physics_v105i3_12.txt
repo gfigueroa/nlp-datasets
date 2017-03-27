@@ -1,0 +1,7 @@
+The electrical characteristics of pentacene-based organic thin film transistors (OTFTs) using poly(methyl methacrylate) (PMMA) as the gate dielectric are reported. Uniform pinhole-free and crack-free films of PMMA could be obtained by spin coating, with a lower limit of thickness of about 150 nm. The effects of the insulator thickness and channel dimensions on the performance of the devices have been investigated. Leakage currents, which are present in many polymeric gate dielectrics, were reduced by patterning the pentacene active layer. The resulting devices exhibited minimal hysteresis in their output and transfer characteristics. Optimized OTFT structures possessed a field-effect mobility of 0.33cm2	V1	s1, a threshold voltage of 4 V, a subthreshold slope of 1.5 V/decade, and an on/off current ratio of 1.2×106.
+
+carrier mobility
+conducting polymers
+leakage currents
+organic semiconductors
+thin film transistors

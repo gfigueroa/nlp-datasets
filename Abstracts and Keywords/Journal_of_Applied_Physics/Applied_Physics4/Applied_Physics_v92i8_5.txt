@@ -1,0 +1,13 @@
+We have investigated the magnetic and superconducting properties of a nanostructured ferromagnet/superconductor hybrid system, consisting of a Co layer with a square array of rectangular holes (antidots), covered with a thin continuous (nonperforated) superconducting Pb layer. The Co film with an antidot lattice shows a strong in-plane magnetic shape anisotropy determined by the array configuration and the rectangular shape of the antidots. Remanent domain structures in the uncovered Co antidot array are imaged at room temperature by magnetic force microscopy. The superconducting pinning properties of the hybrid ferromagnet/superconductor system are studied for different magnetic states of the Co antidot lattice. We demonstrate that the contribution to the superconducting pinning potential caused by the stray field from the domain walls is stronger than that arising from the periodic modulation due to the underlying antidot lattice. © 2002 American Institute of Physics. 
+
+cobalt
+lead
+ferromagnetic materials
+magnetic thin films
+magnetic domains
+magnetic anisotropy
+remanence
+superconducting thin films
+flux pinning
+nanostructured materials
+magnetic force microscopy

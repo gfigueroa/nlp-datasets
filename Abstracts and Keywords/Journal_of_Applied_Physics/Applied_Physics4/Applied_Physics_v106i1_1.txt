@@ -1,0 +1,9 @@
+The fantastic ferroelectric response to the magnetic field observed in Ca3CoMnO6 compound, where the ferroelectricity is driven by the collinear magnetism, is investigated by using Monte Carlo simulation based on a one-dimensional elastic Ising model. The microscopic domain structures of spins and ionic displacements are evaluated at different temperatures under different external magnetic fields. It is revealed that the up-up-down-down (‘‘““) spin domains clamped with the domains of ionic displacement are responsible for the exotic ferroelectric behavior upon different magnetic fields in the low temperature range.
+
+calcium compounds
+cobalt compounds
+electric domains
+Ising model
+magnetic domains
+magnetoelectric effects
+Monte Carlo methods

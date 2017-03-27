@@ -1,0 +1,12 @@
+Binary SnAg solders with varying amounts of Ag (0.5, 2.0, and 3.5 wt	%) were reacted with Cu under bump metallurgy (UBM) which was electroplated with bis-sodium sulfopropyl-disulfide additive, and the characteristics of Kirkendall void formation at the solder joints were investigated. The results indicate that the propensity to form Kirkendall voids at the solder joint decreased with the Ag content. Subsequent Auger electron spectroscopy analyses showed that Ag dissolved in the Cu UBM reduced the segregation of S to the Cu3Sn/Cu interface, which suppressed the nucleation of Kirkendall voids at the interface.
+
+Auger electron spectra
+chemical interdiffusion
+copper alloys
+electroplating
+nucleation
+segregation
+silver alloys
+solders
+tin alloys
+voids (solid)

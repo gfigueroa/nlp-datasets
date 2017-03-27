@@ -1,0 +1,13 @@
+Quantum molecular dynamic (QMD) simulations are introduced to study the thermophysical properties of liquid deuterium under shock compression. The principal Hugoniot is determined from the equation of states, where contributions from molecular dissociation and atomic ionization are also added onto the QMD data. At pressures below 100 GPa, our results show that the local maximum compression ratio of 4.5 can be achieved at 40 GPa, which is in good agreement with magnetically driven flyer and convergent-explosive experiments; At the pressure between 100 and 300 GPa, the compression ratio reaches a maximum of 4.95, which agrees well with recent high power laser-driven experiments. In addition, the nonmetal-metal transition and optical properties are also discussed.
+
+Brillouin zones
+compressibility
+deuterium
+dissociation
+equations of state
+ionisation potential
+liquid structure
+metal-insulator transition
+molecular dynamics method
+reflectivity
+shock wave effects

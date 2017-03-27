@@ -1,0 +1,33 @@
+We report on the occurrence of high temperature ferromagnetism (FM) in ZnO nanoparticles (NPs) doped with Co-atoms. ZnO NPs of two different initial sizes are doped with 3% and 5% Co using ball milling and FM is studied at room temperature and above. X-ray diffraction and high-resolution transmission electron microscopy analysis confirm the absence of metallic Co clusters or any other phase different from würtzite-type ZnO. UV-visible absorption studies show change in band structure and photoluminescence studies show green emission band at 520 nm indicating incorporation of Co-atoms and presence of oxygen vacancy defects, respectively in ZnO lattice. Micro-Raman studies of doped samples shows defect related additional bands at 547 and 574cm1. XRD and Raman spectra provide clear evidence for strain in the doped ZnO NPs. The field dependence of magnetization (M-H curve) measured at room temperature exhibits the clear FM with saturation magnetization (Ms) and coercive field (Hc) of the order of 37 emu/g and 260 Oe, respectively. Temperature dependence of magnetization (M-T) measurement shows sharp ferromagnetic to paramagnetic transition with a high Curie temperature (Tc) of < 800K for 3% Co doped ZnO NPs. It is found that doping at 5% and higher concentration does not exhibit a proper magnetic transition. We attempt to fit the observed FM data with the bound magnetic polaron (BMP) model involving localized carriers and magnetic cations. However, calculated concentration of the BMPs is well below the typical percolation threshold in ZnO. We believe that observed high temperature FM is primarily mediated by defects in the strained NPs. ZnO NPs of lower initial size show enhanced FM that may be attributed to size dependent doping effect.
+
+ball milling
+band structure
+bound states
+cobalt
+coercive force
+Curie temperature
+doping profiles
+ferromagnetic materials
+ferromagnetic-paramagnetic transitions
+II-VI semiconductors
+localised states
+magnetic impurities
+magnetic particles
+magnetic polarons
+metal clusters
+nanomagnetics
+nanoparticles
+paramagnetic materials
+particle size
+percolation
+photoluminescence
+Raman spectra
+semiconductor doping
+semimagnetic semiconductors
+transmission electron microscopy
+ultraviolet spectra
+vacancies (crystal)
+visible spectra
+wide band gap semiconductors
+X-ray diffraction
+zinc compounds

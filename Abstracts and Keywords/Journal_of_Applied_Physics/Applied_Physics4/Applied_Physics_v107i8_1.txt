@@ -1,0 +1,20 @@
+Microdisk and microstadium resonators based on InGaAsP multiquantum-well laser structures were fabricated by focused ion beam employing Ga+ ion milling and polishing followed by selective chemical etching. Stadia with very good morphology and with different eccentricities were fabricated for the study of optical mode selection. Light emission was investigated by infrared microscopy and spectroscopy. The measured emission pattern and the spectra agree well with a simple model based on the summation over periodic orbits or scar modes. The dependence of the scar mode emission with the resonator eccentricity was modeled based on the difference between photon lifetime and orbital round-trip time. The mode selection dependence with the surrounding index of refraction is suggested for chemical sensing applications.
+
+etching
+focused ion beam technology
+gallium arsenide
+gallium compounds
+III-V semiconductors
+indium compounds
+infrared spectra
+laser cavity resonators
+laser modes
+microcavities
+micro-optics
+milling
+optical fabrication
+polishing
+quantum well lasers
+refractive index
+semiconductor quantum wells
+surface morphology

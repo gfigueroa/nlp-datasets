@@ -1,0 +1,19 @@
+We report on measurements of the ac losses of YBa2Cu3O7x conductors on technical substrates. The samples are taken from conductors 1 m long produced with an ion beam assisted deposition step in the manufacturing process yielding 1 cm wide conductors with critical currents approaching 100 A at 77.4 K. The losses due to combinations of ac transport currents and ac magnetic fields were measured calorimetrically and the results compared to theoretical estimates. While the results of our measurements are similar to the theoretical estimates, there are some important differences in the qualitative behavior. © 2000 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+ion beam assisted deposition
+critical current density (superconductivity)
+eddy current losses
+superconducting thin films
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HIGH-TC SUPERCONDUCTORS
+AC LOSSES
+MAGNETIC FIELDS
+ELECTRIC CONDUCTORS
+ELECTRIC CURRENTS
+CALORIMETRY
+COATINGS

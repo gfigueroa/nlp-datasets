@@ -1,0 +1,10 @@
+Improved diffraction efficiency was observed in holograms stored in disordered conjugated polymer/glass composites. The conjugated polymers used were alkoxy substituted poly(phenylenevinylne) analogs and the glass matrices were zirconia-organosilica xerogels. Investigation of the mechanism of hologram formation revealed evidence of a photochromic process consisting of light induced photo-oxidation (bleaching) of the embedded conjugated polymer resulting in the formation of an absorption grating and a phase grating. Investigation of the hologram formation revealed that the process was oxygen dependent. Oxygen removal increases hologram formation time by more than an order of magnitude and halves the total hologram efficiency. The oxygen dependence was also highly correlated with photobleaching of the samples and beam interaction of the writing beams. The chemical transformations upon photobleaching were shown by infrared and Raman spectroscopy to involve chain scission and oxidation of the polymer at the vinylic position of the conjugated polymer. Film preparation of the composites was optimized showing a tenfold improvement in the holographic properties compared to our previous results. The optimized treatment method allows for a high, &gt;20%, diffraction efficiency, ·, to be obtained for the 2.5-¼m-thick polymer/glass films. Light sensitivity was compared for several polymer/glass composites and was correlated to the absorption curves and holographic diffraction efficiency showing that the new composites and film preparation techniques are promising for holographic materials sensitive in the blue and ultraviolet spectral regions. A method of information fixing by preventing oxygen entry to the composite film resulted in a fourfold increase of the erasure time. These findings suggest that holograms can be fixed for a long term by nonoxygen permeable coating, applied after hologram formation. © 2000 American Institute of Physics. 
+
+composite materials
+polymers
+glass
+optical saturable absorption
+oxidation
+Raman spectra
+infrared spectra
+holographic gratings

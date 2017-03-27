@@ -1,0 +1,14 @@
+Surface kinetic processes and postgrowth treatments make the vertical and lateral interdiffusions of the Al atoms across GaAs/AlGaAs heterointerfaces inevitable. The increased degree of the Al interdiffusion has been clearly reflected in the spectra of dark current and photocurrent from postgrowth-treated GaAs/AlGaAs multiple-quantum-well-based infrared photodetectors. The Al diffusion length can be characterized from the cutoff wavelength of the photodetector. It has been shown that by including only the increased density of thermal-excited carriers, the theoretical expectation of the dark current enhancement due to the Al diffusion is more than what was observed experimentally. The discrepancy between carrier-density consideration and measurements about the dark current is explained by further considering the enhanced alloy scattering due to the Al interdiffusion and thus the reduced mobility of carriers at excited states. Furthermore, the reduced carrier mobility explains the decreased photocurrent while theoretically the absorption coefficient increases following the increases of the Al diffusion length. © 2000 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+quantum well devices
+semiconductor quantum wells
+infrared detectors
+chemical interdiffusion
+photoconductivity
+dark conductivity
+photodetectors
+carrier density
+carrier mobility

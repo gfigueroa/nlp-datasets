@@ -1,0 +1,14 @@
+We report laser oscillation at 481 nm when pumping a Tm3+-doped fluorozirconate fiber by two Raman-generated signals at 1117 and 1175 nm. A superior efficiency was achieved when pumping with both lines. For example, the conversion efficiency was 20% when pumping with 83 mW of 1117 nm and reached 33% when copumping with 29 mW of 1175 nm. As higher powers of the copumping signal were applied, a powerful amplified spontaneous emission at < 790nm started to compete with 481 nm. The slope efficiency evolved from 16% to 48% when pumping with a simpler, noncontrolled Raman source that provided a single- to multi wavelength evolving spectrum.
+
+zirconium compounds
+barium compounds
+lanthanum compounds
+aluminium compounds
+sodium compounds
+thulium
+fibre lasers
+fluorescence
+photoluminescence
+optical pumping
+Raman spectra
+spontaneous emission

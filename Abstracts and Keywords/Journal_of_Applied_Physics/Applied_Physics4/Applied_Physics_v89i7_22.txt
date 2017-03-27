@@ -1,0 +1,7 @@
+Superconductorinsulatornormal metalinsulatorsuperconductor (SINIS) and SINS2NIS junctions (here S, I, and N denote superconductor, insulator, and normal metal, respectively) were fabricated using Nb/Al technology and characterized at low temperatures. It is shown that asymmetric SINIS junctions with different transparency of the two tunnel barriers may have higher critical voltages than analogous symmetric junctions at 4.2 K. Also, SINS2NIS junctions were fabricated and investigated. If the thickness of the S2 layer is very thin, these junctions have quasiparticle currentvoltage characteristics similar to those of conventional SINIS junctions at 4.2 K, but the Josephson critical current densities, and therefore, the critical voltages, are much higher than the corresponding values for conventional SINIS junctions. © 2001 American Institute of Physics.
+
+critical current density (superconductivity)
+superconducting junction devices
+niobium
+aluminium
+quasiparticles

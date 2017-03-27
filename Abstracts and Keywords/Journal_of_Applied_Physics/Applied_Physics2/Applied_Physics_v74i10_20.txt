@@ -1,0 +1,12 @@
+Trap filling measurements on the midgap level in GaAs are carried out under constant capacitance conditions in the emission process. The transient voltage after application of a filling pulse is measured with varying capture time. A method to obtain the distance »1 from the depletion edge to the crossover point of the midgap level and the quasiFermi level is proposed for the case of high trap concentration. Fitting the calculated »1 to the experimental results enables estimation of the capture cross section of electron in the midgap level.
+
+GALLIUM ARSENIDES
+TRAPS
+FERMI LEVEL
+MEASURING METHODS
+ELECTRON CAPTURE
+ENERGY LEVELS
+CAPACITANCE
+CROSS SECTIONS
+PULSES
+DEPLETION LAYERS

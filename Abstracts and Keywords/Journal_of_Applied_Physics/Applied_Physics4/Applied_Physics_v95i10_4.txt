@@ -1,0 +1,9 @@
+ZnO-channel thin-film transistor (TFT) test structures are fabricated using a bottom-gate structure on thermally oxidized Si; ZnO is deposited via RF sputtering from an oxide target, with an unheated substrate. Electrical characteristics are evaluated, with particular attention given to the extraction and interpretation of transistor channel mobility. ZnO-channel TFT mobility exhibits severe deviation from that assumed by ideal TFT models; mobility extraction methodology must accordingly be recast so as to provide useful insight into device operation. Two mobility metrics, ¼avg and ¼inc, are developed and proposed as relevant tools in the characterization of nonideal TFTs. These mobility metrics are employed to characterize the ZnO-channel TFTs reported herein; values for ¼inc as high as 25 cm2/V
+s are measured, comprising a substantial increase in ZnO-channel TFT mobility as compared to previously reported performance for such devices. © 2004 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+wide band gap semiconductors
+thin film transistors
+semiconductor growth
+sputter deposition

@@ -1,0 +1,14 @@
+The transmission matrix approach is generalized to calculate the transmission probability of obliquely incident electrons through arbitrary shape potential profiles. Transmission probability is obtained as a function of the electron energy, the angle of incidence, and the applied voltage across the structure. Applications to electron waveguide and quantum resonant tunneling are outlined. Numerical results are presented for angle dependent resonant tunneling through biased multibarrier GaAsAlxGa1xAs heterostructures. As a consequence, various novel quantum devices, i.e., high speed switch, tunable electron wave filter, and electron wave beam splitter are proposed.
+
+HETEROSTRUCTURES
+TUNNEL EFFECT
+ELECTRON TRANSFER
+POTENTIAL BARRIER
+PROBABILITY
+TRANSFER MATRIX METHOD
+INCIDENCE ANGLE
+WAVEGUIDES
+RESONANCE
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+QUANTIZATION

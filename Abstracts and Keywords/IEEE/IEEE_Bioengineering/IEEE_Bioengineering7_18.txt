@@ -1,0 +1,9 @@
+This article presents a robust method for decoding mental states from non-invasive electroencephalographic signals. We particularly address two issues related to asynchronous Brain-Computer Interfaces (BCIs). First our method based on robust learning goes beyond the usual assumption that subjects perform mental tasks with a constant accuracy along each whole trial. We show that the combination of linear spatial filtering and resampling-based learning increases robustness and classification accuracy. Second the idle state identification issue in BCI is studied. We demonstrate that its explicit definition using data recorded between trials improves mental states decoding. Using dataset 1 of the BCI Competition IV (2008), in which four healthy subjects were involved in an asynchronous BCI experiment, our algorithm is shown to outperform state-of-the-art methods. We hope that questions raised in this paper could help designing robust BCI systems.
+
+Asynchronous Brain-Computer Interface (BCI)
+SABIN
+dimension reduction
+ensemble methods
+idle state
+linear spatial filtering
+resampling

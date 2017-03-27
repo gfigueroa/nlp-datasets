@@ -1,0 +1,10 @@
+The structure, magnetic, and transport properties of La0.5Ca0.5Mn1xMxO3 (0}x}0.1) with M=Ge and Sn have been investigated systematically. A significant lattice expansion is observed in the Sn-doped samples, but not in the Ge-doped ones. At the same time, a substitution of Mn by Ge has little effect on Curie temperature (TC), but increases the metal-insulator transition temperature (TP). In contrast, the TC decreases sharply for Sn doping, while the TP shows an increase for x&lt;0.02 and a decrease for x&gt;0.02. Compared with Ge doping, Sn doping is more effective in destroying the charge-ordered state. The difference in local lattice distortions due to the Ge and Sn doping is believed to be responsible for the present observations. © 2000 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+ferromagnetic materials
+crystal structure
+colossal magnetoresistance
+Curie temperature
+metal-insulator transition
+charge-ordered states

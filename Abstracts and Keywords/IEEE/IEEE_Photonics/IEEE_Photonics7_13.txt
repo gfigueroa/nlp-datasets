@@ -1,0 +1,5 @@
+Monte Carlo model of SiO<sub>x</sub> layers annealing and growth was developed. Model layers of stoichiometric SiO<sub>2</sub> with initially randomly distributed components on partially filled diamond-like lattice tends to SiO<sub>4</sub> tetrahedron formation during high-temperature annealing. Chains of tetrahedrons are found to be connected by oxygen atom. Portion of properly coordinated atoms was up to 70%. Presence of excess silicon in SiO<sub>x</sub> layers results in increasing of the portion of properly coordinated oxygen atoms (up to 95%). Starting from 17% of excess silicon nc-Si were created in annealed layer. MC simulation of initial stages of SiO<sub>2</sub> growth during dry oxidation of atomically clean Si(111) surface was carried out taking into consideration silicon monoxide formation and decomposition.
+
+SiOx layer
+nanocluster
+simulation

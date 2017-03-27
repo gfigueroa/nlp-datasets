@@ -1,0 +1,10 @@
+Copper thin films were exposed to a dilute silane mixture at temperatures in the range of 190363	°C. The resulting silicide surface layers were characterized by four-point probe, Rutherford backscattering spectrometry, and x-ray diffraction. A definitive stability regime is observed in which progressively higher copper content phases exist with increasing temperature. Cu3Si, formed in silane, on annealing converts to Cu5Si and eventually to no silicide layer by a silicon diffusion reaction that in an inert ambient drives silicon into underlying copper to form a solid solution. In oxidizing ambients, a similar phenomenon occurs but now silicon also diffuses to surfaces where it oxidizes to form a self-passivating SiO2 layer on surface. These results have important implications governing integration of copper silicide as a passivation layer and silicon hydride based dielectric deposition in copper-based multilevel interconnect in ultralarge scale integration. © 1998 American Institute of Physics. 
+
+copper compounds
+integrated circuit interconnections
+thermal stability
+passivation
+Rutherford backscattering
+annealing
+X-ray diffraction
+chemical interdiffusion

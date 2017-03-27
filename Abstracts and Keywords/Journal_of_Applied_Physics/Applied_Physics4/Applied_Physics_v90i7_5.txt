@@ -1,0 +1,11 @@
+CdTe thin films deposited by close space vapor transport (CSVT) under variable growth conditions and postthermal and chemical treatments were studied by means of photoconductivity measurements in the temperature range of 90300 K. The influences of the deposition temperature gradient, the oxygen content in the growth chamber, and the CdCl2 treatment and chemical etching upon the intergrain barrier height of CSVT polycrystalline CdTe thin films were determined. The grain boundary barrier height (Eb’) as a function of the intensity of the incident light was analyzed, and values of Eb’ under illumination of 100 mW/cm2 (AM1) were obtained in each case. These results are important for improving CdS/CdTe solar cell performance in the near future. © 2001 American Institute of Physics.
+
+cadmium compounds
+II-VI semiconductors
+semiconductor growth
+vapour deposition
+photoconductivity
+semiconductor thin films
+etching
+solar cells
+grain boundaries

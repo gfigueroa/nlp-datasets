@@ -1,0 +1,11 @@
+Over the past 60 years, the Diagnostic and Statistical Manual of Mental Disorders (DSM) has evolved from early efforts to collect statistical information to a modern compendium of mental disorders that can be reliably diagnosed, but have not been validated. Throughout this history, DSM architects have struggled with the seemingly fundamental, but complex question of how to define a mental disorder. Current proposals indicate that a spectrum model of mental illness will be embraced in DSM-5, prompting renewed concern and debate about pathologizing normal existence. While a spectrum view of mental illness may reflect biologic reality and help pave the path towards validated models of psychiatric disorder, diagnostic expansion does have important practical implications and could give rise to problems in clinical work and society at large, including the further sanctioning of a shift from psychiatric treatment to neuroenhancement. Debates about what should or should not be considered a mental illness in DSM-5 are likely to remain unresolved and, in the future, must be framed according to contextual utility. Diagnosis and thresholds of pathology are ultimately value-based so that careful analysis and perhaps even different definitions of disorder may be required to guide decision-making in research, clinical work, and public policy. (<em>Journal of Psychiatric Practice</em> 2010;16:375386). 
+
+Diagnostic and Statistical Manual of Mental Disorders (DSM)
+DSM-5
+normality
+spectrum
+categorical diagnosis
+dimensional diagnosis
+personality disorders
+neuroethics
+neuroenhancement

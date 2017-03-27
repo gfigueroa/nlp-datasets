@@ -1,0 +1,12 @@
+Photoreflectance spectroscopy has been used to study the surface electric field of Si deltadoped GaAs grown by molecular beam epitaxy at a low substrate temperature (230	°C). FranzKeldysh oscillations in the reflectance spectra are observed for samples annealed above 700	°C for 10 min. The deduced surface electric field increases with annealing temperatures and with a decrease in spacer thickness between surface and the deltadoped plane. The evolution of photoreflectance spectra can be explained by the activation of Si donors and Fermi level pinned at surface due to the redistribution of As precipitates. © 1995 American Institute of Physics.
+
+GALLIUM ARSENIDES
+REFLECTION SPECTROSCOPY
+MOLECULAR BEAM EPITAXY
+DOPED MATERIALS
+SILICON ADDITIONS
+FRANZKELDYSH EFFECT
+OSCILLATIONS
+ANNEALING
+SURFACE PROPERTIES
+PRECIPITATES

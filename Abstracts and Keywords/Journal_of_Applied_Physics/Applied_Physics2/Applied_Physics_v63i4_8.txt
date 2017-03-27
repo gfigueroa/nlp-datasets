@@ -1,0 +1,11 @@
+Near orthogonality relations are presented for an inversion algorithm [J. Appl. Phys. 5, 2788 (1986)] utilized in inverting nuclear magnetic resonance relaxation curves to obtain decay rate distributions. These relations are used to determine resolution limitations of this method. Previously reported experimental results which show anomalous magnetization and shifts in the inverted decay rate distributions in porous rocks occurring at 60%80% water saturation may be the result of a surface tension driven disjointing of the water films along the pore walls.
+
+SOLIDFLUID INTERFACES
+NUCLEAR MAGNETIC RESONANCE
+POROUS MATERIALS
+ROCKS
+WATER
+HYDROGEN IONS 1 PLUS
+POROSITY
+MAGNETIZATION
+FLUID FLOW

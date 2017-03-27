@@ -1,0 +1,17 @@
+The current-voltage characteristics of n-GaN/u-AlGaN/n-GaN heterostructure devices are investigated for potential pressure sensor applications. Model calculations suggest that the current decreases with pressure as a result of the piezoelectric effect, and this effect becomes more significant with thicker AlGaN layers and increasing AlN composition. The change in current with pressure is shown to be highly sensitive to the change in interfacial polarization charge densities. The concept is verified by measuring the current versus voltage characteristics of an n-GaN/u-Al0.2Ga0.8N/n-GaN device under hydrostatic pressure over the range of 05kbars. The measured current is found to decrease approximately linearly with applied pressure in agreement with the model results. A gauge factor, which is defined as the relative change in current divided by the in-plane strain, approaching 500 is extracted from the data, demonstrating the considerable potential of these devices for pressure sensing applications.
+
+gallium compounds
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor heterojunctions
+semiconductor thin films
+pressure sensors
+piezoelectric semiconductors
+piezoelectric devices
+high-pressure effects
+electrical conductivity
+piezoelectricity
+chemical analysis
+carrier density
+dielectric polarisation

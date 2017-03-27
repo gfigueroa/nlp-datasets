@@ -1,0 +1,16 @@
+Electron microscopic studies and the electrical properties of Pt contacts on ntype Si annealed by conventional furnace and rapid thermal annealing (RTA) were investigated with scanning electron microscopy, transmission electron microscopy, xray analysis, capacitancevoltage, and deeplevel transient spectroscopy measurements. An incomplete reaction between Pt and Si is observed after furnace annealing at 550	°C due to the presence of oxygen in the ambient. An almost complete reaction between Pt and Si is achieved after silicidation by RTA at 550	°C. An acceptorlike level located 0.11 eV below the conductionband edge with a concentration of 2×1013 cm3 is detected only after furnace annealing at 550	°C. Silicidation by RTA at 550	°C does not introduce traps in the Si band gap.
+
+PLATINUM SILICIDES
+SYNTHESIS
+THIN FILMS
+MORPHOLOGY
+PLATINUM
+SILICON
+NTYPE CONDUCTORS
+ANNEALING
+ELECTRON MICROSCOPY
+CV CHARACTERISTIC
+DLTS
+CHEMICAL REACTIONS
+DEEP ENERGY LEVELS
+OHMIC CONTACTS

@@ -1,0 +1,13 @@
+Timeresolved measurements of the conductivity induced in foils of polyethyleneterephthalate by irradiation with x rays at exposure rates between 280 and 420 R/s and fields between 104 and 4.8×105 V/cm show the occurrence of a maximum of the induced current. This maximum is attributed to the combined effects of trap filling and recombination. The influence of polarization and spacecharge effects was proved to be negligible. Currenttime curves measured at different exposure rates and field strengths were explained satisfactorily by the rate theory of induced conduction.
+
+TEREPHTHALATES
+POLYETHYLENES
+X RADIATION
+ELECTRIC CONDUCTIVITY
+FOILS
+TIME RESOLUTION
+ELECTRIC FIELDS
+TRAPS
+RECOMBINATION
+MATHEMATICAL MODELS
+PHYSICAL RADIATION EFFECTS

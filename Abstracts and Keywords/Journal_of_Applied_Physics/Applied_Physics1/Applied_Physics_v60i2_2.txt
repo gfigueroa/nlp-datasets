@@ -1,0 +1,11 @@
+An apparent contradiction between recent papers by Leiberich and Wolfe [Appl. Phys. Lett. 47, 241 (1985)] and by Milani and Paroli [J. Appl. Phys. 55, 2173 (1984)] on diffusion of hydrogen in magnetic garnets is reconciled. Hydrogen does diffuse in these garnets at temperatures as low as 250	°C even when they are not damaged by ion implantation, but only up to a saturation level of about 0.03 atoms per formula unit.
+
+YIG
+ION IMPLANTATION
+IMPURITIES
+ATOM TRANSPORT
+HYDROGEN
+DIFFUSION
+DEPTH PROFILES
+SATURATION
+HIGH TEMPERATURE

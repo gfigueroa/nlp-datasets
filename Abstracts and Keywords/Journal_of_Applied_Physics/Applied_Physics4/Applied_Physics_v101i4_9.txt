@@ -1,0 +1,10 @@
+The formation and degradation of NiSi films has been studied when elements with a high melting point (W, Ta, and Ti) were added to pure Ni films as an alloying element. In situ techniques were used to characterize the phase stability and the morphological stability of the NiSi layers. Depending on the concentration of the alloying element, two distinct regimes could be distinguished. First, the addition of a small quantity of an alloying element (e.g., &lt;10	vol	%	W) had little impact on the formation of NiSi, but significantly improved the morphological stability. In some cases, the agglomeration temperature was increased by 100	°C. Second, for higher concentrations (e.g., &lt;10	vol	%	W), no crystalline metal rich phases (NixSiywith x&gt;y) could be observed prior to NiSi formation. Furthermore, a significant increase was observed of the apparent activation energy for NiSi formation.
+
+sputter deposition
+X-ray diffraction
+tungsten alloys
+tantalum alloys
+titanium alloys
+nickel alloys
+silicon alloys
+metallic thin films

@@ -1,0 +1,4 @@
+This paper introduces the drive design for the GPS and LCD modules in ship GPS navigation system realized by adopting the embedded processor with an ARM920T kernel and the Linux operating system design. This design adopts GPS module and TFT LCD module. Drive development of the LCD and GPS modules in GPS navigation system is very important. TFT LCD module gives clear display in specific environment, hence its extensive application to GPS navigation system. The development of the GPS-related serial port is also in extensive application. Therefore, this paper puts forward a drive design structure based on LINUX for ship GPS display system.
+
+GPS and LCD module
+Real-time LINUX operating system

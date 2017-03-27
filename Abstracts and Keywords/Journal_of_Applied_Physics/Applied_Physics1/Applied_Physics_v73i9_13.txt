@@ -1,0 +1,12 @@
+Xray emission spectroscopy with highenergy resolution was used for characterizing differences in the valence band of carbon films deposited by ion implantation in various conditions of bombardment and with various substrates, with respect to crystalline diamond and other diamondlike coatings. The obtained results were compared with calculations of the partial density of 2p states in defected diamond, and the nature of point defects in the implanted films could be identified. In addition, xray emission spectra of substrate atoms indicated a chemical interaction at some interfaces.
+
+DIAMONDS
+THIN FILMS
+AMORPHOUS STATE
+XRAY EMISSION ANALYSIS
+ION IMPLANTATION
+VALENCE BANDS
+ENERGYLEVEL DENSITY
+POINT DEFECTS
+CARBON IONS
+KEV RANGE 0110

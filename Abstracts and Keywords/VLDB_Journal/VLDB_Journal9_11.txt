@@ -1,0 +1,6 @@
+When implementing persistent objects on a relational database, a major performance issue is prefetching data to minimize the number of round-trips to the database. This is especially hard with navigational applications, since future accesses are unpredictable. We propose the use of the context in which an object is loaded as a predictor of future accesses, where a context can be a stored collection of relationships, a query result, or a complex object. When an object O's state is loaded, similar state for other objects in O's context is prefetched. We present a design for maintaining context and for using it to guide prefetch. We give performance measurements of its implementation in Microsoft Repository, showing up to a 70% reduction in running time. We describe several variations of the optimization: selectively applying the technique based on application and database characteristics, using application-supplied performance hints, using concurrent database queries to support asynchronous prefetch, prefetching across relationship paths, and delayed prefetch to save database round-trips.
+
+Caching
+Object-oriented database
+Object-relational mapping
+Prefetch

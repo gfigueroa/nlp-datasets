@@ -1,0 +1,8 @@
+We report the graphitization of ultrathin (8 nm) amorphous carbon films on Si(001) by 2 MeV Ar+ ion irradiation at ambient temperature. The resulting graphite films show the 001	 preferred orientation in the film normal direction, but random distribution in the film plane direction. The smooth surface and interface suggest that the activation energy for the graphitization is supplied mostly by the electronic stopping process while Ar+ ions travel through the amorphous carbon film. © 2000 American Institute of Physics. 
+
+carbon
+silicon
+amorphous state
+ion beam effects
+ion-surface impact
+graphitisation

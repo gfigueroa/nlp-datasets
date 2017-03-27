@@ -1,0 +1,15 @@
+Iron nanoparticles were synthesized in situ within the channels of a microchannel glass by differentially pumping across the plate in conjunction with plasma enhanced chemical vapor deposition. The microchannel glass was mounted on a custom designed differentially pumped sample holder, which produced 10 Torr of differential pressure across the 5 ¼m channels. The iron precursor was ferrocene [(C5H5)2Fe]. The composition and structure of the nanoparticles was determined by electron diffraction to be Fe3O4, where oxidation of the nanoparticles occurred upon exposure to air. Transmission electron microscopy revealed the formation of nanoparticles ranging in size from 150 to 960 nm, which are formed from smaller nanoparticles on the order of 510 nm. The large nanoparticles (150960 nm) grow independently of one another and are largely freestanding within the channels, i.e., they are not highly attached to the channel walls or agglomerated. The magnetic signature of the large nanoparticles is consistent with ferrimagnetic Fe3O4. The magnetic hysteresis loops of the particles are reminiscent of superparamagnetic behavior, which would suggest that the magnetic coupling between the 5 and 10 nm nanoparticles is weak. A model for nanoparticle formation based on plasma suspension of the Fe nanoparticles inside the glass channels is proposed. © 2003 American Institute of Physics. 
+
+iron compounds
+nanoparticles
+plasma CVD
+electron diffraction
+organic compounds
+oxidation
+transmission electron microscopy
+particle size
+ferrimagnetic materials
+magnetic hysteresis
+superparamagnetism
+magnetic particles
+glass

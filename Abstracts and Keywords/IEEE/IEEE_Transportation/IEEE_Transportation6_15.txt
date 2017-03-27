@@ -1,0 +1,6 @@
+The batteries in power-assist hybrid electric vehicles (HEVs) are required to operate from a partial-state-of-charge baseline and to provide, and accept charge, for short periods, at very high rates. Under this regime, conventional lead-acid batteries accumulate lead sulfate on the negative plate and fail quickly. This failure mode can be effectively countered by the inclusion of certain forms of carbon at greater concentrations than have been used in the past. So effective is this preventative measure that VRLA batteries benefiting from the inclusion of such carbon have been able to substitute for nickel metal hydride batteries in power assist HEVs with no significant loss in performance.
+
+High-rate partial-state-of-charge
+Lead-acid batteries
+carbon function
+negative plate

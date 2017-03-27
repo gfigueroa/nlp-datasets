@@ -1,0 +1,6 @@
+Logical devices made from nano-scale magnets have many potential advantages - systems should be non-volatile, dense, low power, radiation hard, and could have a natural interface to MRAM. Initial work includes experimental demonstrations of logic gates and wires and theoretical studies that consider their power dissipation. This paper looks at power dissipation too, but also considers the circuitry needed to drive a computation. Initial results are very encouraging and indicate that clocked magnetic logic could - in the worst case - match equivalent low power CMOS circuits and - in the best-case - potentially provide more than 2 orders of magnitude improvement when one considers energy per operation.
+
+QCA
+clocking
+magnetic logic
+nanotechnology

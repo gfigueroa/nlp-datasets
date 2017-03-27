@@ -1,0 +1,10 @@
+A laser tuned into the Doppler wing of an absorption line in a low-pressure gas creates a flux of excited molecules. If these deexcite on the surface of a suspended micrometer-sized particle, internal-to-translational energy conversion produces a recoil force on the micro-particle. This new type of force is investigated in a pilot experiment. As a resonant gas we use HF or CH3F. An odd-in-detuning force on a 20 ¼m diameter probe wire simulating the particle is indeed observed. Possible applications are discussed. © 1997 American Institute of Physics. 
+
+radiation pressure
+molecular collisions
+collision processes
+laser beam effects
+Doppler effect
+excited states
+molecular electronic states
+molecule-surface impact

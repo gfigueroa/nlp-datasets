@@ -1,0 +1,8 @@
+The improved spatial coherence of a synchrotron radiation beam was shown experimentally to stimulate additional diffuse scattering of x rays diffracted from x-ray multilayer mirrors. Although the large-scale (tens of microns) roughness does not affect Bragg diffraction from multilayers, its presence causes phase shifts at the wave packet front. This leads to partial decay of the coherent wave packet and creates additional diffuse scattering. Additional scattering from this mechanism was observed at angles of incidence corresponding to the Bragg and Kiessig maximum angles. The properties of this scattering caused by large-scale roughness, observed due to improved x-ray beam spatial coherence, were shown experimentally to be different from those of diffuse scattering previously reported when the incoming or outgoing angle is equal to the Bragg angle. Typical breaks in the diffuse scattering intensity due to the standing-wave effect are absent, and there is obvious asymmetry of the diffuse scattering cross section around the incoming and outgoing angles. Due to the small angle of incidence, the coherently irradiated area has very different dimensions parallel and perpendicular to the beam, which leads to the observed scattering being concentrated in the specular diffraction plane defined by the incident and reflected wave vectors. © 2002 American Institute of Physics. 
+
+X-ray optics
+X-ray scattering
+optical multilayers
+mirrors
+coherence
+synchrotron radiation

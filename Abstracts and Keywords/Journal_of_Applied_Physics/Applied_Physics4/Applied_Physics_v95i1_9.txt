@@ -1,0 +1,11 @@
+We describe the joining of stainless-steel specimens at room temperature using free-standing Al/Ni foils as local heat sources for melting AuSn solder layers. The foils contain many nanoscale layers of Al and Ni that react exothermically, generating a self-propagating reaction. The heats, velocities, and products of the reactions are described, and the microstructure and the mechanical properties of the resulting joints are characterized. Increasing the foil thickness, and thereby increasing the total heat released, can improve the strength of the joints until foil thickness reaches 40 ¼m. For thicker foils, the shear strength is almost constant at 48 MPa, compared to 38 MPa for conventional solder joints. The higher strength is due to finer microstructures in the solder layers of reactive joints. A numerical study of heat transfer during reactive joining and experimental results suggest that the solder layers need to melt completely and remain molten for at least 0.5 ms to form a strong joint. © 2004 American Institute of Physics. 
+
+aluminium
+nickel
+foils
+numerical analysis
+heat transfer
+stainless steel
+joining processes
+soldering
+crystal microstructure

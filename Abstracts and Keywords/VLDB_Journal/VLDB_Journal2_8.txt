@@ -1,0 +1,6 @@
+This article presents a theoretical basis for global concurrency control to maintain global serializability in multidatabase systems. Three correctness criteria are formulated that utilize the intrinsic characteristics of global transactions to determine the serialization order of global subtransactions at each local site. In particular, two new types of serializability, chain-conflicting serializability and sharing serializability, are proposed and hybrid serializability, which combines these two basic criteria, is discussed. These criteria offer the advantage of imposing no restrictions on local sites other than local serializability while retaining global serializability. The graph testing techniques of the three criteria are provided as guidance for global transaction scheduling. In addition, an optimal property of global transactions for determinating the serialization order of global subtransactions at local sites is formulated. This property defines the upper limit on global serializability in multidatabase systems.
+
+chain-conflicting serializability
+hybrid serializability
+optimality
+sharing serializability

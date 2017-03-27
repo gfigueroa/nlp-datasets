@@ -1,0 +1,11 @@
+Recent advances in the processing of complex oxide materials have allowed us to monolithically grow ferroelectrics, of the lead lanthanum zirconate titanate system, on a GaN/sapphire structure. The thickness of these ferroelectric films ranged from 0.5 to 5 ¼m. Strong electrooptic effect with field-induced birefringence, as large as 0.02, was measured for (Pb,La)(Zr,Ti)O3 layer grown on a GaN/sapphire structure. The applicability of the lead lanthanum zirconate titanate material as a light modulating medium, integrated with GaN-based devices, was further proven by demonstrating optical modulation of a laser beam in an Al/(Pb,La)(Zr,Ti)O3/GaN/sapphire structure. © 2000 American Institute of Physics. 
+
+lead compounds
+lanthanum compounds
+ferroelectric thin films
+electro-optical effects
+electro-optical modulation
+gallium compounds
+birefringence
+sapphire
+integrated optoelectronics

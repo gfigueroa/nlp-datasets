@@ -1,0 +1,13 @@
+Growth temperature (TG) dependence of the acceptor concentrations (NA) in Al0.1Ga0.9Sb grown by liquid phase epitaxy in a very wide growth temperature range (250500	°C) was investigated. It was found that NA varies with TG down to 350	°C as NA exp(Ea/kBTG) with Ea=0.47 eV and that below 350	°C NA fluctuates depending highly on growth conditions. Acceptors in Al0.1Ga0.9Sb grown above 350	°C were concluded to be intrinsic. These observations were successfully made using the improved extremely lowtemperature growth process. The evaluation technique of measuring the impurity concentration in a thin epitaxial layer on the conductive GaSb substrate by CV characteristics of metalinsulatorsemiconductor structures was employed.
+
+CRYSTAL GROWTH
+LIQUID PHASE EPITAXY
+ACCEPTORS
+TEMPERATURE DEPENDENCE
+IMPURITIES
+DOPING PROFILES
+CV CHARACTERISTIC
+THIN FILMS
+MIS JUNCTIONS
+GALLIUM ANTIMONIDES
+ALUMINIUM ANTIMONIDES

@@ -1,0 +1,8 @@
+In this paper we propose a smart video surveillance system with real-time moving object (primarily human) detection and identification for solving the problem of excessive power consumption in a public place like shopping malls. The proposed detection system is able to handle several known constraints such as changing illumination conditions, occlusion, clutter or even irrelevant extraneous motion. It keeps track of the number of humans in the vicinity and takes measures depending on the number of people within its sight. As the number of humans in the neighbourhood increases the system takes steps to gradually increase the luminosity of the area. Again, when there are a few or no individuals in the area the brightness of the area is gradually decreased. Moreover it keeps track of the members of the working staff, who generally dresses in a fixed uniform, to save power by tuning the lighting to an adequate but not a dazzling level.
+
+Background Subtraction
+Human Identification
+Moving Object Detection
+Object Tracking
+Smart Surveillance
+Video-Based

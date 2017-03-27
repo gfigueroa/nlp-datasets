@@ -1,0 +1,11 @@
+We describe electrical measurement on exposed surfaces of n and ptype GaAs. The ntype surface exhibits substantial electronhole pair generation and the subsequent escape of generated holes by leakage along the surface. In contrast, the surface of ptype GaAs does not exhibit measurable leakage of minority electrons. These results are significant for all GaAs devices and circuits which are sensitive to small leakage currents, and may provide important clues to the physical and electrical nature of exposed GaAs surfaces.
+
+GALLIUM ARSENIDES
+SURFACE CONDUCTIVITY
+MINORITY CARRIERS
+NTYPE CONDUCTORS
+PTYPE CONDUCTORS
+ELECTRONHOLE DROPLETS
+LEAKAGE CURRENT
+EPITAXIAL LAYERS
+CAPACITORS

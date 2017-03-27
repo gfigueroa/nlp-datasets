@@ -1,0 +1,6 @@
+Determination of users' contribution to line active power flows on the basis of an accurate way is essential for transmission cost allocation, loss allocation, congestion analysis, and etc. This paper presents a new methodology of active power tracing based on actual operation of the power network for calculating the contributions of individual generators to active flow of lines and loads. In this approach, using conversion of load model, superposition principle and identification of exact paths for active transmitted power, contribution of generators are determined. The methodology is illustrated on the test network and numerical results show that it is effective, transparent and fair to be used in a competitive electricity market.
+
+Common Line
+Dedicated Line
+Generator Domain
+Power Flow Tracing

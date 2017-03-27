@@ -1,0 +1,8 @@
+For querying structured and semistructured data, data retrieval and document retrieval are two valuable and complementary techniques that have not yet been fully integrated. In this paper, we introduce integrated information retrieval (IIR), an XML-based retrieval approach that closes this gap. We introduce the syntax and semantics of an extension of the XQuery language called XQuery/IR. The extended language realizes IIR and thereby allows users to formulate new kinds of queries by nesting ranked document retrieval and precise data retrieval queries. Furthermore, we detail index structures and efficient query processing approaches for implementing XQuery/IR. Based on a new identification scheme for nodes in node-labeled tree structures, the extended index structures require only a fraction of the space of comparable index structures that only support data retrieval.
+
+Data retrieval
+Document retrieval
+Index structures
+Integrated information retrievals
+Structural join
+XML

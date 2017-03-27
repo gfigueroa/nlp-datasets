@@ -1,0 +1,11 @@
+The influence of a boundary on a breather traveling in a Josephson line cavity is examined by means of numerical computations. For a passive termination the breather is reflected into a breather of less energy; when the characteristic impedance of the line equals the external load resistor the breather is almost annihilated. At an active termination the breather is reflected into a breather of increased energy possibly followed by fluxons, antifluxons, or even breathers.
+
+SINEGORDON EQUATION
+REFLECTION
+SUPERCONDUCTIVITY
+MATHEMATICAL MODELS
+THEORETICAL DATA
+JOSEPHSON JUNCTIONS
+CAVATIES
+NUMERICAL ANALYSIS
+IMPEDANCE

@@ -1,0 +1,10 @@
+Ex situ CrPtMn pinned bilayers and ex situ CrPtMn pinned spin valves have been investigated by exploring the correlation between the pinning and deposition process. It was found that exchange coupling is strongly related to the deposition condition. The ex situ deposited CrPtMn can only reliably exchange couple to the NiFeCo (or CoFe) when CrPtMn is deposited on it with an applied magnetic field. The exchange coupling is not seen as a strong function of the thickness of the removed NiFeCo (or CoFe) surface layer if the backsputter time is longer than 3 s. However, it is found that the giant magnetoresistance (GMR) value decreases with an increase of backsputter time, which is probably due to interface disruption during backsputter. It is found that 35 s backsputter can produce GMR values as high as in situ CrPtMn-pinned spin valves. The GMR value is around 8% for ex situ CrPtMn-pinned spin valves with a configuration of Ta(30 Å)/NiFe(45 Å)/CoFe(10 Å)/Cu(30 Å)/CoFe(41 Å)/CrPtMn(300 Å). © 2001 American Institute of Physics. 
+
+chromium alloys
+platinum alloys
+manganese alloys
+spin valves
+giant magnetoresistance
+exchange interactions (electron)
+sputtered coatings
+antiferromagnetic materials

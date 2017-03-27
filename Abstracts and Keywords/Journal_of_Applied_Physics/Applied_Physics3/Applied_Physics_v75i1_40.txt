@@ -1,0 +1,16 @@
+A zerobias conductance peak has been observed in conductivity versus voltage G(V) measurements at 4 K on GaAs/AlGaAs/GaAs tunnel junctions. The peak was found in junctions prepared from several different molecularbeamepitaxial growths. The central portions of the barriers were spike doped with Si or Be. The peak fits the functional form G(V)=M	ln(AV+B) which is expected for electron tunneling via paramagnetic impurities in the barrier, or for Coulomb correlation effects at defects. Shining white light on the junctions reduced the amplitude of the peak, and the new G(V) was found to persist for at least 15 h. Following exposure to light, the conductivity peak was recovered by warming the sample to room temperature. The G(V) curves measured before and after exposure to light were independent of temperature between 1.3 and 30 K. The reduction in amplitude of the peak in G(V) results in a negative photo conductivity at zero bias. At high enough biases, the conductivity after the exposure to light is larger than before as is expected when the light removes electrons from the barrier by photo ionizing defects or impurities. The photo effect indicates that the peak is associated with transport via defects. The defects may be associated with either the Si or Be which were used to spike dope the central portion of the barriers, or with stoichiometric defects produced by the growth. Tunneling assisted by interactions with paramagnetic defects or Coulomb correlation effects are possible explanations for the origin and photo behavior of the peak in G(V).
+
+HETEROSTRUCTURES
+TUNNEL EFFECT
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+CRYSTAL DEFECTS
+TEMPERATURE RANGE 013 K
+IV CHARACTERISTIC
+TEMPERATURE RANGE 1365 K
+PEAKS
+ELECTRIC CONDUCTIVITY
+DOPED MATERIALS
+BERYLLIUM ADDITIONS
+SILICON ADDITIONS

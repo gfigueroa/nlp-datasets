@@ -1,0 +1,9 @@
+We examine physical processes controlling thermal release of hydrogen (H) from magnesium-doped gallium nitride, GaN(Mg). H release from GaN(Mg) was measured under ultra-high-vacuum conditions with surface cleaning and characterization to give clean well-ordered (0001) hexagonal (1×1) surfaces. Second-order release kinetics were observed, indicating recombinative desorption of H2 is a rate determining process. Observed H release is compared with diffusionreaction theory, which incorporates current information about H in GaN from theory and previous experiments. Based on previous studies of thermal desorption of H from GaN surfaces, the release model includes recombinative desorption from neutral H states at the surface. We conclude that the formation energy (at T=0) of this surface H state is close to that of a H2 molecule in vacuum, and that the formation energy of MgH is about 1.1 eV/atom below that of H in the surface state. This implies the surface H coverage must be very low during thermal release of H from GaN(Mg). This, together with a high activation barrier for desorption from the surface, accounts for the high temperatures required to remove H from GaN(Mg) and activate p-type conductivity. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+hydrogen
+thermally stimulated desorption
+surface energy
+diffusion

@@ -1,0 +1,10 @@
+We present a theoretical analysis of a newly demonstrated semiconductor laser with coupled distributed feedback and FabryPerot (DFBFP) cavities and show that three modes of operation are possible for such a laser. In modeswitched DFB mode, the wavelength can be switched between longitudinal modes on either side of the stopband. In coupledcavity laser mode, there are successive mode hops inside the stopband. Finally, in continuously tunable distributed Bragg reflector mode, a wide wavelength tuning range (4.8 Å) without mode hopping can be obtained. The analysis is general enough to be applied to any laser with a periodic waveguide section, and provides an understanding of the mechanisms and the limits of wavelength tuning in such lasers. This type of laser has very important applications in coherent optical communications.
+
+OPTICAL COMMUNICATION SYSTEMS
+DISTRIBUTED FEEDBACK LASERS
+SWITCHING
+TUNING
+LASER CAVITIES
+SEMICONDUCTOR LASERS
+OPERATION
+MODE LOCKING

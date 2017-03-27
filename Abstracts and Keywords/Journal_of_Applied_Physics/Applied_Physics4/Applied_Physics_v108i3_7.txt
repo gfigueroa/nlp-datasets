@@ -1,0 +1,10 @@
+The details of the domain structure of the incommensurate antiferroelectric structure in La-doped zirconium-rich lead zirconate titanate have been revealed in detail for the first time. The structure is dominated by 60° domain boundaries close to {101} planes of the primitive perovskite cell; and tilts of the perovskite sublattice of about 0.5° are also noted at such boundaries consistent with a small tetragonal distortion of the primitive cell. Within each domain a streaked nanostructure is revealed under weak diffraction conditions perpendicular to the long b-axis of the incommensurate supercell, which appears to be a consequence of planar faulting perpendicular to this b-axis. 90° domain boundaries are also observed but are less frequent than 60° boundaries and in contrast to previous reports, these often have rather curved and irregular boundary planes. The close similarity of all these features, with the one exception of the streaked nanostructure, to the domain structure of the commensurate antiferroelectric PbZrO3, demonstrates the close relationship of the two phases and leads one to speculate that the atomic structures of the phases are also closely related.
+
+antiferroelectric materials
+commensurate-incommensurate transformations
+domain boundaries
+electric domains
+lanthanum
+lead compounds
+nanostructured materials
+solid-state phase transformations

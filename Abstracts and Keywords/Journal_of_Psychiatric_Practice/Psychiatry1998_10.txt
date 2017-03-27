@@ -1,0 +1,19 @@
+The authors review the evidence for a relationship between depression and ischemic heart disease based on psychiatric patient samples, community epidemiological studies, and studies of individuals with preexisting cardiovascular disease. They conclude that there is strong evidence that the presence of depression increases the risk of heart disease, but that further research is needed to determine whether the treatment of depression will alter the risk of heart disease. They then review the available data on the cardiovascular effects of the currently available antidepressant treatments and make recommendations concerning their use in depressed patients with heart disease. The following medications are discussed: tricyclic antidepressants, selective serotonin reuptake inhibitors, bupropion, venlafaxine, trazodone, nefazodone, monoamine oxidase inhibitors, lithium, valproic acid, carbamazepine, gabapentin, and lamotrigine. Electroconvulsive therapy is also reviewed. The authors conclude that, although there are substantial data available to guide clinicians in choosing treatments for depressed patients with heart disease, further research is still needed concerning the safety of these treatments, their effectiveness as antidepressants in this population, and their impact on the course of heart disease. 
+
+depression
+cardiovascular disease
+heart disease
+antidepressants
+tricyclic antidepressants
+selective serotonin reuptake inhibitors
+bupropion
+venlafaxine
+trazodone
+nefazodone
+monoamine oxidase inhibitors
+electroconvulsive therapy
+lithium
+valproic acid
+carbamazepine
+gabapentin
+lamotrigine

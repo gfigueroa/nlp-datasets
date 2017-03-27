@@ -1,0 +1,14 @@
+We introduced 1.1 at.	% of Mn ions into Ge thin films in order to explore the ferromagnetism in Mn implanted Ge. Rapid thermal anneal (RTA) was applied after the implantation to recrystallize the Ge and enhance the incorporation of Mn ions into the Ge lattice. A maximum saturation moment of 0.7¼B/Mn at 5 K was reached when the sample was annealed at 300	°C for 1 min, and the moment decreased with higher annealing temperatures. Two transitions temperatures Tc and Tcl were observed corresponding to the global ferromagnetism in Mn:Ge bulk and short range magnetic ordering in Mn-rich clusters. Both critical temperatures increased with RTA temperatures and Tcl even persisted close to room temperature for the 400	°C, 1 min anneal. No secondary phases were observed.
+
+elemental semiconductors
+ferromagnetic materials
+germanium
+ion implantation
+magnetic moments
+magnetic thin films
+magnetic transition temperature
+manganese
+rapid thermal annealing
+semiconductor thin films
+semimagnetic semiconductors
+short-range order

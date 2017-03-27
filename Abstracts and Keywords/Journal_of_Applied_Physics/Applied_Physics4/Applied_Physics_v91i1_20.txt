@@ -1,0 +1,15 @@
+Cu(In,
+Ga)Se2/CdS/ZnO thin-film solar cells were exposed to doses up to 5×108
+rad(Si) of 50 keV x rays. Device performance consistently showed very little degradation, implying that previously observed radiation-induced performance reductions were likely the result of displacement damage. Subsequent experiments showed that cells recovered to near beginning-of-life performance with only short anneals under 50
+°C. © 2002 American Institute of Physics. 
+
+X-ray effects
+solar cells
+ternary semiconductors
+copper compounds
+indium compounds
+gallium compounds
+cadmium compounds
+zinc compounds
+semiconductor thin films
+annealing

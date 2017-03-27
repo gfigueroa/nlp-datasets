@@ -1,0 +1,17 @@
+A new chemical vapor deposition (CVD) method for the production of amorphous silicon films from SiF2 gas is described. About 1% (atomic) fluorine is incorporated in the film, its concentration decreasing with increasing deposition temperature. Optical, electronic, and structural properties of the films are reported.
+
+SEMICONDUCTOR MATERIALS
+CHEMICAL VAPOR DEPOSITION
+AMORPHOUS STATE
+SILICON
+SILICON FLUORIDES
+GASES
+DATA
+FLUORINE
+FILMS
+QUANTITY RATIO
+DEPOSITION
+TEMPERATURE DEPENDENCE
+OPTICAL PROPERTIES
+ELECTRICAL PROPERTIES
+MECHANICAL PROPERTIES

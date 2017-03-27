@@ -1,0 +1,8 @@
+We report a 200MHz ultrahigh frequency acoustooptic modelocked and KTiOPO4 stable intracavity frequencydoubled Nd:YAG laser pump source, which included a singlelens telescopic and Ltype foldedarm resonator. 20 W high average modelocked power and 2.0 W average modelocked doubled green light power achieved at 4.0 kW single lamp pumped power, respectively. The instability of secondharmonic light output power was effectively suppressed by inserting a quarter wave plate at the fundamental laser wavelength inside the cavity.
+
+NEODYMIUM LASERS
+SECOND HARMONIC GENERATION
+MODE LOCKING
+ACOUSTOOPTICAL EFFECTS
+CW LASERS
+MHZ RANGE 1001000

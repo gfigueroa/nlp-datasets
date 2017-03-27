@@ -1,0 +1,9 @@
+Exact solutions are presented for the magnetic field of single and double currentcarrying helical windings. The latter is a configuration used widely in free electron lasers. Differences are shown between the exact field and the simple form commonly assumed in analyzing free electron laser interactions.
+
+MAGNETIC FIELDS
+WIGGLER MAGNETS
+HELICAL CONFIGURATION
+MATHEMATICAL MODELS
+THEORETICAL DATA
+MAGNET COILS
+FREE ELECTRON LASERS

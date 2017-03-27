@@ -1,0 +1,14 @@
+Continuous 1¼mthick diamond films have been grown by chemical vapor deposition (CVD) at <900	°C on pure titanium and on a Ti alloy, Ti6Al4V. The diamond film exhibits good adhesion to the substrates in spite of the presence of <7 GPa of inplane residual stress which arises from the large differences in thermal expansion coefficients between diamond and titanium. The interface between the CVD diamond film and the substrate was exposed by deforming the substrate, thereby removing parts of the diamond film, under both ultrahigh vacuum and ambient conditions. After fracture, both the substrate and diamond film sides of the interface were characterized by a combination of xray photoelectron spectroscopy (XPS), scanning Auger microscopy, secondary electron microscopy, and Raman microprobe spectroscopy. The substrate fracture surface is inhomogeneous, containing some areas of diamond and amorphous carbon. XPS analysis revealed that carbon and oxygen are present on the substrate fracture surface. Micronsize areas of Ti were also found on the diamond fracture surface. Raman spectroscopy of the substrate fracture surfaces found evidence for the presence of amorphous, nonstoichiometric titanium oxides; no evidence of crystalline TiC or stoichiometric TiO2 was seen. Analysis of the XPS core level structure of the Ti and C spectra confirmed the presence of titanium carbide; little evidence of metallic titanium was seen in the interfacial region. Differences in the structure of the substrate fracture surface between titanium and the Ti alloy were also seen. The interface at the diamond/Ti6Al6V alloy was more heavily oxidized than the diamond/titanium interface. Depth profiling studies also revealed a thicker oxygencontaining surface layer on the alloy fracture surface. The presence of diamond and Ti compounds on both sides of the exposed interfaces indicates that the fracture did not occur discretely at the diamond/reaction layer interface. From these findings we propose a model of the failure region of the highly adherent diamond/titanium system.
+
+DIAMONDS
+THIN FILMS
+CHEMICAL VAPOR DEPOSITION
+INTERFACES
+TITANIUM
+TITANIUM ALLOYS
+ALUMINIUM ALLOYS
+SUBSTRATES
+ADHESION
+PHOTOELECTRON SPECTROSCOPY
+ELECTRON MICROSCOPY
+RAMAN SPECTRA

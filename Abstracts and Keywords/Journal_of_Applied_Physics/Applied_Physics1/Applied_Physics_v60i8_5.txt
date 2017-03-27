@@ -1,0 +1,15 @@
+Electron spectroscopic comparison of the Crich SiC(0001) and Sirich SiC(0001) surfaces after cleaning and disordering by Ar+ ion sputtering and subsequent annealing is reported. The chemical behavior of the two disordered surfaces differs significantly. Three distinct temperature regions with different carbon surface segregation kinetics are discernible on SiC(0001). On SiC(0001) only one temperature region for Csegregation is observed. Below 900 K, no spectroscopic differences between the two crystal surfaces are observed. Between 900 and 1300 K, both faces are terminated by a surface graphite layer and the Crich face shows an additional carbon surface segregation process. Above 1300 K, the Cterminated surface graphitizes at a higher rate than the Siterminated surface. Massive graphitization on both surfaces above 1300 K is attributed to Si(g) sublimation from the SiC surfaces. The results demonstrate that extensive surface disordering of polar SiC faces does not destroy the memory for the polarity of the original crystal insofar as hightemperature surface chemistry is concerned.
+
+SEGREGATION
+SILICON CARBIDES
+ELECTRON SPECTROSCOPY
+SURFACE ANALYSIS
+SURFACE REACTIONS
+SURFACE STRUCTURE
+OXIDATION
+CARBON
+ATOM TRANSPORT
+KINETICS
+ORDERDISORDER TRANSFORMATIONS
+GRAPHITIZATION
+SILICON

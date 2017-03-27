@@ -1,0 +1,10 @@
+Electron paramagnetic resonance (EPR) has been used to monitor oxygen vacancies and zinc vacancies in a ZnO crystal irradiated near room temperature with 1.5MeV electrons. Out-of-phase detection at 30K greatly enhances the EPR signals from these vacancies. Following the electron irradiation, but before illumination, Fe3+ ions and nonaxial singly ionized zinc vacancies are observed. Illumination with 325nm laser light at low temperature eliminates the Fe3+ signal while producing spectra from singly ionized oxygen vacancies, neutral zinc vacancies, and axial singly ionized zinc vacancies. This light also produces EPR spectra from zinc vacancies having a OH ion at an adjacent oxygen site. The low-temperature response of the irradiated crystal to illumination wavelengths between 350 and 750nm is described. Wavelengths shorter than 600nm convert Fe3+ ions to Fe2+ ions and convert neutral oxygen vacancies to singly ionized oxygen vacancies. Neutral zinc vacancies are formed by wavelengths shorter than 500nm as electrons are removed from isolated singly ionized zinc vacancies. Warming above 120K in the dark reverses the effect of the illuminations. These wavelength-dependence results suggest that the ground state of the neutral oxygen vacancy is deep, approximately 1.3eV above the valence band, and that the ground state of the singly ionized zinc vacancy is also deep, about 0.9eV above the valence band.
+
+defect states
+electron beam effects
+II-VI semiconductors
+paramagnetic resonance
+vacancies (crystal)
+valence bands
+wide band gap semiconductors
+zinc compounds

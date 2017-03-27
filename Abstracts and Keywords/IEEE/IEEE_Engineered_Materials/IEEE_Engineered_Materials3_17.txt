@@ -1,0 +1,4 @@
+We discuss tunability and nonlinear properties of metamaterials operating at microwave and optical frequencies. We also study the fundamental nonlinear effects in metal-dielectric waveguides supporting surface plasmon polaritons, and discuss nanofocusing of a plasmon beam and soliton formation in a tapered waveguide in the presence of losses.
+
+Nonlinear plasmonics
+metamaterials

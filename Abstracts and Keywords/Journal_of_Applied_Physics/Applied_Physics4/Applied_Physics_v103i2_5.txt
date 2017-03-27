@@ -1,0 +1,10 @@
+The interface thermal resistance (ITR) of the native interface between vertically aligned multiwalled carbon nanotube arrays and the SiO2/Si substrate was investigated. Experimental results obtained by a photothermoelectric technique are compared with theoretical predictions for the ITR across nanoconstrictions. The model considers classical constriction effects and contributions due to diffuse mismatch thermal resistance. Experimental values of the ITR are much larger than the model predictions. The observed discrepancy may be due to the imperfect mechanical contact between the tubes and substrate or additional contributions to the ITR due to the presence of a catalyst layer at the interface.
+
+arrays
+carbon nanotubes
+elemental semiconductors
+interface phenomena
+semiconductor-insulator boundaries
+silicon
+silicon compounds
+thermal resistance

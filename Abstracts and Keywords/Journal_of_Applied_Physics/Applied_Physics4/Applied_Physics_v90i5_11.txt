@@ -1,0 +1,15 @@
+Based on a modified equivalent inclusion method and a thermodynamic theory, a micromechanics model is developed to predict the evolution of internal stress and the effects of microstructural features (i.e., new domain concentration and porosity) and the external hydrostatic pressure on the transition temperature for single crystal ferroelectric ceramics upon cooling. During the cubic-to-tetragonal transition the material is a composite, with an internal stress due to phase transformation. Consideration of the thermodynamic driving force and resistance force leads to a kinetic equation that provides the volume concentration of new domains at a given level of temperature and applied stress. This new domain concentration results in an increase of overall electric polarization. Numerical calculations using the properties of BaTiO3 indicate that internal stress in the parent cubic phase continues to develop during spontaneous polarization, and that increased porosity greatly facilitates the transition process. Hydrostatic pressure provides an additional contribution to the Gibbs free energy of the system and also can increase the transition temperature. Its effect generally follows the Clausius-Clapeyron equation, but weak nonlinearity is found at very high pressure. This departure is attributed to the change in heat capacity during the cubictetragonal transition. A comparison with some observed data for the evolution of overall polarization of a BaTiO3 crystal serves to support the rationality of the model. © 2001 American Institute of Physics. 
+
+ferroelectric ceramics
+micromechanics
+dielectric polarisation
+internal stresses
+porosity
+electric domains
+digital simulation
+free energy
+specific heat
+ferroelectric transitions
+crystal microstructure
+solid-state phase transformations
+high-pressure effects

@@ -1,0 +1,17 @@
+Calculations of the dispersion characteristics of a free electron laser with a linearly polarized wiggler magnetic field and an axial guide magnetic field have been carried out in the collective (Raman) regime for a cold, relativistic electron beam passing through a parallelplate waveguide. The linear growth rate and efficiency of the transverse electric (TE) and transverse electromagnetic (TEM) waveguide modes have been computed for radiation in the centimeter and millimeter wavelength ranges.
+
+free electron lasers
+wiggler magnets
+magnetic fields
+relativistic range
+waveguides
+instability
+dispersion relations
+beam dynamics
+steadystate conditions
+efficiency
+instability growth rates
+phase velocity
+frequency range
+radiowave radiation
+microwave radiation

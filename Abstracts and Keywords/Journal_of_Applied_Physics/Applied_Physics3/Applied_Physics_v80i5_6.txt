@@ -1,0 +1,12 @@
+Thin films of YBa2Cu3O7´ (YBCO) on LaSrAlO4 (001) substrates with various thicknesses have been investigated by Raman spectroscopy. The Raman spectra of the films have been obtained by properly subtracting the spectrum of the substrate from the recorded spectra. This data anaysis enables us to determine the Raman spectra of YBCO films with thicknesses down to 12 nm (about 10 unit cells). The evolution of the peak positions and the linewidths of the B1g mode with thickness allow us to conclude that the residual strains in these films are negligibly small within the measured thickness range. The influence of the birefringence on measurement of the degree of epitaxy by Raman has been studied. With the reduction of film thickness the degree of epitaxy is slightly increased in these films. © 1996 American Institute of Physics. 
+
+HIGHTC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+THIN FILMS
+RAMAN SPECTRA
+EPITAXIAL LAYERS
+BIREFRINGENCE
+RESIDUAL STRESSES
+THICKNESS

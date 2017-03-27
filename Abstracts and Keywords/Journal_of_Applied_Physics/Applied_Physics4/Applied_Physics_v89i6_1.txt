@@ -1,0 +1,14 @@
+Thin aluminum oxide barrier layers have been studied by in situ x-ray photoelectron spectroscopy to determine their oxidation degree dependence on oxidation time and method (thermal or plasma oxidation). A 1.5 nm thick Al layer is found to completely oxidize by exposure to an oxygen plasma for a time in the interval 3060 s, i.e., using the conventional plasma oxidation method. For times less than 30 s, however, we observed not only a metallic-Al peak but the formed oxide was substoichiometric. The composition of the formed oxide increased towards Al2O3 as the oxidation continued. It was also found possible to oxidize up to 1 nm of Al, at room temperature, upon deposition on Co previously exposed to 9.3 Pa (70 mTorr) oxygen for 10 s. Annealing junctions with the idealized structure Co/Al2O3/Co at up to 275
+°C was found to increase their magnetoresistance (up to 35%) and resistance (up to a decade), if the Al was deposited on an oxidized Co bottom electrode. © 2001 American Institute of Physics.
+
+X-ray photoelectron spectra
+oxidation
+plasma materials processing
+stoichiometry
+aluminium compounds
+magnetoresistance
+cobalt
+alumina
+MIM structures
+tunnelling
+magnetic multilayers

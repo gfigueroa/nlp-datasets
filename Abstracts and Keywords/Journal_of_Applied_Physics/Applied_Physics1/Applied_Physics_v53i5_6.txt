@@ -1,0 +1,17 @@
+High dose implantations of boron molecular ions such as BF+2 and BCl+2 ions in Si have been investigated in an attempt to form shallow P+ layers in the dose range 1×10151×1016 ions/cm2, in comparison with those of boron. For BF+2 implants it was found that both the effective surface carrier density Ns and junction depth Xj in Si after 1000°C anneal tend to completely saturate at doses above 5×1015 ions/cm2, while they tend to increase for B+ implants. From profile measurements of total and electrically active boron it was clarified that the additional implantation of BF+2 ions in excess of 5×1015 ions/cm2 results in the accumulation of inactive boron atoms particularly around the surface region. Junction depths in Si resulting from BF+2 implants are generally shallower than those resulting from B+ implants. For BCl+2 implants the values of Ns are generally much lower than those for BF+2 and B+ implants.
+
+SILICON
+ELECTRICAL PROPERTIES
+ION IMPLANTATION
+BORON IONS
+MOLECULES
+BORON FLUORIDES
+BORON CHLORIDES
+LAYERS
+VERY HIGH TEMPERATURE
+CARRIER DENSITY
+SATURATION
+ANNEALING
+SPATIAL DISTRIBUTION
+DATA
+MATHEMATICAL MODELS

@@ -1,0 +1,10 @@
+The mechanism of plasma afterglow oxidation of silicon by atomic oxygen is discussed in terms of a physical model that includes recombination of the oxidant atoms during their diffusion through the SiO2 layer. Inclusion of a firstorder O loss term in the continuity equation that governs the unbound O atoms leads to a biexponential concentration profile in the oxide. The corresponding timedependent O flux across the SiO2/Si interface results in an oxide growth equation that is a more general form of the classical DealGrove model. Confrontation with available experimental data shows that the general expression can be abbreviated for oxide widths we0.1 nm as t= (A2/B)[exp(w/A)+exp(w/A)exp(wi/A)exp(wi/A)], where wi is the native oxide width. The two model parameters are AaD/k and Ba2HD[O]g/nb, with D being the diffusivity and k the firstorder loss rate constant of unbound O atoms in SiO2, H the SiO2/gas Henry equilibrium ratio of free O atoms, [O]g=the gasphase O atom concentration, and nb=the boundO number density in SiO2. The twoparameter model provides excellent fits (ÃB2% of final w) to the available data on both n and ptype Si, strikingly better than fits obtained by the DealGrove equation in particular for ptype Si. The values deduced for the model parameters A and B provide proof for the controlling importance of the Oatom recombination process, especially for ptype Si. The model parameters also allow values to be derived for other pertaining physical constants; e.g., the product HD is deduced to be 2.4×109 cm2	s1 at TB850 K, in close agreement with the known HD value for neon atoms in SiO2, equal to 5.2×109 cm2	s1.
+
+SILICON
+OXIDATION
+PLASMA
+AFTERGLOW
+DIFFUSION
+RECOMBINATION
+MATHEMATICAL MODELS
+FILM GROWTH

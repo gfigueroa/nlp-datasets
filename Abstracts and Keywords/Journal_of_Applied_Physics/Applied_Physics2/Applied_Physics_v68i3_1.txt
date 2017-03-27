@@ -1,0 +1,11 @@
+We report for the first time the successful application of the leaky tube method to diffuse elemental Cd into InP at 500	°C. Specular surfaces are consistently realized while additional phosphorus in the ambient is not required. Freecarrier concentration profiles and junction depths were experimentally determined for times ranging from 20 min to 21/2 h. A reproducible surface concentration of ionized acceptors is <1×1018 cm3 (T=300 K). A concentration dependent diffusion coefficient ranging from approximately 1×1014 to 1×1010 cm2/s is calculated for the conditions under investigation. Secondary ion mass spectroscopy analysis shows the atomic Cd concentration to be very similar to that of the ionized acceptors, with the atomic surface concentration approximately two times greater than the surface hole concentration.
+
+CADMIUM
+DIFFUSION
+INDIUM PHOSPHIDES
+CHARGE CARRIERS
+SPATIAL DISTRIBUTION
+SIMS
+INTERSTITIALS
+ATOM TRANSPORT
+HIGH TEMPERATURE

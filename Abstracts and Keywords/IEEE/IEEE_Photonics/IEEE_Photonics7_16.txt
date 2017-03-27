@@ -1,0 +1,6 @@
+Problems of modeling of the SOS and SOI MOSFETs that are working in irradiation conditions was analyzed in this work. Case of SEU was modeled.
+
+Modeling
+irradiation
+silicon on insulator
+single-event upset

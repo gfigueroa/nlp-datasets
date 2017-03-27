@@ -1,0 +1,7 @@
+The plasma of a dc discharge amplified by a rf coil is studied by emission spectroscopy. The effects of the induction coil are studied for titanium sputtered in an argon gas. The pressure range is 540 mTorr with 100 to 1000 W dc applied at the cathode and 0 to 500 W in the rf coil. The titanium emission line intensities are reported versus rf power. At high rf power and high pressure, titanium emission saturates while there is a linear increase with rf power for titanium ions emission. These results suggest a two-step mechanism for the production of excited titanium ions. With such a mechanism, titanium neutral is mainly lost by ion production (the diffusion loss is lower) and titanium ion is mainly lost by diffusion (loss by second ionization of Ti+ is weak). The Ti/Ar emission line ratio, representing the titanium density, decreases when a rf power is applied to the coil as a result of an efficient titanium ionization reaction by electrons. © 2002 American Institute of Physics.
+
+titanium
+sputtered coatings
+ionisation
+plasma diagnostics
+visible spectra

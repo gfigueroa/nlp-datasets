@@ -1,0 +1,7 @@
+Unexpectedly high-longitudinal piezoelectric coefficients have recently been reported in c-axis oriented Pb(Zr,Ti)O3 thin films with morphotropic phase boundary composition [Fu et al., Appl. Phys. Lett. 80, 3572 (2002)]. Our analysis and experimental results show that, in comparison with other methods commonly used to investigate piezoelectric response of thin films, the charge integration technique used by Fu et al. may lead to an order of magnitude higher apparent piezoelectric coefficients if the substrate on which the film was deposited is bent. When this is the case, the large response is due to the transverse piezoelectric effect caused by the substrate bending. © 2003 American Institute of Physics. 
+
+lead compounds
+piezoelectric materials
+piezoelectric thin films
+polymorphic transformations
+bending

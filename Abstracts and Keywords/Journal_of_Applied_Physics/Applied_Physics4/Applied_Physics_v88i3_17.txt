@@ -1,0 +1,16 @@
+Two possible types of cadmium sulphide (CdS) nanostructures can be formed within LangmuirBlodgett (LB) films of calixarene Cd salt as a result of exposure to H2S gas: nanoclusters with the size of about 1.5 nm or two-dimensional planes with the thickness of about 1.7 nm. Transmission electron microscopy and electron diffraction studies on calixarene/CdS LB films show that CdS particles are not present in the fresh samples at the beginning, but they are gradually formed under exposure to a high energy electron beam. A blueshift of the first exciton absorption band and an increase of the extinction coefficient, caused by exposure to H2S gas, were found with UV-visible optical spectroscopy and surface plasmon resonance, respectively. © 2000 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+nanostructured materials
+semiconductor quantum dots
+transmission electron microscopy
+electron diffraction
+Langmuir-Blodgett films
+organic compounds
+surface plasmon resonance
+ultraviolet spectra
+visible spectra
+excitons
+semiconductor growth
+electron beam effects

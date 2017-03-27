@@ -1,0 +1,8 @@
+Josephson junctions based on Nb/AlOx/Nb trilayer technology have demonstrated excellent quality, exhibiting very low dissipation in the subgap region. This property is very important for all those experiments which have to deal with the quantum behavior of macroscopic variables in Josephson devices. In view of performing an experiment of macroscopic quantum coherence with a Josephson device, we measured the escape temperature and the return current of several junctions fabricated with different processes and having different characteristics, by cooling them from 4.2 to 0.3 K. We show that, for what concerns the process of escape from the zerovoltage state, no difference can be found among different junctions. On the other hand, the dissipation properties are strongly influenced by the current density, with lower current density resulting in lower intrinsic dissipation. © 1996 American Institute of Physics. 
+
+JOSEPHSON JUNCTIONS
+NIOBIUM
+ALUMINIUM OXIDES
+SWITCHING
+DISSIPATION FACTOR
+CURRENT DENSITY

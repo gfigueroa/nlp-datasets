@@ -1,0 +1,12 @@
+The carrier recombination rates in GaAs and strained InGaAsGaAs singlequantumwell lasers of varying well width and potential depth, respectively, have been measured at 300, 195, and 77 K. For the InGaAs quantum wells (QWs), the carrier lifetime saturates at high inversion, with both the ShockleyRead (SR) lifetime and the saturation lifetime showing substantial reductions with decreasing temperature. The large reduction in the SR lifetime may be attributed to the increased effectiveness of acceptor ions as trap sites, due to the reduced carrier momentum at lower temperature. In a similar vein, the saturation lifetime is also reduced, due to the enhanced carrier confinement in the QW, brought about by the decrease in the carrier thermalization. For the GaAs QWs at 300 K, the saturation lifetime decreases as the well width is increased. The recombination rate law of bulk material is inadequate to predict the recombination rates in these QWs. Consequently, a local recombination model has been developed which accurately predicts the observed lifetime saturation behavior as a function of well width, potential depth, and temperature. Further, T0 of 95 and 162 K are calculated for the shallow and deep QW lasers, respectively. This calculation suggests that it is the temperature dependence of the differential gain that is the dominant factor in setting the temperature sensitivity of the InGaAs QW lasers. 
+
+QUANTUM WELLS
+LASERS
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+RECOMBINATION
+TEMPERATURE DEPENDENCE
+CARRIER LIFETIME
+TRAPS
+THERMALIZATION
+GAIN

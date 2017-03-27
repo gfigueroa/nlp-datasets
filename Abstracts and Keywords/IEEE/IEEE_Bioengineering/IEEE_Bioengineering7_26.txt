@@ -1,0 +1,19 @@
+Cognitive Computing (CC) is an emerging paradigm of intelligent computing theories and technologies based on cognitive informatics that implements computational intelligence by autonomous inferences and perceptions mimicking the mechanisms of the brain. The development of Cognitive Computers (cC) is centric in cognitive computing methodologies. A cC is an intelligent computer for knowledge processing as that of a conventional von Neumann computer for data processing. This paper summarizes the presentations of a set of 9 position papers presented in the ICCI'10 Panel on Cognitive Computing and Applications contributed from invited panelists who are part of the world's renowned researchers and scholars in the field of cognitive informatics and cognitive computing.
+
+Cognitive informatics
+ICCI
+RTPA
+abstract intelligence
+artificial intelligence
+cognitive computers
+cognitive computing
+computational intelligence
+concept algebra
+denotational mathematics
+eBrain
+engineering applications
+granular algebra
+machinable intelligence
+natural intelligence
+system algebra
+visual semantic algebra

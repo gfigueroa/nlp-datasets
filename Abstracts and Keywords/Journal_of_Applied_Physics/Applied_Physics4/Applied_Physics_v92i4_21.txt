@@ -1,0 +1,12 @@
+H2S gas interaction mechanisms of sputtered SnO2 and SnO2CuO bilayer sensors with a varying distribution of the Cu catalyst on SnO2 are studied using Pt interdigital electrodes within the sensing film. Sensitivity to H2S gas is investigated in the range 201200 ppm. Changes induced on the surface, the SnO2CuO interface, and the internal bulk region of the sensing SnO2 film upon exposure to H2S have been analyzed to explain the increasing sensitivity of three different sensors SnO2, SnO2CuO, and SnO2 with CuO islands. SnO2 film covered with 0.6 mm diameter ultrathin (<10 nm) CuO dots is found to exhibit a high sensitivity of 7.3×103 at a low operating temperature of 150
+°C. A response speed of 14 s for 20 ppm of H2S, and a fast recovery time of 118 s in flowing air have been measured. The presence of ultrathin CuO dotted islands allow effective removal of adsorbed oxygen from the uncovered SnO2 surface due to spillover of hydrogen dissociated from the H2SCuO interaction, and the spillover mechanism is sensed through the observed fast response characteristics, and the high sensitivity of the SnO2CuO-dot sensor. © 2002 American Institute of Physics. 
+
+tin compounds
+semiconductor materials
+semiconductor thin films
+sputtered coatings
+gas sensors
+copper compounds
+catalysts
+hydrogen compounds
+island structure

@@ -1,0 +1,6 @@
+For any fault of the same severity level, traditional fault discovery and notification tools provide equal weighting from business points of view. To improve the fault correlation from business perspectives, we proposed a framework to automate network and system alerts with respect to its business service impact for proactive notification to IT operations management. This paper outlines the value of business continuity planning (BCP) during the course of service impact analysis, placing particular emphasis on the business perspective in the processes of IT service management. The framework explicitly employs BCP relevant processes in order to identify the relationships between business services and IT resources A practical case in IT operations to illustrate the concept was then conducted.
+
+BCP
+ITIL
+ITSM
+service event correlation

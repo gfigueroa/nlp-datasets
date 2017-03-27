@@ -1,0 +1,10 @@
+Two dimensionally confining x-ray channel waveguide structures are fabricated and used for the delivery of nanoscopic x-ray beams. The waveguides can be combined with a high gain Kirkpatrick-Baez-prefocusing mirror system yielding hard x-ray beams with a cross section down to 25nm (full width at half maximum). The incoming synchrotron x-ray beam is coupled in from the front side of the waveguide. Here we address the general design of the x-ray optical devices and their fabrication by e-beam lithography methods.
+
+X-ray optics
+optical waveguides
+nanostructured materials
+optical design techniques
+optical fabrication
+mirrors
+electron beam lithography
+nanotechnology

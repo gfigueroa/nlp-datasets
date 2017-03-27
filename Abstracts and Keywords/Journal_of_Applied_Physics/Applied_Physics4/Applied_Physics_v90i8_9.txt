@@ -1,0 +1,15 @@
+Charge-based deep level transient spectroscopy has been used to study the defect states that exist within poly(p-phenylene vinylene) (PPV), a semiconducting polymer with a band gap of about 2.4 eV. The technique allows the determination of activation energies, capture cross sections, and trap concentrations. In some circumstances, it is also possible to distinguish between minority and majority carrier traps. The structures investigated here consisted of indiumtinoxide (ITO)/PPV/MgAg light emitting diode (LED) devices. Two types of trapping centers were found. The first type has activation energies in the range 0.490.53 eV and capture cross sections on the order of 10161018
+cm2. It shows a PooleFrenkel, field assistedemission process. This level has been identified as a bulk acceptor-like majority carrier (i.e., hole) trap. The second type has activation energies in the range 0.400.42 eV and capture cross sections on the order of 1019
+cm2. This level has been identified as a minority carrier (i.e., electron) trap. This second trap type is therefore expected to limit minority carrier injection into the PPV layer within the LED, and hence reduce electroluminescence under forward bias conditions. © 2001 American Institute of Physics. 
+
+conducting polymers
+organic semiconductors
+light emitting diodes
+deep level transient spectroscopy
+defect states
+deep levels
+electroluminescence
+minority carriers
+electron traps
+hole traps
+Poole-Frenkel effect

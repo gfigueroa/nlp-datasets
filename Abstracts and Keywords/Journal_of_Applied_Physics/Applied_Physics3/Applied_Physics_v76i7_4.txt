@@ -1,0 +1,12 @@
+In this work the possibility of simultaneous determination of thermal and transport properties of thin films using a photoacoustic method was investigated. The properties of amorphous GeSe thin films, which were evaporated on quartz substrata, were examined by measuring their amplitude and phase photoacoustic spectra as a function of the modulated optical laser beam frequency. The measurements were performed in a specially constructed photoacoustic cell which enabled excitation of the sample on one side and detection of the acoustic response on the other. Thermal diffusivity and transport properties (diffusivity coefficient, recombination time, and the surface recombination velocity) of the GeSe thin films were determined by comparing of the experimental results and the calculated theoretical photoacoustic spectra.
+
+GERMANIUM SELENIDES
+THIN FILMS
+TRANSPORT PROCESSES
+PHOTOACOUSTIC SPECTROSCOPY
+THERMAL DIFFUSIVITY
+RECOMBINATION
+HEAT TRANSFER
+FREQUENCY DEPENDENCE
+HZ RANGE
+KHZ RANGE

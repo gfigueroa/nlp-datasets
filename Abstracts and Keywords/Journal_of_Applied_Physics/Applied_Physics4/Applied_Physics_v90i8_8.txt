@@ -1,0 +1,9 @@
+GaN/InGaN light emitting diodes (LEDs) grown on sapphire substrates have current transport along the lateral direction due to the insulating nature of the substrate. The finite resistance of the n-type GaN buffer layer causes the pn junction current to be nonuniform and crowd near the edge of the contact. The current-crowding effect is analyzed both theoretically and experimentally for p-side-up mesa structure GaN/InGaN LEDs. The calculation yields an exponential decay of the current distribution under the p-type contact with a characteristic current spreading length, Ls. It is shown that GaN/InGaN LEDs with high p-type contact resistance and p-type confinement layer resistivity have a relatively uniform current distribution. However, as the p-type GaN conductivity and p-type ohmic contact conductivity is improved, significant current crowding near the contact edge will occur. The current crowding effect is analyzed experimentally in GaN/InGaN LEDs emitting in the blue spectral range. Experimental results show the light intensity decreasing with distance from the contact edge. A current spreading length of Ls=525
+¼m is found, in good agreement with theory. © 2001 American Institute of Physics. 
+
+gallium compounds
+indium compounds
+III-V semiconductors
+light emitting diodes
+current distribution
+contact resistance

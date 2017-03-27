@@ -1,0 +1,8 @@
+Analysis of biaxial texture of MgO films grown by ion-beam-assisted deposition (IBAD) has been performed using a quantitative reflection high-energy electron diffraction (RHEED) based method. MgO biaxial texture is determined by analysis of diffraction spot shapes from single RHEED images, and by measuring the width of RHEED in-plane rocking curves for MgO films grown on amorphous Si3N4 by IBAD using 750 eV Ar+ ions, at 45° incidence angle, and MgO e-beam evaporation. RHEED-based biaxial texture measurement accuracy is verified by comparison with in-plane and out-of-plane orientation distribution measurements made using transmission electron microscopy and x-ray rocking curves. In situ RHEED measurements also enable the analysis of the evolution of the biaxial texture which narrows with increasing film thickness. RHEED-based measurements of IBAD MgO biaxial texture show that the minimum in-plane orientation distribution depends on the out-of-plane orientation distribution, and indicates that the minimum obtainable in-plane orientation on distribution is 2°. © 2003 American Institute of Physics. 
+
+magnesium compounds
+reflection high energy electron diffraction
+thin films
+ion beam assisted deposition
+texture
+grain size

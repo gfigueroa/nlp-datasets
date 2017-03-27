@@ -1,0 +1,5 @@
+With the rising of wireless technologies, a lot of wireless devices have started to reach the domestic domain. Most of them are intended to simplify common tasks avoiding the use of cables. Home users buy wireless devices because of their simplicity and because they are way more practical. But few people think of their data privacy and security. They feel save behind their home walls without knowing that anyone will be able to listen to their wireless traffic without notice. Is our privacy compromised? Are our home connections secured? How can we ensure nobody is hacking our traffic? This and other several related questions are beginning to concern the home users. In an effort to put everything together, this document is intended to show the wireless technologies that coexist nowadays in the domestic domain, and how they affect the home privacy and security. Thus, the main output of this paper is to explore the lines to follow in a way to build a much secure environment, through the definition of a framework for a protocol mixing system.
+
+Information security
+WLAN
+Wireless hacking

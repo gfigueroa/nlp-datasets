@@ -1,0 +1,7 @@
+We proposed a novel optical 45&#x00B0; hybrid using a 2&#x00D7;8 multimode interference (MMI) coupler, three phase shifters and three 2&#x00D7;2 MMI couplers. Since optical demodulation is achieved by using the proposed 45&#x00B0; hybrid with only one delayed interferometer, the 8-ary differential phase shift keyed (DPSK) demodulator has much smaller device dimensions than conventional 8-ary DPSK demodulators consisting of four pairs of delayed interferometers and optical couplers. We fabricated the proposed 45&#x00B0; hybrid with an InP-based deep-ridge waveguide structure, and experimentally demonstrated the octagonal phase response with a relative phase deviation of &lt;;&#x00B1;5&#x00B0; over 32-nm-wide spectral range.
+
+8-ary DPSK demodulator
+Multilevel phase modulation
+Multimode interference coupler
+Optical hybrid device
+Optical waveguide device

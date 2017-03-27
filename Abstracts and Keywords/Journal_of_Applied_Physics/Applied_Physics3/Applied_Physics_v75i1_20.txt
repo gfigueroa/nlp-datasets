@@ -1,0 +1,11 @@
+The velocity v of a glass ball falling through a dilute electrorheological fluid of silica gel particles in oil is measured as a function of applied electric field E for various particle sizes and concentrations. The fields used range up to the point where the ball ceases to fall. The results are consistent with a model using two types of fielddependent retarding force, one proportional to E2 and the other proportional to vE2. The latter is proportional to both particle size and particle volume fraction, while the former is independent of particle size and is significant only above a volume fraction c0 where it is proportional to cc0. The force in E2 is related to the yield stress and is attributed to chain breaking by the ball. The force in vE2 is attributed to transient chain deformations when the ball impacts chains.
+
+RHEOLOGY
+ELECTRIC FIELD EFFECTS
+GELS
+SILICA
+OILS
+PARTICLE SIZE
+CHAINS
+VISCOSITY
+STRESSES

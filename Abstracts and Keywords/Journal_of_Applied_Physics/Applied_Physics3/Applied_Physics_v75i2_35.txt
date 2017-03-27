@@ -1,0 +1,12 @@
+Silicon nitride thin films were fabricated by electroncyclotronresonance plasmaenhanced chemicalvapor deposition (ECR PECVD) at room temperature and currentvoltage characteristics were analyzed. A ledge in the first IV curve always appeared in ECR PECVD silicon nitride films and then disappeared in the subsequent IV curves. It turned out that the trapped charges caused by injection of electrons were responsible for the ledge in the IV curves of fresh samples. A new conduction mechanism for low electric field was proposed, namely trapping current by tunneling. This model turned out to be very successful to explain the lowfield IV characteristics in ECRPECVD silicon nitride films, such as temperature dependence of IV curves and the reverse current phenomenon. Computer simulation suggested the trapping cross section as 1×1016 cm2 and the trap density as 7×1018 cm3. The calculated trapping cross section corresponds to that of the neutral trap centers, which agrees well with the experimental results.
+
+SILICON NITRIDES
+THIN FILMS
+CVD
+IV CHARACTERISTIC
+ELECTRON CYCLOTRONRESONANCE
+PLASMA
+TRAPPING
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+COMPUTERIZED SIMULATION

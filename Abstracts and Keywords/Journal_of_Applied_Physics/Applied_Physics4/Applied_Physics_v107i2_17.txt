@@ -1,0 +1,11 @@
+The wide band gap, temperature stability, high resistivity, and robustness of semiconducting boron carbide make it an attractive material for device applications. Undoped boron carbide is p type; Ni acts as a n-type dopant. Here we present the results of controlled doping of boron carbide with Ni on thin film samples grown using plasma enhanced chemical vapor deposition. The change in the dopant concentration within the thin film as a function of the dopant flow rate in the precursor gas mixture was confirmed by x-ray photoelectron spectroscopy measurements; with increasing dopant concentration, current-voltage (I-V) curves clearly establish the trend from p-type to n-type boron carbide.
+
+boron compounds
+doping profiles
+electrical resistivity
+nickel
+plasma CVD
+semiconductor doping
+semiconductor thin films
+wide band gap semiconductors
+X-ray photoelectron spectra

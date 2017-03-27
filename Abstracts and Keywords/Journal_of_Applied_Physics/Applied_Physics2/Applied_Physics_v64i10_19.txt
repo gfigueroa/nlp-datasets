@@ -1,0 +1,14 @@
+Youngs modulus (Ef), magnetostriction (»f), stress (Ã), and stressinduced anisotropy (Ks) were measured in Co/Cu, Fe/Cu, Co/Ag, Co/Pd, and Co/Au compositionally modulated multilayer films (CMF) prepared by rf sputtering method. The measured values of Ef are almost equivalent to those of noble metals of Cu, Ag, Pd, and Au, respectively. The values of »f have an order of 105106 which is the same order of the values in Co and Fe films. The calculated values of Ks from these results are about 10 to 100 times smaller than the measured values of perpendicular anisotropy (Ku) in the CMFs. Consequently, these results suggest that Ku of transition metal/noble metal CMFs cannot be explained only in terms of the stressinduced anisotropy.
+
+MULTILAYERS
+THIN FILMS
+MAGNETOSTRICTION
+COBALT
+COPPER
+IRON
+SILVER
+PALLADIUM
+GOLD
+SPUTTERING
+ANISOTROPY
+YOUNG MODULUS

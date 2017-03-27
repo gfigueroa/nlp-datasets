@@ -1,0 +1,8 @@
+We extend our previous investigations of electro-optically active polymer blends to report enhanced blue, green, red, or white electroluminescence (EL) from a multicomponent multiphase polymer blend containing blue, green, and red light emitting chromophores in different proportions as required together with both hole and electron transport materials. The general architecture of the EL devices employed was indiumtinoxide (ITO)/poly p-phenylene vinylene (PPV)/blend/Ca or Al, in which a PPV layer was interspersed between the ITO and the blend layers to provide more efficient hole injection, enhance overall emission, and increase device longevity. The relevant EL mechanisms are discussed in terms of color related and efficiency related processes. The color related EL processes involve blueshifted emissions controlled by chromophore dilution, Förster energy transfer controlled mainly by spectral overlap between absorption and emission in chromophores, and an interfacial emission from the PPV layer. The efficiency related processes involve double charge injection controlled by the nature and concentration of the hole and electron transport materials present, the confinement of injected charge carriers controlled by the blend morphology, and potential barriers within the polymer blend layer. The design of devices which emit the desired color, efficiently balance the double charge injection, and optimize the confinement of injected charge carriers to provide high quantum yields by using polymer blends, is discussed. © 2003 American Institute of Physics. 
+
+polymer blends
+electroluminescent devices
+electroluminescence
+electro-optical effects
+charge injection
+polymer films

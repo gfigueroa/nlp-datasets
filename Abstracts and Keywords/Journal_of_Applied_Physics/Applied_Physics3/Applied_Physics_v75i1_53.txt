@@ -1,0 +1,11 @@
+The Brillouin lightscattering technique has been exploited for studying the Rayleigh acoustic mode in superlattice films consisting of alternate layers of aSi:H and aSiNx:H. The phase velocity of the Rayleigh mode has been measured on superlattices with different thicknesses of the aSi:H layer. The results obtained have been interpreted in terms of the effective medium model within the elastic continuum approximation; no anomalous behavior is observed, in contrast with previous ultrasonic measurements in superlattice with a minor nitrogen content.
+
+AMORPHOUS SEMICONDUCTORS
+SUPERLATTICES
+SILICON
+ACOUSTIC PROPERTIES
+RAYLEIGH SCATTERING
+THIN FILMS
+HYDROGEN ADDITIONS
+SILICON NITRIDES
+ELASTICITY

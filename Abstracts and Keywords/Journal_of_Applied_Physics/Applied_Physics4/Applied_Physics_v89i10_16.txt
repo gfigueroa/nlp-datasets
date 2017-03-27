@@ -1,0 +1,8 @@
+We analyze the carrier energy band structure in a three-dimensional regimented array of semiconductor quantum dots using an envelope function approximation. The coupling among quantum dots leads to a splitting of the quantized carrier energy levels of single dots and formation of three-dimensional minibands. By changing the size of quantum dots, interdot distances, barrier height, and regimentation, one can control the electronic band structure of this artificial quantum dot crystal. Results of simulations carried out for simple cubic and tetragonal quantum dot crystal show that the carrier density of states, effective mass tensor and other properties are different from those of bulk and quantum well superlattices. It has also been established that the properties of artificial crystal are more sensitive to the dot regimentation rather then to the dot shape. The proposed engineering of three-dimensional mini bands in quantum dot crystals allows one to fine-tune electronic and optical properties of such nanostructures. © 2001 American Institute of Physics. 
+
+semiconductor quantum dots
+band structure
+electronic density of states
+effective mass
+carrier density
+nanostructured materials

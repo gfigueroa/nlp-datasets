@@ -1,0 +1,11 @@
+Microplasmas were diagnosed by spatially resolved diode laser absorption using the Ar 801.4 nm transition (1s5-2p8). A 900 MHz microstrip split ring resonator was used to excite the microplasma which was operated between 100760 Torr (13101 kPa). The gas temperatures and the Ar1s5 line-integrated densities were obtained from the atomic absorption lineshape. Spatially resolved data were obtained by focusing the laser to a 30¼m spot and translating the laser path through the plasma with an xyz microdrive. At 1 atm, the microplasma has a warm core (850 K) that spans 0.2 mm and a steep gradient to room temperature at the edge of the discharge. At lower pressure, the gas temperature decreases and the spatial profiles become more diffuse.
+
+discharges (electric)
+microstrip resonators
+optical focusing
+plasma density
+plasma diagnostics
+plasma sources
+plasma temperature
+plasma transport processes
+semiconductor lasers

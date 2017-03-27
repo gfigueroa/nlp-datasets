@@ -1,0 +1,11 @@
+Photocurrent (PC) spectra representing the in-plane absorption of the quantum-wells (QWs) in diode lasers are monitored. Spectra from pristine and systematically aged devices are analyzed and aging-induced changes are explained within the frame of rate-equation models for nonequilibrium carriers. We conclude from the analysis of the PC phase behavior and from aging-induced changes in the QW PCs, these currents to be actually of extrinsic nature. This finding, however, does not prohibit the use of PC spectra for analytical purposes, e.g., when employing PC peak-positions or their shifts because the spectral shape of the extrinsic QW PCs is still governed by QW absorption. This holds for all photoelectric techniques if applied to the vertical transport in pin-structures, such as diode laser structures.
+
+ageing
+aluminium compounds
+gallium compounds
+III-V semiconductors
+indium compounds
+photoelectron spectra
+photoluminescence
+quantum well lasers
+semiconductor quantum wells

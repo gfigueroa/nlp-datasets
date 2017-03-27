@@ -1,0 +1,6 @@
+A testing system based on virtual instrument is capable to test various electric parameters when frequency converter generator sets launch load or work without load, and it controls generator sets to start in series, parallel-work, control brake and self-protect. System software mainly adopts Visual Basic as programmer platform and combines NI Measurement Studio and Advantech Device Driver to design VI software. Based on layering theory, the testing system designs software frame and describes primary system running flow. Practical application shows that this testing system works reliably with high efficiency.
+
+Frequency converter generator sets
+Software
+Testing
+Virtual instrument

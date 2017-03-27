@@ -1,0 +1,12 @@
+We explore theoretically the fundamental principles of design and operation of a three-terminal molecular wire transistor that consists of a single À-conjugated carbon chain molecule with thiol end groups (CnHn2S4), self-assembled on the cleaved edge of a multilayer of alternating thin gold and insulating films. The ends of the chain bond to two outer gold layers that act as source and drain, and the chain bridges a third (inner) gold layer that acts as a gate. We show that transistor action should occur in this device if sulfur atoms are adsorbed on the surface of the gold gate. The sulfur atoms acquire charge as the gate voltage is increased, thereby enhancing the interaction between the gate and molecule and creating a strong potential barrier that hinders electron flow along the molecular wire. © 2000 American Institute of Physics. 
+
+organic compounds
+molecular electronics
+transistors
+one-dimensional conductivity
+self-assembly
+organic semiconductors
+semiconductor device models
+gold
+metallic thin films
+adsorbed layers

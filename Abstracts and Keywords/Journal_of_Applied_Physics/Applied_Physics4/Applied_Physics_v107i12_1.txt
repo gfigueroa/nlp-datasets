@@ -1,0 +1,10 @@
+We have demonstrated memory and rewritable bistable devices based on an anchoring transition of a nematic liquid crystal on a perfluoropolymer surface. Spontaneous orientation changes between planar and homeotropic occur on cooling and heating with a large temperature hysteresis. Photo (heat) addressing is possible from homeotropic to planar using dye-doped samples. For a coumarin dye, photoaddressed images are preserved even after heating up the sample to the isotropic temperature, whereas, for a 4-dicyanomethylene-2-methyl-6-(p-dimethylaminostyryl)-4H-pyran dye the images can be erased by decreasing the temperature out of the thermal hysteresis. Orientation switching also occurs by applying an electric field with a response time of several milliseconds depending on the field strength.
+
+cooling
+dyes
+heat treatment
+hysteresis
+liquid crystal devices
+liquid crystal phase transformations
+molecular orientation
+nematic liquid crystals

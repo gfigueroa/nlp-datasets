@@ -1,0 +1,9 @@
+Designing induction motors for use in Arctic environments involves a number of challenges. Average winter ambient temperatures which drop below the lower limits specified in the relevant standards can affect all motor components. Other environmental factors that must be taken into account include harsh wind, ice and snow conditions. Even greater precaution is required when designing motors for hazardous areas in order to provide maximum safety. Design criteria are described that can be adopted to ensure that motors for use in very cold environments will operate reliably over their entire lifecycle. All the main motor components - including shafts, bearings, insulation, frame and heat exchangers - are considered. In addition, special procedures are presented to protect motors during transportation, storage, commissioning, start-up, operation, standstill and maintenance.
+
+Arctic environments
+harsh conditions
+ice
+induction motors
+low ambient temperatures
+snow
+wind

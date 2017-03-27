@@ -1,0 +1,11 @@
+The increasing cost and complexity of semiconductor process development has lead to the widespread use of multidimensional semiconductor process simulators. The success of a program like SUPREMIV is primarily due to the fact that it is based on physical models, rather than empirical equations. This is in contrast to the first generation of process simulators, which calculated impurity profiles and oxide thickness in one dimension based on semiempirical approaches. SUPREMIV incorporates twodimensional coupled stressdependent oxidation and impurity diffusion, which allows the accurate simulations of stateoftheart integrated processes, provided that accurate model parameter sets are available. In this article we present an improved calibration methodology for simulation of advanced isolation technologies using SUPREMIV, based on the experimental determination of the material properties of silicon nitride. The proposed strategy is applicable not only to SUPREMIV but to any numerical simulator that uses the stressdependent oxidation models to calculate oxide growth. In order to simulate experimental isolation boundary shapes, the oxidation models in SUPREMIV must be calibrated. This requires a set of five fitting parameters, i.e., the material viscosities and activation volumes for stressdependent diffusion, reaction rate, and critical stress. These parameters form a quintuplet but are not unique.
+
+SILICON NITRIDES
+CVD
+COMPUTERIZED SIMULATION
+IMPURITIES
+STRESSES
+ELECTRICAL INSULATION
+VISCOSITY
+INTEGRATED CIRCUITS
+SEMICONDUCTOR TECHNOLOGY

@@ -1,0 +1,5 @@
+We demonstrate a simple method to directly measure the micromotion speed and amplitude of ions far away from the nodal line of the linear quadrupole trap using the cross-correlation technique. For the ions very close to the trap nodal line, the micromotion speed and amplitude of ions can also be deduced through linear fitting. This work gives us a direct picture to the ions micromotion modes at different displacements in the linear trap. With this work, an absolute measurement of the second-order Doppler effect in the research of atomic clocks based on large number of ions becomes possible.
+
+atomic clocks
+Doppler effect
+particle traps

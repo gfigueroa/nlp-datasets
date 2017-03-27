@@ -1,0 +1,11 @@
+Simultaneous measurements of laser excited ultrasonic waves in a solid sample and in the surrounding air are used for characterizing plasma absorption and the plasma shielding effect. Typical modifications of ultrasonic waves are discussed and the acoustic energy distribution between the solid and the atmosphere is assessed by a comparative analysis of optoacoustic responses received from both probes.
+
+LASERPRODUCED PLASMA
+PHOTOACOUSTIC EFFECT
+ABLATION
+ULTRASONIC WAVES
+SHIELDING
+SOLIDS
+AIR
+BREAKDOWN
+LASER RADIATION

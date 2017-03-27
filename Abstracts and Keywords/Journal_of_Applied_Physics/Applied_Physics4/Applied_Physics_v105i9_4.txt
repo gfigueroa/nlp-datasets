@@ -1,0 +1,12 @@
+Cupric oxide (CuO) nanoparticles with different morphologies were synthesized by thermal annealing of the copper hydroxide at various temperatures. Significant changes in both the particle size and the morphology with the annealing temperature (TA) were observed. The average particle size (d) increases from 13 to 33 nm and the morphology varies from ellipsoidal to rodlike as TA increases from 150 to 550	°C. The formation of these morphologies is explained in terms of the variation in the interplanar H-bonds breaking rate with different temperatures. The magnetic measurements reveal the presence of weak ferromagnetic interaction and the blocking behavior in these nanoparticles. The magnetic field dependence of the superparamagnetic blocking temperature (TB) follows the Brown equation. In addition, the linear variation in zero field cooled susceptibility with particle size is consistent with the predictions of Néel model for the uncompensated spins. These surface spins are responsible for the observed anomalous magnetic properties of CuO nanoparticles.
+
+annealing
+copper compounds
+hydrogen bonds
+magnetic particles
+magnetic susceptibility
+nanoparticles
+nanotechnology
+Neel temperature
+particle size
+superparamagnetism

@@ -1,0 +1,9 @@
+Experiments at the Gesellschaft für Schwerionenforschung study the transport of heavy-ion beams in plasma channels in collaboration with the Advanced Reactor Innovative Engineering Study for Inertial Fusion Energy. One important aspect of channel transport is the suppression of instabilities. The susceptibility of discharge channels for magnetohydrodynamic instabilities is studied and their growth rate is measured with a fast framing camera. The images are analyzed with a computer code, determining the growth rates of the instability during later stages of the discharge. Magnetohydrodynamical (MHD) instabilities were observed only for high pressure and even then only at late stages of the discharge. The only observed MHD modes were kink instabilities and our measurements indicate that they pose no problem for transport channels with reactor parameters.
+
+kink instability
+plasma transport processes
+ion beams
+plasma-beam interactions
+plasma inertial confinement
+fusion reactor design
+plasma diagnostics

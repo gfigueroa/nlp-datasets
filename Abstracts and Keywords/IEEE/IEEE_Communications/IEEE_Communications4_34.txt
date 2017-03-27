@@ -1,0 +1,5 @@
+This article introduces a new particle filtering approach for object tracking in video sequences. The projective particle filter uses a linear fractional transformation, which projects the trajectory of an object from the real world onto the camera plane, thus providing a better estimate of the object position. In the proposed particle filter, samples are drawn from an importance density integrating the linear fractional transformation. This provides a better coverage of the feature space and yields a finer estimate of the posterior density. Experiments conducted on traffic video surveillance sequences show that the variance of the estimated trajectory is reduced, resulting in more robust tracking.
+
+Homographic Transformation
+Particle Filter
+Vehicle Tracking

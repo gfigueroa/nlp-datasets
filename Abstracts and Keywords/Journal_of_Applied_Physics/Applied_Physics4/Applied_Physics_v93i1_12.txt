@@ -1,0 +1,9 @@
+The effect of the deposition rate on the size, density, and uniformity of Ge islands grown on Si(100) is investigated. Upon changing the growth rate from 4 to 110 ML/min the island density increases by one order of magnitude and the strained dome base decreases from 84 to 55 nm. A narrowing of the island size distribution was also observed. We discuss these experimental findings by taking into account islandisland interaction effects. © 2003 American Institute of Physics. 
+
+germanium
+elemental semiconductors
+island structure
+internal stresses
+CVD coatings
+semiconductor thin films
+semiconductor growth

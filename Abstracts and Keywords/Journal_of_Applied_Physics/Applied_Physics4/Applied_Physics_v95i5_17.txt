@@ -1,0 +1,10 @@
+The decrease of the threshold voltage Vth of hole channel metaloxidesemiconductor field effect transistors with ultrathin gate dielectric layers under negative bias temperature stress is studied. A degradation model is developed that accounts for the generation of Si3aSi"
+(Pb0) centers and bulk oxide defects, induced by the tunneling of electrons or holes through the gate dielectric layer during electrical stress. The model predicts that Vth shifts are mainly due to the tunneling of holes at low gate bias #VG#, typically below 1.5 V, while electrons are mainly responsible for these shifts at higher #VG#. Consequently, device lifetime at operating voltage, based on Vth shifts, should not be extrapolated from measurements performed at high gate bias. The impact of nitrogen incorporated at the Si/dielectric interface on Vth shifts is investigated next. The acceleration of device degradation when the amount of nitrogen increases is attributed to the increase in local interfacial strain, induced by the increase in bonding constraints, as well as to the increase in the density of SiNSi strained bonds that act as trapping centers of hydrogen species released during the electrical stress. © 2004 American Institute of Physics. 
+
+silicon
+silicon compounds
+elemental semiconductors
+MOSFET
+tunnelling
+bonds (chemical)
+semiconductor device models

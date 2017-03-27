@@ -1,0 +1,6 @@
+Stabilization issue for discrete-time interconnected switched system is studied in this paper. A global large scale discrete-time system can be decomposed into a set of small interconnected switched subsystems. Thus, a decentralized switched state feedback controller is considered to stabilize the global large scale switched system. The stability conditions, obtained from a candidate multiple switched Lyapunov function, are proposed in term of Linear Matrix Inequality (LMI). A numerical example is given to illustrate the effectiveness of the proposed approach.
+
+Discrete-time large scale switched system
+decentralized switched controller
+interconnected switched systems
+multiple switched Lyapunov function

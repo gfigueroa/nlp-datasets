@@ -1,0 +1,9 @@
+This paper demonstrates a gigahertz actuator based on multiwall carbon nanotubes (CNT) encapsulating metallic ions using classical molecular-dynamics simulations. Our results for a vacant CNT oscillator were in good agreement with the results obtained from previous experiments, theories, and simulations. Encapsulated potassium ions accelerated by an applied external electric field could initialize a gigahertz actuator composed of a 7K+@CNT oscillator, in which a CNT encapsulates seven potassium ions. The energetics and operation of a vacant CNT oscillator were similar to those of the 7K+@CNT oscillator except for the binding energies, the correlated collisions, and the mass increase caused by the encapsulated ions. Since the total mass of the 7K+@CNT oscillator was slightly higher than that of the vacant CNT oscillator, the frequency of the vacant CNT oscillator was slightly higher than the frequency of the 7K+@CNT oscillator. The correlated collisions between the ions or between the CNT and the ions slightly affected the oscillation dynamics, such as restoring force and frequency.
+
+carbon nanotubes
+nanotube devices
+potassium compounds
+molecular dynamics method
+binding energy
+microactuators
+nanotechnology

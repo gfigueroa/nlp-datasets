@@ -1,0 +1,17 @@
+Electrical incidents that result in significant injuries to people are often the result of substantially unconstrained free-burning arcing fault currents within electrical equipment. It is necessary to understand the nature of these arcs and be able to quantify the parameters before it is possible to really comprehend what is actually happening inside arcing faults and how they cause injuries to personnel in the immediate vicinity. This requires an understanding of the energy dissipation and the energy transfers in the near vicinity of these uncontrolled arcs. This paper sets out to describe the physics of arcing faults and uses this to describe the energy transfers within an arcing fault. This provides a basis for describing the potential energy transfers to personnel in the vicinity of an arcing fault.
+
+absorption
+air column
+arc
+arc flash
+arcing fault
+constricted column
+diffuse column
+electrocution
+electrode jets
+electrode-material column
+emission
+energy transfer
+line radiation
+plasma cloud
+ventricular fibrillation

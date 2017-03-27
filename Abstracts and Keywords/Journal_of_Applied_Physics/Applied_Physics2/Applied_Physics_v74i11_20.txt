@@ -1,0 +1,8 @@
+The diffuse reflectivity of polyimide during pulsed 193nm excimer laser irradiation has been compared to the specular reflectivity of the material over the fluence range 0.6190 mJ/cm2. Diffuse reflectivity is observed to decrease with increasing fluence by a factor of <3 over the intensity range, and remains a roughly constant fraction (0.30.4) of total target reflectivity. These results indicate that appreciable scattering of reflected laser radiation out of the specular direction does not occur under ablation conditions, and therefore cannot account for the specularly reflected pulse truncation observed previously.
+
+POLYIMIDES
+ABLATION
+LASER RADIATION
+REFLECTIVITY
+PULSES
+DIFFUSE SCATTERING

@@ -1,0 +1,6 @@
+This paper utilizes the Ant Colony Optimization algorithm to explore an unknown Web site, mapping its structure and navigation routing so that accessibility and performance information can be attained. The investigation will also unveil changing structure of the Web site adaptively such as new links, removed links, and unreachable links. As a consequence, coverage of all reachable nodes within the designated Web site can be obtained, along with essential performance statistics to reflect near optimal accessible paths to any given node in the web site. By virtue of the simplicity of the Ant Colony Optimization algorithm, some straightforward mapping techniques were employed to entail opportunistic commercialization of the proposed algorithm.
+
+Ant Colony Optimization
+Web agent
+Web navigation
+Web structure analysis

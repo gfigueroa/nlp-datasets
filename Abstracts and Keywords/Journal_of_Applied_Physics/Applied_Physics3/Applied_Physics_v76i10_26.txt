@@ -1,0 +1,10 @@
+The magnetic and growth properties of Ru monolayers on C(0001) are studied using spinpolarized secondary electron emission and Auger electron spectroscopy (AES). Using AES, we find that the initial growth of Ru on C(0001) occurs laterally until the first monolayer is completed. One monolayerthin Ru film shows ferromagnetic order below a surface Curie temperature of approximately 250 K. The inplane magnetization saturates in small applied fields of a few tenths of an Oe. This is the first observation of spontaneous, longranged, twodimensional ferromagnetic order in an ultrathin film composed of a 4d transition metal. 	
+
+CARBON
+RUTHENIUM
+MONOLAYERS
+FILM GROWTH
+FERROMAGNETISM
+AES
+ELECTRON EMISSION
+TEMPERATURE EFFECTS

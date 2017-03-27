@@ -1,0 +1,4 @@
+The ensemble average and variance of Gaussian noise measured as cross-correlation spectra are calculated as a function of the number of time averages. The calculations are based on the CarsonCampbell theorem which treats noise spectra as a collection of individual deterministic pulses transformed into the frequency domain. We have compared our calculations with experimental results on metal film resistors. There is an excellent agreement between the predicted and the measured statistical behavior. © 1998 American Institute of Physics.
+
+Gaussian noise
+correlation theory

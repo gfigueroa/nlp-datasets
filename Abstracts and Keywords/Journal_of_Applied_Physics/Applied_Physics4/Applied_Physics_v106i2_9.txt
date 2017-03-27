@@ -1,0 +1,4 @@
+Strongly nonlinear vibration phenomena in metal plates excited by high-power ultrasonic pulses in different conditions are studied experimentally and theoretically. The experimental conditions for generating quasisubharmonics and subharmonics are found and discussed. The plate vibrations are characterized by waveforms, frequency spectra, pseudostate portraits, and Poincaré maps. Then, a three-degree-of-freedom vibroimpact-dynamic model is presented to explore the generation mechanisms of the quasisubharmonic and subharmonic vibrations in the plates. According to the model, the intermittent contact-impact forces caused by the interactions between the transducer horn tip and the plate are considered as the main source for generating the complex nonlinear vibration in the plate. The numerical calculation results can explain reasonably the observed experimental phenomena.
+
+plates (structures)
+vibrations

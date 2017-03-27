@@ -1,0 +1,13 @@
+Spectroscopy and fast photography have been used to study the luminous plume produced by ablative etching of polyimide and polyethyleneterephthalate polymer films with the XeCl laser. The time dependence of the expansion for various environmental gas pressures has been studied in this way. The results show that at low pressures (&lt;0.5 mb) the expansion approaches a free expansion into a vacuum, while at 15 mb the time dependence is close to that predicted by an ideal blast wave model. It is suggested that a significant fraction of the luminous species detected spectroscopically may be created in the shock front at the plume/environmental gas interface.
+
+ETCHING
+LASERPRODUCED PLASMA
+SPECTROSCOPY
+PHOTOGRAPHY
+ABLATION
+LUMINESCENCE
+PLASMA DIAGNOSTICS
+POLYIMIDES
+POLYETHYLENES
+LOW PRESSURE
+TEREPHTHALATES

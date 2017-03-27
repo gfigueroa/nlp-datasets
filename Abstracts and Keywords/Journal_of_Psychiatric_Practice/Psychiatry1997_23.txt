@@ -1,0 +1,9 @@
+The treatment of schizophrenia remains an enormous challenge. Antipsychotic drugs play a critical role in the management of schizophrenia; however, conventional drugs are not always effective, tend to improve positive symptoms more than negative, have a high incidence of neurologic adverse effects, and are associated with high rates of noncompliance. A series of new drugs have been introduced in the 1990s and several others are likely to be available in the near future. These compounds have somewhat different properties, including receptor binding profiles. In general, they appear to have better adverse effect profiles than many conventional drugs. The degree to which the new compounds are clinically superior to conventional drugs (or each other) in terms of improving positive or negative symptoms, cognitive dysfunction, and long-term outcome will require further study. 
+
+novel antipsychotics
+clozapine
+risperidone
+olanzapine
+sertindole
+quetiapine
+ziprasidone

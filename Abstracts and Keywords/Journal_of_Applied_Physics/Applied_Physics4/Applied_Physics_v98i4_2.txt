@@ -1,0 +1,12 @@
+We present results from magneto-optic studies of 10nm Co nanoparticles on various substrates at room temperature. The magneto-optic properties in connection with substrate composition and morphology are discussed. A strong influence of the substrate composition on the polar Kerr rotation is observed which is mainly due to optical properties of the substrate material such as the plasma edge. The influence of the morphology on the magneto-optic properties can be qualitatively explained by discussing the interplay between the Co nanoparticles and reflected as well as scattered components of the light. These findings are corroborated by atomic-force microscopy. Auger-electron spectra confirm a strong influence of oxidation on the magneto-optic response.
+
+cobalt
+nanoparticles
+magnetic particles
+substrates
+oxidation
+atomic force microscopy
+Auger electron spectra
+Kerr magneto-optical effect
+surface morphology
+ferromagnetic materials

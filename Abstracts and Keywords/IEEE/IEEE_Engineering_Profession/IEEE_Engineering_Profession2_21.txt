@@ -1,0 +1,6 @@
+In this paper, a new class of invariant sensitivity sums of higher-order sensitivities for nonlinear circuits is introduced. Sensitivity sums considered are relevant to branch currents and branch voltages of a general class of nonlinear dynamic circuits containing passive and active elements and arbitrary number of excitations. It is assumed that the circuit consists of one-port elements and two-port elements only. The invariant sensitivity sums introduced herein are based on invariant sensitivity sums of first order derived by the means of Tellegen theorem. Mathematical induction lets us prove validity of the sums for sensitivities of arbitrary high order. Derivations are illustrated by an example of direct-current nonlinear bridge for which second order sensitivities of all branch currents and voltages are numerically computed and validity of proved invariant sensitivity sums is checked.
+
+Circuit simulation
+Nonlinear circuits
+Nonlinear systems
+Sensitivity

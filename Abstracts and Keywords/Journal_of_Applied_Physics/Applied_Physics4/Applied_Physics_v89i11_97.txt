@@ -1,0 +1,10 @@
+By incorporating a random interfacial exchange interaction into the LandauLifshitzGilbert equation, a unified picture of exchange bias for single crystals, textured crystals, twin structures, and polycrystals of antiferromagnets is presented. It is found that the lateral interaction in the antiferromagnet is a key element governing the exchange bias and magnetization reversal of the ferromagnet. © 2001 American Institute of Physics.
+
+exchange interactions (electron)
+texture
+magnetisation reversal
+ferromagnetic materials
+antiferromagnetic materials
+interface magnetism
+magnetic thin films
+magnetic hysteresis

@@ -1,0 +1,5 @@
+The electromechanical behavior of isotropic dielectrics with emphasis on cross-linked polymers (elastomers) as a special case is briefly discussed. Errors often committed in the derivation of expressions used in interpretation of experimental results are pointed out. © 1999 American Institute of Physics. 
+
+elastomers
+electrostriction
+Poisson ratio

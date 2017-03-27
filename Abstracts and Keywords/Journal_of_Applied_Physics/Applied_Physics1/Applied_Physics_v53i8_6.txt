@@ -1,0 +1,12 @@
+We disagree with the interpretation offered in the above comment. The suggestion was made that the anomalously fast response of thinfoil thermocouples reported previously is the result of strain dependence of the thermocouple response and not shock enhanced thermal equilibration. Although the emplacement geometry has a profound effect on the response of embedded thinfoil temperature gauges as noted in the above comment, the evidence presented, along with recent results discussed in this reply, do not support the conclusions presented in the above comment.
+
+THERMOCOUPLES
+RESPONSE FUNCTIONS
+SHOCK WAVES
+SOLIDS
+THICKNESS
+FOILS
+STRAINS
+GEOMETRY
+MATHEMATICAL MODELS
+CONFIGURATION

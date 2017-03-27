@@ -1,0 +1,9 @@
+The directional solidification of aqueous ammonium chloride solutions has been considered by theoretical and experimental approaches to investigate the influence of convection on solidification. By comparing the growth of crystal from experiments in which convective flows occur and that from theoretical analysis in which no convection is considered, the effect on solidification due to each individual convective flow, such as the doublediffusive saltfinger convection above the melt/mush interface, the buoyant flow in the mushy layer, the plume flow issued directly from the interior of the mush into the bulk melt, and the mushylayer mode circulation induced by the subcritical instability and so on, is identified. It is found, in general, that the saltfinger convection and mushylayer mode circulation inhibit the growth of the dendritic mushy zone and the plume flow enhances the growth of eutectic solid layer while suppresses the mushy layer. The buoyant flow effect is virtually negligible.
+
+AMMONIUM CHLORIDES
+SOLIDIFICATION
+CONVECTION
+CRYSTAL GROWTH FROM SOLUTIONS
+BUOYANCY
+INTERFACES
+DENDRITES

@@ -1,0 +1,9 @@
+The trilayers 10 nm NiO(AF)/X Cu/10 nm NiFe(FM) were prepared for the study on the temperature effect in interlayer exchange bias coupling. The characteristic behavior of the interlayer exchange bias coupling as a function the spacer thickness was shown to strongly depend on the temperature. A monotonic decrease of the exchange bias field with increasing Cu spacer layer was observed at low temperature around 20 K. At higher temperatures (about 145 K), a clear oscillatory evolution of the exchange bias field with the Cu thickness was found even without background subtraction. The temperature-dependent feature of the interlayer exchange bias coupling was also found to vary significantly with different Cu thickness. © 2001 American Institute of Physics.
+
+magnetic multilayers
+nickel compounds
+copper
+nickel alloys
+iron alloys
+exchange interactions (electron)
+ferromagnetic materials

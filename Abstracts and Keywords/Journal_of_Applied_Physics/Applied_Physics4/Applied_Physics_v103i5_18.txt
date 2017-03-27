@@ -1,0 +1,9 @@
+Nonlinear response of pure and doped Pb(Zr1xTix)O3 ceramics, with different compositions, has been analyzed in order to evaluate the domain wall motion in these materials. The study of dielectric and converse piezoelectric response shows a clear dependence of the domain wall mobility on the ferroelectric phase. Large lattice distortion in tetragonal samples produces a low mobility of the ferroelectric-ferroelastic domain walls. The influence of the type of defects on the nonlinear response has been explored. The results show that the relative increase of the domain walls mobility in donor-doped materials is greater than the decrease in acceptor-doped materials due to the pinning produced by complex defects. Rayleigh law has been used to evaluate the irreversible contribution of the domain walls movement to the nonlinear dielectric response. The analysis reveals that in presence of oxygen vacancies, the dielectric response cannot be attributed exclusively to the contribution of the irreversible domain wall motion. Furthermore, dielectric constant perpendicular to poling direction has been measured in rhombohedral donor-doped and acceptor-doped samples. The nonlinear response in the perpendicular direction is higher than in the poling direction, and this effect can be enlarged by the presence of complex defects. Dielectric nonlinear response has also been measured at different frequencies in rhombohedral donor-doped sample. A logarithmic dependence on frequency has been observed, which can be explained by the pinning effect on the ferroelectric domain walls by randomly distributed defects.
+
+dielectric polarisation
+electric domain walls
+ferroelectric ceramics
+lead compounds
+permittivity
+piezoceramics
+Rayleigh scattering

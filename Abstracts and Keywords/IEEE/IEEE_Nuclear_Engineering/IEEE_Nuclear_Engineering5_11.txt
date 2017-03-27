@@ -1,0 +1,8 @@
+This paper investigates the settings of the generator out of step protection relays (ANSI device 78) for all six gas and steam turbine generators used in a grid connected CHP power plant. Detailed model of the CHP power system is developed in PSCAD/EMTDC tool which includes a representation of the synchronous generator, turbine governor, Automatic Voltage Regulator (AVR), Power System Stabilizer (PSS), Over-Excitation Limiter (OEL), Under-Excitation Limiter (UEL), and a sufficiently accurate model of the external grid. PSCAD/EMTDC transient studies are performed to determine the system impedance trajectory against time for different fault durations. These studies also provide the critical rotor angle, i.e. the rotor angle corresponding to the critical clearing time of the generator, and the traveling time of the impedance trajectory within the blinder set. Studies show that the relay will not trip the turbine generator for transient disturbances that will not result in the generator loss of synchronism, and the operation of out of step relays does not compromise fault ride-through capability of the generators.
+
+Out of step protection
+excitation system
+modeling and simulation
+power system fault
+power system transient stability
+relay settings

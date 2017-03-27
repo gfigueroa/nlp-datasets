@@ -1,0 +1,11 @@
+Xray depth profiling in a grazing incidence asymmetric Bragg geometry is used to obtain the depthdependent structure of a nominally ³Fe2O3 thin film, which was oxidized from an Fe3O4 film. As the incidence angle is varied from angles less than the critical angle for total external reflection to angles greater than the critical angle, the xray penetration depth increases from about 20 to several thousand angstroms. The observed diffraction originates from this region of variable depth and a structural depth profile of the thin film can be obtained by measuring the diffraction pattern as a function of incidence angle. The iron oxide film is found to have a 45Åthick surface layer of ±Fe2O3; beneath this layer the film is predominantly ³Fe2O3 but also contains about 2.6 at.	% ±Fe2O3. These data, together with previous chemical and magnetic data, suggest that during oxidation of the Fe3O4 film the surface layer forms by the outward diffusion of Fe ions and their subsequent oxidization to ±Fe2O3. One possible explanation of the 2.6% ±Fe2O3 in the bulk of the film is that the Fe3O4 film contains small nuclei of material that are structurally similar to ±Fe2O3. During the oxidation to form ³Fe2O3, these then grow to form small grains of ±Fe2O3 that are observed.
+
+IRON OXIDES
+THIN FILMS
+XRAY DIFFRACTION
+BRAGG REFLECTION
+CRYSTAL STRUCTURE
+IRON IONS
+DIFFUSION
+OXIDATION
+INCIDENCE ANGLE

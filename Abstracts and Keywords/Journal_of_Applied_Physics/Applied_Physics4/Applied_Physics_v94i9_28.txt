@@ -1,0 +1,7 @@
+Electrically poled photoaddressable polymers, originally designed for optical data storage, are investigated in an interferometric setup. After optimization of the corona poling conditions, we obtain Pockels coefficients r33 of 44 pm/V at 1555 nm. Even at nonoptimum temperatures, the material can be electrically poled quite efficiently using light to trigger transcis isomerization cycles. At room temperature, the degree of poling is stable over months. At elevated temperatures, after a fast initial decay, again stable or very slowly decaying electro-optic coefficients are observed. © 2003 American Institute of Physics. 
+
+Pockels effect
+optical polymers
+isomerisation
+polymer films
+optical films

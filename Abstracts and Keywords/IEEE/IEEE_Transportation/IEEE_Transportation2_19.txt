@@ -1,0 +1,7 @@
+This paper discusses the concept of data interchangeability between two systems, the 63GHz future vehicular communication systems and 77GHz on-vehicle safety systems, in order to offer extra features to further improve the road traffic efficiency, and also enhance the on-board safety system of the vehicle.
+
+Millimetrewave telematics
+communication systems
+intelligent transport systems
+vehicle-to-infrastructure
+vehicle-to-vehicle

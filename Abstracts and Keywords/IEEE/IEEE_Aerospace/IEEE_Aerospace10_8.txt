@@ -1,0 +1,5 @@
+Over last years M3 Systems has been extensively assessing the use of EGNOS to support surface movements at airports. The results obtained have provided confidence on the fact that GNSS is enabling a wide range of innovative services to support vehicle drivers and to improve surveillance. A pre-operational solution has been developed on these bases and is now deployed at Bordeaux airport. The work, initially focused on vehicles has allowed to enlarge the vision and to identify key areas for future research and developments : integrity of positioning using EGNOS, interoperability with ADS-B, innovative navigation and surveillance services to support surface movements, including aircraft.
+
+Integrity
+Inter-operability
+Surface movements applications

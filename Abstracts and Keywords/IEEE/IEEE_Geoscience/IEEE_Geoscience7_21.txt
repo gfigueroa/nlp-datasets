@@ -1,0 +1,7 @@
+Recently, the National Science Foundation (NSF) has inaugurated an Engineering Research Center dedicated to Future Renewable Electric Energy Distribution Management (FREEDM). The premise of the center is to enable the utilization of renewable resources in power distribution systems through the utilization of solid state controllers and direct digital control. The center is at an initial stage and the focus of some effort is on the development of a test bed that will allow the evaluation of alternative system configurations, controls, solid state controllers, and operations strategies. This paper describes some of those considerations and the requirements for a test bed for a future power distribution system with renewable resources.
+
+distributed resources
+distribution engineering
+power distribution systems
+power system engineering
+renewable resources

@@ -1,0 +1,9 @@
+The currentvoltage characteristics of zinc oxide varistors were examined prior to and after exposure of up to 107 rad (Si) of 60Co gamma radiation. Nominal voltage, currentvoltage nonlinearity, and leakage currents remain relatively unaffected by large doses of ionizing radiation.
+
+GAMMA RADIATION
+IV CHARACTERISTIC
+SEMICONDUCTOR RESISTORS
+COBALT 60
+RADIATION HARDENING
+ZINC OXIDES
+PHYSICAL RADIATION EFFECTS

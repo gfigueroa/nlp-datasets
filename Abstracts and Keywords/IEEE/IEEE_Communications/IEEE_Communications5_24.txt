@@ -1,0 +1,7 @@
+Simulation is one of the most valuable and powerful analytical tools for process improvement, irrespective of whether the process is one of manufacturing, transportation, health care, or general service. Its value typically increases as the process to be modeled becomes more complex. Furthermore, discrete-event simulation analyses combine synergistically, and become more powerful, when conjoined with other industrial engineering techniques such as bottleneck (constraint) analysis, work measurement, floor space requirements and facility layout analysis, and value-stream mapping. In this case study, we describe the application of simulation, in concert with these other techniques, to improving the efficiency, and hence the reliability and profitability, of steel-mill manufacture, in a decidedly international context, of a wide variety of pipes for generic use in a variety of industrial applications.
+
+discrete-event simulation
+facility optimization
+manufacturing operations
+product-mix volatility
+production scheduling

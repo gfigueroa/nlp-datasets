@@ -1,0 +1,7 @@
+The purpose of this paper is to clarify the differences between approaches in the research field of human-technology interaction. We are especially interested in individuating user psychology from the more traditional paradigms. Therefore, we suggest a preliminary theoretical framework of criteria for distinguishing and individuating the different interaction research paradigms. The framework consists of five dimensions in which the paradigms may vary from each other. In this paper, we also discuss how ubiquitous computing is related to some of the dimensions. In addition, we focus on defining the new elements user psychology can bring to the discussion and analysis of human-technology interaction. To demonstrate the usage of the framework, we apply it to differentiate user psychology from traditional HCI research.
+
+human-computer interaction
+human-technology interaction
+paradigms
+psychological and metascientific foundations for designing human-technology interaction
+user psychology

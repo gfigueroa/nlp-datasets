@@ -1,0 +1,9 @@
+A simplified procedure is proposed for the interferometric determination of optical dispersions of refractive-index changes in a low-Tg photorefractive (PR) polymer. A two-level model for the optical dispersions is used in order to separately evaluate the index changes occurring due to molecular birefringence and first-order electronic electro-optic effects. This evaluation is done by estimating the contributions of the two effects in the low-frequency limit of a modulating voltage. The evaluated results are compared with those determined by a PR two-beam coupling experiment.
+
+birefringence
+disperse systems
+electro-optical effects
+interferometry
+photorefractive effect
+polymers
+refractive index

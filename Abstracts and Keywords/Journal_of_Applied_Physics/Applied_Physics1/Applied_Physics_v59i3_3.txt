@@ -1,0 +1,12 @@
+Laserinduced damage study of transparent conducting coatings of tin oxide prepared by spray pyrolysis has been made using a dye Qswitched Nd:glass laser emitting 25ns (FWHM) pulses at 1062 nm. For comparison tin oxide films prepared by chemical vapor deposition (CVD) method and indium tin oxide (ITO) prepared by the reactive rf sputtering method have also been damage tested. The study reveals that the spray pyrolysis method yields good electrical and optical quality films with a damage threshold value of 5.2±0.3 J/cm2. Though CVD technique provides the highest damage threshold coatings (14.2±0.6 J/cm2), their electrical characteristics and uniformity are inferior to rfsputtered ITO films which have the best electrical properties and the lowest damage threshold values (1.3±0.1 J/cm2).
+
+TIN OXIDES
+ITO LAYERS
+DAMAGE
+PHOTON COLLISIONS
+PYROLYSIS
+DEPOSITION
+CHEMICAL VAPOR DEPOSITION
+SPUTTERING
+ELECTRICAL PROPERTIES
+OPTICAL PROPERTIES

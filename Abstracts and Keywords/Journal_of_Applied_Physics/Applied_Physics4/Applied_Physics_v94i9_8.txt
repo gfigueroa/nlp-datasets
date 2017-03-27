@@ -1,0 +1,10 @@
+ZnO microrods (whiskers) were fabricated by a simple thermal oxidation method. The morphologies of the samples were detected by the scanning electron microscope, which showed the ZnO microrods were about 30 ¼m long with a diameter of 12 ¼m. In the photoluminescence (PL) spectra, only the exciton related emission bands in the ultraviolet region could be obtained at room temperature. And, a new emission band due to the excitonexciton collision process was observed at the low energy side of the free exciton emission under the excitation intensity of 2.1kW/cm2. This emission band increased nonlinearly. When the excitation intensity was increased above 16kW/cm2 some fine structures could also be seen clearly in the PL spectra. These fine structures originated from the cavity modes of the FabryPérot étalon. © 2003 American Institute of Physics. 
+
+zinc compounds
+whiskers (crystal)
+II-VI semiconductors
+photoluminescence
+crystal morphology
+scanning electron microscopy
+excitons
+ultraviolet spectra

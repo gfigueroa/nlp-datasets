@@ -1,0 +1,5 @@
+License plate recognition systems have been widely applied in community and building parking-lots management at present. They are also used by public security organs to trace stolen vehicles and monitor roads performance. In this paper, a new method by combining background subtraction and shadow detecting has been proposed. Motor vehicles can be monitored automatically according to image sequence by such a method. When the light is in a poor condition outdoors, shadows will be effectively resisted and users can get the correct information of vehicles.
+
+image sequence
+pattern recognition
+vehicles monitoring

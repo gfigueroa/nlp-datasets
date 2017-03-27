@@ -1,0 +1,8 @@
+A method is proposed for a thorough analysis of rear point contact solar cell structures. The method is based on the numerical solution through Fast fourier transform of the minority and majority carrier transport equations in three dimensions in the base of the cell. Their illuminated currentvoltage characteristics are simulated and the series resistance of the cell is calculated. Results are presented which show the influence of the rear contact size and the majority transport in the base to the solar cell performance. © 2001 American Institute of Physics.
+
+silicon
+elemental semiconductors
+solar cells
+semiconductor device models
+fast Fourier transforms
+minority carriers

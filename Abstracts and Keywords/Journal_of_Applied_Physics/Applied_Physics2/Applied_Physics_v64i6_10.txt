@@ -1,0 +1,7 @@
+An experimental investigation has been conducted to enhance and control corona discharge in two small diameter cylindrical hollow electrodes by an external gas flow. The results show that the timeaveraged corona current for fixed discharge voltages increases with increasing gas flowrate of pure nitrogen, and pressure drop is not significantly influenced by corona discharge currents.
+
+ELECTRIC CURRENTS
+CORONA DISCHARGES
+NITROGEN
+GAS FLOW
+ELECTRODES

@@ -1,0 +1,11 @@
+Bulk ZnGeP2 crystals were diffusion doped with copper and investigated using photoluminescence (PL) spectroscopy, photoluminescence excitation (PLE), and Fourier-transform-infrared spectroscopy. A PL band at 1.3 eV at 5 K was observed. The temperature dependence of the 1.3-eV PL band gives a thermal activation energy of 0.11±0.01 eV. PLE data show a resonance in intensity occurred at 0.1 eV below the conduction band when monitoring the 1.3-eV band. The 1.3-eV emission band is found to be unpolarized in contrast to PL bands observed in nominally undoped ZnGeP2 crystals. The copper-diffused samples have an absorption band at 10 K peaking at about 0.62 eV. We suggest that the 1.3-eV luminescence band is donor-acceptor-pair recombination with the donor energy level about 0.1 eV below the conduction band and a Cu acceptor energy level about 0.62 eV above the valence band. This transition model is also supported by optical quenching experiments. © 2002 American Institute of Physics. 
+
+zinc compounds
+germanium compounds
+ternary semiconductors
+photoluminescence
+copper
+Fourier transform spectra
+infrared spectra
+impurity absorption spectra
+impurity states

@@ -1,0 +1,11 @@
+The recent report of cw nuclearpumped lasing and of the measurement of gain on the 3s22p4 transition of Ne in mixtures of	3HeNe by Carter, Rowe, and Schneider has some fundamental problems which lead one to conclude that the oscillation observed was not from the 6328Å line of Ne. Specifically, calculations using a very optimistic model of the HeNe laser at the reported conditions do not support the conclusions of Carter et al. The maximum possible small signal gain for the idealized system, which is the upper limit on this quantity, is an order of magnitude smaller that that reported. Additionally, due to the unusually high singlepass cavity losses reported (s50%), the idealized system could not achieve oscillation.
+
+GAS LASERS
+NUCLEAR PUMPING
+HELIUM 3
+NEON
+GAIN
+OSCILLATIONS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+LASER CAVITIES

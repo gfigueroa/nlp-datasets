@@ -1,0 +1,5 @@
+In this paper we present a low-complexity iterative algorithm to estimate the Time of Arrival (ToA) of an Impulse-Radio Ultra Wide Band (IR-UWB) system with pulse overlap between the first two paths. The performance of this SAGE estimation algorithm is compared with that of the optimal estimator. We find that, although the SAGE algorithm is unable to determine a tight ToA estimate when the delay between the two paths is very low, its performance converges quickly to that of the optimal estimator for moderate path delays.
+
+IR-UWB
+SAGE
+Time-of-arrival

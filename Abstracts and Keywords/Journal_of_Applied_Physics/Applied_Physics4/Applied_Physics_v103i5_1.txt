@@ -1,0 +1,13 @@
+Highly photoconducting ²-In2S3 thin films with conducting grain boundaries were obtained, using chemical spray pyrolysis technique. By varying the atomic ratio of the precursor solution used for spray pyrolysis, the photoconductivity of these films could be tailored. Conducting grain boundaries were found only for samples with a specific stoichiometry and these films exhibited photoresponse to intrinsic and extrinsic excitation wavelengths in the range of 325532nm. Postdeposition vacuum annealing of these films enhanced the grain boundary conductivity, caused the films to exhibit persistent photoconductivity for both intrinsic and extrinsic excitations and extended the extrinsic photoresponse to wavelengths beyond 632.8nm. Photoresponse to excitation wavelength of 632.8nm was observed in films with and without conducting grain boundaries which proved that the extrinsic photoresponse to this wavelength was an effect associated with the defect chemistry of the ²-In2S3.
+
+annealing
+energy gap
+grain boundaries
+III-VI semiconductors
+indium compounds
+photoconductivity
+pyrolysis
+semiconductor growth
+semiconductor thin films
+spray coating techniques
+stoichiometry

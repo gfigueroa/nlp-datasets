@@ -1,0 +1,17 @@
+The dielectric properties of the photoresist AZ1350J in diethyloxalate solution have been measured by a capacitance technique. Measurements of permittivity (Er) at different dilutions are seen to obey the logarithmic law of mixing, while the temperature dependence curve predicts a change in phase of the resist at approximately 66	°C. Polarization measurement of the mixtures shows a relaxation type of orientational polarization and a decreasing value of polarization on UV light irradiation, confirming the structural change in the photoresist.
+
+photoresists
+solutions
+mixing
+polarization
+permittivity
+relaxation
+orientation
+dielectric properties
+chemical properties
+medium temperature
+ultraviolet radiation
+polarizability
+dipole moments
+capacitance
+photochemistry

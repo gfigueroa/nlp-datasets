@@ -1,0 +1,11 @@
+Remote plasma atomic layer deposition (ALD) of TaNx films from Ta[N(CH3)2]5 and H2, H2-N2, and NH3 plasmas is reported. From film analysis by in situ spectroscopic ellipsometry and various ex situ techniques, data on growth rate, atomic composition, mass density, TaNx microstructure, and resistivity are presented for films deposited at substrate temperatures between 150 and 250	°C. It is established that cubic TaNx films with a high mass density (12.1g	cm3) and low electrical resistivity (380¼©	cm) can be deposited using a H2 plasma with the density and resistivity of the films improving with plasma exposure time. H2-N2 and NH3 plasmas resulted in N-rich Ta3N5 films with a high resistivity. It is demonstrated that the different TaNx phases can be distinguished in situ by spectroscopic ellipsometry on the basis of their dielectric function with the magnitude of the Drude absorption yielding information on the resistivity of the films. In addition, the saturation of the ALD surface reactions can be determined by monitoring the plasma emission, as revealed by optical emission spectroscopy.
+
+atomic layer deposition
+density
+dielectric function
+electrical resistivity
+ellipsometry
+luminescence
+plasma deposited coatings
+plasma deposition
+tantalum compounds

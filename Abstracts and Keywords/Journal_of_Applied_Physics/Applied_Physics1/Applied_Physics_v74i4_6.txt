@@ -1,0 +1,13 @@
+The photoluminescence (PL) peak positions of the ground state heavy and lighthole excitons on highquality Molecular Beam Epitaxy grown GaAs/AlxGa1xAs (x=0.3 and 1) multiquantumwell structures have been experimentally determined in the temperature range 4.2dTd340 K. Using these values and the wellknown lowtemperature energy of the GaAs “8V“6C gap [Eg“(GaAs,T=0 K)=1.5192 eV], we propose the temperature dependence to be Eg“(GaAs,T)= 1.5192+5.16×105×T1.99×106×T2 +2.60×109×T3 (Eg“ in eV). The nearly linear variation of Eg“(GaAs,T) versus the temperature in the range 170 KdTd340 K can be approximated by a coefficient (dEg“/dT)=4.4×104 eV/K, in excellent agreement with theoretical predictions.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+ENERGY GAP
+TEMPERATURE DEPENDENCE
+QUANTUM WELLS
+TERNARY ALLOYS
+MOLECULAR BEAM EPITAXY
+PHOTOLUMINESCENCE
+TEMPERATURE RANGE 013 K
+TEMPERATURE RANGE 1365 K
+TEMPERATURE RANGE 65273 K

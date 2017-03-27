@@ -1,0 +1,12 @@
+Static and high-frequency magnetic properties have been studied for BaFe122xCoxZrxO19 with x=01.2. The x-ray diffraction and MH curves of aligned samples show that CoZr substitution can modify the anisotropy of BaFe122xCoxZrxO19. BaFe122xCoxZrxO19 with x}0.6 has an easy c-axis anisotropy and the anisotropy fields rapidly decrease with CoZr substitutions. The sample of x=1.2 has an easy c-plane anisotropy with Ha=5	kOe. The saturation magnetizations of BaFe122xCoxZrxO19 are almost constant at x}0.4 and decrease with higher substitutions. The coercivity decreases rapidly from 2400 Oe for the sample of x=0 to about 10 Oe for the sample of x=0.8. The natural resonance frequencies are observed at 4.5 and 5.0 GHz for the samples of x=0.8 and x=1.2, respectively. Based on microwave measurement and theoretical estimations on reflectivity, BaFe122xCoxZrxO19 may be a good candidate for electromagnetic compatibility and other practical applications at high frequency.© 2002 American Institute of Physics. 
+
+barium compounds
+ferrites
+magnetisation
+coercive force
+magnetic permeability
+magnetic anisotropy
+X-ray diffraction
+microwave materials
+microwave reflectometry
+electromagnetic compatibility

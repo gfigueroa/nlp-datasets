@@ -1,0 +1,6 @@
+The characteristics of a proximity coupled microstrip antenna, for the application in high performance local area network type 2 (HIPERLAN/2) are reported here. This miniaturized circularly polarized microstrip antenna has wide bandwidth. The simulated results using IE3D software are verified by measurement.
+
+Broadband
+HIPERLAN/2
+circular polarization
+proximity coupled microstrip antenna

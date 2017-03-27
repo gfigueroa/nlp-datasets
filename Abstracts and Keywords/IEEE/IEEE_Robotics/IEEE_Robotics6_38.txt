@@ -1,0 +1,6 @@
+Usually, the population of a large marketing dataset is assumed that a mixture of two or more different groups. In this paper, to classify the observations into the group of some different populations, we propose a fuzzy clustering technique that uses an unobserved variable that influences the observed variables. And, we show an effectiveness of the technique to clarify the data structure and to extract the feature.
+
+Fuzzy clustering
+Marketing data
+observed Variable
+unobserved variable

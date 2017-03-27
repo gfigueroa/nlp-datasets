@@ -1,0 +1,19 @@
+We have investigated the microstructures of melt-spun Sm(Co0.58Fe0.31Cu0.04Zr0.05B0.02)z (z=7.5 and 12) ribbons by transmission electron microscopy (TEM) and three dimensional atom probe (3DAP) to correlate them with the hard magnetic properties. The ribbon with z=7.5 has a high coercivity (iHc<12
+kOe) while the ribbon with z=12 possesses a low coercivity (iHc<4.9
+kOe). The high iHc ribbon comprises of nanocrystals (<10 nm) having 1:7H (TbCu7) type structure as main phase. However, in the low iHc ribbon, the microstructure consists of both 1:7H and 2:17H
+(Th2Ni17) phases with crystal size ranging from 50 to 80 nm. The low coercivity ribbon also contains (CoFeZr)23B6 (M23B6 type) soft magnetic phase. The low coercivity obtained in the melt-spun ribbon with z=12 is due to: (i) the formation of Th2Ni17 type low anisotropy phase, (ii) the presence of boron-rich soft magnetic phase, and (iii) larger crystal size. Realization of high coercivity in the ribbon with z=7.5 is due to the formation of 1:7H, a high anisotropy phase, as well as reduced grain size. © 2004 American Institute of Physics. 
+
+samarium alloys
+cobalt alloys
+iron alloys
+copper alloys
+zirconium alloys
+ferromagnetic materials
+nanostructured materials
+coercive force
+magnetic tapes
+grain size
+magnetic anisotropy
+melt spinning
+X-ray diffraction
+transmission electron microscopy

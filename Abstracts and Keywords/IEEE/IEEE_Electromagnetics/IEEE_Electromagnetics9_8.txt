@@ -1,0 +1,7 @@
+First-in-First-out (FIFO) is one of the simplest queuing policies used to provide best effort services in packet-switched network. However, the performance of FIFO is really crucial when it related to stability i.e. question of whether there is a bound on the total size of packets in the network at all times. In this study, our main objective is to find the optimum packet size of voice packet when using FIFO scheduling policy. Our approach is based on adversarial generation of packets so that positive results are more robust in that they do not depend on particular probabilistic assumptions about the input sequences. In this paper, we proposed the FIFO scheduling technique that uses adversarial queuing model to find the optimum packet size of voice packet in FIFO network. Although the simulation results show that the average packet loss is increase when the arrival packet is increased, the average packet delay is improved as compared to FIFO M/M/1 technique, studied by (Phalgun, 2003). This algorithm can be utilized for transmitting voice packet over IP.
+
+FIFO queuing model
+adversarial
+optimum packet size
+packet loss
+voice

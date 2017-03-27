@@ -1,0 +1,12 @@
+In this article, we present the detailed investigations on platinum related midgap state corresponding to Ec0.52 eV probed by deep level transient spectroscopy. By irradiating the platinum doped samples with high-energy (1.1 MeV) gamma rays, we observed that the concentration of the midgap state increases and follows a square dependence with irradiation dose. However, the concentration of the acceptor corresponding to Ec0.28 eV remained constant. Furthermore, from the studies on passivation by atomic hydrogen and thermal reactivation, we noticed that the Ec0.52 eV level reappears in the samples annealed at high temperatures after hydrogenation. The interaction of platinum with various defects and the qualitative arguments based on the law of mass action suggest that the platinum related midgap defect might possibly correspond to the interstitial platinum-divacancy complex (VPtV). © 1999 American Institute of Physics. 	
+
+silicon
+platinum
+elemental semiconductors
+impurity states
+deep levels
+deep level transient spectroscopy
+hydrogenation
+gamma-ray effects
+passivation
+impurity-vacancy interactions

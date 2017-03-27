@@ -1,0 +1,9 @@
+Elastic incoherent neutron scattering is employed to parameterize changes in the atomic/molecular mobility in lithographic polymers as a function of film thickness. Changes in the 200 MHz and faster dynamics are estimated in terms of a harmonic oscillator model and the corresponding DebyeWaller factor mean-square atomic displacement u2	. We generally observe that relatively large u2	 values in the glassy state lead to a strong suppression of u2	 when the polymer is confined to exceedingly thin films. In contrast, this thin film suppression is diminished or even absent if u2	 in the glass is relatively small. We further demonstrate that highly localized side group or segmental dynamics of hydrogen-rich moieties, such as methyl groups, dominate u2	 and that thin film confinement apparently retards these motions. With respect to photolithography, we demonstrate that a reduced u2	 in exceedingly thin model resist films corresponds to a decrease in the reaction front propagation kinetics. © 2003 American Institute of Physics. 
+
+polymer films
+photoresists
+neutron diffraction
+Debye-Waller factors
+localised modes
+self-diffusion
+vibrational modes

@@ -1,0 +1,10 @@
+Strain relaxation behavior in In0.2Ga0.8As/GaAs multiple quantum well (MQW) structures with various barrier thicknesses but with fixed well thickness was characterized by analyzing the x-ray rocking curves and low temperature photoluminescence. For the thick-barrier samples which have good optical characteristics, it is observed that the superlattice x-ray peaks are broadened nonuniformly. This anomalous behavior can be successfully simulated by considering the paired dislocation character in the double-kink type strain relaxation. Meanwhile, the thin-barrier ones show deteriorated optical properties which can be attributed to dislocations located at the MQW-substrate interface. This observation shows that two different relaxation mechanisms are working for the thick- and thin-barrier cases, respectively. © 1997 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+X-ray diffraction
+photoluminescence
+stress relaxation
+dislocations

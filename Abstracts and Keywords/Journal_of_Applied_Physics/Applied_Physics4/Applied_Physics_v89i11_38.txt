@@ -1,0 +1,7 @@
+A theoretical model for the reentrant charge-order transition in the manganites is examined. This transition is studied with a purely electronic model for the eg Mn electrons: the extended Hubbard model. The electronphonon coupling results in a large nearest-neighbor repulsion between eg electrons. Using a finite-temperature Lanczos technique, the model is diagonalized on a 16-site periodic cluster to calculate the temperature-dependent phase boundary between the charge-ordered and homogeneous phases. A reentrant transition is found. The results are discussed with respect to the specific topology of the 16-site cluster. © 2001 American Institute of Physics. 
+
+Hubbard model
+ferromagnetic materials
+charge-ordered states
+electron-phonon interactions
+magnetic transitions

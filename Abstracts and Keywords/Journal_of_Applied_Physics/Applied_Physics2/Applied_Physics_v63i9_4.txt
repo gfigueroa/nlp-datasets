@@ -1,0 +1,12 @@
+The mechanism of oxygen migration during microwavedischarge plasma oxidation of Si is investigated using secondary ion mass spectroscopy depthprofile analysis and 18O as a tracer. The exchange phenomenon between migrating oxygen and its counterpart in SiO2 is observed. When the plasmagrown oxide (Si16O2) is reoxidized in 18O plasma, the 18O is observed both at the Si/SiO2 interface and in the bulk of the Si16O2. In a reverse example, when Si18O2 is reoxidized in 16O plasma, the total amount of preexisting 18O in Si18O2 decreases. The suppression of 18O is more distinct near the surface region. These oxygen distributions indicate that oxygen migrates toward the interface accompanied by oxygen exchange. Since the exchange phenomenon is not observed in dry thermal oxidation, in which oxygen molecules migrate, active oxygen atoms or atom ions should induce the exchange by breaking the SiO bond during migration.
+
+OXYGEN 18
+SILICA
+INTERFACE PHENOMENA
+MIGRATION
+ATOM TRANSPORT
+OXIDATION
+SIMS
+SILICON
+OXYGEN
+PLASMA

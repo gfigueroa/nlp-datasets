@@ -1,0 +1,22 @@
+Spin-dependent tunneling (SDT) structures of TaCuTaCoFeHfOAl2O3FeCoCrPtMn have been deposited by rf diode sputtering. The junctions have been fabricated using photolithographic techniques. A junction magnetoresistive ratio as high as 34% has been obtained after annealing the junctions at 250
+°C for 1 h. The junctions have a typical bias voltage of 475 mV at half-maximum magnetoresistance values. The resistanceareaproduct is about 1 M©
+¼m2, and the dc breakdown voltage is about 1.5 V. AlN has also been investigated as a barrier for the junctions. CoFeHfO layers have a high in-plane induced anisotropy field of 65 Oe and a high 4ÀMs value of 1.2 T, leading to a ferromagnetic resonance frequency higher than 2 GHz. This material has a high bulk resistivity of 1000 ¼©
+cm, resulting in a small eddy current effect. Therefore, a SDT device with CoFeHfO as the free layer is an attractive candidate for high-speed applications. © 2001 American Institute of Physics. 
+
+tantalum
+copper
+cobalt compounds
+iron compounds
+hafnium compounds
+alumina
+iron alloys
+cobalt alloys
+magnetic multilayers
+chromium alloys
+platinum alloys
+manganese alloys
+tunnelling
+sputter deposition
+giant magnetoresistance
+ferromagnetic resonance
+magnetic anisotropy

@@ -1,0 +1,14 @@
+New ionic ferrofluids containing NiFe2O4 nanoparticles of size }10 nm are investigated. The crystalline structure of the particles is probed by transmission electron microscopy and x-ray scattering. Static magnetization and field-induced birefringence measurements are performed on three samples differing by particle volume fraction. Cross analyzing of the results of those two types of macroscopic tests completely rejects a simple single-domain particle model but readily supports the two-component scheme of a particle as consisting of a core with a uniform magnetization and a surface layer of comparable thickness stowed with a spin-glass-like arrangement. © 2000 American Institute of Physics. 
+
+nickel compounds
+nanostructured materials
+ferrites
+magnetic fluids
+magnetic particles
+particle size
+transmission electron microscopy
+X-ray scattering
+magnetisation
+birefringence
+magnetic domains
+spin glasses

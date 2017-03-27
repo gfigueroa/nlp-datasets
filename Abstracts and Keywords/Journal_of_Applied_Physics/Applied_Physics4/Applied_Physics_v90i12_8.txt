@@ -1,0 +1,7 @@
+A numerical study of the laser induced evaporation and ionization process during pulsed laser deposition is presented. The process is separated into three domains: (i) conduction inside the solid, (ii) a discontinuity layer between solid and vapor, and (iii) expansion of high temperature vapor/plasma. A quasi-one-dimensional model is solved to predict the temperature field inside the solid. Mass, momentum, and energy are conserved across the discontinuity layer. Equations of mass, momentum, and energy conservation are solved simultaneously to provide boundary conditions for the expansion process. Euler equations are used to model the expansion of high temperature vapor/plasma. The Euler equations are integrated numerically using a RungeKutta scheme combined with flux vector splitting. The density, pressure, temperature, and velocity contours of the vapor phase are calculated and the results are analyzed. © 2001 American Institute of Physics. 
+
+pulsed laser deposition
+plasma production by laser
+evaporation
+ionisation
+plasma simulation

@@ -1,0 +1,18 @@
+An air flow sensor that uses a flowinduced change of temperature oscillation phase at an airsolid interface is described and analyzed. The sensor is fabricated on silicon coated with polyimide. The source and detector of temperature oscillations are integrated on the same substrate but spatially separated. A narrow strip of metal film driven by ac is the source. A PbTe thinfilm thermocouple is the detector. Device operation in still air is analyzed and compared with experiment. The temperature oscillation amplitude and phase on an interface with an oscillating strip heat source is derived for interface thermal resistance and for a layered substrate. Interference between thermal oscillations propagating from source to detector through the solid and through the air is predicted and observed with a 53¼mthick polymide layer. In contrast, with a 16¼mthick polyimide layer, interference that varies with frequency is not seen, also in agreement with theory. Experimental demonstration of flow response is also reported. Qualitative agreement with the predictions of a timeofflight model of flow response is found.
+
+OSCILLATIONS
+THERMOCOUPLES
+LEAD TELLURIDES
+THERMOELECTRICITY
+SILICON
+SENSORS
+AIR
+GAS FLOW
+AIR FLOW
+OPERATION
+POLYIMIDES
+FILMS
+WAVE PROPAGATION
+FABRICATION
+DESIGN
+HEAT FLOW

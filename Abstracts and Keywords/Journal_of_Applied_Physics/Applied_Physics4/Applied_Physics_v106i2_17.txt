@@ -1,0 +1,13 @@
+GaAs quantum dots formed by Ar+ bombardment under normal beam incidence are investigated in both sputtering time and energy domains. When ion energy is maintained at 1000 eV, the surface morphology is found to saturate with high dot uniformity at 3600 s sputtering time. For longer sputtering times, the surface pattern becomes significantly disordered with fluctuations of < 28 and < 24nm in dot height and base width, respectively. The temporal evolution of dots formed at lower ion energies exhibits a similar trend, as observed at 1000 eV. However, the surface morphology develops in a smaller size scale. Based on the experimental results, we propose a power law model to interpret the correlation between sputtering time and energy as well as their impact on the evolution of lateral dot sizes. The experimental results are in good agreement with the theoretical prediction. Furthermore, photoluminescence is performed to characterize the as-grown and annealed GaAs/AlGaAs quantum dots formed by ion sputtering and molecular beam epitaxy. A significant improvement in the integrated photoluminescence signal has been obtained after thermal annealing, indicating that the potential nonradiative defects can be effectively removed by postgrowth annealing of the sputtering-induced GaAs quantum dot system.
+
+aluminium compounds
+annealing
+argon
+gallium arsenide
+III-V semiconductors
+ion-surface impact
+molecular beam epitaxial growth
+photoluminescence
+semiconductor quantum dots
+sputtering
+surface morphology

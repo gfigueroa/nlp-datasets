@@ -1,0 +1,14 @@
+Eu3+-doped fluorozirconate glasses with two compositions Zr:Ba=1:1(ZB11) and Zr:Ba =3:1(ZB31) were prepared. The emission, excitation, and fluorescence line narrowing spectra of those glasses were measured. Certain differences between the two glasses were observed in the observed spectra. Structural models of the glasses were simulated by molecular dynamics (MD) simulation. The optical spectra of Eu3+ in those glasses were simulated from the simulated glass structures using a point charge crystal field. The differences in spectral characteristics between the two glasses in the observed spectra were reproduced in the simulated spectra. The MD simulation showed that the barium ions were more apt to coordinate to EuFa clusters than the zirconium ions were. © 2001 American Institute of Physics. 
+
+zirconium compounds
+barium compounds
+lanthanum compounds
+aluminium compounds
+europium compounds
+fluoride glasses
+digital simulation
+fluorescence
+spectral line narrowing
+molecular dynamics method
+crystal field interactions
+glass structure

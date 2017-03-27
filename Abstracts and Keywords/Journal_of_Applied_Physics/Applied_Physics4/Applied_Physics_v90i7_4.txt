@@ -1,0 +1,10 @@
+Structural and photovoltaic properties of magnetron sputtered Mo/Si multilayers were studied. Low-angle x-ray diffraction patterns demonstrated that the films had sharp interfaces and good periodicity. Surface photovoltage spectroscopy (SPS) was employed to investigate the electronic transport properties of the multilayers. It was found that the photovoltaic response depended on the composition, the monolayer thickness, and the number of periods. The electronic confinement effects of the semiconductor layers were discussed with an energy band model. SPS results were related to the film structure of the multilayers determined through x-ray diffraction. © 2001 American Institute of Physics.
+
+molybdenum
+silicon
+elemental semiconductors
+multilayers
+sputtered coatings
+surface photovoltage
+X-ray diffraction
+interface states

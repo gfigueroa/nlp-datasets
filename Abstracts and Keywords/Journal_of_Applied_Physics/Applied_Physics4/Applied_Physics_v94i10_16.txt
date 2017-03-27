@@ -1,0 +1,10 @@
+The hysteresis loops of a soft cylindrical particle with radius R=40100	nm have been studied by means of numerical simulation in the range of thickness Lz=1040	nm, close to the exchange length R0. Qualitatively, three different scenarios of magnetization reversal have been obtained depending on the particle thickness and aspect ratio. For a thick particle (LzkR0) with aspect ratio Lz/R<1, the magnetization reversal begins via the nucleation of magnetization curling similar to the case of spherical or ellipsoidal particles of a soft magnetic type. On the contrary, for a particle with a small aspect ratio (Lz/Rj1) the magnetization reversal begins via the nucleation of a bending state, whose magnetization is constrained within the particle plane. For a particle with thickness Lz&gt;R0, the bending state can lose its stability at certain value of applied magnetic field, at which one or two vortices nucleate within the particle. The evolution of the vortex pattern in an applied magnetic field determines the shape of the hysteresis loop. On the other hand, for a thin particle (Lz&lt;R0), the bending state tends to rotate as a whole with a decrease in the applied magnetic field. The total particle magnetization is close to the saturation magnetization, the hysteresis loop being practically rectangular. Thus, the behavior of the particle resembles that of a single-domain one, although the actual particle size exceeds the effective single-domain radius considerably. © 2003 American Institute of Physics. 
+
+magnetisation reversal
+nucleation
+bending
+magnetic particles
+particle size
+magnetic hysteresis
+digital simulation
+soft magnetic materials

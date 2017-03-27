@@ -1,0 +1,8 @@
+In this paper is proposed a fuel cell hybrid power source architecture for electrical vehicle applications that operates at maximum power point (MPP) of the fuel cell stack. The power architecture is implemented and simulated in Matlab - Simulink<sup>&#x00AE;</sup> environment. The models for all used energy source, energy storage devices and power circuits are given. Simulations results and some designing aspects are presented, too.
+
+battery
+fuel cell
+hybrid power source
+maximum power point
+modelling
+ultracapacitor

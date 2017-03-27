@@ -1,0 +1,12 @@
+The epitaxial growth, including submonolayer epitaxial growth, of Cu silicide on Si{111} of standard wafer thickness is studied in situ by lowenergy electron microscopy and photoemission electron microscopy. At elevated temperatures up to about 850 K copper silicide grows as a twodimensional (2D) layer with a (5×5) structure followed by epitaxy of threedimensional (3D) Cu3Si crystals. Atomic steps initially present on the wafer surface bunch into groups of 2 and 3 and facet along the Si110	 directions. Except for steps, monolayer silicide films appear defect and pinholefree down to the resolution limit. Films grown by depositing Cu onto substrates held at room temperature followed by annealing differ in morphology and have 500 times the number of 3D islands as do films grown at the annealing temperature. Above 850 K the Cu dissolves into the bulk. Upon cooling Cu segregates to the surface as a 2D silicide with a (5×5) structure.
+
+COPPER SILICIDES
+LAYERS
+EPITAXY
+SILICON
+SUBSTRATES
+ELECTRON MICROSCOPY
+PHOTOELECTRON SPECTROSCOPY
+PHOTONS
+EV RANGE 0110
+HIGH TEMPERATURE

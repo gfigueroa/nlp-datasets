@@ -1,0 +1,7 @@
+Bi<inf>1/2</inf>Na<inf>1/2</inf>TiO<inf>3</inf> (abreviated as BNT) is considered as a promising lead-free piezoelectric material for sensor and actuator applications. In this study, we demonstrate an improved sol-gel process using rapid thermal annealing (RTA). Our results indicate that thermal annealing in an oxygen atmosphere after each layer of coating is effective in promoting crystallization of the BNT film at a low temperature of 650°C. The resulting film is dense and well crystallized in the perovskite phase. The piezoelectric properties of the sol-gel derived BNT films are characterized with the help of a laser interferometer. The BNT based film is expected to be a new and promising candidate for lead-free piezoelectric MEMS applications.
+
+MEMS
+lead-free
+piezoelectric
+sol-gel
+thin film

@@ -1,0 +1,10 @@
+The electrical characteristics of buriedgate, nchannel junctionfieldeffect transistors (JFETs) fabricated in epitaxial layers grown on 6HSiC wafers have been measured as a function of temperature, from 218 to 773 K (55 to 500	°C). The data are in good agreement with predictions of a model that uses standard abruptjunction, longchannel JFET device equations for which the carrier concentration is calculated based on a twolevel ionization structure for the nitrogen donor. An inverse powerlaw dependence of carrier mobility on temperature is assumed based on recent measurements of Hall mobility in epitaxial films of comparable doping. The only free parameter of the model is the compensation density, which is chosen by fitting the calculated saturated drain current to the measured value at room temperature. There are some deviations between the calculated and measured IV characteristics at both temperature extremes (218 and 773 K), which are attributed to increased substrate resistivity at 218 K and to increased gate leakage current at 773 K. 
+
+FIELD EFFECT TRANSISTORS
+MATHEMATICAL MODELS
+CHANNELS
+SILICON CARBIDES
+IV CHARACTERISTIC
+TEMPERATURE DEPENDENCE
+CARRIER MOBILITY
+EPITAXIAL LAYERS

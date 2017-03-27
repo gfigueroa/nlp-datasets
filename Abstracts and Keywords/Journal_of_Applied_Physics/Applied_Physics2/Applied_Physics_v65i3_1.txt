@@ -1,0 +1,12 @@
+We have observed a peak in deeplevel transient spectroscopy DLTS spectra due to the presence of In in mph type='1' ptype GaAs samples. Both Indoped and nominally undoped samples of GaAs grown from a Garich melt were examined. We observed an electron trap at Ev+0.095 eV in the Indoped material. Annealing experiments indicated that the trap level may be generated in Indoped material when not present in measurable quantities in asgrown crystals. However, annealing undoped samples under identical conditions failed to produce the level. We conclude that the electron trap is related to the presence of In in the ptype GaAs.
+
+TRAPS
+DEEP LEVEL TRANSIENT SPECTROSCOPY
+CRYSTAL DOPING
+IMPURITY STATES
+GALLIUM ARSENIDES
+ANNEALING
+GALLIUM
+INDIUM
+DEEP ENERGY LEVELS
+METASTABLE STATES

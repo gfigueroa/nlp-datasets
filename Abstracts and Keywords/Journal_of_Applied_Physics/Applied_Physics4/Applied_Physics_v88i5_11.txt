@@ -1,0 +1,12 @@
+Oriented melt-spun ribbons with composition Sm1+Y(Co1XCux)5 (X=00.3 and Y=00.2) were fabricated with a wheel speed of 5 m/s, followed by annealing in the temperature range of 6001000
+°C for 30 min. Our results show that a high degree of texture, in which the c axis is parallel to the longitudinal direction of the ribbons, is obtained in all above ribbons. The room temperature intrinsic coercivity can be significantly enhanced by both Sm additions and Cu substitution and coercivities of 21 and 12.4 kOe an achieved in Sm1.15Co5 and Sm(Co0.8Cu0.2)5 ribbons, respectively. Compared with the Sm-doped ribbons, Cu-doped ribbons exhibit a better thermal stability of coercivity and a high intrinsic coercivity of 5.2 kOe can be maintained at 300
+°C in Sm(Co0.8Cu0.2)5 ribbons. Further analysis indicates that the coercivities of Sm- and Cu-doped ribbons are determined by different demagnetization mechanisms. © 2000 American Institute of Physics. 
+
+samarium alloys
+cobalt alloys
+copper alloys
+melt spinning
+annealing
+texture
+coercive force
+demagnetisation

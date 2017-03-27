@@ -1,0 +1,10 @@
+Highly converged local spindensity approximation calculations are used to determine the effectiveness of As as a poisoning agent for the magnetism of bcc Co films grown on GaAs. To do this, supercell calculations of the magnetization were performed using an extension of the general potential linearized augmented planewave method for Co7As, Co15As, and Co31As. The effect of the nearestneighbor relaxation around As impurities, calculated using total energy techniques, was included. It is found that substitutional As is moderately effective as a poisoning agent, each As atom contributes a moment of 3.8¼B, and this may be important in explaining the discrepancy of 0.20.3¼B between the calculated magnetization of bcc Co and the measured magnetization of bcc Co films on GaAs.
+
+COBALT
+THIN FILMS
+ARSENIC ADDITIONS
+MAGNETIZATION
+APW CALCULATIONS
+GALLIUM ARSENIDES
+BCC LATTICES
+SPIN DENSITY

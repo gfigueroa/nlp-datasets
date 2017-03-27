@@ -1,0 +1,12 @@
+The optical reflectivity from highly conducting buried and exposed CoSi2 layers produced by Co ion implantation of Si substrates has been measured over the energy range 0.0126.2 eV (0.2100 ¼m). Both asimplanted and high temperature annealed heteroepitaxial layers were investigated. The frequency dependant optical constants associated with the CoSi2 films were derived from the multicomponent reflectivity spectra; the analysis accounted for the contributions from the SiCoSi2 interfaces. A Drude term was used to describe the free carriers, and a classical oscillator model was included to simulate interband electronic transitions for the CoSi2. The plasma frequency and relaxation time of the free carriers were measured as a function of anneal conditions. A direct correlation between the effective carrier concentration and the measured channeling data from Rutherford backscattering was observed.
+
+COBALT SILICIDES
+OPTICAL REFLECTION
+SILICON
+ION IMPLANTATION
+BURIED LAYERS
+HETEROJUNCTIONS
+ANNEALING
+PLASMONS
+RELAXATION TIME
+RBS

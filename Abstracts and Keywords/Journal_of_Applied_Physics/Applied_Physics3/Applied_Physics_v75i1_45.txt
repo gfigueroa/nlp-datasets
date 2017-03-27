@@ -1,0 +1,14 @@
+Films of caxis YBa2Cu3O7x were grown on yttrium stabilized zirconia (YSZ) substrates by rf magnetron, offaxis sputtering. Due to the large lattice mismatch in this system, three epitaxial orientations may be stabilized, resulting in a large proportion of high angle grain boundaries and, hence, to a reduction in critical currents. A broad study of the effects on epitaxy of various deposition parameters, such as temperature, oxygen partial pressure, and total pressure has been investigated. In addition, film/substrate strain effects have been studied by depositing films of different compositions, i.e., EuBa2Cu3O7x and (Ca,Y)Ba2Cu3O7x, onto YSZ. The influence of both kinetic and thermodynamic parameters on the formation of different orientations has been considered and an understanding of how to control them has been reached. YSZ was used not only as a substrate for YBa2Cu3O7x film growth but also as an ionic conductor to control oxygen activity at the film/substrate interface during deposition. By using this electrochemical technique it has been possible to form uniepitaxial films with good transport properties, under conditions which would otherwise have yielded films of mixed epitaxy and thus degraded superconducting properties.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+SUPERCONDUCTING FILMS
+EPITAXY
+SPUTTERING
+QUATERNARY COMPOUNDS
+GRAIN BOUNDARIES
+ELECTROCHEMISTRY
+STRAINS
+CONTROL
+HIGHTC SUPERCONDUCTORS

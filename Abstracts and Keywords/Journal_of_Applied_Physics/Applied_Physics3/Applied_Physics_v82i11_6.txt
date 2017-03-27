@@ -1,0 +1,11 @@
+We have investigated the microstructures of CoAlO granular thin films, which were prepared by the sputter-deposition technique with various oxygen partial pressures. The constituent phases, grain sizes of granular particles, and width of insulating channels have been evaluated quantitatively. The specimen with the optimum giant magnetoresistance (GMR) is composed of nanoscale Co particles, and these are completely isolated by amorphous aluminum oxide channels. The GMR behavior observed in the CoAlO films has a close correlation with the width of the insulating channel and the grain size of the magnetic particles, which is consistent with the spin-dependent tunneling conduction mechanism of GMR © 1997 American Institute of Physics.
+
+cobalt compounds
+aluminium compounds
+magnetic thin films
+magnetic particles
+crystal microstructure
+sputtered coatings
+grain size
+giant magnetoresistance
+tunnelling

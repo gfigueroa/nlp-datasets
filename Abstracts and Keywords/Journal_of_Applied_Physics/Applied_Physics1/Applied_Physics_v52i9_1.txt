@@ -1,0 +1,11 @@
+The propagation of guided waves in planar optical waveguides characterized by an intensity dependent refractive index is analyzed. Closed form expressions for ”²k, the change in the propagation constant of the symmetric waveguide, were obtained using perturbation theory and were evaluated to predict optimum thickness for maximizing ”². It is found that the maximum value of ”² is inversely proportional to the optimized thickness of the waveguide.
+
+OPTICAL WAVEGUIDES
+OPTIMIZATION
+REFRACTIVITY
+WAVE PROPAGATION
+MATHEMATICAL MODELS
+THEORETICAL DATA
+SYMMETRY
+PERTURBATION THEORY
+THICKNESS

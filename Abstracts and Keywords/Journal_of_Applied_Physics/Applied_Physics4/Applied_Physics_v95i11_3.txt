@@ -1,0 +1,14 @@
+Using first-principles methods, we have calculated structural and magnetic properties of face-centered (L12) and orthorhombic (Pmm2, DO19) phases of Fe3Pt and Fe3Pd. For both alloys, the L12 cubic phase was determined to be the ground state. Unlike the related Co3Pt alloy, the Pmm2 phase cannot be artificially stabilized by controlling, that is, slightly increasing or decreasing, the basal lattice constant (by growing the samples on an appropriate substrate). © 2004 American Institute of Physics. 
+
+iron alloys
+platinum alloys
+palladium alloys
+ferromagnetic materials
+phase equilibrium
+crystal structure
+lattice constants
+ground states
+electronic density of states
+magnetisation
+ab initio calculations
+density functional theory

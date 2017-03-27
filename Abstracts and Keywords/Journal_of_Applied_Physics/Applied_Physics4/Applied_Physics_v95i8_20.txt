@@ -1,0 +1,5 @@
+A resonant microwave cavity operating in the TM010 mode was used to determine the microwave susceptibility of single walled carbon nanotubes (SWNT) that are blended in polymer matricies. The frequencies of the probe signal were 9.8, 11.4, and 35.93 GHz. Samples of 3%19% blends of SWNT in polycarbonate were tested to determine the best blends for shielding of devices from microwaves at these frequencies. It appears that blends of 9%11% are very effective in shielding the electric vector of electromagnetic waves. Both the electric vector and the magnetic vectors were probed by the process to determine the nature of coupling between the SWNTs and the applied fields. Some details are given about the apparatus design that enables computer collection and processing of the data to be achieved. An electronic differentiation technique was used to allow the second derivative of the cavity absorption profile to be displayed for precise measurement. Data are presented to show the relative microwave absorption for different blends of the SWNTs with polycarbonates. © 2004 American Institute of Physics. 
+
+polymer blends
+carbon nanotubes
+electromagnetic wave absorption

@@ -1,0 +1,13 @@
+A novel multipulse laser technique has been used to study the crystallization behavior of the GeTeSe ternary system, and the dependence of the nucleation and growth rates on composition has been related to the optical and structural properties. We show that the Se content is dominant in determining both the nucleation rate and the amorphous optical constants, while the crystalgrowth speed depends primarily on the single or multiphase nature of the resultant crystalline state. In this respect compositions on the GeTeGeSe line are unique in that they are singlephase for a Se content up to 25%. This characterization of both the optical and crystallization behavior has allowed us to identify materials suitable for use in a CDcompatible erasable optical disk based on the phase change principle, in which local amorphous regions in a crystalline film represent data bits. Readout compatibility with a CD imposes extremely stringent conditions on the reflection from the amorphous and crystalline states as well as the crystallization rate, which previous materials had been unable to satisfy. We present optical recording data on a disk using a composition on the GeTeGeSe line, Ge50Te25Se25, in a fivelayer stack, and show that the criteria for a fully CDcompatible erasable disk are fulfilled. © 1996 American Institute of Physics. 
+
+GERMANIUM TELLURIDES
+GERMANIUM SELENIDES
+OPTICAL STORAGE
+CRYSTALLIZATION
+LASER RADIATION
+NUCLEATION
+GROWTH RATE
+AMORPHOUS STATE
+OPTICAL CONSTANTS
+PHASE TRANSFORMATIONS
+THIN FILMS

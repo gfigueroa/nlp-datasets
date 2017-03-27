@@ -1,0 +1,16 @@
+Magnetotransport and magneto-optical measurements on InxGa1xAs/InyAl1yAs modulation-doped strained double quantum wells with a 100 Å In0.8Ga0.2As well and a 100 Å In0.53Ga0.47As quantum wells separated by a 35 Å In0.25Ga0.75As potential barrier were carried out to investigate the electrical and the optical properties of the electron gas in the quantum wells. The Shubnikov-de Haas measurements at 1.5 K demonstrated clearly the occupation of three subbands in the quantum wells by a two-dimensional electron gas. The electron effective masses determined from the slopes of the cyclotron resonance peak energies as a function of the magnetic field were 0.06171 and 0.05228me. The electronic subband energies, the subband energy wavefunctions, and the Fermi energy in the quantum wells were self-consistently calculated a transfer matrix method taking into account the exchange-correlation effect, the strain effect, and the nonparabolicity effect, and the results of the cyclotron resonance measurements qualitatively show the nonparabolicity effect in the strained double quantum well. © 1997 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+aluminium compounds
+semiconductor quantum wells
+magnetoresistance
+magneto-optical effects
+two-dimensional electron gas
+Shubnikov-de Haas effect
+cyclotron resonance
+energy gap
+interface states
+wave functions
+exchange interactions (electron)
+III-V semiconductors

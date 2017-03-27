@@ -1,0 +1,18 @@
+The mechanism of photoluminescence (PL) in hydrogenated amorphous carbon (a-C:H), and nitrogenated and hydrogenated amorphous carbon (a-C:H:N) thin films grown by radio frequency driven plasma enhanced chemical vapor deposition is still a subject of much debate. In this work, we investigate the PL signal obtained from a-C:H and a-C:H:N films, paying particular attention to the effect of nitrogen flow rate during growth, and postgrowth, ex situ annealing on the PL properties of the films. We also correlate the PL spectra to the electronic structure of the films. The films had a low paramagnetic defect density (1017
+cm3). The PL spectra were obtained using the 488 nm (2.54 eV) line of an argon ion laser, as the excitation source. It was observed that the nitrogenation of the films leads to the creation of new bands in the PL signal, which were correlated to the bond fraction of CN triple bonds, as measured by infrared spectroscopy. © 2000 American Institute of Physics. 
+
+carbon
+amorphous state
+inorganic polymers
+photoluminescence
+hydrogen
+nitrogen
+hydrogenation
+nitridation
+thin films
+plasma CVD coatings
+annealing
+band structure
+defect states
+bonds (chemical)
+noncrystalline structure

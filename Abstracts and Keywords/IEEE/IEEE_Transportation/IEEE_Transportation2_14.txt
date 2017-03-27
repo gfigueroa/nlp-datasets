@@ -1,0 +1,7 @@
+The objective of this research is to propose passage route navigation algorithms by which a holon-type mobile robot finds an optimal passage route to catch up with a moving target while avoiding moving obstacles. In this context, ldquoholon-typerdquo means ldquofree of directional constraints in motionrdquo. The authors have developed efficient algorithms under the dynamic environments, based on the distance field model (DFM). The DFM was come up with by the authors for space reasoning, that is, recognition and understanding of the space, and applied successfully for developing passage route navigation algorithms under static environments where targets and obstacles are located fixed. In this paper, we have introduced time varying objects for defining moving targets and obstacles to the static algorithm. And, the new passage route navigation algorithms are constructed in dynamical way. We have verified by using simulation programs that they really find optimal paths efficiently.
+
+A* algorithm
+distance field
+dynamic environments
+passage route navigation
+robot control

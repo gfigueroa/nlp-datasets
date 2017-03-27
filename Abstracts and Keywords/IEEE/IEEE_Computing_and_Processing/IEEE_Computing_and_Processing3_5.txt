@@ -1,0 +1,7 @@
+In this paper, we propose two memoryless converters for the moduli set {2<sup>2n+1</sup> -1,2<sup>2n</sup>,2<sup>n</sup> -1}. First, we propose a novel reverse converter, which is purely adder based, using the traditional Chinese remainder theorem (CRT). Second, due to the fact that the proposed CRT based structure does not cover the entire dynamic range, a second converter, which covers the entire dynamic range based on mixed radix conversion (MRC), is proposed. The CRT based converter outperforms the MRC based converter both in terms of area and delay. In comparison with related best known state of the art converters, they are all outperformed by the proposed CRT based scheme in terms of both area cost and conversion delay. The theoretical evaluation is supported by the experimental results, which are estimated on a Standard Cell 0.13-Â¿m CMOS technology. These experimental results indicate that, on average, for the same dynamic range, the proposed CRT based converter achieves about 23% delay reduction with more than 3% area reduction, when compared to the existing state of the art MRC based converter. Additionally, the proposed CRT based converter is about 6% faster with about 4% area reduction when compared with the existing CRT based converter.
+
+Chinese Remainder Theorem
+Memoryless Converter
+Mixed Radix Conversion
+Residue Number System
+Reverse Converter

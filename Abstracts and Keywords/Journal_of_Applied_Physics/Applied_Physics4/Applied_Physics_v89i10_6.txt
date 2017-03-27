@@ -1,0 +1,10 @@
+Cathode luminescence and x-ray excited luminescence are recorded on Sm-, Eu-, and Gd-doped CdWO4 single crystal surfaces. Luminescence spectra are convoluted to three species at 2.85, 2.54, and 2.22 eV. Yellow cathode luminescence (2.22 eV) is pronounced on a Sm-doped CdWO4 single crystal at room temperature whereas there is no difference in x-ray activated luminescence from pure CdWO4. The effects of impurities are elucidated with x-ray photoelectron spectroscopy. Significant stress is observed in the Sm-doped CdWO4 single crystal. Electron transfer easily occurs in a Gd-doped CdWO4 single crystal to reduce W and Cd ions. Band structures of Sm-, Eu-, and Gd-doped CdWO4 single crystals are elucidated and compared with pure CdWO4. © 2001 American Institute of Physics. 
+
+cadmium compounds
+samarium
+europium
+gadolinium
+scintillation
+cathodoluminescence
+X-ray photoelectron spectra
+band structure

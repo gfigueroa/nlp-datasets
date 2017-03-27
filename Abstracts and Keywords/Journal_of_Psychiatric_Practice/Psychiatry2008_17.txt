@@ -1,0 +1,8 @@
+The aims of this study were to identify specific risk factors associated with completed suicide in a sample of suicide victims diagnosed with mental illness and to discriminate completed suicides from attempted suicide in individuals who did not kill themselves for at least the next 2 years after the index attempt. Ninety-four adults (34 women; 60 men; mean age = 50.81 [SD = 18.08]) admitted to the Division of Psychiatry of the Department of Neurosciences of the University of Parma who died by suicide between 1994-2004 were matched for sex and age (± 2 years) with 94 outpatients (mean age = 50.70 [SD = 18.08]) who made at least one suicide attempt during the years of the study. Data were gathered by proxy-based interviews with referring psychiatrists and general practitioners and from examination of medical records. Suicide victims were more likely to be not married, have poor social support (OR = 5.28), and have more voluntary and compulsory admissions to hospitals (1 admission: OR = 5.44; &gt; 1 admissions: OR= 8.84) than suicide attempters. Suicide victims were also less likely to have had stressful life events during their childhood and adolescence (OR = 0.09) and to be divorced or widowed than were the attempters. 
+
+suicide
+attempted suicide
+hospitalization
+marital status
+social support
+stressful life events

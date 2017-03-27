@@ -1,0 +1,13 @@
+The expression for the optimum phase matching angle for the biaxial crystal KTiOPO4 (KTP) is presented and numerically calculated. The theoretical effective nonlinear coefficient, walkoff angle, and conversion efficiency are determined. The results provide some theoretical and practical guidance for optimum operation of biaxial crystals, with specific numerical calculations for KTP.
+
+potassium phosphates
+titanium oxides
+titanium phosphates
+optimization
+phase shift
+mathematical models
+parametric analysis
+theoretical data
+crystals
+nonlinear optics
+efficiency

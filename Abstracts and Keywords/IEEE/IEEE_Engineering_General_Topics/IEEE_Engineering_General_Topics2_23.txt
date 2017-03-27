@@ -1,0 +1,7 @@
+In this paper, we present a substrate integrated waveguide-based band-pass filter with wide stop-band rejection property. This band-pass filter is made up of two substrate integrated waveguide cavities, which couple to each other by an aperture on their common waveguide side wall. We employed the rigorous mode-matching method to analyze the electromagnetic boundary-value problem of the structure containing multiple discontinuities. In comparison with the conventional end-to-end coupled cavity filters, we found that our new side-wall-coupled cavity filter can suppress the second resonance frequency and, therefore, provide a considerably wide rejection band. It is interesting to note that the suppression of the second resonance frequency can be achieved by properly shifting the second cavity in lateral direction.
+
+band-pass filter
+cavity
+periodic structures
+resonator
+substrate integrated waveguide

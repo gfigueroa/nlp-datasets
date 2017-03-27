@@ -1,0 +1,15 @@
+The CdTe quantum dots (QDs) are synthesized at room temperature in a record minimum time of 5 min by mechanical alloying the stoichiometric mixture of Cd and Te powders under Ar in a high energy planetary ball mill. Microstructure characterization of ball milled CdTe powders by x-ray diffraction employing the Rietveld structure refinement method reveals that the stoichiometric cubic CdTe phase is formed after 15 min of milling and in the course of milling upto 4 h, size of the isotropic QDs reaches < 5nm which is close to that obtained by transmission electron microscope ( < 4.5nm) and quite below the Bohr exciton radius of CdTe ( < 6.9nm). These QDs contain significant amount of stacking and twin faults. Microstructure characterization by high resolution TEM corroborates the findings of the x-ray analysis where the presence of stacking and twin faults on (111) plane are clearly noticed. A distinct blueshift with the decreasing particle size of the QDs in absorbance spectrum confirms the size quantization. Optical band gap of these QDs are very different from the bulk CdTe and changes with increasing milling time and that can be fine tuned with varying milling time.
+
+ball milling
+cadmium compounds
+crystal microstructure
+excitons
+II-VI semiconductors
+mechanical alloying
+particle size
+semiconductor quantum dots
+spectral line shift
+stacking faults
+stoichiometry
+transmission electron microscopy
+X-ray diffraction

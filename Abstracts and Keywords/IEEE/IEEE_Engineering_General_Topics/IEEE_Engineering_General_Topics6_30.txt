@@ -1,0 +1,6 @@
+Recent advances in parallel and distributed computing have made it very challenging for programmers to reach the performance potential of current systems. In addition, recent advances in numerical algorithms and software optimizations have tremendously increased the number of alternatives for solving a problem, which further complicates the software tuning process. Indeed, no single algorithm can represent the universal best choice for efficient solution of a given problem on all compute substrates. In this paper, we develop a framework that addresses the design of efficient parallel algorithms in hierarchical computing environments. More specifically, given multiple choices for solving a particular problem, the framework uses a judicious combination of analytical performance models and empirical approaches to automate the algorithm selection by determining the most suitable execution scheme expected to perform the best at the specific setting. Preliminary experimental results obtained by implementing two different numerical kernels demonstrated the interest of the hybrid performance modeling approach integrated in the framework.
+
+Adaptive algorithms
+Empirical approaches
+Hierarchical clusters
+Performance modeling and prediction

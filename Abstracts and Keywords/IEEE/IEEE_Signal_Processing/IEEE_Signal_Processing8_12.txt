@@ -1,0 +1,6 @@
+Working with New York data as a representative and instructive example, we fuse aerial ladar imagery with satellite pictures and Geographic Information System (GIS) layers to form a comprehensive 3D urban map. Digital photographs are then mathematically inserted into this detailed world space. Reconstruction of the photos' view frusta yields their cameras' locations and pointing directions which may have been a priori unknown. It also enables knowledge to be projected from the urban map onto georegistered image planes. For instance, absolute geolocations can be assigned to individual pixels, and GIS annotations can be transferred from 3D to 2D. Moreover, such information propagates among all images whose view frusta intercept the same urban map location. We demonstrate how many data mining and visualization challenges (e.g. identify all photos containing some stationary ground target, observe some structure from multiple perspectives, quantify match between two pictures, etc) become mathematically tractable once a 3D framework for analyzing 2D images is adopted. Finally, we close by briefly discussing future applications of this work to photo-based querying of urban knowledge databases.
+
+computer visioni
+digital photos
+ladar
+view frusta

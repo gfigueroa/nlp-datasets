@@ -1,0 +1,9 @@
+Variable temperature photoluminescence (PL) measurement of a thermal-annealed 6 nm GaInNAs/GaAs quantum well (QW) is carried out to understand its low-temperature carrier dynamic characteristics. It is found that the effect of carrier localization, which remained after a thermal anneal, is due possibly to a center characterized by a transition with activation energy of 13.7 meV below the e1 state. This result is deduced from fitting the integrated PL intensity versus the temperature data with a single-activation-energy model. A comparable value of 11 meV was also obtained between the low-energy (main localized state) and high-energy (e1 state) Gaussian functions used to fit the low-temperature PL spectrum. The localization effect in the thermal-annealed GaInNAs/GaAs QW is further confirmed by time-resolved PL measurements at 17 K, which showed emission-energy-dependent PL decay time characteristic for the low-energy regime (below 1.045 eV) and nearly constant decay time of about 0.14 ns at the high-energy regime, which corresponds to the e1hh1 transition lifetime. The main localization center could form carrier traps that reduce the e1hh1 PL transition efficiency. © 2003 American Institute of Physics. 
+
+gallium arsenide
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+photoluminescence
+time resolved spectra
+annealing

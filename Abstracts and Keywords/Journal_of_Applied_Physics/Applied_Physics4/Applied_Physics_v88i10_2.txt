@@ -1,0 +1,6 @@
+A method is presented for the evaluation of the charge distribution and quantum-mechanical leakage currents in ultrathin metalinsulatorsemiconductor gate stacks that may be composed of several layers of materials. The charge distribution due to the finite penetration depth inside the insulating material stack is also obtained. The method successfully applies the BreitWigner theory of nuclear decay to the confined carrier states in inversion layers and provides an alternative approach for the evaluation of the gate currents to that based on the WentzelKramersBrillouin approximation or Bardeens perturbative method. A comparison between experimental and simulated currentvoltage characteristics has been carried out. © 2000 American Institute of Physics. 
+
+leakage currents
+MIS capacitors
+inversion layers
+silicon

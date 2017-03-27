@@ -1,0 +1,9 @@
+The intrinsic properties of diamond make this material theoretically very suitable for applications in medical physics. Until now ionization chambers have been fabricated from natural stones and are commercialized by PTW, but their fairly high costs and long delivery times have often limited their use in hospital. The properties of commercialized intrinsic polycrystalline diamond were investigated in the past by many groups. The results were not completely satisfactory due to the nature of the polycrystalline material itself. In contrast, the recent progresses in the growth of high mobility single crystal synthetic diamonds prepared by chemical vapor deposition (CVD) technique offer new alternatives. In the framework of the MAESTRO project (Methods and Advanced Treatments and Simulations for Radio Oncology), the CEA-LIST is studying the potentialities of synthetic diamond for new techniques of irradiation such as intensity modulated radiation therapy. In this paper, we present the growth and characteristics of single crystal diamond prepared at CEA-LIST in the framework of the NoRHDia project (Novel Radiation Hard CVD Diamond Detector for Hadrons Physics), as well as the investigations of high mobility single crystal CVD diamond for radiotherapy photon beam monitoring: dosimetric analysis performed with the single crystal diamond detector in terms of stability and repeatability of the response signal, signal to noise ratio, response speed, linearity of the signal versus the absorbed dose, and dose rate. The measurements performed with photon beams using radiotherapy facilities demonstrate that single crystal CVD diamond is a good alternative for air ionization chambers for beam quality control.
+
+chemical vapour deposition
+diamond
+dosimetry
+ionisation chambers
+radiation detection
+radiation monitoring
+radiation therapy

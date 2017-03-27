@@ -1,0 +1,13 @@
+The magnetocaloric effect of a La2/3(Ca,Pb)1/3MnO3 single crystal was examined. From the measurements of isothermal magnetization and heat capacity around the Curie temperature, we have calculated the maximum isothermal magnetic entropy change as <7.5 J/kg
+K and the adiabatic temperature changes as <5.6 K, near room temperature for a 7 T magnetic field variation. Besides, the sharp drop of resistivity at the insulatormetal transition associated with the magnetic transition gives rise to a large temperature coefficient of resistance (TCR). For the La0.7Ca0.3MnO3 and La2/3(Ca,Pb)1/3MnO3 single crystal, the peak of TCR is <50%/K at 218 K and <10%/K at 290 K, respectively. © 2002 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+lead compounds
+ferromagnetic materials
+colossal magnetoresistance
+magnetocaloric effects
+metal-insulator transition
+Curie temperature
+specific heat
+magnetisation

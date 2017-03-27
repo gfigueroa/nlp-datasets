@@ -1,0 +1,6 @@
+This paper studies the application of artificial immune algorithm to mobile robot path planning inside a specified environment in real time. The biological immune system is firstly analyzed in a relatively deeper and all-sided point of view reflecting the fresh research in biology. Second, the motion characteristic of the car-like autonomous mobile robot is also analyzed. An immunity algorithm adapting capabilities of the artificial immune system is proposed and enable robot to reach the target object safely and successfully fulfill its task through optimal path and with minimal rotation angle efficiency. Finally, the simulation experiment results demonstrate that the proposed AIA based path plan approach behaves more successfully.
+
+Artificial immune algorithm
+mobile robot
+optimal path
+path planning

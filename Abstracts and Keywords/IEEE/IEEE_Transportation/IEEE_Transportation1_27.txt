@@ -1,0 +1,5 @@
+As brushless DC motor (BLDCM) is a multivariable and non-linear system, using conventional PID control can not obtain satisfied control effect. In this paper, a grey PID controller model based on grey theory is presented, and the controller is applied into the BLDCM speed control. In this system, if only use classic PID controller, cannot overcome the shortcomings of parameter uncertain. So we use grey PID controller, divide the motor model into two parts: certainty section and uncertainty section. The uncertainty section can be estimated by grey predictor. The simulation illustrates that excellent flexibility and adaptability as well as high precision and good robustness are obtained by the proposed strategy.
+
+Brush-less DC motor
+Grey PID Control
+Grey theory

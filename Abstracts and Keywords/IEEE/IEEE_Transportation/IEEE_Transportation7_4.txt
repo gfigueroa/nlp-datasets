@@ -1,0 +1,6 @@
+This paper presents an RF frontend architecture for wideband software defined radio to function in 400 MHz to 3.5 GHz frequency range. In wideband frontends, devices with high linearity are used to lower the level of IM products. There are different front-end architectures available for catering to wideband operation. However, some of these, particularly the wideband ones suffer with IM problem. This paper presents a partitioning mechanism that uses multiple medium bands to limit the IM problem. The proposed frequency partitioning scheme makes it possible to suppress IM products further for frontend using devices of given linearity. Thus this helps in achieving better performance along with relaxing the linearity requirement of devices.
+
+IM Analysis
+RF Frontend
+Software Defined Radio
+Wideband Frontend

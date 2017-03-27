@@ -1,0 +1,9 @@
+Based on superconducting MgB2 films with higher critical temperature of 39K and the advantage of the conventional superconductors, those that follow Bardeen-Cooper-Shrieffer theory, fabrication of quasiparticle, and Josephson tunnel junctions have been investigated. To explore the potential of MgB2 for superconductive electronics, the essentials such as clean high quality thin film surfaces and reproducible tunnel junction fabrication are addressed. Our results show clean tunneling characteristics for in situ prepared MgB2 junctions on Si wafer with the measured superconducting energy gap values in good agreement with theory and the feasibility of the technology. The recent results on all-epitaxial MgB2/MgO/MgB2 Josephson junctions will be also reported.
+
+magnesium compounds
+type II superconductors
+superconducting thin films
+Josephson effect
+superconducting transition temperature
+quasiparticles
+superconducting energy gap

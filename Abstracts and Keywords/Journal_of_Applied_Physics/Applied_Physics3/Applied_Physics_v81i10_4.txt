@@ -1,0 +1,16 @@
+Electron transport properties in cubic silicon carbide (²-SiC) quantized inversion layers have been studied and the results of electron mobility calculations at room and higher temperatures have been reported. To do so, we have developed a Monte Carlo simulator used in conjunction with the self-consistent solution of the Poisson and Schroedinger equations. We show that for a fixed inversion charge concentration, ²-SiC inversion layer electrons spread less into the bulk than Si ones as a consequence of the effective mass values. Therefore, the defects of the SiO2/²-SiC (interface roughness, charged centers) will strongly affect electron transport properties. We present simulated mobility curves for quantized ²-SiC inversion layers taking into account different scattering mechanisms which are then compared to Si mobility curves. Special attention has been paid to the effect of Coulomb scattering due to both interface- and oxide-trapped charges. Mobility curves obtained for different interface-trapped charge concentrations show that electrons in silicon carbide inversion layers are more affected by surface defects at room and higher temperatures than they are in silicon inversion layers. © 1997 American Institute of Physics.
+
+inversion layers
+silicon compounds
+wide band gap semiconductors
+Monte Carlo methods
+carrier mobility
+Schrodinger equation
+SILICON CARBIDES
+ELECTRON MOBILITY
+ELECTRIC CONDUCTIVITY
+MONTE CARLO METHOD
+COMPUTERIZED SIMULATION
+POISSON EQUATION
+SCHROEDINGER EQUATION
+COULOMB SCATTERING

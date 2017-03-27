@@ -1,0 +1,21 @@
+Structural properties of an ultrathin, 4.5 nm, erbium-oxide film and electrical properties of metaloxidesemiconductor structure based on it are described. The evolution of the dielectric constant, total charge density, breakdown electric field, and leakage current density with annealing temperature in an oxygen environment are reported. The dielectric constant in the as-deposited state is relatively low, <7, possibly because the initial deposition forms ErO (with low polarizibility) rather than Er2O3. Annealing causes a transformation of ErO to Er2O3 but at the same time it initiates the growth of an interfacial SiO2 layer so that the effective dielectric constant is reduced to 5.5. Using the 4.5 nm film following annealing at up to 750
+°C, we demonstrate an effective oxide thickness in the range 2.43.2 nm, with a leakage current density as low as 12×108
+A/cm2 at an electric field of 106
+V/cm and a breakdown electric field of 0.81.7×107
+V/cm. A shift of the flat band voltage to the positive side and lowering of the total positive charge density down to 1012
+cm2 with annealing temperature are observed and can be explained by a charge compensation mechanism between the charges accumulated at the SiO2/Er2O3 and Si/SiO2 interface. © 2001 American Institute of Physics. 
+
+erbium compounds
+dielectric thin films
+silicon
+elemental semiconductors
+MIS structures
+vacuum deposited coatings
+crystal structure
+permittivity
+electric breakdown
+leakage currents
+current density
+annealing
+interface structure
+charge compensation

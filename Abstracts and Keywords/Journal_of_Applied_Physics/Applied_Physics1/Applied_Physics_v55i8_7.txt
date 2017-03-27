@@ -1,0 +1,16 @@
+The annealing behavior of CdS/CdTe thinfilm solar cells in the temperature range 333 to 373 K has been examined. Admittance spectroscopy was used to characterize the cells. The data were fit to firstorder annealing kinetics for annealing both without and with AM1 illumination. The activation energy was 0.70 eV in the dark and 0.56 eV in AM1. The kinetics are much reduced in AM1, the rate being decreased by about a factor of 5 at 353 K with AM1.
+
+cadmium sulfide solar cells
+cadmium telluride solar cells
+thin films
+kinetics
+activation energy
+annealing
+stability
+efficiency
+crystal defects
+energy gap
+operation
+lifetime
+medium temperature
+electronic structure

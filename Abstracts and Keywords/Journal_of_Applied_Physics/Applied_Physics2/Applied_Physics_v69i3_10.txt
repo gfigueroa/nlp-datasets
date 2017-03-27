@@ -1,0 +1,11 @@
+An attempt is made to investigate the photoemission from ultrathin films, quantum wires and quantum dots of degenerate Kanetype semiconductors, respectively, on the basis of a newly derived dispersion relation of the conduction electrons allowing all types of anisotropies of the band parameters within the framework of k≈p formalism. It is found, taking nCd3As2 as an example, that the photoemission increases with increasing photon energy in a ladderlike manner and also exhibits oscillatory dependences with changing electron concentration and film thickness, respectively, for all types of quantum confinement. The photoemitted current density is greatest for quantum dots and least for ultrathin films in all the cases. In addition, the wellknown results for bulk specimens of parabolic semiconductors have also been obtained from the generalized expressions under certain limiting conditions.
+
+IIV SEMICONDUCTORS
+THIN FILMS
+WIRES
+PHOTOEMISSION
+BAND STRUCTURE
+ANISOTROPY
+DISPERSION RELATIONS
+CADMIUM ARSENIDES
+NTYPE CONDUCTORS

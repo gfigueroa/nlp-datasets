@@ -1,0 +1,18 @@
+Tunnel junctions with AlN (AlNxOy) barriers and CoFe and FeTaN electrodes were studied. The AlN barrier was formed by nitridizing a 10 Å thick Al layer using radio frequency N2 plasma. The nitrogen and oxygen content in the barriers was determined by Rutherford backscattering spectroscopy (RBS) on specially prepared barriers deposited on DLC coated substrates. RBS results indicate less than 10% O2 incorporation in the barrier. Top-pinned junctions formed by nitridizing a 10 Å thick Al layer (CoFe electrodes) show resistance×area products from 73
+©
+¼m2 to 8.5
+k©
+¼m2 for increasing nitridation times from 30 to 200 s, with corresponding tunneling magnetoresistance (TMR) values from 13% to 33%. Bottom-pinned junctions with FeTaN electrodes were also fabricated. Maximum TMR signal is 17% after anneal at 225
+°C for 30 min. In both cases (CoFe or FeTaN electrodes), TMR degrades for anneals above 250
+°C. © 2001 American Institute of Physics. 
+
+cobalt alloys
+iron alloys
+aluminium compounds
+iron compounds
+tantalum compounds
+magnetic multilayers
+tunnelling
+magnetoresistance
+Rutherford backscattering
+annealing

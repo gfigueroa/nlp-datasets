@@ -1,0 +1,6 @@
+LfP (Language for Prototyping) is an ADL (Architecture Description Language) with a hierarchical and modular structure. In this paper, we propose tile logic (a rewriting logic extension) as a suitable semantic framework for this language. Indeed, it contributes to the formalization of LfP by providing a natural description for concurrency, synchronization and hierarchical composition aspects. A straight consequence of this work is the possibility to describe reconfigurable LfP architectures, and to handle with executable specification in Maude allowing hierarchical formal verification.
+
+ADL and its Formal semantics
+Hierarchical Composition
+Synchronization
+Tile Logic based Formalization

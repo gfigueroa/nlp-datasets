@@ -1,0 +1,7 @@
+Our everyday, common sense ability to discern the intentions of others' from their motions is fundamental for a successful cooperation in joint action tasks. In this paper we address in a modeling study the question of how the ability to understand complex goal-directed action sequences may develop during learning and practice. The model architecture reflects recent neurophysiological findings that suggest the existence of chains of mirror neurons associated with specific goals. These chains may be activated by external events to simulate the consequences of observed actions. Using the mathematical framework of dynamical neural fields to model the dynamics of different neural populations representing goals, action means and contextual cues, we show that such chains may develop based on a local, Hebbian learning rule. We validate the functionality of the learned model in a joint action task in which an observer robot infers the intention of a partner to chose a complementary action sequence.
+
+dynamic field model
+intention understanding
+joint action in autonomous robots
+mirror neurons
+social development

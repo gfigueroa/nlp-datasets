@@ -1,0 +1,12 @@
+The redistribution of Ga in amorphous silicon (aSi) in the temperature range of 560830 K by means of mediumenergy ion scattering has been studied. During the initial 10 s of the annealing the diffusivity shows a transient behavior that is attributed to the change in the relaxation state of the amorphous matrix. From 560 to 830 K the diffusivity during relaxation is enhanced by seven to two orders of magnitude compared to the value for bulk aSi. Possible models that show the observed transient diffusion behavior are discussed.
+
+SILICON
+MASS TRANSFER
+GALLIUM
+DIFFUSION
+AMORPHOUS STATE
+ANNEALING
+TEMPERATURE RANGE 04001000 K
+SOLIDPHASE EPITAXY
+ION SCATTERING ANALYSIS
+RELAXATION

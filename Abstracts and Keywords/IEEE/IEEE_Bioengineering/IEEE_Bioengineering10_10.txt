@@ -1,0 +1,7 @@
+CDMA refers to multiple access method in which the individual terminals uses spread spectrum techniques and occupy the entire spectrum whenever they transmit. This feature makes CDMA different from FDMA and TDMA. In the wireless communication, the signal to interference ratio (SIR) and bit error rate (BER) are the predominant parameter that characterizes the system performance. This paper presented here standard Gaussian approximation (SGA) methods presented in the international literature concerning the computation of the SIR and the BER in DS-CDMA systems under perfect and imperfect power control over fading and non-fading channel. The content and conclusions of this paper have driven to take many important decisions by varying different DS-CDMA communication parameters such as processing gain, number of interfering cells, multipath components etc. using SGA techniques. As SGA is analytically developed and is very computationally efficient solution for the system performance estimate in terms of SIR and BER, it helps us to avoid the tedious and cost-inefficient simulations.
+
+BER
+CDMA
+DS-CDMA
+SGA
+SIR

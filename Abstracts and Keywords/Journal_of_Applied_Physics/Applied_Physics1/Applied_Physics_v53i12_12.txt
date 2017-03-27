@@ -1,0 +1,20 @@
+The effects of hydrogen heat treatments are reported on CdS/CuxS polycrystalline thinfilm solar cells. The shortcircuit current Isc of the cells changes in an exponential manner such that Isc =Isc (t=0)e(t/Ä)1/2. The principle physical mechanism responsible for this change appears to be copper diffusion through the CuxS layer as copper oxides at the surface are reduced or formed. We were able to maximize the cell efficiency with an error of 5% or less by monitoring changes in cell parameters during heat treatments. Changes in CuxS stoichiometry were correlated with the sheet resistance of the CuxS layer in completed cells. Results indicate that heat treatment in a hydrogen atmosphere causes an increase in resistivity (corresponding to an increase in stoichiometry) while oxygen causes the reverse.
+
+heat treatments
+experimental data
+films
+thickness
+copper sulfide solar cells
+cadmium sulfide solar cells
+mathematical models
+hydrogen
+polycrystals
+diffusion
+layers
+copper oxides
+efficiency
+parametric analysis
+stoichiometry
+correlations
+electric conductivity
+monitoring

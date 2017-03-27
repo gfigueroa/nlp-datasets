@@ -1,0 +1,7 @@
+We present a method for transforming some outer joins to inner joins and describe a generalized semijoin reduction technique. The first part of the paper shows how to transform a given outer join query whose join graph is a tree to an equivalent inner join query. The method uses derived relations and join predicates. Derived relations contain columns corresponding to join conditions and may have virtual row identifiers, rows and attribute values. The constructed inner join query, after elimination of virtual row identifiers, has the same join tuples as the outer join query. Both the theoretical maximum number of virtual rows and the average number in practice are shown to be low. The method confines consideration of the non-associativity of outer joins to a single step. The second part of the paper generalizes to outer joins the well known technique of semijoin reduction of inner joins. It does so by defining the notions of influencing and needing, and using them to define full reduction and reduction plans. The technique is applied here to perform one step of the method presented in the first part. Semijoin reduction is useful in practice for executing join queries in distributed databases.
+
+Outer join evaluation
+Virtual row method
+Join transformation
+Semijoin reduction
+Efficient join evaluation

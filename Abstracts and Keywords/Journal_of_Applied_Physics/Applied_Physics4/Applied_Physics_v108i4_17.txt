@@ -1,0 +1,10 @@
+Laser direct deposition is widely used for rapid freeform fabrication of fully dense components with good metallurgical properties directly from computer-aided design drawings. Because of complex physics involved such as laser powder interaction, laser substrate interaction, track interface evolution, and melt-solid interaction, it is important to develop simulation models to better understand the characteristics and mechanisms in the process so that optimization and control of a laser direct deposition process are possible. In this paper, a new comprehensive three-dimensional self-consistent transient model is presented for a coaxial laser direct deposition process, which considers physical behaviors such as laser particle interaction, mass addition, heat transfer, fluid flow, melting, and solidification. A continuum model is built to deal with different phases (gas, liquid, solid, and mushy zone) in the calculation domain. An improved level-set method, which takes the conservative form while being implicitly solved with other governing equations, is proposed to track the evolution of free liquid/gas interface during the deposition process. To make the model more physically complete than those in the literature, a newly derived mass source term, which considers the rate of the gas phase being replaced by the deposited material due to the moving interface in some control volumes, is incorporated into the continuity equation. Corresponding new source terms of enthalpy and momentum due to the moving interface are also derived and embedded in the energy and momentum equations. The governing equations are discretized using the finite volume approach to better predict the fluid motion mainly driven by capillary and thermocapillary forces. The simulated track heights, widths, molten pool depths, and track profiles agree well with the experimental results.
+
+enthalpy
+finite volume methods
+heat transfer
+laser deposition
+melting
+net shape forming
+SCF calculations
+solidification

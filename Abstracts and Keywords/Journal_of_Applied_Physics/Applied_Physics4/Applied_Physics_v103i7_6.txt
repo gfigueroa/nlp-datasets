@@ -1,0 +1,12 @@
+Low dielectric constant (low-k) films have been widely used as insulating materials in ultra-large-scale integrated circuits. Low-k films receive heavy damage during the plasma processes of etching or ashing, resulting in an increase in their dielectric constant. In order to realize damage-free plasma processes for low-k films, it is essential to determine the influence of radiation, radicals, and ions emitted in the plasma process on the characteristics of low-k films. We have developed a technique to evaluate the influence of radiation, radicals, ions, and their synergies on films in real plasma processes and have named it pallet for plasma evaluation (PAPE). Using the PAPE, plasma-induced damage on porous SiOCH films were investigated in dual-frequency capacitively coupled H2/N2 plasmas. The damage was characterized by ellipsometry, Fourier-transform infrared spectroscopy, and thermal desorption spectroscopy. On the basis of the results, the damage mechanisms associated with vacuum ultraviolet (VUV) and UV radiation, radicals, and ions were clarified. The damage was caused not only by ions and radicals but also by VUV and UV radiation emitted by the plasmas. Moreover, it was found that the synergy between the radiation and the radicals enhanced the damage.
+
+Fourier transform spectra
+infrared spectra
+low-k dielectric thin films
+permittivity
+plasma materials processing
+porous materials
+silicon compounds
+sputter etching
+thermally stimulated desorption
+ultraviolet radiation effects

@@ -1,0 +1,7 @@
+A simple analytical model for segregation and redistribution of ion implanted erbium during solid phase epitaxial recrystallization in silicon has been developed. During the recrystallization process, defects at the crystalline-amorphous interface act as dynamic traps for erbium. When density of erbium in the segregation spike at the growth front exceeds the interface trap density, the excess erbium gets trapped within the recrystallized layer. Impurity segregated from the interface has been assumed to be uniformly distributed within a migration length. Good agreements with experimental data have been found for trap density of 6×10<sup>20</sup>/cm<sup>3</sup> and a migration length of 10 nm.
+
+erbium
+ion implantation
+recrystallization
+segregation
+solid phase epitaxy (SPE)

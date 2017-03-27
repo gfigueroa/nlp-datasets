@@ -1,0 +1,5 @@
+This work examines the influence of limited instrumental bandwidth on the accuracy of recovery of the density of localized states in semiconductors from transient and modulated photoconductivity data. Paradoxically, knowledge of the short-time transient photoresponse can be vital in the estimation, via a Fourier transform, of the density of deep-lying states. We demonstrate that retention of the natural response of a bandwidth limited system, although subject to distortion at short times, can lead to much improved accuracy in density of states determination than simple truncation of the short-time response. It is shown that this improvement arises simply from the integrating effect of a bandwidth limited system over short time intervals, which makes it possible to access and exploit information originating at times much shorter than the instrumentation rise time. These concepts are exemplified using computer simulated transient photoconductivity for several model systems including one which mimics the expected density of states in amorphous silicon. © 2000 American Institute of Physics. 
+
+photoconductivity
+localised states
+deep levels

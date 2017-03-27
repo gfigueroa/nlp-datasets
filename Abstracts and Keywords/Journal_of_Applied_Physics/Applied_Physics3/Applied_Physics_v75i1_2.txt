@@ -1,0 +1,13 @@
+Dyadic Greens functions in the unbounded chiral medium are expanded by the vector wave functions in unbounded chiral media for Cartesian, cylindrical, and spherical coordinate systems. These expressions are useful to treat the radiation and scattering in planarly, cylindrically, and spherically layered media. Instead of the eigenfunction expansions of the dyadic Greens functions, the dyadic Greens functions in isotropic media are used, remarkably simplifying the derivation of dyadic Greens functions in chiral media. As the first illustrative application, Sommerfeld integral representations of the dyadic Greens functions and dipole radiations in a planarly layered chiral medium are presented via a novel derivation. As the second application example, by the method of images the closed expression of dyadic Greens functions are obtained for an isotropic chiral halfspace bounded by a perfectly conducting plane. The established asymptotic and numerical methods for Sommerfeld integrals in isotropic media are therefore applicable to the corresponding problems in multilayer chiral media.
+
+MULTILAYERS
+CHIRALITY
+GREEN FUNCTION
+WAVE EQUATIONS
+SCATTERING
+MEDIA
+WAVE PROPAGATION
+SCATTERING
+SOMMERFELD INTEGRALS
+DIPOLES
+RADIATIONS

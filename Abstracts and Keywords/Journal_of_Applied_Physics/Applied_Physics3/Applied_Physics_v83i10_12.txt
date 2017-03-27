@@ -1,0 +1,10 @@
+Experimental results are presented on the electrical properties of lightly boron doped bulk Si1xGex as a function of the Ge content x in the range 0&lt;x&lt;0.13. Calculations of the hole mobility in Si and in Si1xGex and comparison with experimental results allow us to estimate the averaged scattering potential of the randomly distributed Ge atoms to be 0.55 eV. From Hall effect and capacitancevoltage measurements, a Hall factor around 0.8 at T = 300
+K is derived. Hall effect measurements in the temperature range 20300 K enable us to determine the boron acceptor activation energy, which decreases from 45 meV at x = 0 down to 32 meV for x = 0.13, and to estimate the hole effective masses to be meff/m0 H 0.45. © 1998 American Institute of Physics.
+
+Ge-Si alloys
+semiconductor materials
+boron
+hole mobility
+Hall effect
+effective mass
+impurity states

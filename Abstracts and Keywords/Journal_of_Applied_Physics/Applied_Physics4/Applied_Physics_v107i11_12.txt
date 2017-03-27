@@ -1,0 +1,6 @@
+We investigate the effect of varying both incoming optical wavelength and width of NbN nanowires on the superconducting single photon detectors (SSPD) detection efficiency. The SSPD are current biased close to critical value and temperature fixed at 4.2 K, far from transition. The experimental results are found to verify with a good accuracy predictions based on the hot spot model, whose size scales with the absorbed photon energy. With larger optical power inducing multiphoton detection regime, the same scaling law remains valid, up to the three-photon regime. We demonstrate the validity of applying a limited number of measurements and using such a simple model to reasonably predict any SSPD behavior among a collection of nanowire device widths at different photon wavelengths. These results set the basis for designing efficient single photon detectors operating in the infrared (25¼m range).
+
+nanowires
+niobium compounds
+photodetectors
+photons

@@ -1,0 +1,4 @@
+The identification of a crack in a conducting half space is considered. The equivalent current distribution model is applied to crack identification using boundary measurements of a dc magnetic field. A general uniqueness theorem is proved, and an explicit formula is given for identifying a surface-breaking crack whose contour is part of an ellipse. An explicit formula is also given for the identification of a long surface-breaking crack using boundary measurements of a dc electric field. © 1999 American Institute of Physics.
+
+crack detection
+current distribution

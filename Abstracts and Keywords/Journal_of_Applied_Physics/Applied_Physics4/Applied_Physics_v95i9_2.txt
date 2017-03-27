@@ -1,0 +1,10 @@
+The effect of plasmon and LO-phonon damping on the optical measurements of InN films is discussed. Phonon and plasmon damping dramatically modifies the spectral features of the optical spectra and destabilizes the coupled modes of the system. Phonon damping affects the optical properties in a qualitatively different way from plasmon damping. Increased phonon damping leads to a merging of the coupled modes for a certain range of carrier density. Plasmon damping broadens the spectral linewidths of both of the coupled modes when plasmon energies are of the order of LO-phonon energies. However, when plasmon energies are larger than LO-phonon energies, increasing plasmon damping makes the higher-energy mode completely degenerate with plasmon, and may even have lower energies than plasmon. In weakly damped situations, we also discuss the low-energy optical transmission region that forms in between the coupled modes. Finally, the effect of plasmon and LO-phonon coupling on the analyses of the experimental infrared reflection data of InN films (for different electron densities) is discussed. © 2004 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor thin films
+carrier density
+phonon-plasmon interactions
+infrared spectra
+spectral line broadening

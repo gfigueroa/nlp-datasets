@@ -1,0 +1,8 @@
+Experimental results of the nonlinear dynamic response of a piezoelectric high displacement actuator known as thin-layer composite unimorph ferroelectric driver and sensor were compared to a theoretical model, which utilizes the multiple scales method to connect the effective spring constant to higher-order stiffness constants c4 of the piezoelectric layer. This type of actuator has prestress gradients resulting from the manufacturing process that have been reported to play an important role in enhanced actuation. A value of c4 = 4.7×1020N/m2 was obtained for the higher-order lead zirconate titanate (PZT) stiffness coefficient, which is higher than other published results for PZT without prestress gradients. Peak resonance displacements over 1mm were obtained for even small (100Vpp) applied fields. The analysis showed a slight voltage dependence that was not specifically accounted for in the theory. This was confirmed by recasting data from other published results and further confirmed by dc offset studies reported here.
+
+lead compounds
+piezoelectric actuators
+nonlinear dynamical systems
+ferroelectric devices
+sensors
+elastic constants

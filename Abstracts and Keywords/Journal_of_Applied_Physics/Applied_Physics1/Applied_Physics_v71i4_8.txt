@@ -1,0 +1,12 @@
+An ensemble Monte Carlo simulation of hole transport in the emitters of ultrasmall npn bipolar transistors is presented in this paper. A small number of holes in a heavily doped emitter permit us to follow the entire history of all holes in the emitter over a long period of time. Most of the important scattering mechanisms and the bandtoband Auger recombination are included in the simulator. The minorityhole mobility was calculated and compared with the best existing measurement results. Reasonable agreement between the theory and experiments has been achieved. The fluctuation in the base current, which is a fundamental limitation in scaling bipolar transistors operating at very high speed, was extensively studied.
+
+BIPOLAR TRANSISTORS
+NTYPE CONDUCTORS
+DOPED MATERIALS
+HOLE MOBILITY
+MONTE CARLO METHOD
+TWODIMENSIONAL CALCULATIONS
+AUGER EFFECT
+SCATTERING
+FLUCTUATIONS
+SIMULATION

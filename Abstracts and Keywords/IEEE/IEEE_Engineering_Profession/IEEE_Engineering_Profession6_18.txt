@@ -1,0 +1,6 @@
+This paper constructs a model of subjective interestingness in order to study the differences among customer purchase patterns. Firstly, traditional purchase patterns can be found by using mining algorithms for association rules and they are considered as some beliefs of the model, that is, some generally acknowledged laws. Then from each type of customer group, we can find some new purchase patterns. Next, the subjective interestingness values of the new patterns can be computed by comparing these new purchase patterns with existing beliefs. Thus we can get the subjective interestingness value of each customer group. The customer groups with low interestingness values indicate that their purchase behaviors are similar to those we have found and so we can use the existing patterns to represent the customers' behaviors, whereas for the customer groups with high interestingness values, their purchase behaviors are very different from common customers, and the existing purchase patterns can not represent these customers' behaviors, so these customers are of great value to further research.
+
+CRM
+association rules
+purchase patterns
+subjective interestingness

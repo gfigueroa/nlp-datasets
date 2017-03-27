@@ -1,0 +1,13 @@
+The contribution of Gd and/or (Fe,Co) to the saturation magnetostriction constant 製 of pseudobinary Gdx(Fe100yCoy)100x (9&lt;x&lt;65, y=100, 74,38, or 0) films has been examined by substituting nonmagnetic Y for Gd or nonmagnetic Cu for (Fe,Co) and comparing 製 of these alloys at 300 and 80 K. The magnetostriction of Gdx(Fe,Co)100x as well as Yx(Fe,Co)100x films are positive and the composition (x) dependence of 製 in Gd alloys is similar to Y alloys, but 製 of Gd alloys are larger than Y alloys. It was further found that GdxCu100x (35&lt;x&lt;60) shows positive 製 at 80 K. These facts indicate positive contribution of Gd to 製 in amorphous Gd(Fe,Co) alloys.
+
+GADOLINIUM ALLOYS
+YTTRIUM ALLOYS
+IRON ALLOYS
+COBALT ALLOYS
+AMORPHOUS STATE
+THIN FILMS
+MAGNETOSTRICTION
+MEDIUM TEMPERATURE
+LOW TEMPERATURE
+ANISOTROPY
+CHEMICAL COMPOSITION

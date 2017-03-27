@@ -1,0 +1,14 @@
+ZnSe thin films were grown by plasmaassisted metalorganic chemical vapor deposition (MOCVD). Plasmaassisted MOCVD is a technique combining rf glow discharge decomposition (at 13.56 MHz) with conventional metalorganic chemical vapor deposition. This process may offer several advantages such as lowtemperature growth, high chemical reactivity, cleaning effect of substrate surface, and good surface morphology. The metalorganic sources used were diethylzinc and diethylselenide. The epitaxial films were obtained at the low substrate temperature of 250	°C by plasmaassisted MOCVD. The grown films showed excellent surface morphology and uniformity over a large area. These films were applied to Al/ZnSe:Mn/ITO (indium tin oxide) dcoperated electroluminescent cells. As a manganese source, diÀcyclopentadienyl manganese [(C5H5)2Mn] was successfully used.
+
+ZINC SELENIDES
+CHEMICAL VAPOR DEPOSITION
+MORPHOLOGY
+SURFACE STRUCTURE
+GLASS
+GALLIUM ARSENIDES
+ELECTROLUMINESCENCE
+ALUMINIUM
+ITO LAYERS
+HIGH TEMPERATURE
+EPITAXIAL LAYERS
+VAPOR DEPOSITED COATINGS

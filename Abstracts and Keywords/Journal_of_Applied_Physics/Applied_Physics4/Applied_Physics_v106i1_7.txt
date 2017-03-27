@@ -1,0 +1,9 @@
+We describe the concept, the fabrication, and the most relevant properties of a piezoelectric-polymer system: Two fluoroethylenepropylene (FEP) films with good electret properties are laminated around a specifically designed and prepared polytetrafluoroethylene (PTFE) template at 300	°C. After removing the PTFE template, a two-layer FEP film with open tubular channels is obtained. For electric charging, the two-layer FEP system is subjected to a high electric field. The resulting dielectric barrier discharges inside the tubular channels yield a ferroelectret with high piezoelectricity. d33 coefficients of up to 160 pC/N have already been achieved on the ferroelectret films. After charging at suitable elevated temperatures, the piezoelectricity is stable at temperatures of at least 130	°C. Advantages of the transducer films include ease of fabrication at laboratory or industrial scales, a wide range of possible geometrical and processing parameters, straightforward control of the uniformity of the polymer system, flexibility, and versatility of the soft ferroelectrets, and a large potential for device applications e.g., in the areas of biomedicine, communications, production engineering, sensor systems, environmental monitoring, etc.
+
+discharges (electric)
+electrets
+materials preparation
+piezoelectric thin films
+polymer films
+sensors
+transducers

@@ -1,0 +1,18 @@
+We have investigated the adsorption of hydrogen of multiwall carbon nanotubes synthesized by the pyrolysis method using a lanthanum nickel hydrogen storage alloy as a catalyst. The mechanism of carbon nanotubes synthesized using a LaNi alloy catalyst is discussed. In the hydrogen atmosphere and high-temperature process of carbon nanotube preparation, the LaNi5 alloy particle may be changed into an intermetallic compound of Ni and La by the analysis of the x-ray diffraction patterns and energy-dispersive x-ray spectroscopy of the nanotubes samples using a LaNi alloy as a catalyst. The H2 uptake capacity of the carbon nanotubes using a LaNi alloy catalyst is about 5 wt
+% through to the pressure of 10 MPa. Using a LaNi alloy as a catalyst increases the effect of chemistry adsorption in the H2 adsorption of the LaNi alloy catalyzed carbon nanotubes. The PCT curve has an approximate plateau. The LaNi alloy catalyzed carbon nanotubes have better activation for H2 uptake and larger hydrogen uptake in comparison to the carbon nanotubes without using a LaNi alloy catalyst, and the hydrogen uptake increases with increasing hydrogen pressure from 2 MPa to 8 MPa at room temperature. The hydrogen uptake versus time showing a hydrogen uptake rate of carbon nanotubes using the LaNi alloy catalyst was raised by the heat treatment from 1.0 wt
+% (heat treatment temperature 100
+°C) to 2.3 wt
+% (heat treatment temperature 700
+°C) at the H2 pressure of 5 MPa. © 2003 American Institute of Physics. 
+
+carbon nanotubes
+hydrogen
+hydrogen economy
+adsorption
+pyrolysis
+catalysts
+lanthanum alloys
+nickel alloys
+X-ray diffraction
+X-ray chemical analysis
+heat treatment

@@ -1,0 +1,6 @@
+A novel and convenient multi-camera self-calibration method is proposed in this paper. Different from other calibration methods, our method is done by analyzing human body motion. The only constraint is that several people of different heights are needed to walk around the experimental environment one by one in the calibration period. By this way, two kinds of corresponding points are extracted from synchronous video sequences. One is the centroid of the moving human body. The other is points on the floor, which is extracted by matching floor planes in video sequences. The floor planes registration is based on shadow detection and co-motion feature. Based on these corresponding points, camera parameters and 3D points observed are estimated. The proposed method is tested in our own experimental environment. Experimental results show the accuracy of our calibration method. Our method can satisfy many applications of multi-view computer vision.
+
+correspondence
+multi-camera
+self-calibration
+structure from motion

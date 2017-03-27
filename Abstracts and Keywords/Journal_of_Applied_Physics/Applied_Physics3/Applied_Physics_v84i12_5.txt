@@ -1,0 +1,9 @@
+Cu2xSe is an important impurity phase of the ternary chalcopyrite semiconductor CuInSe2 associated with Cu/In composition ratios greater than unity. We have observed directly in a prototypical epitaxial system the formation of Cu2xSe on Cu-rich CuInSe2 thin films epitaxially grown on GaAs (001). Atomic force microscopy measurements of the surface topology of as-grown films clearly show faceted rectangular crystallites with dimensions on the order of 100 nm. Cross-sectional transmission electron microscopy measurements of the Cu-rich CuInSe2 showed rectangular protrusions on the surface as well as wedge shaped facets in the CuInSe2 film. Two-dimensional reciprocal space x-ray mapping of the as-grown Cu-rich CuInSe2 showed the in-plane lattice constant of the Cu2xSe phase to be partially strained to the CuInSe2 layer. The presence of the ² phase of Cu2xSe is also presented as an alternative explanation for CuPt ordering reports in CuInSe2 that have appeared in the literature. Strain-related surface undulations observed only in Cu-rich CuInSe2 are also linked to the presence of this strained Cu2xSe layer. © 1998 American Institute of Physics.
+
+copper compounds
+indium compounds
+ternary semiconductors
+semiconductor epitaxial layers
+phase diagrams
+atomic force microscopy
+transmission electron microscopy

@@ -1,0 +1,5 @@
+In a recent article Chang and Xia [J. Appl. Phys. 84, 1454 (1998)] studied theoretically the effects of the electric field on the electronic structure of a spherical semiconductor nanocrystal. The computed hole energies versus electric field intensity show a pattern of avoided crossings and nonzero slopes at zero field. It is argued here that these results are physically incorrect and are possibly due to the use of an incomplete basis set. © 2004 American Institute of Physics. 
+
+semiconductor quantum dots
+nanostructured materials
+electric field effects

@@ -1,0 +1,13 @@
+We describe how to choose the most stable of several equilibrium states that may exist in a liquidcrystal cell at the same voltage V (or charge Q). Among states that exist at the same charge Q, the state with the lowest total free energy F is the most stable. Among states that exist at the same voltage V, the state with the lowest electric Gibbs function (FQV) is the most stable. Thus the relative stability of various equilibrium states can be compared by plotting G against V or F against Q. An example is given to illustrate the importance of a correct pairing of thermodynamic functions and independent variables.
+
+LIQUID CRYSTALS
+STABILITY
+EQUILIBRIUM
+ELECTRIC FIELDS
+CONFIGURATION
+MATHEMATICAL MODELS
+ELECTRIC POTENTIAL
+FREE ENERGY
+GIBBS FREE ENERGY
+COMPARATIVE EVALUATIONS
+THERMODYNAMICS

@@ -1,0 +1,9 @@
+Pure water is a weak electrolyte that dissociates into hydronium ions and hydroxide ions. In contact with a charged electrode a double layer forms for which neither experimental nor theoretical studies exist, in contrast to electrolytes containing extrinsic ions like acids, bases, and solute salts. Starting from a self-consistent solution of the one-dimensional modified PoissonBoltzmann equation, which takes into account activity coefficients of point-like ions, we explore the properties of the electric double layer by successive incorporation of various correction terms like finite ion size, polarization, image charge, and field dissociation. We also discuss the effect of the usual approximation of an average potential as required for the one-dimensional PoissonBoltzmann equation, and conclude that the one-dimensional approximation underestimates the ion density. We calculate the electric potential, the ion distributions, the pH-values, the ion-size corrected activity coefficients, and the dissociation constants close to the electric double layer and compare the results for the various model corrections. © 2004 American Institute of Physics. 
+
+electrochemistry
+liquid theory
+electrochemical electrodes
+dissociation
+ion density
+pH
+water

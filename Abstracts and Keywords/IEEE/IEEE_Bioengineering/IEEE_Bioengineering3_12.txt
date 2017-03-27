@@ -1,0 +1,6 @@
+The discriminative framework for protein remote homology detection based on support vector machines (SVMs) is reconstructed by the fusion of sequence based features. In this respect, n-peptide compositions are partitioned and fed into separate SVMs. The SVM outputs are evaluated with different techniques and tested to discern their ability for SCOP protein super family classification on a common benchmarking set. It reveals that the fusion approach leads to an improvement in prediction accuracy with a remarkable gain on computer memory usage.
+
+data fusion
+n-peptite compositions
+protein homology detection
+support vector machines

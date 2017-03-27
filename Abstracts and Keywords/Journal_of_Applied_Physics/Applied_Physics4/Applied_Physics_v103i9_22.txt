@@ -1,0 +1,8 @@
+We present a characterization technique for the determination of the stress tensor as well as of the crystallographic orientation of strained semiconductor structures. The technique is based on a polarized oblique incidence micro-Raman experiment in a backscattering configuration. A methodology relating the stress-induced frequency shifts and linewidths of the phonon peak to the stress tensor components within the adopted experimental configuration was developed. The method consists in monitoring the variations of the stress-sensitive peak frequencies and linewidths while rotating stepwise the sample about its normal. The practical application of the technique is illustrated on a Si/SiGe sample microelectronic structure demonstrating a full plane stress tensor determination.
+
+Ge-Si alloys
+interface structure
+phonons
+Raman spectra
+refractive index
+silicon

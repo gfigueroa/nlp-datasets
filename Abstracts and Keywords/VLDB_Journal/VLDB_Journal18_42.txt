@@ -1,0 +1,6 @@
+This paper answers the following question; given a multiplicity of evolving 1-way conversations, can a machine or an algorithm discern the conversational pairs in an online fashion, without understanding the content of the communications? Our analysis indicates that this is possible, and can be achieved just by exploiting the temporal dynamics inherent in a conversation. We also show that our findings are applicable for anonymous and encrypted conversations over VoIP networks. We achieve this by exploiting the aperiodic inter-departure time of VoIP packets, hence trivializing each VoIP stream into a binary time-series, indicating the voice activity of each stream. We propose effective techniques that progressively pair conversing parties with high accuracy and in a limited amount of time. Our findings are verified empirically on a dataset consisting of 1,000 conversations. We obtain very high pairing accuracy that reaches 97% after 5 min of voice conversations. Using a modeling approach we also demonstrate analytically that our result can be extended over an unlimited number of conversations.
+
+Stream clustering
+Binary time-series clustering
+Voice-over-IP
+Conversation pairing

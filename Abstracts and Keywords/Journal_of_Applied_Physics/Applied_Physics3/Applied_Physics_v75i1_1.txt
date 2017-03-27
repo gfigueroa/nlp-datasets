@@ -1,0 +1,13 @@
+Semiconductor lasers with stable longitudinal singlemode operation are essential for optical fiber communication systems. Distributed feedback (DFB) lasers are effective to obtain a stable longitudinal singlemode operation; however, stability is not enough mainly because of the spatial holeburning effect. A corrugationpitchmodulated (CPM) structure was proposed to improve the stability of longitudinal singlemode operation in distributed feedback lasers. CPMDFB lasers have a unique corrugation structure to suppress the spatial holeburning effect. This structure was obtained by a newly developed corrugation fabrication method, a photomask selfinterference method. It is confirmed that the CPMDFB lasers operate in a stable longitudinal singlemode by suppressing the spatial holeburning effect. This structure is also suitable for narrowing the spectral linewidth for use in coherent optical fiber communication systems. Narrow spectral linewidth lasers with a CPM structure have achieved the narrowest spectral linewidth reported to date.
+
+DISTRIBUTED FEEDBACK LASERS
+SPECTRAL ANALYSIS
+REVIEWS
+SEMICONDUCTOR LASERS
+STABILITY
+HOLE BURNING
+FABRICATION
+MODULATED MATERIALS
+LINE WIDTHS
+OPTICAL COMMUNICATION SYSTEMS
+OPTICAL FIBERS

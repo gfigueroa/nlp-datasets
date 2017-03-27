@@ -1,0 +1,9 @@
+We have grown microcrystalline silicon by a remote plasma chemical vapor deposition technique using silane and helium only, without hydrogen dilution. The optimum growth temperature and rf power are 330	°C and 100 W, respectively. These results indicate that an atomic hydrogen environment on the growing surface is not always necessary to grow microcrystalline (¼c)Si at low temperatures. It is found that the exposure of He plasma on the growing surface of ¼cSi etches the Si layer, explaining the growth of ¼cSi by using only silane and He and no hydrogen.
+
+SILICON
+CVD
+FILM GROWTH
+PLASMA
+HYDROGEN
+ETCHING
+RAMAN SPECTRA

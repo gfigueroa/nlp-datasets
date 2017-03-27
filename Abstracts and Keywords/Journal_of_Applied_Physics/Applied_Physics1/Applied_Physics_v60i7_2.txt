@@ -1,0 +1,10 @@
+A theoretical description of the diffusion of a thin film of titanium (Ti) into a lithium niobate (LiNbO3) crystal is reported. A variable depth diffusion coefficient is used to explain the prominent lateral surface diffusion generally observed in the fabrication of Tidiffused optical waveguides on nonZcut LiNbO3. A finite integral transform technique is used to solve the diffusion equation described by Ficks law. Since the enhanced lateral diffusion is usually ascribed to anisotropic diffusion, we compare our calculations with those obtained using different diffusion coefficients for each diffusion direction. The approach with a variable depth diffusion coefficient can explain the enhancement of lateral diffusion and the peak of Ti concentration close to the surface observed experimentally.
+
+DIFFUSION
+LITHIUM NIOBATES
+TITANIUM
+DEPTH PROFILES
+THIN FILMS
+ATOM TRANSPORT
+WAVEGUIDES
+CRYSTAL ORIENTATION

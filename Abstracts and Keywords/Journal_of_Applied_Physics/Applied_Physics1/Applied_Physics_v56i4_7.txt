@@ -1,0 +1,18 @@
+The properties of Ptdiffused metaloxidesemiconductor structures are experimentally investigated. The amount of charge at the SiSiO2 interface introduced by Ptdiffusion is strongly dependent on the diffusion ambient and crystal orientation of the wafers. The devices with (111) orientation in which Pt is diffused in an oxygen ambient (stable mode devices) have a large positive shift of flatband voltage from that of nonPt diffused control devices. On the other hand, the devices with (111) orientation fabricated in a nitrogen ambient (memory mode devices) have nonvolatile memory effects with an hysteresis loop, but the shift of flatband voltage is rarely observed. The distributions of the interface trap densities are evaluated by using the GrayBrown method. The flatband voltage shift obtained by applying the stress voltage for the memory mode devices can completely turn back to the initial state by annealing at higher temperature than 330	°C.
+
+MOS JUNCTIONS
+ELECTRIC POTENTIAL
+DIFFUSION
+PLATINUM
+CRYSTAL ORIENTATION
+ELECTRIC CHARGES
+CHARGE DENSITY
+HYSTERESIS
+FABRICATION
+HIGH TEMPERATURE
+INTERFACE STATES
+TRAPS
+VOLTAGE DEPENDENCE
+MEMORY DEVICES
+ELECTRICAL PROPERTIES
+TIME DEPENDENCE

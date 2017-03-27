@@ -1,0 +1,13 @@
+The size and depth distributions of pores in silica-based intermetal-dielectric materials were studied using monoenergetic positron beams. Doppler broadening spectra of the annihilation radiation and lifetime spectra of positrons were measured for methyl-silsesquioxane (MSSQ) spin-on-glass films. The size distribution of pores in the MSSQ films fabricated with 8% porogen load was found to be bimodal, with the major peaks located at 3 and 8
+nm3. Increasing the porogen load from 8% to 40% caused the smaller pores (3
+nm3) to disappear and 30-nm3 ones to appear; these pores were considered to be interconnected, and this structure makes it possible for positronium (Ps) atoms to find paths towards the surface and to escape into vacuum. The 8%-porogen MSSQ films had low porosity near the Si substrate. From measurements of the temperature dependence of the self-annihilation rate of ortho-Ps, we discuss the relationship between o-Ps emission into vacuum and the pore structure. © 2001 American Institute of Physics. 
+
+organic compounds
+dielectric thin films
+porous materials
+positron annihilation
+positronium
+porosity
+Doppler broadening
+spin coating
+nanostructured materials

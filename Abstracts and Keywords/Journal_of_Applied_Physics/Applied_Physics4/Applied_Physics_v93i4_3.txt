@@ -1,0 +1,15 @@
+Hexagonal GaN thin films have been grown by laser induced reactive epitaxy (LIRE) and characterized by various techniques. The films were deposited on sapphire (0001) and SiC (0001) without and with a buffer layer. Dislocations with predominant edge type and inversion domains were observed in the films. Dislocation density measured by x-ray diffraction is in fair agreement with that measured by transmission electron microscopy. Studies on the polarity of films indicate that Ga polarity was obtained for the films grown on SiC, while the films grown directly on sapphire were of N polarity. The atomic structure with a displacement of c/8 across the inversion domain boundary was deduced from the fringe contrast analyses and high resolution transmission electron microscopy studies. For the films grown on sapphire, the Ga polarity was achieved by using an AlGaN prelayer coupled with the introduction of low-temperature GaN buffer layer, which led to a clear improvement of the film quality. The typical cathodoluminescence spectra of such GaN films are comparable to those reported in the literature. The present work provides insight into the crystal growth and microstructure of GaN films and indicates that LIRE is a promising method to grow high quality GaN films. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+pulsed laser deposition
+vapour phase epitaxial growth
+dislocation density
+dislocation structure
+X-ray diffraction
+transmission electron microscopy
+edge dislocations
+cathodoluminescence

@@ -1,0 +1,6 @@
+An analytic theory of nonequilibrium hopping charge transport in disordered organic materials includes quasiequilibrium (normal) and extremely nonequilibrium (dispersive) regimes as limiting cases at long and short times, respectively. In the intermediate interval of time quasiequilibrium value of mobility is nearly established while the coefficient of field-assisted diffusion continues to increase (quasidispersive regime). Therefore, normalized time dependencies of transient current in time-of-flight (TOF) conditions are practically independent of field strength and sample thickness, in good agreement both with data of TOF experiments for molecularly doped polymers and results of numerical simulations of Gaussian disorder model. An analytic model of transient electroluminescence (TEL) is developed on the base of the mentioned theory. Strong asymmetry of mobilities is presumed. In analogy with TOF transients, dispersion parameter of normalized TEL intensity is anomalously large and almost field independent in the quasidispersive regime of transport. The method for determination of mobility from TEL data is proposed.
+
+diffusion
+electroluminescence
+hopping conduction
+organic light emitting diodes

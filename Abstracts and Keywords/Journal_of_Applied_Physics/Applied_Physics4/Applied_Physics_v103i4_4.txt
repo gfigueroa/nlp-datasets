@@ -1,0 +1,11 @@
+The authors present a technique for broadband study of the optical waveguides used for midinfrared quantum cascade lasers. This method allows insight into the waveguide properties and helps in improving the waveguide design. Using this method the waveguide losses in the whole range of waveguide transparency of about 1.89¼m have been found for a » < 4.4¼m In0.53Ga0.47As/AlAs0.56Sb0.44/InP quantum cascade laser. The polarization dependence of waveguide losses in a quantum cascade laser is discussed.
+
+aluminium alloys
+antimony alloys
+arsenic alloys
+gallium arsenide
+indium compounds
+optical losses
+quantum cascade lasers
+transparency
+waveguide lasers

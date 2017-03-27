@@ -1,0 +1,8 @@
+Silicon deltadoped samples of various densities were grown by molecularbeam epitaxy and analyzed using highresolution secondary ion mass spectrometry. A marked difference was observed between profiles produced from samples doped below a surface density of 1.3×1013 cm2, where all the silicon was incorporated on gallium sites, and highly doped samples, where autocompensation had occurred. All samples were grown at nominally 580	°C and all the doped planes showed some degree of broadening. A computer model of a twostep diffusion process was developed which produced a set of diffusion coefficients for the lowerdoped samples. The diffusion coefficient associated with the post deposition growth for these lowdoped samples was approximately 4.2×1017 cm2 s1. The more highly doped samples, because of their complicated profiles, were modeled using a graphical technique. This technique revealed the presence of a much larger diffusion coefficient, which is tentatively assigned to silicon diffusing as nearestneighbor pairs.
+
+GALLIUM ARSENIDES
+ATOM TRANSPORT
+SILICON
+DIFFUSION
+SIMS
+MOLECULAR BEAM EPITAXY

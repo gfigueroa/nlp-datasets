@@ -1,0 +1,6 @@
+Digital based data processing and protection and control system along with digital communication networks introduces new structures for substation protection and control systems and new methods for intelligent protection and control systems. This paper presents a unique vision for the future integration of protection and control systems. Firstly, the basic concept and configuration of the developed protection and control systems for smart substation is introduced. The features and functions of integrated protection and control systems for smart substation are then discussed and compared with that of the traditional substation in detail.
+
+IEC61850
+Integrated protection and control systems
+Intelligent units (IUs)
+Smart substation

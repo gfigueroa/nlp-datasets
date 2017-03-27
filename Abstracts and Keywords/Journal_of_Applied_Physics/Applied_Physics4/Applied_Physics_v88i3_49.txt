@@ -1,0 +1,15 @@
+The structure, microstructure, and magnetic properties of high-coercivity PrCo5-based PrxCo100x (x=15.420.5) powders synthesized by mechanical milling and subsequent annealing were systematically studied as a function of Pr content. While the magnetization decreases monotonously with the Pr content, the coercivity increases, reaching a maximum of 24.1 kOe in Pr19Co81, and then decreases for higher Pr content. As a result, the maximum energy product goes through a broad peak of about 11.311.8 MGOe at the 16.718.0 at.
+% Pr content. Microstructural studies reveal that a uniform nanoscale PrCo5/Pr2Co17 microstructure with an average grain size of about 1530 nm is developed in powders with Pr content up to 19 at.
+%. The volume fraction of the Pr2Co17 decreases with Pr content and a nearly single PrCo5 structure is obtained in Pr19Co81 powders. Further increase in the Pr content leads to the presence of the less-hard Pr2Co7 phase in the form of large grains, resulting in lower coercivities. Evidence of intergranular exchange coupling is found in all the samples. The results suggest that the observed magnetic hardening originates from the high anisotropy field of the PrCo5 phase and the uniform nanoscale microstructure developed by the processing used. © 2000 American Institute of Physics. 
+
+praseodymium alloys
+cobalt alloys
+powders
+mechanical alloying
+annealing
+magnetisation
+coercive force
+grain size
+crystal microstructure
+exchange interactions (electron)
+magnetic particles

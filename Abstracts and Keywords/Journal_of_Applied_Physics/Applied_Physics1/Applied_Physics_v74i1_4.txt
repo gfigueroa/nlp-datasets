@@ -1,0 +1,11 @@
+Xray photoelectron spectroscopy and Auger electron spectroscopy studies were performed for determining the chemical composition, compositional depth profile, and the chemical bondings of ferroelectric (Pb,La) TiO3 thin films deposited by a multiionbeam reactive cosputtering technique. It was found that the chemical composition of the films and the chemical bondings of lead in the near surface region are different from those in the bulk region of the films. The films are Pb enriched and the lead atoms exist mainly in the forms of PbOads (i.e., oxygenchemisorbed lead) and PbTiO3 in the near surface region, whereas in the bulk region, the chemical composition is in good agreement with stoichiometry and lead atoms exist in the form of PbTiO3. It is believed that the effect of Pb enrichment in the near surface regions is an intrinsic phenomenon of leadcontained thin films, which may be attributable to the oxygenchemisorbed lead.
+
+FERROELECTRIC MATERIALS
+THIN FILMS
+LEAD TITANATES
+LANTHANUM COMPOUNDS
+PHOTOELECTRON SPECTROSCOPY
+AES
+REACTIVE SPUTTERING
+CHEMICAL COMPOSITION
+DEPTH PROFILES

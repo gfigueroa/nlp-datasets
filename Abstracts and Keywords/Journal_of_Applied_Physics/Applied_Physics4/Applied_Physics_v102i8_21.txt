@@ -1,0 +1,5 @@
+In order to extend the lifetime of an anvil made of tungsten carbide used in a large volume cubic high-pressure apparatus (CHPA), we analyzed the properties of an anvil with different magnitudes of interference, matching the steel supporting ring under high pressure using finite element method. It is found that the peak value and distribution of the von Mises stress does not change obviously when the magnitude of interference is smaller than 0.3mm. When the magnitude of interference reaches 0.3mm, the peak value of the von Mises stress and its distribution changes substantially, due to which the performance of the anvil can be significantly affected. Thus, the magnitude of interference ought to be between 0.1 and 0.25mm. The simulated results have been approved in many high-pressure experiments in CHPA.
+
+finite element analysis
+high-pressure techniques
+tungsten compounds

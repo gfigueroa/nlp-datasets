@@ -1,0 +1,16 @@
+We present systematic studies of the electromagnetic interference (EMI) shielding and microwave properties of a new class of shielding material, i.e., the ferromagnetic microwires-embedded polymer composites. We show that at 12 GHz the shielding effectiveness (SE) of the continuous-wire composite reaches a high value of 18 dB (98.4% attenuation) for a very low filler loading of 0.024% and a thickness of 0.64 mm. The normalized SE of this new composite is about 70 times higher than that of the bucky paper-based composite and is two to four orders of magnitude higher than those of other shielding candidate materials. Complex permeability, permittivity, and impedance experiments reveal that the absorption of electromagnetic radiation is a dominant mechanism for EMI shielding of the studied composites. The advantages of high shielding efficiency, good physical integrity, low fabrication costs, and multifunctionalities make them an attractive candidate material for a variety of technological applications.
+
+boron alloys
+cobalt alloys
+composite materials
+electromagnetic interference
+electromagnetic waves
+ferromagnetic materials
+iron alloys
+molybdenum alloys
+nickel alloys
+paper
+permeability
+permittivity
+polymers
+silicon alloys

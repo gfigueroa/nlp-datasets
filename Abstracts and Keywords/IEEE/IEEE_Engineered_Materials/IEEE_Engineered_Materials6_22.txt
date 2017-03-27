@@ -1,0 +1,5 @@
+The effect of a dual-mode circular horn antenna, as a feed in offset reflector antennas, on the crosspolarization field is studied using the physical optics, geometrical optics, and geometrical theory of diffraction software GRASP. It will be shown that, one can reduce the crosspolarization of an offset reflector antenna by properly exciting two modes in circular horn antenna. These two modes are the fundamental mode, TE<sub>11</sub>, and the higher order mode, TE<sub>21</sub>. The results for some offset reflectors, with different f/D ratios, will be presented to investigate the above property.
+
+Reflector antennas
+crosspolarization
+multimode horn

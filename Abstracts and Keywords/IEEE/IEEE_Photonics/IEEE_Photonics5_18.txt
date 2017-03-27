@@ -1,0 +1,6 @@
+In this paper we design and implement an embedded surveillance system with multiple Pyroelectric Infrared sensors (PIR) and ultrasonic sensors which turn on the embedded surveillance system according to the signals triggered by their majority voting mechanism (MVM). The PIR sensors are used to detect changes in human temperature and environment temperature, but have a high miss rate in the case of a slow walking intruder or an object with heat insulation. To overcome these disadvantages of the PIR sensors, we add ultrasonic sensors to complement them. The ultrasonic sensor module consists of a transmitter and a receiver which are placed in a line direction. The receiver detects signals and decides whether it is blocked. The ultrasonic transmission spreads a beam angle, so we use multiple ultrasonic sensors to receive it and to provide the majority voting mechanism.
+
+Embedded Surveillance System
+Majority Voting Mechanism
+PIR Sensor
+Ultrasonic Sensor

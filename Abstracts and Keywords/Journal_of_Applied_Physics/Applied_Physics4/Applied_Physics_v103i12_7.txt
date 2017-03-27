@@ -1,0 +1,14 @@
+The effect of vacuum annealing on local structure reconstruction, evolution of photoluminescence (PL) and paramagnetic defects in carbon-rich a-Si1xCx:H films (x = 0.7) was studied. Strong enhancement of visible (white-green) PL was observed after annealing in the temperature range of 400500	°C. Such enhancement was correlated with increasing of the concentration of carbon-hydrogen bonds in Si:CøHn accompanied with increase in the fluctuation of the interatomic potential. Complete disappearance of PL, graphitization of the carbon precipitates, and a strong increase in the concentration of the paramagnetic states were observed after annealing at 650	°C and above. The enhancement and the degradation of PL after different-temperature treatments are explained by the following competing effects: (1) enhancement of the radiative recombination due to passivation of paramagnetic defects with hydrogen and increase of localization of photoexcited electron-hole pairs due to formation of new Si:CøH and (2) enhancement of the nonradiative recombination through the paramagnetic states due to increase in their concentration caused by graphitization of carbon precipitates after high- temperature treatment.
+
+amorphous semiconductors
+annealing
+electron-hole recombination
+graphitisation
+hydrogen
+hydrogen bonds
+paramagnetism
+passivation
+photoluminescence
+semiconductor thin films
+silicon compounds
+wide band gap semiconductors

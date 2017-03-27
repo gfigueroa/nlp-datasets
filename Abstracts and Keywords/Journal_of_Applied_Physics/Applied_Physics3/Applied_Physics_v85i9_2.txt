@@ -1,0 +1,8 @@
+Curved magnetic filters are commonly used with cathodic vacuum arcs to remove macroparticles from the plasma stream, making it suitable for the preparation of smooth, dense, and defect free films. Although a variety of filters have been investigated experimentally, the influence of the magnetic field configuration on the shape and position of the plasma beam at the filter exit has not been recognized. In this work the magnetic field configurations for a wide range of filter designs have been calculated and compared with measured beam profiles. The results show that the field configurations can be used to predict the dimensions of the plasma beam and in-plane off-axis shifts at the filter exit, as well as identifying regions of high loss. Magnetic field configuration calculations are shown to be a valuable design and optimization tool for curved magnetic field filters of various designs. © 1999 American Institute of Physics.
+
+vacuum arcs
+plasma impurities
+plasma materials processing
+magnetic field effects
+plasma diagnostics
+plasma properties

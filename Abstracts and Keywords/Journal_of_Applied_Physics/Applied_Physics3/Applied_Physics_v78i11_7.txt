@@ -1,0 +1,11 @@
+The type of substrate and the condition of the substrate surface have a pronounced influence on the nucleation density and growth direction of chemicalvapordeposition (CVD) diamond particles. Nucleation and the subsequent growth of CVD diamond particles on several kinds of stressed substrates were investigated. The substrate stress was controlled by a mechanical system composed of a metal spring and metal rod, and had an obvious influence on the diamond nucleation density of CVD diamond particles. Diamond nucleation density on the stressed substrate was estimated to be greater than that for a normal substrate. It was found that the nucleation density radially decreased with distance from the point of stress on the substrate. The stressed Si and W substrates were examined by xraydiffraction analysis and a scanning electron microscope. After growth of the diamond particles, the analysis indicated that the full width at halfmaximum of the substrate Si (400) peak decreased as the magnitude of the stress increased, and that the lattice constant of the Si substrate was decreased by the stress. At the close vicinity of the stress point, the silicon carbide layer was fabricated in a short time as compared with the normal Si substrate. © 1995 American Institute of Physics.
+
+CVD
+DIAMONDS
+FILM GROWTH
+NUCLEATION
+SEM
+STRAINS
+STRESSES
+SUBSTRATES
+XRD

@@ -1,0 +1,12 @@
+We present a model to study high density plasma reactors used in semiconductor processing. The model is based on a continuum approach with conservation equations for mass, momentum, and energy in a multicomponent, multitemperature system. The governing equations are radially averaged to obtain a onedimensional model for the transport of neutrals and charged species in the flow direction. Processes at the radial wall are properly included as source/sink terms by weighting with surface area to volume ratio. The model is applied to an electron cyclotron resonance reactor and simulations of an argon discharge are presented for pressures in the range of 110 mTorr and flow rates of 580 sccm. The predictions of plasma density, electron and gas temperatures, pressure, and neutral density are consistent with experimental observations and compare favorably with data. © 1995 American Institute of Physics.
+
+ARGON
+CONSERVATION LAWS
+ELECTRIC DISCHARGES
+ELECTRON CYCLOTRONRESONANCE
+ELECTRON TEMPERATURE
+NEUTRALPARTICLE TRANSPORT
+PLASMA DENSITY
+PROCESSING
+REACTORS
+SEMICONDUCTOR MATERIALS

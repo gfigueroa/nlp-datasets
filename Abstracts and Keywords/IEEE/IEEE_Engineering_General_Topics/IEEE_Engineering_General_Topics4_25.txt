@@ -1,0 +1,6 @@
+Accommodating of future demand uncertainty is an important issue in IP networks to continue at acceptable level of service during high traffic load periods. This aspect should also be considered during optical backbones design for high-speed client networks. This paper presents an intelligent fuzzy adaptive approach for spare bandwidth management in Dense Wavelength Division Multiplexing (DWDM) optical transport network based on link state variables. First forecasted part of demand matrix is routed in the network using shortest path algorithm. Then, the available wavelengths are allocated to future demand uncertainties. The fuzzy controller decides according to bandwidth availability and demand uncertainty memberships. The simulation results achieved from the Pan European test bench network demonstrate the efficiency of proposed approach to accommodate future demand uncertainty in uncertain environments.
+
+Capacity Planning
+Demand Uncertainty
+Fuzzy Systems
+Optical networks

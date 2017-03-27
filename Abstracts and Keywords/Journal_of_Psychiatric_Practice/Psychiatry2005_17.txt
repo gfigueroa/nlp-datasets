@@ -1,0 +1,11 @@
+Background: To examine the inter-rater and test-retest reliability of the Spanish Language version of the Eating Disorder Examination (S-EDE) in monolingual Latina women. Established measures are needed to study Latino groups, and short-term test-retest reliability findings are needed to provide context for clinical treatment and outcome studies. Methods: Inter-rater reliability (IRR) and short-term (5-14 days) test-retest reliability (TRR) of the S-EDE (using intraclass correlation coefficients [ICCs]) were examined in a non-clinical study group of 60 monolingual Latina women. Results: IRR was excellent for objective bulimic episodes (ICC = 0.99) but was modest for subjective bulimic episodes (ICC = 0.55). TRR was good for objective bulimic episodes (ICC = 0.79) but was unacceptable for subjective bulimic episodes (ICC = 0.22). IRR and TRR kappa coefficients (0.56 and 0.37, respectively) for identifying the presence or absence of objective bulimic episodes were modest. For the S-EDE subscales, both IRR (ICCs ranged from 0.80 to 0.98) and TRR (ICCs ranged from 0.67 to 0.90) were good to excellent. Conclusions: These findings provide preliminary support for the reliability of the S-EDE for use with Latina women. The constructs of eating disorder psychopathology measured by the S-EDE subscales (restraint, eating concern, weight concern, and shape concern) and the core feature of binge eating (objective bulimic episodes) show high short-term consistency. The results for subjective bulimic episodes are consistent with previous studies that have questioned whether these eating behaviors are reliable indicators of eating disorders. Additional evaluation is needed with clinical groups. 
+
+Eating Disorder Examination
+binge eating
+reliability
+eating behavior
+Latina
+Hispanic
+Translation
+psychometric measures
+cross-cultural assessment

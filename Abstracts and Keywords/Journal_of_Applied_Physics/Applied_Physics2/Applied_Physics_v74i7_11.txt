@@ -1,0 +1,13 @@
+The formation and the properties of fine silicon oxide particles in a hollow posttype rf magnetron discharge in SiH4/O2/Ar gas mixtures were studied. For Ps30 mTorr, primary fine particles (PFPs) with a diameter of about 20 nm are formed through homogeneous reactions. Their diameter increases with the system pressure. PFPs with sufficient negative charge are suspended in the plasma. They can further aggregate with other PFPs to form aggregated fine particles (AFP) with nearly spherical shape and larger diameter. The size of the AFP depends on the duration of the rf power. In the cw mode, AFPs gradually drift axially to both ends of the discharge system. The accumulation of AFPs at the end trap causes lowfrequency oscillation of the discharge. The films consisting of fine particles are loose and brittle. Infraredabsorption spectrum shows that oxide formed in the homogeneous reaction has similar SiO bond strain relaxation to that of the thermal oxides and the annealed oxide from chemicalvapor deposition.
+
+ELECTRIC DISCHARGES
+CVD
+MICROPARTICLES
+SILANES
+CHEMICAL REACTIONS
+PRESSURE EFFECTS
+MEDIUM VACUUM
+SIZE
+SILICON OXIDES
+INFRARED SPECTRA
+THIN FILMS

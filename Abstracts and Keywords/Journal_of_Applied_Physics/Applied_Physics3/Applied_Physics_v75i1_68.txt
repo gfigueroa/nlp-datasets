@@ -1,0 +1,13 @@
+Numerical analysis of a twodimensional (2D) square mesh metal grating coupler formed on top of a boundtominiband (BTM) transition GaAsbased quantumwell infrared photodetector (QWIP) has been carried out. Two normalized parameters s and h (i.e., s=»/g and h=a/g, where g is the grating period and a is the width of the aperture) are used in the simulations of the 2D square mesh metal grating structure formed on a GaAs BTM QWIP. Using two universal graphs displaying the total power and diffracted angle of the higherorder transmitted and reflected waves versus normalized wavelength, the optical absorption constant and coupling quantum efficiency of the QWIPs are calculated for different grating periods and aperture sizes in the wavelength range of 814 ¼m. A maximum coupling quantum efficiency of ·=52% was obtained for the square mesh metal grating coupled BTM QWIP with g=3.3 ¼m and a=2 ¼m, which is higher than that of the 45° polished facet illumination (·=38%).
+
+PHOTODETECTORS
+QUANTUM WELLS
+GALLIUM ARSENIDES
+OPTICAL COUPLERS
+DESIGN
+DIFFRACTION GRATINGS
+INFRARED RADIATION
+TWODIMENSIONAL CALCULATIONS
+SIMULATION
+QUANTUM EFFICIENCY
+METALS

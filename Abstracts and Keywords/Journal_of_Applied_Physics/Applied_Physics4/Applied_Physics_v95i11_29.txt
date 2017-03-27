@@ -1,0 +1,10 @@
+Magnetic relaxation experiments on a Ag(Mn) spin glass that has been subjected to temperature perturbations are reported. A dynamic quasiequilibrium state is created by allowing the spin glass to equilibrate for an extended time (100
+000 s) at constant temperature in the spin glass phase. The quasiequilibrium (reached after 100
+000 s) state is perturbed by a negative temperature cycle of different duration. The magnetic relaxation rate after the perturbation exhibits an enhanced relaxation rate at short observation times followed by a dip that extends well below the equilibrium relaxation rate at longer observation times.© 2004 American Institute of Physics. 
+
+spin glasses
+silver alloys
+manganese alloys
+perturbation techniques
+spin-spin relaxation
+magnetisation

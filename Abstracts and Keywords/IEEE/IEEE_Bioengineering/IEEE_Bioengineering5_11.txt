@@ -1,0 +1,7 @@
+Due to the limited life time of batteries, biomedical implants typically use inductive coupling to transfer power to the implantable device. Inductive coupling of source and load coils suffers from low efficiency due to the low coupling between the coils. The low coupling limits the maximum transferable power and operating range of the system. Using a resonance-based coupling technique, the adverse effect of low coupling between source and load coils is in part compensated by the high quality factor of the coils. Unlike its two-coil counterpart, in the presented four-coil energy transfer system the efficiency profile of the power transfer is not a monotonically decreasing function of the distance between the coils and can be optimized to provide a maxima at a relatively large operating distance. Furthermore, as compared to conventional systems, resonance-based system show more than 2Ã efficiency improvement over an increased operating range.
+
+Wireless power transfer
+biom&#x00E9;dical implants
+resonance-based power delivery
+transducer
+ultrasound

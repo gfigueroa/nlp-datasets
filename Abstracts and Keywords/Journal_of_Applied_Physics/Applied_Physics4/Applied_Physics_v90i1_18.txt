@@ -1,0 +1,17 @@
+Short-period (Sim/Gen)N superlattices (SSLs) are grown step by step on a Si(001) substrates by solid source molecular beam epitaxy. Using the step-graded SSLs as buffer layers, 2000 Å uniform Si0.75Ge0.25 alloy layers are grown on the same substrates. The growth temperature of the SSLs and uniform layers is 500
+°C. In the SSLs layers, m and n are the number of monolayers of Si and Ge, respectively. N is the period of (Sim/Gen) bilayers. The samples grown are characterized by x-ray diffraction, atomic force microscopy (AFM), and transmission electron microscopy (TEM) as a function of the step number of SSL layers. The SSLs show very smooth surfaces [the root-mean-square (rms) surface roughness is between 7 and 12 Å]. A dramatic decrease in roughness is observed in the uniform Si0.75Ge0.25 alloy layers, when even a one-step SSL is used as a buffer layer. A noticeable increase in rms roughness is seen in both SSL and alloy layers when the number of Ge monolayers is changed from one to two. AFM observation shows that the rms surface roughness behavior of the SSLs is reflected to their corresponding top alloy layers. The residual strains in alloy layers are considerably lower, with a maximum relaxation rate of about 80% for the sample with a seven-step SSL buffer. Cross-sectional TEM images show that strained SSL buffer layers effectively deflect threading dislocations in the substrate or confine the dislocations in the SSL buffer layers. © 2001 American Institute of Physics. 
+
+germanium
+silicon
+elemental semiconductors
+semiconductor superlattices
+chemical interdiffusion
+dislocations
+transmission electron microscopy
+atomic force microscopy
+surface topography
+molecular beam epitaxial growth
+semiconductor growth
+semiconductor epitaxial layers
+X-ray diffraction
+internal stresses

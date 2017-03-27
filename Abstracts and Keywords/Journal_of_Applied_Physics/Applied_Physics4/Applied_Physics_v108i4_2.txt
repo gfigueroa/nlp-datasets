@@ -1,0 +1,15 @@
+Piezoelectric nanostructures (islands of dimensions in the lateral size range 50500 nm) have been fabricated by focused Ga3+ ion beam (FIB) etching on PbZr0.54Ti0.46O3 thin films obtained by magnetron sputtering. The degradation induced by the etching process is investigated through the evolution of electromechanical activity measured by means of local piezoelectric hysteresis loops produced by piezoresponse force microscopy. The analysis of surface potential is performed by kelvin force microscopy and the measurement of current-voltage curves is carried out by conducting atomic force microscopy. Two kinds of structures, namely one based on crystallized films and the other based on amorphous ones, were studied. In this latter case, the amorphous films are postannealed after etching to obtain crystallized structure. For the structures based on the crystallized and then etched films, no piezoelectric signal was registered that evidences a serious degradation of material induced by Ga3+ ion implantation. For the structures based on the films etched in amorphous state and then crystallized, the piezoresponse signal was near to that of the reference films (crystallized and not etched) whatever were the ion dose and the island dimensions. Even for very small lateral size (50 nm), no size effect was observed. The island shapes fabricated by Ga3+ FIB etching process (islands with less than 50 nm lateral size) show a limitation of FIB processing and electron beam lithography seems to be necessary.
+
+atomic force microscopy
+electromechanical effects
+electron beam lithography
+focused ion beam technology
+ion implantation
+island structure
+lead compounds
+nanolithography
+nanostructured materials
+piezoelectric materials
+sputter etching
+surface potential
+zirconium compounds

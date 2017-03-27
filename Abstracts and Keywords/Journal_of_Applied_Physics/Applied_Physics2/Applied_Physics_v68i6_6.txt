@@ -1,0 +1,8 @@
+A theoretical investigation of the effect of induction frequency shows that deviations from local thermodynamic equilibrium (LTE) are strongly related to this parameter. Computations are carried out for an argon plasma at atmospheric pressure over the frequency range 340 MHz. Higher frequencies result in lowertemperature levels in the torch, and also the difference between the electron and the atom/ion temperatures is increased. This is in agreement with the observations of other investigators. The results of the proposed model also show good agreement with the measured temperature profiles. Similar calculations, which are based on the LTE assumption, are reported and compared with the present nonLTE model.
+
+ARGON
+PLASMA
+FREQUENCY DEPENDENCE
+ATMOSPHERIC PRESSURE
+MHZ RANGE 01100
+LTE

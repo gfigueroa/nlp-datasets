@@ -1,0 +1,12 @@
+An identical set of thermal oxidation and nitridation experiments has been performed for four common dopants and self-diffusion in Si. Selectively perturbing the equilibrium point-defect concentrations by these surface reactions is a powerful tool for identifying the relative importance of the various atomic-scale diffusion mechanisms. We obtain bounds on the fractional contributions of the self-interstitial, vacancy, and concerted exchange mechanisms for arsenic, boron, phosphorus, antimony, and self-diffusion in Si at temperatures of 1100 and 1000
+°C. These bounds are found by simultaneously solving a system of equations making only very conservative assumptions. The validity of common approximations found in previous work and their effects on the results are also analyzed in detail. We find that B and P diffuse by a self-interstitial mechanism, whereas Sb diffusion is almost exclusively vacancy mediated. As and self-diffusion, on the other hand, exhibit evidence for a dual vacancy-interstitial mechanism with the possibility of some concerted exchange component. © 1999 American Institute of Physics.
+
+silicon
+elemental semiconductors
+ion implantation
+semiconductor doping
+self-diffusion
+oxidation
+nitridation
+vacancies (crystal)
+interstitials

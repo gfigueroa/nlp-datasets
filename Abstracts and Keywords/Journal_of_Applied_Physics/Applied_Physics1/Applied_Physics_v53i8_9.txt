@@ -1,0 +1,12 @@
+An expression for load for maximum power transfer from a real solar cell, having resistive and current leakage losses, has been obtained using Lagranges method of undetermined multipliers for solving the transcendental currentvoltage relationship. The theoretical results are compared with the experimental measurements of the optimum load for pn junction solar cells for various illumination levels.
+
+SOLAR CELLS
+OPTIMIZATION
+ELECTRIC POWER
+MATHEMATICAL MODELS
+EQUATIONS
+ELECTRIC CONDUCTIVITY
+LEAKAGE CURRENT
+ELECTRICAL PROPERTIES
+THEORETICAL DATA
+PN JUNCTIONS

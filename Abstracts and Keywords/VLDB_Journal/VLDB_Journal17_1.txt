@@ -1,0 +1,5 @@
+We discuss a proposal for the implementation of the model management operator ModelGen, which translates schemas from one model to another, for example from object-oriented to SQL or from SQL to XML schema descriptions. The operator can be used to generate database wrappers (e.g., object-oriented or XML to relational), default user interfaces (e.g., relational to forms), or default database schemas from other representations. The approach translates schemas from a model to another, within a predefined, but large and extensible, set of models: given a source schema S expressed in a source model, and a target model TM, it generates a schema S2 expressed in TM that is equivalent to S. A wide family of models is handled by using a metamodel in which models can be succinctly and precisely described. The approach expresses the translation as Datalog rules and exposes the source and target of the translation in a generic relational dictionary. This makes the translation transparent, easy to customize and model-independent. The proposal includes automatic generation of translations as composition of basic steps.
+
+Schema translation
+Data models
+Model management

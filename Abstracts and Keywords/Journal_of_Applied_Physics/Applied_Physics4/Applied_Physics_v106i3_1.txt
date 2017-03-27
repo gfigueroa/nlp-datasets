@@ -1,0 +1,14 @@
+We have grown a single crystal of ReB2 and refined its crystal structure. Our structural studies confirmed the hexagonal structure (space group P63/mmc) with lattice parameters a = 2.8982(1)Å and c = 7.4723(3)Å. We also report the observation of first order satellites in the nuclear magnetic resonance, which indicated the presence of a nonzero quadrupole coupling frequency, ½Q = 276±3kHz, and an asymmetry parameter · = 0 at the boron atom sites. These values are in excellent agreement with electric-field-gradient (EFG) tensor calculations based on first principles. These calculations showed that the principal axis of the most negative EFG-tensor component, VZZ, is parallel to the c-axis of the crystal. This behavior is in agreement with the observed excess of B pz charge (c direction) over the px and py charges and is related to stronger metal-boron bonds compared to previously studied YB12 and LaB6, where the BB bonds are stronger. Finally, the bonding properties of ReB2 are discussed in terms of densities of states, valence-electron densities, and partial charges.
+
+ab initio calculations
+bonds (chemical)
+crystal structure
+electric field gradient
+electronic density of states
+lattice constants
+nuclear magnetic resonance
+quadrupole interactions
+rhenium compounds
+space groups
+valence bands
+X-ray diffraction

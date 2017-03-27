@@ -1,0 +1,8 @@
+Off-Hugoniot equation-of-state (EOS) measurements were performed on Al, Cu, and Ta shocked to pressures in the range 62430 GPa and double-shocked or released isentropically to pressures in the range 80440 GPa. Calculated temperatures of the off-Hugoniot states are in the range 2 40014 500 K. All these off-Hugoniot data are in good agreement with approximating the double-shock and isentropic release curves with the mirror reflection in Pup space of the principal Hugoniot about the vertical axis through particle velocity up1 of the first-shock state. Effective Grüneisen ³s of Al are in good agreement with the scaling relationship ³=³0(V/V0). The high accuracy of EOS data of Al, Cu, and Ta, both on and off the principal Hugoniot, and their simple behaviors, including the absence of any observed phase transitions, qualifies these metals as EOS standards for use as anvils in shock-compression experiments. © 2003 American Institute of Physics. 
+
+equations of state
+shock wave effects
+Gruneisen coefficient
+aluminium
+copper
+tantalum

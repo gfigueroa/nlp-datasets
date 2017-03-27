@@ -1,0 +1,8 @@
+Real-time applications should timely deliver synchronized data-sets, minimize latency and jitter in their response and meet their performance specifications in the presence of disturbances and faults. The fault tolerant behavior in mobile robots refers to the possibility to autonomously detect and identify faults as well as the capability to continue operating after a fault occurred. This paper introduces a real-time distributed control application with fault tolerance capabilities for differential wheeled mobile robots, named ARTEMIC. The paper focuses on design details and performance analysis at the system operation level. Some stress tests are executed during normal operation to validate the proposal. Specific design, development and implementation details will be provided in this paper.
+
+Distributed Control
+EKF
+Fault Tolerant Control
+Mobile Robotics
+Real-Time Linux
+Sliding Mode

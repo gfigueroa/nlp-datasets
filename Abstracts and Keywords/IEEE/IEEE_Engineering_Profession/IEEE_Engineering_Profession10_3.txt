@@ -1,0 +1,6 @@
+3GPP has standardized the use of forward error correction for the provision of reliable data transmission in the mobile multicast framework. In this paper we present a study of the impact of application layer forward error correction on power control during mobile multicast transmission. The evaluation is performed with the aid of a novel scheme that allows the simulation of FEC impact on both streaming delivery and download delivery over a multicast session. It is important that the proposed scheme incorporates the properties of an evolved mobile network, as they are determined by the 3GPP specifications.
+
+forward error correction
+mobile networks
+multicast
+power control

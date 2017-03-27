@@ -1,0 +1,11 @@
+The sensitivity of acoustic techniques to topological and/or morphological variations in SiC/porous SiC laminated ceramics is studied within the transfer matrix formalism. To implement this theoretical formalism, the mechanical properties of the SiC porous layers are calculated using the effective medium approximation of Kuster and Toksöz [Geophys. 39, 587 (1974)]. We show that topological defects have a stronger acoustic signature than morphological defects. Also, we observe that there are particular frequencies at which the defects do not present any acoustic signature. © 1997 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+porous materials
+laminates
+ceramics
+transfer function matrices
+acoustic wave transmission
+elastic waves
+crystal defects

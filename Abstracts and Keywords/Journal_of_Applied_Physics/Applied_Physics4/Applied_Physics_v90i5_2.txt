@@ -1,0 +1,9 @@
+The influence of an interposed ultrathin Nb layer between Ti and Si on the silicide formation and the electrical contact between the silicide formed and the Si substrate is investigated. The presence of the Nb interlayer results in the formation of ternary alloy (Nb,Ti)Si2 in the C40 crystallographic structure adjacent to the Si substrate. Depending on the nature of the Si substrates and/or the amount of the initial Nb, the interfacial C40 (Nb,Ti)Si2 leads, in turn, to either epitaxial growth of a highly faulted metastable C40 TiSi2 or formation of the desired C54 TiSi2 at a lower temperature than needed for it to form in reference samples with Ti deposited directly on Si. On p-type substrates doped to various concentrations, the Nb also leads to a considerably lower specific contact resistivity than that obtained in the reference samples: a twofold to fourfold reduction in the contact resistivity is found using cross-bridge Kelvin structures in combination with two-dimensional numerical simulation. As C40 (Nb,Ti)Si2 forms at the interface when an interfacial Nb is present, the interface characterized is likely to represent the one between (Nb,Ti)Si2 and Si. For the reference samples, the interface studied is between TiSi2 and Si. © 2001 American Institute of Physics. 
+
+epitaxial growth
+titanium compounds
+silicon
+semiconductor-metal boundaries
+contact resistance
+niobium
+elemental semiconductors

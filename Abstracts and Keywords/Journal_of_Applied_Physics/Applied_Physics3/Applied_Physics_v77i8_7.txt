@@ -1,0 +1,12 @@
+Diffusion induced by 4 MeV Au++ irradiation at room temperature, normal and parallel to the substrate surface, has been studied on samples formed by a Ni film (the Ni island) which partially covers a Si film. Normal diffusion, monitored by Rutherford backscattering spectroscopy, is in agreement with previous results obtained on Ni films deposited on Si wafers. A noticeable spread of the edge of the Ni island along the lateral direction, that increases with irradiation fluence, was observed by transmission electron microscopy. When diffusion is thermally induced, the lateral diffusion length was found to be of the same order of magnitude as the normal one. However, under ion irradiation, the lateral diffusion length is two orders of magnitude larger than the normal diffusion. Electron diffraction patterns reveal the existence of mainly Ni2Si and Ni3Si2 in the layer formed along the lateral direction. © 1995 American Institute of Physics.
+
+NICKEL
+DIFFUSION
+NICKEL SILICIDES
+FILM GROWTH
+PHYSICAL RADIATION EFFECTS
+ARGON IONS
+MEV RANGE 0110
+TEM
+RBS
+ELECTRON DIFFRACTION

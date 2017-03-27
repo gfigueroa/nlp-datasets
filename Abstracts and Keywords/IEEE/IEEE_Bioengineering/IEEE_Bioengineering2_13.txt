@@ -1,0 +1,7 @@
+Effective healthcare delivery in The Gambia is critically dependent on the availability of good quality data to provide information for health policy and clinical decision making. This research focuses on the development of a Health Information System capable of making such information available. The paper describes the systems analysis undertaken to define the needs such that a system specification can be arrived at. Recommendations, including a number relating to training and technological transfer, are made, taking into account the constraints of The Gambian context in terms of funding and infrastructure provision.
+
+The Gambia
+developing countries
+healthcare
+technology transfer
+training

@@ -1,0 +1,6 @@
+The paper presents a generalized analytical model of error probability in passive optical network (PON) in which optical orthogonal codes (OOC) and (dense) wavelength division multiplexing (WDM) have been considered. Low cost deployment of these networks is determined by several parameters characterizing this system such as optic transmitters with a relatively large spectrum. The distance between the wavelengths used at the transmitters, the code length, the code weight and the correlation values are taken into account in the formulation of a user communication link performance. This work evaluates the relationship between a network using OOC and WDM parameters in crosstalk situation. Simulations results are provided to validate the model and prove the practical significance of the approach.
+
+DWDM
+OCDMA
+OOC
+PON

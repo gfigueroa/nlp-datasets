@@ -1,0 +1,10 @@
+A very thin, needlelike electrode can be formed at the tip of thin tungsten electrode by a single discharge with rather high discharge current. We have demonstrated some practical applicability of such very thin electrode. Understanding the formation mechanism of such electrodes is an important issue to utilize the phenomenon to practical applications. We should see what happens on the electrode during the discharge. In this study, the change of electrode shape at tip part of a thin metal electrode induced by single discharge with a large current was observed dynamically by a stroboscopic imaging system with high time resolution. In the imaging system, the second harmonics of a Q-switched neodyum: yttrium-aluminum-garnet laser is used for lighting of charge-coupled device camera and it can take a photo with time resolution of about 10ns. Electrode materials were tungsten and copper of 100¼m diameter and the discharge current was 30A with 400¼s duration. Both the positive and negative polarities of electrodes in machining oil as well as in air were examined using steel work piece. Rather drastic move of melt formed by the discharge occurred after discharge in all cases. Observed images reveal that the electrode tip part after single discharge is in a molten state and the melt part moves upwards after the end of the discharge, and final electrode shape is formed at about 1ms after the discharge. The thin, needlelike form of tungsten electrode is found to be the residue of unmelted portion of the electrode left after the move of melted part. Tungsten electrode becomes the needlelike shape when the thin electrode has negative polarity. When the polarity is reversed, or copper electrodes are used, the tips of the electrodes become spherical forms. For copper electrode with negative polarity in air and at some specific time, droplets of molten metal are suspended in the space between the electrode and the work piece.
+
+tungsten
+copper
+electrical discharge machining
+discharges (electric)
+time resolved spectra
+liquid metals
+corrosion
+electrochemical electrodes

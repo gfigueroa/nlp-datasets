@@ -1,0 +1,11 @@
+Cross-sectional scanning tunneling microscopy (STM) is used to study lattice matched InGaAs/InP quantum well (QW) intermixing induced by ion implantation and thermal annealing. Different strain development in QWs (determined by STM topography of elastic relaxation in cross sectionally cleaved samples) is found to be dependent upon the range of the implanted ions relative to the QWs. It is found that the quantum wells remain latticed matched to the barrier layers after intermixing when ions are implanted through the multiple quantum well (MQW) stack. A shallow implantation in which ions are implanted into the cap layer above the MQW stack leads to tensilely strained wells and compressively strained interfaces between wells and barriers. The strain development in the latter case is attributed to different degrees of interdiffusion on the group III and group V sublattices. Finite element elastic computations are used to extract the group V and group III interdiffusion length ratio, and results using different diffusion models are compared. A preferred group V interdiffusion in the case of shallow implantation is explained in terms of faster diffusing P related defects compared to In related defects. Images of as-grown QWs provide useful information about the growth technique related compositional fluctuations at the interfaces. © 2001 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+ion implantation
+scanning tunnelling microscopy
+annealing
+chemical interdiffusion
+stress relaxation

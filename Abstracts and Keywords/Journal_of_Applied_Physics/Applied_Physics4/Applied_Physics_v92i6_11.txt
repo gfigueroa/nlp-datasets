@@ -1,0 +1,7 @@
+We have carried out a detailed Rietveld analysis of x-ray powder diffraction data of Pb(ZrxTi1x)O3 (PZT) compositions across the morphotropic phase boundary (MPB) region (x=0.515, 0.520, 0.525, 0.530). It is shown that the structure of PZT is pure tetragonal for x}0.515 with space group P4mm. In the MPB region, 0.515&lt;x&lt;0.530, the tetragonal and monoclinic (space group: Cm) phases are found to coexist as a result of a first order phase transition between the low temperature monoclinic and high temperature tetragonal phases. Further, arguments are advanced to show that the hitherto believed rhombohedral structure (FRHT) of PZT for 0.530}x}0.62 is more likely to be monoclinic. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+crystal structure
+X-ray diffraction
+solid-state phase transformations

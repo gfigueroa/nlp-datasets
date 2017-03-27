@@ -1,0 +1,5 @@
+In data warehousing applications, numerous OLAP queries involve the processing of holistic aggregators such as computing the &ldquo;top n,&rdquo; median, quantiles, etc. In this paper, we present a novel approach called dynamic bucketing to efficiently evaluate these aggregators. We partition data into equiwidth buckets and further partition dense buckets into subbuckets as needed by allocating and reclaiming memory space. The bucketing process dynamically adapts to the input order and distribution of input datasets. The histograms of the buckets and subbuckets are stored in our new data structure called structure trees. A recent selection algorithm based on regular sampling is generalized and its analysis extended. We have also compared our new algorithms with this generalized algorithm and several other recent algorithms. Experimental results show that our new algorithms significantly outperform prior ones not only in the runtime but also in accuracy.
+
+Aggregation
+Dynamic bucketing
+Quantiles

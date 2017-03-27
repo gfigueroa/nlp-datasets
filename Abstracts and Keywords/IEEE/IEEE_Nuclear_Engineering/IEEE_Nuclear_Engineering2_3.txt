@@ -1,0 +1,5 @@
+The National Ignition Facility (NIF) is a 192-beam laser facility presently under construction at LLNL. When completed, NIF will be a 1.8-MJ, 500-TW ultraviolet laser system. Its missions are to obtain fusion ignition and to perform high energy density experiments in support of the U.S. nuclear weapons stockpile. Four of the NIF beams have been commissioned to demonstrate laser performance including target and beam alignment. During this time, NIF demonstrated on a single-beam basis that it will meet its performance goals and demonstrated its precision and flexibility for pulse shaping, pointing, timing and beam conditioning. It also performed four important experiments for inertial confinement fusion and high energy density science. Presently, the project is installing production hardware to complete the project in 2009 with the goal to begin ignition experiments in 2010. An integrated plan has been developed including the NIF operations, user equipment such as diagnostics and cryogenic target capability, and experiments and calculations to meet this goal
+
+fusion
+ignition
+laser

@@ -1,0 +1,5 @@
+Data distribution over satellite is becoming more and more important due to the need of convergence of several services over IP (e.g. Triple Play) where the classic DSL is not available. There are in fact examples, especially in rural communities, of successful satellite based wireless services to offer IP communication and broadband Internet connection to several users. The purpose of this paper is to introduce a novel system for point to point bulk data delivery (e.g. video on demand) using IP over DVB-S and rateless coding of the source data to achieve better performance in terms of data transfer time and especially bit-efficiency. This mechanism will be compared to standard reliable TCP data transfer, and advantages and trade-offs will be illustrated. The discussion is aided by theoretical analysis, NS2 simulations and tests performed over a Linux testbed with real-time traffic.
+
+DVB-S
+Fountain coding
+TCP/IP

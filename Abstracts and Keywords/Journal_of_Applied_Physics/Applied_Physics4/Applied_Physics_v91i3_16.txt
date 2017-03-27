@@ -1,0 +1,8 @@
+Polycrystalline thin films of Zn2SnO4 were deposited by rf magnetron sputtering onto glass substrates. Films were characterized by ¸2¸ x-ray diffraction and by 119Sn conversion electron Mössbauer spectroscopy. The films were randomly oriented in a cubic spinel structure. Comparison of x-ray diffraction peak intensities with structure-factor-calculated peak intensities confirmed that the films were in an inverse spinel configuration. Mössbauer studies detected two distinct Sn4+ octahedral sites. These distinct sites may be induced by distortions in the lattice associated with equally distinct Zn2+ octahedral sites. A model is suggested to explain that the relatively low electron mobility of Zn2SnO4 may be associated with disorder on the cation octahedral sites. This may disrupt transport between edge-sharing d10s0 electronically configured cations. © 2002 American Institute of Physics. 
+
+zinc compounds
+thin films
+X-ray diffraction
+sputtered coatings
+Mossbauer effect
+conversion electron spectra

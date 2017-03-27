@@ -1,0 +1,11 @@
+The giant magnetoelectric effect of laminated composites of rare-earth-iron alloys (Terfenol-D) and leadzirconatetitanate (PZT) is calculated by using the finite element method. Our simulations show that the magnetoelectric response of the laminated Terfenol-D/PZT composites is strongly dependent on interfacial bonding between Terfenol-D and PZT layers. The giant magnetoelectric effect and its dependence on the interfacial bonding predicted by the finite element method for the composites are in good agreement with predictions by a recent analytical method and recent experimental observations available. © 2004 American Institute of Physics. 
+
+terbium alloys
+dysprosium alloys
+iron alloys
+lead compounds
+laminates
+magnetoelectric effects
+bonds (chemical)
+binding energy
+finite element analysis

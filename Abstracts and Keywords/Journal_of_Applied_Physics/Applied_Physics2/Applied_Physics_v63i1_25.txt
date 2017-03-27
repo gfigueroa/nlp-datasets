@@ -1,0 +1,11 @@
+The polycrystalline Pd surface of a hydrogen sensitive palladiumsilicon dioxidesilicon [PdMOS (metaloxidesemiconductor)] structure has been exposed to small unsaturated hydrocarbons in the temperature range 300500 K. Apart from the hydrogen response of the PdMOS structure also work function (”¦) and electron energyloss studies were performed. At 500 K the hydrocarbons dissociate completely upon adsorption and produce a surface with atomically adsorbed carbon. The PdMOS structure can be used to observe both the dehydrogenation of the hydrocarbon molecules and the process of carbon adsorbing on the palladium surface. The sticking coefficient at this temperature for all hydrocarbons is close to unity. Furthermore, the hydrogen sensitivity of the structure is not drastically reduced by the adsorbed carbon. If the hydrocarbon adsorption is performed at 300 K there is still, at least on the initially clean surface, a large dehydrogenation. The dissociation is, however, not at all complete and there are considerable amounts of hydrocarbon species adsorbed for each gas. The induced work function shifts due to the different hydrocarbons vary from 1.0 to 1.7 eV. The hydrogen sensitivity of the PdMOS structure is reduced for growing hydrocarbon coverages and disappears completely for work function shifts of 1.7 eV.
+
+PALLADIUM
+WORK FUNCTIONS
+MIS JUNCTIONS
+HYDROCARBONS
+DECOMPOSITION
+DISSOCIATION
+ADSORPTION
+SORPTIVE PROPERTIES
+HYDROGENATION

@@ -1,0 +1,6 @@
+Nowadays, wireless access networks are a large contributor to the CO<sub>2</sub> emissions of ICT. Today, ICT is responsible for 4 % of the annual energy consumption and this number is expected to grow drastically in the coming years. The power consumption of these wireless access networks will thus become an important issue in the coming years. In this paper, the power consumption of wireless base stations for mobile WiMAX, HSPA and LTE is modelled and compared for a future scenario. For our research, we assume a suburban area and a physical bit rate of 10 Mbps. We compare the wireless technologies for a SISO and three MIMO systems. For each case, we give a ranking of the wireless technologies as a function of their power consumption, range and energy efficiency. Based on these results, we cover a specified area with each technology and determine which technology is the best solution for the specified area. We also compare the power consumption of the wireless access networks with the power consumption of the wired access networks.
+
+MIMO
+base station
+coverage
+power consumption

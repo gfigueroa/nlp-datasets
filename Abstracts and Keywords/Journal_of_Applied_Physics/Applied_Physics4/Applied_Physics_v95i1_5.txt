@@ -1,0 +1,7 @@
+Adhesion and shear deformation of ice have been traditionally considered to be responsible for ice friction at sliding velocities lower than about 102	m/s, but the simple mechanism cannot explain the recent finding that the iceice friction coefficient increases with decreasing sliding velocity. This article proposes an improved adhesion shear theory, which takes account of junction growth of asperities at the sliding ice interface due to sintering. At lower sliding velocities and higher homologous temperatures, contacts of ice asperities develop resulting in the increase of friction force. © 2004 American Institute of Physics. 
+
+ice
+sliding friction
+adhesion
+shear deformation
+sintering

@@ -1,0 +1,14 @@
+Hydrogenated microcrystalline silicon (¼c-Si:H) layers with thickness from 100 to 540 nm were prepared in situ by plasma enhanced chemical vapor deposition. The growth of ¼c-Si:H on various substrates [NiCr, device quality, and laser annealed amorphous silicon (a-Si:H)] was studied in ultrahigh vacuum by atomic force microscope using a conductive cantilever which enabled simultaneous measurement of morphology and local current with lateral resolution below 5 nm. The effect of barriers, voltage, and time on contrast in local current map is discussed in detail. Coexistent amorphous and microcrystalline regions are clearly identified due to their different conductivity. Laser annealing of the a-Si:H substrate significantly increases the crystalline fraction at the same layer thickness. Grains as small as 1030 nm separated by less conductive grain boundaries were revealed in microcrystalline regions. © 2002 American Institute of Physics. 
+
+silicon
+hydrogen
+elemental semiconductors
+plasma CVD
+semiconductor growth
+atomic force microscopy
+semiconductor thin films
+surface topography
+surface conductivity
+laser beam annealing
+grain size
+grain boundaries

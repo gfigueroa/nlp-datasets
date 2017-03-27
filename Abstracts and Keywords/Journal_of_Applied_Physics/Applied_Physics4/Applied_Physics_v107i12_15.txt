@@ -1,0 +1,7 @@
+Tunable cylindrical TE01n mode cavity has been used for the measurement of the dielectric and magnetic properties of planar anisotropic metamaterials as a function of frequency. Experiments have been performed on low loss dielectric samples covered with thin metal patterns consisting split-ring resonators (SRRs), creating a regular hexagonal lattice. In order to determine the two complex quantities, namely the effective permittivity in the plane of metamaterial and the effective permeability in the direction perpendicular to that plane, two metamaterial samples have been usedone small sample consisting of only seven SRRs at the center of the substrate and another large sample, with a diameter larger than the diameter of the cavity, completely covered with SRRs. It has been shown that determination of the effective permittivity and permeability, that are three-dimensional quantities, requires an assumption of the effective thickness of the metamaterial samples. The resonance behavior of the permittivity and permeability for metamaterials consisting of a SRR lattice has been experimentally confirmed.
+
+metamaterials
+optical lattices
+optical resonators
+permeability
+permittivity

@@ -1,0 +1,7 @@
+We present an exact solution for a singlecarrier injection current in a perfect insulator with arbitrary field at the injecting boundary.
+
+PHOTOCONDUCTIVITY
+CHARGE CARRIERS
+ELECTRIC CURRENTS
+CHARGEDPARTICLE TRANSPORT
+ELECTRICAL INSULATORS

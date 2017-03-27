@@ -1,0 +1,9 @@
+An experimental study of the classical Hall effect was carried out on amorphous As2S3 semiconducting glass. The experiments were performed on thin samples of As2S3 which were prepared in an oxygenfree atmosphere. The Hall coefficient, conductivity, and Hall mobility were determined in the temperature range of 300393 K. The Hall coefficient was found to decrease exponentially with temperature. The range of values for Hall coefficient was 1.8×10120.81×108 cm3	C1. The Hall mobility decreases slightly with temperature and the values obtained were within the range 0.0900.032 cm2	V1	s1. The conductivity of As2S3 at room temperature was of the order of 1013 ©1	cm1 and this increases exponentially with temperature.
+
+ARSENIC SULFIDES
+CHALCOGENIDE GLASSES
+HALL EFFECT
+CARRIER MOBILITY
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 273400 K
+ELECTRIC CONDUCTIVITY

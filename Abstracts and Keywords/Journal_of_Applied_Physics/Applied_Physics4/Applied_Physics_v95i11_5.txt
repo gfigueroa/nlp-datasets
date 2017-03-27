@@ -1,0 +1,8 @@
+Magnetization of ErFeO3 single crystal was measured by a super conducting quantum interference device magnetometer with greatly improved precision. A dramatic (70%) increase of magnetization was observed in the spin-reorientation interval (8897 K). This and the temperature dependence of the spin-rotation angle are accurately described by the modified mean field theory, which uses the key fact of the magnetic anisotropy of erbium subsystem. Calculated temperature dependence of the rotation angle shows a remarkable correspondence with the experiment with no fitting parameters. Proposed model is general and can be used to analyze orientation transitions in many orthoferrites. © 2004 American Institute of Physics. 
+
+erbium compounds
+ferrites
+magnetic anisotropy
+magnetic transitions
+spin dynamics
+magnetic moments

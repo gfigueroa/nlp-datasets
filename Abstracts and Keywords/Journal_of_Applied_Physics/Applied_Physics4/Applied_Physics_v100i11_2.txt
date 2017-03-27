@@ -1,0 +1,11 @@
+The temperature dependence of the electroluminescence (EL) spectral intensity has been investigated in detail between T = 20 and 300K at various injection current levels for a set of two blue InGaN/GaN multiple-quantum-well (MQW) light-emitting diodes (LEDs) with and without an additional n-doped In0.18Ga0.82N electron reservoir layer (ERL). The radiative recombination efficiency of the main blue emission band ( < 480nm) is found to be significantly improved at all temperature regions and current levels when the additional ERL is introduced. For high injection currents If, i.e., large forward bias voltages Vf, a quenching of the EL intensity is observed for T&lt;100K for both LED structures, accompanying appearance of short-wavelength satellite emissions around 380430nm. Furthermore, the low-temperature intensity reduction of the main EL band is stronger for the LED without the ERL than with the ERL. For low If, i.e., small Vf, however, no quenching of the EL intensity is observed for both LEDs even below 100K and the short-wavelength satellite emissions are significantly reduced. These results of the main blue emission and the short-wavelength satellite bands imply that the unusual evolution of the EL intensity with temperature and current is caused by variations of the actual potential field distribution due to both internal and external fields. They significantly influence the carrier capture efficiency by radiative recombination centers within the active MQW layer and the carrier escape out of the active regions into high-energy recombination centers responsible for the short-wavelength satellite emissions.
+
+indium compounds
+wide band gap semiconductors
+gallium compounds
+III-V semiconductors
+semiconductor quantum wells
+light emitting diodes
+quantum well devices
+electroluminescence
+radiation quenching

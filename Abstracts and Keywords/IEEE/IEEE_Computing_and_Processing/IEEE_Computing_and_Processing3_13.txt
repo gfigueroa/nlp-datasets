@@ -1,0 +1,6 @@
+An efficient technique for multiplying two binary numbers using limited power and time is presented in this paper. The work mainly focuses on speed of the multiplication operation of multipliers, by reducing the number of bits to be multiplied. The framework of the proposed algorithm is taken from Mathematical algorithms given in Vedas and is further optimized by use of some general arithmetic operations such as expansion and bit-shifting. The proposed algorithm was modeled using Verilog, a hardware description language. It was found that under a given 3.3 V supply voltage, the designed 4 bit multiplier dissipates a power of 47.35 mW. The propagation time of the proposed architecture was found to 6.63 ns.
+
+Multipliers
+Vedic Mathematics
+binary multiplication
+bit reduction

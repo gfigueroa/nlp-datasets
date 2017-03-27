@@ -1,0 +1,8 @@
+Using conducting tip atomic force microscopy (c-AFM), we have measured the currentvoltage (IV) characteristics of individual submicron islands of TiSi2 on Si(100) surfaces, and we have developed an imaging approach that distinguishes the electrical properties of the islands. The Schottky barrier height (SBH) of the submicron TiSi2 islands was deduced from the IV measurements. The results indicate that there is a significant variation of SBH among the islands on the same surface. The measurements employ a conventional AFM with a heavily B-doped diamond tip to obtain the currentvoltage relations. In contact mode AFM, electrical signals are extracted independently from the topographic image. In addition, we have modified the imaging method to probe the local electrical properties of a surface with regions of different conductivity. Using a lock-in technique both phase and amplitude images were obtained, and the resultant image is essentially a map of the differential surface conductivity. Using this method, TiSi2 islands on a Si(100) surface were imaged. This approach can be readily extended to other materials systems. © 2002 American Institute of Physics. 
+
+titanium compounds
+surface conductivity
+discontinuous metallic thin films
+atomic force microscopy
+surface topography
+Schottky barriers

@@ -1,0 +1,12 @@
+The structural properties of copper selenide (CuxSe), formed as a secondary phase on the surface of CuGaSe2 films grown under Cu-rich conditions on GaAs (100) substrates, were studied by micro-Raman spectroscopy. Raman bands at 45 and 263cm1, observed on crystallites dispersed on the CuGaSe2 film, are in agreement with the Raman modes of CuSe and Cu2Se. Polarization- and angular-dependent micro-Raman measurements reveal that the CuxSe-crystallites are grown with a preferential orientation on the CuGaSe2 surface.
+
+Raman spectra
+surface structure
+texture
+copper compounds
+gallium compounds
+ternary semiconductors
+crystallites
+semiconductor thin films
+semiconductor growth
+MOCVD coatings

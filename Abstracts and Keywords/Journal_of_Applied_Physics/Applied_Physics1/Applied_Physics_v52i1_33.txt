@@ -1,0 +1,17 @@
+The highpressure behavior of ±quartz SiO2 and GeO2, oxynitrides Si2N2O and Ge2N2O and ± and ²Si3N4 depends markedly on the nature of the linking of the coordination polyhedra in their crystal structures. Where bond angles can vary between neighboring polyhedra linked at one corner, relative tilting or rotations can occur modifying the aspect of the threedimensional framework. Such fine structural rearrangements can dominate the reponse of the crystal structure to applied stresses as induced by the application of high pressures or by temperature changes. Direct evidence for this is available from structural measurements at high pressure using timeofflight neutron diffraction with multicomponent profile refinement procedures, where atomic position changes have been determined up to pressures of <3×109 Pa. The crystal structures studied are the flexible ±quartz structures of SiO2 and GeO2, the partially flexible structures Si2N2O and Ge2N2O, and the rigid structures ± and ²Si3N4. The volume compressibility coefficients Kv are greatest for ±quartz SiO2 (274	×	1013 Pa1 ) and GeO2 (256×1013 Pa1) with the SiOSi and GeOGe angles varying the most; Kv is intermediate for Si2N2O (79	×	1013	Pa1 ) and Ge2N2O (99×1013 Pa1 ) where the SiOSi and GeOGe angles vary appreciably while the bond angles to the nitrogens change only slightly; Kv is least for ±Si3N4 (35.5	×	1013	Pa1 ) and ²Si3N4 (27.5×1013 Pa1 ) where no bond angles vary appreciably. For all of the structures examined, bond length changes with pressure are very small in comparison to bond angle changes, which can be an order of magnitude greater. Each structural type behaves in a characteristic way. For example, Si2N2O and Ge2N2O exhibit almost identical responses to pressure.
+
+VERY HIGH PRESSURE
+THEORETICAL DATA
+QUARTZ
+NITRIDES
+OXYGEN COMPOUNDS
+GERMANIUM OXIDES
+SILICON COMPOUNDS
+GERMANIUM COMPOUNDS
+CRYSTAL STRUCTURE
+BOND ANGLES
+ROTATION
+STRESSES
+TEMPERATURE DEPENDENCE
+TIMEOFFLIGHT METHOD
+NEUTRON DIFFRACTION

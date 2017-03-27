@@ -1,0 +1,9 @@
+High porosity nanocrystalline Si thin films have been deposited using a high density plasma approach at temperatures as low as 100
+°C. These films exhibit the same unique properties, such as visible luminescence and gas sensitivity, that are seen in electrochemically etched Si (i.e., porous Si). The nanostructure consists of an array of rodlike columns normal to the substrate surface situated in a void matrix. We have demonstrated that this structure is fully controllable and have varied the porosity up to <90% (as derived from optical reflectance) by varying the deposition conditions. In particular, the impact of plasma power has been found to reduce porosity by increasing the nuclei density and therefore the areal density of columns. Humidity sensors have been demonstrated based on the enhanced conductivity of our films (up to 6 orders of magnitude) in response to increase in relative humidity. Depending on the porosity, the conductivity-relative humidity behavior of our films shows variations which can be correlated with the nanostructure. Also, these variations indicate that the dominant charge transport is limited by the dissociation of water into its ions at the column surfaces. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+nanostructured materials
+plasma deposited coatings
+voids (solid)
+porosity

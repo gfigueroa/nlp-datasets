@@ -1,0 +1,7 @@
+Process manufacturing defects can often impact product yields, depending upon the type, size, and location of the defect, as well as the design and yield sensitivity of the respective semiconductor product devices. This paper presents comprehensive the investigating a novel process method on semiconductor copper BEOL (Back-End-Of-Line) manufacturing process and technology integration on optimal integrated lithography especially on anti-reflective coating (ARC) film and gap fill process (GFP) process and etching module process integration to the problem of defects reduction on semiconductor wafer manufacturing processes.
+
+BEOL
+Copper Dual Damascene
+Defects
+Process Integration
+Wafer

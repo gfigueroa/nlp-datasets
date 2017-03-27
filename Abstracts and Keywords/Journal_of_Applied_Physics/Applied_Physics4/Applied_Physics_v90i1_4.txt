@@ -1,0 +1,14 @@
+We have used ion channeling to examine the lattice configuration of hydrogen in Mg doped wurtzite GaN grown by metal organic chemical vapor deposition. Hydrogen is introduced by exposure to hydrogen gas or electron cyclotron resonance plasmas and by ion implantation. A density functional approach including lattice relaxation was used to calculate total energies for various locations and charge states of hydrogen in the wurtzite Mg doped GaN lattice. Results of channeling measurements are compared with channeling simulations for hydrogen at lattice locations predicted by the density functional theory. © 2001 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+magnesium
+hydrogen
+impurity distribution
+ion beam effects
+channelling
+MOCVD coatings
+semiconductor thin films
+ion implantation
+density functional theory
+total energy

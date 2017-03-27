@@ -1,0 +1,13 @@
+A theoretical study on the efficiency of chemical oxygeniodine laser (COIL) oscillators is described together with experimental data obtained using an efficient COIL system. In order to evaluate chemical oxygeniodine laser performance, three types of efficiencies (power conversion efficiency, extractable efficiency, and chemical efficiency) were introduced in this investigation. The dependencies of these efficiencies on initial gas components are investigated by theoretical simulation in which the theoretically attainable values of the efficiencies are also given. The validity of this simulation is confirmed by comparing the results with our experimental data. The experiments yielded a highextractable power efficiency of 75%, which is comparable to the theoretically determined attainable value of 88%.
+
+SIMULATION
+EFFICIENCY
+CHEMICAL LASERS
+GAS LASERS
+OXYGEN
+IODINE
+PERFORMANCE
+POWER
+THEORETICAL DATA
+EXPERIMENTAL DATA
+INFRARED RADIATION

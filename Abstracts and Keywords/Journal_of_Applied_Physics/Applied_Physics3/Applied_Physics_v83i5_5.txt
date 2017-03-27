@@ -1,0 +1,14 @@
+Two energetically-separated resonance structures were found in photoreflectance (PR) spectra of three-dimensional InxGa1xN epilayers (0.05 } x } 0.2) grown by metalorganic chemical vapor deposition. Energy difference between the two structures was nearly constant about 50 meV for all x examined. The broadening parameter of each structure was nearly independent of x ( < 50 meV), indicating that each separated region has rather homogeneous net potential fluctuation. The photoluminescence (PL) peak energy agreed with the resonance energy of the lower-energy PR structure, showing nearly zero Stokes-like shift at room temperature. Observation of a single PL peak indicated that photoexcited carriers were effectively corrected into the separated regions having lower PR resonance energy. © 1998 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+vapour phase epitaxial growth
+semiconductor growth
+energy gap
+optical constants
+photoluminescence
+photoreflectance
+spectral line broadening

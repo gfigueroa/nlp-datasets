@@ -1,0 +1,7 @@
+Hall mobility and magnetoresistance coefficient of the two-dimensional electron gas in a single square quantum well of GaN are calculated in the framework of Fermi-Dirac statistics considering the relevant scattering mechanisms. A numerical iterative solution of the Boltzman transport equation is carried out to find the transport parameters. The Hall mobility is calculated at the temperatures of 30 and 100 K considering the scatterings due to longitudinal optic (LO) phonons, deformation potential acoustic and piezoelectric interactions, and background ionized impurities. It is found that in low temperatures, the Hall mobility is controlled by the piezoelectric scattering for low impurity concentration. The magnetoresistance coefficient is also studied here for the classical magnetic fields. The variation of the Hall mobility and the magnetoresistance coefficient on the lattice temperature, channel length, 2D carrier concentration and the classical magnetic fields are studied here and the results are discussed.
+
+2D electron gas
+GaN
+Hall mobility
+Numerical iteration
+Quantum wells

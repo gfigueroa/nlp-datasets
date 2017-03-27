@@ -1,0 +1,13 @@
+Due to growth temperature differences during deposition of GaN heterostructures utilizing InAlN barriers, an inadvertent parasitic GaN layer can form in the InAlN barrier layer. In structures utilizing AlN spacer layers, this parasitic layer acts as a second conduction channel with a carrier density dependent upon polarization charges and lattice strain as well as the surface potential. The effect of an additional GaN spacer layer in InAlN/AlN/GaN structures is assessed using simulations, electron-microscopy observations, magnetoconductivity measurements with gated Hall bar samples, and with quantitative mobility spectrum analysis. We propose a possible formation mechanism for the parasitic layer, and note that although the additional unintended layer may have beneficial aspects, we discuss a strategy to prevent its occurrence.
+
+aluminium compounds
+carrier density
+gallium compounds
+Hall mobility
+high electron mobility transistors
+III-V semiconductors
+indium compounds
+magnetoresistance
+semiconductor growth
+semiconductor heterojunctions
+surface potential

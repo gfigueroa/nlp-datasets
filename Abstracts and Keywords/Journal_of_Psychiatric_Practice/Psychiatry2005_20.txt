@@ -1,0 +1,8 @@
+Research in the last decade has identified medication errors as a more frequent cause of unintended harm than was previously thought. Inpatient medication errors and error-prone medication usage are detected internally by medication error reporting and externally through hospital licensing and accreditation surveys. A hospital's rate of medication errors is one of several measures of patient safety available to staff. However, prospective patients and other interested parties must rely upon licensing and accreditation scores, along with varying access to outcome data, as their sole measures of patient safety. We have previously reported that much higher rates of medication errors were found when an independent audit was used compared with rates determined by the usual process of self-report. In this study, we summarize these earlier findings and then compare the error detection sensitivity of licensing and accreditation surveys with that of an independent audit. When experienced surveyors fail to detect a highly error prone medication usage system, it raises questions about the validity of survey scores as a measure of safety (i.e., lack of medication errors). Replication of our findings in other hospital settings is needed. We also recommend measures for improving patient safety by reducing error rates and increasing error detection. 
+
+medication errors
+patient safety
+licensing
+accreditation surveys
+Joint Commission on Accreditation of Healthcare Organizations (JCAHO)
+Centers for Medicare and Medicaid Services (CMS)

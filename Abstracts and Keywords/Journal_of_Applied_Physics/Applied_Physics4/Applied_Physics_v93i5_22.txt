@@ -1,0 +1,8 @@
+Laser chemical vapor deposition (LCVD) is a technique to deposit thin films of oxidation, corrosion, and wear resistant as well as electronic, optoelectronic, and superconductor materials. In order to understand the underlying mechanisms of such a process we have developed a numerical model using computational fluid dynamics (CFD). The NavierStokes equations governing the flow, heat transfer, and chemical reactions of the gases are solved numerically while the temperature distribution in the substrate is determined by solving the corresponding heat conduction equation. The present CFD model provides an opportunity to assess the important parameters concerning the LCVD process, such as the gas flow field, temperature distribution, concentration of reactants/products, and deposition height. Indicative results are presented for the deposition of titanium carbide upon AISI 1060 carbon. These results provide understanding of the LCVD process and enable its optimization. © 2003 American Institute of Physics. 
+
+laser deposition
+chemical vapour deposition
+corrosion protective coatings
+wear resistant coatings
+oxidation
+reviews

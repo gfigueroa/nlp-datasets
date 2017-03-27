@@ -1,0 +1,13 @@
+We performed density-functional calculations to investigate the electronic structure of ZnO/GaN-core/shell heterostructured nanowires (NWs) orientating along 0001	 direction. The built-in electric field arising from the charge redistribution at the {100} interfaces and the band offsets were revealed. ZnO-core/GaN-shell NWs rather than GaN-core/ZnO-shell ones were predicted to exhibit natural charge spatial separation behaviors, which are understandable in terms of an effective mass model. The effects of quantum confinement on the band gaps and band offsets were also discussed.
+
+effective mass
+electronic structure
+energy gap
+gallium compounds
+III-V semiconductors
+II-VI semiconductors
+nanowires
+semiconductor heterojunctions
+semiconductor quantum wires
+wide band gap semiconductors
+zinc compounds

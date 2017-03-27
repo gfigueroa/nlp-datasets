@@ -1,0 +1,6 @@
+Most real microphone-array applications require sound sources to be localized in a noisy, reverberant environment. In such conditions, the steered response power using the phase transform (SRP-PHAT) has been shown to be more robust than faster, two-stage, time-difference of arrival methods. The complication is that the SRP-PHAT space has many local extrema which has required computationally costly grid-search methods. In this paper, we introduce the use of coarse-to-fine region contraction (CFRC) to make computing the SRP practical. We compare CFRC cost and performance to that of using stochastic region contraction (SRC), a method we presented recently at ICASSP 2007, which showed the computation for SRC was reduced by about 3 orders of magnitude from a comparatively fine grid-search. Results here from real data from human talkers show that CFRC costs about the same as SRC overall, but requires only about 63% of SRC's cost under very noisy conditions.
+
+Optimization methods
+acoustic position measurement
+arrays
+microphones

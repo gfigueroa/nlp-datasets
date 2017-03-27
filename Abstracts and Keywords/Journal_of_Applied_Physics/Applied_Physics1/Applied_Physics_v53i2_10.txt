@@ -1,0 +1,7 @@
+A modification is suggested to the model of Vant, Ramseier, and Makios [J. Appl. Phys. 49, 1264 (1978)] for the dielectric constant of sea ice.
+
+PERMITTIVITY
+ICE
+SEAS
+GHZ RANGE 01100
+MHZ RANGE 1001000

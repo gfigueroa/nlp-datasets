@@ -1,0 +1,10 @@
+We model the polarization behavior of ferroelectric multilayered composite structures including the double layer and the triple layer under the action of variable fields. The model takes into consideration the ceramic/polymer interfacial charge and the nonlinear hysteresis nature of the ferroelectric constituent materials to study the poling process of multilayered structures. The results obtained are compared with available experimental results on double-layer lead zirconate titanate/polyvinylidene fluoride-trifluoroethylene and triple-layered triglycine sulphate/polyvinylidene fluoride-trifluoroethylene/triglycine sulphate systems. In general the broad features of the experimental results were reproduced, and fairly good agreement between the predictions and the experimental results was found. The work also demonstrates that electrical conductivity in the ferroelectric materials is an important factor controlling the poling process. © 2003 American Institute of Physics. 
+
+ferroelectric ceramics
+ferroelectric materials
+ferroelectric switching
+ferroelectric thin films
+dielectric hysteresis
+dielectric polarisation
+multilayers
+polymer films

@@ -1,0 +1,13 @@
+The transport and recombination properties of hydrogenated amorphous silicon/hydrogenated amorphous germanium (aSi:H/aGe:H) multilayers have been investigated as a function of the aGe:H well width by electrically detected magnetic resonance (EDMR). For aGe:H layers thicker than 4 nm, the EDMR signal is positive in sign, or enhancing, and composed of two components. It is observed in the dark as well as under illumination, and assigned to hopping through defects perpendicular to the multilayer planes. For the samples with aGe:H layer thinner than 4 nm, the EDMR signal is negative in sign, or quenched, and observed only under illumination. The quenched signal is also composed of two components, and is assigned to the recombination of the photocreated carriers in the aSi:H layer, as well as in the interface. The results indicate that the good photoconductivity in the infrared observed in such multilayers is explained by transfer of carriers from the aGe:H well to the aSi:H layer. © 1996 American Institute of Physics. 
+
+MULTILAYERS
+SILICON
+AMORPHOUS STATE
+HYDROGENATION
+GERMANIUM
+MAGNETIC RESONANCE
+PHOTOCONDUCTIVITY
+HOPPING
+DEFECTS
+RECOMBINATION
+INFRARED SPECTRA

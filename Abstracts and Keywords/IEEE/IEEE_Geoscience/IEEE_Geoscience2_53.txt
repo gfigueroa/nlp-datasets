@@ -1,0 +1,6 @@
+Based on virtual instrument technology, the paper conducts organic integration of capacitive displacement sensor ranging technology, eddy current sensor resistance testing technology and semiconductor P/N polarity of infrared pulse sensor testing technology, and develops dynamic non-contact silicon wafer testing instrument, which not only simulates the testing instruments like signal generator, digital oscilloscope, programmable power supply and digital multi-meter, but also has the functions like information fusion, data management, motion control and position detection. Dynamic non-contact test is the prior method of high speed and intelligent test of solar cell silicon wafers as well as the need of large-scale production of photovoltaic industry.
+
+Non-contact test
+displacement sensor
+eddy current sensor
+virtual instrument

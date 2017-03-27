@@ -1,0 +1,14 @@
+The surface of the AlGaN barrier layer in AlGaN/GaN high electron mobility transistors has strong and hitherto unexplained effects on transistor characteristics. Indeed, it has been cited as the source of the two-dimensional electron gas at the AlGaN/GaN interface. Using computational methods based on density functional theory, we investigate surface reconstructions on realistic GaN and AlN (0001) surfaces, which are invariably oxidized. Numerous structures with different oxide coverage and different stoichiometry are examined, and their stability is interpreted in terms of driving mechanisms such as the electron counting rule and oxide-stoichiometry matching. We discuss which structures are likely to form under a variety of oxidation conditions, and show that these structures explain the observed dependence of electron density on thickness and variations in surface barrier height.
+
+aluminium compounds
+density functional theory
+electron density
+gallium compounds
+high electron mobility transistors
+III-V semiconductors
+oxidation
+semiconductor heterojunctions
+stoichiometry
+surface reconstruction
+two-dimensional electron gas
+wide band gap semiconductors

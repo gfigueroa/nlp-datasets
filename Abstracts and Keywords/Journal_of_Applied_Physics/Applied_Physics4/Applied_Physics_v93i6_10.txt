@@ -1,0 +1,12 @@
+Ultrathin amorphous Hfaluminate (HfAlO) films have been deposited on p-type (100) Si substrates by pulsed-laser deposition using a composite target containing HfO2 and Al2O3 plates. Transmission electron microscopy observation of HfAlO films showed that the amorphous structure of HfAlO films was stable under rapid thermal annealing at temperatures up to at least 1000	°C. Capacitancevoltage measurement of a 38 Å HfAlO film revealed that the relative permittivity of the film was about 16. Such a film showed very low leakage current density of 4.6×103A/cm2 at 1 V gate bias. The HfAlO film under optimized condition did not show any significant interfacial layer at the interface and an equivalent oxide thickness of less than 10 Å has been achieved. The formation of HfO and AlO bonds in the film was revealed by x-ray photoelectron spectroscopy. © 2003 American Institute of Physics. 
+
+hafnium compounds
+semiconductor-insulator boundaries
+dielectric thin films
+permittivity
+amorphous state
+pulsed laser deposition
+transmission electron microscopy
+rapid thermal annealing
+X-ray photoelectron spectra
+bonds (chemical)

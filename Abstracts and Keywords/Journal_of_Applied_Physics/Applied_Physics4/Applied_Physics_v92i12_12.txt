@@ -1,0 +1,17 @@
+In this study, the electrical characteristics and interface microstructures of GaAs-based n-n and p-n interface junctions prepared from direct wafer bonding have been systematically investigated through current-voltage measurements and transmission electron microscopy. It is found that a nearly continuous amorphous interface layer exists in all samples bonded at 400	°C. A drastic change in interface morphology caused by atomic rearrangement during high-temperature annealing at 600	°C leads to the formation of a locally perfect junction interface combined with an array of nanoscale, bubblelike amorphous regions. Each of them plays a different role in affecting carrier transports. The regions with local crystalline perfection can result in a considerable reduction of interface resistance for the majority carrier transport. However, the non-negligible interface resistance suggests that at interface boundary, there still exits a large number of interface states resulting from atomic imperfections, such as point defects and dangling bonds. On the other hand, the array of nanoscale, bubblelike regions is believed to provide a significant leakage path for minority carriers in p-n junctions. The p-n junction bonded at 400	°C exhibits an ideality factor of about 1.9 compared to 1.1 from an epitaxially grown p-n junction. After annealing at 600	°C, the increased leakage current along the bubblelike amorphous regions results in a deteriorating ideality factor from 1.9 to 2.5. © 2002 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+p-n junctions
+semiconductor junctions
+wafer bonding
+interface structure
+transmission electron microscopy
+annealing
+noncrystalline structure
+interface states
+point defects
+dangling bonds
+minority carriers
+leakage currents
+defect states

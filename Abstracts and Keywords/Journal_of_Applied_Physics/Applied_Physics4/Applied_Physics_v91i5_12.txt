@@ -1,0 +1,5 @@
+We demonstrate, both theoretically and experimentally, that an anomalous field enhancement occurs in the vicinity of contact points between two plasmon-resonant surfaces. The theoretical model involves two spheres in contact, and the enhancement is shown to result from the localization of surface plasmon polaritons in the vicinity of the contact point brought on by a decrease of the wavelength and an enhancement of the field of plasmons propagating toward the tip. This model is applied to experiments involving silver films having mesoscopic surface protrusions which are irradiated by intense laser pulses: films in close contact (where the protrusions touch) suffer laser-induced damage which is absent in separately irradiated films. This is interpreted as arising from the additional field enhancement, relative to the well-known enhancement occurring at isolated silver surface protrusions, brought on by the contacts. © 2002 American Institute of Physics. 
+
+silver
+polaritons
+surface plasmon resonance

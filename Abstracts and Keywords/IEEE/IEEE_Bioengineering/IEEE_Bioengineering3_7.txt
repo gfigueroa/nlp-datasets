@@ -1,0 +1,7 @@
+The major challenge in future heterogeneous wireless networks is to promote the network welfare by well designing the radio resource management (RRM). Due to the similarity of both the ecological system and the heterogeneous wireless networks on the competitiveness, we propose a novel ecology-based adaptive network control (EBANC) scheme for RRM to optimize the network revenue, which introduces the Lotka-Volterra competition equations (L-V model) to predict the outcome of competitiveness. The proposed EBANC consists of two key algorithms, which are access selection algorithm on the user side and the price control algorithm on the network side. The simulation results exhibit the better performance of the EBANC scheme compared with other existing access selection scheme
+
+Heterogeneous wireless networks
+L-V model
+Mapping relationship
+Net revenue
+Radio Resource Management

@@ -1,0 +1,13 @@
+Polycrystalline samples of GeBi4Te7 with different compositional deviations from stoichiometry have been prepared and characterized by Seebeck coefficient and electrical resistivity measurements over the temperature range 100750 K. At room temperature all samples exhibit n-type conductivity and a high concentration of electrons in the range 1.7×10192.4×1020
+cm3. The width of the energy band gap of GeBi4Te7 was 0.21±0.02
+eV as determined from the temperature dependence of electrical resistivity in the intrinsic region. A dominant point defects model is proposed to explain the influence of compositional nonstoichiometry on the transport properties. © 1999 American Institute of Physics.
+
+stoichiometry
+electrical resistivity
+energy gap
+Seebeck effect
+germanium alloys
+bismuth alloys
+tellurium alloys
+semiconductor materials
+point defects

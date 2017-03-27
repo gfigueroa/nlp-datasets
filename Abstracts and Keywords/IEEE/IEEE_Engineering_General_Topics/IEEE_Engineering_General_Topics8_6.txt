@@ -1,0 +1,6 @@
+Demonstration learning is a powerful and practical technique to develop robot behaviors. Even so, development remains a challenge and possible demonstration limitations can degrade policy performance. This work presents an approach for policy improvement and adaptation through a tactile interface located on the body of a robot. We introduce the Tactile Policy Correction (TPC) algorithm, that employs tactile feedback for the refinement of a demonstrated policy, as well as its reuse for the development of other policies. We validate TPC on a humanoid robot performing grasp-positioning tasks. The performance of the demonstrated policy is found to improve with tactile corrections. Tactile guidance also is shown to enable the development of policies able to successfully execute novel, undemonstrated, tasks.
+
+Human-Robot Interaction
+Humanoid Robots
+Imitation and Social Learning
+Skill Acquisition

@@ -1,0 +1,7 @@
+In the future Internet environment, GIService (Geographic Information Service) will be faced with high-performance serving requirements. Also, considering the different operating systems market share, we need the GIService to run in the cross-platform environment. This paper analyzed the importance of the scalability and cross-platform-ability on GIService. Through the process of middleware selection and the designing of the communication framework, we proposed three models to build the GIService. For each model, we designed the relevant technological solution. Experiments proved these solutions to be feasible. Through the comparison of different test, we can draw the conclusion that reasonable technology selection and model designing makes the scalable, cross-platform GIService available.
+
+GIService
+communication Framework
+cross-platform-ability
+middleware
+scalability

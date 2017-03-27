@@ -1,0 +1,6 @@
+In this article, we address the problem of self calibrating an embedded stereoscopic vision system, that is determining its epipolar geometry automatically. After reviewing the general method, we propose and describe two new methods for matching points, based on correlation, and using the sole constraint of unicity. We compare them with an already published method, and present some experimental results
+
+Stereo vision
+correlation
+epipolar geometry
+fundamental matrix

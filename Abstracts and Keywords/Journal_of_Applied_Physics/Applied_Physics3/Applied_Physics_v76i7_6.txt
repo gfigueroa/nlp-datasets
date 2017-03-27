@@ -1,0 +1,11 @@
+A simple model of foam drainage is introduced in which the Plateau borders and quadruple junctions are identified with pools that discharge through channels to pools underneath. The flow is driven by gravity and there are friction losses in the exhausting channels. The equation of Bernoulli combined with the HagenPoiseuille equation is applied to describe the flow. The area of the cross section of the exhausting channels can be taken as a constant or may vary during drainage. The predictions of the model are compared with standard drainage curves and with the results of a recently reported experiment in which additional liquid is supplied at the top of the froth.
+
+FOAMS
+DRAINAGE
+FLUID FLOW
+BERNOULLI LAW
+FRICTION
+GRAVITATION
+CHANNELS
+CROSS SECTIONS
+MATHEMATICAL MODELS

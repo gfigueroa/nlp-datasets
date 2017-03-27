@@ -1,0 +1,17 @@
+The ClausiusClapeyron equation has been extended to describe the temperature dependence of the operating voltage of a bistable liquid crystal cell. The voltage dependence is obtained in terms of the free energy derivatives of the two states of the bistable cell. These free energy derivatives may be calculated numerically. Furthermore, by employing a constant configuration approximation, these free energy derivatives yield a simple expression for the operating voltage as proportional to the square root of the ratio of the splay elastic constant to the dielectric anisotropy. This result provides a criterion for evaluating the temperature dependence of operation of various liquid crystal mixtures from the temperature dependence of elastic and dielectric constant data.
+
+liquid crystals
+bistability
+electric potential
+operation
+temperature dependence
+dielectric materials
+phase transformations
+free energy
+thermodynamics
+equations of state
+anisotropy
+elastic constants
+dielectric function
+switching
+operation

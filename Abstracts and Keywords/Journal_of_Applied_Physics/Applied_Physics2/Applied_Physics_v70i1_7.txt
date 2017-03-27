@@ -1,0 +1,11 @@
+Studies of the effects of ion bombardment on the phase equilibria and ordering of FeNi alloys with 30.6 and 39.5 at.	% Ni were performed. The FeNi samples were bombarded with Ne, Ar, and Kr at different doses and temperatures, and analyzed using the conversion electron Mössbauer spectroscopy (CEMS) technique with 57Fe. The changes in the CEMS spectra of Fe69.4Ni30.6 and Fe60.5Ni39.5 alloys, bombarded with Ne and Ar, indicate a phase separation, but no evidence of ordering. The Kr bombardment does not produce any change, however samples of 39.5 at.	% Ni already showing phase separation returned to the single phase state after Kr irradiation. Our results give strong evidences of a prevalence of displacement mixing for bombardment with heavier ions, and of radiation enhanced diffusion for bombardment with lighter ions.
+
+PHASE SEPARATION
+IRON ALLOYS
+NICKEL ALLOYS
+INVAR
+ION COLLISIONS
+NEON IONS
+ARGON IONS
+KRYPTON IONS
+MOESSBAUER EFFECT

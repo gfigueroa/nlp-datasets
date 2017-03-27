@@ -1,0 +1,6 @@
+In this paper, we propose a new implementation of the JXTA framework, based on the integration of the original JXTA version with the Chord DHT management protocol. The resulting new JXTA implementation is experimentally compared with the original one, by referring to the JXTA performance model proposed by Halepovic et al. in 2004: the results give strong evidence to the fact that the JXTA rendezvous protocol performances can be improved up to one order of magnitude by replacing the original loosely-consistent DHT with the real Chord DHT.
+
+Distributed hash table
+JXTA
+Peer-to-Peer
+Performance evaluation

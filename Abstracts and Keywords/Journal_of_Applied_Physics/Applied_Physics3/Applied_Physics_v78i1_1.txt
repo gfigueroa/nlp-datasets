@@ -1,0 +1,11 @@
+In this article, we address the nonlinear properties of bulk acoustic waves in anisotropic solids. While ordinary driving waves are obtained by means of the quasiwave mode concept in the discussion on propagation problems, we focus our analysis on the driving wave satisfying the resonant condition which exhibits the characteristics of threedimensional spatial accumulation. Then a theory as the basis for solving nonlinear boundary value problems is developed. The novel analysis is presented for nonlinear reflection of bulk acoustic waves at a free surface of a generally anisotropic solid, which reveals that the surface may generate freely propagating secondharmonic waves, and that the reflective secondharmonic waves increase two dimensionally in the bulk. This technique can also be applied to wave reflection problems at other kinds of planar boundaries. Some numerical calculation is carried out for the case in an isotropic solid. © 1995 American Institute of Physics.
+
+SOLIDS
+ANISOTROPY
+SOUND WAVES
+WAVE EQUATIONS
+REFLECTION
+NONLINEAR ACOUSTICS
+BULK PROPERTIES
+BOUNDARYVALUE PROBLEMS
+SECOND HARMONIC GENERATION

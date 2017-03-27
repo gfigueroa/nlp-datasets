@@ -1,0 +1,9 @@
+A model for calculations of relaxor ferroelectrics thin films static properties is proposed within the framework of the random field theory. We took into account the misfit strain between the film and the substrate as well as the surface piezoelectric effect that causes the built-in electric field in the strained films. The dependence of the order parameter and dielectric susceptibility on the film thickness, temperature, and random field distribution function halfwidth was obtained. It was shown that the fraction of long-range polar order in relaxor films decreases with a thickness decrease so that it has to be a dipole glass state for free standing films or an electretlike state with residual polarization originated from the built-in field for the films with a thickness less than some critical value.
+
+dielectric polarisation
+ferroelectric thin films
+lead compounds
+magnesium compounds
+optical susceptibility
+piezoelectricity
+relaxor ferroelectrics

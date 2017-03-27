@@ -1,0 +1,6 @@
+In recent years, a growing number of companies have been using eco-efficiency as an indicator of environmental performance in Japan. In 2006, Japan environmental efficiency forum developed the Information and Communications Technology (ICT) eco-efficiency evaluation guidelines, which activated implementation of eco-efficiency evaluations for ICT by Japanese industries. This presentation will focus on the state of knowledge of evaluation of environmental impact of ICT as well as the development of eco-efficiency guidelines for ICT in Japan. In addition, a comparative eco-efficiency case study for a videoconference and face-to-face meeting are presented.
+
+Eco-efficiency
+Guideline
+Information and Communications Technology (ICT)
+Life Cycle Assessment (LCA)

@@ -1,0 +1,6 @@
+In order to optimize the geometry of the acoustic waveguide biosensor, the performance of the device was assessed for two different guiding layers: a photeresist (Novolak) and a polymer Poly(methylmethacrylate) (PMMA) one. Initially, the effect of the thickness of each layer on the insertion loss of the device and frequency of the wave was monitored. The 1.5 and 1.7 ¼m Novolak and PMMA, respectively, coated devices were used to monitor the binding of Immunoglobulin G to the protein A activated device surface. Both devices were found to exhibit the same phase sensitivity to protein deposition. However, Novolak waveguides showed a higher stability in contact with water, making them more suitable for biosensing applications than PMMA waveguides. Finally, the reproducibility of the Novolak-coated waveguide was studied during the formation of the polymer layer, addition of buffer, and antibody binding. © 2001 American Institute of Physics. 
+
+polymer films
+biosensors
+surface acoustic wave waveguides
+sensitivity

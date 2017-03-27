@@ -1,0 +1,15 @@
+In this work we present a detailed structural characterization by Raman spectroscopy of hydrogenated amorphous silicon (a-Si:H) and of nanostructured silicon (ns-Si:H) thin films grown in radio-frequency plasma. The ns-Si:H thin films, also called polymorphous Si thin films, consist of a two-phase mixture of amorphous and ordered Si. The Raman spectra were measured at increasing laser intensities. Very low laser power densities (<1 kW/cm2) were used to thoroughly analyze the structure of as-deposited thin films. Higher Raman laser powers were found to induce the crystallization of the films, which was characterized by the appearance of a sharp peak around 500 cm1. This was attained faster in the ns-Si:H than in the conventional a-Si:H thin films because the silicon-ordered particles cause a heterogeneous nucleation process in which they act as seeds for crystallization. The laser power densities for film crystallization, crystal size, and surface temperature were determined from this Raman analysis. The validity and application ranges of the different models that can be used to calculate these parameters are critically discussed. © 2001 American Institute of Physics. 
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+semiconductor thin films
+nanostructured materials
+particle size
+spectral methods of temperature measurement
+Raman spectra
+noncrystalline structure
+plasma deposited coatings
+crystallisation
+nucleation

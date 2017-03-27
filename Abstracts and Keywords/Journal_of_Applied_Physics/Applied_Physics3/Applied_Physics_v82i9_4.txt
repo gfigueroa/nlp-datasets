@@ -1,0 +1,11 @@
+We describe an approach to realize quasi-one-dimensional electron gases using an undoped GaAs/AlxGa1xAsheterostructure. It is demonstrated that with a combination of ion implanted ohmic regions and a narrow top gate, a quasi-one-dimensional electron gas with a very high electron density can be formed. The width of the narrow top gate is varied between 0.4 and 1.0 ¼m. The wires are characterized by low temperature magnetotransport experiments. The effective wire width is found to be comparable to the gate width. The high mobility of about 95
+m2/V
+s is only 5%10% less than that obtained in a two-dimensional electron gas of the same material and is maintained at low temperatures. © 1997 American Institute of Physics.
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor heterojunctions
+electron gas
+electron density
+semiconductor quantum wires

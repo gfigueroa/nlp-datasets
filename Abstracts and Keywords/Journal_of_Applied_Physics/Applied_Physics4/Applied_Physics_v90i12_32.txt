@@ -1,0 +1,17 @@
+The formation of C54 TiSi2 using TiNb alloys deposited on polycrystalline Si substrates was studied by means of in situ x-ray diffraction and resistance measurements during temperature ramping. Alloys with Nb contents ranging from 0 to 13.6 at.
+% were used. The formation temperature of C54 TiSi2 was reduced in the presence of Nb. However, the addition of Nb in Ti did not cause fundamental changes in the evolution of resistance versus temperature. This latter observation suggests that the mechanism for the formation of C54 TiSi2 remained the same in spite of the enhancement effect. For alloys with up to 8 at.
+% of Nb, the C49 TiSi2 phase formed first, as with pure Ti. When annealing the alloy with 13.6 at.
+% Nb, neither C49 TiSi2 nor C54 were found in the usual temperature ranges, instead, C40 (Nb,Ti)Si2 was observed. This phase transformed to C54 (Nb,Ti)Si2 above 950
+°C. The apparent activation energy associated with the formation of C54 TiSi2 was obtained by annealing the samples at four different ramp rates from 3 to 27 K/s; it decreased continuously from 3.8 to 2.5 eV with increasing Nb content from 0 to 8 at.
+%. The apparent activation energy for the formation of C40 (Nb,Ti)Si2 was found to be 2.6 eV. The possible physical meaning, or lack thereof, of the high activation energies derived from experimental measurements is extensively discussed. A qualitative model is proposed whereby nucleation would be rate controlling in pure TiSi2, and interface motion in samples with 8 at.
+% Nb. © 2001 American Institute of Physics. 
+
+X-ray diffraction
+annealing
+phase separation
+reaction kinetics
+solid-state phase transformations
+electrical resistivity
+titanium compounds
+niobium
+nucleation

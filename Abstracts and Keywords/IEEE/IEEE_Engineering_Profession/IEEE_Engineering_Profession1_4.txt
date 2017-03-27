@@ -1,0 +1,6 @@
+The consistent proof of operation in finite field is presented by studying mathematical operations in Galois Field(2<sup>8</sup>) and comparing Rijndael algorithm with Reed-Solomon algorithm in this paper. The explanation for various operations is given from the perspective of polynomial multiply, especially paying more attention to multiplication operation. Through analysis of mathematical operations, author proves that the basic operations for different implementation approaches in Galois Field(2<sup>8</sup>) are consistent essentially.
+
+AES
+Finite Field
+GF
+RS

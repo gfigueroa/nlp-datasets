@@ -1,0 +1,10 @@
+We have fabricated pentacene organic thin film transistors with spin-coated polymer gate dielectric layers, including cross-linked polyvinylphenol and a polyvinylphenol-based copolymer, and obtained devices with excellent electrical characteristics, including carrier mobility as large as 3 cm2/V
+s, subthreshold swing as low as 1.2 V/decade, and on/off current ratio of 105. For comparison, we have also fabricated pentacene transistors using thermally grown silicon dioxide as the gate dielectric and obtained carrier mobilities as large as 1 cm2/V
+s and subthreshold swing as low as 0.5 V/decade. © 2002 American Institute of Physics. 
+
+thin film transistors
+high electron mobility transistors
+polymer films
+polymer blends
+insulating thin films
+organic semiconductors

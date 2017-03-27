@@ -1,0 +1,10 @@
+The experimental results presented here demonstrate for the first time the feasibility of compositional interdiffusion (CID) as a fabrication technique for double heterostructure diode lasers of graded bandgap energy. The emission wavelengths of double heterostructure PbS1xSex diode lasers, fabricated by a twostage CID anneal, were found to depend on annealing parameters such as the temperatures and times of the two anneals and on the source materials used. The emission wavelength of the lasers was adjusted to be between 5.9 (x=0.55) and 4.8 ¼m (x=0.20) by changing the temperature of the second anneal, a process which also produced the pn junction at different depths. The interdiffusion coefficient in PbS0.8Se0.2 was estimated to lie in the range (0.41.1)×1011 cm2	s1.
+
+heterojunctions
+semiconductor diodes
+laser materials
+fabrication
+semiconductor lasers
+annealing
+frequency control
+diffusion

@@ -1,0 +1,8 @@
+Measurements of photoluminescence intensity from GaAs and InGaAs quantum well heterostructures have been used as a noninvasive probe of the damage distribution due to very low-power dry etching. Samples were etched using SiCl4 reactive-ion etching. Comparative studies were made on samples bombarded by the separate constituent ions of a SiCl4 discharge using a mass-resolving ion implanter fitted with a deceleration lens. We also examined the influence of more complex multicomponent discharges. We found that molecular ions contribute less to deep damage than do atomic ions. The reason is that molecular ions fragment upon impact and the secondary atomic ions do not channel very far. Studies of laser illumination on the sample during etching show that a form of radiation-enhanced diffusion can modify the damage distribution. The net picture emerges of a complex process underlying dry-etch damage penetration at very low energies. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+sputter etching
+photoluminescence

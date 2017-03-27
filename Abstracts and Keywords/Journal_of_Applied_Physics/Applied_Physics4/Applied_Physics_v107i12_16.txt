@@ -1,0 +1,7 @@
+We derive the calibration constants necessary for using single-walled carbon nanotubes (CNTs) as nanoscale mass sensors. The CNT resonators are assumed to be either in cantilevered or in bridged configurations. Two cases, namely, when the added mass can be considered as a point mass and when the added mass is distributed over a larger area is considered. Closed-form transcendental equations have been derived for the frequency shift due to the added mass. Using the energy principles, generalized nondimensional calibration constants have been derived for an explicit relationship between the added mass and the frequency shift. A molecular mechanics model based on the universal force field potential is used to validate the new results presented. The results indicate that the distributed nature of the mass to be detected has considerable effect on the performance of the sensor.
+
+biosensors
+calibration
+carbon nanotubes
+nanobiotechnology
+resonators

@@ -1,0 +1,12 @@
+We report the characteristics of InGaN multiple-quantum-well (MQW) green light-emitting diodes (LEDs) on Si (111) substrates. The MQW LEDs were grown on Si by metalorganic chemical vapor deposition using Al0.27Ga0.73N/AlN intermediate layers. The LED on Si showed an operating voltage of 7 V, a series resistance of 100 ©, an optical output power of 20 ¼W, and a peak emission wavelength of 505 nm with a full width at half maximum of 33 nm at 20 mA drive current. The optical output power was half as compared to that of green LED on sapphire. The LED also exhibited a stable operation over 500 h under automatic current control (20 mA) condition at 27
+°C. © 2002 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+semiconductor quantum wells
+light emitting diodes
+MOCVD
+semiconductor growth
+wide band gap semiconductors
+quantum well devices

@@ -1,0 +1,6 @@
+Requests for changes to software systems have a potential damaging effect on software projects and the life span of software. Changes can not be avoided since it seems impossible to produce complete, correct and stable requirements. Late requests for deep, structural software changes are particularly harmful. We present an approach for early detection of evolutionary changes of software requirements, especially deep structural changes that have implications for the software architecture. The approach is based on using business process modelling (BPM) as a tool to increase the level of understanding of the problem domain in early stages. This enables the system stakeholders to identify and prevent certain types of changes earlier in the development process than what is usual with most commonly used development methods. We present a possible taxonomy of changes to help managing the different types of changes that are most important for our purpose.
+
+Business Process Modeling
+requirements changes
+requirements engineering
+requirements management

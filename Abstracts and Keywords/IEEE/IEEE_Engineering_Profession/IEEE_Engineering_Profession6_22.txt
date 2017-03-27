@@ -1,0 +1,6 @@
+With the fast development of information technologies implementation, Enterprise resource planning (ERP) systems are increasingly adopted by more large and medium-size companies in China. For most Chinese companies, ERP is still in its planning or initializing stages. Managers in those firms are expecting to know more about what will happen and what they need do after the ERP implementation. Even though some researches about ERP usage in other countries can benefit Chinese practitioners, there is little research on the process of post ERP implementation in China itself. Based on interviews in two manufacturing firms in northeast of China, this study aims to explore the general process of the ERP usage after implementation in Chinese companies from the perspective of ERP performance. According to the differences of ERP performance, four stages are identified as ldquoPassion of noveltyrdquo, ldquoShake-downrdquo, ldquoFast improvingrdquo, and ldquoStably and continuously improvingrdquo. Our findings extend prior studies on the stages of ERP performance.
+
+China
+ERP
+process of performance
+usage

@@ -1,0 +1,7 @@
+Study of integrated parameter acquisition and fusion for high-pressure water pump based on virtual instrument was carried out on software platform of LabVIEW. Multi-sensor's parameters are accessed through PCI local bus and RS-232 technology, and then information fusion is realized by three steps: multi-parameter error handling which enables accurate parameters to be acquired, applying multi-sensor data association rules which are defined by water pump's theory and performance curves fitting which forms reasonable results. Field testing indicates that results of our system agree well with the measurements provided by manufacturer and that the system is correct and effective, meeting practical requirements.
+
+PCI data acquisition board
+data fusion
+multi-parameter acquisition
+polynomial fitting
+serial communication

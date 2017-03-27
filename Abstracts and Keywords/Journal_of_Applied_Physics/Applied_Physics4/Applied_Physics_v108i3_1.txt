@@ -1,0 +1,8 @@
+Three two-photon active boradiazaindacene derivatives named 2,6-di-(phenylacetylenyl)-1,3,5,7-tetramethyl-8-phenyl-4,4-difluoroboradiazaindacene (3a), 2,6-di-(9-ethyl-9H-carbazole-3-ethynyl)-1,3,5,7-tetramethyl-8-phenyl-4,4-difluoroboradiazaindacene (3b), and 2,6-di-(4-N,N-di-phenyl-phenylacetylenyl)-1,3,5,7-tetramethyl-8-phenyl-4,4-difluoroboradiazaindacene (3c) in tetrahydrofuran solutions were systematically investigated by using the femtosecond laser spectroscopic techniques. The two-photon absorption cross sections of 3a, 3b and 3c were determined to be 29 GM, 46 GM, and 60 GM, respectively, increasing with the increase in strength of the electron-donor groups. The relaxation dynamics of the excited states measured by femtosecond pump-probe experiments reveal a broad region of stimulated radiation of the excited states and the different relaxation process happened in these compounds. The preliminary two-photon fluorescence imaging experiment show their good cell permeability, nontoxicity, and excellent two-photon fluorescence properties.
+
+excited states
+fluorescence
+light absorption
+nonlinear optics
+spectroscopy
+two-photon processes

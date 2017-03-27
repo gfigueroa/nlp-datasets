@@ -1,0 +1,19 @@
+The microstrain damping loops in Ni single crystals prestrained between 10 to 24% in stage II have been studied as a function of stress amplitude (in the range 9.878.4 MPa) and temperature in the range 77300 K. The isothermal modulus defect in this prestrain range decreases from about 2010% and appears to be associated with bowing of the primary dislocations. Experiments performed with and without a magnetic field suggest that the total microstrain decrement can be decomposed into magnetoelastic, hysteretic, and relaxational components. The magnetoelastic contribution is C0.10 of the observed decrement and is independent of temperature. The relaxational contribution appears to be negligible at room temperature. The predominant hysteretic contribution to the observed decrement is analyzed according to the theory proposed by Roberts which deals with the hysteresis associated with primary dislocation breakaway from attractive dislocation junctions. Good agreement between theory and experiment is found for the hysteresis.
+
+NICKEL
+STRAIN
+MONOCRYSTALS
+DEFORMATION
+HIGH PRESSURE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+DISLOCATIONS
+DATA
+ISOTHERMAL PROCESSES
+MAGNETIC FIELDS
+ELASTICITY
+HYSTERESIS
+RELAXATION
+TEMPERATURE DEPENDENCE
+MATHEMATICAL MODELS
+COMPARATIVE EVALUATIONS

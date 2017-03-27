@@ -1,0 +1,9 @@
+We have measured the rates for the depletion of silane and the formation of solid material, disilane, trisilane, and hydrogen under steadystate conditions in a flowing dc silane discharge in the presence of a heated substrate. The depletion rate of silane depends linearly on discharge current whereas the film yield and hydrogen yield increase superlinearly and the disilane and trisilane yields increase sublinearly with current. The yield of disilane is reduced in the presence of a hot substrate which we interpret as evidence that a significant fraction of disilane is produced by surface combination of SiH3 radicals. We also find that the optical emission intensity of the Balmer H± line is proportional to the partial pressure of H2, and the intensity of the SiH 414nm band is unrelated to the film deposition rate.
+
+SILANES
+ELECTRIC DISCHARGES
+CHEMICAL REACTION YIELD
+SILICON
+AMORPHOUS STATE
+HYDROGENATION
+CHEMICAL REACTION KINETICS

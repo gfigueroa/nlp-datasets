@@ -1,0 +1,7 @@
+The notorious &#x201c;dimensionality curse&#x201d; is a well-known phenomenon for any multi-dimensional indexes attempting to scale up to high dimensions. One well-known approach to overcome degradation in performance with respect to increasing dimensions is to reduce the dimensionality of the original dataset before constructing the index. However, identifying the correlation among the dimensions and effectively reducing them are challenging tasks. In this paper, we present an adaptive Multi-level Mahalanobis-based Dimensionality Reduction (MMDR) technique for high-dimensional indexing. Our MMDR technique has four notable features compared to existing methods. First, it discovers elliptical clusters for more effective dimensionality reduction by using only the low-dimensional subspaces. Second, data points in the different axis systems are indexed using a single B+-tree. Third, our technique is highly scalable in terms of data size and dimension. Finally, it is also dynamic and adaptive to insertions. An extensive performance study was conducted using both real and synthetic datasets, and the results show that our technique not only achieves higher precision, but also enables queries to be processed efficiently.
+
+Correlated clustering
+Dimensionality reduction
+High-dimensional indexing
+Projection
+Subspace

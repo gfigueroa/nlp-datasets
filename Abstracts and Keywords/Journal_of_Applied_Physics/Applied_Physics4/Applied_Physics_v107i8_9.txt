@@ -1,0 +1,11 @@
+Rising demands in design of metamaterials requires better understanding of coupling phenomena in composite systems. Materials exhibiting product properties have effective magnitude of physical constants surpassing those of naturally existing materials. In this manuscript, we conduct numerical modeling of laminated terfenol-D/PZT/terfenol-D magnetoelectric composites with sandwich structure coupled through elastic interactions across the bonding layer. Developed magnetoelectric model couples the piezoelectric and magnetostriction constitutive equations with Langevin theory for simulating the saturated elastic response in composites. Simulated results were found to be in good agreement with the experimental results. Based upon the developed model we predict 17% improvement of magnetoelectric coefficient for sandwich structure through proper rotation of polarization in individual layers.
+
+elasticity
+laminates
+lead compounds
+magnetoelectric effects
+magnetostriction
+metamaterials
+organic compounds
+piezoelectricity
+sandwich structures

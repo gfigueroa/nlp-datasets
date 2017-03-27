@@ -1,0 +1,9 @@
+A correction to the expression [W. Nakwaski, J. Appl. Phys. 67, 2711 (1990)] for the threedimensional temperature distribution in the heat sink of a laser is presented. It is also extended to the case of an odd number of laser chips. © 1996 American Institute of Physics. 
+
+LASER DIODES
+HEAT TRANSFER
+MODE LOCKING
+ARRAYS
+HEAT SINKS
+TEMPERATURE DISTRIBUTION
+ANALYTICAL SOLUTION

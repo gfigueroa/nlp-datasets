@@ -1,0 +1,20 @@
+Quantum counter action has been demonstrated at 10 ¼m. A LaBr3:Sm crystal shows a detectivity of 6.7×107 cm	Hz1/2/W in the 9.610.3 ¼m region. The same crystal system is also sensitive to infrared radiation in several other bands between 2 and 10 ¼. The relative sensitivity for different wavelengths is in agreement with the absorption strengths of the samarium transitions involved. By using a single laser pump line but switching input filters this multicolor sensitivity was used to determine the temperature of the blackbody target used. At very high pump powers there is a large increase in fluorescence output. This output is the result of a photon avalanche effect similar to that recently discovered in LaBr3:Pr. The slow buildup and rapid decay of this output provides strong evidence that a multiion process is involved.
+
+radiation detectors
+quantum electronics
+counting circuits
+samarium
+thickness
+lanthanum bromides
+doped materials
+crystals
+sensitivity
+infrared radiation
+absorption
+energylevel transitions
+optical pumping
+filters
+temperature measurement
+blackbody radiation
+targets
+fluorescence

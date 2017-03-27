@@ -1,0 +1,5 @@
+The attribute reduction algorithm based on Skowron discernibility matrix is paid more attention, because of its intuition and understandability, however it only applies to compatible decision tables. In this paper, first, we analyze the cause of the error in solving attribute reduction of incompatible decision tables and then an improved discernibility matrix algorithm of attribute reduction based on consistency degree is given, finally, the validity of the algorithm is verified by our instance analysis.
+
+attribute reduction
+consistency degree
+discernibility matri

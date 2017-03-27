@@ -1,0 +1,5 @@
+The integration of low- and ultralow-k SiCOH dielectrics in the interconnect structures of very large scale integrated chips involves complex stacks with multiple interfaces. Successful fabrication of reliable chips requires strong adhesion between the different layers of the stacks. A critical interface in the dielectric stack is the interface between the SiCNH diffusion cap and the SiCOH inter- and intralevel dielectrics (ILDs). It was observed that, due to the original deposition conditions, the interface layer was weakened both by a low adhesion strength between SiCNH and SiCOH and by the formation of an initial layer of SiCOH with reduced cohesive strength. The manufacturing process has been modified to engineer this interface and obtain interfacial strengths close to the cohesive strengths of the bulk ILDs. This paper discusses the causes for the original low interfacial strength and presents an approach for enhancing it by engineering the interface to the cap for both the dense SiCOH and porous SiCOH ILDs.
+
+adhesives
+low-k dielectric thin films
+silicon compounds

@@ -1,0 +1,10 @@
+Cu-rich CuGaSe films were prepared on a Mo coated soda-lime glass substrate by thermal codeposition and the microstructures were characterized. An increase in the grain size of CuGaSe2 (CGS) as the Cu-rich composition approached stoichiometry was observed. In the Cu-rich film, precipitated CuSe grains were located between the CGS grains and were connected to the film surface, which suppressed the lateral growth of the CGS grains. On the film surface, a quasi-epitaxial growth of Cu2xSe grains was found. In order to investigate the development of the microstructure together with the phase change from CuSe to CGS, a small amount of Ga and Se were deposited onto Cu-rich CuGaSe films. By transmission electron microscopy, Cu1.8Se and Cu1.5Se grains were identified in the Cu-rich film. A coherent lattice structure from the CGS into the Cu1.5Se grains was found. The microstructural development of the Cu-rich CuGaSe film is discussed and models of the growth mechanism are proposed. © 2003 American Institute of Physics. 
+
+copper compounds
+gallium compounds
+ternary semiconductors
+semiconductor thin films
+grain size
+precipitation
+solid-state phase transformations
+transmission electron microscopy

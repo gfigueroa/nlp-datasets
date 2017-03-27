@@ -1,0 +1,8 @@
+This paper is concerned with the problem of integrating a number of existing, off-the-shelf local database systems into a multidatabase system that maintains consistency in the face of concurrency and failures. The major difficulties in designing such systems stem from the requirements that local transactions be allowed to execute outside the multidatabase system control, and that the various local database systems cannot participate in the execution of a global commit protocol. A scheme based on the assumption that the component local database systems use the strict two-phase locking protocol is developed. Two major problems are addressed: How to ensure global transaction atomicity without the provision of a commit protocol, and how to ensure freedom from global deadlocks.
+
+algorithms
+deadlock recovery
+performance
+reliability
+serializibility
+transaction log

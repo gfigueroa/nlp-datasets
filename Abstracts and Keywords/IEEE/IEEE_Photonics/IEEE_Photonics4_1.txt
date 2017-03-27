@@ -1,0 +1,6 @@
+This work describes the use of the finite-difference time-domain (FDTD) method to investigate the capabilities and limitations in the use of a UWB radar system, to detect a human model target inside a realistic room. A 0.8 ns pulse at a center frequency of f<sub>0</sub> = 1.1 GHz is used. The room is modelled with all its components (water &amp; heating pipes, windows, electrical outlets, brick walls, barred windows, etc.). The radar setup is also modelled to simulate a realistic system. The performance of the UWB radar is examined by generating 2-dimensional (2D) images of the room interior with the human body model included. This is done by considering monostatic and multistatic radar scenarios where responses are recorded and processed using the time-domain back-projection method. Images from the FDTD modelling detected the human body model at the correct location inside the room. As expected, the multistatic radar setup provided a cleaner image than that of the monostatic radar setup due to greater diversity in aspect angle.
+
+FDTD
+UWB
+through-the-wall
+time back-projection

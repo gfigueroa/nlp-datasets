@@ -1,0 +1,10 @@
+Systems for focusing a light ion beam onto an inertial confinement fusion (ICF) target are studied using a thin lens model to compute ion trajectories. Three focusing systems are analyzed. The systems are (1) an uncorrected single focusing lens; (2) a focusing lens with chromatic correction due to the self magnetic field of the beam; and (3) the combination of a focusing lens, a defocusing lens for divergence correction, and chromatic correction from the beams self field. Systems (2) and (3) both produce energy efficiencies of greater than 50% for transporting an ion beam with 6 mrad divergence over 4 m and focusing it onto a 1 cm radius target. The predictions of the thin lens model are compared to predictions made by codes using numerical integration of particle trajectories. The implications for ICF applications are discussed. © 1995 American Institute of Physics.
+
+INERTIAL CONFINEMENT
+PLASMA SIMULATION
+LIGHT IONS
+LENSES
+BEAM FOCUSING MAGNETS
+TRAJECTORIES
+CHROMATIC ABERRATIONS
+CORRECTIONS

@@ -1,0 +1,7 @@
+The two different Li2B4O7 single crystals prepared from Li2CO3 and B2O3 mixed powder (LTBm) and Li2B4O7 powder (LTBp) were compared in the ac impedance study for the [001] direction in the frequency range from 100 Hz to 10 MHz at temperatures up to 350	°C. The thickness dependence of the complex resistivities exhibits that LTBm has distinct grain boundary-like effect while LTBp does not. This boundary effect may be due to the charge-depleted region constructed temporarily by the ion blocking of the microcracks in the applied ac electric field. The activation energies of volume conductivities are almost the same in LTBm and LTBp, but the absolute value of volume conductivity in LTBm is about 3 to 4 times larger than that in LTBp. The conductions in the electrode interface and boundary region are ascribed to the identical charge carriers activated by the applied electric field and result in the same activation energies. A relatively large blocking factor in LTBm below 100	°C is observed. It may be due to a one-dimensional channel of ion conduction path in the [001] direction of Li2B4O7 crystal. © 2002 American Institute of Physics. 
+
+lithium compounds
+powder technology
+ionic conductivity
+high-frequency effects
+microcracks

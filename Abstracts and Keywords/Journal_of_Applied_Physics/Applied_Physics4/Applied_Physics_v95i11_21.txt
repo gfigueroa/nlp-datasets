@@ -1,0 +1,12 @@
+We investigated the magnetic properties of ultrathin Fe films grown on inclined Al2O3(0001) substrates at various growth temperatures. We report the evolution of the magnetism with Fe thickness tFe, growth temperature, and the effect of the inclination of the substrate orientation on the magnetic anisotropy. The films are superparamagnetic (tFeH5 monolayer, ML), ferromagnetic (tFe&gt;15	ML), or coexistent (tFeH10	ML). The effect of inclination of the substrate is small in the superparamagnetic region and substantial in the ferromagnetic region. Fe thin films grown on the inclined substrate have a uniaxial magnetic anisotropy with the magnetic easy axis parallel to the step edge. This uniaxial magnetic anisotropy might be derived from the effective demagnetizing field due to the magnetic charge distribution at the corrugated surface. The strength of the uniaxial magnetic anisotropy decreases as the growth temperature increases. The dependence of the uniaxial magnetic anisotropy on growth temperature is caused by the change of growth mechanism, from smooth to rough with an increasing of growth temperature. © 2004 American Institute of Physics. 
+
+iron
+paramagnetic materials
+ferromagnetic materials
+magnetic thin films
+monolayers
+ferromagnetic-paramagnetic transitions
+magnetic anisotropy
+demagnetisation
+surface morphology
+molecular beam epitaxial growth

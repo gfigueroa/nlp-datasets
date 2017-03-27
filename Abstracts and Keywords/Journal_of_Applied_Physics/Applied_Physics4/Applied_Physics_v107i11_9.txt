@@ -1,0 +1,8 @@
+We present fault tolerant properties of various quantum-dot cellular automata (QCA) devices. Effects of temperatures and dot displacements on the operation of the fundamental devices such as a binary wire, logical gates, a crossover, and an exclusive OR (XOR) have been investigated. A Hubbard-type Hamiltonian and intercellular Hartree approximation have been used for modeling, and a uniform random distribution has been implemented for the defect simulations. The breakdown characteristics of all the devices are almost the same except the crossover. Results show that the success of any device is significantly dependent on both the fabrication defects and temperatures. We have observed unique characteristic features of the crossover. It is highly sensitive to defects of any magnitude. Results show that the presence of a crossover in a XOR design is a major factor for its failure. The effects of temperature and defects in the crossover device are pronounced and have significant impact on larger and complicated QCA devices.
+
+cellular automata
+crystal defects
+electric breakdown
+fault tolerance
+quantum dots
+SCF calculations

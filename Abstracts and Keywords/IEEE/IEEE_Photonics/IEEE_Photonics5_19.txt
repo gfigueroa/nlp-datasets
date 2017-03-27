@@ -1,0 +1,5 @@
+This paper introduces a modular software platform and the respective synchronization mechanisms that support services with flexible multimodal user interfaces (UI). The platform is based on Java technology for the service logic and XML-based description languages such as SVG and VoiceXML for UI definition. A Sensor Data Manager allows including input from device sensors such as accelerometers. First of all, this paper describes the motivation for specifying a flexible and multimodal UI. Secondly, it presents how multimodal services are defined on mobile devices nowadays, followed by a description of our multimodal architecture approach. The focus lies on the integration of user input from a variety of device sensors and the respective synchronization mechanisms.
+
+human computer interaction
+multimodal user interface
+software platform

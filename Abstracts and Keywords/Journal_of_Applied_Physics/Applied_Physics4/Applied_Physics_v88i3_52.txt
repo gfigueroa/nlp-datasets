@@ -1,0 +1,11 @@
+We present a detailed study of synthesis by pulsed laser ablation and the magnetic characterization of nanosized powders of iron oxides and strontium ferrite. In the case of iron oxide, it is found that the particle formation and their growth take place in the gas phase before reaching the cold finger (used as substrate for condensation). However, in the case of strontium ferrite, the as-condensed material is amorphous, and requires annealing at high temperature to induce nanoparticle growth. Very high values of intrinsic coercive field (<6665±10
+Oe) are realized for the strontium ferrite powder having an average particle size of about 35 nm. The temperature variation of coercive field and remanence of the nanosized powders is found to be substantially different from those of the corresponding bulk materials. © 2000 American Institute of Physics. 
+
+pulsed laser deposition
+magnetic particles
+nanostructured materials
+coercive force
+remanence
+strontium compounds
+iron compounds
+ferrites

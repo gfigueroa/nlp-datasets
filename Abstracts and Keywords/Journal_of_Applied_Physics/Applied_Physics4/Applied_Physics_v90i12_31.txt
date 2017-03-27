@@ -1,0 +1,11 @@
+The lifetime of the emission of a single electron stored in a nanocrystalline Si (nc-Si) dot has been studied in order to understand the physical processes for memory applications. A small active area field effect transistor channel (50×25 nm) is defined by electron-beam lithography on a thin (20 nm) silicon-on-insulator channel and allows for the electrical isolation of a single nc-Si dot. Remote plasma enhanced chemical vapor deposition is used to form 8±1 nm diameter nc-Si dots in the gas phase from a pulsed SiH4 source. Electrons stored in a dot results in an observed discrete threshold shift of 90 mV. Analysis of lifetime as a function of applied potential and temperature show the dot to be an acceptor site with nearly Poisson time distributions. An observed 1/T2 dependence of lifetime is consistent with a direct tunneling process, and interface states are not the dominant mechanism for electron storage in this device structure. Median emission lifetimes as a function of applied gate bias are readily modeled by the polarizability of an electron in a delocalized bound state over the entire semiconducting dot. © 2001 American Institute of Physics.
+
+silicon
+elemental semiconductors
+nanotechnology
+semiconductor quantum dots
+single electron transistors
+electron beam lithography
+plasma CVD
+bound states
+semiconductor storage

@@ -1,0 +1,7 @@
+Design and optimization of a hybrid power system is site specific. It depends mainly on the available of renewable sources and the load demand. Sizing of the components has significant influence on the system performance. Due to the weather dependant nature of renewable energy sources, a fossil fuel based constant-speed generator is an essential component in traditional hybrid power systems. However, the efficiency of this generator especially at light loads can be significantly improved by adopting a variable-speed operation. This paper presents a combined sizing and operation control programme that can be used with both traditional constant-speed generators as well as novel variable-speed generators. The programme uses the polynomial curve fitting for the fuel consumption characteristics of variable-speed generators. The accuracy of the calculations is verified by comparing with a well known renewable energy optimization package.
+
+CO<inf>2</inf> emission
+Components sizing
+MATLAB simulation
+Stand-alone hybrid power system
+Variable speed generator

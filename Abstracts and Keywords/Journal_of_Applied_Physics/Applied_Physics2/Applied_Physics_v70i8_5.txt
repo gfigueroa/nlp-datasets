@@ -1,0 +1,13 @@
+We present experimental results of photoablated product and kinetic energy (KE) distributions from the ultraviolet laser ablation of a sintered YBa2Cu3O6+x wafer at the laser wavelengths 351, 248, and 193 nm. Data is presented which spans the laser fluence range beginning at the threshold for species ejection (50 mJ/cm2) to nearly that required for the formation of an above surface plasma (800 mJ/cm2). The goal of this experiment was to measure changes in the photophysical process as the incident laser fluence was increased above the threshold value. Our results show, that near the laser threshold fluence, the photoejected products consist of small atomic and oxide species. An unforeseen result for the UV laser wavelengths used, is the lack of CuO+/CuO and free oxygen (O+/O, O+2/O2) in the mass spectrum. In addition, the product distributions are dependent on the laser wavelength. Measured also, at laser threshold fluence, are the nascent photoejected cation kinetic energy distribution. Here our results show that the KE distribution is independent of both the laser fluence and the wavelength. The mean kinetic energy, KE	, exceeds 3 eV and cannot be explained by a thermal excitation process. With increasing laser fluence (50% above threshold), we detected the photodissociation of the ejected oxide species, and the appearance of the O anion. Unlike the KE of the cation species, the O kinetic energy is nearly thermal (&lt;1 eV). With additional increases in the laser fluence, we measure the photoejection of slow KE neutral species and the simultaneous KE enhancement of the laser ablated ions (KEs30 eV). At the highest laser fluences used in this experiment, it was noted that atomic cluster formations were enhanced. These compounds are presumably formed in the expanding ablated plume. In summary, our results show that, at threshold laser fluences, the photoejection process is via non thermal excitation. With increasing laser fluence the ejected species mass spectrum includes products from the plume photolysis and the plume chemistry.
+
+ENERGY DISTRIBUTION FUNCTIONS
+PHOTODISSOCIATION
+QUATERNARY COMPOUNDS
+HIGHTC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+ABLATION
+THRESHOLD ENERGY
+ULTRAVIOLET RADIATION
+MASS SPECTRA

@@ -1,0 +1,7 @@
+In marine atmospheric conditions, the morphologies and potential distributions of magnesium alloy were investigated underneath a droplet of 3% NaCl with microscopy and scanning Kelvin probe technique. Results showed that the deterioration process of Mg alloy could be divided into two stages unde a NaCl droplet. During the initial period, the cathodic reaction was mainly the reduction of H<sup>+</sup>. Subsequently, with the assumption of H<sub>2</sub>O and the change of the surface condition, the reduction of O<sub>2</sub> played a vital role in the cathodic reaction. During the entire exposure process, the potential distribution images presented &#x201C;valley&#x201D; type potential distributions, negative at central area and positive at peripheral area. These non-uniform potential distributions could be attributed to the differential oxygen aeration under droplet. Based on above observations, a model was proposed for describing the contamination mechanism of magnesium alloy induced by NaCl droplet.
+
+atmosphere
+chloride
+droplet
+magnesium
+marine

@@ -1,0 +1,12 @@
+Elastically strained InGaAsP films with band gaps from 1.4 to 1.8 eV were grown on GaAs(111)B substrates by liquid phase epitaxy. For elastic strains up to 1% the critical thicknesses of the films substantially exceeded the predictions of the energy equilibrium theory by Matthews and Blakeslee. Among the various stressrelieving mechanisms proposed in the literature a stressinduced surface roughening has been found to be most relevant in our case. © 1996 American Institute of Physics. 
+
+INDIUM PHOSPHIDES
+GALLIUM PHOSPHIDES
+GALLIUM ARSENIDES
+LPE
+STRAINS
+ENERGY GAP
+FILMS
+THICKNESS
+SEM
+XRD

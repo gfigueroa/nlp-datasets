@@ -1,0 +1,13 @@
+Small and largeangle xray scattering from epitaxial Fe(001) on an MgO(001) surface has been measured as a function of film thickness, using grazing incidence xray scattering. Smallangle scattering shows that for Fe thicknesses less than 15 monolayers, the Fe is islanded with Fe[110]%MgO[100]. For deposition at 360	°C, the Fe lattice parameter increases toward the MgO surface net spacing with increasing thickness in the 110 monolayer coverage regime, and then relaxes back toward the bulk Fe lattice parameter at greater thicknesses. Agglomeration of the islands results in changes in the Fe lattice parameter and in the highangle peak widths. Prior to agglomeration, the measured inplane lattice parameter versus thickness is described by a pairwise site interaction between the island and the substrate interface nets. Strain relaxation subsequent to agglomeration is described by continuum elasticity theory. © 1995 American Institute of Physics.
+
+FILM GROWTH
+ISLAND STRUCTURE
+IRON
+THIN FILMS
+EPITAXY
+XRAY DIFFRACTION
+SYNCHROTRON RADIATION
+SMALL ANGLE SCATTERING
+LATTICE PARAMETERS
+AGGLOMERATION
+STRESS RELAXATION

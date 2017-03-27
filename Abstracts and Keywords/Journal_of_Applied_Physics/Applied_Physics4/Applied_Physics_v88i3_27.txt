@@ -1,0 +1,7 @@
+The sublimation epitaxy growth process has been studied. The structural quality of the grown layers improves compared with the substrate mainly due to a diminished domain structure misorientation. Optical microscopy shows that the as-grown surfaces are free of typical defects appearing in silicon carbice (SiC) epitaxy, whereas atomic force microcopy measurements show macrosteps. As a possible technique to produce high-quality 4HSiC, sublimation epitaxy was performed on substrates containing a layer grown by liquid phase epitaxy which is a growth process for closing micropipes in the initial substrate. In spite of the initial surface roughness of the liquid phase epitaxy layer, the surface morphology of the sublimation grown epilayers remained smooth and the structural quality improvement was maintained. This does not occur if the initial surfaces are too rough. A suggestion for roughness reduction is presented. The growth conditions (growth rate ramp up, growth temperature, temperature gradient, source to substrate distance, and substrate surface orientation) leading to the results are presented. A model for the mechanism for structural improvement is outlined and supporting experimental observations are given. © 2000 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+vapour phase epitaxial growth

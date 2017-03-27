@@ -1,0 +1,13 @@
+Magnetostatic wave propagation in multilayers of ferro-/ferrimagnetic and nonmagnetic, dielectric slabs is investigated using an effective medium theory and the transfer matrix method. The propagation in multilayers with antiparallel directions of magnetization is analyzed, in particular. Antiparallel multilayers support (overall) bulk waves at frequencies much higher than single layers or parallel-magnetization structures. As possible applications of these multilayers, waveguides and resonators are proposed and discussed.
+
+magnetostatic waves
+magnetostatic wave devices
+magnetic multilayers
+ferromagnetism
+ferrimagnetism
+dielectric materials
+wave propagation
+magnetisation
+magnetic permeability
+waveguides
+resonators

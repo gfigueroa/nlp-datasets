@@ -1,0 +1,10 @@
+Image force effects have been shown to play an important role in deciding the currentvoltage characteristics of the MetalOxideSemiconductor (MOS) Solar Cell. Because of reduction in barrier height and the barrier width, the dark saturation current is increased, and thereby the open circuit voltage is greatly affected.
+
+SOLAR CELLS
+SEMICONDUCTOR MATERIALS
+METALS
+OXIDES
+MATHEMATICAL MODELS
+ELECTRICAL PROPERTIES
+THEORETICAL DATA
+POTENTIALS

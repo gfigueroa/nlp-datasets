@@ -1,0 +1,5 @@
+Using a convergent beam system and the full-leaky guided-mode technique, the dynamic relaxation in a twist nematic cell is explored on removal of an ac electrical field. From the dynamical guided-mode data, the director structure in the cell at different times during relaxation is obtained. Substantial backflow is observed during the first few milliseconds after the removal of the voltage. Detailed comparison of the experimental results with the model theory verifies the validity of the EricksenLeslie theory. Further, by carefully fitting the time dependent guided-mode data taken over the whole relaxation of the cell, the viscosity coefficients of the liquid crystal have been determined. © 2002 American Institute of Physics. 
+
+organic compounds
+nematic liquid crystals
+viscosity

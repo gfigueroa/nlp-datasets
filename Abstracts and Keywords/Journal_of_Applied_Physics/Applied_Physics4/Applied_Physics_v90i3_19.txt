@@ -1,0 +1,18 @@
+The response of chemically vapor deposited diamond detectors under alpha particle irradiation was studied as a function of operating temperature in the 20280
+°C range. The detector characteristics were studied for two initial states: (i) the detector being either preirradiated under x-rays at a dose of 8 Gy (pumped state) or (ii) preannealed at 400
+°C for 15 min (depumped state). Pumped detectors were found to exhibit a stable response (evaluated by measurement of the charge collection efficiency ·) with temperature up to 120
+°C, above which a decrease of · was observed. Preannealing at 400
+°C was shown to induce, at room temperature, a drastic deterioration of the detector response, when compared to that of pumped devices, whereas above 150
+°C a reversed trend was observed. Correlations between the response of the diamond detectors and the presence of traps were determined by comparing the detector response for ± particles with the thermally stimulated current (TSC) spectrum. The temperature dependence of the detector response was shown to be related to the presence of a trapping level measured around 260
+°C by TSC. © 2001 American Institute of Physics. 
+
+diamond
+wide band gap semiconductors
+elemental semiconductors
+semiconductor thin films
+CVD coatings
+alpha-particle detection
+X-ray detection
+annealing
+thermally stimulated currents
+electron traps

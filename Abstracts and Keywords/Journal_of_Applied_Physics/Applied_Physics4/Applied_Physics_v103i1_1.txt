@@ -1,0 +1,4 @@
+An approach to accessing air holes in a structured optical fiber with a distributed-feedback (DFB) laser based on higher order mode lasing is proposed and demonstrated. A narrow linewidth DFB fiber laser is fabricated in rare-earth-doped structured optical fiber. A higher order mode is shown to lase. Dual laser operation in both fundamental and higher order modes is also achieved. Numerical simulation of the mode profiles within the fiber using the adjustable boundary conditions-Fourier decomposition method supports the experimental results. Laser performance for each mode is characterized including imaging the emission of pump and lasing mode intensity profiles.
+
+distributed feedback lasers
+fibre lasers

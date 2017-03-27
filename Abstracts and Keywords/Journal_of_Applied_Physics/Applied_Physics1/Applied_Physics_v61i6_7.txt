@@ -1,0 +1,19 @@
+The influence of SiO2 formed on a Si wafer during Ta2O5 deposition on the dielectric characteristics of Ta2O5 capacitors is investigated. Two types of capacitor were investigated and compared: W/Ta2O5 (27 nm)/W and Al/Ta2O5 (27 nm)/Si capacitors. The thickness of the SiO2 at the interface of Ta2O5/Si is estimated to be 2.4 nm. The W/Ta2O5 (27 nm)/W capacitor is shown to have a dielectric constant of 22 if we assume it is an ideal single layer dielectric. On the other hand, for the Al/Ta2O5/Si capacitor if we assume that an SiO2 layer is formed during Ta2O5 deposition we can account for the variation in apparent dielectric constant with thickness and the leakage current as a function of voltage with a model which assumes that when electrons are injected from the SiO2/Si interface, electron charge accumulates at the Ta2O5/SiO2 interface; this reduces the electric field in SiO2 before catastrophic breakdown of the SiO2 film occurs. This results in a relatively small voltage drop (less than 1 V) across the SiO2 film at the interface. Taking into account the voltage drop across SiO2 layer, the currentvoltage characteristics of Al/Ta2O5 (27 nm)/SiO2 (2.4 nm)/Si and W/Ta2O5 (27 nm)/W show good agreement by assuming steadystate conduction and the existence of interface charge between Ta2O5 and SiO2.
+
+TANTALUM OXIDES
+CAPACITORS
+IV CHARACTERISTIC
+DIELECTRIC PROPERTIES
+CAPACITANCE
+ALUMINIUM
+MIS JUNCTIONS
+MOS JUNCTIONS
+SI JUNCTIONS
+TUNGSTEN
+INTERFACES
+THICKNESS
+SILICON
+SILICA
+MIM JUNCTIONS
+BREAKDOWN
+PERMITTIVITY

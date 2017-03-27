@@ -1,0 +1,18 @@
+Although the highintensity, freeburning argon arc has been the object of many studies, modeling of the entire arc has been precluded because of complexities due to the interaction of electric, magnetic, fluid dynamic, and thermal effects, and the associated lack of realistic boundary conditions, in particular, close to the cathode. For establishing the most crucial boundary condition, which is the current density in the vicinity of the cathode, the maximum current density has been determined experimentally by measuring the size of the molten cathode tip (thoriated tungsten) for a given arc current. Calculated temperature profiles for a 100 and 200 A atmospheric pressure argon arc (electrode gap of 1 cm) are in good agreement with spectrometric measurements based on absolute line and continuum intensities. The arc current and arc current distribution are not only responsible for the temperature distribution in the arc, but also for the magnetohydrodynamics (MHD) pumping action in the cathode region, i.e., the arc behavior is mainly controlled by the current. In contrast to the sensitivity of the current density boundary condition on the results, the calculations show that variations of the boundary condition for the flow field are insignificant.
+
+electric arcs
+argon
+mathematical models
+electric fields
+magnetic fields
+dynamics
+temperature effects
+boundary conditions
+cathodes
+current density
+experimental data
+temperature measurement
+spatial distribution
+spectroscopy
+magnetohydrodynamics
+high pressure

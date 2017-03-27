@@ -1,0 +1,16 @@
+This paper deals with the important issue of proper treatment of information security for electric power utilities. It is based on the efforts of CIGRE Working Group (WG) D2.22 on ldquoTreatment of Information Security for Electric Power Utilities (EPUs)rdquo carried out between 2006 and 2008/2009. The WG produces a Technical Brochure (TB), where the purpose is to emphasize three main issues: security frameworks, risk assessment, and security technology. Here, guidance is given on different security frameworks based on an information security domain model. Also, baseline controls are treated. For risk assessment, a survey has been carried out. Only few commonalities, but several differences, have been found. Here, a methodology must be developed together with practical recommendations. For security technologies, guidance is given for deployment of different solutions, based on a logical diagram using different controls. Last, proposal on further work is given.
+
+Communication systems
+ISO/IEC standard
+IT security
+SCADA
+control systems
+cyber security
+information security
+power system communications
+power system control
+power systems
+risk assessment
+security framework
+security technology
+substation automation

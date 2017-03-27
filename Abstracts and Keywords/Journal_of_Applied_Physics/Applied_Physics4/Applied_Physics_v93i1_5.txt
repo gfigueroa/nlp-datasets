@@ -1,0 +1,9 @@
+The use of phosphorous-doped microcrystalline silicon (¼c-Si:H) as the n-type electrode in single junction hydrogenated amorphous silicon solar cells has been studied both experimentally and through computer modeling. The aim is to understand why, in spite of a considerable decrease in the activation energy of the n layerfrom 0.2 eV in n-a-Si:H to 0.03 eV in n-¼c-Si:Hthe open-circuit voltage of solar cells fabricated using these two types of n layer remains almost unchanged. Experimental determination of the work function of n-¼c-Si:H and n-a-Si:H by the flatband heterojunction technique, has revealed that n-¼c-Si:H has a higher electron affinity. Thus, in spite of the fact that the difference in activation energy is 0.17 eV, the difference in built-in potential between the two types of cells reduces to about half. Moreover, modeling of the output characteristics of solar cells, having these two types of N layer, indicates a sharp localization of the field at the N/I interface for the cell with a ¼c-Si:H N layer. As a consequence, the field in the bulk of the intrinsic layer and, hence, the open-circuit voltage for the two types of cell, remain unchanged. © 2003 American Institute of Physics. 
+
+silicon
+hydrogen
+phosphorus
+amorphous semiconductors
+semiconductor thin films
+solar cells
+photoconductivity

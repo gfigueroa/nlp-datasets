@@ -1,0 +1,9 @@
+We report on the observation of a morphological defect structure, crosshatch and the experimental circumstances that lead to its occurence during GaAs homoepitaxy. Photoluminescence, xray diffraction and transmission electron miscroscopy (TEM) results obtained on crosshatched samples are presented and discussed in regards to the nature and origin of the defect structure.
+
+EPITAXY
+CRYSTAL DEFECTS
+GALLIUM ARSENIDES
+PHOTOLUMINESCENCE
+XRAY DIFFRACTION
+TRANSMISSION ELECTRON MICROSCOPY
+MORPHOLOGY

@@ -1,0 +1,5 @@
+Skyline query processing has received considerable attention from database and information retrieval research communities. However, the existing work on skyline queries mainly assumes data objects contain only non-spatial attributes. In this paper, we address the problem of answering location-dependent skyline queries efficiently over data objects with both spatial locations and non-spatial attributes in mobile databases. We show how to efficiently perform location-dependent skyline queries in a distributed mobile environment and propose a location-dependent skyline processing approach. We conduct extensive experiments in a simulated mobile database system, and the experimental results demonstrate the superiority of the proposed approach.
+
+location-dependent query
+mobile database
+skyline

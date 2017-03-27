@@ -1,0 +1,10 @@
+This article presents a thermodynamic analysis of how the growth parameters are linked together to influence the growth of InxGa1xN. The calculation results reveal that the growth temperature and the ratio of input group V to group III flux (V/III) most strongly influence the InxGa1xN growth processes. The optimized growth conditions are determined by the dependence of the growth parameters on the equilibrium partial pressures of desorbed species as well as by ternary phase diagrams. The results agree with the published experimental data. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+molecular beam epitaxial growth
+chemical equilibrium
+phase diagrams
+semiconductor growth
+III-V semiconductors
+wide band gap semiconductors

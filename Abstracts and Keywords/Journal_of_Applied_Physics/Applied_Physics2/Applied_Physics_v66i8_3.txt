@@ -1,0 +1,15 @@
+Highpower microwaves (2050 MW, 8.8 GHz) have been produced in repetitive pulses at a rate of 10 Hz in a joint experiment by Harry Diamond Laboratories and Sandia National Laboratories. These microwaves were produced with Harry Diamond Laboratories backwardwave oscillator (BWO), driven by a 600 to 800kV, 2kA electron beam, which was guided by a magnetic field of variable strength from 0.75 to 1.05 T. The beam was produced with Sandia National Laboratories repetitive highvoltage pulser, RAVEN. Microwave diagnostic instrumentation included a directional coupler, heterodyne receiver, dispersive waveguide delay line, and calorimeter. In a train of 10 pulses, the shape, duration, and amplitude of the injection voltage and beam current remained unchanged for each individual pulse. The intensity of the final microwave pulse was 40% of the first pulse, and the final pulse was 80% as long as the first. The basic pulse shape remained unchanged. More intense microwave radiation should be obtained with a higher magnetic field. Computer simulations using the code magic predicted the characteristic dip in the magnetic field strength versus microwave power output curve. Code predictions of microwave power output with a warm beam agree very well with experimental results. Finally, cyclotron resonance is presented in a descriptive fashion to account for the power output dip. This is the first experiment with a repetitively pulsed highpower BWO driven by a relativistic electron beam performed outside the USSR.
+
+BACKWARD WAVE TUBES
+OSCILLATORS
+ELECTRON BEAMS
+RELATIVISTIC RANGE
+MICROWAVE RADIATION
+POWER RANGE 10100 MW
+GHZ RANGE 01100
+PULSES
+HZ RANGE
+MAGNETIC FIELDS
+COMPUTERIZED SIMULATION
+CYCLOTRON RESONANCE
+RADIATION SOURCES

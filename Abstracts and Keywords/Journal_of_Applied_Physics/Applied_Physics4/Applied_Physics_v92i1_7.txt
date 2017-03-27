@@ -1,0 +1,13 @@
+We analyzed by high-resolution x-ray diffraction experiments the strain status and the chemical composition in wurtzite InxGa1xN/GaN and AlxGa1xN/GaN multiple quantum wells (MQW) grown on (0001) SiC substrates by plasma-assisted molecular beam epitaxy. In order to evaluate the lattice deformation in the wurtzite heterostructures, we derived a very general expression of the x-ray incidence parameter which relates the unit cell size to the experimental diffraction peaks separation. All the strain and rotation tensors components of the heterostructures could be determined, which is essential to determine the correct chemical composition. We found a coherent interface between the GaN buffer and the AlxGa1xN/GaN superlattice, while a partial relaxation of the InxGa1xN/GaN superlattice with respect to the GaN buffer layer was revealed. The Al and In mole fraction of AlxGa1xN and InxGa1xN SL layers were determined by using Vegards rule and simulation of the experimental x-ray patterns. We found a pronounced In segregation if the MQWs were grown under metal-stable flux condition; in contrast no appreciable segregation effect was observed under the nitrogen-stable flux condition. © 2002 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+indium compounds
+aluminium compounds
+semiconductor quantum wells
+semiconductor superlattices
+stoichiometry
+X-ray diffraction
+interface structure
+segregation

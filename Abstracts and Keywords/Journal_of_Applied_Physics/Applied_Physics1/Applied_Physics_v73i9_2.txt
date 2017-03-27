@@ -1,0 +1,9 @@
+A highresolution, highsensitivity magnetic force microscope (MFM) with the ability to image in an in situ magnetic field is described. This MFM has been used to investigate the micromagnetics of nanolithographically produced magnetic particles. It is shown that the particles switching fields can be determined without being perturbed by the stray fields from the sensing tip. This allows the study of the evolution of the particles magnetic states as a function of applied field and the direct observation of cooperative switching among interacting particles. The switching fields of individual particles are compared with remanent magnetization data, taken with an alternating gradient magnetometer, on both isolated and interactive arrays of particles. A method is described for estimating the strength of the interaction between particles by comparing the switching fields of different configurations of particle moments created by using the MFM tip as a local field source. Finally, a novel remanent magnetization state has been observed which provides a check on the validity of micromagnetic numerical simulations.
+
+MICROPARTICLES
+MAGNETIC MATERIALS
+ATOMIC FORCE MICROSCOPY
+LITHOGRAPHY
+NANOSTRUCTURES
+SWITCHING
+MAGNETIZATION

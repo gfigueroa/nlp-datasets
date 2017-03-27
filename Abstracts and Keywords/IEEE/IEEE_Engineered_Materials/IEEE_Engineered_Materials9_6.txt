@@ -1,0 +1,5 @@
+Many signal processing applications demand for highly energy efficient flexible implementations. In this paper, we propose a novel Domain Specific Instruction-set Processor (DSIP) architecture template which is tuned to deploy in the targeted domain of on-line surveillance. The architecture, when implemented using a 40-nm CMOS standard cell library, executes a representative test vehicle with an energy efficiency of near ly 900 MOPS/mW including instruction and data memories. This is about 20 times higher than a state-of-the-ar t low power DSP architecture and less than a factor 2 below a heavily optimized ASIC realization for the same application benchmark.
+
+Domain Specific Instruction-set Processor
+energy efficiency
+soft-SIMD

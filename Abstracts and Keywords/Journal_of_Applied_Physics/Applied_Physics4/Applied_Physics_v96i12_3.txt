@@ -1,0 +1,11 @@
+Traps introduced into p+n GaAs diodes, grown by molecular beam epitaxy, by room temperature irradiation with 1, 4, 10, 50, and 53MeV protons, have been studied using deep--level transient spectroscopy. Five distinct majority carrier (electron) traps were observed after irradiation. The activation energies, capture cross sections, and introduction rates of the traps were measured. Good agreement was found between the energy dependence of the introduction rates for each trap and the calculated elastic nonionizing energy loss for protons incident upon GaAs (i.e., excluding the effects of inelastic nuclear interactions).
+
+gallium arsenide
+III-V semiconductors
+p-i-n photodiodes
+molecular beam epitaxial growth
+semiconductor epitaxial layers
+semiconductor growth
+electron traps
+proton effects
+deep level transient spectroscopy

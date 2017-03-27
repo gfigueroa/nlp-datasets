@@ -1,0 +1,11 @@
+The recombination kinetics of the electronhole plasma in strongly excited, undoped Ga0.5In0.5P are investigated at 300 and 150 K by timeresolved photoluminescence measurements using lineshape analysis of transient spectra. Radiative recombination dominates, and no influence of the Auger effect is observed up to our highest carrier concentration of 1.5×1019 cm3. Random alloy and ordered samples have the same recombination rate. The radiative recombination coefficients are found to be (1.0±0.3)×1010 and (4±1)×1010 cm3	s1 at 300 and 150 K, respectively. An upper limit for the Auger coefficient is 3×1030 cm6	s1 at 300 K.
+
+GALLIUM PHOSPHIDES
+INDIUM PHOSPHIDES
+TERNARY ALLOYS
+RECOMBINATION
+ELECTRONHOLE COUPLING
+PHOTOLUMINESCENCE
+LINE SHAPE
+AUGER EFFECT
+TEMPERATURE RANGE 65273 K

@@ -1,0 +1,10 @@
+Bulk unipolar diodes are majoritycarrier threelayer (npn) semiconductor diodes in which the current flows due to the thermionic emission of majority carriers over a barrier formed in the bulk of the material. Expressions for the barrier height of two typical bulk unipolar diodes, namely a bulk barrier diode (n++p+n) and a pplane barrier diode (n+p++n), are derived. The functional dependence of the barrier height on various technological parameters is discussed. The two diodes are quite similar in their structure and characteristics. However, the pplane barrier diode is more suitable as a majoritycarrier diode. The variation of ideality factor and the saturation current of these diodes is shown to be very similar to the metal semiconductor diode.
+
+BARRIER HEIGHT
+SEMICONDUCTOR DIODES
+PN JUNCTIONS
+THERMIONIC EMISSION
+CHARGE CARRIERS
+SATURATION
+THICKNESS
+SCHOTTKY BARRIER DIODES

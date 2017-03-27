@@ -1,0 +1,12 @@
+The aging characteristics of the electrostrictive lead magnesium niobatelead titanate [(1x)PMNxPT] under dc bias field were investigated. It was observed that the amount of aging increases with the PT content for the compositions investigated (xd0.3). For a fixed composition, the aging rate rises with temperature. It was shown that the aging follows a stretched exponential time law, which is typical for the timedependent behavior in polar glass and random field systems. In PMNPT, the dielectric constant shows a much weaker aging than the piezoelectric coefficient, reflecting the importance of the stress coupling of the defect field to the micropolar region during the aging since the polar vector of the microregions can have both 180° and non180° reorientations while only the non180° reorientation contributes to the observed piezoelectric effect. Experimental results also reveal that the defect field developed during the aging in these materials under dc bias field is quite different from those in normal ferroelectrics and in Mndoped PMN and 0.9 PMN0.1PT. The direction of the defect electric field is opposite to the direction of the original dc bias field, indicating that the defect field is the result of a direct coupling to the external bias field rather than induced by the polar domains. © 1996 American Institute of Physics. 
+
+AGING
+DIELECTRIC FUNCTION
+ELECTRIC FIELD EFFECTS
+ELECTROSTRICTION
+FERROELECTRIC MATERIALS
+LEAD TITANATES
+MAGNESIUM COMPOUNDS
+NIOBATES
+PIEZOELECTRIC MATERIALS
+POLARIZATION

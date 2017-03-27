@@ -1,0 +1,9 @@
+In the investigation of precipitated wafers after two-step anneals good correlation was found between the bulk microdefects counted and the diffusion length measured using the electrolytical metal tracer technique. A spatially resolved image of the precipitated bulk of the wafer is thus obtained thereby providing more information about the regularity of oxygen precipitation. To characterize a wafer after a thermal denuding/precipitation cycle a two-region model (defect-free/precipitated region) was assumed with two different diffusion lengths LD separated in a depth t. The measurements were made by using two different laser wavelengths. By solving the diffusion and continuity equations of this system information on the whole wafer around the denuded zone depth and the diffusion length in the precipitated bulk can be obtained. The results are in good agreement with the cleavage face etching method. © 1997 American Institute of Physics. 
+
+precipitation
+elemental semiconductors
+oxygen
+silicon
+annealing
+electrolysis
+getters

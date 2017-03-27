@@ -1,0 +1,9 @@
+Resonant absorption diagnostic has been used to estimate densities of neutral and ionic titanium, both in ground and metastable states, in a rf coil amplified magnetron sputtering process. The conventional optical source dc supply has been replaced by a high voltage pulsed power supply to allow absorption experiments onto ionic and neutral species, in a broad range of discharge conditions (500 W are applied onto the magnetron cathode and 0500 W on the rf coil, for a 30 mTorr argon pressure). The obtained densities are used to compare the magnetron and the amplified discharges. The total ionization degree of the metallic vapor is found to increase from <3% in the magnetron regime to <24% in the amplified magnetron discharge. The Ti
+(a5F) neutral metastable density is found to be partially enhanced when the rf coil is power supplied. © 2004 American Institute of Physics. 
+
+ground states
+metastable states
+plasma diagnostics
+plasma density
+plasma deposition
+titanium

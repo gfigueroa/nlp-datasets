@@ -1,0 +1,9 @@
+The electrical properties of a diode consisting of nanoscale silicon quantum dots embedded in an amorphous silicon dioxide matrix are presented in terms of an equivalent circuit. The division of the applied bias between the quantum dotsilicon dioxide layer and the nondegenerate silicon substrate, and the magnitude of the coulomb blockade due to charged electron traps in the quantum dots are determined from the equivalent circuit. Coulomb blockade is important because it contributes to both the large energy separation between successive quantum states, and the applied bias at which quantum effects are first observed.
+
+QUANTUM DOTS
+SILICON
+ELECTRICAL PROPERTIES
+DIODES
+SILICON OXIDES
+EQUIVALENT CIRCUITS
+COULOMB FIELD

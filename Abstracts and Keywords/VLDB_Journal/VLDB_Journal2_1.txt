@@ -1,0 +1,8 @@
+Imprecise data exist in databases due to their unavailability or to data/schema incompatibilities in a multidatabase system. Partial values have been used to represent imprecise data. Manipulation of partial values is therefore necessary to process queries involving imprecise data. In this article, we study the problem of eliminating redundant partial values that result from a projection on an attribute with partial values. The redundancy of partial values is defined through the interpretation of a set of partial values. This problem is equivalent to searching a minimal semantically-equivalent subset of a set of partial values. A semantically-equivalent subset contains exactly the same information as the original set. We derive a set of useful properties and apply a graph matching technique to develop an efficient algorithm for searching such a minimal subset and therefore eliminating redundant partial values. By this process, we not only provide a concise answer to the user, but also reduce the communication cost when partial values are requested to be transmitted from one site to another site in a distributed environment. Moreover, further manipulation of the partial values can be simplified. This work is also extended to the case of multi-attribute projections.
+
+bipartite graph
+graph matching
+imprecise data
+minimal elements
+multidatabase systems
+partial values

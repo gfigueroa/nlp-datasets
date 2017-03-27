@@ -1,0 +1,10 @@
+X-ray absorption fine structures (XAFS) and electron energy loss spectroscopy (EELS) at the Si
+L3,2 edge have been used to investigate a series of Si nanowires (as-prepared and HF refreshed). X-ray excited optical luminescence (XEOL) was also used to study the optical properties of these Si nanowires. Although no noticeable edge-jump blueshift (widened band gap) is observed in XAFS, a noticeable change in the edge jump (a less steep rise and the blurring of spectral features) is observed, indicating considerable degradation in the long-range order and size effects. However, EELS with a nanobeam exhibits a threshold blueshift and parabolic behavior for some selected wires indicating that there are grains smaller than the nominal diameter in these nanowires. Thus, XAFS probes the average of a distribution of wires of various sizes of which the majority is too large to exhibit detectable quantum confinement behavior (blueshift) observed and inferred in EELS and XEOL. The results and their implications are discussed. © 2001 American Institute of Physics. 
+
+nanostructured materials
+elemental semiconductors
+silicon
+electron energy loss spectra
+photoluminescence
+spectral line shift
+X-ray absorption spectra

@@ -1,0 +1,12 @@
+We present a quantum mechanical approach to the calculation of electronic noise in the presence of a continuous distribution of phase-breaking processes based on the nonequilibrium Greens function formalism. Using this approach, we investigate the drain current and its fluctuations in silicon nanowire transistors taking into account the intravalley elastic and intervalley inelastic electron-phonon scattering mechanisms. The calculated results are compared against the results of phase-coherent transport at various bias conditions, which shows the role of electron-phonon scattering on the drain current noise.
+
+electron-phonon interactions
+elemental semiconductors
+fluctuations
+Green's function methods
+MOSFET
+nanoelectronics
+nanowires
+semiconductor device models
+semiconductor device noise
+silicon

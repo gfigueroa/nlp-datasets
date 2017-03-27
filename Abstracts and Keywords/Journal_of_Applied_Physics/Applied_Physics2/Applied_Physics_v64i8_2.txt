@@ -1,0 +1,11 @@
+Lowtemperature photoluminescence (PL) spectra of Ga1xInxAs/GaAs single heterostructures with 0.07dxd0.19 and thicknesses ranging from 10 nm to 5 ¼m have been analyzed to study strain relaxation. Two series of samples were grown simultaneously on GaAs substrates oriented exactly on (100) and misoriented by 2° towards 110	. In both kinds of samples, the strain induced exciton shift decreases first slowly with increasing thickness and then drops abruptly. This variation is analyzed in terms of the equilibrium critical thickness where misfit dislocations are generated and the kinetics of these dislocations in the relaxation process. The decrease of the exciton energy shift is accompanied by a large reduction of the PL intensity and broadening of the emission. In thicker layers, however, the behavior of the two series of samples is strikingly different. While the layers grown on misoriented substrates have all the characteristics of highquality unstrained crystals, those grown on (100) substrates have PL spectra dominated by a lowenergy emission. These results show that the critical thickness for the generation of misfit dislocations is the same for layers grown on both kinds of substrates but that the relaxation process is different and results in inhomogeneous layers on (100) substrates.
+
+STRAINS
+LATTICE RELAXATION
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+PHOTOLUMINESCENCE
+SUPERLATTICES
+HETEROSTRUCTURES
+EXCITONS
+THICKNESS

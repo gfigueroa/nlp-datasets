@@ -1,0 +1,20 @@
+The interfacial reactions between thin films of cobalt and (001)oriented GaAs substrates have been studied. The interaction starts at 325	°C by Co atoms indiffusion, resulting in the formation of a ternary phase, Co2GaAs, which grows epitaxially on the substrate in two coexisting alignments. The growth of Co2GaAs in the temperature range of 325400	°C is diffusion limited with an activation energy of 0.60.7 eV. Contacts produced in this annealing regime are rectifying with nearly ideal thermionic emission behavior. The ternary phase decomposes and loses stoichiometry at higher temperatures by the formation of the stable binary compounds, CoGa and CoAs. At 500	°C vertical phase separation of the binary components occurs, resulting in a CoGa layer on top of the CoAs phase. Heat treatment at 600	°C in an open system (vacuum anneal) results in decomposition of CoAs by arsenic outdiffusion. Contacts produced at the higher temperature regime (&gt;400	°C) have very low effective barriers; this is attributed mainly to modifications in the stoichiometry of the GaAs subsurface region and to the formation of a diffused interfacial layer due to Ga and As outdiffusion.
+
+COBALT
+THIN FILMS
+GALLIUM ARSENIDES
+SUBSTRATES
+INTERFACE PHENOMENA
+CHEMICAL REACTIONS
+DIFFUSION
+COBALT ARSENIDES
+EPITAXY
+HIGH TEMPERATURE
+THERMIONIC EMISSION
+ELECTRIC CONTACTS
+MICROSTRUCTURE
+TRANSMISSION ELECTRON MICROSCOPY
+ELECTRON DIFFRACTION
+XRAY DIFFRACTION
+IV CHARACTERISTIC
+CV CHARACTERISTIC

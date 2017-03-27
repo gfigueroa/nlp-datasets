@@ -1,0 +1,10 @@
+A study of the mechanisms that determine the incorporation of nitrogen in Si3N4capped silicon by cw Ar+laser melting is presented. A theoretical description is given of the nitride capping layer erosion by the liquid silicon in the molten zone, the segregation at the slanted solidification interface, the diffusion in the molten zone of nitrogen expelled from the solid, and the solidstate diffusion of nitrogen. This theoretical model is used to explain the shape and the dependency on laser melt conditions of the nitrogen profiles measured in Si3N4capped bulk silicon samples after laser melting. It is shown that the freshly frozenin nitrogen profile can be described by an exponentially decaying function of depth in the sample, which is modified by solidstate diffusion and precipitation at the sample surface. It is suggested that the nitrogen concentration measured at the melt depth is indicative of the nitrogen concentration in the bulk of the molten zone. The results also apply to impurities other than nitrogen with a segregation coefficient smaller than 1 and to other continuous energy sources applied for superficial melting.
+
+SILICON NITRIDES
+NITROGEN ADDITIONS
+SILICON
+LASER BEAM MELTING
+SEGREGATION
+SOLIDIFICATION
+DEPTH PROFILES
+IMPURITIES

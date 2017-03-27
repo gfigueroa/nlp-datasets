@@ -1,0 +1,5 @@
+Fast algorithm for solving problems of light diffraction by planar periodic metal-dielectric optical structures is proposed. This algorithm combines the numerical time domain simulation of the non-uniform region in periodic array of metal strips vicinity with analytical frequency domain transmission matrix method for the thick uniform substrate. To illustrate effectiveness of proposed method the reflectivity of a planar optical periodic structure of C-shaped metal elements was calculated. The method can be used for optimization of properties of optical planar metamaterials.
+
+numerical time domain methods
+planar optical metamaterials
+transmission matrix

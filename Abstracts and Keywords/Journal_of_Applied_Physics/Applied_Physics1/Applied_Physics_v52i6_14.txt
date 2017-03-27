@@ -1,0 +1,19 @@
+Measurements have been made of the Raman spectra of silicon implanted with either 11B or 10B and subsequently thermally annealed. These measurements, taken with an argonion laser operating at 514.5 nm and at room temperature, revealed the presence of an intrinsic twophonon combination band underlying the 11B local mode. The coincidence of these two spectral features complicates the analysis of the annealing process as diagnosed on the basis of the Raman spectrum. The use of the 10B isotope, and its spectra, minimizes ambiguities in interpretation of the spectra of ionimplanted silicon. A reexamination of the earlier annealing studies of Engstrom and Bates is suggested on the basis of the present results.
+
+SILICON
+RAMAN EFFECT
+SCATTERING
+ION IMPLANTATION
+BORON IONS
+LASERRADIATION HEATING
+ANNEALING
+DATA
+RAMAN SPECTRA
+BORON 11
+BORON 10
+ARGON IONS
+GAS LASERS
+MEDIUM TEMPERATURE
+PHONONS
+ENERGY LEVELS
+COMPARATIVE EVALUATIONS

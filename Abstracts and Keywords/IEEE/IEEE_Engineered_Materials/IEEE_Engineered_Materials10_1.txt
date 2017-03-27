@@ -1,0 +1,5 @@
+BiFeO<inf>3</inf>-PbTiO<inf>3</inf>-based materials have the potential to be used as high temperature piezoelectrics and are candidate multiferroic materials. Two drawbacks are the significant conductivity and the apparently low mobility of ferroelastic domain walls. Both may be influenced by aliovalent doping. Here we have investigated a number of B-site dopants, including manganese, plus B-site non-stoichiometry (i.e. Fe/Ti ratio) to determine their role in the conduction mechanism. Dense ceramics of 0.7BiFeO<inf>3</inf>-0.3PbTiO<inf>3</inf> were prepared by conventional preparation techniques incorporating the above dopants or stoichiometric adjustments. DC resistivity measurements were carried out as a function of field. AC impedance spectroscopy from 1 mHz to 20 MHz was also employed to determine the extent of heterogeneity in the transport and displacement properties. The results are interpreted in terms of the conventional models of oxygen vacancy and Fe<sup>2+</sup>:Fe<sup>3+</sup> hopping conduction.
+
+conduction
+ferroelectric
+piezoelectric

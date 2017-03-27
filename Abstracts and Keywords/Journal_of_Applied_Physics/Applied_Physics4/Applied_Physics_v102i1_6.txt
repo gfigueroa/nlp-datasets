@@ -1,0 +1,11 @@
+We present a Raman-scattering study on strain-free dilute Ga(As,N) epilayers grown by molecular beam epitaxy. The aim of our work is to discriminate the effect of alloying from the effect of biaxial strain on the frequency behavior of the optical phonon modes of Ga(As,N). In the relaxed epilayers, we observe the following: (i) for the GaN-like LO mode, an upward frequency shift with increasing N which is larger than previously observed in strained samples; (ii) for the GaAs-like LO mode, a redshift with increasing N content which is lower than those reported in the literature on strained samples; and (iii) for the GaAs-like TO mode, we observe a very minor blueshift with increasing N fraction. We discuss the origin of the observed shifts, with particular attention to the reduction of the GaAs-like TO-LO splitting in Ga(As,N). Our data and analysis suggest that such reduction cannot be explained only by a reduction of the total number of GaAs oscillators due to the substitution of As by N. We discuss the effects of disorder and of ionic plasmon coupling between the GaAs and GaN sublattices of Ga(As,N) on the behavior of the GaAs-like LO mode of the alloy. We conclude that the behavior of this mode is determined by long-range effects.
+
+phonons
+gallium compounds
+gallium arsenide
+III-V semiconductors
+wide band gap semiconductors
+Raman spectra
+semiconductor epitaxial layers
+spectral line shift
+plasmons

@@ -1,0 +1,5 @@
+The feasibility of implementing buck converters with switching frequencies of 200MHz and beyond to reduce the size of passive components to integrate-able levels is investigated. Switching losses at such high frequencies are compared to traditional converters implemented on typical analog power technologies to demonstrate that the scaling down of CMOS technologies to nanometer levels can indeed enable switching at such high frequencies while maintaining decent efficiency. Preliminary simulation results on a typical 45nm technology are used to verify the feasibility.
+
+Buck Converters
+CMOS
+DC-DC Converters

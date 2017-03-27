@@ -1,0 +1,7 @@
+In this paper, we consider multiple access schemes with correlated sources. Distributed source coding is not used; rather, the correlation is exploited at the access point (AP). In particular, we assume that each source uses a channel code to transmit, through an additive white Gaussian noise (AWGN) channel, its information to the AP, where component decoders, associated with the sources, iteratively exchange soft information by taking into account the correlation. The key goal of this paper is to investigate whether there exist optimized channel codes for this scenario, i.e., channel codes which guarantee a desired performance level (in terms of average bit error rate, (BER) at the lowest possible signal-to-noise ratio (SNR). A two-dimensional extrinsic information transfer (EXIT) chart-inspired optimization approach is proposed. Our results suggest that by properly designing serially concatenated convolutional codes (SCCCs), the theoretical performance limits can be approached better than by using parallel concatenated convolutional codes (PCCCs) or low-density parity-check (LDPC) codes. It is also shown that irregular LDPC codes tend to perform better than regular LDPC codes, so that the design of appropriate LDPC codes remains an open issue.
+
+LDPC codes
+Turbo codes
+correlated sources
+joint channel decoding (JCD)
+wireless sensor networks

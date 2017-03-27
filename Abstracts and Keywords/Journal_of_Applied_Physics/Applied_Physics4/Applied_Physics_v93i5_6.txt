@@ -1,0 +1,15 @@
+The formation of dust particles in argon diluted C2H2 plasmas was studied by means of Fourier transform infrared absorption spectroscopy and mass spectroscopy. The detection limit for infrared absorption was significantly improved by the use of a multipass technique. Measuring the intensity of the Rayleigh/Mie scattering of the infrared signal we found a periodicity of dust formation/vanishing (period of about 35 min in our experimental conditions). The fast disappearance of the dust from the plasma region at the end of every period is the evidence of a narrow particle size distribution, as confirmed by secondary electron micrographs of the collected powder. Characteristic infrared absorption features have their origin in absorption within the dust particles. Besides the strong presence of aliphatic hydrocarbons characteristic for amorphous hydrocarbon films, a significant amount of aromatic structures was detected. Heavy positive ions measured by ion-mass spectroscopy originate from polyacetilenic (C2nH2) and aromatic compounds. Time resolved mass spectra gave insight into the plasma response to the dust formation. © 2003 American Institute of Physics. 
+
+dusty plasmas
+plasma impurities
+dust
+Fourier transform spectra
+infrared spectra
+nanoparticles
+spectral line intensity
+Mie scattering
+Rayleigh scattering
+particle size
+time resolved spectra
+mass spectra
+plasma diagnostics

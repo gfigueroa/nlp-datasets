@@ -1,0 +1,10 @@
+The performance of a discharge excited XeCl laser has been studied using three different excitation circuits; spikersustainer excitation with a ferrite saturable inductor as the main switch; xray switching with a fast rise time xray preionization pulse, and xray triggering with a saturable inductor and a peaking capacitor added to the circuit. This circuit can improve the performance of the xray switched XeCl laser considerably.
+
+EXCIMER LASERS
+EXCITATION
+X RADIATION
+XENON CHLORIDES
+SWITCHING
+IONIZATION
+PERFORMANCE
+ELECTRIC DISCHARGES

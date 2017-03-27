@@ -1,0 +1,10 @@
+We describe a digital signal processing method for high precision frequency evaluation of approximately sinusoidal signals based on a computationally efficient method. We demonstrate frequency measurement enabling sensitive measurement of the oscillatory force exerted on a micromechanical cantilever. We apply this technique to detection of the force signal arising in a micromechanically detected magnetic resonance force microscopy electron spin resonance signal. Our frequency detection measurements agree well with the theoretical noise analysis presented here, and we find that due to the excellent sensitivity of optical displacement detection, our sensitivity is limited only by the thermal displacement noise of the cantilever.
+
+signal processing
+frequency estimation
+micromechanical devices
+cantilevers
+electron microscopy
+thermal noise
+magnetic resonance spectroscopy
+optical signal detection

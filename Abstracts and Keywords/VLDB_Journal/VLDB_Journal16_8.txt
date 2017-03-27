@@ -1,0 +1,6 @@
+Recently, access control on XML data has become an important research topic. Previous research on access control mechanisms for XML data has focused on increasing the efficiency of access control itself, but has not addressed the issue of integrating access control with query processing. In this paper, we propose an efficient access control mechanism tightly integrated with query processing for XML databases. We present the novel concept of the dynamic predicate (DP), which represents a dynamically constructed condition during query execution. A DP is derived from instance-level authorizations and constrains accessibility of the elements. The DP allows us to effectively integrate authorization checking into the query plan so that unauthorized elements are excluded in the process of query execution. Experimental results show that the proposed access control mechanism improves query processing time significantly over the state-of-the-art access control mechanisms. We conclude that the DP is highly effective in efficiently checking instance-level authorizations in databases with hierarchical structures.
+
+Access control
+Privacy/security
+Query processing
+XML databases

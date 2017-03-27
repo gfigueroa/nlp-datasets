@@ -1,0 +1,11 @@
+The structural properties of InAs nanocrystals formed in Si by sequential implantation of In and As ions are studied in detail. We use a combination of x-ray diffraction, Rutherford backscattering spectroscopy, channeling, and transmission electron microscopy analyses to demonstrate that, regardless of the order in which ion species are implanted, InAs nanocrystals can be produced in Si (100) by means of sequential ion implantation complemented by subsequent thermal annealing. Whichever the order of implantation is, the nanocrystals are facetted and terminated by (111) planes, the epitaxial relationship being cube-on-cube, (100)InAs(100)Si with [001]InAs[001]Si, for most InAs nanocrystals. The size distribution of nanocrystals is much affected by the sequence of implantation. With As ions implanted first, nanocrystals of different sizes are concentrated within one and the same layer under the samples surface. In contrast, when In ions are implanted first, nanocrystals of different sizes are produced separately in space, forming a three-layer structure. As a consequence, inverting the order of implantation entails considerable changes in the morphology of the InAs nanocrystals obtained, affecting both their concentration profile and their size distribution. The result has a significant impact on the optical properties of the resulting samples. © 2002 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+nanostructured materials
+ion implantation
+annealing
+X-ray diffraction
+Rutherford backscattering
+channelling
+transmission electron microscopy

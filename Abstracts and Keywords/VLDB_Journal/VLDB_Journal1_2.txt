@@ -1,0 +1,9 @@
+The integration of heterogeneous database environments is a difficult and complex task. The A la carte Framework addresses this complexity by providing a reusable and extensible architecture in which a set of heterogeneous database management systems can be integrated. The goal is to support incremental integration of existing database facilities into heterogeneous, interoperative, distributed systems. The Framework addresses the three main issues in heterogeneous systems integration. First, it identifies the problems in integrating heterogeneous systems. Second, it identifies the key interfaces and parameters required for autonomous systems to interoperate correctly. Third, it demonstrates an approach to integrating these interfaces in an extensible and incremental way. The A la carte Framework provides a set of reusable, integrating components which integrate the major functional domains, such as transaction management, that could or should be integrated in heterogeneous systems. It also provides a mechanism for capturing key characteristics of the components and constraints which describe how the components can be mixed and interchanged, thereby helping to reduce the complexity of the integration process. Using this framework, we have implemented an experimental, heterogeneous configuration as part of the object management work in the software engineering research consortium, Arcadia.
+
+database toolkits
+extensible databases
+heterogeneous databases
+heterogeneous transaction management
+incremental integration
+open architectures
+reconfigurable architectures

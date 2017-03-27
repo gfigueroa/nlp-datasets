@@ -1,0 +1,9 @@
+The influences of the Zr content on the structural, electrical, and electromechanical properties of Pb[Zr(x),Ti(1x)]O3 [PZT(x/1x)] thin films are investigated in detail. Additionally to measuring all major characteristics of the samples, the electromechanical large-signal behavior is modeled. Raising the Zr content increases the unit cell size and forces the preferred phase to become rhombohedral above the morphotropic phase boundary (MPB). The increased unit cell size changes the switching behavior and increases the intrinsic behavior of the unit cells. The intrinsic behavior is reduced by the phase change, which also introduces non-180° domain wall motion, improving the large-signal strain. Additionally, the domain configuration in saturation is more stable further away from the MPB. Finally, the most suitable materials will be selected for different applications.
+
+lead compounds
+ferroelectric ceramics
+piezoceramics
+ferroelectric thin films
+ferroelectric switching
+pyroelectricity
+electric domain walls

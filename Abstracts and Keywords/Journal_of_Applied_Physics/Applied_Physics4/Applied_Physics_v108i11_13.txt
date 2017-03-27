@@ -1,0 +1,8 @@
+Optical properties of light-hole free exciton (FXB) in GaN epilayers were investigated by using near-resonance photoluminescence (PL) and time-resolved PL techniques. In contrast to the case of off-resonance PL where only heavy-hole free excitons (FXA) have strong response, FXB band can be well resolved in the near-resonance PL spectra. The variable-temperature near-resonance PL spectra show that the linewidth of FXB broadens faster than the FXA with increasing temperature. Moreover, the luminescence lifetime of FXB is found to be shorter than that of FXA.
+
+excitons
+gallium compounds
+III-V semiconductors
+photoluminescence
+semiconductor epitaxial layers
+wide band gap semiconductors

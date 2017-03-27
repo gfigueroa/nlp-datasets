@@ -1,0 +1,11 @@
+Conduction mechanisms in erbium silicide Schottky diodes on ntype silicon have been studied over a temperature range of 25 to 160 K. Thermionic emission is the dominant carrier transport mechanism above 70 K. Below this temperature, deviations are apparent in the zerobias barrier height and ideality factor. However, the flatband barrier height is shown to remain constant over the entire temperature range. The Fermi level is demonstrated to be pinned to the conduction band. A new quantity, the flatband saturation current (Isf) is defined. Plots of n	ln(Isf/T2) vs 1/T are found to give an excellent fit to the data over 28 orders of magnitude. From these plots the flatband barrier height and the modified Richardson constant are obtained directly. This technique provides a completely selfconsistent and more reliable way of obtaining these parameters than do previous methods. For low temperatures and low forward bias, recombination via tunneling through surface states becomes the dominant conduction mechanism.
+
+SCHOTTKY BARRIER DIODES
+ERBIUM SILICIDES
+ELECTRIC CONDUCTIVITY
+SILICON
+NTYPE CONDUCTORS
+THERMIONIC EMISSION
+TEMPERATURE DEPENDENCE
+BARRIER HEIGHT
+TEMPERATURE RANGE 00650273 K

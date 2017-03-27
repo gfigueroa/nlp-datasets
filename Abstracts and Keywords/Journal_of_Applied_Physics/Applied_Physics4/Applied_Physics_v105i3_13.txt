@@ -1,0 +1,13 @@
+Annealed and not-annealed solar cells with extremely thin absorber based on ZnO-nanorod /In2S3/CuSCN structures have been compared. Significantly higher external quantum efficiencies have been recorded on annealed devices. The temperature dependent current-voltage characteristics in the dark and under illumination were analyzed in detail. The short-circuit current density increased with the temperature and depended on the light intensity by a power law with a power coefficient of 0.85 that was independent of the annealing or measurement temperature. The temperature dependence of the ideality factor dominated the temperature dependencies of the diode saturation current density and of the open circuit voltage. The activation energies increased strongly after annealing. We propose that the limiting charge selective contact is driven away from the highly defective In2S3/CuSCN interface into the In2S3 layer due to stimulated by the annealing Cu diffusion.
+
+annealing
+copper compounds
+diodes
+III-VI semiconductors
+II-VI semiconductors
+indium compounds
+nanostructured materials
+solar cells
+surface diffusion
+thermoelectricity
+zinc compounds

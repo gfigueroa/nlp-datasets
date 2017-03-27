@@ -1,0 +1,8 @@
+In this report, we show how computational fluid dynamics can be applied to the design of efficient hydrodynamic cell traps in microfluidic devices. Modeled hydrodynamic trap designs included a large, multiple-aperture C-type sieve for trapping hundreds of cells, flat single-aperture arrays for single cells, and U-type hydrodynamic structures with one or two apertures to confine small clusters of cells ( < 1015 cells per trap). Using 3T3 cells as a model system, the motion of each individual cell was calculated using a one-way coupled Lagrangian method. The cell was assumed to be a solid sphere, and interactions with other cells were only considered when a cell sedimented in the trap. The ordinary differential equations were solved along the cell trajectory for the three components of the velocity and location vector by using the Rosenbrock method based on an adaptive time-stepping technique. Validation of the predictive value of modeling, using 3T3 cells flowed through microfluidic devices containing U-type sieves under the simulation flow parameters, showed excellent agreement between experiment and simulation with respect to cell number per trap and the uniformity of cell distribution within individual microchambers. For applications such as on-chip cell culture or high-throughput screening of cell populations within a lab-on-a-chip environment, Lagrangian simulations have the potential to greatly simplify the design process.
+
+biological fluid dynamics
+cellular transport
+computational fluid dynamics
+flow simulation
+fluidic devices
+microfluidics

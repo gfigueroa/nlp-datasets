@@ -1,0 +1,12 @@
+Although cognitive-behavioral therapy (CBT) is becoming increasingly popular as an adjunctive treatment for psychosis, few studies to date have examined the clinical (in contrast to statistical) significance of treatment gains using standardized methods. The aim of the current study was to investigate the clinical significance of symptomatic reductions reported in trials of CBT for schizophrenia and related disorders using standardized group methods of analysis. An electronic literature search identified 12 studies that met the inclusion criteria of being randomized, controlled trials that compared CBT to routine care alone or to another comparison treatment. The analysis involved the following steps. First, reliable change on symptom measures was examined. Next, the proportion of patients in each study estimated to show clinically significant symptomatic reductions (i.e., two standard deviations) was calculated. When both post-treatment and follow-up data were considered, 42% of CBT conditions compared with only 25% of comparison conditions demonstrated reliable change on at least one psychotic symptom measure per study. Proportions of clinically significant symptomatic improvement in studies showing reliable change were similar between CBT and comparison conditions. Due to the adjunctive nature of CBT for schizophrenia and the limits imposed by the evaluation of group datasets, results of the current study are considered promising but preliminary. Future trials should examine clinical significance using similar standardized methods within studies, as well as broader functional outcome measures, to provide a clearer picture of the benefits derived from this type of intervention. 
+
+cognitive-behavioral therapy
+cognitive therapy
+behavior therapy
+clinical significance
+outcomes
+schizophrenia
+psychotic disorders
+psychosis
+randomized controlled trials
+measurement

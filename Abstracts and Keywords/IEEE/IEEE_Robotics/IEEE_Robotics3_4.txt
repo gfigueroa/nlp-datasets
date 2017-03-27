@@ -1,0 +1,11 @@
+In 2006, natural gas-fired generation produced 20% of the electricity in the United States while representing 41% of the installed summer generating capacity. Coal-fired generation produced 49% of the electrical energy in North America and represented 32% of the installed summer capacity. Heavy and light oil is primarily used as a back-up fuel for natural gas. Fossil fuels are nonrenewable, that is, they draw on finite resources. In contrast, renewable energy resources &#x2014; such as wind, solar, ocean, biomass, hydro, etc. can be replenished at a generally predictable rate. Government policy is the key driver for renewable energy expansion in the US and Canada. For example, over 50% of (non-hydro) renewable capacity additions in the US from the late 1990s through 2007 have occurred in states with mandatory Renewable Portfolio Standards. The proposed level of commitment to renewables offers many benefits as well as certain challenges. It is important to distinguish between variability and uncertainty when discussing planning and operations of the bulk power system. The effects of variability are different than the effects of uncertainty and the mitigation measures that can be used to address variability are different than the measures needed to address uncertainty. There is already some amount of variability and uncertainty on the bulk power system with regard to the demand in particular, and, to a lesser extent, with the generation. To accommodate higher penetrations level of variable generation, changes will be required to the traditional methods used by system planners and operators in order to maintain ongoing bulk power system reliability. While the focus of this paper is on the integration of wind generation, the conclusions and recommended actions may also apply to the integration of all types of variable generation technologies.
+
+Power System Operations
+Power System Planning
+Power System Reliability
+Reliability
+Renewable Generation
+Solar
+Transmission
+Variable Resources
+Wind

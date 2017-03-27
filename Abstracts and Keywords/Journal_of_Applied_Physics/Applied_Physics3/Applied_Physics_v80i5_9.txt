@@ -1,0 +1,11 @@
+The two possible causes of depth inhomogeneities of the microstructure of porous silicon are changes in the HF concentration with depth and a varying chemical etching rate of the porous silicon layer. During anodization chemical etching will become important for microporous silicon  e.g. pporous silicon  due to the large internal surface area, especially at long etching times. On the other hand, a considerable decrease of the HF concentration will occur during etching with high current densities to produce p+porous silicon with high porosities. We have investigated the depth inhomogeneity of porous silicon layers by spectroscopic ellipsometry, Raman spectroscopy and photoluminescence measurements. From a line shape analysis of the Raman signal a size distribution of nanocrystals is deduced. For pporous silicon smaller nanocrystals are found near the surface of the layer; for p+porous silicon etched with high current densities smaller nanocrystals are found near the porous silicon/substrate interface. © 1996 American Institute of Physics. 
+
+POROUS MATERIALS
+SILICON
+LAYERS
+MICROSTRUCTURE
+ETCHING
+ANODIZATION
+PHOTOLUMINESCENCE
+ELLIPSOMETRY
+RAMAN SPECTRA

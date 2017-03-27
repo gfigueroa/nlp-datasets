@@ -1,0 +1,9 @@
+Prior research evidenced that the unimodal biometric systems have several tradeoffs like noisy data, intra-class variations, restricted degrees of freedom, non-universality, spoof attacks, and unacceptable error rates. In order for the biometric system to be more secure and to provide higher accuracy, more than one form of biometrics are required. Hence, the need arise for multimodal biometrics using combinations of different biometric modalities. We describe the design and development of whole hands biometrics prototype system that acquires left and right (L/R) index and ring fingerprints (FP), L/R near-infra-red (NIR) dorsal hand vein (HV) patterns, and L/R NIR dorsal hand geometry (HG) shape. Large database of 500-1000 subjects for whole hands is planned for data collection. The acquired sample images were found to have good quality for all features and patterns extraction to all modalities. The designed prototype can be considered for authentication and identification purposes. Advantages of this system over few existing multimodal systems are its being very hard to spoof attacks on the sensory level and the NIR HV and NIR HG thermal images are good signals for liveness detection.
+
+Biometric System
+Fingerprints
+Hand Geometry Shape
+Hand Vein
+Multimodal
+Near Infra Red
+Unimodal

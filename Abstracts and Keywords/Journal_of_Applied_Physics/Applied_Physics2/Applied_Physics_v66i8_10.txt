@@ -1,0 +1,12 @@
+Photoluminescence (PL) spectra have been investigated at liquidHe temperature in the ZnTe layers grown by metalorganic vaporphase epitaxy. The epitaxial layer exhibits the spectra characterized by a neutral acceptor boundexciton line in the nearband edge and the donoracceptor pair emission in the wavelength range of 550580 nm. At the low substrate temperature or low transport rate ratio of diethyltelluride to dimethylzinc, the spectrum of layer becomes dominated by this donoracceptor pair emission. From the results of secondaryion mass spectrometry analysis and PL property, it is concluded that Na and Cl are important impurities in the layer.
+
+ZINC TELLURIDES
+LAYERS
+VPE
+PHOTOLUMINESCENCE
+SPECTRA
+ULTRALOW TEMPERATURE
+EXCITONS
+DONORS
+ACCEPTORS
+SIMS

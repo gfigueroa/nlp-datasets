@@ -1,0 +1,10 @@
+Using an atomic force microscope, we studied various InAs-on-AlSb interface structures grown by molecular beam epitaxy. We found marked differences between the effects of the two interface bond configurationsInSb-like and AlAs-likeon the morphology of the subsequent InAs layer. In general, InSb-like interfaces lead to a much smoother InAs overgrown layer with clearly resolvable monolayer terraces. AlAs-like interfaces, on the other hand, lead to increasingly rougher InAs growth with longer As exposure. Previous studies have demonstrated a strong correlation between the interface configuration and the electron mobility in the InAs quantum well. The morphology and transport results we obtained indicate one reason for the influence of the interface configurationa rough InAs layer. © 1997 American Institute of Physics.
+
+indium compounds
+III-V semiconductors
+atomic force microscopy
+interface structure
+aluminium compounds
+semiconductor epitaxial layers
+bonds (chemical)
+semiconductor quantum wells

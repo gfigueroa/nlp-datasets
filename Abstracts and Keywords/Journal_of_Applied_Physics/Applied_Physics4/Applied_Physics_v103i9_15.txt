@@ -1,0 +1,10 @@
+The lifetimes of polar optical phonons are known to affect both the electrical and thermal performances of gallium nitride (GaN) based devices. Hence, understanding the dynamical behavior of these phonons in GaN is integral to the elucidation of carrier drift velocities, hot phonon effects, and temperature localization in these nitride semiconductors. To investigate this dynamic behavior, temperature dependent phonon lifetimes were acquired through utilization of the linewidth of the Raman response for GaN samples having various doping types and concentrations. The temperature dependent lifetimes of the four examined phonon modes were then correlated with the Klemens decay model modified to account for four-phonon processes to deduce the decomposition of the zone center phonons. A graphical method that maps this decomposition in the high symmetry directions of the Brillouin zone is also presented. From the variation in lifetime with free carrier concentration, dominant scattering mechanisms are subsequently found for each of four different phonon modes. It is observed that the phonon-carrier interaction directly determines the lifetimes of the polar optical A1 and E1(LO) modes, while the transverse modes into which these longitudinal phonons decay are independent of this interplay. These results indicate that temperature localization likely arises due to the continual emission and reabsorption between the LO phonon modes and the free carriers rather than the persistence of lattice/carrier interaction throughout the entirety of the energy cascade.
+
+Brillouin zones
+carrier density
+doping profiles
+electron-phonon interactions
+gallium compounds
+III-V semiconductors
+Raman spectra
+wide band gap semiconductors

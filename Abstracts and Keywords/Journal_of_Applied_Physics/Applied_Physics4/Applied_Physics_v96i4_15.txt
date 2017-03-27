@@ -1,0 +1,12 @@
+Scott et al. [ Scott et al., J. Appl. Phys. 94, 3333 (2003) ] have questioned our measurements of the optical absorption of amorphous tungsten oxide, and have suggested that the polaron absorption might be an artifact due to interference effects. In this comment we point out that we obtained the absorption coefficient from measurements of both the transmittance and the reflectance of thin films deposited on transparent substrates. By this method the true absorption is easily obtained.
+
+polarons
+optical harmonic generation
+ferroelectric thin films
+ferroelectric materials
+barium compounds
+strontium compounds
+lead compounds
+absorption coefficients
+reflectivity
+infrared spectra

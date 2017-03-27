@@ -1,0 +1,6 @@
+Wormhole attacks in ad-hoc networks have been attracting much attention over the years. They consist in two malicious nodes tunneling traffic from one end of the network to the other. Several approaches are proposed to detect these attacks but only few solutions exploit the information provided by multipath routing schemes. A new approach detecting wormhole attacks is presented in this paper. The Witness Integration Multipath protocol is based on the multipath DSR routing protocol and finds suspicious behaviour related to wormhole attacks. It does not require any major protocol modification nor as much cryptographic processing as the previous solutions.
+
+MANET
+multipaths
+source routing
+wormholes

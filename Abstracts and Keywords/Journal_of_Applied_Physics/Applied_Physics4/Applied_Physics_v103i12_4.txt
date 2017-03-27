@@ -1,0 +1,12 @@
+The effects of high-pressure compression on the transport and thermoelectric properties of TiS2 were investigated at temperatures ranging from 5 to 310 K. The results indicated that compression under the pressure of 6 GPa caused a significant decrease (16-fold at 300 K) in the absolute thermopower |S| and the thermal conductivity (5-fold at 300 K). At the same time, the electrical resistivity ¡ increased by two orders of magnitude after the compression. A transition from metallic state (d¡/dT&gt;0) to semiconductorlike state (d¡/dT&lt;0) was found to occur after the compression. This transition to the semiconductorlike state could be caused by the substantially enhanced grain boundary (GB) scattering due to the refinement of its grains to the nanoscale range, which should also be responsible for the remarkable increase in the resistivity and large decrease in thermal conductivity. Moreover, Motts two-dimensional variable range hopping law, ln	¡T1/3, was observed at T&lt; < 100K for TiS2 after the compression, suggesting that substantial potential disorder was produced by the high-pressure compression. The significant decrease of |S| could originate from the possible compositional disorder in the GBs of TiS2 after compression. The thermoelectric figure of merit of TiS2 decreased after the compaction due to the large decrease in |S| and increase in ¡, indicating that high-pressure compression is not beneficial to the thermoelectric performance of TiS2.
+
+electrical resistivity
+grain boundaries
+grain refinement
+high-pressure effects
+metal-insulator transition
+semiconductor materials
+semimetals
+thermal conductivity
+thermoelectric power
+titanium compounds

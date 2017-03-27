@@ -1,0 +1,12 @@
+Experimental data on fatigue in the MetalFerroelectricMetal thin film structures are reported. A model is proposed based on the trapping and the releasing of the free carriers in the band-gap states located at the interfaces between the electrodes and the ferroelectric film. Fits of the experimental data with the plots calculated from the model show very good agreement. In particular, the fatigue dependence on both the frequency and the magnitude of the applied voltage is well reproduced by the model. Saturation of fatigue for a large number of cycles is also predicted.
+
+platinum
+lead compounds
+ferroelectric thin films
+electron traps
+ferroelectric switching
+interface states
+energy gap
+electrodes
+ferroelectric capacitors
+MIM devices

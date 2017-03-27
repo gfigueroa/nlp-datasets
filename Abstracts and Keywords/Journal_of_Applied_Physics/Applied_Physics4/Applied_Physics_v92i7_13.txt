@@ -1,0 +1,15 @@
+MnxNi0.5xZn0.5Fe2O4 ferrites with x=0.05, 0.1, 0.2, 0.3, and 0.4, have been synthesized by the citrate precursor method and investigated for their magnetic properties. The initial relative permeability is observed to increase with increase in manganese concentration up to x=0.2 followed by a decrease, the maximum value being 632. An initial increase followed by a subsequent decrease of saturation magnetization with increase in x is observed. Curie temperature is observed to decrease continuously from 488 to 418
+°C when x increases from 0.05 to 0.4. Frequency variation of complex initial permeability indicates that resonance peak due to domain wall oscillations is at a frequency above 13 MHz. Saturation magnetization is observed to increase by about 22% when the sintering temperature is increased from 1200 to 1400
+°C. Initial permeability and BH loops are observed to increase and constrict, respectively, with increase in sintering temperature. © 2002 American Institute of Physics. 
+
+manganese compounds
+nickel compounds
+zirconium compounds
+ferrites
+magnetic permeability
+magnetisation
+Curie temperature
+magnetic domain walls
+sintering
+ceramics
+magnetic hysteresis

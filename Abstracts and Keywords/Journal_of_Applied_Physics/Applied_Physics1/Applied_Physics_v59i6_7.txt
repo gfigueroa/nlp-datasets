@@ -1,0 +1,16 @@
+Thin films (n type) of CuInSe2 have been successfully adapted for use in liquidjunction photoelectrochemical (PEC) cells. The best films, of 4¼m thickness, showed 5.9% solar conversion efficiency and no degradation for over 15 kC	cm2, the most stable performance to date for thinfilm PEC systems. Some 2¼m depth from the surface is affected by the iodinebased electrolyte, forming a ptype chemical film with a heterojunction interface and stabilized by saturating the electrolyte with CuI. The latter appears to be an important component of the chemical film.
+
+PHOTOELECTROCHEMICAL CELLS
+EFFICIENCY
+THIN FILMS
+PERFORMANCE
+HETEROJUNCTIONS
+ELECTROLYTES
+ELECTRIC CONTACTS
+STABILIZATION
+COPPER SELENIDES
+INDIUM SELENIDES
+EXPERIMENTAL DATA
+COPPER IODIDES
+ELECTROCHEMISTRY
+PHOTOCHEMISTRY

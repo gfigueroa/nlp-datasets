@@ -1,0 +1,22 @@
+Schottky barriers formed by depositing Au on n-type Ge have been used to study the antimony-vacancy complex (E center). Both hole and electron transitions have been observed because the formation of an inversion layer at the semiconductor surface enables minority carriers to be injected when the Schottky barrier is forward biased. It is argued that the E center in Ge has three charge states: double negative, single negative, and neutral. The free energy of electron ionization for the double acceptor level of the complex has been found to be ”G(=/)=0.2944.2	kT	(eV), where k is Boltzmanns constant. Consequently, the position of the double acceptor level of the E center {E(=/)=Ec”G(=/)} is temperature dependent. In moderately Sb-doped (NSb=10131015	cm3) Ge crystals at equilibrium conditions half-occupancy of the double acceptor state of the Sb-V complex occurs when the Fermi level is at about Ec0.20	eV. The single acceptor level of the E center is in the lower part of the band gap. The activation energy of hole emission from the E(/0) level has been determined as 0.307 eV. The introduction of one Sb-V defect results in the removal of three free electrons in Sb-doped Ge. It is proposed that this is one of the main reasons for the fast free carrier removal and n’p conversion of the conductivity type in Ge:Sb upon electron- or gamma-irradiation at room temperature. © 2004 American Institute of Physics. 
+
+germanium
+antimony
+gold
+elemental semiconductors
+vacancies (crystal)
+impurity-vacancy interactions
+Schottky barriers
+deep levels
+inversion layers
+minority carriers
+electron traps
+hole traps
+free energy
+electron impact ionisation
+impurity states
+Fermi level
+energy gap
+electrical conductivity
+electron beam effects
+gamma-ray effects

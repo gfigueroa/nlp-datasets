@@ -1,0 +1,6 @@
+We have measured the frequency-dependent, complex impedance of thin metal strips in a broad range of microwave frequencies (45 MHz to 20 GHz). The spectra are in good agreement with theoretical predictions of an RCL model. The resistance, inductance, and capacitance, which govern the microwave response, depend on the strip width and thickness as well as on the strip and substrate materials. While the strip resistance scales inversely with the cross section, the inductance depends on the width of the strip but not on the thickness (in the limit of small thickness).
+
+capacitance
+electrical resistivity
+metallic thin films
+microwave spectra

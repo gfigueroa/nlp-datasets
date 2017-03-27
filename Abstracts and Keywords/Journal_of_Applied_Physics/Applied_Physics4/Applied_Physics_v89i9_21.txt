@@ -1,0 +1,10 @@
+We investigated the optical emission characteristics of low- and high-arsenic content In1xGaxAsyP1y alloys grown on exact-oriented (100) GaAs substrates. Clear evidence of a spontaneously ordering superlattice, even in high-arsenic content quaternary samples, was obtained by synchrotron x-ray diffractometry. Photoluminescence measurements at low temperatures revealed the presence of two well-resolved emission bands: an excitation intensity dependent (low-energy) and an excitation intensity independent (high-energy) transitions. Temperature dependent photoluminescence experiments give qualitative information about localization effects of photoexcited carriers in these samples. The origin of carrier localization is attributed to band gap fluctuations in the real space as a result of alloy phase separation and a distribution of domains with varying size and ordering degree. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor epitaxial layers
+photoluminescence
+energy gap
+X-ray diffraction

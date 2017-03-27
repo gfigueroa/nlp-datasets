@@ -1,0 +1,13 @@
+In this paper, we present a detailed characterization of high quality layers of Si implanted with Ti at high doses. These layers are intended to the formation of an intermediate band (IB) solar cell. The main requirement to obtain an IB material is to reach an impurity concentration beyond the Mott limit, which is, in this case, much higher than the solid solubility limit. To overcome this limit we used the combination of ion implantation and pulsed-laser melting as nonequilibrium techniques. Time-of-flight secondary ion mass spectrometry measurements confirm that Ti concentration exceeds the theoretical Mott limit in the implanted layer, and glancing incidence x-ray diffraction and transmission electron microscopy measurements prove that good crystallinity can be achieved. Sheet resistance and Hall effect mobility show uncommon characteristics that can only been explained assuming the IB existence.
+
+electrical resistivity
+Hall effect
+impurity distribution
+melting
+silicon
+solar cells
+solubility
+time of flight mass spectra
+titanium
+transmission electron microscopy
+X-ray diffraction

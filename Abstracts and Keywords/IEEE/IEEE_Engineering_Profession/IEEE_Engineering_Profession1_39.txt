@@ -1,0 +1,6 @@
+A new shunt active filter is proposed here to reduce the harmonic contents in source voltage and source currents of a harmonic polluted three phase system supplying a non &#x2014; linear load. The shunt active filter is designed with a eleven level cascaded H-bridge inverter. To generate the required compensation currents multi carrier PWM Currents are extracted from the load power using Synchronous Detection Method. Simulation of the active filter with proposed current control and dc bus control is presented. The harmonic filter reduces the harmonic contents in source currents as well as the source voltage multilevel shunt active filter does not require an interfacing transformer to connect it with the high power system. It reduces the filter current ripples and improve source power factor.
+
+Multi-Carrier Pulse Width Modulation
+Point of Common Coupling (PCC)
+Synchronous Detection Method (SDM)
+Total harmonic Distortion (THD)

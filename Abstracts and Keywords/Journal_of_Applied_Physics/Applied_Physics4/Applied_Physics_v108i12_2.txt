@@ -1,0 +1,9 @@
+Laser-generated ultrasound in a thin composite plate with thermoviscoelastic property has been studied quantitatively. According to thermoviscoelastic theory, considering the viscoelastic and thermophysical properties of materials, a numerical model for the laser-generated Lamb waves is established in the frequency domain by using a finite element method. It is confirmed that the temperature and displacement fields calculated in the frequency domain coincide well with those obtained in the time domain. In the numerical simulations of thermoviscoelastically generated Lamb waves, the effects of viscoelastic and elastic stiffness moduli, and the thickness of the materials have been taken into account in details. The characteristics of the Lamb waves in the numerical results agree well with the features of the disperse curves. The results show that the finite element method in this paper provides a useful technique to characterize mechanical properties of composite materials.
+
+composite materials
+elastic moduli
+finite element analysis
+laser beam effects
+thin films
+ultrasonic waves
+viscoelasticity

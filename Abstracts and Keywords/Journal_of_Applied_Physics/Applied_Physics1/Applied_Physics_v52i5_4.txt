@@ -1,0 +1,20 @@
+A new method for determining the screening length, static permittivity, and work function from fieldeffect measurements in lowconductivity materials such as amorphous semiconductors is described. The method is based on the chargeflow transistor (CFT), a device structure which resembles a conventional metaloxidesemiconductor fieldeffect transistor (MOSFET), but with a portion of the gate metal replaced by the material under study. The interpretation of conventional fieldeffect measurements is complicated by the simultaneous need to know both the mobility and the distribution of charges in the material. The CFT method complements conventional fieldeffect measurements by providing independent information on the distribution of charges. This paper outlines the theory behind the new method, and presents the first experimental results that illustrate in part its use. The material used in these first experiments is a multicomponent chalcognide glass, Te39As36Ge7Si17P1.
+
+FIELD EFFECT TRANSISTORS
+ELECTRIC CONDUCTIVITY
+DATA
+DIELECTRIC PROPERTIES
+SCREENING
+WORK FUNCTIONS
+AMORPHOUS STATE
+SEMICONDUCTOR MATERIALS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+MOBILITY
+MOSFET
+CHALCOGNIDES
+TELLURIUM COMPOUNDS
+ARSENIC COMPOUNDS
+GERMANIUM COMPOUNDS
+SILICON COMPOUNDS
+PHOSPHOROUS COMPOUNDS

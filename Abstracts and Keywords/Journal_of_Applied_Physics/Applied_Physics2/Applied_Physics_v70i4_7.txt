@@ -1,0 +1,13 @@
+Quantumwell lasers can achieve a low spectral linewidth because of their high differential gain, leading to a lower linewidth enhancement factor ± than for bulk lasers. The differential refractive index and the gain of InGaAs separate confinement multiquantumwell lasers with two different quaternary barrier layers, have been determined from the spontaneous emission spectra below threshold. The measured value of the ± factor is about 2.8 up to 3.5 at the gain maximum for both laser structures. The refractive index and the gain spectra are connected via the KramersKronig relation. Therefore, the differential refractive index and the ± factor have been deduced from calculated gain spectra with an additional contribution of the intraband transitions of the free carriers.
+
+SEMICONDUCTOR LASERS
+LINE WIDTHS
+REFRACTIVITY
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+QUANTUM WELL STRUCTURES
+GAIN
+KRAMERSKRONIG CORRELATION
+QUASIBINARY COMPOUNDS
+ENHANCEMENT
+EMISSION SPECTRA

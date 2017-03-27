@@ -1,0 +1,13 @@
+Fe wedges epitaxially grown on Cu(100) have been employed to investigate the interplay between magnetic and structural instabilities. 24 monolayer (ML) clean Fe films grown at room temperature are ferromagnetic with perpendicular easy axes. bcc Fe filmss11 ML thick are ferromagnetic with inplane easy axes. Most importantly, 611 ML fcc Fe films are antiferromagnetic and have a ferromagnetic surface. Films grown below 200 K and annealed to room temperature do not exhibit the antiferromagnetic phase, but remain ferromagnetic and undergo a spinreorientation transition from perpendicular to in plane at <6 ML. A new phase diagram for Fe/Cu(100) is proposed as a function of thickness and growth temperature. In addition, an impuritystabilized layerbylayer growth that persists to 3040 ML Fe is also reported.
+
+IRON
+COPPER
+THIN FILMS
+FERROMAGNETIC MATERIALS
+ANTIFERROMAGNETIC MATERIALS
+BCC LATTICES
+CRYSTAL STRUCTURE
+MAGNETIC PROPERTIES
+INSTABILITY
+PHASE STUDIES
+TEMPERATURE DEPENDENCE

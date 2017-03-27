@@ -1,0 +1,9 @@
+The influence of copper precipitation on the formation of denuded zone (DZ) in Czochralski silicon was systematically investigated by means of scanning infrared microscopy (SIRM) and optical microscopy. It was found that, for conventional furnace high-low-high annealing, the DZ cannot be obtained only in the specimens contaminated by copper impurity at the very beginning of the heat treatment, indicating that the copper precipitates with high density generated in the region just below the surface during the first annealing step. Additionally, the width of the DZ changed according to the copper contamination sequence, indicating that the contamination temperature, that is, the corresponding equilibrium concentration of interstitial copper in the silicon, can influence significantly the thermodynamics and kinetic process of the formation of copper precipitates. For rapid thermallow-high annealing, the tendency is nearly the same, while the contrast of the bulk microdefects revealed by SIRM is somewhat lower. On the basis of the experiments, it is suggested that the formation of DZ is strongly influenced by the copper precipitation mechanism, which is mainly controlled by the annealing temperature and point defects.
+
+copper
+crystal growth from melt
+heat treatment
+interstitials
+precipitation
+rapid thermal annealing
+silicon

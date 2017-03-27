@@ -1,0 +1,12 @@
+A Kband electronspinresonance study of the appearance of the delocalized intrinsic EX center in dry thermal SiO2 was performed on (001) and (111) Si/SiO2. The defect is found in both structures in nearly identical spin densities, 1.2×1012 cm2 being the maximum areal density. Variation of Si precleaning treatments showed the centers generation to depend on the initial surface condition of the cSi substrate. For fixed initial surface conditions, however, systematic variation of the oxidation temperature (760930	°C), oxidation time (a few min up to 24 h), and oxygen pressure (<24 and <110 kPa), in combination with stylus profilometry, revealed the EX areal density to be solely determined by the grown oxide thickness (dox), EX being detectable from doxJ70 Å onwards, with a maximum intensity at doxJ125 Å. Etch back experiments showed the defects to reside in the top 45 Å of the oxide layer, with the largest local volume density (<3×1018 cm3) occurring near the ambient/SiO2 interface. With growing oxide thickness, the spatial profile remains largely unchanged, the mere effect being changes in the overall EX areal density. Alternated isochronal anneals in H2 and vacuum revealed the defects thermochemical properties to be dominated by the interaction with H2, in a very similar fashion as for the Pb center at the (111)Si/SiO2 interface. Possible hints of these growth aspects as to the nature of the EX defect are discussed.
+
+SI JUNCTIONS
+DEFECTS
+INTERFACE STATES
+ESR
+ANNEALING
+SILICON
+SILICON OXIDES
+SURFACE TREATMENTS
+OXIDATION
+THICKNESS

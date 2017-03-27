@@ -1,0 +1,6 @@
+Time table problem is a multifactor optimized decision problem and is typical problem in constitution and planning. It has been proved as a kind of NP-complete problem. Genetic Algorithm (GA) is based on the biological mechanism of natural selection and heredity, leveraging colony searching technology, and is particularly applicable for the resolution of complicated on-linear problems intractable with traditional searching methods. This paper designs the genetic arithmetic about the time table problems, a new method chromosome encoding is designed. This method mainly aims at in the test time arrangement the concrete question to propose each kind of corresponding heredity operation strategy. The experiment proved this algorithm in the test time cell and the examination place number is all not in the very big situation, reduced the average evolution algebra enormously, and can guarantee obtains the overall situation optimal solution in the two number random situation.
+
+Operator
+chromosome encoding
+examination timetabling problem
+genetic algorithm

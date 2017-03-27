@@ -1,0 +1,6 @@
+In this paper, we analyze response of borehole radar that use an electrically small dipole antenna in an eccentric borehole. Our approach is an extended version of the pseudoanalytic formulation, which was previously applied for analysis of an induction logging tool. In order to verify the calculation method, we did two experiments. The first one is measurement of monopole antenna response inside an eccentric air cylindrical layer in another water cylindrical layer on a ground plane, when a wave is incident on the antenna. The second experiment is crosshole measurement in a field test site. We controlled position of a dipole antenna in a borehole, and made it eccentered in a water-filled borehole. In both experiments, we compared the calculated data and the experimental one, and we will show the validity of the developed pseudoanalytic formulation.
+
+Borehole radar
+borehole effects
+eccentered dipole antenna
+water-filled borehole

@@ -1,0 +1,21 @@
+Suboxide thin films of SbOx, TeOx, MoOx, and GeOx (x is smaller than the stoichiometric value for each component) were found to have the property of showing a critical change in their absorption coefficients and refractive indices at elevated temperatures. The thinfilm samples were prepared by evaporating a mixture of the stoichiometric oxide powder and a deoxidization metal powder such as tungsten. The critical temperatures of these thin films are 150, 120, 150, and 280	°C, respectively. The absorption coefficients before and after the heat treatment are 2.5×104 (before) and 6.1×104 (after), 8×104 and 1.0×105, 5.6×103 and 1.1×104, and 4.9×104 and 1.8×105 cm1, respectively. Their refractive indices are 1.8 (before) and 1.9 (after), 3.1 and 3.5, 1.8 and 2.1, and 2.5 and 2.8, respectively. As determined by xray diffraction analysis, these thin films are composed of very small metal grains and stoichiometric oxide grains. The thermal changes accompanied by the optical constant changes are mainly due to structural changes in the metal grains. These thin films are concluded to have the feasibility of application to optical disk memories of the laser heatmode type.
+
+films
+optical properties
+substoichiometry
+antimony oxides
+tellurium oxides
+molybdenum oxides
+germanium oxides
+thickness
+temperature effects
+experimental data
+absorptivity
+refractivity
+evaporation
+metals
+powders
+tungsten
+critical temperature
+reduction
+heat treatments

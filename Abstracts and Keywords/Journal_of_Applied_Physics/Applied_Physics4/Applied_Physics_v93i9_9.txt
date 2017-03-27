@@ -1,0 +1,11 @@
+Electromigration during accelerated testing can induce plastic deformation in apparently undamaged Al interconnect lines as recently revealed by white beam scanning x-ray microdiffraction. In the present article, we provide a first quantitative analysis of the dislocation structure generated in individual micron-sized Al grains during an in situ electromigration experiment. Laue reflections from individual interconnect grains show pronounced streaking during the early stages of electromigration. We demonstrate that the evolution of the dislocation structure during electromigration is highly inhomogeneous and results in the formation of unpaired randomly distributed dislocations as well as geometrically necessary dislocation boundaries. Approximately half of all unpaired dislocations are grouped within the walls. The misorientation created by each boundary and density of unpaired individual dislocations is determined. The origin of the observed plastic deformation is considered in view of the constraints for dislocation arrangements under the applied electric field during electromigration. © 2003 American Institute of Physics. 
+
+aluminium alloys
+copper alloys
+integrated circuit interconnections
+dislocation structure
+electromigration
+X-ray diffraction
+plastic deformation
+dislocation density
+life testing

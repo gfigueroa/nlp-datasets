@@ -1,0 +1,5 @@
+Levitation force is studied in a two-dimensional system consisting of an infinitely long superconductor immersed in the magnetic field created by different arrangements of infinitely long parallel permanent magnets, based on the critical-state model using the magnetic energy minimization procedure. Results on force, stability, and losses in the levitation process in this system are analyzed.
+
+superconducting materials
+magnetic levitation
+permanent magnets

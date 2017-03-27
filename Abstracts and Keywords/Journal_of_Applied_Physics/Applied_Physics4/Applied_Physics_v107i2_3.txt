@@ -1,0 +1,11 @@
+We present the results of Z-scan measurements (1064 nm, 17 ps) of nonlinear refractive indices and nonlinear absorption coefficients for different compositions of chalcogenide glasses in GeS2Sb2S3CsI system. We show that the simple well known Boling, Glass, and Owyoung model based on the theory of the semiclassical harmonic oscillator can be a useful tool for theoretical predictions of the nonlinear refractive index in these infrared glasses. A quasi-linear behavior is observed relating the nonlinear index and the linear one. Some of the compositions reveal properties potentially useful for all optical switching applications.
+
+absorption coefficients
+antimony compounds
+caesium compounds
+chalcogenide glasses
+germanium compounds
+harmonic oscillators
+infrared spectra
+nonlinear optics
+refractive index

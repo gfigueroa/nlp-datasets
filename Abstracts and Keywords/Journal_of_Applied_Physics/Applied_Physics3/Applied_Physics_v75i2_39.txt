@@ -1,0 +1,11 @@
+A photogating effect, recently predicted with computer simulations and subsequently observed in aSi:H pin structures, is shown to be also present in aSi:H Schottky barrier devices. it is experimentally demonstrated that this photogating effect can be so significant that it can lead to quantum efficiency values greater than unity in Schottky barrier aSi:H devices even in the annealed state. This photogating effect is found to be present under blue bias light and, for the annealed state, at low forward biasing conditions. Using our computer simulations, we show that, as in pin devices, this photogating effect is caused by modulation of the field with blue bias light present near the front contact. We show also that this photogating effect is dependent on material and device parameters.
+
+SCHOTTKY BARRIER DIODES
+QUANTUM EFFICIENCY
+SILICON
+AMORPHOUS STATE
+HYDROGENATION
+ANNEALING
+COMPUTERIZED SIMULATION
+PHOTOVOLTAIC EFFECT
+PIN JUNCTIONS

@@ -1,0 +1,8 @@
+The electrical characteristics of shallow etched GaAs/GaAlAs quantum point contacts (QPCs) of various shapes have been studied as a function of temperature above 0.3 K. Quantized conductance was observed up to 36 K, and from the temperature dependence of the conductance staircase we find energy separations between the lowest one-dimensional subbands up to 20 meV. This value exceeds the highest values so far reported for laterel QPC constrictions in GaAs/GaAlAs heterostructures. In addition, very well behaved quantized conductance plateaus were observed at the lowest temperatures. © 1998 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+quantum point contacts
+two-dimensional electron gas
+electrical conductivity

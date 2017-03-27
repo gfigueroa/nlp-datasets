@@ -1,0 +1,4 @@
+A transport and gain model is developed for the recently realized ambipolar dual-wavelength terahertz quantum cascade laser. The model is based on the simplified density matrix formalism, describing the population and coherence terms of five relevant states per period, which includes the laser optical field and single-temperature thermal balance. Using the measured current densities under forward and reverse bias for calibration, a good theoretical/experimental agreement is found for the current-optical power characteristics and the laser dynamic range. This shows that the model is a reliable analyzer, if not yet a fully predictive tool, for quantum cascade laser simulation.
+
+quantum cascade lasers
+statistical analysis

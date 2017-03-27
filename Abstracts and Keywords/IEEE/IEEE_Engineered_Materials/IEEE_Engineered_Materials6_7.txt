@@ -1,0 +1,7 @@
+Biochemical computing attempts to process information with biomolecules and biological objects. In this work we review our results on analysis and optimization of single biochemical logic gates based on enzymatic reactions, and a network of three gates, for reduction of the "analog" noise buildup. For a single gate, optimization is achieved by analyzing the enzymatic reactions within a framework of kinetic equations. We demonstrate that using co-substrates with much smaller affinities than the primary substrate, a negligible increase in the noise output from the logic gate is obtained as compared to the input noise. A network of enzymatic gates is analyzed by varying selective inputs and fitting standardized few-parameters response functions assumed for each gate. This allows probing of the individual gate quality but primarily yields information on the relative contribution of the gates to noise amplification. The derived information is then used to modify experimental single gate and network systems to operate them in a regime of reduced analog noise amplification.
+
+analog noise
+biocomputing
+enzyme
+logic gate
+optimization

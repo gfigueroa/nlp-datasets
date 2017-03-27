@@ -1,0 +1,12 @@
+Polycrystalline La0.7Ca0.3MnO3´ (LCMO), prepared by a solid-state reaction, was annealed at different temperatures TA. The variation of TA was responsible for observed changes in the physical properties, including a shift in the metal-insulator transition temperature, which is explained by variation in the oxygen content. At low temperatures the magnetization of LCMO samples was also observed to be dependent on TA. A reduction of the grain boundaries leads to enhancement of both the magnetization and the sensitivity for low-field magnetoresistance. By using Mn L3-edge x-ray absorption, it was also found that the Mn3+Mn4+ ratio increases with the grain size, and that the oxygen content in LCMO is governed by the grain boundaries.
+
+lanthanum compounds
+calcium compounds
+ferromagnetic materials
+grain size
+grain boundaries
+metal-insulator transition
+colossal magnetoresistance
+coercive force
+annealing
+X-ray absorption

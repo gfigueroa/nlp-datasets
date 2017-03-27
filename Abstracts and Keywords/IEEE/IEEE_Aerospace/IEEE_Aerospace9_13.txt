@@ -1,0 +1,6 @@
+We present the design and implementation of an open-set text-independent speaker identification system using genetic learning classifier systems (LCS). We examine the use of this system in a real-number problem domain, where there is strong interest in its application to tactical communications. We investigate different encoding methods for representing real-number knowledge and study the efficacy of each method for speaker identification. We also identify several difficulties in solving the speaker identification problems with LCS and introduce new approaches to resolve the difficulties. Experimental results show that our system successfully learns 200 voice features at accuracies of 90 % to 100 % and 15,000 features to more than 80% for the closed-set problem, which is considered a strong result in the speaker identification community. The open-set capability is also comparable to existing numeric-based methods
+
+classifier systems
+genetic algorithms
+language and speech
+machine learning

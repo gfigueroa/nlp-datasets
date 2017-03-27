@@ -1,0 +1,11 @@
+The complex dielectric properties of a series of zirconiaalumina ceramic composites are characterized in the 15140 GHz frequency range. The measured dielectric constants are compared to various forms of mixture equations derived from local field considerations, and to theoretical relations that define bounds on the range of possible values. The closest agreement is obtained with the effective medium theory.
+
+COMPOSITE MATERIALS
+CERAMICS
+ZIRCONIUM OXIDES
+ALUMINIUM OXIDES
+DIELECTRIC PROPERTIES
+MICROWAVE RADIATION
+GHZ RANGE
+YTTRIUM OXIDES
+DIELECTRIC FUNCTION

@@ -1,0 +1,7 @@
+This paper presents an approach to object view management for relational databases. Such a view mechanism makes it possible for users to transparently work with data in a relational database as if it was stored in an object-oriented (OO) database. A query against the object view is translated to one or several queries against the relational database. The results of these queries are then processed to form an answer to the initial query. The approach is not restricted to a &lsquo;pure&rsquo; object view mechanism for the relational data, since the object view can also store its own data and methods. Therefore it must be possible to process queries that combine local data residing in the object view with data retrieved from the relational database. We discuss the key issues when object views of relational databases are developed, namely: how to map relational structures to sub-type/supertype hierarchies in the view, how to represent relational database access in OO query plans, how to provide the concept of object identity in the view, how to handle the fact that the extension of types in the view depends on the state of the relational database, and how to process and optimize queries against the object view. The results are based on experiences from a running prototype implementation.
+
+Object views
+Object-oriented federated databases
+Query optimization
+Relational databases
+query processing

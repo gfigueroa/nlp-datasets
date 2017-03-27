@@ -1,0 +1,9 @@
+We present an experimental setup for in plane two axis magnetometry using the polarization dependent magnetooptic Kerr effect (MOKE). A conventional setup to measure longitudinal MOKE with crossed polarizers is extended by a Faraday cell to compensate for the rotation of the polarization vector caused by a magnetized sample. The shape of the hysteresis loops measured on thin FeNi alloy films depends strongly on the angle between the optical axis of the analyzer and the plane of incidence. We derive expressions for the compensation angle which allow for extraction of vectorial magnetic information from loops detected with oblique polarization. For a small deviation from pure s or p polarization the transverse magnetization is found to be proportional to the difference between the loop obtained with oblique polarization and the one obtained with pure s or p polarization. Thus the complete in plane reversal process split up into longitudinal and transverse components can be observed. © 2002 American Institute of Physics.
+
+iron alloys
+nickel alloys
+magnetic thin films
+metallic thin films
+magnetisation reversal
+Kerr magneto-optical effect
+magnetic hysteresis

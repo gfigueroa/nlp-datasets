@@ -1,0 +1,8 @@
+A comparison is made between the electronic structures determined in ultrahigh vacuum of three surfaces using scanning tunneling spectroscopy (STS) and Kelvin probe force microscopy (KPFM). STS and KPFM illustrates Fermi level pinning of clean InAs(001)-(4×2) and InGaAs(001)-(4×2) surfaces and near flat band conditions for InAs(110) cleaved surfaces. However, for InAs(001)-(4×2) and InGaAs(001)-(4×2), STS and KPFM data show very different positions for the surface Fermi level on identical samples; it is hypothesized that the difference is due to the Fermi level measured by KPFM being shifted by a static charge dipole to which STS is much less sensitive.
+
+Fermi level
+gallium arsenide
+III-V semiconductors
+indium compounds
+scanning tunnelling spectroscopy
+surface states

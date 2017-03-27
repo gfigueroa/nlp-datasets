@@ -1,0 +1,11 @@
+Low-temperature sintering of 0.5Pb(Zn1/3Nb2/3)O30.5Pb(Zr0.47Ti0.53)O3 ceramics (0.5PZN0.5PZT) was investigated using Li2CO3 as sintering aids. The addition of Li2CO3 significantly improved the sinterability of 0.5PZN0.5PZT ceramics, resulting in a reduction of sintering temperature from 1100to950	°C. Moreover, the effect of Li2CO3 addition on the dielectric and piezoelectric responses in 0.5PZN0.5PZT systems was systematically studied in this work. The analysis of x-ray diffraction patterns and scanning electron microscopy indicated that the solubility limit of Li ions in perovskite structures was near 0.5wt	% in Li2CO3 form. Below the solubility limit, Li+ ions entered the six-fold coordinated B sites of oxygenic octahedral center and enhanced the compositional fluctuation in nanoscale, resulting in the increase of the degree of diffuseness ³. While at high doping level above the solubility limit, ³ decreased subsequently, which was attributed to the formation of pyrochlore phase. Raman analysis on the B-site cation order correlates well with the dielectric measurement results. The large improvements in the piezoelectric properties such as the coupling factor and piezoelectric constant were also observed for doped specimens. Optimized parameters, such as d33 = 278pC/N, kp = 0.50, and µmax = 8800, were achieved by doping 0.5wt	% Li2CO3 in low-temperature sintered 0.5PZN0.5PZT systems, which shows great promise as practical materials for multilayered piezoelectric device applications. The observed improvement in the electric properties can be attributed to the grain size effect. After doping, the clamping effect caused by oxygen vacancies and grain boundary phases on domain wall motion was largely reduced due to the increase of grain size; therefore, a significant reduced coercive field and an increased remanent polarization were observed in doped 0.5PZN0.5PZT systems.
+
+fluctuations
+lead compounds
+lithium compounds
+piezoceramics
+piezoelectricity
+Raman spectra
+scanning electron microscopy
+solubility
+X-ray diffraction

@@ -1,0 +1,13 @@
+The thermal stability of electrical resistivity (Á) is one of the crucial functions of semi-insulating (SI) substrates. In this paper, we describe the thermal stability of SI property in Fe-doped GaN (GaN:Fe) films grown by hydride vapor phase epitaxy, in view of point defect chemistry by means of monoenergetic positron annihilation and photoluminescence (PL) measurements. PL spectra of GaN:Fe at 8 K exhibited broad emission bands in UV, blue, and yellow spectral regions, as well as a series of characteristic infrared peaks with a sharp zero-phonon line at 1.300 eV. A Á value higher than 108©Åcm was obtained when the doping concentration of Fe, [Fe], exceeded the major shallow donor (Si) concentration (5×1017cm3). For those SI samples, the relative intensity of the yellow luminescence band at 2.2 eV, of which the origin has been attributed to Ga vacancies (VGa) and/or defect complexes composed of VGa and O, over the UV/blue emission was remarkably decreased. Simultaneously, the Doppler broadening S parameter for the positron annihilation measurement, which represents the size or concentration of negatively charged vacancy type point defects such as VGa, was decreased. The results are consistent with the increase in formation energy of VGa due to the downward shift of the Fermi level by Fe doping. The values of Á, S, and W parameters that represents the fraction of positrons annihilated with core electrons, in the bulk region did not change remarkably while the positron diffusion length was increased by the annealing in N2 between 600 and 1050	°C. Although the defect concentration in uncapped surface region was increased remarkably by annealing at 1050	°C due to the surface decomposition, the present results indicate that GaN:Fe can be used as a thermally stable SI substrate for electronic devices because the surface does not decompose during the epitaxial growths of overlayers.
+
+decomposition
+gallium compounds
+III-V semiconductors
+impurity distribution
+iron
+photoluminescence
+positron annihilation
+semiconductor epitaxial layers
+thermal stability
+vacancies (crystal)
+wide band gap semiconductors

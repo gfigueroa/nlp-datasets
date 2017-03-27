@@ -1,0 +1,10 @@
+We studied the origin of a green photoluminescence (PL) in silica glass at about 2.25 eV using electron spin resonance. The 2.25 eV PL band (lifetime: <300 ns, full width at half maximum: <0.2 eV) appears strong in ³-irradiated high-oxygen content silica glass suggesting that this PL is associated with a large surplus of oxygen states in silica glass. We investigated the correlation between the 2.25 eV PL band and the peroxy radical by the isochronal annealing method. Peroxy radicals are formed by the O3ýSiOO" bond (": unpaired electron) and the small peroxy radical (SPR) bond in silica glass. Based on the annealing characteristics of the 2.25 eV PL band and the peroxy radical, we suggest that the PL band is associated with a surplus of oxygen defects formed by the SPR rather than the O3ýSiOO" bond. © 2000 American Institute of Physics. 
+
+glass
+silicon compounds
+gamma-ray effects
+photoluminescence
+paramagnetic resonance
+annealing
+defect states
+stoichiometry

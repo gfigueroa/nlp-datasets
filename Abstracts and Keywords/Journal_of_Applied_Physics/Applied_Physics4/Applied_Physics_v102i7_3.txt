@@ -1,0 +1,6 @@
+This work presents low temperature (200 and 300	°C) thin film deposition of tin oxide (SnO2) using modified plasma enhanced chemical vapor deposition as a function of radio frequency power (100500W). Stannic chloride (SnCl4) was used as precursor and oxygen (O2, 300SCCM) as reactant gas. Fine granular morphology was observed with tetragonal rutile structure grown along the [110] direction, at all the deposition conditions. Higher plasma power resulted in smoother morphology, improved crystallinity, and enhanced conductivity. Electrical resistivity value of as low as < 0.01©	cm was obtained at the deposition temperature of 300	°C and 250W of plasma power.
+
+electrical resistivity
+granular structure
+plasma CVD
+tin compounds

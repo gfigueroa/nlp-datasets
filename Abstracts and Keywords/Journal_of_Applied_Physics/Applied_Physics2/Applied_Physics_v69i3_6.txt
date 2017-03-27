@@ -1,0 +1,12 @@
+Ion implantation of carbon (C) into extremely pure GaAs grown by molecular beam epitaxy is carried out over a wide range of C atomic concentrations [C], from 1×1016 to 5×1019 cm3. The impurity levels in the implanted layer are investigated by using photoluminescence (PL) and Halleffect measurements. Below the welldefined exciton luminescence lines, one broad emission band, namely [gg], is found to be exclusively attributable to acceptor impurities and is dominant for [C] lower than 3×1017 cm3. However, a decrease of its intensity and a locking of its emission energy shift is observed for [C] higher than this value. A carrier transport mechanism is found to be relevant to the C acceptor level for C atoms at As sites, and deep acceptors caused by residual radiation defects. The concentration of substitutional C atoms is nearly coincident with [C] up to 1×1017 cm3, but the activation efficiency for [C]=1×1018 cm3 decreases by about 13%. The decrease of overall PL intensity and the locking of the emission energy shift of [gg] are the peculiar features in highly C+ implanted GaAs. Moreover, the location of a moderately deep acceptor level and its relatedemission properties as a function of [C] strongly suggest the formation of complexes involving arsenic vacancies (VAs) and C impurities, or residual radiation defects.
+
+GALLIUM ARSENIDES
+ION IMPLANTATION
+CARBON IONS
+PHOTOLUMINESCENCE
+HALL EFFECT
+MOLECULAR BEAM EPITAXY
+EXCITONS
+ACCEPTORS
+DEEP ENERGY LEVELS
+VACANCIES

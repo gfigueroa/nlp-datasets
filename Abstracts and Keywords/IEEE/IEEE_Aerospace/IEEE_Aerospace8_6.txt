@@ -1,0 +1,13 @@
+In this paper, for the first time, Silicon integrated tuner is presented aiming silicon transistor (HBT, MOSFET) millimeter wave (MMW) noise parameters (NF<sub>min</sub>, R<sub>n</sub>, Gamma<sub>opt</sub>) extraction through multi-impedance method. This Tuner is directly integrated in On-wafer tested transistor test structure. The achieved proximity between device under test (DUT) and the developed Tuner allows better impedances (higher |Gamma<sub>opt</sub>|) for frequency above 60 GHz due to losses reduction between tuner and transistor compared to classical setup using off-wafer impedance generator. The tuner design is based on variable R, C elements fulfilled with cold-FET and varactors controlled through biasing and associated to transmission lines (TL) for phase shifting. Design, electrical simulation and MMW measurement of the Tuner are described showing capability from 60 GHz up to 110 GHz for CMOS and BiCMOS sub 65 nm technologies characterization. |Gamma| of 0.88 have been achieved at the DUT input in the considered frequency range and Tuner losses are less than 20 dB.
+
+Active devices
+HBT
+Impedance tuner
+MOSFET
+cold FET
+in-situ lab.
+multi-impedance
+noise microwave measurement
+transistors
+transmission lines
+varactor

@@ -1,0 +1,12 @@
+Photolysis in the NH3NO system was studied by using an ArFexcimer laser. It was found that the concentration of NO decreases during laser irradiation for a mixture of gaseous of NH3 and NO. From a quadrupolemass spectroscopic analysis of the gases, the decomposition of NO molecules yields selectively H2O and N2 molecules. The dependence of quantum yield of NO decomposition on the concentration of NH3 shows a maximum at the same concentration as that of NO.
+
+PHOTOLYSIS
+EXCIMER LASERS
+PHOTODISSOCIATION
+AMMONIA
+NITRIC OXIDE
+MASS SPECTROSCOPY
+ARGON FLUORIDES
+WATER
+NITROGEN MOLECULES
+CHEMICAL REACTION YIELD

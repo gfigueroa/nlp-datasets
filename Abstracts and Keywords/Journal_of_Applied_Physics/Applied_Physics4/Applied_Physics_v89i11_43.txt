@@ -1,0 +1,15 @@
+Two major problems in spin electronics remain to be solved: room temperature spin injection at a source and spin detection at a drain electrode. The lateral size of magnetic contacts and the presence of a potential barrier at the interface are believed to have a key influence on the efficiency of both of these processes. We therefore aimed to clarify these issues by studying spin-polarized transport across epitaxially grown single crystal Fe (001)/GaAs nanoclusters and at the Schottky barrier formed at Ni80Fe20/GaAs interfaces. We observed a negative contribution to the magnetoresistance of an ultrathin (2.5 ML) discontinuous epitaxial Fe film as occurs in tunnel magnetoresistance. This result suggests that spin transport via GaAs is possible on the nanoscale. In the continuous NiFe/GaAs structures, circularly polarized light was used to create a population of spin-polarized electrons in the GaAs substrate and spin-polarized electron transport across the interface at room temperature was detected as an electrical response associated with the field-dependent photocurrent. Surprisingly, highly efficient spin transmission is observed at room temperature, indicating that there is no significant loss of spin polarization for electrons crossing the interface. This result unambiguously demonstrates that spin detection is possible at room temperature in a continuous ferromagnet/semiconductor contact in the presence of the Schottky barrier. © 2001 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+semiconductor-metal boundaries
+Schottky barriers
+iron
+ferromagnetic materials
+nickel alloys
+iron alloys
+electron spin polarisation
+charge injection
+magnetoresistance
+magnetic epitaxial layers
+photoconductivity

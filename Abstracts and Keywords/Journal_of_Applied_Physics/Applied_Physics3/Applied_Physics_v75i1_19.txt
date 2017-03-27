@@ -1,0 +1,9 @@
+The theory of the Fourier series method is presented for 2dimensional, homogeneous, isotropic structures with rectangular geometry. The theory allows for any normal stress to be specified at any boundary with the shear stresses at all boundaries assumed to be zero. The stress relaxation near the free surface due to a single isolated strained layer is calculated. It is found that the component of the stress relaxation normal to the surface decays as 1/r within the strained layer, where r is the distance from the free surface. A single strained layer with linearly graded composition from 1% to 0.8% is examined and it is found that only small asymmetries are present in the strain relaxation and surface displacement. Finally, the strain relaxation due to a single strained layer during growth is calculated and it is found that the maximum shear strain at the corner of the structure is slightly larger than that due to a single capped strained layer.
+
+LAYERS
+STRAINS
+STRESS RELAXATION
+FOURIER ANALYSIS
+HOMOGENEITY
+ISOTROPY
+SURFACES

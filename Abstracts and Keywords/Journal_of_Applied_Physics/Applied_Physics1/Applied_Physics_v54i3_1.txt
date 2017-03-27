@@ -1,0 +1,20 @@
+The optical characteristics of Sb2Se3 and Sb2Te3 films are changed due to an amorphouscrystalline phase transition below 200	°C. The respective reflectivity of 400 Å Sb2Se3 and 300 Å Sb2Te3 films, each on a Te reflective layer, is increased from 10% to 30% and from 45% to 65% by laser radiation. Using these new materials, optical disc recording of FM video signals by a diode laser has been demonstrated.
+
+recording systems
+optical equipment
+television
+optical properties
+antimony selenides
+antimony tellurides
+films
+high temperature
+amorphous state
+crystals
+phase transformations
+reflectivity
+thickness
+laser radiation
+semiconductor lasers
+frequency modulation
+semiconductor diodes
+disks

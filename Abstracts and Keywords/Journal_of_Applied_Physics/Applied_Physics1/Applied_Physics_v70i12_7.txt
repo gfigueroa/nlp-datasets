@@ -1,0 +1,10 @@
+An enhancement of the crack diffusion model of brittle fracture is proposed. In the model, certain probabilities are evaluated as averages over the set of all virtual crack paths, and the latter are modeled as realizations of a Wiener process. However, commonly observed fracture profiles are smoother. In fact, one can show that their fractal dimension is smaller than the value 3/2 for a Wiener process. Accordingly, we propose to represent fracture profiles by graphs of fractional integrals of a Wiener process. This allows one to employ additional fractographic information obtained from fracture profiles, e.g., their fractal dimension, in a predictive formalism, evaluating probabilities of failure.
+
+FRACTURE MECHANICS
+MATHEMATICAL MODELS
+WIENER PROCESSES
+CRACK PROPAGATION
+BRITTLENESS
+PROBABILITY
+FRACTALS
+GRAPHS

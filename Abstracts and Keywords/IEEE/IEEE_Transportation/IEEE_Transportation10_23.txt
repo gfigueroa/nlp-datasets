@@ -1,0 +1,7 @@
+This paper describes a methodology for obtaining failure probability of a composite distribution system having distributed generations. A Functional link network has been trained to give reliability or probability of failure for various values of safety factor and coefficient of variations of loads and capacity. The reliability of the composite distribution system is evaluated on line by the trained network. The methodology has been implemented on a sample distribution system.
+
+Distribution system
+distributed generation
+functional link network
+probability of failure
+reliability

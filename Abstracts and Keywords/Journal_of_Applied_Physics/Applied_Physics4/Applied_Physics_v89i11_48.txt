@@ -1,0 +1,7 @@
+A new technique of magnetic imaging on a spin-stand [Mayergoyz et al., J. Appl. Phys. 87, 6824 (2000)] is further developed and extensively tested. The results of successful imaging of digital patterns overwritten with misregistration ranging from 0.3 to 0.07 ¼m are reported. The results are compared with magnetic force microscopy (MFM) images and the conclusion is reached that the spin-stand imaging technique can provide (at least) the same level of resolution and accuracy as the MFM imaging technique. © 2001 American Institute of Physics. 
+
+magnetisation
+magnetic force microscopy
+magnetic recording
+magnetoresistive devices
+magnetic heads

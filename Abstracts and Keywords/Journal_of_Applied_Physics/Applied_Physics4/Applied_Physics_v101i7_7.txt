@@ -1,0 +1,11 @@
+We image the lifetime distribution of multicrystalline silicon wafers by means of calibrated measurements of the free-carrier emission using an infrared camera. The spatially resolved lifetime measurements are performed as a function of the light-generated excess carrier density, showing a pronounced increase in lifetime with decreasing injection density at very low injection levels. Two theoretical models are applied to describe the abnormal lifetime increase: (i) minority-carrier trapping and (ii) depletion region modulation around charged bulk defects. The trapping model is found to give better agreement with the experimental data. By fitting the trapping model to each point of the lifetime image recorded at different injection levels, we generate a trap density mapping. On multicrystalline silicon wafers we find a clear correlation between trap and dislocation density mappings.
+
+silicon
+elemental semiconductors
+infrared imaging
+carrier lifetime
+carrier density
+minority carriers
+electron traps
+hole traps
+dislocation density

@@ -1,0 +1,8 @@
+Leak detection of hydrogen for medical purposes, based on the monitoring of the optical response of a simple Fabry-Perot microcavity, is proposed to investigate either the occurrence of lactose intolerance, or lactose malabsorption condition. Both pathologic conditions result in bacterial overgrowth in the intestine, which causes increased spontaneous emission of H2 in the human breath. Two sensitivity figures of merit are introduced to inspect changes in the sensor response, and to relate the microcavity response to a pathologic condition, which is strictly related to a different level of exhaled hydrogen. Different sensor configurations using a metal-dielectric microcavity are reported and discussed in order to make the most of the well-known ability of palladium to spontaneously absorb hydrogen.
+
+biological techniques
+chemical sensors
+dielectric materials
+hydrogen
+optical sensors
+palladium

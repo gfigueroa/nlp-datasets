@@ -1,0 +1,6 @@
+Multi-view video streaming over P2P network has emerged as a scalable solution for providing multi-view video service on Internet, as it utilizes users' bandwidth resource to reduce streaming server's bandwidth cost when delivering the dataintensive multi-view video. However, the view switching behavior in multi-view video introduces excessive dynamic to the system, which brings two performance issues to existing solutions: large view switching delay and poor streaming quality for views with small number of audience. To address the problems, we propose a novel P2P streaming framework for multi-view video that organizes viewers of different views together to cooperate in view switching and content delivery, achieving reduced view switching delay. Further, we propose a heuristic method to balance resources across all views and improve the streaming quality for views with small number of viewers. The experiments show that our proposed method achieves lower view switching delay and better streaming quality compared with existing solutions.
+
+Multi-View Video
+Peer-to-Peer Network
+Video Streaming
+View Switching

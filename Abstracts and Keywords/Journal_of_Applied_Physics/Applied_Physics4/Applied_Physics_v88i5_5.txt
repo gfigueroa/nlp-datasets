@@ -1,0 +1,8 @@
+A general method for the determination of the resistivity tensor from multiterminal measurements is developed, based on the solution of a Laplace equation for the potential inside the sample with suitable boundary conditions. We have performed the calculation in the general case of an arbitrary contact geometry, with finite width of the contacts on the sample surfaces. The precision and the accuracy of the calculation and of the hypothesis of the model have been checked by means of a self-consistent method based on the reconstruction of voltage measurements. © 2000 American Institute of Physics. 
+
+high-temperature superconductors
+bismuth compounds
+strontium compounds
+calcium compounds
+electrical resistivity
+Laplace equations

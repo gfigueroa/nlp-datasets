@@ -1,0 +1,16 @@
+Molecular beam epitaxial (MBE) growth, structural, and electrical properties of novel epitaxial metal/semiconductor heterostructures (MSHs), consisting of monocrystalline CoAl, an intermetallic compound, and AlAs/GaAs IIIV semiconductors have been studied. The CoAl with stoichiometric composition has a CsCltype crystal structure whose lattice constant is very close to half the lattice constant of GaAs and AlAs, hence, it is a good candidate as a constituent metal in epitaxial monocrystalline metal/semiconductor heterostructures. MBE growth of CoAl thin films on AlAs/GaAs, and also semiconductor overgrowth on ultrathin CoAl films, together with structural characterizations by in situ reflection high energy electron diffractions, ex situ xray diffractions and cross sectional transmission electron microscopy have been explored. By optimizing the growth parameters and procedures, high quality monocrystalline CoAl/AlAs/GaAs heterostructures with atomically abrupt interfaces have been successfully grown. Furthermore, the electrical properties of such novel heterostructures as Schottky barrier heights of CoAl/AlAs/GaAs MSHs and transport properties in ultrathin buried CoAl films are described.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+COBALT COMPOUNDS
+ALUMINIUM COMPOUNDS
+HETEROSTRUCTURES
+MOLECULAR BEAM EPITAXY
+INTERMETALLIC COMPOUNDS
+BINARY COMPOUNDS
+FILM GROWTH
+CRYSTAL STRUCTURE
+XRD
+ELECTRON DIFFRACTION
+TEM
+ELECTRICAL PROPERTIES

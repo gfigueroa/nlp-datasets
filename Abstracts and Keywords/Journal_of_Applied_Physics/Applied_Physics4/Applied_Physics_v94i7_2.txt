@@ -1,0 +1,11 @@
+Ion beam induced smoothening of crystalline and amorphous substrates were investigated using molecular dynamics simulations. Rough surfaces created by depositing small nanoparticles, 23 nm in diameter, onto flat substrates were subjected to repeated impacts with 40 keV Xe atoms. Two smoothening processes are identified: The nanoparticle either burrows into the substrate, with the underlying substrate atoms flowing around it to the surface, or it flows over the substrate surface, wetting it. Generally, these two mechanisms operate simultaneously in both amorphous and crystalline substrates. The burrowing mechanism in amorphous substrates was additionally investigated by creating low energy recoils, 20 or 200 eV in the substrate beneath the nanoparticle. Roughening of initially smooth amorphous substrates during ion impact was also studied for comparison with the smoothening process. © 2003 American Institute of Physics. 
+
+rough surfaces
+ion beam effects
+atom-surface impact
+wetting
+nanoparticles
+substrates
+amorphous state
+molecular dynamics method
+surface treatment

@@ -1,0 +1,8 @@
+Curved magnetic filters are often used for the removal of macroparticles from cathodic arc plasmas. This study addresses the need to further reduce losses and improving plasma throughput. The central figure of merit is the system coefficient º defined as a filtered ion current normalized by the plasma-producing arc current. The coefficient º is investigated as a function of continuous and pulsed magnetic field operation, magnetic field strength, external electric bias, and arc amplitude. It increases with positive filter bias but saturates at about 15 V for relatively low magnetic field (<10 mT), whereas stronger magnetic fields lead to higher º with saturation at about 25 V. Further increase of positive bias reduces º. These findings are true for both pulsed and continuous filters. Bias of pulsed filters has been realized using the voltage drop across a self-bias resistor, eliminating the need for a separate bias circuit. Almost 100 A of filtered copper ions have been obtained in pulsed mode, corresponding to ºH0.04. The results are interpreted by a simplified potential trough model. © 2003 American Institute of Physics. 
+
+plasma impurities
+arcs (electric)
+filters
+magnetic separation
+magnetic devices
+plasma production

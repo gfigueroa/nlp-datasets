@@ -1,0 +1,13 @@
+Interfacial defect structures of NO-nitride oxide on Si(100) were characterized by electron spin resonance spectroscopy. We confirmed that the effective g values of the Pb1 center are affected by interfacial nitridation even at a small nitrogen concentration of 5 at.
+%, while those of the Pb0 center proved to be unchanged. We observed that the shifted Pb1 line appeared gradually with interfacial nitrogen concentration, which suggests that the nitrogen-induced modified structure substitutes for the original Pb1 structure. Angular variations of the shifted Pb1 lines were also significantly different from those of pure oxide. Based on our analysis, we attributed the g value shift of the Pb1 center to dangling bond tilting, caused by the displacement of nearest-neighbor Si atoms. © 2004 American Institute of Physics. 
+
+silicon compounds
+silicon
+elemental semiconductors
+nitrogen
+nitridation
+interface structure
+crystal defects
+paramagnetic resonance
+impurity distribution
+dangling bonds

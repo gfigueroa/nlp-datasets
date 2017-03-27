@@ -1,0 +1,4 @@
+Pseudomorphic high electron mobility transistor structures have been characterized using surface photovoltage spectroscopy and numerical simulations. According to the effect of the electric fields in different regions of the device on the surface photovoltage spectra, a simple empirical model that correlates the spectral parameters and electrical parameters of the structure has been developed. The spectra and their analysis are shown to provide values for the electrical parameters of the structure. The sensitivity of the technique to the device electrical parameters is shown by three different examples. In these examples, the differences in doping level and surface charge have been monitored as well as the nonuniformity of doping level across the wafer. © 2000 American Institute of Physics. 
+
+high electron mobility transistors
+surface photovoltage

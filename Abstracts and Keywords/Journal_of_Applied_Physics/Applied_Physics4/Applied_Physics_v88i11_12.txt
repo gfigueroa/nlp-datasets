@@ -1,0 +1,6 @@
+Nonlinear properties of lead zirconate-titanate (PZT) piezoceramics are investigated using ultrasonic second harmonic generation technique. When a sinusoidal ultrasonic wave of frequency É0 is sent into a nonlinear material, the second harmonic wave with frequency 2É0 is generated. Through measuring the absolute amplitude of the fundamental (É0) and of the second harmonic (2É0) waves, the ultrasonic nonlinearity parameter ² can be determined, which involves certain combinations of the third-order elastic constants and piezoelectric coefficients. We report the measured nonlinear parameters for four types of doped PZT ceramics, PZT-4, PZT-5A, PZT-5H, and PZT-5H HD, which are widely used in practice. We found that the nonlinear parameter is much more sensitive than the linear parameter in responding to microstructural changes in piezoceramics. It could be used to distinguish unpoled samples from depoled samples, which are undistinguishable in terms of the linear parameters. © 2000 American Institute of Physics. 
+
+lead compounds
+piezoceramics
+optical harmonic generation
+elastic constants

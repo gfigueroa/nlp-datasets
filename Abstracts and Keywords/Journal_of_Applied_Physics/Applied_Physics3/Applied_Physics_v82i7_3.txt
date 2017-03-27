@@ -1,0 +1,9 @@
+The lateral oxidation of buried AlxGa1xAs layers with high Al content (x = 0.81) is investigated, using an oxidation process in a wet N2+H2O ambient at 370450	°C. The oxidation is clearly selective and significantly affected by process temperature, material composition, AlxGa1xAs layer thickness, and the geometry of the oxidized structures. An asymptotic oxide growth with constant activation energies for the reactive process and for the transport mechanism is observed. The experimental oxidation behavior coincides well with a model of self-blocking pores. © 1997 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+oxidation
+buried layers
+surface chemistry
+porous materials

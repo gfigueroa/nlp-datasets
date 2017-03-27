@@ -1,0 +1,14 @@
+The material properties of 2¼mthick InxGa1xAs epilayers grown on GaAs with 0.28dxd1 were investigated. It was found that for xe0.5, the material quality of the larger latticemismatched heterojunction recovers, as evidenced by crosssectional transmission electron microscopy (XTEM) and doublecrystal xray diffraction (DXRD). Magnetophotoconductivity measurements were performed on InxGa1xAs epilayers with 0.75dxd1. The dependence of both the cyclotron resonance linewidth and the carrier relaxation time on the material quality is consistent with the XTEM and DXRD results. The transport properties of InxGa1xAs epilayers with 0.75dxd1 were studied using temperaturedependent van der Pauw measurements. It was found that the electron mobility in the lowtemperature range is determined by a combination of ionized impurity and dislocation scatterings. The contribution of dislocation scattering to ternary InGaAs epilayers is larger than that to InAs, although InAs has a larger lattice mismatch with respect to GaAs. These four different measurement techniques confirm that the growth mode rather than lattice mismatch determines the density of dislocation for the heteroepitaxy of highly mismatched InxGa1xAs on GaAs.
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+TERNARY ALLOYS
+MOLECULAR BEAM EPITAXY
+ELECTRIC CONDUCTIVITY
+CRYSTAL STRUCTURE
+ELECTRON MOBILITY
+DISLOCATIONS
+XRD
+TEM
+PHOTOCONDUCTIVITY
+TEMPERATURE DEPENDENCE

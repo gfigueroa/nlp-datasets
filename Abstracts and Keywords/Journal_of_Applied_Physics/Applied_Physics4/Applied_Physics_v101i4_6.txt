@@ -1,0 +1,12 @@
+Al1xInxN (0001) thin films of the pseudobinary AlNInN system were grown epitaxially onto (111)-oriented MgO wafers with seed layers of Ti1yZryN by dual direct current magnetron sputtering under ultrahigh vacuum conditions. The relaxed film c-axis lattice parameters determined by x-ray diffraction were studied as a function of composition in the range of 0.07&lt;x&lt;0.82 measured by Rutherford backscattering spectrometry. We find a relative deviation by as much as 37% from the linear dependency described by Vegards rule for the lattice parameter versus film composition. The highest relative deviations were found at low InN mole fractions, while the largest absolute deviation was found at x = 0.63. This shows that Vegards rule is not directly applicable to determine the compositions in the wurtzite Al1xInxN system.
+
+aluminium compounds
+indium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+sputter deposition
+semiconductor growth
+Rutherford backscattering
+X-ray diffraction
+lattice constants

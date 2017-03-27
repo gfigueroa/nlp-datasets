@@ -1,0 +1,7 @@
+A method for detection of wood defects based on ANN was studied in this paper. Because the intensity of X-ray that crosses the object changes, defects in wood were detected by the difference of X-ray absorption parameter, then computer was used to process and analyze the image. On the basis of image processing of nondestructive testing and characteristic construction, mathematic model of defects was established by using characteristic parameters. According to signal characters of nondestructive testing, artificial neural networks were set up. Meanwhile, adopt BP networks model to recognize all characteristic parameters, which reflected characters of wood defects. BP networks used coefficient matrix of each unit, including input layer, intermediate layer (concealed layer) and output layer, to get the model of input vector and finish networks recognition through the networks learning. The test results show that the method is very successful for detection and classification of wood defects.
+
+Artificial neural networks
+Classification
+Image processing
+Nondestructive testing
+Wood defects

@@ -1,0 +1,12 @@
+ZnSxSe1x/ZnSe quantum wells (QW) with and without growth interruption at the interface were grown using atmospheric pressure metalorganic vaporphase epitaxy. It has been shown that growth interruptions have a major influence on the optical properties of the QW. An interruption of growth in ternary ZnSSe layers causes a quasiQW photoluminescence (PL), explained by sulfur depletion of the layer. A stabilization is necessary to avoid a quasiQW. Highquality ZnSSe/ZnSe QWs were achieved by suitable stabilization with H2S and DESe during the growth interruption at the interface, so a sulfur diffusion out of the barrier can be avoided. The QW thicknesses grown under these conditions were in agreement with the nominal well thicknesses, and for stabilized 1nm QWs we obtain a PL blueshift of 158 meV for x=0.68 and 60 meV for x=0.4 compared to the ZnSe bandedge emission. Characteristic QWPL transitions at room temperature were observed for unstabilized QW grown with a long interruption time, tp=90 s. The thermal activation energies of the QW excitons investigated by temperaturedependent PL show that with decreasing interruption time an increased binding energy is obtained. The binding energy shows no dependence on the stabilization so that other effects (e.g., interface roughness and sulfur diffusion) may play a role. For QW with a low sulfur content (x=0.4) in the barrier material, we find binding energies which fit to theoretical models. This was not achieved for QWs with x=0.68.
+
+QUANTUM WELLS
+ZINC SULFIDES
+ZINC SELENIDES
+VPE
+TERNARY ALLOYS
+INTERFACES
+PHOTOLUMINESCENCE
+THICKNESS
+TEMPERATURE DEPENDENCE
+BINDING ENERGY

@@ -1,0 +1,18 @@
+An attempt to apply a more stable metallurgical soldering system than the traditionally used Ti/Pt/AuSn reactive system was explored by replacing the barrier metals in between the chemical vapor deposited diamond (CVDD) submount and the AuSn solder with either W or Cr layers. In the case of the W layer a thin layer of Ti was added to improve the adhesion of AuSn solder to the W layer. The CVDD/W(100 nm)/Ti(10 nm)/AuSn(1.52.2 ¼m) system was heat treated at 350	°C for durations of 5 s5 min, simulating a bonding cycle, and the metallurgical interactions were analyzed. Some diffusion of the Ti was observed, but the W layer remained intact. Thus, due to the absence of interaction between the Sn or Au and the W barrier layer, the Au:Sn ratio was kept uniform for long duration heating (s2 min). The AuSn solder tends to ball up in local spots leading to the formation of local voids in the continuous solder layer over the W. In the case of the CVDD/Ti (100 nm)/Cr(200 nm)/AuSn(1.52.2 ¼m) structure a minimum interaction between the AuSn solder and the barrier was observed through a heating cycle at 350	°C for 5 min. This heat treatment, however, led to solder surface roughness in the order of about 5000 Å between bump peak and valley, but the Au:Sn composition remained in the eutectic ratio of 70:30 at.	%. Both soldering metallurgical systems gave a potential good bonding of InP laser diodes to CVDD heat sinks.
+
+DIAMONDS
+DIFFUSION BARRIERS
+GOLD ALLOYS
+TIN ALLOYS
+TUNGSTEN
+CHROMIUM
+METALLURGICAL EFFECTS
+ADHESION
+THIN FILMS
+HEAT TREATMENTS
+SOLDERING
+TITANIUM
+LASER DIODES
+INDIUM PHOSPHIDES
+LASER DIODES
+HEAT SINKS

@@ -1,0 +1,8 @@
+This article describes the low-frequency noise characteristics of various buried-channel metal-oxide-semiconductor field-effect transistors. Experimental results show that their are peculiar behaviors in Hooge parameter. However, the original mobility-based model for the Hooge parameter is shown to provide partial understanding of the experimental results on the basis of a phenomenological consideration. It is also observed that, in contrast to previous theories, the interpretation of some aspects of the Hooge parameter strongly depends on how the two fluctuation modes, the carrier-density fluctuation and the mobility fluctuation, correlate. The proposed model gives a fundamental physical basis that allows aspects of the Hooge parameter to be interpreted. The gate voltage dependence of the Hooge parameter can be explained reasonably well by introducing the correlation of the mobility fluctuation and the carrier density fluctuation. Regarding the drain voltage dependence of the Hooge parameter, however, the present model for the Hooge parameter needs further modification. © 2002 American Institute of Physics. 
+
+1/f noise
+MOSFET
+carrier density
+current fluctuations
+semiconductor device models
+carrier mobility

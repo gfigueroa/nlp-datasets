@@ -1,0 +1,7 @@
+We report progress toward a MEMS gyroscope suitable for northfinding in pointing and targeting applications. In-run bias stability of 0.03 deg/hr and ARW of 0.002 deg/rt(hr) have been achieved. Gyro performance was measured on tuning-fork type MEMS gyroscopes using DSP-based breadboard electronics. These bias stability and ARW results are within about 6X and 2X, respectively, of meeting the typical gyrocompass requirements for pointing and targeting applications (1 milliradian azimuth precision at 65 degrees latitude with 5 minute integration time). A MEMS gyrocompass meeting these requirements would substantially reduce the size, weight and power of pointing and targeting instruments. The test methodology will be presented, as well as test data on carouseling the sensor to reduce the effects of long-term bias drift.
+
+MEMS gyroscope
+bias compensation
+carouseling
+gyrocompass
+northfinding

@@ -1,0 +1,15 @@
+In analogy to Rayleighs law in magnetism a Rayleigh law of plastic deformation is defined to explain the amplitude dependent internal friction and the modulus defect in materials with high solute concentrations. The forces opposing dislocation motion in a solid solution crystal with high solute concentrations are described with the help of random functions. Using this statistical treatment it is possible to calculate the parameters of Rayleighs law of plastic deformation and explain quantitatively the amplitude and concentration dependence of the internal friction and modulus defect in alpha brass.
+
+brass
+internal friction
+crystals
+dislocations
+motion
+hysteresis
+deformation
+solutions
+quantity ratio
+randomness
+mathematical models
+parametric analysis
+solid solutions

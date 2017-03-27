@@ -1,0 +1,18 @@
+A one-dimensional heat conduction model is developed for a phase change random access memory device with an 8F2 memory cell structure (F=0.15	¼m). The required current level for a reset operation, which corresponds to the phase switching from a crystalline (1 state) to an amorphous phase (0 state) of Ge2Sb2Te5, was investigated by calculating one-dimensional temperature profiles for the memory cell structure. It is revealed that a reset operation is not achieved at the current level (2 mA) reported for existing devices with a subquarter micron plug size when only TiN is used as a resistive heater. However, it is possible when an additional heating layer of 5 nm thickness is inserted between the TiN and Ge2Sb2Te5 layers, for which the electrical resistivity Áelec is higher than 105	¼©
+cm, and the thermal conductivity º and specific heat c are as low as those of Ge2Sb2Te5. In addition, it is shown that a reset operation at a low current level of 1 mA can be realized in this memory cell when amorphous carbon (º=0.2	W/m
+K and Áelec=106	¼©
+cm) is used as an additional heating layer. It is believed that this relatively simple one-dimensional heat conduction model is a useful tool for analyzing the device operation of phase change random access memory devices and for selecting the proper conditions for an additional heating layer allowing for low-current operation. © 2003 American Institute of Physics. 
+
+germanium compounds
+antimony compounds
+tellurium compounds
+chalcogenide glasses
+heat conduction
+electrical resistivity
+thermal conductivity
+specific heat
+random-access storage
+semiconductor storage
+amorphisation
+electrical conductivity transitions
+semiconductor device models

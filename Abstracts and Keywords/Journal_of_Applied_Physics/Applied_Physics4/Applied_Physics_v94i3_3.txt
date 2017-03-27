@@ -1,0 +1,8 @@
+Carbon and carbon nitride films have been deposited by ArF excimer laser ablation of identical graphite targets in the same system, in argon and nitrogen atmospheres, respectively. Based on the comparative analysis of apparent growth rates, deposition rates of the constituting elements and mass densities, a consistent description of film formation in the 105200	Pa pressure domain is presented. The results reveal that the formation, composition, and microstructure of carbon and carbon nitride films fabricated in this process window are governed by gas phase processes. Below 5 Pa the film building blocks are mainly atoms and molecules resulting in compact, dense films. At higher pressures increasing contribution of clusters to film growth leads to films of increasing porosity ready to trap (mainly water) molecules from the surrounding atmosphere. © 2003 American Institute of Physics. 
+
+high-pressure effects
+pulsed laser deposition
+density
+porosity
+carbon
+carbon compounds

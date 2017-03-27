@@ -1,0 +1,7 @@
+Theoretical analysis of the evolution of nonequilibrium plasma induced by ultraviolet laser radiation is carried out. Intensity threshold values are studied by mathematical modeling as a function of laser-pulse wavelength. Basic mechanisms of nonequilibrium ionization of aluminum vapor are analyzed and the dominant role of photo-processes, namely, resonant and nonresonant photoexcitation and photoionization, is shown. The modeling results are in good agreement with experimental data on optical breakdown in aluminum vapor by the excimer laser radiation in nanosecond and microsecond range. © 2003 American Institute of Physics. 
+
+aluminium
+electric breakdown
+plasma production by laser
+photoexcitation
+photoionisation

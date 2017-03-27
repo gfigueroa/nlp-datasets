@@ -1,0 +1,7 @@
+Electromagnetic forming (EMF) is a forming process that relies on the inductive electromagnetic force to deform metallic workpiece at high speed. Calculation of the electromagnetic force is essential to understand the EMF process. However, accurate calculation requires complex numerical solution, in which the coupling between the electromagnetic process and the deformation of workpiece needs be considered. In this paper, an appropriate formula has been developed to calculate the electromagnetic force in metal work-piece in the sheet EMF process. The effects of the geometric size of coil, the material properties, and the parameters of discharge circuit on electromagnetic force are taken into consideration. Through the formula, the electromagnetic force at different time and in different positions of the workpiece can be predicted. The calculated electromagnetic force and magnetic field are in good agreement with the numerical and experimental results. The accurate prediction of the electromagnetic force provides an insight into the physical process of the EMF and a powerful tool to design optimum EMF systems.
+
+deformation
+electroforming
+electromagnetic forces
+sheet materials
+sheet metal processing

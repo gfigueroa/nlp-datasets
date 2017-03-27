@@ -1,0 +1,14 @@
+Magnetic and magnetoresistance (MR) properties of spin valves composed of Co/Cu/Co/iron oxide layer were studied using epitaxial Fe3O4 (110) grown on MgO (110) as the pinning layer. It was confirmed from the in-plane magnetization curves that the epitaxial Fe3O4 (110) films have the easy axes along the 110	 direction and the hard axes along the 001	 direction. The spin valves composed of Co/Cu/Co/Fe3O4 (110) showed quite different MR curves depending upon the direction of the magnetic field applied in the plane of Fe3O4 (110). Butterflylike MR curves, which imply the difference in the coercive fields between the top and bottom Co layers, were observed when the field was applied along the 001	 direction of Fe3O4. On the other hand, flat MR curves, which implied the difference of the saturation fields between top and bottom Co, were observed when the field was applied along the 110	 direction of Fe3O4. The magnetization easy axis of Co layers might be perpendicular to that of Fe3O4. These magnetic and MR properties could be explained by assuming the 90° coupling between the bottom Co and the Fe3O4 layers, and the ferromagnetic coupling (so-called Néel-type coupling) between the top and bottom Co layers.
+
+iron compounds
+cobalt
+copper
+ferromagnetic materials
+spin valves
+magnetic epitaxial layers
+magnetoresistance
+magnetic multilayers
+vapour phase epitaxial growth
+sputter deposition
+crystal orientation
+coercive force

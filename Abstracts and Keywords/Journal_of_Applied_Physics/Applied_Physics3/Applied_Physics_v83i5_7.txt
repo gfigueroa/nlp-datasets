@@ -1,0 +1,11 @@
+We report measurements of microwave loss in micron-size powders of the manganites La0.7Ba0.3MnO3 and La0.7Sr0.3MnO3, as functions of temperature and magnetic field. At zero field, the loss increases rapidly as the temperature is lowered below a frequency-dependent temperature T. The more exciting observation is that at, 295 K, the loss drops by nearly 80% in an applied field of 600 Oe. Using this effect, a magnetic tape was manufactured. © 1998 American Institute of Physics. 
+
+lanthanum compounds
+barium compounds
+strontium compounds
+ferromagnetic materials
+giant magnetoresistance
+magnetic particles
+magnetic tapes
+magnetic leakage
+high-frequency effects

@@ -1,0 +1,9 @@
+Theories of dielectric breakdown in insulating films normally assume that dielectric breakdown depends on the electric field in the sample; that is, the thicker the film the higher the breakdown voltage. Contrary to theoretical expectations, voltage-dependent dielectric breakdown is observed in AlAl2O3Au diodes where Al2O3 is made by anodizing in different electrolytes. The breakdown voltage is <4.5 V, independent of Al2O3 thickness and anodizing electrolyte. Voltage-controlled negative resistance (VCNR) develops in the currentvoltage (IV) characteristics of AlAl2O3Au diodes after voltage-dependent breakdown. Electron emission into vacuum accompanies the formation of VCNR in the IV characteristics. Detailed studies of the development of VCNR show that the maximum current, the voltage for maximum current, and the voltage threshold for electron emission depend on the maximum voltage applied to the sample. A large current increase occurs for maximum applied voltage between 5 and 7 V. A fully developed VCNR characteristic has an ohmic contact suggesting that the development of an ohmic contact at a metalinsulator interface initiates breakdown. © 2000 American Institute of Physics. 
+
+aluminium
+gold
+alumina
+semiconductor device breakdown
+MIM devices
+negative resistance devices
+tunnel diodes

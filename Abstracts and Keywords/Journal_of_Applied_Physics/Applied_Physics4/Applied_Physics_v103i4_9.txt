@@ -1,0 +1,16 @@
+Ni doping Ti0.5Zr0.25Hf0.25Co1xNixSb (x = 00.05) half-Heusler compounds have been fabricated by combining high-frequency induction melting with spark plasma sintering technique, and their thermoelectric transport properties have been investigated in the temperature range of 300900K. With the increase of Ni doping content, the electrical conductivity increases significantly, and withal the Seebeck coefficient of all doped samples improve to some extent compared with the undoped Ti0.5Zr0.25Hf0.25CoSb compound. These lead to a great improvement in the power factor, and the highest power factor of 1.63×103W	m1	K1 is obtained at 715K for Ti0.5Zr0.25Hf0.25Co0.95Ni0.05Sb compound. Furthermore, thermal conductivity of Ti0.5Zr0.25Hf0.25Co1xNixSb compounds decrease remarkably due to Zr and Hf substitutions on Ti site and Ni doping on Co site. Compared with ternary TiCoSb compound, the thermal conductivity of Ti0.5Zr0.25Hf0.25Co1xNixSb compound decreases 415%430% at room temperature, and compared with undoped Ti0.5Zr0.25Hf0.25CoSb compound, the thermal conductivity of Ti0.5Zr0.25Hf0.25Co0.95Ni0.05Sb decreases 34% at 300K and 21% at 900K, respectively. A maximum dimensionless figure of merit ZT of 0.51 has been achieved for Ti0.5Zr0.25Hf0.25Co0.95Ni0.05Sb compound at 813K.
+
+antimony alloys
+cobalt alloys
+doping
+electrical conductivity
+hafnium alloys
+melt processing
+nickel alloys
+plasma materials processing
+power factor
+Seebeck effect
+sintering
+thermal conductivity
+titanium alloys
+zirconium alloys

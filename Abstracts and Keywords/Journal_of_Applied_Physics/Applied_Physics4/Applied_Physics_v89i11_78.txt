@@ -1,0 +1,8 @@
+It is of interest to determine the characteristic length scale that determines giant magnetoresistance (GMR). In order to understand this behavior, GMR multilayers of Co/Ru and Co/Cu have been studied at a temperature of 4.2 K. The total thickness of Co/Ru multilayers has been varied from 96 to 1654 Å and Co/Cu from 77 to 2712 Å by increasing the number of bilayers (N). It has been observed that GMR increases with the number of bilayers and more than 20 bilayers for Co/Ru and 50 for Co/Cu are needed to reach the saturation value. © 2001 American Institute of Physics. 
+
+cobalt
+ruthenium
+copper
+magnetic multilayers
+giant magnetoresistance
+ferromagnetic materials

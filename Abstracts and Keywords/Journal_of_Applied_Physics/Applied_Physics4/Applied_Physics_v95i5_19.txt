@@ -1,0 +1,13 @@
+The growth of thin silicon oxides cannot be completely described by the Deal-Grove-Model [B. E. Deal, A. S. Grove, J. Appl. Phys. 36, 3770 (1965)]. Analysis of 2.3 nm rapid thermal processing (RTP) silicon oxides SiO2 showed that it is necessary to consider not only the reaction of oxygen O2 and silicon Si at the Si/SiO2 interface but also the transport of silicon to the surface. According to process conditions the latter can cause SiO2 growth as well as desorption. Using well defined process parameters (temperature and gas ambient) in a RTP system the process can thus be switched between oxide growth and removal. The object of this article is to present a model which explains the above mentioned results by taking into account both reactions at the Si/SiO2 interface as well as at the SiO2/gasinterface. On the basis of this model the oxide quality can be optimized with respect to interface quality and tunneling currents, and it is possible to develop an in-situ cleaning process in pure argon prior to oxidation. © 2004 American Institute of Physics. 
+
+silicon
+silicon compounds
+dielectric thin films
+interface structure
+rapid thermal processing
+desorption
+cleaning
+oxidation
+surface cleaning
+semiconductor-insulator boundaries
+elemental semiconductors

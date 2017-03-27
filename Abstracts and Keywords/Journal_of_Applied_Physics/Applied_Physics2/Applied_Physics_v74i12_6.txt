@@ -1,0 +1,17 @@
+Manybody effects in Cu 2p xray photoemission of Bi2Sr2CaxCu1+xO6+2x (x=0,1,2), La2xSrxCuO4 (x=0,0.13), and ErBa2Cu3O7x,y (x&lt;y) were observed and correlations between the manybody effects and highTc superconductivity of cuprate superconductors were reviewed. For the Bi2Sr2CaxCu1+xO6+2x (x=0,1,2) and La2xSrxCuO4 (x=0,0.13) systems, proper highTc superconductivity was realized by increasing the transfer integral and the interaction strength of the CuO bond of the crystal determined the superconducting properties. However, for the ErBa2Cu3O7x and YBa2Cu3O7x systems, 90 K superconductivity was realized by increasing the charge transfer energy. The extended valence state including the Cu, Ba, and O valence states in the crystal determined the superconducting properties of the ErBa2Cu3O7x and YBa2Cu3O7x systems.
+
+HIGHTC SUPERCONDUCTORS
+FILMS
+PHOTOEMISSION
+X RADIATION
+CUPRATES
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+LANTHANUM OXIDES
+ERBIUM OXIDES
+MULTIELEMENT COMPOUNDS
+VALENCE

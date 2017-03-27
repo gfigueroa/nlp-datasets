@@ -1,0 +1,10 @@
+A thorough examination of all our experimental data revealed that the two additional photopeaks in question do not originate from indeterminate stray AlK± radiation as suggested by Lichtensteiger and Webb, but are due to sulphuroxygen species formed on the surface of CdS thick films.
+
+cadmium sulfides
+xray spectroscopy
+photoelectron spectroscopy
+oxygen
+chemisorption
+thickness
+films
+photoconductors

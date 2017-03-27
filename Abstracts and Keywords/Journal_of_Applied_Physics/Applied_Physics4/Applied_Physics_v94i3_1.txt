@@ -1,0 +1,7 @@
+The stopping powers of polycarbonate for protons of energy 0.65.9 MeV and ± particles of energy 2.024.0 MeV have been measured in a transmission experiment employing thin-foil targets. The essence of the novel experimental method employed in the present measurements is to record both projectile energy and time of flight while constantly alternating measurements with and without the target foil in place. The accuracies of the proton data and ±-particle data range from 2.0% to 3.0% and 2.2% to 2.7%, respectively. All of the resulting measurements were analyzed in terms of modified BetheBloch theory in order to extract values of the target mean excitation energy (I) and Barkas-effect parameter (b). The composite results for the two projectiles are that I=71.52	eV and b=1.13, the former value lying about one standard deviation below the additivity value and the latter value lying about one standard deviation below the expected value of 1.4±0.1. Previous measurements of the stopping power of polycarbonate for 7Li ions were analyzed by the same method, but with the inclusion of an effective charge parameter (»). The proton and ±-particle data, with a few lower-energy points included, were analyzed for a three-parameter fit, also. Results for the three projectiles studied indicate both internal consistency and agreement with expectations based on modified BetheBloch theory. © 2003 American Institute of Physics. 
+
+polymer films
+foils
+energy loss of particles
+proton effects
+alpha-particle effects

@@ -1,0 +1,13 @@
+We investigate the optical and electrical properties of a series of InAs/GaSb superlattices (SLs) as a function of InAs layer width d, from 21 to 55 Å, with a fixed GaSb layer width of 24 Å, corresponding to SLs with the cutoff wavelengths between 4 and 19¼m. Since the higher electron mass in InAs/GaSb SLs than in mercury cadmium telluride should lead to lower photodiode tunneling currents, we also measured the cyclotron effective mass for a very long wavelength infrared design SLs. For d&lt;40Å, the SLs were p-type, with hole mobilities of approximately 8	000cm2/V	s. For a high mobility p-type sample no hole cyclotron resonance signal was detected. However, the SLs with d e 40Å were n-type, with electron mobilities increasing from 865 to 6126cm2/V	s. Cyclotron resonance data on an n-type SL sample yielded an electron cyclotron mass of 0.068m0, which is three times the InAs bulk value of 0.023m0. The mass enhancement was only partially accounted for by conduction band nonparabolicity, based on our 8×8 envelope function calculation.
+
+conduction bands
+cyclotron resonance
+electron mobility
+gallium compounds
+hole mobility
+III-V semiconductors
+indium compounds
+magneto-optical effects
+photodiodes
+semiconductor superlattices
+tunnelling

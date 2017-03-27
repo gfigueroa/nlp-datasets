@@ -1,0 +1,11 @@
+Thin films of nickel phthalocyanine (NiPc) are deposited on an as-received and on a mildly sputtered PEDOT:PSS film, spin coated on fluorine tin oxide coated glass. The electronic properties of the PEDOT:PSS surface, both as loaded and upon thermal treatment and sputtering, as well as of the interfaces between NiPc and PEDOT:PSS are studied by x-ray and UV photoelectron spectroscopies in order to investigate both the electronic and the chemical properties of the materials. Surface analysis of the PEDOT:PSS films showed that upon sputtering the insulating PSS film is removed leading to lower work function, as well as to an increase of the density of occupied states close to the Fermi level. The investigation of the interfaces between NiPc and PEDOT:PSS revealed charge transfer and a pinning of the Fermi level across the interface. The hole injection barrier was found significantly lower compared with that for the NiPc/Au interface, indicating that the presence of the PEDOT:PSS layer facilitates the carrier injection between the electrode and the organic semiconductor.
+
+charge injection
+Fermi level
+heat treatment
+nickel compounds
+organic semiconductors
+semiconductor thin films
+sputter deposition
+ultraviolet photoelectron spectra
+X-ray photoelectron spectra

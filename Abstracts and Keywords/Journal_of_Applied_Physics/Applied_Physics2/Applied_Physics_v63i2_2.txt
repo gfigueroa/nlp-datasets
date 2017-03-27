@@ -1,0 +1,7 @@
+Xray spectra in the 515 Å spectral region are presented for various elements with atomic numbers between 9 and 82. Plasma was produced by irradiating plane targets with 1J, 800ps frequencydoubled Nd:glass laser pulses at »=527 nm. The characteristics of the spectra can be varied from pronounced K and Lshell line emitters (F to As) to nearly continuous x radiators such as W or Au.
+
+ELEMENTS
+XRAY SPECTRA
+LASERPRODUCED PLASMA
+FOILS
+NEODYMIUM LASERS

@@ -1,0 +1,5 @@
+We present an overview of the challenges and practices of thermoelectric metrology on bulk materials at high temperature (300 to 1300 K). The Seebeck coefficient, when combined with thermal and electrical conductivity, is an essential property measurement for evaluating the potential performance of novel thermoelectric materials. However, there is some question as to which measurement technique(s) provides the most accurate determination of the Seebeck coefficient at high temperature. This has led to the implementation of nonideal practices that have further complicated the confirmation of reported high ZT materials. To ensure meaningful interlaboratory comparison of data, thermoelectric measurements must be reliable, accurate, and consistent. This article will summarize and compare the relevant measurement techniques and apparatus designs required to effectively manage uncertainty, while also providing a reference resource of previous advances in high temperature thermoelectric metrology.
+
+electric variables measurement
+high-temperature techniques
+Seebeck effect

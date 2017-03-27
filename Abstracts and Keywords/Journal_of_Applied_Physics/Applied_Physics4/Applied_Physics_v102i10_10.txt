@@ -1,0 +1,10 @@
+The spin dynamics of sub-100-nm Ni80Fe20 nanomagnets are directly measured using the magneto-optic Kerr effect and a broadband detection scheme. Elliptical dots approximately 68nm in diameter and 10nm thick were fabricated in 20×20¼m2 arrays. There is approximately a factor of 2 increase in the effective linewidth when compared to a 20¼m diameter continuous disk of the same material. Using micromagnetic simulations, we model the effect of dot-to-dot size variation on the effective linewidth and find that 2nm size variations are more than sufficient to account for the effective increase in linewidth.
+
+damping
+ferromagnetic materials
+iron alloys
+Kerr magneto-optical effect
+micromagnetics
+nanostructured materials
+nickel alloys
+spin dynamics

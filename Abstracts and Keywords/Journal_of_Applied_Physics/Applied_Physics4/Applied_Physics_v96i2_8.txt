@@ -1,0 +1,11 @@
+The transient behavior of persistent photoconductivity (PPC) in unintentionally doped GaN has been investigated for different excitation intensities and at different temperatures. The observed PPC buildup behavior can be described by a sum of two exponential functions with a long and a short time constant, which are attributed separately to the contributions of an electron trap and a hole trap, respectively. The concentrations of the electron trap and hole trap at 300 K are 1.6×1015 and 2.6×1015	cm3, with a thermal activation energy level of 195.5 and 111.6 meV, respectively. Temperature dependence of the PPC buildup processes indicates that from 340 K down to about 240 K the rate parameters associated with the PPC buildup are dominated by the thermally activated capture mechanisms of defects. In contrast they are nearly independent of temperature below 240 K. © 2004 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+electrical conductivity
+defect states
+hole traps
+photoconductivity
+electron traps
+semiconductor epitaxial layers

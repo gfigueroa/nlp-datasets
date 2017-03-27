@@ -1,0 +1,11 @@
+The thickness dependencies and depth distributions of hydrogen and intrinsic mechanical stress are studied for a-Si:H films prepared with 10% silane in hydrogen. Nuclear reaction analysis has been used to establish the total concentration of the incorporated hydrogen. It has been shown that the hydrogen distribution in the films is uniform and does not depend on the film thickness. On the contrary, the intrinsic stress depends on the film thickness and has a nonuniform depth distribution, as the stress increase linearly in the direction from the substrate/film interface to the film surface. The obtained results are discussed in view of the hydrogen-related processes and structural improvement of the silicon network during the film growth. © 2001 American Institute of Physics. 
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+plasma CVD
+semiconductor growth
+impurity distribution
+nuclear chemical analysis
+internal stresses

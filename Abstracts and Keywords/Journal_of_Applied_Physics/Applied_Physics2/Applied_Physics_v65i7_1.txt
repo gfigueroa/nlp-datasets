@@ -1,0 +1,13 @@
+The inverse ac Josephson effect occurs when a Josephson junction driven by a microwave source of frequency 	f	 produces constantvoltage steps at integer multiples of hf/2e. For lowleakage current hysteretic junctions driven at microwave frequencies below about 100 GHz, some of these steps can cross the zero dc bias current axis. These zerocrossing steps allow modern series array voltage standards to operate without individually biasing the junctions in the array. We reexamine the theory behind these steps and show that they can exist at frequencies much higher than thought previously. The Riedel singularity in the supercurrent response allows this effect to exist even up to terahertz frequencies. We describe a set of analytical calculations which provide limits on the amount of rounding of the Riedel peak which can be permitted while still allowing these zerocrossing steps to occur. We also discuss practical considerations such as microwave power levels required and parameters for device fabrication. This analysis is supported by numerical frequencydomain computations and timedomain simulations for a number of realistic IV curves with rounded Riedel singularities and with quasiparticle subgap leakage currents.
+
+INVERSE PROBLEMS
+IV CHARACTERISTIC
+JOSEPHSON JUNCTIONS
+GHZ RANGE 1001000
+HYSTERESIS
+ANALYTICAL SOLUTION
+NUMERICAL SOLUTION
+SIMULATION
+QUASI PARTICLES
+EQUATIONS OF MOTION
+LEAKAGE CURRENT

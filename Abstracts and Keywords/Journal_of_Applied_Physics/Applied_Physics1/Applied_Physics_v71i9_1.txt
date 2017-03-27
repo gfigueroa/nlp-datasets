@@ -1,0 +1,13 @@
+Compositionally graded films of SiGe/Si(100) and GaInAs/GaAs were grown under different conditions in order to investigate the different modes of strain relaxation associated with the compositional grading. We show that, when the growth conditions are very clean and the gradient is shallow enough (about 1% misfit per half micron), very good, relaxed films are obtained. This coincides with the introduction of large numbers of dislocations in the substrate itself, which is counterintuitive at first since the substrate is under negligible strain. We show that this introduction of dislocations is the result of the activation of novel FrankReadlike sources located in the graded region, and is directly correlated to the lack of other low energy nucleation sites for dislocations. We detail the conditions of growth necessary for this phenomenon to occur, and show that it operates both for the SiGe/Si system and the GaInAs/GaAs system. Pure, relaxed Ge films have been grown in this manner on Si(100), with a defect density as low as 106/cm2.
+
+THIN FILMS
+SUPERLATTICES
+STRAINS
+ANOMALOUS PROPERTIES
+GERMANIUM SILICIDES
+SILICON
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+QUASIBINARY COMPOUNDS
+RELAXATION
+DISLOCATIONS

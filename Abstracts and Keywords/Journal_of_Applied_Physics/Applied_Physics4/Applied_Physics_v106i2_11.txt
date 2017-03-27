@@ -1,0 +1,11 @@
+A full potential linear augmented plane wave method within the density functional theory is used to calculate the electronic and optical properties of layered compounds of LaCuOCh (Ch = S, Se, Te) and their alloys LaCuOCh0.5Ch0.52(Ch, Ch2 = S, Se, Te). These compounds are found to be direct band gap semiconductors and may have a high p-type electrical conductivity, which can be tuned by proper alloying. The dielectric functions and optical constantsrefractive index, absorption coefficient, and real part of optical conductivity of these materialsare calculated. The present study shows by changing the chalcogenides in the alternate covalent CuCh layers that one can control the electrical conductivity and optical emission in these oxychalcogenide semiconductors.
+
+ab initio calculations
+absorption coefficients
+chalcogenide glasses
+copper compounds
+density functional theory
+dielectric function
+electrical conductivity
+lanthanum compounds
+refractive index

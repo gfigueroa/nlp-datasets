@@ -1,0 +1,9 @@
+A comprehensive decontamination scheme of the chemical and biological agents, including airborne agents and surface contaminating agents, is presented. When a chemical and biological attack occurs, it is critical to decontaminate facilities or equipments to an acceptable level in a very short time. The plasma flame presented here may provide a rapid and effective elimination of toxic substances in the interior air in isolated spaces. As an example, a reaction chamber, with the dimensions of a 22cm diameter and 30cm length, purifies air with an airflow rate of 5000l/min contaminated with toluene, the simulated chemical agent, and soot from a diesel engine, the simulated aerosol for biological agents. Although the airborne agents in an isolated space are eliminated to an acceptable level by the plasma flame, the decontamination of the chemical and biological agents cannot be completed without cleaning surfaces of the facilities. A simulated sterilization study of micro-organisms was carried out using the electrolyzed ozone water. The electrolyzed ozone water very effectively kills endospores of Bacillus atrophaeus (ATCC 9372) within 3min. The electrolyzed ozone water also kills the vegetative micro-organisms, fungi, and virus. The electrolyzed ozone water, after the decontamination process, disintegrates into ordinary water and oxygen without any trace of harmful materials to the environment.
+
+decontamination
+microorganisms
+electrolysis
+plasma applications
+plasma torches
+biohazards
+chemical hazards

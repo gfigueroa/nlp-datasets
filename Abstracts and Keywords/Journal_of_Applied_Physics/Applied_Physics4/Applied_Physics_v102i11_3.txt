@@ -1,0 +1,12 @@
+Heterogeneous granular films consisting of ferromagnetic cobalt particles embedded in a polytetrafluoroethylene polymer matrix were fabricated by the pulsed laser deposition technique carried out with a Nd-doped yttrium aluminum garnet laser at 355nm. The samples exhibit a magnetoresistance (MR) change of 4% (at 8kOe) at room temperature. An enhancement of MR to a value of 6% was observed at 20K which is attributed to the increasing order of magnetic moments in the ferromagnetic state at low temperature. Significant loop opening of the MR profile at low temperature and the temperature dependence of MR reveal the interplay of superparamagnetic relaxation behavior and spin-dependent electron tunneling.
+
+cobalt
+enhanced magnetoresistance
+ferromagnetic materials
+filled polymers
+granular materials
+magnetic moments
+magnetic relaxation
+pulsed laser deposition
+thin films
+tunnelling

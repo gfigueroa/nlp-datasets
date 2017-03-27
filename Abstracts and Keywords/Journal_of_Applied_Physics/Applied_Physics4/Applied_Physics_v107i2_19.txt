@@ -1,0 +1,8 @@
+The ultimate sensitivity of any solid state device is limited by fluctuations. Fluctuations are manifestations of the thermal motion of matter and the discreteness of its structure which are also inherent ingredients during the resistive switching process of resistance random access memory (RRAM) devices. In quest for the role of fluctuations in different memory states and to develop resistive switching based nonvolatile memory devices, here we present our study on random telegraph noise (RTN) resistance fluctuations in Cu doped Ge0.3Se0.7 based RRAM cells. The influence of temperature and electric field on the RTN fluctuations is studied on different resistance states of the memory cells to reveal the dynamics of the underlying fluctuators. Our analysis indicates that the observed fluctuations could arise from thermally activated transpositions of Cu ions inside ionic or redox double-site traps triggering fluctuations in the current transport through a filamentary conducting path. Giant RTN fluctuations characterized by relative resistance variations of up to 50% in almost macroscopic samples clearly point to the existence of weak links with small effective cross-sectional areas along the conducting paths. Such large resistance fluctuations can be an important issue for the industrial applications of RRAM devices because they might lead to huge bit-error rates during reading cycles.
+
+copper
+germanium compounds
+random noise
+random-access storage
+semiconductor doping
+switching circuits

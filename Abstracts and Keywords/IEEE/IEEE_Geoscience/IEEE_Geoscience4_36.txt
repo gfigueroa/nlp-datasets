@@ -1,0 +1,9 @@
+Google Earth, as the pioneer of Virtual Globes, is changing the way in which professionals acquire, assess, organize, manage, share, visualize, and utilize three-dimensional geospatial data in a virtual environment for scientific research. Google Earth is also changing how the public interacts with virtual globes to facilitate their daily life. Keyhole Markup Language (KML) is the key technology making this change possible. NASA campaign missions have collected large volumes of vertical profiles of the atmosphere for various experiments and validation of instruments to be loaded on satellites. This paper describes design and implementation of two solutions to visualizing those vertical profiles in Google Earth for facilitating the validation and testing of the instruments. The first is to read and process the scientific data into images by using Interface Description Language (IDL). Then, collaborative design activity (COLLADA) model is used to process and render these images in the form of three dimension. Finally, KML files are produced-the vertical profiles are visualized in the form of vertical curtains in Google Earth. The second way is to read the data values directly from the vertical profiles and use them to produce KML files that visualize the vertical profiles as vertical curtains in Google Earth. The vertical curtain is composed of a large number of small rectangles. The first way produces a high-resolution curtain quickly, but the positions of the vertical curtain in Google Earth are not accurate. For the second way, the positions of the vertical curtain can be very accurate in Google Earth, but the resolution is low and the speed is slow. Examples are given for both solutions.
+
+Atmosphere
+COLLADA
+Campaign Mission
+Google Earth
+KML
+KMZ
+Vertical Profile

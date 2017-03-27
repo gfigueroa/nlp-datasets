@@ -1,0 +1,11 @@
+We report on the determination of the dielectric function of a Ge dot layer obtained by epitaxial growth on Si(001) in the presence of Sb as surfactant and capped by Si. After growth, spectroscopic ellipsometry reveals a SiGe alloy containing Ge rich regions. After etching the Si cap, the dielectric function of the Ge rich regions exhibits critical points located at 2.92, 3.65, and 4.25 eV. It is shown that this dielectric function does not correspond either to an alloy or to bulk Ge, and is affected by confinement. © 2003 American Institute of Physics. 
+
+germanium
+semiconductor quantum dots
+ellipsometry
+elemental semiconductors
+visible spectra
+ultraviolet spectra
+dielectric function
+molecular beam epitaxial growth
+chemical interdiffusion

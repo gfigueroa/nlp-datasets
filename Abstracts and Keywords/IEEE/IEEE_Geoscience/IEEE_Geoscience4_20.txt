@@ -1,0 +1,6 @@
+In order to improve the effect of bamboo-based activated carbons (BAC)on chromium(VI) reduction, this paper used nitric acid to modify BAC, and investigated the absorption mechanism of Cr(VI) by modified BAC. In this experiment, Bamboo-based activated carbon was modified by nitric acid at four different concentrations. After modification, the surface properties were determined by SEM, QUANTACHROME and FTIR, then the excellent one was selected and the absorption experiment was carried out to analyze the mechanism of absorption of Cr(VI). The results are threefold. First, the microporous structures and surface chemical properties of BACs modified by surface acidic oxides change differently, while the excellent one was modified by nitric acid at 3.0mol/L concentration; second, the hydration of modified BACs and Cr(VI) depend on the values of pH in aqueous solutions; third, the reaction between the chromate species and the functional groups at the surface of BACs depends on hydrogen bonds.
+
+absorption mechanism
+bamboo-based activated carbon
+chromium(VI)
+modification

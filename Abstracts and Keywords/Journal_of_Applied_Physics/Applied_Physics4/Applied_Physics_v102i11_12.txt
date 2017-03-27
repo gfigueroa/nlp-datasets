@@ -1,0 +1,7 @@
+Metamaterials with isotropic property have been shown to possess novel optical properties such as a negative refractive index that can be used to design a superlens. Recently, it was shown that metamaterials with anisotropic property can translate the high-frequency wave vector k values from evanescence to propagating. However, electromagnetic waves traveling in single-layer anisotropic metamaterial produce diverging waves of different spatial frequency. In this work, it is shown that, using bilayer metamaterials that have complementary anisotropic property, the diverging waves are recombined to produce a subwavelength image, i.e., a superlens device can be designed. The simulation further shows that the design can be achieved using a metal/oxide multilayer, and a resolution of 30 nm can be easily obtained in the optical frequency range.
+
+electromagnetic waves
+lenses
+metamaterials
+physics computing
+refractive index

@@ -1,0 +1,11 @@
+Laser ablation of dental enamel with subpicosecond laser pulses has been studied over the intensity range of (0.11.4)×1014
+W/cm2 using 95 and 150 fs pulses at a pulse repetition rate of 1 kHz. The experimentally determined ablation threshold of 2.2±0.1 J/cm2 was in good agreement with theoretical predictions based on an electrostatic ablation model. The ablation rate increased linearly with the laser fluence for up to 15 times the ablation threshold. The absence of collateral damage was observed using optical and scanning electron microscopy. Pulpal temperature measurements showed an increase of about 10
+°C during the 200 s course of ablation. However, air cooling at a rate of 5 l/min resulted in the intrapulpal temperature being maintained below the pulpal damage threshhold of 5.5
+°C. The material removal rates for subpicosecond precision laser ablation of dental enamel are compared with other techniques. © 2002 American Institute of Physics. 
+
+dentistry
+biothermics
+laser applications in medicine
+laser ablation
+optical microscopy
+scanning electron microscopy

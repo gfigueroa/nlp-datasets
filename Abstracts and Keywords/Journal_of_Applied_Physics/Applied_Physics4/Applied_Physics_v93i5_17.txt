@@ -1,0 +1,11 @@
+We compare the performance of THz photoconductive (PC) emitter antennas fabricated on multienergy arsenic ion implanted GaAs (multi-GaAs:As+) and semi-insulating GaAs. High damage threshold biasing (&gt;60 kV/cm) and large saturation optical-pumping power (<20 mW) for multi-GaAs:As+ based PC antennas are reported. Carrier mobility in the As ion implanted layer of GaAs:As+ was estimated to be about 150 cm2/V/s, which was comparable to that of low temperature GaAs. © 2003 American Institute of Physics. 
+
+gallium arsenide
+submillimetre wave generation
+submillimetre wave antennas
+dipole antennas
+photoconducting devices
+carrier lifetime
+carrier mobility
+ion implantation
+III-V semiconductors

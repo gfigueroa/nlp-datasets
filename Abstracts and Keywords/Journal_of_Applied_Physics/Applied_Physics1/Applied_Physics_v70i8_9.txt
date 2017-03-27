@@ -1,0 +1,12 @@
+A new type of digitizer is proposed, based on the generation of an acoustic pulse reflection in a magnetostrictive delay line (MDL), at a point where a force is applied. A conductor wire C crosses an array of MDL positioned at a distance close to their end and carries a pulsed current. The measuring portion of the delay lines is under a flexible mat, so that they are not pressed at any point if no force is applied. The initial acoustic pulse in the line is detected by short coils between C and the end of each line. If a force is applied on the flexible mat above a delay line, the position and the amplitude of the applied force are respectively defined by the delay and the amplitude of the reflected pulse, with respect to the initial one. Experimental results are given for the function of the peak value of the reflected signal with respect to the applied input force under various values of pulsed current and dc bias field, for a 1mmwide and 150cmlong Metglas 2605SC delay line. The resolution of this type of digitizer along the length of the delay line can be 0.1 mm, while in the other dimension it depends on the pitch of the flexible array channels (i.e., on the width of the delay lines) and can be improved by using two arrays of delay lines, orthogonal to each other.
+
+DIGITIZERS
+DESIGN
+OPERATION
+PERFORMANCE
+ACOUSTIC TRANSDUCERS
+DELAY LINES
+MAGNETOSTRICTION
+EQUIPMENT INTERFACES
+REFLECTION
+SPATIAL RESOLUTION

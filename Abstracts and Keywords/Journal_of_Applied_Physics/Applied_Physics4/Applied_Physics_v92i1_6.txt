@@ -1,0 +1,10 @@
+In surface mount technology of electronic packaging, the lead frames are finished with a layer of Pb-free solder. A large number of Sn whiskers are found on the surface of the finish, especially that of eutectic SnCu or pure Sn. The whiskers have a faster growth rate on an eutectic SnCu finish than on a pure Sn finish. Some of the whiskers on SnCu are long enough to short neighboring legs of the lead frame. We report here the study of spontaneous growth of Sn whiskers on these finishes using focused ion beam imaging and transmission electron microscopy. Cross-sectional samples, both normal and parallel to the growth direction of a whisker, were prepared. Precipitates of Cu6Sn5 in the grain boundaries of the finishes have been found. The growth of these grain boundary precipitates, due to the chemical reaction between Cu and Sn at room temperature, provides the driving force for spontaneous Sn whisker growth. Many more of these grain boundary precipitates exist in the SnCu finish than in the pure Sn finish. This is the main reason why Sn whiskers grow faster on the SnCu finish. © 2002 American Institute of Physics. 
+
+tin
+whiskers (crystal)
+surface mount technology
+transmission electron microscopy
+focused ion beam technology
+precipitation
+grain boundaries
+soldering

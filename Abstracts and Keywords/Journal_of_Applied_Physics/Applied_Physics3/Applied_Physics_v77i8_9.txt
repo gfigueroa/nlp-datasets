@@ -1,0 +1,14 @@
+Nickel silicide formation during the annealing of very high dose (e4.5×1017 ions/cm2) Si implanted Ni has been investigated, using ion beam analytical techniques, electron microscopy, and xray diffraction analysis. An initial amorphous SiNi alloy, formed as a result of high dose ion implantation, first crystallized to Ni2Si upon annealing in the temperature region of 200300	°C. This was followed by the formation of Ni5Si2 in the temperature region of 300400	°C and then by Ni3Si at 400600	°C. The Ni3Si layer was found to have an epitaxial relationship with the substrate Ni, which was determined as Ni3Si100	%Ni100	 and Ni3Si110	%Ni110	 for Ni(100) samples. The minimum channeling yield in the 2 MeV He Rutherford backscattering and channeling spectra of this epitaxial layer improved with higher annealing temperatures up to 600	°C, and reached a best value measured at about 8%. However, the epitaxial Ni3Si dissolved after long time annealing at 600	°C or annealing at higher temperatures to liberate soluble Si into the Ni substrate. The epitaxy is attributed to the excellent lattice match between the Ni3Si and the Ni. The annealing behavior follows the predictions of the NiSi phase diagram for this nickelrich binary system. © 1995 American Institute of Physics.
+
+NICKEL
+ION IMPLANTATION
+SILICON IONS
+NICKEL SILICIDES
+ANNEALING
+PHASE DIAGRAMS
+AMORPHIZATION
+CRYSTALLIZATION
+TEM
+XRD
+RBS
+ION CHANNELING

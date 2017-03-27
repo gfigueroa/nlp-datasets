@@ -1,0 +1,10 @@
+A discrete, timedependent energy deposition model is developed and applied to the study of highenergy electronbeam (100 eV10 MeV) deposition in atomic oxygen. Secondary electron distributions are computed and observed to relax to steadystate results. Characteristic relaxation times are shown. The loss function, mean energies per electronion pair production, production efficiencies, and distribution functions are presented for a wide range of energies. The model uses the latest experimental and theoretical cross sections as input.
+
+OXYGEN
+ELECTRON BEAMS
+ENERGY LOSSES
+RELAXATION
+CROSS SECTIONS
+EFFICIENCY
+ELECTRONATOM COLLISIONS
+SECONDARY EMISSION

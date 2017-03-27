@@ -1,0 +1,15 @@
+A zinc oxide (ZnO) varistor subjected to a 60Hz voltage below the characteristic turnon voltage exhibits an increase in the resistive component of current with time. The rate of current increase with time can be increased with an increase in applied voltage and/or temperature. An analysis of current rise with an applied 60Hz voltage stress and current decay with no voltage stress data obtained for ZnO varistors indicates that the current instability phenomena is associated with the diffusion of interstitial zinc in the depletion layer regions adjacent to the ZnOZnO grain boundary.
+
+SEMICONDUCTOR RESISTORS
+INSTABILITY
+ELECTRIC CURRENTS
+ZINC OXIDES
+STRESSES
+HZ RANGE
+TEMPERATURE DEPENDENCE
+DECAY
+DIFFUSION
+INTERSTITIALS
+LAYERS
+GRAIN BOUNDARIES
+DATA

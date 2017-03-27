@@ -1,0 +1,5 @@
+Heart rate variability is a important physiological data that presents information about sympathetic or parasympathetic domination in autonomic nervous system. Sympathovagal balance (SB) can be described as the power rate of low frequency/high frequency. In this study, we have investigated SB on ventricular tachyarrhythmia (VTA) patients and compared with normal data obtained from same patients. In VTA, min value and max value have been determined as 0.1236 and 11.0855. In normal data, SB min value is 0.3640 and SB max value is 6.5239.
+
+Sympathovagal Balance
+Ventricular Tachyarrhythmia
+Wavelet Packet Transform

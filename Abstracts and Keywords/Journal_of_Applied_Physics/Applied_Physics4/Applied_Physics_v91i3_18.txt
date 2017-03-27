@@ -1,0 +1,12 @@
+Excitonic effects are observed in the optical absorption and photoluminescence of strongly confined CdS quantum dots embedded in the polymer Nafion. The three bands identified in the optical absorption spectra could be attributed to 1se-1sh, 1pe-1ph, and 2se-2sh transitions of the noninteracting particle model. Photoluminescence spectra show a strong emission band corresponding to electronhole recombination and a weak band due to emission from defect states. The strength of electronphonon coupling is small in the regime of strong confinement and decreases with decreasing particle size. © 2002 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+semiconductor quantum dots
+filled polymers
+excitons
+photoluminescence
+defect absorption spectra
+electron-hole recombination
+defect states
+electron-phonon interactions

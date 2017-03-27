@@ -1,0 +1,7 @@
+This paper proposes a method to simultaneously estimate the number, pitches, and relative locations of individual speech sources within instantaneous and non-instantaneous linear mixtures containing additive white Gaussian noise. The algorithm makes no assumptions about the number of sources or the number of sensors, and is therefore applicable to over-, under-, and precisely-determined scenarios. The method is hypothesis-based and employs a power-spectrum-based FIR filter derived from probability distributions of speech pitch harmonics. This harmonic windowing function (HWF) dramatically improves time-difference of arrival (TDOA) estimates over standard cross-correlation for low SNR. The pitch estimation component of the algorithm implicitly performs voiced-region detection and does not require prior knowledge about voicing. Cumulative pitch and TDOA estimates from the HWF form the basis for robust source enumeration across a wide range of SNR.
+
+Source enumeration
+linear mixtures
+multi-pitch extraction
+pitch harmonics
+real-time

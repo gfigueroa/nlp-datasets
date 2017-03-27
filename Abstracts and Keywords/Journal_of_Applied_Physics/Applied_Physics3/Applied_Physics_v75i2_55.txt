@@ -1,0 +1,15 @@
+Lightemitting porous silicon films have been obtained by anodic etching ptype Si samples in a HFethanol solution. Porous Si samples efficiently luminesce at room temperature in the visible region. A degradation of the luminescence intensity with time is observed. MicroRaman spectroscopy of freestanding porous silicon layers indicates phonon confinements as well as a strong laser heating effects. The surface chemical composition and the effect of electronbeam irradiation has been investigated through Auger spectroscopy. The Si LVV Auger transition dominates the spectrum, even in aged samples. The Si line shape gives evidence of a covalent bond between the porous Si surface atoms and some adsorbed species. A prolonged electron irradiation results in a strong variation of the surface chemical composition, with an anomalous carbon accumulation. Gold thin films have been deposited on the porous Si surface to form metalsemiconductor junctions. Schottky diodes with large rectifying ratio, ideality factor, and series resistance are obtained. When the junction is forward biased, electroluminescence is observed. Electroluminescence degrades with time while the current does not. When the junction is reverse biased a significant photocurrent is obtained. The results are discussed in the framework of the surface state emission model for the luminescence.
+
+SILICON
+POROSITY
+ELECTROLUMINESCENCE
+SCHOTTKY BARRIER DIODES
+VISIBLE SPECTRA
+DEGRADATION
+RAMAN SPECTRA
+AES
+PHYSICAL RADIATION EFFECTS
+ELECTRON BEAMS
+SURFACE PROPERTIES
+GOLD
+THIN FILMS

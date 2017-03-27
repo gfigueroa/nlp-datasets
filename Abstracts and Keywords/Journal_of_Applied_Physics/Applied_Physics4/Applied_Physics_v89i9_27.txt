@@ -1,0 +1,22 @@
+Grazing incidence x-ray reflectometry has been used to study surface oxidation as a diffusion barrier for Al deposited on ferromagnetic metals (Co, Fe, Ni, and Ni80Fe20). Samples of the form SiO2\10
+nm
+X\4
+nm
+Al with X=(Co,
+Fe,
+Ni,
+and
+Ni80Fe20) were investigated for X\Al intermixing. Surface oxidation was achieved by exposing the ferromagnetic layer to O2 to oxidize the top two or three atomic layers before depositing the Al layer. Specular x-ray scans were used for the analysis. Samples of the form SiO2\10
+nm
+X\4
+nm
+Au were used to separate topographical roughness from intermixing. Surface oxidation was found to suppress the diffusion of Al into Co, Ni, and Ni80Fe20 but not into Fe. © 2001 American Institute of Physics. 
+
+aluminium
+metallic thin films
+oxidation
+diffusion barriers
+X-ray reflection
+chemical interdiffusion
+surface topography
+magnetic thin films

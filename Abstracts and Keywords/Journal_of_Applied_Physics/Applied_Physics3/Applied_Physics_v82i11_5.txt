@@ -1,0 +1,26 @@
+Results are presented on the fabrication and characterization of high critical temperature Josephson junctions in thin films of YBa2Cu3O7´ produced by the process of focused electron-beam irradiation using 350 keV electrons. The junctions so produced have uniform spatial current densities, can be described in terms of the resistive shunted junction model, and their current densities can be tailored for a given operating temperature. The physical properties of the damaged barrier can be described as a superconducting material of either reduced or zero critical temperature (Tc), which has a length of < 15
+nm. The Tc reduction is caused primarily by oxygen Frenkel defects in the CuO planes. The large beam currents used in the fabrication of the junctions mean that the extent of the barrier is limited by the incident electron-beam diameter, rather than by scattering within the film. The properties of the barrier can be calculated using a superconductor/normal/superconductor (SNS) junction model with no boundary resistance. From the SNS model, we can predict the scaling of the critical currentresistance (IcRn) product and gain insight into the factors controlling the junction properties, Tc, and reproducibility. From the measured IcRn scaling data, we can predict the IcRn product of a junction at a given operating temperature with a given current density. IcRn products of < 2
+mV can be achieved at 4.2 K. The reproducibility of several junctions in a number of samples can be characterized by the ratio of the maximum-to-minimum critical currents on the same substrate of less than 1.4. Stability over several months has been demonstrated at room and refrigerator temperatures (297 and 281 K) for junctions that have been initially over damaged and then annealed at temperatures < 380
+K. Junctions manufactured using conventional lithography (0.5 ¼m wide) and which are suitable for digital electronics (Ic = 500
+¼A at 40 K) can achieve IcRn products of 650 ¼V at 40 K. The production of 100 of these stabilized junctions could be accomplished in < 4
+h of irradiation time. The IcRn scaling also indicates that junctions suitable for high sensitivity superconducting quantum interference devices (Ic < 100
+¼A) can be made with IcRn products of < 120
+¼V at 77 K. © 1997 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting junction devices
+electron beam effects
+critical current density (superconductivity)
+superconducting transition temperature
+Frenkel defects
+JOSEPHSON JUNCTIONS
+RADIATION EFFECTS
+ELECTRON BEAMS
+HIGH-TC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+KEV RANGE 100-1000
+CURRENT DENSITY

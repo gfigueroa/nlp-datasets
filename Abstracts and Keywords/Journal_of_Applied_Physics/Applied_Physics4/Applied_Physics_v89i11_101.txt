@@ -1,0 +1,14 @@
+Using a model of atoms randomly distributed on a cubic lattice, we have simulated the atomic disorder induced in quenched binary alloys. Our study has been developed within the framework of a random site-diluted Ising model with nearest-neighbor interactions and used a Monte Carlo algorithm implemented with Metropolis kinetics for sampling states. After equilibration, ensemble and configurational averages for magnetization, magnetic susceptibility, and heat capacity were computed. We conclude that, in agreement with previous experimental Mössbauer data for which a comparison is carried out, FeAl disordered alloys exhibit room-temperature ferromagnetic behavior up to around 43 at.
+% Al, beyond which the system becomes paramagnetic. This result contrasts with that for alloys with atomic order, which exhibit ferromagnetism only up to 30 at.
+% Al. © 2001 American Institute of Physics.
+
+magnetic susceptibility
+magnetisation
+Ising model
+specific heat
+ferromagnetic materials
+paramagnetic materials
+iron alloys
+aluminium alloys
+random processes
+Monte Carlo methods

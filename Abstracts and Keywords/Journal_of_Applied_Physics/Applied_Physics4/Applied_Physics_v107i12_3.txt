@@ -1,0 +1,5 @@
+We have investigated the longitudinal resistivity of two-dimensional (2D) electron gas driven by microwave and magnetic field by using the balance-equation theory. Radiation-induced magnetoresistance oscillations have been reproduced. The period-in-the-inverse-magnetic-field is determined by radiation frequency. This property can be used to design a terahertz detector. The detection is realized by applying a time-varying magnetic field on a 2D electron device and then measuring the difference of longitudinal resistivity with and without radiation. This kind of detector has high sensitivity and high immunity.
+
+magnetoresistance
+terahertz wave detectors
+two-dimensional electron gas

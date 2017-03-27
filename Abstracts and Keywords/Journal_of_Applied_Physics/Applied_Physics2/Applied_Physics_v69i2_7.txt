@@ -1,0 +1,8 @@
+Selective chemical vapor deposition (CVD) of tungsten (W) using tungsten hexafluoride (WF6) and monosilane (SiH4) is investigated by in situ infrared spectroscopy and Auger electron spectroscopy. The infrared spectra show that trifluorosilane (SiHF3) is the main byproduct species, and that silicontetrafluoride (SiF4) is less than 20%25% of SiHF3 in partial pressure. The main chemical reaction involved in selective W CVD can be expressed as WF6+2SiH4’W+2SiHF3+3H2. Based on our experimental results, a new mechanism of selective W CVD, which notes hydrogen dissociation having a central role in this process, is proposed. It disproves the widely accepted model, which is based on the assumption that SiF4 is the major reaction product.
+
+TUNGSTEN
+CHEMICAL VAPOR DEPOSITION
+INFRARED SPECTRA
+AUGER ELECTRON SPECTROSCOPY
+CHEMICAL REACTIONS
+HYDROGEN

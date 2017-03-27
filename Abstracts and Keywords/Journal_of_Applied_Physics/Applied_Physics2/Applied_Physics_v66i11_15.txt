@@ -1,0 +1,12 @@
+We propose a quantitative approach to the longrange potential fluctuation model previously developed in disordered 3D semiconductors. To study how potential modulation modifies the conduction processes in 2D electron gas, metaloxidesemiconductor fieldeffect transistor structures were irradiated through the gate oxide by an electron beam (20keV microfabricator) scanning lines parallel or perpendicular to the drainsource axis. The samples were irradiated at various doses for different periods. Irradiation led to a modulation of the oxide and interface charge, resulting in potential valleys and barriers. A shift in the threshold voltage was measured, which depended on the irradiation dose and also on the direction of the lines. The change in electrical properties (threshold voltage VT, mobility) is simply interpreted by a model based on the existence of a conduction threshold. Thus both the range and magnitude of potential fluctuations are investigated using structures with controllable disorder.
+
+DISORDERED SYSTEMS
+INVERSION LAYERS
+MOSFET
+ELECTRON COLLISIONS
+MODULATION
+POTENTIALS
+GRATINGS
+LAYERS
+PHYSICAL RADIATION EFFECTS
+FLUCTUATIONS

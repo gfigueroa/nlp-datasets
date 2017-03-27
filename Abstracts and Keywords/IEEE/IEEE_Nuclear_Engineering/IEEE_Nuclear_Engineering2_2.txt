@@ -1,0 +1,10 @@
+Since tokamak magnetic fusion research has just made a step forward to an international collaborative project ITER, the existing tokamaks including JT-60 are expected to explore more advanced operation scenarios. To test those scenarios in the JT-60 experiment, the discharge pulse length and the duration time of additional NBI/RF heating were extended to 65 s and 30 s/60 s, respectively, in 2003 with modification of the corresponding control systems for power supplies and heating devices. The experimental campaign in 2003-2004 after the above modifications has ended up with the following significant results: (a) The high bootstrap current ratio of 75 % was sustained for 7.4 s in an R/S plasma, (b) Normalized beta value of 2.3 was also done for 22.3 s in a high-beta H-mode plasma, (c) The quasi-steady state beta value was increased to 3.0 with a pulse of 6.2 s with NTM suppression by ECCD. For further exploration toward high performance plasmas, the following modifications will be or has been conducted: (1) To minimize the power loss from a plasma at the region of toroidal field ripple, the 8Cr ferritic steel tiles, having a similar magnetic property to the low activation ferritic material for a DEMO reactor, are being equipped on the first wall of the JT-60 vacuum vessel. (2) Since plasma shape and current profile in the poloidal cross-section are expected to be reproduced in real time to optimize a plasma performance with suppressing the plasma instabilities, a precise reproduction method has been installed in the plasma control system. In this report, the current status of plasma experimental study will be presented together with on-going device modifications in JT-60U
+
+JT-60U
+advanced operation
+device modifications
+ferritic steel
+plasma current profile
+plasma experiment
+plasma shape control
+tokamak

@@ -1,0 +1,12 @@
+Shallow ohmic contacts to nGaAs are fabricated by sequential deposition of Pd/AuGe/Ag/Au and rapid thermal annealing at 450500	°C for 30 s. The metallization displays good electrical properties with a contact resistivity of 2 × 106 ©	cm2. The filmsubstrate reaction is extremely limited and the interface is uniform. A systematic study of various AuGe metallization schemes indicates that the limited interfacial reaction observed in the Pd/AuGe/Ag/Au structure correlates with the stability of AuAg solid solutions against GaAs. The diffusion of silver into the AuGe layer upon heating increases the eutectic temperature of the system. As a result, the contact stays in a solid state when the metallurgical reaction takes place to form an ohmic contact.
+
+OHMIC CONTACTS
+METALLURGICAL EFFECTS
+PALLADIUM
+GOLD
+GERMANIDES
+THIN FILMS
+PHYSICAL VAPOR DEPOSITION
+GALLIUM ARSENIDES
+NTYPE CONDUCTORS
+DIFFUSION

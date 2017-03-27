@@ -1,0 +1,19 @@
+Ferroelectric Bi3.25La0.75Ti3O12 (BLT) thin films were prepared on platinum coated silicon substrate by chemical solution deposition. The layered-perovskite phase was obtained by rapid thermal annealing the spin-on films at 650 or 700
+°C for 180 s. Scanning electron micrographs showed uniform surfaces composed of spherical grains. The grain size increased with increasing annealing temperature. The remanent polarization and coercive field of 650
+°C annealed film were 12.3 ¼C/cm2 and 48.9 kV/cm, respectively, and those of 700
+°C annealed films were 18.2 ¼C/cm2 and 51.1 kV/cm. BLT thin films showed little polarization fatigue under 250 kV/cm bipolar cycling at 50 kHz, while fatigue properties deteriorated with decreasing cycling field and frequency. At various frequencies from 1 Hz to 50 kHz, nonvolatile polarization Pnv showed nearly no degradation over an initial period of cycling, then decayed logarithmically with switching cycles. The onset of logarithmic decay of Pnv was found to increase linearly with cycling frequency. The cycling field dependence of fatigue characteristics was interpreted in terms of competition of charge trapping which blocks the domain switching and field-assisted detrapping of charged defects which set the locked domains free. Frequency dependent fatigue properties were discussed on the basis of drift and aggregation of oxygen vacancies. © 2000 American Institute of Physics. 
+
+bismuth compounds
+lanthanum compounds
+ferroelectric materials
+ferroelectric thin films
+liquid phase deposition
+spin coating
+rapid thermal annealing
+scanning electron microscopy
+grain size
+surface structure
+dielectric polarisation
+ferroelectric switching
+vacancies (crystal)
+aggregation

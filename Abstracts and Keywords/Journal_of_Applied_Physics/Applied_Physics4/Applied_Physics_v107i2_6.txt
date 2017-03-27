@@ -1,0 +1,13 @@
+We compared the electrical, optical, structural, and interface properties of indium zinc oxide (IZO)-Ag-IZO and IZO-Au-IZO multilayer electrodes, as well as the dependence of their electrical and optical properties on the thicknesses of the Ag and Au layers when used for organic solar cells (OSCs). Even though all deposition processes were carried out at room temperature, the IZO-Ag (14 nm)-IZO and IZO-Au (12 nm)-IZO multilayer electrodes exhibited extremely low sheet resistances of 4.15 and 5.49©/sq, and resistivities of 3.9×105 and 5.5×105©	cm, respectively. In spite of its similar electrical properties, the optical transmittance of the IZO-Ag-IZO electrode is much higher than that of the IZO-Au-IZO electrode, due to the more effective antireflection effect of Ag than Au in the visible region. In addition, synchrotron x-ray scattering and scanning electron microscopy examinations showed that the structure and morphology of the Ag and Au layers critically depend on their thicknesses. Moreover, the bulk heterojunction OSC fabricated on the IZO-Ag (14 nm)-IZO multilayer electrode exhibited a higher power conversion efficiency than that fabricated on the IZO-Au-IZO layer, due to its higher transmittance in the 300600 nm wavelength region corresponding to the absorption wavelength region of the organic active layer.
+
+electric resistance
+electrical resistivity
+electrodes
+gold
+indium compounds
+light transmission
+multilayers
+scanning electron microscopy
+silver
+solar cells
+X-ray scattering

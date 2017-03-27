@@ -1,0 +1,18 @@
+Cu2O thin films are deposited by direct current reactive magnetron sputtering on borofloat glass and indium tin oxide (ITO) coated glass at room temperature. The effect of oxygen partial pressure on the structures and properties of Cu2O thin films are investigated. We show that oxygen partial pressure is a crucial parameter in achieving pure phases of CuO and Cu2O. Based on this finding, we fabricate heterojunctions of p-type Cu2O with n-type gallium doped ZnO (GZO) on ITO coated glass substrates by pulsed laser deposition for GZO thin films. The energy band alignment for thin films of Cu2O/GZO on ITO glass is characterized using high-resolution x-ray photoelectron spectroscopy. The energy band alignment for the Cu2O/GZO heterojunctions is determined to be type II with a valence band offset of 2.82 eV and shows negligible effects of variation with gallium doping. The higher conduction band of the Cu2O relative to that of GZO in the obtained band alignment shows that the heterojunctions are suitable for solar cell application based on energy levels consideration.
+
+conduction bands
+copper compounds
+gallium
+II-VI semiconductors
+p-n heterojunctions
+pulsed laser deposition
+semiconductor doping
+semiconductor growth
+semiconductor thin films
+solar cells
+sputter deposition
+surface energy
+valence bands
+wide band gap semiconductors
+X-ray photoelectron spectra
+zinc compounds

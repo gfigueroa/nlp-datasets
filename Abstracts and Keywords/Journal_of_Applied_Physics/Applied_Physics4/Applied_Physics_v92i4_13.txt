@@ -1,0 +1,11 @@
+Ferroelectric Pb0.99[(Zr0.6Sn0.4)0.85Ti0.15]0.98Nb0.02O3 (PZSTN) thin films with different preferred orientations were fabricated by modifying with 20 mol
+% excess lead that contained a Pb(ZrxTix1)O3 seed layer (x=0,0.3,0.52,0.65). Ferroelectric properties were investigated in terms of the texturing character of the PZSTN thin film. With an increase in Zr content in the seed layer, the (100) texturing of the PZSTN film was enhanced. The highly (100) texture (<97%) was developed by inserting a seed layer with x=1 between the Pt-coated substrate and the PZSTN thin film, whereas in the case of annealing in a reduced condition, the orientation of the film became nearly (111). The (111)-oriented PZSTN film showed relatively higher remanent polarization compared to that of the (100)-oriented film, while the (100)-oriented PZSTN film showed more fatigue behavior than the (111)-oriented film after 109 switching cycles. The (111)-oriented PZSTN film with rhombohedral structure is believed to be suspected to significant stress along applied field direction, resulting in the production of many defects, causing degradation of the polarization during switching cycles. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric ceramics
+ferroelectric thin films
+surface texture
+texture
+annealing
+dielectric polarisation
+ferroelectric switching

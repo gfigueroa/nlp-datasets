@@ -1,0 +1,7 @@
+This paper reports the real-time behavior of the leakage current flowing on glass-type insulator strings of a 230-kV substation tower during washing. Monitoring of two insulator strings in the tower is achieved by use of a pair of optical-fiber sensors that detect samples of the leakage current waveforms and transmit those samples to a processing module via an optical link. It is observed that leakage current during washing may reach high peak levels, and the effectiveness of the washing can be inferred by the degree of leakage current after drying of the insulator strings. Direct monitoring of the leakage current can thus be used as an important guideline for proper washing procedures during this type of intervention as well as for determining the effectiveness of the procedure.
+
+Flashover
+insulators
+leakage currents
+optical-fiber transducers
+power transmission lines

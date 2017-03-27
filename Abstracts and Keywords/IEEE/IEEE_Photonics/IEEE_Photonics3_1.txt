@@ -1,0 +1,6 @@
+A method and circuit for pulse width modulation (PWM) control of a buck-boost DC-DC converter used in energy harvesting for powering ultra low power sensor systems from vibrations is presented. The impedance of the transducer, the environmental parameters where the system is deployed, and the load to be driven necessitate an adaptive DC-DC converter. The circuit used to control the gate of the switching transistor of the converter must be highly energy efficient and achieve a balance between accuracy and excessive power draw. The simulations presented show the operation of the PWM controller. The average power draw is estimated to be less than 20 &#x03BC;W.
+
+PWM control
+Vibration
+energy harvesting
+ultra-low power

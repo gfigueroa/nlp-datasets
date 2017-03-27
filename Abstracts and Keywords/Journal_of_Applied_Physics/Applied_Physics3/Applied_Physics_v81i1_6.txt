@@ -1,0 +1,14 @@
+A model was developed to simulate the effects of heavy charged-particle (HCP) radiation on the information stored in three-dimensional computer optical memories. The model is based on (i) the HCP track radial dose distribution, (ii) the spatial and temporal distribution of temperature in the track, (iii) the matrix-specific radiation-induced changes that will affect the response, and (iv) the kinetics of transition of photochromic molecules from the colored to the colorless isomeric form (bit flip). It is shown that information stored in a volume of several nanometers radius around the particles track axis may be lost. The magnitude of the effect is dependent on the particles track structure. © 1997 American Institute of Physics.
+
+optical storage
+photochromism
+ion beam effects
+OPTICAL COMPUTERS
+RADIATION EFFECTS
+COMPUTERIZED SIMULATION
+PHOTOCHROMIC MATERIALS
+IONIZING RADIATIONS
+NEUTRONS
+CYANINE DYES
+CHARGED PARTICLES
+DOSES

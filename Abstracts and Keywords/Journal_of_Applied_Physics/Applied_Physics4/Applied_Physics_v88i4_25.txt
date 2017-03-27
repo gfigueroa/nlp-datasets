@@ -1,0 +1,11 @@
+The deposition of NiCo films with a nominal composition of 50:50 by a single-step, electroless polyol method was investigated. The film thickness increased with increasing deposition time from 5 to 60 min. Measured film compositions showed Ni: Co stoichiometry for films deposited at 5 and 60 min: In the intermediate range of deposition time used, deviation from nominal precursor concentration to Co-rich compositions was observed as a result of change in deposition chemistry. Through-thickness concentration gradient conceivably existed for thicker films as diffusion for compositional homogenization would not be significant at the deposition temperature. The apparent film density increased as a result of coalescence of adjacent particles with increasing film thickness. The particles consisted of nanostructured crystallites. The crystallite size did not significantly change with increasing deposition time, indicating no grain growth had occurred. Nanoscale particles were also observed among the larger particles in the films. All the films showed in-plane magnetization anisotropy, whereas perpendicular magnetic saturation was only achieved for the film deposited at 60 min. The perpendicular coercivity was higher than in-plane coercivity. Possible explanations are suggested. © 2000 American Institute of Physics. 
+
+nickel alloys
+stoichiometry
+cobalt alloys
+electroless deposition
+nanostructured materials
+magnetic thin films
+coercive force
+crystallites
+magnetic anisotropy

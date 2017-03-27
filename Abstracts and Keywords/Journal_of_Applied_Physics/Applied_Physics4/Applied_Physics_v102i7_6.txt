@@ -1,0 +1,7 @@
+The structures of Ge nanowires are studied by means of geometry optimization method in this paper. As the radii of carbon nanotubes increase, the structures of the Ge nanowires transform from a monoatomic chain to helical and multishell coaxial cylinders. The physical properties, such as density of states, transmission functions, current-voltage (IV) characteristics, and conductance spectra (GV) of optimized nanowires sandwiched between two gold contacts are also obtained. The transport properties of a carbon-coated Ge atomic chain are significantly different from those of Ge single atomic chain. Furthermore, some nonequilibrium properties of Ge nanowires are compared with those of Sn and Si nanowires.
+
+carbon nanotubes
+electronic density of states
+elemental semiconductors
+germanium
+nanowires

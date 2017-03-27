@@ -1,0 +1,11 @@
+We propose several physical mechanisms that may account for the difference between the nitrogen composition in GaAsN materials measured by secondary ion mass spectroscopy and x-ray diffraction. A simplified model proposed here proves that Vegards law remains valid as long as all nitrogen atoms in the GaAsN alloys are located substitutionally at the arsenic sites. The theoretical results based on N-N pair defects are in good agreement with the experimental data, suggesting that the N-N pairs are the predominant nitrogen-related defects that cause deviation from the GaAsN lattice constant predicted by Vegards law.
+
+gallium arsenide
+III-V semiconductors
+wide band gap semiconductors
+lattice constants
+secondary ion mass spectra
+X-ray diffraction
+interstitials
+bonds (chemical)
+gallium compounds

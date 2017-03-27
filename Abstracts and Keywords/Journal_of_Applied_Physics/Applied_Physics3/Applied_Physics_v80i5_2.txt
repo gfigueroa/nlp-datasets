@@ -1,0 +1,14 @@
+Strainrelaxed, compositionally graded Ge0.3Si0.7/Si heterostructures grown by ultrahigh vacuum chemical vapor deposition at 650	°C are shown to display a consistent change from ptype to ntype conductivity as a function of rapid thermal annealing (RTA) temperature in the range 700850	°C. Crosssectional transmission electron microscopy, spreading resistance, and electron beam induced current (EBIC) studies eliminate the dislocations themselves as a possible source of this type conversion, by demonstrating that the spatially invariant hole concentration of 2×1014 cm3 is not correlated to the dislocation density, which decreases from <108 cm2 in the graded region to 7×105 cm2 in the 30% Ge cap. To identify the source of type conversion, a systematic investigation was performed on 650	°C asgrown and annealed samples with deeplevel transient spectroscopy (DLTS), photoluminescence (PL) and capacitancetemperature (CT) measurements. DLTS measurements on asgrown samples reveal a complex spectrum of deep and shallow hole traps, while CT studies reveal a prominent temperature dependence of the zero bias capacitance, indicating that the ptype background conductivity is associated with a high degree of compensation. Postgrowth RTA at Te800	°C eliminates this compensation, and yields background ntype films, consistent with the background ntype conductivity that is always observed in graded films grown at Ts800	°C in the same reactor. This change in conductivity type is accompanied by a strong increase in EBIC signal strength and a significant simplification of DLTS and PL spectra. These results are discussed in terms of dislocation interaction within the graded layers which generates nonequilibrium concentrations of intrinsic point defects that form extended complexes at growth temperatures d800	°C. These complexes are associated with thermally unstable acceptorlike defect states in the energy range H(0.05)H(0.30) that convert low growth temperature, relaxed, graded GeSi/Si films from background n type to background p type. © 1996 American Institute of Physics. 
+
+GERMANIUM SILICIDES
+SILICON
+HETEROJUNCTIONS
+ELECTRIC CONDUCTIVITY
+STRAINS
+PHOTOLUMINESCENCE
+CVD
+TEM
+EBIC
+DISLOCATIONS
+POINT DEFECTS
+TRAPS

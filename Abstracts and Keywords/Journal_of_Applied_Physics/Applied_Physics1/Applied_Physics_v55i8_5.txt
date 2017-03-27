@@ -1,0 +1,14 @@
+The SnSnOxSn tunnel junction of a crossedfilm type, cooled down to 0.32 K, is demonstrated as a good energy resolution detector for ± particles. Three junctions (A, B: 300×400 ¼m2×3000 Å and C: 200×300 ¼m2×3000 Å) have been used to detect 5.3MeV ± particles from 210Po. The present work suggests that reduction of the leakage current enables us to utilize superconducting tunnel junctions with large volumes. Such a device could provide a new means for detection of unclear radiations.
+
+tin
+tin oxides
+superconducting junctions
+tunnel effect
+superconducting films
+ultralow temperature
+mim junctions
+energy resolution
+alpha detection
+mev range 0110
+polonium 210
+alpha particles

@@ -1,0 +1,6 @@
+Electromagnetic fields due to an earthquake have been studied in this presentation through some model calculations. The expressions of the variation of electron concentration and electron temperature as the ionospheric precursors of an earthquake have been deduced in this presentation through quasihydrodynamic formulations. The outcome of the analyses of electromagnetic emissions recorded by VLF receivers at 5, 7, 9 and 12 kHz on November 16, 2008 over Kolkata (Lat. 22.56Â°N, Long. 88.5Â°E) during the large earthquake at Minahasa, Sulawesi (Lat. 1.27Â°N, Long. 122.09Â°E), under Indonesia have been presented here. Spiky variations of signals are observed few days prior to the day of occurrence of the earthquake which continued several days more, then decayed gradually and eventually ceased.
+
+Ionospheric perturbations
+precursors of earthquake
+seismicity
+seismo-electromagnetics

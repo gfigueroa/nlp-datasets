@@ -1,0 +1,5 @@
+Most phenomenological aspects of energy storage and release in dielectric materials caused by the charge trapping mechanism have recently been rationalized using the space charge model. We studied dynamical aspects by performing molecular dynamics simulations. We show that an excess electron introduced into the sapphire lattice (±-Al2O3) can be trapped only at a limited number of sites. The energy gained by allowing the electron to localize in these sites is of the order of 45 eV, agreeing well with the results of the space charge model. Displacements of the neighboring ions due to the implanted charge are shown to be localized in a small region of about 5 Å. Detrapping is observed at 250 K. The ionic displacements turn out to play an important role in modifying the potential landscape by dynamically lowering the barriers that cause localization at low temperatures. © 1997 American Institute of Physics.
+
+sapphire
+electron traps
+molecular dynamics method

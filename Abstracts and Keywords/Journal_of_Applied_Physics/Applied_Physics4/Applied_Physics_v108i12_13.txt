@@ -1,0 +1,7 @@
+We employ electroless etching to disperse silicon on insulator (SOI) wafers in ionic silver HF into wirelike silicon nanostructures. The procedure allows detachment of the nanowires at the oxide interface and enables easy recovery of dispersions for subsequent controlled delivery. Nanowires 10¼m long and 50100 nm thick are demonstrated using an SOI substrate of 10¼m device thickness. Direct material analysis shows no silver contamination after a wet-etch silver clean. Anodization treatment of the wires was conducted. Our measurements and analysis show that the wires are not amenable to anodization resulting from the fact that the nanowire radius is less than the thickness of depletion layer. The procedure has the potential of providing dispersions of arbitrarily long wirelike nanostructures which are useful for composite and energy applications.
+
+anodisation
+electroless deposition
+etching
+nanowires
+silicon-on-insulator

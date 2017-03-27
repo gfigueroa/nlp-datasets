@@ -1,0 +1,12 @@
+Effects of interfaces such as metal/polymer interfaces and polymer/polymer interfaces on the spacecharge distribution in multiply lowdensity polyethylene have been investigated using a pulsed electroacoustic method. It has been found that the heterocharge was dominant in an artificial interface existing in a polyethylene sample. The time dependence of the heterocharge distribution in the interface on applied voltages and polarity was studied. From these charge distributions, the modified electrical field was calculated based on Poissons equation. The calculated result indicated that the actual field was stronger than the applied uniform field at the artificial interface. A new data display method for a three or twodimensional plot is employed to display all measurement data on one plot in which the space charge becomes visible so that the results can be easily and conveniently understood.
+
+MIM JUNCTIONS
+METALS
+POLYMERS
+POLYETHYLENES
+INTERFACES
+SPACE CHARGE
+TIME DEPENDENCE
+DISTRIBUTION
+ACOUSTIC TESTING
+POISSON EQUATION

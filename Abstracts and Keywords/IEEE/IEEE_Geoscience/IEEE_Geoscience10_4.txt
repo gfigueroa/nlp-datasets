@@ -1,0 +1,8 @@
+Ensuring constant synchronicity between the IT Architecture (ITA) and the actual Information Systems (IS) without the help of automatic tools is an intractable task, especially when taking into account modern IS' rapid evolution and growing complexity and distributed nature. We propose an automatic AS-IS ITA verification methodology and framework based on deep passive network traffic analysis and logical inference rules with the goal of inferring relevant facts about the actual ITA. The resulting knowledge is described according to a conceptual model designed for this purpose. We also propose an organization-independent mapping relationship between that ITA network evidence model and an ISA modeling framework (CEO Framework), at the technology (ITA) level, realized through a set of logical deduction rules. These rules formally define the conditions that must hold between the inferred evidence and a high-level ITA model (both represented in this inference system) in order to declare that model factual and in line with reality. It is the automatic execution of these rules that realizes the verification process that reports, as a result, all the significant detected discrepancies. The proposed concepts and methodology are implemented in a prototype applied to a case study in the leading Portuguese Telecom operator. The proposed solution was shown to be capable of successfully verifying the case study's ITA model as well as discovering new, undocumented, information through logical inference.
+
+Deep Packet Analysis
+IT Architecture
+Information Systems
+Logical Inference
+Network Traffic
+Passive Monitoring

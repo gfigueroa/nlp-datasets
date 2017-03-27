@@ -1,0 +1,10 @@
+Room temperature photoluminescence studies of Ca1xErxF2+x thin films epitaxially grown on silicon substrates exhibit strong light emissions in both the visible range and the infrared domain. With an Ar+ion laser as an excitation source, the maximum of the 4I13/2’4I15/2 infrared (1530 nm) luminescence of Er3+ (4f11) ions was found for x=0.16. It is assumed that a particular Er3+ ion environment exists in the layers to explain why the quenching phenomena do not dominate at these very high erbium concentrations. To describe this environment, a photoluminescence study at low temperature (2 K) has been performed which shows that only one Er3+ ion site (having C4v symmetry) predominates for an erbium substitution rate xd0.02. At higher Er3+ concentrations, however, a clustering process of erbium ions is observed. In thin films, however the clustering appears only at concentrations two orders of magnitude higher than in bulk single cystals. © 1996 American Institute of Physics. 
+
+CALCIUM FLUORIDES
+ERBIUM IONS
+THIN FILMS
+EPITAXIAL LAYERS
+PHOTOLUMINESCENCE
+VISIBLE RADIATION
+INFRARED RADIATION
+SUBSTITUTION

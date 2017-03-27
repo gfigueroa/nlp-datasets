@@ -1,0 +1,10 @@
+A fully quantummechanical description of highfield carrier transport in real space representation in semiconductors is developed. The present approach treats a high electric field unperturbatively, while a realistic electronphonon interaction is included through the perturbation scheme. Direct comparisons of transport properties at very short time in real space with the corresponding semiclassical (Monte Carlo) descriptions are presented. The results explicitly show the quantum effects on the spreading of electron wave packets due to the electronphonon interaction and help to clarify the limitation of semiclassical descriptions based on the Boltzmann transport equation.
+
+SEMICONDUCTOR MATERIALS
+CHARGE CARRIERS
+ELECTRIC FIELDS
+QUANTUM MECHANICS
+ELECTRONPHONON COUPLING
+PERTURBATION THEORY
+MONTE CARLO METHOD
+BOLTZMANN EQUATION

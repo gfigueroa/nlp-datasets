@@ -1,0 +1,9 @@
+The lifecycle of a data cube involves efficient construction and storage, fast query answering, and incremental updating. Existing ROLAP methods that implement data cubes are weak with respect to one or more of the above, focusing mainly on construction and storage. In this paper, we present a comprehensive ROLAP solution that addresses efficiently all functionality in the lifecycle of a cube and can be implemented easily over existing relational servers. It is a family of algorithms centered around a purely ROLAP construction method that provides fast computation of a fully materialized cube in compressed form, is incrementally updateable, and exhibits quick query response times that can be improved by low-cost indexing and caching. This is demonstrated through comprehensive experiments on both synthetic and real-world datasets, whose results have shown great promise for the performance and scalability potential of the proposed techniques, with respect to both the size and dimensionality of the fact table.
+
+ROLAP
+Data cube
+Compressed storage
+Query processing
+Incremental updating
+Indexing
+Caching

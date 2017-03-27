@@ -1,0 +1,9 @@
+Microcrystalline diamond films have been prepared in a 13.56 MHz low pressure inductively coupled plasma. The bonding in the films obtained were studied by Raman spectroscopy with 514, 325, and 244 nm excitation wavelengths. 514 nm excited Raman spectra exhibit peaks at <1355 and <1580 cm1 corresponding to sp2 bonding, and a peak at <1150 cm1 assigned to sp3 bonding. The 1332 cm1 diamond peak due to zone center optical phonon mode with F2g symmetry clearly appears and the peak at <1580 cm1 is remarkably enhanced with 325 nm excitation. In 244 nm excited Raman scattering, the peak at 1332 cm1 is only enhanced whereas the peak at <1580 cm1 is correspondingly diminished. These features of the Raman spectra are discussed in terms of resonant Raman scattering due to the electronic ÀÀ transition in sp2-bonded carbon with 514 nm (2.4 eV) excitation, and the possible enhancement of the peak due to the sp3-bonded carbon with 325 (3.8 eV) and 244 nm (5.1 eV) excitations. © 2000 American Institute of Physics. 
+
+Raman spectra
+diamond
+phonon spectra
+semiconductor thin films
+elemental semiconductors
+plasma deposited coatings
+bonds (chemical)

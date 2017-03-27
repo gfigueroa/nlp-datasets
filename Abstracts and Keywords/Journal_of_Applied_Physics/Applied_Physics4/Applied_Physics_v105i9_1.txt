@@ -1,0 +1,11 @@
+This work describes Shubnikovde Haas (SdH) measurements in Al0.22Ga0.78N/AlN/GaN/AlN heterostructures. Our experiments coupled with the analysis of the Hall data at various temperatures confirm the formation of a two-dimensional electron gas (2DEG) at the AlN/GaN interface. A beating pattern in the SdH oscillations is also observed and attributed to a zero-field spin splitting of the 2DEG first energy subband. The values of the effective spin-orbit coupling parameter and zero-field spin-split energy are estimated and compared with those reported in the literature. We show that zero-field spin-split energy tends to increase with increasing sheet electron density and that our value (12.75 meV) is the largest one reported in the literature for GaN-based heterostructures.
+
+aluminium compounds
+electron density
+gallium compounds
+III-V semiconductors
+semiconductor heterojunctions
+Shubnikov-de Haas effect
+spin-orbit interactions
+two-dimensional electron gas
+wide band gap semiconductors

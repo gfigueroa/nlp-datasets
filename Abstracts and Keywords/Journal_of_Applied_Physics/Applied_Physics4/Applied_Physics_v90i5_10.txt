@@ -1,0 +1,10 @@
+The electromechanical properties of 0.7Pb(Mg1/3Nb2/3)O30.3PbTiO3 001	-oriented crystals have been investigated under unaxial stress (Ã). The results demonstrate enhanced piezoelectric coefficients and electroacoustic power densities with increasing Ã. However, these increases are accompanied by significant increases in hysteretic losses. The results also demonstrate that the electromechanical coupling coefficient (<0.92) is relatively independent of Ã between 0 and 6×107
+N/m2. Future transducer designs can rely on piezocrystals offering a k33 of 0.92, 10 dB more power, and low losses under operational conditions of Ã&lt;107
+N/m2 and 5&lt;T&lt;40
+°C. © 2001 American Institute of Physics. 
+
+lead compounds
+piezoelectric transducers
+piezoelectric materials
+dielectric hysteresis
+stress effects

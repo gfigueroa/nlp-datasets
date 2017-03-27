@@ -1,0 +1,7 @@
+With rapid increase in the application of distributed generation, the action time delay of automatic bus transfer will be longer in radially fed networks. It is not conducive to the fast input of automatic bus transfer. In this paper, take the distributed generation in included in the 110kV terminal substation of distribution network which is fed by a single source, the impact of the distributed generation on time delay of automatic bus transfer is analyzed from the view of the incoming line whether has automatic reclosing or not, then a conclusion that it is not suitable for breaker of the incoming line using automatic reclosing is drawn, based on analysis above two new schemes are proposed for automatic bus transfer application. And scheme one is to change the original incoming line protection into pilot protection, scheme 2 is to install monitoring device in incoming line access switch, which can monitor the current, voltage, power direction of the access switch. Take scheme two as an example, the concrete realization method is given in this paper, simultaneously based on this it is shown that scheme two can improve the reliability of automatic bus transfer and has better engineering value.
+
+automatic bus transfer
+automatic reclosing
+distributed generation
+solution
+time delay

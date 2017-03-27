@@ -1,0 +1,8 @@
+Thin film phosphors of Gd2O3:Eu3+ were deposited on quartz glass plates by pulsed laser deposition and compared with typically used thin film phosphors composed of Y2O3:Eu3+ in terms of cathodoluminescence (CL) and photoluminescence (PL). Both the CL and PL of Gd2O3:Eu3+ thin film phosphor were superior to those of corresponding data on currently widely used Y2O3:Eu3+ red thin film phosphor. In particular, the Gd2O3:Eu3+ thin film phosphor showed a much better cathodoluminescence at low excitation energy (less than 1 keV) than a Y2O3:Eu3+ film of the same thickness, indicating that the Gd2O3:Eu3+ thin film phosphor is a much better candidate for use in field emission displays. © 2002 American Institute of Physics. 
+
+gadolinium compounds
+europium
+phosphors
+pulsed laser deposition
+photoluminescence
+cathodoluminescence

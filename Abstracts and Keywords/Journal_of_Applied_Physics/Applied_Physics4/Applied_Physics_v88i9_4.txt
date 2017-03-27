@@ -1,0 +1,9 @@
+The luminescence intensity of Mn2+ in the ZnS:Mn nanoclusters formed in an ultrastable zeolite-Y is seven orders of magnitude stronger than that of other nanoparticles deposited out of solutions. This remarkable effect is attributed to a strong quantum size confinement, the location of Mn2+ ions at the near-surface sites, and good surface passivation. The lowering of the energy loss in the 4E(4D), or/and 4T2(4D) states during the energy transfer from the ZnS host to the emitting state 4T1(4G) of Mn2+ may also contribute to the observed fluorescence enhancement. © 2000 American Institute of Physics. 
+
+zinc compounds
+manganese
+II-VI semiconductors
+nanostructured materials
+photoluminescence
+fluorescence
+passivation

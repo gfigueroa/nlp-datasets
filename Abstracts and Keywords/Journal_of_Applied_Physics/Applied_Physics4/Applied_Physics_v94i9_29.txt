@@ -1,0 +1,7 @@
+An effective method for improving the grating reflectivity in surface transverse wave quartz resonators is described. Deposition of a thin polymer layer on the electrode grating surface leads to improvement in the wave trapping by reducing the mode conversion into radiative bulk waves. The effect is additionally enhanced by increased acoustic impedance mismatch at the polymer/metal interfaces. Combined with an optimum layout design, the method can yield a considerably higher resonator Q factor compared to conventional surface acoustic waves. © 2003 American Institute of Physics. 
+
+crystal resonators
+surface acoustic wave resonators
+diffraction gratings
+polymer films
+reflectivity

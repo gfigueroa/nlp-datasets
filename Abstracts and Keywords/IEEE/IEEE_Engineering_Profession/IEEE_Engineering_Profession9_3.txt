@@ -1,0 +1,7 @@
+The term Systems of Systems (SoS) has recently been introduced in the systems engineering domain to describe a new class of systems, exhibiting a number of attributes such as complexity, autonomy, and geographic dispersion. The (UK) Ministry of Defence Architectural Framework (MODAF) is a prominent framework used in the defence domain. MODAF is organised in views, each of which focuses on a single aspect of the system operation. Although MODAF addresses a variety of aspects, it does not offer a view defined to provide safety related information. The paper presents the concept of failure maps (F-maps), and how they can be integrated with other MODAF views, and used during safety analysis of a SoS. Failure maps (F-maps) are failure-oriented, deviation-based maps, identifying how dependability failures of SoS elements are associated, affecting the overall SoS operation.
+
+Failure maps
+MODAF
+dependability profile
+safety analysis
+safety assurance

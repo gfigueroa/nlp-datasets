@@ -1,0 +1,6 @@
+Low frequency fluctuations in light intensity were measured from five different types of commercially available light emitting diodes with wavelengths from 375 nm to 740 nm and from two different halogen lamps. At low frequencies below 10100 Hz some light emitting diodes (LEDs) can provide lower levels of noise than halogen lamps. A noise quality factor ² is proposed in order to characterize noise behavior of LEDs. © 2004 American Institute of Physics. 
+
+light emitting diodes
+noise measurement
+optical noise
+light sources

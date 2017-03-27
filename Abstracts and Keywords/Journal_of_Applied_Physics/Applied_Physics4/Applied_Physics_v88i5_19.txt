@@ -1,0 +1,10 @@
+We propose the use of a resonant-tunneling transistor with high mobility of electrons in its quantum-well channel as a detector and a frequency multiplier of terahertz radiation and analyze its characteristics. The combination of strong nonlinearity of the resonant-tunneling current, negative differential conductivity, and excitation of plasma waves in the channel can provide higher performance of detectors and frequency multipliers based on the resonant-tunneling transistor compared to those considered previously. © 2000 American Institute of Physics. 
+
+resonant tunnelling transistors
+infrared detectors
+photodetectors
+frequency multipliers
+semiconductor plasma
+high electron mobility transistors
+quantum well devices
+negative resistance devices

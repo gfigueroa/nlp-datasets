@@ -1,0 +1,6 @@
+In large-scale distributed information systems, where participants are autonomous and have special interests for some queries, query allocation is a challenge. Much work in this context has focused on distributing queries among providers in a way that maximizes overall performance (typically throughput and response time). However, preserving the participants interests is also important. In this paper, we make the following contributions. First, we provide a model to define the participants perception of the system regarding their interests and propose measures to evaluate the quality of query allocation methods. Then, we propose a framework for query allocation called Satisfaction-based Query Load Balancing (SQLB, for short), which dynamically trades consumers interests for providers interests based on their satisfaction. Finally, we compare SQLB, through experimentation, with two important baseline query allocation methods, namely Capacity based and Mariposa-like. The results demonstrate that SQLB yields high efficiency while satisfying the participants interests and significantly outperforms the baseline methods.
+
+Distributed information systems
+Query allocation
+Queryload balancing
+Satisfaction

@@ -1,0 +1,11 @@
+A method is developed to analyze the existence and behavior of piezoelectric Love waves in a multilayered structure consisting of a piezoelectric substrate and multiple elastic layers which are isotropic, nonpiezoelectric materials. The acoustic waves and electric fields in the substrate and the layers are investigated. A general dispersion equation is derived to describe the existence of Love surface waves with respect to phase velocity as a function of normalized layer thickness. An iteration formula for XN is introduced to describe the mechanical action between the layers and the substrate at the interface. Another formula for LN, the equivalent permittivity of the wave-guide layers, is produced to describe the electric fields in the layers. The dispersion equation including a mass loading on the surface of the top layer is deduced, and a formula for calculating the mass sensitivity of the phase velocity is presented. We also find the dispersion equation with an electric shorted interface and introduce a formula for calculating the electromechanical coupling coefficient K2. Numerical results illustrate the phase velocity, the mass sensitivity of the phase velocity and the electromechanical coupling coefficient as functions of the normalized layer thickness for the Love waves in a layered structure with a polymethylmethacrylate (PMMA) layer and a sputtered SiO2 layer on a 90° rotated ST-cut quartz (ST-quartz) substrate.
+
+dielectric waveguides
+dispersion (wave)
+elasticity
+Love waves
+multilayers
+permittivity
+piezoelectricity
+sputtering
+surface acoustic waves

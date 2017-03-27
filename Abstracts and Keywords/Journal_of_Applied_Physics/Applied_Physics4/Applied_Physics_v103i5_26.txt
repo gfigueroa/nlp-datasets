@@ -1,0 +1,9 @@
+A dispersion relation for the combined effect of scattering and absorption of electromagnetic waves is presented for a large class of linear and passive material models. By invoking the optical theorem, the result states that the extinction cross section integrated over all frequencies is equal to the static limit of the extinction volume. The present paper focuses on an attempt to experimentally verify this sum rule by measuring the monostatic radar cross section of a fabricated sample of metamaterial. In particular, the paper utilizes the idea that, for a specific class of targets, the scattered fields in the forward and backward directions are identical. It is concluded that the theoretical findings are in good agreement with measurements performed in the frequency range [3.2,19.5]GHz.
+
+dispersion relations
+electromagnetic wave absorption
+electromagnetic wave scattering
+extinction coefficients
+metamaterials
+microwave measurement
+radar cross-sections

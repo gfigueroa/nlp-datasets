@@ -1,0 +1,9 @@
+Electrostatic levitation holds great promise for the semiconductor, solar panel, and flat-panel display industry where the handling of dielectrics in a contact-free manner can bring many advantages and solve long-standing contamination and particulate control problems. In this work an analytical model is developed for the electrostatic levitation field between a lossy dielectric plate and a generic stator electrode structure consisting of a regular planar array of parallel bar electrodes. Time-varying voltages of differing polarities are alternatingly applied to the bar electrodes. Atmospheric humidity-related surface conduction on the plate is explicitly taken into account in the model since it has a profound effect on the field dynamics. Based on this model, the electrostatic levitation force is calculated using the Maxwell stress tensor formulation. The levitation force dynamics are investigated by evaluating the transient response of the field under a step in the applied voltages. In this context, the rate of electric charge build up on the plate is characterized by the suspension initiation time (TSI), which is defined as the time elapsed between applying step voltages to the stator electrodes and start of lift-off of the dielectric plate from its initial position. TSI is theoretically predicted for 0.7 mm thick soda-lime glass substrates, typically used in the manufacturing of liquid crystal displays (LCDs), as a function of electrode geometry, air gap separation, ambient humidity, and step voltage magnitudes. The predicted results are shown to be in good agreement with previously published experimental data for soda-lime glass substrates.
+
+dielectric losses
+electric field effects
+liquid crystal displays
+Maxwell equations
+stators
+surface conductivity
+transient response

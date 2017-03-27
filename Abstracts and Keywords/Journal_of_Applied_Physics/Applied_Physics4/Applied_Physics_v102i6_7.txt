@@ -1,0 +1,6 @@
+An improved GrandjeanCano wedge method for measuring the pitch of a chiral nematic liquid crystal is demonstrated. This method is easy to implement and can yield results of high accuracy when it is used for measuring the liquid crystal surface anchoring strength.
+
+chirality
+distance measurement
+nematic liquid crystals
+polarimetry

@@ -1,0 +1,7 @@
+Cellular manufacturing, that has the flexibility of job shops and the high production rate of flow lines, is seen as a promising alternative for batch type production. The design of cellular manufacturing is complex for real life problems. The important step in designing a cellular manufacturing system is the formation of part families and corresponding machine groups so that parts requiring similar processing requirements can be processed alongside in same cell. In this paper an approach for cellular manufacturing system design is developed that combines a local search heuristic with genetic algorithm while allowing the formation of single machine cells. The combination, after being tested on a number of problems from literature, has shown that the presence of single machine cells has reduced the number of intercellular moves and corresponding cost while increasing the grouping efficacy.
+
+Cellular Manufacturing
+Genetic Algorithms
+Grouping efficacy
+Local search heuristic
+Machine-part grouping

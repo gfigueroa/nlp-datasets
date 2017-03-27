@@ -1,0 +1,13 @@
+Uniform films of YBaCuO have been deposited over 4in. (100mm) diam, unheated Si wafers using ionbeam sputtering of a stoichiometric YBa2Cu3O7´ target. Rutherford backscattering spectrometry reveals that within a 3in. diam, the thickness variation is ±2.9%, and the compositional uniformity of Y, Ba, and Cu is ±0.9%, ±5.2%, and ±3.4%, respectively. The average film composition is Y1.03Ba1.88Cu3.09O7´. Deposition onto unheated substrates virtually eliminates the problem of the low sticking coefficients of Ba and Cu, and is much simpler for film synthesis and processing. The observed difference from the 1:2:3 target composition is attributed mainly to angular differences in the sputteredflux distribution of each element. These effects should be minimized by substrate rotation. In order to obtain useful superconducting films, a postdeposition anneal on a suitable substrate or buffer layer is required. Using a relatively low temperature (<810	°C), low O2 pressure (1.2 Torr) postanneal, we show that oriented, superconducting films can be obtained on singlecrystal MgO and SrTiO3 substrates. Films annealed under these conditions on MgO are predominantly caxis oriented, whereas those on SrTiO3 are predominantly aaxis oriented.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+QUATERNARY COMPOUNDS
+ENERGY BEAM DEPOSITION
+SUPERCONDUCTING FILMS
+ANNEALING
+THICKNESS
+SPUTTERING
+ION BEAMS

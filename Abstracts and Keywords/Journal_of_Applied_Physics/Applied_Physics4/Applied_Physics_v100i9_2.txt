@@ -1,0 +1,12 @@
+Multiferroic laminated composites of PbZr0.52Ti0.48O3(PZT)/CoFe2O4(CFO)/PbZr0.52Ti0.48O3 were prepared by conventional ceramic processing. The interdiffusion of the elements between different layers occurred, altering material properties. The dielectric behavior of such a sandwiched ceramic was dominated by the relative thickness of the different layers because of the high dielectric constant of the PZT layer and the low dielectric constant of the CFO layer. The magnetoelectric behaviors were strongly dependent on the relative thickness of the CFO layer, dc magnetic field, ac magnetic frequency, and the angle ¸ between the magnetic field and polarization direction. The maximal magnetoelectric-induced voltage coefficient of the composites reaches up to about 27mV/Oe, close to what was reported previously. The magnetoelectric effect of the laminated composites was also simulated with the finite-element method. The reasons for the difference between experiment and simulation were discussed.
+
+lead compounds
+cobalt compounds
+multiferroics
+ferroelectric ceramics
+laminates
+chemical interdiffusion
+permittivity
+magnetoelectric effects
+dielectric polarisation
+finite element analysis

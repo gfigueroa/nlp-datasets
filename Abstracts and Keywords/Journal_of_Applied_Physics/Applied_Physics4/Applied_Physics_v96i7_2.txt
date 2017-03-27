@@ -1,0 +1,10 @@
+Some specific experimental methods to simultaneously determine the thermal expansion coefficients ±F and biaxial elastic modulus EF(1½F) of thin film materials have been reported recently. In these methods, the deflections or the curvature change of the thin films, deposited on two different types of circular disks with known material properties, generally can be measured with a variety of optical techniques. The temperature-dependent deflection behaviors of thin films are then obtained by heating the samples in the range from room temperature to a slightly higher temperature level at which the physical properties and microstructures of thin film materials still remain unchanged. By using the relations between stress, deflection, and temperature, the physical properties of thin films can be finally calculated by using the slopes of two lines in the stress versus temperature plot. These relations, however, are formulated under the condition of uniform temperature rise. If the heating processes of samples are conducted in the condition that there exists a small steady-state temperature gradient along the thickness of samples due to the effect of natural heat convection on the upper surface of thin film, the formulation mentioned above shall be modified. It is found that the deflection of sample induced by the small temperature gradient along the thickness due to natural heat convection is very significant and comparable to that induced by uniform temperature rise. Consequently, if the effect of this temperature gradient is carelessly disregarded in physical modeling, a significantly different value of elastic modulus may be misleadingly obtained. Some cases are exemplified and illustrated to show the influence of temperature gradient on the evaluation of material properties.
+
+tantalum compounds
+thin films
+Poisson ratio
+Young's modulus
+thermal expansion
+thermal conductivity
+natural convection
+thermal stresses

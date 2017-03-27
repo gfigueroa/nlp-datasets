@@ -1,0 +1,14 @@
+Sc doping in Pb(Mg1/3Nb2/3)O3 enhances the B-site 1:1 cation order significantly but promotes the ferroelectric polar order moderately. At low doping levels, the electrical polar domains remain at the nanometer scale and the relaxor ferroelectric behavior is preserved. A normal ferroelectric state can be triggered with electric fields from the relaxor state at lower temperatures. This electric-field-induced phase transition process was directly observed with an in situ transmission electron microscopy technique in a 4at.	% Sc-doped Pb(Mg1/3Nb2/3)O3 polycrystalline ceramic under different conditions. It was found that the phase transition started at the grain boundary and took two steps to complete: The gradual coalescence of the polar nanodomains and the abrupt formation of the long-range ferroelectric domains. During the growth of the polar nanodomains, the morphology of the cation ordered chemical domains does not change. Furthermore, these chemical domains seem to have no strong resistance to the growth of polar domains in Sc-doped Pb(Mg1/3Nb2/3)O3.
+
+doping
+ferroelectric ceramics
+grain boundaries
+lead compounds
+magnesium compounds
+magnetic domains
+magnetic transitions
+nanostructured materials
+niobium compounds
+relaxor ferroelectrics
+scandium
+transmission electron microscopy

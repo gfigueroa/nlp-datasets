@@ -1,0 +1,13 @@
+Collisionless single particle trajectories are modeled for a single plasma channel having one section curved in a circular arc. The magnetic field is developed by superposition of straight and curved channel segments. The plasma density gives charge and beamcurrent neutralization. High transport efficiencies are found for turning a relativistic electron beam 90° under reasonable conditions of plasma current, beam energy, arc radius, channel radius, and injection distributions in velocity and in position at the channel entrance. Channel exit distributions in velocity and position are found consistent with those for a straight plasma channel of equivalent length. Such transport problems are important in any charged particlebeam application constrained by large diodetotarget distance or by requirements of maximum power deposition in a confined area.
+
+beam transport
+electron beams
+relativistic range
+circular configuration
+trajectories
+mathematical models
+plasma
+magnetic fields
+plasma density
+beam neutralization
+efficiency

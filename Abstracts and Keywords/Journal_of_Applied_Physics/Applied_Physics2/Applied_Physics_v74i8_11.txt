@@ -1,0 +1,12 @@
+The spectral quantum efficiency in ReS2 heterodiodes was measured in the wavelength region between 600 and 850 nm. Anisotropy effects in the van der Waals plane were observed by means of linearly polarized light at normal incidence to the (001) plane of ReS2 single crystals. The anisotropy in quantum efficiency reaches its maximum at »=627 nm and therefore, ReS2 devices are well suited for detecting the angle of polarization in experiments using a HeNe laser. At wavelengths above 750 nm the sign in polarization quantum efficiency changes due to various optical transitions.
+
+RHENIUM SULFIDES
+TRANSITION ELEMENT COMPOUNDS
+CHALCOGENIDES
+OPTICAL PROPERTIES
+ANISOTROPY
+QUANTUM EFFICIENCY
+PHOTODETECTORS
+VAN DER WAALS FORCES
+CRYSTAL FACES
+LAYERED CRYSTALS

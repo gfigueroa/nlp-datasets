@@ -1,0 +1,9 @@
+Taiwan is located at the collision boundary of the Philippine sea plate and the Eurasian plate. The mountain terrain is precipitous and the region, on the whole, is characterized by fragile rocks and frequent seismic activity. In addition, the concentrated torrential rainfall brought by typhoons cause extensive disasters, debris flow, the most serious disaster caused by torrential rainfall, lead to very heavy casualties in recent years. There are 17 fixed debris flow monitoring stations and 2 mobile stations deployed in Taiwan. However, the whole architecture was designed in late 2000 and implemented by traditional and proprietary methodologies. Hence, several interoperability issues have been unveiled in the recent years when the needs of interoperability increased. In this study, we propose a whole new and open standards based debris flow monitoring architecture following the service oriented architecture (SOA) paradigm. Relevant open geospatial consortium (OGC) standards (for example Web processing service, WPS specification and sensor web enablement, SWE technologies) and advancements from grid computing where lead into the proposed architecture. The use of open standards and distributed computing technologies in the proposed architecture enables heterogeneous resources (data, processing and computing power) interoperability. This study also implements an OGC WPS grid processing profile that was developed in the OGC Web services, Phase 6 (OWS-6) initiative of the OGC interoperability program.
+
+Debris Flow
+Grid Computing
+Open Geospatial Consortium
+Sensor Web Enablement
+Service Oriented Architecture
+Spatial Data Infrastructure
+Web Processing Servic

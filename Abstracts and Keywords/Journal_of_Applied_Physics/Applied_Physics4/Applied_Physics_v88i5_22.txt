@@ -1,0 +1,7 @@
+This article describes elucidations of conditions for electron interference observation, device designs, and numerical simulations for the solid-state biprism. The solid-state biprism is solid-state version of the already realized vacuum biprism, and is also proposed as a test ground for electron interference observation and a new conceptual device. Towards the realization of this device, the designed semiconductor device structures show that interference pattern with a pitch of 86 nm and a visibility of 0.6 can be realized with an electron energy of 20 meV, a transverse energy spread of 0.3 meV, and an operation temperature of 4 K. © 2000 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+hot carriers
+quantum interference devices
+semiconductor device models

@@ -1,0 +1,13 @@
+The pyroelectric coefficient, the spontaneous polarization Ps, the optical tilt angle ¸, and the switching time of a polysiloxane liquid crystalline polymer have been measured. The pyroelectric coefficient is found to be one order of magnitude greater and the response broader than for a low molar liquid crystal reported in the literature and is comparable to that of the solid ferroelectrics. Ps vs ¸ is found to be nonlinear, and the ratio of Ps/¸ shows anomalies close to the SmC*-SmA transition temperature. The measurements of ¸ and the optical response time are used to calculate the switching time which spans from 1 to 100 ms, depending on the temperature. The optical response time in the SmA phase close to the SmC*-SmA transition temperature, together with a finite value of the pyroelectric coefficient, provide evidence of a SmC* phase induced by an external field. The rotational viscosity as a function of temperature shows critical behavior at the SmC*-SmA phase transition temperature.
+
+LIQUID CRYSTALS
+SILOXANES
+PYROELECTRIC EFFECT
+ELECTROOPTICAL EFFECTS
+SMECTIC CRYSTALS
+POLARIZATION
+PHASE TRANSFORMATIONS
+SWITCHING
+TRANSITION TEMPERATURE
+VISCOSITY
+TEMPERATURE DEPENDENCE

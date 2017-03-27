@@ -1,0 +1,7 @@
+The Hamiltonian of a superconducting thin loop interrupted by a double-barrier Josephson junction is derived. The parameter µ, which takes account of the difference in the Josephson coupling of the two single junctions in the SISIS structure, is seen to allow variation of the energy gap ”E01 between the ground state and the first excited flux number state of the system. An additional parameter ³, describing the coupling between the outer electrodes of the double-barrier Josephson junction, is introduced. Persistent currents in the system are studied in terms of the usual parameter ±, representing the ratio between the Josephson energy and the magnetic energy, and of the externally applied flux.
+
+excited states
+ground states
+Josephson effect
+persistent currents
+superconducting energy gap

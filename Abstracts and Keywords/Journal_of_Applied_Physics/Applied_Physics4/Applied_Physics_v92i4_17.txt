@@ -1,0 +1,8 @@
+Compton scattering can be used to determine the electron densities of tissues for medical applications and those of materials for industrial applications. Much work has been devoted to solving the reconstruction problem. Hussein proposed a successive approximation process (SAP) for the reconstruction of the density image from the Compton scattered energy spectral data [IEEE Trans. Nucl. Sci., 42, 2155 (1995)]. This algorithm is adapted directly from the neutron scattering tomography reconstruction where a convergence condition for such an algorithm was presented [Hussein and Meneley, Int. J. Multiphase Flow, 12, 1 (1986)]. However, we found that this condition is not correct in general cases and we cannot obtain such a simple form of convergence condition in terms of the maximum length(in unit of mean-free path) a neutron or a photon travels in any pixel in the test section. A detailed discussion of the convergence problem of SAP will be presented in this paper. © 2002 American Institute of Physics. 
+
+convergence
+Compton effect
+tomography
+image reconstruction
+approximation theory
+nondestructive testing

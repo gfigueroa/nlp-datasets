@@ -1,0 +1,10 @@
+The optical properties of reactively sputtered InN thin films were measured in the spectral region 2.55.5 eV using spectroscopic ellipsometry. The measured pseudodielectric function data of the InN films were found to vary with deposition power. The effective medium approximation theory, which describes a random aggregate microstructure, was able to relate the differences in the measured optical properties to the surface microroughness and porosity of the InN films. The relationship between microstructure and deposition power was subsequently verified by scanning electron microscopy. The analysis and electron microscopy indicate that the film deposited at 90 W was most representative of InN.
+
+INDIUM NITRIDES
+OPTICAL PROPERTIES
+MICROSTRUCTURE
+REACTIVE SPUTTERING
+ROUGHNESS
+POROSITY
+DIELECTRIC FUNCTION
+EV RANGE 0110

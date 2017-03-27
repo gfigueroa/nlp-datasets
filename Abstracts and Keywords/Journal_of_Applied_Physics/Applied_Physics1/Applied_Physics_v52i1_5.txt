@@ -1,0 +1,14 @@
+Soft x rays have been observed from three transition radiators using 90MeV electrons. The radiators consisted of 30 1.0¼m foils of A1, 25 1.5¼m foils of Mylar, and 23 1.0¼m foils of Be. The photon energy spectra for each radiator peaked at 1100, 1000, and 800 eV, respectively.
+
+XRADIATION
+TRANSITION RADIATION
+FOILS
+DATA
+THICKNESS
+MEV RANGE
+ELECTRONS
+ALUMINUM
+MYLAR
+BERYLLIUM
+PHOTONS
+SPECTRA

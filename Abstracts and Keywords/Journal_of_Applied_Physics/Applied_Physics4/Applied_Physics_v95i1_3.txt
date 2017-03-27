@@ -1,0 +1,10 @@
+We investigated the electrical and optical properties of InGaAs self-assembled quantum dots grown using the atomic layer epitaxy (ALE) technique. Dotsinawell structures were grown by alternately supplying InAs and GaAs sources on an InGaAs layer and covering with another InGaAs layer. Three samples produced with different numbers of cycles of alternate InAs/GaAs supply were characterized by capacitance-voltage and photoluminescence (PL) measurements. For the ten cycle dotsinawell structure, a strong zero-dimensional electron confinement was observed even at room temperature. On the other hand, for the five-cycle structure, the PL results indicate that the InGaAs quantum well structure coexists unstably with premature quantum dots. By comparing the results for samples with different numbers of cycles, we suggest that an ALE dotsinawell structure can be formed by the aggregation of In and Ga atoms incorporated into the InGaAs quantum well layer when the number of cycles exceeds the critical number of seven cycles. © 2004 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+atomic layer epitaxial growth
+photoluminescence
+electrical conductivity
+self-assembly

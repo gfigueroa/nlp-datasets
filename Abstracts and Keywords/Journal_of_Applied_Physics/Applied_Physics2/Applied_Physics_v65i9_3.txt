@@ -1,0 +1,11 @@
+Ultrathin and thin bilayers of W coupled with C and Si have been deposited by rf magnetron sputtering. Behavior of the multilayer structures (MLS) has been analyzed through two combined techniques: xray reflectivity and electron microscopy study and conventional (TEM) and highresolution transmission (HRTEM). The experimental results we present provide average informations on the reflective characteristics of the mirrors in agreement with theory, comparative values of parameters (thickness and interfacial roughness of the bilayers), as well as structural characteristics of the stackings. We focused on ultrathin W/Si MLS with a bilayer thickness of 1.5 nm that present excellent regularity with effective roughness less than 3 Å. They offer reflective qualities to be used as reflectors with an angle 2¸&gt;6° in the first order for the medium xray range.
+
+MULTILAYERS
+TUNGSTEN
+SILICON
+CARBON
+LAYERS
+X RADIATION
+REFLECTIVITY
+TRANSMISSION ELECTRON MICROSCOPY
+SPUTTERING

@@ -1,0 +1,5 @@
+The InAs, InP, and InSb (001) surfaces chemically treated in HCl-isopropanol solution (HCl-iPA) and annealed in vacuum at relatively low temperatures were studied by means of x-ray photoelectron spectroscopy (XPS), low energy electron diffraction (LEED) and electron energy loss spectroscopy (EELS). The photoemission results demonstrate that the chemical treatment removes natural oxides from III-V surfaces and yields As-rich surface with several monolayers of excess arsenic on InAs and GaAs surfaces, and InClx terminated surfaces of III-P and III-Sb compounds and their alloys. Under low-temperature annealing LEED showed the anion-stabilized surface reconstructions: As-rich (2Ã4)c/(2Ã8) structure on GaAs and InAs(100) surfaces, P-rich (2Ã1) structure on InP(100), and (3Ã1) on InSb(001) surfaces. The structural properties of chemically prepared III-V (001) surfaces were found to be similar to those obtained by decapping of anioncapped epitaxial layers.
+
+III-V
+chemical passivation
+surface structures

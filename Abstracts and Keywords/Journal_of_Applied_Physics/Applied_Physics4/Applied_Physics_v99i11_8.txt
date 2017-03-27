@@ -1,0 +1,14 @@
+The effect of the additional confining potentials on ferromagnetism in IIIV digital ferromagnetic heterostructures has been studied by ab initio calculations in combination with pseudopotential plane-wave method. The electronic and magnetic properties are shown as a function of the thickness of AlAs layers in the GaAs/AlAs digital ferromagnetic heterostructures. It is found that all the structures show ferromagnetic alignment for the most favored configuration and their electronic structures are half metallicity. The exchange coupling constants N0² are estimated by using the spin splitting of the valence band. It is also shown that the charge density and the strong spin polarization are concentrated mostly on the magnetic layers for all structures. Furthermore, the hole distributions are analyzed in terms of their orbital projected density of states. The concentration of confined hole within the magnetic layer increases with increasing the additional potentials, which is responsible for the enhancement of ferromagnetic interaction in IIIV digital ferromagnetic heterostructures.
+
+ferromagnetic materials
+III-V semiconductors
+semiconductor heterojunctions
+ab initio calculations
+pseudopotential methods
+aluminium compounds
+gallium arsenide
+magnetic multilayers
+exchange interactions (electron)
+valence bands
+electron spin polarisation
+semimagnetic semiconductors

@@ -1,0 +1,8 @@
+A new method for nonexponential deep level transient spectroscopy (DLTS) theoretical analysis is proposed. This method is based on the numerical solving of the inverse problem for the theoretical model via regularization algorithms. It is shown that it is possible to obtain the shape of the deep level energy spectrum from the noisy DLTS spectra in systems with strong disorder.
+
+SEMICONDUCTOR MATERIALS
+DISORDERED SYSTEMS
+DLTS
+INVERSE PROBLEMS
+NUMERICAL SOLUTION
+ALGORITHMS

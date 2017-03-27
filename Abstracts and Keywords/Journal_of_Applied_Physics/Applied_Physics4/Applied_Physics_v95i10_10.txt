@@ -1,0 +1,18 @@
+A study of N doping using N2O and NO sources on ZnO, which may prove important for the N doping of oxide materials, was performed by investigating the doping processes of N atoms by each source together with the various properties for the grown N doped ZnO films. N2O was employed as the radio-frequency (rf) plasma source to produce radical N2 species that could effectively incorporate N atoms above 1020
+cm3 into ZnO, which was similar to N doping using N2 as the source. In contrast, it was found that the ZnO films doped with a N concentration above 1020
+cm3 were easily obtained using a gas flow of NO. The N concentration could be controlled systematically by the simultaneous gas flow of NO and O2 sources. The basis of N doping using a NO source could be related to the free radical characteristic of NO molecular. This idea was proposed from the results that the N concentrations doped to ZnO using a gas flow of N2O and N2, which have the characteristics of neutral and nonreactive molecules in air, were in the ranges from 1018 to 1019
+cm3. Further, our investigations clarified that the structural, optical, and electrical properties for the N doped ZnO films were not quite dependent on the N2, N2O and NO sources used as N dopants. This work proposes that NO is a promising source as a N dopant that can be employed without using a rf plasma source in the application of physical vapor deposition techniques that are indispensable for producing radical N2 species through a rf plasma source to achieve the efficient incorporation of N atoms when N2 and N2O sources are used as N dopants. © 2004 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+wide band gap semiconductors
+nitrogen compounds
+semiconductor doping
+semiconductor thin films
+pulsed laser deposition
+nitrogen
+semiconductor growth
+plasma sources
+electrical resistivity
+doping profiles
+light absorption

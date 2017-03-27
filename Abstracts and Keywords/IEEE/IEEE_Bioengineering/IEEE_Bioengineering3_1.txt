@@ -1,0 +1,8 @@
+This paper presents a hybrid evolutionary algorithm that efficiently solves multiobjective optimization problems. The idea is to bring the strength of adaptive local search (ALS) to bear upon the realm of multiobjective evolutionary optimization. The ALS is developed by harmonizing a weighted fitness policy with a restricted mutation: it applies mutation only to a set of superior individuals in accordance with the weighted fitness values. It economizes search time and efficiently traverses the problem space in the vicinity of the most-likely and least-crowded solutions. Thus, it helps achieve higher proximity and better diversity of nondominated solutions. Empirical results support the effectiveness of the proposed approach.
+
+diversity
+evolutionary algorithm
+local search
+multiobjective optimization
+proximity
+weighted fitness

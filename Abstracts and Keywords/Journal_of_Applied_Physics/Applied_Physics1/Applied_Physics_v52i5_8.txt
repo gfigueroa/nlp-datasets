@@ -1,0 +1,15 @@
+Transverse observations of the dc dynamic scattering of a nematic liquid crystal are presented. In the presence of controlled unipolar injection, the turbulences always appear at the discharge electrode, and do not propagate to the injecting electrode when the cell is separated into two independent regions by a diaphragm. The instability is found to be related to the electrolysis of the injected charge carriers rather than to the growth of a space charge in the direction of the field.
+
+LIQUID CRYSTALS
+SCATTERING
+DATA
+CONTROL
+TURBULENCE
+ELECTRODES
+MEMBRANCES
+INSTABILITY
+ELECTROLYSIS
+CHARGE CARRIERS
+SPACE CHARGE
+ELECTRIC FIELDS
+MATHEMATICAL MODELS

@@ -1,0 +1,6 @@
+This paper presents algorithms to locate faults on a double-circuit transmission line by utilizing sparse current measurements from one or two branches. The branch current is derived as an analytical function of the unknown fault location and fault resistance, and then the fault location can be obtained based on the measured branch currents. The zero-sequence mutual coupling between the two branches of the parallel line is considered. The network data are assumed to be available and quite accurate results have been obtained based on simulation studies.
+
+Bus impedance matrix
+Current measurement
+Double-circuit transmission line
+Fault location

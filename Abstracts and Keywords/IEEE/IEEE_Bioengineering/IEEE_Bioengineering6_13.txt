@@ -1,0 +1,6 @@
+Segmentation is one of the most critical problems in medical imaging. State-of-the art methods often are based on prior knowledge that can either encode geometry, appearance or both. Despite enormous work in the field, the mainstream is based on the concept of case-to-case segmentation. In this paper, we introduce the notion of mutual population segmentation using discrete optimization where results from a given example influence results for the rest of the examples towards improving the overall segmentation performance. The aim is to combine prior knowledge along with consistency through the simultaneous segmentation of the whole population. This is achieved through their mutual deformation towards the atlas, while being constrained through a simultaneous all-to-all deformable diffeomorphic registration. Promising results demonstrate the potentials of the method.
+
+Atlas based segmentation
+Chest radiographs
+Lung field segmentation
+Markov Random Fields

@@ -1,0 +1,10 @@
+As a consequence of elasticity, mechanical deformations of crystals occur on a length scale comparable to their thickness. This is exemplified by applying a homogeneous electric field to a multidomain ferroelectric crystal: As one domain is expanding, the adjacent ones are contracting, leading to clamping at the domain boundaries. The piezomechanically driven surface corrugation of micron-sized domain patterns in thick crystals using large-area top electrodes is thus drastically suppressed, barely accessible by means of piezoresponse force microscopy.
+
+copper
+deformation
+elasticity
+electric domain walls
+electrodes
+ferroelectric materials
+gold
+lithium compounds

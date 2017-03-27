@@ -1,0 +1,6 @@
+This paper demonstrates viable device design options for low-leakage and robust SRAM in sub-50nm FD/SOI technology. We explore the possibilities of reducing the body-doping of FD/SOI devices with proper tuning of back-gate bias or gate workfunction to achieve a given leakage target. The reduction of body-doping density helps reduce the effect of the random dopant fluctuation (RDF), while the Vt and leakage are controlled using the back-gate bias. Our analysis show that, body-doping reduction combined with back-gate biasing is the most efficient FD/SOI device design for low-leakage and robust SRAM.
+
+FD/SOI
+SRAM
+low-power
+stability

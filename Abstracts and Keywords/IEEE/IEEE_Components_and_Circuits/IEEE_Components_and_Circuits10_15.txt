@@ -1,0 +1,5 @@
+ldquoCasattentardquo (Aware home, in Italian) is the demonstrator of a research project on ldquoambient intelligencerdquo, ldquosensor fusionrdquo and ldquowireless sensor networksrdquo. The result is a system composed of fixed and wearable sensor nodes, providing elderly people living alone in their house (but also persons in other situations and environments) with adequate and non intrusive monitoring in order to improve the quality of their life. The system consists of fixed smart sensors distributed in the environment and wearable ones monitoring inhabitants health and activity. The interaction between fixed and mobile nodes, based on the ZigBee wireless protocol, allows indoor tracking and identification of dangerous events.
+
+Ambient Intelligence
+Smart Home
+Wireless Sensor Networks

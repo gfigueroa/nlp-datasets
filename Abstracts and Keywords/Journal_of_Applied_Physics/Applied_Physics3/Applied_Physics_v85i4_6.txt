@@ -1,0 +1,17 @@
+Failure of metallic thin films driven by electromigration is among the most challenging materials reliability problems in microelectronics toward ultra-large-scale integration. One of the most serious failure mechanisms in thin films with bamboo grain structure is the propagation of transgranular voids, which may lead to open-circuit failure. In this article, a comprehensive theoretical analysis is presented of the complex nonlinear dynamics of transgranular voids in metallic thin films as determined by capillarity-driven surface diffusion coupled with drift induced by electromigration. Our analysis is based on self-consistent dynamical simulations of void morphological evolution and it is aided by the conclusions of an approximate linear stability theory. Our simulations emphasize that the strong dependence of surface diffusivity on void surface orientation, the strength of the applied electric field, and the void size play important roles in the dynamics of the voids. The simulations predict void faceting, formation of wedge-shaped voids due to facet selection, propagation of slit-like features emanating from void surfaces, open-circuit failure due to slit propagation, as well as appearance and disappearance of soliton-like features on void surfaces prior to failure.These predictions are in very good agreement with recent experimental observations during accelerated electromigration testing of unpassivated metallic films. The simulation results are used to establish conditions for the formation of various void morphological features and discuss their serious implications for interconnect reliability. © 1999 American Institute of Physics. 
+
+metallic thin films
+electromigration
+voids (solid)
+integrated circuit interconnections
+surface diffusion
+THIN FILMS
+DIFFUSION
+FAILURES
+SIMULATION
+VOIDS
+NONLINEAR PROBLEMS
+MIGRATION
+SURFACE PROPERTIES
+INTEGRATED CIRCUITS
+RELIABILITY

@@ -1,0 +1,8 @@
+The results of experiments on local pulsed ultraviolet laser annealing of carbon nitride (CNx) thin films are reported. It is shown that laser radiation can be used for efficient graphitization of CNx thin films. The degree of local transformation of diamond-like sp3 bonded CNx compound films into graphite-like ones is dependent upon the radiation energy density. It is also shown that the electron field emission properties of the thin films can be modified by the laser treatment. © 2000 American Institute of Physics. 
+
+carbon compounds
+insulating thin films
+laser beam annealing
+ultraviolet radiation effects
+electron field emission
+graphitisation

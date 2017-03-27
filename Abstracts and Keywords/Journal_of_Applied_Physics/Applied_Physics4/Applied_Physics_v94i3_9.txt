@@ -1,0 +1,14 @@
+Self-assembled InAs quantum-dot lasers grown by molecular-beam epitaxy using an AlGaAsSb metamorphic buffer layer on a GaAs substrate are reported. The resulting quantum-dot ensemble has a density &gt;3×1010/cm2 and a ground-state transition ranging from 1.46 to 1.63 ¼m. Pulsed, room-temperature operation generates lasing from the first excited state transition at wavelengths ranging from 1.27 to 1.34 ¼m. The minimum threshold current density (304 A/cm2) is achieved for a 7.7 mm cavity with cleaved, uncoated facets. © 2003 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+aluminium compounds
+quantum dot lasers
+ground states
+excited states
+current density
+self-assembly
+laser transitions
+molecular beam epitaxial growth
+semiconductor growth

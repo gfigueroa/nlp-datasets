@@ -1,0 +1,9 @@
+The monomode enhanced-index LiNbO3 waveguide fabricated by low-dose ion implantation is reported. LiNbO3 crystals were implanted with 3	MeV	Si+ ions to doses around 1014	ions/cm2. After annealing, the waveguides were formed by the extraordinary refractive index enhancement in the waveguide regions. The effective extraordinary refractive index of the waveguide increased with ion implantation dose. The loss was 0.64 dB/cm in the X-cut sample with an implantation dose of 3.3×1014	ions/cm2. The scattering loss in the Z-cut samples was even lower than that in the X-cut samples. © 2001 American Institute of Physics.
+
+lithium compounds
+silicon
+optical waveguides
+optical fabrication
+ion implantation
+refractive index
+optical losses

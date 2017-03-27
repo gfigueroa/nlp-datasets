@@ -1,0 +1,9 @@
+This paper describes the use of a fully automated Fouriertransform infrared spectrophotometer system to scan the composition of bulk slices of CdxHg1xTe for the range 0.15&lt;x&lt; 0.35 and its calibration to analytically determined X values. The most useful correlation established is for the n type, between the 300 K IR cuton defined by the zerotransmission intercept of a line tangent to the transmission curve at 1/e of its maximum and the composition parameter X as determined by wet chemical analysis. The overall prediction accuracy of true X is better than 0.005. Other cuton definitions, implementation pitfalls, and X correlations with both ptype transmission and 300 K carrier concentration are also discussed.
+
+CHEMICAL COMPOSITION
+FOURIER TRANSFORM SPECTROSCOPY
+INFRARED SPECTRA
+CALIBRATION
+CARRIER DENSITY
+CADMIUM TELLURIDES
+MERCURY TELLURIDES

@@ -1,0 +1,7 @@
+A stable guest-host system was prepared to improve the nonlinear optical (NLO) effects as well as the mechanical and morphological properties of the polymeric host matrices. A hybrid organic-inorganic nano composite synthesized via the sol-gel process in our previous work and Disperse Red 1 (DR1) was utilized as the host and the guest, respectively. Thin films were deposited on glass slides using a dip-coater rig. Dichroism measurements were carried out to gain information on the aggregation of the dye molecules and also the orientation mechanisms. In addition, birefringence studies were performed to determine the desired variations of the refractive indices. The diagrams analyses were especially focused on the changing tendency of three parameters in different samples; the signal level, the rise time and the fall time.
+
+Birefringence
+Dichroism
+Guest-Host System
+Nonlinear Optics
+Sol-gel

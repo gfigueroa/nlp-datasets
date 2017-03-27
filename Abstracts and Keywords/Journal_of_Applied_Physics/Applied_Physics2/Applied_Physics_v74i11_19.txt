@@ -1,0 +1,13 @@
+In this article, we propose and demonstrate a novel punchthrough heterojunction phototransistor (HPT). The base of the transistor is lightly doped and completely depleted under the operating condition. The collector bias current can be applied without the base terminal. The transistors exhibit optical conversion gain as high as 1240 at an incident optical power as low as 0.5 ¼W, and the gain changes less than 15% over a 20 dB range of incident optical power. The transient measurements showed that the transistor has a high response speed than that of conventional two or three terminal HPTs. This represents the best performance of HPTs with similar dimensions. The results of simulation showed that the punchthrough HPTs have much lower noise characteristics than conventional HPTs. The principle reported here can be applied to HPTs made from other material systems, such as AlGaSb/GaSb and InP/InGaAs, for long wavelength optical communications.
+
+PHOTOTRANSISTORS
+GAIN
+HETEROJUNCTIONS
+PERFORMANCE
+SIMULATION
+SIGNALTONOISE RATIO
+ALUMINIUM ANTIMONIDES
+GALLIUM ANTIMONIDES
+INDIUM PHOSPHIDES
+TERNARY COMPOUNDS
+TRANSIENTS

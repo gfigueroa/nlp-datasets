@@ -1,0 +1,11 @@
+The effective densityofstates (DOS) distributions in unhydrogenated and hydrogenated polycrystalline silicon (polySi) thin films have been determined from fieldeffect conductance measurements of n and pchannel thinfilm transistors (TFTs) fabricated in these films. These results are compared with those obtained through device simulation as well as with trapstate densities obtained by Levinsons method. Variations in TFT fabrication process conditions and device architecture are shown to significantly impact the DOS distribution and to correspondingly affect device performance. Hydrogenated lowtemperatureprocessed (600	°C) films have relatively high midgapstate and valenceband tailstate densities and Fermi levels located above midgap, in contrast to hightemperatureprocessed (950	°C) films that have low midgapstate densities and Fermi levels located below midgap. The fieldeffect conductance analysis method provides realistic gapstate density information and can thereby facilitate the accurate modeling and simulation of TFT device and circuit behavior.
+
+SILICON
+THIN FILMS
+FIELD EFFECT TRANSISTORS
+ENERGYLEVEL DENSITY
+POLYCRYSTALS
+HYDROGENATION
+FABRICATION
+FERMI LEVEL
+TEMPERATURE RANGE 04001000 K

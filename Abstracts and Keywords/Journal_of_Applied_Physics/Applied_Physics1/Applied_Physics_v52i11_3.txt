@@ -1,0 +1,16 @@
+A statistical model is presented to describe the structure of discontinous metal films in their coalescence stage of growth. The model is based upon predictions from atomistic adsorption and nucleation theory. The irregular metal particles in the discontinuous films are assumed to be prolate spheroids. Proceeding from these model particles (with lognormal distributed axes) a statistical approach is adopted to calculate the lengths of the radius vector in particles randomly oriented around their centers of gravity. The gradual change in the distribution of the centertocenter (ctc) distance with increased film thickness has been considered. This change has been described in two different ways: by a random walk concept and by statistical considerations of more distant neighbors. The distribution of the computed radius vector together with that of the observed ctc distance (represented as a truncated Gaussian) then serve as a foundation for calculations of edgetoedge separations between nearest neighbors. Predicted distributions of radius vector, ctc distance, and separation are compared with observed distributions for gold films formed on glass substrates and with thicknesses in the range t}4.0 nm. Good quantitative agreement was found between computed and experimental results. Small discrepancies could be accounted for in terms of particle alignment. In the edgetoedge separation distributions, both the mode and the dispersion were found to increase with film thickness. Finally, when introducing a limited dependence between radius vector and nearest neighbor distance (based upon observations), an excellent agreement was achieved for calculated and observed separation distributions.
+
+FILMS
+COALESCENCE
+METALS
+MATHEMATICAL MODELS
+ADSORPTION
+NUCLEATION
+PARTICLES
+SPHEROIDS
+THICKNESS
+RANDOMNESS
+DATA
+GOLD
+COMPARATIVE EVALUATIONS
+ALIGNMENT

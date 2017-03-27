@@ -1,0 +1,14 @@
+The microstructure of amorphous hydrogenated boron nitride films, with nominal composition B3N:H, is characterized with respect to hydrogen bonding and distribution by combined application of nuclearmagneticresonance (NMR) spectroscopy, electronspinresonance spectroscopy, and evolved gas analysis. Previous infrared studies on annealed films suggest that hydrogen is present in multiple configurations; qualitatively, lowtemperature anneals (<600	°C) deplete NH moieties whereas BH configurations are depleted at higher temperatures (<1050	°C). Gas analysis corroborates these results, showing H2 peaks at <570 and <950	°C. From an analysis of nuclear dipolar couplings extracted from the 1H NMR spectra, it is concluded that the hydrogen is essentially randomly distributed as monohydrides; other configurations, such as dihydrides and monohydride clusters, are estimated to be less than 20% total. Furthermore, the 1H NMR spectra show no evidence of molecular H2 trapped in the films. In a film exposed to a high xray dose (<30 kJ	cm3), it was determined that the damage was equivalent to 1 unpaired electron spin per 175 B3N:H units. The 1H NMR linewidth did not change after irradiation, which suggests that the hydrogen spatial distribution was unaffected.
+
+MICROSTRUCTURE
+BORON NITRIDES
+NUCLEAR MAGNETIC RESONANCE
+ELECTRON SPIN RESONANCE
+AMORPHOUS STATE
+HYDROGEN IONS 1 PLUS
+VERY HIGH TEMPERATURE
+HIGH TEMPERATURE
+CHEMICAL BONDS
+HYDROGENATION
+IMPURITIES
+DAMAGE

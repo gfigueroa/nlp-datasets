@@ -1,0 +1,8 @@
+Safety instrumented functions (SIFs) of process technology engineering (PCE) in the process industry are subject to regulations stated by international standards such as IEC 61508 and 61511. To be compliant with these standards a safety integrity level (SIL) assessment has to be carried out. The main goals are numerical measures for the amount of reliability that the SIF offers. One of these is the probability of failure on demand (PFD) i.e. the probability of the SIF to have failed at the time a demand occurs. Since 2005 also process industry in Germany has to follow these standards by the national regulation DIN EN 61508 and 61511. To show that the instrumentation fulfills the requirements of the standards a lot of individual issues need to be solved. The former safety method has to be adapted and in some cases it has consequences for design of the safety measures of process technology engineering and the implemented technical equipment.
+
+IEC 61508
+IEC 61511
+PCE
+PFD
+SIL
+proof test

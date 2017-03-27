@@ -1,0 +1,6 @@
+A high frequency dynamic ultrasound scattering technique was developed to evaluate the mean velocity and the velocity fluctuations of micron-sized beads in highly turbid suspensions. In contrast to the previous study, scattering phase was fully utilized to investigate the dynamics of mixtures consisting of settling and floating microspheres. The velocities of the particles moving upward and downward with respect to gravity were simultaneously measured by a single acquisition. Instantaneous velocities determined by the time derivative of the scattering phase were evaluated as functions of the evolution time and position of the scatterer. (1) The velocity analysis in the time domain, (2) the phase analysis without phase unwrapping, and (3) the effects of noise filtering were discussed. The results were compared with those derived from amplitude modedynamic ultrasound scattering.
+
+sedimentation
+suspensions
+turbidity
+velocimeters

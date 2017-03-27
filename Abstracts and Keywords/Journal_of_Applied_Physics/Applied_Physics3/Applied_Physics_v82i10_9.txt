@@ -1,0 +1,6 @@
+The approach that we have adopted is fundamentally different from Nans, although the numerical results of both appear to be very similar. Using this approach, the resulting properties can be expressed in a rather simple form, without the need to evaluate the intermediate terms requiring additional calculations such as Nans Eqs. (28) and (29) [Phys. Rev. B 50, 6082 (1994)]. For circular continuous fiber, for example, the use of our approach enables the magnetoelectric coupling coefficients to be expressed as 33 = [2f(1f)e31q31]/[(1f)(C12C12C11)(1+f)C11], in which all terms involved are fundamental material constants. The influence of the material constants on the coupling coefficient can be readily understood. © 1997 American Institute of Physics. 
+
+piezoelectric materials
+magnetomechanical effects
+fibre reinforced composites
+magnetoelectric effects

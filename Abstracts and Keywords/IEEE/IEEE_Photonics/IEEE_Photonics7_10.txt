@@ -1,0 +1,6 @@
+Since the properties of the polycrystalline 3C-SiC thin film heteroepitaxially grown on Si (n-type, p-type) or SiO<sub>2</sub>/Si is superior to any other that of single crystal SiC, it has attractive potentials for hash environments-, RF-, Bio-M/NEMS. Thus, we have investigated the electronic characteristics of the diodes having that a p-n junction diode was fabricated with 3C-SiC on p-type Si substrate, and Schottky diodes were fabricated with Au deposited on poly 3C-SiC/Si (n-type) and poly 3C-SiC/SiO<sub>2</sub>/Si respectively, for using extreme temperature surroundings M/NEMS with low leakage current. These diodes were annealed at 300, 400, and 500degC, and measured IV characteristics according to different annealing temperatures to investigate their electronic properties. SEM (scanning electron microscopy) and XKD (X-ray diffraction) have investigated the surface morphology of Au deposited on 3C-SiC thin films and the formed phases, respectively.
+
+Polycrystalline 3C-SiC
+SEM
+Schottky diode
+p-n junction diode

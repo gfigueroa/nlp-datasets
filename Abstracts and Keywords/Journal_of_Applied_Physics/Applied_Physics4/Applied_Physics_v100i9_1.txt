@@ -1,0 +1,10 @@
+Finite-element simulations of the effective complex permittivity of perforated two-dimensional (2D) lossy heterostructures are reported. The method is computationally inexpensive and is suited for simulations where the tacit assumptions are the following: (1) the composite behaves like a homogeneous medium with an effective (relative) permittivity µ = µ2jµ3 and (2) the porous medium is characterized by a perforated 2D object having arbitrary shape, e.g., split rings, honeycomb lattice, and Sierpinski carpet. These shape functionals have many applications to the scattering of wave and are also important for describing effective properties of particle dispersions. Our calculations provide insights into a variety of tuning parameters influencing µ including the surface fraction and perimeter of inclusion, the permittivity contrast between the inclusion and the matrix, and the shape of the holes. For a 2D composite structure containing a deterministic fractal inclusion we explicitly demonstrate that the µ2 and µ3 changes with reduced perimeter can be modeled according to the same similarity transformation, at least for the first four iterations of the fractal pattern. We quantify the effect of increasing the internal porosity on µ2 and µ3 for different types of perforated structures and show that composites containing split rings can achieve very small µ2 and µ3 in a large range of porosity. We find also that such geometries are auspicious for local field enhancement. The origin of these enhancements lies in the breakdown of the dipolar approximation which is often used to evaluate the effective permittivity of composite materials. These results can provide the experimenter with a method for assessing permittivity measurements and suggest that the successful integration of voided material in microwave electronic devices depends on the morphology of the embedded porosity.
+
+composite materials
+inhomogeneous media
+permittivity
+honeycomb structures
+porosity
+inclusions
+finite element analysis
+voids (solid)

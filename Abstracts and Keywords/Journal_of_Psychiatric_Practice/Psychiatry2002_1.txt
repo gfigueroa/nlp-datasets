@@ -1,0 +1,8 @@
+Evidence-based medicine (EBM) has been defined by Sackett as the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients. Practicing evidence-based medicine requires the ability to apply a knowledge of medical informatics and clinical epidemiology to the treatment of individual patients. This article provides an introduction to the history, philosophy, and methods of evidence-based medicine for psychiatrists and other mental health professionals. The article focuses on a systematic approach to efficiently finding the best evidence to answer clinical questions. Particular emphasis is given to a method for critically appraising papers that emphasizes validity, importance, and clinical applicability. Resources for further learning are provided. 
+
+evidence-based medicine
+clinical epidemiology
+medical informatics
+critical appraisal
+clinical trials
+medical education

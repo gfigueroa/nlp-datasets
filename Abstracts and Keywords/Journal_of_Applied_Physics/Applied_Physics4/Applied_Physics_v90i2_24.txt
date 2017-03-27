@@ -1,0 +1,10 @@
+An optical emission microscopy technique with spatial and spectral resolution capabilities is applied for stability studies of 4HSiC material properties. From the example of a 4HSiC p+/n/n+ diode imaged at different stages of electrical overstress the mechanism of degrading performance is directly unveiled. We correlate this phenomenon with irreversible structural changes within the active region created by a nonuniform heating related stress. The stress-generated features are interpreted as multiple stacking faults spreading throughout the whole base region and nucleated in the vicinity of built-in defects and process-induced structural deficiencies. © 2001 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+p-n junctions
+electrostatic discharge
+semiconductor diodes
+stacking faults
+optical microscopy
+semiconductor device reliability

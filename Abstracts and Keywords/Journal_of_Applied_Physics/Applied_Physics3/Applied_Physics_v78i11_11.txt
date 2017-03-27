@@ -1,0 +1,12 @@
+A method for determination of the lattice parameters, parallel to the sample surface as well as normal to the sample surface, in the individual layers of singlecrystalline superlattices is derived. The method is based on simulations of low angle reflectivity measurements in combination with xray diffraction reciprocal space mapping. The number of unknown simulation parameters is reduced from three to one, namely the layer thickness of one of the layers which constitutes the bilayer period, if compared to techniques based only on simulations of the high angle diffraction pattern. The technique is demonstrated by characterizing a singlecrystalline Mo/V(001) superlattice grown by dualtarget magnetron sputtering onto MgO(001) substrates. The lattice parameters of the tetragonally distorted layers were aMo=0.309 nm, cMo=0.319 nm, aV=0.305 nm, and cV=0.298 nm which correspond to a misfit dislocation density of <0.056 dislocations per nm at each interface and a relaxation of <1/3 of the coherency strain. The lattice parameters obtained by the method were confirmed by comparing a kinematical calculation of the high angle Mo/V(002) ¸2¸ diffraction pattern (using the obtained values as input parameters) with the experimentally determined pattern. © 1995 American Institute of Physics.
+
+DISLOCATIONS
+LATTICE PARAMETERS
+MOLYBDENUM
+REFLECTIVITY
+SIMULATION
+SPUTTERED MATERIALS
+STRAINS
+SUPERLATTICES
+VANADIUM
+XRD

@@ -1,0 +1,10 @@
+Clinical trials are aimed at determining what happens in the usual patient; however, clinicians are interested in what happens in their patients even if they are not usual. The usual dose-response relationship is determined as part of the drug development process required for approval of a new drug. However, clinicians are likely to encounter patients who fall off the usual dose-response curve because they are either sensitive or resistant to the beneficial (efficacy) or adverse effects of a drug. This column is the first in a series that will examine why specific patients fall off the usual dose-response curve and how clinicians can manage such patients when they encounter them. This column discusses what a dose-response curve is, how it is determined, and why it is clinically important. (<em>Journal of Psychiatric Practice</em> 2009;15:460-466) 
+
+dose
+response
+dose-response curve
+outlier
+sensitivity
+resistance
+efficacy
+adverse effects

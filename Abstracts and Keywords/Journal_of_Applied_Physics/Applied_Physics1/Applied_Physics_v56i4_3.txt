@@ -1,0 +1,16 @@
+The stationary Boltzmann equation is solved by using a matrix method. This allows determining directly the steady state regime for hot carriers in semiconductors. The main advantages of this new method are: the result does not depend on initial conditions, and the cost is much lower than that of iterative or Monte Carlo techniques, particularly at high electric field.
+
+monte carlo method
+iterative methods
+electric field effects
+matrix algebra
+numerical solution
+silicon
+steadystate conditions
+boltzmann equation
+charge carriers
+hot electrons
+semiconductor materials
+silicon
+cost
+efficiency

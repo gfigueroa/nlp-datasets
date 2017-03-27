@@ -1,0 +1,13 @@
+Dangling bond (DB) defects in unhydrogenated microcrystalline silicon (¼c-Si) prepared by rf sputtering have been studied. Raman spectra and x-ray diffraction indicate that the ¼c-Si fraction has been formed at the Ar sputtering pressure higher than 26.6 Pa while only amorphous silicon (a-Si) has been produced at the lower pressure. The electron paramagnetic resonance (EPR) spectrum in the ¼c-Si film is broad and unsymmetrical with the average g value of g=2.006 compared with that of a-Si (g=2.0055). The X- and Q-band EPR measurements suggest that the line shape is mainly governed by the inhomogeneous broadening due to the g anisotropy, indicating relatively large distribution of the structure of the DB defects. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+sputtered coatings
+dangling bonds
+defect states
+paramagnetic resonance
+EPR line breadth
+g-factor
+Raman spectra
+X-ray diffraction
+spectral line broadening

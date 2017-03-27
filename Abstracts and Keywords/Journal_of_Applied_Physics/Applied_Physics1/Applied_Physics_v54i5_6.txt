@@ -1,0 +1,21 @@
+TiW alloy film was deposited by conventional dc sputtering in a PtSi film grown on a 100	 silicon substrate. Two sets of samples were prepared with different oxygen content in the TiW film. MeV 4He+ backscattering analysis shows, after vacuum annealing, the formation of a ternary mixture (TixW1x)Si2(x=0.24) . The Ti:W ratio in the mixture is the same as in the asdeposited film. The growth in the 625775	°C temperature range, is directly proportional to the time and the process is thermally activated with an activation energy of 3.3±0.1 eV. During the thermal annealing the platinum silicide is always located between the ternary mixture and the Si substrate. Xray diffraction indicates the formation of a pseudobinary solid solution with an hexagonal structure with a=4.61±0.01 Å and c=6.47±0.02 Å. The presence of the oxygen slows down the reaction but does not change the mechanism of the compound formation. The content and distribution of impurities was measured using Auger technique combined with Ar sputtering. In the two sets of samples the average oxygen concentration is 1% and about 5%, respectively. The oxygen is mainly located at the TiW/PtSi interface. During the compound formation the oxygen distribution is not modified.
+
+titanium alloys
+tungsten alloys
+silicon
+interactions
+platinum silicides
+deposition
+crystal lattices
+orientation
+direct current
+sputtering
+experimental data
+oxygen
+quantity ratio
+mev range
+helium 4
+backscattering
+high temperature
+activation energy
+annealing

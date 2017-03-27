@@ -1,0 +1,12 @@
+The diffusion of defects during the thermal growth of SiO2 film on Si(100) in dry O2 was investigated using sequential treatments in natural oxygen (16O2) and in heavy oxygen (18O2) in a Joule effect furnace. The 18O depth profiles were measured with a depth resolution better than 1 nm, using the nuclear reaction narrow resonance 18O(p,±)15N (ER = 151
+keV, “R = 100
+eV). From these profiles, we confirmed that just below the surface an exchange between the oxygen atoms from the gas phase and those from the silica occurs, even for silica films thicker than 20 nm. This fact is not predicted by the Deal and Grove model. A diffusion of oxygen related defects takes place in the near surface region, with an apparent diffusion coefficient D = 4.33×1019
+cm2/s for an oxidation temperature of T = 930
+°C and for an oxygen pressure of P = 100
+mbar. © 1997 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+oxidation
+diffusion
+crystal defects

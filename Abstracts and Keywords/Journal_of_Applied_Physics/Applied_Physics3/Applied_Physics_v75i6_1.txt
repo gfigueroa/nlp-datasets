@@ -1,0 +1,9 @@
+We investigate the measurement of the complex refractive index of individual quantum wells by reflectance spectroscopy. Placing the wells at halfwavelength spacing to cause resonant feedback produces an orderofmagnitude increase in measurement sensitivity over that of nonresonant structures. Quantum well dispersive and absorptive effects on reflectance can be differentiated in certain spectral regions. Experimental data confirm a theoretical model of refractive index and absorption for quantum wells of GaAs in Al0.2Ga0.8As in the region of the well band gap. 	
+
+QUANTUM WELLS
+REFRACTIVE INDEX
+SPECTRAL REFLECTANCE
+DISPERSION RELATIONS
+ABSORPTION
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES

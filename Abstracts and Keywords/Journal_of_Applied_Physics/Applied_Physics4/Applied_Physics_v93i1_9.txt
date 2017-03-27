@@ -1,0 +1,8 @@
+We describe an x-ray microprobe measurement of selectively grown heteroepitaxial Si1xGex on Si. The experiment was conducted at the European Synchrotron Radiation Facility of Grenoble at the ID13 Microfocus beamline. The Si1xGex layers were deposited by a standard chemical vapor deposition process on patterned 200 mm wafers of monocrystalline Si substrate. The uniformity of the pseudomorphic layers, in terms of Ge content and thickness, is evaluated by double crystal x-ray diffraction with the use of a novel microgoniometer and with a spatial resolution of <5×7.5 ¼m2. The results show the good uniformity of the SiGe layers and indicate the possibility of evaluating the strain fields near the shallow trench isolation structures. © 2003 American Institute of Physics. 
+
+semiconductor epitaxial layers
+X-ray diffraction
+vapour phase epitaxial growth
+chemical vapour deposition
+Ge-Si alloys
+semiconductor materials

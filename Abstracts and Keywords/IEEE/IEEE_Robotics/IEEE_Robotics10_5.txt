@@ -1,0 +1,6 @@
+The present paper applies Constructal Design to optimize the geometry of a Y-shaped negative fin that intrudes a solid conducting wall with heat generation. The main goal is the minimization of the thermal global resistance between the solid wall and the negative fin, which removes energy from the wall. The optimization is achieved by varying the angle between the tributary branch of the Y-Shaped fin and the horizontal axis, as well as, by varying the ratio between the volume of the fin and the rectangular volume that circumscribes it (&#x03C8;), while the other geometric parameters are maintained fixed. Constructal Design led to a best configuration, with a thermal global resistance of 53%, 49% and 48% for &#x03C8; = 0.3, &#x03C8; = 0.4 and &#x03C8; = 0.5, respectively, smaller than the ones for the worst configuration.
+
+Constructal Design
+Negative Fin
+Thermal Optimization
+Y-Shaped

@@ -1,0 +1,11 @@
+We have compared the time integrated photoluminescence (PL) and the time resolved PL of several lattice matched InGaAs/InP quantum wells intermixed either by ion implantation or an impurity-free method. We have found that the carrier capture rates into quantum wells and carrier relaxation from the wells depend on the type of intermixing used. Our results indicate that the carrier lifetimes are significantly longer in samples intermixed by the impurity-free methods, while the carrier collection efficiency of the quantum wells is more efficient in samples intermixed by ion implantation. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+photoluminescence
+carrier lifetime
+ion implantation
+time resolved spectra
+carrier relaxation time

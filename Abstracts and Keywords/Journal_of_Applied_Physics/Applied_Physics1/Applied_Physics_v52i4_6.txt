@@ -1,0 +1,12 @@
+A method for determining the superconductingquantuminterferencedevice (SQUID) parameter ² = LsIc/¦o and the coupling coefficient K between the SQUID loop and tank circuit based on the general theory for the nonhysteretic rf SQUID is derived. Analysis of the periodic dependence of the amplitude of the tankcircuit voltage on applied dc flux leads to explicit expressions for ² and K. Important advantages of the method are that, during measurements, the SQUID loop has neither to be opened nor decoupled from the tank circuit, and the temperature of the sample does not have to be changed. Measurements with a Nbpointcontact SQUID at 4.2 K to verify the method in practice are reported. Intrinsic errors were estimated to be less than 10%.
+
+SQUID DEVICES
+HYSTERESIS
+RF SYSTEM
+MATHEMATICAL MODELS
+VARIATIONS
+MAGNETIC FLUX
+ULTRALOW TEMPERATURE
+EQUATIONS
+NIOBIUM
+ERRORS

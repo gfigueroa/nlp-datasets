@@ -1,0 +1,12 @@
+The orientation of element-specific moments was determined by using x-ray magnetic circular dichroism spectroscopy to explore exchange anisotropy of TbFe/Co bilayers. Perpendicular anisotropy of 15 Å Co was induced by TbFe through exchange coupling, resulting in the out-of-plane Co moments. With increasing the thickness, Co moments were gradually tilted to the in-plane orientation because of increasing planar anisotropy. In the bilayer with thick Co, interfacial Fe moments were unidirectionally aligned in the plane, leading to in-plane exchange bias of Co. The coercivity and exchange bias field of Co in the bilayers exhibited a strong dependence on Co thickness. © 2004 American Institute of Physics. 
+
+terbium alloys
+iron alloys
+cobalt
+ferromagnetic materials
+antiferromagnetic materials
+magnetic anisotropy
+exchange interactions (electron)
+magnetic moments
+magnetic circular dichroism
+coercive force

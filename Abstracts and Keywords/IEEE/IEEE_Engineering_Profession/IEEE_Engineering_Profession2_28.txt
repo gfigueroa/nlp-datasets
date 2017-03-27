@@ -1,0 +1,6 @@
+This article deals with the vibration control of a MIMO plant. The plant under study is an aircraft wing model with a tank whose levels of filling may vary. The model is thus uncertain and a robust control is necessary to guarantee the performance of the closed-loop response. As the problem concerns vibration reduction, the method focuses on the robustness of the damping factor of the closed-loop response. The proposed methodology is based on: - a contour defined in the Nichols plane and significant of the damping factor of the closed-loop response - the CRONE control method that is a robust method based on fractional order integration.
+
+damping
+fractional control
+multivariable control
+robust control

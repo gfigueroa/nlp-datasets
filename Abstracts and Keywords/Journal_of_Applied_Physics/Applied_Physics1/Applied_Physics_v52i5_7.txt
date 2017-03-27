@@ -1,0 +1,14 @@
+A transverse electric plane wave is obliquely incident upon a plane stratified medium in which the displacement currents are negligible. It is shown that the conductivity and permeability profiles of the medium can be uniquely reconstructed from the surface impedance at two angles of incidence and at all frequencies.
+
+DIELECTRIC MATERIALS
+ELECTRIC CONDUCTIVITY
+STRATIFICATION
+MAGNETIC SUSCEPTIBILITY
+MATHEMATICAL MODELS
+THEORETICAL DATA
+ELECTRIC CURRENTS
+INCIDENCE ANGLE
+SURFACES
+IMPEDANCE
+FREQUENCY DEPENDENCE
+SPATIAL DISTRIBUTION

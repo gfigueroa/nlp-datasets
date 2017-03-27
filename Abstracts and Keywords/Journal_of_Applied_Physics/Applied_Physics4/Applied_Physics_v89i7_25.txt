@@ -1,0 +1,11 @@
+A combined theoretical and experimental study is performed for the initiation of chemistry process in high explosive crystals from a solid-state physics viewpoint. In particular, we were looking for the relationship between the defect-induced deformation of the electronic structure of solids, electronic excitations, and chemical reactions under shock conditions. Band structure calculations by means of the HartreeFock method with correlation corrections were done to model an effect of a strong compression induced by a shock/impact wave on the crystals with and without edge dislocations. Based on the obtained results, an excitonic mechanism of the earliest stages for initiation of high explosive solids is suggested with application to cyclotrimethylene trinitramine (also known as RDX) crystal. Experimental tests of this mechanism for AgN3 decomposition controlled by the dislocation density were worked out. The use of pulse radiolysis techniques allows us to observe pre-explosion modifications in properties and behavior of the solids. Pre-explosion conductivity and pre-explosion luminescence measurements for a series of heavy metal azides lead us to the model for the development of the decomposition chain reaction. Thus, the key role of electronic excitations facilitated by edge dislocations in explosive solids is established and analyzed. Practical applications of the suggested mechanisms are discussed. © 2001 American Institute of Physics.
+
+decomposition
+explosions
+shock wave effects
+band structure
+HF calculations
+dislocation density
+electron correlations
+edge dislocations
+radiolysis

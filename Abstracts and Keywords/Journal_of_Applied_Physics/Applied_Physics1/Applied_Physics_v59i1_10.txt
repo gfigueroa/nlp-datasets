@@ -1,0 +1,14 @@
+We have probed the spin reorientation transition in Er2Fe14B by neutron powder diffraction. Our data and Rietveld analyses of them indicate that the transition is centered near 330 K, as magnetization measurements have shown, but extends over an interval of approximately 50 K. It occurs by coherent rotation of the moments from the basal plane at low temperatures to the c axis above <350 K. We find no evidence for any noncollinear arrangement of the Er and Fe moments.
+
+NEUTRON DIFFRACTION
+SPIN ORIENTATION
+REORIENTATION
+CRYSTAL STRUCTURE
+MAGNETIC ORDERING
+MAGNETIZATION
+ERBIUM ALLOYS
+BORON ALLOYS
+IRON BASE ALLOYS
+MAGNETIC MOMENTS
+POWDERS
+TRANSITION TEMPERATURE

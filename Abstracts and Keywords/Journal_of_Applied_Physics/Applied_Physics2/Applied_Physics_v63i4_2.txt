@@ -1,0 +1,13 @@
+Heimplanted samples of LiNbO3 have been analyzed by 24MeV 28Si elastic recoil detection. For 50keV He implants, the Li and H profiles show a depletion of Li from the sample nearsurface region which coincides with a gain of H. The Li loss is seen to increase with increasing ion fluence and implantation temperature.
+
+LITHIUM COMPOUNDS
+NIOBATES
+PHYSICAL RADIATION EFFECTS
+DAMAGE
+HELIUM IONS
+ION IMPLANTATION
+SILICON IONS
+SILICON 28
+MEV RANGE 10100
+OPTICAL PROPERTIES
+WAVEGUIDES

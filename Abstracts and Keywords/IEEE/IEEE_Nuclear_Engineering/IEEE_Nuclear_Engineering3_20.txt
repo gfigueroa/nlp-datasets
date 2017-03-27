@@ -1,0 +1,8 @@
+The main objective of this tutorial is to present the basic concepts on the instantaneous p-q Theory and then show its applicability for controlling switching converters connected in a micro-grid. These converters can be used for connecting renewable energy sources (solar, wind, and others) to the micro-grids or for harmonic, reactive power or unbalance compensation, and even for voltage regulation. The emphasis is given on the compensation characteristics derived from the p-q Theory, and simulation results of test cases are shown. Special attention is put on the oscillating component of the instantaneous real power, as it may produce torque oscillations or frequency variations in weak systems (micro-grids) generators. This oscillating component, as defined in the p-q Theory, gives the amount of oscillating energy between the source and the load, and its compensation through a switching compensator must have an energy storage element to exchange it with the load. With the p-q Theory this energy storage element can be easily calculated as a function of the average component of the instantaneous real power, which depends on the observation period.
+
+active filter
+instantaneous power
+micro-grids
+p&#x2013;q Theory
+power conditioner
+weak electrical systems

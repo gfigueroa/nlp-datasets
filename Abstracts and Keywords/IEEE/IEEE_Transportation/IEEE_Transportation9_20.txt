@@ -1,0 +1,7 @@
+This paper presents novel millimeter wave filter structures by creation of some slots on the strip. These slots perform a serious LC resonance property in certain frequency and suppress the spurious signals. In high frequencies and high density applications, the board area is seriously limited, so using these filters; the circuit area is minimized. The proposed filters are compact and very suitable for high density MMIC circuits.
+
+Defected Microstrip Structure (DMS)
+bandpass filter
+bandstop filter
+circuit modelling
+millimetre wave

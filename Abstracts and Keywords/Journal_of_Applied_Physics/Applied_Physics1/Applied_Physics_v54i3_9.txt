@@ -1,0 +1,20 @@
+The time dependence of polarization reversal in ²phase polyvinylidene fluoride has been measured under a stepfunction field up to 200 MV/m below room temperature. Fairly fast switching has been found to occur which might be accomplished by a 180° rotation of individual chains around their chain axes in the crystalline lamellae. The field dependence of the switching time is strong as indicated by a very high activation field of 12 GV/m or a large power law index of 8.010.5. The shape of switching transient has been investigated phenomenologically and by computer simulation on the basis of a nucleation and growth model. It is shown that the model is consistent with observations if onedimensional growth and an appropriate ratio of growth velocity to nucleation probability are assumed. Effects of the size of nuclei and domains are examined.
+
+polyvinyls
+organic fluorine compounds
+polarization
+rotation
+molecules
+experimental data
+time dependence
+electric fields
+medium temperature
+crystals
+lamellae
+transients
+computerized simulation
+nucleation
+mathematical models
+onedimensional calculations
+size
+domain structure

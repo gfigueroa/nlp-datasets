@@ -1,0 +1,20 @@
+Planar InP/In0.53Ga0.47As photodiodes with borophosphosilicate glass (BPSG) layers as a Zndiffusion mask and as an InP surface pn junction passivant exhibit stable, reversebias leakagecurrent characteristics at 220	°C for more than 104 h. Based on these results, estimates of the time required for the leakage current at 70	°C to saturate at 10 nA is, in the worst case considered, about 33 years. As a passivant and diffusion mask, BPSG compares favorably with silicon nitride.
+
+PHOTODIODES
+PASSIVATION
+BOROPHOSPHATE GLASS
+PN JUNCTIONS
+RELIABILITY
+QUANTUM EFFICIENCY
+OPTICAL FIBERS
+QUARTZ
+INDIUM PHOSPHIDES
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+OPTICAL COMMUNICATION SYSTEMS
+MASKING
+LEAKAGE CURRENT
+HIGH TEMPERATURE
+ZINC
+SURFACE TREATMENTS
+SILICON NITRIDES

@@ -1,0 +1,4 @@
+Numerical simulation of a vertically held metal-halide lamp (Hg/Na/Sc system) is presented. The lamp was driven by an ac current of 60 Hz. The model took convection and diffusion of various species into account. A method for rapid calculation of optically thick radiation power was developed. Density of scandium ions and sodium ions has a minimum on the central axis due to radial ambipolar diffusion. Density of metallic atoms and ions and metal iodine molecules decreases with increasing axial distance from the bottom of the tube. This tendency was explained by convection and diffusion. The density of scandium ions depends on the direction of the current; the density was greater at upward current than at downward current. © 2002 American Institute of Physics.
+
+metal vapour lamps
+plasma simulation

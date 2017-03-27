@@ -1,0 +1,8 @@
+La0.67Ca0.33Mn1xCuxO3 (x=0 and 0.15) epitaxial thin films were grown on the (100) LaAlO3 substrates, and the temperature dependence of their resistivity was measured in magnetic fields up to 12 T by a four-probe technique. We found that the competition between the ferromagnetic metallic (FM) and paramagnetic insulating (PI) phases plays an important role in the observed colossal magnetoresistance (CMR) effect. Based on a scenario that the doped manganites approximately consist of phase-separated FM and PI regions, a simple phenomenological model was proposed to describe the CMR effect. Using this model, we calculated the resistivity as functions of temperature and magnetic field. The model not only qualitatively accounts for some main features related to the CMR effect, but also quantitatively agrees with the experimental observations. © 2002 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+ferromagnetic materials
+ferromagnetic-paramagnetic transitions
+colossal magnetoresistance
+magnetic epitaxial layers

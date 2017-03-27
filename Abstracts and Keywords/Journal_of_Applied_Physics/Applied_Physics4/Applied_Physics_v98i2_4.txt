@@ -1,0 +1,12 @@
+Thin films of Sr2FeMoO6 (SFMO) are grown epitaxially on (001) SrTiO3 substrates by pulsed laser deposition. The in-plane and out-of-plane SFMO lattice parameters are determined for different thicknesses, from 13 to 600 nm. Samples below a critical thickness of around 34 nm are fully strained, samples between 34 and 80 nm are relaxing, and samples between 80 and 600 nm are fully relaxed. Transmission electron microscopy reveals that the relaxation is done by stacking the faults perpendicular to the substrate. Ab initio calculations show first that the variation of SFMO lattice parameters due to strain has a limited impact on the magnetization, which is also observed experimentally. Second, ab initio calculations indicate that SFMO is half metallic only for thicknesses above 44 nm.
+
+strontium compounds
+iron compounds
+stress relaxation
+pulsed laser deposition
+lattice constants
+transmission electron microscopy
+stacking faults
+ab initio calculations
+magnetisation
+magnetic epitaxial layers

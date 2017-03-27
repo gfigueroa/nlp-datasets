@@ -1,0 +1,14 @@
+This paper proposes an improvement of advanced driver assistance system based on saliency estimation of road signs. After a road sign detection stage, its saliency is estimated using a SVM learning. A model of visual saliency linking the size of an object and a size-independent saliency is proposed. An eye tracking experiment in context close to driving proves that this computational evaluation of the saliency fits well with human perception, and demonstrates the applicability of the proposed estimator for improved ADAS.
+
+Advanced Driver Assistance Systems
+Conspicuity
+Eye-Tracking
+Head Up Display
+Human Vision
+Image Processing
+Machine Learning
+Object Detection
+Road Safety
+Road Signs
+SVM
+Visual Saliency

@@ -1,0 +1,18 @@
+The influence of surface roughness in determining the tribological behavior of carbon coated thinfilm magnetic recording disks have been investigated. Contact start/stop and lowspeed drag tests were performed on unlubricated disks as well as disks that were coated with different thickness of a perfluoropolyether lubricant. Measurements of stiction and friction were made on disks with different surface roughness and using Al2O3TiC sliders. Experimental results show that both stiction and friction are reasonably independent of the surface roughness above a certain value but show a sharp increase for tests on the smoother disks. The experimental findings are explained on the basis of currently accepted models for stiction that considers surface tension and viscous properties of the surfaces and possible effects arising from contamination.
+
+MAGNETIC DISKS
+THIN FILMS
+SURFACE PROPERTIES
+ROUGHNESS
+CARBON
+COATINGS
+TRIBOLOGY
+FRICTION
+RECORDING SYSTEMS
+ADHESION
+ALUMINIUM ALLOYS
+MAGNESIUM ALLOYS
+NICKEL PHOSPHIDES
+SURFACE TENSION
+VISCOSITY
+CONTAMINATION

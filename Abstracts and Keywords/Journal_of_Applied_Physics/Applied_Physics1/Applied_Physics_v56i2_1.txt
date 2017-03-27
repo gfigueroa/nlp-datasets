@@ -1,0 +1,22 @@
+Optical emission actinometry has been used recently as a means for estimating relative concentrations of radicals in rf plasmas. The technique relies upon normalization of the radical emission intensity to that from an inert gas (the actinometer) in order to compensate for changes in the electron density or energy distribution. However, actinometry is a valid measure of groundstate densities only when the excited states are created by electronimpact excitation (e.g., as opposed to chemiluminescent reactions or electronimpact dissociation). When techniques such as laserinduced fluorescence and opticalabsorption spectroscopy are available, there is little need to use actinometry. However, there are many instances where these techniques are not yet applicable or practical and the use of actinometry may be desirable. In such instances, a simple means of assessing the validity of an actinometer would be advantageous. We describe the use of emission line shapes for determining the mechanism of excitedstate formation and assessing the validity of an actinometer. In CF4/O2/Ar plasmas, both Ar and F are created with cold (360±70 K) translational distributions over a range of [F] from 0.4 to 4.0×1014 atoms	cm3. This implies that both species are created by electronimpact excitation and that Ar can be used as an actinometer in determining [F]. In Cl2/Ar plasmas, however, Cl and Ar emission line shapes in the sheath show substantial broadening during the cathodic part of the rf cycle, which implies that other excitation mechanisms such as dissociation, attachment, ion impact, and charge exchange are important and that actinometry is not valid under these conditions. But, timeaveraged Cl and Ar emissions in the discharge center have identical linewidths, so that actinometry can be used to determine Cl atom concentrations.
+
+plasma
+chemical composition
+radicals
+rare gases
+electron density
+electron spectra
+ground states
+excited states
+electron collisions
+line shape
+excited states
+line widths
+chlorine
+chlorine molecules
+argon
+fluorine
+emission spectra
+impurities
+plasma diagnostics
+emission spectroscopy

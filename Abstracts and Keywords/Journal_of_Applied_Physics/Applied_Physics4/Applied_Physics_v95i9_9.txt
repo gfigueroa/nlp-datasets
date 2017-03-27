@@ -1,0 +1,8 @@
+We consider the nonequilibrium thermodynamic state of carriers in III-nitrides, and calculate the mobility of holes in cubic GaN layers under electric fields of low intensity. The contribution of different scattering mechanisms to the mobility is analyzed, and the relevance of each one is characterized. Satisfactory agreement with recently published experimental data is obtained.© 2004 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+nonequilibrium thermodynamics
+semiconductor epitaxial layers
+hole mobility

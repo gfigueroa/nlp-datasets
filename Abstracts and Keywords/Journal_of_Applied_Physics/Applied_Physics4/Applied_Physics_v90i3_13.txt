@@ -1,0 +1,18 @@
+Cr-substituted Finemet-type nanocrystalline alloy (Fe63.5Cr10Si13.5B9Cu1Nb3) has been studied by differential scanning calorimetry, x-ray diffraction, Mössbauer spectroscopy, and magnetic measurements. The Curie temperature of the remaining amorphous phase decreases as the crystalline volume fraction increases, reaching values below room temperature. This feature makes the alloy adequate for studying the magnetic decoupling of the (Fe,Si) nanocrystals at moderated temperatures and, in particular, the superparamagnetic relaxation in broad temperature and crystalline fraction ranges. It was shown that the anomalous dependence of the coercive field on the annealing temperature can be satisfactorily explained assuming a dipolar-type interaction between the crystallites. © 2001 American Institute of Physics. 
+
+iron alloys
+chromium alloys
+silicon alloys
+boron alloys
+copper alloys
+niobium alloys
+nanostructured materials
+superparamagnetism
+differential scanning calorimetry
+X-ray diffraction
+Mossbauer effect
+Curie temperature
+annealing
+magnetic relaxation
+coercive force
+crystallites

@@ -1,0 +1,13 @@
+A method basically determining individual layer thicknesses in actual periodic multilayers has been developed, that solves simultaneous equations of positions of peaks appearing in wavelet transform curve of x-ray grazing incidence reflectivity. The determination was demonstrated on a Ni/C periodic multilayer fabricated by magnetron sputtering. Using the layer thicknesses obtained by the method, further accurate of thickness, roughness, and density of each layer was performed by Parratts model. The special feature that the topmost and bottom-most layers were thicker than other layers was clearly observed. The former is attributed to oxidation and the latter is attributed to the effect of deposition on thick substrate. The mean fluctuations of other layers are 2.6% in C layers and 4.2% in Ni layers attributed to random fluctuations at deposition. Numerical analysis and statistical hypothesis tests have been carried out to discuss noncumulative and cumulative layer-thickness fluctuations in fabrication process.
+
+carbon
+multilayers
+nanofabrication
+nickel
+numerical analysis
+oxidation
+sputtering
+statistical analysis
+wavelet transforms
+X-ray diffraction
+X-ray reflection

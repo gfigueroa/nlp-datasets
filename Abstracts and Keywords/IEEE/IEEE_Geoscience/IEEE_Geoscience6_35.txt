@@ -1,0 +1,6 @@
+MBR is the combination of membrane separation and high-performance biological treatment technology. The origin of membrane separation technology is used to replace the activated sludge in secondary sedimentation tank, separating the solid from the liquid. Based on the establishment of the MBR trial model simulation system, we can solve the data conversion and correction of the parameters with the problem in order to facilitate the user's management and operation, with it can achieve a more intelligent process. MBR sewage treatment factory use real-time simulation process to verify the correctness and practicability of the system.
+
+Bioreactor
+Membrane
+Simulation Intellectualization
+Trial model

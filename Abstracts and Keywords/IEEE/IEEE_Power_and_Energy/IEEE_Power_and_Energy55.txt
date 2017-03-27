@@ -1,0 +1,7 @@
+This paper describes a comparative study of induction motor testing standards IEEE 112 and newly published IEC 60034-2-1, primarily used in the United States and Europe, respectively. IEC 60034-2-1 has been refined from its earlier version IEC 60034-2 with reference to the IEEE 112. Six induction motors are tested following the two standards and the results are compared with regard to their instrumental accuracy and testing procedures. Power loss results are validated by the calorimetric method. A quantitative method is devised to evaluate the measurement uncertainty that can be interpreted into an efficiency deviation by quadrature addition. This paper is aimed to provide a guideline on interpreting the measured machine efficiency values using these standards and to validate the new IEC standard.
+
+Calorimetry
+IEC
+IEEE standards
+induction motors
+loss measurement

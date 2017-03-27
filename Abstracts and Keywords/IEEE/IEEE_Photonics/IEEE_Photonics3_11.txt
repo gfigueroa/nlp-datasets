@@ -1,0 +1,6 @@
+This paper presents a statistical view of the texture retrieval problem by combining the two related steps, feature extraction and similarity measurement. Based on spectral representation of texture images under Fourier transform, rotation invariant signatures of orientation spectrum distribution are extracted. Peak Distribution Vector (PDV) obtained on the spectral signatures capture texture properties invariant to image and surface rotation. The PDV is used to measure the similarity measurement by computing sum of square distance between query and data base images. The method is applied to content based retrieval system with a database of over 1000 randomly chosen texture images from photometric texture database. Experimental results indicate that the new method significantly improves the retrieval rates compared with the Zhang's approaches while it retains comparable levels of computational complexity.
+
+Peak Distribution Vector
+Photometric texture database
+Rotation invariant spectral signatures
+Sum of square distance

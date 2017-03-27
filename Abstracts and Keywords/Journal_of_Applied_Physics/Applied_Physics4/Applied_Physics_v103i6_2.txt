@@ -1,0 +1,11 @@
+A finite element model was developed to study adhesion of elastic-plastic microcontacts in a previous investigation. An interesting result was the identification of two distinct separation modes, i.e. brittle and ductile separation. In the current study, that model is used to conduct a series of simulations to determine the influence of four nondimensional parameters (including the maximum load parameter) on the contact and on the separation modes. The results show that the parameter S (the ratio of the theoretical stress to the hardness) and ´f/´c (representing the loading level) are the most important. Smaller S can only lead to brittle separation, while larger S can cause either separation mode depending on ´f/´c. Ductile separation is more likely to occur at smaller ´f/´c and brittle separation at greater ´f/´c. The transition between the two separation modes occurs at about S = 1.2 (for ´f/´c = 30) which corresponds to the theoretical stress for adhesion being 20% greater than the hardness. This result is qualitatively similar to the existing simplified analytical models, in that the adhesion energy, the hardness, and the loading level play important roles in the occurrence of ductile separation. However, there are important quantitative differences. Comparisons are also made with molecular dynamics simulations of a contact and with a fracture mechanics model of crack propagation.
+
+adhesion
+brittleness
+cracks
+ductile fracture
+finite element analysis
+hardness
+mechanical contact
+molecular dynamics method
+plastics

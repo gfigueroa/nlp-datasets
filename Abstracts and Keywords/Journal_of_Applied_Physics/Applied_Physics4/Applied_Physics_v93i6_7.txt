@@ -1,0 +1,16 @@
+We have studied deep level impurities in p+n GaInNAs solar cells using secondary ion mass spectroscopy (SIMS), capacitancevoltage (CV), and deep-level transient spectroscopy (DLTS). These films were grown by atmospheric and low-pressure metalorganic vapor phase epitaxy. The base layer is doped with silicon and the emitter layer is Zn doped. Two types of devices have been studied: devices grown with and without the addition of oxygen impurity. Using SIMS, the oxygen concentration was found to be about 23×1019 and 1×1017
+cm3, respectively. CV measurements at temperatures below 190 K have revealed that carrier freeze out occurs in high oxygen samples, whereas we did not observe this phenomenon in low oxygen devices. In addition to observation of several trap levels in all samples, we observed two additional near midgap traps designated E3 (electron) at EC
+0.59
+eV and H3 (hole) at EV
++0.59
+eV only in high oxygen devices. We present evidence that these levels (E3 and H3) are associated with the oxygen defect and are an effective recombination center. We observed a logarithmic correlation between the concentration of the oxygen recombination center and the device quantum efficiency. From this correlation, the hole diffusion length is 0.060.15 and 0.120.31 ¼m with and without back reflection, respectively. We found that the hole diffusion length is strongly dependent on the concentration of the oxygen recombination center. We conclude that the oxygen recombination center is a lifetime-limiting defect and, therefore, controls the hole diffusion length. © 2003 American Institute of Physics. 
+
+carrier lifetime
+solar cells
+deep level transient spectroscopy
+secondary ion mass spectra
+semiconductor epitaxial layers
+oxygen
+gallium arsenide
+indium compounds
+III-V semiconductors

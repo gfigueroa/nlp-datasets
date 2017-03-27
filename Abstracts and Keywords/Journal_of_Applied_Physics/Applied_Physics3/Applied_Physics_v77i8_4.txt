@@ -1,0 +1,11 @@
+Freestanding 4¼mthick Al thin films were prepared by partially removing the Si substrate after deposition of the film. The tensile film stress was determined from the membrane vibration frequency in the temperature range between room temperature and 190	°C. The flow stress of the freestanding films is compared to that of substratebonded ones deposited under identical conditions thus having basically the same microstructure. It was found that the flow stress of the unsupported films agrees with that of bulk Al (when extrapolated to the same grain size of 14 ¼m) being considerably smaller than that of substrate bonded films. This directly proves the importance of the film/substrate interface for the yield strength of substratebonded metallic films supporting existing theoretical models. © 1995 American Institute of Physics.
+
+ALUMINIUM
+THIN FILMS
+MECHANICAL PROPERTIES
+STRENGTH FUNCTIONS
+TENSILE PROPERTIES
+TEMPERATURE DEPENDENCE
+MICROSTRUCTURE
+VLSI
+SUBSTRATES

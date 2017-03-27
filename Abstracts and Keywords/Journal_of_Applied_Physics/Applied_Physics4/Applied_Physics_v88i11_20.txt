@@ -1,0 +1,7 @@
+Carrier profiling of a 400 nm complementary metaloxidesemiconductor device has been accomplished by combining metalsemiconductor capacitancevoltage profiling techniques with two-dimensional scanning probe microscopy. When a metal probe is brought into contact with a semiconductor, a space-charged depletion region and therefore a capacitor is formed at the junction. By applying a small ac voltage, the voltage derivative of the contact capacitance can be measured with a lock-in amplifier. The amplitude of the derivative signal is a function of the carrier concentration, and the sign gives the type of carrier. The present work concentrates on the two dimensional (2D) carrier profiling of a 400 nm metaloxidesemiconductor field effect transistor. The results demonstrate that this technique is capable of quantitative 2D characterization of semiconductor devices. © 2000 American Institute of Physics. 
+
+scanning probe microscopy
+carrier density
+MOSFET
+CMOS integrated circuits
+space charge

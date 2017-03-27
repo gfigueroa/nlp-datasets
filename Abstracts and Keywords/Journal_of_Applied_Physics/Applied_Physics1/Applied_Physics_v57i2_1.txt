@@ -1,0 +1,21 @@
+The transient emission spectrum and spectrally resolved decay rates are reported for roomtemperature ZnS:Cu,Pb phosphor powder excited at 365 nm and stimulated at 700 nm with an 8nsec full width at half maximum laser pulse. The transient emission spectrum contains bands due to the lead intraatomic transition and the selfactivated ZnS recombination spectrum. No emission due to copper is observed. Decay rates do not vary with wavelength and decay curves are not exponential. The data are interpreted using a qualitative model for excitation and transient stimulation in the phosphor.
+
+ZINC SULFIDES
+COPPER ADDITIONS
+LEAD ADDITIONS
+PHOTOLUMINESCENCE
+PHOSPHORS
+EMISSION SPECTRA
+VISIBLE SPECTRA
+POWDERS
+NEODYMIUM LASERS
+YAG
+DYE LASERS
+LASER RADIATION
+INFRARED RADIATION
+EXCITATION
+RECOMBINATION
+NS RANGE
+DECAY AMPLITUDES
+CRYSTAL DOPING
+DOPED MATERIALS

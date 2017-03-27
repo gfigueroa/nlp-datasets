@@ -1,0 +1,10 @@
+Simple upper and lower limits for the full solidification (melting) time of isothermally heated slabs, cylinders, and spheres are derived. These bounds, valid for arbitrary wall and initial temperatures, are compared to existing approximate formulas. The bounds can be used for estimates of onedimensional phasechange heat transfer.
+
+PHASE TRANSFORMATIONS
+SOLIDIFICATION
+MELTING
+HEAT TRANSFER
+MATHEMATICAL MODELS
+SLABS
+SPHERES
+CYLINDERS

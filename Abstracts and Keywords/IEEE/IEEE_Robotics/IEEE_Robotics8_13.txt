@@ -1,0 +1,6 @@
+This paper presents a performance evaluation of a speech biometry system based on the statistical models GMM (Gaussian Mixture Models). In particular, the paper underlines the robustness to the degradation of various natural noises, and their impact on the system. Finally, the impact of the duration to both training and test sequences is highlighted. Results show that the noise can have the impact on the degradation of the performance (see EER values) which vary from 100% to 300% on the basis of the type of noise which depends on only one of two compared sequences. The duration of the sequences is a very important parameter, mostly for training phase, for which it is necessary to have at least 25 seconds long talk.
+
+SNR estimation
+forensic biometry
+speaker recognition
+voice/noise detection

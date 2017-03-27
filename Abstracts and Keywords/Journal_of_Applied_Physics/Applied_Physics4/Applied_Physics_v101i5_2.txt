@@ -1,0 +1,13 @@
+GaInN quantum wells with reduced piezoelectric field deposited epitaxially on the {101} facets of selectively grown GaN stripes show distinct polarization properties of the emitted light. Systematic electro- and photoluminescence studies demonstrate that the light is linearly polarized parallel to the stripes, representing the 110	 direction of the GaN crystal. Our model calculations show that this is a consequence of the strain-induced valence-band splitting depending on the crystal orientation. The polarization ratio is calculated and compared to measured values.
+
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+light polarisation
+semiconductor epitaxial layers
+electroluminescence
+photoluminescence
+valence bands
+crystal orientation
+wide band gap semiconductors

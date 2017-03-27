@@ -1,0 +1,10 @@
+The electronic scattering rates in metals after ultrashort pulsed laser heating can be drastically different than those predicted from free electron theory. The large electron temperature achieved after ultrashort pulsed absorption and subsequent thermalization can lead to excitation of subconduction band thermal excitations of electron orbitals far below the Fermi energy. In the case of noble metals, which all have a characteristic flat d-band several electron volts well below the Fermi energy, the onset of d-band excitations has been shown to increase electron-phonon scattering rates by an order of magnitude. In this paper, we investigate the effects of these large electronic thermal excitations on the ultrafast thermoelectric transport properties of gold, a characteristic noble metal. Under conditions of strong electron-phonon nonequilibrium (relatively high electron temperatures and relatively low lattice temperatures, Te¢TL), we find that the WiedemannFranz law breaks down and the Seebeck coefficient is massively enhanced. Although we perform representative calculations for Au, these results are expected to be similar for the other noble metals (Ag and Cu) due to the characteristic large d-band separation from the Fermi energy.
+
+conduction bands
+electron-phonon interactions
+Fermi level
+gold
+high-speed optical techniques
+high-temperature effects
+Seebeck effect
+Wiedemann-Franz law

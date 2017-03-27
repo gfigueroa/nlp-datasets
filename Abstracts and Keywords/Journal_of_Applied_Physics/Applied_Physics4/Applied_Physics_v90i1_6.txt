@@ -1,0 +1,7 @@
+The trap properties of the commonly used organic light-emitting diode emitter material tris-8-(hydroxyquinoline) aluminum (Alq3) have been investigated using thermally stimulated currents. Based on a model of the field dependence of the thermally stimulated currents, a trap density of 1.3×1017
+cm3 for depths ranging from 0.05 to 0.7 eV is obtained, indicating considerable influence on charge carrier statistics. A field-induced lowering of trap depth was observed and explained in the framework of the PooleFrenkel effect. © 2001 American Institute of Physics. 
+
+organometallic compounds
+thermally stimulated currents
+electron traps
+Poole-Frenkel effect

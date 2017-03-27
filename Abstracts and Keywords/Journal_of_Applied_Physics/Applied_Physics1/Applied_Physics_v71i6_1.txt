@@ -1,0 +1,13 @@
+A systematic study of the growth of highquality films of GaAs on Si substrates has been performed for applications in devices, particularly in optoelectronic devices for cointegration in optical interconnects. The effort for optimized active layers was approached through the separate optimization of substrate preparation, growth time parameters, and postgrowth treatment. In particular, the study of growth involved the investigation of the effect of silicon substrate orientation, postgrowth treatment, as well as multilayer and, especially, silicon buffer layers. For quantification of film quality, a number of characterization methods were used both in situ: reflected highenergy electron diffraction (RHEED); and ex situ: optical, electrical [current versus voltage (IV), capacitance versus voltage (CV), deeplevel transient spectroscopy (DLTS), Hall], transmission electron microscopy (TEM), scanning electron microscopy (SEM), electron channeling patterns, xray doublecrystal diffractometry (DDX). Schottky diodes, pn heterojunctions, and metalsemiconductormetal photoconductors/photodetectors (MSM PC/PDs), fieldeffect transistors, and high electron mobility transistors were fabricated on these films. The most crucial parameter for device operation and film uniformity is the complete absence of antiphase boundaries which increase leakage, degrade mobilities, and seem to result in interface twodimensional electron gas in substrates misoriented toward 110	.
+
+GALLIUM ARSENIDES
+MOLECULAR BEAM EPITAXY
+EPITAXIAL LAYERS
+FILM GROWTH
+CRYSTAL STRUCTURE
+DLTS
+RHEED
+TRANSMISSION ELECTRON MICROSCOPY
+ELECTRON CHANNELING
+XRAY DIFFRACTION ANALYSIS
+OPTOELECTRONIC DEVICES

@@ -1,0 +1,17 @@
+The modification of the elastic properties of giant magnetostriction alloy films due to an applied magnetic field (the ”E effect), has been studied. Two different types of films were deposited on Si substrates: (i) single layers of TbDyFeCo alloys typically 1000 nm thick and (ii) nanocomposite multilayer films of FeCo/TbFeCo each having a typical thickness of 6 nm. Both types of films were rendered magnetically anisotropic with a well defined in-plane easy axis. Rectangular samples were cut out of these bimorphs and firmly glued at one end to a heavy base to form a simple cantilever structure. The variations of film elastic moduli were deduced from the shifts of the cantilever resonance frequencies as a function of bias field for two basic configurations: (i) field applied along the easy axis and (ii) field applied along the hard axis. In contrast with previous work, both flexural and torsion resonance modes were excited and studied. As a result the field induced variations of both planar traction modulus and the shear modulus were obtained and new interesting features were discovered. In particular strongly negative values of the shear modulus were observed (at least in the nanocomposite films) in the vicinity of the divergence in the transverse magnetic susceptibility at saturation field along the hard axis. A simple but complete theoretical analysis shows that the uniaxial anisotropy model together with the assumption of isotropic magnetoelastic coupling gives a good semiquantitative understanding of all the experimental results. © 2000 American Institute of Physics. 
+
+magnetostriction
+magnetoelastic effects
+elastic moduli
+shear modulus
+magnetic thin films
+sputtered coatings
+micromechanical resonators
+bending
+torsion
+magnetic anisotropy
+dysprosium alloys
+terbium alloys
+iron alloys
+cobalt alloys
+magnetic multilayers

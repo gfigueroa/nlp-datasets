@@ -1,0 +1,10 @@
+A photorefractive system composed of liquid crystal droplets dispersed in a photoconducting polymer is characterized by means of two-beam coupling. The amplitudes and phases of the spatial variations of the refractive index and the absorption coefficient are measured using the moving grating technique. Dynamic measurements indicate that the phase of the refractive index modulation is nearly constant while the amplitude increases gradually. The maximum value of the internal space charge field can be estimated from the amplitude of the phase grating and is found to be of the order of one-hundredth of the external bias field.
+
+space charge
+diffraction gratings
+photorefractive materials
+polymer dispersed liquid crystals
+photoconducting materials
+multiwave mixing
+refractive index
+absorption coefficients

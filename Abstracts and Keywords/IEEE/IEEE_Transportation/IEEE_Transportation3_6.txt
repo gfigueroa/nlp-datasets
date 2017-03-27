@@ -1,0 +1,7 @@
+While complete searches of an area are the standard method currently used by the U.S. Navy for detecting and determining the extent of a field of discrete underwater targets of interest, there are situations where time constraints or mission objectives prohibit a complete search. Furthermore, in many situations it is unnecessary to detect all targets within a field of targets of interest, but is sufficient to determine the area over which the field extends. In this paper we present a novel search procedure for determining the extent of a line of targets within an area for use with AUVs. This method uses a Markov decision process coupled with belief propagation. Monte Carlo simulations indicate that this algorithm out-performs the standard search techniques for determining the endpoints of a line of targets when the metric is time.
+
+Autonomous Underwater Vehicles
+Belief Propagation
+Coverage
+Markov Decision Process
+Target Detection

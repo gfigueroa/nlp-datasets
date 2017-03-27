@@ -1,0 +1,9 @@
+The optical transmittances of anodic alumina films which contain nematic liquid crystals in columnar pores were studied. Since liquid crystals are enclosed in narrow pores of <2000 Å diameter, light scattering occurs not only by the refractive index mismatch between the liquid crystals and alumina but also by the prominent distribution of the refractive index inside the liquid crystals. The transmittance changes reversibly with an electric field and temperature.
+
+LIQUID CRYSTALS
+LIGHT SCATTERING
+FILMS
+REFRACTIVE INDEX
+LIGHT TRANSMISSION
+ELECTRIC FIELD EFFECTS
+TEMPERATURE DEPENDENCE

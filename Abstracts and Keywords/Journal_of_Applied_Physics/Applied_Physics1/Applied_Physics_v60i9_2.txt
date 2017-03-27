@@ -1,0 +1,12 @@
+A new rotarymagnetic refrigerator designed to obtain superfluid helium temperatures by executing a magnetic Carnot cycle is developed. A rotor containing 12 magnetic refrigerants (gadoliniumgalliumgarnet) is immersed in liquid helium at 4.2 K and rotated at constant speed in a steady magnetic field distribution. Performance tests demonstrate that the new rotary refrigerator is capable of obtaining a temperature of 1.48 K. The maximum useful cooling power obtained at 1.8 K is 1.81 W which corresponds to a refrigeration efficiency of 34%.
+
+FABRICATION
+DESIGN
+SYNTHESIS
+MAGNETIC REFRIGERATORS
+CRYOGENICS
+HELIUM
+MAGNETIC FIELDS
+CARNOT CYCLE
+ULTRALOW TEMPERATURE
+EFFICIENCY

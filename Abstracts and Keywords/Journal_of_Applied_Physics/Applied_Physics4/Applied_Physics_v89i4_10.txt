@@ -1,0 +1,15 @@
+We demonstrate that local oxidation of silicon nitride films deposited on conductive substrates with a conductive-probe atomic force microscope (AFM) is a very promising approach for nanofabrication. Scanning Auger microscopy and spectroscopy are employed to verify the chemical changes after AFM-induced oxidation. Furthermore, the growth kinetics are found to have a logarithmic relationship of oxide height versus pulse duration [hln(t/t0)]. In contrast to rather slow thermal oxidation process, AFM-induced oxidation on silicon nitride has an anomalously high initial oxidation rate (<30
+000 nm/s at 10 V) and a small onset time t0 (<10 ¼s). As for the applications in ultrahigh-density recording, an oxide dot array (<100 Gbit/in.2) produced by this process is demonstrated. The nitride film patterned by AFM can be utilized as an etching mask to fabricate subtractive silicon nanostructures, due to the large etching selectivity of Si3N4:SiO2:Si in various etchants. With this method, which is entirely compatible with the existing microelectronic processes, synthesis of ultrahigh packing density and ordered nanostructures could become readily achievable. © 2001 American Institute of Physics.
+
+silicon compounds
+oxidation
+nanotechnology
+atomic force microscopy
+surface composition
+Auger electron spectra
+scanning electron microscopy
+surface chemistry
+reaction rate constants
+etching
+masks
+data recording

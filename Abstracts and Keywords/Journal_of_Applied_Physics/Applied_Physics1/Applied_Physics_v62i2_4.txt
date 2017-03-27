@@ -1,0 +1,10 @@
+A theoretical model is proposed which is based on the electrical, photoluminescence, and stoichiometric analyses, and this model allows the calculation of the concentration of various defects in undoped and phosphorusdoped CuInS2 crystals grown by the traveling heater method. All the association and ionization reactions are described in terms of the law of mass action. The results indicate that it can be used to explain material compensation and phosphorusdoping effects in CuInS2.
+
+PHOTOLUMINESCENCE
+ANNEALING
+CRYSTAL DEFECTS
+ELECTRICAL PROPERTIES
+ELECTRONIC STRUCTURE
+COPPER SULFIDES
+INDIUM SULFIDES
+HALL EFFECT

@@ -1,0 +1,17 @@
+We report results from molecular dynamics simulations of the etching of a Si surface by energetic Cl atoms (15
+eV } E } 200
+eV). We find that the energy dependence of the Si yield (number of Si atoms desorbed per incident Cl ion) is in reasonable agreement with recent experiments and with previous simulations performed up to 50 eV. We also investigate the variation of the Si yield with the impact angle of incidence, the stoichiometry of the desorbed material, and the effect of a thermal background Cl flux to the surface in the presence of an ion flux at 50 eV. Surface roughening due to etching was observed and the calculated rms roughness is in reasonable agreement with experiments. © 1997 American Institute of Physics.
+
+elemental semiconductors
+sputter etching
+stoichiometry
+surface topography
+SILICON
+ETCHING
+MOLECULAR DYNAMICS METHOD
+SIMULATION
+CHLORINE IONS
+EV RANGE
+ENERGY DEPENDENCE
+ROUGHNESS
+SPUTTERING

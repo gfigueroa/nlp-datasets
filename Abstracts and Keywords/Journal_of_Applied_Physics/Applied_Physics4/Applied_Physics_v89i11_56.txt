@@ -1,0 +1,10 @@
+Neutron scattering has been used to study the nature of the spin dynamics and charge correlations in a single crystal of the colossal magnetoresistive perovskite La0.7Ca0.3MnO3. Diffuse scattering from lattice polarons develops as the Curie temperature is approached from below, along with short range polaron correlations that are consistent with stripe formation. Magnetic fields are found to suppress this polaron formation. The temperature dependence of the polaron correlations follows the same behavior as both the resistivity and the anomalous quasielastic component in the magnetic fluctuation spectrum, indicating that they have a common origin. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+colossal magnetoresistance
+spin dynamics
+neutron diffraction
+polarons
+Curie temperature
+ferromagnetic materials

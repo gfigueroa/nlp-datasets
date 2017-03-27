@@ -1,0 +1,7 @@
+Upconversion emission from Tm3+ and Ho3+ ions in a yttriumaluminumgarnet crystal was observed on resonant excitation of the 3H4 level of Tm3+ and the 5I4 level of Ho3+ with a Ti:sapphire laser at room temperature and 10 K. The upconversion and the energy transfer mechanisms between Tm3+ and Ho3+ ions are discussed. A rate equation model is developed which supported the energy transfer mechanism. © 2000 American Institute of Physics. 
+
+yttrium compounds
+thulium
+holmium
+laser beam effects
+optical frequency conversion

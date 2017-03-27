@@ -1,0 +1,9 @@
+Intentionally undoped p-type ²-FeSi2 thin films were grown on Si(111) substrates by molecular-beam epitaxy using low-purity (4N) and high-purity (5N) Fe sources to investigate the effect of using a high-purity Fe source on the electrical properties of ²-FeSi2. The hole mobility increased and the hole density decreased greatly as the annealing temperature and time were increased, particularly for the ²-FeSi2 films produced using 5N-Fe. The observed temperature dependence of the hole mobility was reproduced well by considering various carrier scattering mechanisms due to acoustic-phonon, polar-optical phonon, nonpolar-optical phonon, and ionized impurities.
+
+annealing
+hole mobility
+impurity scattering
+iron compounds
+molecular beam epitaxial growth
+phonons
+semiconductor thin films

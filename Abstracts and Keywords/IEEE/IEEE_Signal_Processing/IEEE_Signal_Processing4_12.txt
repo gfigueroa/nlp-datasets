@@ -1,0 +1,7 @@
+This paper presents and evaluates a data centric adaptive in-network aggregation algorithm for wireless sensor networks. In-Network data aggregation is used in wireless sensor networks to reduce the power consumption of sensor nodes. The accuracy of the aggregated results is highly sensitive to delays in the measurements. All existing methods use fixed time limit to accept delayed information for aggregation. The proposed method dynamically calculates the delay limit by using the historical behavior of each sensor. The presented simulation results illustrate the advantage of the developed algorithm.
+
+Sensor networks
+adaptive
+aggregation
+data centric
+in-network

@@ -1,0 +1,11 @@
+In this work we used the differential photocurrent technique to measure the strain-induced piezoelectric field in pseudomorphic InxGa1xAs/GaAs heterostructures grown by molecular beam epitaxy on (111)B GaAs substrates. Single and multiple quantum well pin diodes with two different In fractions in the well were analyzed in the temperature range of 25300 K. Our results for a sample with a 17% In fraction confirm the previously reported value of the pyroelectric coefficient for a similar sample obtained by photoreflectance spectroscopy, hence, the equivalence of the differential photocurrent and photoreflectance techniques is also demonstrated. For a sample with 21% In, we report experimental determination of the temperature dependence of the piezoelectric constant and, therefore, of the strain-induced component of the pyroelectric coefficient. © 2002 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+p-i-n diodes
+pyroelectricity
+piezoelectric semiconductors
+photoconductivity
+molecular beam epitaxial growth

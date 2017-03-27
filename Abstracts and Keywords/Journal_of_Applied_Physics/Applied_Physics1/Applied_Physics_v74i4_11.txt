@@ -1,0 +1,12 @@
+Single crystal epitaxial films of CdTe were grown on (0001) sapphire and (100) GaAs substrates by the ionized cluster beam deposition method. The lowtemperature photoluminescence spectra depend strongly on the ionization current and the acceleration voltage of the CdTe cluster. The change of the excitonic edge emission can be explained by the improvement of the stoichiometry due to the ionization. The crystalline quality of the epitaxial film was also improved by the small acceleration (0.5 kV).
+
+CADMIUM TELLURIDES
+THIN FILMS
+PHOTOLUMINESCENCE
+EPITAXIAL LAYERS
+PHYSICAL VAPOR DEPOSITION
+CLUSTER BEAMS
+IONIZATION
+ACCELERATION
+EXCITONS
+KEV RANGE 0110

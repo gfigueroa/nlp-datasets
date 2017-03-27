@@ -1,0 +1,11 @@
+We show that Brillouin scattering can be used to measure the elastic and optical properties of materials to very high temperatures. We have measured the elastic constants C11, C33, and C44 of singlecrystal sapphire in the temperature range 3002100 K extending by 300 K the highest temperature previously attained with ultrasonic resonance techniques. The temperature dependence of the ordinary and extraordinary refractive indices no and ne in the same temperature range have been obtained for the first time. Although both no and ne are temperature dependent, the ratio no/ne is found to be almost temperature independent.
+
+ALUMINIUM OXIDES
+MONOCRYSTALS
+ELASTICITY
+REFRACTIVITY
+VERY HIGH TEMPERATURE
+HIGH TEMPERATURE
+MEDIUM TEMPERATURE
+BRILLOUIN EFFECT
+TEMPERATURE DEPENDENCE

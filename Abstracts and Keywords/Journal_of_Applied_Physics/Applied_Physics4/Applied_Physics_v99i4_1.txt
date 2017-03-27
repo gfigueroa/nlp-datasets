@@ -1,0 +1,5 @@
+We have investigated the influence of the thickness of polyvinyl alcohol alignment layer on azimuthal anchoring of ferroelectric liquid crystals by measuring the azimuthal angle of the chevron C2 structure. By varying not only the alignment but also the ferroelectric liquid-crystal layer thickness, we also studied the influence of the ions screening the polarization charge on the chevron layer structure. A simple model describing the free enthalpy of the system was used to calculate the anchoring coefficient from the azimuthal angle of the structure.
+
+ferroelectric liquid crystals
+dielectric polarisation
+enthalpy

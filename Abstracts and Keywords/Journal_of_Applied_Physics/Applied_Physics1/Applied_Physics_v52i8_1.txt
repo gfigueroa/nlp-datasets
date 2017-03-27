@@ -1,0 +1,11 @@
+An arched interdigital transducer has been devised for acoustic imaging uses. Two kinds of acoustic beams are radiated into water from the transducer, one of which is radiated at a constant angle independent of the frequency change. The other has a frequencydependent radiation angle. The two beams follow conical paths and come to a focus on the axis of the arc. The arched transducer with 45	° aperture angle, consisting of 10 finger pairs, has a conversion loss of about 10 dB and about 150¼m beamwidth for 3 dB down values, at 22.7 MHz.
+
+SOUND WAVES
+EMISSION
+TRANSDUCERS
+OSCILLATION MODES
+IMAGES
+WATER
+FREQUENCY DEPENDENCE
+TRAJECTORIES
+MHZ RANGE

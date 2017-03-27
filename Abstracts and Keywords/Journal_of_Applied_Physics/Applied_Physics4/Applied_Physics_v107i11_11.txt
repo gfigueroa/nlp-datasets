@@ -1,0 +1,8 @@
+Highly (100) and (111)-oriented Pb0.97La0.02(Zr0.85Sn0.13Ti0.02)O3 antiferroelectric (AFE) thin films were fabricated through a sol-gel processing. The effects of orientation on phase transformation behaviors and strains of the AFE thin films were studied systemically. As compared to (100)-preferred AFE thin films, the (111)-oriented films showed a smaller forward phase switching field of 250 kV/cm and higher stains of 0.79%. It is therefore concluded that AFE thin films with (111)-preferred orientation are more suitable to be used as microactuators.
+
+antiferroelectric materials
+lanthanum compounds
+lead compounds
+magnetic thin films
+magnetic transitions
+sol-gel processing

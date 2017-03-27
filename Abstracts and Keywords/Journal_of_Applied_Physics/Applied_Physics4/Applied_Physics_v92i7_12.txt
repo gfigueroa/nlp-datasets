@@ -1,0 +1,12 @@
+The structural and magnetic properties of stoichiometric Ni2MnAl are studied to clarify the conditions for ferromagnetic and antiferromagnetic ordering claimed to occur in this compound. X-ray and magnetization measurements show that although a single phase B2 structure can be stabilized at room temperature, a single L21 phase is not readily stabilized, but rather a mixed L21+B2 state occurs. The mixed state incorporates ferromagnetic and antiferromagnetic parts for which close-lying Curie and a Néel temperatures can be identified from magnetization measurements. © 2002 American Institute of Physics. 
+
+nickel alloys
+manganese alloys
+aluminium alloys
+ferromagnetic materials
+antiferromagnetic materials
+crystal structure
+stoichiometry
+magnetisation
+Curie temperature
+Neel temperature

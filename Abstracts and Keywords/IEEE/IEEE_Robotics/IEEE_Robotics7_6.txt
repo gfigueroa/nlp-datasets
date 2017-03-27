@@ -1,0 +1,5 @@
+In numerous computational applications in mechanics, in engineering, as well as, in financial issues, the ability of manipulating instantly the state vector from the input is more than significant. Thus, in this paper, we extend a method for the instantly state transferring of linear singular descriptor differential systems, which is based on impulsive distributions. Using linear algebra techniques and the generalized inverse theory, the input's coefficients are determined.
+
+Control input
+Dirac Function
+Linear Autonomous Descriptor System

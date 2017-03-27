@@ -1,0 +1,8 @@
+Diffusion of a large organic semiconductor molecule, chloroaluminum phthalocyanine (ClAlPc), on a cleaved MoS2 surface was detected using photoemission electron microscopy (PEEM) and metastable electron emission microscopy (MEEM). The PEEM and MEEM images showed that a micropattern of ClAlPc ultrathin film prepared on the MoS2 surface by vacuum deposition shrinks with time and finally disappears even at room temperature at which the molecules do not evaporate. The results indicate that control of molecular diffusion is necessary for the preparation of stable micro or nanostructure of organic thin films. © 2001 American Institute of Physics. 
+
+molybdenum compounds
+organic semiconductors
+surface diffusion
+ultraviolet photoelectron spectra
+electron microscopy
+vacuum deposited coatings

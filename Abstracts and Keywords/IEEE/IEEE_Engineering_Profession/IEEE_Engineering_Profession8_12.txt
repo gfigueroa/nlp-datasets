@@ -1,0 +1,8 @@
+Intelligent environments employ electronics unobtrusively integrated with the ambient to predict and to respond to the needs of people, enhancing many aspects of the everyday life. Wireless sensor network (WSN) are at the center of ambient intelligence applications. They consists of thousands of distributed sensing devices, that continually collect and transmit information about the surrounding environment. These sensors have to be energetically autonomous for long periods of time, which exclude battery use for providing power. However, emerging sensors have low power requirements, which can be met by scavenging ambient energy. Hence, research in micropower generation is gaining significant momentum. This paper starts with a review of main approaches for power generation at microscale with emphasize on kinetic to electric energy conversion. Kinetic or mechanical vibration energy conversion may be achieved employing piezoelectric, electromagnetic and electrostatic methods. The principle behind each method and most recent results reported in literature are reviewed. The second part of the paper discusses a new concept for mechanical vibration energy harvesting employing electrostatic transduction via comb-like variable capacitors, with a dielectric constant switching between air and liquid. This approach may lead to four orders of magnitude increase in energy conversion as compared with air-based variable capacitor converters of similar size.
+
+electromagntic
+electrostatic
+energy scavenging
+micro-power generators
+piezoelectric
+power harvtsing

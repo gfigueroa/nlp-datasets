@@ -1,0 +1,6 @@
+In this paper, we present an approach to global transaction management in workflow environments. The transaction mechanism is based on the well-known notion of compensation, but extended to deal with both arbitrary process structures to allow cycles in processes and safepoints to allow partial compensation of processes. We present a formal specification of the transaction model and transaction management algorithms in set and graph theory, providing clear, unambiguous transaction semantics. The specification is straightforwardly mapped to a modular architecture, the implementation of which is first applied in a testing environment, then in the prototype of a commercial workflow management system. The modular nature of the resulting system allows easy distribution using middleware technology. The path from abstract semantics specification to concrete, real-world implementation of a workflow transaction mechanism is thus covered in a complete and coherent fashion. As such, this paper provides a complete framework for the application of well-founded transactional workflows.
+
+Compensation
+Long-running transaction
+Transaction Management
+Workflow management

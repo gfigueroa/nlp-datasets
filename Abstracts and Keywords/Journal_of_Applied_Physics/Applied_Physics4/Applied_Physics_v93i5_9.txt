@@ -1,0 +1,15 @@
+Dy3+- and Tm3+-doped lanthanum chloride was prepared via reactive atmosphere processing (RAP) of sol-gel derived hydroxide powders. The low-phonon energy chloride host facilitated the 1.3-¼m emission from Dy3+ and the 1.2- and 1.4-¼m emissions from Tm3+. The emission intensities of the Dy3+ and Tm3+ ions increased logarithmically with increasing RAP temperature. The dependence of emission intensities and lifetimes on the rare-earth (RE) concentration was also investigated. The emission intensity was found to increase up to 1 mole
+% RE for both ions. Luminescence quenching was observed for concentrations exceeding 1 mole
+% for Tm3+ and 0.1 mole
+% for Dy3+. © 2003 American Institute of Physics. 
+
+lanthanum compounds
+dysprosium
+thulium
+nanostructured materials
+materials preparation
+spectral line intensity
+radiative lifetimes
+fluorescence
+radiation quenching
+optical materials

@@ -1,0 +1,11 @@
+Te-doped GaInP epitaxial layers were grown by organometallic vapor phase epitaxy in an effort to clarify the Te disordering mechanism. CuPt ordered GaInP is produced under normal growth conditions. The addition of Te has been reported to induce disorder. One suggested mechanism for disordering GaInP is the increased step velocity caused by the addition of Te. To test this hypothesis, the effects of growth rate and growth temperature on the disordering effect of Te were studied. The Te/III ratio in the vapor and the partial pressure of the P precursor, tertiarybutylphosphine, were kept constant. The behavior of Te incorporation is found to be unusual. The decrease with increasing temperature is consistent with Te acting as a volatile impurity. However, the Te incorporation is also found to be inversely proportional to the growth rate, a characteristic of nonvolatile dopants. A suggested solution to this apparent contradiction is that the Te, which accumulates at step edges, is not able to keep pace with the steps when they move at the higher velocities. As the growth rate was decreased, with a corresponding decrease in measured step velocity, the degree of order was observed to increase, in support of this kinetic model. GaInP layers grown at higher temperatures were observed to become much less ordered. Analysis of these data indicates that the effect is due mainly to the effect of temperature on step velocity. The direct correlation between the step velocity and the degree of order, as these two growth parameters were varied, confirms that Te disorders GaInP for kinetic reasons. © 2001 American Institute of Physics. 
+
+semiconductor epitaxial layers
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor doping
+tellurium
+MOCVD
+vapour phase epitaxial growth
+semiconductor growth

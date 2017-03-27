@@ -1,0 +1,12 @@
+We have used distributed Bragg reflectors (DBRs) designed for electron de Broglie wavelengths to achieve enhanced localization of above-barrier states in the conduction band of a ZnTe/CdSe-based type-II heterostructure. We studied the effect of such DBRs by observing excitonic transitions between above-barrier electron states which are Bragg confined in the barrier layer of the conduction band and heavy holes localized in the quantum well of the valence band. In a type-II system, both carriers are thus confined in the same layer, leading to a direct (type-I-like) excitonic transition. In order to identify the physical region where this transition actually occurs, we have used a diluted magnetic semiconductor (DMS) alloy Zn0.94Mn0.06Te as the confining layer. In such a structure, the giant Zeeman splitting of the band edges in the DMS layer serves to identify the location where the states participating in the transition are confined. To enhance the intensity of such direct transitions, we have sandwiched the central DMS layer between two DBR stacks, each consisting of 10 alternating quarter-wave layers of ZnTe and CdSe tailored to the de Broglie wavelength of the above-barrier state in the conduction band of the central layer. As expected, the transition of interest was observed at an energy slightly higher than the band gap of the DMS layer. We have observed this direct transition in absorption and, more importantly, also in photoluminescence, attesting to the very significant confinement of the above-barrier layer in such DBR-based structures. © 2001 American Institute of Physics. 
+
+zinc compounds
+cadmium compounds
+II-VI semiconductors
+excitons
+semimagnetic semiconductors
+semiconductor quantum wells
+semiconductor heterojunctions
+photoluminescence
+semiconductor superlattices
+Zeeman effect

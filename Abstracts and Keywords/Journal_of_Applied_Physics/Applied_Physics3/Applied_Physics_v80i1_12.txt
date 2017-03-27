@@ -1,0 +1,8 @@
+A multiband k≈p theory was recently proposed [L. H. Peng and C. G. Fonstad, J. Appl. Phys. 77, 747 (1995)] in order to discuss the influence of band mixing on the selection rules for intersubband and interband optical transitions in quantum wells. We point out here that the analysis presented is incorrect. © 1996 American Institute of Physics. 
+
+QUANTUM WELLS
+COUPLING
+INTERBAND TRANSITIONS
+SELECTION RULES
+OPTICAL PROPERTIES
+RAMAN EFFECT

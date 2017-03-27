@@ -1,0 +1,11 @@
+Optical, in situ, real time control of surface processes during epitaxy is becoming increasingly important for the understanding and control of crystal growth. Here results are presented of in situ studies of the surface V/III balance using the reflectancedifference (RD) method during vacuum chemical epitaxy of (001) GaAs from arsine and triethylgallium. We have found a relationship between the RD signal and the V/III ratio, and we demonstrate the possibility for the use of this relationship for the optimization of growth. We have, by RD, detected a sharply defined, critical V/III ratio, below which the morphology and the photoluminescence intensity deteriorate dramatically, and which can be used to control the conversion from ntype to ptype conductivity. We believe that these observations will be of great importance for the in situ optimization of epitaxial growth, and in eliminating much of the uncertainties involved in reproducing surface V/III ratios.
+
+GALLIUM ARSENIDES
+CHEMICAL VAPOR DEPOSITION
+VAPOR PHASE EPITAXY
+SURFACES
+QUANTITY RATIO
+REFLECTIVITY
+LASER RADIATION
+MORPHOLOGY
+FILM GROWTH

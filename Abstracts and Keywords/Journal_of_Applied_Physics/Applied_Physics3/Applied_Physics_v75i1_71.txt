@@ -1,0 +1,12 @@
+Lowfrequency capacitance and conductance measurements have been extensively performed from 1 Hz to 100 kHz and in the 293673 K temperature range, on metaloxidesemiconductor (MOS) capacitors made on silicon carbide material. The energy distribution of the trap time constants, capture cross sections, and interfacestate density are presented. It is shown that only lowfrequency and hightemperature measurements may provide the ability to scan the midgap region of the forbidden band gap. The experimental results fully confirm the feasibility of MOS devices on silicon carbide material. Furthermore, conductance measurements at high temperature indicate the presence of deep bulk levels. 	
+
+CAPACITORS
+MOS JUNCTIONS
+CAPACITANCE
+ELECTRIC CONDUCTIVITY
+TEMPERATURE RANGE 273400 K
+TEMPERATURE RANGE 04001000 K
+HZ RANGE
+KHZ RANGE
+FREQUENCY DEPENDENCE
+TEMPERATURE DEPENDENCE

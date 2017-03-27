@@ -1,0 +1,8 @@
+This research investigates how interacting with tangible user interfaces (TUIs) affects spatial cognition. To study the impact of TUIs, a between subjects study was conducted (n=60) in which students learned about the operation of an anesthesia machine. A TUI was compared to two other interfaces commonly used in anesthesia education: (1) a Graphical User Interface (a 2D abstract simulation model of an anesthesia machine) and (2) a Physical User Interface (a real world anesthesia machine). Overall, the TUI was found to significantly compensate for low user spatial cognition in the domain of anesthesia machine training.
+
+Anesthesia Machine
+J.3 [Computer Applications]: Life and Medical Sciences ¿ Health
+Mixed Reality
+Spatial Cognition
+Tangible Interfaces
+User Studies

@@ -1,0 +1,8 @@
+Hall mobilities in a temperature range of 80300 K have been measured in fully strained Si1xGex and partially strain-compensated p-type Si1xyGexCy alloy layers grown on Si (100) by ultrahigh vacuum chemical vapor deposition. The effect of the addition of C on strain compensation of Si1xGex films has been studied by high-resolution x-ray diffraction analysis. The Hall hole mobility is found to increase with decreasing compensative strain or effective Ge content in the layer throughout the studied temperature range. The effect of a Si-cap layer on the hole mobility of Si1xyGexCy film has been investigated. © 2000 American Institute of Physics. 
+
+Ge-Si alloys
+boron
+Hall mobility
+CVD coatings
+semiconductor thin films
+X-ray diffraction

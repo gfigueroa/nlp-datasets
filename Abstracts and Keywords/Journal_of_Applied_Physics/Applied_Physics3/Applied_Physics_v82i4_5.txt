@@ -1,0 +1,15 @@
+Er-doped GaAs/AlGaAs structures were grown by the molecular beam epitaxy technique with concentrations of Er in the range 10172×1019
+cm3. Photoluminescence (PL) of Er3+ ions and Er-induced defects was studied at liquid helium and higher temperatures. A strong diffusion of erbium and interdiffusion of gallium and aluminum ions are observed [at the boundary of GaAs/AlGaAs quantum wells (QWs)] which leads at high erbium concentrations to degradation of the QWs and macroscopic (average) leveling of erbium and aluminum concentrations over the whole semiconductor structure. From high-resolution PL spectra the existence of three types of Er centers is deduced, which differ by positions of fine structure lines, PL lifetimes, and temperature dependence. The results indicate that these centers are accompanied by the appearance of three types of carrier traps with binding energies of 20, 50, and about 400 meV, respectively. The experiments show evidence that carriers captured into these traps control the Auger excitation of Er ions assisted by multiphonon emission of local phonons. Temperature quenching of erbium PL is controlled by depopulation of defect states in the case of Auger excitation via the most shallow hole trap (20 meV) and by competition of multiphonon nonradiative capture with the Auger transitions in the case of the deepest defect (400 meV). De-excitation processes of excited f electrons accompanied by generation of electron-hole pairs were also considered. Such processes are especially important in the case of resonance excitation. Besides erbium PL at 1.54 ¼m, PL of erbium ions was observed from upper excited states at 0.82 and 0.98 ¼m, which demonstrates the possibility of realizing a three-level scheme of light emission. © 1997 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor epitaxial layers
+semiconductor quantum wells
+photoluminescence
+chemical interdiffusion
+defect states
+hole traps
+impurity states
+Auger effect
+phonon-phonon interactions

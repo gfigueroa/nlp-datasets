@@ -1,0 +1,7 @@
+Plasma electron density and atomic population densities in the plasma plume produced by a laser ablation of aluminum metal were determined in various ambient gases at relatively high pressures. The method is based on the fit of a spectral line profile of Al(I)
+2P-2S emission to the theoretical spectrum obtained by one-dimensional radiative transfer calculation. The electron density was higher for a higher ambient gas pressure, suggesting the confinement of the plume by an ambient gas. The electron density also depends on the type of ambient gases, i.e., it increased in the order He&lt;CH4&lt;N2&lt;CF4, while the atomic population density is almost independent of the type of ambient species and pressure. The population densities of the upper and lower levels of the transition were compared, and the ratio between their spatial distribution widths was calculated. These results provide valuable information regarding the confinement of the plume by the ambient gas and give insight into the time evolution of the plume. © 2004 American Institute of Physics. 
+
+plasma density
+laser ablation
+plasma production by laser
+plasma diagnostics

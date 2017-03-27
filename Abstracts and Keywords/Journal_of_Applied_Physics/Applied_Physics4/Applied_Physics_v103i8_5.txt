@@ -1,0 +1,7 @@
+Injection seeding of a large active p-Ge laser crystal operating on total internal reflection modes is demonstrated with peak output power at the level of 40W in the 1.54.2THz spectral range. The improvement over traditional 1W axial mode p-Ge lasers is due both to spatially and temporally more efficient use of the available population inversion.
+
+laser beams
+laser modes
+optical materials
+semiconductor lasers
+submillimetre wave generation

@@ -1,0 +1,11 @@
+dc biasing of silicon-anoded silver metaphosphate glass with a pulse train enabled us to follow the process of conduction-induced oxidation of silicon. Biasing with 1000 or 500 V/cm at or below 140
+°C induced formation of a dielectric oxide having capacitance of around 107	F
+cm2. From a large relaxation time of polarization involved, e.g., 104	s at 140
+°C, it is suggested that the oxide is not the genuine silicon dioxide. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+oxidation
+anodisation
+dielectric polarisation
+dielectric relaxation

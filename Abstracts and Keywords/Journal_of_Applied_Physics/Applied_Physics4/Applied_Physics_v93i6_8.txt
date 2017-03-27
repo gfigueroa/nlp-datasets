@@ -1,0 +1,8 @@
+Classical nucleation theory was used as the basis for investigating the effects of dilute oxygen solute on the nucleation behavior of pure zirconium. Undercooling distributions were obtained for zirconium samples via electrostatic levitation experiments and kinetic parameters were determined using statistical analysis. Oxygen and residual impurity content were determined using glow discharge mass spectrometry. The work of formation of a critical nucleus, ”G, and the kinetic prefactor, Kv, increased with decreasing oxygen content. To examine the effects of oxygen on ”G, a sharp interface model was assumed to allow separation of volume free energy and interfacial free energy components. Dilute oxygen has a minimal effect on the volume free energy. A temperature-dependent reduced interfacial free energy, ±m, was used to examine the effect of oxygen on interfacial free energy. Experimentally derived values for ±m and the corresponding interface configurational entropy values varied significantly from theoretical predictions for pure zirconium. Oxygen compositional effects increased the configurational entropy of the interface atoms, resulting in a decrease in the reduced interfacial free energy. © 2003 American Institute of Physics. 
+
+oxygen
+zirconium
+nucleation
+undercooling
+free energy
+entropy

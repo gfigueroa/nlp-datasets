@@ -1,0 +1,19 @@
+Using an rfmagnetron sputtering method, highly caxisoriented Lamodified PbTiO3 (PLT) thin films with compositions of Pb1xLaxTi1x/4O3, where x=0.05, 0.10, and 0.15, have been obtained on MgO singlecrystal and epitaxial Pt thinfilm substrates under conditions of low gas pressure and low deposition rate. The degree of caxis orientation of the PLT films decreases, and the tetragonality of PLT becomes smaller with increasing La content. The Curie point of the films decreases at a rate of 18	°C/at.	% of La with an increase of La content. DE hysteresis loops were observed, and these became slim and symmetric with increasing La. It was found that significant pyroelectric currents are detected on all asgrown specimens even without a poling treatment, and the directions are the same in all specimens. Relative dielectric constant õr decreases, and pyroelectric coefficient ³ increases with increasing degree of caxis orientation. õr and ³ became large with increase of La content in the films. Considering the figure of merit for pyroelectric infrared detection and the temperature coefficient of ³, it was concluded that PLT films with x=0.10 were good material for pyroelectric infrared detectors.
+
+EPITAXIAL LAYERS
+CRYSTAL STRUCTURE
+DIELECTRIC PROPERTIES
+PYROELECTRICITY
+THIN FILMS
+VAPOR PHASE EPITAXY
+VAPOR DEPOSITED COATINGS
+PLATINUM
+MAGNESIUM OXIDES
+LEAD TITANATES
+LANTHANUM ADDITIONS
+LANTHANUM COMPOUNDS
+CRYSTAL ORIENTATION
+MAGNETRONS
+SPUTTERING
+HYSTERESIS
+CHEMICAL COMPOSITION

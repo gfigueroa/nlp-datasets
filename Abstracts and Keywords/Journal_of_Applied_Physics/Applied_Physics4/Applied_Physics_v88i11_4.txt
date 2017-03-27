@@ -1,0 +1,16 @@
+The effect of M(M=Zr,
+Cu,
+Nb) additives on the stability and magnetic properties of melt-spun nanocrystalline Sm2Fe15Ga2C3 ribbons with the 1:7-type structure has been investigated. The addition of 1 at.
+% of Zr or Nb was found to improve the thermal stability significantly, but the addition of Cu was found to decrease the thermal stability of the 1:7 metastable phase. After an appropriate heat treatment, M (Zr, Nb, or Cu)-containing samples exhibit better hard magnetic properties than the M-free sample. The intrinsic coercivity and maximum energy product were found to increase from 3.6 kOe and 59 kJ/m3 for the M-free sample to 4.8 kOe and 88 kJ/m3 for the Zr-containing one. The exchange interaction between the grains or the exchange spring behavior is studied according the Kneller and Hawig model and Henkels plot. The enhancements of magnetic properties originate from the improvement of the intrinsic magnetic properties as well as the refinement of the microstructure. © 2000 American Institute of Physics. 
+
+samarium alloys
+iron alloys
+gallium alloys
+thermal stability
+heat treatment
+coercive force
+exchange interactions (electron)
+permanent magnets
+ferromagnetic materials
+alloying additions
+crystal microstructure

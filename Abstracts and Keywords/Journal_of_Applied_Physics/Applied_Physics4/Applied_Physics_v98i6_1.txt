@@ -1,0 +1,9 @@
+The thermoelectric power of polycrystalline PbTe samples containing nanometer-sized precipitates of Pb metal is enhanced over that of bulk PbTe. Samples of PbTe containing excess Pb and Ag were prepared using conventional metallurgical heat treatments. These samples are shown, by x-ray diffraction, by microscopy, and by the presence of a superconductive transition, to contain Pb precipitates with sizes on the order of 3040nm. The thermopower enhancement is related to an increase in the energy dependence of the relaxation time, as evidenced by a complete set of measurements of thermoelectric and thermomagnetic transport coefficients.
+
+lead compounds
+IV-VI semiconductors
+nanostructured materials
+X-ray diffraction
+thermoelectric power
+heat treatment
+thermomagnetic effects

@@ -1,0 +1,12 @@
+The IV characteristics of the n+-p Si junction diodes prepared by laser annealing of a p-type Si substrate, covered by a SiP thin film, were measured in the 77294 K temperature range. The IV characteristics of these diodes were found to be independent of temperature in the range 77120 K. It was established by CV measurements that the acceptor concentration in the p side of these diodes is in the 10141015
+cm3 range. A trap-assisted tunneling mechanism was used to explain the temperature-independent conductivity of these laser annealed n+-p Si junction diodes. This tunneling mechanism is based on the recombination of tunneling holes in the n-side bulk adjacent to the space charge layer in the n+-p junction. © 2001 American Institute of Physics. 
+
+silicon
+semiconductor diodes
+p-n junctions
+laser beam annealing
+tunnelling
+elemental semiconductors
+deep levels
+capacitance
+electron-hole recombination

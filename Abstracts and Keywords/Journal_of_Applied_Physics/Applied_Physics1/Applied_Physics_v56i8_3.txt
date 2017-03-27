@@ -1,0 +1,23 @@
+Superconducting BaPb1xBixO3 (BPB) thin films have been epitaxially grown on sapphire (0112) and SrTiO3 (100) singlecrystal substrates at around 700	°C by the planar rf magnetron sputtering method, under relatively high pressure ArO2 mixed gas atmosphere. Assputtered BPB films on SrTiO3 (100) exhibit superconductivity with a sharp transition at Tc=10 K. The resistivity, 8×104 ©	cm, is more than one order of magnitude smaller, and the critical current, 2.5×105 A/cm2, is more than two orders of magnitude larger than those reported earlier. The Hall mobility is 3.0 cm2/V	s. The films are confirmed to be single crystals directly by the absence of grain boundary Josephson junctions, which polycrystalline BPB inherently possesses, as well as by the xray diffraction and the reflection electron diffraction analysis.
+
+SUPERCONDUCTING FILMS
+EPITAXY
+HIGH TEMPERATURE
+ELECTRIC CONDUCTIVITY
+HALL EFFECT
+MOBILITY
+MAGNETRONS
+SPUTTERING
+GRAIN BOUNDARIES
+JOSEPHSON JUNCTIONS
+XRAY DIFFRACTION
+ELECTRON DIFFRACTION
+OXYGEN
+ARGON
+SAPPHIRE
+BARIUM OXIDES
+BISMUTH OXIDES
+LEAD OXIDES
+SUPERCONDUCTIVITY
+TRANSITION TEMPERATURE
+TITANIUM OXIDES

@@ -1,0 +1,4 @@
+Polynomial chaos theory (PCT) has been proven to be an efficient way to represent and process uncertainty. In particular, PCT is a computationally efficient way to analyze and solve dynamic models under uncertainty. This paper presents a new way to use a polynomial expansion to incorporate uncertainties that are not expressed in terms of a probability density function (PDF). The paper presents the formalization of the process and some simple applications. The authors show that within the framework introduced in this paper it is possible to incorporate interval analysis. Our long term goal is to support the claim that our framework is able to extract and represent information in a more general way than the ones that have been previously used in engineering systems.
+
+electric variables measurement
+uncertainty

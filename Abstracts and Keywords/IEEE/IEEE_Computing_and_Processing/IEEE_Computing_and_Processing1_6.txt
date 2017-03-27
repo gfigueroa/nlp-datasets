@@ -1,0 +1,7 @@
+ The World In Miniature (WIM) technique has effectively allowed users to interact and travel efficiently in Virtual Environments. However, WIM fails to work in worlds with tasks at various levels of scale. Such an example is using the WIM to arrange furniture and then leaving the room to travel the city using the WIM for navigation and wayfinding. To address this problem, scaling and scrolling were added to the WIM to create the Scaled Scrolling World In Miniature (SSWIM). The interface and testbed were iteratively created under expert evaluation and multiple formative user evaluations led to the final design. The WIM and SSWIM were then compared inside three differently sized cities by users who located a sphere and traveled into it to read the label at the sphere&#146;s center. Users were administered two standard psychology tests to account for spatial orientation (Cube Comparison Test) and spatial scanning (Maze Tracing Test) factors. The results show that the SSWIM&#146;s added functionality, and hence complexity, caused no significant hit in user performance and additionally that users were able to use SSWIM effectively after a short instructional period. To better understand the effect of experience, a follow-up experiment was performed showing performance plateaued after ten to fifteen minutes of use.
+
+ SSWIM
+ Virtual Reality
+ WIM
+ interface design
+ travel

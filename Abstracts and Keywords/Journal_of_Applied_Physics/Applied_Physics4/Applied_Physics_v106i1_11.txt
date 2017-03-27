@@ -1,0 +1,11 @@
+The thermal conductivity and viscosity of various shapes of alumina nanoparticles in a fluid consisting of equal volumes of ethylene glycol and water were investigated. Experimental data were analyzed and accompanied by theoretical modeling. Enhancements in the effective thermal conductivities due to particle shape effects expected from HamiltonCrosser equation are strongly diminished by interfacial effects proportional to the total surface area of nanoparticles. On the other hand, the presence of nanoparticles and small volume fractions of agglomerates with high aspect ratios strongly increases viscosity of suspensions due to structural constrains. Nanoparticle surface charge also plays an important role in viscosity. It is demonstrated that by adjusting pH of nanofluid, it is possible to reduce viscosity of alumina nanofluid without significantly affecting thermal conductivity. Efficiency of nanofluids (ratio of thermal conductivity and viscosity increase) for real-life cooling applications is evaluated in both the laminar and turbulent flow regimes using the experimental values of thermal conductivity and viscosity.
+
+alumina
+laminar flow
+nanofluidics
+nanoparticles
+surface charging
+suspensions
+thermal conductivity
+turbulence
+viscosity

@@ -1,0 +1,12 @@
+The effective magnetic anisotropy Keff of Fe73.5Cu1Nb3Si13.5B9 nanocrystalline alloys annealed at different temperatures was studied by means of magnetization measurements. The results show that the effective magnetic anisotropy Keff of the alloys annealed at Ta=480550	°C is one order of magnitude smaller than that of individual ±Fe(Si) crystallites with the same Si content. With increasing Ta, the effective magnetic anisotropy Keff increases slightly (from 860 to 910 J/m3), and the initial permeability reaches a maximum value at Ta=550	°C. The improvement of the soft magnetic properties mainly results from the large decrease in saturation magnetostriction »s of the alloy and has nothing to do with the variation of the effective magnetic anisotropy. © 1995 American Institute of Physics.
+
+IRON BASE ALLOYS
+COPPER ALLOYS
+SILICON ALLOYS
+NIOBIUM ALLOYS
+BORIDES
+MAGNETIC ANISOTROPY
+MAGNETIZATION
+ANNEALING
+NANOSTRUCTURES
+MULTIELEMENT ALLOYS

@@ -1,0 +1,12 @@
+Venlafaxine is a model substrate for the drug metabolizing cytochrome P450 (CYP) enzyme 2D6. The desvenlafaxine/venlafaxine ratio, either after a single dose or at steady state, can be used to determine whether a patient is functionally (i.e., phenotypically) a CYP 2D6 extensive or poor metabolizer (EM or PM). In turn, CYP 2D6 EM and PM status is important in determining the efficacy of venlafaxine as an antidepressant. Based on a secondary analysis of four of the venlafaxine registration trials, venlafaxine was effective in patients who were CYP 2D6 EMs versus a parallel placebo-treated control group, whereas it was not effective in patients who were CYP 2D6 PMs. Thus, venlafaxine is a useful example of how drugs can be used to quantify differences in drug metabolizing capacity among patients and how such differences can in turn affect the efficacy of a drug (i.e., make a patient an outlier on the usual dose-response curve). (<em>Journal of Psychiatric Practice</em> 2010;16:4649) 
+
+genotype
+phenotype
+therapeutic drug monitoring
+dose
+response
+dose titration
+cytochrome P450 enzymes
+drug sensitivity
+drug resistance
+venlafaxine

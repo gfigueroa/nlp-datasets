@@ -1,0 +1,13 @@
+A study on the effect of substrate conditions was performed for the plasma beam deposition of amorphous hydrogenated carbon ( a-C:H) from an expanding thermal argon/acetylene plasma on glass and crystalline silicon. A new substrate holder was designed, which allows the control of the substrate temperature independent of the plasma settings with an accuracy of 2 K. This is obtained via a combination of a good control of the holders yoke temperature and the injection of helium gas between thermally ill connected parts of the substrate holder system. It is demonstrated that the substrate temperature influences both the a-C:H material quality and the deposition rate. The deposition rate and substrate temperature are presented as the two parameters which determine the material quality. In situ studies prove that the deposition process is constant in time and that thermally activated etching processes are unlikely to contribute significantly during deposition. Preliminary experiments with an additional substrate bias reveal that an energetic ion bombardment of the growing film surface does not influence the deposition process. A tentative deposition model is proposed based on the creation and destruction of active sites, which depend on the particle fluxes towards the substrate and the substrate temperature. This model allows the qualitative explanation of the observed deposition results. © 1997 American Institute of Physics. 
+
+hydrogen
+thin films
+plasma deposition
+etching
+CARBON
+ENERGY BEAM DEPOSITION FILMS
+AMORPHOUS STATE
+HYDROGEN ADDITIONS
+SUBSTRATES
+PLASMA
+TEMPERATURE CONTROL

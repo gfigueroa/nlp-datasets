@@ -1,0 +1,17 @@
+This article presents the thermal stability of the electrical and structural properties of Re/GaAs Schottky diodes annealed in the temperature range 6001000
+°C. Results of the currentvoltage measurement, 2 MeV He2+ ions Rutherfold backscattering, x-ray diffractometer, and transmission electron microscope were analyzed and discussed. The Re/GaAs diode, annealed at temperatures as high as 800
+°C, typically has an ideality factor of <1.14 and a barrier height of about 0.650.71 eV. It also exhibits a low sheet resistance, which is less than 10 ©/¡. With annealing temperature increases up to 900
+°C, the interdiffusion between Re film and GaAs substrate was observed. Furthermore, the intermetallic compound Re3As7 is considered to form in the Re/GaAs sample annealed at 1000
+°C. The experimental results provide evidence that the Re/GaAs interface is metallurgically inert up to 800
+°C and therefore a Schottky barrier with highly thermal stability can be expected. © 1999 American Institute of Physics. 
+
+rhenium
+gallium arsenide
+III-V semiconductors
+semiconductor-metal boundaries
+thermal stability
+Schottky diodes
+chemical interdiffusion
+annealing
+Rutherford backscattering
+transmission electron microscopy

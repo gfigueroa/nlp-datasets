@@ -1,0 +1,6 @@
+The second generation terrestrial transmission standard DVB-T2 introduces the application of MIMO techniques based on the well-known Alamouti scheme for improved mobile and portable reception. However, no channel models are currently available to estimate the gain of Alamouti coding in these channels. Therefore, this document presents a new approach that uses existing DVB-T networks as channel sounder. Using this approach, the complete DVB-T channel is digitized and then evaluated offline using MATLAB, which allows for accurate but time consuming algorithms. Initial measurement results already indicate the high accuracy of the developed solution. This tool can then be used in further measurement campaigns. The obtained measurement results can be incorporated in new channel models that allow for estimating the gain of multi-antenna techniques in these channels.
+
+Channel Modeling
+DVB-T
+DVB-T2
+Software-Radio

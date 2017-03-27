@@ -1,0 +1,14 @@
+We report a possible interfacial energy transfer phenomenon in double-layer light-emitting diodes (LEDs) consisting of a poly(p-phenylene vinylene) (PPV) hole-transport layer and an emitting polymer layer containing either of two blue emitting polymers (I and II). The polymers in film form have almost the same photoluminescence (PL) spectra though they have different band gaps as determined from their absorption and PL spectra. This is due to intermolecularintramolecular energy transfer in polymer II films since the latter structure contains two differing oligomeric chromophores regularly interspersed by long nonconjugated blocks. In double-layer LEDs, PPV functions not only as a hole-transport layer which improves hole injection but also as a chromophore participating in the tuning of the LED emission color through interfacial energy transfer. The significant spectral overlap between the absorption spectrum of PPV and the emission spectra of I or II supports this energy transfer. The presence of PPV can modify the LED color from blue to blue-green or green and also contributes to a high external quantum efficiency. Poly(3,4-ethylenedioxythiophene)poly(styrene sulfonate) was also used as a hole-transport layer and its LEDs were compared to PPV-containing devices. Thicker films of the conjugated polymer chromophores produced red shifts in both PL and electroluminescence (EL) spectra which was attributed to molecular packing and self-absorption effects. At higher applied voltage, these LEDs showed blue shifts, and the emission corresponding to a higher energy transition was enhanced at the expense of emissions from the lower energy transitions. Chromophore heating is also held responsible for some of the blueshifts in EL. The thicker LEDs showed lower efficiency because of self-absorption.
+
+light emitting diodes
+thickness control
+optical tuning
+polymer films
+hole mobility
+photoluminescence
+energy gap
+polymer structure
+polymer blends
+spectral line shift
+electroluminescence
+optical polymers

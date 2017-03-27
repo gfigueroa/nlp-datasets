@@ -1,0 +1,12 @@
+Xray and ultraviolet photoelectron spectroscopies were used to investigate the microscopic changes at the Ti/Bi2Sr2CaCu2O8 interface. Ti extracts oxygen out of the superconductor by disrupting vital bonds such as CuO and BiO. The adatominduced oxygen withdrawal is explained on the basis of cationic bond lengths in the superconductor and standard bond strengths. The changes associated with Cu	2p spectra are attributed to an increase in covalency of CuO bonds, which is the consequence of a rearrangement of oxygen anions around Cu+2 ions. In the early stages of the interface formation, bismuth and titanium are in a complex bonding configuration, which is evident from their binding energies. The line shape analysis of Ti	2p spectra reveals that Ti is in multiple oxidation states at different stages of the evolving interface. This shows that the mobility of oxygen is an important factor which controls the overlayer growth.
+
+MULTIELEMENT COMPOUNDS
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+TITANIUM
+INTERFACES
+CHEMICAL BONDS
+SURFACE PROPERTIES

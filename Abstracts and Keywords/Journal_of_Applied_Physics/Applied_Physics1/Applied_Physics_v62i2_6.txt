@@ -1,0 +1,13 @@
+Studies of bulk diffusion and electromigration of Ni in PbSnNi ternary alloys and in PbIn alloys have been carried out by the standard sequentialsectioning technique and steadystate method, respectively. From a trapping approach, it was found that the binding energy of Ni with Ni and with In are of the order of 0.17 and 1.1 eV, respectively. The close agreement of the prediction of the model with the experiments implied that the Sn atoms trapped only single Ni atoms. The measurement of chemical diffusivity of Ni in Pb showed that the thermodynamic factor had a strong influence on the Z@B|a value of Ni in PbNi alloys. The thermodynamic factor of Ni in Pb was determined to be about 7×102 at 50ppm Ni and 3×102 at 200ppm Ni. This rapid decrease also showed its effect in the increase of the Za of Ni with higher Ni concentration at lower temperatures. Introduction of Sn trapping atoms reduced this effect, as might be expected. On the other hand, addition of indium increased the Z@B|a value of Ni, present in tracer amount, over the value in pure lead.
+
+DIFFUSION
+ATOM TRANSPORT
+ELECTROPHORESIS
+NICKEL
+LEAD ALLOYS
+INDIUM ALLOYS
+NICKEL ALLOYS
+TIN ALLOYS
+TRAPPING
+DIFFUSIVITY
+THERMODYNAMICS

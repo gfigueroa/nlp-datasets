@@ -1,0 +1,8 @@
+The distributed base station concept is treated in the LTE scenario. Uplink scheduling in LTE systems with distributed base stations is considered. In the proposed model, users are connected to remote radio heads deployed throughout the cell and connected to a central base station. Centralized and distributed scheduling with a distributed base station are compared to centralized scheduling with a central base station. Monte carlo simulation results showed that LTE systems with distributed base stations achieve better throughput than systems with conventional base stations while allowing edge users better chances of accessing the resources.
+
+Distributed base station
+LTE
+OFDMA
+resource allocation
+scheduling
+uplink

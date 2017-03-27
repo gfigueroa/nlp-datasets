@@ -1,0 +1,13 @@
+Magnetic properties of a series of NiFe/IrMn rings with inner diameters from 0.35 to 1.50 ¼m, while keeping the outer diameter of 2.0 ¼m, have been studied by magnetic force microscopy and hysteresis loop measurements at various temperatures. The enhancements in exchange bias and coercivity have been observed in the patterned ring structures. Asymmetrical, kinked hysteresis loops are present in the NiFe/IrMn rings with inner diameters less than 1.50 ¼m. The kinks in hysteresis loops in the increasing field branch correspond to the presence of a flux closure state. The presence of the flux closure state has been attributed to the formation of antiferromagnetic domain walls in the magnetization reversal which acts as an energy barrier and traps the flux closure state. © 2004 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+iridium alloys
+manganese alloys
+ferromagnetic materials
+antiferromagnetic materials
+magnetic hysteresis
+coercive force
+interface magnetism
+exchange interactions (electron)
+magnetic force microscopy

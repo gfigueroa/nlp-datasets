@@ -1,0 +1,12 @@
+The alloy composition of a Cd1xZnxTe(111) sample and its spatial homogeneity have been determined by surface photovoltage spectroscopy (SPS) and compared to conventional energy dispersive x-ray spectroscopy measurements. Experimental improvements of the former technique yield a contactless, surface sensitive, and highly accurate spectral resolution of the band gap (error&lt;4
+meV) and consequently of the Zn concentration (error&lt;0.6% in comparison with the latter technique). In addition, SPS is capable of determining the face and type of the Cd1xZnxTe as well as identifying gap states at its surface. The electronic structure has been investigated in comparison with n-CdTe(111), before and after various surface chemical treatments. An acceptor surface state has been observed at 1.21 eV below the conduction band edge and attributed to TeO2. A donor surface state (with a lower concentration relative to the corresponding state in CdTe) associated with Cd atom displacement has been found at 1.42 eV above the valence band maximum. A chemically induced surface state at 0.72 eV below the conduction band edge may be due to Zn vacancies, as supported by x-ray photoelectron spectroscopy measurements. © 2002 American Institute of Physics.
+
+cadmium compounds
+zinc compounds
+II-VI semiconductors
+energy gap
+surface photovoltage
+X-ray chemical analysis
+surface states
+vacancies (crystal)
+X-ray photoelectron spectra

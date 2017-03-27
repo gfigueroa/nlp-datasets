@@ -1,0 +1,6 @@
+This paper proposes a practical method to determine the wide-area dynamic security region of electrical power systems. The boundary of the security region can be approximated using its piecewise-linear approximation. The goal of this approximation is to find a minimum set of hyperplanes that describe the boundary with a given accuracy. Offline computer simulations are used to generate experimental data to build a set of hyperplanes, which form the Security Region for the Wide-area Interconnection. The hyperplanes will be used in real time with State Estimation data and PMU information to evaluate the current security margin and operational transfer capability, to determine the most limiting elements of the grid, and to select optimal remedial actions. Numerical simulations carried out on the WECC system have demonstrated the effectiveness of this approach.
+
+Electrical power systems
+Hyperplane
+WECC
+Wide-area dynamic security region

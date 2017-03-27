@@ -1,0 +1,5 @@
+The paper evaluates the performance of a CDMA based wireless sensor networks (WSN) with layered architecture in terms of energy consumption for successful transmission of data packets, considering only correlation among interferers in shadowed environment. We consider a model of interference at the sink for a layered architecture of CDMA based WSN with two kinds of interference, multiple access interference (MAI) and node interference (NI), considering power control error, path loss and shadowing. An energy model is considered for calculating the requirement of energy for successful delivery of information between two nodes. The effects of node density, correlation among MAI and NI interferers, power control error on BER, PER, average number of retransmission and energy consumption for successful reception between two successive nodes are investigated. Analytical results are verified through simulations.
+
+Multiple access interference
+node interference
+outage probability

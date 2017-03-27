@@ -1,0 +1,12 @@
+Trapping of ionimplanted deuterium (D) by irradiation defects and He bubbles in Mo was investigated through nuclearreaction profiling of the D during linear ramping of temperature. Resulting data were analyzed using transport theory to obtain trap strengths. Nanometersize He bubbles were found to trap the D with a binding enthalpy of 1.15±0.15 eV relative to the solution site, consistent with two independent predictions based, respectively, on effectivemedium theory and thermodynamic analysis. Implantation damage trapped the D with three different binding enthalpies, 1.15, 1.03, and 0.80 eV, attributed, respectively, to vacancy clusters, monovacancies with low D occupancy, and monovacancies with high D occupancy. The two latter values are in good agreement with effectivemedium theory.
+
+ION IMPLANTATION
+TRAPPING
+CRYSTAL DEFECTS
+PHYSICAL RADIATION EFFECTS
+MOLYBDENUM
+ENTHALPY
+BUBBLES
+DAMAGE
+VACANCIES
+DEUTERIUM

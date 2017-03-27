@@ -1,0 +1,11 @@
+Phase transition on the surface of an aluminum target and vapor plasma induced by laser irradiation in the nanosecond regime at the wavelengths of 1.06¼m in the infrared range and 0.248¼m in the ultraviolet range with an intensity of 108109W/cm2 in vacuum are analyzed. Special attention is paid to the wavelength dependence of the observed phenomena and the non-one-dimensional effects caused by the nonuniform (Gaussian) laser intensity distribution and the lateral expansion of the plasma plume. A transient two-dimensional model is used which includes conductive heat transfer in the condensed phase, radiative gas dynamics, and laser radiation transfer in the plasma as well as surface evaporation and back condensation at the phase interface. It was shown that distinctions in phase transition dynamics for the 1.06 and 0.248¼m radiations result from essentially different characteristics of the laser-induced plasmas. For the 1.06¼m radiation, evaporation stops after the formation of hot optically thick plasma, can occasionally resume at a later stage of the pulse, and proceeds nonuniformly in the spot area, and the major contribution to the mass removal occurs in the outer part of the irradiated region. Plasma induced by the 0.248¼m laser is colder and partially transparent since it transmits 30%70% of the incident radiation; therefore evaporation does not stop but continues in the subsonic regime with the Mach number of about 0.1. The amount of evaporated matter that condenses back to the surface is as high as 15%20% and less than 10% for the 1.06 and 0.248¼m radiations, respectively. For a beam radius smaller than < 100¼m, the screening and retarding effect of the plasma weakens because of the lateral expansion, thickness of the removed layer increases, and condensation after the end of the pulse is not observed. Comparison of the numerical and experimental results on the removed layer thickness has shown, in particular, the importance of accounting for the plasma effect to predict the correct trends for radiation intensity and beam radius.
+
+aluminium
+plasma production by laser
+plasma materials processing
+Mach number
+heat conduction
+surface phase transformations
+evaporation
+condensation
+surface treatment

@@ -1,0 +1,4 @@
+The failures of iterative decoders for low-density parity-check (LDPC) codes on the additive white Gaussian noise channel (AWGNC) and the binary symmetric channel (BSC) can be understood in terms of combinatorial objects known as trapping sets. In this paper, we derive a systematic method to identify the most relevant trapping sets for decoding over the BSC in the error floor region. We elaborate on the notion of the critical number of a trapping set and derive a classification of trapping sets. We then develop the trapping set ontology, a database of trapping sets that summarizes the topological relations among trapping sets. We elucidate the usefulness of the trapping set ontology in predicting the error floor as well as in designing better codes.
+
+Coding theory
+iterative coding techniques

@@ -1,0 +1,10 @@
+Stimulated emission and laser action under N2 laser radiation and electronbeam excitation at room temperature was studied in ZnSe epitaxial layers grown by metalorganic vaporphase epitaxy. The laser threshold was about Ithr=1 MW/cm2, the pulse energy was Eem=0.3 ¼J at the excitation intensity of Iexc=26 MW/cm2. The duration was tem=2 ns and the wavelength was »em=473.2475.2 nm. Stimulated emission and laser action are due to the recombinations in a highdensity electronhole plasma at IexcsIthr. The light amplification takes place in both the FabryPérot cavity and in the scheme of the zigzag ray propagation inside the crystal without feedback. © 1995 American Institute of Physics.
+
+ZINC SELENIDES
+EPITAXIAL LAYERS
+VPE
+STIMULATED EMISSION
+ELECTRON BEAM PUMPING
+ELECTRONHOLE COUPLING
+RECOMBINATION
+LASER MATERIALS

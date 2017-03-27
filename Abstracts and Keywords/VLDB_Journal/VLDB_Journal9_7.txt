@@ -1,0 +1,6 @@
+We present a pipelining, dynamically tunable reorder operator for providing user control during long running, data- intensive operations. Users can see partial results and accordingly direct the processing by specifying preferences for various data items; data of interest is prioritized for early processing. The reordering mechanism is efficient and non-blocking and can be used over arbitrary data streams from files and indexes, as well as continuous data feeds. We also investigate several policies for the reordering based on the performance goals of various typical applications. We present performance results for reordering in the context of an online aggregation implementation in Informix and in the context of sorting and scrolling in a large-scale spreadsheet. Our experiments demonstrate that for a variety of data distributions and applications, reordering is responsive to dynamic preference changes, imposes minimal overheads in overall completion time, and provides dramatic improvements in the quality of the feedback over time. Surprisingly, preliminary experiments indicate that online reordering can also be useful in traditional batch query processing, because it can serve as a form of pipelined, approximate sorting.
+
+Informix
+Interactive data processing
+Online reordering
+User control

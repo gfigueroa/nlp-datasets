@@ -1,0 +1,19 @@
+Flash xray measurements have been made on GaAs metal semiconductor field effect transistor structures fabricated in both Crdoped and undoped semiinsulating substrate material in order to characterize the levels responsible for long term transients in these devices. Prominent electron and hole traps with activation energies in the 0.760.90eV range have been identified. The main electron trap, which is present in both Crdoped and undoped substrates, appears to be primarily responsible for the observed transient response. However, traps related to Crdoping also contribute to the transient behavior.
+
+FIELD EFFECT TRANSISTORS
+RADIATION EFFECTS
+TRANSIENTS
+DATA
+GALLIUM ARSENIDES
+METALS
+DOPED MATERIALS
+CHROMIUM
+SEMICONDUCTOR MATERIALS
+XRADIATION
+FABRICATION
+ENERGY LEVELS
+ELECTRONS
+MATHEMATICAL MODELS
+ACTIVATION ENERGY
+HOLES
+TRAPS

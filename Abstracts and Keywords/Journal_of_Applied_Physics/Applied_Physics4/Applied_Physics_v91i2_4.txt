@@ -1,0 +1,21 @@
+Characterization of chemical vapor cleaned, Mg-doped, p-type GaN(0001) surfaces and Pd contacts sequentially deposited on these surfaces has been conducted using x-ray and ultraviolet photoelectron spectroscopies and low-energy electron diffraction. The band bending and the electron affinity at the cleaned p-GaN surface were 1.4±0.1
+eV and 3.1±0.1
+eV, respectively. A previously unidentified band of surface states was observed at <1.0 eV below the Fermi level on this surface. The Pd grew epitaxially on the cleaned surface in a layer-by-layer mode and formed an abrupt, unreacted metalsemiconductor interface. The induced Fermi level movement with Pd deposition has been attributed to a complex interaction between extrinsic and intrinsic surface states as well as metal induced gap states. The final Schottky barrier height at the Pd/p-GaN interface was 1.3±0.1
+eV; the interface dipole contribution was 0.4±0.1
+eV. © 2002 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+magnesium
+palladium
+semiconductor-metal boundaries
+Schottky barriers
+X-ray photoelectron spectra
+ultraviolet photoelectron spectra
+low energy electron diffraction
+surface states
+Fermi level
+interface structure
+metallic epitaxial layers
+surface cleaning

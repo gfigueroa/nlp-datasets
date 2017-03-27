@@ -1,0 +1,15 @@
+In this article, we report the successful growth of Ba(Ti1xZrx)O3 (x=0.050.2) single-crystal fibers by the laser-heated pedestal growth technique. A single-phase perovskite structure of the materials has been identified by the x-ray diffraction technique. The phase diagram for Ba(Ti1xZrx)O3 single crystals is established for x}0.2. Dielectric properties as function of temperature and frequency and room-temperature hysteresis loops are measured. The remnant polarization (Pr) and coercive fields (Ec) are obtained and compared for both single crystals and ceramics. The small dielectric relaxation has been observed for the lower-temperature phase transition (around 40
+°C at 1 kHz) of the sample with x=0.08. The relaxation times follow the Arrhenius law with Ä0=0.4×1013
+s and Erelax=0.53
+eV. A common feature of the low-temperature relaxation mode in the sample is also observed, which follows the Arrhenius law with the Ä0=0.8×1010
+s and Erelax=0.46
+eV. © 2000 American Institute of Physics. 
+
+barium compounds
+fibres
+dielectric hysteresis
+dielectric relaxation
+X-ray diffraction
+dielectric polarisation
+ferroelectric transitions
+ferroelectric materials

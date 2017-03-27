@@ -1,0 +1,9 @@
+The microsecond, nanosecond, and femtosecond laser ablation of AlN ceramic with a transversely excited atmospheric (TEA) CO2 laser, KrF excimer laser, and Ti:sapphire laser is demonstrated. It is shown that the laser-induced thermal decomposition process occurs with a microsecond TEA CO2 laser and a nanosecond KrF excimer laser. With the microsecond and nanosecond laser-induced thermal decomposition process, the conductive aluminum line can be directly fabricated and very low resistance can be obtained with a TEA CO2 laser. In the case of femtosecond Ti:sapphire laser ablation, there are two different regimes of ablation rate-like metals. In addition, a nonthermal process without a chemical composition change of the ablated surface can be achieved successfully, which is evident from scanning electron microscopy observation and x-ray photoelectron spectroscopy analysis of the ablated surface. © 2001 American Institute of Physics. 
+
+pyrolysis
+aluminium compounds
+ceramics
+scanning electron microscopy
+X-ray photoelectron spectra
+pulsed laser deposition
+aluminium

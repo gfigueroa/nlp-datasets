@@ -1,0 +1,9 @@
+We report measurements of the millimeter wave surface resistance of grainaligned YBa2Cu3Ox bulk material grown by a liquid phase process. The measurements were performed by replacing the endplate of a TE011 cylindrical copper cavity with the superconducting sample. Surface resistance was measured for samples with surfaces oriented perpendicular and parallel to the caxis of the grains. We show that, for the parallel configuration, the surface resistance at 77 K and 80 GHz is typically near 100 m©. For a very wellaligned sample with a very low density of Y2BaCuOy precipitates, measured in the perpendicular configuration, the transition width (10%90%) is about 2 K and the surface resistance is less than 50 m© at 88 K. The effect of microstructure on surface resistance is discussed.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+ELECTRIC CONDUCTIVITY
+MICROSTRUCTURE
+MICROWAVE RADIATION
+HIGHTC SUPERCONDUCTORS

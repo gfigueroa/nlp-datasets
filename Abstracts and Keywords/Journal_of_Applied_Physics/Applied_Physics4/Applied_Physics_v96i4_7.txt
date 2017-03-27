@@ -1,0 +1,19 @@
+(Ga1xMnx)As thin films with both semiconducting and magnetic properties were formed by using Mn+ ion implantation and thermal annealing with a goal of producing (Ga1xMnx)As with a high ferromagnetic transition temperature Tc. Energy dispersive x-ray fluorescence measurements showed that the Mn+-implanted neutron-transmutation-doped (NTD) GaAs samples were (Ga1xMnx)As thin films, and photoluminescence spectra showed that the annealed (Ga1xMnx)As thin films were p-type semiconductors. The magnetization curve as a function of the magnetic field showed that ferromagnetism existed in the (Ga1xMnx)As thin films, and the magnetization curve as a function of the temperature showed that the Tc was H140 K. The present results indicate that high-Tc
+(Ga1xMnx)As thin films with both semiconducting and magnetic properties can be formed from NTD-GaAs bulks by using Mn+ implantation and annealing method. © 2004 American Institute of Physics. 
+
+gallium compounds
+manganese compounds
+gallium arsenide
+ferromagnetic materials
+magnetic thin films
+semiconductor thin films
+III-V semiconductors
+semimagnetic semiconductors
+semiconductor doping
+ion implantation
+neutron effects
+annealing
+magnetic transition temperature
+photoluminescence
+magnetisation
+X-ray chemical analysis

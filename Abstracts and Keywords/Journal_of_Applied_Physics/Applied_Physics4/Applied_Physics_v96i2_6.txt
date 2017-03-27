@@ -1,0 +1,14 @@
+X-ray reflectivity and angular dependence of x-ray fluorescence (ADXRF) techniques have been employed for a quantitative study of the Te depth profile and structural changes in a series of CdS/CdTe heterojuctions annealed at various temperatures. The temperature dependence of surface roughening and Te migration is observed in both reflectivity and fluorescence experiments. Changes in the interface morphology and Te distribution are quantified by detailed analysis of the ADXRF data with the aid of reflectivity measurements. The results show that a large amount of Te up to 50% could migrate into the CdS layer and suggest that an extra layer of compounds can be formed near the CdS top surface. We have thus demonstrated that the x-ray reflectivity and ADXRF methods can be used as effective tools for nondestructive characterization of the concentration depth profile and interface morphology in layered structures on a nanometer scale. © 2004 American Institute of Physics. 
+
+cadmium compounds
+tellurium
+II-VI semiconductors
+semiconductor heterojunctions
+X-ray scattering
+fluorescence
+X-ray emission spectra
+annealing
+surface roughness
+surface morphology
+interface structure
+surface diffusion

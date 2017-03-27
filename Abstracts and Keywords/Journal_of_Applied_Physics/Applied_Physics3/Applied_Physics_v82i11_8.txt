@@ -1,0 +1,11 @@
+We have studied a method of combining preoxidation and subsequent sputter deposition for fabricating Si oxide films with a thickness of less than 10 nm at low temperature by using a sputter-type electron cyclotron resonance plasma system. As a key process to achieving high quality composite oxide structures, plasma preoxidation was investigated under different gas flow rates at a substrate temperature of 130	°C. The optimum conditions for the preoxidation were clarified. The structural properties of Si oxide formed by this method with the preoxidation were characterized and compared with those of Si oxide which was directly sputtered without a preoxidation step. It was found that the method with the preoxidation provided a useful way of establishing an abrupt Si/SiO2 interface region and achieving films which have a lower network disorder degree. This procedure was then followed by a thermal annealing in Ar ambient at 450	°C. A thin Si oxide film was produced with a fixed charge density of less than 1.0×1011
+cm2. 98% of the detected samples had a breakdown field of greater than 8 MV/cm. These properties essentially match the electrical quality of thermally grown Si oxide. In contrast, the oxide film deposited without a preoxidation step showed much poorer electrical properties as only 28% of the samples had a breakdown field of greater than 8 MV/cm. Also, the film showed a higher fixed charge density of 1.0×1012
+cm2. The effects of the preoxide on structural and electrical properties of deposited oxide films are discussed in detail. © 1997 American Institute of Physics.
+
+silicon compounds
+sputter deposition
+semiconductor-insulator boundaries
+annealing
+oxidation
+electric breakdown
+plasma deposition

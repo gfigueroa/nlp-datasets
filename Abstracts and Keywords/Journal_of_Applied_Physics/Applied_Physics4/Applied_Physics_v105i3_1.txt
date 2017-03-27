@@ -1,0 +1,8 @@
+The potential for developing new terahertz sources based on the interaction between a nonrelativistic electron beam and a semiconductor plasma is examined. The article presents a theoretical study of the beam-plasma interaction in a magnetized rectangular waveguide. Such an interaction gives rise to broad-band instabilities of the space-charge waves of the electron beam. The effects of the external magnetic field and the electron collision frequency on the growth rates of the unstable waves are studied and discussed.
+
+electron beams
+plasma filled waveguides
+plasma instability
+plasma waves
+plasma-beam interactions
+space charge waves

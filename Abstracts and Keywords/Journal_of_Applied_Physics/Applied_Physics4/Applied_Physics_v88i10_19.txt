@@ -1,0 +1,8 @@
+This article describes three planar layouts of superconducting multiturn flux transformers integrated with a coplanar resonator for radio frequency (rf) superconducting quantum interference device (SQUID) magnetometers. The best magnetic field noise values of 22 and 11.5
+fT/Hz1/2 in the white noise regime were obtained for the layout with two input coils and the layout with the labyrinth resonator, respectively. Excess low-frequency noise (about 200
+fT/Hz1/2 at 10 Hz) was present. Computer simulation showed that the loss in this trilayer system was dominated by the high loss tangent of the dielectric film used for the separation of the upper and lower superconducting films. The rf coupling coefficient krf between the resonator and the flip-chip-coupled SQUID was also estimated. The values krf2H14×103 obtained for the layout with two input coils, and krf2H45×103 for the layout with the labyrinth resonator were considerably higher than the typical value of krf2H7×103 for the single-layer coplanar resonator. These high coupling coefficients have compensated the somewhat degraded unloaded quality factor of the resonator, thus securing the optimum operation of the rf SQUID. © 2000 American Institute of Physics. 
+
+SQUID magnetometers
+superconducting device noise
+white noise
+superconducting transformers

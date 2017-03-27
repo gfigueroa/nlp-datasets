@@ -1,0 +1,13 @@
+We have systematically investigated the microstructure and interface structure of õ1Cu3Ge films on ntype (001)GaAs substrates using highresolution transmission electron microscopy (HRTEM). The coppergermanium alloy forms ohmic contacts on ntype GaAs over a wide range of Ge concentrations from 5 to 40 at.	% with a minimum contact resistivity of 6.5×107 ©	cm2 on (001) GaAs (doping concentration <1.0×1017 cm3 in the Ge concentration range 2530 at.	%). The crosssectional HRTEM results show that a lowresistivity õ1Cu3Ge phase is formed at 25 at.	% Ge concentration, and above this concentration excess Ge precipitates out between the õ1Cu3Ge grains and the GaAs substrate. Ge grows epitaxially with the GaAs substrate, but it is not present as a continuous interfacial layer. The interface between õ1Cu3Ge and GaAs is quite sharp, with no secondary phases. The secondary ion mass spectrometry results indicate interdiffusion between Ge and Ga, which results in highly doped regions by the incorporation of Ge atoms into the GaAs on the Ga sites. The current transport by the tunneling of the carriers through this doped region provides the lowresistance ohmic behavior of the contact. From correlations between the microstructure and the properties of the heterostructure we deduce the optimum concentration of Ge to be 30 at.	% for formation of lowresistance ohmic contacts.
+
+GALLIUM ARSENIDES
+OHMIC CONTACTS
+COPPER ALLOYS
+GERMANIUM ALLOYS
+BINARY ALLOYS
+MICROSTRUCTURE
+INTERFACE STRUCTURE
+TEM
+PRECIPITATES
+SIMS
+DIFFUSION

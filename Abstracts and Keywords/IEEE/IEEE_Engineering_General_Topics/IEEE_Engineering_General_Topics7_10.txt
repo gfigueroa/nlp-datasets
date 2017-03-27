@@ -1,0 +1,6 @@
+The fixed number of reference neighbors leads to mutable prediction errors and low overall accuracy for various unknown instances, according to existing k-NN methods. To address this problem, a bagging-based k-NN numeric prediction algorithm with attribute selection is proposed. Within each training procedure, a set of base k-NN predictors are built iteratively in terms of different bootstrap sampling datasets. Then, the base predictors estimate the unknown instance respectively. The combination mechanism of these individual outcomes determines the performance of this ensemble algorithm. Hence, an instance-relevant rule is proposed to calculate the composite result. The weight of each base k-NN predictor is dynamically updated with respect to the distinct features of current unknown instance. The accuracy in response to different number of base k-NN predictors is also explored. The experimental results on public datasets show the considerable improvement of k-NN numeric prediction.
+
+bagging
+instance-relevant combination
+k-NN algorithm
+numeric prediction

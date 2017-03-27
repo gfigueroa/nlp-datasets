@@ -1,0 +1,11 @@
+Ledbetters critical discussion on our work on the elastic stiffness coeffficients of nickeliron singlecrystal alloys at room temperature clearly shows that our conclusion regarding the linear dependence of the shear constants of this alloy crystal on the composition is, in general, not valid throughout the whole range of composition. The linearity is destroyed by the onset of instability of the fcc phase of the alloy crystal at about 45% Ni. However, so long as the alloy crystal remains in the stable fcc phase (from 100% to 45% Ni) shear constants do follow a linear dependence on composition.
+
+IRON ALLOYS
+NICKEL ALLOYS
+SHEAR
+SHEAR PROPERTIES
+ELASTICITY
+CHEMICAL COMPOSITION
+FCC LATTICES
+INSTABILITY
+CRYSTALPHASE TRANSFORMATIONS

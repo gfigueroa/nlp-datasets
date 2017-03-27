@@ -1,0 +1,12 @@
+GaSe(Cu)/InSe heterojunctions have been formed by bringing the cleavage surface of undoped n-InSe and Cu-doped p-GaSe into direct contact. Transport and phototransport properties are studied by the measurements of capacitancevoltage, currentvoltage, and the spectral response of short-circuit current. Moreover, the efficiency parameters under illumination are estimated by using the open-circuit voltage and short-circuit current. These characteristics of GaSe(Cu)/InSe heterojunctions are compared with those of GaSe(Un)/InSe heterojunctions fabricated by undoped p-GaSe and n-InSe. The series resistance of GaSe(Cu)/InSe heterojunctions is found, the value of which is about 103 times lower than the corresponding value of GaSe(Un)/InSe heterojunctions. A short-circuit current density of 9.0 mA/cm2 and an open-circuit voltage of 0.42 V on GaSe(Cu)/InSe heterojunctions are obtained under illumination of 120 mW/cm2 of a halogen lamp. The short-circuit current of GaSe(Cu)/InSe heterojunctions is about one order of magnitude lager than that of GaSe(Un)/InSe heterojunctions. These experimental results indicate that the low-resistivity of Cu-doped GaSe is effective for the electrical and photovoltaic properties of GaSe/InSe heterojunctions. © 2000 American Institute of Physics. 
+
+gallium compounds
+copper
+indium compounds
+III-VI semiconductors
+semiconductor heterojunctions
+current density
+photovoltaic effects
+electrical resistivity
+capacitance
+photocapacitance

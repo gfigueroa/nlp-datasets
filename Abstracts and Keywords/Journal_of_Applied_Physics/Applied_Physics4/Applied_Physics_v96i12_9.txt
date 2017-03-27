@@ -1,0 +1,13 @@
+The design of fluoride-based optical devices for deep ultraviolet applications is discussed. Variations in the band-gap energy and band structure with respect to composition are investigated for Li(1x)KxBa(1y)MgyF3 perovskites. The band-gap energy, lattice constant, and band structure of perovskitelike fluorides are estimated based on ab initio calculations within the local-density approximation. The lattice-matched double heterostructure with direct band-gap compounds (Li(1x)KxBa(1y)MgyF3 on either LiBaF3 or KMgF3 substrates) is promising for fabrication.
+
+lithium compounds
+potassium compounds
+barium compounds
+magnesium compounds
+superlattices
+solid solutions
+solid lasers
+energy gap
+lattice constants
+ab initio calculations
+density functional theory

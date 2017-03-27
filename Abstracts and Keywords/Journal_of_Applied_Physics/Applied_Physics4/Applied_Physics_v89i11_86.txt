@@ -1,0 +1,7 @@
+Face-centered Fe on Cu(100) remains a challenging and rich magnetic film system due to its structural and magnetic instabilities. One magnetic phase has a spin structure where the first two layers are coupled ferromagnetically and the remaining layers are all antiferromagnetically coupled. We use a self-consistent local mean-field method, to calculate the magnetic structure of this phase for any temperature and applied field. We obtain theoretical results for both parallel and transverse susceptibility measurements and indicate how such measurements may be used to determine the anisotropy in the ferromagnet and antiferromagnet portions of the Fe film. © 2001 American Institute of Physics.
+
+iron
+magnetic thin films
+magnetisation
+magnetic susceptibility
+magnetic structure

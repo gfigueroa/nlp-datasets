@@ -1,0 +1,22 @@
+The opitcal detection of surface acoustic waves (SAW) using stationary reference gratings (SRG) on a substrate is considered. The theory based on Fourier analysis of light diffracted from a grating interacting with a SAW is developed. As shown theoretically and confirmed experimentally the interaction of light with SAW and SRG produces an amplitude modulation of light in the 0 and ±1 orders of diffraction with a depth of modulation proportional to the SAW amplitude. The detection of SAW amplitudes on the order of 103 Å was predicted by theoretical analysis and confirmed by experimental measurements with a bandwidth of detection of 1 kHz. It was demonstrated that second harmonics of comparable amplitudes could also be detected. Measurements of the amplitude of SAW reflected from the free edge of the substrate, as well as SAW reflected from an interdigital transducer, were also demonstrated. It was shown that the SRG method of optical detection can be used for signal processing, for smoothly varying delay, for spectrum analysis, and for filtering.
+
+RADIATION DETECTION
+SURFACES
+SOUND WAVES
+MATHEMATICAL MODELS
+OPTICAL PROPERTIES
+GRATINGS
+SUBSTRATES
+ACOUSTOOPTICAL EFFECTS
+FOURIER ANALYSIS
+DIFFRACTION
+COMPARATIVE EVALUATIONS
+DATA
+MODULATION
+HARMONICS
+TRANSDUCERS
+DATA PROCESSING
+SIGNALS
+SPECTROSCOPY
+FILTERS
+DELAY CIRCUITS

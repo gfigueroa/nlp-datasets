@@ -1,0 +1,10 @@
+Depth profiles measured by secondary ion mass spectrometry have been used to compare boron diffusion from three different sources for temperatures ranging from 850 to 1050	°C. The sources included boron in situ doped and ionimplanted polycrystalline silicon as well as vapor using an evacuated capsule with highly doped powder. The junction depths and surface concentrations demonstrated little source dependence. BoltzmannMatano analysis has been used to show that the concentration dependence of the diffusivity on source was minimal. We have clearly shown that conventional models of boron diffusion cannot fit the experimental data or the BoltzmannMatano results, regardless of source. A new model has been used to describe the boron diffusion profiles more accurately.
+
+DIFFUSION
+SILICON
+ION IMPLANTATION
+DIFFUSIVITY
+ATOM TRANSPORT
+SURFACE CONTAMINATION
+BORON
+VERY HIGH TEMPERATURE

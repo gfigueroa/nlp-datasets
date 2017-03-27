@@ -1,0 +1,6 @@
+This paper uses MFDFA-2 method and the shuffled and surrogated return time series to study the multifractality in the volatility returns of 23 countries after 2007 stock market crash. The results suggest although the financial crisis is caused by US subprime lending crisis, the influence has spread to the whole world. The multifractality degree after 2007 stock market crash is higher than the day before 2007, either to US or other countries. And the multifractality degree of volatility return is higher for emerging market. However, there are the same dynamical mechanisms to small and large fluctuations of volatility return. And we verified that the multifractal structure of 23 countries can be mainly attributed to the long-range correlations and secondarily to the broad fat-tail distributions. So we should pay attention to the different mechanisms before and after stock market crash of price and volatility return and improve the level of management to financial risk.
+
+Financial risk
+MFDFA
+Multifractality
+Stock market crash

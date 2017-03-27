@@ -1,0 +1,12 @@
+The 4 MeV Xe ion irradiation of a thin thermally grown SiO2 film on a Si substrate leads to four different effects in which each manifests itself by a characteristic change in the mechanical stress state of the film: densification, ascribed to a beam-induced structural change in the silica network; stress relaxation by radiation-enhanced plastic flow; anisotropic expansion and stress generation; and transient stress relaxation ascribed to the annealing of point defects. Using sensitive wafer-curvature measurements, in situ measurements of the in-plane mechanical stress were made during and after ion irradiation at various temperatures in the range from 95 to 575 K, in order to study the magnitude of these effects, the mechanism behind them, as well as their interplay. It is found that the structural transformation leads to a state with an equilibrium density that is 1.7%3.2% higher than the initial state, depending on the irradiation temperature. Due to the constraint imposed by the substrate, this transformation causes a tensile in-plane stress in the oxide film. This stress is relaxed by plastic flow, leading to densification of the film. The anisotropic strain-generation rate decreases linearly with temperature from (2.5±0.4)×1017
+cm2/ion at 95 K to (0.9±0.7)×1017
+cm2/ion at 575 K. The spectrum of irradiation-induced point defects, measured from the stress change after the ion beam was switched off, peaks below 0.23 eV and extends up to 0.80 eV. All four irradiation-induced effects can be described using a thermal spike model. © 2000 American Institute of Physics. 
+
+silicon compounds
+insulating thin films
+ion beam effects
+stress relaxation
+solid-state phase transformations
+densification
+plastic flow
+point defects

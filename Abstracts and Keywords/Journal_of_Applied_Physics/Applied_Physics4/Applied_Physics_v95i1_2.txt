@@ -1,0 +1,8 @@
+We have investigated the formation of misfit dislocations resulting from the growth of partially strained Si0.7Ge0.3 epitaxial films on Si substrates with surface normals rotated off of the [001] axis toward [110] by 0°, 13°, and 25°. Transmission electron microscopy has shown that the dislocations form in a modified cross-hatch pattern for samples grown on the off-axis substrates. This modified cross hatch consists of three arrays along which the dislocations align. This is in contrast to the two orthogonal arrays found on the on-axis (001) substrates. These dislocations correspond well with the intersection of the (111) slip planes with the respective surfaces. We present a simple analysis of the amount of relaxation due to probable Burgers vectors for these dislocations, which reveals the most likely directions for these vectors and shows that the density of dislocations only accounts for a fraction of the total film relaxation as measured by Raman peak shifts. These studies form the basis for the use of high index surfaces as components in modern devices, and provide pathways to possible templates for use in the growth of nanostructures. © 2004 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor materials
+semiconductor epitaxial layers
+dislocation density
+internal stresses
+transmission electron microscopy

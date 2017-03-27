@@ -1,0 +1,11 @@
+ac-susceptibility measurements have been performed on YBa2Cu3O7´ (YBCO) epitaxial thin films and coated conductors (CCs) in order to determine and compare the vortex motion regimes and dynamic responses induced at different temperatures and magnetic fields. A general phase diagram in the (Hac,T) plane has been built up, where three different dynamic regimes could be identified and compared for epitaxial films and CCs with different textures. Moreover, we have performed a comprehensive study of the dc-magnetic field and current density dependencies of the vortex activation energies associated with Abrikosov vortices inside the grains and Abrikosov-Josephson vortices at the grain boundaries and have built up a complete magnetic phase diagram valid for CCs in the (HdcT) plane. We present a full description of the different vortex motion regimes identified in the diagram. With this study we have been able to analyze and describe the general behavior of vortex dynamics at high temperatures, close to the irreversibility line, for YBCO thin films and CCs.
+
+barium compounds
+current density
+flux-line lattice
+grain boundaries
+high-temperature superconductors
+magnetic transitions
+phase diagrams
+superconducting epitaxial layers
+yttrium compounds

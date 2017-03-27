@@ -1,0 +1,12 @@
+The microscopic process involved with thermal activation of the Mg acceptors in GaN epitaxial films is investigated using electron paramagnetic resonance (EPR) spectroscopy. Samples were heat treated in dry N2 for 30 min at temperatures between 200 and 1000
+°C. Below 850
+°C, the data are consistent with release of hydrogen from a Mg complex and corroborate the initial assignment of the EPR signal to the p-type acceptor. However, the Mg-related EPR signal is permanently quenched for anneals above 850
+°C suggesting that additional point defects are created during high temperature treatment. © 2004 American Institute of Physics. 
+
+gallium compounds
+nitrogen compounds
+magnesium
+semiconductor doping
+impurities
+EPR spectroscopy
+heat treatment

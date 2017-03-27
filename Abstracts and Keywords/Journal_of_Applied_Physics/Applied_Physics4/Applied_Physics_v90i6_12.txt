@@ -1,0 +1,7 @@
+The effect of quantum degeneracy on the work output from a Stirling cycle working at quantum degeneracy conditions (QDCs) is analyzed. Expressions for net work outputs of Stirling power cycles working with monatomic ideal Bose and Fermi gases are derived by using the quantum ideal gas equation of state. Ratios of net work outputs of Stirling cycles working with Bose and Fermi gases to the net work output of a classical Stirling cycle (RWB and RWF, respectively) are obtained. Variations of RWB and RWF with TH are examined for a given temperature ratio (Ä=TL/TH) and a specific volume ratio (r½=½H/½L). At QDC, it is seen that RWB has a maximum value, which is greater than unity. On the other hand, there is no maximum or minimum point for RWF and RWF}1 for any values of TH. Consequently, the use of Bose gas as a working fluid in a Stirling cycle provides an advantage since it causes the net work output per cycle to increase by consuming more heat energy. This fact is seen to be in the opposite direction for a Stirling cycle working with Fermi gas. © 2001 American Institute of Physics. 
+
+boson systems
+fermion systems
+quantum statistical mechanics
+equations of state
+Stirling engines

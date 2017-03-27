@@ -1,0 +1,6 @@
+The present research was proposed to classify biosignals based on chaotic models. Recurrent networks, capable of describing data variation by the means of the interaction between internal layer neurons, were designed. The result demonstrated remarkable stability against external disturbance and the ability for extraction of the system original dynamics. Also a reduction of precision was shown in detection of synchronic regions through the data filtering process. The method dependence on structure not on frequency may explain why this phenomenon happens.
+
+Biosignal
+chaotic model
+qualitative resonance
+recurrent network

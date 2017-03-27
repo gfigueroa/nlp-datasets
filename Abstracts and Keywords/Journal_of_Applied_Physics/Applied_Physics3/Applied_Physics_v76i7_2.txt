@@ -1,0 +1,10 @@
+Proton exchanged samples of LiNbO3 have been profiled by microRaman spectroscopy, secondary ion mass spectroscopy, Rutherford backscattering channeling, and by xray diffraction (XRD). Following proton exchange (PE) there are two different phases in addition to pure LiNbO3 detected by XRD. After successive annealing steps the outermost phase disappears and an interfacial region forms progressively between PE and LiNbO3. Specific vibrational bands are correlated to electrooptic and nonlinear optical properties of the system, and the recovery of these properties upon annealing is correlated to chemical bonding changes.
+
+LITHIUM NIOBATES
+ION EXCHANGE MATERIALS
+WAVEGUIDES
+RAMAN SPECTRA
+SIMS
+XRD
+VIBRATIONAL STATES
+INTEGRATED OPTICS

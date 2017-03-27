@@ -1,0 +1,8 @@
+Objective: The purpose of this project was to educate inpatients with psychotic disorders, many of whom were taking second-generation antipsychotics, about lifestyle changes they can make to combat weight gain. Method: All inpatients on a Veterans Affairs acute inpatient schizophrenia treatment unit were invited to a 30-minute, didactic presentation given by a medical student and a psychology student under the supervision of the primary investigator. The topics covered included the health benefits of maintaining an ideal body weight by selecting foods according to the USDA Food Pyramid, determining adequate food portions, choosing healthy meals outside the home, and beginning and adhering to an exercise program. Subjects completed a 13-item quiz concerning their knowledge of food and nutrition before and after the presentation to determine its efficacy in teaching patients the material. Results: Fifty patients completed both the pre- and post-presentation tests. The mean percentage of correct answers on the pre-test was 85.6%, which rose to 89.3% on the post-test. This difference of 3.7% was statistically significant (t = 2.43, df = 49, <em>p</em> &lt; 0.02), and the mean percent of improvement was 6.1%. Conclusions: This study demonstrates that psychotic individuals are able to benefit from educational presentations about nutrition and a healthy lifestyle. A statistically significant improvement in test scores suggests that subjects gained an understanding of basic concepts related to food choices and fitness. 
+
+schizophrenia
+weight gain
+antipsychotics
+education
+intervention
+exercise

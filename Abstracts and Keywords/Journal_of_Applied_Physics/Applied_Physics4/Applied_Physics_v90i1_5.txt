@@ -1,0 +1,10 @@
+Ultrananocrystalline diamond (UNCD) films, grown using microwave plasma-enhanced chemical vapor deposition with gas mixtures of Ar1%CH4 or Ar1%CH45%H2, have been examined with transmission electron microscopy (TEM). The films consist of equiaxed nanograins (210 nm in diameter) and elongated twinned dendritic grains. The area occupied by dendritic grains increases with the addition of H2. High resolution electron microscopy shows no evidence of an amorphous phase at grain boundaries, which are typically one or two atomic layer thick (0.20.4 nm). Cross-section TEM reveals a noncolumnar structure of the films. The initial nucleation of diamond occurs directly on the Si substrate when H2 is present in the plasma. For the case of UNCD growth from a plasma without addition of H2, the initial nucleation occurs on an amorphous carbon layer about 1015 nm thick directly grown on the Si substrate. This result indicates that hydrogen plays a critical role in determining the nucleation interface between the UNCD films and the Si substrate. The relation between diamond nuclei and Si is primarily random and occasionally epitaxial. © 2001 American Institute of Physics. 
+
+diamond
+nanostructured materials
+elemental semiconductors
+semiconductor growth
+plasma CVD
+crystal microstructure
+transmission electron microscopy
+dendritic structure

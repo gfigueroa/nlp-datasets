@@ -1,0 +1,6 @@
+Active database management systems (DBMSs) are a fast-growing area of research, mainly due to the large number of applications which can benefit from this active dimension. These applications are far from being homogeneous, requiring different kinds of functionalities. However, most of the active DBMSs described in the literature only provide a fixed, hard-wired execution model to support the active dimension. In object-oriented DBMSs, event-condition-action rules have been propo sed for providing active behaviour. This paper presents EXACT, a rule manager for object-oriented DBMSs which provides a variety of options from which the designer can choose the one that best fits the semantics of the concept to be supported by rules. Due to the difficulty of foreseeing future requirements, special attention has been paid to making rule management easily extensible, so that the user can tailor it to suit specific applications. This has been borne out by an implementation in ADAM, an object-oriented DBMS. An example is shown of how the default mechanism can be easily extended to support new requirements.
+
+Active DBMS
+Extensibility
+Metaclasses
+Object-Oriented DBMS

@@ -1,0 +1,10 @@
+CdSe nanocrystalline films were prepared by chemical solution deposition. Photoluminescence (PL) spectroscopy was utilized to characterize the prepared films. We observed that the PL peak position of the films gradually shifts from <595 to <670 nm as the deposition time increases. Also, the PL spectra become broadened with the increase of deposition time. The data indicate that as the deposition time increases, the crystal size increases; but once the crystal size reaches a critical volume, crystal growth terminates. We used the effective mass approximation to analyze the effects of crystallite polydispersity upon the shape of the PL spectra. © 1996 American Institute of Physics. 
+
+CADMIUM SELENIDES
+CVD
+PHOTOLUMINESCENCE
+THIN FILMS
+GRAIN SIZE
+LINE SHAPE
+XRD
+TEM

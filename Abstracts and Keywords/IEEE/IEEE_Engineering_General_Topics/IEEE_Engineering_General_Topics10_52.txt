@@ -1,0 +1,6 @@
+The ControlNet is a high speed and deterministic network. It has been developed by Rockwell Automation. The ControlNet network's mission is to provide reliable, high-speed transport of two basic types of application information: control and I/O data; non-time critical messaging data related to the controlled system. This is accomplished by partitioning the bandwidth into a scheduled portion that is guaranteed to be delivered within a specified Network Update Time and a unscheduled portion that is essentially the time remaining after the scheduled traffic is handled. A parameter for ControlNet is scheduled max node (SMAX). In this article, we studied the parameter of the ControlNet network when used in a control situation. Simulation results and conclusions are presented.
+
+ControlNet
+SMAX
+bandwidth
+utilization

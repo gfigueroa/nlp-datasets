@@ -1,0 +1,11 @@
+Ultrathin single quantum well (about one monolayer) grown on GaAs(001) substrate with GaAs cap layer has been studied by high resolution xray diffractometer on a beamline of the Beijing Synchrotron Radiation Facility. The interference fringes on both sides of the GaAs(004) Bragg peak are asymmetric and a range of weak fringes in the higher angle side of the Bragg peak is observed. The simulated results by using the kinematical diffraction method shows that the weak fringe range appears in the higher angle side when the phase shift introduced by the single quantum well is very slightly smaller than m¿ (m:integer), and vice versa. After introducing a reasonable model of single quantum well, the simulated pattern is in good agreement with the experiment. © 1996 American Institute of Physics. 
+
+QUANTUM WELLS
+XRD
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+CRYSTAL STRUCTURE
+SYNCHROTRON RADIATION
+INTERFERENCE
+COMPUTERIZED SIMULATION
+HETEROSTRUCTURES

@@ -1,0 +1,5 @@
+In this study, a new structure formed by complex wavelet transform (CWT) with different levels and complex-valued artificial neural network (CVANN) is proposed for classification of ECG arryhytmias. In this structure, features of ECG data are extracted using CWT and data size is reduced. After then, four statistical features (maximum value, minimum value, mean value and standard deviation) are obtained from extracted features. These new statistical features are presented to CVANN as inputs. Data set used in this study, including five different arrhytmias (normal sinus rhythm, right bundle branch block, left bundle branch block, atrial fibrilation and atrial flutter), are selected from MITBIH ECG database. Number of samples in training and test sets for each pattern is reduced from 200 real-valued samples to 100, 50 and 25 complex-valued samples using first level CWT, second level CWT and third level CWT, respectively. Classificaton results shown that arrhytmias are classified with 100% accuracy rate using CWT with third level. Classification process was done in 32.62 second.
+
+CVANN
+Complex wavelet transform
+ECG

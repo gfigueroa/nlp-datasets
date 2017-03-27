@@ -1,0 +1,9 @@
+A necessary and sufficient condition for no thermal runaway is given for cw doubleheterostructure semiconductor lasers. No catastrophic damage at the mirror facet should occur when the condition is satisfied. The condition for no thermal runaway contains the dimension, operating conditions, and material properties of the doubleheterostructure laser. As such, it can be used to systematically optimize the laser structure. Use of the condition is illustrated and a typical case analyzed.
+
+SEMICONDUCTOR LASERS
+CW LASERS
+HETEROSTRUCTURES
+MIRRORS
+OPTIMIZATION
+DEGRADATION
+TEMPERATURE EFFECTS

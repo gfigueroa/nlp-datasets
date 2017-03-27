@@ -1,0 +1,18 @@
+Er3+Yb3+ codoped TiO2 films were prepared on fused silica by solgel processes. The Yb3+ codoping effect on the physical characteristics and <1.54 ¼m photoluminescence (PL) properties of Er3+-doped TiO2 films was investigated. Maximum <1.54 ¼m PL intensity occurs in Er3+ (5	mol
+%)Yb3+(30	mol
+%) codoped TiO2 samples annealed at 700
+°C. However, when the concentration of Yb3+ ions is more than 30 mol
+%, the back energy transfer effect from Er3+ to Yb3+ will deteriorate the <1.54 ¼m PL efficiency. Extended x-ray absorption fine structure measurements show that the average spatial distance between Er3+ ions is slightly decreased due to the partial substitution of Yb3+ for Er3+ ions in the local structure. The Yb3+ ion in the Er3+Yb3+ codoped TiO2 samples not only plays the role of disperser but is also a sensitizer of the Er3+ ion. This dual effect leads to larger PL intensity in the Er3+Yb3+ codoped TiO2 system in comparison with Er3+Y3+ codoped TiO2 samples. Compared with SiO2 films with Er3+ (5	mol
+%)Yb3+ (30 mol
+%) codoped and annealed at optimal temperature of 985
+°C, the Er3+Yb3+ codoped TiO2 film obtains better PL properties at lower annealing temperature. © 2003 American Institute of Physics. 
+
+fluorescence
+photoluminescence
+sol-gel processing
+titanium compounds
+erbium
+ytterbium
+EXAFS
+annealing
+doping profiles

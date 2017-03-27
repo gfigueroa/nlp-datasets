@@ -1,0 +1,12 @@
+The dielectric relaxation and leakage current characteristics were studied for Pb1xLax(ZryTi1y)1x/4O3 (PLZT) capacitors with various iridium-based top electrodes. The dielectric relaxation current behavior of PLZT capacitors obeys the well-known Curievon Schweidler law independent of various Ir-based top electrodes including Pt and shows surprisingly little impact of various atmospheres such as Ar, O2, and H2. Electrical charge hopping, bulk effect, is the dominant mechanism of ac electric conduction which exhibits a linear relationship with frequency at room temperature. The true leakage current was separated definitively from the dielectric relaxation contributions. The PLZT capacitors with Pt or IrO2 top electrodes contacted with PLZT films show strong time dependence of true leakage current, resulting in consistence with space-charge influenced injection model. On the other hand, true leakage current of capacitors with Ir or IrO2/Ir top electrodes is independent of time, resulting in contradiction to the space-charge injection model. The IrPb, conducting phase, at interface between Ir top electrode and PLZT induces a steady state current behavior without the contribution of relaxation current. The second phase formed at interface modified the Schottky barrier height and increases the leakage current density. © 2000 American Institute of Physics. 
+
+lead compounds
+lanthanum compounds
+zirconium compounds
+titanium compounds
+dielectric thin films
+electrodes
+iridium
+leakage currents
+dielectric relaxation
+capacitors

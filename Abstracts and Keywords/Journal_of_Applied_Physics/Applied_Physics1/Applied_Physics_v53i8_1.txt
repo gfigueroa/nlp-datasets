@@ -1,0 +1,18 @@
+A new electron trap has been observed in electronirradiated ntype silicon at EcET = 0.105 eV using transient capacitance techniques. It is shown that this trap is related to another trap at EcET = 0.172 eV and that one trap can be converted to the other by altering the voltage pulsing scheme across the pn junction. In particular, the maximum transient capacitance response from the trap at EcET = 0.105 eV occurs when the majority carrier pulse width (tw ) is smaller than some time constant (Äw ) and when the timebetweenpulses (tp ) is larger than another time constant (Äp ). Emission time and capture crosssection measurements indicate that the trap at EcET = 0.172 eV is closely related to the oxygenvacancy defect (A center). It is believed that both these traps are different configurations of the same defect, the defect possibly being an impurity atom trapped by an A center.
+
+TRAPS
+SILICON
+ELECTRONS
+TRANSIENTS
+CAPACITORS
+DOPED MATERIALS
+PHOSPHORUS
+IRRADIATION
+EXPERIMENTAL DATA
+NTYPE CONDUCTORS
+PN JUNCTIONS
+CHARGE CARRIERS
+CROSS SECTIONS
+VACANCIES
+A CENTERS
+IMPURITIES

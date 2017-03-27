@@ -1,0 +1,9 @@
+Tunable properties of materials are highly desirable in many applications. Metamaterials with negative properties (permittivity, permeability, or both) can have many applications if such properties can be made tunable or can be switched alternatively between positive and negative property behavior. This paper is a numerical study of the effect of substrate properties on the effective properties of a metamaterial slab. We present both simulation results and measurement data for a specific split-ring resonator structure for two different substrate thicknesses and demonstrate very good agreement. Then, using finite element simulation, varying the permittivity of the substrate from 1 to 14 while keeping its physical thickness fixed, we show that the resonance frequency drops from < 16to < 6GHz. Alternately, when the physical thickness of the substrate is varied from 0.05to2mm, keeping its permittivity fixed, the resonance frequency decreases from < 13.2to < 9.2GHz. In each case, the effective refractive index is retrieved from the simulated S parameters (normalized reflected and transmitted fields). Our results show that the properties of metamaterials can be effectively tuned by changing the substrate properties. If the metamaterials are negative index materials, the effective refractive index can also be agilely switched between negative and positive values. This numerical study can serve as a guide for the design of voltage tunable dielectric substrates for realizing tunable metamaterials.
+
+metamaterials
+substrates
+permittivity
+permeability
+optical resonators
+finite element analysis
+refractive index

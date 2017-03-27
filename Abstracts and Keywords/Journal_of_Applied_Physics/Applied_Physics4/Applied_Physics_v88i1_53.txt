@@ -1,0 +1,14 @@
+We report magnetization measurements in the Ln(Mn1xCox)O3+» (Ln=Eu,
+Nd; 0}x&lt;1) and Y(Mn1xCox)O3 (0.35}x}0.5) perovskites as a function of temperature and magnetic field. Compositions in the range of 0.35}x}0.8 (Ln=Eu), 0.4}x}0.6 (Ln=Nd), and 0.35}x}0.45 (Ln=Y) exhibit metamagnetic behavior associated with a transformation of the magnetic structure from ferrimagnetic, where the magnetic moments of Co2+ and Mn4+ ions are antiparallel, to ferromagnetic where they are parallel. A ferromagnetic state is observed for the 0.1}x}0.15 (Ln=Nd) and 0.45&lt;x}0.5 (Ln=Y) compositions. Doping and H-T phase diagrams are presented, and these diagrams resemble those of Ln1xCaxMnO3 charge-ordered manganites. Neutron diffraction studies indicate site ordering of the Co and Mn ions in the Y(Co0.5Mn0.5)O3 system, which is presumably responsible for its ferromagnetic behavior. © 2000 American Institute of Physics. 
+
+metamagnetism
+magnetic structure
+magnetic moments
+superexchange interactions
+ferromagnetic-antiferromagnetic transitions
+neutron diffraction
+magnetisation
+europium compounds
+neodymium compounds
+yttrium compounds
+ferromagnetic materials

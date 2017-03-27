@@ -1,0 +1,13 @@
+Phase equilibria in the TlCaBaCuO system have been studied at sample temperatures that are near, but below, the onset of melting. Independent control of the partial pressures of oxygen P(O2) and thallous oxide P(Tl2O) was achieved through the use of a twozone furnace. Stable ranges of P(Tl2O), P(O2), and sample composition for individual Tl superconductors, including 2122, 2223, 1122, and 1223 (the latter intergrown with about 10% 2223) have been determined. A qualitative understanding of these stable ranges, based on the relative Tl content and formal oxidation state of the cations within a structure type, has been developed. From this information, equilibrium phase diagrams for Tl superconductors with Ca:Ba:Cu ratios of 1:2:2, 2:2:3, and 3:2:4 are proposed. These diagrams provide process information for the twozone synthesis of bulk materials and thin and thick films. The superconducting transition temperatures of the individual phases produced by nearequilibrium processing are both reproducible and relatively insensitive to changes in the process conditions.
+
+MULTIELEMENT COMPOUNDS
+THALLIUM OXIDES
+CALCIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+PHASE DIAGRAMS
+ZONE MELTING
+OXIDATION
+EQUILIBRIUM
+TRANSITION TEMPERATURE

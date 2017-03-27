@@ -1,0 +1,19 @@
+Wet oxidation annealing of thin films of amorphous Si0.67Ge0.25C0.08 was performed over the temperature range from 700 to 950	°C. Changes in composition and microstructure were assessed using Rutherford backscattering spectrometry and transmission electron microscopy. A nearly pure layer of SiO2 with approximately 1 at.	% carbon was formed, with Ge being rejected from the oxide at all temperatures. At low temperatures, the oxide formed was very thin. Ge piled up at the oxide/film interface and the thin film microstructure remained amorphous. At higher temperatures, a network of nanocrystals was observed which was believed to provide a grain boundary diffusion path for Ge which had redistributed throughout the remaining layer. It is proposed that the Ge layer had inhibited oxidation at the lower temperatures, whereas its removal resulted in increased oxidation rates at higher temperatures. Annealing at 950	°C for 5 and 6 h resulted in an epitaxial transformation and a single crystal structure. This process occurred as a result of the silicon being removed from the substrate by the oxide front which served as a sink. Germanium then diffused into the vacancies in the substrate forming a new epitaxial layer. © 1998 American Institute of Physics.
+
+silicon compounds
+germanium compounds
+amorphous semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+oxidation
+surface chemistry
+annealing
+Rutherford backscattering
+transmission electron microscopy
+nanostructured materials
+crystal microstructure
+crystallisation
+solid phase epitaxial growth
+semiconductor growth
+grain boundary diffusion
+vacancies (crystal)

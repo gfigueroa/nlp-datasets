@@ -1,0 +1,5 @@
+The decomposition storage model (DSM) vertically partitions all attributes of a table and has excellent I/O behavior when the number of attributes accessed by a query is small. It also has a better cache footprint than the standard storage model (NSM) used by most database systems. However, DSM incurs a high cost in reconstructing the original tuple from its partitions. We first revisit some of the performance problems associated with DSM and suggest a simple indexing strategy and compare different reconstruction algorithms. Then we propose a new mirroring scheme, termed fractured mirrors, using both NSM and DSM models. This scheme combines the best aspects of both models, along with the added benefit of mirroring to better serve an ad hoc query workload. A prototype system has been built using the Shore storage manager, and performance is evaluated using queries from the TPC-H workload.
+
+Data placement
+Disk mirroring
+Vertical partitioning

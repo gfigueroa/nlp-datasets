@@ -1,0 +1,13 @@
+Directional solidification experiments were employed on FePr alloys at several low cooling rates in order to observe the solidification sequence displayed along the length of the samples. Measurements of the transition temperatures around the eutectic temperature of this system were also performed using a Calvet-type calorimeter. The results show the precipitation of the Fe2Pr phase and its peritectic formation, described as Fe17Pr2+L’Fe2Pr. The calorimetric measurements give the temperature of this reaction as being 669
+°C. The system presents only one eutectic reaction at 664
+°C, described as L’Fe2Pr+Pr, with a feathered morphology under metallographic analysis. Thermomagnetic measurements give the Curie temperature of the Fe2Pr phase as 44
+°C. A sequence of reactions during solidification of the alloys around the eutectic point for the FePr binary system is proposed. © 2001 American Institute of Physics. 
+
+iron alloys
+praseodymium alloys
+directional solidification
+precipitation
+Curie temperature
+ferromagnetic materials
+eutectic alloys
+thermomagnetic effects

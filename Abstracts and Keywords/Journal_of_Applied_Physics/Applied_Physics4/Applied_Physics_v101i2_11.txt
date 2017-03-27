@@ -1,0 +1,12 @@
+We investigate the interaction between interstitial oxygen (Oi) and As dopant in heavily As-doped Si using first-principles total-energy calculations. The interaction between Oi and As (substitutional) is found to be short ranged. The most stable configuration is with As and Oi as second nearest neighbors, forming SiOSiAs type complexes, with a binding energy of 0.140.21eV. These complexes can trap Oi in their vicinity and thus reduce the Oi mobility. But the magnitude of trapping energy by such complexes is about fives times smaller than the value estimated from the experimentally observed retardation of Oi diffusion in heavily As-doped Si. We suggest that structural complexes involving other defects may resolve this discrepancy.
+
+silicon
+oxygen
+arsenic
+elemental semiconductors
+heavily doped semiconductors
+ab initio calculations
+total energy
+binding energy
+interstitials
+impurity-defect interactions

@@ -1,0 +1,8 @@
+I consider a simple cubic lattice of mixed valent Mn ions (Mn4+ and Mn3+) and calculate the ground state energy for the ferromagnetic B phase using a slave-boson mean-field approach. Each Mn ion has three localized t2g electrons with their spins ferromagnetically coupled to form a spin S=3/2. Ions in the Mn3+ configuration have an additional eg electron to form a total spin of (S+1/2). The eg electrons are allowed to hop between the Mn sites (giving rise to the double exchange), but the multiple occupancy of the eg levels is excluded at each site. Five slave bosons per site are introduced to take into account the correlations between the eg electrons. © 2001 American Institute of Physics.
+
+lanthanum compounds
+calcium compounds
+colossal magnetoresistance
+ferromagnetic materials
+ground states
+mixed valence compounds

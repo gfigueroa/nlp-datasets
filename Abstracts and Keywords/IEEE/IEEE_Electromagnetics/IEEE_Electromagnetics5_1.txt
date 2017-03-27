@@ -1,0 +1,8 @@
+Watermarking is the process that embeds data called a watermark, a tag, or a label into a multimedia object, such as images, video, or text, for their copyright protection. According to human perception, the digital watermarks can either be visible or invisible. A visible watermark is a secondary translucent image overlaid into the primary image and appears visible to a viewer on a careful inspection. The invisible watermark is embedded in such a way that the modifications made to the pixel value are perceptually not noticed, and it can be recovered only with an appropriate decoding mechanism. This paper presents new very large scale integration (VLSI) architecture for implementing two visible digital image-watermarking schemes. The proposed architecture is designed to aim at easy integration into any existing digital camera framework. To the authors' knowledge, this is the first VLSI architecture for implementing visible watermarking schemes.
+
+Digital watermarking
+JPEG encoder
+MATLAB
+spatial domain watermarking
+still digital camera
+visible and invisible watermarking

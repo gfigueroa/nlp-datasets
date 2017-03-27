@@ -1,0 +1,8 @@
+Impact testing of various cyclotrimethylene trinitramine (RDX) samples has been carried out with the Ballistic Impact Chamber (BIC). Numerical simulations have been performed to guide its experimental design and explain the phenomena that are observed in the measured pressure evolution. The experimental results obtained with the BIC are compared to the RDX crystal quality observed by optical and scanning electron microscopies. The reactivity of RDX in the impact testing with the BIC correlates with the crystal quality and this opens up the possibility of achieving a quantitative determination of the crystal quality.
+
+explosives
+impact testing
+optical microscopy
+polymer structure
+polymers
+scanning electron microscopy

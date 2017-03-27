@@ -1,0 +1,15 @@
+(Zn1yMgy)1xAlxO powders were synthesized by the polymerized complex method and then consolidated by spark plasma sintering apparatus. The microscopic structure and thermoelectric properties were examined comparing with the experimental results of the samples prepared by the conventional solid-state reaction method. A small amount of ZnAl2O4 spinel phase as the second phase was observed in the sintered samples with x~0.02 by x-ray diffraction and a scanning electron microscope. The grain size of the samples prepared by the polymerized complex method is much smaller than that of the samples prepared by the conventional solid-state reaction method. The absolute values of the Seebeck coefficient and electrical resistivity decrease with increasing x up to about x=0.01, but above x=0.01 they are almost independent of x. This result indicates that the solubility limit of Al in Zn1xAlxO is about x=0.01, which is also confirmed by 27Al nuclear magnetic resonance spectroscopy. At a fixed composition of x, the absolute values of the Seebeck coefficient and electrical resistivity for the samples prepared by the polymerized complex method are smaller than those for the samples prepared by the solid-state reaction method, which indicates that the doping of the carrier into the material can be more easily realized in the samples prepared by the polymerized complex method. The thermal conductivity decreases with increasing x, but the further suppression of the thermal conductivity was attained by the additional substitution on the Zn site by Mg. The Seebeck coefficient of (Zn1yMgy)1xAlxO is almost independent of Mg content y, but the electrical resistivity increases with increasing y. As a result, (Zn0.90Mg0.10)0.9975Al0.0025O shows a maximum dimensionless figure of merit of 0.10 at 1073 K. © 2002 American Institute of Physics. 
+
+zinc compounds
+magnesium compounds
+aluminium compounds
+ceramics
+materials preparation
+sintering
+grain size
+Seebeck effect
+electrical resistivity
+nuclear magnetic resonance
+X-ray diffraction
+scanning electron microscopy
+thermal conductivity

@@ -1,0 +1,19 @@
+Bottom and top spin-valves comprising NiO as pinning layer were prepared by depositing the NiO layer either at normal or oblique incidence onto Si/SiO2 substrates. When the NiO layer is deposited at oblique incidence, a strong uniaxial anisotropy is observed in the hysteresis loop of the Co layer which is exchange coupled to this layer. The easy axis is perpendicular to the plane of incidence. In contrast, when the NiO layer is deposited at normal incidence, the hysteresis loops of the exchange coupled Co layer show an in-plane isotropy. The uniaxial anisotropy observed after oblique incidence deposition is ascribed to growth-induced uniaxial strain and magnetoelastic effects in the NiO antiferromagnetic layer. It is observed that after annealing under a magnetic field, Co/NiO bilayers in which the NiO has been deposited at oblique incidence exhibit symmetric hysteresis loops whereas similar bilayers in which the NiO has been deposited at normal incidence exhibit shifted hysteresis loops. This effect is related to a difference in grain size between these systems. Furthermore, bottom and top spin-valves in both of which the NiO has been deposited at oblique incidence are compared. In contrast to the bottom spin-valves, the top spin-valves exhibit shifted hysteresis loops after annealing from the NiO Néel temperature (520 K) under a magnetic field. It is shown that this difference is due to structural defects in the bulk of the NiO layer for bottom spin-valves which do not exist in top spin-valves. These defects tend to disrupt the exchange interactions within the NiO thickness thus reducing the pinning energy of this layer. © 2002 American Institute of Physics.
+
+nickel compounds
+antiferromagnetic materials
+spin valves
+magnetic anisotropy
+exchange interactions (electron)
+magnetoelastic effects
+internal stresses
+magnetic annealing
+grain size
+magnetic multilayers
+Kerr magneto-optical effect
+atomic force microscopy
+transmission electron microscopy
+magnetic force microscopy
+giant magnetoresistance
+cobalt
+magnetic domain walls

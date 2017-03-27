@@ -1,0 +1,10 @@
+We investigated the thermal decomposition of native oxide on Si(100) under ultrahigh vacuum using highresolution xray photoelectron spectroscopy (XPS). The native oxide was formed by wet chemical treatment (HCl/H2O2/H2O), a widely employed procedure for preparing atomically clean surfaces. XPS measurements revealed that high temperature heating (s700	°C) leads to a remarkable alteration in Si	2p and O	1s spectra. After heating to 700	°C, the Si3+ structure increases and the O	1s fullwidthathalfmaximum decreases. After heating to 800	°C, the Si4+ and O	1s intensity decreases but the Si2+ intensity remains almost unchanged. We suggest that the formation of volatile SiO is related to the Si3+ structure produced by high temperature annealing.
+
+SILICON OXIDES
+DECOMPOSITION
+PHOTOELECTRON SPECTROSCOPY
+X RADIATION
+SURFACE TREATMENTS
+HEATING
+CHEMICAL REACTIONS
+TEMPERATURE RANGE 4001000 K

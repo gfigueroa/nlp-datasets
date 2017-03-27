@@ -1,0 +1,12 @@
+The electron emission from Si and SiO2 was measured as a function of the angle of ion incidence for 200300 keV H+, N+, Ar+ and Xe+ ions. For Si, the angular variation of the electron emission was found to approximately follow the angular variation of the electronic energy deposition, provided that recoil ionization was taken into account. For SiO2, the electron emission increased much more slowly with the angle of the ion incidence than expected, but the data are reasonably well represented by a single function of the expected electronic energy deposition to the power of 0.73. It is suggested that the holes left behind by the electron cascades of individual ions in SiO2 may attract the liberated electrons and cause the probability of escape to decrease with increasing electronic energy deposition. Measurements of the dependence of the electron emission on the angle of ion incidence were found to be a powerful tool in sorting out various mechanisms that could possibly influence electron emission.
+
+SILICON
+SILICON OXIDES
+ELECTRON EMISSION
+IMPACT PHENOMENA
+HYDROGEN IONS
+NITROGEN IONS
+ARGON IONS
+XENON IONS
+ANGULAR DISTRIBUTION
+KEV RANGE 1001000

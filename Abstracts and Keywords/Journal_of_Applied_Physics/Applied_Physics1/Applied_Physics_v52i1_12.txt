@@ -1,0 +1,12 @@
+The radial distributions of the gain and the saturation energy density of the 510.6nm line of a doublepulse CuBr laser were measured. With oven temperature varying from 420 to 480	°C, the distributions of the gain change considerably. At 480	°C the distribution of the gain has a strong peak near the wall of the tube. The peak values of the gain and the saturation energy density are 0.25 cm1 and 53 ¼J/cm2, respectively.
+
+GAS LASERS
+GAIN
+SPATIAL DISTRIBUTION
+COPPER BROMIDES
+ENERGY DENSITY
+PULSES
+EXPERIMENTAL DATA
+HIGH TEMPERATURE
+TEMPERATURE DEPENDENCE
+WALLS

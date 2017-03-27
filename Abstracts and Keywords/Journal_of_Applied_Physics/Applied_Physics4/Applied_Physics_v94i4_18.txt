@@ -1,0 +1,11 @@
+High-resolution x-ray diffraction reciprocal lattice mapping and low-temperature photoluminescence (PL) were used to study the thermal strain in InP layers grown on Si
+(001) substrate by hydride vapor-phase epitaxial lateral overgrowth (ELO) technique. Good agreement is found between the PL and x-ray measurements. We show that strain in the grown ELO InP/Si layers is affected by the aspect ratio (width to height ratio) of the ELO InP layer. Almost strain-free InP layer with high crystallographic quality is obtained on Si substrate, which is similar to that of a homoepitaxial InP layer. © 2003 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+thermal stresses
+semiconductor epitaxial layers
+silicon
+elemental semiconductors
+X-ray diffraction
+photoluminescence

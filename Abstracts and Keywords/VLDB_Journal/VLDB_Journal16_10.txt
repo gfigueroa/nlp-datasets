@@ -1,0 +1,6 @@
+Peer-to-peer (P2P) networks have become a powerful means for online data exchange. Currently, users are primarily utilizing these networks to perform exact-match queries and retrieve complete files. However, future more data intensive applications, such as P2P auction networks, P2P job-search networks, P2P multiplayer games, will require the capability to respond to more complex queries such as range queries involving numerous data types including those that have a spatial component. In this paper, a distributed quadtree index that adapts the MX-CIF quadtree is described that enables more powerful accesses to data in P2P networks. This index has been implemented for various prototype P2P applications and results of experiments are presented. Our index is easy to use, scalable, and exhibits good load-balancing properties. Similar indices can be constructed for various multidimensional data types with both spatial and non-spatial components.
+
+Distributed data structures
+Peer-to-peer networks
+Quadtrees
+Spatial data structures

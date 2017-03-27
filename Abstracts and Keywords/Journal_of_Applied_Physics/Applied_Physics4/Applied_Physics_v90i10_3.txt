@@ -1,0 +1,9 @@
+The transport properties, particularly free carrier density and mobility, of SiC are usually determined by the Hall effect. Raman spectroscopy has been shown to yield transport parameters similar to the Hall effect. The analysis of the longitudinal optical plasmon coupled (LOPC) modes in doped SiC provides such information. In the case of damped plasmons in n-type 4HSiC, changes in the carrier concentration result in a frequency shift of the LOPC mode, which appears close to the A1(LO) phonon mode. The validity of this approach for different free carrier concentrations (plasma frequencies) and mobilities (plasmon damping constants) is analyzed. The theoretical results obtained show that reliable estimation of the free carrier density can be obtained from the frequency shift of the LOPC mode for low carrier concentrations. At such a carrier concentration a reliable correlation between the Raman shift of the LOPC mode and the plasma frequency is established, without noticeable influence of the plasmon damping constant. However, when the free electron concentration increases, a non-negligible influence of the plasmon damping constant on the Raman frequency shift of the LPOC mode is observed. Therefore reliable transport data can only be obtained by a full line-shape analysis. These results are confirmed by the experimental results obtained on n-type 4HSiC bulk samples with free electron concentration between 1×1017 and 5×1018 cm3. © 2001 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+Raman spectra
+carrier density
+carrier mobility
+Hall effect
+phonon-plasmon interactions

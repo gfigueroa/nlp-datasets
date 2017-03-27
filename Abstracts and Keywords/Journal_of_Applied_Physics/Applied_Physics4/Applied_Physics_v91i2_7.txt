@@ -1,0 +1,12 @@
+Two defects in the surface oxide layer of ultrafine Si particles, temporarily named an EXL center and an EXH center, were investigated by electron spin resonance (ESR). The Si particles were prepared by a conventional gas evaporation method. The specimens were exposed to air at room temperature to oxidize the surfaces. After the heat treatment in vacuum at 600 and 1000
+°C, the ESR signal of the EXL and EXH center appeared, respectively, and after successive annealing in O2 gas at that temperature, the signal disappeared completely. The ESR signals of the defects have different microwave power saturabilities. The EXL center and the EXH center are different defects though they have the same g value. The relationship between ESR signals and infrared spectra was studied. The EXL center was found to be a defect related to the SiOH structure. © 2002 American Institute of Physics. 
+
+silicon
+particle size
+paramagnetic resonance
+surface states
+defect states
+elemental semiconductors
+oxidation
+heat treatment
+annealing

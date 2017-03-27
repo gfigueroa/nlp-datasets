@@ -1,0 +1,5 @@
+Genome-wide association studies (GWAS) have been widely applied to identify informative SNPs associated with common and complex diseases. Besides single-SNP analysis, the interaction between SNPs is believed to play an important role in disease risk due to the complex networking of genetic regulations. While many approaches have been proposed for detecting SNP interactions, the relative performance and merits of these methods in practice are largely unclear. In this paper, a ground-truth based comparative study is reported involving 9 popular SNP detection methods using realistic simulation datasets. The results provide general characteristics and guidelines on these methods that may be informative to the biological investigators.
+
+Genome-wide association study
+SNP interaction
+single-nucleotide polymorphism

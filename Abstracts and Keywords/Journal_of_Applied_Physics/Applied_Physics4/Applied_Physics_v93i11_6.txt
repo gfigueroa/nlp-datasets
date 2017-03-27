@@ -1,0 +1,14 @@
+An optical absorption investigation from 10 to 296 K has been performed on bulk crystals of ZnGeP2 grown by the horizontal-gradient-freeze method. We identify three broad absorption bands in the spectral range from 1 to 4 ¼m that are due to native defects. At low temperature, a band peaking near 1.2 ¼m and another band peaking near 2.2 ¼m have intensities that correlate. The strength of these two absorption bands can be increased or decreased by illuminating the crystal with selected laser wavelengths. The 2.2 ¼m band is strongly polarized, with its greatest intensity occurring when E is parallel to the c axis of the crystal. A third absorption band, peaking near 2.3 ¼m and extending from 1.5 ¼m to beyond 4 ¼m, was observed at low temperature, during and immediately after illumination. Comparison of photoinduced changes in absorption with photoinduced changes in electron paramagnetic resonance spectra allowed specific defects to be associated with each of the three absorption bands. Both the 1.2 and the 2.2 ¼m bands involve the singly ionized zinc vacancy. The third band at 2.3 ¼m involves neutral phosphorus vacancies. Specific models for the optical transitions are discussed. © 2003 American Institute of Physics. 
+
+zinc compounds
+germanium compounds
+optical materials
+ternary semiconductors
+infrared spectra
+spectral line intensity
+paramagnetic resonance
+vacancies (crystal)
+light polarisation
+defect states
+laser beam effects
+defect absorption spectra

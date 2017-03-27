@@ -1,0 +1,9 @@
+We present the results of plane wave method-based calculations adopted to magnonic band structures for exchange spin waves propagating in three-dimensional magnonic crystals (MCs) composed of two ferromagnetic metals. The crystals under consideration consist of a system of ferromagnetic spheres arranged in sites of a hexagonal lattice and embedded in a ferromagnetic material. Having analyzed all the possible combinations of magnonic crystal component materials from: Co, Ni, Fe, and Py (for spheres and matrix), we find material configurations for which either absolute or partial magnonic gaps occur in the spin-wave spectrum of the MC. We also demonstrate that the opening of a magnonic gap necessitates a sufficiently large contrast of magnetic parameters, and find the exchange length contrast to be the best measure of the capacity of the MC to produce a magnonic gap. Wider magnonic gaps are obtained in MCs in which the exchange length in the sphere material is larger than in the matrix. Among the MCs considered in this study, an absolute magnonic gap is obtained in a crystal with Ni spheres embedded in Fe.
+
+APW calculations
+cobalt
+exchange interactions (electron)
+ferromagnetic materials
+iron
+nickel
+spin waves

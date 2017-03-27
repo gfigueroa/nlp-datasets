@@ -1,0 +1,11 @@
+Nanostructured Si thin films, also referred as polymorphous, were grown by plasma-enhanced chemical vapor deposition. The term polymorphous is used to define silicon material that consists of a two-phase mixture of amorphous and ordered Si. The plasma conditions were set to obtain Si thin films from the simultaneous deposition of radical and ordered nanoparticles. Here, a careful analysis by electron transmission microscopy and electron diffraction is reported with the aim to clarify the specific atomic structure of the nanocrystalline particles embedded in the films. Whatever the plasma conditions, the electron diffraction images always revealed the existence of a well-defined crystalline structure different from the diamondlike structure of Si. The formation of nanocrystallinelike films at low temperature is discussed. A Si face-cubic-centered structure is demonstrated here in nanocrystalline particles produced in low-pressure silane plasma at room temperature. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+amorphous semiconductors
+nanostructured materials
+plasma CVD
+semiconductor growth
+transmission electron microscopy
+electron diffraction
+crystal structure

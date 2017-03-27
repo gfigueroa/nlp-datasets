@@ -1,0 +1,9 @@
+In object-oriented databases (OODBs), a method encapsulated in a class typically accesses a few, but not all the instance variables defined in the class. It may thus be preferable to vertically partition the class for reducing irrelevant data (instance variables) accessed by the methods. Our prior work has shown that vertical class partitioning can result in a substantial decrease in the total number of disk accesses incurred for executing a set of applications, but coming up with an optimal vertical class partitioning scheme is a hard problem. In this paper, we present two algorithms for deriving optimal and near-optimal vertical class partitioning schemes. The cost-driven algorithm provides the optimal vertical class partitioning schemes by enumerating, exhaustively, all the schemes and calculating the number of disk accesses required to execute a given set of applications. For this, a cost model for executing a set of methods in an OODB system is developed. Since exhaustive enumeration is costly and only works for classes with a small number of instance variables, a hill-climbing heuristic algorithm (HCHA) is developed, which takes the solution provided by the affinity-based algorithm and improves it, thereby further reducing the total number of disk accesses incurred. We show that the HCHA algorithm provides a reasonable near-optimal vertical class partitioning scheme for executing a given set of applications.
+
+Affinity-based
+Analytical cost model
+Cost-driven
+Hill-climbing heuristic algorithm
+Method-induced
+Object-oriented databases
+Vertical class partitioning

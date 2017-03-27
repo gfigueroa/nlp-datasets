@@ -1,0 +1,19 @@
+We studied the structural behavior and electrical transport properties of epitaxial ±-SnO thin films grown on the (012)
+±-Al2O3 (sapphire) substrate. Hall effect measurements revealed that the epitaxial as-deposited SnO film is a p-type semiconductor. In situ x-ray diffraction studies show that the ±-SnO phase is metastable and will transform into SnO2 with the rutile type structure when annealed at high temperatures in air. The onset of this phase transformation was observed to begin approximately at 300
+°C during heating. Shortly thereafter, rutile SnO2 was observed to coexist with ±-SnO and intermediate products such as Sn and Sn3O4. After being annealed at temperatures above 600
+°C, the film then fully transformed into the rutile SnO2 phase. Our results show that the ±-SnO to SnO2 structural transformation proceeds initially by the localized disproportionate redistribution of internal oxygen at low temperature, followed by the transformation of the remaining SnO phase and intermediate phases into SnO2 via the inward diffusion of external oxygen at higher temperatures. Most of the SnO2 crystallites nucleate epitaxially on ±-SnO with the orientation relationship of (101)SnO2//(001)SnO and their growth processes are controlled by the (101)SnO2//(001)SnO interfaces, leading to a (101) texture and a laminar grain shape for SnO2. The relationship between the electrical transport properties and the structural evolution of the film has also been investigated. © 2001 American Institute of Physics. 
+
+tin compounds
+oxidation
+semiconductor materials
+semiconductor epitaxial layers
+solid-state phase transformations
+Hall effect
+X-ray diffraction
+crystallites
+nucleation
+texture
+annealing
+diffusion
+vapour phase epitaxial growth
+semiconductor growth

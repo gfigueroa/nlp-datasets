@@ -1,0 +1,9 @@
+This paper presents the design and evaluation of an ant-based approach to query routing in peer-to-peer networks. After pointing out how to employ the ant metaphor in peer-to-peer networks, we conduct a thorough evaluation of the impact of different settings for the configurable parameters present in ant algorithms on the performance values. In particular, the focus is on the effects of setting the ratio between (1) ants exploiting the option currently known as the best one and (2) ants exploring the search space with the aim of finding improved options. We show that the exploitation-exploration dilemma can be avoided by an adequate design of the exploring option
+
+Ant Colony Optimization
+Distributed Artificial Intelligence
+Exploitation
+Exploration
+Multi-Agent Systems
+Peer-to-Peer Networks
+Self-Organization

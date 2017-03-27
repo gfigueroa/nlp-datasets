@@ -1,0 +1,10 @@
+A proposed semiquantitative model for crack formation during laser cutting of single holes in silicon wafers and ribbons predicts that compressive plastic deformation should occur in an annular region surrounding the hole during cutting. When the annular region cools to room temperature, the residual circumferential stresses are predicted to be tensile in the deformed zone and compressive outside. The predicted residual radial stresses are tensile everywhere and are maximum at the deformed zone boundary. The presence of a plastically deformed zone was confirmed by etch pit studies in originally dislocationfree Czochralski silicon. Radial cracks were observed to terminate at the deformed zone boundary and circumferential cracks were observed to follow the deformed zone boundary. Both of these observations are qualitative confirmation of the proposed model of crack formation. Holographic interferometry was used to measure the residual displacement field relative to the uncut state but no residual displacements were observed. The lack of observable residual displacements was attributed to the relaxation of residual stresses by crack growth.
+
+SILICON
+WAFERS
+RIBBONS
+LASER RADIATION
+CRACK FORMATION
+MATHEMATICAL MODELS
+COMPRESSION
+DEFORMATION

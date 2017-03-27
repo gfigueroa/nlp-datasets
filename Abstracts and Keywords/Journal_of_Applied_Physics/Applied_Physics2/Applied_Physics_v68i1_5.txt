@@ -1,0 +1,13 @@
+Hard aC:H films have been deposited through electron cyclotron resonance (ECR) microwave plasma decomposition of CH4 diluted with H2 gas. It has been found that hard diamondlike films could only be produced under a rfinduced negative selfbias of the substrate stage. Raman spectra indicate the deposition of two distinct film types: one film type exhibiting welldefined bands at 1360 and 1580 cm1 (the graphitic D and G bands) and another displaying a broad Raman peak centered at approximately 1500 cm1. The optical gaps of these films are from 1.0 to 1.6 eV, respectively, with resistivities &gt;1012 ©	cm. Variation of the mirror magneticfield profile of the ECR system was examined, demonstrating the manipulation of film morphology through the extraction of different ion energies.
+
+METHANE
+HYDROGEN
+FILMS
+AMORPHOUS STATE
+CHEMICAL VAPOR DEPOSITION
+PLASMA
+ELECTRON CYCLOTRONRESONANCE
+DIAMONDS
+RAMAN SPECTRA
+OPTICAL PROPERTIES
+MORPHOLOGY

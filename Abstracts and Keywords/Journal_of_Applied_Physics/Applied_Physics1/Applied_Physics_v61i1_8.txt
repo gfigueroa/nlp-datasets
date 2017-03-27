@@ -1,0 +1,11 @@
+Contrary to the claim made by Rhyne and Fish, based on their smallangle neutron scattering data, that amorphous (a) Fe91Zr9 does not exhibit longrange ferromagnetism at any temperature but instead enters a spinglass state at temperatures as high as <210	K, our recent ac susceptibility data demonstrate that a longrange ferromagnetic order is established in this alloy at TcB210	K. A host of other experimental observations on the same or nearby compositions in the aFe90±xZr10x alloy series, available in the literature, are shown to provide firm support to our inference.
+
+METALLIC GLASSES
+ZIRCONIUM ALLOYS
+IRON BASE ALLOYS
+MAGNETIC SUSCEPTIBILITY
+LONGRANGE ORDER
+SPIN GLASS STATE
+FERROMAGNETISM
+NEUTRON DIFFRACTION
+CURIE POINT

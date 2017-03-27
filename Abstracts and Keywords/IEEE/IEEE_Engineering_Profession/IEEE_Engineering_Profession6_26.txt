@@ -1,0 +1,7 @@
+By using methods of bibliometrics and social network analysis, we find that the scientific collaboration network in China's management science is a scale-free small world network. Based on statistical analysis of the key network properties (L, the average shortest path length; C, the clustering coefficient; the node degree distribution), we explored the relationships between L and the size of China's management science collaboration network, between C and the network density, and between the degree distribution and the strength of node connectivity. The combination of these results shows the current status of China's management science as an academic field. We also divided the period of study into 3 sub-periods and performed analysis on each sub-period. The temporal study shows the trend in China's management science research. By looking into the authors with high node degrees, we also find the hot research area, the most active researchers and organizations.
+
+co-authorship network
+hot research topics
+management science
+scientific collaboration
+social network

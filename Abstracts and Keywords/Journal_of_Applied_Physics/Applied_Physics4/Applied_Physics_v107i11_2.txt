@@ -1,0 +1,14 @@
+The transport and magnetic properties of 10 wt	% malic acid and 5 wt	% nanocarbon doped MgB2 have been studied by measuring the resistivity (�), critical current density (jc), connectivity factor (AF), irreversibility field (Hirr), and upper critical field (Hc2). The pinning mechanisms are studied in terms of the collective pinning model. It was found that both mean free path (큞) and critical temperature (큈c) pinning mechanisms coexist in both doped MgB2. For both the malic acid and nanocarbon doped samples, the temperature dependence of the crossover field, which separates the single vortex and the small bundle pinning regime, Bsb(T), shows that the 큞 pinning mechanism is dominant for temperatures up to t(T/Tc) = 0.7 but the 큈c pinning mechanism is dominant for t&gt;0.7. This tendency of coexistence of the 큞 and the 큈c pinning mechanism is in strong contrast with the pure MgB2, in which the 큈c pinning mechanism is dominant over a wide temperature range below Tc. It was also observed that the connectivity factor, active cross-sectional area fraction (AF), are 0.11 and 0.14 for the nanocarbon and the malic acid doped MgB2, respectively, indicating that there are still rooms for further improving jc performance.
+
+carbon
+critical current density (superconductivity)
+doping
+electrical resistivity
+flux pinning
+flux-line lattice
+magnesium compounds
+nanostructured materials
+organic compounds
+superconducting critical field
+superconducting materials
+superconducting transition temperature

@@ -1,0 +1,9 @@
+The ferromagnetic resonance spectrum of a layered magnetic thin film is expected to show a number of standing spinwave resonances with a wavelength that matches the thickness of the film. For the case of perpendicular resonance such spectra were calculated for some typical films in which magnetic layers are alternated with weaker magnetic layers. Some useful approximations are discussed. The results of the calculations are compared with experimental perpendicular spectra measured on films in which fifty Permalloy layers alternate with Ni layers.
+
+SPIN WAVES
+FERROMAGNETIC RESONANCE
+THIN FILMS
+LAYERED MATERIALS
+NICKEL
+PERMALLOY
+STANDING WAVES

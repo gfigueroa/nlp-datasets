@@ -1,0 +1,6 @@
+Nonlinear diffraction of nanosecond Nd:YAG laser and femtosecond Ti:sapphire laser radiations is investigated in random nonlinear media based on strontium tetraborate. The spectrum of reciprocal vectors of superlattice contributing to nonlinear diffraction at given angles is measured in the region from 3 to 14 mum<sup>-1</sup>. Spectral and angular dependencies of random quasi phase matching in strontium tetraborate are investigated theoretically. Angular dependence of random QPM for conversion process from 532 nm to 266 nm is measured and found to be in agreement with calculations. Broadband Ti:sapphire femtosecond oscillator radiation in the range from 720 to 890 nm is converted into second harmonic with maximum average power 2.8 mW and maximum conversion efficiency 0.29%.
+
+domains
+nonlinear frequency conversion
+quasi phase matching
+strontium tetraborate

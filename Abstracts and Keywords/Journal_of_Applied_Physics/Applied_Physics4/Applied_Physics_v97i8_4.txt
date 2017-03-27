@@ -1,0 +1,11 @@
+We have synthesized Nd0.5Sr0.5MnO3 polycrystalline bulk samples by solid state reaction, which show ferromagnetic (FM), A-type antiferromagnetic (AF) and charge ordering charge exchange (CE)-type AF transitions on cooling from room temperature to 78K. We consider that the abundant magnetic structures are caused by phase segregation. We have investigated and conjectured the orbital ordering behavior under hydrostatic pressures up to 7.5GPa and found that low pressure favors the A-type AF phase with d(x2y2) orbital ordering and the CE-type AF phase with d(3x2r2)/d(3y2r2) orbital ordering, while suppressing the FM phase with disordered orbital ordering; however, high pressure favors the A-type phase and suppresses the CE-type AF phase. Transport property enhancement and large resistance changes under high pressures are observed.
+
+neodymium compounds
+strontium compounds
+ferromagnetic materials
+antiferromagnetic materials
+ferromagnetic-antiferromagnetic transitions
+charge exchange
+magnetoresistance
+high-pressure effects
+sintering

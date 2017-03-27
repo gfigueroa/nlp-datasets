@@ -1,0 +1,14 @@
+Single (In,Ga)As quantum dot (QD) arrays are formed on GaAs (100) substrates by self-organized anisotropic strain engineering of an (In,Ga)As/GaAs quantum wire (QWR) superlattice (SL) template in molecular beam epitaxy. The crucial steps in QWR template evolution, i.e., elongated QD formation at elevated temperature, thin GaAs capping, annealing, and stacking, are directly imaged by atomic force microscopy (AFM). AFM reveals a very smooth connection of the QDs into QWRs upon annealing. In addition, AFM shows the presence of height and width fluctuations of the QWRs with a significant number of bends and branches. These are attributed to excess strain accumulation during formation of the QWR template. By reducing the amount of (In,Ga)As and increasing the GaAs separation layer thickness in each SL period, a dramatic improvement of the uniformity of the QWR template is achieved. On the improved QWR template, well-defined one-dimensional single (In,Ga)As QD arrays are formed which are straight over more than 1 ¼m and extended to over 10 ¼m length with a small number of branches. After capping, the QD arrays exhibit clear photoluminescence emission up to room temperature without increase of the peak width. © 2004 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+self-assembly
+molecular beam epitaxial growth
+semiconductor growth
+semiconductor quantum wires
+semiconductor superlattices
+annealing
+atomic force microscopy
+photoluminescence

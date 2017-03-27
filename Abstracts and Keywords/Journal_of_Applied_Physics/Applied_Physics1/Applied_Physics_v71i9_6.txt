@@ -1,0 +1,10 @@
+CuInSe2/CdS heterojunction diodes prepared entirely by chemical spray pyrolysis are investigated using admittance spectroscopy to obtain information on electrically active trapping centers within the CuInSe2. Because of the relatively large parallel leakage conductance associated with these devices, a frequencyswept admittance technique (stepped in temperature) is employed to differentiate between the loss signal due to trapping centers and the loss due to parallel conductance. The frequencyswept admittance technique is described and compared to the more conventional temperatureswept method. The devices used in this study exhibit onesun efficiencies of 2.0%3.0% and a forward current dominated by generationrecombination processes within the space charge region. Admittance spectra indicate a dominant hole trap is located approximately 270 meV above the valence band of the CuInSe2.
+
+THERMALLY STIMULATED CURRENTS
+COPPER SELENIDE SOLAR CELLS
+CADMIUM SULFIDE SOLAR CELLS
+HETEROJUNCTIONS
+SPRAYED COATINGS
+TRAPS
+SPECTROSCOPY
+CRYSTAL DEFECTS

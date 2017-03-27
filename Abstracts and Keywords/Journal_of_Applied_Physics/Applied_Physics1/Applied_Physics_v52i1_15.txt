@@ -1,0 +1,20 @@
+The strong transient optical absorption in nInSb Raman spinflip laser device at 2	°K was interpreted due to the intense lasergenerated hot conduction electrons. We present the microscopic theoretical calculation for this nonlinear and nonequilibrium optical effect. By assuming the timedependent functions for electronic temperature and Fermi energy, the time evolution of the nonequilibrium hot electron distribution during the pulsed laser irradiation is calculated.
+
+SEMICONDUCTOR LASERS
+ABSORPTION
+MATHEMATICAL MODELS
+NONLINEAR PROBLEMS
+INDIUM ANTIMONIDES
+ULTRALOW TEMPERATURE
+SPIN FLIP
+TRANSIENTS
+OPTICAL PROPERTIES
+RAMAN EFFECT
+CHARGE CARRIERS
+ELECTRONS
+TIME DEPENDENCE
+ELECTRON TEMPERATURE
+FERMI LEVEL
+PULSES
+IRRADIATION
+SPATIAL DISTRIBUTION

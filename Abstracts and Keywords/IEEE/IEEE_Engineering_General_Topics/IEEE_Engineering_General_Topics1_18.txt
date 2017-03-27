@@ -1,0 +1,5 @@
+The problem of how to choose the best estimation method for a measurand value when repeated measurements of the input quantities to a nonlinear model are performed is not clearly addressed in the guide to the expression of uncertainty in measurement. In this paper, this issue is tackled by analyzing and comparing the effect of both definitional and acquisition uncertainty contributions on the overall uncertainty resulting from the application of the two averaging methods mentioned in the Guide. The achieved theoretical results, validated by means of some simulations, provide effective suggestions about which method should be used in different contexts.
+
+Measurement uncertainty
+foundations of measurement
+measurand value

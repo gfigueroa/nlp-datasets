@@ -1,0 +1,14 @@
+Highfrequency domain wall motion has been studied on two soft ferromagnetic metallic glasses, suitably stressed to deal with simple static domain patterns. Magnetization measurements were supported by direct observation of the magnetic domain configurations. Domain wall motion is dominated by energy dissipation effects. For small wall displacements, the measured coefficient of domain wall damping is very close to the eddycurrent value. The power dissipated in the magnetization process decreases with increasing applied field, mainly owing to domain wall multiplication. A possible mechanism for such a multiplication is outlined.
+
+METALLIC GLASSES
+IRON ALLOYS
+NICKEL ALLOYS
+BORON ALLOYS
+MOLYBDENUM ALLOYS
+SILICON ALLOYS
+CARBON ALLOYS
+DOMAIN STRUCTURE
+DOMAIN WALL
+ENERGY LOSSES
+FERROMAGNETIC MATERIALS
+MAGNETIZATION

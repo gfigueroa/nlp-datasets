@@ -1,0 +1,8 @@
+In this and the following article (Parts I and II, respectively), we discuss carrier transport in multilayer organic photodetectors. In Part I, we analyze carrier tunneling in multilayer organic photodetectors, both within the organic active region and at the anode/organic interface. The external quantum efficiency of an organic photodetector whose individual layers in the active region are }30 Å thick shows an activation energy of }0.1 eV, suggesting that the photogenerated carriers tunnel through the potential wells formed by the multilayer stack. In such photodetectors, electron tunneling injection from the anode into the organic active region dominates the dark current at T~200
+K. Fitting of the dark currentvoltage characteristics using a semiclassical tunneling model leads to barrier heights in agreement with experimental data. In Part II, the effects of anode preparation on performance of multilayer organic photodetectors are discussed. © 2004 American Institute of Physics. 
+
+photodetectors
+organic compounds
+multilayers
+photoconductivity
+dark conductivity

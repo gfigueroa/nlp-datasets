@@ -1,0 +1,5 @@
+An experimental prototype for the Bionic Eyeglass will be demonstrated including three sample functions: pedestrian crosswalk detection, light detection and a basic color recognition. The prototype is built on the Bi-i visual computer, and uses a commercial cellular phone as a front-end towards the user. The visual flow is streamed from the camera of the cellular phone wirelessly to the Bi-i where it is processed, and the result is communicated through the speakers of the phone. Scalar or binary outputs are provided for the first two functions by beeping tones, whereas a basic color name is given for the last one.
+
+CNN
+bionic eyeglass
+demo

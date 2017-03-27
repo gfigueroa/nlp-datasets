@@ -1,0 +1,11 @@
+We demonstrate near-infrared (NIR) organic light-emitting diodes containing the phthalocyanines of copper (CuPc), palladium (PdPc), and platinum (PtPc) as emitting material. The devices show NIR emission from the triplet excitonic states of those phthalocyanines at 1095, 1025, and 966nm, respectively. A yellow singlet emitter serves as host for the emitter materials, reducing triplet exciton quenching and improving energy transfer to the emitter. Using the emitter PtPc as guest and the yellow singlet emitter as host, an external quantum efficiency of 0.3% is achieved for infrared light emission at 966nm. Due to the use of electrically doped charge transport layers, operation at voltages significantly below 3V is possible. Light output reaches 80¼W/cm2 at a current density of 140mA/cm2.
+
+charge exchange
+copper compounds
+excitons
+infrared sources
+light emitting diodes
+organic semiconductors
+palladium compounds
+platinum compounds
+radiation quenching

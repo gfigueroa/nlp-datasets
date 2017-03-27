@@ -1,0 +1,6 @@
+Large and complex structures commonly referred to as patterns can be generated using DNA-like self-assembly. Self-assembly has an algorithmic nature, that is suitable for diverse applications in nano computing and manufacturing. This paper deals with the error characterization and modeling encountered when only a partial pattern is grown by DNA self-assembly. Partial growth is accomplished by clipping and utilizing specific structures (such as rulers, decoders and staircases) to allow the control of the growth process, i.e. the self-assembly can be either stopped or redirected as required. Initially the characterization of tile errors that are possible when clipping a pattern (such as the Sierpinski Triangle pattern), is presented with particular emphasis on the effects of erroneous aggregation in the capabilities of the clipping structures. An analytical approach is proposed to assess the effects of errors on clipping, this approach utilizes a geometric technique by which growth can be assessed with respect to the features of the desired (clipped) pattern. Simulation results are also presented, an excellent agreement between simulated and analytical results is achieved.
+
+DNA self-assembly
+algorithmic assembly
+error analysis
+error tolerance

@@ -1,0 +1,21 @@
+The products of reaction and etch rates of Si and SiO2 in SF6O2 plasmas have been studied as a function of feed composition in an alumina tube reactor at 27 mHz, 45 W, and 1 Torr. There is a broad chemical analogy with CF402 plasmas. As in CF402 mixtures, the rate of Si etching and 703.7nm emission from electronically excited F atoms each exhibit distinct maxima as a function of feed gas composition; these data support a model in which fluorine atoms, the etching species, compete with oxygen atoms for chemisorption on the Si surface. Without oxygen in the feed or Si in the reactor, no stable products could be detected. With an SF6O2 mixture in the absence of silicon, the final reaction products are F2, SOF4, and SO2F2. The product distribution was unaffected by small SiO2 substrates. When Si is etched, SiF4 is the only stable siliconcontaining etch product and SOF2 is formed in oxygenpoor mixtures. Rapid etch rates (s104 Å/min for Si) can be obtained with a high selectivity in favor of silicon (Si:SiO2s40:1); thus SF6O2 mixtures may represent an attractive alternative to CF4O2 for the plasma etching of silicon and SiO2.
+
+ETCHING
+PLASMA
+SILICON
+SILICON OXIDES
+SULFUR FLUORIDES
+OXYGEN
+MIXTURES
+CHEMICAL REACTIONS
+DATA
+ALUMINUM OXIDES
+QUANTITY RATIO
+TUBES
+MHZ RANGE
+POWER RANGE 10100 W
+LOW PRESSURE
+COMPARATIVE EVALUATIONS
+EXCITATION
+CHEMISORPTION
+CARBON TETRAFLUORIDE

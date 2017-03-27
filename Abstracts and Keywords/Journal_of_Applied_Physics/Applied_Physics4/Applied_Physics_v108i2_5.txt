@@ -1,0 +1,24 @@
+We explore the effects of hydrogenated annealing on the crystal structure, room temperature ferromagnetism (RT-FM) and photoluminescence (PL) properties of Ni-doped ZnO (Zn1xNixO, x = 0.0 to 0.2) nanoparticles prepared by a sol-gel method. The x-ray photoelectron spectra and x-ray diffraction data provide evidence that Ni has been incorporated into the wurtzite ZnO lattice as Ni2+ ions substituting for Zn2+ ions at x d 0.05. A secondary phase of NiO type begins to form inside ZnO when x&gt;0.05 and segregates from ZnO host lattice at x = 0.2, leading to a large variation in the lattice constants of ZnO. The magnetization measurements show that the saturation magnetization (Ms) increases with increasing Ni concentration in the single-phase Zn1xNixO (x d 0.05) nanoparticles. The secondary phase formation reduces the magnetization of Zn1xNixO (x = 0.1 and 0.15), while the segregation of NiO from the ZnO lattice at x = 0.2 is accompanied by a large increase in Ms again. The PL measurements show that the UV emission intensity of single-phase Zn1xNixO (x d 0.05) nanoparticles increases with a blueshift in the UV emission line when the Ni concentration increases, while the dominant green emission intensity decreases with increasing Ni dopant. The PL data strongly suggest that the FM in single-phase Zn1xNixO (x d 0.05) nanoparticles is intrinsically correlated with a doping induced increase in the electron concentration in the conduction band of Ni-doped ZnO. After H2-annealing, the single-phase Zn1xNixO:H (x d 0.05) nanoparticles show increases in both coercivity and saturation magnetization. The PL and diffuse reflectance spectra suggest that hydrogen-related shallow donors and an improved sample quality may be responsible for the H2-annealing induced enhancement of the RT-FM. The obvious correlation between FM and carrier concentration in Ni and NiH doped ZnO points towards a mechanism of carrier-mediated FM for Ni-doped ZnO diluted magnetic semiconductors.
+
+annealing
+conduction bands
+crystal structure
+doping profiles
+electron density
+ferromagnetic materials
+hydrogen
+II-VI semiconductors
+lattice constants
+magnetic particles
+magnetisation
+nanoparticles
+nickel
+photoluminescence
+reflectivity
+segregation
+semiconductor doping
+semimagnetic semiconductors
+wide band gap semiconductors
+X-ray diffraction
+X-ray photoelectron spectra
+zinc compounds

@@ -1,0 +1,12 @@
+Amorphous carbon/nickel double layers were irradiated by 30 keV Ga+ ions via focused ion beam. The effect of irradiation on the concentration distribution of all constituents was studied by Auger electron spectroscopy depth profiling and cross sectional transmission electron microscopy, while the morphology change of the sample was determined by atomic force microscopy. The Ga+ ion irradiation results in the formation of metastable Ni3C layer with a uniform thickness. The C/Ni3C and Ni3C/Ni interfaces were found to be sharp up to a fluence of 200Ga+ions/nm2.
+
+amorphous state
+atomic force microscopy
+Auger electron spectra
+carbon
+focused ion beam technology
+interface phenomena
+ion beam effects
+nanostructured materials
+nickel compounds
+transmission electron microscopy

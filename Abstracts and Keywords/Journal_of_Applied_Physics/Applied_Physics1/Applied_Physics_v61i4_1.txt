@@ -1,0 +1,8 @@
+The characterization of a parallel plate apparatus which can produce a unipolar charge density that is suitable for calibrating aspiratortype ion counters operating in the ground plane is described. The influence of a dc electric field, air motion, Coulomb repulsion, and diffusion on the transport of ions into the ion counter are examined to determine their effects on instrument calibration and measurements in the vicinity of highvoltage dc transmission lines. A charge density which is known with an uncertainty of less than ±9% is used to check the performance of an ion counter with and without a duct at its entrance.
+
+PERFORMANCE
+CALIBRATION
+CAPACITORS
+RADIATION DETECTORS
+POWER TRANSMISSION LINES
+IONIZATION

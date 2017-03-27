@@ -1,0 +1,7 @@
+One of the important factors determining the sensitivity of any biosensing system is successful integration of bio- molecular transducers with peripheral signal processing circuitry. In this paper we present an architecture of a multi-array biosensor that integrates molecular bio-wires based immunosensor with a multi-channel potentiostat array. The biosensor operates by converting binding events between antigen and antibody into a measurable electrical signal using polyaniline nanowires as a transducer. The electrical signal is measured using a multichannel potentiostat where each channel comprises of a semi- synchronous SigmaDelta modulator. Measured results using a fabricated potentiostat array demonstrate sensitivity down to 50 femtoampere range which makes it ideal for detecting pathogens at low concentration levels. Experiments using the biosensor array specific to <i>Bacillus</i> <i>Cereus</i> bacterium validate the functionality of the platform in detecting the pathogen at different concentration levels.
+
+Potentiostat
+analog-to-digital converter
+biosensors
+femtoampere current measurements
+multi-channel converter

@@ -1,0 +1,10 @@
+Coercivity and other experimental measures of switching field depend upon the time scale of interest. This timescale dependence has practical importance in magnetic recording, because the effective time scales of writing and storage are very different. A simple model accounts for the timescale dependence of coercivity in terms of the thermally assisted crossing of an energy barrier whose height is reduced by the applied field. Fitting this barriercrossing model to data provides an estimate of the volume that must switch magnetization direction in overcoming the barrier. The assumption of StonerWohlfarth reversal is used to obtain an initial estimate of the dependence of the barrier height on the field. With some adjustment of the resulting energy expression, the model gives good agreement between calculated switching volume and actual particle volume for advanced recording particles of three types: acicular oxide, acicular metal, and barium ferrite platelets. The model can be used to estimate minimum practical particle volumes for use in magnetic recording. Switching due to fields nearly perpendicular to the particles preferred axis, sometimes used as a measure of the anisotropy field, also shows the effect of thermal assistance. The switching volume determined from such measurements, like that from coercivity, approximates the particle volume.
+
+RECORDING SYSTEMS
+MAGNETIC MATERIALS
+BARIUM FERRITES
+COERCIVE FORCE
+SWITCHING
+MAGNETIC ANISOTROPY
+BARRIER HEIGHT
+TIME DEPENDENCE

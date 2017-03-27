@@ -1,0 +1,9 @@
+A double peak is sometimes seen on a picosecond time scale in the decay of the transient photoconduction of GaAs metalsemiconductormetal structures. This is known from experiments on micron-scale structures of both conventional and backgated design. A previous numerical simulation, using a drift-diffusion calculation and an idealized one-dimensional model of the conventional structure, shows that the double-peaked behavior can arise from the effect of the photogenerated carriers on the internal fields. Here we extend this to a two-dimensional calculation to investigate the photoconduction decay in both the conventional and backgated designs. We calculate the instantaneous distribution of charge and field in the structures during and after a pulse of illumination, and we show for each design how the interplay of carrier and displacement currents can produce intrinsically a nonmonotonic decay with features qualitatively like those seen experimentally. © 1997 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+metal-semiconductor-metal structures
+photodetectors
+photoconductivity
+diffusion
+semiconductor device models

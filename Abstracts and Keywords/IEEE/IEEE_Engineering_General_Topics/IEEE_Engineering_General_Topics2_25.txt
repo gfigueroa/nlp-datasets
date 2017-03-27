@@ -1,0 +1,8 @@
+A novel chemical micro-gas sensor array composed of polyaniline (PANI) and its nanocomposite thin film was fabricated for NH<sub>3</sub>, CO and H<sub>2</sub> gas classification. Titanium dioxide (TiO<sub>2</sub>), indium oxide (In<sub>2</sub>O<sub>3</sub>) and multi-walled carbon nanotube (PANI/MWNT) combined with PANI were chosen as the sensing materials by the step-clustering analysis. The normalization method was developed to eliminate the dispersion of the array data. Probabilistic neuron network (PNN) was designed and trained with the processed data, and the different discrimination results were discussed under the different spread constant (SP). The accurate classification result was achieved when SP was set as 0.05 or 0.1.
+
+Micro-gas sensor array
+PANI
+PNN
+nanocomposite thin film
+spread constant
+step-clustering analysis

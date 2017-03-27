@@ -1,0 +1,9 @@
+The explosive crystallization of Si3N4 layers deposited on silicon samples during laser melting of the silicon is investigated. The crystallization threshold is defined as the minimal laserbeam power to start crystallization. The precipitateinitiator hypothesis which states that the explosive crystallization is initiated by the formation of Si3N4 precipitates in the molten zone is formulated. Based on this hypothesis the dependency of the crystallization threshold on the scan conditions and the sample structure can be completely and consistently explained. Methods to prevent crystallization are formulated.
+
+SILICON NITRIDES
+AMORPHOUS STATE
+CRYSTALLIZATION
+LASER BEAM MELTING
+SILICON
+PRECIPITATES
+THIN FILMS

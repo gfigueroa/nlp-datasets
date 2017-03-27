@@ -1,0 +1,10 @@
+For powder materials a model is proposed to predict the mean temperature behind the shock wave, the ratio between the increase of thermal energy and increase of total internal energy, as well as the mean final temperature after release of adiabatic pressure. Further, the change of pressure, specific volume, and the internal energy behind the shock wave are calculated together with the shockwave velocity. All these variables are supposed to depend exclusively on flyer plate velocity, initial powder density, and initial powder temperature. The ratio between the increase of thermal energy and increase of total internal energy decreases rapidly upon decreasing initial powder density, resulting in a higher shock temperature and a lower shock pressure; therefore, a lower initial powder density results in a better bonding between the particles and fewer cracks after pressure release. Calculations are carried out for copper and agree fairly well with experiments.
+
+POWDERS
+COMPACTING
+SHOCK WAVES
+THERMODYNAMIC MODEL
+PRESSURE EFFECTS
+ADIABATIC PROCESSES
+VELOCITY
+INTERNAL ENERGY

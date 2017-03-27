@@ -1,0 +1,16 @@
+In this paper, we report on the heat capacity and magnetic susceptibilities of bulk Ti3SiC2 samples in the 3250-K temperature range. At 13.6 K, a nonmagnetic sharp anomaly of unknown origin, which disappeared when the sample was heated and quenched in water from 1400
+캜, is observed. Curve fitting the cp data up to 100 K clearly shows that only four atomsmost likely one Si and three Ti atomsof the six in a formula unit contribute to cp at the lowest temperatures. This reduces the Debye temperature 퇓 calculated from over 700 K to H575 K. To obtain good agreement between experimental and calculated cp values in the 14&lt;T&lt;130
+K temperature range, a 퇓 of 552 K and an optical mode with an Einstein temperature 퇔 of 219 K, which coincided with a soft shear mode observed in Raman spectroscopy, are assumed. At T&gt;130
+K, two other optical modesthe average of two other Raman modes observed at higher wave numbersare required to enhance the fits to the experimental results. In the absence of the anomaly, 퇓 rises from 575 to 593 K, whereas 퇔 decreases slightly to 211 K. The density of states at the Fermi level [H5 (eV
+unit cell)1] is comparable to previous reports. The magnetic susceptibility is small and independent of magnetic field and temperature. � 2004 American Institute of Physics. 
+
+titanium compounds
+silicon compounds
+magnetic susceptibility
+specific heat
+Debye temperature
+soft modes
+Raman spectra
+Fermi level
+electronic density of states
+paramagnetic materials

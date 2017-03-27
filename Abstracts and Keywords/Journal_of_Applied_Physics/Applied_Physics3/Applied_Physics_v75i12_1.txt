@@ -1,0 +1,12 @@
+Silicon nitride and oxynitride films of very low hydrogen content have been deposited on silicon at low temperatures (150200	°C) using ionbeam sputtering. A dualionbeam sputtering technique, making simultaneous use of an energetic argonion beam to sputter silicon nitride from a target and a lowenergy oxygen or nitrogen ion beam to react with the sputtered films on the substrate, has been employed to control the composition of the films. A precise control of film composition independent of deposition rate has been achieved through the control of oxygen/nitrogen ionbeam parameters and gas flow ratios. The films have been characterized by the measurement and study of refractive index, chemical etch rate, infrared absorption, and xray photoelectron spectra. A direct correlation between film properties with oxygen content has been obtained for silicon oxynitride films. The electrical properties have been studied by the measurement of the characteristics of metalinsulatorsemiconductor capacitors fabricated using the deposited films. In situ ionbeam oxidation of silicon prior to the oxynitride deposition has resulted in a film with a low insulator charge number density (3.5×1011 cm2) and interface trap density (4×1011 cm2	eV1), which is suitable for device applications.
+
+SILICON NITRIDES
+REACTIVE SPUTTERING
+OXYNITRIDES
+FILM GROWTH
+ION BEAMS
+PHYSICAL RADIATION EFFECTS
+REFRACTIVE INDEX
+PHYSICAL PROPERTIES
+INFRARED SPECTRA
+PHOTOELECTRON SPECTROSCOPY

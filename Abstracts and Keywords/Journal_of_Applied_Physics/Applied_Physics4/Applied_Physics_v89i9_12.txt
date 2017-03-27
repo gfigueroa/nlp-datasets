@@ -1,0 +1,9 @@
+A multiple scattering theory is used to study the effect of the addition of Cu upon the driving force for the electromigration of Al adatoms on an Al(111) surface. The theory employs a computational framework that combines a layer-Korringa KohnRostoker calculation with the coherent potential approximation to describe the carrier scattering by a compositionally disordered overlayer. We investigate how the substitution of Cu for Al adatoms in the disordered overlayer alters the average effective wind valence of the Al and Cu adatoms within the overlayer. For adatom coverages smaller than approximately 0.2, we find that the effect of Cu substitution is to reduce the magnitude average effective wind valence of the Al adatoms by approximately +0.4%(Cu)1 at 273 K. © 2001 American Institute of Physics. 
+
+copper
+aluminium
+adsorbed layers
+electromigration
+CPA calculations
+surface diffusion
+KKR calculations

@@ -1,0 +1,13 @@
+GaAs/AlxGa1xAs multiplequantumwell (MQW) structures with identical well thicknesses but with different Al contents x in the barrier (xJ0.1, 0.2, 0.45, and 1) were grown by molecularbeam epitaxy to study the impurityinduced disordering mechanism. The disordering of the structures is observed directly by transmission electron microscopy on cleaved wedges of the sample, by the secondary electron imaging mode of scanning electron microscopy, and by secondaryionmass spectroscopy after Zn diffusions at 575	°C during different times (1, 4, 9, and 16 h). The results show that the totally and partially disordered regions are always behind the Zn diffusion front. The partially disordered extent depends on x. As x increases, the disordering rate increases due to the increase in Zn diffusivity. The effect of high Zn concentration is investigated by photoluminescence and by Raman scattering measurements. The systematical analysis of the photoluminescence spectra of the MQW structures diffused for different times and of the photoluminescence spectra taken on different depths below the sample surface makes it possible to describe the physical processes occurring during Zn diffusion. The columnIII vacancies are created at the sample surface. They diffuse into the bulk of the sample where they are filled by other defects. Using the xraydiffraction technique, an expansion of the lattice constant in the region behind the Zn diffusion front was observed. This is due to a supersaturation of columnIII interstitials. During the incorporation of Zn into the crystal lattice, columnIII interstitials are generated. These interstitials could be responsible for the enhancement of the AlGa interdiffusion. The important role of the electric field at the pn junction formed by Zn diffusion is discussed. The negatively charged columnIII vacancies and the positively charged columnIII interstitials are confined, respectively, on the n and p sides of the pn junction. The results give evidence for the selfinterstitial mechanism of Zn diffusioninduced disordering in GaAs/AlGaAs MQW structures.
+
+QUANTUM WELLS
+MASS TRANSFER
+ZINC
+DIFFUSION
+DISORDERED SYSTEMS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+INTERSTITIALS
+PHOTOLUMINESCENCE
+LATTICE PARAMETERS
+XRD

@@ -1,0 +1,11 @@
+The field emission from an amorphous carbon (a-C) film grown by electrochemical deposition has been studied. The deposition of the a-C film was accomplished by applying a direct-current potential to a substrate that was immersed in methanol. Both scanning electron microscopy and Raman results indicate that smooth and homogeneous a-C films are grown on specific substrates such as Ti and Al. Field emission measurements demonstrate excellent emission properties such as threshold fields as low as 5V/¼m. Enhancement factors are estimated to be in the range of 1300-1500; these are attributed to local field enhancements around sp2 carbon clusters that are embedded in the a-C films. Emission properties of a-C films grown on Si exhibit a current saturation under higher applied fields. These saturation characteristics are explained by effects of a potential barrier at the interface between the a-C film and the substrate. The interface barrier is reduced by formation of the Ti interfacial layer, suggesting that the formation of TiC decreases the contact resistance between the substrate and the a-C film. Therefore, an approach to use carbide formation at the interface is verified as useful to improve the emission properties of a-C films.
+
+carbon
+electrodeposits
+thin films
+amorphous state
+electrodeposition
+field emission
+scanning electron microscopy
+Raman spectra
+contact resistance

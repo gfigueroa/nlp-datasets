@@ -1,0 +1,6 @@
+This paper presents a new robust digital image watermarking technique based on discrete cosine transform (DCT) and neural network. The neural network is full counter propagation neural network (FCNN). FCNN has been used to simulate the perceptual and visual characteristics of the original image. The perceptual features of the original image have been used to determine the highest changeable threshold values of DCT coefficients. The highest changeable threshold values have been used to embed the watermark in DCT coefficients of the original image. The watermark is a binary image. The pixel values of this image are inserted as zero and one values in the DCT coefficients of the image. The implementation results have shown that this watermarking algorithm has an acceptable robustness versus different kinds of watermarking attacks.
+
+Digital Image Watermarking
+Discrete Cosine Transform
+Human Visual System
+Neural Network

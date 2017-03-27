@@ -1,0 +1,11 @@
+Spark-plasma sintering (SPS) provides accelerated densification and, in many cases, limited grain growth compared to regular hot pressing and sintering. Possible mechanisms of this enhancement of the consolidation in SPS versus conventional techniques of powder processing are identified. The consolidation enhancing factors are categorized with respect to their thermal and nonthermal nature. This paper analyses the influence of a major factor of thermal nature: high heating rates. The interplay of three mechanisms of material transport during SPS is considered: surface diffusion, grain-boundary diffusion, and power-law creep. It is shown that high heating rates reduce the duration of densification-noncontributing surface diffusion, this favors powder systems sinterability and the densification is intensified by grain-boundary diffusion. Modeling indicates that, besides the acceleration of densification, high heating rates diminish grain growth. The impacts of high heating rates are dependent on particle sizes. Besides SPS, the obtained results are applicable to the broad spectrum of powder consolidation techniques which involve high heating rates. The conducted experiments on SPS of an aluminum alloy powder confirm the model predictions of the impact of heating rates and initial grain sizes on the shrinkage rates during the electric current-assisted consolidation. It is noted, that this study considers only one of many possible mechanisms of the consolidation enhancement during SPS, which should stimulate further efforts on the modeling of field-assisted powder processing.
+
+densification
+diffusion creep
+grain boundary diffusion
+heat treatment
+particle size
+powder technology
+sintering
+sparks
+surface diffusion

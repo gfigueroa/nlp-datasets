@@ -1,0 +1,13 @@
+Carbon nitride thin films were deposited by 532 nm Nd:YAG laser ablation of graphite assisted by a nitrogen ion beam bombardment on silicon substrates. Different nitrogen ion beam energies (200, 400, and 600 eV) were used while the laser parameters remained fixed. X-ray photoelectron spectroscopy (XPS) and ellipsometry measurements were carried out to analyze the electronic and optical properties. The XPS C
+1s spectrum for the CN binding is at 286.5 eV while the N
+1s spectrum has a corresponding peak of CN binding at 396.9 eV. The optical gap Eopt is on the order of magnitude of 101
+eV and increases with the N/C ratio in the deposited film. Linear dependence of the refractive index n and the extinction coefficient k on photon energy E in the range of 1.53.5 eV are established. © 1998 American Institute of Physics.
+
+carbon compounds
+pulsed laser deposition
+optical properties
+optical constants
+X-ray photoelectron spectra
+ellipsometry
+refractive index
+insulating thin films

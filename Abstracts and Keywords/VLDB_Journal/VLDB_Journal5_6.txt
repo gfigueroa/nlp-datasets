@@ -1,0 +1,6 @@
+In a variety of applications, we need to keep track of the development of a data set over time. For maintaining and querying these multiversion data efficiently, external storage structures are an absolute necessity. We propose a multiversion B-tree that supports insertions and deletions of data items at the current version and range queries and exact match queries for any version, current or past. Our multiversion B-tree is asymptotically optimal in the sense that the time and space bounds are asymptotically the same as those of the (single-version) B-tree in the worst case. The technique we present for transforming a (single-version) B-tree into a multiversion B-tree is quite general: it applies to a number of hierarchical external access structures with certain properties directly, and it can be modified for others.
+
+Access methods
+Information systems
+Physical design
+Versioned data

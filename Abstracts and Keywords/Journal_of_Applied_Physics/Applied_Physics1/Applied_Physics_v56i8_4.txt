@@ -1,0 +1,12 @@
+Starting with electron energies above a few keV, all materials show an increase in the number of secondary and backscattered primary electrons with decreasing primary energy. The number of secondary plus backscattered electrons becomes equal to the number of primaries at two energies called the first and second crossover points. Between these energies the number of backscattered primaries and of secondaries exceeds the number of incoming primaries. For Teflon FEP the higherenergy crossover (second crossover) point occurs at about 1.6 keV. Between this energy and the first crossover (at a few hundred eV), holes are generated in the surface region of the material. This effect can be used to charge the surface of an insulating dielectric positively by negatively biasing the metallized rear during charging and subsequent discharging of the rear electrode after irradiation.
+
+scattering
+secondary emission
+teflon
+electron collisions
+holes
+electrodes
+physical radiation effects
+backscattering
+electric charges
+electric conductivity

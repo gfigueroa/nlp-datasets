@@ -1,0 +1,11 @@
+We show both theoretically and experimentally that under essentially all conditions of experimental interest, the thermal contact resistance between sample and gas plays a negligible role in photoacoustic spectroscopy of solids.
+
+PHOTOACOUSTIC EFFECT
+TEMPERATURE EFFECTS
+SIGNALS
+SOLIDS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+DATA
+GASES
+PHOTOACOUSTIC SPECTROSCOPY

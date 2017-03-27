@@ -1,0 +1,6 @@
+In this paper we present a novel evolutionary developmental technique for the design of the combinational circuits. This technique is based on the development one dimensional uniform cellular automaton. The goal is to evolve a cellular automaton - its local transition function and two different initial states from which a combinational circuit with a given functionality at the gate-level may be developed. The two evolved initial states are intended to demonstrate the ability of the developmental process to construct the given circuit by means of a single local transition function. Moreover, it will be shown that the developmental process is able to adapt also to other initial states than that were originally evolved, i.e. a working circuit possessing a different structure is created. The circuit functionality may be preserved even if the development of the cellular automaton continues after the original circuit was developed.
+
+Evolutionary algorithm
+cellular automaton
+combinational circuit
+development

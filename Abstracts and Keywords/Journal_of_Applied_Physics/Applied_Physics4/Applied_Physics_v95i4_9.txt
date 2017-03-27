@@ -1,0 +1,20 @@
+This study addresses the electrical and optical properties of radio frequency magnetron sputtered aluminum doped zinc oxide (ZnO:Al) films. The main focus was on the improvement in carrier mobility ¼ to achieve simultaneously high transparency for visible and particularly near-infrared light and low resistivity. The influence of Al concentration in the target, film thickness, sputter power, deposition pressure, and substrate temperature on material properties was investigated. The structural, compositional, electrical and optical properties were studied using x-ray diffraction, secondary ion mass spectrometry (SIMS), room temperature Hall effect measurements and spectral photometry, respectively. All ZnO:Al films were polycrystalline and preferentially oriented along [002]. The grain size along the direction of growth increased with higher Al doping and with increasing film thickness. The SIMS measurements revealed that the Al concentration in the film was nearly the same as in the target. Carrier concentration N and mobility ¼ are determined by the target Al concentration. In addition ¼ is influenced by the film thickness and the sputter pressure. For each Al concentration, the highest ¼ was generally observed at low deposition pressures. By using a target with low Al2O3 concentration of 0.5 wt
+%, ¼ could be improved up to 44.2	cm2/V
+s while maintaining the electrical resistivity Á as low as 3.8×104	©
+cm. For these films the transparency in the near-infrared wavelength range strongly improved which makes them particularly interesting for the application in optoelectronic devices like thin-film solar cells. The ¼-N dependence for films deposited under diverse conditions was studied to identify a practical limit for ¼. © 2004 American Institute of Physics. 
+
+zinc compounds
+aluminium
+II-VI semiconductors
+semiconductor thin films
+sputtered coatings
+carrier density
+carrier mobility
+electrical resistivity
+Hall effect
+texture
+grain size
+optical constants
+X-ray diffraction
+secondary ion mass spectra
+photometry

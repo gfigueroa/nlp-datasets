@@ -1,0 +1,7 @@
+This paper summarizes the approach of the implementation of a differential input and single-ended output low noise amplifier for the square kilometer array development system. A new procedure to test such LNAs has also been proposed here. As a part of the initial approach for this design idea two MIC LNAs have been designed to be tested in the proposed method. Avago Technology's ATF33143 pHEMT transistors have used to develop the designs. LNA1 has a flat gain of more than 30 dB with noise figure of around 0.6 dB. The return losses are also good over the band. The LNA2 displays gain over 28 dB and noise figure less than 0.7 dB almost all across the band. The true differential mixed mode S-parameter response of both the LNAs has been presented here. With success these design and testing procedures would be implemented on future MMIC LNAs to be developed for the SKA.
+
+Differential LNA
+LNA
+Noise Measurement
+Sband
+Square Kilometer Array(SKA)

@@ -1,0 +1,8 @@
+This paper presents an evaluation of the proximity effect upon the impedance characteristics of single-core and three-core subsea cables. The proximity effect is often ignored in subsea cable models used by computer-based simulation packages that are widely used for establishing the performance of offshore electrical power systems. Two common types of subsea cables have been investigated in this study; single-core and three-core cables. Models have been developed and results presented which clearly show that the proximity effect has almost no effect on single-core cables but has a significant effect upon three-core cables. In addition, sequence domain harmonic impedance analysis shows that the proximity effect is a significant factor for the evaluation of harmonic impedance of three-core cables when the armor is used as a common ground. The paper concludes that when calculating the harmonic impedance of single-core subsea cables then only skin effect needs to be accounted for but for three-core cables then both skin effect and proximity effects must be considered. Both these effects are accounted for in the specific harmonic equations developed in this paper that represent subsea cables and calculations have established when such physical phenomena should be included in subsea power system analysis.
+
+Harmonics
+impedance
+offshore
+power cable
+proximity effect
+subsea

@@ -1,0 +1,6 @@
+Based on techniques of solving recurrence equations and optimization problems, we present a practical approach for verifying program including loops with assignments only. We implement this approach on the platform of Mathmatica. The experimental results demonstrate the power of our approach.
+
+optimization problem
+program verification
+recurrence equations
+termination

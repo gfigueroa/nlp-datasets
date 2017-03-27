@@ -1,0 +1,11 @@
+An ultrasonic plane wave reflected by a cylindrical fiber embedded in a homogeneous isotropic matrix is modeled. The model calculates the backreflection coefficient by taking in to account the properties of the fiber and the matrix, the ultrasonic wavelength, the angle of incidence, and a coefficient called shear stiffness coefficient which characterizes the elastic behavior between the fiber and the matrix. Results obtained from the theoretical analysis for a model metal matrix composite system are shown. The theory developed in this paper and some of the results obtained are equally applicable in ceramic matrix fiber reinforced composites.
+
+COMPOSITE MATERIALS
+ULTRASONIC TESTING
+FIBERS
+MATRIX MATERIALS
+INTERFACES
+REFLECTIVITY
+MATHEMATICAL MODELS
+INCIDENCE ANGLE
+CERAMICS

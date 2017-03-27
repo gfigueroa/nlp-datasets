@@ -1,0 +1,13 @@
+Successful deposition of zinc-blende AlN films with thickness up to 1000 Å was performed with plasma source molecular beam epitaxy. The films were epitaxial to the Si(001) substrate. The formation of a thin 3C-SiC layer on the Si(001) surface is one of the important factors for the formation of zinc-blende AlN. Evidence for the presence of 3C-SiC is provided by an Auger electron spectroscopy depth profile and a high-resolution transmission electron microscopy plot profile. Spectroscopic ellipsometry was used to determine the optical constants of zinc-blende AlN in the range from 1.85 to 6.5 eV. The extinction coefficient data indicates that zinc-blende AlN is an indirect semiconductor with a band gap of <5.34 eV. © 2001 American Institute of Physics. 
+
+aluminium compounds
+III-V semiconductors
+semiconductor growth
+molecular beam epitaxial growth
+semiconductor epitaxial layers
+Auger electron spectra
+chemical interdiffusion
+energy gap
+transmission electron microscopy
+ellipsometry
+optical constants

@@ -1,0 +1,13 @@
+A theoretical model to explain the densification of thin films by ion assistance is described. The model takes advantage of previously developed fast methods for threedimensional Monte Carlo cascade computations and assumes a low thermal adatom mobility. It is shown that ion incorporation and recoil implantation of surface atoms lead to a film densification slightly below the surface of a growing film and that the density enhancement depends on the ability of vapor atoms to refill surface vacancies which are created by sputtering and drivenin atoms. In particular, the timedependent mass density profiles evolving during the growth of a 600eV, oxygenassisted, vapordeposited ZrO2 film has been determined and good agreement with experiment is obtained.
+
+THIN FILMS
+ZIRCONIUM OXIDES
+DENSIFICATION
+CRYSTAL GROWTH
+VAPOR DEPOSITED COATINGS
+SPUTTERING
+MONTE CARLO METHOD
+THREEDIMENSIONAL CALCULATIONS
+MATHEMATICAL MODELS
+ION COLLISIONS
+GROWTH

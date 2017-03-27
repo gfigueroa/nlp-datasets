@@ -1,0 +1,12 @@
+Nitrogen redistribution toward the sample surface during the implantation processes performed at temperatures ranging from room temperature to 250	°C was studied for pure iron by means of nuclear reaction analysis and secondaryionmass spectrometry. The role of carbon and radiation defects was investigated. The results reveal the importance of radiation defects on nitrogen migration and trapping. The migration mechanism was identified as a radiationinduced segregation.
+
+IRON
+ION IMPLANTATION
+NITROGEN
+SEGREGATION
+PHYSICAL RADIATION EFFECTS
+TEMPERATURE RANGE 273400 K
+SIMS
+NUCLEAR REACTION ANALYSIS
+CRYSTAL DEFECTS
+DIFFUSION

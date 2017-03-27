@@ -1,0 +1,12 @@
+c-axis epitaxial thin films of Bi-layered homologous Srm3Bi4TimO3m+3 (m=3, 4, 5, and 6) were fabricated on (001) SrTiO3 single crystal substrates by pulsed laser deposition, respectively. Microstructures of the films were systematically characterized by x-ray diffraction (including ¸2¸ scans, rocking curve scans and Õ scans), atomic force microscopy, and transmission electron microscope. Epitaxial relations were established to be (001)Srm3Bi4TimO3m+3%(001)SrTiO3 and [10]Srm3Bi4TimO3m+3%[010]SrTiO3 by Õ scans and selected area diffraction. A special kind of atomic shift along the [001] direction and a slight atomic vibration of TiO6 octahedra were revealed and discussed. The room-temperature dielectric constants of these epitaxial films measured by using an evanescent microwave probe were 245±23, 237±13, 272±19, and 221±20 for films with m=3, 4, 5, and 6 respectively. © 2003 American Institute of Physics. 
+
+strontium compounds
+bismuth compounds
+epitaxial layers
+ferroelectric thin films
+pulsed laser deposition
+crystal microstructure
+X-ray diffraction
+atomic force microscopy
+transmission electron microscopy
+permittivity

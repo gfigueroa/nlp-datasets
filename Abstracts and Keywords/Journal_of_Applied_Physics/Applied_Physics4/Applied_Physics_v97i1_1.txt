@@ -1,0 +1,12 @@
+This article reviews the history and current progress in high-mobility strained Si, SiGe, and Ge channel metal-oxide-semiconductor field-effect transistors (MOSFETs). We start by providing a chronological overview of important milestones and discoveries that have allowed heterostructures grown on Si substrates to transition from purely academic research in the 1980s and 1990s to the commercial development that is taking place today. We next provide a topical review of the various types of strain-engineered MOSFETs that can be integrated onto relaxed Si1xGex, including surface-channel strained Si n- and p-MOSFETs, as well as double-heterostructure MOSFETs which combine a strained Si surface channel with a Ge-rich buried channel. In all cases, we will focus on the connections between layer structure, band structure, and MOS mobility characteristics. Although the surface and starting substrate are composed of pure Si, the use of strained Si still creates new challenges, and we shall also review the literature on short-channel device performance and process integration of strained Si. The review concludes with a global summary of the mobility enhancements available in the SiGe materials system and a discussion of implications for future technology generations.
+
+silicon
+germanium
+Ge-Si alloys
+elemental semiconductors
+MOSFET
+high electron mobility transistors
+band structure
+buried layers
+electron mobility
+reviews

@@ -1,0 +1,13 @@
+Nanosize crystalline silicon films are fabricated by using highly hydrogendiluted silane as the reactive gas and activated with rf+dc doublepower sources, in a conventional plasmaenhanced chemicalvapordeposition system. The structure of the deposited films as studied by means of highresolution electron microscopy, Raman scattering spectra, xraydiffraction pattern, IR transmission spectra, and ultraviolet ray analysis. The results show that there are many novel structural features and new physical properties for these nanosize crystalline silicon films. In particular, it is found that the opticalabsorption coefficient ± is higher than that of aSi:H and ¼cSi:H films, the roomtemperature conductivity Ãd has the value of 103101 ©1	cm1, and the hydrogen content CH in ncSi:H films is higher than 30 at.	%. The ncSi:H films have their peculiar features which are different from both aSi:H and ¼cSi:H films.
+
+SILICON
+STRUCTURAL CHEMICAL ANALYSIS
+THIN FILMS
+NANOSTRUCTURES
+CHEMICAL VAPOR DEPOSITION
+TEM
+RAMAN SPECTRA
+XRD
+INFRARED SPECTRA
+ULTRAVIOLET SPECTRA
+ELECTRIC CONDUCTIVITY

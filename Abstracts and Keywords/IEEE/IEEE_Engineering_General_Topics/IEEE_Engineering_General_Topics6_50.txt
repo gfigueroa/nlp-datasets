@@ -1,0 +1,8 @@
+The non-equal-interval direct optimum Verhulst GM(1,1) model was built which extended equal interval to non-equal-interval and suited for general data modeling and estimating parameters of direct Verhulst GM(1,1) by optimizing the background value. The new model need not pre-process the primitive data, accumulated generating operation (AGO) and inverse accumulated generating operation (IAGO). It was not only suited for equal interval data modeling, but also for non-equal interval data modeling. The new model chooses the nth component of X<sup>0</sup> as the starting conditions of the grey differential model. As the new information is fully used, the accuracy of fitting is higher. The example showed that the new model was simple and practical. The new model was worth expanding and applying in test data processing or test on-line monitoring and social science and engineering science.
+
+1)
+Data processing
+Verhulst Grey GM(1
+background value
+direct optimum modeling
+non-equal interval

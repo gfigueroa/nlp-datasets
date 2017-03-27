@@ -1,0 +1,21 @@
+Transport and phototransport properties of crystalline indium monoselenide (InSe) doped with a variety of elements are reported. Measured mobilities, lifetimes, and effective diffusion lengths of photoexcited carriers are used to interpret electrical and photovoltaic properties of several different structures. These include pn junctions, bismuth/ptype InSe, platinum/ntype InSe, and indium tin oxyde (ITO)/ptype InSe. External solar efficiencies of the best devices are between 5% and 6%. The influence on the efficiency of the various parameters is evaluated, and ways of improvement are discussed.
+
+indium selenides
+photoconductivity
+photovoltaic effect
+experimental data
+crystals
+doped materials
+mobility
+lifetime
+diffusion length
+charge carriers
+electrical properties
+pn junctions
+ptype conductors
+ntype conductors
+bismuth
+platinum
+indium compounds
+tin oxides
+efficiency

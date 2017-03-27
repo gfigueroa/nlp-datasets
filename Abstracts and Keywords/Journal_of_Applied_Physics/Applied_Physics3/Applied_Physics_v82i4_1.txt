@@ -1,0 +1,11 @@
+A series of periodically Si ´-doped InP samples with 5 and 10 periods varying from 92 to 278 Å has been investigated in terms of the transport and optical properties. A reduction in mobility with decreasing period was observed due to the increasing overlap of the electronic wavefunction with the various Si planes. A broad band emission was detected for the periodic structures at energies higher than the InP band gap. The cutoff energy for this band decreases with the period and this behavior can be described by a d2/3 decay. The results are discussed and compared with the ones for GaAs available in the literature. © 1997 American Institute of Physics.
+
+indium compounds
+III-V semiconductors
+silicon
+semiconductor epitaxial layers
+vapour phase epitaxial growth
+semiconductor growth
+carrier mobility
+photoluminescence
+semiconductor superlattices

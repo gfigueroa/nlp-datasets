@@ -1,0 +1,6 @@
+Winning probability is important for professional players and Go programs to calculate in the Go game. However, it is difficult to determine the value of strong groups when calculating winning probability. This paper presents an approach to quantize the influences of strong groups, based on which the winning probability model Winnable is defined and the model parameter is further optimized by multi-level species compete-die out algorithm. The results of the test show that compared with the previous model, Winnable's accuracy and speed of operation are promoted by 27% and 18% respectively. This model has a practical utilization in researches on the middle game of computer Go.
+
+Go
+influence of strong group
+multi-level species compete-die out algorithm
+winning probability

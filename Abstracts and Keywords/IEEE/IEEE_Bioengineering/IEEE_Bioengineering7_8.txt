@@ -1,0 +1,7 @@
+Based on bilinear maps and associated groups hard problems a scheme of ID-based signcryption key encapsulation is proposed. Security properties of proposed scheme are proven in random oracle model. The proposed scheme is ID-IND-CCA secure in confidentiality and ID-UF-CMA secure in unforgeability. Owing to Sakai-Kasahara identity based keys contracture no paring computing and no MapTo- Point hash function are required in the encapsulation phase of proposed scheme. According to the recent advances in pairings optimized computing and point reduction, our scheme is not only security but also have advantage on performance.
+
+ID-based cryptography
+KEM
+confidentiality
+signcryption
+unforgeability

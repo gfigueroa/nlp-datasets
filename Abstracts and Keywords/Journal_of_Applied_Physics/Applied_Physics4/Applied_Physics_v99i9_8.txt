@@ -1,0 +1,10 @@
+We describe variable temperature contact resistance measurements on pentacene organic thin-film transistors via a gated four-probe technique. The transistors consist of Au source and drain electrodes contacting a pentacene film deposited on a dielectric/gate electrode assembly. Additional voltage sensing leads penetrating into the source-drain channel were used to monitor potentials in the pentacene film while passing current between the source and drain electrodes during gate voltage sweeps. Using this device structure, we investigated contact resistance as a function of film thickness (603000Å), deposition temperature (25 or 80	°C), gate voltage, electrode geometry (top or bottom contact), and temperature. Contact resistance values were approximately 2×1037×106©	cm, depending on film thickness. In the temperature range of 77295K, the contact resistance displayed activated behavior with activation energies of 15160meV. Importantly, it was observed that the activation energies for the source and drain resistances were nearly identical for all device configurations. Contact resistance was found to be dependent on the film mobility in a power law fashion with exponents in the range of 0.58 to 1.94. The activation energy and the dependence of resistance on mobility suggest that contact resistance is not determined by a barrier at the metal-pentacene interface, but rather, drift/diffusion of carriers near the metal-pentacene interface. Two-dimensional device modeling of gated four-probe structures was performed to examine the validity of the source and drain resistance determination.
+
+contact resistance
+organic semiconductors
+thin film transistors
+hole mobility
+gold
+dielectric materials
+diffusion
+semiconductor device models

@@ -1,0 +1,8 @@
+Lowtemperature photoconductive mixing measurements have been performed on n and ptype compensated Si at a microwave beat frequency of 253 MHz. The dependence of the transport parameters (electronhole recombination lifetime and drift velocity) on temperature and electric field obtained from this experimental technique, are discussed. At high temperatures (Te35 K for ntype and Te60 K for ptype), the drift velocity is determined by neutral impurity and ionized impurity, and charge carrierphonon scattering. In the carrier freezeout regime (Td35 K for ntype, Td60 K for ptype) hopping charge transport is the dominant mechanism determining the drift velocity.
+
+PHOTOCONDUCTIVITY
+SILICON
+MICROWAVE RADIATION
+TEMPERATURE DEPENDENCE
+CARRIER MOBILITY
+CARRIER LIFETIME

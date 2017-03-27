@@ -1,0 +1,22 @@
+Ti/Al-based multilayer metallizations are usually used interchangeably for n-GaN and AlGaN/GaN epilayers. Our investigations show that, although excellent Ohmic performances were obtained on both cases, the reaction pathways/kinetics and Ohmic contact formation mechanisms of Ti/Al/Mo/Au metallization on n-GaN and AlGaN/GaN are different. In the case of n-GaN, the reaction proceeds by the formation of continuous TiN layer at the metal/GaN interface. Low-barrier Schottky contact or tunneling contact is the possible contact formation mechanisms. On AlGaN/GaN heterostructures, the existence of the AlGaN layer significantly modifies the reaction pathway, where discrete TiN protrusions form nonuniformly along threading dislocations. The TiN protrusions penetrate through the AlGaN layer and form direct electrical link between the two-dimensional electron gas and the metal contacts which would otherwise be separated by the AlGaN barrier layer. A contact formation mechanism, similar to the spike mechanism, which dominates the Ohmic contact formation in GaAs- and InP-based devices, is proposed for the carrier transport in the case of Ti/Al/Mo/Au contacts on AlGaN/GaN. Kinetically, the formation rate of TiN is lower on AlGaN layer than on n-GaN, a result that is rationalized by the formation enthalpies of different nitrides.
+
+gallium compounds
+aluminium compounds
+titanium
+aluminium
+molybdenum
+gold
+III-V semiconductors
+semiconductor epitaxial layers
+reaction kinetics
+ohmic contacts
+annealing
+metallisation
+Schottky barriers
+semiconductor heterojunctions
+dislocations
+two-dimensional electron gas
+enthalpy
+heat of formation
+multilayers
+semiconductor-metal boundaries

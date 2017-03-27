@@ -1,0 +1,15 @@
+This article discusses the mechanism of enhancing unidirectional anisotropy Ke of exchange coupled Co/CrMnPt films by thermal annealing, the exchange coupling mechanism, and the physical origin of CrMnPt lattice distortion. The results obtained were: (i) positive evidence that Ke enhancement by thermal annealing is due to CrMnPt antiferromagnetic anisotropy KAF enhancement associated with CrMnPt lattice distortion, (ii) Ke appeared to be proportional to , which seems to be consistent with the law that has been predicted based on the planar domain wall models mode coupling, and (iii) assuming that the planar domain wall model is suitable, the physical origin of CrMnPt lattice distortion could be attributed to exchange striction. © 2002 American Institute of Physics. 
+
+cobalt
+chromium alloys
+magnesium alloys
+platinum alloys
+interface magnetism
+exchange interactions (electron)
+ferromagnetic materials
+antiferromagnetic materials
+magnetic anisotropy
+annealing
+magnetic domain walls
+X-ray diffraction
+spin valves

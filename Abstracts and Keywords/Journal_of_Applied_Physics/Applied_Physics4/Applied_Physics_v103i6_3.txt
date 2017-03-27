@@ -1,0 +1,10 @@
+We present the fabrication, characterization, and temperature dependent electrical properties of individual submicron-sized hexagonal rods of C60. These rods were synthesized by liquid-liquid interfacial precipitation methods and characterized by scanning electron and transmission electron microscopies and Raman spectroscopy. The microscopic analysis reveals highly developed crystalline order. Two-probe platinum-contacted devices were fabricated using long ( < 3050¼m) individual C60 rods by focused ion beam assisted deposition on insulating (Si/SiO2) substrates. Current-voltage (IV) measurements were performed on these devices in the temperature range of 18300K under an applied voltage of 20to20V. Our measurements reveal an overall decrease in conductivity with decreasing temperature, with structures appearing commensurately with the known positions of the phase transitions. Cyclic high-bias measurements show substantial hysteretic behavior below T < 260K, expected from a sudden and large increase in the dielectric constant of the system. The IV loops show significant nonlinearity and asymmetry and the shapes of the loops evolve with change in temperature, with sharp changes across the phase transition regions.
+
+fullerenes
+materials preparation
+permittivity
+precipitation
+Raman spectra
+scanning electron microscopy
+solid-state phase transformations
+transmission electron microscopy

@@ -1,0 +1,12 @@
+Nonoxide tunnel barriers such as AlN are of interest for magnetic tunnel junctions to avoid the oxidation of the magnetic electrodes. We have investigated the fabrication and properties of thin AlN-based barriers for use in low resistance magnetic tunnel junctions. Electronic, magnetic and structural data of tunnel valves of the form Ta (100 Å)/PtMn (300 Å)/CoFe20 (20 Å25 Å)/barrier/CoFe20 (1020 Å)/NiFe16 (3540 Å)/Ta (100 Å) are presented, where the barrier consists of AlN, AlNxOy or AlN/AlOx with total thicknesses between 8 and 15 Å. The tunnel junctions were sputter deposited and then lithographically patterned down to 2×2
+¼m2 devices. AlN was deposited by reactive sputtering from an Al target with 20%35% N2 in the Ar sputter gas at room temperature, resulting in stoichiometric growth of AlNx (x=0.50±0.05), as determined by RBS. TEM analysis shows that the as-deposited AlN barrier is crystalline. For AlN barriers and AlN followed by natural O2 oxidation, we obtain tunnel magnetoresistance &gt;10% with specific junction resistance Rj down to 60
+©¼m2. © 2001 American Institute of Physics. 
+
+sputtered coatings
+magnetoresistance
+spin valves
+magnetic multilayers
+aluminium compounds
+tunnelling
+transmission electron microscopy
+Rutherford backscattering

@@ -1,0 +1,8 @@
+A mesoscale reaction (MSR) model is proposed as part of a multiscale numerical modeling approach to study reactive powder metal mixtures. A discrete particle simulation (DPS) incorporates details of phase morphology and arrangement which are an integral part of designing this class of materials. The DPS provides the spatial distribution for the contact sites or locations in which reactant granules come into contact. Temperature and reactant contact surfaces, estimated from DPS results, are used to initialize the MSR model. A heterogeneous granular-level reaction model is incorporated into the MSR model to describe the chemical reactions between reactant granules. Ensemble averages from the MSR model describe the bulk mixture reaction rate in the macroscale continuum model. The proposed approach is demonstrated for a powder mixture containing Ni+Al+voids. Shock-induced reactions are simulated and compared to experiments.
+
+aluminium
+granular materials
+nickel
+powders
+reaction kinetics theory
+shock wave effects

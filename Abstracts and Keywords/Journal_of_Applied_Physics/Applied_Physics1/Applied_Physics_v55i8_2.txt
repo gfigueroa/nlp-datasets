@@ -1,0 +1,14 @@
+Photoluminescence studies at 4 K on Ga0.47In0.53As/ Al0.48In0.52As single quantum wells exhibit emission ranging from 1.318 eV for a 15Å well to 0.82 eV for thick wells. The emission energy of each single quantum well is compared to theoretical curves which are generated from a finite potential square well model. The closest agreement between the experimental curves and the theoretical curves occurs when the conduction band discontinuity is taken to be 70% of the bandgap discontinuity or 0.52 eV.
+
+conduction bands
+energy gap
+heterojunctions
+optical fibers
+optical communication systems
+photoluminescence
+barrier height
+ultralow temperature
+dh lasers
+gallium arsenides
+indium arsenides
+aluminium arsenides

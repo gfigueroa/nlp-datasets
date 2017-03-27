@@ -1,0 +1,7 @@
+It is shown through numerical simulations that the gap between performed fragments closes during explosive launch, trapping the detonation products until radial expansion of the fragments is sufficient to separate the fragments. Circumferential strains from the numerical calculations are in good agreement with the plastic strains from recovered fragments. Additionally, considerable insights into the dynamics of the explosive launch process are obtained by comparing spall failure and nucleation and growth of ductile voids in the recovered fragments against the numerical simulations.
+
+SIMULATION
+EXPLOSIONS
+NUCLEATION
+DETONATIONS
+VOIDS

@@ -1,0 +1,9 @@
+A general electrical contact resistance (ECR) theory for conductive rough surfaces was derived from first principles. The analysis is based on fractal geometry for the surface topography description, elastic-plastic deformation of contacting asperities, and size-dependent constriction resistance of microcontacts. Relations for the ECR in terms of contact load and apparent contact area are obtained for isotropic, homogeneous, conductive surfaces with known material properties and surface topography. Useful design guidelines for electrical contacts are extracted from the numerical results. A general relation between the dimensionless real contact area and the dimensionless ECR is introduced for lightly loaded contacts that depends only on the electron mean free path. Approaches for determining the surface roughness, material properties, and real contact area are discussed in the context of relatively simple ECR measurements. © 2003 American Institute of Physics. 
+
+surface topography
+rough surfaces
+contact resistance
+electron mean free path
+elastoplasticity
+plastic deformation
+elastic deformation

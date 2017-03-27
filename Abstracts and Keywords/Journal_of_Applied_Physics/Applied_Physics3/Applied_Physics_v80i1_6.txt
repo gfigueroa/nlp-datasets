@@ -1,0 +1,9 @@
+To determine the molecular orientation of rubbed and unrubbed poly[4,42oxydiphenylene pyromellitimide] (PMDAODA) films, we have measured the infrared (IR) absorption spectra of PMDAODA films on Si substrates as a function of the incident angle. The molecular orientation was determined by fitting the incident angle dependence and the IR dichroic ratio with the theoretical curves. The IR absorption was calculated by a transfer matrix method to take account of the multiple reflection and refraction at the interfaces. The vibrational response of the polyimide film in the IR region was represented by a Lorentz oscillator model. We found that the molecules in a spincoated polyimide film are oriented parallel to the substrate surface with a standard deviation of 6.5°. For a rubbed film, the polymer chains are oriented along the rubbing direction and are tilted up on average by 8.5° from the surface plane. We observed a blueshift of the C=O asymmetric stretching band at oblique incidence. The blueshift is explained by anomalous dispersion of the dielectric constant of the polyimide film, and is reproduced by our calculation. © 1996 American Institute of Physics. 
+
+LIQUID CRYSTALS
+MOLECULAR ORIENTATION
+THIN FILMS
+INFRARED SPECTRA
+ABSORPTION SPECTRA
+POLYIMIDES
+BLUE SHIFT

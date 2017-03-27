@@ -1,0 +1,17 @@
+This work describes a new technique which uses the time spectrum of fast neutrons produced by the extracted ions to study the switching characteristics of a small Penning ion source. It is found that the rise and delay times of the Penning discharge decrease with the pressure and the anode voltage, and are insensitive to the magnetic field provided that the electron confinement time is much longer than the mean ionization time. A proposed model successfully explains the risetime variations with the source operating parameters.
+
+PENNING EFFECT
+PENNING ION SOURCES
+TIME DELAY
+SWITCHING
+IONIZATION
+ELECTRON COLLISIONS
+ANODES
+OPERATION
+NEUTRONS
+PENNING DISCHARGES
+ION BEAMS
+ENERGY SPECTRA
+PERFORMANCE
+MAGNETIC FIELD EFFECTS
+NEUTRON SPECTRA

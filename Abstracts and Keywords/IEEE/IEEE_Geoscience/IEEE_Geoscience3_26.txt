@@ -1,0 +1,7 @@
+This paper presents a method for treating transmission network bottlenecks in a stochastic hydro-thermal scheduling model. The model is designed for long- and medium-term scheduling of hydro-thermal power system operation, where decisions are made for aggregated regional subsystems or areas. The aggregate area representation allows simulation of large hydro systems with a relatively high degree of detail, thus making the model well suited for comprehensive studies on a national and international scale.
+
+Hydroelectric-thermal power generation
+linear programming
+power generation scheduling
+power system economics
+power system modeling

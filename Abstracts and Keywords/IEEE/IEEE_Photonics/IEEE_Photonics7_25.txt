@@ -1,0 +1,11 @@
+This paper describes seamless transitions among various MOS devices, ranging from bulk and partially/fully-depleted SOI to double-gate FinFETs and silicon-nanowire MOSFETs. The underlying governing equations for various structures are outlined, which provide the motivation for unifying MOS compact models with the unified regional modeling (URM) approach.
+
+FinFET
+MOSFET
+SOI
+compact model
+double gate
+gate-all-around
+silicon nanowire
+surface potential
+unified regional modeling

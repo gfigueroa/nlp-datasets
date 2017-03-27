@@ -1,0 +1,18 @@
+The high strengths of gold thin films on silicon substrates have been studied with particular reference to the possible effect of strain gradients. Wafer curvature/thermal cycling measurements have been used to study the strengths of unpassivated, oxide-free gold films ranging in thickness from 0.1 to 2.5 ¼m. Films thinner than about 1 ¼m in thickness appear to be weakened by diffusional relaxation effects near the free surface and are not good candidates for the study of strain gradient plasticity. Our search for plastically induced strain gradients was thus limited to thicker films with correspondingly larger grain sizes. Three related x-ray diffraction techniques have been used to investigate the elastic strains in these films. The standard dhkl vs sin2
+¨ technique has been used to find the average strain through the thickness of the films. The results are consistent with wafer curvature measurements. We have also measured a number of dhkls as a function of penetration depth to construct depth-dependent dhkl vs sin2
+¨ plots. These data show that the residual elastic strain is essentially independent of depth in the film. Finally, a new technique for sample rotation has been used to measure the dhkls for a fixed set of grains in the film as a function of penetration depth. Again, no detectable gradient in strain has been observed. These results show that the high strengths of unpassivated gold films relative to the strength of bulk gold cannot be rationalized on the basis of strain gradients through the film thickness. However, a sharp gradient in strain close to the film substrate interface cannot be ruled out. © 2000 American Institute of Physics. 
+
+internal stresses
+semiconductor-metal boundaries
+metallic thin films
+GOLD
+THIN FILMS
+X-RAY DIFFRACTION
+STRAINS
+SILICON
+SUBSTRATES
+THERMAL CYCLING
+THICKNESS
+PLASTICITY
+GRAIN SIZE
+STRENGTH FUNCTIONS

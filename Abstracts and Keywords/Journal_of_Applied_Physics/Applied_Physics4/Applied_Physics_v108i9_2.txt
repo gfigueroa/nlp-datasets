@@ -1,0 +1,10 @@
+A nuclear magnetic resonance and imaging system was constructed to study spin-lattice relaxation time T1, spin-spin relaxation time T2, and effective relaxation time T2 of gadolinium (Gd) chelates using a high-Tc superconducting quantum interference device in microtesla magnetic fields. In the presence of the magnetic contrast T2 is related to T2 by the relation: 1/T2 = 1/T2+³”B+“Gd-chelates, where ³ = 42.58kHz/mT and ³”B is the relaxation rate due to the inhomogeneity field ”B in measuring coil at the sample position and “Gd-chelates is the intrinsic relaxation rate of Gd chelates. It is found that T1, T2, and 1/“Gd-chelates decay exponentially as the concentration (or magnetic susceptibility) of Gd chelates increases. The Gd chelates cause a diffusive motion of nuclear spins and hence enhance the relaxation rates. Enhanced image contrast has been demonstrated in a water phantom with Gd chelates in microtesla magnetic fields.
+
+gadolinium compounds
+micromechanical devices
+nuclear magnetic resonance
+protons
+spin dynamics
+spin-lattice relaxation
+spin-spin relaxation
+SQUIDs

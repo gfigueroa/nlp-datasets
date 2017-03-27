@@ -1,0 +1,8 @@
+Studies on the propagation of high power microwave and its interaction with a plasma in a metallic waveguide are carried out. For this we consider the fundamental TE10 mode that propagates in an evacuated rectangular waveguide and encounters a plasma which is filled in another waveguide of the same size. Using Maxwells equations we evaluate the field components of the mode in the evacuated waveguide and then obtain coupled differential equations for the field components of the mode in the plasma filled waveguide, where the plasma effect enters in terms of its dielectric constant. These equations are solved numerically using the fourth-order RungeKutta method for the electric field amplitude of the microwave and its wavelength under the effect of plasma density, waveguide width, and microwave frequency. All the investigations are carried out for different initial plasma density profiles, namely homogeneous density, linear density with gradient in the propagation direction and the density with Gaussian profile along the waveguide width. The structure of the perturbed density due to the ponderomotive force exerted by the mode is also investigated under the effect of microwave parameters and waveguide width. Numerical studies are conducted for the isothermal plasma in the waveguide.
+
+differential equations
+plasma density
+plasma dielectric properties
+plasma electromagnetic wave propagation
+plasma filled waveguides
+plasma transport processes

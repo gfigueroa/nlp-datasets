@@ -1,0 +1,10 @@
+The nucleation and growth of indium on a vicinal Si(100)-(2×1) surface at high temperature by femtosecond pulsed laser deposition was investigated by in situ reflection high energy electron diffraction (RHEED). RHEED intensity relaxation was observed for the first < 2 ML during the growth of In(4×3) by step flow. From the temperature dependence of the rate of relaxation, an activation energy of 1.4±0.2eV of surface diffusion was determined. The results indicate that indium small clusters diffused to terrace step edges with a diffusion frequency constant of (1.0±0.1)×1011s1. The RHEED specular beam split peak spacing, which is characteristic of a vicinal surface, was analyzed with the growth temperature to obtain the average terrace width. Gradual reduction in the terrace width during growth of In(4×3) was observed with In coverage and is attributed to the detachment of In atoms from terrace edges. At a substrate temperature of 405	°C, the average terrace width decreased from 61±10Å, which corresponds to the vicinal Si(100) surface, to an equilibrium value of 45±7Å after deposition of < 23 ML. Further In coverage showed a transition of the RHEED pattern from (4×3) to (1×1) and the growth of rounded In islands (average height of < 1nm and width of < 25nm), as examined by ex situ atomic force microscopy.
+
+atomic force microscopy
+indium
+island structure
+monolayers
+nucleation
+pulsed laser deposition
+reflection high energy electron diffraction
+surface diffusion

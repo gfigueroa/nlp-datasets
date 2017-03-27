@@ -1,0 +1,6 @@
+This paper is concerned with the measurement on the magnetic properties of electrical steels under one-dimensional magnetizing system at the frequency of 50 Hz. The magnetic properties were principally investigated by designing and developing magnetizing system, constructed by two laminated C-cores and wound with copper wire. The influence of different core arrangements, which are horizontal and vertical arrangement on magnetic properties of electrical steel, is analyzed in order to achieve the best performance in the magnetizing system. The magnetic characteristics of different types of electrical steels were also presented. The experimental results show that stress was introduced on the sample when vertical set-up was employed.
+
+C-core
+electrical steel sheets
+magnetic properties
+one-dimensional magnetizing system

@@ -1,0 +1,6 @@
+We have studied the behavior of ferritin molecules using a high-speed atomic force microscope (high-speed AFM), which uses a miniaturized cantilever and scan stage to reduce the mechanical response time of the cantilever and to prevent the onset of resonant motion at high scan speeds. Using this instrument, we were able to achieve scan rates of up to 1 frame per second for pure fluids. A conventional AFM can visualize the ferritin molecule-substrate interaction directly at the single-molecule level. The conventional AFM can dynamically visualize the process of the ferritin molecule interacting with the substrate; however, it cannot dynamically visualize the adsorption of ferritin molecules on the substrate, which occurs in a fraction of a second, because of its very low scan speed. In this study, we used a novel high-speed AFM to dynamically visualize the behavior of the ferritin molecule-substrate reaction at the single-ferritin-molecule level by real time.
+
+adsorption
+atomic force microscopy
+molecular biophysics
+proteins

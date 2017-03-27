@@ -1,0 +1,5 @@
+Multi-agent systems in complex, real-time domains require agents to act effectively both autonomously and as part of a team. This paper addresses multi-agent systems consisting of teams of autonomous agents acting in real-time, noisy, collaborative, and adversarial environments. Because of the inherent complexity of this type of multi-agent system, this paper investigates the use of machine learning within multi-agent systems. This paper proposes a new agent model, which applies the agent-oriented paradigm to represent multiple objects. This agent model consists of three types of agents as follows: (a) an upper-agent which describes an autonomous and dynamic object; (b) a lower-agent which describes a reactive and static object; and (c) an environmental-agent which describes the environment of the other agents. As an example, we model soccer players (a kind of multiple objects) in environmental-agent. Three kinds of soccer agents are constructed with different powers. With soccer server we simulate the soccer games to confirm the effectiveness of our model.
+
+Agent models
+Multiple objects
+Soccer server

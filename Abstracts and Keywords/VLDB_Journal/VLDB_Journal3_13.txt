@@ -1,0 +1,7 @@
+Database applications often impose temporal dependencies between transactions that must be satisfied to preserve data consistency. The extant correctness criteria used to schedule the execution of concurrent transactions are either time independent or use strict, difficult to satisfy real-time constraints. On one end of the spectrum, serializability completely ignores time. On the other end, deadline scheduling approaches consider the outcome of each transaction execution correct only if the transaction meets its real-time deadline. In this article, we explore new correctness criteria and scheduling methods that capture temporal transaction dependencies and belong to the broad area between these two extreme approaches. We introduce the concepts of succession dependency and chronological dependency and define correctness criteria under which temporal dependencies between transactions are preserved even if the dependent transactions execute concurrently. We also propose a chronological scheduler that can guarantee that transaction executions satisfy their chronological constraints. The advantages of chronological scheduling over traditional scheduling methods, as well as the main issues in the implementation and performance of the proposed scheduler, are discussed.
+
+concurrent succession
+execution correctness
+partial rollbacks
+synchronization
+transaction ordering

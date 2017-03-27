@@ -1,0 +1,11 @@
+An insulator model, with parameters fixed by fits to optical data, is used to determine the energyloss function describing the response of valence electrons in poly(butene1sulfone). Generalized oscillator strengths describe the response of the inner shell electrons. This theoretical information is employed to calculate inelastic mean free paths and stopping powers in poly(butene1sulfone) for electrons with energies d10 keV.
+
+ELECTRON COLLISIONS
+CHARGEDPARTICLE TRANSPORT
+POLYMERS
+PHYSICAL RADIATION EFFECTS
+MEAN FREE PATH
+STOPPING POWER
+THEORETICAL DATA
+OSCILLATOR STRENGTHS
+VALENCE

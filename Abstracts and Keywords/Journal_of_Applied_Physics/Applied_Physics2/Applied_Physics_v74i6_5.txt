@@ -1,0 +1,13 @@
+Singlephase Sr0.875Nd0.125CuO2´ (SNCO) thin films of the infinitelayer structure were fabricated by a pulsedlaser deposition technique. The films directly grown on SrTiO3 (100) substrates had superconductivity onset temperatures around 20 K, but zero resistances were not observed down to 4.2 K. The aaxis length of the film samples did not exceed the values reported for bulk SNCO samples. It was demonstrated that, when deposited onto a Pr2CuO4 buffer layer formed on a SrTiO3 substrate, the aaxis length of the thin film SNCO increased up to 0.395 nm which was comparable to that for bulk SNCO. The film sample exhibited a zero resistance state below 7 K. Thermoelectricpower measurements indicated that the carrier density for the film deposited on a Pr2CuO4 buffer layer was higher than that for the film fabricated without a buffer layer.
+
+SUPERCONDUCTING FILMS
+STRONTIUM OXIDES
+NEODYMIUM OXIDES
+COPPER OXIDES
+ABLATION
+LASER RADIATION
+TEMPERATURE RANGE 013 K
+TEMPERATURE RANGE 1365 K
+TRANSITION TEMPERATURE
+PRASEODYMIUM OXIDES
+LAYERS

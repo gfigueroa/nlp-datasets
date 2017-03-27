@@ -1,0 +1,7 @@
+In the industry the Modulated IR laser plays an important role for a lot of gigantic sensor modules and laser communications between the transmitter and receiver. So far the method discussed in this paper is about the modulated IR laser retransmitted wave by sensor, after sensing the type modulation of the laser and then transmitting the same laser again.
+
+Modulated IR Laser
+Synchronize
+ambient
+emitter
+susceptible

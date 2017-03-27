@@ -1,0 +1,10 @@
+A combinatorial approach to the synthesis of high anisotropy Co/Pd magnetic multilayer thin films is explored. Combinatorial libraries of Co/Pd multilayer thin films were prepared using magnetron sputtering where the thicknesses of Co and Pd layers in the bilayer stack are varied. Application of multivariate regression and neural network models to the analysis of Co/Pd multilayer combinatorial libraries is studied and the predictive capabilities of the two models are compared. The influences of the thicknesses of Co and Pd layers on magnetic properties are investigated. The models are used to design Co/Pd multilayers with the desired magnetic properties. It is found that the neural network model enables higher accuracy than the multivariate analysis model and that the inverse design problem produces results within a good degree of precisions.
+
+cobalt
+palladium
+ferromagnetic materials
+magnetic multilayers
+magnetic thin films
+sputter deposition
+magnetic anisotropy
+neural nets

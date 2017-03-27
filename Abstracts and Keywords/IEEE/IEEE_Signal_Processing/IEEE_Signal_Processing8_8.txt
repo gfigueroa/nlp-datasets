@@ -1,0 +1,7 @@
+Finite-difference time domain approximation of the wave equation has been shown to provide a good approximation to acoustic wave propagation in multiple dimensions. Two dimensional models are often assumed to be an adequate compromise between the poor geometrical representation afforded by one-dimensional models and the additional computational loading incurred by three-dimensional modeling. This paper demonstrates the validity of multi-dimensional finite-difference schemes for obtaining accurate frequency responses of uniform cylinders, then compares simulations of coupled cylindrical resonators carried out in different dimensionalities. It is found that two-dimensional models exhibit erroneous low-frequency resonant behaviour where large discontinuities in acoustic admittance are presented by the geometry under simulation.
+
+Acoustic
+Admittance
+Computation
+Finite Difference Time Domain
+Simulation

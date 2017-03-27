@@ -1,0 +1,18 @@
+The diffusion of several elements implanted into layers of CoSi2 with a nominal thickness of 800 nm, grown by metalsilicon reaction, has been studied by secondary ion mass spectroscopy. Boron has by far the highest mobility. It is totally homogenized by heat treatment for 0.5 h at 800	°C; it displays evidence of grainboundary diffusion at 400	°C and of lattice diffusion at 450	°C. The next group of elements, gallium, phosphorus, and germanium (used as a tracer in lieu of a silicon isotope) diffuse distinctly less rapidly, and remain nonhomogenized after annealing at 800	°C. The lattice diffusion of arsenic and antimony is not detectable (by the means presently used), even after heat treatment at the same relatively high temperature. Lowtemperature effects, and effects far away from the implanted region, are dominated by grainboundary diffusion. The lattice diffusion increases from boron to phosphorus and germanium, with activation energies determined to be 2.0 and 2.7 eV for boron and phosphorus, respectively. The results are discussed by comparison with those previously obtained with TiSi2.
+
+DIFFUSION
+ATOM TRANSPORT
+HIGH TEMPERATURE
+VERY HIGH TEMPERATURE
+THIN FILMS
+COBALT SILICIDES
+BORON
+GERMANIUM
+GALLIUM
+PHOSPHORUS
+ARSENIC
+ANTIMONY
+LATTICE PARAMETERS
+GRAIN BOUNDARIES
+ION IMPLANTATION
+MOBILITY

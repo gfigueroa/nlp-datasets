@@ -1,0 +1,8 @@
+An increasingly large amount of digital video content continues to become available on the Internet. This content ranges from short entertainment clips by amateurs lasting a few minutes to full-fledged, significantly longer, serious course lectures and presentations by subject matter experts. As these video bits of content continue to get pushed out one-way, to the learner, the content authors have no quick or easy way of getting an objective, machine-processable opinion on arbitrary subsections of their content. In this paper, we explore the design and implementation of an innovative software visualization system that uses `Opinion Maps' and a WYSIWYG (When You See Is When You Give) approach to bring a much needed real-time focus to the feedback aspect of the video mode of instruction. In addition to using routine graphical charting to visualize server-side tabular data, an Opinion Map employs a combination of (i) a Tukey Box<sup>+</sup> plot - a simple but powerful extension to the Tukey Box plot - to present N-point ordinal opinion scores, collected from learners potentially for every single second of the video content, (ii) a per-second opinion score histogram, and (iii) overall `best' and `worst' opinion score visualizations. The system is nonintrusive; it requires no special content authoring processes and bolts on to prerecorded digital video content.
+
+Tukey Box plot
+Tukey Box+ plot
+opinion map
+real-time asynchronous feedback
+video
+visualization

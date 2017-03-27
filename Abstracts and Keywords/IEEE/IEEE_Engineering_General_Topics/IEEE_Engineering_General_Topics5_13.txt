@@ -1,0 +1,6 @@
+We propose a novel and efficient SAR image despeckling via bivariate shrinkage based on contourlet transform, which has been recently introduced. Contourlet transform is a flexible multi-scale, multi-direction and multi-resolution image decomposition that can be efficiently implemented via transform. A bivariate shrinkage with local variance estimation is applied to the decomposed contourlet coefficients of the logarithmically transformed image to estimate the best value for the noise-free signal. Experimental results show that compared with conventional wavelet despeckling algorithm, the proposed algorithm can achieve an excellent balance between suppresses speckle effectively and preserves image details, and the significant information of original image like textures and contour details is well maintained.
+
+SAR image
+bivariate shrinkage
+contourlet transform
+despeckling

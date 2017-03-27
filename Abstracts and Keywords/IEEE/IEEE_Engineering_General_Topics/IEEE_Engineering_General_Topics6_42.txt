@@ -1,0 +1,6 @@
+In this paper, a new technique is proposed for diagnosing multiple faults in a given erroneous circuit with improved diagnosis resolution The first technique is based on Single Location At a Time (SLAT) and path tracing techniques which starts with an imrial fault list obtained from an existing diagnosis method. The single observation - single location at a time (SOSLAT) pattern of a fault will detect that fault at one primary output such that other faults m the list will not mask the fault at that primary output - This can be achieved by deactivating the faults that can be propagated to that particular primary output. The second technique follows a Boolean Satisfiability (SAT) based diagnosis A special kind of test called the Anti-Detecting test (AD) is performed. The AD test restricts the number of test vectors improving the diagnosis time. A SAT based diagnosis is done by converting these test vectors into a set of constraints and solving them using a SAT solver The solution gives die values of the select lines of die multiplexers (induced as a part of SAT diagnosis) inserted at the fault locations of die fault list, indicating the presence or absence of the fault The above two techniques can be applied together for improved diagnosis resolution and time.
+
+AD test
+ATPG
+SAT sotar
+SLAT

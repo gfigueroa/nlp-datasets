@@ -1,0 +1,7 @@
+This paper examines the technology trajectory evolution of the green energy industry in the US. In particular, it identifies the top three communities within this sector and summarizes their growth patterns. We analyzed the US green energy patents from 1980-2005 and proposed a ¿green technology tree¿, the structure of which symbolizes the growth pattern of the core green technologies. Based on this tree, we designed the VND model that divides these top green energy communities into three separate categories: the ¿veteran¿ category representing patent classes that have been in prominence from the initial days of green revolution, the ¿newbie¿ category that focuses on the recently evolving green technologies and finally, the ¿downgraded¿ category which is a representative of the once-popular-now-disappearing technologies.
+
+Community structure
+VND model
+green energy
+patent class
+technology tree

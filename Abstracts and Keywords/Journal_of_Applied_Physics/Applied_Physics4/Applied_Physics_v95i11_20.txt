@@ -1,0 +1,12 @@
+Herein we have made two Mn-based high spin molecule samples, S=10 and S=9. Both samples show step hysteresis below 3 K, and their resonant fields are regularly spaced. Changes in temperature shift the resonant fields. The temperature dependence of the observed resonant fields can be fitted well with only a single-state tunneling if the mean-field interaction is taken into account. We also find that both the upward shift of the small step-index resonant fields and the downward shift of the large step-index resonant fields are due to mutual interactions. © 2004 American Institute of Physics. 
+
+spin systems
+spin Hamiltonians
+magnetic hysteresis
+magnetic anisotropy
+magnetic moments
+exchange interactions (electron)
+resonant tunnelling
+molecular magnetism
+magnetic tunnelling
+manganese

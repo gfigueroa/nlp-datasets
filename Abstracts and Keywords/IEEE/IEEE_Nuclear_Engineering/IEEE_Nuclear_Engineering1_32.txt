@@ -1,0 +1,5 @@
+Asymmetric information is widespread in supply chain system, So it is difficult to find the optimal solution of Stackelberg game in supply chain. To solve this problem, a simple adaptive-adjusting price-discount rate scheme and a combining procedure of sales promotion and adaptive-adjusting price-discount were developed in this paper. The numerical simulations show that the adaptive-adjusting price-discount rate scheme can overcome the barrier of asymmetric information and get the optimal strategy of Stackelberg game. By using the combining procedure of sales promotion and adaptive-adjusting price-discount rate, we can obtain greater profits than the sharing information situation.
+
+Stackelberg game
+price-discount
+supply chain system

@@ -1,0 +1,8 @@
+This paper presents key points of a human machine interface (HMI) for disabled people suffering from tetraplegia. It proposes an original HMI based on a monocular camera that controls an exoskeletal orthosis for the upper limb. The aim of this paper is to identify innovative research paths in intelligent camera interface (ICI). It shows how far can a camera be used as a control interface and its application to a 4 axis exoskeletal orthosis. Two methods are presented: head control using planar face detection and 3D face modelling and mouth expression control. The preliminary results show that the intelligent camera interface can be an effective issue in human machine interaction especially for disabled people since commonly used HMI are difficult to use, unreliable or tiring.
+
+Face detection
+Human Machine Interface
+Human disability
+Human-friendly control
+Lips extraction
+Rehabilitation robots

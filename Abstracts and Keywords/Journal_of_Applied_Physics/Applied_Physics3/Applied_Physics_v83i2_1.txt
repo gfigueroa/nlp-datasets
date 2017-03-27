@@ -1,0 +1,13 @@
+The dissociation fraction of molecules in radio frequency, planar, inductively coupled plasmas are measured for mixtures of oxygen, nitrogen, sulfur hexafluoride, and chlorine in argon. A modified gaseous electronics conference rf reference cell with an inductively coupled source is used to produce the discharges, with pressures ranging from 1.3 Pa to 5.3 Pa and applied powers from 100 W to 300 W. Neutrals are sampled from the side of the discharge, and the degree of dissociation is determined mass spectrometrically by comparison of the intensities of the parent ion peaks with the plasma power on and off. Measured dissociation levels of O2 in Ar:O2 mixtures ranged from 0.02 (i.e., 2% of the oxygen molecules were dissociated) to 0.08 (8%), while dissociation levels for Ar:SF6 mixtures ranged from 0.92 to 0.98, depending upon plasma conditions. The degree of dissociation of Cl2 in Ar:Cl2 mixtures ranged from near 0.07 to 0.19, while dissociation levels of N2 in Ar:N2 mixtures were less than 2% for all plasma conditions studied. 
+
+mass spectroscopy
+plasma density
+PLASMA DIAGNOSTICS
+DISSOCIATION
+MASS SPECTRA
+OXYGEN
+NITROGEN
+SULFUR FLUORIDES
+CHLORINE
+ARGON
+ELECTRIC DISCHARGES

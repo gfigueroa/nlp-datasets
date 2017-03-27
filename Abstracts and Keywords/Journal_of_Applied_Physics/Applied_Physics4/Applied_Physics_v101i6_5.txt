@@ -1,0 +1,17 @@
+The crystal structure and electrical properties of CeAlO3 ceramics prepared by the mixed oxide route have been investigated. X-ray and electron diffraction data show the room temperature structure to be described by the tetragonal I4/mcm space group [a = 5.3253(5)Å and c = 7.5860(9)Å; Z = 4, and theoretical density, Dx = 6.64g/cm3]. CeAlO3 ceramics sintered at 1500	°C under flowing 5%H295%N2 gas for 4h reach < 94% of Dx with a microstructure of randomly distributed equiaxed grains of average grain size < 2¼m. Conventional transmission electron microscopy reveals needle-shaped ferroelastic domains in some grains. The relative permittivity µr of CeAlO3 ceramics is < 1820 in the range of < 10300K. At room temperature and microwave frequencies, CeAlO3 ceramics exhibit µr < 20.7, Qfr < 40	117GHz (at 9.5GHz), and Äf < 57ppm/K. The ion polarizability for Ce3+ is calculated to be 4.46Å3. Revised dielectric polarizabilities for rare-earth lanthanides are also presented.
+
+cerium compounds
+dielectric materials
+ceramics
+X-ray diffraction
+electron diffraction
+transmission electron microscopy
+sintering
+ferroelasticity
+domains
+crystal structure
+space groups
+density
+grain size
+permittivity
+dielectric polarisation

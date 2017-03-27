@@ -1,0 +1,12 @@
+High-temperature electrical transports in AlGaN/GaN modulation doped field-effect transistors (MODFETs) grown by metal organic chemical vapor deposition method have been studied experimentally. The MODFETs have a channel length of 1.5¼m and a gate width of 40¼m. The influence of pinchoff voltage, gate voltage, and source-drain voltage on the electrical transports has been addressed. The role of polarization and piezoelectric effect and the fundamental physics underlying leakage have also been elucidated. The maximum drain-source current is 525mA/mm at a gate bias of 2V, source-drain bias of 4V, and temperature of 300K. The highest room temperature extrinsic transconductance is 155mS/mm. The breakdown voltage is about 100V at 28 and 78	°C.
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+high electron mobility transistors
+MOCVD
+piezoelectricity
+leakage currents
+electrical conductivity
+semiconductor device breakdown
+electric potential

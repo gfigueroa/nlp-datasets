@@ -1,0 +1,9 @@
+When radiation of sufficiently high energy is incident on the surface of a semiconductor photocathode, electrons are excited from the valence band to the conduction band and these may contribute to the photocurrent. The photocurrent in a single-layer cathode is found to be small, because of collisions within the cathode material, the electron affinity condition, etc. It is observed that when a thin layer of n-type cesium antimonide (Cs3Sb) is deposited over a p-type layer of sodium potassium antimonide (Na2KSb), there occurs a sharp rise in the photocurrent. The causes for the dramatic increase in the photocurrent obtainable from a sodium potassium antimonide cathode, by depositing a thin layer of cesium antimonide are analyzed in this article. It has been shown that the interface between sodium potassium antimonide and cesium antimonide can result in lowering of the electron affinity to a level below the bottom of the conduction band of sodium potassium antimonide. The drift field that arises at the heterointerface enables the electrons to reach the surface, leading to the emission of almost all the photogenerated electrons within the cathode. The processes involved in photoemission from such a double-layer cathode are examined from a theoretical point of view. The spectral response of the two-layer cathode is also found to be better than that of a single-layer cathode. © 2001 American Institute of Physics. 
+
+sodium compounds
+potassium compounds
+caesium compounds
+semiconductor materials
+photoconductivity
+electron affinity
+photocathodes

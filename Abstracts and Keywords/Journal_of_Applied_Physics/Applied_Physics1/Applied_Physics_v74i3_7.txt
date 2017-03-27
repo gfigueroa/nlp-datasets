@@ -1,0 +1,14 @@
+We have performed systematical investigations of intermixing effects in In0.53Ga0.47As/InP single quantum wells induced by 30keV Ar+ion beam implantation with doses ranging from 1012 to 1014 cm2 and a subsequent rapid thermal annealing (RTA) at temperatures between 600 and 900	°C. After implantation and RTA at 600	°C we observe a significant increase of the photoluminescence emission energy of about 60 meV in comparison with unimplanted heterostructures, indicating that the intermixing is determined by implantation. For RTA above 850	°C, in contrast, the energetic shifts up to 200 meV observed for the implanted samples are similar to the shift in unimplanted samples, indicating a predominant contribution of thermal interdiffusion. The significant decrease of Ga concentration after interdiffusion is confirmed quantitatively by Raman measurements.
+
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+INDIUM PHOSPHIDES
+TERNARY ALLOYS
+QUANTUM WELLS
+ION IMPLANTATION
+PHOTOLUMINESCENCE
+ARGON IONS
+KEV RANGE 10100
+ANNEALING
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 4001000 K

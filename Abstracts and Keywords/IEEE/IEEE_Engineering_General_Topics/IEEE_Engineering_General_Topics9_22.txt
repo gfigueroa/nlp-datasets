@@ -1,0 +1,7 @@
+In this paper, we propose a novel reduced-rank algorithm for direction of arrival (DOA) estimation based on the minimum variance (MV) power spectral evaluation. It is suitable to DOA estimation with large arrays and can be applied to arbitrary array geometries. The proposed DOA estimation algorithm is formulated as a joint optimization of a subspace decomposition matrix and an auxiliary reduced-rank parameter vector with respect to the MV, and a grid search. A constrained least squares method is employed to solve this joint optimization problem for the output power over the grid. The proposed algorithm is indicated for problems of large number of users' direction finding with or without exact information of the number of sources, and does not require the singular value decomposition (SVD). The spatial smoothing (SS) technique is also employed in the proposed algorithm for dealing with the correlated sources problem. Simulations are conducted with comparisons against existent algorithms to show the improved performance of the proposed algorithm in different scenarios.
+
+Direction of arrival (DOA) estimation
+array processing
+joint iterative optimization methods
+reduced-rank methods
+subspace decompositions

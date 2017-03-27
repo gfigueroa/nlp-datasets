@@ -1,0 +1,9 @@
+We report about the band-gap tuning of PbS nanoparticles by in-flight sintering of size-classified aerosols. Band gaps in the range of 0.52.0 eV were obtained. The band gap first decreases and then increases upon increasing the sintering temperature. The decrease in the band gap is associated with the sintering of primary particles in aggregates leading to larger crystalline domains. The increase in the band gap is associated with the partial evaporation of the particles, which sets in after quasispherical and monocrystalline particles were formed by sintering. The same band gap is found for large spherical particles and aggregates of smaller primary particles, suggesting that an intimate contact between primary particles by means of sinter necks leads to a weaker quantum confinement effect than when the particles are merely touching each other. © 2002 American Institute of Physics. 
+
+lead compounds
+IV-VI semiconductors
+nanostructured materials
+energy gap
+sintering
+aerosols
+particle size

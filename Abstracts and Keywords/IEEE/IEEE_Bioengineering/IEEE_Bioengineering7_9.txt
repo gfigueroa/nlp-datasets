@@ -1,0 +1,4 @@
+Human gait is a spatio-temporal phenomenon and typifies the motion characteristics of an individual. The gait of a person is easily recognizable when extracted from a sideview of the person. Accordingly, gait-recognition algorithms work best when presented with images where the person walks parallel to the camera (i.e. the image plane).A set of stances or key frames that occur during the walk cycle of an individual is chosen. This paper presents a novel approach adopted in automatic gait recognition in which the silhouette extracted is represented using, maximal information compression index lambda which is nothing but the eigen value for the direction normal to the principle component direction of feature pair (x,y) and extracts the periodicity of the gait and are tested on the data sets and is found to be quite satisfactory in natural walk conditions.
+
+Gait Recognition
+Maximal information compression index

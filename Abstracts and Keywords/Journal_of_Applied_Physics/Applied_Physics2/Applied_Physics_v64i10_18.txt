@@ -1,0 +1,12 @@
+We report on a study of the effect of oxygen on the chemical and structural stability of compositionally modulated GdCo multilayer films. Films with bilayer periods (BP) from 10 to 300 Å were prepared by alternate deposition in a multitarget RF diode sputtering system. Oxygen incorporation in the films was controlled during deposition by the application of rf substrate bias, and after deposition by annealing. Oxygen preferentially accumulated in the Gd layer and blocked its diffusion. Co columnar grain growth in samples with large BP appears to be associated with the asymmetric diffusion between the Gd and Co layers. TEM of samples with small BP showed a void network structure in the samples sputtered with 0 V substrate bias, but showed a phase separated amorphous structure in the samples sputtered with 65 V substrate bias. Annealing suppressed the growth of crystalline Gd and Co in samples with oxygen but enhanced the nucleation of GdCo2. A strong growth of Co and Gd grains occurred in annealed samples with low oxygen content but GdCo2 was not observed. Crosssection TEM showed that the growth of these grains was limited by the layer boundaries.
+
+THIN FILMS
+GADOLINIUM
+COBALT
+DIFFUSION
+LAYERS
+XRAY DIFFRACTION
+ANNEALING
+ANISOTROPY
+MAGNETIC PROPERTIES
+OXIDATION

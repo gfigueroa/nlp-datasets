@@ -1,0 +1,10 @@
+Refractiveindex dispersion in (AlxGa1x)0.5In0.5P quaternary alloys has been measured at room temperature in the 1.22.9 eV photonenergy range by using spectroscopic ellipsometry. The measured data are fitted to the firstorder Sellmeier equation. The resulting expression can be used in the design of various waveguiding devices.
+
+GALLIUM ARSENIDES
+INDIUM PHOSPHIDES
+QUATERNARY ALLOYS
+REFRACTIVE INDEX
+DISPERSION RELATIONS
+ELLIPSOMETRY
+THIN FILMS
+CVD

@@ -1,0 +1,9 @@
+Gallium arsenide (GaAs) is one of the most important materials among the IIIV family, especially in view of its applicability to optoelectronic devices. However, it is known that GaAs, unlike silicon (Si), does not possess a stable native oxide that can passivate and protect the surface. This article reports the use of femtosecond (fs) laser-based modification and passivation of the GaAs surface, where femtosecond laser-based processing was shown to be particularly useful, effective, and more convenient compared to conventional laser treatment. The fs laser treatment involves an almost nonexistent heat affected zone, which implies that there is virtually no thermal damage to the volume of material surrounding a processed region. The surface passivating effects were confirmed by depth-profiling x-ray photoelectron spectroscopic measurements. In addition, scanning electron microscopy and atomic force microscopy measurements lead to a possible explanation of the passivation mechanism. Further, a relatively novel technique called thermally stimulated exoelectron emission was used to verify the existence of surface passivation. This measurement technique detects cold electron emission from trapping centers at the surface of material under scrutiny. © 2001 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+passivation
+laser beam effects
+ultraviolet radiation effects
+crystal microstructure
+surface structure

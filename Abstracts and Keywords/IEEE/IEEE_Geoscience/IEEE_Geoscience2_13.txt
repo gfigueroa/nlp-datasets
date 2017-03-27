@@ -1,0 +1,5 @@
+The innovation of IT has created new patterns in library service but also new challenges. The modification and improvement of the existing approaches for traditional paper-based resource management is needed. In this paper, we analyzed the library services in current Chinese universities and pointed out some problems in those services. We proposed several customer-oriented resource purchase and allocation strategies in order to improve the user satisfactory and the efficiency of the resource usage. In the proposed approaches, the user behavior information such as the number of resources, the time period the user has utilized, and the library location are considered in resource purchase and allocation decision along with the resource lending information. Possible solutions using new IT and data mining technologies for resource management are also proposed.
+
+Customer-oriented
+Library Resource Management
+Resource Recommendation

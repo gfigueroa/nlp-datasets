@@ -1,0 +1,8 @@
+In this paper, we examine an enhancement of pulsed Multiband Orthogonal Frequency Division Multiplexing (pulsed MB-OFDM) systems for Synthetic Aperture Radar (SAR) Ultra-Wide Band (UWB) applications. The pulsed MB-OFDM system offers an efficient option for fulfilling the UWB high bandwidth channel requirements. This system combines the two major implementations of UWB, namely the impulse radio and the MB-OFDM, in order to capture the advantages of low hardware complexity and low power consumption in both implementations. A modified half-rate Algebraic Time Frequency (ATF) coding will be used to achieve the proposed enhancement of the pulsed system. This enhancement will result in energy efficiency, i.e. SNR vs. SER, improvement which is particularly useful for SAR systems operating under heavy clutter. Improvements in energy efficiency are tested under different UWB channel models. Simulation results are shown to establish these improvements.
+
+Half-rate ATF
+MB-OFDM
+Pulsed MB-OFDM
+SAR
+UWB
+frequency diversity

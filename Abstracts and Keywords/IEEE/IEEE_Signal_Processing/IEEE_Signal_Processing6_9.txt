@@ -1,0 +1,7 @@
+In this work a fast, accurate and fully automated method for real time eye movement artifact rejection from the EEG is presented. The focus is on the stability of the pSVD method (presented in [9]) under noisy conditions and the increase of accuracy in source localization problems after the EEG is being processed by pSVD. The method is compared to standard component analysis techniques used in EEG processing. Results are that pSVD outperforms its competitors in almost all categories, which leads to conclude that this might be a new standard in real time EEG processing.
+
+EEG
+artifact
+eye movement
+real time
+source localization

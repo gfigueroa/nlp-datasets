@@ -1,0 +1,11 @@
+The parallel pump spin wave instability threshold field hcrit was measured as a function of static field for various size in-plane magnetized thin plates of single crystal Mn substituted Zn-Y at both 9 and 16.7 GHz. The 9 GHz data indicate that (1) the critical modes consist of standing magnetostatic waves and (2) the hcrit thresholds depend on the lateral dimensions of the sample. The minimum parallel pumping spin wave linewidths were in the range 310 Oe and increased with a decrease in the sample lateral dimensions. These data are consistent with a transit time model and a size limited spin wave linewidth for low wave number critical modes. At 16.7 GHz, thresholds and spin wave linewidths are consistent with the 17.5 GHz and 9.5 GHz ferromagnetic resonance linewidth results and are sample size independent. The data indicate that exchange dominated spin waves are excited for fields below the butterfly curve minimum. These data give a k-dependent spin wave linewidth. The minimum parallel pumping spin wave linewidths were in the range 1213 Oe. © 2002 American Institute of Physics. 
+
+zinc compounds
+barium compounds
+ferrites
+high-frequency effects
+microwave materials
+spin waves
+ferromagnetic resonance
+magnetostatic waves
+exchange interactions (electron)

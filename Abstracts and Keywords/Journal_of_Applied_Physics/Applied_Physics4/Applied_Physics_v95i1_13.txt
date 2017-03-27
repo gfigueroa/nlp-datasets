@@ -1,0 +1,10 @@
+GaAs-based heterojunction bipolar transistors (HBTs) have a relatively large turn-on voltage of approximately 1.4 V that can only be decreased by reducing the band-gap energy of the base material. For a variety of applications, particularly operation with low power supply voltage and reduced power dissipation, it would be desirable to have a smaller value of turn-on voltage. We report the performance of NpN double heterojunction bipolar transistors fabricated on a GaAs substrate with a Ga0.89In0.11N0.02As0.98 base that has a band-gap energy (Eg) of 0.98 eV; this is achieved with a nitrogen composition of 2%. These devices have a turn-on voltage VBE that is 0.4 V lower than that of their GaAs-base counterparts. The peak incremental current gain HFE is 8. The current gain of nitrogen containing HBTs is degraded due to the complex change in transport properties of carriers through the GaInNAs base region. In this article, the transport properties of GaInNAs-base HBTs are investigated by temperature-dependent dc currentvoltage characteristics, optical and high frequency small-signal electrical measurements. The characterization of these devices is important to understand the effect of nitrogen on the device performance. © 2004 American Institute of Physics. 
+
+gallium arsenide
+gallium compounds
+indium compounds
+III-V semiconductors
+heterojunction bipolar transistors
+minority carriers
+wide band gap semiconductors
+energy gap

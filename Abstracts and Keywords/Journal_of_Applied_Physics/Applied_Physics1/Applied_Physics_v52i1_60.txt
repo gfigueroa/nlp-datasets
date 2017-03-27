@@ -1,0 +1,17 @@
+A new technique for the transient excitation of conducting targets which introduces no electromagnetic interference is described. A fast risetime laser pulse with a 1.06¼m wavelength is focused to a power density exceeding approximately 4×109 W/cm2 on the surface of a conducting target. The local heating of the surface by the laser energy produces thermionic emission which is electromagnetically equivalent to a transient current monopole normal to the target surface at the irradiated spot. This localized current pulse then couples to the modal surface currents on the target. This paper descibes an experimental investigation of this technique for target excitation. The results of several independent experiments and an explanation of the large difference in excitation strengths between targets in air and in vacuum are consistent with a physical model of the excitation mechanism based on surface heating by the optical energy to produce thermionic emission.
+
+TARGETS
+EXCITATION
+LASER RADIATION
+TRANSIENTS
+RADIATION EFFECTS
+ELECTRIC CONDUCTORS
+THERMIONIC EMISSIONELECTROMAGNETIC RADIATION
+PULSE RISETIME
+FOCUSING
+POWER DENSITY
+SURFACES
+HEATING
+LASERRADIATION HEATING
+DATA
+MATHEMATICAL MODELS

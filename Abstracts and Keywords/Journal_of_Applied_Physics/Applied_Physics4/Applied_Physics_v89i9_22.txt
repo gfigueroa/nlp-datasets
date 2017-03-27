@@ -1,0 +1,13 @@
+We have studied bright electroluminescent dots on a single SiO2 layer and on Si/SiO2 layer pairs prepared by chemical-vapor deposition onto the silicon wafer substrate. The size, density, and brightness distribution of the dots and the fractal dimension of the light maps have been characterized using charge-coupled-device (CCD) camera techniques, which allow reliable quantitative analysis. We have found that the fractal dimension of the light maps depends on the structure of the first silicon dioxide layer. CCD images and atomic-force microscope and scanning tunneling microscopy analysis have been compared in order to find a spatial correlation between the dots and the surface morphology or electrical properties of the thin films, but no correspondence was found, indicating that the origin of the dots must be in the interface between the silicon substrate and the first oxide layer. We have also shown that the dots are not related to heating of the sample. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+silicon compounds
+semiconductor-insulator boundaries
+photonic band gap
+quantum dots
+electroluminescence
+CVD coatings
+scanning tunnelling microscopy
+atomic force microscopy
+surface structure

@@ -1,0 +1,12 @@
+The chemical nature of the different interfaces and possible segregation effects are studied in fully epitaxial Fe/MgO/Fe (001) oriented heterostructures fabricated by combined sputtering plus laser ablation deposition techniques. Auger electron spectroscopy depth profiling experiments showed that the interfaces of the MgO spacer with the Fe layers are different, the inner MgO/Fe being spatially broader and with an FeO interlayer, while that of the outer Fe/MgO is spatially narrower with no evidence of FeO formation. This spatial and chemical asymmetry is interpreted in terms of the different deposition procedures, which affect the formation of both interfaces. No Fe segregation in the MgO layers or MgO segregation in the Fe films is observed.
+
+iron
+magnesium compounds
+ferromagnetic materials
+magnetic epitaxial layers
+magnetic multilayers
+pulsed laser deposition
+annealing
+chemical interdiffusion
+surface segregation
+Auger electron spectra

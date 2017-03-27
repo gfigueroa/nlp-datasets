@@ -1,0 +1,9 @@
+We have studied the defects created in pmetaloxidesemiconductor capacitors by Fowler Nordheim injection. This injection has been performed either from the gate or from the substrate. We have shown that the oxide keeps no memory of the trapped holes created by an injection from the gate, once they have been neutralized. Nevertheless, we think that the corresponding traps are stress created by a mechanism similar to that which creates the slow states. The trapped hole annihilation has no influence on the number of interface states or slow states present after stress in the oxide. The increase of the interface state density with injected charge depends on whether the injection is from the gate or from the substrate. In both cases, the increase of the interface density differs from that of the trapped holes and slow states which suggests that the formation mechanisms of trapped holes and slow states are not the same as those of interface states. © 1996 American Institute of Physics. 
+
+MOS JUNCTIONS
+INTERFACE STATES
+SPACE CHARGES
+DEFECTS
+TRAPS
+INJECTION
+FOWLERNORDHEIM THEORY

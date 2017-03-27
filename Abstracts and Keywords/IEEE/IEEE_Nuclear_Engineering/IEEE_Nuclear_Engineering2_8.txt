@@ -1,0 +1,5 @@
+In hostile industrial environments where human access could be a health risk, a reliable and flexible teleoperation system is an eminent need. ITER is such an example where a dexterous teleoperation system is required for remote handling tasks in a nuclear environment. The compactness of space, high load capacity and reliability makes hydraulic manipulator an obvious choice. However, possible oil leakage from traditional hydraulic systems and the characteristics of water (fire and environmentally safe, chemically neutral, not activated, not affected by radiation) makes the use of water hydraulics the only choice. This paper describes the development of teleoperation system for ITER consisting of a water hydraulic manipulator as a slave, a commercial haptic device as a master, a human machine interface to assist the operator and a graphical system providing a virtual 3D view of the environment.
+
+Remote Handling
+Teleoperation
+Water Hydraulic

@@ -1,0 +1,11 @@
+AGFACE facilities are being used to investigate the interactive effects of CO<sub>2</sub>, temperature, water supply and nitrogen on wheat growth, yield and quality. One of the engineering goals of AGFACE was to describe the extent of spatial variation of CO<sub>2</sub> concentrations [CO<sub>2</sub>] inside AGFACE rings and factors affecting it. Monitoring has shown that [CO<sub>2</sub>] is highly variable near the ring-edge where CO<sub>2</sub> is emitted and declines non-linearly with the distance downwind of the ring-edge corroborating the findings of others. The spatial variation of [CO<sub>2</sub>] depends on ring size and the gap between ring and canopy heights but not wind speeds.
+
+AGFACE
+Australia
+CO2
+FACE
+[CO2]
+climate change
+e[CO2]
+spatial variation
+wheat

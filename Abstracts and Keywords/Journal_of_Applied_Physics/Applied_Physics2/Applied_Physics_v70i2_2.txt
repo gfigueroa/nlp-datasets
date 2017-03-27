@@ -1,0 +1,14 @@
+The expansion of the tritide TaT0.37 at 10 K was measured using strain gauge dilatometry. The volume increase as expressed by ”vHe/© = 0.26 may be attributed to a random distribution of single interstitial 3He atoms. To the knowledge of the authors this is the first direct measurement of the volume requirement of interstitial 3He in a metal. For purposes of comparison swelling of the same sample was also measured at room temperature. Here, however, 3He atoms cluster and form bubbles leading to ”vHe/© J 0.38, which represents the volume requirement of 3He in a bubble. Conversion of this value to a pressure normalized to the shear modulus ¼ yields in p/¼=0.22 which is in excellent agreement with other recent experimental and theoretical work on the pressure required for dislocation loop punching.
+
+TANTALUM COMPOUNDS
+TRITIDES
+HELIUM 3
+ATOMS
+INTERSTITIALS
+ULTRALOW TEMPERATURE
+EXPANSION
+SWELLING
+MEDIUM TEMPERATURE
+DILATOMETRY
+STRAIN GAGES
+DISLOCATIONS

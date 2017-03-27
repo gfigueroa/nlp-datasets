@@ -1,0 +1,8 @@
+The magnetization reversal mechanism of four different shaped (rectangular, elliptical, trapezoidal, and hexagonal) tunnel junction elements with area ranging from 0.04 to 12
+¼m2 has been investigated using Lorentz transmission electron microscopy. It has been found that the reversal field is influenced by element size and aspect ratio but is not strongly dependent upon the element shape. 360° domain walls were often observed to form in the elements and were sustained to a high field when the relative magnetization configuration of the free and pinned layers changed from parallel to antiparallel. The formation of 360° domain walls depends strongly on the shape and aspect ratio of the element, with a lower probability of formation in elements with either an aspect ratio of 1:1 or a hexagonal shape. © 2001 American Institute of Physics. 
+
+magnetisation reversal
+transmission electron microscopy
+tunnelling
+magnetic domain walls
+magnetic multilayers

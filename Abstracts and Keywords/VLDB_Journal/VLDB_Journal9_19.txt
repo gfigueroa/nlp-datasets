@@ -1,0 +1,7 @@
+In meta-searchers accessing distributed Web-based information repositories, performance is a major issue. Efficient query processing requires an appropriate caching mechanism. Unfortunately, standard page-based as well as tuple-based caching mechanisms designed for conventional databases are not efficient on the Web, where keyword-based querying is often the only way to retrieve data. In this work, we study the problem of semantic caching of Web queries and develop a caching mechanism for conjunctive Web queries based on signature files. Our algorithms cope with both relations of semantic containment and intersection between a query and the corresponding cache items. We also develop the cache replacement strategy to treat situations when cached items differ in size and contribution when providing partial query answers. We report results of experiments and show how the caching mechanism is realized in the Knowledge Broker system.
+
+Experiments
+Query algorithms
+Region containment
+Semantic caching
+Signature files

@@ -1,0 +1,5 @@
+A system model of a solid oxide fuel cell (SOFC) and internal combustion (IC) engine is developed. The main load on the system is shared by both the fuel cell and the IC engine. Exhausts from the fuel cell are fed into the IC Engine. The performance of the system is studied at various load conditions depending on the amount of hydrogen injected into the IC engine. The optimum range for operation of the fuel cell and IC engine is studied. Results indicate an improvement in efficiency as compared to a conventional diesel engine of similar configuration. The model gives an indication of amount of dilution required in order to prevent NO<sub>x</sub> formation and engine knocking.
+
+fuel cell
+hybrid
+internal combustion engine

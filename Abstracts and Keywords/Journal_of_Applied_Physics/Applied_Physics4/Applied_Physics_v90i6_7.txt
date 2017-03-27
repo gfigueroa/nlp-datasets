@@ -1,0 +1,12 @@
+The results of the studies on the effect of rare earth Nd doping on the phase formation behavior and electrical properties of sol-gel derived Pb1.05(Zr0.53Ti0.47)O3 (PZT) thin films are presented. The perovskite phase is obtained up to 5 at.
+% doping and beyond that pyrochlore phase was found to coexist with the perovskite phase in all the films. The transition temperature of undoped lead zirconate titanate (PZT) film was found to be reduced with Nd doping. The Nd doped films also exhibited typical relaxor-type behavior and a diffuse phase transition, similar to that observed in relaxor materials. The introduction of Nd into the PZT lattice probably introduces disorder in the B site of ABO3 lattice, which causes the observed dielectric relaxation. Efforts were made to isolate the irreversible component contributions in low field dielectric and high field polarization switching behavior. © 2001 American Institute of Physics. 
+
+lead compounds
+neodymium
+sol-gel processing
+piezoelectric thin films
+ferroelectric thin films
+ferroelectric switching
+ferroelectric transitions
+dielectric relaxation
+dielectric polarisation

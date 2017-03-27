@@ -1,0 +1,7 @@
+The requirement of the presence of a liquid for the widely accepted vapor-liquid-solid (VLS) mechanism suggests that nanowire growth should be carried out at temperatures above the catalyst-nanowire eutectic melting point. In this paper, we examine the nanowire growth at the deep subeutectic temperatures often employed for germanium nanowire growth with Au catalyst nanoparticles. The effects of germane partial pressure on the low temperature limit for Au-catalyzed Ge nanowire growth by chemical vapor deposition from GeH4(g) were studied thoroughly, both with and without initial heating above the bulk eutectic temperature. A model to explain the temperature and pressure limits of subeutectic VLS nanowire growth was developed. The interdependence of the pressure and temperature required for good quality germanium nanowire growth may also apply in other cases of nanowire growth, beyond the AuGe system.
+
+chemical vapour deposition
+germanium compounds
+melting point
+nanoparticles
+semiconductor growth

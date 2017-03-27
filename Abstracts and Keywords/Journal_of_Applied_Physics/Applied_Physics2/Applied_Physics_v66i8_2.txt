@@ -1,0 +1,9 @@
+The fabrication of GaSb infraredsensitive photovoltaic cells designed to boost the energyconversion efficiency in tandem solar cell stacks is reported. Located behind GaAs solarcells in 50× concentrated light configurations, these GaSb cells will boost the stack efficiency by 6.5 percentage points for space (AM0) and 7.0 percentage points for terrestrial (AM1.5D) applications. Assuming a GaAs cell efficiency of 26.7% (AM1.5D, 50×) as recently reported, the GaAs on GaSb stack efficiency will be 33.7%. Reduced series resistance in future GaSb cells will allow tandemstack energyconversion efficiencies over 35%.
+
+GALLIUM ANTIMONIDES
+PHOTOVOLTAIC CELLS
+FABRICATION
+SOLAR CELLS
+INFRARED RADIATION
+ENERGY CONVERSION
+EFFICIENCY

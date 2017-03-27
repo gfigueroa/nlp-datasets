@@ -1,0 +1,8 @@
+Tracer correlation factors have been calculated by simulating the diffusion of atoms and defects on a computer using a Monte Carlo technique. The correlated motion of the atomic species by a vacancy mechanism have been investigated for a binary random alloy with fcc structure. The tracer correlation factors for the atoms, fA and fB, and for the vacancies, fV, are calculated as functions of the jump frequencies, and the mixing ratio of A and B atoms for vacancy concentrations of cV = 0.001 and 0.1. The results are compared with theories and Monte Carlo simulations from the literature. Substantial discrepancies with previous Monte Carlo studies are observed. It is concluded that the correlation factors given in the literature are systematically too high because the jump sequences in those calculations were too short.
+
+BINARY ALLOYS
+ATOM TRANSPORT
+BINARY ALLOY SYSTEMS
+MONTE CARLO METHOD
+COMPUTERIZED SIMULATION
+CORRELATION FUNCTIONS

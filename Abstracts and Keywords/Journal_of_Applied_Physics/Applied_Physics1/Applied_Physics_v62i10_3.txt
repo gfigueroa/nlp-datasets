@@ -1,0 +1,9 @@
+We observe atomic scale differences in the response of thin and thick oxides subjected to high electric fields. In stressed thick oxides, we observe the generation of a trivalent silicon trapped hole center, termed E2; in stressed thin oxides no E2 centers were detected. We believe that our results indicate the absence of impact ionization in stressed thin oxides.
+
+SILICA
+TRAPPING
+IONIZATION
+THIN FILMS
+ELECTRIC FIELD EFFECTS
+SILICON
+MOS JUNCTIONS

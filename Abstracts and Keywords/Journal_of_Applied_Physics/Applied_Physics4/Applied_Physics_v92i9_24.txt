@@ -1,0 +1,11 @@
+We have developed a high resolution technique for examining minority carrier emission from defect states in semiconductors called Laplace minority carrier transient spectroscopy (LMCTS). The experiment uses the same analytical approach to the capacitance transient as Laplace deep level transient spectroscopy (LDLTS), but minority carriers are injected into the depletion region by application of a suitable light pulse. The combination of LDLTS and LMCTS means that detailed emission properties of closely spaced majority and minority carrier traps across the whole band gap can be now characterized. The technique has been used to study minority carrier traps in gas source molecular beam epitaxy-grown Si/Si0.86Ge0.14 strained quantum wells. Initially the technique was evaluated by comparing LMCTS of a hole trap associated with the goldhydrogen complex in n-type silicon with LDLTS of the same trap in p-type silicon. Both techniques confirm that this level consists of two states, as previously suggested in the literature. LMCTS was then applied to an n-type multiquantum well Si/SiGe layer. We have been able to measure directly the emission rate of holes out of SiGe quantum wells using LMCTS. The emission rate exhibited only slight temperature dependence, in strong contrast to that of holes which are thermally emitted from isolated point defects. We show that in the particular case of LMCTS, a temperature invariant emission rate out of quantum wells is to be expected, and this is consistent with theoretical predictions. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+Ge-Si alloys
+semiconductor materials
+semiconductor quantum wells
+defect states
+deep level transient spectroscopy
+internal stresses
+hole traps

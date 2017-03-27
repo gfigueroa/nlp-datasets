@@ -1,0 +1,10 @@
+Among the various techniques that have been investigated to produce Hydroxyapatite (HA) coatings in order to promote fixation and osteointegration of cementless prosthesis, the plasma spray (PS) technique is the most popular method commercially in use. PS presents some disadvantages such as the poor coating-to-substrate adhesion, low mechanical strength, and brittleness of the coating. In order to overcome the drawbacks of plasma spraying, an approach on how to bind HA to the Ti alloy will be introduced in this work, using a well-known technique in the metallurgical field: laser surface cladding. Different techniques were applied to characterize the coated samples, including x-ray diffraction, scanning electron microscopy, and energy dispersive x-ray analysis. © 2001 American Institute of Physics. 
+
+calcium compounds
+artificial limbs
+cladding techniques
+laser deposition
+X-ray diffraction
+scanning electron microscopy
+X-ray chemical analysis
+wear resistant coatings

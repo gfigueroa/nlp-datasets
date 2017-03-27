@@ -1,0 +1,8 @@
+The nuclearmagneticresonance (NMR) technique is employed to liquidcrystaldispersedpolymer (LCDP) systems. Deuterium NMR is used to determine director distributions in LCDP cells in the presence of a magnetic field. The samples consist of a nematic liquid crystal mixed with small percentages of a monomer that is polymerized under different conditions after dissolving it in the liquid crystal. NMR spectra of the deuterated liquidcrystal molecules give information on orientation and order in such systems. The orientation of the polymer skeleton formed during the polymerization is found to be stable. It determines the orientation of the nematic director even in the presence of a strong external magnetic field. Simple models for the director field are presented.
+
+NEMATIC CRYSTALS
+NUCLEAR MAGNETIC RESONANCE
+POLYMERS
+MAGNETIC FIELD EFFECTS
+CRYSTAL STRUCTURE
+POLYMERIZATION

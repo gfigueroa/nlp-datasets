@@ -1,0 +1,7 @@
+Nowadays, electronic system level (ESL) design has attracted more and more attentions as it could help designers in SoC architecture design and HW/SW co-verification in early design stage hence reducing time-to-market. In this paper we propose a transaction level modeling (TLM) method for architecture design space exploration in ESL design environment. This method offers a modeling and simulation speedup and still provides relatively accurate performance evaluation. As a case study the proposed method has been used to model 32-bit C*CORE CPU and C*Core Local Bus (CLB). In these models a multi-clock triggered wrapper is proposed to meet the cycle accurate requirement,and an index method is used for variable-length opcode decoding. In order to verify the effectiveness of our work, we have built a SoC in ESL design environment. Simulation results show that our method enables efficient and accurate design evaluation in early design phase.
+
+C*CORE
+CLB
+ESL
+TLM
+VCI

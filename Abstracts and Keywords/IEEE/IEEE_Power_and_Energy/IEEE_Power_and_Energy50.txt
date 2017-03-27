@@ -1,0 +1,8 @@
+In this paper we present and to an extent analyze, findings from a real installation of broadband over power lines done by the Greek Public Power Corporation in the region of Larissa. The findings indicate the correlation between faulty equipment on the power networks and the signal-to-noise ratio of the power-line signal induced thus showing the possibility of developing a new method of fault recognition in power networks.
+
+Bit rate
+PLC
+broadband over power lines (BPL)
+fault recognition
+signal-to-noise ratio (SNR)
+throughput

@@ -1,0 +1,13 @@
+An overview is provided of recent efforts to explore magnetic and related structural issues for ultrathin Fe films grown epitaxially as wedge structures onto Ag(100) and Cu(100). Experiments were carried out utilizing the surface magnetooptic Kerr effect. Ordinary bcc Fe is lattice matched to the primitive unit cell of the Ag(100) surface. Fe wedges on Ag(100) can be fabricated whose thick end has inplane magnetic easy axes due to the shape anisotropy, and whose thin end has perpendicular easy axes due to the surface magnetic anisotropy. A spinreorientation transition can thus be studied in the center of the wedge where the competing anisotropies cancel. The goal is to test the MerminWagner theorem which states that longrange order is lost at finite temperatures in an isotropic twodimensional Heisenberg system. Fe wedges on Cu(100) can be studied in like manner, but the lattice matching permits fcc and tetragonally distorted fcc phases to provide structural complexity in addition to the interplay of competing magnetic anisotropies. The results of these studies are new phase identifications that help both to put previous work into perspective and to define issues to pursue in the future.
+
+LONGRANGE ORDER
+IRON
+THIN FILMS
+SILVER
+COPPER
+FCC LATTICES
+CRYSTAL STRUCTURE
+MAGNETIC PROPERTIES
+PHASE STUDIES
+BCC LATTICES
+INSTABILITY

@@ -1,0 +1,10 @@
+The impedance of a test coil was measured as a function of the dc current of an electromagnet, and the determination method of magnetization level with the normalized impedance diagram is discussed. An eddy current test for the outer side of a steel tube wall was also performed. Test results show that the impedance change of the test coil is brought about by the eddy current perturbation and the change of magnetization level. These effects on the flaw inspection are also analyzed.
+
+STEELS
+ELECTROMAGNETS
+EDDY CURRENTS
+ELECTRIC IMPEDANCE
+MAGNETIZATION
+INSPECTION
+MATERIALS TESTING
+TUBES

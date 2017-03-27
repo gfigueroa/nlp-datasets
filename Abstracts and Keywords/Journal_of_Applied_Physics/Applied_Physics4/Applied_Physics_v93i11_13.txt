@@ -1,0 +1,11 @@
+Ion irradiation reduces the resistance of semi-insulating platinum oxide thin films by several orders of magnitude. The influence of ion dose and ion energy on the change in sheet resistance has been investigated. Ion sputtering and volume reduction, which is caused by oxygen expulsion, have been measured using an atomic force microscope. For information about film composition and thickness Rutherford backscattering analysis has been carried out. The experimental results can be understood by a simple model of the ion irradiation effects in noble metal oxide films. © 2003 American Institute of Physics. 
+
+platinum compounds
+ion beam effects
+semiconductor materials
+semiconductor thin films
+electric resistance
+ion-surface impact
+sputtering
+atomic force microscopy
+Rutherford backscattering

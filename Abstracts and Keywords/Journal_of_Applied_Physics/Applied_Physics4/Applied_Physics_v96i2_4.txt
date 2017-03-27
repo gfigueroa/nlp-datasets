@@ -1,0 +1,7 @@
+This article presents a front panel structure for an alternating current plasma display panel (AC-PDP) based on a ridged transparent dielectric layer and long hollow gap between the sustain electrodes. The suggested structure can reduce a firing voltage and sustain voltage than a conventional AC-PDP due to a strong electric field between the sustain electrodes. Experiments were conducted with various Xe contents from 10% to 50% at a gas pressure of 450 Torr, and the results confirmed that the ridged dielectric structure reduce the firing and sustain voltages by about 74 and 79 V at 10% Xe content than a conventional structure with 10% Xe content, respectively. Also, the proposed structure improve the luminous efficiency and luminance by about 50.9% and 33%, respectively, with a 50% Xe content when compared to a conventional structure with a 10% Xe content at a similar driving voltage. © 2004 American Institute of Physics. 
+
+plasma displays
+electric field effects
+brightness
+dielectric thin films
+electrodes

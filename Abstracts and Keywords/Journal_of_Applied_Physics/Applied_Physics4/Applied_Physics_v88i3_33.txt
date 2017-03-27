@@ -1,0 +1,10 @@
+Photoluminescence measurements have been made on float-zone and Czochralski-grown silicon samples which were doped with erbium by ion implantation. The characteristic luminescence spectra in the wavelength range between 1.5 and 1.6 ¼m were observed. Differences in the multiple line structure of the spectra indicated that the active luminescent centers have different symmetries and atomic structure. The dependence of the photoluminescence intensity on the laser excitation power and on the temperature was measured. Results are discussed on the basis of a physical model which includes the formation of free excitons, the binding of excitons to erbium ions, the excitation of 4f inner-shell electrons of the erbium ions, and their subsequent decay by light emission. To obtain a quantitative agreement between model analysis and experimental data the consideration of Auger processes by which erbium-bound excitons and erbium ions in excited state can decay by dissipating energy to conduction band electrons appears to be required. From the temperature dependence two activation energies are derived which are associated with the exciton binding energies and with an energy transfer process from excited erbium ions back to erbium-bound excitons, respectively. A good quantitative agreement can be obtained for suitable values of the model parameters. The luminescent properties of the samples of the different types of crystalline silicon are remarkably similar. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+erbium
+impurity states
+photoluminescence
+excitons
+spectral line intensity
+excited states

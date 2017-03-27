@@ -1,0 +1,5 @@
+A novel type of mechanically robust synchronous reluctance rotor structure is proposed for medium speed synchronous reluctance machines. A machine utilizing the construction is built, tested, and compared to another machine with the common synchronous reluctance rotor structure. The machine is also simulated using the finite element method and the results are compared to the tested values. The obtained results demonstrate the feasibility of the construction.
+
+Electromagnetic analysis
+synchronous machines
+variable-speed drives

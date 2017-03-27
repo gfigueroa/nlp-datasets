@@ -1,0 +1,13 @@
+The switching kinetics in epitaxial (001)-, (110)-, and (111)-oriented BiFeO3 thin films were investigated as a function of applied field and time. It was found that the ferroelectric switching behavior obeys the KolmogorovAvramiIshibashi theory only in the high field range. The detailed behavior depends on the film orientation. A comparison with standard systems, such as epitaxial Pb(Zr0.2Ti0.8)O3 films, reveals some similarities as well as some differences. For instance, the presence of 109° and 71° ferroelastic domain walls might be ruled out as the source of the decrease in switched polarization at low applied fields, in contrast to what is the case for a/c domain walls in tetragonal Pb(Zr0.2Ti0.8)O3.
+
+bismuth compounds
+dielectric polarisation
+electric domain walls
+epitaxial layers
+ferrites
+ferroelasticity
+ferroelectric materials
+ferroelectric switching
+ferroelectric thin films
+magnetic thin films
+multiferroics

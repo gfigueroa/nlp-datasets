@@ -1,0 +1,14 @@
+The role of moisture in hydrophilic wafer bonding was modeled using molecular dynamics computer simulations of interface formation between amorphous silica surfaces. Three different surface treatments were used in order to determine the effect of moisture on the formation of siloxane (SiOSi) bridges across the interface at two temperatures. The three surface conditions that were studied were: (a) wet interfaces containing 1 monolayer of water adsorbed at the interface (based on the room temperature bulk density of water), (b) hydroxylated interfaces with concentrations of 35 silanols/nm2 on each surface and no excess water molecules initially in the system, and (c) pristine interfaces that had only Si and O and no water or H present. The surfaces were slowly brought together and siloxane bond formation was monitored. In the pristine interfaces, siloxane bridges formed across the interface by the coalescence of various defect species in each surface. A bimodal distribution of siloxane bond angles formed during the first 2.5 Å of approach after the first siloxane bond was formed. These bond angles were much lower than and higher than the bulk average, indicating the formation of less stable bonds. The hydroxylated (with no excess water) and wet surfaces showed a more uniform distribution of siloxane bond angles, with no highly reactive small bond angles forming. The presence of water molecules enhanced H-bond formation across the interface, but trapped water molecules inhibited formation of the strong siloxane bridges across the interface. In real systems, high temperatures are required to remove this trapped moisture. © 2001 American Institute of Physics.
+
+wafer bonding
+surface treatment
+silicon compounds
+amorphous state
+molecular dynamics method
+adsorbed layers
+water
+monolayers
+moisture
+hydrogen bonds
+adhesion
+bond angles

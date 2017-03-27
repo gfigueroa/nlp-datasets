@@ -1,0 +1,7 @@
+Nuclear energy has become a major energy source to worldwide, even though we are still debating the environmental and safety aspects. In order to cope with that safety issues related to the nuclear power plants, the uncertain human factors needs to be minimized by automating the inspection and maintenance work done by human workers. The demands of a robotic system in the nuclear industry have been growing to ensure the safety of nuclear facilities, to detect early an unusual condition of it through an inspection, to protect the human workers from an irradiation, and to maintain it efficiently.
+
+Maintenance
+Manipulator
+Mobile
+Nuclear Power Plant
+Robotics

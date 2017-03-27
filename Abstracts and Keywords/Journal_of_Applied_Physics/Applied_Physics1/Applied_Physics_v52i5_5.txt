@@ -1,0 +1,12 @@
+It is shown that, unlike in crystalline semiconductors, the photoconductivity in polycrystalline semiconductors can be principally a majority carrier phenomenon. This occurs when the majority carrier dark current is limited by transport across the grain boundaries, and the only effect of the minority carriers is in the modification, by the optical illumination, of the barrier height at these boundaries, through ShockleyReadHall capture/emission processes. The photoconductivity is predicted to be proportional to Gphd2, where Gph is the (uniform) photogeneration rate and d is the (cubic) grain size, over a considerable range of d.
+
+SEMICONDUCTOR MATERIALS
+PHOTOCONDUCTIVITY
+POLYCRYSTALS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+CHARGE CARRIERS
+CARRIER DENSITY
+GRAIN BOUNDARIES
+POTENTIALS
+GRAIN SIZE

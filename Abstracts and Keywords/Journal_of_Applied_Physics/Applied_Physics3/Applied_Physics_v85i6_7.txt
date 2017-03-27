@@ -1,0 +1,8 @@
+Various hydrogenated amorphous carbon films have been analyzed by 13C and 1H nuclear magnetic resonance (NMR) spectroscopies. The films have been deposited from acetylene or cyclohexane by dc plasma enhanced chemical vapor deposition, at various dc biases and gas pressures. The total hydrogen content has been measured by forward recoil elastic scattering (FRES). 13C NMR investigations have been performed in various configurations: high power decoupled to determine the sp2:sp3 carbon ratio, cross polarized at magic angle contact spinning with different contact times to provide information on carbon atoms directly bound to hydrogen, and with dipolar dephasing to study the quaternary carbon atoms. By performing the 13C and 1H NMR measurements on the same samples, it was possible to resolve for the first time the seven different forms of unprotonated and protonated CHx carbon, for both sp2(x = 0,1,2) and sp3(x = 0,1,2,3) carbon hybridizations, as well as the ratio between bound and unbound hydrogen. The results are discussed and compared with previously published FRES and Fourier transform infrared (FTIR) data. It is shown that NMR and FTIR combined with FRES do not agree systematically on the ratio of bound/unbound hydrogen. © 1999 American Institute of Physics.
+
+nuclear magnetic resonance
+proton magnetic resonance
+amorphous state
+carbon
+hydrogen
+plasma CVD coatings

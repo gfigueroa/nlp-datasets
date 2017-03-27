@@ -1,0 +1,11 @@
+Substitution of As atoms by P ones during the growth of GaAs/Ga0.51In0.49P quantum wells (QWs) is investigated by photoluminescence (PL) as a function of temperature and under hydrostatic pressure. We have studied a series of samples, grown by chemical beam epitaxy, in which this substitution is achieved by changing the exposure time of GaAs surface to cracked PH3. The emision lines related to the QWs are blueshifted when the time of exposure to PH3 increases; this is due to the formation of Ga(As,P) monolayers by PAs exchange. Two samples are examined by PL under hydrostatic pressure at 5 K. The “X crossover, which corresponds to the transfer of electrons from the “ conduction band states of the QWs to X valley states of the Ga(As,P) interfacial layers occurs at 3.2 GPa for the sample grown with the shortest exposure time (5 s). In contrast, it occurs at 2.4 GPa for the the sample with the longest exposure time (35 s). The data obtained by PL under pressure give evidence of the formation of a GaP-rich layer up to 2 monolayers thick at the Ga0.51In0.49P on GaAs interface. Calculations allow us to estimate the modifications of the P concentration profile among the samples. © 2001 American Institute of Physics.
+
+gallium arsenide
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+surface diffusion
+interface states
+conduction bands
+photoluminescence

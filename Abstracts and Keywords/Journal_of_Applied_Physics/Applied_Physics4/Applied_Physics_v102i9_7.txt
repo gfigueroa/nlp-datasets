@@ -1,0 +1,7 @@
+Traditionally, since the discovery of the Josephson effect in 1962, the magnetic diffraction pattern of planar Josephson tunnel junctions has been recorded with the field applied in the plane of the junction. Here we discuss the static junction properties in a transverse magnetic field where demagnetization effects imposed by the tunnel barrier and electrodes geometry are important. Measurements of the junction critical current versus magnetic field in planar Nb-based high-quality junctions with different geometry, size, and critical current density show that it is advantageous to use a transverse magnetic field rather than an in-plane field. The conditions under which this occurs are discussed.
+
+critical current density (superconductivity)
+demagnetisation
+Josephson effect
+niobium
+superconducting thin films

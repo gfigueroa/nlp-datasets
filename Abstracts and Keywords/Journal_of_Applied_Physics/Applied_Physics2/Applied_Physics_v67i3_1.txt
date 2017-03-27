@@ -1,0 +1,12 @@
+We present the growth and optical properties of Pb1xEuxTe films (0&lt;x&lt;0.55) prepared by a coevaporation technique onto BaF2 (111) substrates. They crystallize in a NaCltype structure. The lattice parameter increases as x increases but not in accordance with Vegards law. The optical band gap increases with increasing x values. Our data seem to indicate the stability of Eu2+ for 0&lt;x&lt;0.55.
+
+LEAD TELLURIDES
+EUROPIUM TELLURIDES
+FILMS
+VAPOR DEPOSITED COATINGS
+GROWTH
+OPTICAL PROPERTIES
+BARIUM FLUORIDES
+SUBSTRATES
+LATTICE PARAMETERS
+XRAY DIFFRACTION

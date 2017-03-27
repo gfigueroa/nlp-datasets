@@ -1,0 +1,12 @@
+Nanocrystalline Nd0.5Sr0.5MnO3 of average particle size 30 and 55 nm are prepared by the sol-gel technique. Transport, magnetotransport, magnetization, specific heat, and current-voltage characteristics studies have been performed on the samples. Our experimental results indicate that the ferromagnetic transition temperatures of the nanocrystalline samples decrease in comparison with the bulk form of the sample. However, the ferromagnetic to charge ordered antiferromagnetic transition does not occur down to 2 K. The properties of the nanoparticles are discussed in detail which will provide a deeper insight into the physics of charge ordering and related phenomena in the rare-earth based manganites especially in their nanocrystalline form.
+
+ferromagnetic materials
+ferromagnetic-antiferromagnetic transitions
+galvanomagnetic effects
+magnetisation
+nanoparticles
+neodymium compounds
+particle size
+sol-gel processing
+specific heat
+strontium compounds

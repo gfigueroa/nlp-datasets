@@ -1,0 +1,11 @@
+A mm wave amplifier experiment on a free electron laser was performed using an intense, mildly relativistic electron beam (0.70.9 MeV) with a combination of a focusing planar wiggler and a weak additional axial magnetic field in the socalled group 1 region. A beam transport ratio of over 80%, through the whole wiggler length, was realized. In an amplification experiment, a spatial growth rate of 56 dB/m was obtained at a frequency of 45 GHz, and a power saturation was observed at a level of 6 MW, where the total gain was estimated to be 52 dB. It was shown that the offaxis component of the beam contributes considerably to the rf amplification in the focusing wiggler.
+
+FREE ELECTRON LASERS
+AMPLIFICATION
+MILLIMETER WAVE RADIATION
+PERFORMANCE
+ELECTRON BEAMS
+RELATIVISTIC RANGE
+WIGGLER MAGNETS
+BEAM TRANSPORT
+GHZ RANGE 01100

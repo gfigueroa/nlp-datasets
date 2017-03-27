@@ -1,0 +1,7 @@
+XML is rapidly becoming one of the most widely adopted technologies for information exchange and representation. As the use of XML becomes more widespread, we foresee the development of active XML rules, i.e., rules explicitly designed for the management of XML information. In particular, we argue that active rules for XML offer a natural paradigm for the rapid development of innovative e-services. In the paper, we show how active rules can be specified in the context of XSLT, a pattern-based language for publishing XML documents (promoted by the W3C) which is receiving strong commercial support, and Lorel, a query language for XML documents that is quite popular in the research world. We demonstrate, through simple examples of active rules for XSLT and Lorel, that active rules can be effective for the implementation of e-commerce services. We also discuss the various issues that need to be considered in adapting the notion of relational triggers to the XML context.
+
+Active databases
+Document management
+Query languages for XML
+XML
+XSLT

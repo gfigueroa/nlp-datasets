@@ -1,0 +1,21 @@
+Charge transport properties of epitaxial indium phosphide films deposited on semiinsulating singlecrystal InP:Fe substrates by metalorganic chemical vapor deposition were investigated by means of Hall effect and resistivity measurements made over a range of temperature from <420	°K down to liquidnitrogen temperature. The activation energies characteristic of both undoped and acceptordoped films were found from the variation of carrier concentration in the films with sample temperature. For undoped ntype InP films grown on InP:Fe substrates of the three orientations (100), (111A), and (111B) very small activation energies, ranging from 0.006 to 0.009 eV, were found, although some evidence of deeper levels was also obtained. Zndoped and Cddoped InP films were also characterized. The activation energy of Zn in ptype InP was 0.023 eV for (100) and (111B)oriented films, and Cd energies were 0.049 eV for (100)oriented films and 0.067 eV for (111A)oriented films.
+
+FILMS
+INDIUM PHOSPHIDES
+ELECTRICAL PROPERTIES
+CHEMICAL VAPOR DEPOSITION
+EPITAXY
+MONOCRYSTALS
+IRON
+DOPED MATERIALS
+SUBSTRATES
+HALL EFFECT
+ELECTRIC CONDUCTIVITY
+HIGH TEMPERATURE
+MEDIUM TEMPERATURE
+LOW TEMPERATURE
+ACTIVATION ENERGY
+DATA
+CARRIER DENSITY
+NTYPE CONDUCTORS
+ORIENTATION

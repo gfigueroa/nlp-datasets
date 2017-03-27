@@ -1,0 +1,11 @@
+The electron and hole trapping and detrapping properties of three types of rhodium centers were determined by electron spin resonance in Rh3+-doped AgCl microcrystals. Three paramagnetic Rh2+ centers were identified after ultraviolet irradiation: RhCl64, and the singly or doubly aquated RhCl5(H2O)3 and RhCl4(H2O)22. All three defects have a 4d7 orbital ground state in a strong (distorted) octahedral field. The RhCl64, RhCl5(H2O)3, and RhCl4(H2O)22 centers act as deep electron traps (lifetime at 300 K greater than 50 min) and as recombination centers. These properties of the rhodium centers are consistent with photographic experiments. © 1998 American Institute of Physics. 
+
+silver compounds
+rhodium
+paramagnetic resonance
+electron traps
+hole traps
+impurity states
+defect states
+deep levels
+radiation effects

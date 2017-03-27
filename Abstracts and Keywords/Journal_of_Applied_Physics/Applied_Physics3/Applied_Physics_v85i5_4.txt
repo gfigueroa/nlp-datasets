@@ -1,0 +1,12 @@
+The microluminescence surface scan technique has been used to investigate ambipolar carrier diffusion, photon diffusion, and photocarrier recombination in a nominally undoped InGaAs bulk layer lattice matched to InP grown by vapor levitation epitaxy. Measurements taken at different temperatures between 75 and 300 K are discussed in terms of the relative contribution of the two distinct mechanisms to the spectrally integrated luminescence intensity, namely, photon diffusion and photocarrier diffusion. © 1999 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor heterojunctions
+semiconductor epitaxial layers
+carrier lifetime
+electron-hole recombination
+luminescence
+photoelectricity
+spectral line intensity

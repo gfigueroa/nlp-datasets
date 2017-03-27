@@ -1,0 +1,10 @@
+Mtype strontium ferrite films were prepared by radiofrequency (rf) sputtering on fused quartz substrates using different deposition conditions and were subjected to two different types of annealing treatments. The study showed that in addition to the deposition conditions such as rf power, oxygen to argon ratio in the sputtering gas, and target to substrate distance, the postdeposition annealing conditions also play an important role in determining the texture and properties of the films. The films with random orientation or with preferred caxis orientation either normal to the film plane or in the film plane could be deposited depending on the process parameters chosen. The study carried out by depositing these films on different substrates such as Si(100), Si(111), sapphire(110), and Gd3Ga5O12(111) showed that though the nature of the substrates plays a role in determining the texture and properties of the films, such effects are less dominant in comparison to the effect of deposition and annealing conditions in the case of strontium ferrite films. © 1996 American Institute of Physics. 
+
+FERRITES
+FILM GROWTH
+SPUTTERING
+STRONTIUM COMPOUNDS
+ANNEALING
+DEPOSITION
+TEXTURE
+SUBSTRATES

@@ -1,0 +1,6 @@
+Similarity search operations require executing expensive algorithms, and although broadly useful in many new applications, they rely on specific structures not yet supported by commercial DBMS. In this paper we discuss the new Omni-technique, which allows to build a variety of dynamic Metric Access Methods based on a number of selected objects from the dataset, used as global reference objects. We call them as the Omni-family of metric access methods. This technique enables building similarity search operations on top of existing structures, significantly improving their performance, regarding the number of disk access and distance calculations. Additionally, our methods scale up well, exhibiting sub-linear behavior with growing database size.
+
+Index structures
+Metric access methods
+Multimedia databases
+Similarity search

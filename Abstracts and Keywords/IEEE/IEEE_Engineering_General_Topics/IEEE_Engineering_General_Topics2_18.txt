@@ -1,0 +1,6 @@
+As a kind of powerful anti-counterfeiting device, diffractive optically variable image (DOVI) has been developed and widely used in information security field. However, the identification of DOVI today by bare eyes is not reliable. In this paper we investigate the recognition of DOVI with machine learning method, and five kinds of algorithms, namely quadratic discriminate analysis (QDA), linear discriminate analysis (LDA), regularized discriminate analysis (RDA), leave-one-out covariance matrix estimate (LOOC), and Kullback-Leibler information measure based method (KLIM) are applied to the recognition of DOVI. Considering both time cost and correct classification rate, KLIM classifier exceeds others.
+
+Diffractive optically variable image
+Discriminant analysis
+Pattern recognition
+Regularization

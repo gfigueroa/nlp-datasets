@@ -1,0 +1,21 @@
+The xray induced visible luminescence of SrTiO3 has been studied in the range 15300	°K. An apparently singleemission band at 500 nm has been observed whose efficiency abruptly decreases at <30	°K. This luminescence band is proposed to be intrinsic and associated with the decay of a relaxed Ti+3O53 exciton. After 15	°K irradiation, a visible absorption spectrum which increases towards the infrared is produced and anneals out at <30	°K. It is suggested that the absorption is due to electron transition from a Ti+3 center to the conduction band, in accordance with recent ultraviolet photoemission spectroscopy data. The thermoluminescence spectrum after 15	°K irradiation has also been determined. The first glow peak at 30	°K appears to correlate well with the thermal decay of the irradiationinduced absorption.
+
+strontium titanates
+physical radiation effects
+x radiation
+experimental data
+very low temperature
+low temperature
+temperature dependence
+visible radiation
+luminescence
+mathematical models
+excitation
+irradiation
+absorption
+spectra
+infrared radiation
+energylevel density
+ultraviolet radiation
+photoemission
+thermoluminescence

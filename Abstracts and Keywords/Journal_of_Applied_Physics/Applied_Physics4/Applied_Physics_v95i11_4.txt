@@ -1,0 +1,9 @@
+The high-frequency response of amorphous CoZrTa thin films was measured by using a pulsed inductive microwave magnetometer. The anisotropy of the magnetic films was varied by magnetic field annealing. Static anisotropy field values ranging from Hk=100 to 1920 A/m were obtained. The dynamically determined anisotropy field is shifted to higher values compared to the static anisotropy by an additional isotropic internal field Hadd. This internal field is independent of the strength of the static anisotropy field. We determined a value of about Hadd=510	A/m. © 2004 American Institute of Physics. 
+
+cobalt alloys
+zirconium alloys
+tantalum alloys
+amorphous magnetic materials
+magnetic anisotropy
+magnetic thin films
+magnetic annealing

@@ -1,0 +1,11 @@
+H atoms, O atoms, and OH radicals were identified in the catalytic decomposition of H2/O2 mixtures on heated polycrystalline tungsten surfaces. In order to suppress the oxidization of the tungsten catalyzer surfaces, the H2/O2 pressure ratio was kept more than 83, while the catalyzer temperature was kept below 2000K. The absolute density of H atoms was determined by a vacuum-ultraviolet laser absorption technique, while one-photon and two-photon laser-induced fluorescence techniques were employed to extend the dynamic range. Since the O-atom density was much smaller, only a vacuum-ultraviolet laser-induced fluorescence technique could be used for the detection. The absolute density could be estimated by comparing the induced fluorescence intensity with that for H atoms. OH radicals could be identified by a laser-induced fluorescence technique in the ultraviolet region. The absolute density was determined by comparing the induced fluorescence intensity with that of Rayleigh scattering caused by Ar. The H-atom density decreased with the increase in the O2 partial pressure stepwisely. The O-atom density increased with the O2 partial pressure monotonously, but the increase was rather slow at low O2 pressures. The OH-radical density showed saturation against the O2 partial pressure. These results can be explained by the change in the coverage conditions of the catalyzer surfaces.
+
+catalysis
+fluorescence
+free radical reactions
+hydrogen
+oxidation
+oxygen
+reduction (chemical)
+surface chemistry
+ultraviolet spectra

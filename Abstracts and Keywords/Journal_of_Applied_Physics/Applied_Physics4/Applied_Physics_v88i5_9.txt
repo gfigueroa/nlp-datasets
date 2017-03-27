@@ -1,0 +1,13 @@
+The magneto-optical Kerr response of metallic magnetic multilayers has been studied by determining the dielectric tensors (dielectric functions) for individual layers, including the magnetic and nonmagnetic interfacial layers. The diagonal components of these tensors were determined using in situ ellipsometric analysis, where the ellipsometric data were taken in real time during multilayer deposition. The off-diagonal components were determined by regression fitting magneto-optic polar Kerr rotation and ellipticity data to models supported by electromagnetic theory. The Voigt parameters (ratio between off-diagonal and diagonal components of dielectric tensors) were determined from these model fits. Higher magnitudes for the Voigt parameters were found at interfaces, corresponding with stronger Kerr responses observed in those materials. Five different magnetic multilayer systems were studied, including Pt/Co, Pd/Co, Au/Co, Cu/Co, and Pt/Fe multilayer structures. The Voigt parameters for the magnetic layers and magneticnonmagnetic interfaces in all five structures were determined, and in turn the dielectric tensors for the respective layers were also determined. © 2000 American Institute of Physics. 
+
+magnetic multilayers
+dielectric function
+Kerr magneto-optical effect
+ellipsometry
+metallic superlattices
+platinum
+cobalt
+palladium
+gold
+copper
+iron

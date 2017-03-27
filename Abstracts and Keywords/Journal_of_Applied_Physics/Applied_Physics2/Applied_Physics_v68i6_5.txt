@@ -1,0 +1,8 @@
+Seven fibers of different crosssectional shape are studied interferometrically using multiplebeam Fizeau fringes. These fibers are of circular, rectangular, triangular, trilobal, elliptical, kidney, and dogbone crosssectional shapes. The areas enclosed under the interference fringe shift is considered to represent the optical path difference integrated across the fiber. This principal is applied to nylon 6 fibers of trilobal crosssectional shape. The described method is suitable for the measurement of refractive indices of any fiber with regular or irregular transverse sections. Microinterferograms are given for illustration.
+
+FIBERS
+OPTICAL PROPERTIES
+INTERFEROMETRY
+REFRACTIVITY
+CROSS SECTIONS
+SHAPE

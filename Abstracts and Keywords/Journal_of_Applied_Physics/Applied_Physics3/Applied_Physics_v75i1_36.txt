@@ -1,0 +1,14 @@
+The formation of p and ntype layers of semiinsulating polycrystalline silicon has been investigated by implantation and diffusion of B, P, and As. At room temperature the material resistivity can be changed by more than six orders of magnitude for both p and ntype doping. A dramatic decrease of resistivity is observed for dopant concentrations above a threshold level which corresponds to the complete filling of midgap grainboundary traps. The determination of this critical concentration allows the evaluation of the donor and acceptor grainboundary trap densities which are found to lie in the range from 7 to 14×1012/cm2. The charged traps produce depletion layers and potential barriers at the grain boundaries; these barriers drive the freecarrier motion under external fields. Above the threshold concentration, the barrier height decreases with the increasing concentration of active dopant, going from J0.5 eV to nearly 0 and correspondingly the resistivity drops down. Thermionic emission and tunneling of the carriers through these intergrain barriers are assumed to be the main conduction mechanisms. This assumption fits the temperature dependence of resistivity and the predominance of one mechanism over the other depends upon temperature, oxygen concentration, and doping.
+
+SILICON
+ELECTRIC CONDUCTIVITY
+POLYCRYSTALS
+ION IMPLANTATION
+BORON ADDITIONS
+PHOSPHORUS ADDITIONS
+ANTIMONY ADDITIONS
+DIFFUSION
+NTYPE CONDUCTORS
+PTYPE CONDUCTORS
+GRAIN BOUNDARIES
+TRAPPING

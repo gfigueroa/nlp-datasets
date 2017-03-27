@@ -1,0 +1,10 @@
+Hysteresis, thermal dependence of magnetization, and coercivity of oxide coated ultrafine Fe particles prepared by inert gas condensation and oxygen passivation have been studied in the 5300 K range. The results are found to be consistent with a spin-glasslike state of the oxide layer inducing, through exchange interaction with the ferromagnetic core, a shift of the field cooled hysteresis loops at temperatures below the freezing at approximately 50 K. © 1998 American Institute of Physics. 
+
+iron
+nanostructured materials
+magnetic particles
+coercive force
+magnetic hysteresis
+exchange interactions (electron)
+oxidation
+ferromagnetic materials

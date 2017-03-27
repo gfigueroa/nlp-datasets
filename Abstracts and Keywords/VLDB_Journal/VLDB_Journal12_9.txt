@@ -1,0 +1,7 @@
+The efficient retrieval of data items on set-valued attributes is an important research topic that has attracted little attention so far. We studied and modified four index structures (sequential signature files, signature trees, extendible signature hashing, and inverted files) for a fast retrieval of sets with low cardinality. We compared the index structures by implementing them and subjecting them to extensive experiments, investigating the influence of query set size, database size, domain size, and data distribution (synthetic and real). The results of the experiments clearly indicate that inverted files exhibit the best overall behavior of all tested index structures.
+
+Access methods
+Database management systems
+Index structures
+Physical design
+Set-valued attributes

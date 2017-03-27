@@ -1,0 +1,8 @@
+The predominant technologies for reducing arc-flash incident energy today rely on the speed of protective devices, remote operation, encapsulating arc-flash energy in arc-resistant enclosures, which channel energy where it is less dangerous, and on crowbars to divert the arc energy into a bolted fault. Though more thoughtfully applied than they may have been in the past, none of these methods has provided a solution for all situations, particularly in existing installations. This paper will describe a method and include test results of an arc-flash energy sequestration that is able to divert an arcing fault's energy into a specific environment within a half-cycle after initiation of the arc. This is achieved without the need to introduce bolted fault current like a crowbar or for fast current interruption, such as a current-limiting fuse. The system protection provided has the benefits of arc-resistant switchgear without reliance on equipment sheathing and can be added after normal equipment is installed. Further advantages include the protection system and switchgear's ability for reuse after an arcing event, as well as the ability to easily test without the need for cumbersome high-current test equipment.
+
+Arc-Resistant Switchgear
+Arc-flash
+Arc-flash Protection
+Arcing Fault Diversion
+Crow Bar
+Fast Arc-flash Protection

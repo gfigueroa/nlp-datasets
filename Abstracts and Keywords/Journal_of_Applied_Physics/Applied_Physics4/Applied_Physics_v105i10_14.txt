@@ -1,0 +1,10 @@
+Synchrotron radiation photoemission study showed that the energy level alignment at the interface between N, N2-bis(naphthalene-1-y1)-N, N2-bis(phenyl) benzidine (NPB), a typical hole transport material, and Al could be adjusted by precovering a thin C60 layer on Al. The interface dipoles so formed could shift both the highest occupied molecular orbital level of NPB and the secondary electron cutoff measured at the early stage of the NPB deposition. The barrier height for hole injection from Al to NPB could thus be lowered by as much as 0.98 eV, and the optimal thickness of the inserted C60 layer was found to be 812 Å.
+
+aluminium
+band structure
+charge injection
+fullerenes
+organic compounds
+photoemission
+secondary electron emission
+thin films

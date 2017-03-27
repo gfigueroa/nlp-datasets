@@ -1,0 +1,8 @@
+Measurements of tunneling magnetoresistance (TMR) in La0.7Ca0.3MnO3/Al2O3 magnetic multilayers are reported with the emphasis on effects of the sample microstructure, arising from different substrates or varied deposition temperatures. Observed superlattice structures reveal a detailed structural information especially from the thin Al2O3 layers. Magnetotransport behaviors were measured below the Curie temperature of La0.7Ca0.3MnO3, showing a clear structural dependence. A large low-field TMR of about 65% was observed at 40 K from a trilayer junction. The improved temperature dependence of TMR is attributed to improved microstructure both in electrodes and thin barrier. © 2001 American Institute of Physics.
+
+lanthanum compounds
+calcium compounds
+alumina
+magnetic multilayers
+tunnelling
+magnetoresistance

@@ -1,0 +1,8 @@
+Low temperature ballistic hole transport in high-quality pentacene single crystals is studied using macroscopic gated four-terminal van-der-Pauw geometry and two-terminal conventional field-effect transistor structures. Well-pronounced magnetic focusing peaks are observed in the magnetoresistance of van-der-Pauw samples indicating ballistic transport up to at least 45 ¼m. At low temperature the field-effect transistors show saturation currents independent of the channel length and proportional to the channel width. The transistor characteristics are consistently analyzed assuming ballistic transport of holes throughout the whole length of the channel. © 2001 American Institute of Physics.
+
+organic semiconductors
+magnetoresistance
+high field effects
+hole mobility
+carrier mean free path
+field effect transistors

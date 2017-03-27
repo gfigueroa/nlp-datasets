@@ -1,0 +1,7 @@
+Research on P2P data structures has tacitly assumed that peers readily participate in the work, i.e., are cooperative. But such participation is voluntary, and free riding is the dominant strategy. This article describes a protocol that renders free riding unattractive, for one particular P2P data structure. The protocol is based on feedback that adjacent nodes exchange. This induces transitive logical networks of nodes that rule out uncooperative peers. The protocol uses proofs of work to deter free riding. To show that cooperative behavior dominates, we have come up with a cost model that quantifies the overall cost of peers, depending on their degree of cooperativeness and many other parameters. The cost model tells us that we can achieve a good discrimination against peers that are less cooperative, with moderate additional cost for cooperative peers. Extensive experiments confirm the validity of our approach.
+
+Distributed hashtables
+Free riding
+Incentives
+Peer-to-peer
+Reputation

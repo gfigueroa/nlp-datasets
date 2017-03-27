@@ -1,0 +1,9 @@
+The aim of this article is to describe a procedure to automatically and massively load the data base (DB) of Aided Protection Engineering (CAPE) program from the DB of DIgSILENT PowerFactory program. The DIgSILENT program is used by National Control Center (NCC) to make the planning and operation process of National Interconnected Colombian System (NICS).
+
+CAPE
+DIgSILENT PowerFactory
+DIgSILENT Programming Language (DPL)
+Electrical Power System (EPS)
+Electrical Protections (EP)
+NCC
+Structured Query Language (SQL)

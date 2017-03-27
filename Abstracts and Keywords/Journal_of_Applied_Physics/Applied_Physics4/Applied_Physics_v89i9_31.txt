@@ -1,0 +1,10 @@
+In this article, we report results on mass spectrometric investigation of the positive ions created in a low-pressure radio frequency helicon plasma reactor using oxygen/tetraethoxysilane (O2/TEOS) and argon/tetraethoxysilane (Ar/TEOS) mixtures. It is shown that the variety of ions is much greater in the Ar/TEOS plasma than in the O2/TEOS plasma. In the case of the Ar/TEOS plasma, ions are observed up to 343 amu whereas in the case of the O2/TEOS plasma, ions are observed up to 211 amu. Ion/molecule reaction rates between TEOS parent positive ions and neutral TEOS molecules are considerably less important in the O2/TEOS plasma as compared with the Ar/TEOS plasma. Using the values of the TEOS dissociation degree measured for O2/TEOS and Ar/TEOS plasmas, the observed ion/molecule reactions might be explained by the higher concentration of TEOS molecules in the Ar/TEOS plasma. 
+
+oxygen
+argon
+organic compounds
+gas mixtures
+positive ions
+helicons
+mass spectroscopic chemical analysis
+plasma chemistry

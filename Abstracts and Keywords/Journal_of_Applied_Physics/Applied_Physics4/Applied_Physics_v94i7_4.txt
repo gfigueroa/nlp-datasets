@@ -1,0 +1,6 @@
+Self-clearing metallized film capacitor technology offers the highest energy density among high voltage capacitor technologies. The primary limitation of this technology under pulse discharge conditions is failure of the plasma sprayed end connections. Transient nonlinear finite element analysis with coupled electric and thermal fields is applied to quantify the temperature rise around a contact spot along the end connection as a function of discharge current, contact spot size, time and distance between contact spots along the contact edge. An analytic approximation is developed to compute these parameters which agrees to within a few percent with the finite element analysis. © 2003 American Institute of Physics. 
+
+capacitors
+current density
+finite element analysis
+semiconductor device breakdown

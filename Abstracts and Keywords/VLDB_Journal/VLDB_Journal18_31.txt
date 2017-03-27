@@ -1,0 +1,6 @@
+The query equivalence problem has been studied extensively for set-semantics and, more recently, for bag and bag-set semantics. However, SQL queries often combine set, bag and bag-set semantics. For example, an SQL query that returns a multiset of elements may call a subquery or view that returns a set of elements. Queries may access both relations that do not contain duplicates, as well as relations with duplicates. As another example, in SQL one can compute a multiset-union of queries, each of which returns a set of answers. This paper presents combined semantics, which formally models query evaluation combining set, bag and bag-set semantics. The equivalence problem for queries evaluated under combined semantics is studied. A sufficient condition for equivalence is presented. For several important common classes of queries necessary and sufficient conditions for equivalence are presented.
+
+Bag semantics
+Set semantics
+Combined semantics
+Query equivalence - Datalog

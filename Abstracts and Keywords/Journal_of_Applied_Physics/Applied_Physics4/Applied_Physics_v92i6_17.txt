@@ -1,0 +1,8 @@
+Randomly oriented and vertically aligned carbon nanotubes were synthesized by chemical vapor deposition varying the growth temperature between 550
+°C and 850
+°C. Transmission electron microscopy (TEM) was used to investigate the growth process and in particular the role of the Ni catalyst. It was found that a catalytic particle was always situated at the tip of the tube thus implying a tip growth mechanism. The TEM analysis revealed a strong correlation between the size and shape of the Ni particle encapsulated at the tip of the tubes and the growth temperature, suggesting that temperature is an influential process parameter in determining an optimum size and shape for the catalytic particle and hence select the diameter, and the wall thickness of the growing tubes. © 2002 American Institute of Physics. 
+
+chemical vapour deposition
+carbon nanotubes
+catalysis
+transmission electron microscopy

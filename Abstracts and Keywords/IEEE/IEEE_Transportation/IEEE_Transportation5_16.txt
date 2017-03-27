@@ -1,0 +1,5 @@
+In order to study the influence of temperature on the developing processes of surface discharges in oil-paper insulation, a discharge test assembly is established to simulate the surface discharges in transformers. It consists of a surface discharge model, a test rig and a PD detection system. Long-term laboratory tests under 60 &#x00B0;C and 100 &#x00B0;C were conducted to observe the entire evaluation process of surface partial discharges from its inception to the eventual occurrence of flashover, using boosting voltage application. PD was detected by conventional impulse current (CIC) signals. Phenomena and features of surface discharges at different developing stages were observed and captured. As a result, the flashover-voltage is much lower, the initial voltage is a lot lower, and the destruction is much serious at 100&#x00B0;C. These features could be used as effective criteria to infer different evolutionary stages of surface discharges under different temperatures.
+
+developing Processes
+surface discharge
+temperature

@@ -1,0 +1,14 @@
+The temperature induced blue shift of the intersubband absorption peak in GaAs/Al0.3Ga0.7As multiple quantum wells has been observed and calculated as a function of well thickness (Lw). As the temperature is lowered from 290 to 10 K, the absorption peak shifts to the higher energy by 7.1 meV. Calculation shows that the change in the barrier height dominates the blue shift at small Lw while exchange interaction is important for large Lw. At 80 K, the photocurrent spectrum (PCS) at 0 V bias (Vb) is gradually reduced and cut off by the barrier. The bias induced forbidden transition from the ground state, E1, to the second excited state, E3, is observed in PCS. The broadening of full width at half maximum of PCS is related to the bias induced forbidden transition at small bias (0&lt;Vb&lt;0.2 V) and the reduction of the barrier height and tunneling lifetime at large bias (0.2&lt;Vb&lt;2 V). © 1997 American Institute of Physics.
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+spectral line shift
+spectral line breadth
+semiconductor quantum wells
+exchange interactions (electron)
+ground states
+excited states
+photoconductivity
+tunnelling
+infrared spectra

@@ -1,0 +1,5 @@
+The carrier-separation characteristics of a p-channel metaloxidesemiconductor field-effect transistor with 29 Å gate oxide has been measured at various temperatures from 90 to 375 K. It is found that the gate and source/drain currents at low gate voltage regime (below 0.5 V) were correlated and strongly dependent on temperature above 250 K. The earlier observation has been attributed to the existence of a temperature-sensitive hole direct-tunneling current due to the strong temperature sensitivity of surface holes concentration at low voltage regime. © 2000 American Institute of Physics. 
+
+MOSFET
+hole density
+tunnelling

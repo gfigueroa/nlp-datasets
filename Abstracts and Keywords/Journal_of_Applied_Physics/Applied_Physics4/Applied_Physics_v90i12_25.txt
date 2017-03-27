@@ -1,0 +1,10 @@
+Second-harmonic scanning optical microscopy in reflection is used to image at room temperature individual GaInP/GaAs microstructures formed on a GaAs (001) substrate. Second-harmonic images of individual microstructures are recorded along with first-harmonic images for four combinations of polarizations of the pump and second-harmonic radiation with different pump wavelengths in the range of 720920 nm. We observe different second-harmonic images for different polarization configurations and their evolution when changing the pump wavelength. Comparing the dependencies of the second-harmonic signal from the bare sample surface with those related to the microstructures, we conclude that the second-harmonic radiation detected when illuminating the microstructures originates from the substrate at short wavelengths and directly from the microstructures at <900 nm of the pump wavelength. The appearance of the second-harmonic images for different polarization configurations is used to discuss the nonlinear properties of the investigated microstructures. © 2001 American Institute of Physics. 
+
+gallium compounds
+indium compounds
+III-V semiconductors
+gallium arsenide
+semiconductor heterojunctions
+optical microscopy
+optical harmonic generation
+light polarisation

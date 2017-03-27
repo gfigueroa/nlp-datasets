@@ -1,0 +1,11 @@
+Coherent and incoherent transport processes of charge carriers in an InGaAsP/InGaAsP superlattice embedded in a p-i-n diode are investigated by time-resolved differential electroabsorption spectroscopy. The initial stages of the current evolution in the first picosecond after excitation with a femtosecond optical pump pulse are resolved. Coherent current oscillations within the superlattice layer are observed with a frequency depending on the electric field applied to the superlattice. These current oscillations are due to Bloch oscillations performed by excited carriers. We compare contributions of electroabsorption and excitonic bleaching to the time-resolved signal. A strong influence of incoherent carrier dynamics such as sub-picosecond field screening and carrier sweep-out on the dephasing and frequency of Bloch oscillations is observed. © 1997 American Institute of Physics. 
+
+electroabsorption
+electro-optical modulation
+semiconductor superlattices
+III-V semiconductors
+indium compounds
+gallium arsenide
+gallium compounds
+time resolved spectra
+excitons

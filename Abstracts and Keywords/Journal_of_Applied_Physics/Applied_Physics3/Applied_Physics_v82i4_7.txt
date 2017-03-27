@@ -1,0 +1,13 @@
+A study of the time-integrated reflectivity of Al targets during laser-induced back ablation by 1064 nm, 10 ns laser pulses is reported. The Al target reflectance data is analyzed using a model which includes not only Al surface removal but also the possible production of Al plasma. Calculations based on a sharp Al film ablation fluence(Jth H 710mJ/cm2) threshold agree with the reflectance data. Plasma reflectance contribution is found to be negligible for plasma electron densities of less than 0.3 critical density. © 1997 American Institute of Physics.
+
+laser ablation
+time resolved spectra
+metallic thin films
+plasma production by laser
+plasma density
+ALUMINIUM
+THIN FILMS
+ABLATION
+LASER-PRODUCED PLASMA
+REFLECTIVITY
+ELECTRON DENSITY

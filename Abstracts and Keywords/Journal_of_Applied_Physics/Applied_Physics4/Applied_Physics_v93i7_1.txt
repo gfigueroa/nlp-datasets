@@ -1,0 +1,26 @@
+YBa2Cu3O7 epitaxial film quality has reached a stage where rf applications at T}80
+K are carried through. Higher-operating temperatures or better power handling are very much desired. Tl2Ba2CaCu2O8 (TBCCO) is an excellent candidate with its higher-transition temperature TcH100105
+K. We study the rf field dependence of surface impedance Zs of epitaxial TBCCO films using dielectric resonators with TE011-modes at 8.5 and 15.3 GHz at 4.2
+K&lt;T&lt;100
+K and at 0.01
+mT}Hrf}10
+mT in the frequency and time domain. High-quality films show surface resistances at low fields Rs(77
+K) superior to YBCO and promising power handling with a nonlinearity onset above turn-up field ¼0H~3
+mT. Defective TBCCO films show anomalous nonlinear behavior ´Rs(Hrf)Hrf for ¼0Hrf}¼0H<0.31
+mT, extremely pronounced at T&lt;40
+K, indicating the presence of very weak links yielding flux flow, followed at higher fields ¼0Hrfs0.5
+mT by hysteresis losses with a linear field dependence ´Rs(Hrf)Hrf. Better quality TBCCO films show ´Rs(Hrf)Hrf2 up to fields of about 510 mT. The ´Rs(Hrf)Hrfn
+(n=1,2) dependencies together with ratios r(T)=´Xs/´Rs<110 hint to hysteresis losses of Josephson fluxons enhanced by slits or holes in the films. © 2003 American Institute of Physics. 
+
+thallium compounds
+barium compounds
+calcium compounds
+surface impedance
+surface resistance
+superconducting epitaxial layers
+superconducting transition temperature
+flux flow
+magnetic leakage
+magnetic hysteresis
+high-temperature superconductors
+superconducting microwave devices

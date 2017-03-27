@@ -1,0 +1,17 @@
+We present a method for measuring linear electrooptic coefficients involving comparative measurement of interferometric phasemodulation indices at wavelength » = 6328 Å. The accuracy of the method (816%) varies according to the crystalline quality. We have investigated a new nonlinear crystal, 3methyl 4nitropyridine 1oxide. Our single crystals were grown from solution by an evaporation technique. We report some of their physical characteristics and the three electrooptic coefficients: r41 = (3.6±0.6)×1012 m/V; r52 = (5.1±0.4)×1012 m/V; r63 = (2.6±0.3)×1012 m/V. Comparison between secondharmonic generation and electrooptic results is discussed. It is shown that the electronic contribution is preponderant and is about 35% larger than the electrooptic susceptibility. The contribution of intermediate vibrations has therefore a sign opposite to the electronic one and is about four times smaller.
+
+ELECTROOPTICAL EFFECTS
+ORGANIC COMPOUNDS
+DATA
+INTERFEROMETRY
+PHASE SHIFT
+MODULATION
+WAVELENGTHS
+ACCURACY
+MONOCRYSTALS
+CRYSTAL GROWTH
+SOLUTIONS
+EVAPORATION
+COMPARATIVE EVALUATIONS
+HARMONICS
+FREQUENCY CONVERTERS

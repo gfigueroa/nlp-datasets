@@ -1,0 +1,14 @@
+Growth stress in tungsten carbide-diamond-like carbon coatings, sputter deposited in a reactive argon/acetylene plasma, has been studied as a function of the acetylene partial pressure. Stress and microstructure have been investigated by wafer curvature and transmission electron microscopy (TEM) whereas composition and energy distribution functions of positive ions were obtained by electron probe microanalyzer, elastic recoil detection analysis, and mass-energy analyzer (MEA). It has been observed that the compressive stress decreases with increasing acetylene partial pressure, showing an abrupt change from 5.0 to 1.6 GPa at an acetylene partial pressure of 0.012 Pa. TEM micrographs show that by increasing the acetylene partial pressure in the plasma from 0 to 0.012 Pa, the microstructure of the coating changes from polycrystalline to amorphous. MEA results show that the most probable energy of positive ions bombarding the substrate during deposition in pure argon and argon/acetylene atmosphere is the same. Based on the results, it is concluded that the huge variation in the compressive stress at low acetylene partial pressures is due to a change in the microstructure of the coating from polycrystalline to amorphous and not to the energy of positive ions bombarding the film.
+
+coating techniques
+compressibility
+crystal microstructure
+diamond-like carbon
+electron probe analysis
+ion microprobe analysis
+phase transformations
+silicon
+sputtered coatings
+surface structure
+thin films
+tungsten alloys

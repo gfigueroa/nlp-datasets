@@ -1,0 +1,10 @@
+Iron clusters containing from a few atoms to a few hundred atoms dispersed in a silica matrix have been prepared by a solgel method with very low iron concentration, which was determined by the xraydiffraction, electron selectedarea diffraction, and magnetic measurements. Magnetic measurement shows that the magnetic moment per atom of these clusters is higher than that of bulk iron and the magnetic behavior of these clusters is well described using the theory of superparamagnetism. 	
+
+IRON
+SOLID CLUSTERS
+MAGNETIC PROPERTIES
+SOLGEL PROCESS
+SILICA
+XRD
+ELECTRON DIFFRACTION
+CRYSTAL STRUCTURE

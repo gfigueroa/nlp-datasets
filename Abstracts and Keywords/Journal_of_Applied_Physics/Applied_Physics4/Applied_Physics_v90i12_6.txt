@@ -1,0 +1,8 @@
+We evaluated influences of charge exchange on ion collection of laser isotope separation of uranium. We made a two-dimensional code based on fluid dynamics taking the charge exchange term into consideration. Parametric study was performed in terms of electric amplitude, ion density, and electron temperature. In addition to parallel electrode arrangement, calculations were performed for  - and M-type arrangements. The ratio of charge exchanged ions is found to largely depend on the collection time. © 2001 American Institute of Physics. 
+
+uranium
+laser isotope separation
+charge exchange
+fission reactor fuel reprocessing
+fission reactor fuel preparation
+photoionisation

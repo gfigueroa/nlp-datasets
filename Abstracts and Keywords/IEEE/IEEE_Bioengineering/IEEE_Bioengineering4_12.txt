@@ -1,0 +1,4 @@
+With an overwhelming amount of expression data available, many interesting problems have been studied, such as identifying cancer signatures, constructing gene regulatory networks, analyzing activity of pathways, and so on. Here we show another fascinating aspect of using expression data, constructing the hierarchical order of gene expression levels. We found that there is an order of expression levels in human genes, which enables genes to be more co-expressed than genes without the order of expression levels. This hierarchical order will not only change our view of gene variations in cancers, but also revolutionize our understanding of biological systems.
+
+expression order
+gene expression

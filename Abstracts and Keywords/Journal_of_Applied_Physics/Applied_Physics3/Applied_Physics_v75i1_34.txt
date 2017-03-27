@@ -1,0 +1,13 @@
+We present calculations of the interband impact ionization rate calculated using a wave vector dependent (kdependent) semiclassical formulation of the transition rate. The transition rate is determined using Fermis golden rule from a twobody screened Coulomb interaction assuming energy and momentum conservation. The transition rate is calculated for the first two conduction bands of silicon by numerically integrating over the full Brillouin zone. The overlap integrals in the expression for the transition rate are determined numerically using a 15 band k≈p calculation. It is found that the transition rate depends strongly on the initiating electron wave vector (k vector) and that the transition rate is greatest for electrons originating within the second conduction band than the first conduction band. An ensemble Monte Carlo simulation, which includes the numerically determined ionization transition rate as well as the full details of the first two conduction bands, is used to calculate the total impact ionization rate in bulk silicon. Good agreement with the experimentally determined electron ionization rate data is obtained.
+
+SILICON
+ELECTRIC CONDUCTIVITY
+IONIZATION
+IMPACT PHENOMENA
+INTERBAND TRANSITIONS
+SEMICLASSICAL APPROXIMATION
+CONSERVATION LAWS
+CONDUCTION BANDS
+BRILLOUIN ZONES
+MONTE CARLO METHOD
+SIMULATION

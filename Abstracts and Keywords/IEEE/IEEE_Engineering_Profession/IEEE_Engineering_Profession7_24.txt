@@ -1,0 +1,6 @@
+This paper present the design and fabrication of the Koch fractal dipole antenna. A multi-band element has been designed based on the Koch fractal which operates over two frequency band. The property of antennas such as return loss, S11 has been investigated at frequency of 900 MHz for GSM band. Wide bandwidth with input return loss of -10 dB has been achieved from 0 to 8 GHz using this fractal antenna. The size of fabricated antenna is reduced around 64% compare to conventional dipole antenna at these frequencies.
+
+900MHz
+Dipole Antenna
+Fractal Antenna
+Koch Fractal

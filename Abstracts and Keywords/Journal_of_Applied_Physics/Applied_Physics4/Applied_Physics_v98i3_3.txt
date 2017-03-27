@@ -1,0 +1,12 @@
+A fluxless bonding technique has been developed as a method of flip-chip bonding for microelectronic packaging. The fluxless bonding technique can be achieved instantaneously in an ambient environment between metallic stud bumps and predefined molten solder. This paper describes the mechanics of the bonding action and verifies the effectiveness of this bonding method through wetting balance tests and scanning electron microscope and energy dispersive x-ray analysis. This technique has been demonstrated by using a gold stud bump to break the tin oxide layer over molten solder. This allows for a fast, solid liquid interdiffusion between gold (Au) and the fresh molten eutectic lead-tin (PbSn) solder for joint formation during solidification. This bonding method has been successfully tested with 130-¼m-pitch flip-chip bond pads on a joint-in-via flex substrate architecture.
+
+gold
+lead alloys
+tin alloys
+solders
+flip-chip devices
+electronics packaging
+integrated circuit bonding
+chemical interdiffusion
+wetting
+solidification

@@ -1,0 +1,12 @@
+The average value of the magnetocrystalline anisotropy field, Hk, is an important parameter for the characterization of magnetic recording media but is difficult to measure accurately due in part to the effect of interactions between the grains. In order to evaluate Hk we have studied two model CoCrPtTa magnetic films using a number of complementary techniques: high field ferromagnetic resonance (FMR) (35.045.0 kOe), low field (&lt;20 kOe) vector vibrating-sample magnetometry and torque magnetometry. The FMR measurements were performed at a number of discrete frequencies in the range 7593 GHz using a new quasi-optical spectrometer developed at the University of St. Andrews. The values of Hk derived by FMR (10.8 kOe) are approximately 10% greater than those obtained from conventional magnetometry (9.6 kOe). This difference is believed to be due to the presence of intergranular exchange coupling which reduces the measured value of anisotropy when the applied field is not sufficiently large to completely align the magnetic moments. © 2002 American Institute of Physics. 
+
+ferromagnetic materials
+magnetic thin films
+magnetic recording
+ferromagnetic resonance
+magnetic anisotropy
+exchange interactions (electron)
+cobalt alloys
+chromium alloys
+platinum alloys
+tantalum alloys

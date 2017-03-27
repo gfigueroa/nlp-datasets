@@ -1,0 +1,12 @@
+A metal-oxide-semiconductor tunneling diode is used to emit electroluminescence from a Si/Si0.2Ge0.8 heterojunction. Besides the 1.1¼m and 1.6¼m infrared emission from the band edges of Si and SiGe, respectively, 2¼m infrared emission is also observed due to the radiative recombination between the electrons in the Si conduction band and the holes in the SiGe valence band. This type II recombination can emit photons whose energy is below the SiGe band gap to extend the emission range of Si/Ge-based light-emitting devices. The emission line shape can be fitted by the electron-hole-plasma recombination model.
+
+conduction bands
+electroluminescence
+electron-hole recombination
+elemental semiconductors
+Ge-Si alloys
+light emitting diodes
+MIS structures
+semiconductor heterojunctions
+silicon
+valence bands

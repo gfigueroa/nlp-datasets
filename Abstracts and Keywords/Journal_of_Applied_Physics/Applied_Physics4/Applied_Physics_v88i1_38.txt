@@ -1,0 +1,8 @@
+The temperature dependent thermal conductivity of silicon carbide has been calculated taking into account the various phonon scattering mechanisms. The results compared very well with available experimental data. The inclusion of four-phonon processes is shown to be necessary for obtaining a good match. Several important phonon scattering parameters have been extracted in this study. Dislocations are shown to have a strong effect at 300 K, but not as much at the higher temperatures. © 2000 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+thermal conductivity
+high-temperature effects
+dislocations
+phonon-phonon interactions

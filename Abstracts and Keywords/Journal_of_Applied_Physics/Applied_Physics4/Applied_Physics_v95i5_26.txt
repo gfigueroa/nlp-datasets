@@ -1,0 +1,9 @@
+A recent article suggested that paracrystalline silicon could be detected in very thin hydrogenated amorphous silicon films by using spectroscopic ellipsometry. We show that the important features of the ellipsometry data can be reproduced using a simple optical model of amorphous Si:H, with no assumptions about unusual structures or thickness-dependent optical properties. © 2004 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+amorphous semiconductors
+semiconductor thin films
+hydrogenation
+internal stresses
+ellipsometry

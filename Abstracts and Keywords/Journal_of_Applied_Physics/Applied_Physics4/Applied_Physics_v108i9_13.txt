@@ -1,0 +1,11 @@
+Poly-(3-hexylthiophene) (P3HT)single walled carbon nanotube (SWNT) solar cells were fabricated and compared with single layer P3HT devices. P3HT:SWNT devices were found to have higher efficiencies than P3HT only devices by at least a factor of two. Zero field mobility values of 1.20×107cm2	V1	s1 and 5.97×107cm2	V1	s1 were calculated from space charge regime for P3HT and P3HT:SWNT, respectively. The SWNTs were predominantly of metallic nature, as revealed by Raman spectroscopy. Morphology studies show that the SWNTs increase local ordering of P3HT nanocrystals which can improve hole transport. They also show that the cathode-organic surface roughness and volume increase in the presence of SWNTs which can have significant positive effect on charge generation and collection at this interface. Variation in short circuit current with incident light intensity shows higher superlinear slope with SWNTs which also indicates that SWNTs aid in charge extraction from the device.
+
+carbon nanotubes
+cathodes
+hole mobility
+nanostructured materials
+polymers
+Raman spectra
+solar cells
+space charge
+surface roughness

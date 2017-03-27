@@ -1,0 +1,10 @@
+Molecular dynamics simulations have been used to study the melting of GaN nanowires with triangular cross sections. The variation in potential energy as a function of the cross-sectional area of GaN nanowires, along with the atomic configuration, is used to monitor the phase transition. The thermal stability of GaN nanowires is strongly size dependent. The melting temperature of the GaN nanowires increases with increasing cross-sectional area to a saturation value. Melting of the nanowires is initiated at the surface edges formed by the triangular shape and then spreads across the nanowire surface. As temperature increases, the melting expands into the inner regions of the nanowires.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+melting
+nanowires
+semiconductor quantum wires
+molecular dynamics method
+thermal stability

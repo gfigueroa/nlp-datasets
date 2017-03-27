@@ -1,0 +1,17 @@
+Spray deposited porous CIGS nanoparticle-derived thin films were selenized in a two zone rapid thermal annealing furnace and effects of various selenization parameters including Se evaporation temperature, flow rate of carrier gas, and substrate temperature on densification of the CIGS layers were investigated. It was found that higher Se supply to CIGS nanoparticles either by increasing Se evaporation temperature or by increasing the flow rate of carrier gas resulted in larger CIGS grains with higher degree of crystallinity, while it also induced formation of a thicker MoSe2 layer in-between CIGS and Mo which resulted in partial detachment of CIGS/MoSe2/Mo layers from the glass substrate. Densification of CIGS layer by growth of nanoparticles and formation of thick MoSe2 were explained by a liquid Se assisted reaction rather than by a vapor phase Se assisted reaction.
+
+annealing
+copper compounds
+densification
+evaporation
+gallium compounds
+glass
+indium compounds
+molybdenum
+molybdenum compounds
+nanoparticles
+nanotechnology
+porous semiconductors
+semiconductor growth
+semiconductor thin films
+spray coatings

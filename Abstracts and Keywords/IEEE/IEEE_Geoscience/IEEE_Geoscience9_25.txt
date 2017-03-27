@@ -1,0 +1,7 @@
+In this paper, we present an analysis of the influence of attenuation and multipath propagation on the GPS signal strength and the accuracy of the observed pseudoranges in an indoor scenario. Our investigations include experimental data from a u-blox high-sensitivity GPS receiver as well as simulation data derived from a ray tracing based deterministic GPS channel model. Our primary goal is to get a deeper understanding of the complex interactions of the GPS signals on their paths to indoor locations. In the first part we will verify that the indoor propagation of the satellite signals leads to characteristic and repeatable patterns in the observation data. Thanks to the sidereal repeatability of the GPS satellite constellation, this verification can be carried out using measurements performed on two successive days. In the second part we will present the ray tracing based deterministic simulation model used to perform the GPS outdoor-to-indoor channel simulations, show the results and compare the measured data and the results obtained with the ray tracer.
+
+Deterministic Model
+GPS
+Indoor Positioning
+Multipath Propagation
+Ray Tracing

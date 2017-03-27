@@ -1,0 +1,9 @@
+Phonon modes in spherical GaAs quantum dots (QDs) embedded in spherical AlAs shells with up to 11
+855 atoms (about 8.0 nm in diameter) are calculated by using a valence force field model. All the vibration frequencies and vibration amplitudes of these shell QDs are calculated directly from the lattice dynamic matrix by employing the projection operators of the irreducible representations of the group theory. The effects of the size of GaAs cores and the thickness of AlAs shells on the phonon modes are investigated. The quantum confinement effects of both the vibration frequencies and vibration strengths are investigated. The microscopic interface modes, which can only be revealed by the microscopic model, are identified and discussed. © 2001 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor quantum dots
+interface phonons
+group theory

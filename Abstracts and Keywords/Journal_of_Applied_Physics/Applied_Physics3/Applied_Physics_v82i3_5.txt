@@ -1,0 +1,20 @@
+Local measurements of structural characteristics such as intrinsic microstrain along the c axis of the lattice µ = ´c/c and its mean square fluctuation µ	, oxygen deficiency x, cation composition, etc. were performed on epitaxial YBa2Cu3O7 films grown on various substrates (MgO, BaSrTiO3/MgO, SrTiO3, LaAlO3, ZrO2/Si, Al2O3). A number of film microstrips were fabricated and the normalized flicker noise intensity (Hooge parameter ±) and the resistivity Á at 300 K were measured at each characterized point. A theoretical model was developed that explains the observed first growth of ± with µ	 and the well-known high level of the normal-phase flicker noise in various high temperature superconducting compounds. Comparison of the experimental and simulated dependence of ± on µ	, frequency, and temperature permits one to determine numerically the theoretical parameters of the double-well potential with minima located at the chain (O1) and empty (O5) oxygen lattice positions of the CuO plane. © 1997 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting epitaxial layers
+superconducting device noise
+fluctuations in superconductors
+deformation
+electrical resistivity
+HIGH-TC SUPERCONDUCTORS
+NOISE
+THIN FILMS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+STRAINS
+MICROSTRUCTURE
+ELECTRIC CONDUCTIVITY
+SIMULATION

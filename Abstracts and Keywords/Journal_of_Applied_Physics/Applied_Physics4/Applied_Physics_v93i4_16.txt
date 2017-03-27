@@ -1,0 +1,10 @@
+We introduce the scanning photopyroelectric microscope and demonstrate its application for the investigation of delamination sites below organic coatings applied onto metallic substrates. The technique is based on a photothermal method, i.e., the photopyroelectric one, and uses a flexible polyvinylidene-difluoride sensor in contact with the sample surface. It is suitable for studying with high spatial resolution subsurface features like air gaps in multilayer systems and determining their depth below the surface. Using a one-dimensional approach, we derived an analytical expression for the signal contrast arising from subsurface thermal barriers. We also developed a three-dimensional finite element model that allows describing the thermal response of more complex systems and the lateral resolution in the actual measurement. The theoretical models are validated using both, model and real-life samples, and we show that it is possible to detect air gaps with thickness down to 1 ¼m below organic coatings applied onto metallic substrates. © 2003 American Institute of Physics. 
+
+polymer films
+delamination
+photothermal effects
+pyroelectricity
+air gaps
+finite element analysis
+nondestructive testing
+corrosion testing

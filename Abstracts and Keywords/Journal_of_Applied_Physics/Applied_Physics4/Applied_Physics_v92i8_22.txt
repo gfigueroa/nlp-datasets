@@ -1,0 +1,8 @@
+In order to analyze the low-frequency noise of GaAs based pseudomorphic high electron mobility transistors, Valenza et al. [J. Appl. Phys. 91, 3318 (2002)] proposes a model of the conduction at low drain bias with a procedure to extract the few relevant parameters. However, the original derivation of this analytical model and the parameter extraction procedure were published in 1991, 1994, and in connection with a detailed 1/f noise analysis in 1996. This fact is not clearly recognized in the aforementioned article, due in particular to a misquotation of the first equation. Apart from clarifying this point, we give a comment on the noise results. © 2002 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+high electron mobility transistors
+1/f noise
+semiconductor device noise
+semiconductor device models

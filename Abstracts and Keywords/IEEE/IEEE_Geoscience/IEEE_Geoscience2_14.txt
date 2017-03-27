@@ -1,0 +1,5 @@
+This paper investigates relationship between investment of mutual fund managers from different cities and different fund families in China. The results show that &#x201C;own-city&#x201D; effects are larger than &#x201C;other-city&#x201D; effects. A mutual fund manager is more likely to buy (or sell) a particular stock in each semi-annual if other managers in the same city are buying (or selling) that same stock. This evidence can be interpreted in terms of word of mouth effects. Managers spread information and ideas about stocks to one another directly through word-of-mouth communication, which affects their investment behaviors.
+
+Fund family
+Fund manager investment behavior
+Word-of-mouth effect

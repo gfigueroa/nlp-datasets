@@ -1,0 +1,12 @@
+A Monte Carlo code has been developed to study electron transport at 4.2 K in AlGaAs/GaAs tunneling hot electron transfer amplifier devices. Our model includes the effects of coupled plasmonphonon interaction and the Pauli exclusion principle along with more conventional features. The numerical results demonstrate the existence of nearly ballistic transport in the base and the collector barrier, and confirm that the experiments by Heiblum et al. [Phys. Rev. Lett. 55, 2200 (1985)] indeed measure the exact energy distribution of injected ballistic electrons. The device characteristics such as transfer ratio and transit time have also been investigated in detail and are discussed along with the optimum operating conditions.
+
+CHARGEDPARTICLE TRANSPORT
+PHONONPLASMON INTERACTIONS
+MONTE CARLO METHOD
+HOT ELECTRONS
+AMPLIFIERS
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+TUNNEL EFFECT
+TRANSISTOR AMPLIFIERS
+ULTRALOW TEMPERATURE

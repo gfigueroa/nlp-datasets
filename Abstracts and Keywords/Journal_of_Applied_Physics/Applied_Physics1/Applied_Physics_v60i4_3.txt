@@ -1,0 +1,12 @@
+We investigate here the influence of the crystallographic orientation of the CdTe substrate on the condensation coefficients of Hg, Cd, and Te during the growth of Hg1xCdxTe and CdTe by molecularbeam epitaxy. We show that the Hg condensation coefficient is strongly influenced by the orientation. A CdTe (111)B face requires about one order of magnitude less mercury than a (111)A face when growth occurs at 185	°C. Whereas for a CdTe(100) face, the Hg condensation coefficient falls in between. Even though the effect is less dramatic for the condensation coefficient of cadmium, a similar tendency is observed. These results can be explained in terms of the bonding of the surface atoms and confirm once again that the surface plays an important role in the molecularbeamepitaxial growth process.
+
+CRYSTAL ORIENTATION
+MOLECULAR BEAM EPITAXY
+VAPOR CONDENSATION
+CADMIUM TELLURIDES
+MERCURY TELLURIDES
+MERCURY
+CADMIUM
+TELLURIUM
+VAPOR DEPOSITED COATINGS
+CHEMICAL BONDS

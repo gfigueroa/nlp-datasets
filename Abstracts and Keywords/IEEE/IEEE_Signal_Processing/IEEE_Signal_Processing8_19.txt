@@ -1,0 +1,10 @@
+The introduction of the standard IEC 61850 for the communication of Substation Automation System (SAS) opens new scenarios in which products of different vendors can communicate on the same network infrastructure, based on Ethernet technology. The recent improvements in industrial communications are going to deeply influence two of the key points in the development of SAS: synchronization and availability. The challenge of SASs of the future is to combine on the same plants high accuracy synchronization protocols (e.g. IEEE 1588) with high-availability systems in order to increase the overall performance. The integration in real plants is hindered because of the large base of traditional SASs already deployed in the field. In this paper the implementation of mixed scenario SASs, with high-available synchronized Bays together with legacy Bays, is analyzed and a solution for smooth integration is proposed. The idea is based on the use of an adaptation block that, when attached to a high-availability network, reconstructs the interface signals (e.g. synchronization signals) required by traditional Bay.
+
+IEC61850
+IEC62439
+IEEE1588
+component
+distributed control
+high-availability
+substation automation
+synchronization

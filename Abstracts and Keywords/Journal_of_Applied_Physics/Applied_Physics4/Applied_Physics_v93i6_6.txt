@@ -1,0 +1,9 @@
+Pulsed laser deposition is a unique technique for the deposition of hydrogen-free diamond-like carbon films. During deposition, amorphous carbon is evaporated from a solid target by a high-energy KrF laser, ionized, and ejected as a plasma plume. The plume expands outwards and deposits the target material on a substrate. The plasma properties of the plume determine the quality of the thin films deposited on the substrate. These plume properties include ion density, ion flow speed, electron temperature, and plume peaking parameter. In this research, a triple Langmuir probe is used to determine various plasma properties of the plume created from the pulsed laser ablation of amorphous graphite as a function of laser energy density and laser spot size on the target. A thin diamond-like carbon film is deposited and analyzed with electron energy-loss spectroscopy to determine the sp3/sp2 fraction. A special preparation technique was used to prepare the thin film for analysis to prevent the damage that may be caused by conventional ion milling techniques. © 2003 American Institute of Physics. 
+
+diamond-like carbon
+pulsed laser deposition
+Langmuir probes
+plasma density
+ion density
+plasma temperature
+electron energy loss spectra

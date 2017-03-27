@@ -1,0 +1,15 @@
+Amorphous Si:Sb alloy thin films with various Sb concentrations were deposited on preoxidized Si substrates in an electronbeam evaporation system. The optical properties and the crystallization of the amorphous alloy as a function of Sb concentration were investigated with spectroscopic ellipsometry and xray diffraction (XRD), respectively. It has been found that the optical energy band gap decreases from 1.6 to 0.35 eV with increasing Sb concentration from 0 to 50 at.	%, and that the index of refraction decreases overall with the increase of Sb concentration. From the crystallization study, it is seen that the crystallization temperature of the alloy decreases with increasing Sb concentration. From a detailed XRD examination, three different crystallization products from the amorphous alloys have been observed in low, medium, and high Sb concentration regions. The structure of the amorphous alloys and the correlation between the optical properties and the structures of the amorphous alloys are discussed. It is suggested that the amorphous alloys have differing favorable bonding structures, depending on the Sb concentration, that correspond to the bonding structures of the crystallization products. 	
+
+SILICON ALLOYS
+ANTIMONY ALLOYS
+BINARY ALLOYS
+ENERGY BEAM DEPOSITION FILMS
+AMORPHOUS SEMICONDUCTORS
+CRYSTALLIZATION
+OPTICAL PROPERTIES
+ELLIPSOMETRY
+XRD
+ENERGY GAP
+CONCENTRATION RATIO
+NONCRYSTALLINE STRUCTURE
+THIN FILMS

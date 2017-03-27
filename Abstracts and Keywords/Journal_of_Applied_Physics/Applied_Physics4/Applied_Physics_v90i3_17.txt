@@ -1,0 +1,12 @@
+A large-area two-color image sensor array made with amorphous silicon (a-Si:H) technology is described. Mesa-isolated double-junction p-i-n-i-p
+a-Si:H sensors discriminate the two spectral bandsblue/green and redaccording to the polarity of the applied voltage bias. The 512×512 element active-matrix array with 75 ¼m pixel pitch is addressed using a-Si:H thin-film switching transistors. Under steady state illumination, the array exhibits a linear response, good color separation, and good spatial response as measured by the line-spread function, so that images obtained with the array are clear and sharp. The response to transient illumination exhibits image lag and a strong dependence of the signal on integration time, both of which depend on the bias polarity. Switching the bias voltage also induces strong transient properties. These effects are attributed to the back-to-back diodes, which act as capacitative dividers in the generation and readout of the signal. The transient effects compromise the practical application of the color sensors for video color imaging. © 2001 American Institute of Physics. 
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+optical arrays
+image sensors
+p-i-n photodiodes
+thin film transistors
+integrated optoelectronics

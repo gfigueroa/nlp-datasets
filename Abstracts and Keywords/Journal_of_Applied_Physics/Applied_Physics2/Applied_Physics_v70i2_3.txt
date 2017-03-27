@@ -1,0 +1,10 @@
+The analysis of neutron or xray reflectivity data to obtain density profiles close to surfaces is akin to the notorious phaseless Fourier problem, well known in many fields such as crystallography. It is a difficult problem because a highly nonlinear transform relates the density profile to the data; this results in the existence of several very different solutions, which are also hard to find. A novel experimental procedure is presented, the analogue of astronomical speckle holography, which is designed to eliminate the ambiguity problems inherent in traditional reflectivity measurements. The theoretical basis of this procedure is explained, and it is illustrated with a simple example using both simulated and real experimental data.
+
+HOLOGRAPHY
+XRAY DIFFRACTION
+NEUTRON DIFFRACTION
+DATA ANALYSIS
+LASL
+CRYSTALLOGRAPHY
+REFLECTIVITY
+IMAGE PROCESSING

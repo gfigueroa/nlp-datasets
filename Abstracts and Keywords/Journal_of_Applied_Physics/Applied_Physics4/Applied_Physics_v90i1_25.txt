@@ -1,0 +1,16 @@
+Photoluminescence (PL) and photoluminescence excitation (PLE) spectroscopies have been carried out at 6 K on the <1540 nm 4I13/24I15/2 emissions of Er3+ in Er-implanted and annealed GaN. These studies revealed the existence of multiple Er3+ centers and associated PL spectra in Er-implanted GaN films grown by metalorganic chemical vapor deposition, hydride vapor phase epitaxy, and molecular beam epitaxy. The results demonstrate that the multiple Er3+PL centers and below-gap defect-related absorption bands by which they are selectively excited are universal features of Er-implanted GaN grown by different techniques. It is suggested that implantation-induced defects common to all the GaN samples are responsible for the Er site distortions that give rise to the distinctive, selectively excited Er3+PL spectra. The investigations of selectively excited Er3+PL and PLE spectra have also been extended to Er-implanted samples of Mg-doped GaN grown by various techniques. In each of these samples, the so-called violet-pumped Er3+PL band and its associated broad violet PLE band are significantly enhanced relative to the PL and PLE of the other selectively excited Er3+PL centers. More importantly, the violet-pumped Er3+PL spectrum dominates the above-gap excited Er3+PL spectrum of Er-implanted Mg-doped GaN, whereas it was unobservable under above-gap excitation in Er-implanted undoped GaN. These results confirm the hypothesis that appropriate codopants can increase the efficiency of trap-mediated above-gap excitation of Er3+ emission in Er-implanted GaN. © 2001 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+magnesium
+erbium
+photoluminescence
+semiconductor growth
+semiconductor epitaxial layers
+MOCVD
+MOCVD coatings
+vapour phase epitaxial growth
+defect absorption spectra
+defect states
+impurity states
+impurity absorption spectra

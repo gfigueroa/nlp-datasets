@@ -1,0 +1,9 @@
+The microstructure of the diamond and the ²SiC interlayer grown on Si substrates was studied in synchrotron xray scattering experiments. In the process of growing diamond using microwave plasma chemical vapor deposition, a ²SiC interlayer was always formed epitaxially regardless to the orientation and the pretreatment of substrates. The crystalline axes of the ²SiC interlayer were parallel to the substrate crystalline axes. The pretreatment of the silicon substrates greatly enhanced the growth rate of the ²SiC. Meanwhile, the diamond particles were preferentially grown along both the 111	 and the 001	 directions on all the pretreated substrates. The diamond particles that were grown with the preferred growth direction matching to the substrate normal crystalline axis direction exhibited partial epitaxy, while others were grown nonepitaxially. The substrate pretreatment also enhanced the growth of diamond particles significantly. © 1996 American Institute of Physics. 
+
+SILICON CARBIDES
+DIAMONDS
+FILM GROWTH
+CVD
+XRD
+STRUCTURAL CHEMICAL ANALYSIS
+SYNCHROTRON RADIATION

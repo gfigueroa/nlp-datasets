@@ -1,0 +1,22 @@
+SnO2 thin films were grown on p-InSb (111) substrates by radio-frequency magnetron sputtering at low temperature. Atomic force microscopy images showed that the root mean square of the average surface roughness of the SnO2 films grown on the InSb (111) substrates with an Ar/O2 flow rate of 0.667 and at a temperature of 200
+°C had a minimum value of 2.71 nm, and x-ray diffraction and transmission electron microscopy (TEM) measurements showed that these SnO2 thin films were polycrystalline. Auger electron spectroscopy and bright-field TEM measurements showed that the SnO2/p-InSb(111) heterointerface was relatively abrupt. High-resolution TEM measurements revealed that the SnO2 films were nanocrystalline and that the grain sizes of the nanocystalline films were below 6.8 nm. The capacitancevoltage measurements at room temperature showed that the type and the carrier concentration of the nominally undoped SnO2 film were n type and approximately 1.67×1016
+cm3, respectively, and the currentvoltage curve indicated that the Au/n-SnO2/p-InSb diode showed tunneling breakdown. Photoluminescence spectra showed that peaks corresponding to the donor acceptor pair transitions were dominant and that the peak positions did not change significantly as a function of the measured temperature. These results indicate that the SnO2 nanocrystalline thin films grown on p-InSb (111) substrates at low temperature hold promise for new kinds of potential optoelectronic devices based on InSb substrates, such as superior gas sensors and high-efficiency solar cells. © 2001 American Institute of Physics. 
+
+tin compounds
+semiconductor materials
+semiconductor thin films
+nanostructured materials
+sputtered coatings
+atomic force microscopy
+transmission electron microscopy
+Auger electron spectra
+photoluminescence
+grain size
+carrier density
+surface topography
+rough surfaces
+X-ray diffraction
+tunnelling
+semiconductor diodes
+semiconductor device breakdown
+impurity states

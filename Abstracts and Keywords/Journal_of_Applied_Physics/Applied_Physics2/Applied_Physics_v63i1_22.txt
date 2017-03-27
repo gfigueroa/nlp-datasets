@@ -1,0 +1,12 @@
+A systematic study of the magnetic properties of the system Y1xPrxCo5 has been carried out in order to clarify the respective role of 3d and 4f anisotropy in the occurrence of firstorder magnetization processes (FOMP) and spin reorientation transitions (SRT) in PrCo5. The competition between Co and Pr anisotropies is responsible for the occurrence of SRT and FOMP, which is indeed observed in Prrich samples. The SRT and the onset FOMP temperatures both increase with increasing Pr content. The anisotropy field, measured by the SPD technique, increases linearly with increasing Pr content. This behavior is not expected and not explainable in terms of a simple addition of Co and Pr anisotropies. A comparison is made with the anisotropy in the systems Y2Co14B and Pr2Co14B.
+
+MAGNETIC ANISOTROPY
+MAGNETICPHASE TRANSFORMATIONS
+MAGNETIZATION
+ANISOTROPY
+COBALT ALLOYS
+YTTRIUM ALLOYS
+PRASEODYMIUM ALLOYS
+SPIN ORIENTATION
+MAGNETIC PROPERTIES
+EXPERIMENTAL DATA

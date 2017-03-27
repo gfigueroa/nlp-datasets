@@ -1,0 +1,10 @@
+Thin films of Bi2Te2Se1 of various thicknesses have been deposited on clean glass plates using the flash evaporation technique. Electrical resistance and thermoelectric power measurements have been carried out on these films in the temperature range 300485 K. The thickness dependences of electrical resistivity and thermoelectric power of the films have been analyzed using the effective mean-free path model. The thickness dependence of activation energy of the films is explained by Setos polycrystalline model. Various material parameters such as mean-free path and Fermi energy have been calculated from the analysis of experimental data. The thermoelectric power factor of the films has been calculated using the measured electrical resistivity and thermoelectric power values. © 1998 American Institute of Physics.
+
+bismuth compounds
+tellurium compounds
+semiconductor materials
+vacuum deposited coatings
+thermoelectric power
+electrical resistivity
+electric resistance
+Fermi level

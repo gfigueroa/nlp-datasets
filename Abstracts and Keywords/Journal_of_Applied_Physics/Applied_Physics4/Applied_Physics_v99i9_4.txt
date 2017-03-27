@@ -1,0 +1,10 @@
+The interactions between Er3+ ions OH groups in Er-doped Bi2O3-based glasses were investigated for samples with various Er OH concentrations. From the analyses of the total decay rate of the level of Er3+ it was confirmed that the OH groups are dominant quenching centers of excited Er3+ and a cause of concentration quenching of 1.5¼m band emission. The attempts to remove the OH groups in the melting process were then performed. Highly dehydrated glass was obtained by keeping the dew point of the melting atmosphere at the order of 30	°C. The solution of the OH groups in reheating processes for fiber fabrication was also investigated. It was revealed that they diffused from the glass surface to the inside with an order of millimeters when the glasses were annealed above softening temperature. Finally, we fabricated highly Er-doped, 5cm length compact C-band fiber amplifiers with various OH concentrations. By removing the OH groups in the core glasses, the gain characteristics drastically improved and a 10dB gain at 1560nm was achieved with 150mW pumping at 980nm.
+
+optical fibre amplifiers
+erbium
+optical glass
+radiation quenching
+melting
+optical fibre fabrication
+annealing
+optical pumping

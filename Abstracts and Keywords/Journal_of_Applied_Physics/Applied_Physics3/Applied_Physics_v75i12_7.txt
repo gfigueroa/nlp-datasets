@@ -1,0 +1,9 @@
+The noise power spectral density Pn in a submicron InP diode loaded by resistor R is calculated using the Monte Carlo particle technique. It is shown that at biases above the generation threshold the Pn has a peak at the frequency fpeak which corresponds to the highest generation frequency at the given R. The excess noise is the shot noise of electrons accumulated into the layers. Measuring the frequency of the peak fpeak as the function of R one can obtain the negative values of the real part of impedance at the highfrequency side of the negative impedance spectrum.
+
+SEMICONDUCTOR DIODES
+MICROWAVE RADIATION
+NOISE
+IMPEDANCE
+MONTE CARLO METHOD
+SIMULATION
+INDIUM PHOSPHIDES

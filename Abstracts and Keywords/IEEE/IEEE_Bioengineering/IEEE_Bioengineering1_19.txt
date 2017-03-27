@@ -1,0 +1,8 @@
+This paper describes the integration of multiple microstrip patch antenna elements into a small handset. The antenna system has been developed for multiple-input multiple- output (MIMO) applications in WLAN systems at 5 GHz. Four square microstip patches are printed on the top area of a 45mmxl05 mm ground plane, representing the back side of a typical small handset. The small ground plane integration effects on input return loss, mutual coupling, envelope correlation and radiation pattern, are evaluated. An antenna prototype has been fabricated and tested. Good agreement has been obtained between numerical simulations and experimental results.
+
+Antennas
+MIMO antenna systems
+finite ground plane
+handset antennas
+microstrip patch antennas
+mutual coupling

@@ -1,0 +1,9 @@
+Traditional atomic and nested transactions are not always well-suited to cooperative applications, such as design applications. Cooperative applications place requirements on the database that may conflict with the serializability requirement. They require transactions to be long, possibly nested, and able to interact with each other in a structured way. We define a transaction framework, called a cooperative transaction hierarchy, that allows us to relax the requirement for atomic, serializable transactions to better support cooperative applications. In cooperative transaction hierarchies, we allow the correctness specification for groups of designers to be tailored to the needs of the application. We use patterns and conflicts to specify the constraints imposed on a group's history for it to be correct. We also provide some primitives to smooth the operation of the members. We characterize deadlocks in a cooperative transaction hierarchy, and provide mechanisms for deadlock detection and resolution. We examine issues associated with failure and recovery.
+
+cooperation
+deadlock detection
+design transactions
+non-serializability
+transaction hierarchies
+transaction synchronization
+version management

@@ -1,0 +1,9 @@
+We report on a systematic study of a set of GaAs/AlGaAs p-type quantum well infrared photodetectors with varying barrier heights. The detector cutoff wavelength decreases with increasing barrier height. Experimental photoresponse spectra are in good agreement with calculated ground-state to continuum absorption spectra, based on a multiband envelope-function model. The measured dark current decreases with increasing barrier height. An estimate of the low-field dark current gives good agreement with the measured dark current. © 1998 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor quantum wells
+photodetectors
+infrared detectors
+dark conductivity

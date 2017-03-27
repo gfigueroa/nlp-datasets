@@ -1,0 +1,10 @@
+The photoinduced nonlinear optical effects in large-sized (up to 20 nm) Ca4(GdO(BO3)3) GdCOB nanocrystallites incorporated within an oligoether photopolymer matrix have been studied. The photoinduced optical second harmonic generation (SHG) was measured at the fundamental wavelength 1.06 ¼m. A nitrogen pulsed laser (»=0.337	¼m) was used as the source of photoinducing light. We found that with increasing ultraviolet (UV) illumination power density, the output doubled frequency SHG signal (»=0.53	¼m) increases and achieves its maximum value at a UV power density about 1.4 GW/cm2 and nanocrystallite size about 5.5 nm. The absolute SHG values were about 15% less than for the d222 tensor of potassium dihydrogen phosphate single crystals. With decreasing temperature below 18 K, the SHG signal increases. Probe-pump measurements indicate the occurrence of a SHG maximum at a pump-probe delay time of about 27 ps. This effect is explained within the framework of the anharmonic electron-phonon interaction due to creation of photoinduced electrostricted phonons. Third-order two-photon absorption was also investigated. We showed that the BO3 structural fragments play a crucial role in the observed photoinduced effects. The results obtained show that the mentioned composites can be used as a powerful tool for creation of UV-operated nonlinear optical devices. © 2003 American Institute of Physics. 
+
+calcium compounds
+gadolinium compounds
+optical materials
+nanostructured materials
+optical harmonic generation
+optical pumping
+electron-phonon interactions
+two-photon spectra

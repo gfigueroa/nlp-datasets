@@ -1,0 +1,7 @@
+While medical imaging typically provides massive amounts of data, the automatic extraction of relevant information in a given applicative context remains a difficult challenge in general. With functional MRI (fMRI), the data provide an indirect measurement of brain activity, that can be related to behavioral information. It is now standard to formulate this relation as a machine learning problem where the signal from the entire brain is used to predict a target, typically a behavioral variable. In order to cope with the high dimensionality of the data, the learning method requires a regularization procedure. Among other alternatives, &#x2113;<sub>1</sub> regularization achieves simultaneously a selection of the most predictive features. One limitation of the latter method, also referred to as Lasso in the case of regression, is that the spatial structure of the image is not taken into account, so that the extracted features are often hard to interpret. To obtain more informative and interpretable results, we propose to use the &#x2113;<sub>1</sub> norm of the image radient, a.k.a., the Total Variation (TV), as regularization. TV extracts few predictive regions with piecewise constant weights over the whole brain, and is thus more consistent with traditional brain mapping. We show on real fMRI data that this method yields more accurate predictions in inter-subject analysis compared to voxel-based reference methods, such as Elastic net or Support Vector Regression.
+
+Total Variation
+fMRI
+regression
+regularization
+spatial structure

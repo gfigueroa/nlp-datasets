@@ -1,0 +1,10 @@
+Two desorption peaks of hydrogen molecule (mass number=2), starting at about 600 and 950 K, respectively, are observed in thermal desorption mass spectroscopy of nanostructured graphite mechanically milled for 80 h under hydrogen atmosphere. It follows from a combined analysis of thermal desorption mass spectroscopy and thermogravimetry, that <6 mass
+% of hydrogen (corresponding to 80% of the total amount of hydrogen) is desorbed at the first desorption peak as a mixture of pure hydrogen and hydrocarbons. Below the temperature of the second desorption peak, at which recrystallization related desorption occurs, nanostructured graphite is expected to retain its specific defective structures mainly with carbon dangling bonds as suitable trapping sites for hydrogen storage. The formation process of the nanostructures during milling under hydrogen atmosphere is also discussed on the basis of the profile of Raman spectroscopy. © 2001 American Institute of Physics. 
+
+graphite
+hydrogen
+thermally stimulated desorption
+thermal analysis
+dangling bonds
+hydrogen economy
+nanostructured materials

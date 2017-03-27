@@ -1,0 +1,7 @@
+Microstructural attributes of steels affect hysteretic magnetic properties because the microstructure affects domain wall movement and pinning. Two important features are grain size and dislocation density. The consensus experimentally is that the coercivity tends to be linearly related to the inverse of the average grain diameter and to the square root of the dislocation density. In this article, these experimental tendencies are utilized in formulating the dependence of the hysteresis parameters of the JilesAtherton model as a function of grain size and dislocation density. The results are then used in computing the first and third harmonics of the magnetic induction as a function of grain size and dislocation density. This is done via an adaptation of a hysteresis model formulated by Jiles for higher excitation frequencies. The results indicate that the harmonic amplitudes decrease monotonically with inverse grain size and the square root of dislocation density. Since increasing inverse grain size and dislocation density are correlated with increasing tensile strength, the results are consistent with experimental results for the decrease of the harmonic amplitudes with increasing tensile strength in automotive steels. Also, the harmonic amplitudes decrease with increasing excitation frequency, consistent with experiment. © 2001 American Institute of Physics.
+
+electromagnetic induction
+grain size
+dislocation density
+coercive force
+magnetic hysteresis

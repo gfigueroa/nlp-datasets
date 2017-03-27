@@ -1,0 +1,8 @@
+We have studied the temperature dependence of electroluminescence in superluminescent light emitting diode InGaN structures emitting light at 405 nm. Devices were fabricated in the tilted ridge geometry. We measured the superluminescence emission as a function of temperature from 263 to 295 K and observed a very pronounced power sensitivity with temperature. Simple modeling of the optical intensity reveals that the main temperature dependence is related to the spontaneous emission factor in the amplified spontaneous emission and the temperature dependence of gain is of secondary importance. This result strongly suggests the need for reducing nonradiative recombination in superluminescent devices.
+
+gallium compounds
+III-V semiconductors
+indium compounds
+superluminescent diodes
+superradiance
+wide band gap semiconductors

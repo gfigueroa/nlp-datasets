@@ -1,0 +1,6 @@
+Corresponding with urban land use plan and network design is helpful for the sustainable development of the city. Beginning with the traffic distribution decided by urban land use composition and floor area ratio (FAR), the bi-level programming model of urban land use and network design problem was put forward. In this model, the problem was described as the game, which the upper showed the policymaker's goals with city development benefit maximization under moderating urban land use and network design, including consumer surplus maximization, investment benefit maximization, the best coordination degree of land layout, and the lower showed urban residents transportation behavior choice under the upper decisions, is a combination model of traffic and transportation allocation. The heuristic algorithm was designed to solve the model. Finally, an example is presented to demonstrate the effectiveness of the model and algorithm.
+
+compound traffic network
+the bi-level programming
+traffic engineering
+urban land use

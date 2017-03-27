@@ -1,0 +1,20 @@
+Co-based nanocrystals encapsulated in carbon have potential applications in ultra-high-density magnetic recording media. In this work, CoxC1x (x=60, 65, and 70 at.
+%) nanocomposite films were prepared by pulsed-filtered vacuum arc deposition. Subsequent thermal annealing was performed in vacuum at various temperatures. The films were characterized by non-Rutherford backscattering spectrometry, transmission electron microscopy, Raman spectroscopy, atomic-force microscopy, and magnetic-force microscopy. The as-deposited films were found to be amorphous. After annealing at appropriate temperatures, the films were found to be consisting of hexagonal close-packed nanocrystalline Co grains encapsulated in graphite-like carbon. Clear magnetic-force microscopy images were only observed in those films annealed at sufficiently high temperatures, indicating that there was perpendicular magnetic anisotropy in these films. The magnetic hysteresis loops of the films were measured by a superconducting quantum interference device magnetometer. The optimum annealing temperature for the maximum coercivity was found to depend on the cobalt concentration. For a Co65C35 sample about 20 nm thick after annealing at 350
+°C in vacuum for 1 h, the saturation magnetization was 500 emu/cm3, the coercivity was 460 Oe, and the ratio of the remanence to the saturation magnetization was 0.68 at 300 K. Our results are consistent with those of the sputtered CoC films recently reported in the literature. © 2000 American Institute of Physics. 
+
+cobalt
+carbon
+composite materials
+nanostructured materials
+plasma arc spraying
+magnetic domains
+annealing
+particle backscattering
+Raman spectra
+transmission electron microscopy
+perpendicular magnetic anisotropy
+magnetic hysteresis
+coercive force
+remanence
+atomic force microscopy
+magnetic force microscopy

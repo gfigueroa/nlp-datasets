@@ -1,0 +1,18 @@
+Using In2O3 as a host matrix, extensive calculations based on density functional theory have been carried out to understand the electronic and magnetic properties of native defects, alkali and alkaline-earth metal substitutions as disputed in recent theoretical and experimental studies. Our calculations show that the magnetism in undoped In2O3 is originated from In vacancies (VIn) instead of O vacancies. The ferromagnetic (FM) coupling between the moments introduced by VIn is found strong enough to achieve room temperature ferromagnetism. Moreover, FM coupling is also strongly favored in alkali metal doping cases with negative formation energy. For all XIn (XIn = VIn, LiIn, NaIn, and KIn) doped In2O3, the induced magnetic moments are mainly localized on the first shell of O atoms around XIn sites. The FM coupling between the moments induced by XIn defects is activated by intra- and intercorrelation of the XIn6ONN complexes. A XInONNInNNONNXIn chain is required to mediate the long-range FM coupling. However, in cases of Mg or Ca doped In2O3, the ground state is nonmagnetic.
+
+calcium
+density functional theory
+electronic density of states
+ferromagnetic materials
+ground states
+indium compounds
+lithium
+long-range order
+magnesium
+magnetic moments
+potassium
+semiconductor doping
+semimagnetic semiconductors
+sodium
+vacancies (crystal)
+vanadium

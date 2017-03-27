@@ -1,0 +1,20 @@
+SiO2Ta2O5 waveguide film exhibits a refractive index decrease up to 2% and a simultaneous film thickness increase proportional to the index decrease by CO2 laser irradiation. A partial restoration to the preirradiated state is observed by annealing in air at temperatures between 700 and 780	°C. The origin of the index decrease may be due to the density change with Ta2O5 crystallization. For application to the optical circuit design, the effective refractive indices of the indexdecreased area are estimated, and a TE0TE1 mode separation experiment by a 20°angle is done successfully, in order to examine the usefulness of the effective index.
+
+WAVEGUIDES
+REFRACTIVITY
+PHYSICAL RADIATION EFFECTS
+SILICON OXIDES
+TANTALUM OXIDES
+FILMS
+CARBON DIOXIDE LASERS
+IRRADIATION
+INTEGRATED OPTICS
+THICKNESS
+ANNEALING
+HIGH TEMPERATURE
+VERY HIGH TEMPERATURE
+DENSITY
+CRYSTALLIZATION
+OPTICAL EQUIPMENT
+OSCILLATION MODES
+INCIDENCE ANGLE

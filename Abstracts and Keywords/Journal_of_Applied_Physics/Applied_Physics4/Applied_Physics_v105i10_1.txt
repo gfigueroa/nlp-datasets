@@ -1,0 +1,11 @@
+We present a self-consistent model for the analysis of the carrier distribution, the band profile, and the transition energy of type-II aligned GaAs/GaSb/GaAs structures under optical excitation. The model considers the surface states as an electron reservoir, associated with pinning of the conduction band Fermi level at the midgap. In our model, the optical generated holes in the GaSb quantum well causes a potential well on one side of the GaSb layer, which can efficiently accommodate the optically generated electrons. Accordingly, we derive a relation connecting the excitation power to the carrier density. Using the relation and the effective triangular potential approximation, we obtain a simple formula for the transition energy shift as a function of the excitation power, which follows the cube-root rule quite well. The calculation allows the determination of the band offset of a type-II heterointerface by comparison with data from photoluminescence measurement. The result suggests the unstrained valence band offset of GaSb/GaAs to lie between 0.5 and 0.55eV. We also present a simplified model for analyzing the electronic and optical properties of type-II heterostructures without the need of a self-consistent calculation.
+
+carrier density
+conduction bands
+Fermi level
+gallium arsenide
+gallium compounds
+III-V semiconductors
+semiconductor quantum wells
+surface states
+valence bands

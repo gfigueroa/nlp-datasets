@@ -1,0 +1,6 @@
+Radial distributions of turbulent kinetic energy k in the tank with different geometrical jet flows was predicted based on CFD method adopted RNG k - &#x03B5; turbulent model. Some detailed information about turbulence kinetic energy and pressure was obtained. The results showed that at the plane of z=0, pressure did not change significantly and the value was small. With the increase of the distance x, the turbulent kinetic energy enlarged first and then reduced. Turbulent kinetic energy was suddenly reduced above the jet height at x=0. Under the same velocity and the nozzle clearance, the turbulent kinetic energy of flat -bottom was the smallest, and the turbulent kinetic energy of hemispherical-bottom was the largest. Under the same velocity, the pressure of hemispherical-bottom was the largest, wherever the pressure of flat-bottom was the smallest. The results can be theoretical basis for the optimum design and scale-up of the jet mixer.
+
+Jet mixer
+Mean velocity
+Turbulence kinetic energy
+Turbulent flow

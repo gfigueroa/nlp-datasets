@@ -1,0 +1,10 @@
+Microstructure, structural defects, and piezoelectric response of bismuth titanate (Bi4Ti3O12)1x and bismuth titanium niobate (Bi3TiNbO9)x solid solution with x=0.05 and 0.2 were investigated. Depending on x and on the sintering temperature different microstructures and piezoelectric responses were observed. For a low content in Bi3TiNbO9
+(x=0.05) and a high sintering temperature (1130	°C), a coarse grain size is present, the number of structural defects within the grain is small, and there is a strong dependence of d33 on the ac pressure. For higher Bi3TiNbO9 (x=0.2) content or for lower sintering temperature (1080	°C) and x=0.05, the grain size is finer and a large number of structural defects is present within the grains. In particular, for x=0.2, high resolution transmission electron microscopy shows a high concentration of intergrowth defects which consist of Bi3TiNbO9 layers inserted in the Bi4Ti3O12 matrix in a more or less random way. In these samples, there is a very small dependence of d33 on the ac pressure and the piezoelectric hysteresis is likewise very small. The relation between microstructure and piezoelectric properties is discussed and it is shown that there is a good correlation between the dependence of the piezoelectric response on the ac pressure and the defect density. The piezoelectric response may be related to the structural defects present within the grain. © 2000 American Institute of Physics. 
+
+bismuth compounds
+ferroelectric materials
+piezoelectric materials
+transmission electron microscopy
+grain size
+sintering
+crystal microstructure

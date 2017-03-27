@@ -1,0 +1,17 @@
+AsSeCu glasses, with Cu content varying between 5 and 25 at.	%, were produced by quenching from the melt. The values of resistivity and activation energy for conduction decreased continuously with increasing the copper content. Memory switching phenomena was observed in glasses containing Cu less than 20 at.	%. Glasses containing higher Cu concentration showed a reverse switching cycle. Thermally induced changes in the structural properties have been examined using xray diffraction, differential thermal analysis, and scanning electron microscopy. The results were discussed on the basis of thermally induced transformations.
+
+glass
+electrical properties
+arsenic
+selenium
+copper
+quenching
+melts
+electric conductivity
+activation energy
+experimental data
+temperature effects
+xray diffraction
+differential thermal analysis
+scanning electron microscopy
+mathematical models

@@ -1,0 +1,6 @@
+In a recent article [J. Appl. Phys. 92, 1643 (2002)] Siwick et al. investigated the space-charge-limited electron pulse propagation in a photoelectron gun using an analytical approach, referred to as mean-field theory, and a numerical N-body simulation. The results were compared with a one-dimensional fluid model [J. Appl. Phys. 91, 462 (2002)], and a conclusion was made that the fluid model overestimates the pulse duration after a certain propagation time. Although the mean-field theory and N-body simulation give exactly the same results for all examples studied, we point out that the expression for the on-axis potential in their mean-field model is inapplicable to investigating the electron space-charge dynamics in an ultrafast electron packet. We correct that expression and derive a two-dimensional model that is in agreement with our previous one-dimensional fluid model. We also point out several areas where Siwick et al. have misinterpreted the one-dimensional fluid model. © 2003 American Institute of Physics. 
+
+electron optics
+digital simulation
+electron guns
+space-charge limited devices

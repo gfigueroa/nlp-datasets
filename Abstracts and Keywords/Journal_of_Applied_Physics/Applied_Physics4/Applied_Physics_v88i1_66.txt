@@ -1,0 +1,14 @@
+A stable, continuous wave (cw), electron beam at 14 keV has been used to study energy flow, reaction rates, and radiative decay in rare gas plus halogen systems at high pressure. Steady state solutions to rate equations were used to isolate parameters which affect both the transient and steady state yield of 193 nm radiation from ArF and 157 nm radiation from F2. The scaling of pumping power density to the inverse 4.25 power and cube of the pressure allowed a wide range of reaction times, from nanoseconds to seconds, to be considered. The spectra and yields as a function of partial pressures were used to obtain energy transfer efficiencies near 10% for 193 nm in a Ne:Ar:F2,1:0.008:0.0004 mixture and near 5% for 157 nm in a Ne:F2,1:0.002 mixture at 23 bar pressure. Scaling to high brightness lamps and near cw lasers is possible. © 2000 American Institute of Physics. 
+
+neon
+argon
+fluorine
+gas mixtures
+optical pumping
+excimers
+reaction kinetics
+cathodoluminescence
+electron beam pumping
+radiation quenching
+molecule-molecule reactions
+ion-molecule reactions

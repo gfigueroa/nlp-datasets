@@ -1,0 +1,10 @@
+The size effect on thermal conductivity of a free-standing wire with rectangular cross-section is investigated. The electronic thermal conductivity is calculated within a Boltzmann transport equation approach. A simple expression for the reduction in conductivity due to the increase of boundary scattering is presented. The values of thermal conductivity deduced from our calculation are in good agreement with the experimental data for sodium and gold nanowires. The lattice thermal conductivities of silicon (Si) and cadmium telluride (CdTe) nanowires are examined on the basis of the equations of phonon radiative transfer. The calculated thermal conductivities of Si nanowires with square cross-section are found to be in good agreement with molecular dynamics results. The Umklapp and boundary scattering limited lattice thermal conductivities of CdTe nanowires are investigated theoretically by taking into account acoustic phonon dispersion. It is found that the thermal conductivity of nanowires decreases with decreasing side length. It is shown that this decrease of conductivity in wires is smaller than that of a film or a single layer of a superlattice with out-of-plane heat flux, but larger than in the case of in-plane heat flux. © 2002 American Institute of Physics. 
+
+thermal conductivity
+Boltzmann equation
+umklapp process
+nanostructured materials
+silicon
+elemental semiconductors
+cadmium compounds
+II-VI semiconductors

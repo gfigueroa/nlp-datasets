@@ -1,0 +1,10 @@
+The development of a number of models of slow relaxation in magnetic materials is reviewed. A phenomenological theory based on the intrinsic energy barrier is shown to explain the form of time dependence of the magnetization, including the logarithmic time dependence observed for systems with a relatively wide distribution of energy barriers. This formulation gives rise to useful analytical results which give generally good qualitative agreement with experiment. The slow relaxation is related to the irreversible magnetic behavior via a fictitious fluctuation field Hf which itself determines a quantity called the activation volume Vact. Both Hf and Vact are related to the magnetization reversal process. For granular materials Vact is generally smaller than the grain size. Computer simulations based on the Monte Carlo method are applied to the investigation of the behavior of thin films with perpendicular anisotropy. Detailed comparisons of the simulation with experimental data demonstrate the relationship between Vact and the micromagnetic magnetization reversal mode. Some recent models introducing thermal agitation into the micromagnetic formalism are discussed. 	
+
+GRANULAR MATERIALS
+THIN FILMS
+MAGNETIC AFTEREFFECT
+MATHEMATICAL MODELS
+COMPUTERIZED SIMULATION
+MONTE CARLO METHOD
+FLUCTUATIONS
+POTENTIAL BARRIER

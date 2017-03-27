@@ -1,0 +1,12 @@
+Fine equiaxed ³CoxFe2xO3 (x=0, 0.06) particles with a diameter ranging from 200 to 1000 Å were prepared by chemical precipitation. The average crystallite sizes were determined from xray line broadening measurements. The saturation magnetization and magnetocrystalline anisotropy of the particles were determined by using the approach to saturation. An empirical linear dependence of the specific saturation magnetization Ãs on the specific surface area Sa of the fine crystallites was obtained in the form of Ãs(S)=Ãs()(1ASa). The slope A which reflects the surface spin canting anomaly is different for ³Fe2O3 and ³Co0.06Fe1.94O3 particles. Under the supposition of the fine crystallite consisting of two parts, i.e., the surface layer, whose magnetic moment cannot be turned entirely along the direction of the applied field, but makes an average canting angle with the field, and the inner part, whose magnetic moment can be aligned along the direction of the applied field, the above formula can be interpreted well. The different slope A for ³Fe2O3 and ³Co0.06Fe1.94O3 particles may be caused by the different anisotropies of the two series particles.
+
+FERRIMAGNETIC MATERIALS
+TERNARY COMPOUNDS
+COBALT OXIDES
+IRON OXIDES
+MICROPARTICLES
+MAGNETIZATION
+MAGNETIC ANISOTROPY
+SIZE EFFECT
+SURFACE AREA
+TEMPERATURE RANGE 65273 K

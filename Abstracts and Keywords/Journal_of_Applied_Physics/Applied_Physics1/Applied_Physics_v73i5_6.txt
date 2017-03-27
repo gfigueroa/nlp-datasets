@@ -1,0 +1,10 @@
+Amorphous hydrogenated carbon films (aC:H) were deposited by the plasma decomposition of mixtures of 1,3 butadiene with different inert gas diluents (Ar, Ne, and He). Several characteristics of the plasma and the deposited films were investigated for deposition gas mixtures ranging in concentration from 0% to 90% of the diluent. Measurement of the optical emission from the plasma indicated the presence of the same dominant species from the hydrocarbon source (CH 430 nm system, and hydrogen Balmer lines) for all the mixtures containing the diluents, although the relative intensities were markedly different. The H/H2 and H/CH emission intensity ratios increased with the concentration of butadiene in argon and neondiluted mixtures while remaining relatively constant in butadiene/helium plasmas. Details of some the bonding configurations were determined from an analysis of the various IRabsorption bands. Film characterization included etch rate measurements in an oxygen plasma as well as the determination of the density and the optical band gap for different deposition gas mixtures. All the measurements suggest that, when the diluent concentration exceeds about 75%, the film structure undergoes a welldefined transition to a predominantly sp2 structure. The relation between the film properties and the deposition gas mixture and the reactive species present in the plasma is discussed.
+
+CARBON
+AMORPHOUS STATE
+HYDROGEN ADDITIONS
+CVD
+PLASMA DIAGNOSTICS
+BUTADIENE
+EMISSION SPECTRA
+ENERGY GAP

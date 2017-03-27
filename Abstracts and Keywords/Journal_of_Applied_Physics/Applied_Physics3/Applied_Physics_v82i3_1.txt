@@ -1,0 +1,9 @@
+The distribution of the single substitutional nitrogen impurity (NS0) through the thickness of diamond films grown by chemical vapor deposition has been studied using Electron Paramagnetic Resonance imaging. The design of an Electron Paramagnetic Resonance imaging probe is described. With this probe we have measured mean bulk concentrations down to a few parts per billion carbon atoms or equivalently < 1014 cm3 in diamond samples with dimensions 4.5×10×0.5 mm and achieved a through film spatial resolution of the NS0 distribution of 20 ¼m. © 1997 American Institute of Physics. 
+
+elemental semiconductors
+nitrogen
+paramagnetic resonance
+CVD coatings
+impurity distribution
+semiconductor thin films
+diamond

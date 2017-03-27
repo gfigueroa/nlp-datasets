@@ -1,0 +1,11 @@
+A highly stabilized hydrogenated amorphous silicon film was developed using a triode deposition system in which a mesh was installed between cathode and substrate in a plasma-enhanced chemical vapor deposition system. The hydrogen concentrations of the resulting films are very low compared with those of conventional films prepared at the same substrate temperature. It was observed that light-soaking stability of the obtained film is promising, which is confirmed by measuring a neutral spin density as well as an I-V characteristic of a Schottky diode. Reduction of densities of higher silane radicals during film growth is an important factor for controlling degradation.
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+semiconductor thin films
+semiconductor growth
+plasma CVD
+impurity distribution
+Schottky diodes

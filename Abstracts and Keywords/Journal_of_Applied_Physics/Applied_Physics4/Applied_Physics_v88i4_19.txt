@@ -1,0 +1,14 @@
+In situ crystalline lead zirconate (PZ) thin films were deposited on platinum metallized silicon substrates, using a 248 nm KrF pulsed excimer laser ablation technique. The antiferroelectricity in PZ thin films was confirmed by means of P vs E and C vs V measurements. The maximum observed saturated polarization (Ps) was 44 ¼C/cm2 at an applied field of 200 kV/cm. The calculated forward and backward switching fields were 71 and 154 kV/cm, respectively. The dielectric phase transition temperature was at <219
+°C with zero dc bias and was increased to 290
+°C in the presence of 4 V dc bias. Detailed comprehensive study was done on PZ thin films to understand the charge carrier transport with respect to frequency domain of dielectric and ac conductivity measurements. Effect of simultaneous dc bias on the frequency response of the dielectric dispersion and ac conductivity studies were done to understand the nature of charge carrier transport and their activation energies. The calculated activation energies, from ac conductivity and conductance measurements, in the absence of external dc bias were 0.42 and 0.37 eV, respectively. Measurements with the simultaneous application of 4 V dc bias gave two activation energy values 0.38 and 1.76 eV, respectively. The lower and higher activation energies were attributed to the shallow and deep trap energies respectively. © 2000 American Institute of Physics. 
+
+lead compounds
+antiferroelectric materials
+dielectric thin films
+pulsed laser deposition
+polarisation
+permittivity
+ferroelectric switching
+deep levels
+electron traps
+ferroelectric transitions

@@ -1,0 +1,7 @@
+In this paper, a control method for space robot formation flying is proposed. A neural network based on radial basis function is used to modify the parameters of exponent reaching law of sliding mode control in order to get an optimal balance between convergence speed of the sliding quantity and fuel consumption; Exponent reaching law with saturation function is adopted to weaken the chattering which is actuated by unmodeled dynamics and the high frequency switch control; And also, the sliding quantity is constructed as a PID form of the relative position error to improve the control accuracy. The results of the simulation prove the effectiveness of the proposed neural network-based sliding mode control method for space robot formation flying.
+
+formation flying
+neural network
+simulation
+sliding mode control
+space robot

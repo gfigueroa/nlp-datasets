@@ -1,0 +1,18 @@
+The concentrations of transition-metal impurities in a photovoltaic-grade multicrystalline silicon ingot have been measured by neutron activation analysis. The results show that the concentrations of Fe, Co, and Cu are determined by segregation from the liquid-to-solid phase in the central regions of the ingot. This produces high concentrations near the top of the ingot, which subsequently diffuse back into the ingot during cooling. The extent of this back diffusion is shown to correlate to the diffusivity of the impurities. Near the bottom, the concentrations are higher again due to solid-state diffusion from the crucible after crystallization has occurred. Measurement of the interstitial Fe concentration along the ingot shows that the vast majority of the Fe is precipitated during ingot growth. Further analysis suggests that this precipitation occurs mostly through segregation to extrinsic defects at high temperature rather than through solubility-limit-driven precipitation during ingot cooling.
+
+silicon
+iron
+copper
+cobalt
+elemental semiconductors
+ingots
+impurities
+impurity distribution
+diffusion
+segregation
+precipitation
+interstitials
+crystallisation
+neutron activation analysis
+crystal growth from melt
+semiconductor growth

@@ -1,0 +1,8 @@
+We reply to the comment by Guerin and Guvarch concerning the phase equilibria of the GaNiAs ternary system. We refute their position that the quench rate of the phase diagram samples is not important and that the solid-state phase equilibria of the GaNiAs system does not change significantly between the temperatures of 25 and 800	°C. It is also demonstrated that the occurrence of ordered superlattice structures is not inconsistent with our work. We conclude that an adequate number of samples were prepared in our study to justify the modifications proposed to the GaNiAs isothermal section and it is an accurate representation of the phase equilibria at 600	°C. © 1997 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+nickel
+phase equilibrium
+phase diagrams
+semiconductor-metal boundaries

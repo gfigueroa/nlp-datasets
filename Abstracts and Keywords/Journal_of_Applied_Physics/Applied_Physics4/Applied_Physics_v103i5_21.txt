@@ -1,0 +1,7 @@
+We tested the ac electrical properties of dielectric poly(propylmetacril heptaisobutyl-POSS)-co-(N-butylmethacrylate) thin films in order to better understand their working mechanism as relative humidity sensing devices. Samples with a 15% and 25% of cage content in weigh have been characterized as a function of temperature and frequency. The different frequency responses are reported and discussed in terms of the existing models. The temperature glass transition (Tg) has been measured by means of an electrical method on films in the same sensor configuration and correlated with the electronic transport properties. Furthermore, the interest of the material with a 15% of cage content is discussed in the contest of basic studies concerning water confinement effects at the molecular scale, i.e., the supercooling of water.
+
+dielectric thin films
+glass transition
+humidity sensors
+polymer films
+supercooling

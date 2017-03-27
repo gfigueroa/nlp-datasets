@@ -1,0 +1,6 @@
+A method for measuring processes that alter the degree of exchange bias (HEX) for a thin film by monitoring HEX indirectly through the magnetoresistance (MR) is described. In unbiased magnetic films and multilayers, the positive and negative magnetic field sweep MR spectra are symmetric about zero applied field. Introducing an exchange bias to the film shifts the intersection point of these two curves away from zero to HEX. Taking the difference in the measured MR at zero field for a positive and negative field pulse (measuring ”MR at zero field) gives a relative measure of HEX. Any variations in the exchange bias field will result in a corresponding change in the ”MR, which, unlike HEX, can be measured with two points rather quickly, making it ideal for sensor applications. A method for selecting material parameters for increased sensitivity or operational range is given. © 2004 American Institute of Physics. 
+
+magnetic sensors
+giant magnetoresistance
+magnetic thin films
+magnetic multilayers

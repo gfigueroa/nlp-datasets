@@ -1,0 +1,7 @@
+Two spatial dimension front tracking simulations have been performed to study the growth of polycrystalline, faceted films from randomly oriented nuclei. We present strategies to optimize the microstructure, morphology, and texture of thin films during chemical vapor deposition. In particular, we examine how changes in reactor conditions can be used to modify the mean grain size, surface roughness, crystallographic texture, and growth zones. Changing growth conditions once the target bulk film structure is established can be used to establish a thin surface region with much different structural characteristics. Analytical models are provided to aid in choosing the appropriate changes in reactor conditions and surface layer thickness to achieve optimal properties. © 2001 American Institute of Physics.
+
+thin films
+chemical vapour deposition
+surface topography
+texture
+grain size

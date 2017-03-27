@@ -1,0 +1,6 @@
+The magnetic properties of nanoarrays have been investigated using Brillouin scattering, magneto-optical Kerr effect (MOKE) and diffracted-MOKE (DMOKE) techniques. The anisotropies in negative arrays are found to be due to the shape of the holes and not due to the array itself. The DMOKE results allow us to extract the domain pattern at remanence. © 2001 American Institute of Physics. 
+
+Brillouin spectra
+Kerr magneto-optical effect
+quantum dots
+remanence

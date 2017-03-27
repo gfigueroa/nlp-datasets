@@ -1,0 +1,6 @@
+This paper presents the &ldquo;situation manager&rdquo;, a tool that includes both a language and an efficient runtime execution mechanism aimed at reducing the complexity of active applications. This tool follows the observation that in many cases there is a gap between current tools that enable one to react to a single event (following the ECA: event-condition-action paradigm) and the reality in which a single event may not require any reaction; however, the reaction should be given to patterns over the event history.The concept of presented in this paper extends the concept of in its expressive power, flexibility, and usability. This paper motivates the work, surveys other efforts in this area, and discusses both the language and the execution model.
+
+Active databases
+Active technology
+Composite events
+High-level languages

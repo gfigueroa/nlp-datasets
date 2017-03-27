@@ -1,0 +1,13 @@
+Capacitance characteristics with voltage and frequency of n+-GaN/AlxGa1xN heterojunction ultraviolet (UV)-infrared (IR) photodetectors are reported. A distinct capacitance step and capacitance hysteresis have been attributed to trap energy states located just above the Fermi level at the GaN/AlGaN interface, most likely due to N-vacancy and/or C-donor impurities. The presence of the hysteresis is due to the accumulation of charge at the heterointerface, which is dependent on the location of the continuum of interface trap states relative to the Fermi level. The Al fraction in the barrier layer has been found to significantly change the positions of the interface trap states relative to the Fermi level.
+
+aluminium compounds
+capacitance
+Fermi level
+gallium compounds
+III-V semiconductors
+impurities
+infrared detectors
+interface states
+semiconductor heterojunctions
+ultraviolet detectors
+vacancies (crystal)

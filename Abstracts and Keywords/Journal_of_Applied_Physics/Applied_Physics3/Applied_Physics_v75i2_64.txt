@@ -1,0 +1,13 @@
+An electrical contact material consisting of an initially metastable solid solution of Cu in Mo is shown to provide improved adhesion to CuInSe2 when the Cu content exceeds <30 at.	%. During physicalvapor deposition of CuInSe2 on these CuMo solutions at elevated temperatures, phase separation occurs and Cu is released into the CuInSe2 layer. The Cu release begins at approximately 450	°C and increases in rate with increasing temperature. The release of Cu into the film along with consequent changes in the back contact are responsible for the improved adhesion. Similar adhesion improvements were obtained using annealed CuMo layers in which phase separation occurred before CuInSe2 growth. Photovoltaic devices based on CuInSe2 on Cu0.3Mo0.7 back contacts showed improved performance and uniformity.
+
+PHOTOVOLTAIC CELLS
+ADHESION
+ELECTRIC CONTACTS
+COPPER
+MOLYBDENUM
+COPPER SELENIDES
+INDIUM SELENIDES
+SOLID SOLUTIONS
+PHYSICAL VAPOR DEPOSITION
+THIN FILMS
+ANNEALING

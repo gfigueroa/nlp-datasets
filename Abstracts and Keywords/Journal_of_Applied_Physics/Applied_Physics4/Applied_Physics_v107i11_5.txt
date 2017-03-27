@@ -1,0 +1,11 @@
+Solid solutions of (1-z) (Sr0.7Bi0.2û0.1)TiO3+z(Na0.5Bi0.5)TiO3 (z = 01) system are synthesized. Dielectric measurement reveals that two dielectric anomalies exist over the temperature range of 150680 K. One is the dielectric peak with significant frequency dispersion below 500 K, whose nature evolves from a ferroelectric relaxor (z d 0.5) to a ferroelectric (z e 0.65) with increasing z. The other is the dielectric anomaly without frequency dispersion above 520 K, which emerges at z e 0.5, and is attributed to the paraelectric-antiferroelectric phase transition of (Na0.5Bi0.5)TiO3 sublattice. Ferroelectric hysteresis loops are observed for z&gt;0.65 and a significantly high remnant polarization < 51¼C/cm2 is obtained at z = 0.9. A core-shell microstructure is observed by transmission electron microscopy. The physical mechanism of the evolution of the dielectric/ferroelectric properties and the microstructure of the solid solutions is discussed.
+
+barium compounds
+crystal microstructure
+dielectric hysteresis
+ferroelectric transitions
+relaxor ferroelectrics
+sodium compounds
+solid solutions
+strontium compounds
+transmission electron microscopy

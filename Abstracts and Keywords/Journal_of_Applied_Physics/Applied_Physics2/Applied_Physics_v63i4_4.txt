@@ -1,0 +1,8 @@
+A model of multiple processes is used to simulate the behavior of reaction in detonation of heterogeneous high explosives. The features of the model are (1) the partition of the explosive medium into hot spots and the region exclusive of hot spots and (2) the separation of the mechanicalthermal process and chemical process. For each process, a characteristic time is assigned and is defined by a phenomenological relation. With assumptions, some fast processes are ignored in the governing equations. This investigation indicates the necessity of including a slow process near the end of the reaction. Comparisons with experiments using a FabryPerot velocimeter are presented for triaminotrinitrobenzene.
+
+DETONATIONS
+MATHEMATICAL MODELS
+EXPLOSIVES
+EXPLOSIONS
+SIMULATION
+TNT

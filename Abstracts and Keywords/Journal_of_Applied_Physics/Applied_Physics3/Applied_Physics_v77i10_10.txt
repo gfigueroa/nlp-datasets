@@ -1,0 +1,9 @@
+Conducting RuOx thin films are fabricated by reactive sputtering with Ar+O2 plasma for an application as the bottom electrode in a ferroelectric thin film capacitor. The structure and composition of RuOx should be controlled to promote the required characteristics in the deposited ferroelectric film. The stoichiometry and resistivity of RuOx are easily controlled by varying the relative O2 partial pressure in the sputtering ambient between 10% and 50%, where the oxygen composition is varied from 2.0 to 2.4 and the resistivity of 100nmthick RuO2 film is changed from 145 to 280 ¼©	cm corresponding to the variation of oxygen concentration. The films deposited in O2 pressures lower than 30% show preferential (110) RuO2 grain growth, whereas they show (101) in higher O2 pressures. The films deposited at high O2 pressures show some decomposition of the film during a high temperature annealing in N2 ambient. © 1995 American Institute of Physics.
+
+RUTHENIUM OXIDES
+THIN FILMS
+REACTIVE SPUTTERING
+OXYGEN
+ELECTRIC CONDUCTIVITY
+CHEMICAL COMPOSITION
+ELECTRODES

@@ -1,0 +1,8 @@
+This paper focuses on the problems that arise when integrating data from heterogeneous sources in a single, unified database view. At first, we give a detailed analysis of the kinds of structural heterogeneity that occur when unified views are derived from different database systems. We present the results in a multiple tier architecture which distinguishes different levels of heterogeneity and relates them to their underlying causes as well as to the mapping conflicts resulting from the view derivation process. As the second essential contribution, the paper presents our approach to a mapping language solving the identified conflicts. The main characteristics of the language are its descriptiveness, its capability to map between schemas written in the relational, object-oriented, ER, or EXPRESS data model, and its facilities for specifying user-defined update operations on the view that are to be propagated to the data sources. Finally, we briefly discuss how this mapping information is employed to convert queries formulated with respect to the integrated view, into database operations over the heterogeneous data sources.
+
+Heterogeneity
+Legacy systems
+Mapping language
+Schema integration
+Schema mapping
+Updatable views

@@ -1,0 +1,19 @@
+Using spectroscopic ellipsometry and Raman spectroscopy, we measured the pseudodielectric function and the phonon frequencies of fluorinated nanocrystalline carbon (nc-C:F) thin films grown on silicon substrate at varying growth temperature and gas flux ratio of CH4 and CF4. Utilizing the TaucLorentzian formula, we performed multilayer analysis to estimate the dielectric function of the fluorinated nanocrystalline carbon thin films. We also adopted Gaussian-like density-of-states model proposed by Demichelis et al. [Phys. Rev. B 45, 14364 (1992)] and estimated the amplitude A, the transition energy E¿, and the broadening √¿ of ¿í¿ transitions. Based on this model, we explained the change of the optical gap and the refractive index in terms of the change of the amplitude A rather than the shift of transition energy E¿ of ¿í¿ transitions. Raman and ellipsometric study suggested that the average size of nanocrystallites in the fluorinated carbon thin films was smaller than that of amorphous hydrogenated carbon films studied by Hong et al. [Thin Solid Films 352, 41 (1999)]. © 2001 American Institute of Physics. 
+
+carbon
+fluorine
+amorphous state
+thin films
+ellipsometry
+Raman spectra
+phonon spectra
+dielectric function
+nanostructured materials
+particle size
+crystallites
+electronic density of states
+refractive index
+optical constants
+energy gap
+spectral line shift
+spectral line broadening

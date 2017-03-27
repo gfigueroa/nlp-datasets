@@ -1,0 +1,9 @@
+This work attempts to determine how percolation at an equilibrium state is correlated to percolation under experimental conditions. The dynamic process of forming conductive networks in carbon-black (CB)-filled poly(methyl methacrylate) composites was investigated by real-time tracing the time dependence of electrical resistivity during isothermal treatments. It was observed that the dynamic percolation curves maintains the same shape and shift to a shorter percolation time with increasing annealing temperature and filler concentration. An Arrhenius plot of the shift factor against the annealing temperature shows a linear relationship, irrespective of the filler concentration, and the activation energy of the percolation time is close to the activation energy of the zero-shear-rate viscosity of the polymer matrix. Furthermore, an increase in the thermodynamic interactions between CB and the polymer matrix causes a large reduction in polymer mobility, resulting in an increase in the percolation time. These results lead to the conclusion that percolation is delayed by the bulk mobility of polymer layers surrounding CB particles. An experimental approach for determination of the retardation time is proposed based on theoretical analysis of the dynamic movement of the carbon particles. It is suggested that the difference in the kinetic history with respect to percolation among different composite systems can be eliminated by normalizing the experimental conditions to the same value of retardation time. © 2000 American Institute of Physics. 
+
+carbon
+filled polymers
+conducting polymers
+electrical resistivity
+percolation
+annealing
+thermodynamic properties

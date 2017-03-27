@@ -1,0 +1,6 @@
+A common design of the sensor node is usually not in mobility. The major reason is that long-term motion will cost a lot of energy. But from the other point of view, a mobile sensor node is useful. The accuracy of localization plays an important role for a mobile sensor node. However it is very hard to achieve much highly precise localization for getting a mobile sensor node position data. How to enhance the performance of localization is the most common and important goals. In this paper we used CI (covariance intersection) theory to fuse RSS (received signal strength) and dead-reckoning localization in order to increase the accuracy of localization. Our experiment result shows that the mean distance error is below four percentages. Comparing to RSS and dead-reckoning localization, the accuracy of localization is improved. This paper brings out a reliable algorithm through CI data fusion method to fuse the RSS and dead-reckoning localization estimations.
+
+CI
+Dead-reckoning
+Mobile sensor node
+RSS

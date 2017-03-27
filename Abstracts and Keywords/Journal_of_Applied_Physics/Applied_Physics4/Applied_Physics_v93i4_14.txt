@@ -1,0 +1,15 @@
+Boron nitride (BN) thin films have been deposited by magnetron sputtering of an hexagonal BN (h-BN) target with an additional flux of aluminum provided by a special Al sputtering target. Up to an aluminum percentage of about 1.0 at.
+% the formation of the cubic BN (c-BN) phase was not influenced by the aluminum addition. An Al content of 1.3 at.
+% was connected with a remarkable delay in the transition from h-BN to c-BN growth as well as a certain deterioration in the crystal quality. An aluminum flux causing a concentration of 1.5 at.
+% did prevent the growth of the cubic BN phase completely. The dynamics of impurity incorporation were investigated using secondary ion mass spectrometry measurements. We found that the aluminum electrode plays an important role in the incorporation of hydrogen in the films. In connection with other results it can be concluded that for both h-BN and c-BN strong evidence for substitutional incorporation of aluminum on boron sites exists. Cross-section transmission electron microscopy revealed that the formation of the c-BN phase starts at particular sites (c-BN nuclei) which broaden via a wedge shaped growth up to the point where the c-BN nucleation is completed and a nanocrystalline, pure c-BN layer grows. Hence, the interface between h-BN and c-BN has a jagged shape. This structure of the films h-BN/c-BN was found to be essentially independent of the Al incorporation. © 2003 American Institute of Physics. 
+
+boron compounds
+aluminium
+nucleation
+semiconductor thin films
+impurity distribution
+sputter deposition
+III-V semiconductors
+wide band gap semiconductors
+secondary ion mass spectra
+transmission electron microscopy

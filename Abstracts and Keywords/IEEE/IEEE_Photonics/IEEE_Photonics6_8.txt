@@ -1,0 +1,5 @@
+Fractional motion estimation (FME) is an important part of the H.264/AVC video encoding standard. The algorithm can significantly increase the compression ratio of video encoders while at the same time improve video quality. The FME algorithm, however, is also computationally expensive and can consist of over 45% of the total motion estimation process. To maximize the performance and efficiency of the FME implementations on Field-Programmable Gate Arrays (FPGAs), one needs to effectively exploit the inherent parallelism in the algorithm. In this work, we define two scalability approaches in order to intelligently parallelize the computing hardware. We implemented five scaled FME designs on a Xilinx XC5VLX330T (Virtex-5) FPGA. We found that scaling vertically with an 4 &#x00D7; 4 subblock is more efficient than scaling horizontally across several subblocks. It is shown that the best vertically scaled design can achieve 128 fps when encoding full 1920 &#x00D7; 1088 progressive HDTV video with only 20.7K LUTS and 23.4K registers.
+
+Field-Programmable gate Arrays
+Fractional Motion Estimation
+H.264/AVC

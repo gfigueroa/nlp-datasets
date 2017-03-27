@@ -1,0 +1,12 @@
+A compact ultrahigh-vacuum chamber, specially designed to allow in situ Brillouin light-scattering (BLS) and surface magneto-optical Kerr-effect measurements has been set up. Experimental results relative to both the structure and the magnetic properties of ultrathin Fe films grown by e-beam evaporation on a Cu(110) single crystal are presented. Low-energy electron diffraction patterns account for epitaxial growth of fcc Fe(110) up to 46 Å, followed by a transition to a more disordered state, consisting of bcc Fe domains. The BLS analysis enabled us to study the dependence of the spin-wave frequency on the angle of incidence of light, on the intensity of the magnetic field, and on its direction on the surface plane. © 2001 American Institute of Physics. 
+
+iron
+copper
+ferromagnetic materials
+magnetic epitaxial layers
+Brillouin spectra
+Kerr magneto-optical effect
+low energy electron diffraction
+spin waves
+surface magnetism
+magnetic anisotropy

@@ -1,0 +1,10 @@
+Magnetoimpedance behaviors and thermal effects of a Co/Cu/Co/Py pseudo-spin-valve (PSV) with a nano-oxide layer (NOL) were studied. The PSV can be regarded as a combination of resistances, inductances, and capacitances. In addition, equivalent circuit theory can be used to analyze the ac behavior of this system. The imaginary part of the magnetoimpedance (magnetoreactance) ratio is more than 1700% at the resonance frequency (fr) = 476kHz at room temperature (RT). The dc magnetoresistance (MR) ratio decreases as the annealing temperature increases because the NOL is formed at the interface between the spacer and the magnetic layer. The NOL deteriorates the differential spin scattering and reduces the dc MR ratio. Impedance spectroscopy was utilized to analyze the capacitance effect from NOL after annealing. The effective capacitance of the PSV was 21.8 nF at RT and changed to 11.8 nF after annealing at 200	°C. The useful equivalent capacitor circuit not only is a nondestructive measurement technology but can also explain the experimental results and prove the formation of the NOL.
+
+annealing
+cobalt
+copper
+equivalent circuits
+giant magnetoresistance
+inductance
+Permalloy
+spin valves

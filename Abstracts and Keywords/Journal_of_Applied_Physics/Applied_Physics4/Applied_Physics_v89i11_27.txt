@@ -1,0 +1,11 @@
+We performed a detailed study of the magnetization reversal in polycrystalline exchange-coupled NiO/Co bilayers over 10 decades of field sweep rate dH/dt for different NiO and Co thicknesses. For all sweep rates and thicknesses, the symmetry of the hysteresis loops shows that an identical pinning strength has to be overcome in both directions of the reversal. At low dH/dt the reversal is governed by domain wall displacement while domain nucleation is dominant at higher ones. The dH/dt at which the transition between the two regimes takes place depends on the relative thickness of the NiO and Co layers. It increases (decreases) when the Co (NiO) thickness is increased. Experimentally, it was found that the energy barrier varies linearly with the square root of the area corresponding to the activation (Barkhausen) volume which is consistent with a random walk model of the coupling between antiferromagnetic and ferromagnetic layers. The results can be explained in terms of a thermally activated switching of the NiO magnetization dragged by the Co reversal. © 2001 American Institute of Physics.
+
+magnetisation reversal
+magnetic hysteresis
+magnetic switching
+nickel compounds
+cobalt
+interface magnetism
+exchange interactions (electron)
+antiferromagnetic materials
+ferromagnetic materials

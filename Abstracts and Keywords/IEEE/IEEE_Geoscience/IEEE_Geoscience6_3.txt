@@ -1,0 +1,5 @@
+Canopy spectral invariant variables, escape probability and recollision probability, are wavelength independent and intrinsic canopy structure properties. They provide a physical interpretation of the correlation between canopy architecture and multi-angle spectral data. The 500m Moderate resolution Imaging Spectroadiometer (MODIS) Bidirectional Reflectance Distribution Function (BRDF) product from study sites at Howland Forest, Maine are used to develop multivariate linear regression models to estimate canopy vertical structure using both escape probabilities and directional reflectance. These are compared with canopy height information which has been retrieved from the airborne Laser Vegetation Imaging Sensor (LVIS) at a finer scale spatial resolution. Both the escape probability and the directional reflectance approaches achieve similar results with correlation coefficients of 0.63-0.66. This suggests that the MODIS 500m BRDF data can be useful in extrapolating limited lidar information on canopy vertical structure to larger regional areas.
+
+LVIS
+MODIS BRDF
+canopy vertical structure

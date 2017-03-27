@@ -1,0 +1,7 @@
+This paper focuses on the design, building, error evaluation, and performance assessment of a physical simulator for a variable-speed wind energy conversion system (WECS). Such simulator, dedicated to control algorithms validation, must replicate the dynamical behavior of the WECS physically in real time. To this end, software parts, which model subsystems of the plant, and hardware parts, taken as they are from the plant, are closed-loop connected, thus implementing a hardware-in-the-loop (HIL) simulator. The simulator interacts with a software-simulated environment-in this case, the wind velocity-in order to run experiments under controllable conditions. Controllers to be tested interact directly with the hardware part of the simulator, thus better approaching the behavior of the real-world WECS. A complete grid-connected generation chain employing a horizontal-axis fixed-pitch three-bladed rotor permanent-magnet-synchronous-generator-based WECS is chosen as example for the design and performance assessment of an HIL simulator, both in frequency and time domain.
+
+Digital control
+electrical grid interfacing
+hardware-in-the-loop (HIL) simulation
+variable-speed wind energy conversion systems (WECSs)
+vector control

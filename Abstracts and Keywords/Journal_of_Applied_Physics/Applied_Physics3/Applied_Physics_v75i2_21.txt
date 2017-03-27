@@ -1,0 +1,11 @@
+Epitaxial growth in the TiN/Si and TiN/GaAs metalsemiconductor systems with a large lattice mismatch was investigated. The orientation relationships have been found to be 001	TiN%001	Si for TiN growth on Si(001) and [001]TiN%[110]GaAs and [110]TiN%[110]GaAs for TiN growth on GaAs(001). The epitaxial growth is characterized by domain epitaxial orientation relationships with m lattice constants of epilayer matching with n of the substrate and with a small residual domain mismatch present in the epilayer. This residual mismatch is responsible for a coherent strain energy. The magnitude of compression of TiN bond in the first atomic layer, contributing to the chemical free energy during the initial stages of growth, is found to be a very important factor in determining the orientation relationship. This result was used to explain the differences in the orientation relationships between TiN/Si and TiN/GaAs systems. The various energy terms associated with the domain epitaxial growth are evaluated to illustrate that the domain epitaxial growth is energetically favorable compared to the latticemismatched epitaxial growth. The results of this analysis illustrate that the observed variations in the epitaxial growth are consistent with the minimum energy configurations associated with the domain epitaxial growth.
+
+TITANIUM NITRIDES
+EPITAXY
+SILICON
+GALLIUM ARSENIDES
+ORIENTATION
+FILM GROWTH
+INTERFACE STRUCTURE
+MISFIT DISLOCATIONS
+STRAINS

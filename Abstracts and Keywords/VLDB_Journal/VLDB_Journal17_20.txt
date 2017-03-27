@@ -1,0 +1,6 @@
+In this paper, we propose an extensible architecture for database engines where satellite databases are used to scale out and implement additional functionality for a centralized database engine. The architecture uses a middleware layer that offers consistent views and a single system image over a cluster of machines with database engines. One of these engines acts as a master copy while the others are read-only snapshots which we call satellites. The satellites are lightweight DBMSs used for scalability and to provide functionality difficult or expensive to implement in the main engine. Our approach also supports the dynamic creation of satellites to be able to autonomously adapt to varying loads. The paper presents the architecture, discusses the research problems it raises, and validates its feasibility with extensive experimental results.
+
+Satellite databases
+Snapshot isolation
+Extending database functionality
+Dynamic satellite creation

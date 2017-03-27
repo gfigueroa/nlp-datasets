@@ -1,0 +1,5 @@
+This paper presents an evolution of a biometric identity verification system based on heart sounds. The system is built using Gaussian Mixture Models (GMMs) and uses features extracted both from the spectral domain and the time domain in order to improve the performance, measured in terms of Equal Error Rate (EER), with respect to similar systems. The best result obtained using our approach, computed over a database of 165 people, is an EER of 13,70 %, that outperforms other similar approaches.
+
+Gaussian Mixture Models
+biometric recognition
+digital heart sounds analysis

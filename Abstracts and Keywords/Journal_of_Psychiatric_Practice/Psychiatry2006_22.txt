@@ -1,0 +1,12 @@
+The authors review available controlled trials of bipolar maintenance treatment and discuss the strengths and weaknesses of various study designs. Bipolar maintenance trials are organized according to the features of their designs, such as use of responder-enriched samples; inclusion following an index manic versus an index depressive episode; outcome defined as relapse into mania, depression, or either; and use of survival analysis. Pivotal studies of lithium, divalproex, lamotrigine, olanzapine, aripiprazole, and other medications are reviewed. The directional efficacy of the different medications as maintenance treatment is discussed, with treatments differentiated in terms of whether they primarily prolong time to mania or to depression or have bidirectional effects. Also discussed are findings concerning the continuation of acute treatments, including antidepressants, into the maintenance phase; dosage adjustments for maintenance treatment; the rationale for combination treatments; and implications of comorbid substance abuse and strategies for its management. Directions for future research are suggested. 
+
+bipolar disorder
+maintenance treatment
+lithium
+divalproex
+carbamazepine
+lamotrigine
+olanzapine
+aripiprazole
+anticonvulsant
+antipsychotic

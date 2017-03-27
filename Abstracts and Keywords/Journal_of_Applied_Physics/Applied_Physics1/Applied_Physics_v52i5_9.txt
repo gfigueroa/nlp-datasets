@@ -1,0 +1,14 @@
+The change of the elastic constant c44 of Si is theoretically investigated in the presence of both free electrons and bound electrons. While in ptype semiconductors the boundhole contribution to the change of the elastic constant c44 is qualitatively different from the freehole contribution, the boundelectron contribution in ntype Si is essentially identical to the freeelectron contribution. It is shown that this phenomenon results from the facts that the donor ground state of silicon is a singlet and that the six conduction valleys of silicon are uniformly lowered by a shear acoustic wave.
+
+SILICON
+ELASTICITY
+NTYPE CONDUCTORS
+ELECTRONS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+BOUND STATE
+GROUND STATES
+HOLES
+COMPARATIVE EVALUATIONS
+SHEAR
+SOUND WAVES

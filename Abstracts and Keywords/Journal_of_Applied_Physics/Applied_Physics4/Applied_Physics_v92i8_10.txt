@@ -1,0 +1,15 @@
+Thin films of BaTiO3 and SrTiO3 and their superlattice were grown on SrTiO3 substrates using oxygen from the substrates as an oxygen source. Epitaxial growths were carried out by coevaporations of the component metals under ultrahigh vacuum without introducing any oxidants. The growth mechanism in the extremely low oxidation ambient was studied. Oxygen was automatically fed from the substrate to the growing film surface. As a result, oxygen vacancies were incorporated deep into the inside of the SrTiO3 substrate, confirmed by means of positron annihilation. The local oxygen deficiency at the growing surface is buffered by the fast diffusion of incorporated oxygen vacancies into deep inside of the substrate, avoiding decomposition or nucleation of the metallic phases on the surface. The BaTiO3/SrTiO3 interfaces were formed without intermixing, despite considerable amounts of oxygen having moved through the interfaces. © 2002 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+superlattices
+epitaxial layers
+ferroelectric thin films
+vapour phase epitaxial growth
+vacuum deposition
+vacancies (crystal)
+substrates
+positron annihilation
+reflection high energy electron diffraction
+Auger electron spectra
+X-ray diffraction

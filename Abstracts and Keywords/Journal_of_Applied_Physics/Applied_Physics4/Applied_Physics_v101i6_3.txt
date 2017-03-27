@@ -1,0 +1,12 @@
+Thin PbTe films (thickness 500600Å), deposited on SrTiO3, have been investigated by electric field effect (EFE). The high resistivity of such thin films warrants a high sensitivity of the EFE method. The SrTiO3 substrate serves as the dielectric layer in the gate-dielectric-PbTe structure. Due to the large dielectric constant of SrTiO3, particularly at low temperatures, the electric displacement D in the film reaches the high value of < 108V/cm, and the EFE introduced charge into the PbTe film amounts to < 8¼C/cm2. The high D permits to measure the EFE resistance and Hall constant over a wide region of D, revealing the characteristic features of their D dependence. An appropriate theoretical model has been formulated, showing that, for such films, one can measure the dependence of the Fermi level on D. In fact, we demonstrate that by shifting the Fermi level across the gap by varying D, the density of states of the in-gap states can be mapped out. Our results show that the PbTe layers studied possess a mobility gap exceeding the gap of bulk PbTe.
+
+lead compounds
+IV-VI semiconductors
+semiconductor thin films
+high-k dielectric thin films
+electrical resistivity
+semiconductor-insulator boundaries
+Hall effect
+Fermi level
+electronic density of states
+carrier mobility

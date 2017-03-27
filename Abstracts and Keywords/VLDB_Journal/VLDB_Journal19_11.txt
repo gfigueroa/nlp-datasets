@@ -1,0 +1,8 @@
+With recent advances in mobile computing technologies, mobile devices can render 3D objects realistically. Users of these devices such as tourists, mixed-reality gamers, and rescue officers, often need real-time retrieval of 3D objects over wireless networks. Due to bandwidth and latency restrictions in mobile settings, efficient continuous retrieval of 3D objects is a major challenge. In this paper, we present a motion-aware approach to this problem in a client-server model. Specifically, we propose: (i) representing 3D objects in multiple resolutions through wavelets to facilitate motion-aware incremental retrieval, (ii) motion-aware buffer management schemes for both client and server, (iii) an efficient index structure for 3D objects represented by wavelets, and (iv) techniques for processing group queries exploiting group motion behavior of clients. The results of our extensive experimental study demonstrate the effectiveness of our solution.
+
+Continuous queries
+Spatial indexing
+Spatial databases
+Wavelets
+3D objects
+Augmented-reality

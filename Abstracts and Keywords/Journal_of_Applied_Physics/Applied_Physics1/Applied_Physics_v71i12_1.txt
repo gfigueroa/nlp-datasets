@@ -1,0 +1,11 @@
+Bismuth fluoride, BiF, a possible energy acceptor molecule in a chemically pumped donoracceptor electronic transition laser has been produced at number densities exceeding 1013 molecules/cc in a flow tube reactor. A high voltage discharge was used to produce bismuth and fluorine atoms which combined in a threebody collision to form ground state BiF (X1). Laser induced fluorescence studies confirmed that BiF was formed following the discharge. A vibrational temperature of 581±35 K and rotational temperatures of 340 to 370 K were measured for BiF (X1). Laser absorption measurements were performed to obtain the number density. An absorption cross section, calculated from the physical properties of BiF, was used for the determination.
+
+BISMUTH FLUORIDES
+LASER SPECTROSCOPY
+CHEMICAL LASERS
+FLUORESCENCE
+VIBRATIONAL STATES
+ROTATIONAL STATES
+ABSORPTION SPECTROSCOPY
+CROSS SECTIONS
+TEMPERATURE MEASUREMENT

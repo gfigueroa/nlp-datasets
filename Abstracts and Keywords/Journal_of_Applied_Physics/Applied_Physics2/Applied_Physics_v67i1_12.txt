@@ -1,0 +1,13 @@
+Results on e+ transmission reemission properties are presented for three singlecrystal W(100) films of thicknesses 1000, 2000, and 3100 Å for incident e+ energies of 1.416 keV. The films were first cleaned with a 10s laser pulse, then annealed in O2 (106 Torr), and finally heated in a vacuum (109 Torr). Thereafter the films showed good reemission properties. The maximum transmitted yields of slow e+ were 38% (1000 Å), 27% (2000 Å), and 17% (3100 Å) at incident e+ energies of 4, 5.2, and 7.2 keV, respectively. The energy distributions of the reemitted e+ were characterized by a full width half maximum of 0.150.2 eV located at 2.8 eV containing 60%70% of the e+ superimposed onto a nearly uniform distribution covering the energy interval 02.8 eV.
+
+TUNGSTEN
+FILMS
+LASER RADIATION
+ANNEALING
+MONOCRYSTALS
+POSITRONS
+TRANSMISSION
+KEV RANGE 0110
+KEV RANGE 10100
+ULTRAHIGH VACUUM
+CHARGEDPARTICLE TRANSPORT

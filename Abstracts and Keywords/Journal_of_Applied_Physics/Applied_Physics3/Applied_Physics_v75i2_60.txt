@@ -1,0 +1,10 @@
+Flattened diamond crystals have been synthesized by microwave plasma chemical vapor deposition method in a COH2 system. The flattened diamond crystals are formed by a reentrant corner effect, which resulted from formation of the twin boundaries. The flattened diamond crystals grow with {111} oriented surface, but do not grow epitaxially on the Si	{111} substrate, probably because the source gas includes oxygencontaining gas (CO gas) and the substrate temperature is comparatively low.
+
+DIAMONDS
+CVD
+TWINNING
+CRYSTAL GROWTH
+CRYSTAL FACES
+TEMPERATURE EFFECTS
+MORPHOLOGY
+SEM

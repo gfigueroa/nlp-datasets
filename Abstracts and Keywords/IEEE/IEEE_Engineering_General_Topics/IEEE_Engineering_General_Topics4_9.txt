@@ -1,0 +1,9 @@
+Utility services providers offer on-demand services for multiple users and applications from a shared resource pool. The utility computing environment provider manages resources that have multiple dimensions, namely CPU, Memory and Disk. It is important that a mechanism of quantification he utilized for determining pricing. Also in these environments, we believe that price needs to be adapted to reflect and influence dynamic change in demand on resources, and can be used, as an economic mechanism, to efficiently manage a utility computing environment. To achieve this, we propose in this paper an adaptive pricing mechanism. The objective of this scheme is twofold: it, for business objectives, adapts price based upon the supply and demand curves over time intervals; on the other hand, price invisibly manages the distribution of resource demand across time intervals, therefore makes resource utilization more efficient and balanced over time. In this approach, the resource unit to be priced is called capacity unit, and applications are billed based upon the capacity units that have been reserved or used.
+
+adaptive pricing
+capacity unit
+demand and supply
+resource metering
+resource reservation
+resource utilization
+utility computing

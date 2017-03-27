@@ -1,0 +1,11 @@
+The heat capacity of the Mn3Sn2 compound was measured between 2 and 300 K in magnetic fields up to 7 T. The isothermal magnetic entropy change (”SM) and the adiabatic temperature change (”Tad) were calculated from these data. In agreement with previous magnetic measurements, three transitions are detected in the zero-field heat capacity versus temperature curve, two »-like peaks close to TC1 < 262K and TC2 < 227K due to ferromagneticlike second-order transitions and a third anomaly at Tt < 197K ascribed to the development of a weak antiferromagnetic interaction. The Debye temperature is estimated to be < 303K from the low-temperature data. The thermal dependences of ”SM and ”Tad present a two-peak response with peak maxima near TC1 and TC2. For a field variation of 5 T, the values of ”Tad are found to be < 2.1 and < 1.6K, respectively. The results are discussed and compared to previously published data concerning other magnetic refrigerants working near room temperature.
+
+antiferromagnetic materials
+Debye temperature
+entropy
+ferromagnetic materials
+magnetic transitions
+magnetocaloric effects
+manganese alloys
+specific heat
+tin alloys

@@ -1,0 +1,7 @@
+Thermal infrared (TIR) remote sensing is recognized as a powerful tool for collecting, analyzing and modeling of energy fluxes and temperature variations. Traditional aircraft, satellite or ground TIR platforms can provide valuable regional-scale environmental information. However, these platforms have limitations, such as expensive cost, complicated manipulation, etc. In comparison, small unmanned aircraft systems (UAS) have many advantages in TIR remote sensing applications over traditional platforms. In this paper, a low-cost UAV-based TIR remote sensing platform: AggieAir-TIR is introduced. AggieAir-TIR is a small, low-cost, flexible TIR remote sensing platform, which was accomplished at the Center for Self Organizing and Intelligent Systems (CSOIS) in Utah State University (USU). The detailed introduction of AggieAir-TIR remote sensing platform is provided in the paper. Furthermore, a low-cost TIR imaging camera calibration experiment is designed, and the calibration results are provided. Based on this AggieAir-TIR remote sensing platform, many remote TIR image data collection and analysis projects can be effectively implemented.
+
+AggieAir-TIR
+Unmanned aerial vehicles
+remote sensing
+thermal infrared image
+unmanned aircraft systems

@@ -1,0 +1,7 @@
+Implementing large word-length public key algorithms on small 8-bit mu-controllers is a challenge. This paper presents a hardware/software co-design solution of RSA and elliptic curve cryptography (ECC) over GF(p) on a 12 MHz 8-bit 8051 mu-controller. The hardware coprocessor has a modular arithmetic logic unit (MALU) of which the digit size (d) is variable. It can be adapted to the speed and bandwidth of the mu-controller to which it is connected. The HW/SW co-design space exploration is based on the GEZEL system-level design environment. It allows the designer to find the best performance-area combination for the digit size. A case study of an FPGA implementation for a 160-bit ECC over GF(p) (ECC-160p) shows that one point multiplication can be computed 40 times faster than an optimized SW implementation with the optimized digit size, d=4.
+
+ECC
+FPGA implementation
+GF(p) operations
+HW/SW co-design
+RSA

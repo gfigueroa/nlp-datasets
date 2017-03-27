@@ -1,0 +1,8 @@
+Thin layers of pyrite FeS2 are prepared by chemical deposition using the spray pyrolysis technique. Optical absorption data for photon energies between 1 and 3.8 eV are analyzed and interpreted in terms of electronic transitions and assisting phonons. A direct forbidden band gap of 1.95 ±0.004 eV, an indirect band gap of 1.12±0.003 eV, and assisting phonons of 0.065 eV are detected.
+
+THIN FILMS
+IRON SULFIDES
+CHEMICAL VAPOR DEPOSITION
+ABSORPTION EDGE
+ENERGY GAP
+PHONONS

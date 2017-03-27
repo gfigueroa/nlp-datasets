@@ -1,0 +1,12 @@
+We present an investigation of intersubband emission at far-infrared wavelengths from semiconductor superlattices with parabolically graded quantum wells. Light emission is produced by sequential resonant tunneling injection of electrons into higher energy levels of the quantum wells and subsequent radiative decay. The current versus voltage curves of these devices exhibit negative differential resistances characteristic of the sequential resonant tunneling injection. A single, narrow emission peak is observed from the superlattices with parabolic quantum wells demonstrating radiative decay through multiple evenly spaced energy levels. When a chirped superlattice acting as an electron energy filter replaces the barrier in each period of the structure, clearer resonances are observed in the currentvoltage characteristics and more efficient injection is achieved. © 2000 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+electroluminescence
+III-V semiconductors
+semiconductor quantum wells
+semiconductor superlattices
+resonant tunnelling
+charge injection
+negative resistance
+submillimetre wave generation

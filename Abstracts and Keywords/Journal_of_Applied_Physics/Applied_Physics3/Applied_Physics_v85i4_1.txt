@@ -1,0 +1,11 @@
+We report the variation of the structure and the electronic properties of amorphous nitrogenated carbon films (a-CH:Nx) prepared in dual electron cyclotron resonance-radio-frequency plasma from different mixtures of methane and nitrogen. Electron energy-loss spectroscopy, Auger electron spectroscopy, spectroscopic ellipsometry, and electron-spin-resonance spectroscopy are used to characterize the films. Unlike previous reports, addition of a low percentage (2.3%) of nitrogen in the films induces a strong change in their structure. The variation of electronic properties is rather small for a high concentration of nitrogen. From these experimental studies it seems that the efficiency of nitrogen doping depends on the nitrogen concentration. Modification of structure of the carbon network by nondoping and doping configurations of carbon nitrogen bonds is also emphasized. Our analyses establish an inter-relationship between the structure and electronic properties of nitrogenated carbon films, which helps to understand the structural change occurring in the carbon films with the incorporation of a low amount of nitrogen. © 1999 American Institute of Physics. 
+
+carbon compounds
+nitrogen
+amorphous state
+Auger electron spectroscopy
+ellipsometry
+plasma deposited coatings
+electron energy loss spectra
+paramagnetic resonance
+wear resistant coatings

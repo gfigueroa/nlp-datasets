@@ -1,0 +1,17 @@
+We report here on measurements of carrier loss processes in GaInP quantum wells made using time resolved photoluminescence spectroscopy. Measurements were made as a function of temperature and excitation intensity on quantum wells with different confinement barrier heights. The measurements reveal three distinct lifetime components identifiable by their activation energy and excitation intensity dependence. The lifetime components are assigned to thermionic emission of holes from the quantum well, nonradiative recombination at deep level defects, and radiative band-to-band recombination. The valence band offsets between GaInP and AlGaInP have been determined from the activation energy for thermionic emission of holes and are found to increase from 0.096 to 0.147 eV as the Al content in the waveguide layer increased from 50% to 70%. The relative contributions of the different carrier loss mechanisms to the subthreshold current of GaInP quantum well lasers is also discussed. © 2002 American Institute of Physics.
+
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+interface states
+photoluminescence
+time resolved spectra
+radiative lifetimes
+nonradiative transitions
+deep levels
+defect states
+thermionic electron emission
+quantum well lasers
+aluminium compounds
+valence bands

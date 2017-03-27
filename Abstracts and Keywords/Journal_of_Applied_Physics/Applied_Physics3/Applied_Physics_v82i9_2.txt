@@ -1,0 +1,21 @@
+Amorphous a-SiC films exhibiting excellent hardness and elastic modulus mechanical properties, as determined by nanoindentation, have been deposited by means of the pulsed laser deposition (PLD) technique onto either Si(100) or fused quartz substrates, at deposition temperatures ranging from 20 to 650	°C. The increase of the deposition temperature of PLD a-SiC films (from 20 to 650	°C) markedly enhances both their hardness and their elastic modulus. PLD a-SiC films with hardness and elastic modulus characteristics as high as 50 and 380 GPa, respectively, are obtained at 650	°C deposition temperature. On the microstructural level, the increase of the substrate deposition temperature (from 20 to 650	°C) favors the formation of SiC bonds, leading thereby to a substantial increase of the SiC bond density in PLD a-SiC films, as evidenced by Fourier-transform infrared analysis. This work clearly reinforces the concept that the SiC bond density (NSiC) is the dominant microstructural parameter that determines the variation of the hardness and elastic modulus of a-SiC films. Indeed, a constant-plus-linear dependence for both the hardness and the elastic modulus of a-SiC films upon their SiC bond density was established over an NSiC range as large as (424)×1022
+bond
+cm3. © 1997 American Institute of Physics.
+
+silicon compounds
+semiconductor materials
+amorphous semiconductors
+semiconductor thin films
+pulsed laser deposition
+semiconductor growth
+elastic moduli
+crystal microstructure
+bonds (chemical)
+Fourier transform spectra
+SILICON CARBIDES
+HARDNESS
+ELASTICITY
+THIN FILMS
+CHEMICAL BONDS
+AMORPHOUS STATE
+INFRARED SPECTRA

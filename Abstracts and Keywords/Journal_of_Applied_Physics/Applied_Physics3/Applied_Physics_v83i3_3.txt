@@ -1,0 +1,13 @@
+The mechanism of the electrical resistivity increase above the Curie temperature TC [so-called positive temperature coefficient of resistivity (PTCR) effect] in BaTi1xyNbxMnyO3 ceramics is studied with the temperature-dependent resistivity and electron paramagnetic resonance (EPR) data and the calculated energy levels of various Mn-associated centers. The activation energy of trapped electrons at grain boundary interface states is deduced from the resistivity data. The deduced value is found to be nearly equal to the activation energy of Mn2+ and/or singlet EPR signals. This indicates that the EPR signals arising at the cubic phase are due to trapped-electron centers at grain boundaries, and that the centers responsible for the EPR signals contribute to the rise of grain boundary barrier above TC. The PTCR mechanism is separately discussed for mode I of abrupt resistivity jump at TC and mode II of moderate resistivity increase at higher temperatures. From the analyses of resistivity and EPR data, we found that mode II PTCR is well explained by the Heywang model, but mode I PTCR is hardly explained only by the effect of spontaneous polarization proposed by Jonker. Defect models of MnVO, MnVOMn, and MnONbVO type are proposed for Mn associated centers and VBaVO or VOVTiVO type for cation-vacancy-associated centers, taking the local electroneutrality requirement for stable defects and the electronic energy change of substitutional Mn by phase transitions into account. Changes of the electronic energy levels of such defects by phase transitions successfully explain not only the PTCR and EPR data but also the degraded PTCR by incomplete or overabundant oxidation. A part of the MnVO centers formed at low Mn contents release electrons at the tetragonal phase forming Mn3+VO with an effective charge of +1 to act as a charge compensator for negatively charged acceptors at the grain boundary, but the MnVO centers hardly act as acceptor-type electron-trapping centers at the cubic phase. At high Mn concentrations, the MnVOMn type di-Mn center acts as an acceptor-type electron-trapping center at both tetragonal and cubic phases. A trap activation occurs in one type of MnOMnVO centers at the tetragonal-to-cubic transition. We conclude that the trap activaiton of the Mn interface states by the tetragonal-to-cubic transition significantly contributes to the PTCR effect of BaTiO3 ceramics with a high content of Mn. © 1998 American Institute of Physics. 
+
+barium compounds
+titanium compounds
+niobium compounds
+ceramics
+paramagnetic resonance
+electron traps
+thermoelectricity
+grain boundaries
+interface states
+electrical resistivity
+vacancies (crystal)

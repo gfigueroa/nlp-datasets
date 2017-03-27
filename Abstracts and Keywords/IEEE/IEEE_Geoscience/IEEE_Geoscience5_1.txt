@@ -1,0 +1,6 @@
+This article provides an overview of the CEOS/GEO constellation concept and the status to date of four prototype constellations namely: (i) Land Surface Imaging, lead by USGS and NASA; (2) Ocean Surface Topography, lead by NOAA and EUMESTAT; (3) Atmospheric Composition, lead by NASA; and (4) Precipitation, lead by JAXA and NASA.
+
+CEOS
+Constellations
+GEO
+GEOS

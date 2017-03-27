@@ -1,0 +1,10 @@
+We discuss defects created by focused Ga ion beam implantation in GaAs or AlGaAs/GaAs heterostructures using deep level transient spectroscopy (DLTS). A novel contact configuration which is sensitive to defects located at the boundary between implanted and unperturbed regions at a welldefined depth is presented. The DLTS spectra for these samples are dominated by a peak with an activation energy of Ea=0.38 eV. The results show that this peak is associated with implantationinduced damage independent of the ion species. The defect is also found in a sample with Schottky contacts on top of a Gaimplanted GaAs layer.
+
+HETEROSTRUCTURES
+DLTS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+ION IMPLANTATION
+TERNARY COMPOUNDS
+CRYSTAL DEFECTS
+CV CHARACTERISTIC

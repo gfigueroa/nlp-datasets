@@ -1,0 +1,7 @@
+We propose a method to excite and detect the mechanical modes of dielectric microspheres. The mechanical modes are excited by simultaneously imposing static and harmonic magnetic fields on the spheres. They are monitored by simultaneously exciting and tracking the whispering gallery optical modes of the spheres. An analysis is carried out to investigate the relationship between the applied magnetic field and the corresponding whispering gallery mode shifts. Experiments were carried out to demonstrate the proposed magnetic field-induced excitation and optical detection method.
+
+dielectric materials
+lattice dynamics
+magnetic field effects
+shapes (structures)
+whispering gallery modes

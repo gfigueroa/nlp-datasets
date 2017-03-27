@@ -1,0 +1,7 @@
+This paper take predictor-corrector interior point method and branch-bound method applied in reactive power optimization. Prediction-corrector interior point method for global optimization, and branch-bound method to deal with discrete variables (transformer tap and capacitor, reactor switching group number). To the reality, this paper take minimizing loss of network as objective, through the IEEE14-bus system calculations, it is showed that this algorithm effectively reduces the loss of network, and it has calculating fast and a good convergence characteristics.
+
+branch and bound method
+hybrid-integer algorithm
+predictor-corrector interior point method (PCIPM)
+primal-dual interior point method (PDIPM)
+reactive power optimization

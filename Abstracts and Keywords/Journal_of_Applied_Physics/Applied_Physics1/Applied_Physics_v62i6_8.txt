@@ -1,0 +1,14 @@
+Carrier concentrations exceeding 1019/cm3 in GaAs implanted with Si (2×1014/cm2 at 140 keV) have been obtained by pulsed laser annealing with either a dye laser (»=728 nm) or a XeCl excimer laser (»=308 nm). Dyelaser annealing through a <55nmthick Si3N4 cap consistently produced higher activations than excimerlaser annealing with or without the cap. Carrier densities were measured by phononRaman and plasmonRaman scattering.
+
+ANNEALING
+SILICON
+ION IMPLANTATION
+CARRIER DENSITY
+GALLIUM ARSENIDES
+EXCIMER LASERS
+DYE LASERS
+XENON CHLORIDES
+SILICON NITRIDES
+RAMAN SPECTROSCOPY
+PHONONS
+PLASMONS

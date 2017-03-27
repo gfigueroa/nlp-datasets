@@ -1,0 +1,9 @@
+Some different oxygen content La4Ni3O10+´ (´=0.02,0.12,0.22) compounds were prepared in order to study the influence of Ni3+ content on the electronic properties. A metalmetal transition was detected at 140 K for the as-prepared (La4Ni3O10.02) and reduced (La4Ni3O9.78) compounds. From the electrical conductivity, Seebeck coefficient and magnetic studies of the different samples, oxygen stoichiometry was found to be a critical parameter in defining the existence of a less conductive low temperature state. The results are interpreted assuming the existence of charge order in the nickel oxide planes of the layered perovskite-type structure. © 2000 American Institute of Physics. 
+
+lanthanum compounds
+electrical conductivity
+stoichiometry
+electrical conductivity transitions
+Seebeck effect
+charge-ordered states
+magnetisation

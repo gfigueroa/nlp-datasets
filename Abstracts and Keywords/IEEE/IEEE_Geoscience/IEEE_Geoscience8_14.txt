@@ -1,0 +1,12 @@
+Deep offshore developments involve fluid transport over long distances. The use of subsea multiphase pumping, which both increases and speeds up the production, is more and more widespread on oil and gas field developments. To meet the technical challenges of these developments, subsea liquid filled motors have been developed and implemented. This paper gives an overview of existing motor technology used on oil and gas fields, it addresses the technical challenges, present limitations, the system approach and it also introduces for future development the possibility to use permanent magnet motors.
+
+Barrier fluid
+Induction Motor
+Liquid filled Motor
+Penetrator
+Permanent Magnet Motor
+Rotor
+Stator
+Subsea pump
+Umbilical
+Variable Speed Drive Systems

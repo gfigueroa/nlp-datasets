@@ -1,0 +1,16 @@
+Resistivity measurements are reported on the cubic heavyfermion compound YbBiPt at ambient and hydrostatic pressures to J19 kbar and in magnetic fields to 1 T. The phase transition at Tc=0.4 K is identified by a sharp rise in resistivity. That feature is used to build lowtemperature HT and PT phase diagrams. The phase boundary in the HT plane follows the weakcoupling BCS expression remarkably well from Tc to Tc/4, while small hydrostatic pressure of J1 kbar suppresses the lowtemperature phase entirely. These effects of hydrostatic pressure and magnetic field on the phase transition are consistent with an spindensitywave (SDW) formation in a very heavy electron band at T=0.4 K. Outside of the SDW phase at low temperature, hydrostatic pressure increases the T2 coefficient of resistivity, signaling an increase in heavyfermion correlations with hydrostatic pressure. The residual resistivity decreases with pressure, contrary to trends in other Yb heavyfermion compounds.
+
+HEAVY FERMIONS
+TERNARY COMPOUNDS
+SPIN DENSITY WAVES
+YTTERBIUM COMPOUNDS
+BISMUTH COMPOUNDS
+PLATINUM COMPOUNDS
+PHASE DIAGRAMS
+ELECTRIC CONDUCTIVITY
+MAGNETIC FIELDS
+PRESSURE DEPENDENCE
+MEDIUM PRESSURE
+HIGH PRESSURE
+VERY HIGH PRESSURE
+TEMPERATURE RANGE 00000013 K

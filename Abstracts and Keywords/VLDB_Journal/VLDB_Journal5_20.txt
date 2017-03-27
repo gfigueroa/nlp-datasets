@@ -1,0 +1,7 @@
+We propose a new client-side data-caching scheme for relational databases with a central server and multiple clients. Data are loaded into each client cache based on queries executed on the central database at the server. These queries are used to form predicates that describe the cache contents. A subsequent query at the client may be satisfied in its local cache if we can determine that the query result is entirely contained in the cache. This issue is called cache completeness. A separate issue, cache currency, deals with the effect on client caches of updates committed at the central database. We examine the various performance tradeoffs and optimization issues involved in addressing the questions of cache currency and completeness using predicate descriptions and suggest solutions that promote good dynamic behavior. Lower query-response times, reduced message traffic, higher server throughput, and better scalability are some of the expected benefits of our approach over commonly used relational server-side and object ID-based or page-based client-side caching.
+
+Cache completeness
+Cache currency
+Caching
+Multiple clients
+Relational databases

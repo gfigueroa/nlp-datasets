@@ -1,0 +1,12 @@
+We investigate the effect of the properties of an intracavity diamond heat spreader on the lasing performance of vertical-external-cavity surface-emitting lasers. We compared two intracavity diamonds with different average birefringences. When a polarization selective element is inserted into the cavity, the infrared output powers are reduced by 13% and 7%, respectively, for the samples with higher and lower average birefringences. The pump-power limited maximum green output powers were changed from 3to5.2W by rotating the samples with lower average birefringence. In order to explain the variation in green output power, the additional round-trip loss caused by diamond birefringence was analyzed theoretically and experimentally. We found that the loss can be reduced when axes of the birefringence are aligned to the axes of the polarization selective element.
+
+thermo-optical effects
+laser cavity resonators
+optical harmonic generation
+surface emitting lasers
+diamond
+birefringence
+light polarisation
+optical pumping
+optical losses
+semiconductor lasers

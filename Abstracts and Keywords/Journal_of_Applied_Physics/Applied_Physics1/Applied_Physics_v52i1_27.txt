@@ -1,0 +1,15 @@
+The electric field distribution between a prebreakdown tree and the electrode toward which it is propagating is determined. The electric field is measured in nitrobenzene, using the electrooptic Kerr effect. Highspeed photography is used to provide a 10ns resolution of the transient, prebreakdown events. The measurements show that to predict the Kerr fringe pattern, and thus the electric field distribution, it is sufficient to model the prebreakdown tree as a spherical conductor about the same size as the tree and at the potential of the electrode from which the tree is propagating.
+
+BREAKDOWN
+ELECTRIC FIELDS
+SPATIAL DISTRIBUTION
+NITROBENZENE
+EXPERIMENTAL DATA
+ELECTODES
+ELECTROOPTICAL EFFECTS
+KERR EFFECTS
+PHOTOGRAPHY
+RESOLUTION
+TRANSIENTS
+MATHEMATICAL MODELS
+THEORETICAL DATA

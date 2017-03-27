@@ -1,0 +1,12 @@
+A series of Co3xMnxO4 (x = 0.11.0) multiferroic cubic spinel ceramics were prepared to study the effect of Mn substitution at Co site on the crystal structures and dielectric properties. No significant change in the structural symmetry was observed with increasing x up to 1.0. A linear increase in lattice parameter with x is attributed to the substitution of Co3+ by Mn3+ (large ionic radii) at the octahedral sites. An antiferromagnetic-type ordering of Co3O4 changes to ferrimagnetic-type order after incorporation of Mn. The effect of Mn substitution on the dielectric constant and loss tangent was studied over a wide range of frequency (75 kHz5 MHz) and temperature of 150450 K. The measured value of room temperature ac conductivity at 1.0 MHz was found to increase from 2.0×106 to 4.4×104©1	cm1 and follows power law (Ãac = AÉs) behavior. The dielectric constant µ2(É) shows a weak frequency dispersion and small temperature dependence below 250 K for all ceramic samples. However, a strong temperature and frequency dependence on µ2(É) was observed at higher temperature (&gt;250K). The temperature dependent µ2(É) data show the existence of room temperature ferroelectricity in all prepared samples.
+
+antiferromagnetic materials
+ceramics
+cobalt compounds
+crystal structure
+electrical conductivity
+ferroelectricity
+ferromagnetic materials
+ferromagnetic-antiferromagnetic transitions
+multiferroics
+permittivity

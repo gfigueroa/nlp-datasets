@@ -1,0 +1,6 @@
+Stochastic resonance (SR) in carbon nanotube field-effect transistors (CNT-FETs) was investigated to enhance their weak-signal response. When weak pulse trains were applied to the gate of a CNT-FET operating in a subthreshold region, the correlation between the input and output voltages increased upon addition of noise with optimized intensity. Virtual CNT-FET summing networks of N units were demonstrated to improve SR. When no noise was applied for N = 1, the correlation coefficient was nearly 0. While, the correlation coefficient at the peak intensity for N = 8 was estimated to be 0.58, indicating that significant enhancement of the correlation was observed in the summing network of the CNT-FETs. Moreover, as N increased, the larger correlation coefficient was obtained against large noise intensity, indicating that they are robust against a large amount of unintentional noise. Therefore, CNT-FET summing networks based on SR are promising candidates for highly sensitive label-free sensors.
+
+carbon nanotubes
+correlation methods
+field effect transistors
+noise

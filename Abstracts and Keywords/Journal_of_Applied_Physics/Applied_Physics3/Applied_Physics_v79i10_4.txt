@@ -1,0 +1,12 @@
+The origin of the cracking of highly porous silicon layers during drying is investigated. Optical and scanning electron microscopy observation allow us to observe the cracking occurrence. In situ xray diffraction experiments, under controlled vapor pressure of pentane, reveal that large capillary stresses occur at a vapor pressure P during the controlled drying. These stresses lead to the cracking of the highly porous layer, which occurs for samples thicker than a critical thickness hc. Taking into account the mechanical properties of the material, a model based on energy balance is presented. This model predicts a layer thickness hc of cracking occurrence, showing that hc varies as (1p)3/³LV2 (where ³LV is the surface tension of the drying liquid and p is the porosity). This model is in good agreement with experimental data obtained with two liquids, water, and pentane, which have very different surface tension and also for two different porosities. © 1996 American Institute of Physics. 
+
+POROUS MATERIALS
+SILICON
+PTYPE CONDUCTORS
+DRYING
+CRACKING
+SEM
+OPTICAL MICROSCOPY
+XRD
+LAYERS
+STRESSES

@@ -1,0 +1,6 @@
+Integrated photonics require optical isolators that achieve low insertion loss and large optical isolation. Here we describe a surface plasmon enhanced optical isolator based on nonreciprocal coupling from a dielectric waveguide coupled to a surface plasmon waveguide. The surface plasmon core consists of a magnetic metal which results in a large nonreciprocity, allowing for device lengths on the order of 50¼m. The analysis and modeling presented here indicate that greater than 30 dB isolation and less than 3 dB insertion loss are possible.
+
+dielectric waveguides
+integrated optics
+optical isolators
+surface plasmons

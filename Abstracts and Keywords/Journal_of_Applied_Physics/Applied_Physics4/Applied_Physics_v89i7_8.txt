@@ -1,0 +1,15 @@
+Transient radio frequency photoreflectance measurements were performed on 0.53 eV p-type InGaAsSb double heterostructures, grown by organometallic vapor phase epitaxy on lattice matched GaSb substrates, for determining excess carrier lifetime. Direct evidence of photon recycling was observed by changing the GaSb backsurface reflectivity and observing the change in excess carrier lifetime. Consistent with theory developed for this type of structure, effective lifetimes increased by 30%40% when the backsurface was changed from an absorbing to a reflecting surface. The theory develops a closed-form expression for the total radiative recombination rate, starting with continuity equations for both excess minority carriers and the photon density. Lifetime measurements in these p-InGaAsSb structures with different doping concentrations and epitaxial layer thicknesses allow the extraction of minority carrier recombination parameters. Measurements indicate a value for the radiative recombination coefficient of B=56×1011
+cm3/s, for the Auger recombination coefficient of C=25×1029
+cm6/s, for the ShockleyReadHall lifetime of 100150 ns and for the surface recombination velocity of 12×103
+cm/s. © 2001 American Institute of Physics.
+
+photoreflectance
+III-V semiconductors
+gallium compounds
+gallium arsenide
+surface recombination
+electron-hole recombination
+Auger effect
+semiconductor heterojunctions
+carrier lifetime
+minority carriers

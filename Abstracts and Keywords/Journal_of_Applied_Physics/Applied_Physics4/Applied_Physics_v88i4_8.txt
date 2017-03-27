@@ -1,0 +1,13 @@
+We investigate the optical and electrical properties of n-i-n GaAs/(AlGa)As double barrier resonant tunneling diodes (RTDs) in which a layer of InAs self-assembled quantum dots (QDs) is embedded in the center of the GaAs quantum well. A combination of photoluminescence (PL) and electrical measurements indicates that the electronic states and charge distribution in this type of RTD are strongly affected by the presence of the dots. Also, the dot PL properties depend strongly on bias, being affected by tunneling of majority (electrons) and minority (photocreated holes) carriers through the well. The measurements demonstrate nonlinear effects in the QD PL by means of resonant tunneling and the possibility of using the dot PL as a probe of carrier dynamics in RTDs. © 2000 American Institute of Physics. 
+
+resonant tunnelling
+photoluminescence
+resonant tunnelling diodes
+semiconductor quantum wells
+semiconductor quantum dots
+self-assembly
+carrier mobility
+minority carriers
+gallium arsenide
+aluminium compounds
+III-V semiconductors

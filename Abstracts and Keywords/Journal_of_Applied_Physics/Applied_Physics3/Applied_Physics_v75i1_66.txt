@@ -1,0 +1,12 @@
+Photovoltaic solar cells were constructed by successive vacuum deposition of chloroaluminum phthalocyanine (AlPcCl) and Au on a singlecrystal nSi wafer. By controlling the thickness and morphology of the AlPcCl deposits in the Au/AlPcCl/nSi cells, an improved photovoltaic efficiency was obtained as compared to the Au/nSi Schottkytype cell. The cell with a homogeneous, ultrathin (10 nm thickness) AlPcCl film, which was prepared by deposition on an nSi substrate kept at 20	°C, exhibited a high photovoltage (Voc=0.45 V) and strongly sensitized photocurrents in the Qband absorption region (600800 nm) of AlPcCl chromophore. This improved photoresponse was attributed to a spacecharge layer generated inside the AlPcCl film, where the intervening AlPcCl layer prevented the nSi surface from forming surface states because of noncontact with the Au top electrode. When discontinuous island crystallites of AlPcCl were formed on the nSi surface kept at 200	°C, the Au/AlPcCl/nSi cell also exhibited an improved efficiency with a high photovoltage (Voc=0.42 V).
+
+SILICON SOLAR CELLS
+PHOTOVOLTAIC EFFECT
+GOLD
+ORGANOMETALLIC COMPOUNDS
+THIN FILMS
+PHYSICAL VAPOR DEPOSITION
+ALUMINIUM COMPOUNDS
+CHROMOPHORES
+EFFICIENCY
+ISLAND STRUCTURE

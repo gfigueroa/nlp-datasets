@@ -1,0 +1,8 @@
+The electric transport properties of single-crystal and ceramic samples of Pr1xSrxMnO3 perovskites were investigated and correlated with structural and magnetic data. Analysis of the experimental data leads to the following conclusions: (i) the phase boundary between the ferromagnetic and A-type antiferromagnetic ground states is observed at x=0.49, (ii) the A-type systems are polaronic conductors in two dimensions, i.e., in the ferromagnetic planes, and approach the metallic conductivity with increasing x, (iii) an appreciable CMR effect in medium fields is observed for x<0.50 due to the field-induced ferromagnetic transition, (iv) the A typeC type phase boundary occurs for x<0.60, and, finally, (v) the charge carrier transport in the C-type antiferromagnets is reliably characterized by variable range hopping in one dimension i.e., along the ferromagnetic chains. © 2001 American Institute of Physics. 
+
+praseodymium compounds
+strontium compounds
+ground states
+ferromagnetic-antiferromagnetic transitions
+colossal magnetoresistance
+hopping conduction

@@ -1,0 +1,8 @@
+Uterine fibroid is the most common benign tumor of the female in the world. Uterine volume measurement before and after surgery has an important role in predict and following the result of surgery. Fibroids segmentation in patient with multi fibroids is the challenging task manually. We propose tow step method for robustly segmentation of these cases. The first step results in a uterine segmentation using FCM and some morphological operations in T1-Enhanced and T1 images. In the second step by applying a new method based on FCM, PCM and information of voxels neighborhoods (Modified PFCM_MPFCM) and knowledge based image processing final segmentation created. We compared manually segmented images results with the output of our system and we obtained 79.9% average of similarity index and 68.28% Jaccard index.
+
+FCM
+Knowledge based Image Processing
+MPFCM
+Morphological Operations
+Uterine
+Uterine Fibroid

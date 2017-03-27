@@ -1,0 +1,6 @@
+Processing of ECG (Electro CardioGram) records by software- based systems was started in the beginning of the 1960s. Many studies on different techniques about this topic have been made in the last 20 years. ANN (Artificial Neural Network) is the tool that is mostly used in medical diagnosis systems because of the belief in its powerful prediction characteristics. However, the suggested ANN architectures in literature are very complex software-based architectures. Consequently, these models with high computational complexity can only be run on expensive processors. To enable the implementation of ANN models on mobile and cheap devices, the features of ECG signal, which are applied to ANN inputs, should be reduced. This approach enables the implementation of a simple ANN architecture. In this study, the features of ECG signal are reduced dramatically using PCA (Principle Component Analysis), while keeping the error of the ANN learning rate at an acceptable level such as 5%. As a result, a simple Matlab ANN model, which consists of eight inputs, a hidden layer with two neurons and one output neuron, is implemented on an FPGA (Field Programmable Gate Arrays) by using IEE 754 32 bits floating-point numerical representation.
+
+ANN
+ECG
+FPGA
+PCA

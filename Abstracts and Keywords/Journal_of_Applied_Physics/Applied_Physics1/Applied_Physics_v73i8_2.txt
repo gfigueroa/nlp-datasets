@@ -1,0 +1,11 @@
+Boron diffusion in polycrystalline Sionsingle crystal Si systems has been studied by secondary ion mass spectrometry. The extrapolated Bdiffusion profiles in polycrystalline Si and in the single crystal Si substrate reveal a discontinuity at the polycrystalline Sisingle crystal Si interface. The discontinuity in the B profiles is believed to occur due to the blockage of Bdefect complexes by the interfacial oxide between polycrystalline Si and the singlecrystal Si substrate, as well as the immobility of these defect complexes in single crystal Si. The B in the implant peak region above the B solid solubility limit is found to be immobile in single crystal Si during annealing due to the formation of electrically inactive Bdefect complexes. In polycrystalline Si, however, our results show that the B in the peak region spreads out more rapidly than in single crystal Si possibly due to the diffusion of Bdefect complexes along grain boundaries. The Bdefect complexes are electrically inactive as determined by spreading resistance analysis. If the B concentration is lowered below the solid solubility limit, either by decreasing the dose or by raising the anneal temperature, no discontinuity is observed in the B profile across the polycrystalline Sisingle crystal Si interface.
+
+SILICON
+BORON
+DIFFUSION
+MASS TRANSFER
+SIMS
+POLYCRYSTALS
+THIN FILMS
+INTERFACE PHENOMENA
+CRYSTAL DEFECTS

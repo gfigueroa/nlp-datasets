@@ -1,0 +1,6 @@
+This paper presents an approach which is based on the use of artificial neural networks and finite element analysis to solve the inverse problem of defect identification. The approach is used to identify unknown defects in metallic walls. The methodology used in this study consists in the simulation of a large number of defects in a metallic wall, using the finite element method. Both variations in with and height of the defects are considered. Then, the obtained results are used to generate a set of vectors for the training of two neural network models: multilayer perceptron neural network (MLP) and radial basis functions (RBF). Finally, the obtained neural networks are used to classify a group of new defects, simulated by the finite element method, but not belonging to the original dataset. The reached results demonstrate the efficiency of the proposed approach, and encourage future works on this subject
+
+Artificial neural networks
+Finite element method
+Inverse problem
+defect identification

@@ -1,0 +1,10 @@
+We report on Raman scattering measurements on annealed In0.53Ga0.47As/InP layers that reveal the outdiffusion of phosphorus from the substrate and its possible incorporation in substitutional positions in the In0.53Ga0.47As lattice. Raman signal associated with InP-like modes was detected in the annealed samples. The effect is also observed in samples where the substrate was protected by a SiNx:H capping and were annealed in arsenic atmosphere, thus ruling out the possibility of a surface contamination by atmospheric phosphorus evaporated from the InP substrate. Protruding regions of a few microns were observed on the surface, which were identified as misoriented In1xGaxP and InP crystals by means of micro-Raman measurements. © 2003 American Institute of Physics. 
+
+gallium arsenide
+indium compounds
+III-V semiconductors
+Raman spectra
+semiconductor epitaxial layers
+annealing
+chemical interdiffusion
+surface topography

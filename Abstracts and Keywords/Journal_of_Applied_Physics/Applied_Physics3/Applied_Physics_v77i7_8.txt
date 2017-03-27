@@ -1,0 +1,11 @@
+A method for analyzing strong cylindrical blasts in cases where the source mass is not negligible is presented. Analytic expressions for the shock position as a function of time and shock speed and pressure as functions of position are derived. An approximation to classical TaylorSedov theory is extended to the nearfield regime where the source mass is not negligible. Results from example calculations are compared to TaylorSedov theory as well as thermodynamic free expansion. © 1995 American Institute of Physics.
+
+SHOCK FRONT
+EXPLOSIONS
+BLAST EFFECTS
+CYLINDRICAL CONFIGURATION
+ANALYTICAL SOLUTION
+SHOCK WAVES
+MASS
+TIME DEPENDENCE
+PRESSURE DEPENDENCE

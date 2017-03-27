@@ -1,0 +1,12 @@
+We determined the properties of Zn1xMgxSe semiconductor alloys through a combination of optical and photoelectron spectroscopy, x-ray diffraction, Rutherford backscattering spectrometry, and ab initio pseudopotential calculations. The complementary character of the techniques and the good agreement between calculated and experimental trends allowed us to explain some of the discrepancies between the reported properties of these wide band gap alloys. © 2004 American Institute of Physics. 
+
+zinc compounds
+magnesium compounds
+II-VI semiconductors
+wide band gap semiconductors
+crystal structure
+X-ray photoelectron spectra
+X-ray diffraction
+Rutherford backscattering
+ab initio calculations
+pseudopotential methods

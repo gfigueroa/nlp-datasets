@@ -1,0 +1,6 @@
+Bluetooth radio system uses the Frequency Hopping Spread-Spectrum (FHSS) and Time Division Duplexing (TDD) for transmitting and receiving a packet at 79 different channels at 1,600 hop per/sec. The Bluetooth devices must be properly synchronized so that they can hopped together from channel to channel; this can be done by using the same channel set as well as the same hopping sequence within that channel set along with the time synchronized within hopping sequence. The Inquiry procedure is used to locate the Bluetooth devices in neighborhood, Page procedure is used to establish the connection for Bluetooth communication. This paper describes how to eavesdrop packets which can determine the pseudorandom seed for the inquiry and paging hopping sequence by scanning the inquiry and page frequencies, which is done by eavesdropping on the identity/control (FHS) packets that are exchanged during the inquiry procedure and page procedure. We can determine the pseudo-random seed for the channel hopping sequence of the piconet from the master's device address and its clock from the ongoing communication.
+
+Frequency Hopping Spread-Spectrum (FHSS)
+Inquiry Procedure
+Page Procedure
+Time Division Duplexing (TDD)

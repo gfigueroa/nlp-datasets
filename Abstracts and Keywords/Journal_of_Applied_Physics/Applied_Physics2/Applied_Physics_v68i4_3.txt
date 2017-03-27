@@ -1,0 +1,12 @@
+Surface acoustic wave (SAW) technique is used to investigate the electrical and optical properties of Fedoped InP. Transverse acoustoelectric voltages (TAV) versus incident photon energy and applied bias voltage are measured to change the surface conductivity induced by impurity level trapping of the carriers. After the sample is etched, an impurity level is detected around 1.405 eV which considerably changes the shape of the experimental TAV versus incident photon energy and TAV versus bias voltage measurements. SAW semiconductor interaction models that tentatively explain the observed data are discussed.
+
+INDIUM PHOSPHIDES
+DOPED MATERIALS
+IRON ADDITIONS
+SURFACES
+ELECTRICAL PROPERTIES
+ACOUSTIC SURFACE WAVES
+ACOUSTOELECTRIC EFFECTS
+ETCHING
+IMPURITY STATES
+NONDESTRUCTIVE TESTING

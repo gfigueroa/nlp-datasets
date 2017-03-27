@@ -1,0 +1,10 @@
+Surface processes play a large role in the growth of semiconductor nanowires by chemical beam epitaxy. In particular, for III-V nanowires the surface diffusion of group-III species is important to understand in order to control the nanowire growth. In this paper, we have grown InAs-based nanowires positioned by electron beam lithography and have investigated the dependence of the diffusion of In species on temperature, group-III and -V source pressure and group-V source combinations by measuring nanowire growth rate for different nanowire spacings. We present a model which relates the nanowire growth rate to the migration length of In species. The model is fitted to the experimental data for different growth conditions, using the migration length as fitting parameter. The results show that the migration length increases with decreasing temperature and increasing group-V/group-III source pressure ratio. This will most often lead to an increase in growth rate, but deviations will occur due to incomplete decomposition and changes in sticking coefficient for group-III species. The results also show that the introduction of phosphorous precursor for growth of InAs1xPx nanowires decreases the migration length of the In species followed by a decrease in nanowire growth rate.
+
+indium compounds
+III-V semiconductors
+semiconductor quantum wires
+nanowires
+chemical beam epitaxial growth
+semiconductor growth
+surface diffusion
+electron beam lithography

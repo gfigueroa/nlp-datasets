@@ -1,0 +1,13 @@
+Multilayers containing Ni and Ti have been investigated for their applications in neutron-optical devices. These multilayers exhibit low neutron reflectivity when sputtered in Ar owing to large interface roughness and interdiffusion. While attempting to improve the interface smoothness by reactive sputtering of Ni in partial pressures of Ar and air, stress and embrittlement develops. Stress and x-ray diffraction measurements on Ni films and multilayers reveal a transition that is attributed to the occupancy of the interstitial sites by nitrogen and oxygen atoms. After identifying appropriate sputtering conditions so as to keep both macroscopic and local stresses within a tolerable limit, we have successfully prepared several supermirrors having 6001200 layers yielding critical angles of reflection from 3.65 to 4.15 times that of bulk Ni. © 1998 American Institute of Physics.
+
+nickel
+titanium
+sputter deposition
+metallic thin films
+internal stresses
+interface structure
+neutron reflection
+particle optics
+X-ray diffraction
+embrittlement
+mirrors

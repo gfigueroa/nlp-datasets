@@ -1,0 +1,16 @@
+A superradiant and amplified spontaneous transition pulse is obtained from an iodine photodissociation laser amplifier which uses iC3F7I as an active molecule and is pumped with a flashlamp (full width at half maximum=3 ¼s). We have observed a sharp leading pulse of superradiance whose rise time is less than 50 ns, and the amplified spontaneous emission follows the superradiance during the pumping flash. By measuring the population inversion density in the active medium of the amplifier, we have obtained the threshold condition for the superradiance to take place. Also, the buildup time and peak intensity of the pulse are measured as a function of the flashlamp input energy. By placing a reflecting mirror at a varying distance (from 173 to 673 cm) behind the amplifier, we have found a periodic intensity fluctuation in the superradiance; the period (”t) depends linearly on the distance (d), i.e., ”t=2d/c, where c is the light velocity.
+
+SPONTANEOUS EMISSION
+IODINE
+IODINE COMPOUNDS
+SUPERRADIANCE
+OPTICAL PUMPING
+LASER RADIATION
+POPULATION INVERSION
+ENERGYLEVEL DENSITY
+GAS LASERS
+AMPLIFIERS
+PERFORMANCE
+MIRRORS
+LASER RADIATION
+THRESHOLD ENERGY

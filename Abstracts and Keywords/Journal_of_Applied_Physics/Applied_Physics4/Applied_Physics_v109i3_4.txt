@@ -1,0 +1,10 @@
+The band structures and carrier transport in p-type metal-oxide-semiconductor field-effect transistors (pMOSFETs) fabricated on (110) Si bulk wafers are thoroughly studied over a wide temperature range under high magnetic fields. The sheet conductance, G, versus gate voltage, Vg, characteristics at the temperature of 2 K under the magnetic field of greater than 4 T show clear Shubnikovde Haas (SdH) oscillations. We observed two types of the SdH oscillations: the shorter-period oscillations at lower gate voltages and the longer-period oscillations at higher gate voltages. The observation of the two types of oscillations indicates that the degenerated hole bands in bulk Si are split into the higher energy band (H band) and the lower energy band (L band) in (110) pMOSFETs. We demonstrated that the L band has higher hole mobility, ¼h, and lighter density-of-state mass, mDOS, than those of the H band. The energy split between the two bands, ”E, is experimentally evaluated to be as large as 38 meV at the surface hole density of 4×1012cm2. Since the ¼h of the H band is lower, the increase of the occupancy in the H band with an increase in Vg leads to the low-temperature local G minimum in G-Vg characteristics. The higher ¼h in the L band and the large L-band occupancy due to the large ”E contribute to the excellent performance of (110) pMOSFETs. However, because finite holes still populate in the H band, it is important to minimize the H-band contribution for the improvement of the performance of (110) pMOSFETs.
+
+band structure
+electrical conductivity
+electronic density of states
+elemental semiconductors
+hole mobility
+MOSFET
+Shubnikov-de Haas effect
+silicon

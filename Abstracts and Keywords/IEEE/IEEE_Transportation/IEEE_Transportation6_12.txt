@@ -1,0 +1,6 @@
+Conceived as a demonstrator vehicle that could show what is possible when you take a standard family car and add a motor and batteries, H4V confirmed that considerable benefits could be made over the standard EU drive cycle. In terms of environmental performance tailpipe emissions dropped from 171 g/km CO<sub>2</sub> with the standard IC engine to 104 g/km CO<sub>2</sub> with the hybrid power-train, without sacrificing drivability. This paper describes how the project moved from the initial concept through to working prototype, by assessing the available technology, managing the risks and finally undertaking the successful systems integration of the H4V demonstrator.
+
+Hybrid
+Li ion batteries
+Petrol/Electric
+Plug-in

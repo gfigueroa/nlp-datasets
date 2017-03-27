@@ -1,0 +1,6 @@
+The increasing number of requirements for Web information systems and the increasing need for making their components interoperable ask for a new vision for the architecture of such Systems. We focus on two of these requirements: usability and interoperability. We present, in this paper, our contribution that aims at proposing a new architecture of Web information systems, supporting adaptation to the userpsilas context and providing the user with a list of Web services adapted to his context. This architecture is based on an extension of AHA! architecture through an adaptation layer containing various components dedicated to the context adaptation. So, our aim is to build an adaptive Web information system based on Web Services. Finally, we present an algorithm to build a user contextual profile ldquoProfile-Context-User (UCP)rdquo containing only the userpsilas preferences that can be satisfied with the context.
+
+Adaptation
+Context
+Web Information System
+Web Service

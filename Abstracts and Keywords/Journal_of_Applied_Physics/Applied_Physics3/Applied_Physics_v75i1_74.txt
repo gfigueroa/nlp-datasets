@@ -1,0 +1,11 @@
+An extension of the JuddOfelt technique [B. R. Judd, Phys. Rev. 127, 750 (1962)] is introduced in which measured fluorescence branching ratios are incorporated into the calculation of the JuddOfelt parameters. It is found that including branching ratio measurements into the analysis allows the JuddOfelt parameters to be reliably calculated with fewer groundstate absorption measurements than would otherwise be necessary. The method is applied to Pr3+:ZBLAN glass, an important material for 1.3 ¼m optical amplifiers. A closedform expression is also derived for determining the JuddOfelt parameters from groundstate absorption data.
+
+GLASS
+DOPED MATERIALS
+PRASEODYMIUM IONS
+FLUORESCENCE
+ENERGYLEVEL TRANSITIONS
+BRANCHING RATIO
+MEASURING METHODS
+LASER MATERIALS
+ABSORPTION

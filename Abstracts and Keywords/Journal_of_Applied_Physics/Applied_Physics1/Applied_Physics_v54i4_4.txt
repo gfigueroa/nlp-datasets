@@ -1,0 +1,17 @@
+A realistic tightbinding bandstructure model of silicon superlattices is formulated and used to study systems of potential applied interest, including periodic layered SiSi1xGex heterostructures. The results suggest a possible new mechanism for achieving enhanced transverse carrier mobility in such structures: reduced transverse conductivity effective masses associated with the superlattice band structure. For electrons in [100]oriented superlattices, a reduced conductivity mass arises intrinsically from the lower symmetry of the superlattice and its unique effect on the indirect bulk silicon band gap. An order of magnitude estimate of the range of mobility enhancement expected from ths mechanism appears to be consistent with preliminary experimental results on SiSi1xGex superlattices.
+
+superlattices
+silicon
+electronic structure
+mathematical models
+carrier mobility
+germanium alloys
+silicon alloys
+binding energy
+band theory
+heterojunctions
+orientation
+electric conductivity
+effective mass
+symmetry
+energy gap

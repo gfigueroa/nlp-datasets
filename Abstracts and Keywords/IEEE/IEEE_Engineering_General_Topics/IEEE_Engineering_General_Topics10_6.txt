@@ -1,0 +1,5 @@
+Soft Switch is the core technology of Next Generation Networks. This paper first introduces the Soft Switch technology. Then we design a distance learning management platform based on the Soft Switch, and propose its function models and database implementation. Last, security mechanism for the platform is presented.
+
+Distance Learning
+Management Platform
+Soft Switch

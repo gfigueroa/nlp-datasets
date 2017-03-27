@@ -1,0 +1,8 @@
+In this paper, a L-circularly polarized aperture-coupled feeding microstrip patch antenna array with a high gain and a good axial ratio is presented. It's suitable for operation in portable satellite communications stations. The microstrip line feeding of circular microstrip patch antenna is applied and the coupling aperture is the cross-shaped aperture. The proposed antenna array covers 29.4-31.0 GHz at the Ka band. Details of the antenna array design along with simulated results are presented and discussed.
+
+Ka band
+L-circular polarization
+antenna array
+axial ratio
+cross-shaped aperture-coupled antenna
+high gain

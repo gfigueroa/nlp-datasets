@@ -1,0 +1,6 @@
+This article proposed the model of the fourth party payment and its integral theoretical framework and aimed to solve the existing problem of payment, such as the incompatible problems of various payment modes caused by the existing diversity of payment modes and protocols in the electronic business system, the cross-authorization problems in the third party payment system, the problem of lacking unified electronic money, as well as the problems of supervising E-payment and E-commerce. The research method of this paper is to analyse the existing problems in the development of E-commerce system at first, then based on these problems, the second step is to put forward to the conceptions of the fourth party payment platform.
+
+Cross- authorization
+Electronic money
+Fourth party paymentt
+Unified payment protocol

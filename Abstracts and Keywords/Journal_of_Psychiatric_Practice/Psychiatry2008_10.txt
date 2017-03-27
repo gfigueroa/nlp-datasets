@@ -1,0 +1,15 @@
+Although few data are available concerning adolescents with obsessive-compulsive disorder (OCD), the existing literature suggests that cognitive-behavioral therapy (CBT) is the first-line treatment of choice for adolescents with mild to moderate OCD. A combination of CBT and serotonin reuptake inhibitors (SRIs) is recommended for more severe forms of OCD, based on the <em>Expert Consensus Guidelines for the Treatment of Obsessive-Compulsive Disorder</em> and the Pediatric OCD Treatment Study (POTS). Despite the effectiveness of CBT, a recent meta-analysis found that 27% of adolescent outpatients fail to show clinically significant improvement following CBT and many also fail to show improvement with pharmacotherapy. One alternative for those who do not improve with outpatient treatment is an intensive inpatient program. Within the last 10 years, two specialty hospitals have created programs that provide intensive CBT milieu treatment with multidisciplinary support (e.g., nursing, psychopharmacology) to treat adolescents with OCD. This naturalistic study describes treatment outcomes in 23 patients who received treatment in one of these programs between 2005 and 2006. Results suggest significant improvements on the majority of outcome measures, with 70% of the patients judged to meet criteria for clinically significant change. Thus, inpatient treatment appears potentially efficacious, although future controlled trials with larger samples are needed. 
+
+obsessive-compulsive disorder
+cognitive-behavior therapy
+treatment resistance
+treatment effectiveness
+inpatient
+exposure and response prevention
+Children's Yale-Brown Obsessive-Compulsive Scale (CY-BOCS)
+Reynolds Adolescent Depression Scale
+2nd edition (RADS-2)
+State-Trait Anxiety Inventory (STAI)
+Thought Action Fusion Scale-Revised (TAF-R)
+the Intolerance of Uncertainty Scale (IUS-12)
+Obsessional Belief Questionnaire (OBQ-44)

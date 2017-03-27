@@ -1,0 +1,13 @@
+The generation of point defects in Si/SiO2/Al capacitors due to exposure to vacuum ultraviolet (VUV) (10 eV) radiation has been investigated by studying the electron and hole trapping properties and electronspinresonance spectroscopy for exposures ranging from 1014 up to 1019 photons	cm2 absorbed in the oxide. At low VUV exposures, the generation of hydroxyl groups and electron traps with cross section e1016 cm2 is observed; however, for exposures larger than 1017 cm2 these centers are subsequently eliminated. For exposures larger than 1018 cm2 the oxide network is gradually destroyed; oxygen atoms are removed from their network positions and decorated with hydrogen atoms, thus producing water molecules and trivalent silicon centers in comparable numbers. At an exposure of 1019 cm2, of the order of 1014 cm2 of oxygen atoms are removed, without any indication that the process would saturate. A tentative model is presented in which the degeneration process takes place at regular network sites; a defect precursor is not invoked. It is proposed that neutralization of selftrapped hydrogen/hole pairs at the oxygen atoms plays a crucial role in this process. © 1995 American Institute of Physics.
+
+ALUMINIUM
+DEGENERATION
+ELECTRIC CONDUCTIVITY
+EPR SPECTRA
+MOS JUNCTIONS
+POINT DEFECTS
+RADIATION EFFECTS
+SILICON OXIDES
+SILICON
+TRAPPING
+ULTRAVIOLET RADIATION

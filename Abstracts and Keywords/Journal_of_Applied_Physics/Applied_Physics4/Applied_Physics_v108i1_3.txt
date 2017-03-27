@@ -1,0 +1,7 @@
+Intersubband absorption is reported in a new modulation doped structure using strained InGaAs quantum wells (QWs) that support transistor operation. Well defined absorption peaks (1000 to 1700cm1) from 8 to 11.5¼m have been obtained using either n-type or p-type modulation doped wells. Both n and p well responses show strong polarization dependence with maximum values at incident angles of 65°70° and peak positions which are adjusted by the QW parameters. The p well shows a double peaked response with a peak separation of about 1.5¼m which results from heavy and light hole contributions. The absorption data are compared with a theoretical model developed on the basis of variable k conservation and excellent agreement is obtained. It is shown that a mass difference between the upper and lower states is essential to predict a finite spectral width of the response.
+
+absorption coefficients
+gallium arsenide
+III-V semiconductors
+indium compounds
+semiconductor quantum wells

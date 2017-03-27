@@ -1,0 +1,10 @@
+Magnetic properties of a hydrogenated amorphous FeSiB fiber have been studied. Hydrogen was charged electrochemically. Saturation magnetization and the switching characteristics of the fiber have been investigated for different charging conditions. Saturation magnetization is found to decrease with the increase of charging time and charging current density. Variation of switching characteristics with the charging conditions is rather complex. Magnetic properties have also been studied during degassing of hydrogen. Hydrogen inside the specimen induces tensile stress due to volume expansion and at the same time modifies FeFe exchange interaction. The magnetic behavior due to hydrogenation and during degassing have been explained by considering the dual role of hydrogen inside the fiber.
+
+IRON BORIDES
+SILICON BORIDES
+TERNARY ALLOYS
+MAGNETIC PROPERTIES
+AMORPHOUS STATE
+MAGNETIZATION
+SWITCHING
+HYDROGEN ADDITIONS

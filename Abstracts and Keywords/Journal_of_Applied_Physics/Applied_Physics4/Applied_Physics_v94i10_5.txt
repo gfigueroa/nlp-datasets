@@ -1,0 +1,6 @@
+The effect of precursor gas-phase concentration in atomic layer deposition (ALD) of Al2O3 on Si(001) using Al(CH3)3 and H2O was investigated. Film growth rate was found to vary with Al(CH3)3 and H2O partial pressure, indicating that the process operates in a regime where complete conversion of surface sites is not reached when reactions self-extinguish. Higher precursor concentrations lead to higher conversion of surface sites as evidenced by faster film growth per ALD cycle. However, higher H2O concentrations also result in increasing amounts of aluminum silicate at the Al2O3/Si(001) interface. In addition to lower dielectric constants, flatband voltages increase by 0.50.6 V. Flatband voltage did not depend on the thickness of the interfacial layer as films with comparable capacitance equivalent thickness and interfacial thicknesses ranging from 2.2 to 11.1 Å yielded identical flatband voltages. Interfacial silicate could be eliminated completely by reducing the gas-phase concentration of H2O, permitting Al2O3 to form an abrupt interface with Si(001). © 2003 American Institute of Physics. 
+
+alumina
+atomic layer epitaxial growth
+permittivity
+insulating thin films

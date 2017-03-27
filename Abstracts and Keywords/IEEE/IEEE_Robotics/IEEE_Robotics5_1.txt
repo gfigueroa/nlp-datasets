@@ -1,0 +1,9 @@
+FPGAs have been mainly used for designing of synchronous controllers. However, it is difficult to design asynchronous controllers on them because the circuit may suffer from hazard problems. This paper presents a method that implements a class of asynchronous controllers on FPGAs which are based on Look-Up Table (LUT) architectures. Asynchronous controllers specification used in heterogeneous (synchronous &#x002B;asynchronous) systems rely on two types of signals: level sensitive signals that are used as conditionals and transition sensitive signals. Another requirement is to describe concurrency between inputs/outputs. The Multi-Burst Graph (MBG) specification allows to described these controllers in a compact form and also the MBG specification is familiar to the designers of digital circuits. This paper also proposes a generalization in the MBG specification to increase the ability to describe the interaction between inputs/ outputs. Our method begins from Generalized MBG specification. By doing this, the asynchronous circuits besides their intrinsic advantages over synchronous ones may also take advantage of integration, lower costs and short-time design associated with FPGA designs.
+
+FPGA
+XBM
+asynchronous logic
+burst-mode
+hazard
+multi-burst graph
+synthesis

@@ -1,0 +1,16 @@
+Scientific interest, technological promise, and increased availability of highly enriched isotopes have led to a sharp rise in the number of experimental and theoretical studies with isotopically controlled semiconductor crystals. This review of mostly recent activities begins with an introduction to some past classical experiments which have been performed on isotopically controlled semiconductors.
+
+SEMICONDUCTOR MATERIALS
+ISOTOPE ENRICHED MATERIALS
+ENGINEERING
+RAMAN SPECTRA
+GERMANIUM 70
+GERMANIUM 74
+PHONONS
+DIAMONDS
+CARBON 12
+THERMAL CONDUCTIVITY
+LATTICE PARAMETERS
+CRYSTAL DOPING
+NEUTRON TRANSPORT
+DIFFUSION

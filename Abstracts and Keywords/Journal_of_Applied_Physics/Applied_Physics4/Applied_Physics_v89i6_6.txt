@@ -1,0 +1,8 @@
+Charge centers induced in wet and dry SiO2 films by high electric field stress [FowlerNordheim (FN) stress] at 80 K were characterized. The gate current of wet oxides was found to increase steeply during the FN-stress application at 80 K. In contrast, the gate current of dry oxides increased little. The thermally stimulated current of the oxides stressed by a high electric field and that of oxides irradiated with vacuum-ultraviolet light were measured. The measurements revealed one negative charge center (tr-1) and three positive charge centers (tr-2tr-4) in the temperature range of 80350 K. Their activation energies were estimated to be 0.26 eV (tr-1), 0.50 eV (tr-2), 0.60 eV (tr-3), and 0.86 eV (tr-4). The wet oxides were found to have a higher density of charge centers than the dry oxides. In particular, positive charge center tr-3 was characteristic of the wet oxides. The steep increase in the gate current of the wet oxides during the application of FN stress is attributed to tr-3. This center appears to be related to H+. © 2001 American Institute of Physics. 
+
+insulating thin films
+silicon compounds
+high field effects
+thermally stimulated currents
+MIS devices
+semiconductor diodes

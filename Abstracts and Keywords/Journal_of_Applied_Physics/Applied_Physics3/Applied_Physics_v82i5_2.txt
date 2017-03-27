@@ -1,0 +1,6 @@
+Piezoelectric polymer gauge measurements were performed on the rear surface of plane copper and aluminum foils irradiated by infrared laser pulses of 1.5 ns duration, with intensities up to about 7 T	W/ cm2, using recently developed transducers made of a vinylidene-fluoride and trifluoroethylene copolymer. Some gauge records have indicated that incipient spall damage occurs in the samples subjected to very intense shocks. This was confirmed by post-test examination of the targets. The experiments were simulated using two computer codes: one describes lasermatter interaction and provides input to the second code that handles wave propagation. A spall model for ductile metals is integrated in the wave code. The ability of those computer models to predict the experimental results was thereby tested. Overall agreement was obtained between the gauge measurements and calculations, except for some discrepancies that are discussed. © 1997 American Institute of Physics. 
+
+laser beam effects
+shock wave effects
+copper
+aluminium

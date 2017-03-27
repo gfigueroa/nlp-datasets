@@ -1,0 +1,17 @@
+Hydrogen has been implanted into an SiO2 film grown on a Si trapezoid substrate to form SiH and SiOH bonds. Utilizing internal reflection spectroscopy in the near infrared spectral region, we have directly observed the vibration bands of these molecules. With the application of a large electric field across this metaloxidesemiconductor structure, the Stark effect of these vibration bands has been observed. The dependence of line intensity and line shape on the applied voltage has been studied. The sharing of voltage between the oxide film and the depletion layer in the Si is seen by its effect on the Stark intensity. These results suggest the feasibility of seeing natural hydrogen molecularly bonded in thermal oxides.
+
+stark effect
+silicon oxides
+silicon hydroxides
+silanes
+hydrogen ions
+ion implantation
+films
+substrates
+chemical bonds
+reflection
+spectroscopy
+infrared radiation
+vibrational states
+electric fields
+experimental data

@@ -1,0 +1,10 @@
+Coherent cw operation of a 10×10×2 gratingsurfaceemitting diode laser array in a ring configuration is demonstrated. At near twice the threshold current, the ring array exhibits a high degree of spatial coherence (an average of 86%) between emitting grating sections and a narrow linewidth of 28 MHz. The far field fringe visibility is 80% and 88% in the lateral and longitudinal directions, respectively.
+
+LASER DIODES
+ARRAYS
+RINGS
+CW LASERS
+COHERENT RADIATION
+GRATINGS
+MHZ RANGE
+VISIBILITY

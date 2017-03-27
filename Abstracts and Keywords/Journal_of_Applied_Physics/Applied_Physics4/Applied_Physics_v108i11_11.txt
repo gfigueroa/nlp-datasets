@@ -1,0 +1,9 @@
+Membrane-type acoustic metamaterials were fabricated, characterized, and analyzed to understand their acoustic response. Thin plates which obey the acoustic mass law have low transmission loss (TL) at low frequencies. Acoustic metamaterials with negative dynamic mass density have been shown to demonstrate a significant (5×) increase in TL over mass law predictions for a narrow band (100 Hz) at low frequencies (1001000 Hz). The peak TL frequency can be tuned to specific values by varying the membrane and mass properties. In this work, TL magnitude as a function of frequency was measured for variations in the mass magnitude and membrane tension using an impedance tube setup. The dynamic properties of membranes constructed from different materials were measured and compared to the results of coupled field acoustic-structural finite element analysis modeling to understand the role of tension and element quality factor. To better comprehend the mechanism(s) responsible for the TL peak, a laser vibrometer was used to map the out-of-plane dynamic response of the structure under acoustic loading at discrete frequencies. Negative dynamic mass was experimentally demonstrated at the peak TL frequency.
+
+acoustic resonance
+acoustic wave transmission
+dynamic response
+finite element analysis
+membranes
+metamaterials
+structural acoustics

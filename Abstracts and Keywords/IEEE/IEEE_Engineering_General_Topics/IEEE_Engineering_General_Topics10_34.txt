@@ -1,0 +1,6 @@
+Range ambiguity is a inherent problem of Doppler weather radar. At present, the most usual methods to mitigate the range ambiguity are batch mode and split cuts. These methods are simple, but when powers of the overlaid echoes are close to each other, these methods will fail. Doppler velocity and spectrum width displays characterize these failures by encoding locations of such overlaid powers with a purple color. This article gives the theory of using SZ-2 phase coding algorithm to mitigate the range ambiguity. Firstly, explains the feasibility of using this algorithm to mitigate range ambiguity in theory. Secondly, using the data of X-band D-Pol Doppler weather radar echo signals, analyzes and compares the range ambiguity mitigation performance of batch mode and SZ-2 phase coding algorithm, gets following preliminary results: compared to the batch mode, SZ-2 phase coding produces a significantly smaller amount of obscuration due to overlaid echoes and this algorithm satisfies the request of real-time processing.
+
+Batch mode
+Doppler weather radar
+Range ambiguity
+SZ2 phase coding algorithm

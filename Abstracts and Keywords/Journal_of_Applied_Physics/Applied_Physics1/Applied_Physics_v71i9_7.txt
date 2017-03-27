@@ -1,0 +1,9 @@
+Diodes with shallow p+n junctions were contacted with titanium silicide films which were formed by ion beam mixing with germanium. The leakage current of these diodes was observed to be dominated by a generation mechanism in the space charge layer. Deep level transient spectroscopy and secondaryion mass spectroscopy measurements revealed that ion beam mixing with heavy ions leads to recoil implantation of titanium atoms into the silicon substrate. The temperature and reverse bias behavior of the leakage current could be consistently explained by ShockleyReadHall generation mechanism [Phys. Rev. 87, 385, 387 (1952)] and by PooleFrenkel barrier lowering [Phys. Rev. 54, 647 (1938)] of the double donor level Ti+/++ at Ev+0.2 eV.4
+
+JUNCTION DIODES
+IV CHARACTERISTIC
+TITANIUM SILICIDES
+ION BEAMS
+MIXING
+FILM GROWTH
+LEAKAGE CURRENT

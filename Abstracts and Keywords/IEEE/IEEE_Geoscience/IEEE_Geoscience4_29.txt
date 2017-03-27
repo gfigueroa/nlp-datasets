@@ -1,0 +1,6 @@
+A new low-complexity symbol-flipping algorithm based on majority decision to decode nonbinary low-density parity-check (LDPC) codes is proposed. The decoding procedure updates iteratively the hard-decision received symbol vector in search of a valid codeword in the symbol vector space. Only one symbol is changed in each iteration, and symbol flipping function combines the number of failed checks and reliability of the received bits and calculated symbols. Flipped symbol position is determined by majority decision and flipped value is calculated by channel output. And an optional mechanism to avoid infinite loops in high Galois field search is also proposed. Our studies show that the algorithm achieves an appealing tradeoff between performance and complexity over relatively low Galois field for short to medium code length.
+
+Nonbinary
+low-density parity-check (LDPC) codes
+quasi-cyclic
+symbol-flipping (SF) decoding

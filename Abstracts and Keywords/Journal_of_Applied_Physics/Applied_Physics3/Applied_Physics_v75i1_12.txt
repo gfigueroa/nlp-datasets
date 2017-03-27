@@ -1,0 +1,11 @@
+Kineticenergy distributions are presented for ions sampled from 13.56MHz discharges in argon in a capacitivelycoupled, parallelplate, Gaseous Electronics Conference (GEC) radiofrequency reference cell. The cell was modified to allow sampling of ions through an orifice in the grounded electrode. Kineticenergy distributions are presented for Ar+, Ar++, Ar+2, ArH+, and several trace ions for plasma pressures ranging from 1.3 Pa, where ionatom collisions in the plasma sheath are not important, to 33.3 Pa, where collisions are important. Applied peaktopeak radiofrequency (rf) voltages of 50, 100, and 200 V were used, and the current and voltage waveforms at the powered electrode were measured. Dependences of the ion fluxes, mean energies, and kineticenergy distributions on gas pressure and applied rf voltage are interpreted in terms of possible ioncollision processes. The results agree with previously measured kineticenergy distributions of ions sampled from the side of the plasma through a grounded probe for similar discharge conditions, verifying that ion kinetics are characteristic of the plasma sheath independent of where it is formed [J. K. Olthoff, R. J. Van Brunt, and S. B. Radovanov, J. Appl. Phys. 72, 4566 (1992)].
+
+HIGHFREQUENCY DISCHARGES
+PLASMA DIAGNOSTICS
+ARGON IONS
+WAVE FORMS
+ENERGY DISTRIBUTION FUNCTIONS
+PLASMA SHEATH
+ION FLUX
+PRESSURE EFFECTS
+VOLTAGE DEPENDENCE

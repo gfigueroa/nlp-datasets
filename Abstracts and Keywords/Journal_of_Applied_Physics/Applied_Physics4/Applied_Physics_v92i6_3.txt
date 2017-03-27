@@ -1,0 +1,11 @@
+The electrical characteristics of hydrogen silsesquioxane based flowable oxide (FOx®) films proposed for interconnect isolation applications have been studied. It is demonstrated that negative and positive charges exist in the as-made, cured films with densities of 0.95×1012 and 1.5×1012	cm2, respectively for thicknesses of 114 nm. The negative charges can be removed from the films by application of modest electric fields (positive or negative, <1.75MV
+cm1). The positive charge can be similarly displaced but not removed from the film; this results in time dependent relaxation and redistribution of the positive charge if the films are left unbiased. Time dependent irreversible evolution of the leakage current under positive and negative bias (<3MV
+cm1) shows a slow breakdown phenomena. An unusual self-healing effect is evidenced in these films. © 2002 American Institute of Physics. 
+
+organic compounds
+dielectric thin films
+electric breakdown
+interconnections
+carrier relaxation time
+leakage currents
+insulating thin films

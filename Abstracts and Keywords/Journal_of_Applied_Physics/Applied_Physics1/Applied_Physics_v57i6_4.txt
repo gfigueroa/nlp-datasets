@@ -1,0 +1,10 @@
+A systematic and quantitative analysis is carried out to investigate the effects of the shape (point, cube, Gaussian) and size of the generation volume, the surface recombination velocity, and the diffusion length on the electronbeaminduced current (EBIC) and its derivative (DEBIC). Thick homogeneously doped samples exhibiting diffusion lengths in the low micron and submicron range are considered. The results are presented in computed EBIC curves as a function of scanning distance and of the ratio true diffusion length/effective diffusion length. Using these curves, we show (1) a simple and yet rigorous method for the determination of the true diffusion length, taking into consideration all of the factors cited above, (2) a method for the rapid determination of the surface recombination velocity, (3) the condition under which the source shape becomes insignificant, and (4) a new value for the lower limit of the diffusion length which can be determined by the EBIC technique.
+
+EBIC
+SEMICONDUCTOR MATERIALS
+RECOMBINATION
+SIZE EFFECT
+DIFFUSION LENGTH
+BEAM OPTICS
+ELECTRIC CURRENTS
+SCANNING ELECTRON MICROSCOPY

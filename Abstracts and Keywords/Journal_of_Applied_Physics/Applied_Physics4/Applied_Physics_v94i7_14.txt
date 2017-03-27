@@ -1,0 +1,14 @@
+Magnetic anisotropy and magnetization reversal phenomena are studied in Ga1xMnxAs films grown on GaAs(001). From the azimuthal dependence of the magneto-optical Kerr rotation and magnetic linear dichroism, the in-plane 100	 directions are unambiguously assigned as axes of easy magnetization. The values of the cubic and uniaxial anisotropies are determined. Magnetization reversal proceeds by noncoherent spin rotation and irreversible jumps by formation of 90° domains. © 2003 American Institute of Physics. 
+
+gallium arsenide
+manganese compounds
+III-V semiconductors
+magnetic thin films
+semiconductor thin films
+magnetic semiconductors
+ferromagnetic materials
+magnetic anisotropy
+magnetic switching
+magnetisation reversal
+Kerr magneto-optical effect
+magnetic domains

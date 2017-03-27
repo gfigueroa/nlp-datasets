@@ -1,0 +1,14 @@
+Hydrogenated amorphoussilicon (aSi:H) based solar cells consist of two electrodes and a pin structure, deposited on glass substrates. Depositing the pin layers and the back metallic electrode on an optically rough transparent conducting oxide (TCO) electrode enhances the absorption of the incident light in the active i layer: Light is scattered at the rough front interface and is partially trapped in the high refraction index layer, as in a waveguide. In addition TCO roughness increases the front transmission coefficient, increasing the amount of light in the active layer. TCO texture yields a relative increase of the conversion efficiency up to 30%. A semiempirical model of thinfilm solarcell optics is presented, taking into account the interface roughness by introducing experimentally derived scattering coefficients and treating the propagation of specular light in a rigorous way. Numerically simulated spectral response and total reflectance of standard solar cells deposited on different TCO textures are compared to experimental data. The results show a better fit to measured characteristics than simulations obtained by previous semiempirical modeling. Improvements mainly come from the light propagation calculation. According to the model, the number of passes incident light may make through the active i layer reaches six for the most efficient cell. As an example of the models main application, the enhancement of the conversion efficiency that would be expected from an optimized TCO layer is calculated for each texture studied and for different back metallizations.
+
+SILICON SOLAR CELLS
+AMORPHOUS SEMICONDUCTORS
+HYDROGENATION
+PIN JUNCTIONS
+OPTICAL PROPERTIES
+MATHEMATICAL MODELS
+NUMERICAL SOLUTION
+THIN FILMS
+OPTICAL REFLECTION
+ROUGHNESS
+TEXTURE
+LIGHT TRANSMISSION

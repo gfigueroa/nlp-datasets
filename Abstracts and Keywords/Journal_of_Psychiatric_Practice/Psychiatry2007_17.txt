@@ -1,0 +1,7 @@
+In 2003, the New York State Office of Mental Health initiated a program aimed at supporting patient recovery by simplifying antipsychotic regimens. A key component of the program, which has been essential in supporting physician autonomy, was the introduction of a software program, Psychiatric Clinical Knowledge Enhancement System, termed "PSYCKES." This software program enables physicians to visualize at a glance the medication history of each of their patients as well as of their colleagues' patients, as a way of making better-informed decisions. The fiscal impact, in the direction of a significant reduction in antipsychotic polypharmacy, was not lost on policy-makers, who have included $1.3 million in the current state budget for the dissemination of this program. 
+
+antipsychotic medication
+polypharmacy
+software
+reduction
+fiscal implications

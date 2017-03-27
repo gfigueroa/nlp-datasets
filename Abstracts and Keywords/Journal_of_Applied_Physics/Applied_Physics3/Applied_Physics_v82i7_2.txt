@@ -1,0 +1,7 @@
+Laser ablation from a binary target into a diluted gas background is studied by means of a Monte Carlo simulation. The influence of the ambient gas on the spatial and mean energy distribution of particles deposited at the distant detector is considered. Thermalization of the particles, the random scattering effect and the backscattering of particles were observed. Considerable modification of the deposited film thickness profiles due to collisions of the ablated particles with the ambient gas is shown. The increase of the ambient gas pressure was found to affect the stoichiometry distribution of deposited and backscattered particles. The study is of a particular interest for the development of the thin film growing technique known as pulsed laser deposition. © 1997 American Institute of Physics. 
+
+pulsed laser deposition
+Monte Carlo methods
+digital simulation
+particle backscattering
+stoichiometry

@@ -1,0 +1,10 @@
+In a technological landscape that is quickly moving toward dense multi-CPU and multi-core computer systems, where using multithreading is an increasingly popular application design decision, it is important to choose a proper model for distributing tasks across multiple threads that will result in the best efficiency for the application and the system as a whole. The work described in this paper creates, implements and evaluates various models of distributing tasks to CPU threads and investigates their characteristics for use in modern high-performance network servers. The results presented here comprise a roadmap of models for building multithreaded server applications for modern server hardware and Unix-like operating systems.
+
+Multitasking
+SMP
+concurrency control
+data structures
+multiprocessing
+multithreading
+processor scheduling
+threading models

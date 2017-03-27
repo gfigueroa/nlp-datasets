@@ -1,0 +1,6 @@
+AADL is an architecture description language based on the MetaH language which describes an embedded system, as a collection of interacting components. The AADL standard associates automata to define dynamic semantics for a thread component. The threads can be in various states such as halted, inactive, or active. An active thread can be waiting for a dispatch, AwaitDispatch state, or computing, Compute state, etc. In this paper, we give a natural semantic model to the thread Compute state, and we associate to the thread component a behavioral annex based on generalized rewriting logic. This allows formal description and analyzing of a thread configuration. Our formalization includes static aspects of thread, and also dynamic ones. The associated models are described by functional and system modules of Maude which is a declarative language based on rewriting logic. Our approach interest is to be able to formally check a large set of properties of AADL threads via analysis tools of Maude environment.
+
+Architecture Description Language
+Maude Language
+Rewriting logic
+Thread behavior

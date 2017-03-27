@@ -1,0 +1,12 @@
+Timedependent number densities of excited atoms in a dischargepumped ArF excimer laser were measured through laser absorption probing with a cw dye laser. The He(2p	3P) and Ne(3s	3P2) atoms in the discharge using He/Ar/F2 and Ne/Ar/F2 gas mixtures were studied. The peak of Ne and He atom densities were 1.7×1012 cm3 and 2.1×1012 cm3, respectively. The number densities of He, the laser output power, and the discharge voltage were also measured with varying He/Ne mixture ratio in He/Ne/Ar/F2 gas mixtures. Effects of He and Ne buffer gases on the excitation mechanisms of atoms are discussed on the basis of those measured results, and compared with the case of XeCl excimer lasers. © 1995 American Institute of Physics.
+
+EXCIMER LASERS
+EXCITATION
+HELIUM
+NEON
+ELECTRIC DISCHARGES
+ABSORPTION
+FLUORINE
+ARGON
+MIXTURES
+ATOMS

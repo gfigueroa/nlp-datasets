@@ -1,0 +1,6 @@
+We provide a simple analytical formula for the transmission coefficient of electrons emitted into vacuum from a coated tip, which is valid both at resonance and far from resonance. This formula assumes emission through two triangular-shaped potential barriers and allows the calculation of the tunneling time of electrons, parameter of crucial importance for high-frequency devices. It is shown that the current density calculated with the simple analytical formula for the transmission coefficient successfully explains the previously obtained experimental results.
+
+electron field emission
+vacuum microelectronics
+tunnelling
+current density

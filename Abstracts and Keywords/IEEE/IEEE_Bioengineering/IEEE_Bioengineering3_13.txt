@@ -1,0 +1,7 @@
+Odds ratio plays important roles in identifying and assessing disease susceptible SNPs in the case-control association study. However, the contour of odds ratio has too much variation to identify the disease susceptible DNA region. This paper proposes the odds ratio contour analysis (ORCA), a method for analyzing of odds ratio contour in genome-wide SNP association study. This method smoothes the odds ratio contour and discriminates disease susceptible regions out of the others. We have preliminarily tested ORCA with SNPs data from pooled DNA genome-wide SNP association study of type 2 diabetes mellitus (T2DM), including four pools as cases and five pools as controls. Each DNA pool was assayed on Affymetrix GeneChipreg mapping 10 K Array. With an optimal threshold level, ORCA can effectively highlight disease-associated regions, which reduce the false positive rate that has been one of the major problems in high-throughput case-control association study.
+
+Biomedical signal analysis
+DNA
+SNPs
+association study
+odds ratio

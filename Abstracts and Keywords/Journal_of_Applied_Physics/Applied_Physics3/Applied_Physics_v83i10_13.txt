@@ -1,0 +1,8 @@
+Magnetization, thermoelectric power (TEP), specific heat (Cp), and magnetoresistance (MR) of the as prepared (AP) and oxidized (OX) polycrystalline La0.85MnO3 are reported. Both the samples have rhombohedral symmetry. The magnetization of the OX sample showed a sharper rise as a function of temperature with a Tc < 270K and a well defined peak of Cp close to Tc. The TEP of the AP sample was positive between 10&lt;T&lt;300K with a maximum located near Tc, but the OX sample showed a negative value between 240 and 300 K. A maximum of 75% in MR was observed for the OX sample in a field of 5 T at 270 K. The data were analyzed in light of similar data obtained on divalent (Sr,Ca) substituted LaMnO3 and the existing models. © 1998 American Institute of Physics. 
+
+lanthanum compounds
+thermoelectric power
+specific heat
+giant magnetoresistance
+magnetisation
+ferromagnetic materials

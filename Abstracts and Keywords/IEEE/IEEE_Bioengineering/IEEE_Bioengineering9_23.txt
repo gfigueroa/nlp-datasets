@@ -1,0 +1,6 @@
+The Foreign Exchange (FOREX) market is the largest and most complex financial market in the world. With the advent of behavioural and micro-structural studies, many properties of the market have been revealed. However, previous studies contain only aggregate transaction data that do not distinguish between the activities of the different participants, formulating the market collective behavior. Understanding the FOREX market dynamics and the forces driving its behaviour is a very fertile research area that still needs extensive research. In this paper, we propose a new approach for analyzing and understanding the high-frequency FOREX market beyond what is offered in previous work. The proposed approach is a bottom-up study of the FOEX market. It starts with conducting a microscopic analysis of actual traders' behaviour using a unique transaction dataset at an account level provided by OANDA Ltd. Using the identified market properties from the microscopic analysis we build then an artificial FOREX market attempting to replicate the real market behavior and provide an empirical understanding of the market dynamics.
+
+Agent-based approach
+Foreign-exchange market
+High frequency data
+Stylized facts

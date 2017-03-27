@@ -1,0 +1,7 @@
+The magnetoquenched superconducting valve is a nonvolatile switch consisting of a ferromagnetic film that spans a superconducting strip. A device state is dictated by the magnetization orientation of the ferromagnetic element and the corresponding magnetic fringe fields at its edge which control the critical current in the underlying superconductor. A Pb-based device has been fabricated with a write wire inductively coupled to the ferromagnetic layer as an integrated control line. A current pulse through the control line produces a small local magnetic field that is larger than the coercivity Hc of the ferromagnet and which orients the magnetization, thus switching the device state. A comparison of device switching is made between use of a current pulse through the control line and use of an external magnetic field pulse. There is good agreement between the two methods, and device switching is demonstrated with fields as small as 20 Oe. In a further effort to develop a practical device, the quenchvalve effect is demonstrated in Nb, the superconducting digital electronics industry-standard material. A two-fold modulation in the critical current is observed at T=4.2 K, and the effect increases as the temperature approaches Tc=9 K. These results further demonstrate the promise of this device for application as a storage cell in a high-density superconducting random access memory. © 2002 American Institute of Physics. 
+
+superconducting memory circuits
+superconducting switches
+critical currents
+random-access storage
+niobium

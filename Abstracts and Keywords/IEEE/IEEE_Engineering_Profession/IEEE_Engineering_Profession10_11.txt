@@ -1,0 +1,5 @@
+The concept of Quality of Experience (QoE) comprises quality as perceived by the end user. The implementation of technologies that allow to provide a high and constant level of QoE involves an extensive network of actors, each having its own strategy and chasing different goals. This paper analyses the varying objectives of the actors by applying the multi-actor multi-issue method MACTOR.
+
+MACTOR
+Multi-Actor Multi-Issue Analysis
+Quality of Experience (QoE)

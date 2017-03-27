@@ -1,0 +1,16 @@
+Designing an all-electric ship (AES) requires testing of the interaction between hundreds of interconnected power electronic subsystems built by different manufacturers. Such integration tests require large analog test benches or the use of actual equipment during system commissioning. Fully digital simulators can also be used to perform Hardware-in-the-Loop (HIL) integration tests to evaluate the performance of some parts of these very complex systems. This approach, in use for decades in the automotive and aerospace industries, can significantly reduce the costs, duration and risks related to the use of actual equipment to conduct integration tests. However the computational power required to conduct detailed simulation of such diverse and numerous power electronic components can only be achieved through the use of distributed parallel supercomputers, optimized for hard real-time performance with jitter in the order of a few microseconds. Such supercomputers have traditionally been built using expensive custom computer boards. This paper presents the technology and performance achieved by the eMEGAsim real-time digital simulator, which is capable of meeting these challenges through the use of standard commercial INTEL quad-core computers interconnected by DOLPHIN SCI communication fabric. The precision achieved in the simulation of a detailed power electronic model implemented with SIMULINK and SimPowerSystems, and executed in parallel with RT-LAB, will also be presented using a typical basic AES configuration. Furthermore, AES design implies the collaboration between several multidisciplinary teams using different tools to simulate all electrical, mechanical and fluid dynamic subsystems. The ORCHESTRA real-time co-simulation publish-and-subscribe framework enabling the integration of multi-domain simulation tools will also be presented.
+
+accelerated simulation
+all-electric ships
+co-simulation
+detailed modeling
+distributed simulation
+electromagnetic transient simulation
+electromagnetic transients
+hardware-in-the-loop
+multi-core processors
+off-line simulation
+pc-cluster real-time digital simulator
+real-time simulation
+zeds
+zonal electric distribution system

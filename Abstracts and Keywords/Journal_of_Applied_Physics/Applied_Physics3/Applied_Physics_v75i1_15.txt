@@ -1,0 +1,12 @@
+Nickel tetracarbonyl [Ni(CO)4] molecules were used as a probe to investigate the coverage of a heated polycrystalline nickel surface with nitrogen adspecies. For this purpose, the deposition kinetics of nickel (Ni) microstructures from the thermal decomposition of nickel tetracarbonyl was investigated as a function of the partial pressure of nitrogen (N2), used as buffer gas. The laserinduced chemical vapor deposition technique was used to produce polycrystalline nickel lines in an atmosphere of pure Ni(CO)4 or a [Ni(CO)4+N2] mixture. The deposition process was performed on polysilicon/silicon dioxide/100	 monosilicon substrates. As a heat source, a cw argonion laser was used. The laserinduced surface temperature was varied in the range 500850	°C. For Ni(CO)4 partial pressures typically below 0.3 mbar, the nickel deposition rate was found to decrease as the N2 partial pressure increases. For higher Ni(CO)4 partial pressures, the deposition rate was found to be independent of the N2 partial pressure. On the basis of these results, the high temperature adsorption of nitrogen on a polycrystalline nickel surface was investigated. A model which accounts for the dependence of the nickel deposition rate and surface coverage with nitrogen adspecies on the N2 partial pressure was elaborated.
+
+NITROGEN
+ADSORPTION
+NICKEL
+SORPTIVE PROPERTIES
+POLYCRYSTALS
+CVD
+LASERRADIATION HEATING
+SURFACES
+TEMPERATURE RANGE 04001000 K
+KINETICS

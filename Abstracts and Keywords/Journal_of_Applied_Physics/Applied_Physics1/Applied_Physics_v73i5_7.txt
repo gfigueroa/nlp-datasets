@@ -1,0 +1,10 @@
+Studies of the ablation of polyimide accompanying two rapid sequential pulses of 308 nm laser radiation are presented. Measurements of the change in surface reflectivity revealed that both transient and permanent changes in the surface reflectivity resulted when pulses above the ablation threshold irradiated the surface. The permanent change was due to physical modification of the polymer surface and redeposition of ablated material. The transient change was likely due to increased surface absorption of the incident radiation at subthreshold fluences. Above threshold, scattering and absorption of the incident probe radiation by particles in the plume is likely the dominant process. Double pulsed etch rate measurements are also presented.
+
+POLYIMIDES
+ETCHING
+REFLECTIVITY
+LASER RADIATION
+ULTRAVIOLET RADIATION
+ABLATION
+SURFACES
+LIGHT SCATTERING

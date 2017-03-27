@@ -1,0 +1,7 @@
+A new approach for harmonic current and reactive power compensation in single phase systems are proposed and its efficiency is evaluated. A control method for a hybrid series active power filter is demonstrated. The results clearly show the efficiency of this method in single phase configurations. One important advantage of the presented control method is its fast speed response to load changes, less than 1 cycle. Simulation results using MATLAB program shows the effectiveness of the proposed method. In addition, a hybrid series active filter is implemented verifying the accuracy of the proposed control method.
+
+current harmonics
+detection methods
+power quality
+reactive power compensation
+single phase active filters

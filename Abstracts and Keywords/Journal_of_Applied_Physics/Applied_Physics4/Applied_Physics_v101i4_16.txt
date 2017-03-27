@@ -1,0 +1,8 @@
+A broadband midinfrared laser operating up to 340K in pulsed mode is presented. It was realized by incorporating seven different quantum cascade active regions with 0.2¼m increments to emit at different wavelengths. Despite the relatively large wavelength increments, a continuous lasing spectrum is obtained from 7.7to8.4¼m, with significant improvements in threshold current and temperature performance compared with previously reported broadband quantum cascade lasers. A full temperature dependent characterization was performed, and the threshold current density at 300K was 6.5kA/cm2, with peak output power of over 100mW. A characteristic temperature of T0 = 192K was obtained.
+
+quantum cascade lasers
+infrared sources
+optical pulse generation
+laser modes
+current density
+Debye temperature

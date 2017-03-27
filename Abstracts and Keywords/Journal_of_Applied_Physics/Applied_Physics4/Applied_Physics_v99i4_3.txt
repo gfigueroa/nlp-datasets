@@ -1,0 +1,10 @@
+Properties of a crystal are generally anisotropic, which makes different crystallographic planes behave differently. By choosing a suitable crystallographic plane or textured polycrystalline surface, one may obtain optimum mechanical and tribological properties, e.g., the maximum strength and desired friction coefficient. Up to date, we have had sufficient knowledge about the relationship between mechanical properties and the crystallographic orientation for different crystal systems. However, when the contact force is decreased to nano/micro-Newton level, will the crystallographic faces of a crystal keep their order in strength and other properties? This article reports our recent studies on this issue using copper as a sample material and demonstrates that there are transitions in hardness and friction coefficient between different crystallographic planes of Cu. It has been demonstrated that the closely packed plane (111) is harder and has a smaller friction coefficient than the (001) plane; however, the situation is reversed when the load is reduced to nano/micro-Newton level that only results in distortion of a few atomic layers. Such changes are of particular importance to the application of crystalline materials in nanomachines or nanodevices.
+
+crystal faces
+mechanical strength
+friction
+mechanical contact
+texture
+hardness
+copper
+nanostructured materials

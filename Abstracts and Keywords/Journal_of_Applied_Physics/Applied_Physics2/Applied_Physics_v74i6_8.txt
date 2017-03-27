@@ -1,0 +1,12 @@
+The classical theory to determine the interface wall energy from magnetization reversal experiments in exchangecoupled double layers is reviewed and extended. From the energy balance three elementary reversal processes of one of the layers together with transition diagrams and corresponding reversal curves of ferrimagnetic A and P double layers are systematically derived. The wall energy can be determined from the minor loops of double layers without requiring parameters obtained on the individual layers. A novel type of partial magnetic reversal experiments is applied to amorphous rareearth transitionmetal bilayers. The results can be interpreted by assuming that the interface wall can move vertically through one layer and that common domains in both layers as well as separate domains may be nucleated. This can lead to asymmetric reversal loops, which make the evaluation of the wall energy density and the coercive force incorrect by the classical theory. Other asymmetries originate from the magneticfield dependence of the wall energy and from pinning effects at the interface. Such effects can explain some of the inconsistent values of coercive fields and interface wall energy that have been reported in the literature.
+
+FERRIMAGNETIC MATERIALS
+DOUBLE LAYERS
+REVERSIBLE PROCESSES
+EXCHANGE INTERACTIONS
+MAGNETIZATION
+DOMAIN WALL
+AMORPHOUS STATE
+RARE EARTHS
+INTERFACES
+COERCIVE FORCE

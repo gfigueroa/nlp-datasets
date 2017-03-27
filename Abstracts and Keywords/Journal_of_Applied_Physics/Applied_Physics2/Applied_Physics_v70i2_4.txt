@@ -1,0 +1,12 @@
+Using the technique of deeplevel transient spectroscopy (DLTS), we have studied the formation of the defects in the nearsurface region of nGaAs implanted with different doses of 2.0MeV 16O+ ions. Our results show that EL6 and the U band are the principal defect centers in roomtemperatureimplanted samples. In the case of samples implanted at 200	°C, DLTS results also show the presence of hole levels in addition to the EL6 and the U band. When the samples were subjected to rapid thermal annealing after roomtemperature ion implantation, hole traps were the major defect centers in the nearsurface region. Just below the surface region, however, limited recovery has occurred as shown by the reemergence of electron traps. However, the defect structure is still different from that of the unimplanted samples. These results can be used to show the extent of lattice recovery after rapid thermal annealing. A mechanism is proposed to explain the evolution of the defects in MeV ion implanted nGaAs.
+
+GALLIUM ARSENIDES
+ION IMPLANTATION
+DEFECT STRUCTURE
+SURFACE STRUCTURE
+OXYGEN ADDITIONS
+DLTS
+DEEP ENERGY LEVELS
+ANNEALING
+OXYGEN IONS
+MEV RANGE 0110

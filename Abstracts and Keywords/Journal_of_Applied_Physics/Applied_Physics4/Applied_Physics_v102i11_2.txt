@@ -1,0 +1,9 @@
+Laser irradiation was found to effectively enhance the field emission current of CuO nanowire arrays. The effects of laser intensity, wavelength, emission current, and working vacuum on the enhancement have been investigated in detail. The observed laser induced enhancement in field emission current is attributed to the interplay of two factors, namely, laser induced electron transition to excited states and surface oxygen desorption. Among these factors, the contribution from extra excited electrons, which increases the number of electrons in conduction band of CuO for subsequent tunneling, is dominant. A physical process of the laser induced enhancement is discussed. This work helps to elucidate the mechanisms of electron field emission from narrow band gap nanowires and will be useful for designing future vacuum nanodevices, such as photodetectors or switches, based on field emission of nanowires.
+
+conduction bands
+copper compounds
+desorption
+electron field emission
+excited states
+laser beam effects
+nanowires

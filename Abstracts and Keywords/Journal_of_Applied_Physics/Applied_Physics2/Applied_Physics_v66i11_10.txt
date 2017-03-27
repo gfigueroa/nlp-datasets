@@ -1,0 +1,14 @@
+The electrical resistivity and Hall effect of TiSi2 thin films were measured systematically in the temperature range of 2300 K. The results were compared with theory and other work. The TiSi2 films were formed by Ti/Si solidstate interaction on crystalline silicon or polysilicon substrates. The temperature dependence of the electrical resistivity of TiSi2 was approximated by the BlochGruneisen theory. The Halleffect data show a multicarrier conduction mechanism in TiSi2. At low temperatures the Hall coefficient is positive for both substrates, but is negative at room temperature. The temperature at which the change of sign occurs is approximately 180 K for the crystallineSi substrate, and approximately 90 K for the polysilicon substrate. This is discussed briefly in terms of scattering mechansims for a simple model of the electronic structure.
+
+TITANIUM SILICIDES
+THIN FILMS
+SUBSTRATES
+ELECTRIC CONDUCTIVITY
+HALL EFFECT
+ULTRALOW TEMPERATURE
+VERY LOW TEMPERATURE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+BLOCH THEORY
+ELECTRONIC STRUCTURE
+SCATTERING

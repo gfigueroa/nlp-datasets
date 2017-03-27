@@ -1,0 +1,7 @@
+Speech understanding requires the ability to parse spoken utterances into words. But this ability is not innate and needs to be developed by infants within the first years of their life. So far almost all computational speech processing systems neglected this bootstrapping process. Here we propose a model for early infant word learning embedded into a layered architecture comprising phone, phonotactics and syllable learning. Our model uses raw acoustic speech as input and aims to learn the structure of speech unsupervised on different levels of granularity. We present first experiments which evaluate our model on speech corpora that have some of the properties of infant-directed speech. To further motivate our approach we outline how the proposed model integrates into an embodied multimodal learning and interaction framework running on Hondapsilas ASIMO robot.
+
+Language Acquisition
+Multimodal Integration
+Robotics
+Speech Recognition
+Statistical Language Modeling

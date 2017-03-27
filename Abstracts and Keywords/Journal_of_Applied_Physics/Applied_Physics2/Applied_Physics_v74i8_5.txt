@@ -1,0 +1,13 @@
+Calcium fluoride thin films have been deposited on various substrates by radio frequency sputtering of a hotpressed CaF2 target in a pure argon plasma using loadlocked sputtering equipment. The sputtering power was less than 100 W to avoid crack formation and fracture of the target. As a result, the maximum deposition rate of films was only 2.1 nm/min. The films analyzed by Rutherford backscattering spectroscopy (RBS) were found to be fluorine deficient; depending on the deposition conditions, the content of oxygen atoms incorporated in the films can be as low as the RBS detection limit of 2 at.	%. The crystallographic structure of the deposited material was identified to be a CaF2 fluorite phase by xray diffraction technique; this phase was preferentially oriented in the (111) direction for films of 0.40.5 ¼m in thickness. This preferred orientation vanished with increasing film thickness. Films of 2.5 ¼m in thickness were slightly (110) oriented. The sputterdeposited CaFx films (with xd1.85) exhibited compressive residual stresses. The apparent Knoop hardness of the films deposited on silicon substrates (harder than CaF2) and measured under a load of 10 and 20 g was about 3500 MPa, i.e., twice the hardness of the bulk CaF2 compound. The surface and crosssection morphology of CaFx films was examined by scanning electron microscopy. These films were resistant to oxidation in air at 500	°C. Tribological characteristics of CaFx films sputterdeposited on cobaltbased alloy disks were determined by pinondisk tests. The friction coefficient and wear resistance of these films sliding against CrC coated pin specimens in air at 500	°C were found to be encouraging. These films are potential candidates to serve as solid lubricant films for precision components (ball bearings) operating at high temperatures in oxidizing ambient.
+
+CALCIUM FLUORIDES
+THIN FILMS
+SPUTTERING
+RBS
+CRYSTAL STRUCTURE
+ORIENTATION
+THICKNESS
+STRESSES
+HARDNESS
+SEM
+TRIBOLOGY

@@ -1,0 +1,19 @@
+The influence of partial substitutions of iron in TiFe by some other 3d transition metals on the hydrogenation characteristics of the corresponding ternary (pseudobinary) TiFexM1x(M=Cr, Mn, Co, Ni; 0.5rxr1) compounds was systematically investigated. Such substitutions result in two main effects:(i) stabilization of the monohydride ² phases and (ii) reduction of hysteresis in the absorptiondesorption isotherms. A linear dependence of the enthalpies of the monohydride formation on the iron concentration (i.e.x) has been obtained and accounted for by a model assuming local interactions of hydrogen with nearestneighbor metal atoms.
+
+INTERMETALLIC COMPOUNDS
+TRANSITION ELEMENTS
+IRON HYRIDES
+CHROMIUM HYDRIDES
+COBALT HYDRIDES
+NICKEL HYDRIDES
+TITANIUM HYDRIDES
+DATA
+HYDROGENATION
+STABILIZATION
+ABSORPTION
+DESORPTION
+ISOTHERM
+HYSTERESIS
+ENTHALPY
+QUANTITY RATIO
+MATHEMATICAL MODELS

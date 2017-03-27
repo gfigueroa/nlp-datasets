@@ -1,0 +1,11 @@
+We present an inverse scattering algorithm that makes possible the inversion of experimental thermal wave images of planar subsurface defects. The method is based on a Greens function technique. It significantly improves the spatial resolution and removes the blurring which is otherwise characteristic of thermal wave images. The method has been applied to materials ranging from plastics (diffusivity <0.001 cm2/s) to aluminum alloys (diffusivity <0.5 cm2/s), and for depths ranging up to a few mm.
+
+NONDESTRUCTIVE TESTING
+THERMAL CONDUCTIVITY
+INFRARED RADIATION
+MATERIALS TESTING
+HEAT TRANSFER
+IMAGE FORMING
+ALGORITHMS
+INVERSE PROBLEMS
+SCATTERING

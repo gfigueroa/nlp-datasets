@@ -1,0 +1,7 @@
+Bhat, Jia, and Kwong [J. Appl. Phys. 78, 2767 (1995)] proposed a model for explaining the growth kinetics of oxides obtained during thermal oxidation of silicon in N2O. They claimed that they were able to explain the growth rate for different temperatures and the nitrogen content within the silicon oxynitride. We show that Bhats model was erroneous, both in the proposal of the corresponding differential equations, and also in their solution. Therefore, all their analysis should be modified so that values for the diffusivities and reaction rates of oxygen and NO through the Si oxynitride can be determined by means of a correct model. © 2004 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+oxidation
+reaction kinetics theory
+diffusion

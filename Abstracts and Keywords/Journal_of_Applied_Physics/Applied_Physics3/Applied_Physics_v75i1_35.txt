@@ -1,0 +1,12 @@
+Rapid thermal diffusion (RTD) of phosphorus has been investigated using a spinon dopant (SOD) deposited on a silicon wafer and placed as a dopant source in proximity to a processed Si wafer. In such a process, the efficiency of doping is affected by the amount of P supplied from the SOD to the processed wafer. Doping in RTD is controlled by the thickness of the SOD and its structure, which depends on lowtemperature baking. Experimental results of secondaryionmass spectroscopy analyses and sheet resistance indicate that diffusion coefficients of phosphorus in the SOD during RTD are considerably larger than in thermal oxides.
+
+SILICON
+WAFERS
+CRYSTAL DOPING
+PHOSPHORUS ADDITIONS
+THERMAL DIFFUSION
+SPINON COATINGS
+SIMS
+ELECTRIC CONDUCTIVITY
+TEMPERATURE EFFECTS
+DOPING PROFILES

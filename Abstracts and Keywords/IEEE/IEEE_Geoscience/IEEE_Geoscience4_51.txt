@@ -1,0 +1,6 @@
+Pests have been greatly damaging the rice yield in Guangdong Province, China in recent year. Traditional pests warning models, based on the mathematical statistics, only considering the relation between weather and monitoring data factors, are limited in large place. As a result, multi-factor spatial overlay model was construction to research the damage of Cnaphalocrocis medinalis in Guangdong Province. The factors include the Cnaphalocrocis medinalis situation, crop condition, and external environment data. By using the GIS technology, the model can make the thematic maps of Cnaphalocrocis medinalis damage in different time. The result can reproduce the spatio-temporal change of Cnaphalocrocis medinalis in Guangdong Province, as well as offer scientific support on prevention of rice pests.
+
+Cnaphalocrocis medinalis
+GIS
+multifactor
+spatial overlay model

@@ -1,0 +1,7 @@
+The performance of speaker recognition using voiceprint analysis from spectrogram is investigated in this paper. Unconstrained minimum average correlation energy (UMACE) filter is implemented to perform the verification task. In this study, the voiceprints from speech signals produced from different persons are collected. Two pre-processing techniques, i.e. exclusion of the low energies and morphological image processing step, are implemented to voiceprint analysis in order to achieve better recognition result. It is discovered that, by applying these two steps, the recognition performance improves significantly. This reveals that, using voiceprint as features to the system and performing the classification task by using UMACE filter offer an alternative technique for performing speaker recognition.
+
+UMACE filter
+morphological image processing
+speaker recognition
+spectrogram
+voice print analysis

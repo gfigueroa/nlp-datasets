@@ -1,0 +1,7 @@
+In query-intensive database application areas, like decision support and data mining, systems that use vertical fragmentation have a significant performance advantage. In order to support relational or object oriented applications on top of such a fragmented data model, a flexible yet powerful intermediate language is needed. This problem has been successfully tackled in Monet, a modern extensible database kernel developed by our group. We focus on the design choices made in the Monet interpreter language (MIL), its algebraic query language, and outline how its concept of tactical optimization enhances and simplifies the optimization of complex queries. Finally, we summarize the experience gained in Monet by creating a highly efficient implementation of MIL.
+
+Database systems
+Main-memory techniques
+Query languages
+Query optimization
+Vertical fragmentation

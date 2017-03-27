@@ -1,0 +1,11 @@
+A nanocontact structure (typically 22×34 nm2) between two NiFe wires was fabricated by an electron-beam lithography and a lift-off method, and the magnetoresistance was measured. The magnetization switching process was artificially controlled by engineering the sample geometry to realize a magnetic structure with a single domain wall (DW) trapped in the nanocontact area. This domain structure was confirmed by magnetic force microscopy observations. The magnetization rotation of 180° was realized within the nanocontact area. The contribution of the DW to the resistance was negative, which can be understood on the basis of anisotropic magnetoresistance. © 2002 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+quantum wires
+nanotechnology
+ohmic contacts
+magnetoresistance
+magnetic domains
+magnetic force microscopy
+magnetisation

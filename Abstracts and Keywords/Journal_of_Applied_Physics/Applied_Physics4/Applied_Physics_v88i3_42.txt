@@ -1,0 +1,13 @@
+The effects of dielectric screening on the two dimensional polar optical phonon scattering and on electron transport in Ga0.51In0.49P/InxGa1xAs/GaAs (x=0, 0.15, and 0.25) modulation doped heterostructures and high electron mobility transistors are investigated through the ensemble Monte Carlo technique. The two dimensional polar optical phonon scattering rates including and excluding dielectric screening effects are calculated using the self-consistently evaluated electronic states in the quantum well. The calculated scattering rates are compared in order to see the effects of screening on the inter- and intra-subband scattering. Screening significantly lowers the intra-subband polar optical phonon scattering rates in both lattice matched and pseudomorphic structures. This results in a considerable lowering of the critical electric field beyond which negative differential resistance is seen. Screening also modifies the dependence of transport properties on the quantum well parameters. The results of the ensemble Monte Carlo simulations of high electron mobility transistors show that the performance of the device is considerably underestimated, if screening is not included in the calculation of the polar optical phonon scattering rates. © 2000 American Institute of Physics. 
+
+gallium compounds
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+high electron mobility transistors
+semiconductor device models
+electron-phonon interactions
+Monte Carlo methods
+interface states
+negative resistance

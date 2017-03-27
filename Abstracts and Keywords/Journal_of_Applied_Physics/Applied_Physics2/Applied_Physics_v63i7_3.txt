@@ -1,0 +1,10 @@
+The damping behavior of zonerefined iron was investigated at low temperatures as a function of strain amplitude of oscillation, magnetic field, frequency, and temperature. Observations of increased damping at relatively low temperatures are correlated with reports of other investigators. These features appear to be associated with the hysteretic breakaway of domain walls from pinning points. As temperature increases the hysteretic process becomes thermally assisted and diminishes. The parameters for this process are an attempt at frequency of the order of 106 Hz, or somewhat more, and an activation energy of the order of 0.02 eV or more. It appears that the interaction of moving dislocations with domain walls can also assist depinning from the unspecified pins.
+
+IRON
+HYSTERESIS
+DISLOCATIONS
+DOMAIN WALL
+DAMPING
+MAGNETOMECHANICAL EFFECTS
+MAGNETIC FLUX
+PINNING

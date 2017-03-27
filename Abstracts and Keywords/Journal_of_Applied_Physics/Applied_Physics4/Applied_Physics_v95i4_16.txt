@@ -1,0 +1,8 @@
+A method to control the direction of the magnetic-moment circulation in ferromagnetic nanoscale rings is presented. This method involves controlling the domain-wall (DW) motion using the gradient of the DW energy along the circumference in cooperation with an external magnetic field. Since it is free from the DW pinning and depinning process, the method is applicable even under strong thermal disturbance. Magnetic-force-microscopic observation was performed for Ni81Fe19 rings 500 nm in diameter in which the gradient of the DW energy was introduced by decentering the rings. The result indicates perfect controllability of the magnetic-moment circulation at room temperature, demonstrating its potential for a wide range of applications in magnetic memory devices. © 2004 American Institute of Physics. 
+
+nanostructured materials
+ferromagnetic materials
+vortices
+magnetic domain walls
+nickel alloys
+iron alloys

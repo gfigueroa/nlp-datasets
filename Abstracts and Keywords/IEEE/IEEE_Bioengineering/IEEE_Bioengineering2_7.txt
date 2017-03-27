@@ -1,0 +1,5 @@
+With recent advances in 3D modeling and scanning technologies, large number of 3D models are created and stored in different databases. This has created an impetus to develop effective 3D shape analysis and 3D shape retrieval algorithms for these domains. This has made the field of 3D shape analysis and retrieval become an active area of research in the 3D community. In this paper we will survey few applications where 3D shape analysis and retrieval has been applied effectively. The main applications we have discussed are: 3D human shape analysis; CAD/CAM applications; structural bioinformatics; and other applications.
+
+3D Shape Analysis
+3D applications
+3D shape retrieval

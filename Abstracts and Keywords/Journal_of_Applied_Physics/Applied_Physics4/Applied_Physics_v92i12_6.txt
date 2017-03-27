@@ -1,0 +1,11 @@
+We report InAs quantum dot infrared photodetectors that utilize In0.15Ga0.85As strain-relief cap layers. These devices exhibited normal-incidence photoresponse peaks at 8.3 or 8.8 ¼m for negative or positive bias, respectively. At 77 K and 0.2 V bias the responsivity was 22 mA/W and the peak detectivity D was 3.2×109 cm
+Hz1/2/W. © 2002 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+gallium arsenide
+semiconductor quantum dots
+quantum well devices
+photodetectors
+infrared detectors
+semiconductor device measurement

@@ -1,0 +1,13 @@
+Carrier recombination through shallow donor/acceptor levels in heavily doped silicon is analyzed. It is found that the Shockley, Read, and Hall theory of recombination is unable to explain the sharp decrease in lifetime with increasing dopant concentrations. However, trap assisted Auger recombination through these levels satisfactorily explains the observed lifetimes as well as their temperature dependences.
+
+silicon
+doped materials
+charge carriers
+recombination
+energy levels
+lifetime
+quantity ratio
+auger effect
+temperature dependence
+mathematical models
+theoretical data

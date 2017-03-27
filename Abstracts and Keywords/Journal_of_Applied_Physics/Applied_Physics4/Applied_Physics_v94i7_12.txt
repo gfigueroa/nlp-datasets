@@ -1,0 +1,12 @@
+The empirical pseudopotential method with spin-orbit splitting is used to calculate the band structure of AlSb, GaSb, ZnTe, and CdTe. The electronic band structures appear direct gap. We have tested recent empirical model of ionicity factor under effect of spinorbit interaction. A sensitive effect of spin orbit is shown on the band structures of these compounds but does not display structural phase transition. Reasonable agreement is obtained between our calculated and other experimental results. © 2003 American Institute of Physics.
+
+aluminium compounds
+gallium compounds
+zinc compounds
+cadmium compounds
+II-VI semiconductors
+III-V semiconductors
+band structure
+spin-orbit interactions
+energy gap
+pseudopotential methods

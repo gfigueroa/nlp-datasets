@@ -1,0 +1,6 @@
+The explosion in complex multimedia content makes it crucial for database systems to support such data efficiently. This paper argues that the &ldquo;blackbox&rdquo; ADTs used in current object-relational systems inhibit their performance, thereby limiting their use in emerging applications. Instead, the next generation of object-relational database systems should be based on enhanced abstract data type (E-ADT) technology. An (E-ADT) can expose the semantics of its methods to the database system, thereby permitting advanced query optimizations. Fundamental architectural changes are required to build a database system with E-ADTs; the added functionality should not compromise the modularity of data types and the extensibility of the type system. The implementation issues have been explored through the development of E-ADTs in Predator. Initial performance results demonstrate an order of magnitude in performance improvements.
+
+Database types
+Extensibility
+Object-relational database
+Query optimization

@@ -1,0 +1,6 @@
+In this article, we study the in-plane ferromagnetic resonance (FMR) and exchange anisotropy in a ferromagnetic (FM)/antiferromagnetic (AFM) bilayer. In the semi-infinite limit for the AFM layer, the equilibrium energy for the system is established, and then analytical expressions are derived for FMR frequency, frequency linewidth, exchange anisotropy constant, effective exchange bias, and pinning angle. Three physical parameters are important, i.e., the classical exchange bias, the interface turning coefficient, and the applied field angle. Combining the formulas derived with numerical calculation, it is shown that there are two branches of FMR modes distinguished by critical fields which depend on the interface turning the coefficient and the applied field angle. We find that the effective exchange bias depends on the applied field angle but not on its magnitude. A comparison with previously reported theoretical results is made, and experimental measurements for physical parameters are suggested. © 2002 American Institute of Physics. 
+
+magnetic multilayers
+ferromagnetic resonance
+exchange interactions (electron)
+magnetic anisotropy

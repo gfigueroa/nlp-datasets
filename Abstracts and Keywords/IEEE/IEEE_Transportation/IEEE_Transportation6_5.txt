@@ -1,0 +1,6 @@
+Innovative Power is the chief characteristic and the source of competitive power of an industrial cluster. An evaluation index system was set up for the innovative power on which most of the influencing factors are characterized with grey, fuzzy and hard to quantify in terms of technical economy based on the in-depth analysis of the innovative force for an industrial cluster. Therefore, the theory of grey system and the analytical hierarchy process (AHP) that is adaptable to those systems which are hard to quantify accurately for developing models were introduced in to set up a comprehensive evaluation model for the grey hierarchy in an innovative power for an industrial cluster. Then the relevant evaluation indices were obtained and an example is given to verify the result of evaluation.
+
+AHP
+Grey hierarchy model
+Industrial cluster
+Innovative power

@@ -1,0 +1,6 @@
+The existing predictive spatiotemporal indexes can be classified into two categories, depending on whether they are based on the primal or dual methodology. Although we have gained considerable empirical knowledge about various access methods, currently there is only limited understanding on the theoretical characteristics of the two methodologies. In fact, the experimental results in different papers even contradict each other, regarding the relative superiority of the primal and dual techniques. This paper presents a careful study on the query performance of general primal and dual indexes, and reveals important insight into the behavior of each technique. In particular, we mathematically establish the conditions that determine the superiority of each methodology, and provide rigorous justification for well-known observations that have not been properly explained in the literature. Our analytical findings also resolve the contradiction in the experiments of previous work.
+
+Spatial database
+Range search
+Moving objects
+Theory

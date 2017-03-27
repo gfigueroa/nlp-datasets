@@ -1,0 +1,8 @@
+Due to the fuzziness of query specification and media matching, multimedia retrieval is conducted by way of exploration. It is essential to provide feedback so that users can visualize query reformulation alternatives and database content distribution. Since media matching is an expensive task, another issue is how to efficiently support exploration so that the system is not overloaded by perpetual query reformulation. In this paper, we present a uniform framework to represent statistical information of both semantics and visual metadata for images in the databases. We propose the concept of query verification, which evaluates queries using statistics, and provides users with feedback, including the strictness and reformulation alternatives of each query condition as well as estimated numbers of matches. With query verification, the system increases the efficiency of the multimedia database exploration for both users and the system. Such statistical information is also utilized to support progressive query processing and query relaxation.
+
+Exploration
+Human computer interaction
+Multimedia database
+Progressive processing
+Query relaxation
+Selectivity statistics

@@ -1,0 +1,6 @@
+Isotopic exchange is used to measure the silicon self-diffusivity in thermal silicon dioxide. The experiments, using an isotopically enriched 28Si oxide layer, are specially designed to obtain the actual equilibrium diffusivity in the oxide. A simple Arrhenius law, with an activation energy of 5.34 eV, very nicely describes the measured diffusivities as a function of the temperature. Our values are compared with literature data, and we discuss the possible origin of the observed differences. © 2003 American Institute of Physics. 
+
+silicon compounds
+self-diffusion
+isotope exchanges
+annealing

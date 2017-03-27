@@ -1,0 +1,6 @@
+Human has some perception based behavior seen in his body movements. Movements of hands, legs, head, etc. show the inner emotion of the person in specific situations subconsciously. This paper introduces a Generalized Constraint Language (GCL) for humanoid robots to categorize data needed for trajectory tracking for each joint of the robot which lead to emotion mimicry. An artificial neural network generates velocity and acceleration for each joint of humanoid using GCL values. A concept that plays a key role in emotion mimicry with CTP is GCL
+
+Emotion
+GCL
+fuzzy
+humanoid robot

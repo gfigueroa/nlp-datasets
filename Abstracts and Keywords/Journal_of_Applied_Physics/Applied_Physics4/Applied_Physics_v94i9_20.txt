@@ -1,0 +1,14 @@
+Bright blue upconversion emission by thulium ions in PbGeO3PbF2CdF2 glass triply doped with Nd3+Tm3+Yb3+ under diode laser excitation around 800 nm is reported. The results revealed that the Nd3+/Tm3+/Yb3+-codoped sample generated ten times more 475 nm blue upconversion fluorescence than the Yb3+-sensitized Tm3+-doped one, under the same excitation power. The upconversion process also showed a strong dependence upon the Yb3+ concentration. The results also indicated that the neodymium ions played a major role in the upconversion process by transfering the 800 nm excitation to thulium ions. The population of the Tm3+ ions 1G4 emitting level was accomplished through a multiion interaction involving ground-state absorption of pump photons around 800 nm by the Nd3+(4I9/2’2H9/2,
+4F5/2) and Tm3+(3H6’3F4) ions followed by energy-transfer processes involving the Nd3+Yb3+(4F3/2,
+2F7/2’4I11/2,
+2F5/2) and Yb3+Tm3+(2F5/2,
+3F4’2F7/2,
+1G4) pairs. © 2003 American Institute of Physics. 
+
+neodymium
+thulium
+ytterbium
+lead compounds
+germanate glasses
+fluoride glasses
+fluorescence

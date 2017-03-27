@@ -1,0 +1,9 @@
+(1x)Bi0.5Na0.5TiO3xBi(Zn0.5Ti0.5)O3 [(1x)BNTxBZT, x = 0, 0.025, 0.0375, 0.050, and 0.075] lead-free piezoceramics were prepared and their structures and electrical properties were investigated. It is found that BZT can increase the Curie temperature of BNT. A morphotropic phase boundary (MPB) separating rhombohedral and tetragonal phases exists near x = 0.0375. As the result, the MPB composition shows improved electrical properties; the saturated polarization, remnant polarization, and coercive field are 42.0¼C/cm2, 36.5¼C/cm2, and 3.5 kV/mm, respectively, while the piezoelectric coefficient, planar electromechanical coupling factor, and unipolar strain are 92 pC/N, 0.22, and 0.08%, respectively. The structures and electrical properties are discussed by comparing with that of other BNT-based piezoceramics. Our results do not only supplement for BNT-based lead-free piezoceramics, but also may provide a way to develop new lead-free piezoceramics with high Curie temperature.
+
+bismuth compounds
+coercive force
+Curie temperature
+ferroelectric ceramics
+piezoceramics
+remanence
+sodium compounds

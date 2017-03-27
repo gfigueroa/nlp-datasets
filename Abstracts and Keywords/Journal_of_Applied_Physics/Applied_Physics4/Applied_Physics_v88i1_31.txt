@@ -1,0 +1,7 @@
+We apply a film thickness-independent technique to measure the index of refraction n=n+ik for amorphous thin films of molybdenum trioxide. The films were grown by thermal evaporation and then colored by light irradiation for different exposure times. Data for the reflectivity and differential reflectivity yield n and show no dependence on the density of color centers. We find that small variations of the absorption coefficient induce changes in the differential reflectance line shape at angles different from the Brewster angle. © 2000 American Institute of Physics. 
+
+refractive index
+molybdenum compounds
+colour centres
+reflectivity
+semiconductor thin films

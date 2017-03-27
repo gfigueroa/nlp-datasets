@@ -1,0 +1,13 @@
+Alternating current-initial susceptibility (Çac) studies on as-spun amorphous and rapid-thermal-annealed two-phase nanocomposite Fe88Nd6B6 alloy ribbons are performed at 77990 K. A novel means of quantitatively estimating the amount of the residual amorphous phase in heated ribbons is also derived from the Çac measurement. Experimental results indicate that the amount of the residual amorphous phase decreases with an increasing heating temperature. The residual amount is 28.87 vol	% after the amorphous ribbons are heated to 773 K, and then becomes undetectable when the temperature reaches heating to 923 K. The amount of the residual amorphous phase can be described as follows: R (in vol	%) = 0.857T/(T753)4.392, where T denotes the heating temperature above 753 K. In addition, the full width at half-maximum of the Çac peak corresponding to the Curie temperature of the Nd2Fe14B phase correlates well with the extent of exchange coupling interaction between the hard and soft nanophases. Furthermore, the spin reorientation transition temperature of the Nd2Fe14B nanophase in the two-phase nanocomposite Fe88Nd6B6 alloy shifts to 110 K, i.e., significantly lower than 135 K for the Nd2Fe14B single crystal. This shift is attributed to the exchange coupling effect between the nanophases. © 1998 American Institute of Physics. 
+
+iron alloys
+neodymium alloys
+boron alloys
+magnetic susceptibility
+nanostructured materials
+Curie temperature
+spin dynamics
+amorphous magnetic materials
+rapid thermal annealing
+exchange interactions (electron)
+permanent magnets

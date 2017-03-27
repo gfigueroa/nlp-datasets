@@ -1,0 +1,11 @@
+Many avionics systems must be implemented as redundant, distributed systems in order to provide the necessary level of fault tolerance. To correctly perform their function, the individual nodes of these systems must agree on some part of the global system state. Developing protocols to achieve this agreement is greatly simplified if the nodes execute synchronously relative to each other, but many Integrated Modular Avionics architectures assume nodes will execute asynchronously. This paper presents a simple design pattern, Physically Asynchronous/Logically Synchronous (PALS), that allows developers to design and verify a distributed, redundant system as though all nodes execute synchronously. This synchronous design can then be distributed over a physically asynchronous architecture in such a way that the logical correctness of the design is preserved. Use of this complexity reducing design pattern greatly simplifies the development and verification of fault tolerant distributed applications, ensures optimal system performance, and provides a standard argument for system certification.
+
+GALS
+IMA
+asynchronous
+design pattern
+fault tolerance
+globally asynchronous
+integrated modular avionics
+locally synchronous
+synchronous

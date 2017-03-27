@@ -1,0 +1,12 @@
+Raman spectroscopy is used to investigate the structural changes in isochronally annealed aGe/SiOx superlattices. The Ge crystallization temperature is found to be higher in superlattices with thinner Ge layers, which can be interpreted in terms of the retardation of nucleation and growth of Ge microcrystallites near the Ge/SiOx interface. Before and after the Ge layers crystallize there is Si diffusion into the Ge layers. The Si appears to be uniformly distributed throughout the Ge layers.
+
+GERMANIUM
+SILICON OXIDES
+AMORPHOUS STATE
+SUPERLATTICES
+ANNEALING
+SOLID STRUCTURE
+RAMAN SPECTRA
+CRYSTALLIZATION
+DIFFUSION
+XRAY DIFFRACTION

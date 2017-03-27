@@ -1,0 +1,11 @@
+Fe/C multilayers have been deposited by rf sputtering on two silicon substrates with a significant difference in surface quality. Scanning tunneling microscopy (STM) shows a roughness replication process: the smoother the substrate, the smoother the final surface. Both samples present a Gaussian height distribution. The fractal analysis of the STM data shows that, for dimensions larger than the grain size, the surface can be described as a selfaffine fractal with a fractal dimension of 2.6±0.1, which agrees with the prediction of ballistic deposition models without restructuring. For dimensions lower than the grain size, the fractal dimension is close to the Euclidean value 2.
+
+IRON
+CARBON
+MULTILAYERS
+SPUTTERING
+STM
+FRACTALS
+SURFACE STRUCTURE
+GRAIN SIZE
+MORPHOLOGY

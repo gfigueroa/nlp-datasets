@@ -1,0 +1,14 @@
+Coevaporated amorphous Co50Ta50 and Co50Mo50 alloys were investigated for applications as diffusion barriers in AlSi and AuSi metallization. The hightemperature stability of diffusion barriers has been found to be correlated with the thermodynamical driving forces for chemical reaction between the barrier constituents and their surroundings. Amorphous Co50Ta50 films react with Al overlayers at temperatures around 450	°C, much lower than the crystallization temperature. A TaAl3 layer interposed between the amorphous film and the Al overlayer provides an ideal scheme against degradation during hightemperature annealing. Amorphous Co50Mo50 alloys possess low mutual solubilities and unfavorable free energies for compound formation with Au; it thus remains intact and prevents the interaction between the Si substrate and an overlay Au film during thermal annealing at 550	°C. Degradation of the layered structure at localized points is observed and attributed to the presence of pinholes and other macroscopic defects in the amorphous film.
+
+DIFFUSION
+DIFFUSION BARRIERS
+ATOM TRANSPORT
+SYNTHESIS
+COBALT ALLOYS
+TANTALUM ALLOYS
+ALUMINIUM COMPOUNDS
+TANTALUM COMPOUNDS
+ELECTRIC CONTACTS
+GOLD
+ALUMINIUM
+MOLYBDENUM ALLOYS

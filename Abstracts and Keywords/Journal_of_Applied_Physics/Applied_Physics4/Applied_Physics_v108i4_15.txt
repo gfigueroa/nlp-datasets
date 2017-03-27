@@ -1,0 +1,8 @@
+Photoinduced damage behavior of mesotetraphenylporphyrin (TPP) under one- and two-photon excitation with femtosecond laser pulses is investigated in the present work. Quenching in the luminescent intensity is observed. Results suggest that laser irradiation on TPP mainly causes two simultaneously occurring photoprocesses: photodamage and formation of a porphine-type photoproduct. The damage rate exhibits a linear dependence on the incident light power in one-photon excitation, whereas in two-photon excitation, the power dependence of the damage rate turns out to be exponential. The photoproduct formed in one- and two-photon excitation is identical. This product, which is observed to possess superior photostability and two-photon absorbing ability compared with the original TPP sensitizer, is likely to be treated as a secondary photosensitizer in the activation process of photodynamic therapy (PDT). This work might be helpful for the drug evaluation in the practical application of PDT.
+
+drugs
+laser beam effects
+organic compounds
+photochemistry
+radiation quenching
+two-photon processes

@@ -1,0 +1,9 @@
+Electric-field and/or temperature induced phase transitions were observed using polarizing light microscope on [100]-oriented Pb(Mg1/3Nb2/3)O30.3PbTiO3 (PMN0.3PT) single crystals with electric fields applied along the [001] and [011] directions, respectively. The monoclinic (M) and tetragonal (T) phases were observed with electric field applied along the [001] direction at 5 and 9 kV/cm, respectively. The orthorhombic (O) and T were observed with 5 kV/cm and 10 kV/cm electric field applied along the [011] direction, respectively. The intermediate phases [M and/or O phase(s)] were also confirmed by the temperature-dependent dielectric behavior.
+
+crystal orientation
+ferroelectric ceramics
+ferroelectric transitions
+lead compounds
+optical microscopy
+piezoelectricity
+relaxor ferroelectrics

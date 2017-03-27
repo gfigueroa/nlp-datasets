@@ -1,0 +1,10 @@
+TiSi2 was deposited onto both Si and SiO2 substrates by lowpressure chemical vapor deposition. By using both TiCl4 and SiH4 as source gases, the reaction could be controlled to yield either selective TiSi2 on Si substrates only, or blanket silicide films. Experimental conditions providing for selective deposition were investigated. Mass spectroscopy data and thermodynamic calculations were in good agreement with each other and provided rational explanations of observed phenomena. Reaction of TiCl4 vapor with Si yields TiSi2, but is accompanied by excessive Si consumption. This etching reaction may be moderated by increasing the reactor pressure while keeping the substrate temperature around 900 K, and by the introduction of H2 and/or SiH4 into the reactant gas mixture.
+
+TITANIUM
+FILMS
+CHEMICAL VAPOR DEPOSITION
+MASS SPECTROSCOPY
+SILICON
+SILICATES
+SUBSTRATES
+COATINGS

@@ -1,0 +1,6 @@
+A shock Hugoniot compression curve for water has been measured up to less than 1 GPa. A plane and steady shock wave is produced in water by the flat plate impact of a projectile accelerated by a compressed gas gun. A new experimental procedure was proposed to detect the shock wave front sensitively, which makes it possible to measure shock Hugoniot in higher precision than the previous method. The present method is based on the very large pressure dependence of the refractive index of water upon compression. By using this method, the shock compression curve was determined within the precision of 2% to 3% of the estimated shock pressure. The precision is better than that of the previous data. It was confirmed that within the pressure range covered in this experiment, the shock-particle velocity Hugoniot can be described by a linear relation with a large slope. Shock Hugoniot states on the pressuretemperature plane were calculated by using the obtained Hugoniot data combined with the values of thermodynamical variables. Thermodynamic analysis of the shock compression process was developed to estimate the contributions of irreversible heating by shock compression. © 2002 American Institute of Physics.
+
+water
+refractive index
+shock wave effects
+equations of state

@@ -1,0 +1,9 @@
+Deeplevel transient charge spectroscopy (QDLTS) measurement is described. The technique is used to investigate energy levels of tin in AlxG1xAs. The QLDTS spectra have multiple peaks which show the multilevel nature of the tin donors.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+DLTS
+TIN ADDITIONS
+DOPED MATERIALS
+DONORS

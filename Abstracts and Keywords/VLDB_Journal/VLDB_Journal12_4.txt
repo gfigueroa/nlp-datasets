@@ -1,0 +1,6 @@
+Service composition is gaining momentum as the potential silver bullet for the envisioned Semantic Web. It purports to take the Web to unexplored efficiencies and provide a flexible approach for promoting all types of activities in tomorrow&rsquo;s Web. Applications expected to heavily take advantage of Web service composition include B2B E-commerce and E-government. To date, enabling composite services has largely been an ad hoc, time-consuming, and error-prone process involving repetitive low-level programming. In this paper, we propose an ontology-based framework for the automatic composition of Web services. We present a technique to generate composite services from high-level declarative descriptions. We define formal safeguards for meaningful composition through the use of composability rules. These rules compare the syntactic and semantic features of Web services to determine whether two services are composable. We provide an implementation using an E-government application offering customized services to indigent citizens. Finally, we present an exhaustive performance experiment to assess the scalability of our approach.
+
+Ontology
+Semantic Web
+Service composition
+Web services

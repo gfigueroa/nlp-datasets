@@ -1,0 +1,5 @@
+Entity resolution (ER) (also known as deduplication or merge-purge) is a process of identifying records that refer to the same real-world entity and merging them together. In practice, ER results may contain inconsistencies, either due to mistakes by the match and merge function writers or changes in the application semantics. To remove the inconsistencies, we introduce negative rules that disallow inconsistencies in the ER solution (ER-N). A consistent solution is then derived based on the guidance from a domain expert. The inconsistencies can be resolved in several ways, leading to accurate solutions. We formalize ER-N, treating the match, merge, and negative rules as black boxes, which permits expressive and extensible ER-N solutions. We identify important properties for the rules that, if satisfied, enable less costly ER-N. We develop and evaluate two algorithms that find an ER-N solution based on guidance from the domain expert: the GNR algorithm that does not assume the properties and the ENR algorithm that exploits the properties.
+
+Generic entity resolution
+Inconsistency
+Negative rule - Data cleaning

@@ -1,0 +1,11 @@
+Raman spectra of ntype gallium nitride with different carrier concentrations have been measured. The LO phonon band shifted towards the highfrequency side and broadened with an increase in carrier concentration. Results showed that the LO phonon was coupled to the overdamped plasmon in gallium nitride. The carrier concentrations and damping constants were determined by lineshape fitting of the coupled modes and compared to values obtained from Hall measurements. The carrier concentrations obtained from the two methods agree well. As a result, the dominant scattering mechanisms in gallium nitride are deformationpotential and electrooptic mechanisms.
+
+GALLIUM NITRIDES
+RAMAN SPECTRA
+OPTICAL PHONONS
+PLASMONS
+COUPLED MODES
+SCATTERING
+EPITAXIAL LAYERS
+SPECTRAL SHIFT
+VPE

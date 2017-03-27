@@ -1,0 +1,8 @@
+This letter presents a theoretical approach for calculating the stray magnetic field of the tiny tip used in magnetic force microscopy (MFM). We consider several models for the tip. We demonstrate the advantage of using nonmagnetic tips covered by a magnetic thin film to improve lateral resolution of MFM. The analysis is quantitative and can be directly applied to a real tip that conforms to the shape limitations of our model. The same analysis can be applied to the case of a superconducting sample.
+
+ATOMIC FORCE MICROSCOPY
+MAGNETIC FIELDS
+ELECTRODES
+THIN FILMS
+MATHEMATICAL MODELS
+RESOLUTION

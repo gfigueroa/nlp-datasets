@@ -1,0 +1,10 @@
+Self-assembled In0.9Ga0.1As, In0.9Al0.1As, and InAs quantum dots (QD) were fabricated in an InAlAs matrix lattice-matched to an InP substrate by molecular beam epitaxy. Preliminary characterizations were performed using transmission electron microscopy, photoluminescence, and reflection high-energy electron diffraction. Experimental results reveal clear differences in QD formation, size distribution, and luminescence between the InAs and In0.9(Ga/Al)0.1As samples, which show the potential of introducing ternary compositions to adjust the structural and optical properties of QDs on an InP substrate. © 2000 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+semiconductor quantum dots
+self-assembly
+semiconductor epitaxial layers
+photoluminescence
+reflection high energy electron diffraction
+transmission electron microscopy

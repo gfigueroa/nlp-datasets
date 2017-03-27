@@ -1,0 +1,8 @@
+An all-optical technique has been used to provide the first direct measurement of anisotropic minority-carrier diffusion in an ordered alloy of GaInP. Direct imaging of the minority-carrier diffusion distribution resulting from generation at a quasipoint source is obtained using an optical microscope coupled to a scanning electron microscope. Minority-carrier diffusion lengths ranging from 3 to 60¼m are measured by this technique in double heterostructures of GaInP, GaAs, and GaInAs, providing a key parameter of interest to the performance of state-of-the-art triple junction solar cells. Here we show a direct measurement of anisotropy in minority-carrier mobility in ordered GaInP, which is evident in the oval-shaped distribution of the recombination luminescence. A factor of 1.6 increase in minority electron mobility along the [110] major axis is reported.
+
+carrier mobility
+gallium compounds
+III-V semiconductors
+indium compounds
+minority carriers
+photoluminescence

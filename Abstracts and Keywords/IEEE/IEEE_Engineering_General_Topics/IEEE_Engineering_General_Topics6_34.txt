@@ -1,0 +1,6 @@
+In this paper, a simplified message passing algorithm for decoding low-density parity-check (LDPC) codes is proposed with a view to reduce the implementation complexity. The algorithm is based on simple hard-decision decoding techniques while utilizing the advantages of soft channel information for improvement in decoder performance. The algorithm has been validated through simulation using LDPC code compliant with wireless local area network (WLAN -IEEE 802.11n) standard. The results show that the proposed algorithm can achieve significant improvement in bit error rate (BER) performance and average decoding iterations compared to fully hard-decision based decoding algorithms.
+
+Digital communication
+Error correction coding
+Iterative decoding
+Low-Density Parity-Check

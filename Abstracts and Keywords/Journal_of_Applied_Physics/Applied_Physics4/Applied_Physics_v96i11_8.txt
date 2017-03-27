@@ -1,0 +1,15 @@
+The impact of copper contamination and subsequent hydrogenation on recombination activity and hole-trap levels of misfit dislocations were investigated in p-type SiSi0.98Ge0.02Si structures. In the as-grown (noncontaminated) samples, dislocations were found to exhibit very low recombination activity, detectable with the electron-beam-induced current technique only at low temperatures. Deep-level transient spectroscopy revealed a dislocation-related hole-trap level at Et=Ev+0.2eV. The position of the observed level is close to the theoretically predicted hole-trap state of the intrinsic stacking fault of a dissociated dislocation. Contamination with a low copper concentration [5 (parts per 109) ppb] gave rise to a large increase of the recombination activity of the dislocations and to the appearance of another dislocation-related defect level at Et=Ev+0.32eV. Hydrogenation of the samples by a treatment with an acid solution and subsequent reverse-bias anneal at 380K resulted in the evolution of the levels of substitutional copper and its complexes with hydrogen.
+
+silicon
+Ge-Si alloys
+copper
+hydrogen
+elemental semiconductors
+electron-hole recombination
+deep levels
+hole traps
+dislocations
+impurity states
+hydrogenation
+EBIC
+deep level transient spectroscopy

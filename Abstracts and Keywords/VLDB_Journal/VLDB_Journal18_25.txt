@@ -1,0 +1,6 @@
+In spatial database outsourcing, a data owner delegates its data management tasks to a location-based service (LBS), which indexes the data with an authenticated data structure (ADS). The LBS receives queries (ranges, nearest neighbors) originating from several clients/subscribers. Each query initiates the computation of a verification object (VO) based on the ADS. The VO is returned to the client that can verify the result correctness using the public key of the owner. Our first contribution is the MR-tree, a space-efficient ADS that supports fast query processing and verification. Our second contribution is the MR*-tree, a modified version of the MR-tree, which significantly reduces the VO size through a novel embedding technique. Finally, whereas most ADSs must be constructed and maintained by the owner, we outsource the MR- and MR*-tree construction and maintenance to the LBS, thus relieving the owner from this computationally intensive task.
+
+Authenticated index
+Database outsourcing
+Spatial database
+Mobile computing

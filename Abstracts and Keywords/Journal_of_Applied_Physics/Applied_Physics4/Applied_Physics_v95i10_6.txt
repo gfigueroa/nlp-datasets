@@ -1,0 +1,25 @@
+A layer containing an average of 1.0 monolayer (ML) of adventitious carbon and averages of 1.5 ML and 1.9 ML of hydroxide was determined to be present on the respective O-terminated (000) and Zn-terminated (0001) surfaces of ZnO. A diffuse low-energy electron diffraction pattern was obtained from both surfaces. In situ cleaning procedures were developed and their efficacy evaluated in terms of the concentrations of residual hydrocarbons and hydroxide and the crystallography, microstructure, and electronic structure of these surfaces. Annealing ZnO(000) in pure oxygen at 600650
+°C±20
+°C reduced but did not eliminate all of the detectable hydrocarbon contamination. Annealing for 15 min in pure O2 at 700
+°C and 0.100±0.001	Torr caused desorption of both the hydrocarbons and the hydroxide constituents to concentrations below the detection limits (<0.03	ML=<0.3	at.
+%) of our x-ray photoelectron spectroscopy instrument. However, thermal decomposition degraded the surface microstructure. Exposure of the ZnO(000) surface to a remote plasma having an optimized 20% O2/80% He mixture for the optimized time, temperature, and pressure of 30 min, 525
+°C, and 0.050 Torr, respectively, resulted in the desorption of all detectable hydrocarbon species. Approximately 0.4 ML of hydroxide remained. The plasma-cleaned surface possessed an ordered crystallography and a step-and-terrace microstructure and was stoichiometric with nearly flat electronic bands. A 0.5 eV change in band bending was attributed to the significant reduction in the thickness of an accumulation layer associated with the hydroxide. The hydroxide was more tightly bound to the ZnO(0001) surface; this effect increased the optimal temperature and time of the plasma cleaning process for this surface to 550
+°C and 60 min, respectively, at 0.050 Torr. Similar changes were achieved in the structural, chemical, and electronic properties of this surface; however, the microstructure only increased slightly in roughness and was without distinctive features. © 2004 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+wide band gap semiconductors
+surface cleaning
+monolayers
+crystal microstructure
+band structure
+core levels
+annealing
+desorption
+pyrolysis
+plasma materials processing
+stoichiometry
+surface roughness
+low energy electron diffraction
+X-ray photoelectron spectra
+atomic force microscopy

@@ -1,0 +1,8 @@
+The domain reorientation process in polycrystalline materials was investigated through hysteresis loop measurements in soft and hard lead zirconate titanate (PZT) bulk ceramics. In order to investigate the degree of alignment of domains with the electric field the ferroelectric characterizations were performed in two perpendicular directions for each sample. It was found that for the soft PZT, the kinetics of the fatigue process due to space charges in a specific direction is not affected by the previous fatigue story induced in the other perpendicular one thus showing a fatigue anisotropy. This fact was attributed to no displacement of part of space charges during the electric field switching. However, for the hard PZT, an influence of the previous electric story could be observed due to the continuous realignment of the complex defects perpendicularly to the electric field. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric ceramics
+dielectric hysteresis
+electric domains
+ferroelectric switching
+space charge

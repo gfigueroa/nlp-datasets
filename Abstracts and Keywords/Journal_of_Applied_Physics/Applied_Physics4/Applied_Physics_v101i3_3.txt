@@ -1,0 +1,15 @@
+Well-protected, isolated bcc-iron nanoparticles embedded in silicon dioxide were prepared by e-beam evaporation and postannealing of multilayers in an ultrahigh vacuum system. The spherical shape and isolation of the particles were confirmed by plan-view and cross-sectional transmission electron microscopy. Oxidation was evaluated from the electron energy-loss near edge structure. In this technique, a postedge peak of 40eV above the iron L3 threshold, originating from backscattering of oxygen atoms, provides a clear indication of iron oxide. The white-line ratio (WLR), measuring the 3d-orbital occupancy, is used to estimate the oxidation-layer thickness. In the samples of large iron nanoparticles (with average diameter larger than 10nm), a very thin surface layer appears to be the oxide maghemite, approximately one atomic layer according to the WLR evaluations. The evolution of the coercivity with particle size, as measured by the magneto-optical Kerr effect, shows that the reversal process is dominated by the surface anisotropy and is also affected by the dipole interaction, particularly in samples with large volume-filling factor.
+
+iron
+nanoparticles
+silicon compounds
+annealing
+multilayers
+transmission electron microscopy
+oxidation
+electron energy loss spectra
+particle size
+coercive force
+Kerr magneto-optical effect
+magnetic particles
+ferromagnetic materials

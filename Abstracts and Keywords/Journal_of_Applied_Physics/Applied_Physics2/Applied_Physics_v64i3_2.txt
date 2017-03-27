@@ -1,0 +1,11 @@
+The basic assumptions of a recent model of the rapid initial oxidation of silicon by Schafer and Lyon are examined. It is found that the hypothesis is inconsistent with existing experimental data. Instead, our previous model on initial oxidation is used to satisfactorily explain their experimental data. The charge density at the interface and the equilibrium concentration of oxygen in the oxide are estimated based on this model, which agrees well with measured results. These comparisons suggest that our previous model of oxidation gives an overall satisfactory picture of the rapid initial thermal oxidation of silicon.
+
+SILICON
+OXIDATION
+MATHEMATICAL MODELS
+INTERFACES
+CHARGE DENSITY
+HOLES
+CHEMICAL REACTION KINETICS
+HIGH TEMPERATURE
+VERY HIGH TEMPERATURE

@@ -1,0 +1,10 @@
+Nanoparticles composed of iron and carbon have been produced by chemical vapor synthesis. A detailed structural, electronic, and magnetic characterization has been performed by several methods. The atomic arrangement in the as-prepared particles is strongly affected and stabilized by excess carbon. Small clusters of different ferrous phases are the building blocks of the particles. Due to the in situ formation of a carbonaceous shell the particles are stable against oxidation at ambient conditions. The magnetic properties are influenced by the exceptionally small particle size. The particles exhibit superparamagnetic behavior with a blocking temperature of 30K and the temperature dependence of the magnetization is governed by the finite size of the system.
+
+iron
+ferromagnetic materials
+carbon
+nanoparticles
+magnetic particles
+particle size
+superparamagnetism
+magnetisation

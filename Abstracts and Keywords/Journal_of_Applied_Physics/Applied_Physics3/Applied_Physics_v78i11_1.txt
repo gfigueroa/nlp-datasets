@@ -1,0 +1,10 @@
+A model is developed for a directcurrent glow discharge in argon by a combination of a hybrid Monte Carlo fluid model of electrons and ions in the entire discharge and a Monte Carlo model of ions and fast atoms in the cathode dark space, in which fast ion and atom impact ionization are incorporated. The relative importance of these processes, compared to electron impact ionization is investigated, as a function of distance from the cathode and at different discharge conditions. It is found that they are dominant close to the cathode, and that they gain importance with increasing voltages. With the incorporation of these processes it was possible to predict currentvoltage relations which are in excellent agreement with experiment. Also, the length of the cathode dark space, as a function of pressure and voltage, is calculated; the results agree with Astons empirical formula. © 1995 American Institute of Physics.
+
+ARGON
+GLOW DISCHARGES
+IMPACT PHENOMENA
+IONIZATION
+IV CHARACTERISTIC
+PLASMA SIMULATION
+PRESSURE DEPENDENCE
+VOLTAGE DEPENDENCE

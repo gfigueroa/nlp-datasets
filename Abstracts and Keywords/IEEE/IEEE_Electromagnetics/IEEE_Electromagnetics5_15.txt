@@ -1,0 +1,5 @@
+In this paper, a novel compact butterfly shaped planar monopole ultra-wideband (UWB) antenna is presented. This antenna is proposed and designed with a standard printed circuit board (PCB) process for suitable integration with MMICs and other components. The calculated impedance bandwidth of the proposed antenna ranges from 3 GHz to 12 GHz for a return loss S<sub>11</sub> less than -10 dB. Also, it has a relatively stable radiation patterns over its whole frequency band of interest. By introducing a slit ring resonator (SRR) in the feedline, a bandstop of 830 MHz (from 5.0 to 5.83 GHz) for band rejection of WLAN can be achieved. So, the proposed antenna is considered a good candidate for UWB applications.
+
+Bandstop
+slit ring resonator (SRR)
+ultra-wideband (UWB) antenna

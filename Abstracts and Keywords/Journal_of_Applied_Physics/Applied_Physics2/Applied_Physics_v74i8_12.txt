@@ -1,0 +1,12 @@
+A broad peak was observed in commercially available singlecrystal 6HSiC material. The samples were nitrogen doped, n type with free carrier concentration (NDNA) of 1.3×1018 cm3 that was determined from capacitancevoltage (CV) measurements. The defect concentration profile showed that the defect was spatially localized and had a maximum concentration of 2.5×1014 cm3 at 570 Å from the semiconductormetal interface. The activation energy varied with applied voltage from Ec0.40 eV at VR=7 V to Ec0.54 eV at VR=5 V. This can be explained qualitatively in terms of the PooleFrenkel effect. The defect was removed by the growth and subsequent removal of an oxide layer. Therefore, we conclude that the defect was caused by residual damage from the polishing process.
+
+SILICON CARBIDES
+SURFACE STATES
+DEFECT STATES
+POLISHING
+CV CHARACTERISTIC
+WAFERS
+DOPED MATERIALS
+NITROGEN ADDITIONS
+ACTIVATION ENERGY
+OXIDATION

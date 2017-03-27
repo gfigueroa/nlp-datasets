@@ -1,0 +1,10 @@
+We address the effects of anode preparation on the performance of multilayer organic photodetectors introduced in the accompanying article (Part I) [J. Xue and S. R. Forrest, J. Appl. Phys. 95, 1859 (2004)]. Using atomic force microscopy and ultraviolet photoemission spectroscopy, we find that the surface morphology and electronic properties of indiumtinoxide (ITO) anodes depend strongly on the anode preparation. ITO films deposited by rf magnetron sputtering at room temperature have smoother surfaces and 0.10.3 eV lower work functions than commercially obtained ITO films. Oxygen plasma and ultraviolet (UV)-ozone treatment can both increase the ITO work function, although the mechanisms leading to the increase have different origins. The dark current in a multilayer organic photodetector is reduced when the anode has a high work function, which agrees with our conclusion in Part I that electron tunneling injection from the anode into the organic active region dominates the dark current. The quantum efficiency of multilayer organic photodetectors is reduced by <10% for ITO anodes exposed to oxygen plasma or UV ozone, possibly due to an increased density of defect states at the anode/organic interface. © 2004 American Institute of Physics. 
+
+photodetectors
+organic compounds
+photoconductivity
+dark conductivity
+multilayers
+ultraviolet photoelectron spectra
+atomic force microscopy
+anodes

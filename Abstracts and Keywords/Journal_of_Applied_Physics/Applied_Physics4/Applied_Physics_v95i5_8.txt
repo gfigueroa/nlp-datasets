@@ -1,0 +1,17 @@
+This article presents a study performed with a dedicated scanning electron microscope on the electrical property evolution of surfaces of (0001)-oriented sapphire (Al2O3) and (100)-oriented yttria-stabilized zirconia (YSZ) single crystals, during a 1.1 keV electron irradiation at room temperature. The type of charges trapped on the irradiated areas and the charging kinetics are determined by measuring the total secondary electron emission yield Ã during the injection process, by means of two complementary detectors. At low current density (&lt;7×106
+pA
+cm2) where positive charging is observed in both materials, charges trapped in Al2O3 are stable, whereas they are unstable in YSZ. This leads to two different charging kinetics. As charging is progressing in Al2O3, Ã varies from its initial intrinsic value 7.5 down to a steady value Ã=1 which corresponds to the self-regulated regime. Under the same conditions, Ã varies in YSZ from 2.35 down to a steady value above 1 (Ã=1.1 in the experiment presented). At high current density (above 7×106 and 6×109
+pA
+cm2, respectively, for Al2O3 and YSZ), the regulation of the charge regime is controlled by the formation of a negative charge layer due to the reduction of the secondary electron emission by the elastic interaction of incident electrons with secondaries. The difference in the charging kinetics of the two materials is attributed to the difference in conductivities. The higher conductivity of YSZ is responsible for the slower charging kinetics in YSZ, the less pronounced current density effect, and the vanishing of positive charges when irradiation stops. © 2004 American Institute of Physics. 
+
+zirconium compounds
+yttrium compounds
+sapphire
+current density
+electron beam effects
+electron traps
+secondary electron emission
+electron-electron interactions
+electrical conductivity
+surface charging
+scanning electron microscopy

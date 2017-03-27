@@ -1,0 +1,8 @@
+Using the carbonization process, singlecrystalline SiC films were grown at substrate temperature (Tsub) in the range of 7501050	°C by the gassource molecularbeam epitaxial method. This process was performed by using C2H4 gas and a special growth method in which the temperature was raised at a predetermined rate (RT) during growth. To realize the growth of singlecrystalline carbonized films, it was found that a C2H4 gas pressure PC2H4=8×105 Torr and rising rate RT=2525/3	°C/min were necessary. After the carbonization process, essential growth of SiC films using SiHCl3 and C2H4 gases in the range of gas pressure ratios PSiHCl3/PC2H4= (1)/(3) 5 (PSiHCl3=15×105 Torr) at Tsub=1000	°C was performed. In these all experimental ranges, singlecrystalline 3CSiC films could be grown.
+
+SILICON CARBIDES
+MONOCRYSTALS
+FILMS
+MOLECULAR BEAM EPITAXY
+VERY HIGH TEMPERATURE
+CARBONIZATION

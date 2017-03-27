@@ -1,0 +1,9 @@
+A simple model is introduced which determines the optical band-gap energy Eg for penternary Cu(In(1X)GaX)(SYSe(1Y))2 (CIGSSe) alloys from its Ga(Ga+In) ratio as well as from its S(S+Se) ratio. In order to verify the model the depth dependent composition of a CIGSSe sample was revealed by elastic recoil detection analysis. Applying the model, the concentration profiles were transferred in an Eg profile. Finally, these values were compared with optical band-gap energies, which were obtained directly by independent characterization methods.
+
+copper compounds
+indium compounds
+gallium compounds
+ternary semiconductors
+energy gap
+optical constants
+particle backscattering

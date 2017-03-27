@@ -1,0 +1,8 @@
+With an increased focus on the utilization of green technologies and greater demands on the electric power grid, renewable energy is an important form of current and future power generation. With remote generation deployments, such as those based on wind energy, a cost-effective communication system with global coverage using satellite technology would be advantageous. The monitoring of remote generators for performance and maintenance issues is certainly necessary for any distributed-generation system. To offer a cost-effective satellite solution, a cost-optimization algorithm for minimizing data transmission while maximizing relevant telemetry data is required. This paper proposes a low-cost smart communications architecture using an Iridium Satellite System 9601 short-burst data transceiver and simple microcontroller technology. The microcontroller allows for simple optimization routines to be performed on the locally stored data. This proposed system was implemented and tested and recommendations are drawn on the usability of the developed communication system for monitoring a remote generation site.
+
+Iridium
+microcontroller
+nonlinear programming
+renewable energy
+satellite communications
+smart systems

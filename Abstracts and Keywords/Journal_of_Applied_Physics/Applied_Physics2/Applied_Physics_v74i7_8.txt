@@ -1,0 +1,14 @@
+Transport of 110 keV electrons in solid media is investigated by means of a single scattering Monte Carlo scheme. Interaction of the incident electron with the target is modeled using bound atom elastic scattering cross sections, together with inelastic collision cross sections and excitation functions, for the weakly bound outer electrons, obtained from dielectric theory with a model dielectric function. Inelastic collisions of the incident particle with the tightly bound inner shell electrons of the target are sampled using semiclassical ionization cross sections. Representative backscattering and transmission calculations are presented and compared with experimental data.
+
+SOLIDS
+ELECTRONS
+ELASTIC SCATTERING
+TRANSPORT PROCESSES
+KEV RANGE 0110
+MONTE CARLO METHOD
+INELASTIC SCATTERING
+CROSS SECTIONS
+EXCITATION
+DIELECTRIC FUNCTION
+IONIZATION
+BACKSCATTERING

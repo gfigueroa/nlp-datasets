@@ -1,0 +1,6 @@
+As has been frequently pointed out the distribution function of hot carriers in state-of-the-art devices is insufficiently described using just the average carrier energy. In this work the distribution function is characterized by six moments to obtain a more accurate description of hot carrier phenomena. A transport model based on six moments is derived and compared to a previously published model. A detailed comparison of results obtained from the model with Monte-Carlo data shows excellent agreement provided proper models for the relaxation times are used. © 2001 American Institute of Physics.
+
+Boltzmann equation
+hot carriers
+carrier mobility
+semiconductor device models

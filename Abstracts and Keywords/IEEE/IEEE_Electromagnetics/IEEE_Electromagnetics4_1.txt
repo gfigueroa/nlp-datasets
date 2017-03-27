@@ -1,0 +1,7 @@
+This research and development concentrates on the progress achieved to-date in reference to the establishment of a multi-modal collaboration framework for use in any type of information technology related infrastructure. The framework builds on the knowledge and experience achieved in the developmental phase of the multi-modal advanced technologies for real-time information exchange (MATRIX) framework which was funded by the Department of Defense as a Small Business Innovative Research (SBIR) phase II effort. Completely pluggable and robust, MATRIX will act as the omnipresent application-interface meant to serve any type of collaborative environment including the human to human, resource to resource, and human to resource collaborative functions. To better service current and future customers, the MATRIX framework leverages open source technologies to join all customer requirements with the latest in cutting edge technology.
+
+Collaboration Framework
+Grid Application
+Multi-modal Information Exchange
+Services Framework
+XML-based Plug-ins

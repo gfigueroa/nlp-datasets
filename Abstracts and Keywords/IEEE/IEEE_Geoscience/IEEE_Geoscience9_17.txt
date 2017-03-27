@@ -1,0 +1,5 @@
+A simple transmission line model is presented to emulate field behavior in a one dimensional metallic grating in TE polarization. The proposed model is based on the fact that pairs of adjacent metallic strips in the structure act as a parallel plate waveguide supporting TE guided modes for low enough frequencies. The effect of fringing fields is also included and a very good approximate model is obtained to simulate metallic gratings in TE polarization.
+
+metallic grating
+sub-wavelength structures
+transmission line model

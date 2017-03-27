@@ -1,0 +1,7 @@
+Scanning activities are usually conducted by infected hosts to discover other vulnerable hosts or by a motivated adversary to gather information, and are typically precursor to most of the cyber attacks. There are many scan detection approaches at present; however, most of them focus on enterprise-level network where the traffic volume is low, bi-directional and packet-level information are available. This paper proposes a new port scan detection approach-time based flow size distribution sequential hypothesis testing or TFDS briefly, for high-speed transit network where only unidirectional flow information is available. TFDS uses the main idea of sequential hypothesis testing to detect scanners that exhibit abnormal access patterns in terms of flow size distribution (FSD) entropy. We make a comparison with the state-of-the-art backbone port scan detection method TAPS in terms of efficiency and effectiveness using real backbone packet trace, and find that TFDS performs much better than TAPS.
+
+Flow size distribution entropy
+IP backbone monitoring
+Port scanning
+Real time port scan detection
+Sequential hypothesis testing

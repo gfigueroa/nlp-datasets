@@ -1,0 +1,7 @@
+The Cellular Neural Network is an obvious candidate for multi-core realization. For reason of its seemingly simple architecture, it is therefore the ideal candidate to evaluate techniques for multi-core technology mapping. In this paper it is studied how a CNN implementation can be unrolled in space or in time to fit the specific characteristics of a multi-core platform. It illustrates that this is a crucial step that sets the basic performance of a multi-core realization.
+
+Cellular Neural Networks
+Dataflow Scheduling
+Multi Core
+Spatial Distribution
+Time Multiplexing

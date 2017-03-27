@@ -1,0 +1,6 @@
+This paper presents a new video segmentation scheme, which consists of two stages: initial segmentation and motion estimation. In the initial segmentation, the watershed transformation followed by a region adjacency graph guided region merging process is used to partition the first video frame into spatial homogenous regions. Then the motion of changed region is estimated. Based on the highly efficient quadratic motion model, the motion estimation is undertaken using Gauss-Newton Levenberg-Marquardt method to minimize the least-square error function. Experimental results show the proposed scheme provides high performance in terms of segmentation accuracy and video compression ratio.
+
+Motion Estimation
+Motion Model
+Region Merging
+Video Segmentation

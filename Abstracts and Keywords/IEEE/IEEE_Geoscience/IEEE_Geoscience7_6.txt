@@ -1,0 +1,5 @@
+In this paper we present a preliminary analysis of the radiometric performance of the three 1.4 GHz Noise Injection Radiometers of the SMOS satellite. We assess the radiometric resolution and stability of the receivers, and the similarity between their measurements. The units aim at measurements of a common antenna temperature, which determines the overall brightness temperature level of SMOS retrievals. For this purpose, we use measurement data gathered during the first two months of the in-orbit operations of the satellite, which was launched in November 2009. The preliminary assessment of the abovementioned performance parameters shows that the units meet the requirements with a margin.
+
+Radiometer calibration
+Radiometry
+SMOS

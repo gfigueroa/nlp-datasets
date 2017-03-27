@@ -1,0 +1,15 @@
+Epitaxial layers of ZnSiN2, ZnGe0.65Si0.35N2, and ZnGe0.31Si0.69N2 grown on Al2O3 substrates were implanted at 350
+°C with high doses (5×1016	cm2) of Mn+ ions and annealed at 700
+°C. The implanted region did not appear to become amorphous and showed strong selected area diffraction patterns. Hysteresis was observed in magnetization versus field curves from all of the implanted samples. Differences in field-cooled and zero field-cooled magnetization persisted to temperatures of <200 K for ZnSiN2, and <280 K for both ZnGe0.31Si0.69N2 and ZnGe0.69Si0.31N2. The results are consistent with recent magnetic data from (ZnxMn1x)GeP2, ZnSnAs2 and (CdxMn1x)GeP2 and suggest that this class of materials may be promising for dilute magnetic semiconductor applications. © 2002 American Institute of Physics. 
+
+wide band gap semiconductors
+ternary semiconductors
+semimagnetic semiconductors
+manganese
+magnetisation
+magnetic hysteresis
+zinc compounds
+magnetic epitaxial layers
+semiconductor epitaxial layers
+ion implantation
+annealing

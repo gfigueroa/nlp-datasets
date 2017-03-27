@@ -1,0 +1,11 @@
+Magnetic and magnetotransport properties of Mn2xCuxSb (x=0, 0.1, 0.2, and 0.4) compounds have been studied. A phase transition from a ferrimagnetic to an antiferromagnetic state occurs in the Cu-substituted compounds as the temperature is reduced. A magnetic field-driven transition takes place in the Cu-containing compounds, changing the spin configuration from antiferromagnetic to ferromagnetic. The giant magnetoresistance effect is observed in these compounds, accompanying the transition. The largest magnetoresistance ratio of 40% is observed for Mn1.9Cu0.1Sb at 170 K in a magnetic field of 5 T. © 2003 American Institute of Physics. 
+
+manganese alloys
+copper alloys
+antimony alloys
+giant magnetoresistance
+ferrimagnetic materials
+magnetic transitions
+ferromagnetic-antiferromagnetic transitions
+antiferromagnetic materials
+spin dynamics

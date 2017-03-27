@@ -1,0 +1,14 @@
+The simultaneous action of passivation and dissociation during thermochemical interaction of trivalent interfacial Si traps (Pbs;Si3ýSiÅ) with molecular hydrogen has been analyzed. A unified description is attained through solution of the simultaneous set of the first-order rate equations describing passivation and dissociation, under the restriction that the H2 concentrations at the interface and in the ambient are continuously equal. The analysis is given allowance by the recently attained physically consistent pictures for each of the separate steps of passivation in H2 and dissociation in vacuum, incorporating the existence of distinct spreads ÃEf and ÃEd in the respective activation energies. The assessment of heat treatment in H2 shows that, as compared to the fictitious case ÃEf=ÃEd=0, the effect of the existence of the spreads, for usual anneal times of 1060 min in 1 atm H2, is to reduce the passivation efficiency by two orders of magnitude, while enhancing the optimum anneal temperature Tan from <330360 to the range 400430
+°Cthe latter being commonly used. The optimum anneal timeTan curve is established. The analysis, and as experimentally verified, shows that the Pb passivation level is not decreased (Pb regenerated) by successive annealings at successively lower Tan, in contrast with previous reports on annealing of electrically detected interface traps in atomic H. The results are discussed within technological context. A general inference is that Pb may be readily optimally passivated (in 1 atm H2) to sub-1-ppm levels, rendering negligible their role in the typically attained residual interface trap densities of (210)×109
+cm2; at these levels, the interface traps left must be of different type, as concluded previously. During passivation in H2, the Pb system appears as an efficient atomic H mill. © 2000 American Institute of Physics. 
+
+hydrogen neutral molecules
+passivation
+dissociation
+silicon
+elemental semiconductors
+silicon compounds
+semiconductor-insulator boundaries
+impurity-defect interactions
+interface states
+interface structure

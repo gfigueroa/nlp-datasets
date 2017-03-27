@@ -1,0 +1,5 @@
+Researches in technology diffusion is popular in economics; however most papers focus on geographical pattern. In this research, we examined the international technology diffusion by using patent citations and focused on Computers and Communications field to investigate technology in-flow and out-flow between countries. The results indicate that technology diffusion of this field is more significant intra-field, differing by countries. It shows more concentrations of technology in-flow, and more spread of out-flow. Technology diffusion of major countries: US, Germany and Canada have performed fewer dependencies on the other nations; Japan, South Korea and Taiwan have performed a technological cluster; Netherlands has performed spread of technology out-flow; France, United Kingdom, Sweden and Finland have performed spread of technology in/out flows.
+
+Computers &#x00026; Communications Field
+Patent Citation
+Technology Diffusion

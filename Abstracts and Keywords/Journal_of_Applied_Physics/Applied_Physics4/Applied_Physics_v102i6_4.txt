@@ -1,0 +1,8 @@
+Detailed polarized spectral properties of Nd3+:Li2Gd4(MoO4)7 crystal grown by the Czochralski method have been investigated. The Judd-Ofelt intense parameters ©2,4,6, the absorption and emission cross sections, and the branching ratios were calculated for each polarization of the main transitions. The large absorption cross section (16.6×1020cm2 of À polarization) and broad absorption band (7nm of À polarization) around 804nm indicate that this crystal can be pumped efficiently by diode lasers. The broad emission bands from the multiplet show that the crystal is a promising medium for tunable and short pulse lasers. Pumped by a Ti:sapphire laser, the maximum 514mW quasi-cw laser output around 1060nm has been obtained with a 1.5% output couple, the threshold is 35mW, and the slope efficiency is 32%.
+
+gadolinium compounds
+lithium compounds
+neodymium
+photoluminescence
+solid lasers
+visible spectra

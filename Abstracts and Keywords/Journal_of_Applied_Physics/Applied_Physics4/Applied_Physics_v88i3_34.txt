@@ -1,0 +1,14 @@
+Pulsed glow discharge plasma from a 1 Pa gas mixture of acetylene (C2H2) and hexafluoroethane (C2F6) was used to produce fluorinated diamond-like carbon (F-DLC) films on glass and polymethyl-methacrylate (PMMA) substrate. The composition of the F-DLC coatings was measured by using Rutherford backscattering spectroscopy and elastic recoil detection analysis techniques. The transmittance, absorption coefficient, and optical band gap of 100 nm thick F-DLC coatings was measured by using an ultraviolet/visible spectrometer. The friction and wear properties were measured with a conventional pin-on-disk device. In addition, contact angle measurements were taken in order to determine the nonwetting properties of the coatings. The results showed an increase in nonwetting properties, transmittance, and optical band gap with increasing fluorine content in the coatings. The increased fluorine contents suppressed the incorporation of hydrogen and increased the optical band gap energy, which is quite different from the general DLC films whose optical properties are highly improved with increasing amount of hydrogen incorporated in the films. Furthermore, the F-DLC coatings on PMMA and glass substrates proved to have low friction and wear and similar nonwetting properties such as Teflon®. 
+
+carbon
+Rutherford backscattering
+plasma deposition
+light transmission
+absorption coefficients
+energy gap
+optical constants
+ultraviolet spectra
+visible spectra
+friction
+wear
+contact angle

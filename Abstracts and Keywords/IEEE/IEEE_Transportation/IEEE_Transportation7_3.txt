@@ -1,0 +1,8 @@
+In this paper a novel network architecture employing space diversity for Wireless Sensor Networks (WSN) is proposed. A simulation study has been carried out to evaluate performance of such WSN employing space diversity in terms of optimal transmit power. Optimal transmit power is the minimum power required to sustain the network connectivity while maintaining a predefined maximum tolerable Bit Error Rate (BER) in WSN. Optimization of transmit power is of great importance in WSN since sensor nodes are battery driven and optimization helps to increase battery life by reducing inter node interference significantly. The impact of Maximal Ratio Combining (MRC) based space diversity on optimal transmit power is investigated in presence of Rayleigh fading. Use of MRC space diversity in Rayleigh fading channel shows a significant reduction in optimal common transmit power. Average number of retransmissions for successful delivery of a packet is also evaluated considering an infinite Automatic Repeat Request (ARQ) scheme.
+
+ARQ
+BER
+MRC
+Optimal transmit power
+Rayleigh fading
+Wireless Sensor Networks

@@ -1,0 +1,5 @@
+Using the energy equivalent hypothesis, combining the tension and compression constitutive relation of concrete material in the code for design of concrete structure, the scalar form of damage variable is introduced and a new concrete damage model is proposed so as to use for damage analysis in concrete structures. In order to the unilateral incision concrete beams with a four-point shear loading, for example, this model is developed for structural damage analysis in the ABAQUS finite element software. And the damage is found on the right of upper incision. The damage max value is 0.9162. The damage zone prolongates downward along a curve form. The results show that the model damage evolution results accord the tendency of digital speckle test results. It means that the damage model for concrete structural damage analysis is feasible.
+
+damage constitutive model
+energy equivalent hypothesis
+numerical verification

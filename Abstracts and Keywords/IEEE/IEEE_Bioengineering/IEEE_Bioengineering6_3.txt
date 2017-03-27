@@ -1,0 +1,5 @@
+We describe a face reconstruction framework based on a statistical model that combines shape (2D and height maps), appearance (albedo), and spherical harmonics projection (SHP) information. The framework takes a 2D frontal face image under arbitrary illumination as input and outputs the estimated 3D shape and appearance. Face identification is performed using the shape and albedo coefficients of the fitting process, as well as the actual shape/texture reconstructions. Results indicate decent face reconstructions and a perfect recognition rate for the frontal images of the Extended Yale Database B.
+
+Face reconstruction
+illumination
+recognition

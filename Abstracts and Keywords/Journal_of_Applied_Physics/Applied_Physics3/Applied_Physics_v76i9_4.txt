@@ -1,0 +1,8 @@
+Carrier energy relaxation rates via carrierpolar opticalphonon interactions with hot phonon effects are theoretically studied in multisubband quantum well structures. The effects of changing the width and depth of quantum wells on the carrier energy relaxation rate are discussed. Compared to the result of the bulk, we find that the difference in the energy relaxation rate between quantum wells and bulk is rather small. Reducing the lifetime of longitudinaloptical phonons will effectively enhance the carrier energy relaxation rate. The implications in designing highspeed quantum well lasers are also suggested.
+
+QUANTUM WELLS
+LASERS
+ELECTRONPHONON COUPLING
+RELAXATION
+OPTICAL PHONONS
+CHARGE CARRIERS

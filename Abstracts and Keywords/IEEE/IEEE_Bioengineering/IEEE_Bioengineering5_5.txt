@@ -1,0 +1,7 @@
+A new portable brain imaging device based on continuous-wave functional near-infrared spectrometry (fNIRS) is presented. The source-detector part is composed of a multi-wavelength LED and a silicon photodetector that are directly placed on the scalp of the subject. The dimensions of the proposed device are small, as it has to be mounted on the head of an adult person. Acquired data are transmitted in real-time to a laptop for post processing using Matlab. Time- multiplexed light is used to achieve a higher SNR while keeping the device safe for long-term wearing. Preliminary evaluation on adults gave the expected accuracy and compare well with fNIRS characteristics found in literature, that are collected from bulky equipment. With a noise figure of -47 dB and a sampling rate of 23 Hz, the presented device is appropriate to isolate hemodynamic variations, which are strongly related to local cerebral activity.
+
+Biomedical Imaging
+Data Acquisition
+Infrared Spectroscopy
+Optical Receivers
+Portable Devices

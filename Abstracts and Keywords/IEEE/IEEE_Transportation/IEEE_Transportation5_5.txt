@@ -1,0 +1,7 @@
+Emissions from vehicles is one of the primary contributors to deteriorating ambient air quality in major urban areas of the Indian subcontinent, leading to increased morbidity and mortality, and, in turn, to decreasing economic productivity. With an explosive growth in their numbers in the last decade, these vehicles are also emerging as significant contributors to GHG emissions. This realisation has put public and regulatory pressures on the industry to plan strategies for clean alternative transportation technologies. Two key vehicle market characteristics in the country are - a relatively benign urban driving profile and a price elastic market demand. There have been demonstration programmes run by various manufacturers to address the issue of vehicular pollution through deployment of electric vehicles. However, due to high costs, and inadequate performance, most attempts at commercialisation of these vehicles have not been very successful. Two and three wheelers (scooters, motorcycles and auto-rickshaws) are the most popular vehicles in India, with populations of over 35 million and 3 million respectively. This paper presents the experience and lessons learned during the demonstration phase, by one major manufacturer of these vehicles, and steps carried out to reduce manufacturing costs so as to produce marketable electric vehicles with acceptable life cycle costs.
+
+'Efficiency'
+'Electric Vehicle'
+'Marketing'
+'Optimisation'
+'Simulation'

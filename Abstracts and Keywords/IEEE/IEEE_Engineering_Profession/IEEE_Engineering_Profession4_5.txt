@@ -1,0 +1,5 @@
+During summer (2000), wholesale electricity prices in California were approximately 500% higher than those during the same months in 1998-1999. The price hike was unexpected by many policy makers and individuals who were involved in the power industry. They have been wondering whether electricity deregulation produces benefits of competition promised to consumers. Unfortunately, no scientific research has previously examined why the electricity crisis occurred in California. Hence, this study proposes a use of multi-agent intelligent simulator to empirically examine several reasons regarding why it occurred. A proposed intelligent simulator has been developed on the basis of the knowledge-based reinforcement learning and is applied to a data set on the California electricity crisis in 2000-2001. The proposed simulator estimates accurately a dynamic fluctuation of electricity price and it provides empirical results that were not identified in the previous research by Joskow and Kahn (2002).
+
+Machine learning
+Multi-agent systems
+Wholesale Power Market

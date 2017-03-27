@@ -1,0 +1,7 @@
+In this paper, we develop a distributed cooperative spectrum sensing algorithm based on network code to decrease the need for bandwidth in cognitive radios. The model of the distributed cooperative spectrum sensing is analyzed, and the algorithm of distributed scheme based on network code is described. The simulation results show that compared with the distributed scheme without network code and the non-cooperative one, the throughput of secondary users is increased apparently, and also, the probability of detection of the distributed scheme with network code is improved about 10% and 20%, respectively, further, the optimal sensing time is shorter about 82% and 88%, respectively.
+
+Distributed cooperative spectrum sensing
+cognitive radio
+network code
+optimal sensing time
+throughput

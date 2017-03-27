@@ -1,0 +1,5 @@
+We report on impedance magnetocardiography studies using high-Tc superconducting quantum interference device (SQUID) magnetometers in a partially shielded environment. The SQUID detects magnetic-field variations due to impedance changes in the thorax at 15kHz. SQUID measurements are compared to impedance magnetocardiograms recorded at 100kHz using a copper pickup coil. An electromagnetic finite element model is used to simulate the distribution of ac during the cardiac cycle.
+
+magnetocardiography
+SQUID magnetometers
+finite element analysis

@@ -1,0 +1,10 @@
+The effect of nonuniform interface trap distributions on capacitancevoltage (CV) characteristics of 6Hsilicon carbide metaloxidesemiconductor (MOS) capacitors has been investigated. Theoretical CV curves have been calculated in order to study the influence of: (i) the nature (donor or acceptor) of the traps, (ii) the interface state density peak in the band gap and the peak magnitude. The incomplete ionization of dopants and the depletion in the polysilicon gate have also been taken into account to fit experimental data. A good agreement is observed between the interface state spectrum obtained in our calculation and the one obtained by the Termans method. Thus, exact parameters of the MOS structures can be obtained. A peak of donor states is detected at Ev+0.65
+eV, and an effective oxide charge is measured to 4.9×1012
+cm2, which denotes a poor SiO2SiC interface quality. © 2000 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+energy gap
+MOS capacitors
+interface states
+electronic density of states

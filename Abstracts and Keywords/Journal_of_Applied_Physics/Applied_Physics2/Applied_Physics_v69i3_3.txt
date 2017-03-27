@@ -1,0 +1,10 @@
+Subsidiary absorption butterfly curves of spinwave instability threshold versus static inplane field have been obtained for yttrium iron garnet (YIG) thin films at 3 GHz. The butterfly curves have been found to be rather anomalous, typically displaying a pronounced dip and a very low minimum threshold. These anomalous features are attributed to the overlap of the subsidiary absorption field region with ferromagnetic resonance (FMR). Firstorder instability theory was extended to include the uniform mode response near FMR. The extended theory yields good fits to the data for reasonable values of the YIG FMR linewidths. The theoretical analysis also shows a predicted flip in the azimuthal propagation angle Õk for the unstable spin waves in the region of FMR overlap. With increasing field, there are predicted discontinuous changes in Õk from 90° to 0° and back to 90° in the region of FMR.
+
+YIG
+THIN FILMS
+FERROMAGNETIC RESONANCE
+GHZ RANGE 01100
+ABSORPTION
+ANOMALOUS PROPERTIES
+SPIN WAVES
+LINE WIDTHS

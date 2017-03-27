@@ -1,0 +1,5 @@
+This paper propose a novel slot antenna with pattern reconfigurability. The planar antenna is fabricated on the top side of a FR4 substrate and the microstrip feeding line is fabricated on the back side of the board. the proposed antenna demonstrates reconfigurable radiation patterns in the frequency range from 3 to 5.5 GHz. Pin diodes are used to change the radiation patterns of the proposed antenna in pre-selected positions. As a result, the mainbeams of the antenna shift in the x-z plane. Return loss and radiation pattern simulations are presented.
+
+PIN diode
+pattern reconfigurable
+slot antenna

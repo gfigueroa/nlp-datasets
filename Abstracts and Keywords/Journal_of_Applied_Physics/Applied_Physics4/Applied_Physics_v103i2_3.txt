@@ -1,0 +1,9 @@
+A quantum transport simulator, Schrödinger equation Monte Carlo in two dimensions (SEMC-2D), is presented that provides a rigorous yet reasonably computationally efficient quantum mechanical treatment of real scattering processes within quantum transport simulations of nanoscale metal-oxide-semiconductor field effect transistors (MOSFETs). This work represents an extension of an early version of SEMC for simulating quantum transport and scattering in quasi-one-dimensional device geometries such as encountered in conventional and quantum-cascade lasers. In many respects SEMC is simply a variation on nonequilibrium Greens function techniques, with scattering as well as carrier injection into the simulation region treated via Monte Carlo techniques. In this regard, SEMC also represents a quantum analog of semiclassical Monte Carlo. Scattering mechanisms considered include crystal momentum randomizing acoustic and optical intra- and intervalley scattering (and intra- and intersubband scattering), and nonrandomizing surface roughness scattering. Simulation results for nanoscale dual-gate MOSFET geometries are provided that illustrate the method and the continuing need for accurate modeling of scattering even in nanoscale MOSFETs.
+
+Green's function methods
+Monte Carlo methods
+MOSFET
+nanotechnology
+Schrodinger equation
+semiconductor device models
+surface scattering

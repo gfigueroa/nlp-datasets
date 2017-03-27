@@ -1,0 +1,8 @@
+This paper presents an unified framework for fast interactive segmentation of natural images using the image foresting transform (IFT) - a tool for the design of image processing operators based on connectivity functions (path-value functions) in graphs derived from the image. It mainly consists of three tasks: recognition, enhancement, and extraction. Recognition is the only interactive task, where representative image properties for enhancement and the object's location for extraction are indicated by drawing a few markers in the image. Enhancement increases the dissimilarities between object and background for more effective object extraction, which completes segmentation. We show through extensive experiments that, by exploiting the synergism between user and computer for recognition and enhancement, respectively, as a separated step from recognition and extraction, respectively, one can reduce user involvement with better accuracy. We also describe new methods for enhancement based on fuzzy classification by IFT and for feature selection and/or combination by genetic programming.
+
+Graph-based image segmentation
+differential image foresting transform
+fuzzy classification
+genetic programming
+image feature selection and/or combination
+multiscale image filtering

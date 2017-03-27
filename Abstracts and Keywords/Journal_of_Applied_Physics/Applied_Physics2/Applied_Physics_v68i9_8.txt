@@ -1,0 +1,11 @@
+Using (100) Cu(1000 Å) /Ni/Cu(1000 Å) structures with a different Ni thickness, a complete reversal in magnetic anisotropy is observed between the structures with 1000 and 50 Å Ni, respectively. The structures were deposited on (100) Si, with the first Cu layer in the (100) orientation as the seed, followed by epitaxial Ni and another Cu layer. Comparing the magnetization for the field applied parallel to the film plane, M%, with that perpendicular to it, M¥, M¥ is found to increase and M%, to decrease with decreasing Ni thickness. At a Ni thickness of 50 Å, a squared hysteresis loop is observed for M¥. The M% curve, on the other hand, changes from a normal one at 1000 Å Ni to one with little hysteresis at 50 Å Ni. These are accompanied by an increasing deformation of the (100)Ni cubic lattice into a tetragonal one with decreasing Ni thickness, due to its mismatch with Cu. The deformation is discussed to assess the roles of stress in the observed reversal in magnetic anisotropy.
+
+MAGNETIZATION
+MAGNETIC ANISOTROPY
+COPPER
+NICKEL
+MULTILAYERS
+THIN FILMS
+DEPOSITION
+HYSTERESIS
+INTERFACE STRUCTURE

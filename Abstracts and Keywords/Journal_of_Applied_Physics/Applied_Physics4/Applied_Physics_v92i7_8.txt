@@ -1,0 +1,11 @@
+We have carried out high resolution Laplace deep level transient Spectroscopy (DLTS) and conventional DLTS on silicon implanted with very low doses of either silicon, germanium, erbium, or ytterbium, and compared the results to those from electron-irradiated silicon. DLTS spectra of all the samples initially look very similar, and a peak at 95 K appears in all spectra which may be due to the vacancy-oxygen (VO) defect. We have carried out detailed measurements of the capture cross section and activation energy of this defect using Laplace DLTS. We show that, when the mass of the implanted ion exceeds that of silicon, the defect has a much smaller electron capture cross section than that expected for the VO defect, and a smaller activation energy. Hydrogen has been introduced, either by wet chemical processing or plasma, to all samples to observe the hydrogenVO interactions resulting in VOH. By using high resolution DLTS we are able to establish that, after hydrogenation, the VOH defect exists with an identical emission rate in the silicon-implanted silicon and the electron-irradiated silicon, but not in the silicon implanted with heavier ions. We conclude that the peak at 95 K in the DLTS spectra in the case of the heavier ions is due to a different defect, confirming earlier reports in the literature. This defect is negatively charged, unlike VO, which is acceptor-like. We are also able to observe VOH in samples where VO is not present, after these samples have been annealed. We attribute this to release of V and H atoms from other defects during annealing. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+ion implantation
+impurity-vacancy interactions
+deep level transient spectroscopy
+annealing
+germanium
+erbium
+ytterbium

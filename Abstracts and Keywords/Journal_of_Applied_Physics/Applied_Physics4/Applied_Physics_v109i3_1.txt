@@ -1,0 +1,13 @@
+The dielectric, electrical and structural properties of (1x)(0.94Bi1/2Na1/2TiO30.06BaTiO3)xK0.5Na0.5NbO3 (BNTBTxKNN) with x = 0.09, 0.12, 0.15, and 0.18 were investigated as potential candidates for high-temperature capacitors with a working temperature far beyond 200	°C. Temperature dependent dielectric permittivity (µ) showed two local broad maxima that at the optimal composition of KNN (x = 0.18) are combined to form a plateau. This then results in a highly temperature-insensitive permittivity up to < 300	°C at the expense of a small reduction in absolute permittivity values. High-temperature in situ x-ray diffraction study showed pseudocubic symmetry without obvious structural changes, which implies that the dielectric anomalies observed could only be a consequence of a slight change in space group. BNTBT0.18KNN showed a permittivity of < 2150 at the frequency of 1 kHz at 150	°C with a normalized permittivity µ/µ150	°C varying no more than ±10% from 43 to 319	°C. With very good electrical properties persisting up to 300	°C, i.e., a resistivity on the order of magnitude of 108©	m and the RC constant of about 1 s, the examined BNTBTxKNN compositions present a good starting point for the development of high-temperature capacitor materials.
+
+barium compounds
+bismuth compounds
+ceramics
+crystal symmetry
+dielectric materials
+electrical resistivity
+permittivity
+potassium compounds
+sodium compounds
+space groups
+X-ray diffraction

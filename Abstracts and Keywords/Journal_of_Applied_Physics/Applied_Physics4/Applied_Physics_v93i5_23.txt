@@ -1,0 +1,17 @@
+Epitaxial quality of Ge layers on GaAs(001), as well as the quality of the Si capping layers, were investigated in situ by reflection high-energy electron diffraction during growth and, subsequently, by scanning electron and scanning probe microscopies. Ge was grown on the (1×1)-GaAs(001) surface prepared by oxide desorption at 580
+°C in an As-free ultrahigh vacuum; its morphology, varying from reasonably flat layers with only atomic scale roughness to relatively large three-dimensional asperities, was found to crucially depend on the GaAs surface quality and growth temperature. The data presented in this work also account for the apparent discrepancies between various groups regarding the Ge/GaAs reconstruction; our detailed analysis proves that, at least under the experimental conditions described herein, it is a mixture of (1×2) and (2×1), rather than a (2×2) or c(2×2). Smooth Si growth was mainly impeded by a large lattice mismatch with the underlying Ge, initially replicating the morphology of the Ge layer and eventually forming discrete three-dimensional islands and continuous undulations. The study shows that flat epitaxial Si capping of GaAs should be possible by employing graded silicongermanium buffers. © 2003 American Institute of Physics. 
+
+germanium
+gallium arsenide
+silicon
+molecular beam epitaxial growth
+semiconductor growth
+semiconductor epitaxial layers
+reflection high energy electron diffraction
+scanning electron microscopy
+scanning probe microscopy
+surface morphology
+surface topography
+surface reconstruction
+elemental semiconductors
+III-V semiconductors

@@ -1,0 +1,13 @@
+Cu3Ge films have been found to have a low resistivity, good adhesion onSiO2, good thermal stability on Si, and good oxidation resistance. It has the potential as an ideal adhesion/barrier/passivation layer for Cu ultralarge scale integration metallization. The kinetics of Cu3Ge formation and the thermal stability ofCu3Ge against Al were studied by in situ resistivity measurement, Rutherford backscattering spectrometry, and transmission electron microscopy. We found that Cu reacted with Ge in the temperature range of 100200	°C. The activation energy of the CuGe compound formation was found to be 1.1±0.1
+eV. The CuGe compound was identified asõ-Cu3Ge from transmission electron microscope diffraction patterns. Upon annealing theõ-Cu3Ge became unstable on Al at the temperature range of 300350	°C. In the reaction between Al andCu3Ge, Cu preferentially reacted with Al to form anõ-Al2Cu3 compound. The activation energy of formation of the AlCu compound was found to be 2.1±0.1
+eV. © 1997 American Institute of Physics. 
+
+copper alloys
+germanium alloys
+metallic thin films
+metallisation
+electrical resistivity
+Rutherford backscattering
+transmission electron microscopy
+adhesion
+oxidation

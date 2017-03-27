@@ -1,0 +1,9 @@
+Photocurrent-voltage (photo-I-V) measurements for oxide charge characterization of high-º metal-oxide-semiconductor (MOS) capacitors is a viable technique for quantifying both the oxide charge density and the centroid of charge. The latter information is not obtainable from conventional capacitance-voltage (C-V) measurements. In this paper, the theoretical background for photo-I-V measurements is reviewed and extended to address high-º dielectric stacks. Experimental results comparing C-V and photo-I-V measurements for oxide charge characterization of Al gated, high-º HfO2 MOS capacitors is given. For electron injection from Al, it was found that similar oxide charge densities were calculated using photo-I-V (between 5.5×1012 and 6.7×1012cm2) and C-V (between 4.5×1012 and 5×1012cm2) measurements. The centroid of trapped charge, /tox, as defined as a distance from the gate electrode normalized to the dielectric stack thickness was measured to be < 0.2, which is near the Al electrode and suggests that significant charge trapping is occurring at defects within the HfO2 and not at the HfO2 interface with the thin oxide. Similar measurements using electron injection from the substrate shows that the centroid of trapped charge shifts from near the gate electrode (/tox = 0.22) to the substrate electrode (/tox = 1) as the applied stress bias increases from 0.75to2V. This result is consistent with increased field-assisted detrapping of oxide charge. From photocurrent measurements, it was also determined that the effective barrier height for electron photoinjection from the Al gate to the HfO2 conduction band was 2.6±0.1eV, which is consistent with current knowledge of the HfO2 band structure.
+
+charge injection
+conduction bands
+electrodes
+hafnium compounds
+high-k dielectric thin films
+MOS capacitors
+photoconductivity

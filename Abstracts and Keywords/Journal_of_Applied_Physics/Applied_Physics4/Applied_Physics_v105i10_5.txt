@@ -1,0 +1,5 @@
+The effects of spin polarization control in hybrid magnetic-nonmagnetic conductor structures have been considered. The concept of a transistor capable of generating and amplifying a spin-alternating signal has been proposed. The transistor principle is based on spatial separation of spin components and their control with electric gates in the current-in-plane hybrid magnetic-nonmagnetic conductor structure. This control is achieved through the effect of spin-electric signal transformation predicted in this study. Such transistor is feasible on the grounds of present-day materials and technologies.
+
+conductors (electric)
+electron spin polarisation
+field effect transistors

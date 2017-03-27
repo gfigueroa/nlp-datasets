@@ -1,0 +1,13 @@
+Microstructural and optical properties of self-ion-implanted Si(100) have been studied using atomic force microscopy (AFM) and spectroscopic ellipsometry. The Si+ ions are implanted at 150 keV with fluences ranging from 2×1014 to 2×1015
+cm2. The AFM image indicates that the Si(100) surface is shiny flat before and after Si+-ion implantation (rms roughness of <0.3 nm). An effective-medium approximation and a linear regression analysis suggest that the ion-implanted surface can be explained by a physical mixture of microcrystalline (¼c) and amorphous silicon (a-Si). It has been shown that the complex dielectric function õ(E) of ¼c-Si differs appreciably from that of c-Si, especially in the vicinity of the sharp critical-point features. This difference in õ(E) can be successfully explained by increasing the broadening value at each critical point. The volume fraction of a-Si is found to be simply expressed as fa=([Si+]/A)±, where [Si+] is the ion fluence in cm2, A (=1.4×1015
+cm2) is an amorphization-threshold fluence, and ±(=1.42) is an amorphization-rate factor of the Si+ ions. © 2001 American Institute of Physics.
+
+silicon
+elemental semiconductors
+atomic force microscopy
+dielectric function
+ellipsometry
+ion implantation
+surface topography
+amorphisation
+crystal microstructure

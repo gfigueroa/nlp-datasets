@@ -1,0 +1,11 @@
+We investigate ferromagnetism of two-dimensional Pd nanoparticle superlattice by a magnetoresistance measurement. Magnetoresistance increases at a coercive field with hysteretic behavior, which is consistent with the result of a magnetization-field curve. This indicates that the ferromagnetism of the Pd nanoparticle superlattice is electrically detected. From the maximum magnetoresistance change, the conduction-electron polarization of the Pd nanoparticle superlattice is estimated to be < 4%. The ferromagnetism of Pd nanoparticles is evolved ferromagnetism without protective agents; therefore, the origin of ferromagnetism in the chemically prepared Pd nanoparticles is associated with the intrinsic characteristic of the Pd nanoparticles, but not the effect of the existence of a protective agent.
+
+coercive force
+ferromagnetic materials
+magnetic hysteresis
+magnetic multilayers
+metallic superlattices
+nanofabrication
+nanoparticles
+palladium
+tunnelling magnetoresistance

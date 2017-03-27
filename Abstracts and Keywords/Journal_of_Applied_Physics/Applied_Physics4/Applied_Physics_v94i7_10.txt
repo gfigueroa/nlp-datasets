@@ -1,0 +1,11 @@
+The thermoelectric power, electrical conductivity, crystal structure, and Raman active phonon modes of the semiconductor ²-K2Bi8Se13 have been studied under pressure. There is a large increase in the electrical conductivity in the pressure range 01 GPa and a sharp maximum in the magnitude of the thermoelectric power at <1.4	GPa. X-ray diffraction studies revealed no structural change upon compression. The Raman active vibrational modes did not shift substantially with pressure, suggesting that the pressure induced changes in the phonon thermal conductivity may not be large. The thermoelectric figure of merit, ZT, likely increases by a factor of at least 2 from its ambient pressure value of 0.23. This is the first n-doped material for which we have observed a peak in the thermoelectric power suggestive of an electronic topological transition upon compression. © 2003 American Institute of Physics. 
+
+potassium compounds
+bismuth compounds
+semiconductor materials
+thermoelectric power
+electrical conductivity
+X-ray diffraction
+Raman spectra
+phonons
+high-pressure effects

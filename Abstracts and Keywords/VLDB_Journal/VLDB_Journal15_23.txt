@@ -1,0 +1,6 @@
+Managing large-scale time series databases has attracted significant attention in the database community recently. Related fundamental problems such as dimensionality reduction, transformation, pattern mining, and similarity search have been studied extensively. Although the time series data are dynamic by nature, as in data streams, current solutions to these fundamental problems have been mostly for the static time series databases. In this paper, we first propose a framework to online summary generation for large-scale and dynamic time series data, such as data streams. Then, we propose online transform-based summarization techniques over data streams that can be updated in constant time and space. We present both the exact and approximate versions of the proposed techniques and provide error bounds for the approximate case. One of our main contributions in this paper is the extensive performance analysis. Our experiments carefully evaluate the quality of the online summaries for point, range, and k&#x2013;nn queries using real-life dynamic data sets of substantial size.
+
+Data streams
+Dimensionality reduction
+Time-series data
+Transformation-based summarization

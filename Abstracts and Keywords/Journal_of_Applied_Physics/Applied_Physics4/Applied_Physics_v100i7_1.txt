@@ -1,0 +1,18 @@
+Recently there is an increased interest in developing magnetic semiconductors due to their promising applications in spintronics. The semiconductors can be made ferromagnetic by doping with transition-metal ions. In this paper, the results of our studies using x-ray diffraction (XRD) and IR and Raman spectroscopic techniques on the effect of Fe doping on the structural properties of SnO2 are presented. The XRD results showed that the doping affects the structure and the lattice constants decrease as doping concentration increases, reaches a minimum, and again increases. The doped samples are under compressive strain and the strain is maximum for the sample doped with 3% (at.	%) Fe. The grain size of the nanoparticles decreases from 42nm in undoped SnO2 to 26nm in Sn0.90Fe0.10O2. It was observed that the preferred orientation is along the (101) direction and both texture coefficient and preferential orientation show a dependence on doping level. The Raman spectra showed clear evidences of the change in grain size and incorporation of Fe into the crystal lattice. The Raman bands observed in the 700cm1 region are assigned to the vibrational local modes of the Fe3+ ions which are occupying the sites of Sn4+ ions. The intensities of the Raman bands showed a strong dependence on the doping concentration. The decrease in intensity of the SnO symmetric stretching band at 630cm1 for higher doping concentrations is explained to be due to the decrease in grain size. A striking correlation is found between the Fe Raman mode intensities and the ferromagnetic magnetization of Sn1xFexO2, suggesting that the ferromagnetic behavior results from Fe3+ ions incorporated in the host SnO2 lattice.
+
+tin compounds
+semimagnetic semiconductors
+iron
+ferromagnetic materials
+magnetoelectronics
+semiconductor doping
+X-ray diffraction
+infrared spectra
+Raman spectra
+lattice constants
+compressive strength
+grain size
+nanoparticles
+texture
+vibrational modes
+magnetisation

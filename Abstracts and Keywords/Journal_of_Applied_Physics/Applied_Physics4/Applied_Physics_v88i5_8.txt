@@ -1,0 +1,13 @@
+We have prepared diluted systems of Co3O4 nanocrystals dispersed in an amorphous silicate by calcination of molecular sieve soaked in precursor solutions with concentrations of 0.01 and 0.1 mol/l. For both systems we have observed the disappearance of the antiferromagnetic phase transition at 33 K of bulk Co3O4, a difference in the dc susceptibility between field cooling and zero field cooling, and the frequency dependence of the ac susceptibility. Nonlinear susceptibility measurements demonstrated that the systems from the solution of 0.01 and 0.1 mol/l were in superparamagnetic and spin glass phases, respectively. The 0.01 mol/l solution system showed no peaks at any temperature, although the peak temperature for the 0.1 mol/l solution system was 1822 K. The interparticle interactions were independent and collective for the systems from 0.01 and 0.1 mol/l solutions, respectively. © 2000 American Institute of Physics. 
+
+cobalt compounds
+nanostructured materials
+dilute magnetic materials
+magnetic particles
+disperse systems
+heat treatment
+antiferromagnetic materials
+magnetic transitions
+magnetic susceptibility
+superparamagnetism
+spin glasses

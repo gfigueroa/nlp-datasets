@@ -1,0 +1,6 @@
+This paper presents the design and implementation of a four-fingered human-size robotic hand intended for dexterous and grasping manipulation applications. The prototype hand has 3 degrees of freedom (DOF) per finger and 2 DOF in the thumb for a total of 11 DOF. Shape memory alloys (SMAs) micro-coils are embedded intrinsically within the hand structure to power the joints while exhibiting some advantageous features such as low-cost, lightweight, compactness and clean silent operation. To increase efficiency and decrease power dissipation, the SMA micro-actuators integrate magnetic bi-stable structures. Mechanical design, actuation approach and first prototype are presented and discussed.
+
+Bi-stable actuator
+micro-coils
+robot hand
+shape memory alloys (SMAs)

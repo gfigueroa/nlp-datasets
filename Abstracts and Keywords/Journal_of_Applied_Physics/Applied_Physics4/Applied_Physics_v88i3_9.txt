@@ -1,0 +1,16 @@
+We measured the time integrated vacuum ultraviolet (VUV) emission spectra of HeNeXe gas mixture from a surface type alternating current (ac) plasma display panel cell. The measured emission lines are the resonance line (147 nm) from Xe(1s4), the first continuum (150 nm) and the second continuum (173 nm) from Xe dimer excited states. The relative intensities of VUV spectral lines from Xe and Xe2 are dependent on the He/Ne mixing ratio as well as the Xe partial and total pressure. The intensity of 147 nm VUV increases with the Ne content increase and Xe2 molecular emission increases with the He content increase. Infrared (IR) spectra and the time variation of VUV were measured to explain the reaction pathway and the effect of the mixing ratio of He/Ne on the spectral intensity. A detailed study for the decay time shows that the decay time of 147 nm has two time constants and the radiation of 150 and 173 nm results mainly from Xe(1s5). The IR spectra shows that the contribution from Xe(&gt;6
+s) to Xe(1s5) and Xe(1s4) in HeXe is different from that of NeXe. The change of IR intensity explains the spectral intensity variations of HeXe and NeXe discharge. © 2000 American Institute of Physics. 
+
+helium
+neon
+xenon
+gas mixtures
+ultraviolet spectra
+infrared spectra
+plasma displays
+flat panel displays
+plasma diagnostics
+time resolved spectra
+excited states
+spectral line intensity
+plasma chemistry

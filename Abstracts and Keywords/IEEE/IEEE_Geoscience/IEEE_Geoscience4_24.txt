@@ -1,0 +1,8 @@
+Ozone is a secondary pollutant that forms in the atmosphere through complex chemical reactions mainly between nitrogen oxides and volatile organic compounds. Such reactions are triggered by the presence of solar radiation. On August 2000 several ozone episodes occurred in Falconara Marittima, a municipality of Ancona Province that hosts an oil refinery. Data acquired at monitoring stations showed high levels of ozone and very high levels of hydrocarbons. Two years later, we were asked to study the episodes. Some specialists had argued that monitored data, although validated and accepted by authorities, seemed affected by errors. Being impossible to exclude a fault, we thought to reduce the range of plausible malfunctions. In fact, environmental data sets, acquired at monitoring stations, may be analyzed in the frequency domain to reveal periodic components that do not emerge after a preliminary study of time series. This procedure may help data validation procedures, especially when data sets are supposed prone to errors.
+
+DFT
+FFT
+Lomb-Scargle Periodogram
+airborne pollutant
+frequency domain
+periodogram

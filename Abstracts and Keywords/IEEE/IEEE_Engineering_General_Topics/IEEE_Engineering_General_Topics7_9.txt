@@ -1,0 +1,6 @@
+Anti-malware software producers are continually challenged to identify and counter new malware as it is released into the wild. A dramatic increase in malware production in recent years has rendered the conventional method of manually determining a signature for each new malware sample untenable. This paper presents a scalable, automated approach for detecting and classifying malware by using pattern recognition algorithms and statistical methods at various stages of the malware analysis life cycle. Our framework combines the static features of function length and printable string information extracted from malware samples into a single test which gives classification results better than those achieved by using either feature individually. In our testing we input feature information from close to 1400 unpacked malware samples to a number of different classification algorithms. Using k-fold cross validation on the malware, which includes Trojans and viruses, along with 151 clean files, we achieve an overall classification accuracy of over 98&#x025;.
+
+Malware
+classification
+function length
+string

@@ -1,0 +1,12 @@
+Scaling relations are developed to allow estimation of the atomic hydrogen concentration at the substrate during diamond chemicalvapor deposition for both diffusiondominated and convectiondominated reactors. In the convectiondominated case, it is shown that there exists an optimal Mach number which maximizes the H concentration delivered to the substrate. In addition, when homogeneous recombination is taken into account, there exists an optimal operating pressure. This analysis shows that a sonic flow of highly dissociated hydrogen at a pressure near atmospheric is optimal for rapid growth of highquality diamond.
+
+DIAMONDS
+THIN FILMS
+CVD
+SCALING LAWS
+HYDROGEN
+TRANSPORT PROCESSES
+CONVECTION
+MACH NUMBER
+PRESSURE DEPENDENCE
+FILM GROWTH

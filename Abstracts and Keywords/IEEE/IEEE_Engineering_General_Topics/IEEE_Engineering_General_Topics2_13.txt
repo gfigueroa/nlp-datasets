@@ -1,0 +1,7 @@
+The development of safe and dependable robots for physical human-robot interaction requires both the mechanical design of lightweight and compliant manipulators and the definition of motion control laws that allow compliant behavior in reaction to possible collisions, while preserving accuracy and performance during the motion in the free space. For these motivations, great attention has been posed in the design of robots manipulators with relevant and programmable joint/transmission stiffness. A robust control strategy for a general class of multi-dof manipulators with variable joint stiffness is presented in this paper. The proposed control scheme is based on three elements: the first one compensates for the robot dynamics, the second one is based on a linear controller to impose a desired behavior, while a smooth sliding mode control action is added to ensure robustness with respect to model uncertainties. The stability of the overall system is studied by using the direct Lyapunov method. The effectiveness of the proposed approach is demonstrated by simulation analysis.
+
+Elastic Joints
+Nonlinear Systems
+Robotic Manipulators
+Robust Control
+Variable Stiffness

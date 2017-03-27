@@ -1,0 +1,8 @@
+Nonlinear effects, including two-photon absorption, Kerr effect, and terahertz related Kerr-like effect, are observed in one ZnTe crystal used as a terahertz emitter and detector. Experiment results show that nonlinear two-photon absorption of the probe beam, which adds to the difference signal, cannot be ignored. By removing the contribution of two-photon absorption, we demonstrate that the phase change in probe beam is due to Kerr effect and terahertz related Kerr-like effect. A phase sensitive time resolved z-scan method is introduced to study the relationship between Kerr effect and terahertz related Kerr-like nonlinear effect, and the latter one is proved not to be only the primary fact that causes phase change in probe beam in one ZnTe.
+
+II-VI semiconductors
+optical Kerr effect
+optical materials
+two-photon processes
+wide band gap semiconductors
+zinc compounds

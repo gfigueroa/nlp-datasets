@@ -1,0 +1,12 @@
+Al-implanted p-type 4HSiC layers with different implantation and annealing temperatures are formed, and the temperature dependence of the hole concentration p(T) is obtained by Hall-effect measurements. The Al acceptor level in SiC is deep (<180	meV), and its first excited state level calculated by the hydrogenic model is still deep (<35	meV), which is close to the acceptor level of B in Si. Therefore, in order to determine the reliable acceptor density (NA) from p(T), the FermiDirac distribution function is not appropriate for Al acceptors in SiC, and a distribution function including the influence of the excited states of the Al acceptor is required. It is demonstrated that the proposed distribution function is suitable for obtaining the actual relationship between NA and p(T) in p-type 4HSiC.© 2003 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+aluminium
+impurity states
+annealing
+hole density
+Hall effect
+deep levels
+excited states
+quantum statistical mechanics

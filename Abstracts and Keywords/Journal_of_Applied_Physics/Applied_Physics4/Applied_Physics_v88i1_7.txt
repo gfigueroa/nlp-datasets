@@ -1,0 +1,16 @@
+The crystallization of Zr41Ti14Cu12Ni10Be23 (Vit 1) melts during constant heating is investigated. (Vit 1) melts are cooled with different rates into the amorphous state and the crystallization temperature upon subsequent heating is studied. In addition, Vit 1 melts are cooled using a constant rate to different temperatures and subsequently heated from this temperature with a constant rate. We investigate the influence of the temperature to which the melt was cooled on the crystallization temperature measured upon heating. In both cases the onset temperature of crystallization shows strong history dependence. This can be explained by an accumulating process during cooling and heating. An attempt is made to consider this process in a simple model by steady state nucleation and subsequent growth of the nuclei which results in different crystallization kinetics during cooling or heating. Calculations show qualitative agreement with the experimental results. However, calculated and experimental results differ quantitatively. This difference can be explained by a decomposition process leading to a nonsteady nucleation rate which continuously increases with decreasing temperature. © 2000 American Institute of Physics. 
+
+zirconium alloys
+metallic glasses
+crystallisation
+decomposition
+ZINC ALLOYS
+TITANIUM ALLOYS
+COPPER ALLOYS
+NICKEL ALLOYS
+BERYLLIUM ALLOYS
+CRYSTALLIZATION
+HEATING
+TEMPERATURE DEPENDENCE
+COOLING
+NUCLEATION

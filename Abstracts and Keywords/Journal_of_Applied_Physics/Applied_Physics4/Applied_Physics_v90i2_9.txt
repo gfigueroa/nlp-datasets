@@ -1,0 +1,18 @@
+We report a calculational procedure to obtain the rate of electronhole recombination, mediated by the ShockleyReadHall (SRH) mechanism. Our method uses a combination of first-principles calculations and accurate empirical band structures. First, we use ab initio calculations to identify the point defects, their densities and energy levels in the gap. Then we parametrize the tight-binding interaction between defect and the host atoms in a Greens function approach to obtain the defect levels as identified by the first-principles calculations. Finally, the resulting tight-binding Hamiltonian is used to obtain the dipole matrix element between the conduction and valence band states, mediated through the defect levels in the gap, in second-order perturbation theory. The states are integrated over the entire Brillioun zone, subject to energy and momentum conservation, to obtain the limiting lifetimes of the carriers. This method is applied to study the minority carrier lifetimes in n-doped InAs. The calculated effective lifetimes that include Auger and SRH recombinations as functions of temperature agree reasonably well with experiment. Our calculation of lifetimes in 3.5×1016 and 2.0×1016
+cm3 n-doped InAs indicate that SRH is dominant at low temperatures and that the lifetimes vary between 108 and 107
+s. © 2001 American Institute of Physics.
+
+indium compounds
+III-V semiconductors
+electron-hole recombination
+ab initio calculations
+point defects
+defect states
+conduction bands
+valence bands
+tight-binding calculations
+Green's function methods
+perturbation theory
+Brillouin zones
+carrier lifetime
+minority carriers

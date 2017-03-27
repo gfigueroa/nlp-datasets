@@ -1,0 +1,7 @@
+Ad hoc networking allows portable mobile devices to establish communication path without having any central infrastructure. As there is no centralized infrastructure and the mobile devices are moving randomly, this gives rise to various kinds of problems such as routing and detecting faulty mobile nodes in the network. In this paper, the problem of fault diagnosis in mobile ad hoc networks (MANETs) is considered. In fact, fault-diagnosis becomes important building block to establish dependability in MANET. An important problem in MANET is the distributed system-level diagnosis problem whose purpose is to have each fault-free mobile node to determine the state of all the mobile nodes assuming a MANET composed of N nodes that can be faulty or fault-free. This paper uses a hierarchical clustering approach proposed by authors Durate and Nanya for diagnosing nodes in mobile ad hoc networks (MANETs). The proposed diagnosis algorithm is linearly scalable under the assumption that the mobiles may be: (i) crash faulty due to out of range or physical damage and (ii) value faulty due to sending erroneous messages while operating in the field. The generic parameters such as diagnostic latency and message complexity are used for evaluating the proposed diagnosis algorithm. The result shows that diagnosis latency and message complexity is reduced as compared to non-clustering distributed diagnosis algorithm Forward Heartbeat.
+
+Diagnostic latency
+Hierarchical clustering
+Mobile adhoc networks
+PMC fault model
+System level diagnosis

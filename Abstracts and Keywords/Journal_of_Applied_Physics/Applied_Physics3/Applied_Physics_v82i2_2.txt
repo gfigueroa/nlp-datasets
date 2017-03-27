@@ -1,0 +1,17 @@
+Selective thermal desorption (STD) of SiO2 film of less than 1 nm thick induced by a focused electron beam has been investigated with a combined apparatus of scanning reflection electron microscope and scanning tunneling microscope. It has been found that clean Si open windows formed in the SiO2 film by STD have atomically flat surface morphology and uniform linewidth. The surface morphology depends on electron dose, oxide film thickness, and desorption temperature. The fabrication process of Si nanowires using the STD technique has been also investigated. © 1997 American Institute of Physics.
+
+silicon compounds
+insulating thin films
+silicon
+elemental semiconductors
+semiconductor-insulator boundaries
+electron stimulated desorption
+surface structure
+scanning electron microscopy
+scanning tunnelling microscopy
+thermally stimulated desorption
+semiconductor quantum wires
+nanostructured materials
+nanotechnology
+electron beam lithography
+surface treatment

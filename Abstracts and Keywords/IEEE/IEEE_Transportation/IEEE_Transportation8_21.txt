@@ -1,0 +1,5 @@
+The bonded Logistics comes into being as a kind of logistics management mode associated with increasing global operations of transnational corporations and international distribution needs. This paper studied bonded logistics from the perspective of the supply chain to measure the role the bonded logistics played to the supply chain performance with the microscopic point of view. This paper introduced the system dynamics method and established the bonded logistics system dynamics model by using the supply chain idea on the basis of the introduction of the cross-border vendor management inventory model system. The overall supply chain inventory, sales volume and supplier costs were examined under different states by changing the customs clearance time in the model. Finally, the simulation results are analyzed to get the conclusions that the bonded logistics can reduce costs and improve supply chain performance effectively in the cross-supply chain.
+
+Bonded Logistics
+System Dynamics
+Vendor Management Inventory (VMI)

@@ -1,0 +1,14 @@
+The magnetization reversal in a (010) [001] FeSi (3.5 wt.	% Si) pictureframe single crystal has been investigated by means of the newly developed timedependent neutrondepolarization technique, applying magnetic fields with a rectangular waveform and amplitudes between 470 and 3100 A	m1. Distinct stages in the reversal process have been observed. The initial growth in length and the lateral growth of surface domains is followed by the formation of wavy domain walls just underneath the crystal surfaces. The walls subsequently stretch, moving toward the center of the specimen where they annihilate as described by the sandwich model. It is found that the growth in length of the surface domains is most likely damped purely by spin relaxation, giving rise to a wall mobility of 0.11±0.05 m	s1/A	m1 in accordance with predictions of Landau and Lifschitz. The time duration of the lateral growth and that of the first stretching process of the wavy walls have the same field dependence, suggesting that the dynamics are similar. The eddycurrent shielding of the field applied has been measured as a function of the depth in the crystal. The mobility ¼ of the wavy walls near the surface is found identical to that of lowfield domainwall motion ¼=0.68+0.03 mm s1. Experiments in the field region between 90 and 470 A	m1 can be interpreted by means of an intermediate reversal model according to which only a few reversed regions grow and create cylindrically shaped domains with a radius of the order of the crystal thickness.
+
+MAGNETIZATION
+TIME DEPENDENCE
+IRON SILICIDES
+NEUTRON DIFFRACTION
+POLARIZATION
+MONOCRYSTALS
+MAGNETIC FIELDS
+SURFACES
+DOMAIN STRUCTURE
+SPIN
+RELAXATION
+MOBILITY

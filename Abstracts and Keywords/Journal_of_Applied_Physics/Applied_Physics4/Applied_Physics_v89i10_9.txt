@@ -1,0 +1,17 @@
+Photoluminescence measurement in surface-emitting geometry, optical pumping in edge-emitting geometry and spatially resolved spectra measurement were performed to study high-indium-content InxGa1xN/GaN single quantum well (SQW) structures (x~32%) grown by low-pressure metalorganic chemical vapor deposition. Stimulated-emission (SE) was observed in the optical pumping spectra. Thermal annealing was performed to investigate the influence of high temperature treatment to the optical properties of the samples. Redshift of the SE peaks took place after the samples were annealed at 700
+°C for 30 and 60 min. Blue shift of these SE peaks was observed after the samples were annealed for 120 min. Red shift of the SE peaks may be attributed to the reduction of the compositional fluctuation in quantum well (QW) leading to the decrease of the quantized energies. The interdiffusion of In and Ga atoms across the interface of barrier and QW can result in the increase or decrease of the quantized energies leading to the redshift or blueshift of the SE peaks. The relaxation of the strain in the QW by annealing can induce the blueshift of the SE peaks.© 2001 American Institute of Physics. 
+
+annealing
+photoluminescence
+optical pumping
+semiconductor quantum wells
+indium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+MOCVD coatings
+spectral line shift
+red shift
+stimulated emission
+chemical interdiffusion
+stress relaxation

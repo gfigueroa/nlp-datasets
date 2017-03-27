@@ -1,0 +1,7 @@
+This paper deals with the modelling and effect of Doubly Fed Induction Generator (DFIG) for wind turbines on transient stability analysis when connected to grid system. A reduced order model for the DFIG has been used. A controller for speed, voltage and power factor has also been implemented. The DFIG model and the controller are presented as Differential Algebraic Equations (DAE). A 7<sup>th</sup> order model for synchronous machine with IEEE type-I exciter has also been presented. The DAEs have been solved using Simultaneous Implicit (SI) method. Si-method is a numerical method that is widely used in industries now-a-days. Particle Swarm Optimization (PSO) has been implemented to optimize the DFIG controller gains. TSA simulation results for three 8 bus power system networks, with DFIG and infinite bus, with only synchronous machine and with DFIG and synchronous machine in the network, have been presented.
+
+DAEs
+Doubly Fed Induction Generator (DFIG)
+SIMethod
+Synchronous Machine
+Transient Statbility Analysis

@@ -1,0 +1,8 @@
+Real time reflectivity measurements with subnanosecond time resolution have been used to determine the reflectivity at the melting temperature RS(Tm) of single crystalline Ge and Si at 514.5 nm. Due to the excellent time resolution and sensitivity achieved in a single exposure experiment, the reflectivity of the solid just before melting could be measured. Values of RS(Tm)=0.470±0.006 and RS(Tm)=0.440±0.008 for c-Ge and c-Si have, respectively, been determined. These values, together with those determined by heating in vacuum in the range 300800 K, are compared to those reported earlier in the literature and the differences are discussed. © 2001 American Institute of Physics. 
+
+reflectivity
+elemental semiconductors
+melting
+time resolved spectra
+silicon
+germanium

@@ -1,0 +1,6 @@
+Co-doped ZnO(Zn1xCoxO) and Co, Al codoped ZnO(Zn1xCoxO:Al) films were grown on c-plane sapphire (0001) substrates by pulsed laser deposition using a KrF excimer laser. In order to enhance homogeneous substitution of Co2+ for Zn2+ in the ZnO film, an alternating deposition (AD) method was employed for doping. ZnO films doped with the same elements were grown without employing the AD method under the same fabrication conditions to compare with the corresponding AD films. Despite Co incorporation, the Zn1xCoxO film by AD methods showed better crystallinity than pure ZnO film. Also, the crystallinity of Zn1xCoxO:Al films by AD methods was better than those of Zn1xCoxO and ZnO:Al films by conventional doping methods. Root mean square roughnesses of the films by AD methods were less than 1.6 nm. Absorption peaks caused by dd transitions were observed at 1.88, 2.01, and 2.19 eV in Zn1xCoxO films. The electric conductivity of Zn1xCoxO:Al film by AD methods was comparable to that of ZnO:Al film by conventional methods in spite of Co doping and lower Al concentration. © 2001 American Institute of Physics.
+
+aluminium
+zinc compounds
+pulsed laser deposition
+electrical conductivity

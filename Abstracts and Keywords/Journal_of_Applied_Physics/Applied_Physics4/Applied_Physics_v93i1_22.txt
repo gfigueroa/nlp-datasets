@@ -1,0 +1,12 @@
+We have investigated the microstructures of magnetic tunneling junctions using high-resolution transmission electron microscopy (HRTEM). These junctions exhibit large magnetoresistance of 34% at room temperature and at tens of gauss. HRTEM reveals well-defined layered polycrystalline metallic structures. The important A12O3 tunneling barrier has an amorphous structure containing a few tiny crystalline inhomogeneties. Though the barrier is flat over large length scales, its interfaces with the neighboring electrodes are rough. We have characterized the roughness amplitude and wavelength, which are consistent with the magnitude of offset bias fields in measured hysteretic magnetoresistance curves. © 2003 American Institute of Physics. 
+
+iron alloys
+nickel alloys
+alumina
+MIM structures
+transmission electron microscopy
+magnetic multilayers
+tunnelling
+crystal microstructure
+interface roughness
+giant magnetoresistance

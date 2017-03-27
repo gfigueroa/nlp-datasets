@@ -1,0 +1,11 @@
+A micromagnetic model has been developed for investigating the effect of stress on the magnetic properties of thin films. This effect has been implemented by including the magnetoelastic energy term into the LandauLifshitzGilbert equation. Magnetization curves of a nickel film were calculated under both tensile and compressive stresses of various magnitudes applied along the field direction. The modeling results show that coercivity increased with increasing compressive stress while remanence decreased with increasing tensile stress. The results are in agreement with the experimental data in the literature and can be interpreted in terms of the effects of the applied stress on the irreversible rotation of magnetic moments during magnetization reversal under an applied field. © 2001 American Institute of Physics. 
+
+magnetisation
+coercive force
+remanence
+magnetomechanical effects
+magnetic thin films
+magnetoelastic effects
+nickel
+magnetisation reversal
+magnetic moments

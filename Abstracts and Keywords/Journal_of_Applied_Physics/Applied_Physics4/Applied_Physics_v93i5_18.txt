@@ -1,0 +1,9 @@
+The temperature-dependent physical conditions for single-axis acoustic levitation are theoretically analyzed with consideration of the deviation of the actual acoustic field from the plane standing wave approximation. The effects of temperature variation on the resonant conditions, levitation force and threshold pressures pm (the minimum entrapping pressure) and pM (the maximum pressure to keep the integration of a liquid drop) are discussed by assuming a quasi-static heating and cooling process. The first resonant spacing H1 between the reflector and emitter is larger than that predicted for plane standing waves, and its temperature dependence comes mainly from the variation of wavelength, which is proportional to T1/2. The maximum levitation force FM has a drastic decreasing tendency with temperature rise due to its sensitivity to the ratios of the geometric parameters to wavelength. For the containerless processing of water and the PbSn eutectic alloy, pm decreases whereas pM increases with the enhancement of temperature, which narrows the allowed pressure range for the safe and stable levitation of the processed drops at higher temperatures. As an experimental application of these analyses, the acoustically levitated water and the PbSn eutectic alloy melt are highly undercooled by up to 24 and 38 K, respectively. © 2003 American Institute of Physics. 
+
+water
+tin alloys
+lead alloys
+drops
+acoustic applications
+nonlinear acoustics
+undercooling

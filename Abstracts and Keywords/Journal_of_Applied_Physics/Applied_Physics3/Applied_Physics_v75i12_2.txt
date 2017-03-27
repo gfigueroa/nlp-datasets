@@ -1,0 +1,13 @@
+Pouring deionized water onto a rotating wafer increases the recombination lifetime reduced by with plasmainduced damage, and this increase is greatest in the central region of the wafer. This recovery is observed with ptype Si and ntype Si substrates and with dry oxides and wet oxides. Electrostatic measurements reveal that the water induces negative charges on a wafer and that the amount of charge increases with increasing rotation speed. Capacitancevoltage analysis indicates that negative charge builds up in the oxides and that interface states are generated at the SiSiO2 interface. A model is proposed in which electrons produced through the friction between the water and the SiO2 surface play an important role in the recovery of the recombination lifetime.
+
+WAFERS
+SILICON
+RECOMBINATION
+SURFACE TREATMENTS
+LIFETIME
+PLASMA
+WATER
+ETCHING
+CHARGE STATES
+INTERFACE STATES
+SILICON OXIDES

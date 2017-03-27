@@ -1,0 +1,10 @@
+Recent measurements have demonstrated the nonlocal character of the angular anchoring energy of a nematic liquidcrystal orientation close to a solid substrate. Assuming a sign selective adsorption for ions on such a substrate, we calculate the surface charge and field. It exists a macroscopic cell thickness below which the surface can adsorb most of the volume charges. In this regime, because of the coupling of the surface field with the nematic director, the surface anchoring energy depends on the thickness, and can even become zero. This model explains the observed thickness dependence of the anchoring energy and the spontaneous Freederickcsz transition.
+
+NEMATIC CRYSTALS
+IONS
+ADSORPTION
+ORIENTATION
+SURFACE POTENTIAL
+ELECTRIC CHARGES
+SURFACE ENERGY
+INTERFACE PHENOMENA

@@ -1,0 +1,16 @@
+This work examines the effects of grain boundaries on the performance and hot-carrier reliability of excimer-laser-annealed polycrystalline silicon thin film transistors (poly-Si TFTs) before and after NH3 plasma treatment. Self-aligned poly-Si TFTs, whose channel regions include a 150 nm thick laser-crystallized poly-Si layer with small grains and a 100 nm thick layer with large grains, are fabricated. Other TFTs, with large grains throughout their channels, are fabricated nearby for comparison. The trapping of electrons at grain boundaries in the drain junction creates strong local electric fields that boost the leakage current, cause the threshold voltage to decline as the drain bias increases, enhance the kink effect in the output characteristics, and degrade the hot-carrier reliability of devices. When static hot-carrier stress is applied to nonhydrogenated poly-Si TFTs for less than 104
+s at VGS=10
+V and VDS=20
+V, hot holes are injected into the gate oxide at the same time trap states are created in the drain junction. The screening effect is observed when the same stress is applied to devices that have many grain boundaries in their drain junctions. NH3 plasma treatment prevents the trapping of electrons at grain boundaries. The performance of hydrogenated poly-Si TFTs improves, but the hot-carrier reliability of those TFTs with large grains in their drain junctions degrades. The hydrogenation causes a trade-off between the electrical characteristics and the hot-carrier reliability, and introduces irregular humps in the subthreshold region. © 2004 American Institute of Physics. 
+
+silicon
+semiconductor device reliability
+elemental semiconductors
+laser beam annealing
+grain boundaries
+hydrogenation
+electron traps
+hot carriers
+thin film transistors
+leakage currents
+semiconductor thin films

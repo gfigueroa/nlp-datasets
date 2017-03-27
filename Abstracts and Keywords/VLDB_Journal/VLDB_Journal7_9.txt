@@ -1,0 +1,6 @@
+In this paper, we present an image retrieval system that employs both the color and spatial information of images to facilitate the retrieval process. The basic unit used in our technique is a single-colored cluster, which bounds a homogeneous region of that color in an image. Two clusters from two images are similar if they are of the same color and overlap in the image space. The number of clusters that can be extracted from an image can be very large, and it affects the accuracy of retrieval. We study the effect of the number of clusters on retrieval effectiveness to determine an appropriate value for &ldquo;optimal' performance. To facilitate efficient retrieval, we also propose a multi-tier indexing mechanism called the Sequenced Multi-Attribute Tree (SMAT). We implemented a two-tier SMAT, where the first layer is used to prune away clusters that are of different colors, while the second layer discriminates clusters of different spatial locality. We conducted an experimental study on an image database consisting of 12,000 images. Our results show the effectiveness of the proposed color-spatial approach, and the efficiency of the proposed indexing mechanism.
+
+Color-spatial information
+Content-based retrieval
+Sequenced multi-attribute tree
+Single-colored cluster

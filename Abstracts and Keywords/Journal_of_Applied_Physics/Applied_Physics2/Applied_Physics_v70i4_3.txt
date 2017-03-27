@@ -1,0 +1,21 @@
+The optimization of interrelated deposition parameters during deposition of in situ YBa2Cu3O7 thin films on MgO 001	 substrates by KrF laser ablation was systematically studied in a single experimental chamber. The optimum condition was found to be a substrate temperature of 720	°C and a targetsubstrate distance of 5 cm in an oxygen partial pressure of 100 mTorr. These conditions produced films with Tc = 87 K. The presence of YO in the plasma plume was found to be important in producing good quality films. The films were characterized by resistancetemperature measurements, energy dispersive xray analyses, scanning electron microscopy, and xraydiffraction measurements, and the physical reasons underlying film quality degradation at parameter values away from optimal are discussed.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+SUPERCONDUCTING FILMS
+LASER RADIATION
+DEPOSITION
+MAGNESIUM OXIDES
+SUBSTRATES
+TRANSITION TEMPERATURE
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+SCANNING ELECTRON MICROSCOPY
+XRAY DIFFRACTION
+OPTIMIZATION
+INSITU PROCESSING
+CRYSTAL GROWTH
+HIGH TEMPERATURE
+SCANNING ELECTRON MICROSCOPY

@@ -1,0 +1,6 @@
+This study investigate the potential biomedical application of micro/nano-aperture membrane fabricated with Polytetrafluoroethylene (PTFE). Experimental work is carried out to examine the membrane's sound transmission/absorption characteristics under the condition of different aperture diameter, thickness and cavity depth of tube. It is discovered that when there is no air layer besides the tested membrane, sound transmission is not affected. When there is sound layer, it is resonant sound absorption. In the frequency range of 100-1500Hz, it is low frequency high rate sound transmission zone. In the frequency range of 1500Hz-6300Hz, it is high frequency resonant sound absorption. It is found that PTFE as a fine sound transmission material as well as a fine sound absorption material. The original test provides a solid evidence for further research and modeling of sound transmission theory.
+
+PTFE Micro-aperture Membrane
+Resonant Sound Absorption
+Sound Transmission Characteristic
+Sound transmission

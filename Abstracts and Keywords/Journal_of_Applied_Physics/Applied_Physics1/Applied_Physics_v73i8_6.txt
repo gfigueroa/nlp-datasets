@@ -1,0 +1,10 @@
+Ta/Al multilayer films with a modulation wavelength of 7.0 nm were grown using magnetron sputtering. The Bragg ¸2¸ scan pattern and the plate film photograph of xray diffraction reveal that the sample has Ta(110) and A1(111) axial textures with a mosaic spread of about ±5° and coherency strains. The structure change of the multilayer sample after annealing at 550	°C for 2 h is determined by the plate film photography of xray diffraction to study the thermal stability. It is found that after annealing a large amount of Ta and Al atoms at the interfaces are combined into TaAl3 with [(202)+(002)] textures.
+
+THALLIUM
+ALUMINIUM
+MULTILAYERS
+TEXTURE
+THIN FILMS
+XRD
+ANNEALING
+STRUCTURAL STABILITY

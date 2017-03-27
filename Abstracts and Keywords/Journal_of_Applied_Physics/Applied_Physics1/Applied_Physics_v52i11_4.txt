@@ -1,0 +1,21 @@
+Polycrystalline transparent semiconducting zinc oxide films have been deposited by the oxidation of diethyl zinc. The film growth rate is controlled by a complex multistep oxidation process which is dominated by radical reactions. The effect of substrate temperature and gas pressures have been studied. Samples deposited between 280 and 350	°C have a conductivity varying from 102 to 50 ©1	cm1. The electrical properties of the films which are typical of polycrystalline material with small crystallites are shown to depend very closely on the film growth conditions. A study of oxygen chemisorption at grain boundaries confirms the importance of grain boundary effects in ZnO polycrystalline films.
+
+ZINC OXIDES
+FILMS
+ELECTRICAL PROPERTIES
+OXIDATION
+ZINC
+ORGANOMETALLIC COMPOUNDS
+POLYCRYSTALS
+OPACITY
+SEMICONDUCTOR MATERIALS
+DEPOSITION
+DATA
+MATHEMATICAL MODELS
+THEORETICAL DATA
+SUBSTRATES
+TEMPERATURE DEPENDENCE
+HIGH TEMPERATURE
+PRESSURE DEPENDENCE
+ELECTRIC CONDUCTIVITY
+GRAIN SIZE

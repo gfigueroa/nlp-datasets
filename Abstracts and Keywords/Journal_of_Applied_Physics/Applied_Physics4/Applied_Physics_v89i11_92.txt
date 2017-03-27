@@ -1,0 +1,4 @@
+A model representing scalar hysteretic systems with wipe-out memory is proposed. In this model a hysteresis operator is represented as a power series expansion containing an infinite number of terms in general. It is shown that this representation converges to any given hysteresis relation having wipe-out memory as long as the output of the given hysteresis varies sufficiently smoothly with input history. © 2001 American Institute of Physics.
+
+magnetic hysteresis
+hysteresis

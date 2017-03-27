@@ -1,0 +1,7 @@
+In this paper, we developed a novel catheter operating system using force sensors and monitor for medical applications, which included a highly precise master-slave remote control system. We designed micro force sensors and used them in the system to ensure the operation security in intravascular neurosurgery applications, using camera to monitor the situation of simulation experiment. We carried out the operation simulation experiments and got the force information by force sensors when the catheter contacted the simulator of blood vessel. The experimental results indicated that the proposed force sensors-based catheter operating system works well and can be controlled remotely, and the force feedback can effectively improve operability, also this system can avoid danger automatically.
+
+Catheter
+Force Monitoring
+Force Sensor
+Mechanism
+Minimally Invasive Surgery (MIS)

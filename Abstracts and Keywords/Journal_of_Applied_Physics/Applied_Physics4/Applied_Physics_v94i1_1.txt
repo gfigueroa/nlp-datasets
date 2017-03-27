@@ -1,0 +1,14 @@
+The resistivity, magnetization, specific heat, shear modulus, and internal friction in the charge-ordered (CO) La0.25Ca0.75MnO3 were studied. The electronic conduction in the CO state was found to obey Mott's variable-range hopping model with a change in the localization length ¾ near TN. A large decrease of the magnetization was observed between the Néer temperature TN and the charge ordering transition temperature TCO, which was attributed to the consequence of the orbital ordering. Drastic stiffening in shear modulus and an internal friction peak appeared just below TCO, and were explained as due to the coupling between the lattice strain and the orbital degree of freedom. A small upturn of the magnetization and a small softening of the ultrasound near TCAH42 K suggest the evolution of spin canting from the matrix of long-range antiferromagnetic state. © 2003 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+electrical resistivity
+magnetisation
+shear modulus
+internal friction
+charge-ordered states
+specific heat
+canted spin arrangements
+antiferromagnetic materials
+hopping conduction
+Neel temperature

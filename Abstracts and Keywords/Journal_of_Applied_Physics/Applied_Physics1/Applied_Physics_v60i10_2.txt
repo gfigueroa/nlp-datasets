@@ -1,0 +1,18 @@
+Secondaryionmass spectrometry, Halleffect measurements, and dc IV characteristics of 1¼m Ga0.47In0.53AsAl0.48In0.52As highelectron mobility transistor structures indicate that significant diffusion of Si can occur in these layers. The source of the Si is both the intentional Si used for modulation doping of the devices, and Si which is an unintentional impurity in the Fedoped InP substrates on which the layer is grown. Preannealing and polishing the substrates can lessen the effect.
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+ALUMINIUM ARSENIDES
+SURFACE BARRIER TRANSISTORS
+ELECTRON MOBILITY
+ATOM TRANSPORT
+SILICON
+DIFFUSION
+SIMS
+HALL EFFECT
+IV CHARACTERISTIC
+ELECTRICAL PROPERTIES
+SURFACE PROPERTIES
+IMPURITIES
+SEGREGATION
+HETEROJUNCTIONS

@@ -1,0 +1,10 @@
+The binding energy of the ground state of a hydrogenic offcenter donor in a spherical quantum dot in a magnetic field is calculated by a variational method within the effectivemass approximation. The effects of location on a hydrogenic donor in a magnetic field on the binding energy of the ground state are studied. It is found that in the case of an oncenter donor, the magnetic field tends to enhance the strength of the Coulomb interaction and the binding energy of the ground state, and in the case of an offcenter donor, the effect of the magnetic field on the binding energy of the ground state is somewhat complicated. © 1996 American Institute of Physics. 
+
+QUANTUM DOTS
+IMPURITY STATES
+MAGNETIC FIELD EFFECTS
+BINDING ENERGY
+GROUND STATES
+VARIATIONAL METHODS
+DONORS
+COULOMB FIELD

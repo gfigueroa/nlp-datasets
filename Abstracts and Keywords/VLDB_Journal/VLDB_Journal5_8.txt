@@ -1,0 +1,7 @@
+This paper contains an overview of the technology used in the query processing and optimization component of Oracle Rdb, a relational database management system originally developed by Digital Equipment Corporation and now under development by Oracle Corporation. Oracle Rdb is a production system that supports the most demanding database applications, runs on multiple platforms and in a variety of environments.
+
+Dynamic optimization
+Optimizer
+Query transformation
+Relational database
+Sampling

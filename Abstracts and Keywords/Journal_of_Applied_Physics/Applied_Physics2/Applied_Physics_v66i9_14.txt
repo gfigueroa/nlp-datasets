@@ -1,0 +1,11 @@
+A method is presented for dealing with numerical problems in calculations of potential fields using expansions in modified Bessel functions. Using this method, problems in mathematical physics with cylindrical symmetry, e.g., volume conductor problems, can be solved with high accuracy.
+
+ELECTROSTATICS
+CYLINDRICAL CONFIGURATION
+ELECTRIC FIELDS
+POTENTIALS
+NUMERICAL SOLUTION
+SERIES EXPANSION
+BESSEL FUNCTIONS
+ELECTRIC CONDUCTORS
+BOUNDARY CONDITIONS

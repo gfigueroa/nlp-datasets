@@ -1,0 +1,8 @@
+An in-line one-fiber approach to realize simultaneous measurement of salinity and temperature is proposed. The sensor system, which consists of multiplexed polymer-coated fiber Bragg gratings, showed that the polyimide-coated grating responds to variations of both temperature and salinity, while the acrylate-coated grating is only sensitive to the environmental temperature. The experimental results indicated that the temperature sensitivity of the acrylate-coated grating in water was 0.0102nm/°C for redshifted Bragg wavelength with increasing temperature, and the temperature and the salinity sensitivities of the polyimide-coated grating were 0.0094nm/°C (redshifted) and 0.0165nm/M (blueshifted), respectively, which are in excellent agreement with the theoretical analysis.
+
+Bragg gratings
+chemical sensors
+fibre optic sensors
+optical fibres
+polymer films
+temperature sensors

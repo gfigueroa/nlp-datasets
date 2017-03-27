@@ -1,0 +1,5 @@
+We demonstrated the measurement of the high frequency (HF) magnetic field of a write head with the phase detection magnetic force microscope. An amplitude-modulated current was applied to the head coil to detect the force gradient induced by the HF magnetic field. Spatial resolution of this method was higher than that of the deflection detection method previously proposed. By the phase detection method, dynamic HF magnetic fields at the poles of the write heads were clearly imaged. HF magnetic field leakage was observed along the P2 pole shape on the air-bearing surface. The frequency dependence of the write head dynamics up to 350 MHz was also investigated. © 2001 American Institute of Physics. 
+
+magnetic field measurement
+magnetic heads
+magnetic force microscopy

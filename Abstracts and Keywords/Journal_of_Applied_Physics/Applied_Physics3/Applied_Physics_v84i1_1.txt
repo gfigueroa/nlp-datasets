@@ -1,0 +1,13 @@
+Energy profiles have been evaluated by an ab initio molecular-orbital method for hydrogen-abstraction reactions from surface model compounds of growing hydrogenated amorphous silicon (a-Si:H) by a SiH3 radical, a presumed main precursor to a-Si:H, as well as by a hydrogen radical which should coexist in the silane plasma chemical vapor deposition. The activation energies calculated for these two reactions decrease as the cluster size of the film surface model SinH2n+2 increases from n = 1 to n = 4 to converge for n e 4. This trend is in parallel with the variation of atomic charge delocalization. Both activation energies (0.22 and 0.28 eV, respectively) for the largest model, Si7H16, were low enough to induce the hydrogen abstractions from the surface to form dangling bonds, which spontaneously react with SiH3 radicals to form SiSi bond. From thus produced H3SiSi a surface, hydrogen can be eliminated with SiH3 (or H) to reproduce a dangling bond. The initial step of the a-Si:H film growth is deduced by the calculation to proceed through sequential reactions of spontaneous addition of SiH3 to the dangling bonds, and the hydrogen abstraction to reproduce dangling bonds. © 1998 American Institute of Physics.
+
+amorphous semiconductors
+elemental semiconductors
+silicon
+hydrogen
+dangling bonds
+semiconductor growth
+surface chemistry
+ab initio calculations
+orbital calculations
+bonds (chemical)
+chemical vapour deposition

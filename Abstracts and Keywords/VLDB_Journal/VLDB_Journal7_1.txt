@@ -1,0 +1,7 @@
+Motivated by the urgent need to improve the efficiency of similarity queries, approximate similarity retrieval is investigated in the environment of a metric tree index called the M-tree. Three different approximation techniques are proposed, which show how to forsake query precision for improved performance. Measures are defined that can quantify the improvements in performance efficiency and the quality of approximations. The proposed approximation techniques are then tested on various synthetic and real-life files. The evidence obtained from the experiments confirms our hypothesis that a high-quality approximated similarity search can be performed at a much lower cost than that needed to obtain the exact results. The proposed approximation techniques are scalable and appear to be independent of the metric used. Extensions of these techniques to the environments of other similarity search indexes are also discussed.
+
+Access structures
+Approximation algorithms
+Distance only data
+Performance evaluation
+Similarity search

@@ -1,0 +1,8 @@
+Fuzzy inference systems are of great interest to provide a consistent mathematical framework for the representation of imprecision in relation to objects, relationships, knowledge and aims, and are viewed as powerful tools for reasoning and decision-making. In this paper, we survey several fuzzy approaches in magnetic resonances image processing, with an aim to develop and validate multidimensional segmentation and filtering methodology for future research. We also briefly review a number of advances of fuzzy set theory in the MR image processing application domain.
+
+MR image
+active contours
+affinity
+deformable models
+fuzzy inference systems
+gradient vector

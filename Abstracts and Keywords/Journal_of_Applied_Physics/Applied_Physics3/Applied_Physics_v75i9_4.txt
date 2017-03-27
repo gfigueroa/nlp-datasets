@@ -1,0 +1,11 @@
+An entirely physical model is proposed to explain a wide range of seemingly conflicting observations of plasmacharging damage. Unlike other authors who largely ignored the role of substrate potential, we carefully track both the gate and the substrate potentials to explain the origin of the electric field developed across the thin oxide during plasma exposure. Central to this model is the fact that the surface floating potential tracks the plasma potential. Thus a nonuniform plasma drives the gate potential to a nonuniform distribution. Another important idea of this model is the continued adjustment by both the gate and the substrate of their potentials to satisfy the charge balance requirement of plasma system. The interaction between saturated ioncurrent, asymmetric electroncurrent, and the FowlerNordheim tunneling current produces a complex dynamic for the movements of the gate and the substrate potentials. This complex behavior of the gate and the substrate potential allows many of the reported observations in the literature to be explained logically. We explored three types of charging effect and their damage characteristics. They are dc effect, ac effect, and transient effect. The separation of dc and ac effect is artificial. They exist simultaneously and add to each other to cause more serious damage than by themselves. The model predicts antenna effects from all three types of charging effects. Unique to the ac antenna effect are saturation behavior, the oxide thickness ratio dependence, and the rf biasfrequency dependence. The effect of ON/OFF transient is explored quantitatively using the concept of effective exposed substrate area. The combination of large antenna ratio and rapid turnoff of plasma causes severe damage to gateoxide. Magnetic field in general will worsen the charging damage. The reason for that is explained. Plasma uniformity is the most important factor governing charging damage, but is not the only factor. Plasma uniformity extending beyond the edge of the wafer is important. Mere showing that the plasma is uniform across the most part of the wafer is misleading.
+
+PLASMA
+SEMICONDUCTOR DEVICES
+ETCHING
+OXIDES
+GATES
+DAMAGE
+SUBSTRATES
+CHARGES
+PROCESSING

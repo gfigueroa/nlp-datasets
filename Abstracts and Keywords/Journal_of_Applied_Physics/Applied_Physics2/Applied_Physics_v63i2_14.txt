@@ -1,0 +1,11 @@
+The response of a transverse piezoresistance gauge under plane shock wave loading is different than that of a longitudinal piezoresistance gauge. For a given combination of gauge and embedding matrix the response of the transverse gauge can be higher than that of the longitudinal gauge in a certain range of shock stresses, and lower at a different stress range. This crossover phenomenon defines a certain stress level (Ã), for which the response of the two gauges is equal. In this paper we analyze this crossover of the gauges responses analytically. The analysis accounts for the crossover stress in terms of the yield strength of gauge material and the deviatoric stresses in the embedding matrix. We show that when the yield strength of the gauge is higher than that of the matrix, there is no crossover of the gauges response. Experimental results are presented to support the analysis.
+
+SHOCK WAVES
+YIELD STRENGTH
+STRAIN GAGES
+PRESSURE GAGES
+MEASURING METHODS
+MEASURING INSTRUMENTS
+PRESSURE MEASUREMENT
+ANALYTICAL SOLUTION
+STRESSES

@@ -1,0 +1,6 @@
+The cell overlapping phenomenon often appears in the urinary sediment images. Separating overlapped cells into individual ones is a great important and difficult task for the automatic urinary sediment examination system. To solve this problem, an efficient segmenting algorithm based on combination strategy is proposed in this paper. The algorithm first locates the overlapped cells utilizing the improved adaptive threshold segmentation algorithm with mathematical morphology processing, and then adopts the watersheds algorithm based on distance transform to segment them. The experimental results of this algorithm are found to be very efficient and precise. Furthermore, the algorithm apparently improves the performance of the automatic urinary sediment examination system.
+
+Distance transform
+Improved adaptive thresholding segmentation
+Urinary sediment
+Watersheds algorithm

@@ -1,0 +1,6 @@
+In this paper, the transmission distortion introduced in the coded multi-view video stream is analyzed by mathematical method. This model takes into account the interdependent coding among views, which is an important component of multi-view video coding. The model can be used for any multi-view video coding scheme that uses motion compensation and disparity compensation, transform coding and entropy coding, with different estimation of parameters. The distortion estimation formula in this paper explicitly considers both the temporal dependencies and inter-view dependencies of multi-view video, and is applicable to any motion-compensated and disparity-compensated concealment method at the decoder. Simulations are conducted to validate our analysis. The results represent that the proposed formula estimates the actual amount of distortion with high accuracy.
+
+Multi-view
+distortion analysis
+packet loss
+video transmission

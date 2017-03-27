@@ -1,0 +1,11 @@
+Aluminum-induced crystallization of amorphous silicon is studied as a promising low-temperature alternative to solid-phase and laser crystallization. Its advantages for the formation of polycrystalline silicon on foreign substrates are the possible usage of simple techniques, such as thermal evaporation and dc magnetron sputtering deposition, and relatively short processing times in the range of 1 h. The overall process of the Al and Si layer exchange during annealing at temperatures below the eutectic temperature of 577
+°C is investigated by various microscopy techniques. It is shown that the ratio of the Al and a-Si layer thicknesses is vitally important for the formation of continuous polycrystalline silicon films on glass substrates. The grain size of these films is dependent on the annealing temperature and evidence is given that grain sizes of 20 ¼m and more can be achieved. The poly-Si films are described as solid solutions containing 3×1019
+cm3 Al atoms as solute. Only a fraction of the solute is located at substitutional sites, and therefore, electrically active leading to the p-type character of the polycrystalline silicon films. Additional Al is trapped in the form of small clusters between the continuous Si layer and the substrate. The interaction of the Al and Si layers is discussed as a diffusion-controlled process where the depletion of Si solute in the Al matrix around growing Si grains is of major importance for the overall crystallization process and the size of the resulting Si grains. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor thin films
+crystallisation
+annealing
+grain size
+solid solutions

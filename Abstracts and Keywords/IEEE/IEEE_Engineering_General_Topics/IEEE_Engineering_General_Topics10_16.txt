@@ -1,0 +1,11 @@
+The Internet is consisting of autonomous systems each managed by individual and rival organizations, which makes it very difficult to capture as a whole. Internet situation awareness can be accomplished by creating a common basis for private and public operators to monitor their networks. Thus, an overlay monitoring layer is needed, which can be utilized to address a very important aspect for a more secure and trustworthy Internet. This is the need of various stakeholders to have the information they need to perform their decision tasks in a reliable fashion. This can be accomplished by offering them a common smart approach and the additional benefit of a global view, which they can use to compare their local situation with. This smart approach should utilize well proven existing global statistics, best practices and existing technical sensors, which can be adapted to the overall common framework. From this, output for all relevant stakeholders, like national assessments centers, can be generated to fulfill the individual needs. One possible input source could be the technical sensor technology, which has been developed by our Institute for Internet security and which we give to partners and other researchers free of charge. It is a great basis for an Internet situation awareness, since it is a well proven system, which has been in operation for a couple of years, and since it can easily be adapted by our developers to comply with the overall framework. The great advantages are in addition (i) that it is privacy compliant by design and (ii) can offer high performance with the (iii) capability for long time storage of the collected raw data. Using raw data collected at various positions of the Internet infrastructure, we aim to generate a continuous global view of the current state of the Internet, which can be utilized as input for the Internet situation awareness.
+
+critical infrastructure protection
+global view
+homeland security system
+internet analyzing system
+internet early warning
+internet research
+internet situation awareness
+national assessment center
+sensor network

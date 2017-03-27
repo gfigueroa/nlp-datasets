@@ -1,0 +1,20 @@
+The nature and time evolution of the surface flashover anode plasma in a magnetically insulated ion diode is studied. Holographic interferometric and spectrographic measurements indicate a plasma with an electron density of 5×1016 cm3 and a temperature of approximately 5 eV which is created by electric breakdown along a surface parallel to the imposed pulsed electric field. The divergence of the ion beam accelerated from this plasma is governed by the spatial nonuniformities of the plasma. The beam is composed primarily of protons for the experiments studied. Contrary to previous expectations, a substantial C+4 beam component was not observed.
+
+PLASMA
+MAGNETIC INSULATION
+DIODE TUBES
+IONS
+ANODES
+DATA
+TIME DEPENDENCE
+SURFACES
+BREAKDOWN
+HOLOGRAPHY
+INTERFEROMETRY
+SPECTRA
+ELECTRON DENSITY
+ELECTRIC FIELDS
+PULSES
+ION BEAMS
+ACCELERATION
+BEAM EMITTANCE

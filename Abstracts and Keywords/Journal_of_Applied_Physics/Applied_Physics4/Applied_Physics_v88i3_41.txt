@@ -1,0 +1,10 @@
+The experimentally observed order-of-magnitude reduction in the thermal conductivity along the growth axis of (GaAs)n/(AlAs)n (or n×n) superlattices is investigated theoretically for (2×2), (3×3) and (6×6) structures using an accurate model of the lattice dynamics. The modification of the phonon dispersion relation due to the superlattice geometry leads to flattening of the phonon branches and hence to lower phonon velocities. This effect is shown to account for a factor-of-three reduction in the thermal conductivity with respect to bulk GaAs along the growth direction; the remainder is attributable to a reduction in the phonon lifetime. The dispersion-related reduction is relatively insensitive to temperature (100&lt;T&lt;300
+K) and n. The phonon lifetime reduction is largest for the 2×2 structures and consistent with greater interface scattering. The thermal conductivity reduction is shown to be appreciably more sensitive to GaAs/AlAs force constant differences than to those associated with molecular masses. © 2000 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+aluminium compounds
+thermal conductivity
+phonon dispersion relations
+interface phonons
+semiconductor superlattices

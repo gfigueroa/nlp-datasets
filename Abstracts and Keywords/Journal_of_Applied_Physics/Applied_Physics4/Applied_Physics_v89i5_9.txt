@@ -1,0 +1,7 @@
+A localized approximation was developed to calculate the bending electric force acting on an electrified polymer jet, which is a key element of the electrospinning process for manufacturing of nanofibers. Using this force, a far reaching analogy between the electrically driven bending instability and the aerodynamically driven instability was established. Continuous, quasi-one-dimensional, partial differential equations were derived and used to predict the growth rate of small electrically driven bending perturbations of a liquid column. A discretized form of these equations, that accounts for solvent evaporation and polymer solidification, was used to calculate the jet paths during the course of nonlinear bending instability leading to formation of large loops and resulting in nanofibers. The results of the calculations are compared to the experimental data acquired in the present work. Agreement of theory and experiment is discussed. © 2001 American Institute of Physics.
+
+partial differential equations
+bending
+nanostructured materials
+materials preparation
+polymer fibres

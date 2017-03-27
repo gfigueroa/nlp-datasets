@@ -1,0 +1,10 @@
+Single walled carbon nanotubes (SWNTs) are a promising gene and drug delivery system since their physical dimensions mimic nucleic acids. Towards this aim, the hydrophobicity of SWNTs was averted by coating with ribonucleic acid (RNA) polymer [poly(rU)] or bovine serum albumin (BSA) and the consequent diffusion of these synthetic-biomolecular hybrids was studied by single-molecule fluorescence microscopy. The diffusion coefficient for SWNT-poly(rU) was measured at 0.374±0.045¼m2s and for SWNT-BSA it was 0.442±0.046¼m2s. Our diffusion study provides a fundamental guidance to gene delivery using SWNT as transporters.
+
+carbon nanotubes
+macromolecules
+polymers
+molecular biophysics
+biodiffusion
+bioluminescence
+optical microscopy
+fluorescence

@@ -1,0 +1,5 @@
+Energy awareness is an essential design issue in wireless sensor networks (WSN). The routing techniques of WSN are classified into three main categories data-centric, hierarchical and location-based. Data-centric technologies perform in-network aggregation of data to yield energy-efficient dissemination; sensor protocols for information via negotiation (SPIN) and directed diffusion (DD) are basic data-centric routing protocols. This paper presents a survey on data-centric routing and specifically focuses on the directed diffusion and its variants (dissemination and aggregation variants) and the protocols that follow the similar concept like directed diffusion.
+
+directed diffusion
+sensor network
+variants

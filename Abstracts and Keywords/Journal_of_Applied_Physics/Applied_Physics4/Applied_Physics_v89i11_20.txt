@@ -1,0 +1,14 @@
+The effective magnetic anisotropy of the Fe71.5Al2Cu1Nb3Si13.5B9 alloy with different nanostructures has been investigated. The nanostructured phase was produced by means of thermal treatment (520600	°C during 1 h) to develop the devitrification of the precursor amorphous material. The effective magnetic anisotropy was evaluated from the measurement of the bias field dependence of the transverse susceptibility. Values of the effective anisotropy field, Hk, from 20 Oe (as-quenched sample) down to 7 Oe (optimum nanocrystalline state) were obtained. Such values of Hk are close to those obtained in the classical nanocrystalline Fe73.5Cu1Nb3Si13.5B9 alloy (810 Oe) alloy. The Al could enhance the intergranular coupling, leading to the ultrasoft magnetic character of this nanocrystalline Al-containing alloy. © 2001 American Institute of Physics. 
+
+iron alloys
+aluminium alloys
+copper alloys
+niobium alloys
+silicon alloys
+boron alloys
+ferromagnetic materials
+amorphous magnetic materials
+nanostructured materials
+magnetic anisotropy
+metallic glasses
+magnetic susceptibility

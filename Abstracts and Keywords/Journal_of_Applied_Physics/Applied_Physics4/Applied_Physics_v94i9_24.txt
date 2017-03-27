@@ -1,0 +1,11 @@
+We report on the use of metal-insulator-semiconductor (MIS) diodes, formed on n-GaN with SiO2, for capacitive strain sensing. These diodes, when subjected to static strain, were found to exhibit a steady-state change in capacitance. As a result, they can be used to detect strain with frequencies all the way down to dc. We formulate a model to explain the action of piezoelectricity in the diode and obtain excellent agreement with measurements. The model is then used to develop design criteria which optimize the sensitivity of the diode to detect strain. The sensitivity of the devices tested here rivals that of the best silicon piezoresistive sensors, but could attain nearly tenfold improvement with only minor design changes. Finally, we consider the effects of interface states on sensor performance and demonstrate how static strain sensing in GaN MIS diodes is enabled by the high quality of the oxide interface. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+MIS devices
+strain sensors
+piezoelectricity
+interface states
+semiconductor device measurement
+capacitance

@@ -1,0 +1,6 @@
+The properties of amorphous carbon films deposited by magnetron sputtering deposition process was analyzed and characterized with the intention of realizing an excellent design and subsequently to manufacture high performance X-ray mirror utilizing carbon-carbon multilayer stack. The study is focused on the carbon density variation as the deposition process parameters are changed. The experiment has shown a convincing result that various densities can be achieved on the deposited carbon layer by changing the deposition conditions. By installing an aluminum grating in the deposition system in order to enable an external bias voltage supply during the deposition, a 6% different between the highest and lowest densities with very low surface roughness has been achieved.
+
+X-ray optics mirror
+amorphous carbon
+carbon density
+magnetron sputtering

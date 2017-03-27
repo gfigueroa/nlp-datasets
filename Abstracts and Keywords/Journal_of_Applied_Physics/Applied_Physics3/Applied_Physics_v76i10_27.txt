@@ -1,0 +1,9 @@
+The magnetic anisotropy of Ni films grown on singlecrystal Cu(100) was studied in situ using the surface magnetooptic Kerr effect. The easy axis of magnetization lies in the plane of the film for ultrathin films and it is perpendicular to the film above a switching thickness. This behavior is attributed to a specific contribution to the magnetocrystalline anisotropy energy induced by a change in the film microstructure above a critical thickness. In the Ni/Cu(100) system, the magnetoelastic interface anisotropy favors perpendicular magnetization which becomes comparable to the shape anisotropy at the switching thickness. We compare the switching thickness and magnetization of films grown using different processing conditions.
+
+COPPER
+NICKEL
+THIN FILMS
+MAGNETIC ANISOTROPY
+SWITCHING
+MICROSTRUCTURE
+KERR EFFECT

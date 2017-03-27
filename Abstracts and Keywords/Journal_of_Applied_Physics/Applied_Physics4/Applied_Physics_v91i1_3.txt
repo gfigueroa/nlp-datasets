@@ -1,0 +1,18 @@
+We report the self-formation of nanometer-size silicon islands on a silicon-on-insulator (SOI) substrate that is associated with simple thermal treatment in the range of 500900
+°C. We study the island formation process versus the temperature of the thermal annealing, the thickness of the top silicon layer, and the presence of a native oxide on this top layer. The island size distribution is also studied. To follow the chemical evolution of the top layer, we used in situ Auger electron spectroscopy in an ultrahigh vacuum chamber. The island morphology is studied using ex situ atomic force microscopy (AFM). The formation temperature increases with the thickness of the top silicon layer and can be explained by thermal stress induced at the Si/SiO2 interface. From a technological point of view, this study shows the limitation of a SOI substrate with a thin silicon top layer under thermal treatment. On the other hand, it opens up an easy way in which to build silicon dots on an insulator. Finally, we present preliminary data that show the possibility of charging these nanocrystallites with an AFM tip. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+silicon compounds
+silicon-on-insulator
+island structure
+self-assembly
+nanostructured materials
+annealing
+particle size
+Auger electron spectra
+atomic force microscopy
+thermal stresses
+interface phenomena
+crystallites
+semiconductor quantum dots

@@ -1,0 +1,5 @@
+In any wireless communications, antennas and propagation are key concerns. Their importance becomes more significant for in-body and on-body wireless medical applications. In/on-body devices are of great interest for wireless medical applications due to the promising of different clinical usage to promote a patient independence. In medical wireless applications, antenna should be part of device and it should be placed inside or on surface of body tissue. Therefore, due to presents of body tissues, there is strong effect on antenna characteristics and as a result on propagation, which will be different for individuals. However the mass production could not be for individuals and there should be a range of accepted propagation related factor. This paper discusses on polarization mismatch due to body movements between in/on-body antennas and receiving antenna with some certain distance from body.
+
+Polarization mismatch
+body area network
+in/on-body radio communications

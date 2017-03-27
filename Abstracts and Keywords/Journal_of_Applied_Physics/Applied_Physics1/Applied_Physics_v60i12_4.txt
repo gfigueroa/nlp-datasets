@@ -1,0 +1,12 @@
+A simple method for evaluating the energy dependence of the lifetime of photocarriers in the steady state from the measurement of the ratio of steady state to the modulated photocurrents has been proposed. It was applied to phosphorusdoped hydrogenated amorphous silicon (aSi:H), and the excitationenergy dependence of the lifetime for electrons was determined. The lifetime spectrum shows a break point at about 1.1 eV, below which the lifetime decreases with a decrease of the excitation energy, while it remains almost constant in the energy range higher than 1.1 eV. It has been concluded that there are two kinds of hole traps. One of them (X states) is located about 1.1 eV below the conductionband edge and is characterized by slow recombination rate with electrons. This conclusion has been confirmed by the independent experiment on the dualbeam photocurrent. The other hole traps having large recombination rate with electrons are expected to be present at energies shallower than 0.7 eV from the conductionband edge. In consequence of the different recombination rates with electrons among these hole traps, the recombination channel through X states becomes a dominant ratelimiting process in the steadystate photocurrent of phosphorusdoped aSi:H.
+
+SILICON
+RECOMBINATION
+HOLES
+TRAPS
+CARRIER LIFETIME
+PHOTOCURRENTS
+HYDROGENATION
+AMORPHOUS SEMICONDUCTORS
+ENERGY DEPENDENCE
+EXCITATION

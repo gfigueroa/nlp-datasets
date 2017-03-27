@@ -1,0 +1,14 @@
+A phenomenological model has been applied in an attempt to explain the inability of the ordered regions in the lead magnesium niobate family of relaxor ferroelectrics to coarsen. This approach is based on the concept that the free energy is lowered by an embryonic decomposition along a nonneutral direction. It is proposed that the excess free energy associated with the formation of the nonneutral phase is offset by the distortability of the perovskite structure toward the pyrochlore. The lack of coarsening is then explained as a balance of the electrostatic energy and gradient energy terms, following an earlier published report. This model is then applied to the Lamodified (donordoped) lead magnesium niobate, to explain the dependence of the size of the ordered regions on the degree of doping as observed by other workers.
+
+FERROELECTRIC MATERIALS
+LEAD COMPOUNDS
+MANGANESE COMPOUNDS
+NIOBATES
+QUATERNARY COMPOUNDS
+CATIONS
+MICROSTRUCTURE
+INSTABILITY
+FREE ENERGY
+CHEMICAL COMPOSITION
+CRYSTAL DOPING
+PEROVSKITES

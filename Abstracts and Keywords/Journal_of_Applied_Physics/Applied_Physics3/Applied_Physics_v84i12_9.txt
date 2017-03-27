@@ -1,0 +1,9 @@
+X-ray diffraction has been used to study the influence of the mask material on properties of GaAs layers grown by the liquid phase epitaxial lateral overgrowth (ELO) on (100) GaAs substrates. We show that ELO stripes bend towards the SiO2 mask in the direction perpendicular to seeding lines in a similar way to that as studied recently by x-ray topography for Si lamellae [H. Raidt, R. Kohler, F. Banhart, B. Jenichen, A. Gutjahr, M. Konuma, I. Silier, and E. Bauser, J. Appl. Phys. 80, 4101 (1996)]. The bending disappears when the mask is removed by selective etching. This microscopic bending is reduced by nearly 2 orders of magnitude when graphite instead of SiO2 is used to mask the substrate. © 1998 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+liquid phase epitaxial growth
+X-ray diffraction
+bending

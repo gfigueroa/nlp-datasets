@@ -1,0 +1,7 @@
+Using a neonatal intensive care unit (NICU) case study, this work investigates the current cross industry standard process for Data Mining (CRISP-DM) approach for modeling intelligent data analysis (IDA)-based systems that perform temporal data mining (TDM). The case study highlights the need for an extended CRISP-DM approach when modeling clinical systems applying data mining (DM) and temporal abstraction (TA). As the number of such integrated TA/DM systems continues to grow, this limitation becomes significant and motivated our proposal of an extended CRISP-DM methodology to support TDM, known as CRISP-TDM. This approach supports clinical investigations on multi-dimensional time series data. This research paper has three key objectives: 1) Present a summary of the extended CRISP-TDM methodology; 2) Demonstrate the applicability of the proposed model to the NICU data, focusing on the challenges associated with multi-dimensional time series data; and 3) Describe the proposed IDA architecture for applying integrated TDM.
+
+CRISP-DM
+Data mining
+multidimensional analysis
+temporal abstraction
+time series data

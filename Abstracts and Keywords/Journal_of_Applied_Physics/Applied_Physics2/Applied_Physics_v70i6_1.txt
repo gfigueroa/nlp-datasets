@@ -1,0 +1,13 @@
+The production of stable vacancyrelated point defects in silicon irradiated with 1.3 MeV protons has been studied as a function of ion flux (protons	s1	cm2), while keeping the total fluence constant. Since the total fluence was very low (5 × 109 protons	cm2), no interference between neighboring ion tracks was expected. The defect concentrations have been measured by deeplevel transient spectroscopy, and a decrease in the resulting defect density is found for increasing flux. This effect was unexpected and shows that there is an overlap between ion tracks, in spite of the low fluence. The behavior is attributed to the rapidly diffusing silicon interstitials, which overlap the vacancy distributions produced in adjacent ion tracks. When the ion flux is low, the distribution of vacancies from one ion becomes diluted and recombination with interstitials from ions impacting at a later time is rare. As the flux is increased the vacancy distribution from one ion will still be confined to a small volume when it is overlapped by interstitials from a later ion, leading to an increased recombination of vacancies and interstitials. Thus, within this lowfluence regime, the total concentration of stable vacancyrelated defects decreases for a high flux. This result is supported by computer simulations of the defect generation kinetics.
+
+SILICON
+PROTONS
+MEV RANGE 0110
+POINT DEFECTS
+VACANCIES
+ION FLUX
+DLTS
+DIFFUSION
+COMPUTERIZED SIMULATION
+PHYSICAL RADIATION EFFECTS
+IONATOM COLLISIONS

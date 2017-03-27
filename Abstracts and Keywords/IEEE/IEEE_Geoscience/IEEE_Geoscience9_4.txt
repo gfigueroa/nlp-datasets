@@ -1,0 +1,7 @@
+This paper details the updates and modifications to the 1996 revision of IEEE 1068 Recommended Practice for the Repair and Rewinding of Motors in the Petroleum and Chemical Industry. A major change in the document is its evolution to full standard status, noted in the title of this paper. The IEEE Standards Association also granted the Working Group's petition to broaden the scope and title to include process industries in general. Such recognition acknowledges its value to those employing machines in demanding services and severe environments, such as the cement trade and pulp &amp; paper processing. IEEE 1068 was restructured to better track the methodologies and processes employed in present day repair facilities. Substantive improvements include incorporation of currently available technology, document specific testing, evaluation criteria, and clarification of end-user and service center responsibilities.
+
+AC Electric Machines
+AC Electric Motors
+IEEE 1068 (2009)
+Repair
+Rewinding

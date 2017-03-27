@@ -1,0 +1,9 @@
+We have produced several magnetic amorphous alloys by ion mixing of thin multilayer films. Our results show that the ion mixing technique is able to produce amorphous films of the various categories (transition metalmetalloid, transition metal pairs) at the composition appropriate for the appearance of magnetic ordering. A comparison of their saturation magnetization with that of related vapor quenched films suggests similar nearestneighbor coordination in both kinds of samples.
+
+thin films
+magnetic properties
+fabrication
+saturation
+magnetization
+metallic glasses
+mixing

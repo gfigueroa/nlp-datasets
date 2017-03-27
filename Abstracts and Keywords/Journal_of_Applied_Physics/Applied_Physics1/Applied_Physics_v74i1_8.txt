@@ -1,0 +1,11 @@
+A kinetic model has been developed to explain As and P incorporation behaviors in GaAs1xPx epilayers grown on GaAs (001) by gassource molecular beam epitaxy. The model can predict the P compositions for various substrate temperatures and flow rates. The model shows that an in situ determination of GaP molar fraction in GaAs1xPx can be performed by group Vinduced intensity oscillations of reflection highenergyelectron diffraction at low substrate temperatures where desorption of group V species is negligible. At high substrate temperatures the compositions can be determined from the arsine and phosphine flow rates.
+
+GALLIUM ARSENIDES
+GALLIUM PHOSPHIDES
+MOLECULAR BEAM EPITAXY
+KINETICS
+MATHEMATICAL MODELS
+RHEED
+OSCILLATIONS
+FLOW RATE
+CHEMICAL COMPOSITION

@@ -1,0 +1,8 @@
+A systematic approach to incorporating dielectric boundary conditions in the meshless Radial Point Interpolation Method (RPIM) is presented in this paper. In the standard RPIM method, direct implementation of dielectric interface boundary conditions has posed a technical challenge as the radial basis function used for the local interpolation of field values is a continuous and smooth. Since field quantities may be discontinuous across a dielectric interface, a new set of RPIM equations for the updates of field variables at the dielectric interfaces are derived where continuous electric flux densities are computed instead of electric fields. Numerical results show that the simulation accuracy of the RPIM is significantly improved with small extra computational overhead.
+
+Dielectric boundary
+finite-difference time-domain
+meshless methods
+radial point interpolation method (RPIM)
+time-domain finite-element method
+time-domain modeling

@@ -1,0 +1,14 @@
+The temperature dependence of leakage in sputtered Ta2O5 films (1030 nm) on Si substrates with an interfacial SiO2 layer has been studied for temperatures between 50 and +100	°C and for electric fields between 0 and 2 MV/cm. The activation energy of leakage and the currentvoltage relationships have been used to identify various high field conduction mechanisms such as PooleFrenkel transport at high temperatures and field emission at low temperatures. At low fields and intermediate temperatures, electronic hopping conduction leading to spacechargelimited flow at high current densities has been observed.
+
+TANTALUM OXIDES
+SILICON
+CURRENT DENSITY
+SILICON
+SILICA
+ACTIVATION ENERGY
+LEAKAGE CURRENT
+ELECTRIC CONDUCTIVITY
+FIELD EMISSION
+MEDIUM TEMPERATURE
+LOW TEMPERATURE
+CHARGEDPARTICLE TRANSPORT

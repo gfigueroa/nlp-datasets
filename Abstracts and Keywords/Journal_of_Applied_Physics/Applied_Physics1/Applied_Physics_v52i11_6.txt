@@ -1,0 +1,16 @@
+A detailed analysis is presented of capturecrosssection determination by transientcurrent (e.g., current deeplevel transient spectroscopy) trapfilling measurements. Data for electron capture by the Au acceptor illustrates the technique. Calculations including spatially dependent capture and the competition of emission with capture are shown to match the experimental data. Results using the parabolic bandbending approximation are compared with those in which Poissons equation is solved exactly. The latter is found to fit the data slightly better. By curve fitting this calculation to trapfilling data, the electron capture cross section Ãn of the Au acceptor is found to be 7.1±0.3×1017 cm2. The effects obtaining when the trap concentration NT cannot be assumed negligible compared to the shallowdopant density ND are investigated, and found to be unimportant for the samples studied here (NT/NDJ0.3). It is demonstrated that Ãn cannot be obtained accurately from the initial slope of a semilog plot of the effective fraction of traps remaining empty at the end of the trapfilling pulse versus fillingpulse width, as is conventionally done for capacitancetransient measurements.
+
+CROSS SECTIONS
+MATHEMATICAL MODELS
+TRANSIENTS
+ELECTRIC CURRENTS
+TRAPS
+ENERGY LEVELS
+SPECTROSCOPY
+ELECTRONS
+GOLD
+SPATIAL DEPENDENCE
+BAND THEORY
+COMPARATIVE EVALUATIONS
+POISSON EQUATION
+THEORETICAL DATA

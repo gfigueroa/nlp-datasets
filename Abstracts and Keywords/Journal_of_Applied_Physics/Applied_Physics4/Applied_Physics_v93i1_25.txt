@@ -1,0 +1,10 @@
+We have investigated piezoelectric lead zirconate titanate (PZT)-stainless steel cantilevers as real-time in-water cell detectors using yeast cells as a model system. Earlier studies have shown that mass changes of a cantilever can be detected by monitoring the resonance frequency shift. In this study, two PZT-stainless steel cantilevers with different sensitivities were used to detect the presence of yeast cells in a suspension. The stainless steel cantilever tip was coated with poly-L-lysine that attracted yeast cells from the suspension, and immobilized them on the cantilever surface. After immersing the poly-L-lysine coated tip in a yeast suspension, the flexural resonance frequency of the cantilever was monitored with time. The flexural resonance frequency decreased with time in agreement with the optical micrographs that showed increasing amount of adsorbed yeast cells with time. The resonance frequency shifts are further shown to be consistent with both the mass of immobilized cells on the poly-L-lysine coated stainless steel surface and that deduced from the optical micrographs. Furthermore, under the present experimental conditions where the cell diffusion distance is smaller than the linear dimension of the adsorption area, it is shown that the rate of resonance frequency shift is linear with the cell concentration and the rate of resonance frequency shift can be used to quantify the cell concentration. © 2003 American Institute of Physics. 
+
+lead compounds
+stainless steel
+piezoelectric transducers
+biosensors
+cellular biophysics
+micromechanical resonators
+microsensors
+adsorption

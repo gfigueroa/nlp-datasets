@@ -1,0 +1,12 @@
+A high-temperature tolerant microelectronic carbon monoxide gas sensor has been developed. This device is based on a diamond diode in the form of catalytic-metal/adsorptive-oxide/intrinsic-diamond/semiconductor-diamond structure. The gas sensing performance and detection mechanisms have been studied over a wide temperature range (50500
+°C). The gas sensitivity of the sensor is large, fast, repeatable, and reproducible. Gas detection mechanism is attributed to the modification of the oxygen vacancies in the SnOx layer of the sensor. This diamond diode sensor can be utilized in applications that require a sensor to operate at a wider operating temperature range. © 1998 American Institute of Physics.
+
+diamond
+gas sensors
+carbon compounds
+high-temperature techniques
+semiconductor diodes
+vacancies (crystal)
+elemental semiconductors
+catalysts
+electric sensing devices

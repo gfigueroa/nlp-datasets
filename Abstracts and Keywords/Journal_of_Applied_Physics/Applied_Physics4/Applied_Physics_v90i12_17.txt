@@ -1,0 +1,8 @@
+Second-order optical nonlinearity relaxations of hybrid inorganic/organic solgel films doped with poled Disperse Red 1 chromophores were measured by second harmonic generation at several temperatures. The decay curves were fitted to biexponentials and Köhlrausch, Williams, and Watts (KWW) stretched exponentials. It can be concluded that the KWW model well describes chromophore thermal reorientation in hybrid solgel materials, as is known for all-organic polymers. Using the Arrhenius law, the activation energy of the reorientation process has been determined to be about 50 or 70 kcal
+mol1. A stability of roughly a decade has been extrapolated at room temperature. Another experiment at room temperature gave an estimation of the stability that was found to be in qualitative agreement. It is shown that poled chromophore-doped solgel materials have the potential to be stable enough for applications in telecommunication devices. © 2001 American Institute of Physics. 
+
+optical harmonic generation
+sol-gel processing
+organic compounds
+molecular reorientation
+optical films

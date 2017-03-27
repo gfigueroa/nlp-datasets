@@ -1,0 +1,10 @@
+Magnetoresistance, antiferromagnetic coupling, and crystallographic orientation of Co/Cu superlattices with intentionally mixed interfaces have been studied as a function of the thickness of the mixed region. The antiferromagnetic coupling is weakened, and spinindependent scattering of free electrons is enhanced with increasing thickness of the mixed region, although the morphology and the superlattice period remain unchanged. Saturation magnetoresistance is reduced from 27% to 4% as the result of the formation of a 0.15 nm mixed region at the interfaces. Moreover, the crystallographic orientation of Co/Cu superlattices is also found to be varied by formation of the mixed region. Giant magnetoresistance, antiferromagnetic coupling, and the crystallinity of Co/Cu superlattices are governed by the events in the thin region at the interfaces less than 1 monolayer.
+
+COBALT
+COPPER
+SUPERLATTICES
+MAGNETORESISTANCE
+ANTIFERROMAGNETISM
+CRYSTAL ORIENTATION
+INTERFACE PHENOMENA
+COUPLING

@@ -1,0 +1,10 @@
+A phenomenological thermodynamic potential was constructed based on the properties of bulk BaTiO3 single crystals. An eighth-order polynomial of Landau-Devonshire expansion was employed. It reproduces bulk properties including the three possible ferroelectric transition temperatures and their dependence on electric fields, as well as the dielectric and piezoelectric constants. Different from the existing thermodynamic potential, it is applicable to predicting the ferroelectric phase transitions and properties of BaTiO3 thin films under large compressive biaxial strains.
+
+barium compounds
+dielectric thin films
+ferroelectric ceramics
+free energy
+ferroelectric transitions
+permittivity
+piezoelectricity
+electric domains

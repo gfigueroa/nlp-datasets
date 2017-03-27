@@ -1,0 +1,11 @@
+A series of Ce3+ doped ±-Sr22xCexNaxP2O7 phosphor compounds has been prepared using a high-temperature solid-state reaction technique. The luminescence properties under vacuum ultraviolet-UV and x-ray excitation were studied. Luminescence spectra reveal three UV-emitting peaks at about 310, 330, and 350 nm from which we conclude that Ce3+ occupies two distinct sites in ±-Sr2P2O7. The influences of the doping concentration, the temperature, and the excitation wavelength on the luminescence of Ce3+ at the Ce(I) and Ce(II) sites together with the decay characteristics are discussed. The light yield under x-ray excitation is found to be around 10	000 photons/MeV.
+
+cerium
+cerium compounds
+doping profiles
+luminescence
+phosphors
+sodium compounds
+strontium compounds
+ultraviolet radiation effects
+X-ray effects

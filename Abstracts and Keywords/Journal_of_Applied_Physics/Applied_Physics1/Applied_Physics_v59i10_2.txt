@@ -1,0 +1,17 @@
+Cu diffusion into CdTe was investigated. Diffusions were carried out at 325	°C for 170 h under vacuum, starting with a surface deposition. The Cu diffusion caused a reduction in the bandedge photoluminescence intensity of the crystals. Hall data indicate that the Cu also inhibited the formation of acceptor states in the lattice during the 325	°C thermal treatment. The luminescence intensity is partially restored by a 2 h, 700	°C anneal under inert gas atmosphere. The spectral features in the exciton region of the spectrum are not significantly changed by the doping, and appear to be dominated by the annealing process itself rather than by the Cu introduced into the crystal. This is in contrast to previously reported data associating Cu doping with increases in the intensity of the 1.5896eV boundexciton line. Cathodoluminescence and infrared microscopy indicate that the Cu did not form precipitates or supersaturated areas along defects, as has been previously reported by other workers as the cause of the overall decrease in luminescence intensity with Cu diffusion.
+
+CATHODOLUMINESCENCE
+PHOTOLUMINESCENCE
+DIFFUSION
+COPPER
+CADMIUM TELLURIDES
+HALL EFFECT
+CARRIER DENSITY
+IMPURITIES
+ACCEPTORS
+CRYSTAL DOPING
+EXCITONS
+CARRIER DENSITY
+IMPURITY STATES
+ANNEALING
+ATOM TRANSPORT

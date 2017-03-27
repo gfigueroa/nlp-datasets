@@ -1,0 +1,11 @@
+Viewing the brittletoductile transition of fracture in intrinsically brittle solids as a crack tip initiated critical event of either nucleation of dislocation loops from the crack tip or the motion away of such dislocations from the crack tip, experiments have been devised to measure the critical activation energy of such events by measuring the arrest temperature of cleavage cracks with different velocities in experiments that were conducted on large Si single crystals subjected to a steep temperature gradient. While such experiments can provide precise information that can be related directly to mechanisms of crack tip bifurcation behavior, they are hampered by nontrivial perturbations that must be controlled. Here in the first of a series of communications we discuss the nature of these perturbations in Si single crystals, cleaving either on the {111} or the {110} planes.
+
+SILICON
+MONOCRYSTALS
+BRITTLENESS
+CRACK PROPAGATION
+DISLOCATIONS
+NUCLEATION
+ACTIVATION ENERGY
+TEMPERATURE GRADIENTS
+CLEAVAGE

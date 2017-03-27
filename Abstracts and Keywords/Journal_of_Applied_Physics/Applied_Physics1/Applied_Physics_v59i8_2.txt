@@ -1,0 +1,21 @@
+The three orderofmagnitude variation in the proton nuclear magnetic resonance (NMR) longitudinal relaxation time T1 of water adsorbed on silica surfaces versus that of bulk water makes proton NMR studies of porous materials powerful tools to study the effects of adsorption. Recent theory permits the utilization of this different response to obtain pore space surfacetovolume (S/V) distribution functions by inverting the decay of the z component of magnetization of fully saturated porous rocks; information can likewise be obtained on the fluid distribution at partially saturated conditions. A computer program has been developed to invert the NMR relaxation curves for the S/V distribution function, assuming an isolated pore regime, the ramifications of which are examined. The program has been applied to experimental results from water, porous sandstones, and tight gas sands at various pore fluid saturations and varying electrolyte content. For the fully saturated case, the results show promise in the application of NMR to describing pore space geometries in rock samples with widely varying surfacetovolume ratios. For partially saturated rocks, the results reflect the preferential early draining of the large pores at high water saturations, connectivity percolation phenomena at intermediate saturations, and the dominating role of adsorbed water films at low water saturations. Experiments on rocks saturated with saline solutions disclose the importance of the effects of alteration of the active sites on the rock surfaces as well as the role of electrolytes in modifying the structural properties of bulk solution.
+
+ROCKS
+NUCLEAR MAGNETIC RESONANCE
+SALINITY
+SOLIDFLUID INTERFACES
+INTERFACE PHENOMENA
+POROUS MATERIALS
+WATER
+ADSORPTION
+SORPTIVE PROPERTIES
+SAND
+SANDSTONES
+SILICA
+RELAXATION TIME
+SATURATION
+ELECTROLYTES
+ELASTICITY
+SURFACES
+VOLUME
+MICROSTRUCTURE

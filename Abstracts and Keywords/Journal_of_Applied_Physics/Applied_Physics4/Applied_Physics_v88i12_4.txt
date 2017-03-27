@@ -1,0 +1,8 @@
+Fatigue rates in the Pb(Zn1/3Nb2/3)O3PbTiO3 perovskite solid solution were investigated for different compositions in the rhombohedral and tetragonal phases in a variety of directions, at various field levels. It was found that the fatigue rates depend on both the ferroelectric phase and crystallographic orientation. In the rhombohedral phase when the field is applied along the [001]C direction (where the direction is given in terms of the cubic prototype), excellent fatigue resistance was obtained. © 2000 American Institute of Physics. 
+
+lead compounds
+platinum compounds
+ferroelectric materials
+solid solutions
+dielectric hysteresis
+dielectric polarisation

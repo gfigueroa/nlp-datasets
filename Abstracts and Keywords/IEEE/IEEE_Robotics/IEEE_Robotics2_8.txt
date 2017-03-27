@@ -1,0 +1,9 @@
+This thesis aims to develop a system for multiple objects tracking and joint attention between a human and a robot. We propose a new method (modified Multi-CAMSHIFT, MMC), which is based on the characteristics of color and shape probability distribution, to solve the tracking problems for multiple objects. The color information is calculated by MMC improved from CAMSHIFT theory. The shape information is calculated by the procedure of Scharr kernel mask. We calculate color histogram and orientation histogram respectively, and use the adaptive feature selection for optimal tracking. Eyes-pair fast extracting is included for judging face or non-face regions. Our proposed MMC is based on adaptive multi-resolution (AMR) framework for reducing computation. After finding human faces, we find the direction of each human face, and research the human-robot interaction between human and robot that is called joint attention. We construct the joint attention with static and dynamic information of a human, which are edge detector and optical flow, respectively. The static and dynamic information have complementary characteristics. We use support vector machine (SVM) for learning model. Utilizing both static and dynamic information acquired from observing a humanpsilas gaze shift enables the robot to efficiently acquire joint attention ability and to naturally interact with the human. From experiment results, the proposed modified Multi-CAMSHIFT was successfully applied to multiple faces tracking and the development of the joint attention.
+
+CAMSHIFT
+Edge Detection
+Face
+Joint Attention
+Optical Flow
+SVM
+Tracking

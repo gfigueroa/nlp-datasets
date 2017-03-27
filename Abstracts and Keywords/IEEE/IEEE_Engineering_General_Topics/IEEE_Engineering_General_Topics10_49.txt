@@ -1,0 +1,7 @@
+The objective of this work is to investigate the predictability of the hairiness of the cotton yarn from a cone winding machine using a multilayered perception (MLP) feed -forward back-propagation network in an artificial neural network system. A five-quality index (feeder distance, winding speed, thread cleaner gauge, tension washer weight, and rupture ring highness) and cotton yarn hairiness of winding are rated in controlled conditions. A good correlation between predicted and actual cotton yarn hairiness of winding shows that winding yarn hairiness can be predicted by neural networks. It shows the neural network provides a powerful tool for yarn prediction.
+
+artificial neural network
+hairiness
+process parameter
+winding
+yarn

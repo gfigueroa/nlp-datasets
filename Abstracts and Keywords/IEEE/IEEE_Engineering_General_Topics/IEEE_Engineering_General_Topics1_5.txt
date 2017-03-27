@@ -1,0 +1,8 @@
+Through the past two decades, education in computer and information science and technology (CISE) has moved toward a model that pervasively incorporates programming projects and other engaging student activity. Realistic activities and materials are intrinsically motivating because they vividly remind learners of the possibilities for meaningfully applying knowledge and skills in the world beyond the classroom. A realistic activity, however, does not ipso facto reveal its own rationales, deeper lessons, cultural meanings and origins, or its roles in a coherent professional practice. In order for realistic activities to serve as effective learning opportunities, underlying rationale and expert thinking behind problem solving, core concepts and techniques must be made available to students (Collins, 1991; Brown &amp; Collins, 1989).
+
+case studies
+collaboration
+rationale
+realistic learning
+roles
+usability

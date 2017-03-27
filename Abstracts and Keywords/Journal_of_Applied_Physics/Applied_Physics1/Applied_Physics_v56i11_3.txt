@@ -1,0 +1,13 @@
+The use of electroreflectance and spectroscopic ellipsometry is demonstrated for the assessment of quantum well structures consisting of, respectively 4, 5, and 7nmthick GaAs layers deposited by organometallic chemical vapor deposition between undoped layers of Ga0.46Al0.54As. Electroreflectance provides a direct determination of all allowed optical transitions (”n=0) in the GaAs well around the “ point as well as their dependence versus an electric field. Spectroscopic ellipsometry gives both the thickness and the dielectric function of the GaAs well. This is a unique case where these two quantities are determined accurately at the same point under analysis. Furthermore, the two techniques have been used to analyze the optical transitions in the well around the L point (E1, E1+”1 type of transition), a usually unexplored region. This provides complementary information upon the electronic states in the quantum well.
+
+ELECTROREFLECTANCE
+ELLIPSOMETRY
+THICKNESS
+ELECTRONIC STRUCTURE
+GALLIUM ARSENIDES
+ENERGY LEVELS
+DIELECTRIC FUNCTION
+ORGANOMETALLIC COMPOUNDS
+QUANTUM WELL STRUCTURES
+INTERFACE STATES
+ALUMINIUM ARSENIDES

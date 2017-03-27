@@ -1,0 +1,14 @@
+Both as-deposited and plasma-treated hydrogenated and deuterated amorphous silicon (a-Si:H and a-Si:D) films are prepared by plasma-enhanced chemical vapor deposition. Their structural and electronic characteristics are studied and compared. It is found that the deuterium concentration of a-Si:D is higher than the hydrogen concentration of a-Si:H in as-deposited samples, but is less in plasma-treated samples, which is consistent with the photoluminescence spectra. Besides, the proportionality constants relating the integrated stretching mode absorption to the concentrations of SiD and SiH bonds were determined, i.e., 1×1020 for SiD and 6.9×1019 for SiH, by means of secondary ion mass spectrometry. © 2000 American Institute of Physics. 
+
+silicon
+hydrogen
+deuterium
+amorphous semiconductors
+elemental semiconductors
+semiconductor thin films
+plasma CVD coatings
+photoluminescence
+secondary ion mass spectra
+bonds (chemical)
+impurity states
+isotope effects

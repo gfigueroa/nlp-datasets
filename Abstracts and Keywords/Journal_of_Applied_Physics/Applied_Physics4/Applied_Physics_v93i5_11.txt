@@ -1,0 +1,9 @@
+The temperature dependence of the resistivity of nanotubular polyaniline (PANI) doped with H3PO4 and ²-naphthalene sulfonic acid (NSA) synthesized by a template-free method has been investigated. The molar ratios of H3PO4
+(NSA) to aniline monomer (represented by H3PO4/An and NSA/An) of the samples are H3PO4/An=0.01,	0.05,	0.3,	0.5 and NSA/An=1,	2, respectively. It is found that ln	Á(T) is linear in T1/2 and the resistivity is sensitive to the doping concentration. For NSA/An=1 sample, a crossover at 57 K in the plot of ln
+Á(T)<T1/2 has been observed. On the basis of detailed analysis of the structure characteristics of the PANI nanotubes, we suggest a hoppingtunneling model to explain the experimental results. © 2003 American Institute of Physics. 
+
+conducting polymers
+electrical resistivity
+hopping conduction
+tunnelling
+nanotubes

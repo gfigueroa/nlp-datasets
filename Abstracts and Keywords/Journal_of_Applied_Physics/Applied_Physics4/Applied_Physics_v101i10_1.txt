@@ -1,0 +1,11 @@
+We measured directly by neutron diffraction the axial and lateral residual strains for the prebent and the as-reacted CuNb/Nb3Sn wires at room temperature and at 7K, in order to investigate the change of the residual strain with prebending treatment. In the axial direction of the wire, the residual strain was changed with 0.20% to the tensile side when measured at both temperatures, while in the lateral direction, the change was 0.08% and 0.03% to the compressive side for the measurements at RT and 7K, respectively. From the obtained data, we estimated the deviatoric strain. At 7K, the value is 0.40% for the as-reacted wires and it reduces to 0.19% when the prebending is applied with a strain µpb = 0.8%. These results suggest that the reduction of the residual strain in the axial direction as well as in the lateral direction, i.e., of the deviatoric strain is responsible for the observed enhancement in the superconducting properties of the prebent Nb3Sn wires. In addition, we succeeded in the quantitative evaluation of the deviatoric strain dependence of the upper critical field for the practical Nb3Sn wire. This is very important for the understanding of the general axial strain dependence of the superconducting properties.
+
+copper alloys
+niobium alloys
+tin alloys
+multifilamentary superconductors
+neutron diffraction
+superconducting critical field
+wires
+bending
+internal stresses

@@ -1,0 +1,15 @@
+Simultaneous measurements of thermal diffusion processes of electrons and phonons in 1TTiS2 and intercalation compounds MxTiS2 (M=Mn, Fe, Co, and Ni; x=0.11/3) have been made in the temperature range 78280 K using a pulsed laserinduced transient thermoelectric (TTE) or photodiffusion effect. The initial stage of the decay curves of TTE voltage observed solely in TiS2 gives the electronhole recombination times Är, from which capture cross sections are evaluated. At the second stage, two relaxation times (Äf and Äs) are observed in all crystals; the fast and slow components are associated with the intra and intervalley scatterings through electronphonon interactions, respectively. The evaluation of the final stage yields the thermal diffusion coefficient DT and thermal conductivity º of these materials. The effect of intercalation of the guest 3d metals on these quantities is qualitatively discussed.
+
+THERMAL DIFFUSION
+THERMOELECTRICITY
+ELECTRONPHONON COUPLING
+RECOMBINATION
+INTERCALATION COMPOUNDS
+CHARGEDPARTICLE TRANSPORT
+CROSS SECTIONS
+TITANIUM SULFIDES
+IRON COMPOUNDS
+COBALT COMPOUNDS
+NICKEL COMPOUNDS
+RELAXATION
+THERMAL CONDUCTIVITY

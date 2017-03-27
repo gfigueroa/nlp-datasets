@@ -1,0 +1,4 @@
+The effect of the microrotation and couple stress will be taken into account in the Non-Newtonian fluid with the suspension micro-particle. The rheological behaviors of the interaction between a hydrodynamic film flow and a magnetic field is extremely different from the flow of no applied magnetic field. The multiple-scales method is used to examine the weak nonlinear dynamics of the micropolar liquid film. The results display the flow becomes relatively more stable as the micropolar parameter K is increased at larger values of the Hartmann number. Furthermore, the working conditions can be found through the use of a system to alter stability of the film flow by controlling the applied magnetic field.
+
+Liquid Film
+Nonlinear Waves

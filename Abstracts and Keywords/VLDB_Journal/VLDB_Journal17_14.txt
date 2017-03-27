@@ -1,0 +1,6 @@
+We consider the problem of similarity search in databases with costly metric distance measures. Given limited main memory, our goal is to develop a reference-based index that reduces the number of comparisons in order to answer a query. The idea in reference-based indexing is to select a small set of reference objects that serve as a surrogate for the other objects in the database. We consider novel strategies for selection of references and assigning references to database objects. For dynamic databases with frequent updates, we propose two incremental versions of the selection algorithm. Our experimental results show that our selection and assignment methods far outperform competing methods.
+
+Reference-indexing
+Metric measures
+Edit distance
+Earth movers distance

@@ -1,0 +1,10 @@
+In this paper, we report the successful observation of the hybrid multiple diffraction (hybrid MD) in Renninger scans (RS) [M. Renninger, Z. Kristallogr. 106, 141 (1937)]. These diffractions occur when the beam first diffracted by an inclined layer (or substrate) plane with respect to the sample surface crosses the interface layer/substrate to be rescattered by another substrate (or layer) plane towards the detector. The construction of an incidence diagram allows to establish the occurrence of the hybrid MD for heteroepitaxial layers. The layer imperfection (mosaic spread) is used to explain these extra features in RS together along the normal MD features. The case of a GaAs layer grown on a Si substrate is investigated.
+
+XRAY DIFFRACTION
+INCIDENCE ANGLE
+GALLIUM ARSENIDES
+EPITAXIAL LAYERS
+MULTIPLE SCATTERING
+HETEROSTRUCTURES
+DEFORMATION
+INTERFACES

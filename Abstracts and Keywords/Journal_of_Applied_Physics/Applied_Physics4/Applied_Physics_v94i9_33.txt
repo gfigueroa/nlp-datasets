@@ -1,0 +1,11 @@
+We have investigated the third-order nonlinear optical response of a niobicsilicate glassceramic containing sodium niobate (NaNbO3) nanocrystals using picosecond Z-scan and femtosecond optical Kerr gate techniques at 1064 and 800 nm, respectively. The results show a large dependence of the nonlinear refractive index (n2) on the volume fraction occupied by NaNbO3 crystallites. Nonlinear absorption is negligible for all samples and the response time of the nonlinearity was shorter than 100 fs demonstrating that this material is a promising candidate for ultrafast optical switching. © 2003 American Institute of Physics. 
+
+sodium compounds
+glass ceramics
+optical materials
+nanoparticles
+nonlinear optical susceptibility
+optical Kerr effect
+refractive index
+crystallites
+absorption coefficients

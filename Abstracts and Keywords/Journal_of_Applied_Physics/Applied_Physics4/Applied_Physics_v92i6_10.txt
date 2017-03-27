@@ -1,0 +1,15 @@
+The contamination risk of processing with platinum electrodes on device performance in ferroelectric memories is assessed in this work. Details of platinum diffusion to the active regions at annealing temperatures of 800
+°C are investigated by secondary ion mass spectroscopy, deep level transient spectroscopy, and Rutherford backscattering spectrometry techniques. Cross sectional transmission electron microscopy and local elemental analysis by energy dispersive x-ray spectroscopy were used to examine the precipitation of Pt in defect free silicon as an eventual cause of gate oxide degradation. The impact of platinum contamination on device performance is evaluated under the typical ferroelectric memory processing conditions. Results from leakage current and charge to breakdown measurements of intentionally contaminated diode and metaloxidesemiconductor (MOS) structures, respectively, are presented. The results show that the degradation depends strongly on device design and configuration. A phosphorus doped polysilicon plug, which has the function of connecting the select transistor to the capacitor module, provides effective gettering regions and prevents the diffusion of Pt atoms to the active regions. Under typical processing conditions, no evident Pt precipitates were observed and up to a concentration level of 4×1014	atoms/cm2, the leakage current of intentionally contaminated diodes does not increase, if the contamination occurs after front-end phosphorus doped poly-Si processing. Results from constant current charge to breakdown show a small number of breakdown events due to redeposition of Pt at the periphery of the MOS structure. The risk of processing with Pt electrodes in ferroelectric memories requires great care. Precautions like sealing the back surface and incorporating phosphorus doped polysilicon as the plug material are necessary to avoid the detrimental effects of Pt. © 2002 American Institute of Physics. 
+
+platinum
+ferroelectric storage
+diffusion
+annealing
+secondary ion mass spectra
+deep level transient spectroscopy
+impurity states
+Rutherford backscattering
+transmission electron microscopy
+X-ray chemical analysis
+MIS structures
+precipitation

@@ -1,0 +1,7 @@
+This paper presents a novel architecture of a multi DSP based simulator. The simulator can be used for evaluating numerous DSP configurations in multi processor environment across several parameters and criteria. The simulator can also evaluate performance of different multi processor scheduling algorithms for high density signal processing applications. The simulator is designed to explore design space for up to OC48 media gateway controller running different VOIP algorithms
+
+DSP
+OC-48 Media gateway
+Scheduler
+Simulator
+VOIP

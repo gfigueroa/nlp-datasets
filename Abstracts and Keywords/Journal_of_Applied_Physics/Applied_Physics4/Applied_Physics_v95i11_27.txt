@@ -1,0 +1,7 @@
+We investigate the statistical distribution of separation time ”T between the adjacent two Barkhausen jumps in Co films having the thickness ranging from 5 to 50 nm. By means of a magneto-optical microscope magnetometer, we determine the time-dependent magnetization curve and the separation time ”T between two jump events during avalanche process from the directly observed time-resolved domain evolution patterns. Through a statistical analysis of ”T, we find that the distribution P(”T) seems to follow a power-law behavior with the same form within the error range, irrespective of the film thickness. © 2004 American Institute of Physics. 
+
+cobalt
+magnetic thin films
+Barkhausen effect
+magneto-optical effects
+magnetisation

@@ -1,0 +1,8 @@
+We have performed femtosecond pump-probe spectroscopy measurements in 1,1-diethyl- 3,3-bis(4-sulfobutyl)-5,5,6,6-tetrachlorobenz imidazolocarbocyanine (also known as TDBC) J aggregates adsorbed onto silver colloidal surfaces. We show that the dependence on probe power and wavelength of the induced emission band dynamics, intensity, and position can only be explained by assuming stimulated emission from the one-exciton state. The stimulated emission originates from the amplification of the one-exciton state emission by an induced transition from the two-exciton state to the one-exciton state. One of the key causes of the stimulated emission is the formation of coherently coupled TDBC molecules on colloidal silver surfaces. © 2003 American Institute of Physics. 
+
+silver
+organic compounds
+adsorbed layers
+time resolved spectra
+stimulated emission
+excitons

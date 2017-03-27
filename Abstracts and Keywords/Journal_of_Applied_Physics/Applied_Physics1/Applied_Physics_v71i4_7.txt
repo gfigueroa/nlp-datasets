@@ -1,0 +1,11 @@
+Values for impact ionization coefficients are calculated from the electron momentum distribution function. The distribution function is found by solving the Boltzmann transport equation. The solution is obtained by combining a thirdorder Legendre polynomial expansion with numerical methods which employ finite differences and sparsematrix algebra. The calculated values for impact ionization agree with experiment and Monte Carlo simulations. Results obtained while using three versus two Legendre polynomials are compared. Calculations performed using three Legendre polynomials predict one half the impact ionization rate given by similar calculations using only two polynomials. Calculations predict that phonon scattering plays a much more significant role in carrier transport than does impact ionization. 	
+
+ELECTRIC CONDUCTIVITY
+BOLTZMANN EQUATION
+FIELD IONIZATION
+LEGENDRE POLYNOMIALS
+IMPACT PHENOMENA
+PHONONS
+SCATTERING
+DISTRIBUTION FUNCTIONS
+SERIES EXPANSION

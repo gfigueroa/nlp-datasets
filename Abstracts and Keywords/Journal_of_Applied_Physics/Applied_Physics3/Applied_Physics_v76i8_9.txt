@@ -1,0 +1,7 @@
+The MieGrüneisen equation of state (EOS) is further examined for restrictions upon the form of the Grüneisen parameter, which is given as a function of volume and relates the pressure and energy changes at constant volume. Employing basic thermodynamic rules and applying them to the MieGrüneisen EOS, a more restrictive condition is offered for the Grüneisen parameter, which extends previous work on the subject.
+
+EQUATIONS OF STATE
+GRUENEISEN CONSTANT
+THERMODYNAMICS
+STABILITY
+HUGONIOTS

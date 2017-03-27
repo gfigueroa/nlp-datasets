@@ -1,0 +1,14 @@
+Magnetic anisotropy of amorphous (Fe0.06Co0.94)72.5Si12.5B15 wire induced by current annealing under applied stress is investigated. The anisotropy constant is determined either from the axial or circular ac hysteresis loop, depending on the sign of the anisotropy constant. At low annealing temperatures and short annealing times weak easywireaxis anisotropy is observed. With increasing time and temperature of annealing hardwireaxis anisotropy develops. Relaxation annealing without stress causes change of the sign of anisotropy constant. The induced anisotropy, however, is fully reversible indicating that plastic strain does not contribute to creepinduced magnetic anisotropy. A simple bondorientationalanisotropy model, proposed to explain the observed behavior, assumes that competition between opposite contributions of two different kinds of excess atomic bonds is responsible for creepinduced anisotropy of this alloy.
+
+COBALT BASE ALLOYS
+SILICON ALLOYS
+BORON ALLOYS
+IRON ALLOYS
+QUATERNARY ALLOYS
+WIRES
+AMORPHOUS STATE
+MAGNETIC ANISOTROPY
+STRESSES
+HYSTERESIS
+ANNEALING
+FERROMAGNETIC MATERIALS

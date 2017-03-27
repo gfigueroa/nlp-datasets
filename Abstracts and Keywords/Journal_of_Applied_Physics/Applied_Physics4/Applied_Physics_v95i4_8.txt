@@ -1,0 +1,11 @@
+We report the anomalous positive magnetoresistance (PMR) in CoxC1x granular films prepared on Si(100) substrates by pulsed laser deposition method. A much larger positive MR, up to 22% at magnetic field B=1	T and x=2	at.
+%, is observed at room temperature than at low temperature. Interestingly, the room-temperature response has a B2/3 dependence when B&lt;1	T and a B1/2 dependence when B&gt;1	T. Different from the low-temperature PMR, the room-temperature PMR are related with the Si(100) substrates. Furthermore, we show that the intrinsic positive MR at low temperature arise from shrinkage of the wave functions of localized electronic states, while the extrinsic MR effects of the CoxC1x/Si structure are obviously determined by another mechanism, which may exist in other similar structures. This in turn has important implications for the optimization of such materials. © 2004 American Institute of Physics. 
+
+cobalt compounds
+silicon
+pulsed laser deposition
+magnetoresistance
+wave functions
+granular materials
+magnetic thin films
+localised states

@@ -1,0 +1,6 @@
+Several studies have exploited the properties of Voronoi diagrams to improve the efficiency of variations of the nearest neighbor search on stored datasets. However, the significance of Voronoi diagrams and their basic building blocks, Voronoi cells, has been neglected when the geometry data is incrementally becoming available as a data stream. In this paper, we study the problem of Voronoi cell computation for fixed 2-d site points when the locations of the neighboring sites arrive as a spatial data stream. We show that the non-streaming solution to the problem does not meet the memory requirements of many realistic scenarios over a sliding window. Hence, we propose AVC-SW, an approximate streaming algorithm that computes (1 + µ)-approximations to the actual exact Voronoi cell in O(º) where º is its sample size. With the sliding window model and random arrival of points, we show both analytically and experimentally that for given window size w and parameter k, AVC-SW reduces the expected memory requirements of the classic algorithm from O(w) to $$O(k \log (\frac{w}{k} + 1))$$ regardless of the distribution of the points in the 2-d space. This is a significant improvement for most of the real-world scenarios where w k k.
+
+Voronoi cell
+Spatial data stream
+Sliding window
+Approximation

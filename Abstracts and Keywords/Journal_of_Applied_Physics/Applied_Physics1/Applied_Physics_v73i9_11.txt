@@ -1,0 +1,12 @@
+Low temperature (4.2 K) photoluminescence spectroscopy (PL) measurements were performed on mercuric iodide (HgI2) crystals which were intentionally doped with copper or silver during KI etching. PL spectra obtained after these doping experiments show specific Cu and Ag features similar to those previously observed after deposition of Cu or Ag contacts on mercuric iodide crystals. The indiffusion of Cu or Ag into bulk HgI2 has also been confirmed a few days after doping. This diffusion introduces new recombination centers in the material. This work suggests that the processing steps used to fabricate mercuric iodide nuclear detectors can lead to the introduction of new defects which are detrimental to detector performance.
+
+RADIATION DETECTORS
+MERCURY IODIDES
+PHOTOLUMINESCENCE
+ETCHING
+CRYSTAL DOPING
+TEMPERATURE RANGE 00000013 K
+COPPER ADDITIONS
+SILVER ADDITIONS
+DIFFUSION
+IMPURITIES

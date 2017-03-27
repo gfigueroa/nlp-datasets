@@ -1,0 +1,10 @@
+Cooling by normal-insulatorsuperconductor junctions in external magnetic field has been studied experimentally. For all orientations of magnetic field the cooling performance correlates with the magnetic field dependent superconducting energy gap ”(H). In perpendicular orientation of magnetic field with respect to the sample plane, additional degradation of the cooling power originates from scattering of nonequilibrium quasiparticles in the superconductor on magnetic vortices. The effect is hysteretic and its magnitude depends on the shape of the superconducting probes. © 2000 American Institute of Physics. 
+
+superconducting junction devices
+cooling
+low-temperature production
+magnetic field effects
+superconducting energy gap
+quasiparticles
+superconductive tunnelling
+flux-line lattice

@@ -1,0 +1,11 @@
+A generalized Hubbard model involving two kinds of spinless fermions with different masses is proposed to explain the properties of mixedvalence compounds. An equivalence between the proposed model and an effective anisotropic antiferromagnetic Heisenberg model with external field is established in the stronginteraction limit. The groundstate energy and partition function are obtained analytically using generalized mean field theory which, for bipartite lattices, allows the system to be reduced to an equivalent twosite problem. The analytic behavior of the valence and compressibility under variation of pressure and the phase diagram in the ground state and at finite temperature are investigated. The conditions for a firstorder transition depending on the position of the f band are obtained, taking into account the effect of local hybridization between the s and f states. The known anomalies in the behavior of nf and Ç in mixedvalence systems are interpreted in analogy with the magnetization and susceptibility in the corresponding pseudospin model.
+
+MIXEDVALENCE COMPOUNDS
+HUBBARD MODEL
+MEANFIELD THEORY
+COMPRESSIBILITY
+PRESSURE EFFECTS
+PHASE DIAGRAMS
+ELECTRONIC STRUCTURE
+GROUND STATES
+PARTITION FUNCTIONS

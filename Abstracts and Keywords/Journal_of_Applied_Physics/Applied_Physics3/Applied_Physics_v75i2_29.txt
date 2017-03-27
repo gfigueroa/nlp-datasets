@@ -1,0 +1,12 @@
+A comprehensive model for Coulomb scattering in inversion layers is presented. This model simultaneously takes into account the effects of: (i) the screening of charged centers by mobile carriers, (ii) the distribution of charged centers inside the structure, (iii) the actual electron distribution in the inversion layer, (iv) the chargedcenter correlation, and (v) the effect of image charges. A Monte Carlo calculation to obtain the effective mobility of electrons in an nSi(100) inversion layer by using the model proposed for Coulomb scattering has been developed. The importance of correctly taking into account the effects above to study Coulomb scattering in inversion layers is pointed out.
+
+INVERSION LAYERS
+COULOMB SCATTERING
+MATHEMATICAL MODELS
+SCREENING
+IMAGE FORCE
+CHARGE DISTRIBUTION
+MONTE CARLO METHOD
+ELECTRON MOBILITY
+SILICON
+NTYPE CONDUCTORS

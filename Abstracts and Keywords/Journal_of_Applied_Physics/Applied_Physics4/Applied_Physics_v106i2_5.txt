@@ -1,0 +1,6 @@
+The photoelectric effects in LiNbO3 (LNO) single crystal have been systematically studied with the two kinds of LNO wafers of tilt of 10° and untilted at the ambient temperature. The ultrafast response photoelectric effect of 120 ps rise time was observed in 10° tilted LNO single crystal with a 266 nm laser pulse of 25 ps duration. The photocurrent responsivity of untilted LNO with an interdigitated electrode of 10¼m finger width and 10¼m interspacing is 17.1 mA/W under the irradiation of 300 nm wavelength UV light at 10 V bias. The noise current under sunlight is only 73 pA at 10 V bias. The experimental results suggest that the LNO single crystal is one of the promising materials for photodetectors working in UV region.
+
+lithium compounds
+photoconductivity
+photoelectricity
+ultraviolet radiation effects

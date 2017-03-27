@@ -1,0 +1,14 @@
+The dielectric properties have been determined for stoichiometric amorphous hydrogenated silicon carbide (a-SiC:H) films grown by means of the plasma-enhanced chemical vapor deposition (PECVD) technique. The dielectric constant, dielectric loss, breakdown voltage, and currentvoltage (IV) characteristics of the a-SiC:H PECVD films were systematically determined for various film thicknesses in the 901400 nm range. The PECVD a-SiC:H films exhibit not only a dielectric constant as high as 14 but also relatively high breakdown field values around 3 MV/cm. The dielectric constant of the a-SiC:H films was found to remain almost constant over all the investigated frequency range of 1 kHz to 13 MHz, while it decreases as the film thickness is diminished. The analysis of the IV characteristics of the a-SiC:H films has revealed the existence of two different conduction mechanisms depending on the applied voltages. While exhibiting an ohmic conduction in the low-field region (&lt;0.05 MV/cm), the film conduction at high fields (&gt;0.25 MV/cm) is dominated by the PooleFrenkel effect. In the low-field region, the conductivity of the a-SiC:H films was found to decrease exponentially from 1010	S/cm to about 1012	S/cm as the film thickness is increased from 90 to 1400 nm. At high fields, a thermal breakdown of the a-SiC:H films occurred at about 3 MV/cm as a consequence of thermal instabilities induced by Joule heating. The excellent dielectric properties of the PECVD a-SiC:H films are seen to be a consequence of their high density and low defect concentration. © 2003 American Institute of Physics. 
+
+silicon compounds
+dielectric thin films
+dielectric materials
+plasma CVD coatings
+permittivity
+dielectric losses
+electric breakdown
+electrical conductivity
+Poole-Frenkel effect
+amorphous state
+hydrogen
+plasma CVD

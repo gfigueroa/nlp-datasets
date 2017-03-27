@@ -1,0 +1,10 @@
+This article describes coherent gradient sensing (CGS) as an optical, full-field, real-time, nonintrusive, and noncontact technique for the measurement of curvatures and nonuniform curvature changes in filmsubstrate systems. The technique is applied to the study of curvature fields in thin Al films (6 ¼m) deposited on thin circular silicon wafers (105 ¼m) of large in-plane dimensions (50.8 mm in diameter) subjected to thermal loading histories. The loading and geometry is such that the system experiences deformations that are clearly within the nonlinear range. The discussion is focused on investigating the limits of the range of the linear relationship between the thermally induced mismatch strain and the substrate curvature, on the degree to which the substrate curvature becomes spatially nonuniform in the range of geometrically nonlinear deformation, and finally, on the bifurcation of deformation mode from axial symmetry to asymmetry with increasing mismatch strain. Results obtained on the basis of both simple models and more-detailed finite-element simulations are compared with the full-field CGS measurements with the purpose of validating the analytical and numerical models. © 2001 American Institute of Physics.
+
+substrates
+metallic thin films
+aluminium
+curvature measurement
+deformation
+internal stresses
+finite element analysis
+measurement by laser beam

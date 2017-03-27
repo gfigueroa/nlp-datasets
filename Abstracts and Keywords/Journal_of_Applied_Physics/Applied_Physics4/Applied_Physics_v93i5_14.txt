@@ -1,0 +1,9 @@
+We have fabricated organic thin-film transistors and integrated circuits based on the small-molecule organic semiconductors ±,±2-didecylquaterthiophene, ±,±2-didecylquinquethiophene, and ±,±2-didecylsexithiophene. The organic semiconductors were deposited by thermal evaporation, with solution-processed and cross linked poly-4-vinylphenol serving as the gate dielectric layer. We have found that bottom-contact devices based on these materials have better electrical performance than top-contact devices, presumably due to more efficient carrier injection from bottom contacts due to the presence of the relatively long alkyl chains substituted at the ±- and É-positions of the oligothiophene molecules. Bottom-contact transistors have carrier mobility as large as 0.5 cm2/V
+s and on/off current ratio as large as 105, and ring oscillators fabricated using bottom-contact transistors and ±,±2-didecylsexithiophene as the organic active layer have signal propagation delay as low as 30 ¼s per stage. © 2003 American Institute of Physics. 
+
+molecular electronics
+thin film circuits
+thin film transistors
+organic semiconductors
+carrier mobility
+vacuum deposited coatings

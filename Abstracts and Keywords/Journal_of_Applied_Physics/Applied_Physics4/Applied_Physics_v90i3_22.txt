@@ -1,0 +1,9 @@
+Diamond powders of different sizes were compressed at pressures up to 2.5 GPa and heated up to 1700 K. Extent of partial graphitization was estimated from x-ray diffraction and Raman scattering. For example, in the presence of water, at p=2.0
+GPa and T=1473
+K about 22% of diamond was converted into graphite. The rate of this transformation decreases in time and becomes negligibly small after about 20 min of treatment at high-pressure, high-temperature conditions. (Graphitization starts at the surface of the crystals and then graphite crystals grow in the direction perpendicular to the surface and along the surface.) Distribution of graphite on the surface of diamond crystals was obtained from Raman microimaging. © 2001 American Institute of Physics. 
+
+diamond
+graphitisation
+high-pressure effects
+Raman spectra
+X-ray diffraction

@@ -1,0 +1,6 @@
+A significantly large thermoelectric figure of merit in a bipolar semiconductor is achieved by converting it, by doping, into an essentially monopolar semiconductor. We show here, that for a bipolar semiconductor film, having a thickness smaller than the screening length, there is an alternative to doping to obtain a practically monopolar semiconductor. The electric-field effect (EFE) or the ferroelectric-field effect can be used to quench the concentration of one type of charge carriers. We show that this method is particularly suited for narrow-gap semiconductors and for semimetals, having sufficiently high dielectric permittivity. We also show that this EFE doping is free from the drawbacks of conventional doping. Our analysis demonstrates that increased values of the figure of merit are feasible. We present here the theory and the figure-of-merit calculation for typical cases of the bipolar semiconductor thermoelectric film under EFE doping. Numerical results for a film of the PbTe type are presented. © 2001 American Institute of Physics. 
+
+semiconductor thin films
+thermoelectricity
+permittivity
+electric field effects

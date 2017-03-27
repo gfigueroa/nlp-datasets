@@ -1,0 +1,11 @@
+High quality ZnTe epilayers have been grown on semi-insulating GaAs(100) substrates by hot-wall epitaxy, and the photoluminescence characteristics were investigated. The free exciton binding energy is found to be 12.7 meV and the free exciton reduced mass to be 0.095m0 from the clearly resolved excitonic peaks. From the temperature dependence of the free exciton line, the room temperature energy gap of ZnTe epilayer is found to be 2.278 eV. The longitudinal optical phonon energy from the resonance Raman shift is determined as 26.2 meV. The binding energy of the exciton bound to the neutral acceptor is found to be 4.9 meV. The temperature dependence of the bound exciton peak intensity is explained with a two-step thermal quenching mechanism. Deep level emissions such as donoracceptor pair emission, Y-band, and oxygen-bound emission are also studied. © 2001 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+vapour phase epitaxial growth
+CVD coatings
+photoluminescence
+binding energy
+excitons

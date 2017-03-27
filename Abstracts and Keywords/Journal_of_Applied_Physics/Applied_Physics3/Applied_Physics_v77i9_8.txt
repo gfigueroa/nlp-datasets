@@ -1,0 +1,14 @@
+In order to obtain 100% biepitaxial 45° grain boundary junctions of YBa2Cu3Ox (YBCO), we have systematically examined the inplane epitaxy of CeO2 films grown on MgO substrates. The inevitable presence of CeO2[110]%MgO[100] causes mixtures of inplane rotation of 0° and 45° between YBCO/CeO2/MgO and YBCO/MgO. We have further developed a new structure, namely YBCO/CeO2/Yttriastabilized ZrO2/MgO and YBCO/MgO boundary, so that 100% inplane rotation of 45° can be routinely obtained. The model of the inplane epitaxial relationship between the multilayers using near coincident site lattices was proposed. The critical current density of the junctions made on the boundary is 3×103 A/cm2 at 77 K, while the order of the Jc of YBCO films on both sides of the grain boundary is 106 A/cm2. The currentvoltage characteristics of the junctions show resistively shunted junction behavior. The better epitaxy of our new structure can lead to a better control of grain boundary critical current density. © 1995 American Institute of Physics.
+
+SUPERCONDUCTING JUNCTIONS
+GRAIN BOUNDARIES
+EPITAXY
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+CERIUM OXIDES
+CRITICAL CURRENT
+IV CHARACTERISTIC
+MULTILAYERS
+HIGHTC SUPERCONDUCTORS
+XRD

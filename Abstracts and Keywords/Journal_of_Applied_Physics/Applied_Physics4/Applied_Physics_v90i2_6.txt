@@ -1,0 +1,9 @@
+A gauge invariant quantum kinetic equation which includes impact ionization, intracollisional field effect, and collisional broadening is derived in the frame of nonequilibrium Greens functions. We obtain analytical expressions for the impact ionization rate. For the wide band gap material ZnS, a substantial increase of the rate due to collisional broadening is obtained for moderate field strengths E}500
+kV/cm. © 2001 American Institute of Physics.
+
+semiconductors
+zinc compounds
+II-VI semiconductors
+wide band gap semiconductors
+impact ionisation
+Green's function methods

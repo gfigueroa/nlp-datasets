@@ -1,0 +1,6 @@
+We investigate the form birefringence due to photoinduced one- and two-dimensional volume index gratings in DuPont photopolymers. The effective medium theory has been applied to the continuous volume subwavelength gratings. With the presence of a one-dimensional volume subwavelength grating, the originally isotropic photopolymer exhibits a negative form birefringence and behaves like a uniaxial dielectric. A form birefringence of 1.2×103 at »=632.8 nm is measured at a grating period of ›=447 nm. Experimental results on the dispersion of the form birefringence versus the illumination wavelength and the grating period are presented. With the presence of a two-dimensional grating, in general, the originally isotropic photopolymer exhibits a biaxial form birefringence and behaves like a biaxial dielectric. Positive form birefringence can also be obtained by recording two volume gratings with different grating wave vectors. By recording two photoinduced volume gratings we can synthesize biaxial dielectrics with the principal axes along any desired directions. We also report the measured principal refractive indices of the medium due to the presence of two-dimensional volume gratings in DuPont photopolymer. © 1997 American Institute of Physics. 
+
+optical polymers
+diffraction gratings
+birefringence
+holographic gratings

@@ -1,0 +1,6 @@
+In low-energy-electron transmission spectra of monolayer films of various organic-semiconductor molecules deposited on MoS2 and graphite surfaces, we found that the energy positions of spectral minima are proportional to (n+1/2)2, where n is positive integer and 0, independent of molecules and substrates. Despite the complex structure of each molecule, the (n+1/2)2 rule can be simply explained by the interference of an excess electron passing through the potential of the monolayer on the substrate. Using these results, we estimated the effective potential, the potential width and depth, of the monolayer felt by the injected excess electron. © 2002 American Institute of Physics. 
+
+electron spectra
+monolayers
+organic semiconductors
+semiconductor thin films

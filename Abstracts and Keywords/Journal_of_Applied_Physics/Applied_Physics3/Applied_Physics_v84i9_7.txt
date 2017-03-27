@@ -1,0 +1,14 @@
+The achievement of high electrical performance InAlAs/InGaAs high-electron-mobility transistors (HEMTs) grown by metalorganic chemical vapor deposition, requires the growth of a good quality InGaAs channel/InAlAs spacer interface, in order to ensure good transport properties in the two-dimensional electron gas channel. In this article, the interface quality is evaluated as a function of growth interruption time, using photoreflectance spectroscopy. The experimental and theoretical approach used for this purpose is described. Layers representative of HEMT designs, namely 250 Å InGaAs single quantum wells between InAlAs layers were used for characterization. The interface roughness is estimated from the broadening of the high order quantum confined transitions. The results obtained suggest that the higher the growth interruption time, the smaller the interface roughness. Electrical characterization results indicate good agreement with the trends observed by photoreflectance. © 1998 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+photoreflectance
+semiconductor quantum wells
+high electron mobility transistors
+interface structure
+semiconductor growth
+vapour phase epitaxial growth
+photoluminescence
+semiconductor heterojunctions

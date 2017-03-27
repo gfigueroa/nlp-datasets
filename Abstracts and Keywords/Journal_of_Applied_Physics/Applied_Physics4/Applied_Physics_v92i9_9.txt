@@ -1,0 +1,17 @@
+X-ray diffraction measurements on a 0.65 at. % Nd-doped GdCa4O(BO3)3 (Nd:GdCOB) crystal revealed a noncentrosymmetric monoclinic space group Cm with lattice parameters a=8.091±0.001, b=16.023±0.002, c=3.559±0.006
+Å, and ²=101.30±0.01°. The fitting primitive cell contained two Nd:GdCOB units. Raman data show that the characteristic spectra of Nd:GdCOB are mainly associated with BO3 triangles and partly by Ca(1)O6 octahedra, which implies that the structural rigidity of Nd:GdCOB is mainly associated with the BO bond stretching and bending modes and partly by the Ca(1)O bonds. The large distortions of the Gd/NdO6 and Ca(2)O6 octahedra intensify the polar forces and anisotropic lattice forces, which indicates excellent nonlinear properties for Nd:GdCOB. Simultaneously, the large distortions of the Gd/NdO6 octahedra also provide a suitable crystal field for the activated Nd3+ ions, with the site symmetry m lacking inversion symmetry. This condition increases the probability of the parity-forbidden f’f transitions. Also due to the greater number of anion groups in the primitive cell, this crystal would be expected to be excellent as a self-frequency doubled material. The absorption parameters calculated by JuddOfelt theory show that the transitions 4I9/2’4F5/2 and 4I9/2’2H9/2 have larger absorption cross sections and enable the laser-diode pumping band around 808 nm to be more than 30 nm in bandwidth. In the calculated luminescence parameters, the radiation 4F3/2’
+4I11/2 transition at wavelength of 1060 nm has the largest fluorescence branch-ratio and differential stimulated-emission cross section. © 2002 American Institute of Physics. 
+
+neodymium
+gadolinium compounds
+calcium compounds
+X-ray diffraction
+light absorption
+fluorescence
+Raman spectra
+space groups
+lattice constants
+bonds (chemical)
+crystal field interactions
+impurity states
+stimulated emission

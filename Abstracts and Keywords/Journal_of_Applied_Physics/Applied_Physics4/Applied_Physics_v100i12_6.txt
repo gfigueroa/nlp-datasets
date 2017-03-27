@@ -1,0 +1,8 @@
+Structures of small Si clusters, Sin, on surfaces of carbon nanotubes have been studied by molecular dynamics simulation. We show that the lowest-energy structures of Sin are three-dimensional clusters rather than thin Si sheets covering the surface of a nanotube. As n increases from 10 to 30, Sin undergoes structural transitions from a tentlike structure (with nanotube surface as its base) to a cagelike structure (without interior atoms) and further to a spherical compact structure (with interior atoms). Our results are different from the structures of small Si clusters found in a free space without Si-nanotube interaction.
+
+silicon
+elemental semiconductors
+atomic clusters
+carbon nanotubes
+molecular dynamics method
+solid-state phase transformations

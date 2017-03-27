@@ -1,0 +1,13 @@
+The dark current of bulk-heterojunction photodiodes consisting of a blend of a methanofullerene (PCBM) as n-type electron acceptor and a dialkoxy-(p-phenylene vinylene) (OC1C10PPV) as a p-type electron donor sandwiched between electrodes with different work functions has been investigated. With ohmic contacts for hole and electron injection, the dark current appears completely dominated by the electron current in the PCBM, as a result of a much higher electron mobility. This electron current is bulk space-charge limited. With Au as a high work function metal, the electron current becomes injection limited. The injection-limited electron current from the Au electrode into PCBM is explained within a thermally assisted hopping model. In spite of the presence of an injection barrier of about 0.76 eV, the injection-limited electron current from a Au electrode into PCBM still exceeds the bulk-limited hole current in OC1C10PPV. © 2003 American Institute of Physics. 
+
+dark conductivity
+photodiodes
+work function
+ohmic contacts
+space-charge-limited conduction
+hopping conduction
+fullerene compounds
+gold
+electron mobility
+conducting polymers
+organic semiconductors

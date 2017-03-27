@@ -1,0 +1,10 @@
+Raman and optical experiments have been performed on a lead zinc niobate [Pb(Zn1/3Nb2/3)O3 or PZN] single crystal oriented along (111) under zero-field cooling, and zero-field heating after field cooling conditions. At high temperature, the Raman spectra originate from a phononpolarization coupling whose selection rules depend upon the wave vector of the quasistatic polarization, and that activates modes in the entire Brillouin zone. At room temperature, ferroelectric macrodomains were induced and stabilized under field cooling conditions. Their optically uniaxial behavior along [111] reflects a rhombohedral orientational order. However, Raman analysis shows that a zone center line assignment on the basis of the C3v point group is not appropriate, because of translational symmetry breaking due to chemical and structural disorder. Raman spectroscopy was also performed on a single crystalline sample of PZN oriented along (001). Raman measurements evidence the similarity of the spectra for both crystals in the paraelectric phase. This confirms the idea of a second order-like process. At room temperature, this crystal configuration, with a dc electric field parallel to [001], is found according to Raman experiments to give way to an equivalent distribution of the four rhombohedral domains selected by the applied electric field. © 2001 American Institute of Physics.
+
+lead compounds
+ferroelectric materials
+crystal structure
+Raman spectra
+phonon spectra
+light polarisation
+Brillouin zones
+electric domains

@@ -1,0 +1,7 @@
+The nucleation of silicides was examined by transmission electron microscopy in a YSi reaction system, in which the Y layer was deposited on the Si substrate at 330
+°C. It was revealed that the amorphization due to alloying took place and the concentration gradient was formed over the alloying layer during deposition. A hexagonal YSi2 phase and a cubic Y5Si3 metastable phase were observed at the layer adjoining the Si substrate and at the midmost region of the alloying layer, respectively. This result was interpreted in the light of the proposed phenomenological theory that the silicide phases were nucleated from the amorphous alloys with suitable compositions within the formed concentration gradient. © 1999 American Institute of Physics. 
+
+yttrium compounds
+transmission electron microscopy
+nucleation
+amorphisation

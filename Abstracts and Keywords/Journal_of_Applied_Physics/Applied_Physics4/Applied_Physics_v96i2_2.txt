@@ -1,0 +1,7 @@
+Ions in cathodic arc plasmas have high velocities attained by acceleration at cathode spots. Among other techniques, two time-of-flight setups had previously been used to determine ion velocities. These measurements showed significant discrepancies especially for some light cathode materials like carbon. To reconcile the differences, a thorough investigation was conducted using carbon as the cathode material. It is shown that systematic errors occur when the ion source time-of-flight system is not operated near perveance-matching conditions. The extracted ion beam is not parallel but divergent, and the Faraday cup detector measures only a fraction of the beam. In contrast, plasma source experiments without ion extraction are free of such distortions. In the absence of an external magnetic field, the average carbon ion energy has been determined to be in the range 18.520.5 eV for arc currents in the range 100600 A, in agreement with previous plasma source measurements and other literature data. © 2004 American Institute of Physics. 
+
+carbon
+vacuum arcs
+ion mobility
+cathodes
+ion beam effects

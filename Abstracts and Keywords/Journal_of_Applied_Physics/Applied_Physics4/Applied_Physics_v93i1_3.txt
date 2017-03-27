@@ -1,0 +1,13 @@
+Measurement of optical properties such as the refractive index and thickness of nanocrystalline or smooth diamond films is carried out by the prism coupling technique. The films observed to be absorbing for a standard operating wavelength of 633 nm and higher wavelengths, i.e., 830 and 1300 nm, were used to obtain sharp guided modes and the refractive index and thickness of the films could be measured independently with high accuracy. The index of the nanocrystalline diamond films was found to be homogeneous within the films with negligible changes observed at the filmsubstrate interface. Information on absorption was also obtained from the half width of the guided modes and was correlated to the graphitic concentration of the films measured by Raman spectroscopy. The thickness measured by the prism coupling technique was found to be in agreement with the thickness measured by cross-sectional transmission electron microscopy. The overall results indicate that the prism coupling technique can be very useful for rapid, easy accurate measurement of the refractive index and thickness of smooth diamond films. © 2003 American Institute of Physics. 
+
+diamond
+semiconductor thin films
+elemental semiconductors
+nanostructured materials
+refractive index
+refractive index measurement
+thickness measurement
+measurement errors
+optical prisms
+Raman spectra
+optical losses

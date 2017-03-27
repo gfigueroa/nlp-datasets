@@ -1,0 +1,11 @@
+We report on the thermal evolution of the deep levels in Fe implanted and annealed InP. The position and nature of the dominant traps have been assessed by current-voltage-temperature measurements analyzed in the framework of the space-charge-limited current model. For low temperature annealing the conduction properties of the material are controlled by a damage-related donor located at EC0.21eV. A deep donordeep acceptor electrical compensation mechanism has been assessed after high temperature annealing. The dominant traps are located at EC0.55eV and EV+0.72eV. The latter is associated with the Fe2+/3+ center which is responsible for the semi-insulating properties.
+
+annealing
+deep levels
+electron traps
+hole traps
+III-V semiconductors
+impurities
+indium compounds
+iron
+space charge

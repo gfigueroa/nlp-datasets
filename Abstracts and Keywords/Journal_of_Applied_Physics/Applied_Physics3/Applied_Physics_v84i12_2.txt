@@ -1,0 +1,17 @@
+In this study the material properties of metallic alloys were evaluated at different stages of reaction to H2Se/Ar. Precursors of identical composition (Cu/In atomic ratio = 0.96) were considered and the temperature was rapidly (in 2 min) increased to the specific selenization temperature (i.e., 200, 300, 400, and 600
+°C). The composition of the films remained virtually unchanged when selenized at low temperatures below 400
+°C. The material properties of these films were dominated by the presence of binary phases and photoluminescence (PL) studies revealed the presence of only one broad transition around 0.83 eV. Structural analysis revealed a significant increase in the Cu/In atomic ratio with associated Cu-selenide secondary phases and inhomogeneous film morphologies in the case of samples selenized at temperatures around 400
+°C. In this case, PL studies revealed relatively sharp and well-defined transitions which are typical for Cu-rich films. The most significant result that followed from this study is the vast improvement in the material quality of films rapidly heated and selenized at elevated temperatures above 400
+°C. Scanning electron microscopy and x-ray diffraction studies revealed homogeneous and dense films with no evidence of secondary phases. Even more important, energy dispersive x-ray spectroscopy measurements indicated no change in the initial composition of samples selenized under these conditions (at temperatures above 400
+°C while ramping the temperature in 2 min to the specific reaction temperature). The high material quality of these films was also confirmed by PL studies, revealing only one broad transition at 0.932 eV which is generally reported for device quality material. It is suggested that the rapid heating of samples and subsequent quick passage through the critical temperature range around 400
+°C is responsible for the improved material properties of these selenized films. © 1998 American Institute of Physics. 
+
+copper compounds
+indium compounds
+ternary semiconductors
+photoluminescence
+scanning electron microscopy
+vacuum deposition
+X-ray chemical analysis
+X-ray diffraction
+rapid thermal annealing

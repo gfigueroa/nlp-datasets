@@ -1,0 +1,9 @@
+The resonance modes and the related effects to the transmission of elastic waves in a two dimensional phononic crystal formed by periodic arrangements of a two block unit cell in one direction are studied. The unit cell consists of two asymmetric elliptic cylinders coated with silicon rubber and embedded in a rigid matrix. The modes are obtained by the semianalytic method in the least square collocation scheme and confirmed by the finite element method simulations. Two resonance modes, corresponding to the vibration of the cylinder along the long and short axes, give rise to resonance reflections of elastic waves. One mode in between the two modes, related to the opposite vibration of the two cylinders in the unit cell in the direction along the layer, results in the total transmission of elastic waves due to zero effective mass density at the frequency. The resonance frequency of this mode, which has not yet been identified before, changes continuously with the orientation angle of the elliptic resonator.
+
+elastic waves
+finite element analysis
+optical resonators
+photonic crystals
+rubber
+shapes (structures)
+vibrations

@@ -1,0 +1,13 @@
+The possibility of microwave and millimeter wave generation using nonlinear differencefrequency mixing of optical lasers in an asymmetric quantum well (QW) is examined. In principle, this method imposes no limit on the frequency of generated microwave signals. It is shown that these structures are particularly suitable for enhancing the susceptibility of differencefrequency generation, Ç(2)(©;É1,É2); this originates from the ability to tune the fundamental photon energies É1 and É2 to valenceconduction subband transitions, while © is tuned to intervalence and interconduction subband transitions. Under such conditions, the existence of a broad resonant enhancement region of Ç(2), which is closely associated with the QW band structure is demonstrated. Enhancements of Ç(2)xzx and Ç(2)zxx exceeding 10 and 104 times over the bulk values are predicted, respectively.
+
+QUANTUM DOTS
+OPTICAL MIXING
+MICROWAVE RADIATION
+MILLIMETER WAVE RADIATION
+RADIATION SOURCES
+OPTICAL SUSCEPTIBILITY
+FREQUENCY MIXING
+TUNING
+ENERGYLEVEL TRANSITIONS
+RESONANCE
+BAND STRUCTURE

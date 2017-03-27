@@ -1,0 +1,10 @@
+We have studied the effects of an uniaxial stress on the binding energy of a shallow donor impurity in a parallelepiped-shaped GaAs(Ga,Al)As quantum dot. In the calculations we have used a variational technique within the effective-mass approximation. The stress was applied in the z direction and the donor impurity was located at various positions along the z axis. Our results show that the donor binding energy increases with increasing stress and for decreasing sizes of the quantum dot. Also, we have found that the binding energy for various values of the donor position along the z axis for constant quantum well box size increases with the proximity of the impurity to the center of the structure. Moreover, we obtain the shallow-donor binding energies as functions of uniaxial stress in the limit in which the quantum dot turns into either a quantum well or a quantum-well wire. © 2001 American Institute of Physics. 
+
+binding energy
+impurity states
+III-V semiconductors
+gallium arsenide
+aluminium compounds
+semiconductor quantum dots
+variational techniques
+effective mass

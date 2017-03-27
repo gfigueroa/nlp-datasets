@@ -1,0 +1,10 @@
+The cathodoluminescence of single crystals of CuInSe2 obtained by meltgrown and iodine chemical transport was studied. Asgrown crystals and crystals annealed in Se, In, or in a vacuum were used. We show the emission intensity decreases when the conductivity changes from n to p and then increases due to the decrease of the number of donors created by Se vacancies. We also show that two donor levels (60 and 80 meV) are introduced by the Se vacancy probably associated with impurities, and that the cation (probably Cu) vacancy causes an acceptor level at 40 meV. Another acceptor level is also determined, having a binding energy s80 meV.
+
+copper selenides
+indium selenides
+donors
+vacancies
+acceptors
+annealing
+crystal growth from melts
+impurities

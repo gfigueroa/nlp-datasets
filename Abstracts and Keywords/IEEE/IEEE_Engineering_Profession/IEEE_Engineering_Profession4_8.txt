@@ -1,0 +1,6 @@
+Modular inverters are suitable for grid integration of renewable power such as solar and wind with reduced power losses, improved power quality, and high reliability. Also, it allows the integration of renewable energy to the grid without the need for interfacing transformer. This paper investigates the dynamics behaviour of a five-level modular inverter connected to the grid when subjected to major transient events, such as loss of major load and AC faults. The paper uses the results obtained from the simulations conducted in Matlab-Simulink to demonstrate the resiliency of the modular inverters to major transient events.
+
+Diode-clamped inverter
+fault ride-through capability
+modular inverter
+pulse width modulation

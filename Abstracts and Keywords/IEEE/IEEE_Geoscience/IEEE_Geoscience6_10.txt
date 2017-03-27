@@ -1,0 +1,6 @@
+Worldwide, higher-order modulation formats are intensively investigated to further increase spectral efficiency for building next generation optical transport networks. Coherent receivers and digital electronic equalizers are hereby discussed as the key enablers for applying very high spectral efficient wavelength division multiplexed (WDM) signals in future optical backbone networks. We review current research on application of higher-order modulation formats with coherent detection and electronic distortion equalization (EDE).
+
+coherent detection
+electronic distortion equalization
+fiber loop experiments
+modulation formats

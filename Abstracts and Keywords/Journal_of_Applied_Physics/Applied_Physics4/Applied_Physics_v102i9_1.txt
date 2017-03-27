@@ -1,0 +1,6 @@
+Germanium nanocrystals embedded in amorphous silicon and self-organized on a tunnel silicon dioxide layer thermally grown on (100) p-doped silicon substrate have been electrically studied at different temperatures by using current-voltage and capacitance-voltage measurements. Results showed a carrier exchange between the gate and isolated germanium nanocrystals via amorphous silicon. Hysteresis loops observed in the capacitance-voltage curves were attributed to electron injectionemission process in germanium nanocrystals, which indicated a memory effect behavior. Resonant tunneling effect through germanium nanocrystals with large voltage gaps was observed at room temperature in these ultradense Ge nanocrystals of < 3.5nm mean size. It appeared for increasingly low voltages when the temperature decreases. All these results are consistent with a Coulomb blockade effect in ultrasmall Ge nanocrystals in which an effective number of electrons transported by each tunneling step varied between 1.8 and 3.81.
+
+Coulomb blockade
+elemental semiconductors
+germanium
+nanostructured materials

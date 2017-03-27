@@ -1,0 +1,7 @@
+Companies frequently outsource datasets to mining firms, and academic institutions create repositories or share datasets in the interest of promoting research collaboration. Still, many practitioners have reservations about sharing or outsourcing datasets, primarily because of fear of losing the principal rights over the dataset. This work presents a way of convincingly claiming ownership rights over a trajectory dataset, without, at the same time, destroying the salient dataset characteristics, which are important for accurate search operations and data-mining tasks. The digital watermarking methodology that we present distorts imperceptibly a collection of sequences, effectively embedding a secret key, while retaining as well as possible the neighborhood of each object, which is vital for operations such as similarity search, classification, or clustering. A key contribution in this methodology is a technique for discovering the maximum distortion that still maintains such desirable properties. We demonstrate both analytically and empirically that the proposed dataset marking techniques can withstand a number of attacks (such a translation, rotation, noise addition, etc) and therefore can provide a robust framework for facilitating the secure dissemination of trajectory datasets.
+
+Trajectories
+Time-series
+Watermarking
+Rights protection
+Nearest neighbors

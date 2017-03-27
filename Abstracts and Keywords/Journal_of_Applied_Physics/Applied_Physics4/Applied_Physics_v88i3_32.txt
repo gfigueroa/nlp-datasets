@@ -1,0 +1,16 @@
+Photoluminescence (PL) and Raman spectra of silicon nanocrystals prepared by Si ion implantion into SiO2 layers on Si substrate have been measured at room temperature. Their dependence on annealing temperature was investigated in detail. The PL peaks observed in the as-implanted sample originate from the defects in SiO2 layers caused by ion implantation. They actually disappear after thermal annealing at 800
+°C. The PL peak from silicon nanocrystals was observed when thermal annealing temperatures are higher than 900
+°C. The PL peak is redshifted to 1.7 eV and the intensity reaches maximum at the thermal annealing temperature of 1100
+°C. The characterized Raman scattering peak of silicon nanocrystals was observed by using a right angle scattering configuration. The Raman signal related to the silicon nanocrystals appears only in the samples annealed at temperature above 900
+°C. It further proves the formation of silicon nanocrystals in these samples. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+photoluminescence
+Raman spectra
+nanostructured materials
+ion implantation
+annealing
+red shift
+spectral line intensity
+semiconductor quantum dots

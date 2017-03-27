@@ -1,0 +1,10 @@
+Amorphous Ta2O5 films were deposited by low pressure chemical vapor deposition (LPCVD) and plasma enhanced chemical vapor deposition (PECVD) at temperatures below 450
+°C. These films were used to fabricate metaloxidemetal (MOM) structures with titanium nitride (TiN) electrodes. The electrical properties of the MOM capacitance were investigated by the means of currentvoltage and capacitancevoltage characteristics in the 100 Hz1 MHz frequency range. It is shown that the conduction mechanism changed from Schottky emission, for the LPCVD material, to PooleFrenkel current for the PECVD material. The roughness of the bottom electrode, as determined by atomic force microscopy measurements, is found to impact the leakage current. For the LPCVD material the capacitance exhibits a strong dependency on the applied bias and the frequency. For the PECVD material, only a small variation of the capacitance is observed when the bias is increased, with almost no frequency dependency. A clear correlation between the capacitance variation and the current density is demonstrated. As far as the current density is lower than 0.1A/cm2, the capacitance is almost constant. For a higher current density the capacitance increases exponentially. Transmission electron microscope observations have shown that the Ta2O5 films are homogeneous in-depth. Consequently, the capacitance variations could not be explained by interfacial polarization (MaxwellWagner mechanism). We suggest a model that well explains the observed capacitance variations. This model is based on the relaxation of the free carriers and the nonlinear Kerr effect (dipolar relaxation). A good fit of the experimental results is obtained by summing both contributions (free carrier relaxation and Kerr effect). For the LPCVD material, the carrier relaxation is found to be the predominant process. For the PECVD material, which exhibits lower leakage current than the LPCVD material, the Kerr effect is the predominant mechanism. © 2001 American Institute of Physics. 
+
+tantalum compounds
+insulating thin films
+CVD coatings
+MIM structures
+Schottky effect
+plasma CVD coatings
+carrier relaxation time

@@ -1,0 +1,12 @@
+The fastdecay component of the retained polarization in lead zirconate titanate ferroelectric capacitors was examined as a function of write/read voltage, number of cycles (fatigue), and temperature. The percentage of polarization loss within 1 s after the write pulse was found to be independent of the write/read voltage and only somewhat dependent upon the number of read/write cycles and temperature. A preliminary model is presented based on depolarizing fields within the ferroelectric due to nonswitching layers at the top and bottom interfaces.
+
+PZT
+THIN FILMS
+POLARIZATION
+DECAY
+CAPACITORS
+FERROELECTRIC MATERIALS
+MEMORY DEVICES
+SWITCHING
+FATIGUE
+MATHEMATICAL MODELS

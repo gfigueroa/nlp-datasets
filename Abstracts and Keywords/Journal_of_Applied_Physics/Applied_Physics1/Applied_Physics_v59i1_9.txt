@@ -1,0 +1,12 @@
+The nanosecond timescale developing mechanisms of positive and negative corona streamers on the insulation surface are investigated using a square pulse generator and the Lichtenberg figure technique. The developing length of the corona streamers in air is measured at a pulse duration of 3 ns, an applied voltage of 720 kV, and a gas pressure of 150760 Torr. The results are compared with those obtained in the time range of 5920 ns. The ratio of the developing length obtained at a certain pressure and that obtained at atmospheric pressure becomes a constant value irrespective of the magnitude of the applied voltage, and it increases as the gas pressure is reduced. The time lag of corona streamer inception increases with decreasing pressure. The time lag for the negative corona streamer obtained at a voltage of 20 kV is 0.1 ns at atmospheric pressure and 0.35 ns at a pressure of 150 Torr, while that for the positive corona streamer obtained at the same voltage, is 0.55 ns at the atmospheric pressure and 1.0 ns at the pressure of 150 Torr. From the results of the developing length and the time lag, the velocity of corona streamer development is estimated. The observed maximum velocity of the negative corona streamer is 8.4×108 cm/s at the conditions of 20 kV and 150 Torr and that of the positive corona streamer is 1.5×109 cm/s at the same conditions except for the polarity of the voltage.
+
+SURFACES
+CORONA DISCHARGES
+ELECTRIC POTENTIAL
+VAPOR PRESSURE
+NS RANGE
+VELOCITY
+ELECTRICAL INSULATORS
+ELECTRODES
+PULSE GENERATORS
+AIR

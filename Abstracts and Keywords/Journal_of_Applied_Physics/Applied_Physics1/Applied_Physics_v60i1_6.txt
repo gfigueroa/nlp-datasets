@@ -1,0 +1,14 @@
+The buildup of interface states in AlSiO2Si metaloxidesemiconductor capacitors following exposure to pulsed electronbeam irradiation has been previously shown to be a twostage process. In the present work, we further examined the buildup by varying the field across the oxide during the early (1061 s) stage. The number of interface states that eventually result from irradiation is found to depend primarily upon the electric field present in the oxide while the radiationgenerated holes are transporting through the oxide and not upon the field present while the electronhole pairs are being created (during the radiation pulse). The results indicate that the holes are primarily responsible for the interface state buildup and imply that they initiate interface state production during the transport stage by generating or activating a precursor state or species in the oxide.
+
+INTERFACE STATES
+MOS JUNCTIONS
+PHYSICAL RADIATION EFFECTS
+HOLES
+ELECTRONIC STRUCTURE
+CAPACITORS
+CHARGEDPARTICLE TRANSPORT
+SEMICONDUCTOR JUNCTIONS
+ALUMINIUM
+SILICA
+SILICON
+ELECTRON BEAMS

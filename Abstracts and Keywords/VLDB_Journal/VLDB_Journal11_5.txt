@@ -1,0 +1,7 @@
+This paper describes the overall design and architecture of the Timber XML database system currently being implemented at the University of Michigan. The system is based upon a bulk algebra for manipulating trees, and natively stores XML. New access methods have been developed to evaluate queries in the XML context, and new cost estimation and query optimization techniques have also been developed. We present performance numbers to support some of our design decisions. We believe that the key intellectual contribution of this system is a comprehensive set-at-a-time query processing ability in a native XML store, with all the standard components of relational query processing, including algebraic rewriting and a cost-based optimizer.
+
+Algebra
+Document management
+Hierarchical
+Query processing
+Semi-structured

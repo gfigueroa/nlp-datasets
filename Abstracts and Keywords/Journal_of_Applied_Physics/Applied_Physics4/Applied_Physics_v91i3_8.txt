@@ -1,0 +1,12 @@
+Fe ions were implanted into Ge (110) using a metal vapor vacuum arc ion source. The samples were characterized by Rutherford backscattering spectrometry (RBS), Auger electron spectroscopy (AES), x-ray photoelectron spectroscopy (XPS), transmission electron microscopy (TEM), and superconducting quantum interference device magnetometry. The crystalline quality of the implanted layer was identified by RBS random/channeling measurements. The depth profile of the implanted Fe ions was obtained by AES. Low dose implantation causes formation of FeGe precipitates whereas high dose implantation causes formation of Fe precipitates in the implanted layer as confirmed by TEM and XPS measurements. Magnetic measurements show the superparamagnetism of the Fe and FeGe clusters at high temperatures. © 2002 American Institute of Physics. 
+
+iron alloys
+germanium alloys
+superparamagnetism
+ion implantation
+precipitation
+Rutherford backscattering
+X-ray photoelectron spectra
+channelling
+Auger electron spectra
+transmission electron microscopy

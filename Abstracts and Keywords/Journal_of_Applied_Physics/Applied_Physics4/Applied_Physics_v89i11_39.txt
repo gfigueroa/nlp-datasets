@@ -1,0 +1,7 @@
+We examine the spin dynamics of a classical spin system coupled with a double exchange interaction cos(¸/2). The spin wave spectrum of the system displays anomalously weak temperature dependence. This behavior is first demonstrated in an exact calculation of a two-spin system. A leading order spin wave calculation also gives a vanishing change in the spectrum with temperature. A spin dynamics simulation confirms that while dynamical structure factor peaks broaden with temperature, their position does not shift downward. These results may help to explain the slower reduction of spin stiffness in colossal magnetoresistance materials as temperature increases. © 2001 American Institute of Physics. 
+
+spin dynamics
+colossal magnetoresistance
+spin waves
+spin systems
+exchange interactions (electron)

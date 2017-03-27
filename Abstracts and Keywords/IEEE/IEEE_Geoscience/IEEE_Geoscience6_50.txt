@@ -1,0 +1,7 @@
+In this paper, we analyse the evolution of the VoD and TV supply in France, and in particular the effect of the launch of IPTV systems. Firstly, the launch of attractive triple-play offers has induced a strong development of the French broadband Internet access market, which in turn has resulted in the entry of numerous players in the VoD market. Secondly, the adoption of IPTV system has changed the competitive and strategic positioning of main players in the VoD value-chain, thus inducing or amplifying strategic moves along this value-chain. In particular, we show how the diffusion of IPTV systems has induced a switch from complementary convergence to competitive convergence.
+
+Convergence
+IPTV
+VOD
+strategic moves
+value chain

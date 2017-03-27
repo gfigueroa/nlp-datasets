@@ -1,0 +1,13 @@
+Channeling implantations of 20 keV boron into silicon have been performed with doses between 1013 and 1016 cm2 in the [100], [110], and [211] direction, and parallel to a (111) plane. Simulations using an empirical electronic stopping model agree very well with the experimental results. The model has been obtained considering a large number of random and channeling implantations published in the literature. It contains a nonlocal and an impact parameter dependent part with the nonlocal fraction increasing with energy. Moreover, a computationally efficient damage accumulation model is presented which takes point defect recombination into account. It is found that due to interactions within a recoil cascade only 1/8 of the generated damage is stable, and that damage saturation takes place at a concentration of 4×1021 cm3. Comparison of simulations and experiments indicates that displaced atoms reside on random positions rather than on tetrahedral interstitial sites in the silicon lattice. © 1995 American Institute of Physics.
+
+SILICON
+ION IMPLANTATION
+BORON IONS
+STOPPING POWER
+KEV RANGE 10100
+ION CHANNELING
+COMPUTERIZED SIMULATION
+POINT DEFECTS
+RECOMBINATION
+DAMAGE
+INTERSTITIALS

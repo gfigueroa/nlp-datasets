@@ -1,0 +1,6 @@
+This paper extends earlier work where we showed how multiple control agents can cooperatively regulate a crowd of people with known psychological dynamics. Keeping within the framework in which each control agent is assigned a target in the crowd and seeks to regulate that one target, we prove in this paper that if there is an intersection between any pair of the shortest paths between control agents and respective targets, then stabilization will, in a well-defined sense, not be possible. This result is appealing because it directly relates the ability to stabilize a crowd to the graph structure of the underlying crowd; moreover, the intersection condition is easily checked. The paper includes several examples and implications of the main result.
+
+Behavioural science
+control systems
+cooperative systems
+graph theory

@@ -1,0 +1,10 @@
+The encapsulation of ferroelectric liquid crystal droplets in a polymer film provides a convenient method to get fast switching, flexible electrooptic light shutters. The polymerdispersed ferroelectric liquid crystal films can be formed by photopolymerization due to a polymerizationinduced phase separation. A uniform orientation of the liquid crystal is obtained by shear flow during this process. Our studies concerning the influence of the preparation parameters on the electrooptic properties show that a bistable electrooptic behavior can be achieved for high polymerization rates and low shear velocities.
+
+LIQUID CRYSTALS
+FERROELECTRIC MATERIALS
+BISTABILITY
+SWITCHING
+ELECTROOPTICAL EFFECTS
+POLYMERIZATION
+FILMS
+DROPLETS

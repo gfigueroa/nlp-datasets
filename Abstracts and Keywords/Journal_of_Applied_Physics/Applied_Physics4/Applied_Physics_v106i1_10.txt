@@ -1,0 +1,10 @@
+In this study, we have derived equations for the pyroelectric and photogalvanic contribution to the electrical charging of the photosensitive ferroelectric crystal. Standard photorefractive equations are supplemented by the equation of state for the polarization density following the DevonshireGinsburgLandau (DGL) approach. The photogalvanic voltage and current is considered for a wide intensity range, which includes the cw and the pulsed photoexcitation with high intensities when the impurity is fully ionized and when the traditional linear-recombination approach is not valid. The crystal electrostatic accelerators, based on charging of ferroelectric crystals by pyroelectric and photogalvanic effects, are discussed in relation to the generation of the self-focused electron beam, x rays, and neutrons.
+
+dielectric polarisation
+electrostatic accelerators
+equations of state
+ferroelectric materials
+Ginzburg-Landau theory
+photorefractive effect
+photovoltaic effects
+pyroelectric devices

@@ -1,0 +1,8 @@
+We evaluate effects of heterointerfaces on optical phonon modes and phonon assisted electron intersubband transition rates in step quantum well structures for intersubband lasers. Various phonon modes and electronphonon interaction Hamiltonians, including the interface modes, confined longitudinal-optical modes, and half space modes in the quantum well structures are calculated based on the macroscopic dielectric continuum model and microscopic analysis. The transfer matrix method is used to calculate the interface modes. The intersubband transition rates due to electronphonon scattering by these phonon modes are evaluated using Fermis golden rule, with the electron wave functions obtained by solving the Schrödinger equation for the heterostructures under investigation. Our results show that, compared with the transition rates in the same structures calculated using the bulk phonon modes and the bulk Fröhlich interaction Hamiltonian, the electron interfacephonon interactions give significantly larger transition rates up to an order of magnitude. Therefore, the effects of localized phonon modes, especially the interface modes, must be taken into consideration for optimal device design. © 1998 American Institute of Physics. 	
+
+semiconductor quantum wells
+electron-phonon interactions
+interface phonons
+interface states
+wave functions
+Schrodinger equation

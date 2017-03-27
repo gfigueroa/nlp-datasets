@@ -1,0 +1,15 @@
+The NdFeB and NdFeCoB magnet powders with the high coercivity (e10 kOe) were obtained by the hydrogenationdecompositiondesorptionrecombination (HDDR) process at temperatures between 800	°C and 900	°C. We studied magnetic properties and microstructures of the NdFeB systems during the HDDR process. The NdH2 phase produced by decomposition of Nd2Fe14BHx with hydrogenation exists in the mazelike form of the size of 101 ¼m. It was found that the size of the NdH2 phase determines the size of the Nd2Fe14B phase formed by the recombination. NdH2, Fe, and Fe2B are more stable than Nd2Fe14B at temperatures from 800	°C to 900	°C. The magnet powders produced by the HDDR process are magnetically almost isotropic.
+
+NEODYMIUM ALLOYS
+IRON ALLOYS
+BORON ALLOYS
+HYDROGENATION
+MAGNETIC PROPERTIES
+TERNARY ALLOYS
+MICROSTRUCTURE
+POWDERS
+DECOMPOSITION
+DESORPTION
+RECOMBINATION
+PHASE STUDIES
+PERMANENT MAGNETS

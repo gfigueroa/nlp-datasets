@@ -1,0 +1,12 @@
+The surface roughness of gallium arsenide (001) films produced by metalorganic vapor-phase epitaxy has been studied as a function of temperature and growth rate by in situ scanning tunneling microscopy. Heightheight correlation analysis reveals that the root-mean-height difference follows a power-law dependence on lateral separation, i.e., “(L)=kLa, up to a critical distance Lc, after which it remains constant. For layer-by-layer growth, the roughness exponent, ±, equals 0.25±0.05, whereas the critical distance increases from 50 to 150 nm as the substrate temperature increases from 825 to 900 K. The roughness exponent jumps to 0.65±0.1 upon transitioning to three-dimensional island growth. By relating the heightheight correlation analysis to the Einstein diffusivity relationship, the activation energy for gallium surface diffusion has been estimated: Ed=1.35±0.1 eV. © 2000 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+semiconductor growth
+rough surfaces
+surface topography
+surface diffusion
+MOCVD
+vapour phase epitaxial growth
+scanning tunnelling microscopy
+island structure

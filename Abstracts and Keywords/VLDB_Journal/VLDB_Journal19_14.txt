@@ -1,0 +1,9 @@
+Large databases with uncertain information are becoming more common in many applications including data integration, location tracking, and Web search. In these applications, ranking records with uncertain attributes introduces new problems that are fundamentally different from conventional ranking. Specifically, uncertainty in records scores induces a partial order over records, as opposed to the total order that is assumed in the conventional ranking settings. In this paper, we present a new probabilistic model, based on partial orders, to encapsulate the space of possible rankings originating from score uncertainty. Under this model, we formulate several ranking query types with different semantics. We describe and analyze a set of efficient query evaluation algorithms. We show that our techniques can be used to solve the problem of rank aggregation in partial orders under two widely adopted distance metrics. In addition, we design sampling techniques based on Markov chains to compute approximate query answers. Our experimental evaluation uses both real and synthetic data. The experimental study demonstrates the efficiency and effectiveness of our techniques under various configurations.
+
+Ranking
+Top-k
+Uncertain data
+Probabilistic data
+Partial orders
+Rank aggregation
+Kendall tau

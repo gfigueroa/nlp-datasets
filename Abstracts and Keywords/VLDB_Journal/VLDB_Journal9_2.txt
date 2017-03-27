@@ -1,0 +1,7 @@
+Similarity queries on complex objects are usually translated into searches among their feature vectors. This paper studies indexing techniques for very high-dimensional (e.g., in hundreds) vectors that are sparse or quasi-sparse, i.e., vectors each having only a small number (e.g., ten) of non-zero or significant values. Based on the R-tree, the paper introduces the xS-tree that uses lossy compression of bounding regions to guarantee a reasonable minimum fan-out within the allocated storage space for each node. In addition, the paper studies the performance and scalability of the xS-tree via experiments.
+
+High-dimensional indexing structure
+Lossy compression
+Quasi-sparse vector
+Similarity search
+Sparse vector

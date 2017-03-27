@@ -1,0 +1,13 @@
+Properly functioning pn junction diodes have been fabricated by a low temperature plasma enhanced chemical vapor deposition (PECVD) technique. The diodes were constructed such that the metallurgical junction was coincident with the starting substrate surface. The electrical quality of the diodes was quantified by measuring their reverse bias leakage current. Contrary to popular opinion, it has been shown that the PECVD process is inherently capable of producing device quality material, and rather it is the in situ plasma cleaning technique typically associated with this method that is the cause of poor electrical performance. The chemical and physical nature of defects caused by the plasma cleaning step have been investigated by various experimental techniques including photoluminescence, secondary ion mass spectroscopy, and atomic force microscopy. The plasma cleaning step has been linked in certain cases to the production of a photoluminescence signal in Czochralski grown Si wafers. Results show that the plasma clean is neither required nor desired in the low temperature growth of device quality epitaxial Si thin films. © 2002 American Institute of Physics.
+
+silicon
+elemental semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+plasma CVD coatings
+p-n junctions
+leakage currents
+surface cleaning
+photoluminescence
+secondary ion mass spectra
+atomic force microscopy

@@ -1,0 +1,11 @@
+We have investigated the wavelength dependence of the photoreduction of Ag+ ions in glass irradiated by visible femtosecond pulses. These pulses, issued at wavelengths ranging from 400 to 800 nm, were nonresonant with the glass absorption. In this article, a relationship between threshold powers, wavelengths, and linear and nonlinear refractive indices is described. The nonlinear refractive index of Ag+-doped glass was measured by an optical Kerr shutter method. The wavelength dependence of threshold powers of the photoreduction is explained by considering linear and nonlinear refractive indices. The mechanism of the photoreduction is also discussed. © 2000 American Institute of Physics. 
+
+optical glass
+copper
+reduction (chemical)
+photochemistry
+multiphoton processes
+refractive index
+nonlinear optics
+optical Kerr effect
+reaction kinetics

@@ -1,0 +1,7 @@
+This paper describes the effect of an axial magnetic field (Bz) on plasma pinch dynamics and on the extreme ultraviolet (EUV) emission property of a compact Z-pinch device for EUV sources. The Z-pinch xenon plasma was driven by a pulse current with an amplitude of 27 kA and duration of 150 ns in an alumina tube with a diameter of 5 mm. A quasistatic magnetic field of up to 360 G is applied to the plasma. The EUV emission was evaluated for spectra, spatial distribution of the emission, and light energy at 13.5 nm with 2% bandwidth. A time-resolved interferogram provides the electron line density and pinch dynamics of the plasma. When a magnetic field of 160 G was applied to the plasma, the emission energy was approximately double that without the magnetic field. The spectroscopic measurement shows that the EUV spectrum drastically varies with magnetic-field strength. The time-resolved interferogram indicates that the axial magnetic field contributes by making the plasma compression smooth and by sustaining certain plasma conditions longer. From these experimental results, it was concluded that applying an axial magnetic field can be an effective method to improve EUV emission.
+
+xenon
+plasma magnetohydrodynamics
+Z pinch
+plasma diagnostics
+plasma density

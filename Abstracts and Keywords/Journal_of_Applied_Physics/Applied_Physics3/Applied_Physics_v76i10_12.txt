@@ -1,0 +1,8 @@
+Magnetic anisotropies of ultrathin transitionmetal films are inherently related to their structural properties. In ultrathin films the large fraction of atoms located at the film interface generates strong interface anisotropies, whereas elastic strain fields caused by the forced registry of atoms at the substrate/film interface induce magnetoelastic anisotropy contributions. So far the experimental confirmation of the transition from these thinfilm properties to bulk anisotropy properties, characterized by a dominating magnetocrystalline anisotropy, has not yet been presented. Magnetic anisotropies reflect, depending on their origin, both the crystallographic symmetry and the symmetry of the film geometry. For a clear separation between magnetoelastic, magnetocrystalline and Néeltype interface anisotropy contributions, the film symmetry and thickness must be chosen such that the respective different anisotropy contributions appear with different symmetries and film thickness dependencies. This is the case for (110)oriented fcc Co films. In the present study we use the Brillouin lightscattering technique for the determination of the anisotropy contributions. An analysis of the spinwave frequency measured as a function of the inplane direction of the external field and the film thickness yields information about all relevant anisotropies. The samples used were molecularbeamepitaxy grown in ultrahigh vacuum. Onto a Cu (110) singlecrystal substrate a wedgetype sample and two staircaseshaped samples with distinct thicknesses in the range of 8110 Å were grown.
+
+COBALT
+THIN FILMS
+MOLECULAR BEAM EPITAXY
+MAGNETOELASTIC EFFECTS
+MAGNETIC ANISOTROPY
+BRILLOUIN EFFECT

@@ -1,0 +1,8 @@
+This paper describes the current development of a noncryogenic gravity gradiometer for future use on board the tethered satellite system (TSS). The paper also proposes a way of testing a singleaxis prototype of such an instrument that makes use of the freefall technique in vacuum. This gravity gradiometer has a design sensitivity of the order of 102 EU (1 EU =Eötvös Unit=109 ms2/m) in 10s integration time. Because of the small size and light weight, a noncryogenic gravity gradiometer is a valid candidate to fit the limited accommodation capability of the TSS deployed from the shuttle and maintained, for several days, at an altitude of 120130 km. This unique capability improves the resolution and accuracy achievable in reconstructing the earth gravity field, in particular at short wavelengths. A preliminary analysis of the dynamics of the TSS satellite indicates the potential of such satellite as a lowaltitude research platform for gravity gradiometry.
+
+SPACE SHUTTLE
+RESOLUTION
+SENSITIVITY
+EARTH PLANET
+GRAVITY SURVEYS
+MEASURING INSTRUMENTS

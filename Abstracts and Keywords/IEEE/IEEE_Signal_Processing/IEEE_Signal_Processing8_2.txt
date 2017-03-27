@@ -1,0 +1,6 @@
+Frequency domain linear prediction (FDLP) represents an efficient technique for representing the long-term amplitude modulations (AM) of speech/audio signals using autoregressive models. For the proposed analysis technique, relatively long temporal segments (1000 ms) of the input signal are decomposed into a set of sub-bands. FDLP is applied on each sub-band to model the temporal envelopes. The residual of the linear prediction represents the frequency modulations (FM) in the sub-band signal. In this paper, we present several applications of the proposed AM-FM decomposition technique for a variety of tasks like wide-band audio coding, speech recognition in reverberant environments and robust feature extraction for phoneme recognition.
+
+AM-FM decomposition
+Frequency Domain Linear Prediction (FDLP)
+Robust features for speech recognition
+Wide-band audio coding

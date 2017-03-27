@@ -1,0 +1,9 @@
+A new method for computing proximityeffect corrections for submicrometer electron beam lithography is introduced. It is based on a twoparameter resist development model and the restatement of the proximityeffect problem as a linear programming problem. Example solutions in several relevant physical regimes are presented.
+
+LINEAR PROGRAMMING
+PROXIMITY EFFECT
+MATHEMATICAL MODELS
+ELECTRON BEAMS
+LITHOGRAPHY
+THEORETICAL DATA
+SURFACES

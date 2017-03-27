@@ -1,0 +1,9 @@
+We have measured the structure factor of diffuse scattering and amorphous scattering in a W/Si multilayer under simultaneous excitation of x-ray standing waves. The tuning of the nodes and antinodes to the location of the W and Si sublayers or to the respective interfaces increases the selective sensitivity to the structure of the respective sublayer or interface. The dynamically broadened first multilayer Bragg peak is modeled by the Darwin theory of dynamic diffraction, which allows for the exact determination of the standing wave phase. The decay of diffuse intensity, as measured in a grazing incidence geometry at different standing wave phase shifts, indicates that the heightheight self-correlation function is of the same form for both types of interfaces, W/Si and Si/W. The amorphous peaks of the Si sublayer can only be observed if the angles of incidence and exit are optimized to suppress the scattering from the otherwise dominating W layers. The peak positions are the same as for bulk amorphous silicon. © 1998 American Institute of Physics.
+
+silicon
+tungsten
+interface structure
+superlattices
+X-ray scattering
+elemental semiconductors
+semiconductor-metal boundaries

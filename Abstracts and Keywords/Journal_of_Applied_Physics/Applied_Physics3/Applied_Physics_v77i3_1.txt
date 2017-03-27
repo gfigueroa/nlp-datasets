@@ -1,0 +1,12 @@
+The formation of buried Kfulleride layers by implantation of 30 keV K+ into C60 films at an implant temperature of 300	°C has been studied as a function of dose ranging from 1×1016 to 1×1017 cm2. After implantation K depth profiles were measured by secondaryionmass spectrometry and Rutherford backscattering spectrometry. Phase characterization was done by Raman scattering and grazingangle xray diffraction. Within the range of the implanted ions a transformation of the fullerene molecules to amorphous carbon (aC) was found; however, due to the elevated implant temperature of 300	°C most of the K diffuses into the depth where doping of the undestroyed film occurs. The shape of the observed K profiles depends on the dose. A local maximum of K observed right underneath the aC layer tends to saturate at a value of about 2×1021 cm3 for high implant doses. Both Raman scattering and xray diffraction strongly indicate the existence of K3C60 regions in the implanted films. The buried Kfulleride layers are stable on air due to a passivation effect of the aC surface layer. The formation of the Kfulleride is discussed on the basis of the phase diagram for the KC60 system and various thermodynamic processes such as segregation, phase formation, and diffusion. © 1995 American Institute of Physics.
+
+FULLERENES
+ION IMPLANTATION
+KRYPTON IONS
+FILMS
+KEV RANGE 10100
+DEPTH PROFILES
+SIMS
+RBS
+XRD
+PHASE STUDIES

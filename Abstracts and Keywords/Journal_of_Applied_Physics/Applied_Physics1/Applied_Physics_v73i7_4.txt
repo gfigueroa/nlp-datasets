@@ -1,0 +1,8 @@
+A model is presented of laser ablation, primarily applicable to nonmetallic solids. The model does not include any critical phenomena, but assumes evolution of vacancy clusters due to the emission of atoms bonded weakly around vacancies and vacancy clusters on surfaces. The result of calculation shows a high power dependence of the yield on the laser fluence, agreeing with the experimental results.
+
+LASERRADIATION HEATING
+ABLATION
+MATHEMATICAL MODELS
+SOLIDS
+VACANCIES
+SEMICONDUCTOR MATERIALS

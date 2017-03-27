@@ -1,0 +1,9 @@
+Robot software components, which can be accessed through their interface, are reusable and replaceable software modules used in composing robotic services. Using robot software components in developing a robot, developers can expect shortening of developing times, reduction of maintenance cost and improvement of program reusability, because interoperability among components is guaranteed. We have developed a component framework assisting robot developers to make robot application with ease. The component framework consists of a specification of component model, a component authoring tool, a component composer, and a component container. In this paper, we will not only show the developed component framework, but also demonstrate its usability by applying to commercial robots.
+
+OPRoS
+authoring tool
+component
+component composer
+component container
+component framework
+robot software

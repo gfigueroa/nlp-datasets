@@ -1,0 +1,7 @@
+ Viewpoint manipulation in 3D interfaces is a complex, yet critical task. Viewers must balance the cognitive demands of understanding the layout of the environment while mastering the physical interaction required to position the viewpoint in meaningful locations. Various methods have been designed to automatically lead the viewer through a scene; however, these techniques often prove intrusive, leading viewers to struggle for control of the viewpoint. This paper formalizes four coordination strategies for assisting the user with viewpoint selection: Manual Override Contextual Override, Fixed Time and Parallel Viewing. The results of a user evaluation suggest that Manual Override and Parallel Viewing offer the greatest benefits to the user in selecting meaningful viewing parameters.
+
+ 3D User interfaces
+ Viewpoint Control
+ autonomous systems
+ collaboration
+ coordination strategies.

@@ -1,0 +1,9 @@
+A measurement technique is introduced which involves linearly modulating the power of the stimulation light while measuring the photoconductivity in Al2O3:C. This produces peaks in the measured photoconductivity instead of the typical exponential decay seen when using a constant power stimulation light. The technique, called linearly modulated photoconductivity (LM-PC), is the conductivity equivalent of linearly modulated optically stimulated luminescence (LM-OSL). Two peaks are seen in the LM-PC measurements that correspond to the same charge residing in the 450 and 600 K thermally stimulated conductivity peaks, respectively. Simultaneous measurements on both the LM-PC and LM-OSL reveal that the second peak in the LM-PC is not present in the LM-OSL. Deconvolutions are performed on the LM-OSL to determine the underlying components that make up the detected OSL emissions. © 2001 American Institute of Physics. 
+
+alumina
+carbon
+photoconductivity
+photoluminescence
+stimulated emission
+optical modulation
+electron traps

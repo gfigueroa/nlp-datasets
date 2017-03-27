@@ -1,0 +1,18 @@
+An interfacial layer model is developed to interpret the biasdependent photoelectric barrier height of the Schottky barrier diodes fabricated on the low doping substrate. It is shown that the barrier height shift of a reversely biased Schottky diode measured by the photoelectric method is dependent on the magnitude of the applied reverse bias. The origins of the barrier height shift are mainly due to the applied voltage drop across the interfacial layer and the imageforce lowering. Comparisons between the developed model and the experimental results of the fabricated AlnGaAs and AunGaAs Schottky barrier diodes are made; these strongly support the present model. Moreover, the interfacial layer properties deduced from the barrier height shift are in quantitative agreement with the ideality factors measured from the forward IV characteristics of the nGaAs Schottky diodes.
+
+SCHOTTKY BARRIER DIODES
+POTENTIALS
+PHOTOELECTRIC EFFECT
+INTERFACES
+LAYERS
+MATHEMATICAL MODELS
+FABRICATION
+DOPED MATERIALS
+SUBSTRATES
+ELECTRIC POTENTIAL
+COMPARATIVE EVALUATIONS
+THEORETICAL DATA
+DATA
+ALUMINIUM
+GALLIUM ARSENIDES
+GOLD

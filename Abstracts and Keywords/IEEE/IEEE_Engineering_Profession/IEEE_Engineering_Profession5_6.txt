@@ -1,0 +1,5 @@
+Toyota has been developing industrial robots since the 1980s. In recent years, man-machine cooperative robots that assist people s skills have gradually been put into practical use. Now, Toyota is further evolving a number of robot technologies born at production sites to develop Partner Robots that work in harmony with people. Toyota is specifically considering four development areas: (1) manufacturing support, (2) short-distance personal mobility, (3) nursing and healthcare support, and (4) support for work around the home. Some scenes of Partner Robot operation in each of these four fields are mentioned, as well as the essential technologies embedded in Toyota Partner Robots, are then introduced in the presentation. Lastly, issues that need to be resolved to bring these robots into truly useful and practical in our society are described.
+
+Partner Robots
+healthcare
+personal mobility

@@ -1,0 +1,12 @@
+The methyl radical density, acetylene mole fraction, filament properties, and diamond growth rate and film quality are measured in a hot filament chemical vapor deposition system when C2H2 and H2 are used as the input gases. The methyl radical density and acetylene mole fraction depend greatly on the degree of filament surface poisoning. This poisoning prevents diamond growth due to a lack of hydrogen atoms and/or methyl radicals. Understanding the large influence of the filament surface catalytic characteristics is important for developing a gas phase model of this system. The results obtained with C2H2 and H2 as the input gases are compared to those obtained with CH4 and H2 as the input gases. Under conditions when the filament surface is not poisoned, the methyl radical concentrations are similar when either C2H2 and H2 are the input gases or when CH4 and H2 are the input gases.
+
+DIAMONDS
+CVD
+METHYL RADICALS
+ULTRAVIOLET SPECTRA
+FILM GROWTH
+FILAMENTS
+HYDROGEN
+ACETYLENE
+CATALYTIC EFFECTS
+ABSORPTION SPECTROSCOPY

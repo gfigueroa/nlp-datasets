@@ -1,0 +1,13 @@
+The frequency dependence of the flatband capacitance of a metal/insulator/semiconductor diode where the semiconductor film is glowdischarge deposited amorphous Si:H (aSi:H) was measured at various temperatures. The response time and trap density at the insulator/aSi:H interface or aSi:H spacecharge region could be evaluated by a simple model.
+
+mis junctions
+semiconductor diodes
+glow discharges
+frequency dependence
+films
+capacitance
+amorphous state
+amorphous semiconductors
+trapping
+hydrogenation
+hydrogen

@@ -1,0 +1,8 @@
+Induction machines play a pivotal role in industry and there is a strong demand for their reliable and safe operation. They are generally reliable but eventually do wear out. Faults and failures of induction machines can lead to excessive downtimes and generate large losses in terms of maintenance and lost revenues, and this motivates the examination of on-line condition monitoring. On-line condition monitoring involves taking measurements on a machine while it is operating in order to detect faults with the aim of reducing both unexpected failures and maintenance costs. Thus the key for the success of condition based maintenance is having an accurate means of condition assessment and fault diagnosis. The stator is subjected to various stresses such as thermal, electrical, mechanical, and environmental, which severely affects the stator condition leading to faults. These stresses can be classified into phase-tophase, turn-to-turn, and turn-to-ground. The fault detection using analytical methods is not always possible because it requires a perfect knowledge of the motor model. The fuzzy logic techniques are rather easy to develop and to perform. A Simulink model are developed in Matlab/SIMULINK for Induction Motor using Fuzzy-logic Controller to analyze the performance under the turn-turn short in one phase winding, open phase faults.
+
+Condition Monitoring
+Fault Detection
+Fuzzy Logic
+Induction Motor
+Matlab/SIMULINK
+Stator monitoring

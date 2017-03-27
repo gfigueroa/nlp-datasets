@@ -1,0 +1,7 @@
+We have investigated the wet thermal oxidation of AlAs in cylindrical geometry, a typical configuration for vertical-cavity surface-emitting lasers. Through both experiment and theoretical calculations, we demonstrate a significantly different time dependence for circular mesas from what has been reported in the literature both in studies of stripes and in a study of circular mesas. We attribute this different time dependence to the effect of geometry on the oxidation. © 1998 American Institute of Physics. 
+
+oxidation
+III-V semiconductors
+aluminium compounds
+surface emitting lasers
+semiconductor lasers

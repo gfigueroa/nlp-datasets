@@ -1,0 +1,12 @@
+The formation of ptype CdS thin films in a chemical bath doped with Cu is reported. Cudoped films showed an amorphous nature and exhibited high electrical conductivity and quick photoresponse characteristics at high and low levels of Cu doping, respectively. Undoped CdS films were near stoichiometric, crystalline in nature, and exhibited slow photodecay. Cu doping influenced the photoresponse characteristics, structural, electrical, and optical properties of the films. The optical band gap of CdS film changed from 2.35 to 2 eV after Cu doping. These films may be used as a second layer on top of a lower band gap material in thin film solar cell structures and in wide range photoIR detector structures. © 1995 American Institute of Physics.
+
+CADMIUM ARSENIDES
+THIN FILMS
+DOPED MATERIALS
+COPPER ADDITIONS
+ELECTRIC CONDUCTIVITY
+CRYSTAL STRUCTURE
+ENERGY GAP
+MODIFICATIONS
+SOLAR CELLS
+PHOTODETECTORS

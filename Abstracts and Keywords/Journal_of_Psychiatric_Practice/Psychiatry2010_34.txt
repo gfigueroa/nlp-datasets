@@ -1,0 +1,8 @@
+The aim of this paper is to help physicians deliver the diagnosis of schizophrenia by adopting and adapting the popular oncology protocol, SPIKES. Data sources for the paper are PubMed searches (19842009), entering the phrase breaking bad news. Of the 269 articles retrieved, those with face relevance to schizophrenia were selected and references contained in them were further searched. The conclusion of the paper is that, as in oncology, revealing a serious psychiatric diagnosis is emotionally difficult for both physician and patient; guidelines help, but individualization is essential. (<em>Journal of Psychiatric Practice</em> 2010;16:269276). 
+
+schizophrenia
+diagnosis
+patient
+doctor
+communication
+breaking bad news

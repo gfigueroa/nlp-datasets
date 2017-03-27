@@ -1,0 +1,14 @@
+Hydrogen configurations, formation energies, and migration barriers in GaN have been obtained from density-functional theory (DFT) calculations employing the generalized-gradient approximation (GGA) for exchange and correlation. The H configurations and formation energies are similar to previous DFT results obtained using the local-density approximation (LDA) for exchange and correlation with the most notable differences being higher formation energies for H0
+(0.2
+eV) and H2
+(0.1
+eV) in the GGA calculations and a preference for H+ at a bond-centered site. GGA H migration barriers differ from LDA values with the largest differences being 0.4 eV higher GGA H+ migration barriers. Refined measurements of field-induced H+ drift in GaN p/n+ diodes have also been performed. Modeling of these results indicates that the sum of the H+ diffusion activation energy and the H+ binding energy to ionized Mg acceptors is 1.76 eV. The corresponding GGA result (1.6 eV) is in good agreement with the measured value. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+hydrogen
+density functional theory
+diffusion
+impurities
+impurity states

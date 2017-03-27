@@ -1,0 +1,18 @@
+The criterion for voltage breakdown in Ne0.1% Ar mixtures is generalized to include the pressuredependent conversion of atomic to molecular neon ions. A strong dependence of the Paschen curve on gas pressure results by incorporating a significant difference in the secondary electron coefficients for the atomic and molecular neon ions. The effective secondary emission coefficient ³ of the gas mixture now becomes pressure dependent. The deviation from Paschens law observed recently in ac plasma display panels is accounted for by the present theory to the extent that it shows qualitatively all the important characteristics of the experimental results.
+
+PASCHEN LAW
+SCALING LAWS
+FAILURES
+GASES
+NEON
+ARGON
+MIXTURES
+BREAKDOWN
+PRESSURE DEPENDENCE
+IONS
+SECONDARY EMISSION
+ELECTRONS
+PLASMA
+DISPLAY DEVICES
+MATHEMATICAL MODELS
+THEORETICAL DATA

@@ -1,0 +1,4 @@
+A method is presented for the analysis of magnetic force microscopy (MFM) measurements that allows the quantitative determination of the sample stray field. It is shown how measurements on an easily obtainable calibration sample can be used to calibrate the MFM measurement as a function of the wavelength of the sample stray field at the tip apex. It is demonstrated that the thus obtained MFM calibration can be used to determine the stray field distribution of the tip. Furthermore, the effect of the tip on the MFM imaging mechanism is analyzed by comparing it to some simple tip models. From the analysis, it is shown that the pointmonopole and dipole models do not accurately describe the MFM imaging mechanism. © 2000 American Institute of Physics. 
+
+magnetic force microscopy
+calibration

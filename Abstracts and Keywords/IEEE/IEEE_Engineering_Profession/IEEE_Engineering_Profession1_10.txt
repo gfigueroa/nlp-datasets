@@ -1,0 +1,6 @@
+The developing grid techniques provide feasible realization schemes for the fast and accurate computing of electromagnetic scattering fields in complex environments. This paper presents the research on the parallel computing of electromagnetic scattering fields in complex environments using MLFMA and IE-ODDM. This parallel computing is based on CGSP, which can provide feasible schemes for solving the accurate computing problems of electromagnetic scattering fields in great complex environments.
+
+CGSP
+IE-ODDM (overlapped domain decomposition method for integral equations)
+MLFMA (multi-level fast multipole algorithm)
+parallel

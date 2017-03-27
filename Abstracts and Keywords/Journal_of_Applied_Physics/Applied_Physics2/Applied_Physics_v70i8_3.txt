@@ -1,0 +1,10 @@
+We investigate the influence of interaction between dispersed particles to ac conductivity of suspension of charged particles immersed in electrolyte solution. Using the Rayleigh technique, we establish an identity for charged suspensions, and derive a formula for effective complex conductivity of the systems. A useful scheme for computation of effective constants of composite media is proposed.
+
+COMPOSITE MATERIALS
+ELECTRIC CONDUCTIVITY
+DIELECTRIC PROPERTIES
+ELECTROLYTES
+SOLUTIONS
+CHARGED PARTICLES
+ALTERNATING CURRENT
+THEORETICAL DATA

@@ -1,0 +1,8 @@
+The current waveforms of the selfresetting oscillation in a dc superconducting quantum interference device (SQUID) are observed by means of a Josephson sampling system. The frequency of the oscillation is around 60 GHz. The time period of the selfresetting oscillation is experimentally measured as a function of the bias current to the SQUID. Theoretical and numerical analyses are presented for the selfresetting oscillation in the dc SQUID.
+
+FABRICATION
+OSCILLATIONS
+SQUID DEVICES
+JOSEPHSON JUNCTIONS
+ELECTRIC CURRENTS
+ELECTRICAL TESTING

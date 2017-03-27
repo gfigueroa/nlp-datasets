@@ -1,0 +1,9 @@
+The ion-sputtering induced intermixing is studied by Monte Carlo transport of ions in matter (TRIM), molecular-dynamics (MD) simulations, and Auger electron spectroscopy depth profiling (AES-DP) analysis in Pt/Ti/Si substrate (Pt/Ti) and Ta/Ti/Pt/Si substrate (Ti/Pt) multilayers. Experimental evidence is found for the asymmetry of intermixing in Pt/Ti, and in Ti/Pt. In Ti/Pt we obtain a much weaker interdiffusion (broadening at the interface) than in Pt/Ti. The unexpected enhancement of the interdiffusion of the Pt atoms into the Ti substrate has also been demonstrated by simulations. We are able to capture the essential features of intermixing using TRIM and MD simulations for ion-beam sputtering and find reasonable values for interface broadening which can be compared with the experimental measurements. We explain the asymmetry of IM by the possible occurrence of transient enhanced diffusion in Pt/Ti which manifests in the exponential high diffusity tail of the AES concentration profile.
+
+platinum
+titanium
+mixing
+Monte Carlo methods
+molecular dynamics method
+Auger electron spectra
+chemical interdiffusion

@@ -1,0 +1,13 @@
+In situ growth of Ba1xKxBiO3 (BKBO) films by laser ablation has been studied as a function of gas pressure and substrate temperature in O2, N2O, and N2O/O2 (1:1), respectively. The superconducting BKBO films can be grown at 410500	°C in 1560 mTorr of O2, at 390510	°C in 202000 mTorr of N2O, and at 390500	°C in 15700 mTorr of N2O/O2 (1:1), respectively. Oxygen partial pressure plays an important role in controlling the doping of potassium into the BKBO phase during in situ deposition and hence the growth of the superconducting films. The optimum deposition pressures are 40 mTorr of O2, 3050 mTorr of N2O, and 2050 mTorr of N2O/O2 (1:1), under which not only the temperature range available for growing the superconducting films is wider but also the Tcs of the asgrown films are higher. N2O used as an oxidation gas during growth is efficient in suppressing the crack formation in the BKBO films on cooling. The target composition also plays an important role in film growth. The optimal target composition studied is Ba:K:Bi=0.6:0.8:1.0.
+
+BARIUM OXIDES
+POTASSIUM COMPOUNDS
+BISMUTH OXIDES
+QUATERNARY COMPOUNDS
+ABLATION
+LASER RADIATION
+SUPERCONDUCTING FILMS
+FILM GROWTH
+PRESSURE EFFECTS
+MEDIUM VACUUM
+CHEMICAL COMPOSITION

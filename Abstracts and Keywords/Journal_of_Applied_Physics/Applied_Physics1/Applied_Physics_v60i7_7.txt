@@ -1,0 +1,13 @@
+A new method for obtaining thin films of doped molecular materials in a complete absence of oxygen is described. It consists in simultaneously subliming under vacuum the electroactive compounda metallophthalocyanineand the electron acceptor or electron donor doping agent. The extent of doping is controlled by the relative rates of sublimation. The ac and dc electrical properties of thin films are determined under high vacuum as to eliminate the influence of oxygen which has been previously shown to be of the utmost importance. Both p and ntype dopings have been achieved; the increase of conductivity reaches six orders of magnitude for ptype doping with dichlorodicyanoquinone (DDQ). For the first time a rectifying contact between doped phthalocyanine thin films and aluminum has been observed in strict absence of oxygen.
+
+FILM GROWTH
+PHTHALOCYANINES
+ELECTRIC CONDUCTIVITY
+METALINSULATOR CONTACTS
+ALUMINIUM
+CRYSTAL DOPING
+VACUUM COATING
+SUBLIMATION
+OXYGEN MOLECULES
+ACCEPTORS
+DONORS

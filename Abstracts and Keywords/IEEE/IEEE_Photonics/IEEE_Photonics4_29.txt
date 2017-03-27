@@ -1,0 +1,7 @@
+It is a effective new way to investigate different amounts of fiber orientation and cooling tubes of mold on fuel cell bipolar plates by Moldex 3D in mold injection, the simulation of mold flow is investigated by finite element method. In this study, the complex flow behavior of melts under the assistance of mold flow analysis is conducted by examining the coupling effects of the process conditions and the material properties numerically. Therefore, the present study is to simulate these characteristics of filling, packing, cooling and wrap age in mold injection with fiber orientation. In order to get better filling with fiber orientation of different troughs like u and v types of fuel cell bipolar plate in mold injection, channel shape of bipolar plate of fuel cell should be designed in mold. The result shows higher amount of fiber orientation of u and v tough channel of fuel cell bipolar plates will get better quality and filling pattern.
+
+bipolar plate
+channel shape
+fiber orientation
+fuel cell
+style

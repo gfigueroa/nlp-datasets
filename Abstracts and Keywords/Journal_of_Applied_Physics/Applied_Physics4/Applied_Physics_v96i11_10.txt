@@ -1,0 +1,23 @@
+Strained Ge p-channel heterostructures have been produced using a hybrid-epitaxy method, which allows the advantages offered by different growth techniques to be exploited. Chemical vapor deposition of thick strain-tuned virtual substrates has been combined with growth of the active layers by solid-source molecular beam epitaxy. This paper discusses optimization of the regrowth conditions, to achieve a high hole mobility, and correlates structural characterization with electrical measurements. Initial ex situ chemical cleaning of the virtual substrate was found to be essential for successful regrowth. Structural analysis, using cross-sectional transmission electron microscopy and atomic force microscopy, showed that the regrowth temperature significantly affects the growth mode of the active layers and that planar growth was only achieved below 400°C. Samples with Ge channels from 8to30nm thick were analyzed with plan view transmission electron microscopy to study the formation of misfit dislocations and estimate the degree of relaxationtwo effects detrimental to hole transport properties. For intermediate thickness layers, postgrowth annealing at 650°C was found to significantly improve the hole mobility, by eliminating point defects but not leading to substantial relaxation. As a result, the mobility was found to almost double at room temperature and increase fourfold at 10K. The level of diffusion and interface integrity, for both the as-grown and annealed structures, has been investigated using low energy secondary ion mass spectrometry.
+
+germanium
+Ge-Si alloys
+elemental semiconductors
+semiconductor heterojunctions
+semiconductor growth
+chemical vapour deposition
+molecular beam epitaxial growth
+Hall mobility
+hole mobility
+hole density
+internal stresses
+surface cleaning
+surface roughness
+surface diffusion
+annealing
+dislocation density
+dislocation damping
+point defects
+secondary ion mass spectra
+atomic force microscopy
+transmission electron microscopy

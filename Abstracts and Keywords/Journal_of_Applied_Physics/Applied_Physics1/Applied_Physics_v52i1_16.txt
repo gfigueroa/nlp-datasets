@@ -1,0 +1,13 @@
+The atmospheric propagation of a sequence of short intense electromagnetic pulses and their creation of a low density channel in the beam vicinity are considered. A Lagrangian as well as Eulerian description of the electromagnetic pulses is developed to solve Maxwells equations in t he paraxial approximation. The hydrodynamic response of the atmosphere is considered in the adiabatic approximation. After a scaling of the electromagnetic and hydrodynamic variable three dimensionless parameters, the pressure parameter, the focusing parameter and the diffraction parameter, emerge which describe the interaction of the pulse with the atmosphere in a convenient way. The electromagnetic equations are solved using the finitedifference method as well as the Fourier transform technique. For the latter method a fast Hankel transform algorithm is used. An explicit inclusion of endcorrections in the Hankel transform algorithm makes our propagation code fast and accurate. We discuss the numerical results and their dependence on the three parameters. Our analysis may find applications in determining the optimum beam parameters for creating a low density channel of specified length.
+
+ELECTROMAGNETIC RADIATION
+CHANNELING
+WAVE PROPAGATION
+PULSES
+LAGRANGE EQUATIONS
+MAXWELL EQUATIONS
+ADIABATIC APPROXIMATION
+SCALING LAWS
+HANKEL TRANSFORM
+MATHEMATICAL MODELS
+THEORETICAL DATA

@@ -1,0 +1,8 @@
+Arrays are a common and important class of data. At present, database systems do not provide adequate array support: arrays can neither be easily defined nor conveniently manipulated. Further, array manipulations are not optimized. This paper describes a language called the Array Manipulation Language (AML), for expressing array manipulations, and a collection of optimization techniques for AML expressions.In the AML framework for array manipulation, arbitrary externally-defined functions can be applied to arrays in a structured manner. AML can be adapted to different application domains by choosing appropriate external function definitions. This paper concentrates on arrays occurring in databases of digital images such as satellite or medical images.AML queries can be treated declaratively and subjected to rewrite optimizations. Rewriting minimizes the number of applications of potentially costly external functions required to compute a query result. AML queries can also be optimized for space. Query results are generated a piece at a time by pipelined execution plans, and the amount of memory required by a plan depends on the order in which pieces are generated. An optimizer can consider generating the pieces of the query result in a variety of orders, and can efficiently choose orders that require less space. An AML-based prototype array database system called ArrayDB has been built, and it is used to show the effectiveness of these optimization techniques.
+
+Array manipulation language
+Array query optimization
+Declarative query language
+Memory-usage optimization
+Pipelined evaluation
+User-defined functions

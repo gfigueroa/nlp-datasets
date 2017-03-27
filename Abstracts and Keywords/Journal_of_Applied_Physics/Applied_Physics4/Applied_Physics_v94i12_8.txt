@@ -1,0 +1,9 @@
+We demonstrate experimentally the domain-wall depinning triggered by injecting the polarized spin current into the domain wall. The domain wall is pinned at the junction of a large pad and a narrow wire prior to the current injection experiment. When the polarized spin current is injected along the direction of the domain-wall propagation, the pinned domain wall is freed and pushed into the wire at the critical current that monotonously decreases by increasing the applied bias magnetic field. These results imply that the injection of the spin-polarized current into the domain wall causes additional magnetic pressure due to the spin-momentum transfer between the spin-polarized current and the localized magnetic moment. © 2003 American Institute of Physics. 
+
+spin polarised transport
+magnetic domain walls
+local moments
+ferromagnetic materials
+interface magnetism
+magnetoresistance
+magnetic anisotropy

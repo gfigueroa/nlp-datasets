@@ -1,0 +1,13 @@
+We explore a new geometry allowing effective excitation of the lowest antisymmetric standing spin wave mode in ferromagnetic metallic films with symmetrical boundary conditions. The approach is based on the use of a coplanar waveguide with the ferromagnetic film, Permalloy (Py), playing the role of the signal line. In addition, we study a signal line which is a sandwich of Py inside two nonmagnetic metallic films. We find that the thickness and conductivity of the metal films can significantly alter the amount of absorption, at ferromagnetic resonance, between the symmetric and antisymmetric spin wave modes. The experimental results are supported by numerical calculations indicating the origin of the strength of the absorption.
+
+coplanar waveguides
+electrical conductivity
+ferromagnetic materials
+ferromagnetic resonance
+magnetic thin films
+metallic thin films
+microwave materials
+microwave spectra
+Permalloy
+planar waveguides
+spin waves

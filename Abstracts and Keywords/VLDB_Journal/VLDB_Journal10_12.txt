@@ -1,0 +1,6 @@
+The problem of answering queries using views is to find efficient methods of answering a query using a set of previously materialized views over the database, rather than accessing the database relations. The problem has received significant attention because of its relevance to a wide variety of data management problems, such as data integration, query optimization, and the maintenance of physical data independence. To date, the performance of proposed algorithms has received very little attention, and in particular, their scale up in the presence of a large number of views is unknown. We first analyze two previous algorithms, the bucket algorithm and the inverse-rules, and show their deficiencies. We then describe the MiniCon, a novel algorithm for finding the maximally-contained rewriting of a conjunctive query using a set of conjunctive views. We present the first experimental study of algorithms for answering queries using views. The study shows that the MiniCon scales up well and significantly outperforms the previous algorithms. We describe an extension of the MiniCon to handle comparison predicates, and show its performance experimentally. Finally, we describe how the MiniCon can be extended to the context of query optimization.
+
+Data integration
+Materialized views
+Query optimization
+Web and databases

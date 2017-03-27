@@ -1,0 +1,12 @@
+Conductance measurements are presented for sulfurtreated and untreated Au/Cr/GaAs Schottky diodes. The presence of large numbers of surface states limit the performance of GaAs devices. Sulfur treatment was carried out using H2S(g). Passivation using sulfur has been extensively studied and has been found to be effective in reducing the surface state density. AuGaAs contact is popularly used as a Schottky gate in the metalsemiconductor fieldeffecttransistors. The adhesion of gold to GaAs is poor, so chromium is used as an interlayer. Chromium is highly reactive and could lead to various phases at the interface both for untreated and sulfurtreated diodes. We report here the defect levels identified for these diodes by conductance measurements. We correlate here the presence of different phases at the interface with the various defects identified. In our case the statistical model is found to most accurately fit the interface state conductance response. The density of states for these defect energy levels is considerably high which could be the reason for the poor electrical performance of both types of Schottky diodes.
+
+SCHOTTKY BARRIER DIODES
+INTERFACE STATES
+GOLD
+CHROMIUM
+GALLIUM ARSENIDES
+SURFACE TREATMENTS
+SULFUR
+DEFECT STATES
+PASSIVATION
+ENERGYLEVEL DENSITY

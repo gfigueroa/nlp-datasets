@@ -1,0 +1,9 @@
+A technique for making direct, quantitative measurements of surface charge distributions on photoconductors has been developed. The spatial resolution is better than 10 ¼m and the measurements take place under conditions closely approximating those in printers or copiers. Measurements of edge broadening in layered photoconductor arising from spacecharge effects during image formation are presented. Edge broadening due to surface conduction has also been observed and data linking this to contamination of the surface by the charging corona is shown.
+
+ORGANIC COMPOUNDS
+PHOTOCONDUCTORS
+SURFACE PROPERTIES
+CHARGE DISTRIBUTION
+HIGHRESOLUTION METHODS
+SPACE CHARGE
+LAYERS

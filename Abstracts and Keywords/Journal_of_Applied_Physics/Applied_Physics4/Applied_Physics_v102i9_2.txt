@@ -1,0 +1,11 @@
+A detailed study of the current-voltage curves of mesoporous silicon (mesoPS) has been carried out for various dosages of ammonia, employing two different measurement configurations. The gas adsorption strongly modifies the electrical characteristics of the material, both affecting their shape and varying the conductivity values. In particular, it is found that the conductivity gap, arising from a collective Coulomb blockade phenomenon, and the electrical anisotropy of mesoPS can be gradually cancelled by NH3 molecules. Moreover, a nonmonotonic behavior of the conductivity with respect to the gas pressure is observed, in analogy with previous infrared spectroscopy results. From the analysis of such experimental findings, we propose an interaction mechanism between the mesoPS surface and ammonia, involving the screening of trapped positive charges through the dipole moment of NH3 molecules.
+
+adsorption
+ammonia
+Coulomb blockade
+electrical conductivity
+elemental semiconductors
+infrared spectra
+mesoporous materials
+porous semiconductors
+silicon

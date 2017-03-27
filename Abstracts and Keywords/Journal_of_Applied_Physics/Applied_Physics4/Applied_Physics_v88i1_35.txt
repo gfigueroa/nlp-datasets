@@ -1,0 +1,15 @@
+The thermal conductivity º and the thermoelectric properties of Si1xGex(x}0.10) samples doped with B or P which were prepared by arc melting were measured as functions of carrier concentration n and temperature T in the range from 298 to 1273 K. The Si1xGex(0.03}x}0.10) samples, doped with a small amount of B or P, have a significantly low º value, less than one tenth that of pure Si, despite the presence of strong alloy and dopant segregations. The Seebeck coefficients S of the Si0.97Ge0.03 samples over the entire n range from 1018 to 1021
+cm3 were higher than the corresponding values of Si0.7Ge0.3 alloys with little segregation, although the difference between the electrical resistivities Á of our samples and their alloys is very small. The optimum n value giving the largest thermoelectric figures of merit (ZT=S2T/ºÁ) for n- and p-type Si0.97Ge0.03 samples was about 2×1020
+cm3, which is almost the same as that for Si0.7Ge0.3 alloys. At nR2×1020
+cm3 the ZT values of n- and p-type Si0.95Ge0.05 samples with segregation increase linearly with temperature, and become 0.90 and 0.57 at 1073 K, respectively, which corresponds to 92% and 81% of the ZT values for Si0.7Ge0.3 alloys with little segregation. © 2000 American Institute of Physics. 
+
+boron
+phosphorus
+Ge-Si alloys
+thermal conductivity
+thermoelectricity
+semiconductor materials
+Seebeck effect
+electrical resistivity
+segregation
+carrier density

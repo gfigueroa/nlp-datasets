@@ -1,0 +1,31 @@
+Soft magnetic amorphous and nanocrystalline Fe81xNixZr7B12
+(x=040) alloys with very low coercivity and improved mechanical properties, as compared with the NANOPERM alloys, were prepared by a melt-quenching technique. The nanostructure was formed by annealing amorphous precursors in the temperature range TA=440620
+°C. Formation of the nanocrystalline phase was studied by Mössbauer spectroscopy, differential scanning calorimetry, and x-ray diffraction techniques. The composition of the nanocrystalline phase strongly depends on the Ni content in the alloy. For x&lt;30 the dominating nanocrystalline phase is the bcc Fe, similarly to the NANOPERM alloys. However, the alloy with x=40 behaves in a clearly different way. Annealing of the Fe41Ni40Zr7B12 alloy at TA=520620
+°C causes the formation of the nanograins of magnetically ordered cubic (FeNi)23B6 and FeNi phases, as identified by the Mössbauer and x-ray diffraction measurements. Annealing at temperatures exceeding 590
+°C leads to the Mössbauer spectra at room temperature dominated by a single-line nonmagnetic component. Mössbauer measurements performed at low temperatures reveal a superparamagnetic origin of this spectral component. The superparamagnetic relaxation at the sample surfaces is restricted by the stress induced surface anisotropy related to the crystallization of the amorphous phase as revealed by the conversion electron Mössbauer results. The conversion electron Mössbauer measurements which allowed the comparison of the surface and bulk crystallization of Fe81xNixZr7B12 alloys show clear differences between the surface and bulk crystallization for all alloy compositions. Unconventional Mössbauer studies utilizing radio frequency (rf) fields provide information on the soft magnetic nature of the alloys by observing the degree of rf-induced collapse of the hyperfine fields. The rf-Mössbauer technique, being particularly sensitive to magnetic anisotropy, provided information on the anisotropy fields in the alloys. It was found that the nanocrystalline FeNiB phase is magnetically very soft as revealed by the rf-Mössbauer technique. The complete rf collapse of the magnetic hyperfine structure was observed for the nanocrystalline Fe41Ni40Zr7B12 alloy in clear distinction to the FeNiZrB alloys with x}30 and to similar earlier studies of NANOPERM alloys. An improved magnetic softness combined with much reduced brittleness of the Fe41Ni40Zr7B12 samples offer attractive possibilities for technical applications of the nanocrystalline Ni-containing alloys. © 2003 American Institute of Physics. 
+
+iron alloys
+nickel alloys
+zirconium alloys
+boron alloys
+ferromagnetic materials
+soft magnetic materials
+nanostructured materials
+Mossbauer effect
+noncrystalline structure
+coercive force
+quenching (thermal)
+differential scanning calorimetry
+X-ray diffraction
+stoichiometry
+annealing
+superparamagnetism
+nanoparticles
+conversion electron spectra
+crystallisation
+surface phase transformations
+hyperfine interactions
+induced anisotropy (magnetic)
+surface magnetism
+amorphous magnetic materials
+metallic glasses

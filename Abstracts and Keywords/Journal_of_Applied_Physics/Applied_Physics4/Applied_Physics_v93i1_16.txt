@@ -1,0 +1,10 @@
+Hole transport in the organic small molecule material 2,22,7,72-tetrakis-(N,N-di-4- methoxyphenylamino)-9,92-spirobifluorene (methoxy-spiro) is studied by three different experimental techniques: Time of flight (TOF), dark-injection space-charge-limited current transients and steady-state currentvoltage characteristics, and over a wide range of electric fields, sample thicknesses and temperatures. It is shown that room-temperature mobilities measured by all three methods agree well over a range of studied thicknesses from 4 ¼m down to 135 nm. Temperature-dependent TOF measurements are analyzed within the Gaussian disorder model and the parameters of charge transport in this material are extracted. Comparison with the data reported for other spirolinked compounds indicate a significant increase of the mobility prefactor in the methoxy-spiro, which is attributed to the increased spread of the highest occupied molecular orbital wave function in this material. © 2003 American Institute of Physics. 
+
+organic semiconductors
+semiconductor thin films
+amorphous semiconductors
+hole mobility
+space-charge-limited conduction
+transients
+time of flight spectra
+charge injection

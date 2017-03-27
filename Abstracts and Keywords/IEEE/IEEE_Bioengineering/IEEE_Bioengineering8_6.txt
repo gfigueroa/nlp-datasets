@@ -1,0 +1,6 @@
+The identification of protein-protein interface is essential for proper annotation of protein-function, drug design and interpreting protein interaction networks. Desolvation properties of protein surface play an important role in protein-protein binding. We present a method here that uses desolvation energy to identify protein-protein interface. Utilizing desolvation energy, the optimal docking area (ODA) method in Fernandez-Recio, J. et al, (2005) identifies protein-protein interfaces by calculating the ODA values and then applying a fixed threshold on the ODA values for all proteins. The proposed method derives desolvation energy histograms of all proteins from ODA values and calculates an individual threshold for each protein to identify interface. An individual threshold for a test protein is calculated based on the ODA values of known hot spots of a protein that has the closest match to its ODA histogram with test protein. Results show that overall success rate improved to 58.8% from 39% on a dataset comprised of 51 proteins involved in non-obligate hetero-complexes. The proposed method predicted at least one hot spot in 49 cases as compared to 31 in the ODA method. In addition, comparable results were found for both X-ray and NMR structures
+
+ODA hot spots
+Protein-protein interface
+histogram template matching
+optimal docking area

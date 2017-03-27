@@ -1,0 +1,7 @@
+Scanning pyroelectric microscopy was applied to study the local thermal diffusivity in polar perhydrotriphenylene (PHTP) inclusion compounds. A thermal wave technique with special heat flow and pyroelectric detection principles was used to measure the longitudinal (K%) and transversal (K¥) thermal diffusivity of needle shaped crystals. As expected, we have found a higher thermal conductivity along the channel direction: K%&gt;K¥. K% also showed a variation along the needle axis, the K% values near the capping faces being higher than in the center region. Based on these observations we suggest a relation between the longitudinal thermal conductivity and the local density of orientational defects of the dipolar guest molecules which reaches a maximum in the area around the seed. These findings are in agreement with previous pyroelectric studies, revealing a macrodomain structure and a spatially dependent pyroelectric activity for two different PHTP inclusion compounds. © 2000 American Institute of Physics. 
+
+organic compounds
+thermal diffusivity
+thermal conductivity
+pyroelectricity
+inclusions

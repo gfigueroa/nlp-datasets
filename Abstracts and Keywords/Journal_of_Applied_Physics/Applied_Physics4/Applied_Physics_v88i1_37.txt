@@ -1,0 +1,11 @@
+We have used accurate Hamiltonians and resulting wave functions to calculate the two-photon absorption coefficient and the free-carrier absorption coefficient in InAs and a HgCdTe alloy with the same band gap. Detailed results are obtained for the dependencies of the absorption on photon energy and incident intensity. Optical matrix elements are calculated from the wave number dependent wave functions. We have further solved the appropriate steady-state differential equation, with the calculated values of absorption coefficients, for depth dependence of the intensity in the material. We find that the nonlinear absorption in a HgCdTe alloy is about 100% larger than that in InAs of the same band gap and window thickness. © 2000 American Institute of Physics. 
+
+wave functions
+absorption coefficients
+two-photon spectra
+indium compounds
+III-V semiconductors
+mercury compounds
+cadmium compounds
+II-VI semiconductors
+nonlinear optics

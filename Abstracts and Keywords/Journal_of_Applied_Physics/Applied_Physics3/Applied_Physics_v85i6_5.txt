@@ -1,0 +1,18 @@
+GaAs(100) substrate was treated in a helicon-wave excited N2 plasma for short time (515 min). Current densityvoltage (JV) characteristics were measured for the Schottky or tunnel metalinsulatorsemiconductor diode. The Schottky barrier height obtained from Richardson plot was about 0.30.4 eV for the plasma-treated samples independent of the plasma exposure time, while it was about 0.7 eV for the untreated one. The ideality factor and the reverse (leakage) current were much higher for the plasma-treated GaAs than for the untreated ones. The bulk carrier density showed a small decrease near the GaAs surface only for the plasma-treated samples. A very high density of the interface states was observed at EC = 0.30.4
+eV from the analysis of JV characteristics based on the Horváths theory [J. Appl. Phys. 63, 976 (1988)]. These experimental results indicated that the high density of the interface states were generated at the energy of EC = 0.30.4
+eV, probably due to plasma-induced damage, and the surface Fermi level was strongly pinned at this energy position, though the midgap pinning was removed or partially removed due to the plasma treatment. Some possible reasons of this removal of the midgap pinning are also discussed. © 1999 American Institute of Physics.
+
+gallium arsenide
+Fermi level
+III-V semiconductors
+helicons
+plasma materials processing
+substrates
+Schottky diodes
+MIS devices
+semiconductor diodes
+interface states
+Schottky barriers
+leakage currents
+carrier density
+surface treatment

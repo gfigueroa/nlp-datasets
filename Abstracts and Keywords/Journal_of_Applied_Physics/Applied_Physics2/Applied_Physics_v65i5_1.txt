@@ -1,0 +1,13 @@
+Diamondlike carbon (DLC) films have been deposited onto roomtemperature silicon substrates, which are placed on a cathode, in a dc plasma of methane (CH4) and hydrogen (H2) gas mixture. Ultramicroindentation hardness and Youngs modulus for the films were measured. The mechanical properties of DLC films change greatly in two different anode positions relative to the cathode. In the case of an upward anode position (socalled parallel electrode), the maximum ultramicroindentation hardness value is 200 GPa(3700 Hv) and the maximum Youngs modulus value is 480 GPa. At a sideward anode position, the maximum ultramicroindentation hardness value and Youngs modulus value are 480 GPa(7500 Hv) and 850 GPa, respectively, which are much higher values than those at the upward anode position. The contactstartstop test results indicate that DLC films have a possibility for use as a wearresistant protective layer.
+
+CARBON
+DIAMONDS
+YOUNG MODULUS
+MECHANICAL PROPERTIES
+ELECTRIC CONDUCTIVITY
+SILICON
+CATHODES
+HYDROGEN
+VERY HIGH PRESSURE
+MICROHARDNESS
+CUBIC LATTICES

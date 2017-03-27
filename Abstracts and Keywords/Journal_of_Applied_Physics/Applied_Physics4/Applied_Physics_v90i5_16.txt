@@ -1,0 +1,14 @@
+The effect of thermal annealing on the properties of AlAlOxAl single electron tunneling transistors is reported. After treatment of the devices by annealing processes in forming gas atmosphere at different temperatures and for different times, distinct and reproducible changes of their resistance and capacitance values were found. According to the temperature regime, we observed different behaviors with regard to the resistance changes, namely the tendency to decrease the resistance by annealing at T=200
+°C, but to increase the resistance by annealing at T=400
+°C. We attribute this behavior to changes in the aluminum oxide barriers of the tunnel junctions. The good reproducibility of these effects with respect to the changes observed allows the proper annealing treatment to be used for postprocess tuning of tunnel junction parameters. Also, the influence of the annealing treatment on the noise properties of the transistors at low frequency was investigated. In no case did the noise figures in the 1/f regime show significant changes. © 2001 American Institute of Physics. 
+
+aluminium
+aluminium compounds
+superconducting junction devices
+single electron transistors
+superconducting transistors
+annealing
+capacitance
+superconductive tunnelling
+1/f noise
+superconducting device noise

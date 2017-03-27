@@ -1,0 +1,9 @@
+The transmissive FabryPerot interference peaks of a filled twisted nematic (TN) cell as a function of wavelength, from 400 to 600 nm and from 1100 to 2000 nm, have been used for the determination of the cell gap. Theoretical formulations have been developed to calculate the effective indices of refraction including the dispersive effect, as well as the twist geometry of the liquidcrystal medium for both the ordinary and extraordinary waves. When the light passes through the TN medium an even number of times caused by the interfacial reflections, the equations governing the effective indices of refraction are well behaved. For an odd number of passes, the validity of these equations is restricted to a region adjacent to the Mauguin limit. The cell gaps were derived from the measured effective optical paths and the calculated indices of refraction, which include the dispersive effect with or without the twisted deformation of the liquidcrystal medium. A general equation has also been obtained to derive the TN cell gap from the effective optical paths, which are measured by using the splitbeam interferometric method.
+
+NEMATIC CRYSTALS
+OPTICAL PROPERTIES
+INTERFERENCE
+REFRACTIVITY
+DISPERSION RELATIONS
+FABRYPEROT INTERFEROMETER
+ANALYTICAL SOLUTION

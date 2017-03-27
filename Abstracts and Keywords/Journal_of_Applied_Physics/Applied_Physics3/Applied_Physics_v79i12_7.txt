@@ -1,0 +1,12 @@
+Sharp and straight step edges on (001) LaAlO3 (LAO) substrates were ion milled by using an electron beam defined amorphous carbon thin film mask. YBa2Cu3O7 (YBCO) thin films patterned to narrow strips across the step edges gave high quality Josephson junctions. Their currentvoltage (IV) curves could be well described by the resistively shunted junction model with or without excess current. By varying the YBCO film thickness over a fixed step height, the critical current density (jc) of the junction could be changed by several orders of magnitude. For junctions with high jc, typical IcRn (product of critical current and normal resistance) values of around 100 ¼V at 77 K and more than 1 mV at 4.2 K were obtained. Some excess current was observed. For junctions with low jc, the dependence of Ic on an applied magnetic field was strong even at low temperatures. The Ic showed a main peak in the center and welldefined periods as a function of applied magnetic field. The minimum Ic value suppressed by the magnetic field was about 20% of its maximum value at 4.2 K. Junctions with low jc usually showed hysteretic IV curves at low temperatures. The McCumber constant ²c fell in the range of 0.82. Fiske and fluxflow resonances were observed for some junctions. The shunting capacitances of the junctions were estimated from the McCumber constant ²c, Fiske resonances, and fluxflow resonances. A shunting capacitance value per unit area of 1235 fF/¼m2 was obtained. High resolution crosssectional transmission electron microscopy was used to study YBCO films grown across straight and wavy step edges. Two 90° tilt boundaries were formed at the edge of a step. The top and bottom YBCO films had their c axis oriented normal to the (001) plane of LAO. In the edge region, the c axis of the YBCO film was tilted by 90°, the a axis was normal to the (001) plane of LAO, and the b axis was lying along the step edge. For wavy step edges, second phase particles usually appeared in the YBCO film along the step edge region. Defects were found on the surface of the LAO substrate along the wavy step edge region. These defects might act as nucleation centers for the second phase particles in the YBCO film. © 1996 American Institute of Physics. 
+
+HIGHTC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+MICROSTRUCTURE
+SUPERCONDUCTING JUNCTIONS
+THIN FILMS
+TEM
+CRITICAL CURRENT
+MAGNETIC FLUX

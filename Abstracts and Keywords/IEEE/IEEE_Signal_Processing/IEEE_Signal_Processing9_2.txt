@@ -1,0 +1,6 @@
+Touch-less fingerprint recognition is regarded as a viable alternative to contact-based fingerprint recognition technology. It provides a near ideal solution to the problems in terms of hygienic, maintenance and latent fingerprints. In this paper, we present a touch-less fingerprint recognition system by using a digital camera. Specifically, we address the constraints of the fingerprint images that were acquired with digital camera, such as the low contrast between the ridges and the valleys in fingerprint images, defocus and motion blurriness. The system comprises of preprocessing, feature extraction and matching stages. The proposed preprocessing stage shows the promising results in terms of segmentation, enhancement and core point detection. Feature extraction is done by Gabor filter and the favorable verification results are attained with the Support Vector Machine.
+
+Gabor filter
+Support Vector Machine
+preprocessing
+touch-less fingerprint recognition

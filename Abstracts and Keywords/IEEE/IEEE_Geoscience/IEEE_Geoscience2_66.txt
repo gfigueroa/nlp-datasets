@@ -1,0 +1,8 @@
+We have developed a method for evaluating the possibility of reducing environmental burden through the introduction of ICT solutions, based on ICT's environmental efficiency evaluation guideline. The method used calculates the environmental burden (CO<sub>2</sub> emissions) before and after the introduction of our ICT solution with respect to seven environmental factors, including resource consumption and human transportation. What is prominent in our system particularly is that the increase and decrease of office spaces as a result of introducing ICT required for work (working efficiency), documents, equipment, etc., is included as a subject for evaluation as office spaces. In addition to evaluation of the environmental burden, eco-efficiency and the factor were considered through the case study.
+
+CO2 emission
+Eco-efficiency
+Environmental burden
+Factor
+ICT solution
+Office space

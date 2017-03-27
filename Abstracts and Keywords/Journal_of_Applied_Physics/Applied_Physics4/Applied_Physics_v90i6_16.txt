@@ -1,0 +1,7 @@
+The persistent photoconductivity (PPC) induced by visible light of a HeNe laser with a wavelength of 632.8 nm in perovskite manganite films of (La0.3Nd0.7)2/3Ca1/3MnO3 at low temperatures, below <50 K, was observed. Based on the measurements of transport and magnetic properties, it is suggested that the samples undergo a transition of cluster-glass state below <50 K. The PPC phenomenon can be qualitatively explained in terms of a photoinduced ferromagnetic cluster growth model. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+neodymium compounds
+photoconductivity
+magnetic thin films
+ferromagnetic materials

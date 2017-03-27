@@ -1,0 +1,16 @@
+Lowtemperature annealing (525	°C800	°C) of 50keV, 1×1015cm2, boronimplanted silicon was studied with the emphasis on the mechanisms responsible for the reverse annealing as well as the enhanced diffusion of the implanted boron. The electrical properties of boronimplanted silicon were analyzed with Hall measurement. Boron depth profiles were also measured using secondaryion mass spectrometry. These results were then correlated with crosssection transmission electron microscopy studies and deeplevel transient spectroscopy studies. It is shown that reverse annealing is possibly due to boronsilicon interstitial complexes, rather than the formation of the commonly observed rodlike defects or precipitates. On the other hand, the enhanced tail diffusion of boron is found to be most likely associated with selfinterstitials. Consequently, vacancy trapping of the silicon interstitial component may account for both the charge carrier recovery and the ending of the enhanced tail diffusion of implanted boron.
+
+SILICON
+IMPURITIES
+DEPTH DOSE DISTRIBUTIONS
+MASS SPECTROSCOPY
+TRANSMISSION ELECTRON MICROSCOPY
+DEEP LEVEL TRANSIENT SPECTROSCOPY
+ELECTRICAL PROPERTIES
+EXPERIMENTAL DATA
+BORON
+ION IMPLANTATION
+THERMAL DIFFUSION
+ANNEALING
+HIGH TEMPERATURE
+VERY HIGH TEMPERATURE

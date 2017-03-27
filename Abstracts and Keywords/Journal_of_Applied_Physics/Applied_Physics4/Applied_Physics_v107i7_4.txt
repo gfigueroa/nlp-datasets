@@ -1,0 +1,9 @@
+We present eight-band k≈p calculations of the electronic and polarization properties of columnar InzGa1zAs quantum dots (CQD) with high aspect ratio embedded in an InxGa1xAs/GaAs quantum well. Our model accounts for the linear strain effects, linear piezoelectricity, and spin-orbit interaction. We calculate the relative intensities of transverse-magnetic (TM) and transverse-electric (TE) linear polarized light emitted from the edge of the semiconductor wafer as a function of the two main factors affecting the heavy holelight hole valence band mixing and hence, the polarization dependent selection rules for the optical transitions, namely, (i) the composition contrast z/x between the dot material and the surrounding well and (ii) the dot aspect ratio. The numerical results show that the former is the main driving parameter for tuning the polarization properties. This is explained by analyzing the biaxial strain in the CQD, based on which it is possible to predict the TM to TE intensity ratio. The conclusions are supported by analytical considerations of the strain in the dots. Finally, we present the compositional and geometrical conditions to achieve polarization independent emission from InGaAs/GaAs CQDs.
+
+gallium arsenide
+III-V semiconductors
+indium compounds
+piezoelectric materials
+semiconductor quantum dots
+spin-orbit interactions
+valence bands

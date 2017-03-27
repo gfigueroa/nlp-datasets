@@ -1,0 +1,21 @@
+A source has been constructed for the generation of metal cluster beams. The particles are detected by electronic time of flight mass spectrometry which includes pulsed electron impact ionization. Condensation occurs in a supersonic carrier gas (H2, He, or Ar) and large dimer/monomer ratios are found, although the Zn1 vapor pressure before the expansion is only 103 mbar. The highest measured value of the dimer to monomer intensity ratio was 6.
+
+DIMERIZATION
+ZINC
+VAPORS
+SUPERSONIC FLOW
+CARRIERS
+GASES
+DESIGN
+METALS
+CLUSTER BEAMS
+TIMEOFFLIGHT SPECTROMETERS
+MASS SPECTROSCOPY
+DATA
+ELECTRONS
+IONIZATION
+CONDENSATION
+HYDROGEN
+ARGON
+HELIUM
+VAPOR PRESSURE

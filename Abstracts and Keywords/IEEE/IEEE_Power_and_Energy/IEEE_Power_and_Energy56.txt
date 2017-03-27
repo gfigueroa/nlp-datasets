@@ -1,0 +1,8 @@
+Planning for contingencies typically results in the use of more expensive facilities before disruptions. It leads to different prices and energy availability at various network locations depending on how the contingency analysis is performed. In this paper we present a two-stage stochastic programming model for incorporating contingencies. The model is computationally demanding, and made tractable by using an interior-point log-barrier method coupled with Benders decomposition. The second-stage optimal recourse function (RF) defines the most economically efficient actions in the post-contingency state for returning the system back to normal operating conditions. The approach is illustrated with for two examples: small (with 8 buses/11 branches) and IEEE medium-scale (with 300 buses/411 branches).
+
+Locational marginal prices (LMPs)
+optimization methods
+power system economics
+power system security
+stochastic approximation
+uncertainty

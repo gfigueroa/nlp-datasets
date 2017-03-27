@@ -1,0 +1,5 @@
+Recent results on the design of a set of electric wheelchair system for the disabled and the elderly are presented in this paper. This system could be controlled by either touching screen or human voice. The equipment for physiological index detecting is installed on the wheelchair, it can indicate the health level of people. By touching the screen on the wheelchair, you can make a phone call, control all domestic appliances and achieve other fanny intelligent functions. This system can create a safe, intelligent, easy and fashionable environment for the users. This system has been applied in practice and has achieved a good result.
+
+disabled people assistant
+electric wheelchair
+smart control

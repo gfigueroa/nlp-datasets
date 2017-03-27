@@ -1,0 +1,14 @@
+Reproducible memory and switching effects have been detected in polycarbonategraphite composites. Memory effects are characterized in the range of 01 kV/cm. It is suggested that they involve electrothermal and electromechanical phenomena. Switching effects occur above 2 kV/cm and are related to an intrinsic electric breakdown of the material. The threshold field increases with increasing thickness of the composite film. The temperature dependence and level of conductivity reached point toward a prevailing electron tunneling mechanism.
+
+MEMORY DEVICES
+SWITCHING
+COMPOSITE MATERIALS
+GRAPHITE
+POLYCARBONATES
+BREAKDOWN
+TUNNEL EFFECT
+ELECTROMECHANICAL EFFECTS
+ELECTRIC FIELD EFFECTS
+ELECTRICAL PROPERTIES
+POLYMERS
+THERMOELECTRICITY

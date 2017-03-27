@@ -1,0 +1,7 @@
+The electric (magnetic) field of planes containing protrusions or grooves and corrugated sheets or systems, consisting of planeopposite corrugated sheets, are examined using modified SchwarzChristoffel formulas. The conductors are of general shapes.
+
+SHEETS
+PLANAR CONFIGURATION
+ELECTRIC FIELDS
+MAGNETIC FIELDS
+ELECTROSTATICS

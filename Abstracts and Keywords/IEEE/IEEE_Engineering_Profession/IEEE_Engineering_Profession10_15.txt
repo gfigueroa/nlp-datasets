@@ -1,0 +1,9 @@
+Ultrasonic pulsed Doppler (USPD) is a novel technique for characterizing suspensions of particles using ultrasonic backscatter. A single transducer projects a focused ultrasonic beam into a focal zone within the fluid in which the sound pressure level is very high and where, consequently, the majority of the backscattered energy from the particles is generated for collection by the transducer. The particles are in motion in the focal zone so that the backscattered energy is at a Doppler shifted frequency that differs from that of the interrogating signal. This eliminates measurement clutter and provides a very low noise environment that allows measurement of backscatter from particles as small as several nanometers. Particle measurements that can be made include concentration, size, compressibility, and suspension flow velocity. In this study, invasive and non-invasive measurements of velocity components normal to the transducer face in a flowing liquid (milk) were made with a transducer placed in a plastic elbow fitting. The spectra of the backscattered signals contained information about the flow through the focal zone that supports identification of the primary and secondary flow components. Estimates of the average USPD measured velocity and of the maximum velocity correlate linearly with the measured bulk average velocity. The smallest velocities so measured were on the order of 1 cm/s or less.
+
+Doppler velocimetry
+backscatter
+flow velocity
+particle characterization
+primary flow
+secondary flow
+ultrasound

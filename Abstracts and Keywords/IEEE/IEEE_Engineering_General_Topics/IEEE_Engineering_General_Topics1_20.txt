@@ -1,0 +1,7 @@
+This paper deals with the foundations of a possibility/fuzzy expression of measurement uncertainty. Indeed the notion of possibility distribution is clearly identified to a family of probability distributions whose coverage intervals are included in the level cuts of the possibility distribution Thus the fuzzy inclusion ordering, dubbed specificity ordering, constitutes the basis of a maximal specificity principle. The latter is sounder than the maximal entropy principle to deal with cases of partial or incomplete information in a measurement context. The two approaches can be compared on some common practical measurement cases thanks to the respective coverage intervals they provide.
+
+coverage intervals
+maximum entropy principle
+maximum specificity principle
+measurement uncertainty
+possibility theory

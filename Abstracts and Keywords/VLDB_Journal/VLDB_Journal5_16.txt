@@ -1,0 +1,6 @@
+Physical data independence is touted as a central feature of modern database systems. It allows users to frame queries in terms of the logical structure of the data, letting a query processor automatically translate them into optimal plans that access physical storage structures. Both relational and object-oriented systems, however, force users to frame their queries in terms of a logical schema that is directly tied to physical structures. We present an approach that eliminates this dependence. All storage structures are defined in a declarative language based on relational algebra as functions of a logical schema. We present an algorithm, integrated with a conventional query optimizer, that translates queries over this logical schema into plans that access the storage structures. We also show how to compile update requests into plans that update all relevant storage structures consistently and optimally. Finally, we report on experiments with a prototype implementation of our approach that demonstrate how it allows storage structures to be tuned to the expected or observed workload to achieve significantly better performance than is possible with conventional techniques.
+
+Indexing
+Materialized views
+Physical data independence
+Physical database design

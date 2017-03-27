@@ -1,0 +1,10 @@
+In this paper, we present studies of room temperature aging and annealing of Nb/AlAlOx/Nb tunnel junctions with the size of 23¼m2. We observed a noticeable drop of junction normal resistance Rn unusually combined with increase in subgap resistance Rj as a result of aging. Variation in both Rn and Rj are subject to the junction size effect. An effect of aging history on the junction degradation after consequent annealing was discovered. Discussion and interpretation of the observed phenomena are presented in terms of structural ordering and reconstruction in the AlOx layer, driven by diffusion flows enhanced due to stress relaxation processes in the Al layer interfacing the AlOx layer.
+
+ageing
+aluminium
+aluminium compounds
+annealing
+diffusion
+Josephson effect
+niobium
+superconducting materials

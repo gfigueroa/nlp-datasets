@@ -1,0 +1,11 @@
+Magnetic entropy and adiabatic temperature changes in and above the room-temperature region have been measured for La0.7Sr0.3Mn1xMx2O3 (M2 = Al,Ti) by means of magnetization and heat capacity measurements in magnetic fields up to 6 T. The magnetocaloric effect becomes largest at the ferromagnetic ordering temperature Tc that is tuned (from 364.5 K for x = 0) to < 300K by the substitution of Al or Ti for Mn. While the substitution of Al for Mn drastically reduces the maximum magnetic entropy (”Sm) and adiabatic temperature (”Ta) changes, it extends considerably the working temperature span and therefore improves the relative cooling power (RCP). Under a magnetic field change ”H = 2T, ”Sm (or ”Ta) of La0.7Sr0.3Mn1xAlxO3 decreases from 2.66J/kg	K (or 1.65 K) for x = 0 to 1.18J/kg	K (or 0.69 K) for x = 0.1, while RCP increases from 80.3 to 108.8 J/kg, respectively. While Tc is largely suppressed, the magnetocaloric effect is only lightly affected by the Ti substitution. With ”H = 2T, the La0.7Sr0.3Mn0.95Ti0.05O3 sample exhibits ”Sm (or ”Ta) = 2.44J/kg	K (or 1.38 K) with RCP = 89.9J/kg. The decrease of magnetic moment is found to be one possible reason behind the suppression of the MCE. The magnetocaloric effect in manganite materials seems to be inhibited by the existence of short-range ferromagnetic correlations above Tc.
+
+entropy
+lanthanum compounds
+magnetic cooling
+magnetic moments
+magnetic transition temperature
+magnetisation
+manganese compounds
+specific heat
+strontium compounds

@@ -1,0 +1,15 @@
+Timeresolved measurements of optical emission from the ablation plume of ArF excimerlaserirradiated Cu, CuO, Bi1.7Sr1.3Ca2Cu3Ox, and Y1Ba1.7Cu2.7Oy are reported. Data were collected on several emission lines for a variety of neutral and ionic species, including Cu+, Cu, Sr+, Sr, Ca+, Ca, and Y. The time dependence of the emission intensity is analyzed to obtain effective particle velocities. The results indicate most probable velocities of (310)×105 cm/s for the neutral species and (12)×106 cm/s for the ions, in qualitative agreement with previous work. However, the time dependence of the optical emission intensity can be influenced by radiation trapping and the detailed mechanisms of species excitation. These effects are shown to complicate the quantitative relationship between the emission intensity versus time and the particle velocity.
+
+HIGHTC SUPERCONDUCTORS
+COPPER
+COPPER OXIDES
+YTTRIUM OXIDES
+BARIUM OXIDES
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+ABLATION
+LASER RADIATION
+OPTICAL PROPERTIES
+EMISSION
+TIME RESOLUTION

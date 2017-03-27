@@ -1,0 +1,9 @@
+Flywheel energy storage systems (FESSs) improve the quality of the electric power delivered by wind generators, and help these generators contributing to the ancillary services. Presently, FESSs containing a flux-oriented controlled induction machine (IM) are mainly considered for this kind of application. The paper proposes the direct torque control (DTC) for an IM-based FESS associated to a variable-speed wind generator, and proves through simulation and experimental results that it could be a better alternative. This DTC application entails two specific aspects: 1) the IM must operate in the flux-weakening region, and 2) it must shift quickly and repeatedly between motoring and generating operation modes. DTC improvement for increasing the FESS efficiency, when it operates at small power values, is discussed. Some aspects concerning the flywheel design and the choice of the filter used in the FESS supervisor are also addressed.
+
+DC-link voltage regulation
+direct torque control (DTC)
+flux-oriented controlled (FOC)
+flywheel energy storage
+induction machine (IM)
+power flow supervision
+variable-speed wind generator (VSWG)

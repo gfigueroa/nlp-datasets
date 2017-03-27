@@ -1,0 +1,10 @@
+The bandgap energy of single crystals of ±mercuric iodide has been obtained for temperatures from ambient to the limit of stability of the phase, 400 K. The method is based on measuring the spectral shifts of the excitonic reflection and absorption peaks with changing temperature, and utilizes results for low temperatures from other investigations. The temperature coefficient of the band gap is 3.9×104 eV/K from 285 to 400 K, and the direct band gap at 300 K is 2.292 eV.
+
+MERCURY IODIDES
+ENERGY GAP
+MEDIUM TEMPERATURE
+OPTICAL REFLECTION
+EXCITONS
+TEMPERATURE COEFFICIENT
+SPECTRAL SHIFT
+ABSORPTION SPECTRA

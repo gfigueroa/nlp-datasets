@@ -1,0 +1,5 @@
+This paper studies an approach to identify representative operating and contingency (OC) scenarios for the design of underfrequency load-shedding (UFLS) schemes. In small isolated power systems, contingency scenarios are outages of generating units. Usually, only N-1 outages are considered. In this paper, simultaneous outages of several units are also taken into account. Data mining techniques such as K-Means and Fuzzy C-Means algorithms are used to group scenarios in terms of system frequency and to identify representative OC scenarios. The approach has been applied to the design of UFLS schemes of two of the Spanish isolated power systems. The results have also been compared to the common practice of scenario selection. Clustering techniques yielded to satisfactory results, i.e., representative OC scenarios can be identified. Furthermore, these representative OC scenarios cover a wider range of possible system responses than the scenarios selected following the common practice.
+
+Clustering methods
+frequency stability
+load shedding

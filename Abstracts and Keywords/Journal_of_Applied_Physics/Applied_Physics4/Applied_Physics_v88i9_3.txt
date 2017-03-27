@@ -1,0 +1,13 @@
+The influence of plasma oxidation and other surface pretreatments on the electronic structure of indiumtinoxide (ITO) thin films has been studied by high resolution x-ray photoemission spectroscopy. Plasma oxidation compensates n-type doping in the near surface region and leads to a reduction in the energy of plasmon satellite structure observed in In
+3d core level spectra. In parallel, the Fermi level moves down within the conduction band, leading to a shift to low binding energy for both core and valence band photoemission features; and the work function increases by a value that corresponds roughly to the core and valence band binding energy shifts. These observations suggest that the conduction band of ITO is fixed relative to the vacuum level and that changes of work function are dominated by shifts of the Fermi level within the conduction band. © 2000 American Institute of Physics. 
+
+indium compounds
+tin compounds
+semiconductor materials
+semiconductor thin films
+X-ray photoelectron spectra
+core levels
+valence bands
+conduction bands
+Fermi level
+oxidation

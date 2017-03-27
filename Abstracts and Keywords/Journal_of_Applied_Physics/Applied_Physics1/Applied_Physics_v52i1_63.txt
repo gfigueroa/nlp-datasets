@@ -1,0 +1,13 @@
+A model for ion nitriding is proposed which is based on the formation and diffusion of vacancynitrogen ion pairs. A theoretical expression is developed for the local effective diffusion coefficient of the combined vacancyion pairs which explains the accelerated case hardening associated with ion nitriding as compared with conventional nitriding. Ionnitriding experiments on AISI 304 stainless steel were performed in a magnetic field to increase the number of vacancyion pairs. The experiments confirmed the theory, showing that in the current density range 100	1000 A	m2 the local effective diffusion coefficient is proportional to the current density.
+
+NITRIDATION
+MATHEMATICAL MODELS
+MAGNETIC FIELDS
+IONS
+SURFACES
+DIFFUSION
+VACANCIES
+NITROGEN IONS
+COMPARATIVE EVALUATIONS
+STAINLESS STEEL304
+CURRENT DENSITY

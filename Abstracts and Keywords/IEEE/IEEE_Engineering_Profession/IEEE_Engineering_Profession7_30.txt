@@ -1,0 +1,6 @@
+This paper presents two different algorithms to detect human motion using the sum of absolute difference (SAD) and area-based detection methods. Both methods have the same objective that is to detect moving pixels in video sequences. The SAD block will determine the similarity between the input image and the background image that acted as the reference template, by performing the sum of absolute differences. As for the area- based detection, it uses the pre defined range of total 0-value pixels (black pixels) in binary image that depends on the size of the foreground image. The differences are indicated by the moving pixels in the input image that represented the detected object(s). Subsequently the identified objects will undergo some morphological processes such as dilation and erosion to filter the noise pixels, for precise means of detection. Next, the system will perform the boundary box plotting to denote the detected object. The entire system is developed in the virtual reality environment and later be deemed for application in an intelligent surveillance system, pedestrian detection and human activity recognition.
+
+Human detection
+Motion analysis
+Sum of Absolute Difference (SAD)
+Virtual reality

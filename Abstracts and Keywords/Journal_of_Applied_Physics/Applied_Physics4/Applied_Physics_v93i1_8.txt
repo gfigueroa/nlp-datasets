@@ -1,0 +1,7 @@
+High-resolution x-ray diffraction (HRXRD) was used to monitor silicon-on-insulator (SOI) device fabrication processes. The use of HRXRD is attractive since it is nondestructive and can be applied directly to product wafers. We show the usefulness of this technique for the characterization of amorphizing implants for shallow junctions, solid phase recrystallization of implanted junctions, cobalt-silicide formation, and oxidation; all are critical processes for complementary metal oxide semiconductor device fabrication on SOI. We also found the technique applicable to multilayered SOI structures fabricated by wafer bonding, where the tilt and rotation of each SOI layer with respect to the handle substrate, allowed us to obtain independent measurements of each SOI film. © 2003 American Institute of Physics. 
+
+silicon-on-insulator
+X-ray diffraction
+MOSFET
+semiconductor device manufacture
+ion implantation

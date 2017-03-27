@@ -1,0 +1,16 @@
+Electron paramagnetic resonance (EPR) has been used to investigate molecular nitrogen and isolated nitrogen acceptors in single crystals of ZnO. These samples were grown by the seeded chemical vapor transport method with N2 added to the gas stream. A five-line EPR spectrum is observed at low temperature in the as-grown bulk crystals and is assigned to N2 molecules substituting for oxygen. This structure arises from nearly equal hyperfine interactions with two nitrogen nuclei (14N, 99.63% abundant, I=1). The spin Hamiltonian parameters for the N2 center are g%=2.0036, g¥=1.9935, A%=9.8
+MHz, and A¥=20.1
+MHz, with the unique directions parallel to the c axis. Laser excitation at 9 K, with 325 or 442 nm light, eliminates the N2 spectrum (when the N2 convert to N20) and independently introduces the EPR spectrum due to isolated nitrogen acceptors (when N acceptors convert to N0). Removing the laser light and warming to approximately 100 K restores the crystal to its preilluminated state. In separate experiments, heating between 600 and 800
+°C increases the number of N2 and N0 acceptors that can be observed. We suggest that the activation of these nitrogen acceptors occurs when complexes of hydrogen and nitrogen thermally dissociate. Further heating above 800
+°C drives the two nitrogen acceptors to inactive forms. © 2003 American Institute of Physics. 
+
+zinc compounds
+nitrogen
+II-VI semiconductors
+impurity states
+paramagnetic resonance
+hyperfine interactions
+spin Hamiltonians
+laser beam effects
+heat treatment
+photoluminescence

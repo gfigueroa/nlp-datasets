@@ -1,0 +1,7 @@
+Space mapping (SM) technology includes so-called output SM that ensures exact matching between the surrogate and the fine model at the current design. Output SM exploits the fine model data at a single design and is not able to align the models' sensitivity. Here, a multipoint response correction is introduced that generalizes the concept of output SM. By using a design-variable-dependent correction term and exploiting all available fine model information, the proposed technique provides exact match between the surrogate and the fine model at several designs. This not only retains the benefits of output SM but also enhances sensitivity matching between the two models, which results in improved performance of the SM optimization process. Verification using two microwave design problems is provided.
+
+Computer-aideddesign(CAD)
+EM optimization
+response correction
+space mapping
+surrogate modeling

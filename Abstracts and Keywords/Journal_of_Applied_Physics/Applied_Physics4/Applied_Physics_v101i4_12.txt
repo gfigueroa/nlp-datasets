@@ -1,0 +1,5 @@
+Electrowetting on dielectrics is now a major field of research for lab-on-chip applications. Droplets and liquid fingers are used to displace, mix, and analyze biological compounds. The creation and propagation of a liquid finger are investigated here for a channel with an elliptical cross section. Forces acting on the liquid are described and calculated, and the problem is solved using a steady-state equation. The theoretical length of the finger as a function of time is expressed and the threshold voltage for finger formation is deduced. Test devices fabricated in highly doped silicon are used to validate our theory. Liquid fingers propagating into the fabricated microchannels are extracted from microliter droplets using 1kHz ac voltages ranging from 80to180Vrms. The resulting experimental threshold voltages and the dynamic lengths are compared to the theoretical predictions. Additional discussions and calculations are proposed to improve our model so that the experimental conditions are more accurately described.
+
+drops
+wetting
+diffusion

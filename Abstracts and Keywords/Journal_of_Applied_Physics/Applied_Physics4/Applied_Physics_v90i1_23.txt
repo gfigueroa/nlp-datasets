@@ -1,0 +1,15 @@
+Defects in SiO2
+(48
+nm)/Si induced by 30 keV Er ion implantation were studied by positron annihilation. Depth-selective information on defects for samples implanted with doses of 3.0×1014 and 1.5×1015
+Er/cm2 was obtained by a variable-energy positron beam by measuring Doppler broadening of positron annihilation ³ rays as a function of incident positron energy. Comparison of the results by Doppler broadening with those by electron spin resonance after annealing indicates that the types of defects (which predominantly exist in the SiO2 layer) depend on implantation dose. The annealing temperature dependence of positron data is compared with that of the cathodoluminescence intensity at 1.54 ¼m, and the possible effect of defects on luminescence intensity is discussed. © 2001 American Institute of Physics. 
+
+silicon
+silicon compounds
+erbium
+positron annihilation
+ion implantation
+Doppler broadening
+cathodoluminescence
+annealing
+impurity distribution
+defect states

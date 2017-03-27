@@ -1,0 +1,6 @@
+In order to study phenoloxidase (PO) activity of the phenol-degrading bacteria, the carbon source of isolation culture medium adopts artificial phenol mixture. Stenotrophomonas maltophilia K279a is isolated from coal chemical industry wastewater. The optimum conditions for PO production are phenol 1000mg/L, temperature 30-34&#x00B0;C and PH 7-7.5. The strain resists 980mg/L COD and 805mg/L phenols. The degradation rate of phenols reaches 97% in 48h. The results show that Stenotrophomonas maltophilia K279a can be applied to the aerobic process with high proportion of phenols.
+
+bacteria
+coal chemical industry wastewater
+phenol
+phenoloxidase

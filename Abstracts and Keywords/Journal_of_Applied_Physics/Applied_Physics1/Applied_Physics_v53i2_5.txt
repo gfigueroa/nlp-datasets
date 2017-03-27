@@ -1,0 +1,18 @@
+Monte Carlo simulations based on a continuous slowingdown approximation (CSDA) model have been used along with experiment to study the alignment signals formed by electrons that are backscattered from anisotropically etched baresilicon tapered step marks. The CSDA model is demonstrated to be useful for the study of electron backscattering, particularly for materials with low atomic number. It is shown that a step angle of 54.7° gives a backscattered electron signal close to the maximum and that universal curves for the effects of step height and beam voltage on contrast and average signal slope can be obtained by normalizing to the Bethe range. Alignment signals in ternary takeoff angles and quadrantal azimuthal angles are studied. The tradeoff in expanded signaltonoise ratios for various detector angular configurations and for processed signals is examined. The detector scheme using low takeoff angles in the azimuthal quadrant facing the step is found to be the best. Experimental results from an ETEC Autoscan Scanning Electron Microscope (SEM) confirm may theoretically predicted aspects of alignment signals. The crystallographic effect of electron channeling which is not considered in the Monte Carlo simulation is evaluated experimentally.
+
+ELECTRON BEAMS
+ALIGNMENT
+SIGNALS
+SILICON
+MONTE CARLO METHOD
+DATA
+MATHEMATICAL MODELS
+BACKSCATTERING
+ANISOTROPY
+ETCHING
+SIGNALTONOISE RATIO
+SCANNING ELECTRON MICROSCOPY
+CRYSTALLOGRAPHY
+CHANNELING
+COMPARATIVE EVALUATIONS
+LITHOGRAPHY

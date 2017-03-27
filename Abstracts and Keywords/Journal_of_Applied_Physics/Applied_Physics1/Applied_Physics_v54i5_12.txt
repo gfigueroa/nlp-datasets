@@ -1,0 +1,12 @@
+High accuracy (0.1%) linear thermal expansivity results are given for a copper1.8 wt.	% beryllium alloy in both the halfhard and precipitationhardened conditions. These results, which are of technical importance for low temperature experiments, also show a small anomaly near 25 K in the temperature dependence of the ratio of the alloy expansivity to that of copper.
+
+beryllium alloys
+copper alloys
+thermal expansion
+experimental data
+low temperature
+quantity ratio
+accuracy
+hardness
+precipitation hardening
+very low temperature

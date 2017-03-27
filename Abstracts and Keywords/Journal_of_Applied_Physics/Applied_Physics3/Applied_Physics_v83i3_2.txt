@@ -1,0 +1,19 @@
+The frequency dependencies of the complex magnetic permeability and its aftereffect phenomenon in as-cast and annealed Fe64Co21B15 and in as-cast Fe8Co77B15 amorphous ribbons were studied. The measurements of these properties were carried out at frequencies between 1 and 120 kHz. The behavior of the frequency dependence of real and imaginary parts of the ac permeability and aftereffect were analyzed using the magnetic domain wall motion model. A change of the restoring force coefficient and the damping parameter with time was considered for the study of frequency dependency of the magnetic relaxation. © 1998 American Institute of Physics.
+
+magnetic permeability
+magnetic aftereffect
+metallic glasses
+annealing
+magnetic domain walls
+magnetic relaxation
+amorphous magnetic materials
+ferromagnetic materials
+IRON ALLOYS
+COBALT ALLOYS
+BORON ALLOYS
+PERMEABILITY
+AMORPHOUS STATE
+FREQUENCY DEPENDENCE
+KHZ RANGE
+MAGNETIZATION
+DOMAIN STRUCTURE

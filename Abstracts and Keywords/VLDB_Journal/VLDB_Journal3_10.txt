@@ -1,0 +1,5 @@
+CORAL is a deductive system that supports a rich declarative language, and an interface to C++, which allows for a combination of declarative and imperative programming. A CORAL declarative program can be organized as a collection of interacting modules. CORAL supports a wide range of evaluation strategies, and automatically chooses an efficient strategy for each module in the program. Users can guide query optimization by selecting from a wide range of control choices. The CORAL system provides imperative constructs to update, insert, and delete facts. Users can program in a combination of declarative CORAL and C++ extended with CORAL primitives. A high degree of extensibility is provided by allowing C++ programmers to use the class structure of C++ to enhance the CORAL implementation. CORAL provides support for main-memory data and, using the EXODUS storage manager, disk-resident data. We present a comprehensive view of the system from broad design goals, the language, and the architecture, to language interfaces and implementation details.
+
+deductive database
+logic programming system
+query language

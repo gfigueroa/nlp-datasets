@@ -1,0 +1,5 @@
+Reed Solomon coding plays an important role in sustaining the integrity of the data transmitted across communication channel. The Reed Solomon encoder can be embedded into many devices to protect the data to become corrupted. However, the encoder does consume a significant amount of power. By integrating the encoder circuit, there would be an increase of hardware component to be embedded in the device. Both of these factors give raise to the cost of producing the device. With the continuation of previous work, implementation of (15,9) Reed Solomon minimal instruction set computing on FPGA using Handel-C, a (255,223) Reed Solomon encoder was develop on the MISC processor. This encoder has a simple circuit which will produce the same encoded codeword as produced by usual encoder.
+
+Minimal Instruction Set Computing
+One Instruction Set Computing
+Reed Solomon

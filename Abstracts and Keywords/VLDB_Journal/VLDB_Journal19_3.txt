@@ -1,0 +1,7 @@
+We identify privacy risks associated with releasing network datasets and provide an algorithm that mitigates those risks. A network dataset is a graph representing entities connected by edges representing relations such as friendship, communication or shared activity. Maintaining privacy when publishing a network dataset is uniquely challenging because an individuals network context can be used to identify them even if other identifying information is removed. In this paper, we introduce a parameterized model of structural knowledge available to the adversary and quantify the success of attacks on individuals in anonymized networks. We show that the risks of these attacks vary based on network structure and size and provide theoretical results that explain the anonymity risk in random networks. We then propose a novel approach to anonymizing network data that models aggregate network structure and allows analysis to be performed by sampling from the model. The approach guarantees anonymity for entities in the network while allowing accurate estimates of a variety of network measures with relatively little bias.
+
+Anonymity
+Anonymization
+Privacy
+Networks
+Social networks

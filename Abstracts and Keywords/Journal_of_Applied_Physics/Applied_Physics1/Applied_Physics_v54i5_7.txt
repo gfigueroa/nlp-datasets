@@ -1,0 +1,19 @@
+The electron energy relaxation is studied as a function of the electron temperature Te in the n channel of a (100) surface silicon MOSFET (metaloxidesemiconductor fieldeffect transistor) device by inspecting the phenomenological energy relaxation time Äõ(Te) at 4.2	°K, 77	°K, and 300	°K lattice temperatures. Äõ is theoretically calculated in order to determine the relative contributions of shear horizontal (SH), pressureshear vertical (PSV), shear verticalpressure (SVP), total reflection shear vertical pressure (TR), and Rayleigh (R) surface acoustic phonon modes to the electron energy relaxation at the interface. Twodimensional electron transport is assumed and the effects of subbanding near the interface are included. Only electron scatter events within subbands are studied (intrasubband). This exhaustive study finds that surface modes do not dominate the electron energy relaxation at the SiSiO2 interface at TL =4.2	°K. Some other mechanism(s) must predominate at TL =4.2	°K.
+
+mosfet
+electrons
+energy losses
+crystal lattices
+orientation
+silicon
+phonons
+scattering
+energy levels
+experimental data
+electron temperature
+ultralow temperature
+low temperature
+medium temperature
+mathematical models
+interfaces
+oscillation modes

@@ -1,0 +1,11 @@
+In this article, we have performed detailed investigations of the 193 nm photoresist transformations after exposure to the so-called HBr and Ar plasma cure treatments using various characterization techniques (x-ray photoelectron spectroscopy, Fourier transformed infrared, Raman analyses, and ellipsometry). By using windows with different cutoff wavelengths patched on the photoresist film, the role of the plasma vacuum ultraviolet (VUV) light on the resist modifications is clearly outlined and distinguished from the role of radicals and ions from the plasma. The analyses reveal that both plasma cure treatments induce severe surface and bulk chemical modifications of the resist films. The synergistic effects of low energetic ion bombardment and VUV plasma light lead to surface graphitization or cross-linking (on the order of 10 nm), while the plasma VUV light (110210 nm) is clearly identified as being responsible for ester and lactone group removal from the resist bulk. As the resist modification depth depends strongly on the wavelength penetration into the material, it is found that HBr plasma cure that emits near 160170 nm can chemically modify the photoresist through its entire thickness (240 nm), while the impact of Ar plasmas emitting near 100 nm is more limited. In the case of HBr cure treatment, Raman and ellipsometry analyses reveal the formation of sp2 carbon atoms in the resist bulk, certainly thanks to hydrogen diffusion through the resist film assisted by the VUV plasma light.
+
+argon
+ellipsometry
+Fourier transform spectroscopy
+hydrogen compounds
+nanolithography
+photoresists
+plasma materials processing
+Raman spectroscopy
+X-ray photoelectron spectra

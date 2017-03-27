@@ -1,0 +1,13 @@
+Deep level electron and hole traps were studied by means of deep level transient spectroscopy with electrical and optical injection on a freestanding thick n-GaN sample with low dislocation density. It is shown that at both the upper and the lower surface of the sample there exists a thin, <0.5 ¼m layer of damaged material with lowered concentration of electrons and enhanced density of deep centers. Deep in the bulk of the film the densities of the majority of the electron and hole traps are shown to be very low, but measurably higher on the lower face (N face), which was originally closer to the Al2O3 substrate. The two faces are also shown to similarly differ in the density of deep hole traps whose concentration is deduced from low-temperature capacitancevoltage measurements in the dark and after illumination (such traps were previously associated with dislocation states). The concentration of persistent photocapacitance centers is shown to be very low on both sides and considerably lower than previously reported for other n-GaN samples with higher dislocation densities. Electron beam induced current measurements on both sides of the sample reveal the presence of dark spots whose density roughly correlates with the density of dislocations at the upper and lower faces. The reverse current at high voltages is shown to be considerably higher on the N face. The possible relationship of the observed phenomena to dislocations is discussed. © 2002 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+vapour phase epitaxial growth
+hole traps
+electron traps
+deep level transient spectroscopy
+dislocation density
+photocapacitance
+EBIC

@@ -1,0 +1,7 @@
+Electron scattering at interfaces between metals and dielectrics is a major concern in thermal boundary conductance studies. This aspect of energy transfer has been extensively studied and modeled on long time scales when the electrons and phonons are in equilibrium in the metal film. However, there are conflicting results concerning electron-interface scattering and energy transfer in the event of an electron-phonon nonequilibrium, specifically, how this mode of energy transfer affects the electron cooling during electron-phonon nonequilibration. Transient thermoreflectance (TTR) experiments utilizing ultrashort pulsed laser systems can resolve this electron-phonon nonequilibrium, and the thermophysical property relating rate of equilibration to electron-phonon scattering events G can be quantified. In this work, G in Au films of varying thicknesses are measured with the TTR technique. At large fluences (which result in high electron temperatures), the measured G is much larger than predicted from traditional models. This increase in G increases as the film thickness decreases and shows a substrate dependency, with larger values of G measured on more conductive substrates. The data suggest that in a highly nonequilibrium system, there could be some thermal energy lost to the underlying substrate, which can affect G.
+
+electron-phonon interactions
+gold
+high-speed optical techniques
+metallic thin films
+thermoreflectance

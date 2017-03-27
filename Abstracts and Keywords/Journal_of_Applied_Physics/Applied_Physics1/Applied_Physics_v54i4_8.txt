@@ -1,0 +1,9 @@
+A recent paper by Amalnerkar, et al. on xray photoelectron spectroscopic studies of oxygen chemisorption on thick films of photoconducting cadmium sulfide, is compared and contrasted with literature data and earlier studies by ourselves. We find that the interpretation of the XP S(2p) features by Amalnerkar et al. cannot be correct. The source of confusion is identified as originating from indeterminate stray AlK± radiation.
+
+chemisorption
+xray spectroscopy
+photoelectron spectroscopy
+oxygen
+thickness
+films
+photoconductors

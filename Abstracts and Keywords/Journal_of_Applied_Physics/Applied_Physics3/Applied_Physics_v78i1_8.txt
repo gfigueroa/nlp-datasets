@@ -1,0 +1,13 @@
+The damage produced at the interfaces in a sample of GaAs/Al0.6Ga0.4As/GaAs that has been subjected to ion implantation at 77 and 293 K with 1 MeV Kr+ ions has been investigated using a combination of ion channeling and transmission electron microscopy (TEM) techniques. Low temperature ionchanneling spectra obtained from samples implanted at 77 K, to an ion dose of 1014 ions	cm2, were similar to the random spectrum, indicating that the GaAs and Al0.6Ga0.4As layers had sustained a considerable degree of damage. An asymmetric signal developed in the He+ ionchanneling spectrum as the sample warmed to room temperature. The backscattering yield corresponding to the bottom interface (i.e., Al0.6Ga0.4As grown on GaAs) resembled that of the random yield, whereas that from the top interface (GaAs grown on Al0.6Ga0.4As) decreased, shifting toward the unirradiated channeled spectrum. This observation suggests that the damage produced near the top of the Al0.6Ga0.4As layer is thermally unstable. Crosssectional TEM images reveal a greater amount of damage in the form of extended defects and amorphous regions at the bottom interface than at the top one. This difference is sufficient to account for the observed asymmetry in the channeling spectra. Increasing the ion dose to 1015 ions	cm2 produced a damage state throughout the Al0.6Ga0.4As layer that was stable at both 77 and 293 K. TEM examination revealed that at this ion dose the GaAs and Al0.6Ga0.4As layers were both amorphous. Roomtemperature implantation to a dose of 1×1016 ions	cm2 was also performed. Planar defects were observed at both interfaces, although their density appeared to be greater near the bottom interface.
+
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+ION IMPLANTATION
+INTERFACES
+HETEROJUNCTIONS
+KRYPTON IONS
+MEV RANGE 0110
+ION CHANNELING
+TEMPERATURE RANGE 00650273 K
+TEMPERATURE RANGE 02730400 K
+ELECTRON MICROSCOPY

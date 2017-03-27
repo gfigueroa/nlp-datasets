@@ -1,0 +1,9 @@
+Computer vision involves image edge detection which is crucial in outline capturing systems for decomposing and describing an object. This paper presents a scalable parallel algorithm skeleton for outline capturing and object recognition based on first order difference chain encoding. UNIX based Intel Xeon 2-Quadra-Core system is used for the implementation of the parallel algorithm. The algorithm complexity of the averaging process is independent of the size of image and, the speedup of the proposed parallel algorithm is observed to be near linear. The parallel processing approach presented here can be extended to solve similar problems such as, image representation, restoration, compression, matching etc.
+
+Chain Code
+Computer vision
+Corner detection
+Curvature
+Edge
+Image
+Parallel Algorithm

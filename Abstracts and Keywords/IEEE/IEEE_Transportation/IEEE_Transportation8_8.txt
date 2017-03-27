@@ -1,0 +1,4 @@
+Interactions between the crossing pedestrians and right-turning, left-turning, or through vehicles are frequently seen in cities. The resulting crowd dynamics is usually complex and of great difficulty to pedestrian clearance time estimation and signal phase optimization. Based on the study of abundant video data of competitive crossing, an elaborate but understandable cellular automata model is proposed in this paper to describe the competition behaviors of the pedestrians and right-turning drivers, when they are trying to pass the same crosswalk. The interaction between the drivers and pedestrians are viewed and simulated as a majority game between drivers and pedestrians. The simulation results show that this computationally efficient microscopic model fits well with the observed delay of vehicles and pedestrians.
+
+Vehicle/Pedestrian conflicts
+majority game

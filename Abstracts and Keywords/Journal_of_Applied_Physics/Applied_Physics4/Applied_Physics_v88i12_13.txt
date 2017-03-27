@@ -1,0 +1,10 @@
+Czochralski growth of cerium-doped Lu1.8Y0.2SiO5 (LYSO) from a 90/10 solution of Lu2SiO5 (LSO) and Y2SiO5 (YSO) is demonstrated. The alloyed scintillator retains the favorable growth properties of YSO and the desirable physical and optical scintillator properties of LSO. Radioluminescence, thermally stimulated luminescence, optical absorption, and lifetime measurements confirm the equivalence of LYSO and LSO optical properties. Advantages of LYSO Czochralski growth relative to LSO include reduced melting point, less propensity for formation of crystalline inclusions, lower cost of starting material, and easier incorporation of cerium into the host lattice. This material offers an attractive alternative to LSO for scintillator applications. © 2000 American Institute of Physics. 
+
+lutetium compounds
+yttrium compounds
+cerium
+crystal growth from melt
+scintillation
+thermoluminescence
+impurity absorption spectra
+melting point

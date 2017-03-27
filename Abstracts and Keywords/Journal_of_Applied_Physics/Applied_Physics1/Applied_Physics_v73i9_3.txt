@@ -1,0 +1,12 @@
+Liquid helium temperature and temperaturedependent photoluminescence (PL) spectroscopy have been performed on highly ntypedoped CdTe:I films grown by molecular beam epitaxy. The samples were grown on 2° off (001) oriented bulk CdTe substrates at substrate temperatures from 170 to 250	°C, and exhibit roomtemperature electron concentrations of 1×1017 cm3. The brightest PL edge emission at liquid helium and room temperatures was observed from a sample grown at 210	°C. At T=5 K, the iodine donor radiative recombination was observed at 1.593 eV, corresponding to a donor ionization energy of 14 meV for the ITe substitutional donor, in agreement with the predicted hydrogenic donor ionization energy for CdTe. The thermal quenching behavior of the edge emission peak is a twostep process involving both 10 and 14 meV activation energies. These activation energies are related to the thermalization of the ITe donor from the ground state to the first excited state (1s’2s, 10 meV), and complete thermalization from the donor ground state to the conduction band (14 meV).
+
+CADMIUM TELLURIDES
+MOLECULAR BEAM EPITAXY
+DOPED MATERIALS
+IODINE ADDITIONS
+PHOTOLUMINESCENCE
+TEMPERATURE DEPENDENCE
+THIN FILMS
+TEMPERATURE RANGE 65273 K
+TEMPERATURE RANGE 013 K
+QUENCHING

@@ -1,0 +1,7 @@
+Measurement theory underpins measurements in the physical sciences and social sciences. It is concerned with the connection between data and reality. The paper summarises measurement theory and discusses the extent to which it might be useful for the measurement and/or achievement of safety and safety integrity. Recent applicable publications are summarised and possible ways to help put measurement of safety and safety integrity on a sound footing are discussed.
+
+functional
+integrity
+measurement
+safety
+theory

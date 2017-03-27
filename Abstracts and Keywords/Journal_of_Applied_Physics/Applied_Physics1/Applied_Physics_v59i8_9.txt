@@ -1,0 +1,12 @@
+nCdTe/pCuInSe2 heterojunctions were fabricated by flash evaporating pCuInSe2 on indiumdoped CdTe single crystals. IV characteristics and the photospectral response of the heterojunctions were studied. On illumination appreciable change in the IV characteristics and photovoltaic effects were observered. A theoretical energyband diagram for the heterojunction was constructed, and the theoretical and experimental barrier potentials were compared.
+
+FABRICATION
+HETEROJUNCTIONS
+CADMIUM TELLURIDES
+COPPER SELENIDES
+INDIUM SELENIDES
+IV CHARACTERISTIC
+SPECTRAL RESPONSE
+BAND STRUCTURE
+POTENTIALS
+BARRIER HEIGHT

@@ -1,0 +1,6 @@
+This paper addresses some of the challenges involved in providing aircraft surveillance in a mixed radar/ADS-B environment. These challenges include time synchronization, bias mitigation and maneuver detection. The impact of these factors upon aircraft separation accuracy is evaluated. These impacts are then compared to current and proposed future surveillance requirements.
+
+ADS-B
+radar
+separation
+surveillance

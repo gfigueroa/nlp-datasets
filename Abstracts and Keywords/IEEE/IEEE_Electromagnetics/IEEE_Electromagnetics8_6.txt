@@ -1,0 +1,7 @@
+A simple and compact ultra wideband (UWB) printed monopole antenna with band-notched performance is proposed in this paper. The antenna is partially grounded so that the Q value is depressed and the impedance bandwidth is broadened. A small strip bar is loaded at the centre of the square ring radiator and the impedance bandwidth of the antenna overlapped with IEEE 802.11 a is rejected consequently. The measured bandwidth of the proposed antenna occupies about 7.69 GHz covering from 3.11 GHz to 10.8 GHz with expected notched band from 5.12 GHz to 5.87 GHz. The geometry parameters of the antenna are investigated and optimized with HFSS. A quasi-omnidirectional and quasi-symmetrical radiation pattern in the whole band is also obtained. As a result, this kind of band-notched UWB antenna requires no external filters and thus greatly simplifies the system design of UWB wireless communication.
+
+band-notched
+monopole antenna
+printed antenna
+ultra wideband (UWB)
+wireless communications

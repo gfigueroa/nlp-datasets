@@ -1,0 +1,9 @@
+Point defects in thin (H100 Å) SiO2 layers thermally grown on silicon were investigated by thermally stimulated luminescence (TSL) and corona oxide characterization of semiconductor measurements. A comparison is proposed between layers grown by steam and N2 diluted steam processes. The effects of post-growth annealing treatments in N2O, NO, and N2 atmospheres and of ion irradiation (As or P) have been investigated. A good correlation between the results obtained by the two different techniques has been found, suggesting a common structural origin of defects responsible for TSL active traps and total oxide charge. © 2003 American Institute of Physics. 
+
+silicon compounds
+insulating thin films
+point defects
+thermoluminescence
+corona
+electron traps
+ion beam effects

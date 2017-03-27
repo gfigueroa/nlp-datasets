@@ -1,0 +1,11 @@
+The influence of local crystalline defects upon the magnetization reversal process of singlecrystalline iron whiskers has been investigated by direct observation of the domain configuration and by inductive magnetization measurements. As an essential result, the investigations bring to evidence that only weak interactions are obtained between the dislocations and 180° Bloch walls. On the other hand, a strong pinning efficiency to 90° Bloch walls is observed which is due to the stress field created by the perturbation.
+
+MAGNETIZATION
+BLOCH WALL
+CRYSTAL DEFECTS
+IRON
+WHISKERS
+MONOCRYSTALS
+DISLOCATIONS
+PINNING
+MAGNETIC FLUX

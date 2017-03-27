@@ -1,0 +1,11 @@
+Previously published experimental results are used to deduce an equivalent circuit for this amplifier, based on the shunted junction model. It is found that the very small inductances of the junction shunt resistors play an important role in determining the shape of the currentvoltage curves in the voltagelocked region. Once the circuit is determined using the shunted junction model a combination of an approximation method (the method of slowly varying amplitudes) and the shunted junction model is used to approximately maximize the power gain of the circuit. The maximum gain achieved in these simulations of the twojunction amplifier is 11.3. This gain occurred with a negative resistance imput impedance of 0.41R and a signal source impedance of 0.167R, where R is the junction shunt resistance. It is estimated that the bandwidth of this amplifier is about 1 GHz.
+
+SIMULATION
+DESIGN
+AMPLIFIERS
+GAIN
+ELECTRIC IMPEDANCE
+JOSEPHSON JUNCTIONS
+EQUIVALENT CIRCUITS
+THEORETICAL DATA
+PERFORMANCE

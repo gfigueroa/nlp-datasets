@@ -1,0 +1,7 @@
+Query processing in the uncertain database has become increasingly important due to the wide existence of uncertain data in many real applications. Different from handling precise data, the uncertain query processing needs to consider the data uncertainty and answer queries with confidence guarantees. In this paper, we formulate and tackle an important query, namely probabilistic inverse ranking (PIR) query, which retrieves possible ranks of a given query object in an uncertain database with confidence above a probability threshold. We present effective pruning methods to reduce the PIR search space, which can be seamlessly integrated into an efficient query procedure. Moreover, we tackle the problem of PIR query processing in high dimensional spaces, which reduces high dimensional uncertain data to a lower dimensional space. Furthermore, we study three interesting and useful aggregate PIR queries, that is, MAX, top-m, and AVG  PIRs. Moreover, we also study an important query type, PIR with uncertain query object (namely UQ-PIR), and design specific rules to facilitate the pruning. Extensive experiments have demonstrated the efficiency and effectiveness of our proposed approaches over both real and synthetic data sets, under various experimental settings.
+
+Probabilistic inverse ranking
+Uncertain databases
+MAX PIR
+Top-m PIR
+AVG PIR

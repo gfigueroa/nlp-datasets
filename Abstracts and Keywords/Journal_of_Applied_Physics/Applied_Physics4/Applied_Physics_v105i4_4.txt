@@ -1,0 +1,12 @@
+A full-solution-processed blue organic light emitting diode display based on a small molecule built on a fluorescent stilbenoid core has been fabricated and characterized. The structure of the blue device is ITO/PEDOT:PSS/active layer/Al. The optical characterization of the 1,3,5-tristyrylbenzene endowed with alkoxy (øOC6H13) chain active layer reveals a change in the excited molecular level configuration due to the molecular packing in the thin film that gives as a result a large Stokes shift in the solid state. The electroluminescence in the deep-blue region of the single layer device corresponds well with the photoluminescence emission of the thin films (438nm) and is independent of the applied voltage. Raman analysis confirms the stability of the compound through the fabrication process. From the I-V study, an effective hole mobility of 9.3×106cm2/V	s for the active layer has been obtained.
+
+aluminium
+conducting polymers
+electroluminescence
+fluorescence
+hole mobility
+indium compounds
+organic light emitting diodes
+photoluminescence
+Raman spectra
+thin films

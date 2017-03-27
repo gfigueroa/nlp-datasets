@@ -1,0 +1,6 @@
+The use of graphenes relies largely on their optical detection with FabryPérot type structures. We demonstrate here that optical reflection mode imaging with single graphenes on the bottom of a bare transparent substrate such as mica can provide a high contrast of more than 12% for visible light. This can be explained with the destructive interference of light reflected from the substrate-graphene and graphene-air interfaces, similarly to black soap films. Since the contrast is only weakly wavelength dependent, white light contrast of single graphenes is sufficiently high to be easily detected with a human eye. We argue that with the graphene on the bottom of the transparent substrate high contrasts for single graphenes can also be achieved on other transparent substrates exhibiting a broad range of refractive indices.
+
+graphene
+light reflection
+reflectivity
+refractive index

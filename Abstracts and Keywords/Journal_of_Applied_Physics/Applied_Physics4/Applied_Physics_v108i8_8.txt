@@ -1,0 +1,10 @@
+We have deposited epitaxial thin films of LaNiO3 (LNO) on LaAlO3 (001) single crystals by rf-magnetron sputtering. Further, we studied the effect of systematically varied swift heavy ion irradiation induced strain on structural, electrical, and magnetotransport properties of the films. Deposited films were irradiated at varying fluence (1×1011, 1×1012, and 5×1012ions/cm2) using 200 MeV Ag15+ beam. X-ray diffraction results reveal c-axis oriented epitaxial growth of the LNO film which is maintained even up to the highest fluence. All the films, except the one irradiated with highest fluence, show metallic behavior along with a resistivity upturn at lower temperatures. Film irradiated with the highest fluence value exhibits semiconducting behavior in the studied temperature range. Low temperature resistivity of the metallic films has been explained by quantum corrections to conductivity and it is observed that localization increases with the disorder. Presence of weak localization in metallic films is also supported by our magnetotransport data. At high temperatures, variable range hopping shown by the film irradiated with the highest fluence confirms the semiconducting behavior, which may be due to the disorder induced localization of charge carriers.
+
+galvanomagnetic effects
+hopping conduction
+lanthanum compounds
+metal-insulator transition
+metallic epitaxial layers
+nickel compounds
+sputtering
+X-ray diffraction

@@ -1,0 +1,5 @@
+In this paper, we present a novel frequent pattern mining algorithm, called LPS-Miner, which bases the pattern growth principle and uses two new data structures, LPS-FP-Tree (Light Partial-Support FP-Tree) and LPS-Forest (Light Partial-Support FP-Tree Forest) to present the database. LPS-FP-Tree is a variation of FP-Tree with lighter unidirectional nodes and the mining process depends on the partial-support of the patterns. LPS-Miner adopts partition and divide-and-conquer strategies in maximum, which decomposes the mining task into a set of smaller tasks. The light data structure and efficient memory management mechanism keep the memory usage stable and efficient. Other implementation-based optimizations, such as pruning and outputting-optimization, make the algorithm achieve high efficiency. We test our c++ implementation of this algorithm versus several other algorithms on four datasets. The experimental results show that our algorithm has better space and time efficiency.
+
+FP-growth
+data mining
+frequent pattern mining

@@ -1,0 +1,7 @@
+The relative sputtering yield of amorphous carbon with respect to polycrystalline nickel at Ar-ion bombardment was determined by means of Auger electron spectroscopy depth profiling as a function of the angle of incidence and projectile energy in the ranges of 49°88° and 0.31keV, respectively. It was found that the relative sputtering yield YC/YNi strongly increases with angle of incidence from 49° to 82°. At around 80° the sputtering yield of C is higher than that of Ni. Above 82° no dependence on the angle of incidence was found. The relative sputtering yield weakly depends on the energy of the projectile. The experimental results will be explained by the help of transport of ion in solid (TRIM) simulations.
+
+carbon
+nickel
+sputtering
+Auger electron spectra
+ion beam effects

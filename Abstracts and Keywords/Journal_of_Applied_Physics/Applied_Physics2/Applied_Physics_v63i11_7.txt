@@ -1,0 +1,10 @@
+A nondestructive optical means of determining the activated hole concentration in ptype polar semiconductors is described. The Raman spectra from coupled plasmonlongitudinalopticalphonon modes in five samples of Bedoped GaAs are measured and fitted using a theory which takes into account the degenerate light and heavyhole valence bands. The results indicate that coupled plasmonlongitudinalopticalphonon modes in ptype material differ both quantitatively and qualitatively from those in ntype semiconductors.
+
+CARRIER DENSITY
+COUPLED MODES
+RAMAN SPECTROSCOPY
+GALLIUM ARSENIDES
+OPTICAL PHONONS
+VALENCE BANDS
+PLASMONS
+PHONONPLASMON INTERACTIONS

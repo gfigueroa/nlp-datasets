@@ -1,0 +1,6 @@
+Based on the concept of optical enhancement in nanoparticle-mediated coupling, a novel composite consisting of ZnO nanorods and ZnO nanoparticles has been synthesized and characterized. The ZnO nanoparticles can be regarded as light-coupling media to increase the absorption cross section of excitation light as well as the emission extraction efficiency due to the relaxation of momentum selection rule. With our devised ZnO nanostructures, the band gap emission of ZnO nanorods can be enhanced by up to 8.5 times. The strategy of optical enhancement provided here should be very useful in designing many other nanostructures for high efficiency optoelectronic devices.
+
+energy gap
+II-VI semiconductors
+nanoparticles
+zinc compounds

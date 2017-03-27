@@ -1,0 +1,11 @@
+Social Networks provide one of the most rapidly evolving data sets in existence today. Traditional Business Intelligence applications struggle to take advantage of such data sets in a timely manner. The BBC SoundIndex, developed by the authors and others, enabled real-time analytics of music popularity using data from a variety of Social Networks. We present this system as a grounding example of how to overcome the challenges of working with this data from social networks. We discuss a variety of technologies to implement near real-time data analytics to transform Social Intelligence into Business Intelligence and evaluate their effectiveness in the music domain. The SoundIndex project helped to highlight a number of key research areas, including named entity recognition and sentiment analysis in Informal English. It also drew attention to the importance of metadata aggregation in multimodal environments. We explored challenges such as drawing data from a wide set of sources spanning a myriad of modalities, developing adjudication techniques to harmonize inputs, and performing deep analytics on extremely challenging Informal English snippets. Ultimately, we seek to provide guidance on developing applications in a variety of domains that allow an analyst to rapidly grasp the evolution in the social landscape, and show how to validate such a system for a real-world application.
+
+BBC SoundIndex
+Social intelligence
+Informal text analysis
+Information Mashups
+Semantic annotation
+Semantic domain models
+Slang sentiment identification
+Spam filtering
+Voting theory

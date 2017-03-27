@@ -1,0 +1,10 @@
+Relaxed Si0.7Ge0.3 epitaxial layers that possess threading defect densities as low as 5×105 cm2 have been grown on Si substrates by rapid thermal chemical vapor deposition. The layers were formed in a series of steps of constant Ge content, each step with either 6% or 3% more Ge than the previous one. At the low average grading rates investigated, the number of steps used to reach 30% Ge only slightly affected the density of individual threading dislocations, imaged by electron beam induced current (EBIC). However, the density of darkline defects seen in EBIC, which are formed from pileups of threading dislocations, was strongly influenced only by the average grading rate. Both the dark line density and the dark spot density must be considered when assessing the surface of these relaxed layers. 	
+
+GERMANIUM SILICIDES
+EPITAXIAL LAYERS
+CRYSTAL DEFECTS
+CVD
+DISLOCATIONS
+EBIC
+IMAGE FORMING
+RELAXATION

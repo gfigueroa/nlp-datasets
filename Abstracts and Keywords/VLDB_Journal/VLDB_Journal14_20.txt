@@ -1,0 +1,5 @@
+One approach to overcoming heterogeneity as a part of data integration in mediator systems is the use of metadata in the form of a vocabulary or ontology to represent domain knowledge explicitly. This requires including this meta level during query formulation and processing. In this paper, we address this problem in the context of a mediator that uses a concept-based integration model and an extension of the XQuery language called CQuery. This mediator has been developed as part of a project for integrating data about cultural assets. We describe the language extensions and their semantics as well as the rewriting and evaluation steps. Furthermore, we discuss aspects of caching and keyword-based search in support of an efficient query formulation and processing.
+
+Data integration
+Mediator systems
+Query processing

@@ -1,0 +1,6 @@
+Multi-Agent Geo-Simulation aims to simulate phenomena involving a large number of autonomous situated actors (implemented as software agents) evolving and interacting within a Virtual representation of the Geographic Environment (VGE). Motion planning is a critical issue since it corresponds to one of the most important activities of agents moving in a complex and large-scale VGE. There is also a need for an accurate representation of the environment in order to support efficient path planning computation as well as reactive navigation for the detection and avoidance of obstacles and other agents. In this paper, we propose a novel geoprocessing approach which uses data provided by Geographic Information System to build semantically-informed and geometrically-accurate informed virtual geographic environments. In addition, we propose a topologic abstraction algorithm which builds a Hierarchical Topologic Graph (HTG) describing the IVGE and a Hierarchical Path Planning (HPP) algorithm which uses this graph.
+
+Geographic Information System
+Geoprocessing
+Hierarchical Path Planning
+Informed Virtual Geographic Environments

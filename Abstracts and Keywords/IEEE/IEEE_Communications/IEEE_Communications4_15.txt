@@ -1,0 +1,9 @@
+As Information and Communication Technology (ICT) is becoming more and more wide-spread and pervasive in our daily life, it is important to get a realistic overview of the worldwide impact of ICT on the environment in general and on energy and electricity needs in particular. This paper reports on a detailed study to estimate this impact today and to predict how this will evolve in the future. From this survey, important conclusions for the future of ICT industry and the Internet will be drawn, and challenges and research directives will be deduced.
+
+electricity
+forecast
+internet
+network concept
+power consumption
+servers
+statistics

@@ -1,0 +1,12 @@
+Erbium doped GaAs was grown by metalorganic chemical vapor deposition using a novel liquid precursor: tris(nbutylcyclopentadienyl)erbium [Er(C4H9C5H4)3]. The morphology was excellent at growth temperatures near 620	°C. Based on a simple model for the excitation dependence of the emission, the nonradiative Augertype process was estimated to be nearly five times that of the energy transfer process from bound excitons to the Er3+ ions that subsequently resulted in the Errelated light emission. Temperature induced quenching of the emission was found to be dominated by transitions with an activation energy of 74 meV.
+
+GALLIUM ARSENIDES
+DOPED MATERIALS
+ERBIUM ADDITIONS
+PHOTOLUMINESCENCE
+CVD
+MORPHOLOGY
+AUGER EFFECT
+ENERGYLEVEL TRANSITIONS
+EXCITONS
+SIMS

@@ -1,0 +1,6 @@
+This paper puts forward a fast method of surface reconstruction. Power crust algorithm can reconstruct a good surface that is topological valid and be proved theoretically. But its running time is long. This paper proposes a non-uniformly sampling method to resample the input data set according to the local feature size before reconstruction. Experimental results show that the efficiency of the algorithm has been improved much more.
+
+algorithm
+down sampling
+surface reconstruction
+unorganized point

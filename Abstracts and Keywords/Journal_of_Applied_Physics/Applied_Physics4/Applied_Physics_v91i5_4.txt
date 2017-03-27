@@ -1,0 +1,9 @@
+Interfacial silicon oxide present at the NiSi interface hampers the silicidation between Ni and Si. In this work we present findings of the interaction of a Ti cap layer on top of Ni to remove the interfacial native oxide and chemically grown silicon oxide at several annealing temperatures. It was found that at 500
+°C, Ti diffuses through the Ni layer and segregates at the Ni/Si interface, which subsequently reduces the interfacial silicon oxide and enables nickel monosilicide (NiSi) formation at 600
+°C. The thickness of the Ti cap layer was found to strongly influence the temperature of the onset of nickel silicidation. A thin Ti cap layer resulted in the onset temperature of nickel silicidation being the same as that without a Ti cap layer, whereas a thick Ti cap layer lowered the onset temperature of the nickel silicidation. © 2002 American Institute of Physics. 
+
+nickel
+silicon
+semiconductor-metal boundaries
+titanium
+oxidation

@@ -1,0 +1,14 @@
+Thermal diffusivity (±) of amorphous silicon carbon nitride (a-SiCxNy) and boron carbon nitride (a-BCxNy) thin films on crystalline silicon has been studied as a function of the carbon content and thickness of the films using the traveling wave technique. The thermal diffusivity showed a steady fall from <0.35 to about 0.15	cm2/s for a-SiCxNy films as the carbon content increased from 30 to <70	at.
+%. This decrease in thermal diffusivity was also accompanied by a decrease in the film density from 3.35 to <2.3	g/cm3 as a function of the carbon content of the a-SiCxNy films. In case of a-BCxNy, a peak in thermal diffusivity (0.6	cm2/s) was detected at a carbon concentration of <25	at.
+% which reduced to 0.2	cm2/s for a carbon concentration of <60	at.
+% in the films. The value of the density also showed a peak (<2	g/cm3) at a carbon concentration of 25 at.
+% before decreasing in the a-BCxNy films. A study of bonding characterization revealed a dominant lower coordinated C(sp)N phase at higher carbon concentrations that played a detrimental role in the film properties observed. A critical issue of the thickness dependence of thermal diffusivity in a layered structure of a-SiCxNy and a-BCxNy on silicon is addressed with information extracted from aluminum thin films on different substrates. An empirical model is proposed which can explain the reported thickness and substrate dependence of the thermal diffusivity data. © 2002 American Institute of Physics. 
+
+silicon compounds
+boron compounds
+thermal diffusivity
+bonds (chemical)
+density
+wide band gap semiconductors
+semiconductor thin films
+amorphous semiconductors

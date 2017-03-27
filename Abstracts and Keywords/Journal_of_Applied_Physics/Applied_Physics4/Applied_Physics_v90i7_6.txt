@@ -1,0 +1,20 @@
+In this study, high-quality ZnO:Al (ZAO) films were prepared by using dc reaction magnetron sputtering technology. The effect of Al doped in ZnO films on electrical and optical properties and its scattering mechanism were discussed in detail. The results showed that Al2O3 could be effectively removed by controlling oxygen flow and Al-doped concentration during deposition of ZnO:Al films. Zn, Al, and oxygen elements were well distributed through the films. For highly degenerated ZnO:Al semiconductor thin films, it was revealed that ionized impurity scattering dominated the Hall mobility of the films in the low-temperature range; while the lattice vibration became a major scattering mechanism in the high-temperature range. The grain-boundary scattering only played a major role in the ZAO films with small grain size (as compared to the electron mean-free path). The photoelectric properties of ZAO films showed that the lower resistivity (<5×104
+©
+cm) was obtained, and transmittance in the visible range and reflectance in the IR region were above 80% and 60%, respectively. © 2001 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+wide band gap semiconductors
+aluminium
+semiconductor thin films
+sputtered coatings
+impurity scattering
+Hall mobility
+electron-phonon interactions
+grain boundaries
+grain size
+electron mean free path
+photoconductivity
+light transmission
+reflectivity
+infrared spectra

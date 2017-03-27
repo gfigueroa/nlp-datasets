@@ -1,0 +1,13 @@
+Nanoscale surface electrical properties of indiumtinoxide films prepared by different cleaning methods for use as anode materials in organic light emitting diodes are studied by conducting atomic force microscopy. It is found that most of the surface area possesses a nonconducting feature, and an ultraviolet-ozone treatment produces the most nonconductive sample. The conducting regions, which distribute randomly and range from 6 to 50 nm in size, are attributed to the existence of Sn-rich oxide by a comparison with reported scanning electron microscopy images. After scanning the tip with a bias of 8 V on the nonconducting regions, oxide decomposition occurs on as-received and wet-cleaning processed samples, whereas no structure change appears on the ozone treated sample. The results indicate that the generation of stable oxide after ozone treatment is one of the origins for improved device performance. © 2001 American Institute of Physics. 
+
+indium compounds
+tin compounds
+semiconductor materials
+nanostructured materials
+surface conductivity
+semiconductor thin films
+surface cleaning
+atomic force microscopy
+ultraviolet radiation effects
+scanning electron microscopy
+light emitting diodes

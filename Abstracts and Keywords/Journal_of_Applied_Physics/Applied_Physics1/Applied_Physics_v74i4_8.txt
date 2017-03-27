@@ -1,0 +1,11 @@
+The sensitivity of the Agphotodoping process has been measured as a function of photon energy between 1.9 and 6.4 eV. The sensitivity increases with increasing photon energy except at 3.8 eV (325 nm) where Ag exhibits an anomalous window. At this energy there is an abrupt and large decrease of sensitivity. In a second measurement, the transmission as a function of wavelength between 200 and 900 nm of a 2000Åthick film of As2S3 doped with an imaging dose of Ag and a second sample doped with a larger than imaging dose are compared with an undoped sample. Bandgap shrinkage is different for the two doses. Both measurements suggest that under certain conditions, photon absorption in the Agphotodoping process occurs in the Ag.
+
+THIN FILMS
+ARSENIC SULFIDES
+DOPED MATERIALS
+ABSORPTION SPECTRA
+PHOTOSENSITIVITY
+ANOMALOUS PROPERTIES
+LIGHT TRANSMISSION
+LASER RADIATION
+AMORPHOUS SEMICONDUCTORS

@@ -1,0 +1,13 @@
+Solgel derived 10% Pb excess Pb(Zr0.52Ti0.48)O3 (PZT) layers placed at the top and bottom of rfsputtered PZT films are very effective in decreasing the microcracks occurring on the surface of rfsputtered PZT films during postannealing at 600, 650, and 700	°C. The deposition of PZT films is conducted on Pt/Ti/SiO2/Si(100) substrates at room temperature. The surface microstructure and crystallographic structure of buffered PZT films are investigated through scanning electron microscopy and xraydiffraction analysis. In addition, electrical measurements are also examined through hysteresis, dielectric constant and loss, JV, and fatigue measurements. The PE hysteresis measurements show an increase in the remanent polarization (12.1, 22.45, 34.64 ¼C/cm2) and a decrease in the coercive fields (108, 72.9, 68.3 kV/cm) with the increase of postannealing temperature. Dielectric constant and tan	´ are varied from 523 to 1330 and 0.0274 to 0.0738 with the increase of annealing temperature. By applying 1 MHz rectangular pulse up to 5×1010 cycles for fatigue test, the 33% reduction of polarization is also observed. © 1996 American Institute of Physics. 
+
+PZT
+FILMS
+SPUTTERED MATERIALS
+SOLGEL PROCESS
+MICROCRACKS
+MICROSTRUCTURE
+SURFACE STRUCTURE
+SEM
+DIELECTRIC FUNCTION
+IV CHARACTERISTIC
+POLARIZATION

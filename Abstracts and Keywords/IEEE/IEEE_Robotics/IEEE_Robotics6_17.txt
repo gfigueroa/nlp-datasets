@@ -1,0 +1,5 @@
+The predictive function control (PFC) with PID of a hydraulic robot system is presented with actions of random disturbance and uncertain parameters, such as the hydraulic nature frequency, the hydraulic damping factor and external load disturbance, and the feature which is characteristic parameter is greatly varied with the hydraulic robot system work state, the external load and environment. This is similar to a PFC-P control structure. The random disturbance is surpassed in inner-loop. The good tracking performance and robustness are obtained by predictive function control in external loop. The level of goal and control is divided. The simulation results show that the new PFC-P control method has satisfactory tracking performance, robustness and the ability to suppress disturbance. It is an efficient new control method for a hydraulic robot.
+
+Predictive function control(PFC)
+control method
+hydraulic robot

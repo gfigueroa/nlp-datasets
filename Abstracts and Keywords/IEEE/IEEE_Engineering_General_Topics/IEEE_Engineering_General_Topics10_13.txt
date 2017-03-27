@@ -1,0 +1,10 @@
+This paper presents project 'Alfalab'. Alfalab is a collaborative frame work project of the Royal Netherlands Academy of Arts and Sciences (KNAW). It explores the success and fail factors for virtual research collaboration and supporting digital infrastructure in the Humanities. It does so by delivering a virtual research environment engineered through a virtual R&amp;D collaborative and by drawing in use cases and feedback from Humanities researchers from two research fields: textual historical text research and historical GIS-application. The motivation for the project is found in a number of commonly stated factors that seem to be inhibiting general application of virtualized research infrastructure in the Humanities. The paper outlines the project's motivation, key characteristics and implementation. One of the pilot applications is described in greater detail.
+
+Alfalab
+KNAW
+VRE
+VREs
+Virtual research Infrastructure
+Virtual research environments
+collaboration
+humanities

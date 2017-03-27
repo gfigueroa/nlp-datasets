@@ -1,0 +1,14 @@
+Schottky barrier photovoltaic detectors have been fabricated on n-AlxGa1xN(0}x}0.35) and p-GaN epitaxial layers grown on sapphire. Their characteristics have been analyzed and modeled, in order to determine the physical mechanisms that limit their performance. The influence of material properties on device parameters is discussed. Our analysis considers front and back illumination and distinguishes between devices fabricated on ideal high-quality material and state-of-the-art heteroepitaxial AlxGa1xN. In the former case, low doping levels are advisable to achieve high responsivity and a sharp spectral cutoff. The epitaxial layer should be thin (&lt;0.5 ¼m) to optimize the ultraviolet/visible contrast. In present devices fabricated on heteroepitaxial AlxGa1xN, the responsivity is limited by the diffusion length. In this case, thick AlxGa1xN layers are advisable, because the reduction in the dislocation density results in lower leakage currents, larger diffusion length, and higher responsivity. In order to improve bandwidth and responsivity, and to achieve good ohmic contacts, a moderate n-type doping level (<1018
+cm3) is recommended. © 2000 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+semiconductor device models
+semiconductor epitaxial layers
+Schottky diodes
+photodiodes
+carrier lifetime
+dislocation density
+leakage currents
+ohmic contacts

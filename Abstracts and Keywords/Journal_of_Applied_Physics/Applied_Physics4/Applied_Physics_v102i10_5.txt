@@ -1,0 +1,17 @@
+We have investigated the effects of N on the electronic properties of Si-doped GaAs1xNx alloy films and AlGaAs/GaAsN modulation-doped heterostructures. For bulk-like alloy films, the electron mobility is independent of free carrier concentration and arsenic species, and decreases with increasing N composition. Thus, N-related defects are the main source of scattering in the dilute nitride alloys. For AlGaAs/GaAsN heterostructures, gated and illuminated magnetoresistance measurements reveal a two-dimensional electron gas mobility which increases with carrier concentration to a constant value. Thus, in contrast to the long-range ionized scattering sources which are dominant in N-free heterostructures, N-induced neutral scattering sources are the dominant source of scattering in AlGaAs/GaAsN heterostructures. Finally, a decrease in free carrier concentration with increasing N composition is apparent for bulk-like films, while the free carrier concentration is independent of N composition in modulation-doped heterostructures. Since N and Si atoms are spatially separated in the modulation-doped heterostructures, NSi defect complexes in the bulk GaAsN layers are likely acting as trapping centers.
+
+aluminium compounds
+carrier density
+electron mobility
+electron traps
+elemental semiconductors
+gallium arsenide
+gallium compounds
+III-V semiconductors
+impurity scattering
+magnetoresistance
+semiconductor doping
+semiconductor heterojunctions
+semiconductor thin films
+silicon
+two-dimensional electron gas

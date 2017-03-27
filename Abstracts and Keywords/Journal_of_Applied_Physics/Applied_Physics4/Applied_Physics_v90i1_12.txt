@@ -1,0 +1,12 @@
+The formation of Ni silicides is studied by transmission electron microscopy during in situ heating experiments of 12 nm Ni layers on blanket silicon, or in patterned structures covered with a thin chemical oxide. It is shown that the first phase formed is the NiSi2 which grows epitaxially in pyramidal crystals. The formation of NiSi occurs quite abruptly around 400
+°C when a monosilicide layer covers the disilicide grains and the silicon in between. The NiSi phase remains stable up to 800
+°C, at which temperature the layer finally fully transforms to NiSi2. The monosilicide grains show different epitaxial relationships with the Si substrate. Ni2Si is never observed. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+nickel compounds
+semiconductor-metal boundaries
+transmission electron microscopy
+interface structure
+nickel
+solid phase epitaxial growth

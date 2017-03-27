@@ -1,0 +1,13 @@
+Nuclear diffraction from a 57Fe5B4C/Fe5B4C multilayer has been observed. The reflectivity was measured by Mössbauer spectroscopy in grazing incidence geometry. A pure nuclear Bragg peak showed up at the expected position in the rocking curve. The energy dependence of the reflectivity was measured at different angles near the Bragg peak. The measurements are in good agreement with the theory. The use of nuclear resonant multilayers as monochromators for synchrotron radiation is discussed.
+
+IRON CARBIDES
+BORON CARBIDES
+MULTILAYERS
+XRAY DIFFRACTION
+MOESSBAUER EFFECT
+GRAZING
+BRAGG REFLECTION
+ENERGY DEPENDENCE
+SIGNALTONOISE RATIO
+MONOCHROMATORS
+IRON 57

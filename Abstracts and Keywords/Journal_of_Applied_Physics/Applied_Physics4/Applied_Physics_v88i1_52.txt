@@ -1,0 +1,7 @@
+The magnetization reversal processes of a 150 Å thick epitaxial Fe/GaAs(001) film are modified by controlling the lateral dimensions of the continuous film to create rectangular microstripes of constant length and varying width. Size dependent transitions from (a) two-jump to single-jump, and (b) single-jump to two-jump reversal processes are observed for magnetization reversal along the two mutually perpendicular cubic easy axes (parallel and perpendicular to the easy axis of the shape anisotropy, respectively). This behavior can be explained by a simple model of the effective anisotropy energy contributions including the shape anisotropy energy. © 2000 American Institute of Physics. 
+
+iron
+ferromagnetic materials
+magnetic epitaxial layers
+magnetisation reversal
+magnetic anisotropy

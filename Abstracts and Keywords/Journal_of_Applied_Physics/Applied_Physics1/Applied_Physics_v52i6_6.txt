@@ -1,0 +1,15 @@
+Timeresolved shadowgrams of a massive plexiglass target, irradiated by a 300ps iodine laser pulse at an intensity of 3×1015 W	cm2, show treelike structures underneath the irradiated area which extend up to a depth of <0.5 mm into the bulk of the plexiglass. The observed structures resemble very much the familiar discharge pattern of corona discharges. The phenomenon is attributed to internal breakdown of the plexiglass due to intense electric fields (108 V/m) which exist in the vicinity of the charged laserproduced plasma.
+
+DIELECTRIC MATERIALS
+PLEXIGLASS
+BREAKDOWN
+LASER RADIATION
+TARGETS
+TIME RESOLUTION
+IRRADIATION
+GAS LASERS
+IODINE
+PULSES
+CORONA DISCHARGES
+ELECTRIC FIELDS
+LASERPRODUCED PLASMA

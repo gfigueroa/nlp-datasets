@@ -1,0 +1,12 @@
+In this paper, we propose and validate a method for the accurate estimation of iron loss in rotating machines. In this method, the eddy current loss in electrical steel sheets is directly calculated by nonlinear time-domain electromagnetic field analysis with a simple approximation of the excess loss. The hysteresis loss is also estimated by considering the flux distribution along the thickness of the steel sheet. The advantage of the method is that the high-frequency harmonic losses can be calculated accurately using only few material constants. The validity of this method is confirmed by experiments performed on a ring specimen and several types of motors. The experimental and calculated iron losses in each experiment are found to be in good agreement. It is clarified that the proposed method is useful for the accurate estimation of higher order harmonic losses, particularly, carrier losses caused by inverters.
+
+Eddy currents
+finite element methods
+harmonics
+hysteresis
+induction machines
+inverters
+losses
+magnetic field
+permanent magnet machines
+rotating machines

@@ -1,0 +1,12 @@
+Determining lateral stresses in shocked solids is an important need. Toward this end, a study was carried out to ascertain the use of simplified analyses to relate lateral piezoresistance gauge data to sample lateral stresses, with reasonable accuracy, for a class of solids. Dynamic, two-dimensional calculations were used to compute the resistance change histories of lateral manganin foil gauges in a shocked ceramic. This rigorous solution served as a bench mark for the simplified approaches. Results from several simplified methods, including those in the literature, were examined and error bars evaluated by comparing them with the ideal solution. Difficulties with simplified analyses are discussed. A combination of a simple forward analysis and a conditional lateral gauge calibration appears to provide an approach that is both efficient and consistent. Since simplified analyses are useful only in particular situations, applicability of these methods is discussed. © 1998 American Institute of Physics. 
+
+piezoresistive devices
+stress measurement
+CERAMICS
+IMPACT SHOCK
+STRESSES
+COMPRESSION STRENGTH
+PIEZOELECTRICITY
+TRANSDUCERS
+ERRORS
+COMPARATIVE EVALUATIONS

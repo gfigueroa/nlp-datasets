@@ -1,0 +1,5 @@
+This paper describes a differential electromagnetic analysis attack performed on a hardware implementation of an elliptic curve cryptosystem. We describe the use of the distance of mean test. The number of measurements needed to get a clear idea of the right guess of the key-bit is taken as indication of the success of the attack. We can find the right key-bit by using only 2000 measurements. Also we give a electromagnetic model for the FPGA we use in our experiments. The amplitude, the direction and the position of the current on the FPGA's lines with respect to the position of the antenna have an influence on the measured electromagnetic radiation in the FPGA's surrounding area.
+
+Electromagnetic Analysis
+Elliptic Curve Cryptosystems
+FPGA

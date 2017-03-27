@@ -1,0 +1,5 @@
+In this work, we experimentally explored the negative-refraction superprism effect in photonic crystals by investigating the frequency-dependent negative refractive index of photonic crystals at microwave frequencies from 8.2to8.4GHz. By detecting the spatially distributed intensity of a transmitted microwave whose incident angle is well controlled, we determined the propagating path, the refractive angle, and the refractive index of the transmitted microwave. The highly dispersive relationship between the negative refractive index and the frequency of microwave observed indicates potential applicability of this method for being used in a microwave wavelength demultiplexer by utilizing the negative-refraction superprism effect in photonic crystals.
+
+microwave propagation
+photonic crystals
+refractive index

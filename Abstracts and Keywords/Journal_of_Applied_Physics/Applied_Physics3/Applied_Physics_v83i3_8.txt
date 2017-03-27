@@ -1,0 +1,7 @@
+An analytical solution to the electromagnetic induction problem involving both electrical anisotropy and magnetic anisotropy has been derived. The method of solution can be extended to electromagnetic induction problems in infinite plates and layered media. A theoretical model for measuring magnetic field change under a uniaxial stress based on anisotropic electromagnetic induction has also been developed. An experiment designed to measure the effect of mechanical stress on magnetic permeability has been carried out. Theoretical predictions of relative magnetic field change are in good agreement with the experimental data. © 1998 American Institute of Physics. 
+
+electromagnetic induction
+magnetic anisotropy
+magnetic permeability
+magnetisation
+nondestructive testing

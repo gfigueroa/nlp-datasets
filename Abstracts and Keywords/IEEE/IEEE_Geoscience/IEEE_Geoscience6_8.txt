@@ -1,0 +1,5 @@
+We review optical rogue wave generation in terms of collisions and turbulence processes, and discuss a number of important &#x201C;rediscovered&#x201D; links with the wider fields of nonlinear dynamics and extreme value processes. We discuss mechanisms including both breather and soliton dynamics, and consider analytical, numerical and experimental results obtained to date.
+
+nonlinear dynamics
+optical rogue waves
+supercontinuum generation

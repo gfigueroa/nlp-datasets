@@ -1,0 +1,6 @@
+A polyimide-coated substrate is rubbed periodically with the stylus of an atomic-force microscope. The effective polar and azimuthal anchoring strength coefficients for planar anchoring are determined as a function of the spatial separation L of rub lines. Both anchoring coefficients are found to decrease monotonically with L, apparently leveling off at nonzero values for Ls2
+¼m. The observed behavior is discussed in terms of a combination of intrinsic anchoring strength in the rubbed regions and a surface memory effect. © 2001 American Institute of Physics. 
+
+nematic liquid crystals
+surface potential
+atomic force microscopy

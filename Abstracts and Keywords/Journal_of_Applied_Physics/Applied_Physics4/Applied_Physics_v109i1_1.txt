@@ -1,0 +1,15 @@
+Cathodoluminescence (CL) characteristics and electron-beam induced surface chemical changes in nanocrystalline Tb3+ doped LiAl5O8 powder phosphors are presented. Bluish-white CL with a maximum at < 543nm was observed when the powders were irradiated with a 2 keV electron beam. The emissions in the green and the blue regions arise from the magnetic dipole 5D4-7FJ (J = 60) and 5D3-7FJ transitions of the Tb3+ion. The appearance of the line emissions in the blue region are discussed in terms of Tb oxidation states and their corresponding interconversion. Auger electron spectroscopy and x-ray photoelectron spectroscopy (XPS) were used to probe the chemical changes on the surface of the LiAl5O8 phosphor under electron bombardment. The XPS data suggest that the Tb ions exist both in trivalent and tetravalent oxidation states which could be the reason for the observed green as well as blue CL emissions. A thermodynamically stable Al2O3 layer formed on the surface as a result of the electron stimulated surface chemical reactions is possibly contributing to the CL stability of the LiAl5O8:Tb phosphor. The time stability of the phosphor under prolonged electron beam exposure suggests that it can be used in information displays.
+
+Auger electron spectra
+cathodoluminescence
+doping
+lithium compounds
+magnetic moments
+magnetic transitions
+nanoparticles
+oxidation
+phosphors
+surface morphology
+terbium
+thermodynamic properties
+X-ray photoelectron spectra

@@ -1,0 +1,8 @@
+The Institute of Navigation and Satellite Geodesy of the Graz University of Technology is involved in many projects and developments to determine GNSS-based trajectories for demanding applications. Examples demonstrating the capabilities and limits of GNSS-based positioning under detrimental conditions are: positioning and guidance of visually impaired pedestrians, search and rescue applications, trajectory and attitude determination for airborne platforms, positioning and orientation of a mobile augmented-reality client, and trajectory and velocity determination in ski jumping. This paper gives an overview of each of the applications followed by a special insight into the last example which is characterized by high kinematics, partly shadowing of satellites, and updates of high frequency.
+
+GNSS
+guidance
+positioning
+sensor fussion
+ski jumping
+trajectory determination

@@ -1,0 +1,14 @@
+Using energetics, we examine the occurrence of large strains, so-called giant magnetostriction, in ferromagnetic shape memory alloys by the application of an external magnetic field. It is claimed that these strains originate from the conversion of one martensite variant to another. In this article, we attempt to show that magnetic work cannot supply the work required for the conversion of martensite variants in most cases. It is also pointed out that the latter work dissipates, while most of the magnetic work is conserved, as indicated by almost hysteresis-free magnetization curves. Therefore, simple energy conservation arguments rule out the suggested variant conversion mechanism not only quantitatively, but also qualitatively. A possible explanation for the occurrence of large strains is offered. © 2003 American Institute of Physics. 
+
+magnetostriction
+shape memory effects
+ferromagnetic materials
+iron alloys
+martensitic transformations
+magnetisation
+stress-strain relations
+platinum alloys
+palladium alloys
+nickel alloys
+manganese alloys
+gallium alloys

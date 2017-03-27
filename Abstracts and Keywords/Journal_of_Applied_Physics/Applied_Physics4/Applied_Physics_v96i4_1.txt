@@ -1,0 +1,9 @@
+Transient enhanced diffusion (TED) of boron poses a limit to the formation of ultrashallow junctions. To suppress TED of boron, other species (e.g., Ge) can be introduced into the Si substrate. Experiments have shown that boron diffusivity decreased rapidly as Ge concentration increased to 40% Ge. There is no consensus on the cause for this decrease in diffusivity. Here, an ab initio derived energy database was used to fit classical potential models in order to simulate boron diffusion in SiGe on larger length and time-frames than are possible using ab initio models. In this paper, a set of Stillinger-Weber potential parameters for Ge-B and Si-Ge-B has been constructed, allowing a molecular dynamics study of boron diffusion in SiGe alloys to be carried out. Molecular dynamics simulations of boron B diffusion in Si compared to that in SiGe alloys suggest that different trapping mechanisms dominate: B in Si is trapped in substitutional positions, whereas B in SiGe alloys is trapped in interstitial positions. The number of boron interstitials increases as Ge concentration increases, reaches a maximum at 50% Ge, and then decreases as the amount of Ge increases to 100%. Concordantly, the number of SiGe interstitials followed the opposite trend: Their numbers decreased, reached a minimum at 50% Ge and then increased again as the Ge concentration increased. This confirmed ab initio predictions and provided an exploration to the origin of retarded boron diffusion in SiGe alloys.
+
+Ge-Si alloys
+boron
+semiconductor materials
+molecular dynamics method
+ab initio calculations
+diffusion
+interstitials

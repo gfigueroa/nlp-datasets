@@ -1,0 +1,8 @@
+We have produced 70%75% 3He polarization by spin-exchange optical pumping in cells H100	cm3 in volume. The polarization achieved is consistent with known spin-exchange and spin-relaxation rates, but only when the recently discovered temperature dependence of 3He relaxation is included. Absolute 3He polarization measurements were performed using two different methods in two different laboratories. The results were obtained with either a spectrally narrowed laser or one type of broadband laser. Based on tests of several larger cells at pressures near 1 bar, we find that the power required to reach the same polarization is typically three times lower for the spectrally narrowed laser. This last result indicates that spectrally narrowed lasers will be important for obtaining the highest polarization in large volume neutron spin filters. Polarization in excess of 55% as obtained in cells up to 640	cm3 in volume and 70% polarization is anticipated with available increases in spectrally narrowed laser power. © 2003 American Institute of Physics. 
+
+helium
+nuclear polarisation
+optical pumping
+spectral line narrowing
+electron spin polarisation
+nuclear magnetic resonance

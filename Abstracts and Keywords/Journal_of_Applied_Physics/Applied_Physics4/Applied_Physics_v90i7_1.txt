@@ -1,0 +1,19 @@
+We have investigated deep levels in 1.05 eV, Sn-doped, n-type In0.075Ga0.925As0.975N0.025 lattice-matched to GaAs. The samples were grown by metalorganic chemical vapor deposition. Capacitancevoltage measurements were used to determine the electron concentration in both as-grown and postgrowth annealed samples, and a decrease in net electron concentration of about 1.5×1017
+cm3 was observed following annealing. Deep level transient spectroscopy measurements are consistent with the presence of four majority-carrier electron traps, E1 (a broad distribution extending from the conduction band edge to approximately EC0.2
+eV), E2(0.36
+eV), E3(0.34
+eV), and E4(0.82
+eV), as well as one minority-carrier hole trap, H1(0.71
+eV), in our material. It is shown that E2 and H1, both of which are present in the annealed material only, are likely the same defect observed under conditions of electron and hole emission, respectively. Currentvoltage-temperature measurements indicate a thermal activation energy of 0.35 eV for reverse bias current transport, which is in close agreement with the activation energy of E2. It is thus demonstrated that the E2/H1 defect is a recombinationgeneration center which contributes to current transport in our InGaAsN-based test diode. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+gallium compounds
+tin
+deep levels
+semiconductor thin films
+MOCVD coatings
+deep level transient spectroscopy
+electron traps
+hole traps
+annealing

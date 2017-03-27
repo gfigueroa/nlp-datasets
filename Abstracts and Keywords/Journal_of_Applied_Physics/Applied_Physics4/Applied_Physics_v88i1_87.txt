@@ -1,0 +1,5 @@
+An analytic solution of the dissociative and the kickout diffusion mechanisms has been presented for a one-dimensional region bounded by two parallel surfaces, assuming the rapid recovery of equilibrium conditions of vacancies and interstitial matrix atoms. This assumption makes the diffusion equation linear. The calculation results for gold diffusion into a silicon plate with high dislocation density using the literature data are demonstrated. The assumption of the rapid recovery can be verified using the present solution. © 2000 American Institute of Physics. 
+
+diffusion
+vacancies (crystal)
+interstitials

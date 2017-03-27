@@ -1,0 +1,5 @@
+Breit-Wigner-Fano (BWF) Raman line in DNA-wrapped single-wall carbon nanotubes (SWNTs) was investigated. For as-produced HiPco SWNT bundles, the asymmetric profile of BWF line is clearly observed with an excitation energy of 2.33eV. The asymmetric feature almost disappears in isolated HiPco SWNTs by DNA wrapping in aqueous solution. Such a significant change provides evidence that the asymmetric feature of BWF line is attributed to the bundling effect of SWNTs. In addition, the asymmetric feature of BWF line strongly appears even when the DNA-wrapped SWNTs are exposed to air. This means that the rebundling in the DNA-wrapped SWNTs can occur due to drying.
+
+carbon nanotubes
+DNA
+Raman spectra

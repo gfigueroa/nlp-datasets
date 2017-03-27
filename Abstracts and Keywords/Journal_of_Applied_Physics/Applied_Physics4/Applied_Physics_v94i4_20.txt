@@ -1,0 +1,8 @@
+A photonic crystal (PC) structure is described revealing a complete three-dimensional (3D) photonic band gap of about 25% if realized as a silicon/air structure. It is based on two systems of parallel circular pores being orthogonal to each other. The gap size depends on the degree of mutual penetration of the pore systems. A possible fabrication route is based on macroporous silicon (lattice constant a=0.5
+¼m), into which orthogonal pores are drilled, e.g., by focused-ion-beam etching. This yields a 3D photonic crystal with a complete band gap in the near infrared. The dispersion behavior of the PC is theoretically analyzed (band structure, density of states), varying the pore radii. We discuss the influence of pore shape variations and topological modifications on the size of the gap. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+porous semiconductors
+photonic crystals
+photonic band gap

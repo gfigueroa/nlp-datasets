@@ -1,0 +1,17 @@
+Optical phase conjugation processes via degenerate fourwave mixing mechanisms have been investigated analytically in narrow directgap semiconductors duly irradiated by lowpower near resonant lasers. The role of linear absorption phenomena is introduced intrinsically into the electromagnetic equations through complex firstorder optical susceptibility of the crystal. A coherent radiationexciton interaction model is employed to obtain the intensitydependent crystal optical susceptibility. The bandtoband optical transitions into the true continuum above the fundamental absorption edge are considered. We have estimated qualitatively the conversion efficiency · for important IIIV crystals like InSb, GaSb, and GaAs. The nature of variation of · with respect to detuning as well as excitation intensity are found to be in very good agreement with the experimental observations in ammonia, and in semiconductors like Si, Ge, and Hg1xCdxTe. The analyses also reveal that large · can be derived by using submicrometer sized crystals. InSb is established as the most promising IIIV semiconductor for optical phase conjugation device technology at very low cw resonant laser irradiation.
+
+OPTICAL SUSCEPTIBILITY
+FOURWAVE MIXING
+PHASE CONJUGATION
+TUNING
+SILICON
+GERMANIUM
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+INDIUM ANTIMONIDES
+GALLIUM ANTIMONIDES
+GALLIUM ARSENIDES
+AMMONIA
+EXCITONS
+LASER RADIATION
+BAND STRUCTURE

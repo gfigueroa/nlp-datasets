@@ -1,0 +1,6 @@
+There is a lot of pressure on all the developed and second world countries to produce low emission power and distributed generation (DG) is found to be one of the most viable ways to achieve this. DG generally makes use of renewable energy sources like wind, micro turbines, photovoltaic, etc., which produce power with minimum green house gas emissions. While installing a DG it is important to define its size and optimal location enabling minimum network expansion and line losses. In this paper, a methodology to locate the optimal site for a DG installation, with the objective to minimize the net transmission losses, is presented. The methodology is based on the concept of relative electrical distance (RED) between the DG and the load points. This approach will help to identify the new DG location(s), without the necessity to conduct repeated power flows. To validate this methodology case studies are carried out on a 20 node, 66kV system, a part of Karnataka Transco and results are presented.
+
+Distributed Generation (DG)
+Distribution System
+Relative Electrical Distance (RED)
+T -index

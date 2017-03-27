@@ -1,0 +1,11 @@
+Microwave dielectric measurements have been performed on various Zndoped InP crystals using a vector network analyzer. There are two kinds of dielectric response in Zndoped InP crystals depending on their Zn concentration. The general dielectric response in InP in the microwave frequency region is dielectric relaxation, which is related to the dipolar species formed from the ionized substitutional ZnIn. The other dielectric response of InP crystals doped with a higher Zn concentration is dielectric loss. The crystal doped with Zn to a concentration of 2.14×1018 cm3 shows a strong dielectric loss at 11 GHz, but no dielectric loss peaks are found in crystals doped with a lower Zn concentration of 4.36×1017 cm3. The dipolar species, which gives rise to the dielectric loss in Zndoped InP crystals, is believed to be a result of vacancy complex defects of neutral substitutional ZnIn and two P vacancies.
+
+INDIUM PHOSPHIDES
+ENERGY LOSSES
+DOPED MATERIALS
+ZINC ADDITIONS
+IMPURITIES
+MICROWAVE RADIATION
+PERMITTIVITY
+RELAXATION
+DIELECTRIC FUNCTION

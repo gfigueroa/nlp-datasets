@@ -1,0 +1,6 @@
+A b-learning methodology is applied to a dc-to-dc converters course. The environment is set up by means of joining in an e-learning Moodle platform lectures and emulation sessions, and an improved interface for an remote laboratory setup. Lectures are reduced to a set of few hours, favoring self study and tutoring sessions. Asynchronous access to theoretical lectures, emulators and remote laboratory increase the degrees of freedom between professors and students. A redesign of the interface of the server let professors and students interact with the experiments and the equipment in the remote laboratory by means of a queue / batch. The results of execution are measurements from programmable instrumentation, saved to be recover later as a report. Experience acquired with similar power electronic on previous courses has lead authors to create a test course of one semester duration on dc-to-dc converters^ with great success.
+
+blearning environment
+dc-to-dc converters
+power electronics
+programmable instrumentation

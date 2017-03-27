@@ -1,0 +1,11 @@
+Charging insulating films in a scanning electron microscope is shown to be a potentially useful thermographic technique which makes it possible to reveal hot regions in microelectronic devices, with a spatial resolution in the submicrometer range. This technique entails depositing an insulating film on the device to serve as thermographic medium. A focused, lowenergy electron beam charges the insulator during the scanning process. Hot regions modify the local charge, which in turn modifies the secondary electron signal and thus generates a thermal contrast. This technique has been applied to investigate mirrors of GaAs/AlGaAs graded index separate confinement single quantum well laser diodes. Thermographic images of these mirrors have been obtained with a spatial resolution of 0.25 ¼m. Since the thermal images can be observed using the scanning electron microscopes TV mode, the course of fast thermal phenomena at laser mirrors can be imaged. As an example, the thermal drift prior to the thermal runaway at laser mirrors has been investigated.
+
+SEMICONDUCTOR LASERS
+LASER DIODES
+MIRRORS
+THERMOGRAPHY
+ELECTRON BEAMS
+SEM
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+QUANTUM WELLS

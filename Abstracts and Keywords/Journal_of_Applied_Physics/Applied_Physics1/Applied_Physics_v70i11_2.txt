@@ -1,0 +1,11 @@
+We developed plasma nitridation for superconducting Nb wiring to improve their annealing stability. Plasma nitridation was observed to be very effective in increasing the critical currents and improve annealing stability. We analyzed the nitride layer formed on the surface of Nb film by plasma nitridation, and found that it prevented oxygen diffusion in Nb. Plasma nitridation is a currently feasible process to improve the reliability of Nb wiring in Josephson circuit.
+
+SUPERCONDUCTING FILMS
+NIOBIUM
+NITRIDATION
+ANNEALING
+STABILITY
+DIFFUSION BARRIERS
+PLASMA
+WIRES
+JOSEPHSON JUNCTIONS

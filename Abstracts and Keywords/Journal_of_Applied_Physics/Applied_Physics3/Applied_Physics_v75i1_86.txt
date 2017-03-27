@@ -1,0 +1,10 @@
+A twodimensional analysis of the inplane misfit stress and its elastic relaxation in rectangular patterned heteroepitaxial SiGe/Si multilayer structures on Si substrate is presented. Based on the model of relaxing film stress the distribution of the misfit stress versus distance from the free surface of a multilayered mesa edge is calculated. By superposition of the isolated stress fields of the mesa edges, the biaxial misfit stress distribution in a finite heteroepitaxial thinfilm structure on thick substrate is obtained. The formalism developed permits the determination of the variation of misfit stress values as a function of material and size characteristics of the patterned multilayersubstrate system. An elementary application of the theoretical analysis of the biaxial state of stress existing in the structured layer system is discussed briefly.
+
+GERMANIUM SILICIDES
+EPITAXIAL LAYERS
+STRESS RELAXATION
+ELASTICITY
+MULTILAYERS
+HETEROSTRUCTURES
+SILICON
+SUBSTRATES

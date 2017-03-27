@@ -1,0 +1,11 @@
+We measured the change of the refractive index over a wide wavelength range in Ge- and N-doped high purity (fiber optics grade) silica glasses subjected to gamma irradiation. The radiation-induced change of the refractive index tends to be greater in the infrared part of the spectrum compare to the values measured in the UV-visible part of the spectrum. By means of the KramersKronig relations, we estimate that a weak broadening of the optical vibration band of the silica network adds to this effect. The paper also discusses the difference observed in the spectral behavior of the induced refractive index change for both types of doped glass.
+
+gamma-ray effects
+germanium compounds
+glass
+infrared spectra
+Kramers-Kronig relations
+nitrogen compounds
+refractive index
+ultraviolet spectra
+visible spectra

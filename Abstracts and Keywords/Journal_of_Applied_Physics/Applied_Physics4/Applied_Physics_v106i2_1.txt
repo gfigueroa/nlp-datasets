@@ -1,0 +1,5 @@
+We considered a cholesteric slab whose axis is normal to their borders, when a uniform electric field is perpendicularly applied to the helix axis. We found the solution of the boundary value problem for the reflection and transmission of normally incident waves due to the slab. We showed that a left-circularly polarized thin reflection band is immersed in a wider right-circularly polarized band reflection, when the cholesteric is subjected to low amplitude fields. For larger field values, both reflection bands redshift simultaneously as the field increases. A device based on this phenomenon can be used as a electrically tunable universal filter.
+
+boundary-value problems
+cholesteric liquid crystals
+electro-optical effects

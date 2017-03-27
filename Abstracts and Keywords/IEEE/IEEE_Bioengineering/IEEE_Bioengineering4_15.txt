@@ -1,0 +1,5 @@
+The amount of data produced by the several genomic sequencing projects has increased dramatically in recent years. One of the main goals of bioinformatics is to analyze biological data aiming at identifying genes. The splice junction recognition problem is an important part of the gene detection problem. This work evaluates the performance of two classification models, derived from the weight matrix model, when applied to the splice junction recognition problem. Two splice junction data sets were used in this work and some measures of predictive accuracy were reported. Based on the experiments, classification thresholds were established, which can be useful for further implementation of an automatic gene detection system.
+
+DNA
+Gene detection
+Weight Matrix Model

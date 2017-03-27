@@ -1,0 +1,7 @@
+The unified software development process or unified process is a popular iterative and incremental software development process framework. The best-known and extensively documented refinement of the unified process is the rational unified process (RUP) created by the Rational Software Corporation, a division of IBM. Agile unified process is a simplified version of the RUP developed by Scott Ambler, the Practice Leader for agile development at IBM. It describes a simple, easy to understand approach to developing business application software using agile techniques and concepts yet still remaining true to the RUP. This paper explains the need of applying agile methodologies and agile unified process framework for developing B2B, EDI applications. This paper presents a refined agile unified process framework tailored for EDI (electronic data interchange) and B2B (business-to-business) software projects.
+
+Agile
+Agile Unified Process
+B2B
+EDI
+Rational Unified Process

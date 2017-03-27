@@ -1,0 +1,7 @@
+Vehicular safety research and development activities have been active in recent years with the implementation of driver assistance systems. Intersection collision is a primary category of roadway safety concerns that can benefit from vehicle-based as well as infrastructure-based solutions. This paper describes the definition of safety performance measures for the purpose of assessing the effectiveness of driver-assistance systems for intersection left-turn conflicts. The safety measures allow a comparison of performances in the design and development stages as well as the evaluation in the field testing and deployment stages. The availability of surrogate measures in the absence of the ultimate measures of crash reductions provides a realistic indication of plausible effects from safety improvements. The methodology of calculating the suggested safety measures is based on field observation data, thus lending strong support to the validity and applicability of the suggested approach
+
+Collision Warning
+Driver Assistance
+Intersection Safety
+Risk Assessment
+Safety Performance Measures

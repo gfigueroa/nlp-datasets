@@ -1,0 +1,9 @@
+Normal and superconducting properties of PtSi films with thicknesses of d=220 nm have been investigated. The superconducting transition has been observed on the thin films down to d=4 nm. The systematic reduction of the transition temperature with decreasing d (increasing the sheet resistance) has been explained by the localization and Coulomb interaction effects on superconductivity. The temperature dependence of the upper critical field indicates that the PtSi films behave as homogeneous superconductors.
+
+PLATINUM SILICIDES
+SUPERCONDUCTING FILMS
+THICKNESS
+TRANSITION TEMPERATURE
+COULOMB FIELD
+CRITICAL FIELD
+TEMPERATURE DEPENDENCE

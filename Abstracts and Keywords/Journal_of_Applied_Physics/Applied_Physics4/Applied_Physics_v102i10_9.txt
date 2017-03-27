@@ -1,0 +1,10 @@
+A microwave assisted Brillouin light scattering (BLS) technique based on resonant excitation of spin waves in a 200 nm thick permalloy film by a micrometric size coplanar antenna has been studied. It has been demonstrated that the BLS intensity and signal-to-noise ratio have been improved by three orders of magnitude with respect to the conventional light scattering by thermal magnons. The analysis of the amplitude, shape, and frequency position of Stokes and anti-Stokes lines in the BLS spectra, for nonzero angles of the light incidence, indicates the presence of a strong hybridization of standing spin-wave resonances with propagating spin waves due to partial nonsymmetric pinning on the film surfaces. Direct optical probing has shown that the excited hybrid spin-wave modes are localized strictly in the vicinity of the microwave antenna.
+
+Brillouin spectra
+ferromagnetic materials
+ferromagnetic resonance
+magnetic thin films
+magnons
+metallic thin films
+Permalloy
+spin waves

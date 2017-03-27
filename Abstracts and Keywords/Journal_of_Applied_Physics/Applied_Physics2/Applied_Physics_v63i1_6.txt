@@ -1,0 +1,5 @@
+A theoretical relation is derived for the variance of a 1/f noise signal as a function of the sample duration T. With the help of this relation the 1/f character of a noise signal in the microhertz range is verified by measuring the variance as a function of T, with Td3×105 s. At f=3×106 Hz the spectral density of the noise signal was still found to be inversely proportional to the frequency.
+
+NOISE
+VARIATIONS
+MATHEMATICAL MODELS

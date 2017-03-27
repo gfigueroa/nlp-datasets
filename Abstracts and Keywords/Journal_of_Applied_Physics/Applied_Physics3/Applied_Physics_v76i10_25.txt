@@ -1,0 +1,10 @@
+A new spectrum component is observed in Mössbauer spectra of thin body centered cubic Co layers doped with 57Co which have previously been shown to be in this metastable state with nuclear magnetic resonance. It is characterized with a large magnetic hyperfine field (31.2 T) and an isomer shift nearly equal to that of ±Fe. The decrease of the isomer shift in bcc Co with respect to hcp Co is consistent with a smaller sd charge transfer in bcc Co as compared to hcp Co. The influence of structure on the hyperfine field in a Co crystal is reflected in the decrease of the magnetic hyperfine field of Fe in bcc Co as compared to hcp Co and is similar to the volume dependence of the magnetic hyperfine fields in a Co crystal.
+
+COBALT
+BCC LATTICES
+METASTABLE PHASES
+MOESSBAUER EFFECT
+HFS INTERACTIONS
+ISOMER SHIFT
+ELECTRONIC STRUCTURE
+CHARGE EXCHANGE

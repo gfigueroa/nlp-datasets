@@ -1,0 +1,14 @@
+Synchrotron and Guinier xray powder diffraction data as a function of temperature on a superconducting PbMo6S8 sample (Tc=14.7 K) showed evidence for a subtle structural phase transition at Tl=140 K, leading from a rhombohedral hightemperature to a triclinic lowtemperature modification. The transition is incomplete and presents a hysteresis of about 110 K. The triclinic cell parameters obtained at 130 K, a=6.534(9) Å, b=6.532(9) Å, c=6.529(9) Å, ±=89.27(8)°, ²=89.12(8)°, ³=88.97(8)°, show that the distortion affects mainly the angles (´±/±r=0.3%) and less the edges (´a/ar&lt;0.1%). This result contrasts with previous neutron diffraction work [Phys. Rev. 35, 5365 (1987)] where the distortion was found to be much greater and to affect both the angles and the edges (´a/ar=1.2%, ´±/±r=1.2%), and to be of the same order of magnitude than in the MMo6S8 (M=Sr,Ba,Eu) analogues (M=Ba: ´a/ar=1.2%,´±/±r=3.5%). Guinier data on an oxygen containing sample having a lower superconducting transition temperature (Tc=10.5 K) showed a smaller distortion that started at lower temperature (Tl=100 K).
+
+LEAD SULFIDES
+MOLYBDENUM SULFIDES
+TERNARY COMPOUNDS
+SUPERCONDUCTORS
+XRD
+SYNCHROTRON RADIATION
+LATTICE PARAMETERS
+DISTORTION
+POWDERS
+CRYSTALPHASE TRANSFORMATIONS
+TEMPERATURE RANGE 65273 K
+TRICLINIC LATTICES

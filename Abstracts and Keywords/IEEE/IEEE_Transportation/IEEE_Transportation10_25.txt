@@ -1,0 +1,7 @@
+This paper present a PLC based learning tool for operation of three natural gas generator sets. The generators are modeled as three small motors installed in an experimental board in an undergraduate power engineering laboratory. All criteria for safe starting, synchronization, protection against electrical and mechanical faults of the generators are taken into consideration in the software used for the PLC. This laboratory facility enhances the method of teaching and learning of PLC based power systems operation and control at undergraduate level.
+
+PLC
+automatic operation of generator
+manual operatin of generator
+power engineering laboratory
+protection of generator

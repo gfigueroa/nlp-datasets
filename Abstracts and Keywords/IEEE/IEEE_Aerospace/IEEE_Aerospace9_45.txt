@@ -1,0 +1,7 @@
+A key concern for global manufacturers today is to reduce inventory and inventory driven costs across their supply and distribution networks. Efficient and effective management of inventory throughout the supply chain significantly improves the ultimate service provided to the customer Minimizing the total supply chain cost refers to the reduction of holding and shortage cost in the entire supply chain. Efficient inventory management is a complex process which entails the management of the inventory in the whole supply chain. The dynamic nature of the excess stock level and shortage level over all the periods is a serious issue when implementation is considered. In addition, consideration of multiple factories, multiple products leads to very complex inventory management process The complexity of the problem increases when more distribution centers and agents are involved. In this paper, these issues of inventory management have been focused and a novel approach based on Genetic Algorithm has been proposed in which the most probable excess stock level and shortage level required for inventory optimization in the supply chain is distinctively determined so as to achieve minimum total supply chain cost.
+
+Genetic Algorithm
+Inventory Optimization
+Inventory control
+Supply Chain Management
+supply chain cost

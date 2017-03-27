@@ -1,0 +1,9 @@
+Magnesium substituted compounds MgxTi1xS2 (0 } x } 0.15) were prepared by solid-state reaction, and their transport and thermoelectric properties were investigated from 5to310K. The results indicate that at low temperatures (T&lt; < 175K), a transition from metallike to semiconductorlike behavior occurred after the substitution of Mg for Ti, which implies that intrinsically TiS2 is a semiconductor and this transition can be ascribed to de-degeneration through the reduction in electron concentration due to Mg2+ substitution for Ti4+. Furthermore, it was found that dc conductivity Ã for MgxTi1xS2 (x&gt;0) obeyed Motts two-dimensional (2D) variable range hopping law ln	ÃT1/3 at T&lt; < 50K, indicating that TiS2 possess 2D transport characteristics. The appearance of Motts 2D law could originate from a potential disorder introduced by Mg substitution for Ti in STiS slabs. Meanwhile, the significant enhancement of absolute thermopower of MgxTi1xS2 (x&gt;0) in the whole temperature range investigated could also be attributed to the reduction of electronic concentration after doping. The thermoelectric figure of merit ZT of heavily substituted compounds (x = 0.10 and 0.15) was smaller than that of TiS2, owing to the large increase of both their electrical resistivity and (lattice) thermal conductivity presumably caused by the reduced electron concentration and increased acoustic velocity, respectively. Nevertheless, ZT of the lightly substituted compound Mg0.04Ti0.96S2 enhanced substantially due to the remarkable increase in its thermopower, and specifically it is < 1.6 times as great as that of TiS2 at 300K, indicating that doping (substitution) is an effective approach to enhance thermoelectric performance of TiS2.
+
+electrical conductivity transitions
+electrical resistivity
+semiconductor doping
+semiconductor materials
+thermoelectric power
+thermoelectricity
+titanium compounds

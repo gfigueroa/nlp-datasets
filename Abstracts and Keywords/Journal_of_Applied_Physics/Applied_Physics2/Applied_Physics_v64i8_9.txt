@@ -1,0 +1,11 @@
+It is pointed out that it is inappropriate to use the thirdderivative functional form derived by Aspnes [Surf. Sci. 37, 418 (1973)] to fit the photoreflectance data of GaAs at the fundamental absorption edge when the lowfield condition is not satisfied. Instead, the FranzKeldysh oscillations can be used to determine the carrier concentration of the material.
+
+GALLIUM ARSENIDES
+SEMICONDUCTOR MATERIALS
+CARRIER DENSITY
+CRYSTAL DOPING
+OPTICAL REFLECTION
+DATA ANALYSIS
+PARAMETRIC ANALYSIS
+ENERGY SPECTRA
+ABSORPTION

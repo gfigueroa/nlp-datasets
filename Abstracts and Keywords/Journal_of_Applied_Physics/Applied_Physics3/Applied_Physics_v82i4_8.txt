@@ -1,0 +1,15 @@
+We report on the influence of doping, temperature, porosity, band gap, and oxidation on the photoluminescence (PL) properties of anodically etched porous a-Si:H and a-Si:C:H thin films. Only boron-doped, p-type a-Si:H samples exhibited visible photoluminescence. Two broad PL peaks at < 1.6 and < 2.2
+eV are apparent in room temperature PL spectra. The intensity of the 2.2 eV peak as well as the nanovoid density in the unetched a-Si:H layers both correlate well with boron concentration. We see evidence of discrete defect or impurity levels in temperature-dependent luminescence measurements, where we observe multiple luminescence peaks. Unlike in porous crystalline silicon, the luminescence energy in porous amorphous silicon does not change with porosity. We do, though, observe a correlation of luminescence energy with band gap of the starting a-Si:C:H films. Oxidation, either native or anodic, reduces photoluminescence intensity. We discuss the implications of these observations on the nature of the luminescence mechanism. © 1997 American Institute of Physics. 
+
+carbon
+silicon
+elemental semiconductors
+hydrogen
+amorphous semiconductors
+semiconductor thin films
+photoluminescence
+energy gap
+defect states
+impurity states
+porous materials
+surface states

@@ -1,0 +1,12 @@
+Anisotropy fields in excess of 120 kA/m (1500 Oe) have been produced in 35-nm-thick polycrystalline films of Co by oblique sputtering of Ta underlayers. The unusually high anisotropy is magnetostatic in origin and is induced by corrugations on the surface of an obliquely sputtered Ta underlayer. Cross-sectional transmission electron microscopy reveals 4 nm columnar grains of Ta tilted toward the Ta source and elongated perpendicular to the Ta flux in the film plane. The anisotropy field of the Co film increases with both the underlayer thickness and the angle between the Ta source and the film normal. In spin valve samples, the anisotropy is attenuated by more than an order of magnitude across a 4-nm-thick Cu spacer. Magnetoresistance measurements on a spin valve indicate less than 2° dispersion in hard axis directions, and despite the nanometer-scale roughness of the underlayer there is weak broadening of the ferromagnetic resonance line. © 2000 American Institute of Physics. 
+
+cobalt
+magnetic thin films
+spin valves
+magnetic anisotropy
+transmission electron microscopy
+sputtered coatings
+ferromagnetic materials
+magnetoresistance
+ferromagnetic resonance
+surface topography

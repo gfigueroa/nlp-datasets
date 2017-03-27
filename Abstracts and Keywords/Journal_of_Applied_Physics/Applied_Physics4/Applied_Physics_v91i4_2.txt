@@ -1,0 +1,23 @@
+Epitaxial thin films of MgIn2O4 were grown on MgO(100) single-crystal substrates through the pulsed laser deposition technique. X-ray diffraction measurements revealed film orientations MgIn2O4(h00)//MgO(h00) and MgIn2O4(0k0)//MgO(0k0), respectively. Proton implantation was applied to generate carrier electrons in the films. The electrical conductivity of the as-deposited films is below <107
+S
+cm1 at room temperature. The maximum conductivity of <70 S
+cm1 was obtained by the implantation. Hall voltage measurements revealed that H+ implantation causes carrier generation in proportion to H+ fluence without reduction of electron mobility. Following the post-annealing process resulted in further enhancement of the conductivity in each H+-implanted film, as conductivity and generation efficiency were found to increase up to <2×102
+S
+cm1 and <95% at the maximum, respectively. This differs from the behavior of polycrystalline films in which conductivity decreased by post-annealing due to a decrease in the Hall mobility of electrons. Thus it is concluded that crystal quality is crucial for heavy carrier doping by ion implantation, especially when utilizing post-annealing treatments to enhance the carrier generation efficiency without reduction of the Hall mobility. © 2002 American Institute of Physics. 
+
+magnesium compounds
+indium compounds
+ternary semiconductors
+semiconductor epitaxial layers
+proton effects
+ion implantation
+pulsed laser deposition
+crystal orientation
+X-ray diffraction
+carrier density
+electrical conductivity
+semiconductor doping
+Hall mobility
+electron mobility
+annealing
+heavily doped semiconductors

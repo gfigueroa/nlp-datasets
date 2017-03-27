@@ -1,0 +1,11 @@
+We study the ferroelectric system consisting of the sandwich structure (PbTiO3/BaTiO3/PbTiO3) by using the GinzburgLandau phenomenological theory, and emphasize the importance of the long-range coupling interaction to the ferroelectric behavior of the system. We find that after introducing the long-range coupling interaction to the ferroelectric behavior of the sandwich system, the average spontaneous polarization of the interlayer (BaTiO3) increases and a size-driven phase transition disappears. The larger the range of the long-range coupling, the larger the average spontaneous polarization. When the range of the long-range coupling is large enough, the average spontaneous polarization increases gradually with decreasing interlayer thickness, reaches one maximum at a certain finite thickness, and then decreases. The spatial distribution profile of the spontaneous polarization on the range of the coupling interaction for different values of the interlayer thickness is obtained, and the dependence of the averaged polarization on temperature is also examined. © 2001 American Institute of Physics.
+
+lead compounds
+barium compounds
+ferroelectric ceramics
+ferroelectric thin films
+ferroelectric storage
+random-access storage
+dielectric polarisation
+ferroelectric transitions
+Ginzburg-Landau theory

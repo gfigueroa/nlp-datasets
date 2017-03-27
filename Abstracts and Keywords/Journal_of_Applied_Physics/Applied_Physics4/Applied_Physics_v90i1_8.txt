@@ -1,0 +1,13 @@
+This article presents experimental results of the dynamic yield strength and dynamic tensile strength (spall strength) of aluminum single crystals at shock-wave loading as a function of temperature. The load duration was <40 and <200 ns. The temperature varied from 20 to 650
+°C which is only by 10
+°C below the melting temperature. A linear growth of the dynamic yield strength by more than a factor of 4 was observed within this temperature range. This is attributed to the phonon drag effect on the dislocation motion. High dynamic tensile strength was maintained over the whole temperature range, including the conditions at which melting should start in a material under tension. This could be an indication of the existence of superheated states in solid crystals. © 2001 American Institute of Physics. 
+
+tensile strength
+yield strength
+phonon drag
+dislocation motion
+aluminium
+shock wave effects
+melting
+heat transfer
+phonon-defect interactions

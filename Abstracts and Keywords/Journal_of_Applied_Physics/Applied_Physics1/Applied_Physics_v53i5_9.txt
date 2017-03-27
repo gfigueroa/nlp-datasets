@@ -1,0 +1,17 @@
+Energy barrier heights at interfaces of metalaluminum nitride (AlN)silicon(Si) structures with Au and Al as metal electrodes have been measured by internal photoemission. Measured results in lowphoton energy region were interpreted in terms of a hole internal photoemission mechanism. Energy barrier heights for holes from the Au or Al Fermi level and from the top of Si valence band, to the top of AlN valence band, were found to be 2.0±0.2, 3.6±0.2, and 1.9±0.2 eV, respectively. These results were in good agreement with the values measured by the MetalInsulatorSemiconductor capacitancevoltage techniques. On the other hand, measured results in the highenergy region were interpreted in terms of both electron and hole emission mechanisms. The band gap energy values of AlN obtained by internal photoemission measurements were nearly equal to the value by optical absorption measurements, except for the value obtained from energy barriers at the AlAlN interface. It was also found that the enhancement of photocurrent with time is caused by space charges produced by both electron and hole trappings.
+
+INTERFACES
+POTENTIALS
+ALUMINIUM
+ALUMINIUM NITRIDES
+SILICON
+EXPERIMENTAL DATA
+GOLD
+ELECTRODES
+PHOTOEMISSION
+MATHEMATICAL MODELS
+FERMI LEVEL
+VALENCE
+ENERGY LEVELS
+ENERGY GAP
+SPACE CHARGE

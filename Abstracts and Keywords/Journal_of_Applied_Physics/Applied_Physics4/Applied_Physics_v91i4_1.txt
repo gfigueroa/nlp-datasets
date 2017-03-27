@@ -1,0 +1,4 @@
+The time dependent current response to an impulse of injected carriers is calculated for an avalanche photodiode using Monte Carlo simulation. For low electric fields and long avalanche regions the results agree with the conventional model, which assumes that carriers travel always with their saturated drift velocities. However, while diffusion remains unimportant, for high fields and short avalanche regions, the conventional model underestimates the device speed. Monte Carlo simulations show that the mean downstream average velocity of ionizing carriers is significantly enhanced at high electric fields and agreement is restored if we allow for this effect in the conventional model. © 2002 American Institute of Physics. 
+
+avalanche photodiodes
+Monte Carlo methods

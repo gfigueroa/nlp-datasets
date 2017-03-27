@@ -1,0 +1,8 @@
+Carbon nanotube transistor (CNT) is promising to be the technology of choice for nanoscale integration. In this work, we develop the first compact model of CNT, with the objective to explore the optimal process and design space for robust low-power applications. Based on the concept of the surface potential, the new model accurately predicts the characteristics of a CNT device under various process and design conditions, such as diameter, chirality, gate dielectrics, and bias voltages. With the physical modeling of the contact, this model covers both the Schottky-barrier CNT (SB-CNT) and MOS-type CNT. The proposed model does not require any iteration and thus, significantly enhances the simulation efficiency to support large-scale design research. Using this model, we benchmark the performance of a FO4 inverter with CNT and 22nm CMOS technology. The following key insights are extracted: (1) even with the SB-CNT and realistic layout parasitics, the circuit speed can be more than 10X that of 22nm CMOS; (2) The diameter range of 1-1.5nm exhibits the maximum tolerance to contact materials and process variations; (3) a CNT circuit allows better scaling of the supply voltage (V<sub>dd</sub>) for power reduction. For a fixed energy consumption and V<sub>dd</sub>, the CNT speed is 4X that of 22nm CMOS. Overall, the new model enables efficient design research with CNT, revealing tremendous opportunities for both high-speed and low-power applications.
+
+CNT
+modeling
+optimum delay
+process variability
+schottky-barrier
+surface potential

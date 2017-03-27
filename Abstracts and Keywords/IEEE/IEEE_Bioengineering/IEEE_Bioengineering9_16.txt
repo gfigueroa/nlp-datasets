@@ -1,0 +1,5 @@
+The supplier selection problem is perhaps the most important component of the purchasing function. Based on the Analytic Hierarchy Process (AHP) and the ordered weighted aggregation (OWA) operator, this paper presents a new decision making approach for supplier selection. There are some important criteria for selection or measuring performance of suppliers, the weights of these criteria are given by AHP. In this paper, we develop an OWA operator that it can relieve the influence of unfair arguments provided by the decision makers. Finally, an illustrative numerical example is given to verify the developed approach.
+
+Analytic Hierarchy Process
+supplier selection
+the ordered weighted aggregation operator

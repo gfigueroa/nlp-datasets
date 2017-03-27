@@ -1,0 +1,9 @@
+In this paper we present a computing system which based on computations on intervals over [0,1]. The interval-values are built up from points and atomic intervals. The Boolean operators are extended to these values in a natural way. Changing the bytes of the traditional computing to interval-values one gets the interval-valued computing device. We investigate the operators Rshift and Lshift as well. By a simulation the interval-valued computing device can compute everything that the classical computing devices can compute using bits in a byte. Moreover, theoretically, this device is more effective than the traditional computers, because of the possibility of infinite parallelism. A method is presented to solve the Q-SAT problem in linear time using the interval-valued approach. Our device uses the usual concept of intervals to make the computations in a very effective way. The list-representation of the interval-values is also presented. Based on these lists, theoretically, one can simulate the interval-computation both in mathematical and traditional computational way.
+
+Computing with Intervals
+Computing with Lists
+Infinite Byte
+Interval-valued Logic
+Natural Computing
+Nonstandard Computing
+Parallel Systems

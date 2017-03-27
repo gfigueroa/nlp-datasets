@@ -1,0 +1,11 @@
+Hotstage highvoltage (1.5 MeV) transmission electron microscopy was used to directly observe CdS nanocrystals precipitated in a silicate glass and a theoretical framework of nanocrystal coarsening kinetics more appropriate than the popularly used LifshitzSlyozovWagner theory was developed. Nanocrystallite nucleation and coarsening were monitored in situ by video taping of brightfield images of the edges of thin (less than 2 ¼m) glass fragments heated in the hot stage; crystallite size distribution was obtained from the taped experimental observations. The effects of electronbeam heating and diffusion out of the nanocrystals were included in developing the theoretical analysis of coarsening kinetics which were used, in turn, to interpret the experimental size distribution curves.
+
+CADMIUM SULFIDES
+NANOSTRUCTURES
+TEM
+GLASS
+HEAT TREATMENTS
+ELECTRON DIFFRACTION
+PRECIPITATION
+NUCLEATION
+DISTRIBUTION FUNCTIONS

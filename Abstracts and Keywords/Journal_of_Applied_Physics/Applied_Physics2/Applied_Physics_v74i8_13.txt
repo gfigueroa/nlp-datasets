@@ -1,0 +1,13 @@
+We present timeresolved photoluminescence studies of perpendicular transport and the subsequent capture of photoexcited carriers in IIVI semiconductor superlattices with an enlarged quantum well. The trapping dynamics are investigated as a function of the superlattice period in the range of 3080 Å. We observed an efficient collection of electrons and holes in an enlarged CdTe quantum well confined by a shortperiod CdTe/Cd1xMnxTe superlattice. Both the characteristic time and the efficiency of carrier collection are found to be strongly dependent on the superlattice period. A time constant less of than 25 ps is determined for the carrier collection in a 30Åperiod superlattice. Our experimental findings give evidence of Bloch type perpendicular transport in electron and heavyhole minibands.
+
+SUPERLATTICES
+CADMIUM SELENIDES
+CADMIUM TELLURIDES
+MANGANESE TELLURIDES
+TRANSPORT PROCESSES
+PHOTOLUMINESCENCE
+TERNARY ALLOYS
+QUANTUM WELLS
+TRAPPING
+TIME RESOLUTION
+MOLECULAR BEAM EPITAXY

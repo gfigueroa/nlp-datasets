@@ -1,0 +1,9 @@
+We present data on the electrooptics and the display performance of liquidcrystal devices based on the distorted helix ferroelectric (DHF) effect which demonstrate TV switching rates and low driving voltages. The DHF effect is based on S@B|c ferroelectric liquid crystals with very short pitch, which form in suitable cells a bookshelf arrangement of the smectic layers with a helical axis parallel to the plane of the display. The distortion of this helix by an applied electric field is responsible for the electrooptical effect: If the pitch is shorter than the wavelength, the distortion leads to a change of the effective refractive index. Unwinding of the helix is one of the limitations of these devices. We show that standard cell preparation techniques and driving schemesincluding active matrix addressingminimize helix unwinding and lead to highly multiplexible displays with short response times in the 10¼s region. Blackwhite contrast ratios &gt;12:1 at driving voltages &lt;2 V and grey scales are reported.
+
+FERROELECTRIC MATERIALS
+LIQUID CRYSTALS
+DISPLAY DEVICES
+ELECTROOPTICAL EFFECTS
+SWITCHING
+HELICAL CONFIGURATION
+BIREFRINGENCE

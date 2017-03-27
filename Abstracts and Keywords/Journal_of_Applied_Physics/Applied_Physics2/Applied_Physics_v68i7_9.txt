@@ -1,0 +1,9 @@
+The recent findings of Scheer, Wilhelm, and Lewerenz[J. Appl. Phys. 66, 5412 (1989)] regarding the application of the electronbeaminduced current technique in both the vertical and planar configurations to determine the minoritycarrier diffusion length in lowdiffusionlength material are compared to the results of an earlier analysis [J. Appl. Phys. 57, 1978 (1985)] of the same subject. The differences are briefly discussed.
+
+MINORITY CARRIERS
+DIFFUSION LENGTH
+EBIC
+PLANAR CONFIGURATION
+COPPER SELENIDES
+INDIUM SELENIDES
+NTYPE CONDUCTORS

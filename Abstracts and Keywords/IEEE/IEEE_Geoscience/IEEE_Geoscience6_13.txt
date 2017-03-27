@@ -1,0 +1,5 @@
+This study implements a driver circuit for a liquid crystal display backlight source to develop a dc-ac converter with few components, which is then connected to a cold cathode fluorescent lamp as the load. The circuit configuration includes a push-pull circuit, which provides parallel resonance and acts as a transformer that generates a sinusoidal waveform across the secondary winding. The circuit provides sufficiently high ac voltage to drive the lamps. Additionally, the impedance characteristics of the resonance circuit can be modified to set the dimming frequency. The work describes in detail the operating principles and design of the parameters of the resonance circuit. Experimental results demonstrate the theoretical effectiveness of the developed circuit.
+
+cold cathode fluorescent lamp (CCFL)
+parallel resonance
+push-pull

@@ -1,0 +1,13 @@
+Spin valves composed of ferrimagnetic/Cu/ferrimagnetic layers were fabricated with the magnetization perpendicular to the film planes. By changing the composition of ferrimagnetic layers, both negative and positive giant magnetoresistance (GMR) can be observed in ferrimagnetic spin valves. For samples consisting of both transition-metal (TM-) rich TbFeCo and GdFeCo, negative GMR values were obtained. Due to the high resistivity of amorphous ferrimagnetic films, the shunting effect of Cu led to relatively small MR ratio. The negative MR effect was 1% for 1.7 nm Cu. For spin valves consisting of rare-earth (RE-)rich TbFeCo and TM-rich GdFeCo, positive GMR values were observed. A thin layer of Co was inserted between RE-rich TbFeCo and Cu to manipulate the sign of GMR. © 2001 American Institute of Physics.
+
+giant magnetoresistance
+magnetic multilayers
+spin valves
+magnetisation
+copper
+ferrimagnetic materials
+amorphous magnetic materials
+terbium alloys
+gadolinium alloys
+iron alloys
+cobalt alloys

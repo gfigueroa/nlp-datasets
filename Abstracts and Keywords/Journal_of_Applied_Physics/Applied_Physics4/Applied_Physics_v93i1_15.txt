@@ -1,0 +1,7 @@
+We report the analysis of lateral composition modulation in (InAs)m/(GaSb)m superlattices by x-ray diffraction. Vertical and lateral satellite peaks for a 140 period structure were observed. The lateral modulation wavelength, average superlattice composition, and vertical superlattice wavelength were determined. The lateral modulation was observed only along one in-plane direction resulting in quantum wire-like structures along the [10] direction. The unconventional structure of the lateral composition modulation, in which the stacking of the layers leads to a doubling of the vertical superlattice period, is discussed. © 2003 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+X-ray diffraction
+semiconductor superlattices
+III-V semiconductors

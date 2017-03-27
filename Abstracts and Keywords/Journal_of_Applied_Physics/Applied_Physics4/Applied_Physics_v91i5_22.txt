@@ -1,0 +1,8 @@
+A study of the anisotropic magnetoresistance (AMR) effect of Co/Pt multilayers and Ni layer inserted Co/Pt multilayers is presented. By comparing the two kinds of multilayers, an enhancement of the AMR has been found for the Ni inserted series, which could be attributed to the enhancement of interface scattering. © 2002 American Institute of Physics.
+
+cobalt
+nickel
+platinum
+magnetic multilayers
+ferromagnetic materials
+giant magnetoresistance

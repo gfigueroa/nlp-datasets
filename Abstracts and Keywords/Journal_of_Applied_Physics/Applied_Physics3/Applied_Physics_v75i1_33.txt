@@ -1,0 +1,13 @@
+The physics of electron transport in bulk silicon is investigated by using a newly developed Monte Carlo simulator which improves the stateoftheart treatment of hot carrier transport. (1) The full band structure of the semiconductor was computed by using an empiricalpseudopotential method. (2) A phonon dispersion curve was obtained from an adiabatic bondcharge model. (3) Electronphonon scattering was computed by using a rigid pseudoion model. The calculated scattering rate is consistent with the full band structure and the phonon dispersion curve of silicon, thus leaving no adjustable parameters such as deformation potential coefficients. (4) The impactionization rate was calculated by using Fermis golden rule directly from the full band structure. We took into account the dielectric function depending on both wave vector and transition energy in the numerical calculation of the rate. The impactionization rate obtained in the present study strongly depends on both wave vector and band index of the conduction electron, which is ignored by the traditional Keldysh formula. (5) In the simulator, the final state of a scattering electron is determined in such a way as to conserve both energy and momentum in scattering processes. The simulated results, under the steadystate conditions as well as under the nonequilibrium conditions, are presented and compared with experimental results. Special attention is focused on anisotropic transport during velocity overshoot. Quantitative agreement between calculated and experimental results confirms the validity of the newly developed Monte Carlo simulator and the physical models that were used.
+
+SILICON
+ELECTRIC CONDUCTIVITY
+IONIZATION
+BAND STRUCTURE
+MONTE CARLO METHOD
+SIMULATION
+HOT CARRIERS
+PSEUDOPOTENTIAL
+ELECTRONPHONON COUPLING
+DIELECTRIC FUNCTION
+SCATTERING

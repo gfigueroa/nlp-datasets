@@ -1,0 +1,12 @@
+A central question in the physics of interacting electron systems is whether conditions exist under which the conventional Landau description fails to describe the low energy excitations of the normal metallic state. Measurements of the temperature and magnetic field dependences of the magnetization and resistivityin particular of the de Haasvan Alphen and Shubnikov effects which provide sensitive probes of microscopic processes in metalsare currently being used to examine this question. Advances in material preparation and detection techniques have made it possible to conduct exhaustive studies in selected examples of systems of highly correlated d and f electrons. Most of our results will be shown to be consistent with the broad predictions of the Landau model. In some extreme circumstances, however, near low temperature transitions as a function of hydrostatic pressure or applied magnetic field, evidence has been collected which appears difficult to reconcile with the standard model of the metallic state.
+
+METALS
+ELECTRONIC STRUCTURE
+ELECTRON CORRELATION
+F STATES
+D STATES
+FERMI GAS
+LANDAU THEORY
+MAGNETIC PROPERTIES
+ELECTRIC CONDUCTIVITY
+TEMPERATURE EFFECTS

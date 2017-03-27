@@ -1,0 +1,10 @@
+This article describes the oxidation of yttrium on silicon to form yttrium silicate films for application as high dielectric constant insulators. The high reactivity of yttrium metal with silicon and oxygen is utilized to form amorphous yttrium silicate films with a minimal interfacial silicon dioxide layer. Yttrium silicate films (<40 Å) with an equivalent silicon dioxide thickness of <11 Å and k<14 are formed by oxidizing yttrium on silicon. The physical properties of yttrium silicate films on silicon are investigated using x-ray photoelectron spectroscopy and Fourier transform infrared spectroscopy. The oxidation of yttrium silicide results in films nearly identical, although with a higher silicon fraction, to films formed by oxidation of yttrium on silicon. The oxidation of yttrium on silicon results in a competition for yttrium between silicide formation and oxidation. This competition yields yttrium silicate films for thin (&lt;40 Å) initial metal thickness and a Y2O3/silicate bilayer for thick (&gt;80 Å) initial metal thickness. Annealing yttrium films on silicon in vacuum to form yttrium silicide and then oxidizing the silicide is used to eliminate the competition and control the yttrium/silicon reaction. Analysis of the oxidation of yttrium on silicon reveals fast oxidation during silicate formation and a slow rate during oxidation of the silicon substrate to form SiO2. Oxidation of other metals, such as Hf, Zr, and La, on silicon is expected to result in metal silicate films through a similar simultaneous (or controlled sequential) silicide/oxidation reactions. © 2001 American Institute of Physics. 
+
+yttrium compounds
+insulating thin films
+semiconductor-insulator boundaries
+oxidation
+X-ray photoelectron spectra
+Fourier transform spectra
+infrared spectra
+annealing

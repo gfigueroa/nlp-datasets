@@ -1,0 +1,10 @@
+Thin films of Fe75Zr25 alloy were deposited by cosputtering of Fe and Zr targets using magnetron sputtering technique in the thickness range of 785nm. It was found that at a critical thickness of about 40nm, nanocrystallization of initially deposited amorphous phase takes place. A crossover occurs in the growth exponent (²) upon nanocrystallization giving a direct evidence for different growth behavior for amorphous and nanocrystalline phases.
+
+iron alloys
+zirconium alloys
+metallic thin films
+nanostructured materials
+crystallisation
+amorphous state
+sputter deposition
+crystal microstructure

@@ -1,0 +1,5 @@
+During the last 15 years the way how software products are being developed has changed dramatically. Today, software is developed very efficiently in an industrialized manner. One of the cornerstones is that new development processes introduced a domain-centric view rather than a technology-centric view. As a result, big and complex software systems can be built very fast, reliable and according to customers' requirements. Unfortunately, these advances in software engineering have had little to no effect on the software development process for robotic applications. This paper explains how domain-centric design can be introduced in the domain of industrial robotics and which possible benefits it might yield.
+
+object-level robot programming
+object-oriented design
+software architectures

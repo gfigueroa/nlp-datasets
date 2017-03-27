@@ -1,0 +1,14 @@
+Experimental and theoretical results of Mg-doped superlattices consisting of uniformly doped AlxGa1xN, and GaN layers are presented. Acceptor activation energies of 70 and 58 meV are obtained for superlattice structures with an Al mole fraction of x=0.10 and 0.20 in the barrier layers, respectively. These energies are significantly lower than the activation energy measured for Mg-doped bulk GaN. At room temperature, the doped superlattices have free-hole concentrations of 2×1018
+cm3 and 4×1018
+cm3 for x=0.10 and 0.20, respectively. The increase in hole concentration with Al content of the superlattice is consistent with theory. The room temperature conductivity measured for the superlattice structures is 0.27 S/cm and 0.64 S/cm for an Al mole fraction of x=0.10 and 0.20, respectively. X-ray rocking curve data indicate excellent structural properties of the superlattices. We discuss the origin of the enhanced doping, including the role of the superlattice and piezoelectric effects. The transport properties of the superlattice normal and parallel to the superlattice planes are analyzed. In particular, the transition from a nonuniform to a uniform current distribution (current crowding) occurring in the vicinity of contacts is presented. This analysis provides a transition length of a few microns required to obtain a uniform current distribution within the superlattice structure. © 2000 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor superlattices
+piezoelectricity
+current distribution
+magnesium
+electrical conductivity
+X-ray diffraction

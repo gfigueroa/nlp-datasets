@@ -1,0 +1,10 @@
+&#x201C;What is PSoC&#x201D; is an application related review of programmable array systems, the system-on-chip, or PSoC. The hardware and system requirements are explained, hand to hand with practical notes. Description of two examples of embedded wireless systems with digital data modulation follows the theory.
+
+C language
+Green Power
+Home Plug
+PLC
+PSoC
+Smart Power
+hardware
+wireless communication systems

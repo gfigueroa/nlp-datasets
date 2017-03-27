@@ -1,0 +1,17 @@
+Detailed synchrotron radiation photoemission studies of Yb/Hg1xCdxTe junctions as a function of Yb coverage were performed at room temperature. Photoemission from physisorbed xenon after cooling the sample to 35 K was also used to examine the local overlayer work function and the development of interface morphology. For Yb coverages less than 6 Å, the data provide evidence for the lateral growth of islands consisting of YbTe reaction products involving divalent Yb, and an associated Hg depletion within an 18Åthick nearsurface layer. Upon island coalescence at an Yb coverage of 6 Å, the formation of a metallic Ybrich layer at the surface is observed. This layer traps Hg atoms diffusing across the interface through the formation of an YbHg alloy, and is responsible for the nonmonotonic behavior of the Hg interface concentration as a function of Yb coverage.
+
+YTTERBIUM
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+INTERFACE PHENOMENA
+CHEMICAL COMPOSITION
+ELECTRONIC STRUCTURE
+PHOTOELECTRON SPECTROSCOPY
+SYNCHROTRON RADIATION
+MEDIUM TEMPERATURE
+XENON
+VERY LOW TEMPERATURE
+WORK FUNCTIONS
+MORPHOLOGY
+GROWTH
+QUASIBINARY COMPOUNDS

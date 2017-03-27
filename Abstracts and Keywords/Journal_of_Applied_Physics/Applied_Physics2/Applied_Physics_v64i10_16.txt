@@ -1,0 +1,17 @@
+Multiple structures in the spinpolarized electron energy loss spectra for thin films of bcc Co epitaxially grown on GaAs(110) are observed. Analyzing the specular beam (nearzero momentum transfer) for an incident polarized electron beam, three sharp loss features are observed at 1.6, 2.9, and 4.4 eV loss energy. These loss features are shown to be due only to incident minorityspin electrons. This is the first observation of multiple structures in the Stoner (spinflip) loss spectrum. A theoretical Stoner density of states (DOS) and spinnonflip transition DOS derived from bandstructure calculations for bcc Co show excellent agreement with the measured energy positions and peak widths of the loss features. Further comparison between the two calculated transition DOS and the experimentally measured spectra allows for identification of the loss mechanisms associated with the three loss structures as spinflip (Stoner) or spinnonflip.
+
+COBALT
+BCC LATTICES
+SPIN ORIENTATION
+ELECTRON SPECTRA
+ENERGY LOSSES
+THIN FILMS
+GALLIUM ARSENIDES
+MOMENTUM TRANSFER
+ELECTRON COLLISIONS
+EV RANGE 0110
+SPIN FLIP
+ENERGYLEVEL DENSITY
+BAND THEORY
+CORRELATIONS
+SORPTIVE PROPERTIES

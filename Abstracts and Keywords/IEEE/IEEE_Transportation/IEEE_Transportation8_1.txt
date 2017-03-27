@@ -1,0 +1,6 @@
+The paper presents several travel learning trajectories when all travelers are regarded as bounded rational. Firstly, it gives the adjustment process of travelers' route choice using the original mechanism of best-response dynamics under the assumption that all the travelers are of high learning ability. Secondly, the improved best-response dynamics from two aspects of strategy adjustment and difference among the travelers' rationality levels are proposed, which are applied to a small example following. Finally, a new algorithm is specified when the expense of routes are considered to be real-time, and the different results are analyzed detailedly under different mechanisms.
+
+Best-response Dynamics
+Bounded rationality
+Individual travel
+evolutionary game

@@ -1,0 +1,11 @@
+Magnetization of a Cu2 at.	% Co0.5 at.	% Cr alloy was measured in the temperature range from 77 to 296 K using vibrating sample magnetometer to investigate the effect of Cr addition on magnetization of the CuCo alloy. Aging temperature and the range of aging time were 723 K and 150 h. The CuCoCr alloy, as well as the CuCo alloy, is found to be superparamagnetic; this indicates the presence of magnetic clusters in the CuCoCr alloy. From the magnetization versus H/T (H: applied field, T: temperature) plots, magnetization of the CuCo alloy can be expressed as a function of H/T while that of the CuCoCr alloy cannot. Such analytical results suggest that the magnetic moment of the cluster existing in the CuCoCr alloy is temperature dependent. The temperature dependence of the magnetic moment is attributable to the presence of Cr atoms in the magnetic cluster. From the calculation of nonlinear leastsquares fitting in the magnetization, the magnetic moments of the cluster in the CuCoCr alloy aged for 1 and 5 h were estimated to be about 590 and 4800¼B at room temperature.
+
+COBALT ALLOYS
+COPPER ALLOYS
+BINARY ALLOYS
+MAGNETIZATION
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 00650273 K
+CHROMIUM ADDITIONS
+AGING
+MAGNETIC MOMENTS

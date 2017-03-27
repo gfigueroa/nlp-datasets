@@ -1,0 +1,5 @@
+To help enterprises in China obtain more competition advantage by relying on the effective management mode, the Supply and Demand Network with multifunction and opening characteristics for enterprises (abbr. SDN) as a new management mode is proposed. As a result, the research on traditional enterprises transformed into SDN enterprises is being carried on. To assist enterprises to launch this transformation smoothly, firstly, in view of supply and demand activities, the difference between traditional enterprises and SDN enterprises are analyzed emphatically. Then, facing the changing aspects, the Petri net modeling is applied to design some sub-models on this transforming, and based these sub-models the integrated and optimizing model for this study is given to provide the basis of launching, appraising, error controlling for this transforming.
+
+Petri Nets
+SDN
+Traditional Enterprises

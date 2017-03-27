@@ -1,0 +1,18 @@
+The Mössbauer linewidth broadening of superparamagnetic particles of ferric hydroxysulfate, near the point where the paramagnetic lines begin to appear, has been investigated as a function of temperature. This behavior is explained by a geometric picture of an assembly of magnetically ordered singledomain particles whose magnetic moments move within an asymmetric doublewell potential. A relaxation model is presented which combines the conventional theory of superparamagnetism with an exponential distribution of energy barriers.
+
+MOESSBAUER EFFECT
+LINE BROADENING
+LINE WIDTHS
+RELAXATION
+POTENTIALS
+DOMAIN STRUCTURE
+TEMPERATURE EFFECTS
+PARAMAGNETISM
+MAGNETIC MOMENTS
+IRON HYDROXIDES
+AMORPHOUS STATE
+SULFATES
+MATHEMATICAL MODELS
+METALLIC GLASSES
+PARTICULATES
+MAGNETIC ORDERING

@@ -1,0 +1,8 @@
+Chaos of a new class of Hopfield neural networks is investigated. Numerical simulations show that the simple Hopfield neural networks can display chaotic attractors and limit cycles for different parameters. By virtue of horseshoes theory in dynamical systems, the rigorous computer-assisted verifications for chaotic behavior of the system for certain parameters is given, and also the quantitative descriptions of the complexity of these systems.
+
+Chaos
+Hopfield Neural Network
+Horseshoe
+Limit Cycle
+Poincar&#x00E9; Map
+Topological Entropy

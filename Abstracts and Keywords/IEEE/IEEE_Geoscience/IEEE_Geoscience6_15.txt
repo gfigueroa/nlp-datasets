@@ -1,0 +1,7 @@
+Since wind generation is one of the most mature renewable energy technologies, it will have the greatest share of future renewable energy portfolio. Due to the special characteristics of the wind generation, the best choice for grid connection infrastructure is still not completely understood. In light of the practical project experience, this paper explores the feasibility of using HVDC transmission technology, especially multi-terminal HVDC (MTDC), as one of the preferable solutions to solve the grid interconnection issue. The paper mainly focuses on the application of using the hybrid MTDC to integrate wind farms to the electric power grid. A five-terminal hybrid MTDC model system including a large capacity wind farm is set up in EMTDC/PSCAD, in which the corresponding control strategy is designed. The operation characteristic of the hybrid system is studied and the proposed control strategy is verified through simulation in the cases of various faults.
+
+Current Source Converter
+Hybrid Multi-terminal HVDC
+Voltage Source Converter
+Weak or Passive System
+Wind Power

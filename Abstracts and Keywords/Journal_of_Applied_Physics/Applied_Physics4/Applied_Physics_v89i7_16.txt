@@ -1,0 +1,13 @@
+The emitter saturation current density (JOe) and surface recombination velocity (Sp) of various high quality passivation schemes on phosphorus-diffused solar cell emitters have been determined and compared. The passivation schemes investigated were (i) stoichiometric plasma enhanced chemical vapor deposited (PECVD) silicon nitride (SiN), (ii) forming gas annealed thermally grown silicon oxide, and (iii) aluminum annealed (alnealed) thermal silicon oxide. Emitters with sheet resistances ranging from 30 to 430 and 50 to 380 ©/¡ were investigated for planar and random-pyramid textured silicon surfaces, which covers both industrial and laboratory emitters. The electronic surface passivation quality provided by PECVD SiN films was found to be good, with Sp values ranging from 1400 to 25
+000 cm/s for planar emitters. Thin thermal silicon oxides were found to provide superior passivation to PECVD SiN, with the best passivation provided by an alnealed thin oxide (Sp values between 250 and 21
+000 cm/s). The optimized PECVD SiN films are, nevertheless, sufficiently good for most silicon solar cell applications. © 2001 American Institute of Physics. 
+
+silicon
+phosphorus
+elemental semiconductors
+surface recombination
+passivation
+solar cells
+current density
+plasma CVD coatings
+silicon compounds

@@ -1,0 +1,13 @@
+Two procedures are described for quantum-well shape tailoring, such that both the Stark effect and the intraband absorption on the 1’2 transition in a prescribed range of bias fields are maximized. One of them relies on the isospectral transform of the Hamiltonian, and delivers quantum wells with continuously graded composition. The other uses the simulated annealing algorithm and delivers globally optimal stepwise-graded wells with a preset number of layers. Numerical calculation is performed for wells based on the AlxGa1xAs alloy. © 2002 American Institute of Physics. 
+
+aluminium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+infrared detectors
+photodetectors
+quantum well devices
+simulated annealing
+Stark effect
+optimisation
+numerical analysis

@@ -1,0 +1,7 @@
+This paper evaluates at the various modulation and coding techniques suitable for adaptive data communication system. The techniques evaluated are applicable to HF spectrum. Examples of modulation and coding scheme that are evaluated include PACTOR I, PACTOR II, PACTOR III, GTOR and STANAG 4285. Analysis of system performance is made in the presence of AWGN with future extension for multipath fading conditions. Comparison will be made based on the bit-error rate (BER), packet-error rate (PER) and the throughput. In addition, the effective data rate for all the schemes is compared with the Shannon capacity limit to ensure the optimal utilization of the given channel bandwidth. The modulation and coding scheme that meets all of the above requirements will be used for future adaptive data communication system.
+
+Digital modulation
+adaptive data communication
+channel capacity
+channel coding
+multipath fading channels

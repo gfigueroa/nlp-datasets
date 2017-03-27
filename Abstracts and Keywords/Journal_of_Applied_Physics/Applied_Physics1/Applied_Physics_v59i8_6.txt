@@ -1,0 +1,8 @@
+It is shown in semiconductor superlattices that slight fluctuations in layer thicknesses will result in localization of electronic states. It has been previously argued that this localization will hinder the formation of minibands. We show that these localized states have energy differences of much less than the thermal energy at room temperature. Therefore, the overall electronic state is a thermal average of the localized states. Because of this, slight fluctuations in layer thickness will not hinder the formation of minibands, except at low temperatures.
+
+SUPERLATTICES
+LOCALIZED STATES
+BAND STRUCTURE
+SEMICONDUCTOR MATERIALS
+THICKNESS
+FLUCTUATIONS

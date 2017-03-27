@@ -1,0 +1,10 @@
+We have fabricated a highly textured NdFeB thin film with a hard magnetic performance: Mr = 1.39T, Hc = 827kA/m, and (BH)max = 358kJ/m3. The microstructure of the film was characterized in detail by cross-sectional and plane-view transmission electron microscopy observations. The film consisted of nanosized columnar grains with an average size of 40 nm and included a strong diffraction contrast along the grain boundary. A high resolution energy filtered image indicated that Nd was enriched discontinuously along the grain boundary, causing an unsuitable decoupling among the Nd2Fe14B grains, which is in agreement with the pinninglike feature of the initial magnetization curve.
+
+grain boundaries
+grain size
+iron compounds
+magnetisation
+neodymium compounds
+permanent magnets
+texture
+transmission electron microscopy

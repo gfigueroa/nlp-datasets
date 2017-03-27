@@ -1,0 +1,11 @@
+HfO2 gate dielectric thin-films were deposited on Si wafers using an atomic-layer deposition (ALD) technique with HfCl4 and either H2O or O3 as the precursor and oxidant, respectively. Although the ALD reactions using either H2O or O3 were successfully confirmed at a deposition temperature of 300
+°C, the structural and electrical properties of the HfO2 films grown using the two oxidants were quite different. The stronger oxidation power of the O3 compared to H2O increased the oxygen concentration in the HfO2 film and the rate of interfacial SiO2 formation even at the as-deposited state. Because of the larger oxygen concentration, the decrease in the capacitance density of the film grown with O3 after rapid thermal annealing at 750
+°C under N2 atmosphere was slightly larger than that of the HfO2 film grown with H2O. Apart from this weakness, all the other electrical properties, including the fixed charge density, the interface trap density, the leakage current density and the hysteresis in the capacitancevoltage plot of the film grown with O3 were superior to those of the film grown with H2O. Therefore, O3 appears to be a better oxidant for the HfO2 film growth using the ALD method. © 2003 American Institute of Physics. 
+
+hafnium compounds
+atomic layer epitaxial growth
+dielectric thin films
+rapid thermal annealing
+leakage currents
+interface states
+vapour phase epitaxial growth

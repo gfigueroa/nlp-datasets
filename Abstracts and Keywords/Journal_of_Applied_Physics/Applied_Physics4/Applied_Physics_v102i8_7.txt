@@ -1,0 +1,10 @@
+Photoluminescence (PL) spectra of 6HSiC nanostructures (nanoporous layers and nanopowder) fabricated by electrochemical etching of bulk wafers consist of broad subgap emission bands as well as above-gap tails. These features are explained, respectively, in terms of radiative recombinations via NAl donor-acceptor electronic levels and surface states as well as quantum confinement phenomenon in small nanocrystallites. An excitation power dependent PL study allowed differentiation of the radiative channels mentioned above. The particular role of surface states on the room temperature PL of the SiC nanopowder is highlighted. A concentration dependent PL study on aqueous suspensions of the nanopowder points out the quenching of PL emission coming from recombination of quantum-confined excitons in small SiC nanoparticles interacting with the larger ones.
+
+etching
+excitons
+impurity states
+nanostructured materials
+photoluminescence
+silicon compounds
+surface states
+wide band gap semiconductors

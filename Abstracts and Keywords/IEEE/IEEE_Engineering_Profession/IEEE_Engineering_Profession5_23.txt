@@ -1,0 +1,5 @@
+This research was performed to generate a supplier evaluation (SE) model in order to enhance an enterprise's competitiveness, and apply this model to solve practical business problems. Through past studies, we applied representative supplier evaluation principles while designing supplier evaluation questionnaire, and classified the suppliers into three categories: perform excellently (class 1), perform ordinary (class 2), and perform poorly (class 3). The Likert scale and fuzzy scale are applied individually to compute a score according to these principles. We then apply the support vector machine (SVM) to build the supplier evaluation classifier, and observe under SVM whether using the Likert or fuzzy scale produces better classification performance. The result revealed that the performance is invariant under both scales. Therefore, we find SVM combined with efficient feature reduction to be a better strategy for building a supplier evaluation model.
+
+Supplier evaluation model
+fuzzy scale
+support vector machine

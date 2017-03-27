@@ -1,0 +1,28 @@
+The electrical admittance of rectifying metalsemiconductor contacts on n-type GaAs/Ga(As,
+N)/GaAs heterostructures depends strongly on frequency and temperature. The distinct dispersion is due to the relatively high diffusion barrier around the Ga(As,
+N) layer. As long as the admittance is controlled by electrons inside the Ga(As,
+N) layer, their response to the ac electric field is dependent on frequency and temperature. Under appropriate conditions, capacitancevoltage measurements can be used to examine depth-resolved electrical characteristics of n-type GaAs/Ga(As,
+N)/GaAs heterostructures. The experimental depth profiles of the carrier concentration are compared with calculations based on self-consistent solutions of the Poisson equation. For 3% GaN mole fraction, the conduction band offset between GaAs and Ga(As,
+N) is found to be (0.40±0.01)
+eV, i.e., about 95% of the total band gap difference. The heterointerfaces are of type I. At the Ga(As,
+N)-on-GaAs interface, negative charges of about 1.3×1011
+cm2 are observed, which are not removed by postgrowth annealing. The as-grown GaAs-on-Ga(As,
+N) interface is free of fixed charges. However, acceptor-like interfacial traps are generated at this interface by annealing, probably due to the conversion of those donor-like levels, which were detected at the inverted interface of as-grown p-type GaAs/Ga(As,
+N)/GaAs heterostructures. © 2001 American Institute of Physics. 
+
+gallium arsenide
+gallium compounds
+wide band gap semiconductors
+III-V semiconductors
+semiconductor heterojunctions
+semiconductor-metal boundaries
+electric admittance
+rectification
+capacitance
+carrier density
+Poisson equation
+energy gap
+annealing
+interface states
+defect states
+electron traps

@@ -1,0 +1,9 @@
+Partial pressures and equilibrium constants for the reaction from lithium amide and hydrogen to lithium hydride and ammonia at different temperatures were evaluated by Raman spectroscopy to determine standard enthalpy ”Ho and entropy ”So of the reaction. Raman intensity measurements were used for estimating ammonia partial pressures in gaseous products after heat treatment of lithium amide under hydrogen atmosphere. The vant Hoff plot of fractions of the partial pressures of ammonia and hydrogen indicated ”Ho = 49.9±9.1kJ	mol1 and ”So = 59±16J	mol1	K1.
+
+chemical equilibrium
+desorption
+enthalpy
+entropy
+heat treatment
+lithium compounds
+Raman spectra

@@ -1,0 +1,9 @@
+In semi-insulating, Fe doped InP, we demonstrate that infrared absorption technique provides quantitative measurements of Fe concentrations. We show that the quantum efficiency is reduced more than 70% in Fe doped samples, in comparison to undoped samples. Relative near band edge photoluminescence (PL) intensity is antiproportional to Fe concentration. This can provide a calibration method to transform scanning PL images to quantitative Fe distributions. We demonstrate that infrared absorption mapping images Fe distribution in InP, in a similar way to EL2 imaging in GaAs. The images show that the slip-like defects decorated by Fe centers predominantly lie along [011] direction. © 1999 American Institute of Physics.
+
+indium compounds
+iron
+III-V semiconductors
+crystal growth from melt
+semiconductor growth
+infrared spectra
+impurity absorption spectra

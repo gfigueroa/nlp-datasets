@@ -1,0 +1,10 @@
+Phosphorus ions were implanted into silicon at an energy range between 0.41.5 MeV with a dose of 5×1013 ions/cm2. High concentration of phosphorus was accumulated below the interface between the SiO2 and Si substrate during the implantation, and enhanced diffusion of phosphorus occurred during the subsequent annealing in N2. The broadening of dopant profile after annealing at 1000	°C was smaller than that after annealing at 800	°C.
+
+DIFFUSION
+ION IMPLANTATION
+CHARGEDPARTICLE TRANSPORT
+DOPING PROFILES
+SILICON
+PHOSPHORUS
+ANNEALING
+IMPURITIES

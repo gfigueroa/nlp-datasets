@@ -1,0 +1,8 @@
+Increasingly unpredictable electricity production from renewable sources (wind, solar and ocean energy) combined with high levels of inflexible generation has resulted in the electricity industry facing a challenge to match electricity supply and demand. As a result electricity system operators and electricity generators have been looking for ways to store electricity. Common forms of energy storage include battery storage and pumped hydro storage (hydro power plants with a storage reservoir filled using pumps). Batteries are effective but they are also expensive and lack scale. Pumped hydro storage is effective and scalable but they are expensive and limited to locations suitable for such plants. Compressed air energy storage (CAES) using compressed air as the storage medium is another type of energy storage worth exploring. CAES is not an unproven technology. Two plants are currently in operation, one in Huntorf, Germany and one in McIntosh, Alabama. The market conditions in recent years have not favoured CAES however this is now changing.
+
+Air
+Compressed
+Energy
+Energy Storage
+Salt Cavern
+Storage

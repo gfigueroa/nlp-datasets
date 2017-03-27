@@ -1,0 +1,7 @@
+Super-Resolution (SR) is an approach used to restore High-Resolution (HR) image from one or more Low-Resolution (LR) images. The quality of reconstructed SR image obtained from a set of LR images depends upon the registration accuracy of LR images. However, the HR images can be reconstructed accurately by estimating sub-pixel displacement of image grid of the shifted LR image. In this paper an approach of reconstruction of SR image using a sub-pixel shift image registration and Curvelet Transform (CT) for interpolation is proposed. The curvelet transform is multiscale pyramid which provides optimally sparse representation of objects. Image interpolation is performed at the finest level in Curvelet domain. The experimental results demonstrate that Curvelet Transform performs better as compared to Stationary Wavelet Transform. Also, it is experimentally verified that the computational complexity of the SR algorithm is also reduced by using CT for interpolation.
+
+Curvelet Transform
+Image Registration
+Interpolation
+Sub-pixel shift
+Super-Resolution

@@ -1,0 +1,8 @@
+The operational stability of organic thin-film transistors (OTFTs) comprising bilayer polymer dielectric of poly(methylsilsesquioxane) (pMSSQ) and either the epoxy resin SU-8 or poly(4-vinyl phenol) was examined. Although not in direct contact with the semiconductor materials, the bottom dielectric layer did affect OTFT stability through water ion movement or charge injection inside the bottom dielectrics. In the comparison between our best polymer dielectric pMSSQ/SU-8 to the silicon oxide dielectric, the result emphasized that, at equal initial charge concentration, polymer dielectrics did not alleviate threshold-voltage shift but did maintain more stable current due to the lower gate capacitance than silicon oxide.
+
+capacitance
+charge injection
+conducting polymers
+dielectric materials
+organic semiconductors
+thin film transistors

@@ -1,0 +1,6 @@
+Studies on rotation invariant texture in remote sensing image processing are relatively rare. Local Binary Pattern (LBP) is a relatively new rotation invariant texture measure which is theoretically simply but powerful. In this paper, the LBP operator was proposed to calculate texture features of the stimulant image derived from high-resolution remote sensing image. The produced texture image was combined with the spectral data in image classification to evaluate the performance of the rotation invariant texture measure. The result was compared to classifications using spectral data alone and plus traditional rotation variant texture images. Experiments demonstrate that compared to spectral classification, the classification overall accuracy can be significantly improved when the rotation invariant texture is included. The results also show that the rotation invariant texture result show a more than four percentage increase in overall accuracy, compared with the classification result with traditional Grey-Level Co-occurrence Matrix texture.
+
+Grey-Level Co-occurrence Matrix
+Local Binary Pattern
+Remote sensing image
+Rotation Invariance

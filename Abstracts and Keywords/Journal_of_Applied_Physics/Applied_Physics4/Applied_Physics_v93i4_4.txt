@@ -1,0 +1,14 @@
+In situ spatially resolved x-ray diffraction (SRXRD) experiments were used to directly observe the heat-affected zone phases present during gas tungsten arc welding of a Ti6Al4V alloy. The experiments were performed at the Stanford Synchrotron Radiation Laboratory using a 250 ¼m diam x-ray beam to gather real-time experimental information about the ±Ti’²Ti phase transition during weld heating. Six different welding conditions were investigated using SRXRD to experimentally determine the extent of the single phase ²-Ti region surrounding the liquid weld pool. These data were compared to predicted locations of the ²-Ti phase boundary determined by calculated weld thermal profiles and equilibrium thermodynamic relationships. The comparison shows differences between the experimentally measured and the calculated locations of the ²-Ti boundary. The differences are attributed to kinetics of the ±Ti’²Ti phase transition, which requires superheating above the ²-Ti transus temperature to take place during nonisothermal weld heating. Analysis of the results reveal that the transition to ²-Ti requires an additional 3.96 s (±0.29
+s) of time and 169 °C (±25.7
+°C) of superheat above the ²-Ti transus temperature to go to completion under an average weld heating rate of 42.7 °C/s. © 2003 American Institute of Physics. 
+
+titanium alloys
+vanadium alloys
+aluminium alloys
+welding
+X-ray diffraction
+solid-state phase transformations
+phase diagrams
+heat treatment
+heat transfer
+solid-liquid transformations

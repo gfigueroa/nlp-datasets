@@ -1,0 +1,10 @@
+The crystalline structure and dielectric properties of Sm1.5Sr0.5NiO4 ceramics are presented. The present ceramics is refined as orthorhombic Bmab phase and the orthorhombic strain may change the statue of charge ordering. The temperature-stable giant dielectric constant ( < 100	000) with low dielectric loss of < 0.1 is observed at frequency up to 5 MHz over a broad range of temperature (150500 K) and frequency (100 kHz5 MHz). The grain interior should be the dominative factor which contributes the giant dielectric response in the present ceramics after the equivalent circuit fitting, and the thermal activated small polaronic hopping related to the charge ordering is that factor. Compared to other giant dielectric materials, the present materials have a great potential in the practical application, especially for the high frequency application.
+
+ceramics
+crystal structure
+dielectric losses
+high-frequency effects
+permittivity
+polarons
+samarium compounds
+strontium compounds

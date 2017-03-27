@@ -1,0 +1,8 @@
+The dependence on temperature of the Schottky barrier height of Pt on n-GaAs is reported. Two different behaviors are observed. The Schottky contacts of one group have a mean barrier height of 1.018 eV and a temperature coefficient of 0.23 meV/K while the contacts of the other group have a significantly lower barrier height of 0.922 eV which is almost independent of the temperature. These results are interpreted on the basis of recent models of Fermi level pinning. While the Fermi level in the diodes of the first group is pinned to a charge neutrality level, it is pinned by defects in the diodes of the second group. © 1998 American Institute of Physics.
+
+Schottky barriers
+Schottky diodes
+Fermi level
+platinum
+energy gap
+III-V semiconductors

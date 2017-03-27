@@ -1,0 +1,11 @@
+Photoemission from GaAs cathodes with negative electron affinity (NEA) is applied for producing electron beams with very low longitudinal and transverse velocity spread. GaAs transmission-mode cathodes were activated with Cs and either O2 or NF3 in an extremely high vacuum setup (base pressure below 1012
+mbar). Quantum efficiencies of 20%25% (at 670 nm) and long dark lifetimes (about 1000 h) could be achieved for both types of activation in a reproducible way. Using a method based on the adiabatic transverse expansion of an electron beam in a spatially decreasing magnetic field, the mean transverse energy (MTE) of the photoemitted electrons was measured systematically, recording longitudinal energy distribution curves. Both the MTE and the longitudinal energy spread strongly depend on the value of NEA and the position of the extracted distribution relative to the bulk conduction band minimum. Electrons with energies above the conduction band minimum are thermalized with the lattice temperature of the cathode, while electrons with energies below this level show a non-Maxwellian distribution with enhanced transverse energies. Thus, when extracting all electrons in a current limited emission mode, the MTE increases with the absolute value of NEA and reaches values up to H100
+meV. By cutting off the low energy electrons with an external potential barrier, the longitudinal as well as transverse energy spread of the extracted electron ensemble are reduced. The MTE could be reduced down to about 28 meV at room temperature and to about 14 meV at liquid nitrogen temperature. The behavior of the MTE was found equivalent for (Cs,
+O) and for (Cs,
+F) activation layers on the same cathode. Conclusions about energy loss and scattering in the emission of photoelectrons from NEA GaAs cathodes are discussed. © 2000 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+electron affinity
+photocathodes
+photoemission

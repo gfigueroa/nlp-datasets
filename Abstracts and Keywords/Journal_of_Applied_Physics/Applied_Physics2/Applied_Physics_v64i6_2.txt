@@ -1,0 +1,8 @@
+In plasma anodization the oxide growth rate decreases with time during constant current anodization. This phenomenon has been studied noting that the surface potential of specimens is closely related to the current efficiency. The oxide growth rate during the plasma anodization of aluminum wires or films is observed to vary depending on the dimensions of specimens and also on the thickness of a wetanodic Al2O3 film previously grown on the specimen surface. It turns out that the surface potential changes not only because the plasmaanodic Al2O3 film itself is not uniform in thickness but also because the surface potential of the oxide film is floating in a plasma. The change of the surface potential was observed using a sounding probe. It is concluded that a difference in the surface potential exists between the central part and the peripheral part of the specimen, and that the difference increases with the increase of the forming voltage. The change of the surface potential may be the cause of the ratelimiting process in the oxide growth during the plasma anodization.
+
+ANODIZATION
+FILM GROWTH
+ALUMINIUM
+ALUMINIUM OXIDES
+WIRES
+SURFACE POTENTIAL

@@ -1,0 +1,9 @@
+Based on the fact that the interfacial scattering of phonons dominates the heat transfer processes in the nanostructures and nanomaterials, a quite simple formula is presented to explain the thermal conductivity of the exfoliated polymer/clay nanocomposites. Our model shows that the thermal conductivity of the exfoliated polymer/clay nanocomposites decreases with increasing the clay volume fraction due to the large surface area of the exfoliated clay layers. Furthermore, the experimental results of the exfoliated polymer/clay nanocomposites recently reported in the literature are explained by using this model.
+
+clay
+filled polymers
+heat transfer
+nanocomposites
+organic-inorganic hybrid materials
+phonons
+thermal conductivity

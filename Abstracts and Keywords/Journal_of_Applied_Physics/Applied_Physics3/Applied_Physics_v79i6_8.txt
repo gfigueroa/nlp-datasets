@@ -1,0 +1,12 @@
+GaAs/In0.07Al0.93As tensilestrained quantum wells were grown on [001] GaAs substrates using molecularbeam epitaxy. The incorporation of tensile strain is made possible by preparing a 1¼mthick In0.07Al0.93As relaxed buffer which is followed by the growth of quantum wells. The strain of the GaAs was measured using Raman spectroscopy and photoluminescence. The photoluminescence measurements from wells ranging in thickness from 25 to 100 Å reveal that the observed optical transition originates from the electronlight hole recombination for a 100 Å well and from the electronheavy hole recombination if the well thickness is less than 40 Å. Therefore, a thick Alrich InxAl1xAs relaxed buffer on the GaAs substrate can be used to engineer the relative energy position of the light and heavy holes for GaAsbased quantum wells. © 1996 American Institute of Physics. 
+
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+HETEROSTRUCTURES
+INDIUM ARSENIDES
+MOLECULAR BEAM EPITAXY
+PHOTOLUMINESCENCE
+QUANTUM WELLS
+RAMAN SPECTRA
+STRAINS
+TENSILE PROPERTIES

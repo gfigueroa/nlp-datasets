@@ -1,0 +1,6 @@
+Polymer electronics, or Polytronics, as the short name, is a promising technology for low-cost and large-area electronic systems, based on novel organic materials with conducting and semiconducting properties, not addressable by conventional silicon technology. The new properties of this plastic materials are a combination of the electronic and optical properties of metals and semiconductors and the properties of polymers and small molecules. Using active and passive electronic and photonic components, based on organic materials, allows system integration for a specific application. These systems can be made on flexible foil substrates, allowing the processing of large area electronics.
+
+Polymer electronics
+conducting
+large area electronics
+semiconducting polymers

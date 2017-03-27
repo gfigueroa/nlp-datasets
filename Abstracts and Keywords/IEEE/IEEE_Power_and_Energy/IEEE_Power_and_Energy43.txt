@@ -1,0 +1,7 @@
+The wavelet transform coefficients (WTCs) contain plenty of information needed for transient signal identification of power quality (PQ) events. However, once the power signals under investigation are corrupted by noises, the performance of the wavelet transform (WT) on detecting and recognizing PQ events would be greatly degraded. At the mean time, adopting the WTCs directly has the drawbacks of taking a longer time and much memory for the recognition system. To solve the problem of noises riding on power signals and to effectively reduce the number of features representing power transient signals, a noise-suppression scheme of noise-riding signals and an energy spectrum of the WTCs in different scales calculated by the Parseval's theorem are presented in this paper. The neuro-fuzzy classification system is then used for fuzzy rule construction and signal recognition. The success rates of recognizing PQ events from noise-riding signals have proven to be feasible in power system applications.
+
+Feature extraction
+neuro-Fuzzy network
+noise-suppression
+power quality
+wavelet transform

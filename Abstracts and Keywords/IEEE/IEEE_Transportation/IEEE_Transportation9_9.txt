@@ -1,0 +1,6 @@
+A new structure in Anodic Aluminum Oxide (AAO) membrane is reported. This new membrane consists of two layers. The upper layer of membrane has hexagonal structure and the lower layer have smaller holes compared to upper layer. This membrane is fabricated using two step hard anodization. The voltage in second step of anodization was kept constant at 126V. Nanopores inside the fabricated membrane are highly straight and perpendicular to the surface. This two layer AAO membrane will support the hemofiltration and hemodialysis processes.
+
+AAO
+hard anodization
+hemodialysis
+nanoporous membrane

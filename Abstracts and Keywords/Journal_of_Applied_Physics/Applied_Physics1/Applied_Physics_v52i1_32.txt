@@ -1,0 +1,19 @@
+Aging and heat treatment of NaCl single crystals after highenergy (100 MeV) electron irradiation was studied by positron lifetime and peak counts of twophoton angular correlation techniques. Three lifetime components, Ä1C0.15, Ä2C0.38, and Ä3C1.10 nsec, with I2C52% and I3C4.5%, are clearly observed for the sample aged at room temperature after the electron irradiation. Annealing of the sample up to 300	°C has reduced the value of I3 to &lt;1%. As Tas300	°C, the longlifetime component becomes practically unresolvable. The peak counts of twophoton angular correlation N(0) versus the annealing temperature Ta curves also showed a rapid decrease in the region, 125	°C&lt;Ta&lt;200	°C. The extinction of the longlived Ä3 component and the decrease of N(0) were attributed to rediffusion of the Na from colloidal aggregates to lattice sites in the crystal formerly vacant.
+
+DAMAGE
+POSITRON COLLISIONS
+EXPERIMENTAL DATA
+SODIUM CHLORIDES
+MONOCRYSTALS
+ANNIHILATION
+AGING
+HEAT TREATMENTS
+ELECTRONS
+PHYSICAL RADIATION EFFECTS
+LIFETIME
+MEDIUM TEMPERATURE
+HIGH TEMPERATURE
+ANNEALING
+TEMPERATURE DEPENDENCE
+DIFFUSION
+ANGULAR CORRELATION

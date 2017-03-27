@@ -1,0 +1,6 @@
+We investigated the effects of free space charges on hysteresis-loop measurement of compositionally graded ferroelectrics and found that they are quite likely to be responsible for the polarization offsets observed in experiments. Taking into account conduction by those free space charges, or time-dependent space-charge-limited conduction, our computer simulation of compositionally graded lead zirconate titanate, which is placed in the SawyerTower circuit and driven by an alternating applied voltage, produced shifting of measured hysteresis loops where the shift magnitudes are comparable with published experimental data. It also produced the key features as observed in experiments: The offsets: (a) have a monotonous increase with electric-field amplitude, (b) change in direction when the composition gradient is inverted, and (c) develop like the typical charging-up of a capacitor. All these results suggest that time-dependent space-charge-limited conduction is a possible origin of the polarization offsets observed in compositionally graded ferroelectrics. © 2004 American Institute of Physics. 
+
+ferroelectric thin films
+dielectric hysteresis
+space charge
+polarisation

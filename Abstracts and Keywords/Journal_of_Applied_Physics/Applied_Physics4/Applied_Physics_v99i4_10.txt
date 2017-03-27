@@ -1,0 +1,10 @@
+Growth mechanism of In-rich InGaN/GaN quantum wells (QWs) was investigated. First, we examined the initial stage of InN growth on GaN template considering strain-relieving mechanisms such as defect generation, islanding, and alloy formation at 730	°C. It was found that, instead of formation of InN layer, defective In-rich InGaN layer with thickness fluctuations was formed to relieve large lattice mismatch over 10% between InN and GaN. By introducing growth interruption (GI) before GaN capping at the same temperature, however, atomically flat InGaN/GaN interfaces were observed, and the quality of In-rich InGaN layer was greatly improved. We found that decomposition and mass transport processes during GI in InGaN layer are responsible for this phenomenon. There exists severe decomposition in InGaN layer during GI, and a 1-nm-thick InGaN layer remained after GI due to stronger bond strength near the InGaN/GaN interface. It was observed that the mass transport processes actively occurred during GI in InGaN layer above 730	°C so that defect annihilation in InGaN layer was greatly enhanced. Finally, based on these experimental results, we propose the growth mechanism of In-rich InGaN/GaN QWs using GI.
+
+indium compounds
+gallium compounds
+III-V semiconductors
+semiconductor quantum wells
+MOCVD
+semiconductor growth
+island structure
+internal stresses

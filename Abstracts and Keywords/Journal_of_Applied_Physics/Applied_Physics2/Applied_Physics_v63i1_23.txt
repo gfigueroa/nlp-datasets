@@ -1,0 +1,13 @@
+Highly oriented pyrolytic graphite samples have been implanted at elevated temperature (450	°C) with 57Fe species at high fluence (2×1017 cm2) and a bombarding energy of 35 keV. Under these conditions of implantation, materials with ferromagnetic properties have been synthesized, as demonstrated by magnetization measurements using a superconducting quantum interference device magnetometer. It is further shown that the samples exhibit ferromagnetic, paramagnetic, and diamagnetic contributions to the total magnetization. The value of the measured coercive force and a comparison of scanning electron microscopy studies of the sample surface with the calculation of the saturation ferromagnetic moment suggest that fine iron particles are created on the surface. A mechanism is proposed to explain these observations. Complementary Rutherford backscattering spectroscopy and Raman measurements indicate that the lattice is not completely amorphized under these implantation conditions.
+
+MAGNETIZATION
+IRON 57
+HIGH TEMPERATURE
+FERROMAGNETIC MATERIALS
+SCANNING ELECTRON MICROSCOPY
+EXPERIMENTAL DATA
+GRAPHITE
+ION IMPLANTATION
+KEV RANGE 10100
+COERCIVE FORCE
+SQUID DEVICES

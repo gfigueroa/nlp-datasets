@@ -1,0 +1,12 @@
+The manganites Nd0.43Sr0.57MnO3 and Nd0.35Sr0.65MnO3, with A-type and C-type antiferromagnetic orders, respectively, are prepared and their physical properties are studied by electrical resistivity, acdc susceptibility, and electron spin resonance (ESR) measurements. Results of the temperature dependent ESR linewidth suggest that the spin-spin interaction is the dominant relaxation mechanism in these layered manganites. The g factors are nearly temperature independent in the paramagnetic state, but it varies dramatically near TN, indicating a strong spin-orbit coupling near the transition. Different temperature-dependencies of g factor in these two samples reflect the distinct features in the layerchain antiferromagnetism.
+
+antiferromagnetic materials
+electrical resistivity
+EPR line breadth
+g-factor
+magnetic susceptibility
+neodymium compounds
+paramagnetic materials
+spin-orbit interactions
+spin-spin relaxation
+strontium compounds

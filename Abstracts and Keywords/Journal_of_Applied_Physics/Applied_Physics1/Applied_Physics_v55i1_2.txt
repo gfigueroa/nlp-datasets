@@ -1,0 +1,11 @@
+The spectrum of undulator radiation has been formulated analytically for the near field case and compared with that of the far field case. For an undulator built for the free electron laser experiment in the vacuum ultraviolet storage ring at the National Synchrotron Light Source, it has been calculated that prominent near field effects of the fundamental component could be detected by setting a narrow slit at a specific position on the observation plane off the undulator axis, and the near field effects might disappear within an error of 1% on the undulator axis.
+
+electron beams
+relativistic range
+magnetic fields
+oscillators
+coordinates
+dynamics
+light sources
+coherent radiation
+laser radiation

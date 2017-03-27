@@ -1,0 +1,8 @@
+The relative densities of highvoltage stressgenerated traps near the anode and cathode in 10nmthick silicon oxides have been measured after both positive and negative gate voltage stressing. The density of traps near the stress anode and cathode were approximately equal after negative gate voltage stressing. The density of traps near the stress cathode was higher than near the stress anode after positive gate voltage stressing. These results implied that impact ionization near the anode was not a significant generator of traps in 10nmthick oxides. © 1996 American Institute of Physics. 
+
+ELECTRIC FIELD EFFECTS
+FILMS
+MOS JUNCTIONS
+SILICON OXIDES
+STRESSES
+TRAPPING

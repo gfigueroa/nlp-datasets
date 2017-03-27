@@ -1,0 +1,7 @@
+Gird-connected photovoltaic (PV) inverters with the function of active power filter (APF) not only inject the active power into the electric network, improve the power quality, but also make full use of their capacity, especially in the cloudy day or the night. An improved implementation of the amplitude limiting control of the three-phase grid-connected PV inverters is presented. To achieve the optimally compensation within the limited inverter switch rating, the amplitude limiting method on the load type is introduced. a novel maximum power point tracking (MPPT) strategy of the modified incremental conductance (INC) algorithm is also presented in this paper, Which improves the tracing speed and improves the GCI system stability. A one-cycle digital current controller shows good robust, quick response. A 30kW prototype is built and tied together using the proposed control strategy. Experimental results showed the effectiveness of the strategy.
+
+active power filter
+amplitude-limited compensation
+load-type identification
+one-cycle current controller
+three-phase grid-connected PV inverter

@@ -1,0 +1,14 @@
+The Heusler alloy Co2MnSi with theoretically predicted 100% spin polarization has been successfully implemented in Co2MnSi/AlOx/Co7Fe3 magnetic tunnel junctions recently. Here we investigated 100	nm thick Co2MnSi films grown on a vanadium buffer and capped by a thin alumina film. This stack is similar to the lower electrode including the tunneling barrier of magnetic tunnel junctions. By soft x-ray absorption spectroscopy and magnetic circular dichroism in fluorescence and total electron yield detection we determined differences between the chemical and magnetic properties of the Co2MnSi thin films and the Co2MnSi/AlOx interface. Whereas MnO was formed directly at the interface during plasma oxidation of the Al layer, the interfacial Co was not oxidized and its x-ray absorption line shape at the L2,3 edge was similar to the line shape of bulk Co2MnSi. The atomically ordered bulk Co2MnSi showed characteristic differences in the x-ray absorption spectra in comparison with the disordered samples: in the ordered state of the bulk both, Co and Mn, showed additional shoulders about 4	eV above the L2,3 resonances, a large circular dichroism, and a pronounced x-ray absorption near edge fine structure. The same was found for interfacial Co, whereas for interfacial Mn these features were masked by the characteristic absorption multiplet structure of MnO right at the interface which also resulted in a strong reduction of the interfacial Mn moment in annealed samples.
+
+manganese alloys
+iron alloys
+silicon alloys
+cobalt alloys
+aluminium compounds
+metallic thin films
+magnetic tunnelling
+magnetic circular dichroism
+fluorescence
+oxidation
+plasma materials processing
+XANES

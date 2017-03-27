@@ -1,0 +1,9 @@
+The use of a luminescence microscope is suggested as an imaging system to form twodimensional pictures of the distribution of lightemitting areas on the surface of a sample undergoing a luminescence reaction. A prototype of this instrument, as well as first results of luminography, is presented.
+
+IMAGES
+LUMINESCENCE
+SURFACES
+MICROSCOPY
+MATHEMATICAL MODELS
+SPATIAL DISTRIBUTION
+DATA

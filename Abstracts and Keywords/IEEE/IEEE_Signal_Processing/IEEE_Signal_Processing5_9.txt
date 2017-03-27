@@ -1,0 +1,6 @@
+Monitoring and tracking human from a mobile robot is an essential technology in robot applications. This paper presents a data fusion modeling methodology to detect and track human. Each image with human is simultaneously acquired with a range profundity scanning from a laser range finder (LRF). In the image, the face is detected and tracked by our modified AdaBoost scheme. The human body is modeled and extracted from the range data. The probability of the two models, face and human body, are both defined based on the Gaussian distribution. And the two probabilities are fused by statistical independence. According to the result of fusing algorithm, the motion planning for the robot is obtained by the Jacobian transformation. In the experiment, we exploit our proposed method to our robot for human tracking under the scenario of human-robot interaction. The experimental results show that the proposed method is successfully implemented for human tracking by fusing range and intensity data.
+
+Face detection and tracking
+data fusion
+intelligent mobile robot
+motion planning

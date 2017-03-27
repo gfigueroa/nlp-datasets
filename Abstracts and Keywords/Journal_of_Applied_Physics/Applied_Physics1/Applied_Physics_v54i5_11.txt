@@ -1,0 +1,9 @@
+Two efficiency formulas are derived for the conversion of blackbody radiation and their relationship is briefly discussed. It enables one to give an analytical expression for the entropy generation rate, obtained previously by microscopic considerations.
+
+blackbody radiation
+conversion
+thermodynamics
+efficiency
+mathematical models
+theoretical data
+entropy

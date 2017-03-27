@@ -1,0 +1,14 @@
+We propose a mean field description of the phenomena occurring in superconducting thin film microbridges with low pinning forces when vortices are nucleated. This model allows for computation of the vortex velocity, the penetration depth, the critical current density, and the vortex nucleation field in a microbridge from its dimensions, its current voltage characteristics, and the coherence length of the microbridge material. Moreover the effect of an external magnetic field is shown to be strongly dependent on its spatial distribution. The model predictions are compared to experimental results obtained from TlBaCuO and YBaCuO vortex flux transistors and a long YBaCuO microbridge.
+
+HIGHTC SUPERCONDUCTORS
+MIXED STATE
+PINNING
+VORTICES
+MEANFIELD THEORY
+CRITICAL CURRENT
+PENETRATION DEPTH
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+THALLIUM OXIDES
+QUATERNARY COMPOUNDS

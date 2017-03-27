@@ -1,0 +1,10 @@
+Utilizing metal-vanadium oxide (VO2)-semiconductor capacitor device structures, we have investigated the temperature- and frequency-dependent dielectric and ac conductance responses of vanadium oxide thin films that undergo metal-insulator transition (MIT). In both metallic and insulating regimes, VO2-based devices showed large tunabilities as high as < 95% and < 42%54%, respectively. The frequency dependence of capacitance and ac conductance displays power-law behavior with respect to temperature and applied voltage over a broad range. Low-frequency dispersion in dielectric properties was also observed and their onset frequency varies across the MIT from < 0.5MHz in insulating state to < 50kHz in metallic state. The results are of potential relevance to utilizing functional oxides in electronic devices.
+
+capacitance
+dielectric thin films
+electric admittance
+elemental semiconductors
+metal-insulator transition
+MIS capacitors
+silicon
+vanadium compounds

@@ -1,0 +1,6 @@
+Self oscillating control of LCC current-output resonant converter is presented based on varying the phase angle between the fundamental of the input voltage and current. Unlike other commonly employed control methodologies, the proposed technique is shown to provide a convenient, linear system input-output characteristic suitable for the design of regulators. The method is shown to have a similar effect as controlling the dc link supply voltage, in terms of output-voltage/current control. Self oscillating LCC current output is well established that resonant converter-based supplies are advantageous in-terms of size and efficiency compared to hard-switched Counterparts. One of the main impediments to their use, however, is the lack of simple but robust control techniques. Self-oscillating phase-control provides self-tuning relative to the resonant tank frequency (advantageous in that the same phase-controller can be directly applied to a wide range of converter designs), reduced controller sensitivity near resonance, and the ability to ensure switching at all times is either above resonance [for zero voltage switching (ZVS)] or below resonance [for zero current switching (ZCS)] depending on application requirements.
+
+PI control
+Quasi-resonant Converter (QRC)
+Zero Current Switching (ZCS)
+Zero Voltage Switching (ZVS)

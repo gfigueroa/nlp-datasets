@@ -1,0 +1,9 @@
+The unrestricted Hartree-Fock approximation on a realistic multiband lattice model has been applied to study the various spin states of electron-doped La1xCexCoO3 compounds. In the doping range 0.0}x}1.0, seven spin ordered states are found to be metastable and four of them are the ground states at different doping concentration. The magnetic ground state of the doped system takes a low-spin state for x&lt;0.08, a low-spinintermediate-spin ferromagnetically ordered state for 0.08}x&lt;0.83, an intermediate-spin chain-type antiferromagnetically ordered state for 0.83}x&lt;0.86, and followed by an intermediate-spin nearest neighbor antiferromagnetically ordered state for 0.86}x}1.0. The densities of states of all metastable spin states are computed and their electronic and magnetic properties are discussed. © 2004 American Institute of Physics. 
+
+lanthanum compounds
+cerium compounds
+ferromagnetic materials
+antiferromagnetic materials
+HF calculations
+impurity distribution
+magnetic structure

@@ -1,0 +1,11 @@
+Spin polarized current induced spin wave excitations have been studied with utilizing the spin transfer modified Gilbert equation in micromagnetic modeling. An elliptical shaped spin valve at deep submicron dimension is modeled. It is found that stable spin waves with extremely narrow linewidth are excited in the free layer when the perpendicularly injected direct current is slightly above a threshold. The spin transfer effect yields self leveling of the generated spin waves and results in spin waves with stable amplitude for each excited mode. At high current level, the excited spin waves become chaotic in nature, causing a pronounced 1/f-like spectral content in the magnetoresistive output. © 2004 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+spin waves
+spin valves
+magnetoresistance
+spin polarised transport
+micromagnetics
+magnetic devices
+1/f noise

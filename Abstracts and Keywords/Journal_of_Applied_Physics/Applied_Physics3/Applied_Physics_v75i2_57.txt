@@ -1,0 +1,13 @@
+Intra4fshell transitions of Er3+ ions in Ca1xErxF2+x thin films were studied by means of photoluminescence (PL) and cathodoluminescence (CL) measurements at room temperature. The samples, with x varying from 0.01 to 0.2, were epitaxially grown on Si(100) substrates by sublimation of solid solution powders. Using the 488nm line of an Ar+ion laser as the excitation source, it is shown that the films present strong PL lines corresponding to the internal transitions between the 4S3/2,4F9/2,4I11/2, and 4I13/2 excited levels and the 4I15/2 fundamental state of Er3+ (4f11) ions. Their centers of gravity were pointed out at »=533, 650, 980, and 1530 nm, respectively. These electronic transitions were also evidenced by means of the CL technique. Moreover, this technique showed that the luminescence is uniform in all points of the layers. The PL intensities vary considerably as a function of the erbium substitution rate. In the visible range the strongest luminescence was found for x less than 0.01, while for the 1530nm line (which presents evident potential applications for optical communications) the highest luminescence intensity corresponds to x close to 0.16. The refractive index (n) of the layers also varies with the erbium concentration. For a 1.3¼m incident radiation, n continuously increases from 1.425 to 1.466 when x varies from 0.035 to 0.19. This result shows that these structures can lead to the realization of plane optical waveguides.
+
+CALCIUM FLUORIDES
+ERBIUM FLUORIDES
+ERBIUM IONS
+ENERGYLEVEL TRANSITIONS
+INNERSHELL EXCITATION
+PHOTOLUMINESCENCE
+CATHODOLUMINESCENCE
+THIN FILMS
+REFRACTIVE INDEX
+TERNARY COMPOUNDS
+EPITAXIAL LAYERS

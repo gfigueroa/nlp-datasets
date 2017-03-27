@@ -1,0 +1,14 @@
+Interdiffusion and structural change on annealing of sputterdeposited Mo/Si and Mo(N)/Si(N) multilayer thin films have been investigated over the temperature range from 674 to 1027 K. Xray diffractometry shows that in the asdeposited Mo/Si multilayers the Mo is bcc with the stacking of (110) plane parallel to the substrate, and the Si is amorphous, while in the asdeposited Mo(N)/Si(N) multilayers, both Mo and Si nitrides are amorphous. The interdiffusivities have been determined from the decay rate of satellite peak intensity around (000). The activation energies for the interdiffusion in Mo/Si and Mo(N)/Si(N) multilayers are 105±5 and 351±88 kJ	mol1, respectively. A drastic decrease in the satellite peak intensity on annealing is observed in the Mo/Si multilayer films, which is interpreted to be due to interdiffusion and structural relaxation. On the other hand, a remarkable increase in the satellite intensity is found for the nitride multilayer films, which is explained by crystallization into ²Mo2N/±Si3N4. The modulation wavelength decreases by 8%12% after anneal. The decrease in the thickness of annealed Mo/Si multilayer films is also found by a depth profilometer.
+
+ANNEALING
+DIFFUSION
+ATOM TRANSPORT
+LAYERS
+MOLYBDENUM NITRIDES
+SILICON NITRIDES
+XRAY DIFFRACTION
+SILICON
+MOLYBDENUM
+AMORPHOUS STATE
+SUPERLATTICES
+CRYSTAL STRUCTURE

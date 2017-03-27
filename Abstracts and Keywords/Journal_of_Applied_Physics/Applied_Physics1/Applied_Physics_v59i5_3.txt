@@ -1,0 +1,11 @@
+InP ntype single crystals are electron irradiated using very high fluences at various temperatures. Their photoluminescence is investigated at 1.7 K. No strong quenching of intrinsic luminescence is noticed after this treatment. Five extra emission lines are observed in the nearbandgap energy range, with samples irradiated in convenient temperature conditions. One of these lines (at 1.392 eV) is related to electron irradiation. The other emissions may be also observed on crystals only annealed under vacuum. The excitonlike line found at 1.398 eV is shown to be correlated with the 1.08 eV band involving a deep secondary defect. A tentative assignment is proposed for these emissions.
+
+DEEP ENERGY LEVELS
+ELECTRON COLLISIONS
+PHOTOLUMINESCENCE
+INDIUM PHOSPHIDES
+CRYSTAL DEFECTS
+EXCITONS
+PHYSICAL RADIATION EFFECTS
+EV RANGE 0110
+ULTRALOW TEMPERATURE

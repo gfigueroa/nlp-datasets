@@ -1,0 +1,11 @@
+This work focuses on the structural and magnetic characterization of arrays of cobalt nanowires, with diameters in the range 100400 nm and lengths of L}6
+¼m, produced by electrodeposition in polycarbonate membrane pores. Diffraction patterns of Co nanowires indicate that Co is stabilized in the hcp structure with a preferential (0001) texture oriented close to the perpendicular direction of the wires axes. Magnetic measurements at room temperature reveal that magnetization undergoes a change in the easy axis as the length of the wires increases. Clearly, the easy axis of the shortest wires is oriented along the axis of the wire. In the case of the longest wires, a crossover of the easy axis is observed, from the perpendicular to the parallel direction to the wire for the shortest. This magnetic behavior is explained through a simple magnetostatic model, which takes into account the dipolar interactions among wires, the demagnetizing field, and the magnetocrystalline anisotropy of Co. © 2001 American Institute of Physics. 
+
+cobalt
+electrodeposits
+texture
+magnetic anisotropy
+magnetisation
+arrays
+nanostructured materials
+demagnetisation

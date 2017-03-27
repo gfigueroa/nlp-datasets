@@ -1,0 +1,7 @@
+The nucleation field is calculated for a small ferromagnetic prolate spheroid as a function of its size, its elongation, and the angle between the applied field and the spheroid axis. If there is no other switching mode except for magnetization curling and coherent rotation, these results probably represent the coercivity. The calculation is rigorous only for an isotropic particle, but a first order approximation is also given for a uniaxial or cubic anisotropy whose easy axis is parallel to the long axis of the spheroid. © 1997 American Institute of Physics. 
+
+nucleation
+magnetisation
+coercive force
+magnetic particles
+ferromagnetism

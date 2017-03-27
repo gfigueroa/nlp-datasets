@@ -1,0 +1,10 @@
+Photonic crystals based on dielectric material with very high dielectric constant µ are investigated by transmission experiments in the microwave range and by calculations of the band structure and wave propagation. The material used is a tungsten-bronze-type ceramic (BaONd2O34TiO2) with µ H 90. Our results demonstrate the superior properties of such a material, including omnidirectional and complete gaps, and improved waveguiding. This type of photonic crystals opens an additional road for basic research and applications regarding electronic devices in the radio frequency and microwave ranges as well as for spectroscopic techniques in the terahertz range.
+
+barium compounds
+ceramics
+neodymium compounds
+optical materials
+optical waveguides
+permittivity
+photonic band gap
+photonic crystals

@@ -1,0 +1,13 @@
+We present a density-functional theory study on the electronic structure of pure and 3d transition metal (TM) (Sc, Ti, Cr, Mn, and Ni) incorporated ±-Fe2O3. We find that the incorporation of 3d TMs in ±-Fe2O3 has two main effects such as: (1) the valence and conduction band edges are modified. In particular, the incorporation of Ti provides electron carriers and reduces the electron effective mass, which will improve the electrical conductivity of ±-Fe2O3. (2) The unit cell volume changes systematically such as: the incorporation of Sc increases the volume, whereas the incorporation of Ti, Cr, Mn, and Ni reduces the volume monotonically, which can affect the hopping probability of localized charge carriers (polarons). We discuss the importance of these results in terms of the utilization of hematite as a visible-light photocatalyst.
+
+catalysis
+chromium
+conduction bands
+density functional theory
+electrical conductivity
+electronic structure
+manganese
+nickel
+scandium
+titanium
+valence bands

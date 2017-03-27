@@ -1,0 +1,8 @@
+Piezoelectric properties of three sol-gel derived Pb(Zr0.53Ti0.47)O3 thin film specimens of different thicknesses integrated onto Pt/Ti/SiO2Si substrates are investigated to delineate the influence of residual stress on the strain-field response characteristics from other thickness related effects. Residual tensile stresses are determined from wafer curvature measurements for films ranging in thickness from 190to500nm. Field-induced strains are measured interferometrically for each film under either a large ac driving voltage or a small ac ripple applied over a range of dc biases. Higher residual stresses decrease measured piezoelectric response, while thickness variations with no accompanying change in residual stress state produce little change in strain-field behavior. The diminished performance associated with high residual stresses is attributed to reductions in both linear and nonlinear contributions, including decreased polarization switching and domain motion.
+
+internal stresses
+piezoelectric materials
+piezoelectric thin films
+switching
+dielectric polarisation
+electric domains

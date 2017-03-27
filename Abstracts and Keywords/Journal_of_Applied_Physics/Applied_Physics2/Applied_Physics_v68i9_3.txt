@@ -1,0 +1,8 @@
+Focused ion beam stimulated deposition of aluminum from trimethylamine alane, a white solid, and triethylamine alane, a colorless liquid, is reported. Initiation of growth on Si and SiO2 substrates is enhanced by in situ sputter cleaning of the surface with the Ga+ beam prior to introduction of the metalloorganic. Alternatively gas phase chemical activation with a silane coupling agent can enhance nucleation. Uniform nucleation on Al surfaces does not require any pretreatment. The Al features are electrically conducting, but incorporation of C and N from the amines leads to a resistivity approximately 300 times that of bulk Al. A qualitative model is presented that describes the balance condition for net material deposition as opposed to sputtering in terms of precursor flux and sticking probability as well as ion beam current density and beam scanning parameters. Film morphology and composition are also discussed.
+
+ALUMINIUM
+CHEMICAL VAPOR DEPOSITION
+ION BEAMS
+ORGANOMETALLIC COMPOUNDS
+CHEMICAL ACTIVATION
+CHEMICAL REACTION KINETICS

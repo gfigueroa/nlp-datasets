@@ -1,0 +1,4 @@
+Multiport de-embedding techniques have been becoming of increasing interest as the paths between probe pads and the DUT become more three-dimensional and more coupled. Circuit-model-based de-embedding schemes often suffer from a lack of adaptability to slightly different layouts. Fully general de-embedding approaches may require too many standards or too much knowledge about those standards. A general approach enforcing reciprocity and a few other constraints on leakage behavior can potentially work around both limitations while providing a reasonable computational framework in the general N-port case. Such a method will be discussed and de-embedding examples presented as a vehicle for a heuristic analysis of the sensitivity of the de-embedding to the quality/knowledge of the standards.
+
+S-parameter
+de-embedding

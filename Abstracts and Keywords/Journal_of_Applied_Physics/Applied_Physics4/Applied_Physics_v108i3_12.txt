@@ -1,0 +1,12 @@
+The surface-enhanced fluorescence of lanthanide ions (neodymium ions Nd3+, holmium ions Ho3+, and erbium ions Er3+) owing to resonant plasmons oscillation on the surface of Ag/Si nanostructure was described. In the presence of Ag/Si nanomaterials, the fluorescence peaks were significantly enhanced, which resulted in a typical 185-fold enhancement at 592 nm for Nd3+, 82-fold at 550 nm for Ho3+, and 80-fold at 533 nm for Er3+ at the concentration of 0.05 M. This Ag/Si nanostructure had larger enhancement factor than that caused by unsupported Ag nanoparticles, which might be attributed to the local field overlap originated from the closed and fixed Ag nanoparticles on silicon nanowires.
+
+elemental semiconductors
+erbium
+fluorescence
+holmium
+nanoparticles
+nanowires
+neodymium
+silicon
+silver
+surface plasmon resonance

@@ -1,0 +1,11 @@
+Results of initial tests on an acoustooptic modulator using a new chlorotellurite glass with a composition of 3TeO22ZnCl2 are reported. This glass exhibits a wider transparency range (0.425.7 ¼m) than other tellurite glasses, with approximately the same figures of merit. We obtained an 80% diffraction loss and a 65% diffraction efficiency at a 633 nm wavelength, using an 80 MHz 15×1 mm piezoelectric transducer with 1.5 W of rf power. This glass is able to convert to fiber form, thus allowing efficient infiber acoustooptic modulators to be built.
+
+GLASS
+ACOUSTOOPTICAL EFFECTS
+OPTICAL MODULATION
+TELLURIUM OXIDES
+ZINC CHLORIDES
+TRANSDUCERS
+LIGHT DIFFRACTION
+VISIBLE RADIATION
+MHZ RANGE

@@ -1,0 +1,14 @@
+Exchange paths were investigated for unidirectional exchange coupled 40 nm Ni81Fe19/50 nm NiO films by performing several field cooling experiments. Our experimental data were very consistent with the assumed existence of a variety of exchange paths. Each exchange path seemed to produce its own local unidirectional anisotropy and different local blocking temperature. The measureable exchange coupling could be described as consisting of the sum of the respective exchange paths, each with its own local blocking temperature. On the other hand, an observed blocking temperature of about 230	°C was determined from the exchange paths having the highest local blocking temperature. The local blocking temperatures were thought to be widely distributed, ranging from room temperature to about 230	°C, and the maximum existence probability was most likely at about 215	°C. This indicated that the exchange paths having the local blocking temperature of 215	°C made the largest contribution to the exchange coupling field at room temperature. According to cross sectional transmission electron microscopy observations, this variety of exchange paths was caused by inhomogeneous Ni81Fe19NiO interfaces associated with interfacial disorder and fluctuating atomic arrangement.
+
+NICKEL BASE ALLOYS
+IRON ALLOYS
+BINARY ALLOYS
+NICKEL OXIDES
+BILAYERS
+THIN FILMS
+MAGNETIC PROPERTIES
+MAGNETIC ANISOTROPY
+EXCHANGE INTERACTIONS
+TEMPERATURE DISTRIBUTION
+TEM
+INTERFACE STRUCTURE

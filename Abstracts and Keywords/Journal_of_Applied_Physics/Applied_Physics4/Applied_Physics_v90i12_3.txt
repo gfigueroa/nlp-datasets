@@ -1,0 +1,7 @@
+This article presents the results of an investigation of the electro-optical response for a hybrid twisted nematic (HTN) liquid crystal display. The device used both a hybrid alignment and a twisted director configuration. In comparison with the conventional twisted nematic mode, a faster response and a smaller operation voltage were obtained by using an appropriate amount of chiral dopant. The characteristics of the HTN cells were dependent on cell parameters such as the chemical nature of the polymer alignment layer, the cell thickness, the set twist angle, and the concentration of chiral dopant. Response times of 1.0 ms for turn-on and 16 ms for turn-off were achieved by the regulation of cell parameters. Computer simulations of the director configuration demonstrated that twist deformation plays an important role in the determination of the response characteristics. © 2001 American Institute of Physics. 
+
+nematic liquid crystals
+liquid crystal displays
+molecular orientation
+chirality
+digital simulation

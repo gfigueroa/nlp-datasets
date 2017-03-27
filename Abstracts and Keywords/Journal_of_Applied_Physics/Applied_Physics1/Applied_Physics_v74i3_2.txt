@@ -1,0 +1,10 @@
+A scanning electron microscope is employed for the investigation of charging on different cuts of an ±SiO2. A method for the determination of trapped charges is proposed. Charging on different cuts is observed to decrease in the order of z cut, 30° cut, 45° cut, and 60° cut of the ±SiO2. This phenomenon is related to permittivity, defect density, and stress of the samples. Details of the experiments and the method of charge determination are given.
+
+SILICON OXIDES
+TRAPPED ELECTRONS
+SPACE CHARGE
+SEM
+PERMITTIVITY
+STRESSES
+DEFECTS
+MEASURING METHODS

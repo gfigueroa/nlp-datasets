@@ -1,0 +1,5 @@
+Economics-driven software mining (EDSM) sifts through the repository data to extract information that could be useful for reasoning about not only the technical aspects but also the economics properties related to the development and/or evolution of software systems, and in relation to the environments in which they are procured, developed, evolved and used. The objective is to provide the analyst with insights into investment decisions related to the development, maintenance, and evolution of software systems, EDSM can also assist the analyst in resource planning and utilization. In this position paper, we define EDSM, describe possible scenarios for realizing EDSM and highlight some challenges.
+
+Economics-Driven Software Engineering
+Maintenance and Evolution.
+Mining Software Repositories

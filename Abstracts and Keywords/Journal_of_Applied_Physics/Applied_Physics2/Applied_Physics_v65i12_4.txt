@@ -1,0 +1,11 @@
+We investigate the role of strained layer superlattices in threading dislocation reduction in the growth of Ge0.5Si0.5 alloys on Si(100) substrates by molecularbeam epitaxy. Several superlattice structures are studied with zero, negative, and positive net strains with respect to a Ge0.5Si0.5 buffer layer. Control samples consisting of uniform strained layers are also grown for each superlattice structure. Transmission electron microscopy analysis of defect densities is found to be hampered by defect losses from thin foils, particularly in the plan view geometry. It is found that although strained interfaces are effective at deflecting threading dislocations into the interfacial plane, little surface threading dislocation density reduction is observed as a function of the presence of the superlattices for dislocation densities of the order 108 cm2. This observation may be understood in terms of threading dislocation propagation at strained interfacial planes, and a simple predictive model is developed for defect interaction probabilities.
+
+GERMANIUM ALLOYS
+SILICON ALLOYS
+EPITAXY
+SILICON
+SUBSTRATES
+DISLOCATIONS
+SUPERLATTICES
+STRAINS
+TRANSMISSION ELECTRON MICROSCOPY

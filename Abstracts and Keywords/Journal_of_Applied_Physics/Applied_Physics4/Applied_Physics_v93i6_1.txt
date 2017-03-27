@@ -1,0 +1,15 @@
+We discuss the results of a growth matrix designed to produce high quantum dot (QD) density, defect-free QD ensembles, which emit at 1.3 ¼m using metalorganic chemical vapor deposition (MOCVD). In our study, we balance the nucleation rate and adatom surface migration to achieve high surface densities (1×1011
+dots/cm2) and avoid QD coalescence or defects that commonly characterize MOCVD-grown QD ensembles designed for longer wavelength emission. Room-temperature photoluminescence (PL) spectra from corresponding surface QDs depend on QD size and density and show an emission wavelength up to 1600 nm. Ground-state PL from capped QDs is measured at 1.38 ¼m with a 40 meV linewidth. We demonstrate the ground-state 1.3 ¼m electroluminescence from a QD light-emitting diode structure grown on n-type GaAs. © 2003 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+semiconductor quantum dots
+MOCVD
+III-V semiconductors
+photoluminescence
+electroluminescence
+transmission electron microscopy
+semiconductor growth
+nucleation
+ground states
+light emitting diodes

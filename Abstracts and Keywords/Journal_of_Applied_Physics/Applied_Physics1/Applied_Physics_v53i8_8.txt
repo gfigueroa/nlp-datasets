@@ -1,0 +1,16 @@
+Residual impurities in GaAs crystals grown by the Liquid Encapsulated Czochralski method have been measured using calibrated Secondary Ion Mass Spectrometry. It is shown that Cr and Fe are not dominant compensating impurities in undoped crystals, and typical concentrations are 3×1013 cm3 (Cr) and 2×1014 cm3 (Fe). Carrier compensation may be explained by the presence of carbon and a deep electron trap.
+
+GALLIUM ARSENIDES
+IMPURITIES
+CHROMIUM
+IRON
+CRYSTAL GROWTH
+LIQUIDS
+CZOCHRALSKI METHOD
+ENCAPSULATION
+CALIBRATION
+CHARGE CARRIERS
+CARBON
+TRAPS
+ELECTRONS
+SIMS

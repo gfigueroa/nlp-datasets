@@ -1,0 +1,12 @@
+Electron spin resonance studies have been carried out on the isothermal passivation kinetics in 1 atm molecular H2 of trivalent Si traps (Pbs;Si3ýSi") at the interface of thermal (111)/Si/SiO2 as a function of oxidation temperature Tox in the range 2501100
+°C. Interpretation within the generalized simple thermal (GST) passivation model, based on first-order interaction kinetics, reveals a distinct increase in spread ÃEf in the activation energy for passivation Ef with decreasing Tox (<3 times in the covered Tox window), while the other key kinetic parameters (Ef, preexponential factor) remain essentially unchanged. The variation in ÃEf is ascribed to differently relaxed interfacial stress, affecting the spread in Pb defect morphology. In a second analytic part, the impact of the variation in Ef, and correlatively in the activation energy Ed for PbH dissociation, on Pbhydrogen interaction kinetics is assessed within the GST-based full interaction scheme, describing parallel competing action of passivation and dissociation. In particular, the passivation behavior in 1 atm H2 of an initially exhaustively depassivated Pb system, is analyzed exposing, as a major result, that growing spreads ÃEf, ÃEd result in a drastic reduction in passivation efficiency (drop by four orders of magnitude for a threefold increase in ÃEf). For ÃEf/Efs20%, the Pb system cannot be inactivated beyond the 90% level, incompatible with device quality requirements. Heating time/temperature vs spread conditions for optimum passivation in H2 have been established, and the technological impact of altering ÃEf, ÃEd is discussed. At film edges and trench corners, which are vulnerable local regions of exces stress, and hence enhanced ÃEf, ÃEd, an edge defeat effect with respect to passivation is exposed. Within the relentless scaling of Si-based integrated circuit devices, the growing relative impact of edge regions may jeopardize proper passivation of interface traps in the conventional way in future device generations. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+silicon compounds
+semiconductor-insulator boundaries
+passivation
+paramagnetic resonance
+interface states
+electron traps
+oxidation

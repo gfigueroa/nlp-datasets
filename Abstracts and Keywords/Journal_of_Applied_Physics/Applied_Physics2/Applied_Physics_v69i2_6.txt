@@ -1,0 +1,10 @@
+Aluminum nitride thin films have been deposited from the addition of trimethyl aluminum in the afterglow of N2, N2:H2 microwave plasmas over a pressure range of 0.010.3 Torr. With N2 as the plasma gas at 0.3 Torr, strongly chemiluminescent reactions of N with CH3 lead to CN incorporation and resulting films are poor insulators. With N2:H2 as the plasma gas or for deposition at low pressures, chemiluminescence is extinguished and films with resistivities s1015 ©	cm can be deposited. It is proposed that the improvement results because the fast gas phase reactions between N and CH3 are avoided.
+
+ALUMINIUM NITRIDES
+CHEMICAL VAPOR DEPOSITION
+PLASMA
+CHEMICAL REACTORS
+AFTERGLOW
+ORGANOMETALLIC COMPOUNDS
+PHOTOELECTRON SPECTROSCOPY
+PRESSURE DEPENDENCE

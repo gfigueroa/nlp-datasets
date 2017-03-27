@@ -1,0 +1,11 @@
+An ultrasonic reflectivity method is proposed for measuring porosity of porous materials having a rigid frame. Porosity is the relative fraction by volume of the air contained within a material. It is important as one of the several parameters required by acoustical theory to characterize porous materials like plastic foams and fibrous or granular materials. The proposed method is based on a temporal model of the direct and inverse scattering problem for the propagation of transient ultrasonic waves in a homogeneous isotropic slab of porous material having a rigid frame. This time domain model of wave propagation was initially introduced by the authors [Z. E. A. Fellah and C. Depollier, J. Acoust. Soc. Am. 107, 683 (2000)]. The viscous and thermal losses of the medium are described by the model devised by Johnson et al. [D. L. Johnson, J. Koplik, and R. Dashen, J. Fluid. Mech, 176, 379 (1987)] and Allard [J. F. Allard, Chapman and Hall, London, (1993)] modified by a fractional calculus-based method applied in the time domain. Reflection and transmission scattering operators for a slab of porous material are derived from the responses of the medium to an incident acoustic pulse. The porosity is determined from the expressions of these operators. Experimental and numerical validation results of this method are presented. This method has the advantage of being simple, rapid, and efficient. © 2003 American Institute of Physics. 
+
+porous materials
+porosity
+ultrasonic applications
+ultrasonic reflection
+time-domain analysis
+inverse problems
+ultrasonic scattering
+acoustic field
+foams

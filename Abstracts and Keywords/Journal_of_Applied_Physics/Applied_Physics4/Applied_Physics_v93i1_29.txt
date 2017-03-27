@@ -1,0 +1,11 @@
+Thin film parallel-plate capacitor structures with Ba0.5Sr0.5TiO3 as the dielectric layer were fabricated using pulsed-laser deposition. The thickness of the dielectric was varied between 7.5 nm and 1.4 ¼m. Low-field measurements of the dielectric constant showed the system to possess a nonzero interfacial capacitance. Since there is considerable debate about the origin of interfacial capacitance, further functional analysis was performed: zero-field dielectric susceptibility information was extracted using LandauGinzburgDevonshire fitting of saturated polarization loops. This analysis revealed that the zero-field dielectric susceptibility extracted from PE loops does not possess a finite interfacial component. The origin of interfacial capacitance therefore disappears (albeit temporarily) after a significant field has been applied and then removed during the PE loop measurement cycle. © 2003 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+ferroelectric materials
+ferroelectric thin films
+ferroelectric capacitors
+thin film capacitors
+dielectric polarisation
+dielectric hysteresis
+optical susceptibility

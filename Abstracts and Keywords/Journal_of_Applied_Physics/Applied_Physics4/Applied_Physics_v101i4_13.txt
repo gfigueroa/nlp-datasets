@@ -1,0 +1,12 @@
+ For the application of phase change materials in solid state memory devices it is very desirable to modify the crystallization properties such as the crystallization temperature Tx by doping in a predictable fashion. We have applied a model for the calculation of the glass transition temperature Tg of phase change materials as a function of material composition to predict the effect of Cu and Al doping for the phase change materials SbTe and GeSb. The model predicts an increase in Tg for Al and Cu doping of SbTe and Al doping of GeSb (for all Sb:Te and Ge:Sb ratios) while it predicts a decrease of Tg for Cu doping of GeSb. We confirmed experimentally that Al and Cu doping of Sb:Te = 72:28 and Al doping of Ge:Sb = 14:86 increase their Tx while Cu doping decreases Tx of Ge:Sb = 14:86. The effect of a given dopant on Tg predicted by the model is shown to be a good indicator for the effect of this dopant on Tx.
+
+antimony compounds
+germanium compounds
+aluminium
+copper
+phase change materials
+optical materials
+doping
+crystallisation
+glass transition
+enthalpy

@@ -1,0 +1,9 @@
+Deep levels in semi-insulating (SI) InP obtained by annealing in iron phosphide (IP) ambiance have been characterized by optical transient current spectroscopy (OTCS). Compared with the OTCS result of the SI InP prepared by annealing in pure phosphorus (PP) ambiance, the IP SI InP presents only two traps with activation energies of 0.20 and 0.63 eV, respectively. The results suggest that the diffusion of Fe-atoms suppresses the formation of a few defects in the IP SI InP. The nature of deep levels in the IP and PP SI InP has been discussed on the basis of these results. The relation between material property and defects in those SI InP has also been revealed. © 2002 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+deep levels
+annealing
+deep level transient spectroscopy
+iron
+diffusion

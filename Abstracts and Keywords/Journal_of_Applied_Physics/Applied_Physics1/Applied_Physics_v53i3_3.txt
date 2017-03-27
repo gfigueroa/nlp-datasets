@@ -1,0 +1,14 @@
+We report a systematic ion microprobe study of the isotope fractionation effects produced during the sputtering of pure metal targets. The metals studied were B, Mg, Si, Cr, Ni, Cu, Ge, Mo, Ag, Sb, Re, Tl, and Pb; isotopic ratios were determined with typical precisions of 0.1%0.3%. Detailed studies show that the data are free of possible instrumental biases, interference effects, etc. In all cases, the secondary ions produced by sputtering are enriched in the lighter isotope, and the degree of this enrichment is a function both of the spatial location and the energy of the extracted ions relative to the sputtering site. The maximum observed L/H enrichment factors vary from 6.5%/amu for B to 0.6%/amu for Pb, and are observed to show an approximate MH/ML [rather than a (MH/ML)1/2 ] dependence on mass. For masses greater than 50, the mass dependence of this fractionation can be closely described by an ionization model modified after Schroeer et al. [Surf. Sci. 34, 571 (1973)]; it is improbable that the observed fractionation is related to differential sputtering effects. Use of ion microprobes for isotopic research in geochemistry/cosmochemistry will require careful control of this isotopic fractionation process if a precision of better than 1%2% is sought.
+
+SIMS
+ISOTOPE SEPARATION
+FRACTIONATION
+ION MICROPROBE ANALYSIS
+SPUTTERING
+METALS
+TARGETS
+ACCURACY
+SPATIAL DISTRIBUTION
+ENERGY DEPENDENCE
+MATHEMATICAL MODELS
+THEORETICAL DATA

@@ -1,0 +1,6 @@
+A succession of directional couplers, which differ only through their refractive index distribution, is shown to be the optical analog of type II semiconductor heterostructures. The design of such a dielectric structure with the same transmission characteristic of the electric field propagating through it as the electron wave function in a type II heterostructure is discussed. An example of the design procedure is also given. © 2000 American Institute of Physics. 
+
+optical directional couplers
+refractive index
+semiconductor heterojunctions
+optical waveguide theory

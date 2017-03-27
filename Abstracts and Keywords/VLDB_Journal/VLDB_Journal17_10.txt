@@ -1,0 +1,6 @@
+Synopses structures and approximate query answering have become increasingly important in DSS/ OLAP applications with stringent response time requirements. Range queries are an important class of problems in this domain, and have a wide variety of applications and have been studied in the context of histograms. However, wavelets have been shown to be quite useful in several scenarios and in fact their multi-resolution structure makes them especially appealing for hierarchical domains. Furthermore the fact that the Haar wavelet basis has a linear time algorithm for the computation of coefficients has made the Haar basis one of the important and widely used synopsis structures. Very recently optimal algorithms were proposed for the wavelet synopsis construction problem for equality/point queries. In this paper we investigate the problem of optimum Haar wavelet synopsis construction for range queries with workloads. We provide optimum algorithms as well as approximation heuristics and demonstrate the effectiveness of these algorithms with our extensive experimental evaluation using synthetic and real-life data sets.
+
+Query processing
+Data synopses
+Approximate query answers
+Wavelet decomposition

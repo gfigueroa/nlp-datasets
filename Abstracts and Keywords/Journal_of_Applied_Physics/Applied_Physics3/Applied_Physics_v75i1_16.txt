@@ -1,0 +1,10 @@
+The interaction of the antiphase boundaries that are formed at the early stage of growth with the interfacial misfit dislocations is studied by transmission electron microscopy using contrast criteria. Experimental analysis has shown that the shifting of the misfit dislocation families, by half of their periodicity, is due to their intersection with antiphase boundaries emanating from demisteps on the Si substrate. The observed discontinuity of dislocation lines is attributed to dynamical contrast conditions. The antiphase boundaries do not interrupt the continuity of the network of dislocations. The dichromatic theory of interfacial defects is applied in order to illustrate the geometrical features of the pattern. The disymmetrization mechanism of the pattern obeys the principle of symmetry compensation. A symmetry analysis of the GaAs/Si interface justifies the agreement of the observations with the structural model. 	
+
+GALLIUM ARSENIDES
+SILICON
+INTERFACE STRUCTURE
+MISFIT DISLOCATIONS
+ANTIPHASE BOUNDARIES
+TEM
+EPITAXIAL LAYERS
+FILM GROWTH

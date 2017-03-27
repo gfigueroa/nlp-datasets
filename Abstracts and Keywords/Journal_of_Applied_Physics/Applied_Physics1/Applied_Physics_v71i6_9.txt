@@ -1,0 +1,12 @@
+The exact solutions to the MattisBardeen formula [Phys. Rev. 111, 412 (1958)] in the form of a double integral have been evaluated. The calculated values of surface impedance for aluminum (Al) and tin (Sn) superconductors are in excellent agreement with the typical experimental data of Biondi and Garfunkel [Phys. Rev. 116, 853 (1959)] and Sridhar [J. Appl. Phys. 65, 159 (1988)]. A microscopic theory to analyze the electromagnetic behavior of the YBa2Cu3O7x superconductor has been suggested on the basis of its electronic structure. In considering the CuO chain role the nonlinear interaction between waves and these superconductors has been studied. 	
+
+SUPERCONDUCTORS
+SURFACE CONDUCTIVITY
+ANALYTICAL SOLUTION
+ALUMINIUM
+TIN
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+QUATERNARY COMPOUNDS

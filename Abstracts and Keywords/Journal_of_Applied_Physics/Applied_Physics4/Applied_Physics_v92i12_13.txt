@@ -1,0 +1,14 @@
+We investigate the displacement and force sensitivity of a micromechanical detector in which a GaAs cantilever is capacitively coupled to a radio-frequency single-electron transistor (rf-SET). The piezoelectric effect in GaAs is utilized to convert the displacement signal into an electrical signal which is read out using the rf-SET. We analyze the input displacement noise due to the tunneling current shot-noise and back-action displacement noise due to the SET island voltage noise, and show, as an example, that a displacement sensitivity of 1.2×103	Å and a force sensitivity of 73×1018	N in a 6 KHz bandwidth are possible for a detector design with a resonant frequency of 38.4 MHz. © 2002 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+piezoelectric transducers
+micromechanical resonators
+microsensors
+single electron transistors
+displacement measurement
+force measurement
+tunnelling
+shot noise
+semiconductor device noise
+readout electronics

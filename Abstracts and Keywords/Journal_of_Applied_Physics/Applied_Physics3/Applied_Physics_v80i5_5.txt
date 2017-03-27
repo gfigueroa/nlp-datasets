@@ -1,0 +1,12 @@
+Patterns on YBa2Cu3O6.87 films, laser written in O2 or N2 atmospheres, and with various writing power densities and scanning speeds, have been studied by Raman scattering. For laser writing in O2 at atmospheric pressure, with low power density and fast scanning speed, it is found systematically that the oxygen content of YBa2Cu3Ox can be reduced. Only when the writing power density is high and the scanning speed is low (e.g., 2.3 mW/¼m2 and 1 ¼m/s), do the laserirradiated lines in an O2 atmosphere approach full oxygenation (x’7). For laser writing in N2 at atmospheric pressure, the oxygen stoichiometry always decreases, rendering the lines nonsuperconducting. The structural phase transition from orthorhombic to tetragonal can be identified with laser writing in a N2 atmosphere with a writing power density of 1.9 mW/¼m2 and a scanning speed of 20 ¼m/s. The oxygen O(4) line (<500 cm1) and the Ba line (115 cm1) disappear, and the intensity of the Cu(2) line (144 cm1) rises sharply when the phase transition occurs. This study shows how Raman scattering can be used as a routine technique, which is fast, sensitive, and nondestructive, and is able to measure oxygen content on a fine scale (a few ¼m) during highTc superconductor device processing. © 1996 American Institute of Physics. 
+
+HIGHTC SUPERCONDUCTORS
+STOICHIOMETRY
+RAMAN SPECTRA
+LASER RADIATION
+SURFACE TREATMENTS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+FILMS
+OXYGEN

@@ -1,0 +1,11 @@
+An overdamped plasmonLO phonon coupled mode in undoped GaP crystals has been observed under high excitation condition. We have studied the relaxation process of the coupled mode in the time range of nonoseconds using a timeresolved Raman scattering technique at 81 K. The decay time of photocreated free carriers has been estimated from lineshape fitting of the coupled mode in the timeresolved Raman spectra. The decay time obtained from the Raman study has been compared with the value obtained from luminescence measurements. The plasmon hybridized with the LO phonon is found to be a gaslike electronhole plasma.
+
+PLASMONS
+PHONONS
+GALLIUM PHOSPHIDES
+OPTICAL PHONONS
+PHONONPLASMON INTERACTIONS
+RAMAN SPECTRA
+RAMAN SPECTROSCOPY
+DECAY
+EXCITATION

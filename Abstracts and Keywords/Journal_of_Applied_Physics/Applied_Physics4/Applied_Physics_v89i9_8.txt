@@ -1,0 +1,8 @@
+The surface structures of an oxide overlayer on Nb(100) single crystal formed by numerous cycles of Ar-ion sputtering and flash annealing at 1973 K in an ultra-high-vacuum chamber have been investigated by scanning tunneling microscopy. Flat terraces with a monatomic step height of Nb(100) are observed; where two orthogonal domains are alternately evident. A ladder-like (3×10) structure of Nb(100) with no long-range order is identified at atomic resolution in the domain on the terrace. The ladder-like (3×10) structure is interpreted to be a modulated NbO2(010) overlayer on the Nb(100) surface and an atomic structural model of the ladder-like (3×10) structure is proposed. © 2001 American Institute of Physics.
+
+niobium compounds
+surface structure
+scanning tunnelling microscopy
+sputtering
+annealing
+surface reconstruction

@@ -1,0 +1,8 @@
+This paper addresses the control requirements of hybrid wind farms, comprising a relatively large number of conventional induction machines (IMs) along with one or very few permanent magnet synchronous machines (PMSMs), capable of compensating the reactive power demanded by the IMs during faulty conditions as well as attenuating the active power variations due to wind gusts. Based on the superposition theorem and the feedback linearization technique, a controller is designed to independently regulate the positive and negative sequence currents of the PMSM voltage source converters (VSCs), overcoming several drawbacks of existing approaches in the presence of unbalanced voltages. In the proposed scheme, the grid-side VSC currents are controlled in order to improve the ride-through capability of IMs, so that the whole wind farm can fulfill demanding grid codes in the absence of extra equipment, such as static compensators. As shown by the test results, combining IM-based wind farms with PMSMs accomplishes several relevant goals: delivering the reactive power consumption of the IMs, increasing the rated active power of the installation, and smoothing mechanical power oscillations.
+
+Feedback linearization
+grid codes
+permanent magnet synchronous machines (PMSMs)
+unbalanced faults
+voltage source converter (VSC)
+wind energy conversion system

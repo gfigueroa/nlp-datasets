@@ -1,0 +1,10 @@
+Fivemicron long AlGaAs/GaAs FabryPérot vertical cavities with thin GaAs active regions of two different thicknesses are analyzed both theoretically and experimentally in terms of their optical transmission characteristics, spontaneous radiation patterns, and spontaneous spectral emission characteristics. The effects on spontaneous emission of the precise placement of the GaAs active region and also the thickness of this region, as compared to the emitted wavelength, are demonstrated. The measured results are compared with theoretical calculations which are based on the firstorder perturbation field theory presented in an earlier publication. Good agreement is found in the comparison between the theoretical predictions and the experimental results, and indicates the controllable spontaneous emission in these long vertical cavities.
+
+LASER CAVITIES
+SPONTANEOUS EMISSION
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+FABRYPEROT INTERFEROMETER
+EMISSION SPECTRA
+AMBIENT TEMPERATURE

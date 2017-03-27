@@ -1,0 +1,10 @@
+Amorphous Fe73.9Nb3.1Cu0.9Si13.2B8.9 thin films have been produced by ion beam sputtering with two different beam energies (500 and 1000eV). Magnetic measurements indicate that the samples display a uniaxial magnetic anisotropy, especially for samples prepared with the lower beam energy. Magnetization relaxation has been measured on both films with an alternating gradient force magnetometer and magneto-optical Kerr effect. Magnetization relaxation occurs on time scales of tens of seconds and can be described with a single stretched exponential function. Relaxation intensity turns out to be higher when measured along the easy magnetization axis.
+
+ion beam applications
+iron alloys
+Kerr magneto-optical effect
+magnetic anisotropy
+magnetic relaxation
+magnetic thin films
+metallic glasses
+niobium alloys

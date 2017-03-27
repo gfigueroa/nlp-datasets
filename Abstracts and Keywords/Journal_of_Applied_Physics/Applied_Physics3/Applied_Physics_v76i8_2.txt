@@ -1,0 +1,13 @@
+Optical absorption spectroscopy has been applied to measure the absolute population densities of the first excited levels of atomic hydrogen H(n=2) and argon Ar(4s) in an expanding cascaded arc plasma in hydrogenargon mixture. It is demonstrated that the method allows us to determine both H(n=2) and Ar(4s) absolute density radial profiles for H2 admixtures in Ar ranging from 0.7% to 10% with good accuracy. The measured H(n=2) densities are in the 10141016 m3 range, and Ar(4s) densities are in the range of 10151018 m3. It has been shown, that the density of hydrogen excited atoms H(n=2) serves as an indicator of the presence of argon ions and hydrogen molecules in the expanding plasma. A kinetic model is used to understand evolution of H(n=2) density in the expansion, and to estimate the total atomic hydrogen population density and hydrogen dissociation degree in sub and supersonic regions of the plasma. 	
+
+HYDROGEN
+DISSOCIATION
+ARGON
+PLASMA DIAGNOSTICS
+ABSORPTION SPECTRA
+EXCITED STATES
+ELECTRIC ARCS
+PLASMA RADIAL PROFILES
+POPULATION DENSITY
+ATOMS
+ULTRAVIOLET SPECTRA

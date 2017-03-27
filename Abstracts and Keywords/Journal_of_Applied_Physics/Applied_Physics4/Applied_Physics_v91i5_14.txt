@@ -1,0 +1,6 @@
+311 defects are extended, rodlike defects that play a central role in the processing of Si during integrated circuit manufacturing. Diffuse x-ray scattering techniques provide a nondestructive means to detect defects in solids. However, to date there has been no knowledge of what the x-ray scattering pattern from 311 defects looks like. Using a recently introduced fully atomistic modeling scheme, the diffuse x-ray scattering patterns were calculated from 311 defects. The results demonstrate how 311 defects can be detected, how the main varieties of 311 defect can be distinguished, and how both the defect width and length can be derived from the scattering. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+extended defects
+X-ray scattering

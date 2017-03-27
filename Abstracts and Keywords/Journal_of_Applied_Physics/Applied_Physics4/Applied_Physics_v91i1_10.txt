@@ -1,0 +1,18 @@
+The molecular beam epitaxial growth and n type doping of Hg0.80Cd0.20Te(112)B have been investigated. The surface morphology has been determined via atomic force microscopy and is appreciably different from that of the (001) orientation; long ridges and trenches are observed whose height difference is considerably less than that of the nearly elliptically shaped mounds found in (001) alloys. The mobility has been optimized with regard to growth parameters such as the Hg/Te flux ratio resulting in a maximum value of 4.0±0.6×105 cm2/(V
+s) for an undoped sample at low temperatures. n type Hg0.80Cd0.20Te(112)B has been grown using iodine in the form of CdI2 as a dopant. The maximum electron concentration due to iodine doping has been determined after an Hg vacancy anneal to be 4.2±0.7×1018 cm3. Typical mobilities at low temperatures are 4.0×104 and 1.0×105 cm2/(V
+s) for electron concentration levels of 1.0×1017 and 5.0×1016 cm3, respectively. By means of secondary ion mass spectroscopy the iodine concentration has been determined and hence the degree of activation. The electron concentration is proportional to that of iodine with a 100% electrical activation for concentrations up to H1018 cm3. At higher concentrations compensation is observed. © 2002 American Institute of Physics.
+
+mercury compounds
+cadmium compounds
+II-VI semiconductors
+molecular beam epitaxial growth
+semiconductor growth
+semiconductor epitaxial layers
+atomic force microscopy
+secondary ion mass spectra
+vacancies (crystal)
+annealing
+surface structure
+semiconductor doping
+carrier mobility
+carrier density

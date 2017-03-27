@@ -1,0 +1,7 @@
+Monitoring movement across national borders is a challenging problem due to several economic and technical issues. Due to the vast size, remoteness and other geographical confines of border regions, technical solutions are necessary to complement the limitations of manpower. In this paper we discuss our research in developing a system for detecting border intrusion activity by combining wireless sensor networks with artificial neural networks (ANNs). The key idea is to use ANN models to discover distinct patterns that describe an intrusion activity and use these patterns to train the ANN model which will then recognize intrusions and other abnormalities. We present a border intrusion detection system in which light and sound data from low-cost sensor motes spread out on the field is used to help ANNs make automated decisions and report intrusion activity. Our experimental results show that our border intrusion detection system can be used to monitor the borders without constant human supervision.
+
+Artificial Neural Networks
+Backpropagation Neural Network model
+Border Intrusion Detection
+Wireless Sensor Network Application
+Wireless Sensor Networks

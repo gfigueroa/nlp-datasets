@@ -1,0 +1,6 @@
+The modeling language VerilogAMS supports a new double precision datatype (wreal) that enables analog accuracy in the digital simulation domain. It is therefore possible to separate high frequency signal paths, like those in RF frontends, from the rest of the chip, which comes in very handy for fast verification purposes. After an introduction to analog and digital modeling, a strategy to model the RF and LO signal flow path for a bluetooth transceiver system is presented. Especially the nonuniform oversampling, which is introduced through wreal to electrical and vice versa conversion, is analyzed and compared to traditional uniform sampling ratios. The proposed approach is demonstrated for an industrial available RF frontend, including biasing and analog to digital conversion. Simulation comparisons for different complexities of the frontend and different modeling approaches like passband, baseband and transistor level conclude the paper.
+
+Modeling
+VerilogAMS
+nonuniform sampling
+wreal

@@ -1,0 +1,5 @@
+Investigations in the development of lead-free piezoelectric ceramics have recently claimed properties comparable to that of PZT-based materials. In this work, the dielectric and piezoelectric properties of the various systems were contrasted in relation to their respective Curie temperatures. Though comparable with respect to T<inf>C</inf>, enhanced properties reported in the K,NaNbO<inf>3</inf> family are the result of increased polarizability associated with the T<inf>orthor-tetragonal</inf> polymorphic phase transition being compositionally shifted downward and not from a morphotropic phase boundary (MPB) as widely reported. As expected, the properties are strongly temperature dependent unlike that observed for MPB systems. Analogous to PZT, enhanced properties are noted for MPB compositions in the Na, BiTiO<inf>3</inf>-BaTiO<inf>3</inf> and the ternary system with K,BiTiO<inf>3</inf>, but offer properties significantly lower than that of PZTs. The consequence of a ferroelectric to antiferroelectric transition well below T<inf>C</inf> further limits their usefulness.
+
+Lead-free Ceramic
+PZT
+Piezoelectric

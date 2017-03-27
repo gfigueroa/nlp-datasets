@@ -1,0 +1,14 @@
+The compressional VP wave velocity, refractive index n, and acoustic attenuation coefficient “ of breakaway glass and liquid have been measured by highresolution Brillouin spectroscopy up to 170	°C in platelet and backscattering geometries. A marked break in the compressional wave velocitytemperature relationship is observed at the glass transition temperature of 52	°C consistent with the glass transition temperature observed in ultrasonic experiments on the same sample. The temperature dependence of the compressional wave velocity determined by Brillouin scattering and ultrasonic interferometry are compared.
+
+GLASS
+LIQUIDS
+ELASTICITY
+COMPRESSIONAL WAVES
+REFRACTIVE INDEX
+BRILLOUIN EFFECT
+TEMPERATURE DEPENDENCE
+GLASS TRANSFORMATIONS
+VELOCITY
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 273400 K
+ULTRASONIC TESTING

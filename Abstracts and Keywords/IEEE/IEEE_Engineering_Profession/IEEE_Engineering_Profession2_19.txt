@@ -1,0 +1,7 @@
+Accurate link delivery ratio prediction is crucial to routing protocols in wireless mesh network. Since predicting delivery ratio directly usually requires excessive probing packets, it has been suggested to use packet SNR to predict delivery ratio, as SNR is a measure easy to obtain and "free" with every received packet. Unfortunately, several previous studies have shown that a simple direct mapping between SNR and delivery ratio values is often impossible. In this paper, we formulate the delivery ratio prediction problem as a classification problem (predicting link to be "good" or "bad), and apply various statistical classification algorithms (k-NN, kernel methods, and support vector machines) to it. We obtain the temporal data of link delivery ratios and SNR's from a measurement trace of a live wireless mesh network, and analyze the effectiveness of using SNR to enhance delivery ratio classification. Contrary to the pessimistic conclusion of previous works, we find that by incorporating SNR information in addition to historical delivery ratio data, the classification accuracy is improved in all the algorithms we used, with an average reduction of 8-10% of errors compared with using delivery ratio data alone. We therefore conclude that adding SNR can be an attractive alternative when designing a wireless link delivery ratio prediction protocol
+
+Kernel Methods
+Link Quality Prediction
+Mesh network
+Packet SNR
+Support Vector Machines

@@ -1,0 +1,9 @@
+Sidoped GaAs epilayers grown by lowpressure metalorganic chemical vapor deposition (MOCVD) using tertiarybutylarsine (tBAs) were investigated using a slow positron beam. The concentration of Ga vacancies, VGa, generated in GaAs epilayers was increased drastically by heavy Si doping of more than 1019 cm3, where the deactivation of Si occurred. This result suggests that the deactivation of Si in GaAs is mainly caused by a VGarelated defect, such as a VGaSiGa complex. The VGa concentration in the samples grown using tBAs was found to be almost the same as that grown using arsine (AsH3). On the other hand, the VGa concentration in MOCVDgrown Sidoped GaAs is lower than that in molecularbeamepitaxygrown material for the same Si concentrations. The generation mechanisms of VGa were found to be greatly dependent on the growth and/or doping methods, in addition to the Si doping concentration.
+
+EPITAXIAL LAYERS
+GALLIUM ARSENIDES
+CVD
+POSITRON PROBES
+DOPED MATERIALS
+SILICON ADDITIONS
+VACANCIES

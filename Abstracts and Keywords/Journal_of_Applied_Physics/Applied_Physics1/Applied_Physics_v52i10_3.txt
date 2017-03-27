@@ -1,0 +1,11 @@
+A small laboratory scale cw HF laser has been built and its frequency stability is studied using a FabryPerot interferometer. Performances of the freerunning laser, of the Lamb dip stabilized laser, and of the laser stabilized on a FabryPerot resonance (side of a mode and derivative zero crossing) are reported. In this last case, stability close to 109 has been observed.
+
+GAS LASERS
+FREQUENCY CONTROL
+STABILITY
+HYDROFLUOIRIC ACIDS
+EXPERIMENTAL DATA
+FABRYPEROT INTERFEROMETERS
+LAMB SHIFT
+RESONANCE
+OSCILLATIONS MODES

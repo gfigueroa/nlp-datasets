@@ -1,0 +1,10 @@
+The theory presented in this article successfully reproduces and explains the experimental magnetostriction and magnetization hysteresis behavior of Tb0.3Dy0.7Fe1.9. It is well known that a very large number of individual domain wall translation events combine to produce each measurable domain transformation in a macroscopic sized sample. Each individual domain wall may be expected to suffer some level of domain wall translation inhibition due to the presence of defects in the material, however, the severity of the inhibition will spatially vary. We therefore assume that the presence of defects in the material increases the directional magnetization potential of subsequent domain states within a process, and distributes nontrivial probabilities of occupation of 111	 type domain states in a parameter selected, inverse exponential form familiar from the study of statistical thermodynamics. The increased magnetization potential of subsequent high magnetostriction and high magnetization states retards their occupation until higher intensity applied magnetic fields are produced, thus shifting the increasing applied magnetic field curve in a positive field direction and shifting the decreasing applied magnetic field curve in a negative field direction in a form consistent with experiment. © 2002 American Institute of Physics. 
+
+terbium alloys
+dysprosium alloys
+iron alloys
+ferromagnetic materials
+magnetoelastic effects
+magnetostriction
+magnetic domain walls
+magnetic hysteresis

@@ -1,0 +1,6 @@
+This paper includes the exploration of using HMM algorithm to construct speech recognition platform which be speeded up on embedded system of FPGA by Integer FFT. On embedded system the computing speed is not as fast as personal computer. This will causes that speech recognition takes much time and power; and further, it didn't satisfy the real time requirement. In this paper, we use Integer FFT to replace Float FFT. It will be shown that the recognition rate is only lose a little but reduce much computing time.
+
+FPGA
+Hidden Markov Model
+Integer Fast Fourier Transform
+Speech Recognition

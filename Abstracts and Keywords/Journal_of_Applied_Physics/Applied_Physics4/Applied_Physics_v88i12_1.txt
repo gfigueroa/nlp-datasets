@@ -1,0 +1,8 @@
+The electric field-induced antiferroelectric (AFE) to ferroelectric (FE) phase transition in lead strontium zirconate titanate (PSZT) ceramics was studied by means of dielectric, polarization, and strain hysteresis measurements. PSZT compositions with varying strontium and Zr/Ti ratio, located in the ferroelectric, antiferroelectric phase regions, and near the AFE/FE phase boundary were prepared. Dielectric properties were measured as a function of temperature for different compositions. The electric field required for AFEFE phase transition and hysteresis were affected by the temperature and composition. The entropy change during phase transition and the field-induced strain were also measured and discussed. © 2000 American Institute of Physics. 
+
+lead compounds
+strontium compounds
+ferroelectric ceramics
+dielectric polarisation
+dielectric hysteresis
+ferroelectric transitions

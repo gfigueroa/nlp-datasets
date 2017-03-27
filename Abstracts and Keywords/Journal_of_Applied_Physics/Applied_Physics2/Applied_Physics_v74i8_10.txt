@@ -1,0 +1,12 @@
+Intersubband electric dipole transitions between subbands of the same symmetry are not allowed in symmetric quantum well structures. When a small asymmetry is introduced this selection rule is broken, and the forbidden transitions become allowed. However, we have found that in many cases where the asymmetry of the structure is not too large, the intersubband electric quadrupole transitions dominate the optical transitions. For example, we show that, when the asymmetry is induced by an external dcelectric field, then, the electric quadrupole transitions dominate up to fields of the order of 10 kV/cm. It is also shown that for structures with a builtin asymmetry, there is a wide range of structures where the electric quadrupole transitions dominate the optical transitions. The selection rules for these transitions differ from those of the electric dipole transitions. It is found that the maximum strength of the electric quadrupole transitions is achieved when the infrared light is linearly polarized in 45° relative to the growth direction (in the quantum well plan), and therefore, the 45° waveguide geometry is optimized for inducing these transitions.
+
+QUANTUM WELLS
+ENERGYLEVEL TRANSITIONS
+ELECTRIC DIPOLES
+ASYMMETRY
+FORBIDDEN TRANSITIONS
+INTERBAND TRANSITIONS
+QUADRUPOLE INTERACTIONS
+ELECTRIC FIELD EFFECTS
+SELECTION RULES
+INFRARED RADIATION

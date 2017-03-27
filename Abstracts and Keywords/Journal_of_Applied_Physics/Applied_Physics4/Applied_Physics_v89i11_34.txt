@@ -1,0 +1,15 @@
+Enhancement of exchange bias induced at the interface of the antiferromagnetic (AF)/ferromagnetic (F) layers was studied using the bottom spin-valve films (SVs) with the MnIr/CoFe exchange coupled films. Exchange bias increased using an ultrathin Cu underlayer. Meanwhile, both exchange bias field, Hex, and blocking temperature, TB, increased intensively by heating specimens after depositing MnIr film in a high vacuum. These two enhancement effects worked in an additive. As a result, an unidirectional anisotropy constant, JK, of 0.39 erg/cm2 (Hex of 1.3 kOe) and TB of <325
+°C were obtained for the bottom SVs with a total thickness of 233 Å including an AF layer of 68 Å Mn74Ir26 and a pinned layer of 20 Å Co90Fe10, where the SVs were field annealed at 320
+°C. A microstructural analysis using x-ray diffraction revealed that Hex did not depend on the diffraction intensity from MnIr (111) for the SVs with various underlayers, and no remarkable changes occurred in the microstructure of the SVs with the heating treatment in a vacuum. Therefore, the enhancement effects might result from some changes in the microstructure and/or the morphology of the interface of AF/F layers. © 2001 American Institute of Physics. 
+
+manganese alloys
+iridium alloys
+cobalt alloys
+iron alloys
+spin valves
+antiferromagnetic materials
+ferromagnetic materials
+exchange interactions (electron)
+magnetic anisotropy
+interface structure
+X-ray diffraction

@@ -1,0 +1,7 @@
+This paper presents the design, implementation and measurements of a spirometer based on differential pressure sensing. A system which fulfills the last medical standard specifications has been designed exploiting the Venturi tube principle. A fully operating prototype has been tested, and data have been subsequently analyzed. Air flows up to 14 L/s can be measured with an accuracy of 0.2 L/s. Data acquisition software and user interface were developed.
+
+Differential Pressure Sensor
+Homecare
+Spirometer
+Spirometry
+Venturi tube

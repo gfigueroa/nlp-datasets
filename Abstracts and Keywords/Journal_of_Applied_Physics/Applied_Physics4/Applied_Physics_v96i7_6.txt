@@ -1,0 +1,17 @@
+We study CoFeAl2O3 multilayers, varying from granular to continuous structure with CoFe nominal thickness (10}t}18). Structural percolation takes place at t=tcH18, changing from activated to metallic conductance. A sharp anomaly in ac coercivity of magneto-optical Kerr effect and in magnetization M by superconducting quantum interferometer device is found at t=t*H17, interpreted as transition from superferromagnetism (by dipolar coupled CoFe clusters) to exchange ferromagnetism. Onset at t=t* of anisotropic magnetoresistance (AMR) is attributed to skew scattering of bandlike electrons within giant fractal clusters. These structures may cause the observed Barkhausen noises in M and AMR at tHt*, disappearing at t&gt;t*.
+
+cobalt alloys
+iron alloys
+alumina
+magnetic multilayers
+ferromagnetic materials
+metal-insulator boundaries
+electrical conductivity
+magnetoresistance
+magnetic moments
+coercive force
+magnetic noise
+ferromagnetic-paramagnetic transitions
+Barkhausen effect
+Kerr magneto-optical effect
+magnetic anisotropy

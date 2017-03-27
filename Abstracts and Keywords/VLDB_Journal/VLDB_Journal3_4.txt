@@ -1,0 +1,6 @@
+Spatial database management involves two main categories of data: vector and raster data. The former has received a lot of in-depth investigation; the latter still lacks a sound framework. Current DBMSs either regard raster data as pure byte sequences where the DBMS has no knowledge about the underlying semantics, or they do not complement array structures with storage mechanisms suitable for huge arrays, or they are designed as specialized systems with sophisticated imaging functionality, but no general database capabilities (e.g., a query language). Many types of array data will require database support in the future, notably 2-D images, audio data and general signal-time series (1-D), animations (3-D), static or time-variant voxel fields (3-D and 4-D), and the ISO/IEC PIKS (Programmer's Imaging Kernel System) BasicImage type (5-D). In this article, we propose a comprehensive support of multidimensional discrete data (MDD) in databases, including operations on arrays of arbitrary size over arbitrary data types. A set of requirements is developed, a small set of language constructs is proposed (based on a formal algebraic semantics), and a novel MDD architecture is outlined to provide the basis for efficient MDD query evaluation.
+
+Multimedia database systems
+image database systems
+spatial index
+tiling

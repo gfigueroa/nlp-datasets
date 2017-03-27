@@ -1,0 +1,10 @@
+A collisionless dynamic sheath model for multispecies plasmas has been derived for the application of plasma immersion ion implantation (PIII) processes with multispecies dopant gases. In this dynamic sheath model, a general form of an effective mass M, which includes species compositions and ion masses, is used to determine the sheath expansion during the pulse. The total ion current, total implant dose, and the corresponding dose components for different species can also be determined with this effective mass. This offers a method for easily evaluating PIII processing and obtaining the correct implant doses for different species. A plasma simulation is used to compare this model. © 1995 American Institute of Physics.
+
+ION IMPLANTATION
+COLLISIONLESS PLASMA
+PLASMA SHEATH
+PLASMA SIMULATION
+EFFECTIVE MASS
+CRYSTAL DOPING
+ION DENSITY
+IMMERSION TECHNIQUES

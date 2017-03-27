@@ -1,0 +1,6 @@
+Recently particle swarm optimization (PSO) algorithm gained popularity and employed in many engineering applications because of its simplicity and efficiency. The performance of the PSO algorithm can further be improved by using hybrid techniques. There are various hybrid PSO algorithms published in the literature where researchers combine the benefits of PSO with other heuristics algorithms. In this paper, we propose a cooperative line search particle swarm optimization (CLS-PSO) algorithm by integrating local line search technique and basic PSO (B-PSO). The performance of the proposed hybrid algorithm, examined through four typically nonlinear optimization problems, is reported. Our experimental results show that CLS-PSO outperforms basic PSO.
+
+PSO
+hybrid algorithm
+line search
+numerical experiments

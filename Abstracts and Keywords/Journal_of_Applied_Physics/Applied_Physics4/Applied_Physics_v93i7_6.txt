@@ -1,0 +1,12 @@
+Crystallographic structure of as-grown epitaxial Pb(Zr,Ti)O3 (PZT) films was investigated with regard to the Zr/Ti ratio and crystalline orientation. PZT films with (001) and (111) orientation were epitaxially grown on (100) and (111)SrTiO3 substrates respectively using radio-frequency (rf) sputtering. Four circle x-ray diffraction measurements revealed that the crystallographic dependence on Zr/Ti composition in PZT films was much different from bulk PZT. In particular, (001)-oriented PZT films showed tetragonal structure even in the Zr/Ti composition of 70/30 where the bulk PZT ceramics are rhombohedral phase. In addition, although (001)-oriented PZT films with Zr/Ti ratio of 53/47 and 70/30 showed tetragonal structure, (111)-oriented PZT films with the same Zr/Ti ratio were identified as the rhombohedral structure. The cell volume of the PZT films with both orientations increased, suggesting the excess Pb atoms in the films due to the impinging energetic sputtered particles induces the anomalous crystalline structure of the PZT films. Dielectric properties of the PZT films exhibited stable value independent of Zr/Ti ratio and characteristic increase of dielectric constant near Zr/Ti=53/47 could not be observed. These results suggest that the internal stress due to the sputter deposition plays an important roll in the unique characteristics of crystallographic and electrical properties of the epitaxial PZT films. © 2003 American Institute of Physics. 
+
+lead compounds
+ferroelectric ceramics
+ferroelectric thin films
+sputter deposition
+epitaxial layers
+crystal orientation
+X-ray diffraction
+crystal structure
+internal stresses
+permittivity

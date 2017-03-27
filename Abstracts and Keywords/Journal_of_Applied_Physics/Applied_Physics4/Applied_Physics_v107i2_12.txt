@@ -1,0 +1,9 @@
+We report the study of the chemical reactivity of representative hydrocarbon organic light-emitting diode (OLED) materialsfully aromatic derivatives of anthracene and tetracene in the OLED environment. In addition to the participation in free-radical chemistry initiated by homolytic bond dissociation reactions of arylamines, the hydrocarbons appear to initiate and undergo dehydrogenation reactions following the electronic excitation caused by the recombination of charge carriers or by the absorption of a photon. A chemical product of the intramolecular dehydrogenation reaction, cyclization, was identified in photoexcited films of representative anthracene derivative and detected in electrically degraded OLEDs utilizing this material in the emissive layer. Other analogous intra- and intermolecular dehydrogenation reactions initiated by the excited states of hydrocarbons are also expected to occur in operating OLEDs. The stepwise transfers of hydrogen atoms or ions to neighboring molecules are likely to yield, at least in part, neutral or ionic forms of performance-damaging speciesnonradiative recombination centers and luminescence quenchers. A comparison of the luminescence losses and quantities of the identified degradation product in OLEDs and photoexcited films suggests that the dehydrogenation mechanism plays a minor but not negligible part in the operational degradation of modern OLEDs utilizing hydrocarbons as emissive layer hosts.
+
+dissociation
+electron-hole recombination
+free radical reactions
+hydrogenation
+organic compounds
+organic light emitting diodes
+radiation quenching

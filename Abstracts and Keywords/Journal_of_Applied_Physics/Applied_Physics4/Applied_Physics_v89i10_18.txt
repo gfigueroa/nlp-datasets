@@ -1,0 +1,9 @@
+The mechanical and friction properties of additive-free polyurethane (PUR) consisting of polyether soft segments of polytetramethyleneoxide and hard segments (HS) comprising 4,4'-diphenylmethane diisocyanate and 1,4-butanediol as a chain extender were studied by scanning force microscopy. The hardness and elastic modulus of PUR containing 42, 57, 69, and 100 wt	% HS were determined from nanoindentation experiments performed with a diamond tip of nominal radius of curvature equal to <20 ¼m and maximum indentation load in the range of 10500 ¼N. The mechanical properties of PUR were found to strongly depend on the HS content and contact load. The elastic modulus of PUR with 42 wt	% HS was found to decrease with increasing load due to the high softness of this material that influenced the measurements. The friction characteristics of the samples with 42, 57, and 69 wt	% HS were studied in order to evaluate the dependence of the coefficient of friction on load and sliding speed. The PUR with 57 wt	% HS exhibited the lowest coefficient of friction. Depending on the PUR composition, remarkably different friction behaviors were obtained. The observed mechanical behavior and friction characteristics are interpreted in terms of the chemical composition and microstructure of the samples. © 2001 American Institute of Physics.
+
+polymers
+sliding friction
+atomic force microscopy
+hardness
+elastic moduli
+indentation
+polymer structure

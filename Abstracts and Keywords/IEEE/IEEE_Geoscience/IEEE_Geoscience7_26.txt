@@ -1,0 +1,12 @@
+This paper gives a brief history of wind turbines and what it typically used for. It also analyzes the theory of the wind turbine as well as the parts involved in a correct wind turbine, types of wind turbines, implementation on power systems, and possible advancements in wind power.
+
+Asynchronous rotating machines
+DC motors
+Electromagnetic fields
+Horizontal-axis wind turbine
+Vertical-axis wind turbine
+Wind Turbines
+diodes
+renewable energy
+transistors
+wind energy

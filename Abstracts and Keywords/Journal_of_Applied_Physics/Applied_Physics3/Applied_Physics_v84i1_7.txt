@@ -1,0 +1,12 @@
+The magnetic and electronic transport properties of the title compounds are systematically studied. Both compounds are found to have similar properties. The magnetic measurements are consistent with the mictomagnetic behavior. An insulator-to-metal transition is observed with decreasing temperature and the low temperature resistivity shows the metalliclike feature. It is proposed that apart from the already identified ferromagnetic metal and spin glass insulator phases, the metalliclike mictomagnetic phase should exist at the boundary area between the two known phases in the universal phase diagram for the manganates. © 1998 American Institute of Physics. 
+
+mictomagnetism
+spin glasses
+lanthanum compounds
+metal-insulator transition
+electrical resistivity
+magnetic hysteresis
+superexchange interactions
+yttrium compounds
+holmium compounds
+calcium compounds

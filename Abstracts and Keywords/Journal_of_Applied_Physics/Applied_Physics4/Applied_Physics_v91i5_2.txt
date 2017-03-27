@@ -1,0 +1,12 @@
+Near-field scanning optical microscopy (NSOM) and electron probe microanalysis (EPMA) were used to study the topographic and microscopic optical properties of indiumgalliumphosphide (In1xGaxP) samples grown by liquid phase epitaxy on galliumarsenide substrates. NSOM imaging found strong and highly localized variations in the photoluminescence (PL) intensity for samples that were highly lattice mismatched with the substrate. The topography and optical features were roughly spatially correlated for these samples. Shifts in the PL peak energy position (by as much as 27 meV) were found during scans across highly mismatched samples, whereas no shifts were seen for In1xGaxP films with a nearly lattice matched composition. Compositional fluctuations were determined to be the cause of these PL peak energy shifts. EPMA provided corroborating evidence that compositional fluctuations are spatially correlated with the topography. These composition fluctuations arise from the known solidsolid miscibility gap in the In1xGaxP system at temperatures used for the growth of these samples. © 2002 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+semiconductor epitaxial layers
+liquid phase epitaxial growth
+semiconductor growth
+solid solubility
+electron probe analysis
+near-field scanning optical microscopy
+photoluminescence

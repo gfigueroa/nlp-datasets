@@ -1,0 +1,13 @@
+Single crystal samples of Ce3+-doped fluorides [LiCaAlF6 (LiCAF), LiYF4 (LYF), NaCaYF6 (NCYF)], and oxides [Ca2Al2SiO7 (CASM), CaYAlO4 (CYA)] have been grown in inert and reducing atmospheres, with the intent of studying the effects of symmetry and ligand coordination on the dopant energy levels. The optical absorption spectra of Ce3+ in these crystals consist, at most, of five overlapping bands. The luminescence is also a broadband due to strong electronphonon interaction in the 5d excited state. The energies of the lowest absorption band and the luminescence band decrease along the sequence LiCAF, LYF, NCYF, CASM, and CYA. This trend may be explained by the nephelauxetic effect and lowering symmetry of the anion-coordinate polyhedra of Ce3+ in these crystals. The lowest energy peak in the absorption spectrum of Ce3+ observed in CASM is coincident with the third harmonic (355 nm) of a Q-switched pulsed YAG laser. © 1998 American Institute of Physics. 
+
+cerium
+crystal field interactions
+impurity states
+impurity absorption spectra
+photoluminescence
+excited states
+visible spectra
+ultraviolet spectra
+lithium compounds
+calcium compounds
+sodium compounds

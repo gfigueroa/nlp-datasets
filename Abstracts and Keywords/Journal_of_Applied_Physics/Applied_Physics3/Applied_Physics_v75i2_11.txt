@@ -1,0 +1,10 @@
+Smallangle xray scattering was used to investigate the microstructural change induced by electrochemical oxidation of porous silicon (PS) layers. It is shown that when the oxidation level increases, the size of the crystalline Si domains, which constitute the PS layer, decreases. This size reduction is correlated to the blueshift observed in the photoluminescence spectra when the oxidation level is increased. Moreover, we found that a fuzzy surface appears between pores (voids) and matter when the samples are electrochemically oxidized. This interface is found very sharp for the asprepared and nonoxidized PS layers.
+
+SILICON
+POROSITY
+MICROSTRUCTURE
+SMALL ANGLE SCATTERING
+X RADIATION
+OXIDATION
+ELECTROCHEMISTRY
+PHOTOLUMINESCENCE

@@ -1,0 +1,8 @@
+The structural and electronic properties of Gd2(Ti1yZry)2O7 (y = 01) pyrochlores following a 2.0-MeV Au2+ ion-beam irradiation ( < 5.0×1014Au2+/cm2) have been investigated by Ti2p and O1s near-edge x-ray absorption fine structure (NEXAFS). The irradiation of Gd2(Ti1yZry)2O7 leads to the phase transformation from the ordered pyrochlore structure (Fd3m) to the defect fluorite structure (Fm3m) regardless of Zr concentration. Irradiated Gd2(Ti1yZry)2O7 with y } 0.5 are amorphous, although significant short-range order is present. Contrasting to this behavior, compositions with y e 0.75 retain crystallinity in the defect fluorite structure following irradiation. The local structures of Zr4+ in the irradiated Gd2(Ti1yZry)2O7 with y e 0.75 determined by NEXAFS are the same as in the cubic fluorite-structured yttria-stabilized zirconia (YZrO2), thereby providing conclusive evidence for the phase transformation. The TiO6 octahedra present in Gd2(Ti1yZry)2O7 are completely modified by ion-beam irradiation to TiOx polyhedra, and the Ti coordination is increased to eight with longer TiO bond distances. The similarity between cation sites and the degree of disorder in Gd2Zr2O7 facilitate the rearrangement and relaxation of Gd, Zr, and O ionsdefects. This inhibits amorphization during the ion-beam-induced phase transition to the radiation-resistant defect fluorite structure, which is in contrast to the ordered Gd2Ti2O7.
+
+gadolinium compounds
+order-disorder transformations
+amorphisation
+ion beam effects
+fluorescence
+XANES

@@ -1,0 +1,7 @@
+Service providers are constantly searching for means to reduce costs, generate new revenue streams and increase their competitive advantage. The migration to colorless and directionless mesh architecture will enable the service providers to realize new scalability, availability, flexibility and dynamic reconfigurability demands for optical networks. But commodification and standardization of the underlying technologies has made it very difficult to differentiate their service offerings especially in terms of price and performance. Hence, leveraging the intelligence of efficient routing algorithms, service providers can notably reduce the total cost of ownership of the network. This paper presents a rationalized routing algorithm for a colorless and directionless mesh core optical network, which enables a significant CAPEX reduction by decreasing the number of active degrees of a node.
+
+CAPEX
+average node degree
+colorless and directionless architecture
+mesh optical networks
+rationalized routing

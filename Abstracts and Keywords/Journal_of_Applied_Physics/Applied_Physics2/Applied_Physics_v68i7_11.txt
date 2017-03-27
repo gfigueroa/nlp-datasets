@@ -1,0 +1,8 @@
+Based on Davis model for the lateral restoring force on a magnet levitated above a superconductor [J. Appl. Phys. 67, 2631 (1990)], we calculate the restoring force as a function of lateral displacement for a more realistic magnetic field profile.
+
+MAGNETS
+SUPERCONDUCTORS
+LEVITATION
+MAGNETIC FIELDS
+SPATIAL DISTRIBUTION
+ANALYTICAL SOLUTION

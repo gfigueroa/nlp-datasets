@@ -1,0 +1,7 @@
+Electrogenerated chemiluminescence (ECL) from films of the title compounds in an electrolytic solution were studied. Poly(3-hexylthiophene) and poly(2-methoxy-5-dodecyloxy-p-phenylenevinylene) possess ECL predominantly during the anodic and cathodic scan, respectively, in the double potential step electrolysis which alternately produces negatively and positively charged excited species of the polymers. The chronoabsorptometric measurements indicated that the polarity dependence of the ECL is originated from the difference in the kinetics of the electrochemical p- and n-type doping/undoping reactions. © 1997 American Institute of Physics. 
+
+optical polymers
+polymer films
+chemiluminescence
+electrochemistry
+electrolysis

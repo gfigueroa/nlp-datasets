@@ -1,0 +1,13 @@
+Metal deposition into a porous silicon (PS) layer by immersion plating has been studied. Ag and Cu were found to deposit on PS, while Ni was found not to deposit. The dependence of the amount of Cu deposition on Cu2+ concentration, halogen ion concentration, and immersion time was investigated using chelatometric titration. Copper deposition from halide solutions exhibited an unusual behavior; the amount increased with increasing concentration, then decreased, and no copper deposited at high concentration. This is because adsorption of chloride and bromide ions inhibits the copper deposition process. We have also discussed the metal deposition mechanism on the basis of x-ray diffraction, Fourier transform infrared spectroscopy, and x-ray photoelectron spectroscopy measurements. They revealed that metal deposition occurred simultaneously with the oxidation of silicon to SiO2. Copper crystals 3080 nm in diameter deposited on the oxidized PS surface rather than on the unoxidized PS surface. © 1998 American Institute of Physics. 
+
+silver
+copper
+electroplating
+X-ray diffraction
+X-ray photoelectron spectra
+Fourier transform spectra
+infrared spectra
+oxidation
+porous materials
+elemental semiconductors
+silicon

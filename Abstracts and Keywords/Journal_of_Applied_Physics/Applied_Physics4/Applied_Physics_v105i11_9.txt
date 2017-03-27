@@ -1,0 +1,17 @@
+Vanadium dioxide is investigated as potential oxide barrier in spin switches, and in order to incorporate VO2 layers in complex multilayer devices, it is necessary to understand the relation between bulk and surface/interface properties. Highly oriented VO2 thin films were grown on (0001) sapphire single crystal substrates with reactive bias target ion beam deposition. In the analysis of the VO2 films, bulk-sensitive methods [x-ray diffraction (XRD) and transport measurements] and surface sensitive techniques [photoelectron spectroscopy (PES) and scanning tunneling microscopy and spectroscopy] were employed. The samples were subjected to heating cycles with annealing temperatures of up to 425 and 525K. Prior to annealing the VO2 films exhibit the transition from the monoclinic to the tetragonal phase with the concurrent change in conductivity by more than a factor of 103 and their phase purity is confirmed by XRD. Annealing to 425K and thus cycling across the metal-insulator transition (MIT) temperature has no impact on the bulk properties of the VO2 film but the surface undergoes irreversible electronic changes. The observation of the valence band with PES during the annealing illustrates that the surface adopts a partially metallic character, which is retained after cooling. Annealing to a higher temperature (525K) triggers a modification of the bulk, which is evidenced by a considerable reduction in the MIT characteristics, and a degradation in crystallite morphology. The local measurement of the conductivity with scanning tunneling spectroscopy shows the transition of the surface from predominantly semiconducting surface prior to annealing to a surface with an overwhelming contribution from metallic sections afterward. The spatial distribution of metallic regions cannot be linked in a unique manner to the crystallite size or location within the crystallites. The onset of oxygen depletion at the surface is held responsible for this behavior. The onset of bulk modification at higher temperatures is most likely linked to oxygen loss and effusion along the grain boundaries and concurrent onset of sintering. Our study focuses on the comparison of the MIT in the bulk and at the surface of thin VO2 layers and establishes an irreversible modification of the crystallite structure and surface for temperatures exceeding the MIT. The surface modification impacts on the strategies which will be employed to build the metallic contacts to VO2 layers.
+
+annealing
+crystal morphology
+electrical conductivity
+grain boundaries
+ion beam assisted deposition
+metal-insulator transition
+photoelectron spectra
+scanning tunnelling microscopy
+scanning tunnelling spectroscopy
+sintering
+solid-state phase transformations
+thin films
+valence bands
+vanadium compounds
+X-ray diffraction

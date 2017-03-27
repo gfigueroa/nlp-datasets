@@ -1,0 +1,12 @@
+We study SiC films (Si content from 0 to 33 at.
+%) prepared with a pulsed arc discharge method. The structural modifications introduced by annealing up to 1100
+°C, irradiation with 53 MeV 127I10+ ions, and deposition onto heated substrates are characterized by Raman spectroscopy. For all the treatments, the structural modifications decrease when the Si concentration increases. Moreover, for high Si content (33 at.
+%), the energetic iodine ions are found to recover efficiently the structure degraded in preliminary high-temperature annealing. The experiments demonstrate Si-induced stabilization of the three-dimensional SiC network, which is interpreted as deepening of the corresponding potential energy well. It is highly possible that SiC films can possess a superior thermodynamic stability for an optimal Si concentration. © 2000 American Institute of Physics. 
+
+silicon compounds
+thin films
+plasma arc spraying
+annealing
+ion beam effects
+thermal stability
+Raman spectra

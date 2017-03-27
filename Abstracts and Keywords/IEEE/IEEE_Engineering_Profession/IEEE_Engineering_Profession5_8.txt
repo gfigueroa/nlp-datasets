@@ -1,0 +1,7 @@
+The paper presents hardware implementation of the model of commonsense reasoning system based on a new formalism Fuzzy Default Logic (FDL) presented on HSI'09 Conference in Catania. The paper briefly recalls main definitions and algorithms of FDL technique in a form of software oriented procedures. There are presented basic building blocks used for implementation: fuzzy default rules, credible set extraction, hypotheses reduction process and hypotheses assessment stage. Then main elements of the software algorithm of the FDL model are converted to hardware (HDL) models. The entire hardware structure has been implemented in FPGA Xilinx Virtex5 device. The obtained results and examples of experiments are discussed and further research tasks formulated.
+
+Common-sense reasoning
+Granular reasoning
+Non-monotonic Logic
+Programmable Logic Devices
+Uncertainty handling

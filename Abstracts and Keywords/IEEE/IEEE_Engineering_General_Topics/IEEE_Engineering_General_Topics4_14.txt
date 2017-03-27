@@ -1,0 +1,6 @@
+This paper presents an application of a neuro-fuzzy modeling approach in order to characterize essential behavior of biological processes. The gathered information from experiments was employed to develop a fuzzy model for an enzyme-catalyzed esterification process. The accuracy of developed model was validated by comparing the response of the model and actual data from experiments. A model-based optimization was preformed to obtain the best operating conditions by using the developed model for esterification process. The optimization was carried out for global and constrained solutions. The obtained results show the accuracy and feasibility of proposed algorithm for optimization of biological processes.
+
+Biochemical process
+Experimental data
+Fuzzy Modelling
+Model-based optimization

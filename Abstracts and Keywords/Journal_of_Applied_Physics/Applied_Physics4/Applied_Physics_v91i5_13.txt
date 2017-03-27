@@ -1,0 +1,11 @@
+The photo- and cathodoluminescence properties of epitaxial lithium-doped zinc gallate thin-film phosphors grown on (100) MgO single crystal substrates using pulsed laser ablation were investigated. The addition of lithium to both undoped and Mn-doped ZnGa2O4 films significantly enhanced the photo- and low-voltage cathodoluminescent intensity. Cathodoluminescent efficiencies for as-deposited undoped and Mn-doped lithium zinc gallate films as high as 0.21 lm/W and 0.29 lm/W, respectively, were achieved for 1 kV and 2.26 ¼A/cm2. Based on these results, lithium-doped zinc gallate thin-film phosphors appear to be attractive for applications in low-voltage field emission display devices. © 2002 American Institute of Physics.
+
+zinc compounds
+lithium
+manganese
+photoluminescence
+cathodoluminescence
+phosphors
+field emission displays
+ternary semiconductors
+semiconductor thin films

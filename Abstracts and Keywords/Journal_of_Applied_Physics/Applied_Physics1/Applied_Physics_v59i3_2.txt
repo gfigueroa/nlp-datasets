@@ -1,0 +1,9 @@
+The incorporation mechanisms of residual impurities in GaAs layers grown by molecularbeam epitaxy has been investigated by highresolution photoluminescence (PL) spectroscopy at 2 K. A systematic study of nearbandedge emissions of undoped GaAs layers grown at a wide range of growth temperatures (Tg), 470750	°C, demonstrates that PL spectra related with residual impurities are significantly dependent upon Tg. It was found that maximum emission intensity of free exciton is obtained at Tg <550	°C, and the minimum impurity incorporation is established at Tg of 550650	°C.
+
+IMPURITIES
+MOLECULAR BEAM EPITAXY
+GALLIUM ARSENIDES
+PHOTOLUMINESCENCE
+EXCITONS
+VERY HIGH TEMPERATURE
+BAND STRUCTURE

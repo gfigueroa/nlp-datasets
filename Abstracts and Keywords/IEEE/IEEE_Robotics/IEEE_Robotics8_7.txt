@@ -1,0 +1,7 @@
+The information of pixels in plantlets in vitro was acquired using image analysis technique. Several flasks of plantlets, which biomass were known through the contact weighing, were used for internal references, and the models of biomass vs. pixels were fitted. The biomasses of plantlets to be determined were estimated based on the models. The logistic equations were used for the fitting of biomass vs. the day sub-cultured the plantlets. The significance on the parameters of logistic equations of ten samples was described. The dynamic information on the growth of plantlets in vitro was acquired according to the parameters of logistic equations. The results showed that the growth information in ten flasks of plantlets can be described by the parameters of their logistic equations. The average growth rate of plantlets can be determined. It is possible to predict for plantlets dynamic growth information. These results offer a foundation to the research of micro-environmental control, the growth situation evaluation, rational medium choice and plantlets in vitro classification in plant tissue culture.
+
+growth
+image processing
+logistic equation
+pixel
+plantlet

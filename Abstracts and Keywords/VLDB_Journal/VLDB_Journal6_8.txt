@@ -1,0 +1,10 @@
+Client-server object-oriented database management systems differ significantly from traditional centralized systems in terms of their architecture and the applications they target. In this paper, we present the client-server architecture of the EOS storage manager and we describe the concurrency control and recovery mechanisms it employs. EOS offers a semi-optimistic locking scheme based on the multi-granularity two-version two-phase locking protocol. Under this scheme, multiple concurrent readers are allowed to access a data item while it is being updated by a single writer. Recovery is based on write-ahead redo-only logging. Log records are generated at the clients and they are shipped to the server during normal execution and at transaction commit. Transaction rollback is fast because there are no updates that have to be undone, and recovery from system crashes requires only one scan of the log for installing the changes made by transactions that committed before the crash. We also present a preliminary performance evaluation of the implementation of the above mechanisms.
+
+Checkpoint
+Client-server architecture
+Object management
+Concurrency control
+Locking
+Logging
+Recovery
+Transaction management

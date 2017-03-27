@@ -1,0 +1,13 @@
+The overall residual stresses and the stress distribution on chemical vapor deposition diamond coated silicon nitride (Si3N4) are investigated by x-ray diffraction using the classical sin2
+È method and the low incident beam angle diffraction technique, respectively. The deposition time and the substrate surface roughness evidence a clear effect on the film texture and residual stress generation on the diamond coatings. For the roughest substrate, 15 ¼m polished diamond, as the deposition time increases from 2 to 6 h, a remarkable improvement of the (220) texture and compressive stress relaxation occur from 0.75 to 0.14 GPa. A change to less compressive and even to slight tensile stress takes place for the smoothest substrate, colloidal finished silica, giving stress values of 0.40 and 0.21 GPa for 2 and 6 h of deposition time, respectively. The stress profile along the film thickness for the 6 h grown diamond film on the 15 ¼m polished substrate exhibits a linear decrease, in absolute values, from a compressive residual stress of 3.7 GPa, in the upper layer of the film, to almost zero stress at the film/substrate interface. © 2003 American Institute of Physics. 
+
+diamond
+silicon compounds
+internal stresses
+X-ray diffraction
+stress analysis
+surface topography
+surface texture
+interface roughness
+CVD coatings
+adhesion

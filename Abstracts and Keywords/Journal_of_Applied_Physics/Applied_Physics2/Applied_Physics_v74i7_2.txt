@@ -1,0 +1,13 @@
+The microstructural origin of magnetic anisotropy in a magnetron inline sputterdeposited CoPtCr/Cr magnetic thinfilm disk was examined by mapping magnetic properties and microstructure. The film coercivity (Hc), remanencethickness product (Mr´), and coercivity squareness (S) were determined as a function of radial (r) and angular (¸) coordinates using a transfer curve magnetometer. The observed variations in Hc, Mr´, and S across the disk were 85 Oe, 0.15 emu/cm2, and 0.03, respectively. The angular variation in magnetic properties showed a sinusoidal pattern with the maxima corresponding to the regions where the tracks were parallel (¸=270°) to the pallet movement direction. Highresolution scanning transmission electron microscopy showed subtle differences in the Coalloy grain morphology and crystallographic orientation between ¸=270° and ¸=360° locations. The grains were equiaxed in general except for a small fraction of grains elongated in the direction of pallet movement. Lattice images clearly showed that about 45% of the Coalloy grains had inplane c axes and a preferred alignment of the c axes along the texture groove. A greater preference for the c axes to lie along the texture line was observed for the ¸=270° location. A coherency stressbased model is proposed to explain the preferred caxis alignment. While the crystalline anisotropy appears to be the main factor responsible for the magnetic anisotropy, both crystalline and shape anisotropies contribute to the magnetic anisotropy variations.
+
+COBALT ALLOYS
+PLATINUM ALLOYS
+CHROMIUM ALLOYS
+TERNARY ALLOYS
+MICROSTRUCTURE
+MAGNETIC ANISOTROPY
+THIN FILMS
+MAGNETIC DISKS
+SPUTTERED MATERIALS
+TEM
+GRAINS

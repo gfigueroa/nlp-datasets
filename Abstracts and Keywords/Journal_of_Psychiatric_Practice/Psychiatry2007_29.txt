@@ -1,0 +1,8 @@
+Objective. There is growing national consensus that use of institutional measures of control, such as seclusion, restraint, enforced medications, and hand-cuffed transport, within psychiatric hospitals is all too common and is potentially counter-therapeutic. Unfortunately, little is known about how to reduce such measures of last resort. This article reviews the available literature and describes a proposed research agenda involving a behavioral effort, the Engagement Model, for reducing seclusion and restraint procedures and enhancing patient safety in psychiatric settings. Methods. Using Medline and PsychInfo, we reviewed studies that specifically evaluated efforts to reduce seclusion and restraint on psychiatric units. Key search terms included <em>seclusion, restraint, reduc</em>*, <em>psychiatric patient safety, psychiatric safety, psychiatric sanctuary,</em> and <em>quality of care psychiatry.</em> Results. Only very limited data are available on reducing measures of last resort and improving the safety of psychiatric settings, and virtually no controlled data are available concerning the effectiveness of specific behavioral efforts on subsequent reduction of seclusion and restraint events. In light of the paucity of data, we describe efforts to incorporate and evaluate such a model in a large academic psychiatric hospital using a multiple baseline times-series design and review principles for and obstacles to implementing this model. Conclusions. It is hoped this discussion will stimulate research on this understudied topic and provide a framework for improving patient safety in psychiatric settings. 
+
+seclusion
+restraint
+patient safety
+psychiatric settings
+quality of care
+engagement model

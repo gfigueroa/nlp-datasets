@@ -1,0 +1,7 @@
+In this paper, a novel robust audio watermarking algorithm is presented. It takes full advantage of the multi-resolution and the energy compression properties of the discrete wavelet transform (DWT) and discrete cosine transform (DCT) respectively, and embeds a pseudorandom permuted binary image in the original audio signal by vector quantization (VQ). The original audio is first transformed using the properly selected wavelet bases into the DWT domain, then the approximate coefficients are segmented into frames and transformed to the DCT domain, and for each frame, several middle-frequency DCT coefficients are composed as a vector to be substituted. Then the labeled-codeword VQ is used to quantize this vector according to the corresponding watermark bit. The modified coefficient vectors together with the untouched coefficients are IDCT-transformed to get the watermarked approximate coefficients. Finally, the watermarked audio signal is attained by using the detail coefficients and the modified approximate coefficients. Experimental results show that the proposed watermarking algorithm has strong robustness to both most of the attacks in the stirmark benchmark for audio and the cropping attack.
+
+DCT
+DWT
+Labeled Codewords
+Robust Audio Watermarking
+Vector Quantization

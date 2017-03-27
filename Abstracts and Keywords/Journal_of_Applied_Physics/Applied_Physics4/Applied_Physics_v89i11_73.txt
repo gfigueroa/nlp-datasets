@@ -1,0 +1,12 @@
+(Ga, Mn)As films with high nominal Mn concentration (0&lt;x&lt;0.55) are grown by low temperature molecular beam epitaxy (LT-MBE), growth temperature Ts=180
+°C. Reflection high energy electron diffraction patterns indicate epitaxial growth of (Ga, Mn)As for x&lt;0.1, whereas they show spotty patterns for x&gt;0.1, which turn to polycrystalline features when x&gt;0.3. X-ray diffraction shows the formation of MnAs together with the growth of (Ga, Mn)As. The lattice constant of the layers suggests that (Ga, Mn)As with high Mn composition as high as 17% can be grown by LT-MBE. © 2001 American Institute of Physics. 
+
+gallium arsenide
+manganese compounds
+magnetic semiconductors
+ferromagnetic materials
+semiconductor epitaxial layers
+molecular beam epitaxial growth
+semiconductor growth
+reflection high energy electron diffraction
+X-ray diffraction

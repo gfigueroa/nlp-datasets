@@ -1,0 +1,13 @@
+First-principles method is used to investigate the structural, mechanical, and electronic properties of 5d transition metal diborides MB2 (M = Re, W, Os, Ru). Our calculations show hexagonal ReB2 and WB2 have much larger elastic moduli and tensile shear strengths than orthorhombic OsB2 and RuB2. The elastic moduli and ideal strength are both calculated to be in a sequence of ReB2&gt;WB2&gt;OsB2&gt;RuB2. Electronic structures show that strong directional covalent BB and MB bonds exist in the materials, which is the origin of their high modulus, large strength, and high hardness.
+
+bonds (chemical)
+density functional theory
+elastic moduli
+electronic structure
+hardness
+osmium compounds
+rhenium compounds
+ruthenium compounds
+shear strength
+tensile strength
+tungsten compounds

@@ -1,0 +1,14 @@
+The (Au,Ag)/Nb-1.0 wt	%-doped SrTiO3 (NSTO), i.e., Au/NSTO, Ag/NSTO, Ag/Au/NSTO, and Au/Ag/NSTO junctions were fabricated by magnetic controlled sputtering and annealing process. Backward diodelike behaviors were observed in all as-prepared samples, and forward rectifying characteristics were gradually developed in the four junctions after annealed in oxygen at 400	°C, 550	°C, 700	°C, and 850	°C, respectively. Compared with the Ag/NSTO junctions, the Au/NSTO junctions showed higher temperature evolving procedure of forward rectifying behavior. Moreover, ideal Schottky behaviors appeared in the samples annealed at 850	°C, which were attributed to the formation of interface states. X-ray photoelectron spectroscopy and secondary ion mass spectrometry analysis showed that the interface states mainly originated from the migration of metal into NSTO matrix and the changes in chemical composition at the metal/NSTO interfaces. The results of current-voltage measurements reveal that annealing at higher temperature alters the interface barrier and thereby ameliorates the stability of leakage current remarkably.
+
+annealing
+chemical analysis
+gold
+interface states
+leakage currents
+niobium
+Schottky barriers
+secondary ion mass spectroscopy
+silver
+sputter deposition
+strontium compounds
+X-ray photoelectron spectra

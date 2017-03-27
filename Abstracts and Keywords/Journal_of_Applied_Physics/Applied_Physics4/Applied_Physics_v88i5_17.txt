@@ -1,0 +1,12 @@
+Measurements of the spectral and intensity dependences of the optically-induced reversal of current collapse in a GaN metal-semiconductor field-effect transistor (MESFET) have been compared to calculated results. The model assumes a net transfer of charge from the conducting channel to trapping states in the high-resistivity region of the device. The reversal, a light-induced increase in the trap-limited drain current, results from the photoionization of trapped carriers and their return to the channel under the influence of the built-in electric field associated with the trapped charge distribution. For a MESFET in which two distinct trapping centers have been spectrally resolved, the experimentally measured dependence upon light intensity was fitted using this model. The two traps were found to have very different photoionization cross-sections but comparable concentrations (4×1011
+cm2 and 6×1011
+cm2), suggesting that both traps contribute comparably to the observed current collapse. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+Schottky gate field effect transistors
+photoionisation
+electron traps
+photoconductivity
+interface states

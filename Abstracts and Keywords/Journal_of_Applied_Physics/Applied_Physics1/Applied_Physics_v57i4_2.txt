@@ -1,0 +1,11 @@
+It is shown that electric field at a strongly inverted or accumulated surface is uniquely related to surface potential, and is independent of other variables such as substrate doping and (in the metaloxidesemiconductor context) insulator thickness or permittivity. Equivalently, junction potential is a sufficient determinant of the analogous electricfield value in a grossly asymmetric junction, and this value is unaffected by forward bias and modest reverse bias. The field value in question is exponentially related to junction (or surface) potential, and this fact combined with the fieldcontinuity requirement and analytic treatment of highside field explains the saturated highside potential drop of kT/q.
+
+SATURATION
+MOS JUNCTIONS
+THICKNESS
+ELECTRIC FIELDS
+SURFACE POTENTIAL
+ELECTRIC POTENTIAL
+PN JUNCTIONS
+ELECTRIC FIELD EFFECTS
+PERMITTIVITY

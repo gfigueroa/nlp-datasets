@@ -1,0 +1,7 @@
+Experimental results have shown the fact that the deep-level centers in semi-insulating GaAs decrease with the improvement in stoichiometry. The electrical resistivity doubles when the concentration of EL2 centers decreases to a half. The microgravity-growth experiments also show that improved crystal stoichiometry results in a decrease of deep-level centers.© 1998 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+stoichiometry
+electrical resistivity
+deep levels

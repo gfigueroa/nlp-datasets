@@ -1,0 +1,18 @@
+Thin film electroluminescent (TFEL) structures composed of ZnS:Mn (phosphor) and Y2O3 (insulator) films were annealed using pulsed (<20 ns) KrF laser irradiations under an environment of 150 psi (<10.34 bars) of argon. The crystallinity of both layers was studied via x-ray diffraction analysis. Their degree of lattice misfit and the integrated diffraction line intensities were examined to assess the thermal effects of pulsed laser annealing. In agreement with a thermal model of the lasermatter interaction and previous results, we suggest that the pulsed laser annealing technique improves the luminescent efficiencies of thin film electroluminescent phosphors by generating an in-depth solid-state phase transition. We report that the laser processed TFEL structure exhibits better display performance than equivalent devices thermally annealed at a temperature of 450
+°C as demonstrated by sharper turn-on response and also an increase in brightness by a factor greater than four times. We attribute these performance improvements to a smaller lattice misfit value, which has been previously correlated to interface states density. © 2000 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+manganese
+phosphors
+yttrium compounds
+insulating thin films
+electroluminescent devices
+thin film devices
+laser beam annealing
+crystal structure
+interface structure
+solid-state phase transformations
+electroluminescent displays
+brightness
+interface states

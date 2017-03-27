@@ -1,0 +1,7 @@
+We present a x-ray magnetic circular dichroism (XMCD) study performed at the Fe K edge in R6Fe23 compounds exhibiting magnetic compensation (R=Ho and Y). The Fe K-edge XMCD signal has been identified as due to both Fe itself and rare-earth contributions. Following a simple two-sublattices model for the analysis of the dichroic signal the contribution of the rare-earth sublattice to total Fe K-edge XMCD signal has been extracted and proven to be directly correlated to the R magnetic moment. © 2000 American Institute of Physics. 
+
+holmium alloys
+yttrium alloys
+iron alloys
+magnetic circular dichroism
+EXAFS

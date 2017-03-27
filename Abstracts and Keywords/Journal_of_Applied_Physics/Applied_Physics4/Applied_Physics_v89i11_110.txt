@@ -1,0 +1,15 @@
+Magnetic and transport properties of Cr-based IIIV diluted magnetic semiconductor Ga1xCrxAs Cr concentrations up to x=0.10 have been investigated. For all the films, no long-range magnetic order was observed down to 2 K. A sign of paramagnetic Curie temperature is positive, indicating that the dominant magnetic interaction between Cr atoms is ferromagnetic. The effective number of Bohr magneton is estimated to be 5.1±0.4, which is close to that of Cr2+ ion. The magnetization curve shows superparamagnetic behavior at low temperatures. The radius of the local spin order in x=0.034 is estimated to be 1.52.0 nm at T=5
+K and it decreases with increasing temperature. From Hall effect measurements at room temperature, the magnitude of mobility is estimated to be less than 0.5 cm2/V
+s. This low mobility strongly suggests that the hopping conductivity is dominant in Ga1xCrxAs films. © 2001 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+chromium compounds
+semimagnetic semiconductors
+Curie temperature
+magnetisation
+Hall mobility
+semiconductor epitaxial layers
+magnetic epitaxial layers
+magnetic circular dichroism
+superparamagnetism

@@ -1,0 +1,5 @@
+From the supply chain, now RFID technology is gradually applied to the core of manufacturing process. By adopting the RFID technology in workshop layer, the exact real-time information that is obtained from RFID, can be seamlessly integrated into the manufacturing execution system. Therefore it can create additional value, and increase productivity for the enterprise. The technical advantages of applying RFID technology to the manufacturing execution system are analyzed detailedly by this paper. Taking the textile industry as object, the design of manufacturing execution system based on RFID is presented by this paper. And it provide perfection system solution for enterprise realizing real-time informatization.
+
+Manufacturing Execution System
+Radio Frequency Identification
+Textile Industry

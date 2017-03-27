@@ -1,0 +1,7 @@
+Thermal management of LED packages consists of external cooling mechanisms, heat dissipaters, and thermal interfaces. While keeping cooling condition constant, junction temperature of LEDs with higher thermal resistance increases more rapidly, hence the luminous efficiency decreases more obviously. This paper includes the discussion about the calculation methods of the lightningpsilas heat transfer. Also the usage of the calculation method of heat resistances in equivalent electrical circuits, by which the difference between the temperature of the attention point inside the lighting and environment temperature can be directly obtained. Such a method is advanced on estimating the feasibility of a heat transferpsilas structure. The calculation process has been demonstrated by an example of cooling of LEDs lighting in this paper. In particular, the operation package heat transfer enhancement is required by most package manufacturers with a decrease of 20%-30% of the thermal resistance over conventional package geometries. More specifically, the present invention and study relate to a LEDs package with heat dissipation enhancements.
+
+Heat Transfer
+LED
+Model
+Package
+Thermal

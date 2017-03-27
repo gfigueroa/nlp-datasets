@@ -1,0 +1,15 @@
+The relationship between facet stress and reliability of AlGaInAs edge-emitting lasers is unclear despite it being an important issue. We prepared two 1.3¼m AlGaInAs FabryPérot buried-heterostructure (BH) lasers that were identical except that they had tensile and compressive stress at the facet. The magnitude of the facet stress was controlled to be approximately 200 MPa in both lasers. We performed three reliability tests. In forward-biased electrostatic discharge tests, which can evaluate the resistance to optical damage, the cumulative degradation ratio of the compressive stressed laser was 33% lower than that of the tensile stressed laser. This result indicates a reduction in the optical absorption due to enlargement of the energy band gap at the facet. In the long-term aging of the light output power of 8 mW at 85	°C over 5 000 h, no dependence of the facet stress on the lifetime was observed. Since a major limitation of InP-based BH lasers is the BH interface, the aging results are reasonable. In the accelerated aging of a large current of 200 mA at 85	°C over 800 h, degradation (defined as an increase in the threshold current of over 10%) was observed only in the tensile stressed laser. This degradation differed completely from that caused by optical absorption; dislocation loops covered the entire active layer at the facet. To the best of our knowledge, this is the first time such degradation has been reported. We found the degradation depends on the facet stress and that compressive stress can suppress the degradation.
+
+ageing
+aluminium compounds
+electrostatic discharge
+gallium arsenide
+gallium compounds
+III-V semiconductors
+indium compounds
+laser beams
+light absorption
+optical constants
+quantum well lasers
+reliability
+surface emitting lasers

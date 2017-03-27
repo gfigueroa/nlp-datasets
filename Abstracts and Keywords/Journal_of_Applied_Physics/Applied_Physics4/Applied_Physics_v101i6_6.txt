@@ -1,0 +1,8 @@
+Based on the phenomenological Landau theory of improper ferroelectric phase transition, the magnetoelectric properties of TbMnO3 are investigated. We show that the appearance of the transverse magnetic moment of Mn as one of the primary order parameters is the key to the appearance of polarization, and its rotating is responsible for the magnetic-field-induced polarization flop. Our theoretical results are in good agreement with the experimental data.
+
+terbium compounds
+ferroelectric materials
+magnetoelectric effects
+ferroelectric transitions
+magnetic moments
+dielectric polarisation

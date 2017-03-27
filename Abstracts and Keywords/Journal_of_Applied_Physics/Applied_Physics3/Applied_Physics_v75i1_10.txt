@@ -1,0 +1,10 @@
+Small objects positioned in a highfrequency ultrasonic beam can be imaged by Bragg diffraction of light. The first order contains one image. Using a light beam with a considerable convergence angle and reducing the ultrasonic frequency, one observes that the second diffraction order contains two adjoining images, the third order three, etc., and that the positive orders are the mirror images of the negative ones. These experimental observations are explained by the present theory and general expressions for the angular distribution of the light in the different diffraction orders are presented in the form of a series expansion. Evidence for the multiple images in the higher diffraction orders is found by analyzing the first term in this expansion. The centertocenter separation of the images within the higher orders is found to be proportional to the ultrasonic frequency and the interaction width.
+
+ACOUSTOOPTICAL EFFECTS
+LIGHT DIFFRACTION
+BRAGG REFLECTION
+ULTRASONIC WAVES
+IMAGE FORMING
+ANGULAR DISTRIBUTION
+SERIES EXPANSION
+SOUND WAVES

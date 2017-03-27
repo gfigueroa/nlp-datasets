@@ -1,0 +1,11 @@
+One dimensional (1D) ZnO nanostructures are of interest for applications in dye-sensitized solar cells (DSSCs) since they exhibit significantly improved electron transport compared to that in porous films. However, 1D nanostructures also have a significantly lower surface area than the porous films. Thus, the achieved solar cell efficiencies are typically much lower in spite of the improved charge transport. In this work, we investigated DSSCs based on ZnO tetrapods to achieve an increased surface area compared to that of 1D nanostructures. The cell performance as a function of the tetrapod film thickness and the dye used was studied. To further increase the surface area, mixed morphologies (tetrapods with nanoparticles) were also investigated. Under optimal conditions, an AM 1.5 power conversion efficiency of < 1.2% was achieved.
+
+dyes
+II-VI semiconductors
+nanostructured materials
+nanotechnology
+porous materials
+porous semiconductors
+semiconductor thin films
+solar cells
+zinc compounds

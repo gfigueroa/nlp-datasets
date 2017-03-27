@@ -1,0 +1,18 @@
+In order to determine an energetic distribution of localized states, a new method is proposed. The method is based on the analysis of the phase shift between a sinusoidally modulated excitation light and its inducing photocurrent. The theoretical relation between the phase shift and its relevant localized states is derived assuming a traplimited band conduction of unipolar photocarriers. The energetic profile of the localized states can be calculated from a modulation frequency dependence of the phase shift. The method has been applied to CdS crystal and the validity has been confirmed. It is suggested that the method is useful for amorphous semiconductors in which the localized states are distributed quasicontinuously in the band gap.
+
+PHOTOELECTRIC EFFECT
+PHASE SHIFT
+ENERGY LEVELS
+ENERGY GAP
+MODULATION
+ELECTRIC CURRENTS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+EXCITATION
+TRAPS
+CHARGE CARRIERS
+SPATIAL DISTRIBUTION
+CADMIUM SULFIDES
+CRYSTALS
+AMORPHOUS STATE
+SEMICONDUCTOR MATERIALS

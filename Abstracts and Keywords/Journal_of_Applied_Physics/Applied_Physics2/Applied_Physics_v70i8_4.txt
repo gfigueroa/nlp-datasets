@@ -1,0 +1,11 @@
+In this paper, a simple model is proposed for the impact excitation of luminescence centers in insulating layers under a high electric field (ZnStype electroluminescence). We first examine the available descriptions of highfield electronic transport in widegap semiconductors and the luckydrift model is chosen for our purpose. As for the luminescence center, the impact excitation cross section in the Born approximation is used. Next, the impact probability of an electron and the impact excitation rate are calculated analytically. The results are compared with existing experimental data: Special attention is paid to the wellknown ZnS:Mn case, for which good agreement is obtained. The general picture is that the quantum yield is weak and that the electrons responsible for the impact phenomenon are drifting in the field, not ballistic. Conclusions are drawn for blueemitting centers and new phosphor materials. It is further suggested that impact excitation can, as well as impact ionization, serve as a test of highfield transport theories.
+
+ELECTROLUMINESCENCE
+TRANSPORT PROCESSES
+IMPACT PHENOMENA
+CROSS SECTIONS
+BORN APPROXIMATION
+ANALYTICAL SOLUTION
+ELECTRON DRIFT
+PHOSPHORS
+ZINC SULFIDES

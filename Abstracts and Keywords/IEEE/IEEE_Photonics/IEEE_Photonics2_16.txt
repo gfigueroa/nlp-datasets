@@ -1,0 +1,9 @@
+In this paper a new approach is presented for automatic writer identification. The approach is applied to the identification of the writer of ancient Greek inscriptions that in turn may offer precise and objective dating of the inscriptions content. Such a dating is crucial for the correct history writing. The methodology is based on the idea of creating an ideal representative of each alphabet symbol in each inscription, via proper fitting of all realizations of the specific symbol in this inscription. Next, geometric features for the ideal representative for each alphabet symbol are defined and extracted and corresponding statistical processing follows based on the computation of the mean value and variance of these characteristics. The decision for writer identification is made via pair-wise, feature based comparisons of the ideal representatives of the inscriptions. Each comparison is implemented by means of multiple statistical tests and an introduced maximum likelihood approach. The system was applied to 33 Athenian inscriptions of classical era which were correctly attributed to 8 different hands, namely with 100% success rate.
+
+ancient Greek inscription classification
+archaeology
+feature modeling
+handwriting analysis
+handwriting classification
+pattern recognition
+writer identification

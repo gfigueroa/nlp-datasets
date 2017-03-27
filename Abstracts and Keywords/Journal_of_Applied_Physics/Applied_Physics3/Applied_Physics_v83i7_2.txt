@@ -1,0 +1,16 @@
+As an effort to improve buried Si3N4Si interfaces in silicon-on-insulator (SOI) structures, fluorine was implanted either before or after the synthesis of buried silicon nitride layers by high dose nitrogen ion implantation. In these synthesized SOI structures, the thickness of Si overlayer and the buried silicon nitride layer was found to be 2400±25 and 1725±25
+Å, respectively. Auger electron spectroscopy depth profile analysis illustrates that the fluorine ion implantation in the SOI structures modifies the distribution of nitrogen that results in better stoichiometry of the buried silicon nitride layers and abrupt Si3N4Si interfaces. Currentvoltage and high frequency capacitancevoltage characteristics were measured, and electrical breakdown measurements were performed on metal-nitride-silicon (MNS) structures, fabricated after removing the Si overlayer in the SOI structures. In the fluorine-implanted SOI specimens, the buried Si3N4 layers show a higher breakdown field strength of 4.45.2 MV/cm as compared to 3.54.0 MV/cm in the nonfluorine-implanted one. The capacitancevoltage analysis of the MNS capacitors reveals that the buried Si3N4Si substrate interface exhibits a better quality with reduced fixed insulator charge and interface state densities after the fluorine ion implantation. Midgap interface state density at the buried Si3N4Si substrate interface was as low as 1.48×1011
+cm2
+eV1 after the fluorine implantation, which is comparable to that of silicon nitride films deposited on silicon by the conventional low pressure chemical vapor deposition technique. The role of fluorine in improving the basic electrical properties of these SOI structures has been discussed. © 1998 American Institute of Physics. 
+
+silicon compounds
+silicon
+fluorine
+silicon-on-insulator
+semiconductor-insulator boundaries
+ion implantation
+buried layers
+Auger effect
+impurity distribution
+electric breakdown
+MIS structures

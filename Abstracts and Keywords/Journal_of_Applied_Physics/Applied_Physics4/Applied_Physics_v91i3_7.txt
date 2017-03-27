@@ -1,0 +1,4 @@
+The physical bases of the most commonly used methods for the one-dimensional calculation of direct-tunneling current in metaloxidesemiconductor (MOS) structures (i.e., Bardeens approach, the resonant transfer matrix method, and transparency-based approximations) are discussed. Each of them is presented in detail, underlining in a simple way the basic principles. In particular, an original derivation for Bardeens approach is proposed. A comparison of the different methods is then carried out for the simple case of two square quantum wells, where analytical solutions can be given, and for actual MOS structures, taking into account quantization effects. It is shown that all these methods, despite the very different formalisms, are based on similar physical approaches and provide very close results. © 2002 American Institute of Physics. 
+
+MIS structures
+tunnelling

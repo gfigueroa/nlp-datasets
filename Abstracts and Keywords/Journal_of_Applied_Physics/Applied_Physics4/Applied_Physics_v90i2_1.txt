@@ -1,0 +1,12 @@
+A process to form a periodically poled polymer film by photoisomerization is described. A poled film of polymethylmetaclyrate containing 5 wt
+% of 4-(4-nitrophenylazo)aniline (Disperse Orange 3) was exposed to an Ar+ laser beam using a photomask of a 100 ¼m period grating. Disorientation of the chromophore molecule resulted in decrease of d33 in the photoisomerized domain. Quasiphase-matched second-harmonic generation is demonstrated experimentally using a processed film. Phase-matching was confirmed by tuning the fundamental wavelength around 1200 nm. The effective propagation length due to a tightly focused fundamental wave and the influence of the absorption loss are discussed. The depoling process by photoisomerization is compared with photobleaching, optical poling, and electron beam treatment. © 2001 American Institute of Physics. 
+
+polymer films
+optical saturable absorption
+birefringence
+dielectric polarisation
+optical harmonic generation
+optical phase matching
+dyes
+isomerisation
+optical waveguides

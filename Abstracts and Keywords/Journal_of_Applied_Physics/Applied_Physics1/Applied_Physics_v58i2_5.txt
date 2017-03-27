@@ -1,0 +1,10 @@
+The formation of LiNb3O8 during the preparation of optical waveguides in LiNbO3 has been reported recently. The limited solid solubility of LiNb3O8 in commercially grown crystals of LiNbO3 is illustrated by reference to the appropriate phase diagram. It is suggested that the approach of thermodynamic equilibrium accounts for the formation of the observed LiNb3O8 phase rather than a process involving evaporation of Li.
+
+LITHIUM NIOBATES
+WAVEGUIDES
+FABRICATION
+PHASE TRANSFORMATIONS
+DIAGRAMS
+SOLUBILITY
+PRECIPITATION
+METASTABLE PHASES

@@ -1,0 +1,6 @@
+Light trails, a fairly recent optical networking architecture for LAN and MAN, and possibly WAN applications, can support both optical unicast and multicast. In this paper we consider routing both types of traffic in a survivable light trail network with multiple wavelengths. The algorithm supports multi-hop routing where traffic may use up to two light trails to reach its destination. An ILP is developed to help plan traffic placement in such a network. Our results show that considering the multicast nature of traffic may be necessary when planning optical routing and protection.
+
+Light trails
+point to multi-point traffic
+survivable networking
+traffic grooming

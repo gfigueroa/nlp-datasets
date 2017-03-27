@@ -1,0 +1,16 @@
+The perovskitetype ceramic LaCr1xCuxO3 was prepared by the solidstate reaction or the coprecipitation method in the range of 0dxd0.5. Xray diffraction, and electrical and some optical measurements were performed to examine the crystal structure and other physical properties. In this range, all samples show ptype semiconducting properties, and the transport mechanism is attributed to a hopping of a small polaron. The conductivity increases and the activation energy decreases as the concentration of Cu increases. At low temperatures, electrical properties show a variable range hopping caused by the Anderson localization mechanism. According to the activation energy dependence of the Cu concentration, we suggest that the virtual insulatormetal transition occurs at the critical concentration xc=0.77.
+
+PEROVSKITES
+LANTHANUM OXIDES
+COPPER OXIDES
+CHROMIUM OXIDES
+FABRICATION
+SYNTHESIS
+CERAMICS
+XRAY DIFFRACTION
+CHARGEDPARTICLE TRANSPORT
+ELECTRICAL PROPERTIES
+ELECTRIC CONDUCTIVITY
+ELECTRONIC STRUCTURE
+OPTICAL PROPERTIES
+EXPERIMENTAL DATA

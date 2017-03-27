@@ -1,0 +1,6 @@
+Graduate business schools teach subjects that centre around students developing processing skills. Processing skills are combinations of analytical, creative, and practical abilities and are instrumental in achieving success. Collaborative learning facilitates learning skills that would generally fall in the realms of processing skills. However, collaborative learning presents issues in creating collaborative projects, administering, enabling and encouraging students to participate, monitoring and assessing the process and the outcomes. This paper discusses various mechanisms available within computer mediated modern learning management systems (LMSs) and examines their use in facilitating collaborative learning in classrooms. It presents anecdotal results of an experiment sans scientific methodologies carried out at a graduate business school in India over a span of two years.
+
+Collaborative learning
+computer mediated learning
+issues in collaborative learning
+role of learning management systems

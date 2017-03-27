@@ -1,0 +1,8 @@
+A comprehensive picture of void dynamics in connection with the critical morphological evolution has been developed in order to understand the conditions under which premature failure of metallic thin interconnects occurs. Our mathematical model on the mass flow and accumulation on void surfaces, under the action of applied electrostatic and elastostatic force fields, and capillary effects, follows an irreversible but discrete thermodynamic formulation of interphases and surfaces. This formalism also takes into account in a natural way the mass transfer process (the void growth), between bulk phase and the void region in multi-component systems, in terms of the normalized local values of Gibbs free energy of transformation with respect to the specific surface Gibbs free energy, in addition to the contribution due to local curvature of the advancing reaction front, rather rigorously. © 2001 American Institute of Physics. 
+
+integrated circuit interconnections
+electromigration
+voids (solid)
+mass transfer
+free energy
+heat of transformation

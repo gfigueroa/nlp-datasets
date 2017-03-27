@@ -1,0 +1,12 @@
+e beam preionization of the initial gas column of the hollow gaspuff z pinch at the University of California, Irvine is shown to decrease the amplitude of RayleighTaylor instabilities which disrupt the imploding plasma shell of low initial density (&lt;1×1017 cm3) helium pinches. A 5ns pulsed nitrogen laser MachZehnder interferometer compares the plasma density profile at various times during the implosion for preionized and unpreionized pinches. Also, a Bdot current probe compares the plasma induction fluctuations of the pinched state. Numerical calculations of the effects of the RayleighTaylor growth for our geometry are discussed.
+
+LINEAR Z PINCH DEVICES
+IONIZATION
+STABILITY
+AMPLITUDES
+RAYLEIGHTAYLOR INSTABILITY
+NITROGEN
+GAS LASERS
+MACHZEHNDER INTERFEROMETER
+HELIUM
+IMPLOSIONS

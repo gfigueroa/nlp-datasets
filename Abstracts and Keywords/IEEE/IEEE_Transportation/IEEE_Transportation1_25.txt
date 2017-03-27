@@ -1,0 +1,6 @@
+A control scheme of ANN-based PID controller is developed here to reach high precision tracking control for an electro-hydraulic servo system. The PID controller is used as a feedback controller to guarantee the system stability. The cerebellar model articulation controller (CMAC) neural network is used as a feed-forward compensator to identify the inverse system dynamics model. The CMAC and the PID controller are connected in parallel. The outputs of this paralleled controller are summed up as the total control action. A nonlinear tracking differentiator (NTD) is presented to yield high quality differential signals for the PID controller. The main task of this control algorithm is to make the error between the total control action and the output of the CMAC minimize by the CMAC learning algorithm. Thus the control action is formed by the CMAC. Numerical simulation results show comparing with conventional PID control strategy this proposed control scheme has an excellent system performance including high precision trajectory tracking ability and rejection of disturbance.
+
+CMAC
+Feedforward compensator
+Neural network
+PID controller

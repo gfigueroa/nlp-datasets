@@ -1,0 +1,14 @@
+A rigorous derivation is given to generalize the allowed, Hall effect, sample shapes from the restrictive, rectangular parallelepiped configurations to a much more general class of geometries characterized by mirror symmetry for materials whose mobile carriers have surfaces of constant energy in space that are well described by ellipsoids. However, this mirror symmetry condition is more restrictive than the almost arbitrary sample shapes proposed with the van der Pauw technique for thin films. Experimental data taken on ntype CdS at liquidnitrogen temperatures in magnetic field strengths of 8 and 145 kG show that errors ranging from 1 to 600% can result from van der Pauwtype geometries depending on how much the sample shape and/or contact arrangement differs from the mirror symmetry. An empirically derived averaging technique is described that reduces the observed errors to less than 13% even with van der Pauwtype shapes that do not meet the mirror symmetry conditions.
+
+HALL EFFECT
+MATHEMATICAL MODELS
+CONFIGURATION
+THEORETICAL DATA
+CHARGE CARRIERS
+SURFACES
+FILMS
+NTYPE CONDUCTORS
+CADMIUM SULFIDES
+ERRORS
+LOW TEMPERATURE
+MAGNETIC FIELDS

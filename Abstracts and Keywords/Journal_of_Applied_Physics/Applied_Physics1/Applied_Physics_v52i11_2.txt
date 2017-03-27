@@ -1,0 +1,20 @@
+The deposition mechanism for chemical vapor deposition glassy SiO2 films using SiH4, O2, and N2 mixtures has been studied. With an increasing PO2, the deposition rate increases in the lower PO2 region, while it decreases in the higher PO2 region. The results were analyzed on the basis of the LangmuirHinshelwood surface reaction mechanism. A rate equation was derived. It was found that two molecules of adsorbed SiH4 and one atom of dissociatively adsorbed O2 react on the surface. In the increasing region, the rate constant for surface reaction and adsorption coefficients for SiH4 and O2 were obtained by optimizing the parameters in the rate equation. The activation energy of the surface reaction and the heat of adsorption for SiH4 and O2 were obtained as 10±2, 7±1, and 9.5±2 kcal/mol, respectively. In the decreasing region, adsorption coefficients changed away from those in the increasing region, resulting in an abrupt decrease in deposition rate with PO2.
+
+FILMS
+SILICON OXIDES
+KINETICS
+PARTIAL PRESSURE
+CHEMICAL VAPOR DEPOSITION
+GLASS
+SILANES
+OXYGEN
+NITROGEN
+MIXTURES
+SURFACES
+CHEMICAL REACTIONS
+DATA
+EQUATIONS
+MATHEMATICAL MODELS
+ABSORPTIVITY
+ACTIVATION ENERGY
+ADSORPTION HEAT

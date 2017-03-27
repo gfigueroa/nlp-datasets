@@ -1,0 +1,16 @@
+Aluminum contacts on silicon have been realized for very large scale integration applications by interposing a titanium nitride diffusion barrier. The TiN films have been prepared by implanting nitrogen ions on silicon wafers coated with titanium layers of different thicknesses (60, 80, and 100 nm); by a subsequent annealing in vacuum, films of TiSi2, from 0 up to 75 nm thick, grow at the nitride/silicon interface. The Al/TiN/Si and Al/TiN/TiSi2/Si structures have been annealed at 600	°C for 30 and 10 min, which in some cases results in barrier degradation, due to Al/Si interdiffusion. Crosssectioned specimens of these contacts have been studied by analytical transmission electron microscopy (AEM) employing a Philips EM 400T microscope, equipped with a field emission gun. It has been found that, contrary to previous suggestions, the TiN film does not dissolve during the failure process, but retains its morphology and a sharp interface with the neighboring layers. Unlike scanning electron microscopy experiments, where the Al film must be removed after the barrier degradation to investigate the pits formed by the massive migration of Si into Al, AEM on cross sections allowed us to make an accurate structural and compositional characterization of the material filling these pits. In addition, when the annealing treatment does not result in the barrier failure, the migration of Al, Ti, and Si throughout the structure can be easily detected and analyzed.
+
+DIFFUSION
+VLSI
+METALLIZATION
+ALUMINIUM
+TITANIUM NITRIDES
+SILICON
+TITANIUM
+TITANIUM NITRIDES
+MORPHOLOGY
+THICKNESS
+METALSEMICONDUCTOR CONTACTS
+DIFFUSION BARRIERS
+ATOM TRANSPORT
+THIN FILMS

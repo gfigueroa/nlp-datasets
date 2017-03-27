@@ -1,0 +1,10 @@
+The optical constants of Ce films were obtained in the 61200eV range from transmittance measurements obtained at room temperature. Thin films of Ce were deposited by evaporation in ultrahigh vacuum conditions and their transmittance was measured in situ. Ce films were deposited onto grid-supported, thin C films. Transmittance measurements of various film thicknesses were used to obtain the extinction coefficient k of Ce films at each individual photon energy investigated. The refractive index n of Ce was calculated with the KramersKrönig analysis using the current k data, which were extended toward smaller and larger energies with available data from literature and extrapolations. Ce has a low-absorption band right below O2,3 edge, with lowest absorption at 16.1eV. This makes Ce a promising material for the development of new filters and multilayer coatings below Ce O2,3 edge, in which few developments have been performed due to the lack of low-absorption materials. A good consistency of the data was evaluated through f and inertial sum rules.
+
+cerium
+coatings
+evaporation
+filters
+Kramers-Kronig relations
+metallic thin films
+refractive index
+ultraviolet spectra

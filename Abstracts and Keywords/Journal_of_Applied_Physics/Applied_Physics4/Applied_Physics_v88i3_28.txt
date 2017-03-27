@@ -1,0 +1,22 @@
+The oxidation of Si catalyzed by 170-nm-thick Cu3Si at elevated temperatures has been investigated by transmission electron microscopy, glancing angle x-ray diffraction, and Auger electron spectroscopy. For wet oxidation at 140180
+°C, the thickness of the oxide was found to increase parabolically with time with an activation energy of 0.4±0.2
+eV. The activation energy is close to that of diffusivity of Cu in Si. At 180200
+°C, the growth rate became slower with increasing temperature. The growth of oxide tended to be discontinuous at the surface as the oxidation temperature was increased to a temperature at or higher than 300
+°C. The anomalously fast growth of oxide at low temperatures is attributed to the presence of filamentary structures of Cu clusters in the oxide to expedite the diffusion of the oxidants through oxide. At 200250
+°C, more Cu atoms diffuse to the Cu3Si/Si interface and less Cu atoms stay in the oxide, which slows down the oxide growth. The lack of filamentary structures of Cu as diffusion paths retards the growth of SiO2. At 300
+°C or higher temperatures, the lack of filamentary structures of Cu clusters stopped the growth of continuous oxide layer altogether. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+oxidation
+reaction kinetics
+surface chemistry
+catalysis
+transmission electron microscopy
+copper alloys
+silicon alloys
+X-ray diffraction
+Auger electron spectra
+reaction rate constants
+chemical interdiffusion
+silicon compounds

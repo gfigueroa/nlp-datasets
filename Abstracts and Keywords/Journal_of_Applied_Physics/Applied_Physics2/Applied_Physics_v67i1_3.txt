@@ -1,0 +1,10 @@
+The characteristics of the surface polariton existing on the surface of a free electron metal in the proximity of a higher permittivity prism dielectric are investigated including the effects of the finite length of the prism dielectric and the slow spatial variation of the amplitude of the surface polariton. The radiative decay characteristics of the surface polariton and the characteristics of the antiresonance in the angular response of the reflectivity of light incident on the metal surface via the air gap from the prism dielectric are treated, and the effect of a small loss in the metal on these characteristics is also presented.
+
+METALS
+ELECTRON GAS
+DIELECTRIC MATERIALS
+SURFACE POLARITONS
+RADIATIVE DECAY
+VISIBLE RADIATION
+REFLECTIVITY
+EXCITATION

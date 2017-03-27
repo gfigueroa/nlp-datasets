@@ -1,0 +1,10 @@
+The response time and spin relaxation time of thin unstrained and strained III/V-semiconductor photocathodes installed in sources of polarized electrons have been investigated. Cathodes of various active layer thicknesses have been studied. An upper limit for the response time of a 150 nm thick strained layer photocathode has been found to be 2.5 ps. As a consequence, the average depolarization during transport in the conduction band to the surface is estimated to be lower than 3% and does not contribute substantially to the upper limit of about 80% for the spin polarization of the emitted electrons. The results indicate a high surface recombination velocity of S&gt;1.2×107	cm/s at the surface band bending region. © 2002 American Institute of Physics. 
+
+gallium arsenide
+photocathodes
+spin polarised electron emission
+electron sources
+surface recombination
+III-V semiconductors
+semiconductor epitaxial layers
+photoemission

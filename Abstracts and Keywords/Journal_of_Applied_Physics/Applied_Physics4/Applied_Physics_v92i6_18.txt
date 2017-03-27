@@ -1,0 +1,12 @@
+In the present study, x-ray diffraction, Raman spectroscopy, spectroscopic ellipsometry, photoluminescence, and x-ray photoelectron spectroscopy techniques were used to study the effect of 120 MeV 107Ag9+ ion irradiation on nanocrystalline Cu2O thin films grown by the activated reactive evaporation technique. The influence of dense electronic excitations during ion irradiation on the structural and optical properties of the Cu2O thin films was studied. Experimental results demonstrate that the phase and the size of nanocrystallites in the Cu2O thin films as well as associated surface states can be tailored by controlling ion fluence. The Cu2O higher symmetry cubic phase is observed to be quite stable under a higher temperature and irradiation-induced thermal spikes, which accompanies ion irradiation. © 2002 American Institute of Physics. 
+
+copper compounds
+vacuum deposited coatings
+surface states
+nanostructured materials
+X-ray diffraction
+Raman spectra
+ellipsometry
+photoluminescence
+X-ray photoelectron spectra
+ion beam effects

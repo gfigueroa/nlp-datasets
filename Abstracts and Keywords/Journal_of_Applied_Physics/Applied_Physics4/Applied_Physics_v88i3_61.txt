@@ -1,0 +1,8 @@
+We demonstrate the enhancement of diamond nucleation through the use of the equilibrium forces at the solid-liquid-gas interface on a substrate wetted with droplets of an oil of low vapor pressure. Such a process is shown to produce well-faceted grains with densities of roughly 107 nuclei cm2 (boundary), 105 nuclei cm2 (oil-coated area), and 104 nuclei cm2 (uncoated area) without the need for scratching or seeding the substrate. Diamond deposition was undertaken on silicon using ethanol and hydrogen in the feed of a hot-filament chemical vapor deposition reactor. The oil-covered regions, in addition to showing higher nucleation densities, have the merit that the intergrain spaces are covered with diamond structures, while the parts uncovered with oil exhibit intergrain spaces covered with diamond-like carbon. © 2000 American Institute of Physics. 
+
+diamond
+elemental semiconductors
+nucleation
+drops
+semiconductor growth
+chemical vapour deposition

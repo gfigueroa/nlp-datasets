@@ -1,0 +1,7 @@
+We report on magnetic field and temperature-dependent measurements of the anisotropic magnetoresistance (AMR) in epitaxial La1xSrxMnO3 (LSMO) thin films. While in 3d ferromagnetic alloys increasing the magnetization, either by reducing the temperature or increasing the magnetic field, increases the AMR, we find that in LSMO films the AMR dependence on magnetization displays nonmonotonic behavior which becomes particularly pronounced in lightly doped compounds. We believe that this behavior is related to the inhomogeneity exhibited by these materials.
+
+colossal magnetoresistance
+lanthanum compounds
+magnetic anisotropy
+magnetic epitaxial layers
+strontium compounds

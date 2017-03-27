@@ -1,0 +1,6 @@
+Denoising is an essential step in creating perfect point-sampled models. The image mean-shift filtering has been extended to 3D surface smoothing by taking the vertex normal and curvature as range component and the vertex position as the spatial component, which is not efficient. For the reason, this paper proposes to use quasi-Cauchy kernel to replace the Gauss kernel used in the Guofei. Hu'algorithm. Experiments show that our method can smooth the noise efficiently and preserve the sharp features of the surface effectively.
+
+Gauss kernel
+Mean-shift Procedure
+Point-sampled model
+quasi-Cauchy kernel

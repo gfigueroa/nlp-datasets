@@ -1,0 +1,8 @@
+The objective of this paper is to explore the structure, kinematics, kinetostatics and balancing mechanism of the arm that manipulates a shredder capable of performing the maintenance task under the power transmission lines. The overall process is organized in the following steps: the investigation of the structure of the arm, the review of the transmission lines of motion, the calculation of the forces in joints and the balancing of mechanism with masses and springs. The analytical model of the mechanism presented allows the design and verification in the perspective of strength of materials and highlights the sensitivity of model to the changes in loads of elements and in the active forces in the engine.
+
+Kinematics
+Mechanical systems
+Mobile robots
+Modeling
+Robot dynamics
+Robot kinematics

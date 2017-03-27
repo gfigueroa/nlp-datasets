@@ -1,0 +1,11 @@
+NWChem package of quantum chemistry and molecular dynamics calculations was examined as a possible grid application in the frameworks of BalticGrid-II FP7 project. Realization of hierarchical approach to simulation of nanosystems on the basis of NWChem is discussed. NWChem installation and benchmark testing results on various architectures are described. Job submission from g-lite environment is discussed. Some preliminary results of carbon nanotubes array properties' calculations are presented.
+
+Abinitio quantum chemistry
+BalticGrid
+Grid computing
+Hierarchical Modeling
+JDL job
+Molecular dynamics
+NWChem package
+Nanodesign
+g-Lite

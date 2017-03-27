@@ -1,0 +1,7 @@
+In this article, the authors discuss the rationale for the use of computerized medication algorithms and decision support systems in the treatment of major psychiatric disorders. The field of psychopharmacology has advanced tremendously in the last two decades, with the resulting vast array of new information yielding a marked disparity between actual practice and what is commonly called "best practice." As a remedy, clinical practice guidelines and algorithms have been widely developed. These algorithms are used to disseminate up-to-date information, effect change in physician behavior, and reduce untoward variation in care. Review of the literature reveals advantages and limitations in trying to implement these paper and pencil guidelines and algorithms. Available research also suggests that computerized decision support systems have the potential to overcome such limitations, increase the use of treatment guidelines and algorithms, and improve physician adherence to recommended practices. The advantages of computerized medication algorithms and decision support systems are discussed. Finally, the computer platform elements that are necessary to make such systems effective and user-friendly are described. 
+
+medication treatment algorithms
+practice guidelines
+computerized treatment algorithms
+decision support systems
+psychopharmacology

@@ -1,0 +1,10 @@
+The Auger recombination rates in small-gap semiconductor alloys are calculated using full band structures with electronelectron interactions in Coulomb and phonon fields. We find that the results are sensitive to band structure details and the calculated minority carrier lifetimes can differ by two orders of magnitude depending on the approximations used to describe the energy bands and wave functions. The full band structure results agree well with experiments in Hg0.78Cd0.22Te. Similar calculations were carried out for lifetimes in In0.67Tl0.33P, In0.85Tl0.15As, and In0.92Tl0.08Sb as a function of temperature. The minority carrier lifetimes in In0.67Tl0.33P and In0.92Tl0.08Sb are shorter than that in Hg0.78Cd0.22Te at all temperatures. However, the low-temperature minority carrier lifetime in In0.85Tl0.15As is an order of magnitude longer than that in Hg0.78Cd0.22Te. Our calculations further suggest a possibility of increasing the lifetimes of minority carriers by decreasing the density of states inside a critical energy and momentum region and also by selecting donors with energies in the gap. © 1997 American Institute of Physics. 
+
+narrow band gap semiconductors
+Auger effect
+electron-hole recombination
+carrier lifetime
+minority carriers
+band structure
+wave functions
+electronic density of states

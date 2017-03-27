@@ -1,0 +1,8 @@
+We have no evidence of intrinsic surface states in the band gap for in situ fractured SrTiO3:La, SrTiO3:Nb and SrTiO3. The valence band maximum of the samples lie at 3.3 eV below the Fermi level, indicating that the band bending is negligibly small. No emission from the region of bulk band gap indicated that the intrinsic surface states are largely empty. Ar+ ion bombardment of in situ fractured samples gave rise to a peak at around 11.6 eV, indicating the Ti+3 state. © 1998 American Institute of Physics. 
+
+lanthanum
+niobium
+strontium compounds
+surface states
+energy gap
+valence bands

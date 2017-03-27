@@ -1,0 +1,12 @@
+Structure dependence of electrical properties was investigated for amorphous and epitaxial thin films of chloroaluminumphthalocyanine vacuum deposited on both glass and KCl. The extrinsic conductivity in the dark was improved by elevating substrate temperatures, depending on the morphological change from granular, discontinuous films deposited at a substrate temperature of 25	°C to uniform, continuous ones at 250	°C. The photocurrents under monochromatic light illumination increased in proportion to the amount of adsorbed O2 in the amorphous films on glass. A regular doping form of O2 in the epitaxial film on KCl could enhance photocarrier generation. The granular, discontinuous morphology in the films caused a frequent chargecarrier recombination at the grain boundaries and defect sites. In the intrinsic region the amorphous films exhibited a higher dark conductivity due to the Àelectron interaction between the randomly arranged molecules and gave a moderate activation energy for conduction. The epitaxial film with a regular orientation exhibited a significantly higher activation energy for intrinsic dark conduction because of a weak molecular interaction between the standing molecular columns.
+
+THIN FILMS
+ORGANIC SEMICONDUCTORS
+ELECTRICAL PROPERTIES
+PHOTOCONDUCTIVITY
+EPITAXIAL LAYERS
+AMORPHOUS STATE
+MICROSTRUCTURE
+DOPED MATERIALS
+PHYSICAL VAPOR DEPOSITION
+MOLECULAR ORIENTATION

@@ -1,0 +1,10 @@
+Artificial and local control of spin-configuration in nanoscale in continuous magnetic films could enable new spin-based electronics and precision sensor technologies. Extensive theoretical research has recently been devoted to examination of surface nanovariation mediated magnetism and its utility, which has been demonstrated only in one-dimensional surface modulation. However, a realization of engineered spin configuration using two-dimensional (2D) nanomodulation is limited by local vortex formation induced by magnetostatic energy. In this work we demonstrate for the first time, an ability to control the anisotropy in continuous magnetic films by periodic surface nanomodulation in two-dimensions (2D). Magnetic properties of NiFe films with nanomodulated surfaces have been studied as a function of both film thickness and modulation amplitude. For films with a patterned square array (without breaking the film continuity), a clear fourfold symmetry of anisotropy field and coercivity was observed with rotation angle. An experimental phase diagram of anisotropy with respect to film thickness and modulation amplitude has been produced which delineates that the observed fourfold anisotropy is induced by the magnetostatic effect. The observed dependence of anisotropy field on film thickness and surface modulation amplitude agrees well with the developed theory.
+
+coercive force
+magnetic anisotropy
+magnetic thin films
+magnetic transitions
+metallic thin films
+nanomagnetics
+Permalloy
+surface magnetism

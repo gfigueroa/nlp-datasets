@@ -1,0 +1,15 @@
+The thickness of gold thin films of 0.1100 nm on Si substrates has been measured with an electron probe microanalyzer. The analysis process is as follows. k ratio versus thickness calibration curves are produced through use of a Monte Carlo simulation of electron scattering based on the Mott cross sections for elastic scattering, where the exact film/substrate boundary condition is included. Then the thickness can be determined, corresponding to an observed k ratio from the samples. Prior to the analysis, the ionization cross sections for Au	M± and L± x rays required in the simulation are obtained by measuring the xray intensity from very thin gold films as a function of incident electron energy. The measured thickness results agree very well with experimental ones, which are obtained with a quartz balance apparatus. The simulation model is discussed in comparison between theory and experiment. Also it is shown that the thickness detection limit of the present method can reach submonolayer films.
+
+GOLD
+THIN FILMS
+SILICON
+SUBSTRATES
+THICKNESS
+ELECTRON MICROPROBE ANALYSIS
+ELECTRON DIFFRACTION
+SIMULATION
+MONTE CARLO METHOD
+ELASTIC SCATTERING
+IONIZATION
+CROSS SECTIONS
+X RADIATION

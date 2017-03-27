@@ -1,0 +1,11 @@
+Using the plane-wave pseudopotential method within the generalized gradient approximation, we studied the atomic structure, energetics, and electronic structure of the interstitial and substitutional point defect of dopant aluminum in monoclinic HfO2. Our results show that the doped Al atom energetically prefers to substitute for the Hf atom under the oxygen-rich condition. Substitution of Al for Hf creates a shallow acceptor level near the valence band maximum, whereas both substitution of Al for O and interstitial Al introduce deep levels in the band gap of HfO2. We also discussed the possible effect of Al doping on the electronic properties of HfO2.
+
+alumina
+deep levels
+doping
+electronic structure
+energy gap
+hafnium compounds
+interstitials
+pseudopotential methods
+valence bands

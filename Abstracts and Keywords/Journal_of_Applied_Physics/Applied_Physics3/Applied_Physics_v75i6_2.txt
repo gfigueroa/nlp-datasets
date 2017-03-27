@@ -1,0 +1,13 @@
+Diamond (100) and (111) surfaces have been exposed to beams of atomic and molecular fluorine and chlorine in an ultrahighvacuum environment. Xray photoelectron spectroscopy, lowenergy electron diffraction, and thermal desorption techniques have been used to elucidate the chemistry involved. F atoms add to both the diamond (100)(1×1) and (111)(2×1) surfaces to form a carbonmonofluoride species which reaches a saturation level of approximately threequarters of a monolayer at 300 K. In other aspects of their behavior, the diamond surfaces differ. On the (111) surface, the rate of fluorine atom uptake is, to first order, proportional to the open site concentration. Adsorption produces a dimming of the halforder electrondiffraction spots, suggesting the breaking of surface Àbonded chains to form regions of the bulk 1×1 reconstruction. The (100) surface uptake rate, though, is second order with respect to open site concentration and no electrondiffraction pattern is observed. This difference in behavior between the two surfaces is ascribed to the difference in bonding geometry, leading to severe steric hindrance to ordered adsorption on the (100) surface. The thermal desorption data show fluorine desorption over a wide temperature range (5001200 K) on both surfaces indicating binding sites with a range of energies.
+
+DIAMONDS
+HALOGENATION
+ATOMIC BEAMS
+FLUORINE
+CHLORINE
+PHOTOELECTRON SPECTROSCOPY
+LEED
+DESORPTION SPECTROSCOPY
+SURFACE ANALYSIS
+TEMPERATURE RANGE 04001000 K
+TEMPERATURE RANGE 10004000 K

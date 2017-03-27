@@ -1,0 +1,10 @@
+The influence of structural defects on carrier lifetime in 4H-SiC epilayers has been studied using high spatial resolution optically detected lifetime measurements. Full wafers mappings with 200¼m spatial resolution revealed the carrier lifetime variations that can be associated with structural defects replicated from the substrate and variations in the epitaxial growth conditions due to the susceptor design. High resolution mappings over smaller regions with lateral step size down to 20¼m, revealed local carrier lifetime reductions associated with different structural defects in the epitaxial layers. Identified defects that influence the carrier lifetime are the carrot defects and different types of in-grown stacking faults. Also clusters of threading screw dislocations in the epilayer probably originating from the dissociation of micropipe in the substrate are found to effectively reduce the carrier lifetime. Furthermore, optically detected lifetime mapping has been demonstrated as a nondestructive technique which allows nonvisible structural defects to be detected in as-grown epilayers.
+
+carrier lifetime
+epitaxial growth
+screw dislocations
+semiconductor epitaxial layers
+semiconductor growth
+silicon compounds
+stacking faults
+wide band gap semiconductors

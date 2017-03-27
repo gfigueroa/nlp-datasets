@@ -1,0 +1,6 @@
+We experimentally demonstrate the formation of GaN nanotip pyramids by selective and anisotropic etching of N-polar GaN in KOH solution. For samples grown with adjacent Ga- and N-polar regions on the same wafer, the KOH solution was found to selectively etch only the N-polar surface while leaving the Ga-polar surface intact. An aggregation of hexagonal pyramids with well defined {10		} facets and very sharp tips with diameters less than <20 nm were formed. The density of the pyramids can be controlled by varying the KOH concentration, solution temperature or the etch duration. The GaN etching activation energy is estimated to be EaH0.587	eV. Dense GaN pyramids with sharp tips have applications in both electronic and photonic devices. © 2003 American Institute of Physics. 
+
+etching
+III-V semiconductors
+wide band gap semiconductors
+gallium compounds

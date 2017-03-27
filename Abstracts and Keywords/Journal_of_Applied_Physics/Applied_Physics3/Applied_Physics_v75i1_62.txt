@@ -1,0 +1,15 @@
+Laserinduced fluorescence is used to measure timeofflight (TOF) and internal state distributions of atoms, ions, and diatomics ejected after the 193 nm ablation of Y2O3, BaO2, and CuO. These measurements indicate that the bulk of material is ejected with speeds in the range of 104105 cm/s while particle speeds in the emitting component of the plume exceed 106 cm/s. The TOF profiles of all the species were nonMaxwellian, containing extended lowvelocity tails. It is postulated that these tails arise from the evaporation and/or sputtering of target material that occurs after the laser ablation pulse. This particle emission is caused either by residual energy deposited in the target after the explosive vaporization/ablation pulse or from radiation exchange and/or ion bombardment from the expanding plasma plume. The extent of these tails increases with increasing fluence, generating oscillations in the TOF distributions of Cu atoms from CuO at high fluence. Rotational and vibrational temperatures were estimated for YO and BaO molecules in the plume, and no CuO was detected.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+ABLATION
+LASER RADIATION
+PLASMA DIAGNOSTICS
+ULTRAVIOLET RADIATION
+FLUORESCENCE
+DEPOSITION
+TIMEOFFLIGHT METHOD
+ATOMS
+IONS
+DIATOMIC MOLECULES

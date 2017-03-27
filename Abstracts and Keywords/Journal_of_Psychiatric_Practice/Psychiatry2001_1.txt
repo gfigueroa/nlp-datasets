@@ -1,0 +1,8 @@
+This review explores the neurobiology of stress and its possible role in the etiology of schizophrenia. Major life events may play a role in onset and relapse in schizophrenia. Other data suggest that early stress exposure increases schizophrenia risk, especially in individuals with latent vulnerability. Animal research has led to an elucidation of the mechanisms by which stress and cortisol are toxic to the hippocampus and impair cognition. Associations among these factors have been found in a variety of human conditions, including psychiatric illness and normal aging. These mechanisms are plausible in schizophrenia, which is characterized by a degree of cortisol dysregulation, hippocampal abnormality, and cognitive impairment. Characterization of the role of the stress cascade in schizophrenia has implications for novel pharmacologic and other treatment, especially for cognitive symptoms, which are debilitating and largely refractory to treatment. 
+
+schizophrenia
+stress
+animal research
+cortisol dysregulation
+hippocampal abnormality
+cognitive impairment

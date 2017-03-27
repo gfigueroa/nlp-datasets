@@ -1,0 +1,7 @@
+Low luminous efficacy is one of the major drawbacks of plasma display panels (PDPs), where the main limiting factor is the efficiency of the microdischarges in generating UV radiation. In this work we use a two-dimensional self-consistent fluid model to analyze the energy loss mechanisms in neonxenon discharges in coplanar-electrode color PDPs and interpret experimental data on the luminous efficacy of these PDPs. The modeling results are in good agreement with the measured UV emission spectrum and measured trends in the efficacy. Most of the electrical input energy is transferred to ions and subsequently to the gas and the surface. The electrical energy transferred to electrons is mostly used for ionization and excitation, where the part used for xenon excitation largely ends up in UV radiation. The amplitude, frequency, and rise time of the driving voltage mainly affect the energy losses due to ion heating. The xenon content also affects the conversion of electron energy into UV energy. © 2001 American Institute of Physics. 
+
+neon
+xenon
+discharges (electric)
+plasma displays
+flat panel displays

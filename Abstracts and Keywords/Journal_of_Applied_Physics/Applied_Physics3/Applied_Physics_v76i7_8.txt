@@ -1,0 +1,13 @@
+A specimen of Cu50Fe50 equiatomic composition was mechanically alloyed (MA) by ball milling starting from the pure elements, which are immiscible according to the equilibrium phase diagram. Structural analysis by xray and neutron diffraction has shown that the mechanical process initially reduces the crystallite size of both elements as a function of the milling time. The diffraction data show that the bcc iron phase is subsequently consumed, due to progressive incorporation of the iron atoms into the fcc copper matrix. The Mössbauer spectra of a specimen MA for 16 h has a broad magnetic profile typical of a FeCu extended solid solution, with some evidence of two local environments of the iron atoms and a small admixture of the ³Fe. The annealing of these MA treated specimens effects a decomposition of the extended solid solution into FCC copper and both ± and ³iron allotropes. This decomposition process is discussed in relation to spinodal decomposition and to nucleationandgrowth mechanisms.
+
+COPPER ALLOYS
+IRON ALLOYS
+BINARY ALLOYS
+STRUCTURAL CHEMICAL ANALYSIS
+XRD
+NEUTRON DIFFRACTION
+MECHANICAL ALLOYING
+ANNEALING
+MOESSBAUER EFFECT
+SOLID SOLUTIONS
+DECOMPOSITION

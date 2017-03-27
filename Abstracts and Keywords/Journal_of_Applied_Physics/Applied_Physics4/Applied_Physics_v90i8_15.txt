@@ -1,0 +1,13 @@
+We used the microwave technique to measure electrical properties of heavily boron doped diamond films. This technique overcomes problems such as the presence of parasitic resistance due to the electrical contacts. The conductivity of these films is rather high (about 104
+S
+m1). The measured microwave conductivity has the same values as the dc conductivity. The conductivity varies with the doping. The highest value of conductivity does not appear for the highest value of doping, because of the presence of a parasitic phase. This will be proved by electron spin resonance and Raman spectra. Theoretical calculation rules out the skin effect in our measurements. It will be also possible to perform microwave photoconductivity measurements. The photoconductivity behavior varies in the opposite way to the conductivity. One explanation, based on the recombination time which decreases with the conductivity, will be presented. © 2001 American Institute of Physics. 
+
+diamond
+boron
+elemental semiconductors
+semiconductor thin films
+photoconductivity
+high-frequency effects
+paramagnetic resonance
+Raman spectra
+electron-hole recombination

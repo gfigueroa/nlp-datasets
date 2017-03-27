@@ -1,0 +1,10 @@
+In this paper, an affordable sophisticated standalone real-time multi-channel analog signal Acquisition and Frequency Detection and/or Monitoring (A FREDOM) system is proposed. The A FREDOM is used to acquire multi-channel real-time analog signals. It also detects and monitors their frequencies. Any change in any channel frequency is reported. A proper action is taken place upon frequency change. The A FREDOM is hardware reconfigurable. Accordingly, it can be utilized in various real world applications especially in hazardous environments, or isolated areas, for remote architecture reconfiguration, while keeping the cost of the device low. The hardware implementation of the different processing functions of the device allows for high-speed processing without the need of expensive general purpose processors. The target technology of implementing the proposed design is the System on Chip via Field Programmable Gate Array (SoC-FPGA). Performance evaluation and cost comparisons are shown via simulation and experiments.
+
+ADC
+Data Acquisition
+FFT
+FPGA
+Frequency Monitoring
+Multiplexing
+Real-time
+Signal Processing

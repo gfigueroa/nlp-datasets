@@ -1,0 +1,12 @@
+The patterning and characterization of a single crystal diamond substrate with a regular array of 8 micron features is described. Patterned arrays in diamond have been formed by a process consisting of the evaporation of ferrous metals through a glass channel mask onto the (100) surface of diamond. The evaporation was followed by a high temperature heat treatment to form a metal carbide. The carbide was then removed by acid etching, leaving behind a positive twodimensional pattern on the diamond surface. Further pattern transfers were reproducibly accomplished by pressing the etched diamond surface into gold and aluminum foils.
+
+DIAMONDS
+SUBSTRATES
+MONOCRYSTALS
+SURFACE TREATMENTS
+ETCHING
+HEAT TREATMENTS
+CARBIDES
+IRON
+DEPOSITION
+MASKING

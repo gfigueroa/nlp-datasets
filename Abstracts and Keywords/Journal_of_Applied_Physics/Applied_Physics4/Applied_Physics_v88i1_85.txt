@@ -1,0 +1,5 @@
+A method of measuring the thermal diffusivity of solid material at room temperature using photothermal displacement is proposed. The influence of the parameters, such as the radius and modulation frequency of the pump beam and the sample thickness, was studied. From the minimum position of phase of measured deflection with respect to the pump beam, the thermal diffusivity of the materials can be obtained. The position where phase has the minimum value is determined using multiparameter least-square regression fitting. The experimental values for different samples obtained by applying the method are in good agreement with the literature values. © 2000 American Institute of Physics. 
+
+thermal diffusivity
+photothermal effects
+thermal variables measurement

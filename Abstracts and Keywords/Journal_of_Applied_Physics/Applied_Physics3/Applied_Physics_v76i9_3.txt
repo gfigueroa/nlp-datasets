@@ -1,0 +1,10 @@
+The role of the surface in the optical properties of porous silicon remains a key issue. Although the burden of evidence points toward some intrinsic radiative mechanism in small silicon particles, the influence of the surface and ways of controlling surface interactions will always be important. We present here the results of surface modification of porous silicon using annealing and rapid oxidation steps. By comparing new results with existing published data we conclude that hydrogen passivation of the surface is not unique in its ability to saturate dangling bonds and hence promote strong luminescence; oxidation, especially at high temperatures, can play a similar role. Oxidation also produces an additional, low energy band which is linked to residual dangling bond related defects at the SiSiO2 interface. Furthermore, this band suffers a blue shift with increasing porosity in similar fashion to that observed for the visible emission.
+
+SILICON
+POROUS MATERIALS
+LUMINESCENCE
+SURFACE TREATMENTS
+ANNEALING
+OXIDATION
+DANGLING BONDS
+BLUE SHIFT

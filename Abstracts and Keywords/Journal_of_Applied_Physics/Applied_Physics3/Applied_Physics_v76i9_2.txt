@@ -1,0 +1,12 @@
+The electronic structures of semimetalsemiconductor (Sb2)m/(GaSb)n (111) and (Sb2)m/(AlSb)n (111) (m,nd10) superlattices are calculated by using a tightbinding theory including spinorbit interaction. It is found that a narrow gap forms in these materials due to the quantum confinement effect. This may allow strong optical nonlinearity in the infrared region. With increasing the thickness of the Sb layer, a possible semiconductorsemimetal transition is suggested at a certain thickness. The influence of interface states on the formation of the band gap is investigated by adjusting the interface relaxation and band offsets. Our study shows that semimetalsemiconductor Sb/Ga(Al)Sb superlattices could potentially open a new possibility in electrooptical device manufactures. 	
+
+SUPERLATTICES
+ELECTRONIC STRUCTURE
+ANTIMONY
+GALLIUM ANTIMONIDES
+ALUMINIUM ANTIMONIDES
+SEMIMETALS
+TIGHT BINDING APPROXIMATION
+LS COUPLING
+CONFINEMENT
+INTERFACE STATES

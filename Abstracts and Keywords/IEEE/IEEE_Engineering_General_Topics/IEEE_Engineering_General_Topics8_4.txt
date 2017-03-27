@@ -1,0 +1,5 @@
+This paper presents the analysis, design and simulation of an all metal in line series ohmic RF MEMS switch. The proposed switch is indented to be used in the frequency range between DC and 10GHz. The switching characteristics of the proposed switch fulfill all the requirements as concerns loss, isolation, linearity, power handling and small size/power consumption. The specific design of the cantilever (hammerhead) and the distributed actuation force ensure the reliability and the controllability of the switch and the relatively simple design (all metal) the robustness and high fabrication yield.
+
+All metal in line series ohmic RF MEMS switch
+distributed actuation force
+hammerhead

@@ -1,0 +1,7 @@
+This paper proposes a stochastic wind power model based on an autoregressive integrated moving average (ARIMA) process. The model takes into account the nonstationarity and physical limits of stochastic wind power generation. The model is constructed based on wind power measurement of one year from the Nysted offshore wind farm in Denmark. The proposed limited-ARIMA (LARIMA) model introduces a limiter and characterizes the stochastic wind power generation by mean level, temporal correlation and driving noise. The model is validated against the measurement in terms of temporal correlation and probability distribution. The LARIMA model outperforms a first-order transition matrix based discrete Markov model in terms of temporal correlation, probability distribution and model parameter number. The proposed LARIMA model is further extended to include the monthly variation of the stochastic wind power generation.
+
+ARIMA processes
+Markov processes
+stochastic processes
+time series
+wind power generation

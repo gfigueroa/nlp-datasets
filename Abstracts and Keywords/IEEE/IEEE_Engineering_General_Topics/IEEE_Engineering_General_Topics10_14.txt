@@ -1,0 +1,9 @@
+Topic maps is a semantic technology for the integration of heterogeneous data and the convenient deployment of domain specific and semantically enriched Web portals. Topic maps is already widely in productive usage in industry and administration. We demonstrate with six projects the current usage and the opportunities of topic maps in the eHumanities. The projects are CeDECA from University of Pavia, RAMLine from the London Royal Academy of Music, Pansori retrieval system from the Sungkyunkwan University Seoul, Musica migrans from the University of Leipzig, Collection of the Finnish National Gallery, and text and semantic from Signum in Pisa.
+
+EII
+Information Integration
+Semantic Portals
+Semantics
+Topic Maps
+Web 3.0
+eHumanities

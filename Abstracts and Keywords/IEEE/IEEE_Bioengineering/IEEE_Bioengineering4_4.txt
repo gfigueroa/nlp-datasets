@@ -1,0 +1,7 @@
+Various real-world biomedical classification tasks suffer from the imbalanced data problem which tends to make the prediction performance of some classes significantly decrease. In this paper, we present an active example selection method with naiumlve Bayes classifier (AESNB) as a solution for the imbalanced data problem. The proposed method starts with a small balanced subset of training examples. A naive Bayes classifier is trained incrementally by actively selecting and adding informative examples regardless of the original class distribution. Informative examples are defined as examples that produce high error scores by the current classifier. We examined the performance of AESNB algorithm by using five imbalanced biomedical datasets. Our experimental results show that the naiumlve Bayes classifier with our active example selection method achieves a competitive classification performance compared to the classifier with sampling or cost-sensitive methods.
+
+active example selection
+cost-senseitive learning
+imbalanced data problem
+na&#x0EF;ve Bayes classifier
+resampling

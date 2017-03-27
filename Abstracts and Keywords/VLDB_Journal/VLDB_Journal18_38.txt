@@ -1,0 +1,6 @@
+Emerging applications such as personalized portals, enterprise search, and web integration systems often require keyword search over semi-structured views. However, traditional information retrieval techniques are likely to be expensive in this context because they rely on the assumption that the set of documents being searched is materialized. In this paper, we present a system architecture and algorithm that can efficiently evaluate keyword search queries over virtual (unmaterialized) XML views. An interesting aspect of our approach is that it exploits indices present on the base data and thereby avoids materializing large parts of the view that are not relevant to the query results. Another feature of the algorithm is that by solely using indices, we can still score the results of queries over the virtual view, and the resulting scores are the same as if the view was materialized. Our performance evaluation using the INEX data set in the Quark (Bhaskar et al. in Quark: an efficient XQuery full-text implementation. In: SIGMOD, 2006) open-source XML database system indicates that the proposed approach is scalable and efficient.
+
+Keyword search
+XML views
+Document projections
+Document pruning - Top-K

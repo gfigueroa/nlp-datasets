@@ -1,0 +1,4 @@
+It is pointed out that there is not a certain universal relation for the power outputs of continuous endoreversible and reversible Carnot heat engine cycles operating between the same temperature limits, and the relevant conclusion obtained by Blank and Bhattacharyya in a recent article of this journal is incorrect. © 1997 American Institute of Physics. 
+
+heat engines
+thermodynamics

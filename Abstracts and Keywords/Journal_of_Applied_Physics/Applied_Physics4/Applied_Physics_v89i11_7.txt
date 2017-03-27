@@ -1,0 +1,10 @@
+In this work, we report on a series of transitions in morphology and texture as 51000 parts per million of nitrogen were added to 2% and 1% methanehydrogen depositions of polycrystalline diamond films. Five results are reported. (1) The threshold for transition into the {100}-faceted morphology occurred at lower parts per million nitrogen for the 1% versus the 2% methanehydrogen series, opposite from the transition thresholds previously reported. (2) At 1000 parts per million nitrogen the film quality of both series had not yet seriously degraded. (3) A well defined sequence of intermediate texture transitions as a function of increasing parts per million nitrogen was observed for both series. (4) A pretransition morphology of large crystallites interspersed among microcrystalline material directly preceding the transitions to the {100}-faceted morphology was observed for both series. (5) A layered growth and/or etched morphology at high nitrogen concentrations was observed for both series. We discuss these observations in terms of the possible influence of our deposition conditions on the accessibility of diamond growth parameter space and chemistry, including possible dynamical effects of the temperature gradients. © 2001 American Institute of Physics. 
+
+diamond
+elemental semiconductors
+semiconductor thin films
+semiconductor growth
+chemical vapour deposition
+crystal morphology
+texture
+crystallites

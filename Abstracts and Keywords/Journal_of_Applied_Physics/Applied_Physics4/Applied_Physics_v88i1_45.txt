@@ -1,0 +1,10 @@
+We present a quantitative conduction model for nonalloyed ohmic contacts to n-type GaAs (n:GaAs) which employ a surface layer of low-temperature-grown GaAs (LTG:GaAs). The energy band edge profile for the contact structure is calculated by solving Poissons equation and invoking Fermi statistics using deep donor band and acceptor state parameters for the LTG:GaAs which are consistent with measured bulk and surface electrical properties of this material. The specific contact resistance is then calculated using an analytic expression for tunneling conduction through an equivalent uniformly doped Schottky barrier. The model has been used to fit measured specific contact resistances versus LTG:GaAs layer thickness and versus measurement temperature. These comparisons provide insights into the contact mechanism (electron tunneling between metal states and conduction band states in n:GaAs) and indicate that low barrier heights (0.30.5 V) and high activated donor densities (<1×1020
+cm3) have been achieved in these ex situ contacts. © 2000 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+ohmic contacts
+semiconductor-metal boundaries
+contact resistance
+tunnelling
+interface states

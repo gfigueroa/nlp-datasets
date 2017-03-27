@@ -1,0 +1,8 @@
+It has been shown that evolutionary and developmental processes can be used for emergence of scalability, robustness and fault-tolerance in hardware. However, designing a suitable representation for such processes is far from straightforward. Here, a bio-inspired developmental genotype-phenotype mapping for evolution of spiking neural microcircuits in an FPGA is introduced, based on a digital neuron model and cortex structure suggested and verified previously by the authors. The new developmental process is based on complex multi-cellular protein-protein and gene-protein interactions and signaling. Suitability of the representation for evolution of useful architectures and its adaptability is shown through statistical analysis and examples of scalability, modularity and fault-tolerance.
+
+embryonic hardware
+evolvable hardware
+fault-tolerance
+morphogenesis
+neurodevelopment
+spiking neural networks

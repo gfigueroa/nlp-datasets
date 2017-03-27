@@ -1,0 +1,8 @@
+Growth behavior of epitaxial layers of GaAs on(111)A plane has been studied for atmospheric pressure organometallic vaporphase epitaxy.The arsine partial pressure and the growth temperature are the most influential factors for the surface morphology of the epitaxial layers on (111)A planes. A smooth surface morphology is obtained only under limited growth conditions and a higher AsH3 partial pressure is needed to obtain the mirror surface as the substrate temperature increases. This region is found to spread to higher values of arsine pressure by introducing the predeposition process of thin homoepitaxial layers at the most favorable deposition condition.
+
+GALLIUM ARSENIDES
+LAYERS
+VPE
+MORPHOLOGY
+ARSENIC HYDRIDES
+PARTIAL PRESSURE

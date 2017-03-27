@@ -1,0 +1,5 @@
+This paper presents the concept of real-time Centre Of Angle (COA) for a multi-area power system. The core idea is to generate some on-line information about the remedial actions which should be taken to enhance the security of an electrical power network subjected to a sever disturbance. Also, by applying mathematical concepts, the paper improves the real-time concept of COA for being used in the electrical networks by considering the characteristics of the Electrical Energy Market (EEM). The suggested real-time COA makes it possible to maintain the synchronism between the participating generators in one area and other generators located in other areas. The paper, based on the real-time COA, introduces an alarm signal which can warn that the trend of area isolation (islanding) is proceeding, before the area gets fully isolated.
+
+Electrical Energy Market (EEM)
+Real-time Centre Of Angles (COA)
+Synchronous generators

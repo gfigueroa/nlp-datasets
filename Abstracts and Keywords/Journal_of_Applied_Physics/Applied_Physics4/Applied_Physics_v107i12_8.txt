@@ -1,0 +1,14 @@
+Hole mobility degradation has been studied in high-dose boron-implanted ultrashallow junctions containing high concentrations of boron-interstitial clusters (BICs), combining an empirical method based on the self-consistent interpretation of secondary-ion-mass spectrometry (SIMS) and Hall measurements and liquid-nitrogen (LN2) to room temperature (RT) hole mobility measurements. It has been found that BICs act as independent scattering centers which have a strong impact on hole mobility in addition to the other scattering mechanisms such as lattice and impurities scattering. A mobility degradation coefficient ± has been introduced, which gives information on the mobility degradation level in the analyzed junctions. In the case of very high concentrations of BICs (containing a boron density up to 8×1014cm2), measured hole mobilities were found to be < 40% lower than corresponding theoretical values. BICs dissolution through multiple Flash anneals at high temperature (1300	°C) reduces the observe mobility degradation.
+
+annealing
+boron
+elemental semiconductors
+germanium
+Hall mobility
+hole mobility
+impurity scattering
+interstitials
+ion implantation
+secondary ion mass spectra
+semiconductor doping
+silicon

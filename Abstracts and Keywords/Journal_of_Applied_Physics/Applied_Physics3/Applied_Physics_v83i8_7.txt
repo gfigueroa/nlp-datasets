@@ -1,0 +1,19 @@
+Studies on structure and electronic properties of amorphous nitrogenated carbon films prepared in dual electron cyclotron resonanceradio frequency plasma from a mixture of methane and nitrogen are presently reported. These films are characterized by Fourier transform infrared spectroscopy (FTIR), Raman spectroscopy, x-ray photoemission spectroscopy (XPS), ultraviolet photoemission spectroscopy (UPS), electrical conductivity measurement, and optical absorption spectroscopy. Symmetry breaking of aromatic rings are at a very small amount of nitrogen incorporation is understood from FTIR spectra. The relative contribution of CN and CN bonds is found to change with the variation of the nitrogen content in the samples, which shows a similar trend with the shift of the G peak to a higher wave number and the increase of the ID/IG ratio. From decomposition of XPS C
+1s and N
+1s peaks a three-phase model of CN bonds is proposed. UPS valence band spectra obtained by using a Helium II source, are decomposed into p-À, p-Ã, 2s bands and a mixture of s-p band. The intensity of p-À band increases as a function of nitrogen concentration, confirming the increase of sp2 bonds in the samples. An enhancement of the room temperature electrical conductivity and a decrease of the optical gap are observed with the addition of nitrogen in the films. The effect of nitrogen doping in carbon films is also emphasized. Our analyses establish an interrelationship between the microstructure and electronic structure of nitrogenated carbon films, which helps to understand the change in electronic properties of the carbon films due to a low amount of nitrogen incorporation. © 1998 American Institute of Physics.
+
+carbon compounds
+noncrystalline structure
+thin films
+plasma CVD coatings
+Fourier transform spectra
+infrared spectra
+Raman spectra
+X-ray photoelectron spectra
+ultraviolet photoelectron spectra
+electrical conductivity
+light absorption
+bonds (chemical)
+band structure
+energy gap
+optical constants

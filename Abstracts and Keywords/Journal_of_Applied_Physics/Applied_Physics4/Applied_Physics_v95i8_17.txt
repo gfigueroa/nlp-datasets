@@ -1,0 +1,8 @@
+The dielectric and ferroelectric behaviors of relaxor ferroelectrics over the ferroelectric transition range are simulated using Monte Carlo simulation. The simulation is based on the GinzburgLandau ferroelectric model lattice in which a random distribution of two types of defects (dopants) which will suppress and enhance the local polarization, respectively, is assumed. The simulation reveals an evolution of the ferroelectric transitions from a normal first-order mode toward a diffusive mode, with increasing defect concentration. The simulated lattice configuration shows the microdipole ordered clusters embedded in the matrix of paraelectric phase over a wide range of temperature, a characteristic of relaxor ferroelectrics. The relaxor-like behaviors are confirmed by the lattice free energy, dielectric susceptibility, and ferroelectric relaxation evaluated as a function of the defect concentration. Finally, we present a qualitative comparison of our simulated results with the simulation based on the coarse-grain model [C. C. Su, B. Vugmeister, and A. G. Khachaturyan, J. Appl. Phys. 90, 6345 (2001)]. © 2004 American Institute of Physics. 
+
+relaxor ferroelectrics
+ferroelectric transitions
+Monte Carlo methods
+dielectric polarisation
+free energy
+optical susceptibility

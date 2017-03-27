@@ -1,0 +1,10 @@
+Molecularbeamepitaxial GaN layers change from strongly conductive (ÁB102 ©	cm at 300 K) to semiinsulating (ÁB106 ©	cm) as the N flux is increased. Layers grown at low fluxes show strong ntype conduction, with transport in the conduction band at high temperatures and in a shallow donor band at low temperatures. For layers grown at high N fluxes, the Hall coefficients become too small to measure, suggesting hopping conduction among deep centers. The temperaturedependent resistivity data are most consistent with multiphonon, rather than singlephonon, hopping. © 1996 American Institute of Physics. 
+
+GALLIUM NITRIDES
+EPITAXIAL LAYERS
+ELECTRIC CONDUCTIVITY
+HOPPING
+HALL EFFECT
+CARRIER MOBILITY
+TEMPERATURE DEPENDENCE
+PHONONS

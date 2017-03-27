@@ -1,0 +1,5 @@
+We explore the use of quantum cascade structures as amplifiers for terahertz radiation. For this purpose, two section devices were fabricated, in which the output from a ½ < 2.3THz laser section is amplified in a subsequent stage. For relatively short devices we obtain an amplification of 1.5×, in good agreement with the calculated level. Based on these results we predict that amplifications of up to 13 dB could be obtained for such structures using increased amplifier lengths of a few millimeters.
+
+quantum cascade lasers
+semiconductor optical amplifiers
+submillimetre wave lasers

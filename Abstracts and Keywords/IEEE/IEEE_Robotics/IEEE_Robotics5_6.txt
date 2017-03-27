@@ -1,0 +1,7 @@
+The usual methods for state estimation of a continuous time system require the precise value of the output variable at all instants of time, or at equally spaced sampling instants. In this work an estimation technique is introduced for Linear Time Invariant (LTI) systems, when the only information on the output variable consists of the time instants at which it has reached certain fixed threshold value. This is motivated by the fact that these measurements can be easily obtained with robust and inexpensive binary sensors (detectors). It is shown that, theoretically, and despite of the scarcity of the information given by the detectors, it is possible to reconstruct, after a finite number of samples, the exact value of the state variable. This is true for almost every sampling time sequence, even if the Shannon sampling theorem is not satisfied.
+
+Detections
+Discrete Event Systems
+Finite State Machines (FSM)
+Linear Systems
+State Estimation

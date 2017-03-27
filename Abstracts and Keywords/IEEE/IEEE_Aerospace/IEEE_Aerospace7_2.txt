@@ -1,0 +1,7 @@
+Multi-state microwave devices such as digitally controlled phase shifters, attenuators and transmit receive modules must be tested in a great number of different device states. This causes the test time of these devices to be a significant part of their production cost. This paper presents the test time reductions that may be achieved through the use of a high speed microwave receiver instead of the conventional network analyzer.
+
+Multi-State Devices
+Network Analyzers
+S-Parameters
+Test Time
+Transmit Receive Modules

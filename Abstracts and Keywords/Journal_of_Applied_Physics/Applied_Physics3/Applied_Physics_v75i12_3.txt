@@ -1,0 +1,11 @@
+A new method for determining bandgap energies using modulation spectroscopy is described. In contrast to the usual method for extracting transition energies from modulation spectra, which assumes a constant electric field distribution, this method pertains to cases where an inhomogeneous field exists. The bandgap determination applied herein to GaAs epilayers between 100 and 380 K takes advantage of a modulation feature arising from an inhomogeneous distribution of the electric field. This approach is quick, applicable over a wide temperature range, and does not necessitate curve fitting.
+
+GALLIUM ARSENIDES
+ENERGY GAP
+MEASURING METHODS
+ELECTROREFLECTANCE
+MODULATION SPECTROSCOPY
+EPITAXIAL LAYERS
+TEMPERATURE RANGE 65273 K
+TEMPERATURE RANGE 273400 K
+ELECTRIC FIELDS

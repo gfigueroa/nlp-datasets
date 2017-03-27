@@ -1,0 +1,23 @@
+Using valenceband and corelevel photoemission spectroscopy (PES) and electrical device measurements, the effects of annealing on Au:ntype (110) GaAs Schottky diodes fabricated in ultrahigh vacuum have been studied. Similiar trends in the annealinginduced changes in the barrier height of Au:ntype GaAs were found for 0.2 and 15 monolayer coverages as determined by PES and for thick film coverages (1000 Å) as determined by currentvoltage (IV) and capacitancevoltage (CV) measurement techniques. In each case, the barrier height was found to be stable for temperatures between 30 and 200	°C and between 300 and 500	°C; while a gradual decrease in the barrier height was found for annealing temperatures of 200300	°C. These changes are correlated with the formation of a AuGa rich layer at the interface during anneals at 200 to 300	°C. Leakage currents were found to dominate the IV characteristics in the devices which were annealed above the AuGa eutectic temperature. These peripheral leakage currents were eliminated by mesaetching the devices. This allowed more reliable barrier height determinations using device measurements for higher annealing temperatures than has been previously reported for the AuGaAs system.
+
+ANNEALING
+SCHOTTKY BARRIER DIODES
+BARRIER HEIGHT
+THIN FILMS
+FILMS
+VALENCE BANDS
+CORE LEVELS
+PHOTOEMISSION
+IV CHARACTERISTIC
+CV CHARACTERISTIC
+TEMPERATURE EFFECTS
+LEAKAGE CURRENT
+GOLD
+GALLIUM ARSENIDES
+METALSEMICONDUCTOR CONTACTS
+INTERFACES
+INTERFACE PHENOMENA
+MEDIUM TEMPERATURE
+HIGH TEMPERATURE
+FABRICATION
+GALLIUM

@@ -1,0 +1,6 @@
+Two figures of merit for sputtered superlattices (FMSS) are proposed which allow a comparison of the quality of artificial superlattices prepared in different sputtering systems. These FMSS also demonstrate several conditions for optimizing the sputtering parameters which are not widely appreciated.
+
+superlattices
+Sputtering
+optimization
+layers

@@ -1,0 +1,16 @@
+A ferroelectric field effect was demonstrated in epitaxial LaVO3/(Ba,Sr)TiO3/(Pb,La)(Zr,Ti)O3/(La,Sr)CoO3 semiconductorferroelectricmetal heterostructures grown on (001) SrTiO3 single crystal substrates by pulsed laser deposition. A high degree of c-axis orientation and strong in-plane texture measured by four-circle x-ray diffractometer confirmed the epitaxial crystallographic relationships between the layers. A 30 nm interlayer of (Ba,Sr)TiO3 was required to prevent decomposition of the (Pb,La)(Zr,Ti)O3 during growth of LaVO3 at 500
+°C in a vacuum. The capacitancevoltage measurement of the heterostructure exhibited a decrease in capacitance of <20% at positive voltages, which was explained by the formation of the depletion region in the semiconducting LaVO3. The observed ferroelectric field effect revealed the modulation of the channel resistance confirming the formation of a depletion region estimated to be <7 nm in depth. On- to off-state channel resistance ratios up to 2.5 were measured. © 2003 American Institute of Physics. 
+
+lanthanum compounds
+barium compounds
+strontium compounds
+lead compounds
+MIS structures
+MISFET
+ferroelectric thin films
+texture
+capacitance
+multilayers
+ferroelectric capacitors
+dielectric hysteresis
+pulsed laser deposition

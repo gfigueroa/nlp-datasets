@@ -1,0 +1,8 @@
+We investigate a photon recycling scheme using two-dimensional metallic photonic crystals made of silver to improve the energy efficiency of an incandescent light source. A theoretical framework is presented to analyze the resultant photon-recycled lighting system. Calculation results show that the system can reach a maximum luminous efficiency of 125 lm/W, which is 8 times higher than that of a bare blackbody radiation at 2800 K. The color temperature of the system is calculated to be around 3500 K or below, while the color rendering index is between 68 and 90. These results suggest that a photon-recycled incandescent light source using metallic photonic crystals can be a viable alternative future lighting solution.
+
+colour
+filament lamps
+light sources
+lighting
+photonic crystals
+silver

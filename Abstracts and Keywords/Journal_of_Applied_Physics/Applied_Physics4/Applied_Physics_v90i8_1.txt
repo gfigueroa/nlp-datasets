@@ -1,0 +1,10 @@
+Co0.2Zn0.8Fe2O4 nanoparticles have been synthesized by the coprecipitation method. Nanoparticles with average particle size of 5<65 nm were obtained by sintering the samples from 393 to 1173 K. Magnetic measurements show that samples with particle size }13 nm are superparamagnetic above the blocking temperature TB. Samples with average particle size larger than 13 nm have a wide particle size distribution and show the presence of two magnetic phases: superparamagnetic and cluster glass. Cation distribution of the samples show that in the samples with particle size &lt;13 nm Fe ions are distributed between the tetrahedral and octahedral sites of the spinel lattice but in the larger particle size samples the tetrahedral sites have very few Fe ions that form FeFe clusters and hence the high temperature sintered samples show a mixed phase, consisting of superparamagnetic and cluster glass. © 2001 American Institute of Physics.
+
+cobalt compounds
+zinc compounds
+nanostructured materials
+particle size
+magnetic particles
+superparamagnetism
+sintering
+precipitation

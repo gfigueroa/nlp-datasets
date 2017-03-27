@@ -1,0 +1,13 @@
+A relation for the shortcircuit current near a grain boundary perpendicular to the surface of the solar cell is given. In the analysis a pointgeneration source is assumed. The grain parameters such as the lifetime and the diffusivity of the minority carriers and the effective recombination velocity are determined from the decay curve of the shortcircuit current induced by the electron beam. Since the depletion layer capacitance C and the series resistance R in the solar cell are large, the parameter RC is taken into account in the analysis of the shortcircuit current.
+
+SOLAR CELLS
+ELECTRIC CURRENTS
+ELECTRICAL FAULTS
+ELECTRON BEAMS
+ELECTRON COLLISIONS
+LIFETIME
+CHARGE CARRIERS
+DIFFUSION
+RECOMBINATION
+GRAIN BOUNDARIES
+THEORETICAL DATA

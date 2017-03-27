@@ -1,0 +1,6 @@
+In this paper, artificial magnetic resonators are used in order to reduce mutual coupling in Multiple-input Multiple-Output (MIMO) systems. Split-ring resonator (SRR) inclusions are inserted between closely-spaced high-profile monopole antenna elements. It is shown that mutual coupling between the antenna elements can be reduced significantly by incorporating such magnetic inclusions. The magnetic materials work as insulators, and thus can be applied in a variety of antenna applications.
+
+artificial magnetic materials
+monopole antnenas
+mutual coupling
+split-ring resonators

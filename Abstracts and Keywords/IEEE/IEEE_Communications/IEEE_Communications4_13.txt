@@ -1,0 +1,7 @@
+Two-degree ROADM can be upgraded to next generation dynamically reconfigurable multi-degree OADM using an NÃ1 Wavelength Select Switch (WSS). WSS enables routing of selected wavelengths from a (local) degree to N (remote) degrees. In a typical multi-degree configuration, WSS sitting on individual degrees are connected back-to-back. This paper describes the design of a new protocol to run over an out-of-band OSC like channel established between a pair of WSS modules. This protocol creates a control channel between local degree (East or West) and a remote degree and enables detection of human errors in physical fibre connections among WSS modules. Using proposed protocol WSS module can detect various types of misconnections and in-turn can raise alarms to inform user about the same. This paper briefly discusses design of this protocol. A four degree configuration (N=2) is chosen for the ease of illustration.
+
+DWDM
+Multi Degree
+OSC
+ROADM
+WSS

@@ -1,0 +1,8 @@
+In this paper, we propose a novel learning-framework that is context dependent. We adopt a broad definition of learning context, encompassing learning domains and learner competencies. Context-based learning requires dealing with three major research thrusts: pedagogical categorization, learner modeling, and context matching techniques. The system architecture relies on a context matching engine and a set of pedagogical learning patterns to re-purpose learning objects according to contextual situations. A prototype is implemented on top of a common learning service registry, which supplies learning schema that map a given learning context and a learner profile, as well as instances of instructional learning services.
+
+Web services
+design patterns
+learning design
+learning personalization
+pedagogy
+semantic Web

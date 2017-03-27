@@ -1,0 +1,10 @@
+We utilize photonic crystals to simulate enhanced light-trapping in a-Si:H thin film solar cells. A one dimensional photonic crystal or distributed Bragg reflector with alternating dielectric layers acts as low loss backreflector. A two dimensional photonic crystal between the absorber layer and the Bragg reflector diffracts light at oblique angles within the absorber. The photonic crystal geometry is optimized to obtain maximum absorption. The photonic crystal provides lossless diffraction of photons, increasing the photon path length within the absorber layer. The simulation predicts significantly enhanced photon harvesting between 600 and 775nm below the band edge, and an absorption increase by more than a factor of 10 near the band edge. The optical path length ratio can exceed the classical limit predicted for randomly roughened scattering surfaces at most wavelengths near the band edge. The optical modeling is performed with a rigorous scattering matrix approach where Maxwells equations are solved in Fourier space.
+
+elemental semiconductors
+hydrogen
+Maxwell equations
+photonic crystals
+rough surfaces
+semiconductor thin films
+silicon
+solar cells

@@ -1,0 +1,12 @@
+The electron temperature method is developed for a high-density two-dimensional electron gas (2DEG). The relation of electronic noise and transport properties is obtained in the case of weakly inelastic scattering without considering the scattering mechanisms in detail. The method is applied to consider the experimental data on AlGaN/GaN 2DEG channels. The electron-temperature relaxation time and its dependence on electric field are extracted from the currentvoltage and noisevoltage characteristics measured for two-terminal samples at 80 K. The method works in the field range up to 3 kV/cm in the considered 2DEG channels. In this range of fields, the electron temperature reaches 350 K, and the electrontemperature relaxation time diminishes from 5 ps at low fields to 0.4 ps at 3 kV/cm. © 2002 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor heterojunctions
+two-dimensional electron gas
+hot carriers
+electronic density of states
+semiconductor device noise
+electron relaxation time

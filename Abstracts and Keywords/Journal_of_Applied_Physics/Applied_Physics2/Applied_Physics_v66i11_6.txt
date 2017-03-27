@@ -1,0 +1,17 @@
+Highquality Ga0.51In0.49P, latticematched to GaAs, has been grown by atmospheric pressure organometallic vaporphase epitaxy. The growth was performed at a temperature of 680	°C and a growth rate of about 12 ¼m/h. The indium distribution coefficient was found to be unity at this growth temperature. At a V/III ratio of 148, the Ga0.51In0.49P epilayers had photoluminescence (PL) halfwidths of 35 and 7.2 meV at 300 and 10 K, respectively, the best reported results to date. As the V/III ratio was changed from 94 to 240, the 300K energy band gap measured by PL varied only from 1.897 to 1.912 eV, values close to that of Ga0.51In0.49P grown by liquidphase epitaxy. An ordered arrangement of gallium and indium atoms on the column III sublattice with a CuPt structure was observed in transmission electron diffraction patterns for all samples. Our results show that the phenomenon of changing energy band gap with varying V/III ratio does not occur at these high growth rates.
+
+GALLIUM PHOSPHIDES
+INDIUM PHOSPHIDES
+LAYERS
+GALLIUM ARSENIDES
+SUBSTRATES
+VAPOR PHASE EPITAXY
+MEDIUM PRESSURE
+HIGH TEMPERATURE
+PHOTOLUMINESCENCE
+MEDIUM TEMPERATURE
+ULTRALOW TEMPERATURE
+ENERGY GAP
+SURFACES
+MORPHOLOGY
+TRANSMISSION ELECTRON MICROSCOPY

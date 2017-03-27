@@ -1,0 +1,13 @@
+The nucleation and growth kinetics of epitaxial Ba2YCu3O7x thin films prepared on (001) SrTiO3 by postdeposition annealing of a chemically derived intermediate layer were investigated in specimens quenched from the growth anneal. The films were produced by spinon deposition of a metalorganic precursor solution at room temperature and ambient pressure, and subsequent postdeposition annealing to form Ba2YCu3O7x (BYC). Integrated xray intensities of reflections from the majority, caxisnormal epitaxial BYC in the films were analyzed as a function of time at annealing temperature. Data collected from specimens annealed at 730 and 750	°C were consistent with upward growth of the BYC from nuclei at the substrate surface with a constant growth rate. The linear transformation kinetics suggest the growth process is controlled by molecular processes at the BYC/intermediate interface, and is not rate limited by diffusion. The activation energy for film growth along its [001] axis was estimated to be <5 eV. The microstructure of fully annealed films grown on (001) SrTiO3 was, in general, similar to that of films prepared on (001) LaAlO3 using the same metalorganic deposition technique. The volume fraction of the caxis inplane epitaxial orientation in films on (001) SrTiO3 was, however, much smaller than in films prepared identically on (001) LaAlO3. Vicinal polishing of the SrTiO3 by as much as 2.5° off [001] in the direction of [101] increased the volume fraction of caxis inplane domains in the films somewhat. These domains were preferentially oriented so that their (001) planes were parallel to the steps in the SrTiO3 surface. The fraction of the films on vicinal SrTiO3 occupied by caxis inplane domains was, however, still significantly less than that present in BYC films prepared on nominally onaxis (001) LaAlO3. © 1995 American Institute of Physics.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+FILM GROWTH
+HIGHTC SUPERCONDUCTORS
+EPITAXY
+MELT SPINNING
+NUCLEATION
+STRONTIUM TITANATES
+XRD
+TIME DEPENDENCE

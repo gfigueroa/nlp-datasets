@@ -1,0 +1,6 @@
+In a MAS (Multi-Agent System) agents may be heterogeneous. Two disparate agents require a common understanding of messages and message content in order to interact with each other. So a conversation protocol is needed for the communication of agents. Several conversation protocols have been proposed, but these don't work well in an environment of heterogeneity where an agent wishing to interact with a large number of other disparate agents cannot be expected to have knowledge of how to initiate or maintain a conversation with all other agents it may encounter. This paper proposes an application independent conversation protocol is defined at first in which a sequence of activities an agent has to perform to solve the problems in the communication using KQML with the notation of FSM.
+
+KQML
+agent
+conversation protocol
+heterogeneous

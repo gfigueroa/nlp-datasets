@@ -1,0 +1,14 @@
+The pendant drop method, used in an ultrahigh vacuum drop tube, allowed new determinations of the liquid surface tension of the refractory metals. After a description of the melting apparatus, the amazing reproducibility in terms of droplets masses (B0.6%) observed is discussed herein. Evidence is given of the harmful action of hydrogen bubbles contained in the commercial rods. Working with very thin wires (down to 0.3 mm), a variation curve for the Harkins correction factor of Tates law in its untabulated range is proposed. The validity of the representation of this factor is discussed via a dimensional analysis. Finally, new values of ÃLV for pure Re (2.510 J	m2), W (2.310 J	m2), Ta (2.010 J	m2), Nb (1.840 J	m2), Ir (2.140 J	m2), and Zr (1.435 J	m2) are proposed.
+
+LIQUID METALS
+SURFACE TENSION
+MEASURING METHODS
+REFRACTORY METALS
+WIRES
+ULTRAHIGH VACUUM
+DROPLETS
+RHENIUM
+TANTALUM
+NIOBIUM
+IRIDIUM
+ZIRCONIUM

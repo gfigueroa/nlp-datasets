@@ -1,0 +1,10 @@
+Many on-line and off-line methods have been advanced by researchers for identifying small signal modes in power systems. Identification methods employed off-line can also be used outside of the traditional on-line prediction scenarios. These methods can assist in the design of damping mitigation devices for critical small signal mode events. In this paper, several scenarios will be studied to determine the present level of damping for small signal disturbances. Next, a damping mitigation device will be added and tuned to improve damping performance. A recently proposed orthogonal polynomial algorithm will be used to estimate the damping improvement from the mitigating devices. Frequencies and their associated damping levels in the pre- and post-mitigation cases will be identified using this new method along with a Prony assessment. Several examples will show the flexibility of this new estimation method as a design tool for tuning damping devices.
+
+Prony's method
+associate Hermite expansion
+control design
+curve fitting
+power system stabilizers
+power systems
+small signal stability
+static var compensators

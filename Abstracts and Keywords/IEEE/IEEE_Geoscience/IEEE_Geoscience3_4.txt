@@ -1,0 +1,6 @@
+Breast cancer is the most common cancer in women. Early detection and diagnosis of breast cancer facilitated with digital mammography can increase survival rate and chances for patient's complete recovery. Bilateral asymmetry is one the breast abnormalities that may indicate breast cancer in early stage of its development. Researchers have been investigating and developing image processing algorithms that may help radiologists in giving accurate diagnosis. Most detection algorithms indicate suspicious regions that may need a better observation. This paper presents a survey of algorithms that have been developed for bilateral asymmetry detection. An overview of algorithms for alignment of the left and right breast is given and methods for comparison of the left and right breast are presented.
+
+Bilateral Asymmetry
+Breast Alignment
+Computer-Aided Detection
+Digital Mammography

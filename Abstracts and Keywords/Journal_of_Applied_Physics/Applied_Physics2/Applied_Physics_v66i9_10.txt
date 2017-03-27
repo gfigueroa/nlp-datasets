@@ -1,0 +1,12 @@
+A comprehensive bipolar transistor model based on the GummelPoon model [Bell Syst. Tech. J. 49, 827 (1970)] for lowtemperature circuit simulation is presented. Relevant lowtemperature physics such as dopingdependent dielectric permittivity, temperaturedependent freecarrier mobility and intrinsic carrier density, and deionization of impurity dopants are included in the model. Consequently, the model does not require temperature fitting parameters as does the GummelPoon model. Comparisons of the present model with the GummelPoon model, with experimental data, and with simulation from a twodimensional device simulator (pisces) are included.
+
+BIPOLAR TRANSISTORS
+SIMULATION
+MATHEMATICAL MODELS
+ELECTRONIC CIRCUITS
+LOW TEMPERATURE
+PERMITTIVITY
+DOPED MATERIALS
+CARRIER MOBILITY
+CARRIER DENSITY
+TEMPERATURE DEPENDENCE

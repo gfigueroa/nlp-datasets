@@ -1,0 +1,15 @@
+A new model for the carrier mobility in polycrystalline silicon under solar illumination is presented. The dependence of mobility on temperature and grain size is also investigated theoretically. It is found that at low temperatures or for small grain sizes, the mobility is controlled by the grainboundary scattering effect. Excellent agreement is observed between theoretical predictions and available experimental data.
+
+IV CHARACTERISTIC
+SILICON SOLAR CELLS
+CARRIER MOBILITY
+LIGHT SCATTERING
+SOLAR RADIATION
+GRAIN SIZE
+GRAIN BOUNDARIES
+TEMPERATURE EFFECTS
+MATHEMATICAL MODELS
+ELECTRIC CONDUCTIVITY
+POLYCRYSTALS
+SILICON
+PHOTON COLLISIONS

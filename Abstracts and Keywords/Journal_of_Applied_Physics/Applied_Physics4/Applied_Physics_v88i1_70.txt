@@ -1,0 +1,10 @@
+Degradation of ZnS and Y2O2S cathodoluminescent (CL) phosphors has been studied at 14 keV using Auger electron spectroscopy simultaneous with CL. The data are consistent with an electron stimulated surface chemical reaction (ESSCR) which led to destruction of ZnS and formation of a surface nonluminescent ZnO layer as well as injection of oxygen point defects into the near-surface region. In the case of Y2O2S:Eu, the electron beam stimulated removal of S and formation of Y2O3:Eu in the presence of 1×106
+Torr of oxygen. A model is presented which predicts that degradation by the ESSCR should increase with pressure in the vacuum, depend exponentially on electron dose, increase as the primary beam energy was reduced below 4 keV, and depend upon the type of gas present in the vacuum. These trends were demonstrated from the experimental data. © 2000 American Institute of Physics. 
+
+zinc compounds
+yttrium compounds
+phosphors
+field emission displays
+Auger electron spectra
+point defects
+cathodoluminescence

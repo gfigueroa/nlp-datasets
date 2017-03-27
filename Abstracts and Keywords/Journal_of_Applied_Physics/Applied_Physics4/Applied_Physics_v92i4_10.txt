@@ -1,0 +1,14 @@
+Results of investigation of phenomena preceding the phase transition from paraelectric to dipole-ordered phases in Pb1x(Li1/2La1/2)x(Zr1yTiy)O3 solid solutions with compositions close to the ferroelectricantiferroelectricparaelectric triple point in the Ti-concentration-temperature phase diagram are presented. X-ray diffraction and piezoelectric resonance methods are used for identification of the two-phase (antiferroelectric and ferroelectric) nuclei at the temperatures above the curie temperature. The relation between the presence of these two-phase nuclei in paraelectric phase of the compound and the diffuseness of the ordering phase transition is noted. The phenomenon of ion segregation at the interdomain boundary separating regions of ferroelectric and antiferroelectric phases and its role in enabling the observation of the piezoelectric resonance are discussed. © 2002 American Institute of Physics. 
+
+lead compounds
+lithium compounds
+lanthanum compounds
+ferroelectric transitions
+nucleation
+X-ray diffraction
+segregation
+antiferroelectric materials
+dielectric resonance
+solid solutions
+ferroelectric Curie temperature
+ferroelectric materials

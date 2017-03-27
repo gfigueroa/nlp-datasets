@@ -1,0 +1,15 @@
+A model is developed to study two loss mechanisms duing the propagation of highpower beams of carbon ions in currentcarrying airplasma channels. Such channels can provide the necessary standoff between the diodes and the target in lightiondriven inertial confinement fusion. Particle losses due to radial charge exchange diffusion across the channel magnetic field as well as collisional energy losses are studied. Semiempirical charge exchange cross sections are derived from literature sources and used in a Monte Carlo transport code with the energy loss modeled in the continuous slowing down approximation. We conclude that charge exchange losses are probably not of major concern for light ion beam inertial confinement fusion reactor configurations using channel transport, whereas collisional energy loss can be detrimental if the plasma channel density is too large.
+
+PLASMA
+CHARGE EXCHANGE
+ENERGY LOSSES
+AIR
+CARBON IONS
+MATHEMATICAL MODELS
+TARGETS
+INERTIAL CONFINEMENT
+PARTICLES DIFFUSION
+MAGNETIC FIELDS
+CROSS SECTIONS
+MONTE CARLO METHOD
+COMPUTER CODES

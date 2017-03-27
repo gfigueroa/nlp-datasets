@@ -1,0 +1,9 @@
+Slow heavy ions inevitably produce a significant concentration of defects and lattice disorder in solids during their slowing-down process via ion-solid interactions. For irradiation effects research and many industrial applications, atomic defect production, ion range, and doping concentration are commonly estimated by the stopping and range of ions in matter (SRIM) code. In this study, ion-induced damage and projectile ranges of low energy Au ions in SiC are determined using complementary ion beam and microscopy techniques. Considerable errors in both disorder profile and ion range predicted by the SRIM code indicate an overestimation of the electronic stopping power, by a factor of 2 in most cases, in the energy region up to 25 keV/nucleon. Such large discrepancies are also observed for slow heavy ions, including Pt, Au, and Pb ions, in other compound materials, such as GaN, AlN, and SrTiO3. Due to the importance of these materials for advanced device and nuclear applications, better electronic stopping cross section predictions, based on a reciprocity principle developed by Sigmund, is suggested with fitting parameters for possible improvement.
+
+doping profiles
+energy loss of particles
+gold
+ion beam effects
+semiconductor doping
+silicon compounds
+wide band gap semiconductors

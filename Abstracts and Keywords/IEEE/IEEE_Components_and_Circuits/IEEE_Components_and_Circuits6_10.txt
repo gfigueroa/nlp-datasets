@@ -1,0 +1,7 @@
+In this paper, the heat generation principle of rotary MRF (MagnetoRheological Fluids) dampers was investigated, a mathematical model of heat source distribution was proposed, the temperature field caused by the heat sources was numerically simulated by means of ANSYS software, and the law of temperature distribution and rise was revealed. On the basis, a forced water-cooling system for the MRF dampers was designed to solve the temperature rise problem. Experiments were also conducted. Both numerical and experimental studies showed that, during the running of the dampers without any cooling measures being taken, the temperature of the dampers would continuously rise to a very high level before heat exchange balance was reached; while a forced water-cooling system was applied, the time for arriving at the heat exchange balance would be much shorter, and the temperature rise could be controlled within 20degC that is permissible for the practical application of the dampers.
+
+ANSYS
+MRF
+damper
+numerical simulation
+temperature

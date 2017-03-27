@@ -1,0 +1,13 @@
+The metal-insulator transition (MIT) in vanadium dioxide in the vicinity of room temperature makes it one of the most interesting materials for novel switching device applications. It is therefore essential to have a fundamental understanding of the VO2 surface when it is incorporated into multilayer structures or nanodevices. This study focuses on the surface modification of VO2 in response to the thermal treatment during phase transition. Vacuum annealing at temperatures in the vicinity of the MIT triggers a partial reduction in the surface, and thus initiates a chemical phase transition. Scanning tunneling microscopy and spectroscopy are used to investigate the electronic properties and surface structure of the VO2 thin film on (0001) sapphire substrates. Band gap maps with a high spatial resolution and single point spectroscopy I-V curves are measured as the sample is cycled through the MIT, and thus provide a direct observation of the surface phase transition at the nanoscale. The VO2 surface exhibits a homogeneous insulating behavior with a typical band gap of < 0.5eV at room temperature, and the surface becomes more metallic and spatially inhomogeneous in conductivity during MIT, and wide range of surface oxides can be identified. The surface still remains partially metallic after cooling down from a long period anneal, and such irreversible surface electrical change is attributed to the loss of oxygen. The location of metallic islands after thermal cycling is strongly coupled to the topography of the film, and relaxation processes and continued modification of the spatial distribution of the metallic regions are recognized on a longer timescale. The impact of film morphology, strain, surface chemistry, and structural phase transition on the electronic characteristics of VO2 surfaces are discussed.
+
+annealing
+deformation
+energy gap
+island structure
+metal-insulator transition
+scanning tunnelling microscopy
+scanning tunnelling spectroscopy
+surface morphology
+surface topography
+thin films
+vanadium compounds

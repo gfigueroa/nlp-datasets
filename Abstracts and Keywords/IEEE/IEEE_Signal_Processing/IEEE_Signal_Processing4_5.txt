@@ -1,0 +1,7 @@
+This paper shows how the Unified Modeling Language(UML) can be used to represent a textual object or sentence of a natural language. Precisely, the representation builds on the UML class. That is data of a textual object - which are component types or "word types", lemmas of components, morphological information, syntactic dependency relations between components, and meanings - take up the compartments of the UML class - which are the compartment of the name, attributes, operations,and responsibilities. In addition to existent UML concepts,the representation introduces new ones to denote syntactic dependency relations and their types, gender and some morphological information of object components.
+
+Dependency relations
+Grammatical relations
+Natural Language Processing (NLP) task
+Syntax analysis
+and UML.

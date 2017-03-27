@@ -1,0 +1,5 @@
+The paralleling of uninterruptible power supplies (UPS's) with generators during UPS bypass operations can result in high-magnitude circulating ground currents under certain conditions. This paper explores the phenomena that cause this system behavior, presents data from an actual documented occurrence, and discusses methods to reduce or eliminate such circulating currents.
+
+AC generators
+grounding
+uninterruptible power systems

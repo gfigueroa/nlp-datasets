@@ -1,0 +1,9 @@
+Brillouin light scattering (BLS) has been used to study a series of three thin films of poly(styrene) spin coated onto Si(001) wafers. Poly(styrene) molecular weights w of 30	000 and 600	000 were used, and the film thicknesses h were in the range 1730 Å&lt;h&lt;3750 Å. It was found that the poly(styrene) films have isotropic elastic symmetry and that all of the films can be described by the same set of two independent elastic constants c11=5.7±0.15 GPa and c44=1.39±0.03 GPa. Both c11 and c44 were determined unambiguously using a leastsquaresfitting procedure by observation of the longitudinal guided and Rayleigh modes of the poly(styrene) films. Calculations have been performed of the BLS spectra which include both surface ripple and elastooptic light scattering mechanisms. From comparisons of the relative mode intensities in the measured and calculated BLS spectra, it is found that the values of the elastooptic coefficients for poly(styrene) are k11=1.4±0.4 and k12=1.6±0.4.
+
+THIN FILMS
+POLYSTYRENE
+BRILLOUIN EFFECT
+ELASTIC CONSTANTS
+SPINON COATING
+LIGHT SCATTERING
+RAYLEIGH SCATTERING

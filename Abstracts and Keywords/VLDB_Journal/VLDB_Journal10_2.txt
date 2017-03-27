@@ -1,0 +1,6 @@
+Most multimedia servers reported in the literature are designed to serve multiple and independent video/audio streams. We think that, in future, multimedia servers will also serve complete presentations. Multimedia presentations provide unique opportunities to develop algorithms for buffer management and admission control, as execution-time consumption requirements of presentations are known a priori. In this paper, we examine presentations in three different domains (heavyweight, middleweight, and lightweight) and provide buffer management and admission control algorithms for the three domains. We propose two improvements (flattening and dynamic-adjustments) on the schedules created for the heavyweight presentations. Results from a simulation environment are presented.
+
+Admission control
+Buffer management
+Flattening
+Multimedia presentations

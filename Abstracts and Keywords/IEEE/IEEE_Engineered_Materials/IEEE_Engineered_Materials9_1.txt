@@ -1,0 +1,7 @@
+A new 3D Fast Physical Optics method is presented for computing backscattered fields at high frequencies of PEC parabolic surfaces. This method can be easily extended to more complex surfaces. By virtue of Cauchy theorem a suitable surface deformation is used to convert a double highly oscillatory integral into a double slow varying integral, easily calculable by means of Gaussian quadrature.
+
+Highly oscillatory integrals
+Physical Optics
+Radar Cross Section
+integration
+path deformation

@@ -1,0 +1,17 @@
+The kinetics of laser-stimulated luminescence (LSL) of yttria-stabilized cubic zirconia single crystals is investigated. Excitation of ZrO2Å9.5%Y2O3(100) and (110) using ns pulses of 213 nm (5.82 eV), 266 nm (4.66 eV), and 355 nm (3.49 eV) photons produce LSL bands with Gaussian profiles and peak maxima at 460 nm (2.69 eV), 550 nm (2.25 eV), and 600 nm (2.07 eV), respectively. LSL involves a single-photon process for energy densities below <1.0 MW/cm2. Decay times vary from 0.1 to 100 ¼s depending on the excitation energy and temperature. Decay kinetics are hyperbolic indicating that all LSL bands result from recombination. The LSL quenches with increasing temperature and activation energies obtained using the Mott approximation are 0.10±0.01, 0.20±0.02, and 0.45±0.04
+eV for the 2.69, 2.25, and 2.07 eV LSL bands, respectively. The various activation energies, decay kinetics, and excitation/emission energies correspond to the presence of several emission centers which can be associated with anion vacancies. We tentatively assign these to intrinsic F centers and extrinsic F-type centers. The latter are associated with one and two Y3+ ions in the nearest neighborhood positions. Since the normalized temperature dependencies of the decay coefficients are similar for all the LSL bands, we suggest that recombination primarily involves electrons, trapped at intrinsic and extrinsic defect sites, and mobilized holes. © 1999 American Institute of Physics.
+
+yttrium compounds
+zirconium compounds
+photoluminescence
+vacancies (crystal)
+electron-hole recombination
+ZIRCONIUM OXIDES
+YTTRIUM OXIDES
+LUMINESCENCE
+LASER RADIATION
+ULTRAVIOLET RADIATION
+EXCITATION
+TEMPERATURE DEPENDENCE
+CRYSTAL DEFECTS
+RECOMBINATION

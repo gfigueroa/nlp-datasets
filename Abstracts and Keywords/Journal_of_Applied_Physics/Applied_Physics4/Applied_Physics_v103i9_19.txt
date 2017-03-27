@@ -1,0 +1,15 @@
+The electrical characteristics and interfacial reactions of Ti/Al/Mo/Au metallization on AlGaN/GaN heterostructures at various annealing temperatures ranging from 400to950	°C have been investigated in an effort to elucidate the Ohmic contact formation mechanism. A transition from Schottky to Ohmic electrical behavior occurred at < 500	°C. This transition was engendered by the formation of a thin epitaxial TiN layer on the AlGaN. Binary and ternary intermetallic compound formations were observed to have formed as a result of intermixing and reactions among the metals. The Mo layer remained continuous until 700	°C, where it disintegrated into particles embedded in the metallic matrix. An optimal contact performance was obtained for Ti/Al/Mo/Au on AlGaN/GaN at 850	°C; this was correlated to TiN island formation along dislocations penetrating into the heterostructure beyond the plane of the two-dimensional electron gas. Overannealing degradation mechanism at 950	°C is also explained based on structural characterization.
+
+aluminium
+aluminium compounds
+annealing
+gallium compounds
+gold
+III-V semiconductors
+island structure
+molybdenum
+ohmic contacts
+Schottky barriers
+semiconductor heterojunctions
+titanium
+two-dimensional electron gas

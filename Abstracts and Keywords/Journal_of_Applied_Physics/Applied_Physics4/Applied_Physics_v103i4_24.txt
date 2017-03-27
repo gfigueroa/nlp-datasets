@@ -1,0 +1,6 @@
+We numerically study the relativistic ponderomotive scattering of an ultrafast electron beam with a focused high-intensity laser pulse using a three-dimensional test-particle code. The temporal evolution of the spatial distribution and the energy spectrum of the scattered electron beam are investigated. The method using the ponderomotive scattering effect to measure the pulse duration of an ultrashort electron beam is discussed in detail. Taking into account the group velocity mismatch, the interaction geometry, and electron energy spectrum modified by the ponderomotive forces, the pulse duration of ultrashort electron beams can be retrieved by the ponderomotive scattering cross-correlation method.
+
+electron beams
+laser beams
+measurement by laser beam
+spatiotemporal phenomena

@@ -1,0 +1,7 @@
+In this article we report the mechanism involved in the nitriding process of stainless steel by ion implantation. The importance of the nitrogen ion mean-free path on the stainless steel nitrated layer obtained by using a broad ion source is established. The energy distribution of the nitrogen ions arriving at the substrate is basically determined by the inelastic scattering suffered by the ions on the way to the material surface, i.e., the ion mean-free-path ». Besides this effect, the ion current density arriving at the sample surface is modified by the dispersion introduced by the collisions of the nitrogen ions with the chamber background molecules. This multiple scattering process is modeled assuming a stochastic phenomenon and its conclusions used to explain experimental results of hardness, diffusion profile, and nitrated layer thickness. A controlled oxygen-background partial pressure is also introduced and its role on the nitrated layer reported. At relatively low ion energies and oxygen partial pressures, both the diffusion zone and nitrated layer thickness are controlled by the ion current density. Indeed, they follow a linear relationship, provided that the composition of the nitrated layer does not change, i.e., the amount of incorporated nitrogen does not modify the original material crystalline phase. © 2003 American Institute of Physics. 
+
+stainless steel
+surface hardening
+ion implantation
+stochastic processes
+oxygen

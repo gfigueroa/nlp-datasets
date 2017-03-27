@@ -1,0 +1,15 @@
+The effects of pressure on the deposition of hydrogenated amorphous carbon (a-C:H) thin films using the electron cyclotron resonance chemical vapor deposition (ECR-CVD) technique are reported. In this study, the ions were accelerated under a constant direct dc bias achieved through a screen grid positioned above the substrate. The deposition pressure was varied to study its effects on the plasma environment under the ECR conditions and also on the properties of the films deposited. It was found that changing the process pressure has a very significant effect on the properties of the films deposited. The hardness and the optical gap of the films were noted to increase with pressure. The sp3 content in the films, as deduced from their Raman spectra, was also observed to increase. The results obtained in this study show that the plasma chemistry, in addition to the ion energy, plays a very significant role in determining the properties of the films deposited. The denser plasma created under the ECR condition at higher pressure, accompanied by the presence of a relatively large amount of atomic hydrogen resulting in enhanced plasma etching of the films, is believed to lead to the results observed. Comparisons have also been made between films deposited under rf induced bias and direct dc bias in the ECR-CVD system. The difference in the characteristics observed can be attributed to the narrower ion energy distribution in the case of direct dc bias. © 1998 American Institute of Physics.
+
+plasma CVD
+plasma CVD coatings
+carbon
+hydrogen
+energy gap
+optical constants
+Raman spectra
+hardness
+wear resistant coatings
+optical films
+semiconductor thin films
+amorphous semiconductors
+elemental semiconductors

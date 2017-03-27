@@ -1,0 +1,8 @@
+Schistoselike organic nanostructures were synthesized via a simple hydrothermal method. Optical properties of the nanostructures have been investigated by temperature-dependent photoluminescence (PL) spectroscopy. Three PL peaks were observed and their positions can be tuned by temperature from visible to ultraviolet region. The Huang-Rhys factor of the PL spectrum was calculated and an extended empirical model of the Bose-Einstein statistical factor concerning phonon emission and absorption was applied to investigate the PL behavior. The emission dynamic behaviors of the organic nanostructures were studied by PL decay curve, indicating two lifetime components of 0.80 and 6.98¼s at 300 K.
+
+materials preparation
+nanostructured materials
+organic compounds
+phonons
+photoluminescence
+quantum statistical mechanics

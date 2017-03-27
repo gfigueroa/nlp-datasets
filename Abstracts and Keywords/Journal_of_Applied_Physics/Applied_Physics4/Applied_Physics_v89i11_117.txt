@@ -1,0 +1,10 @@
+Three-dimensional atom probe analyses of the interfaces between CoFe and Cu layers has shown that both roughness and chemical intermixing can occur independently. Interfaces formed by the deposition of Cu onto CoFe mimic the roughness present in previously deposited interfaces, but have a very small amount of interfacial mixing. In contrast, interfaces formed by the deposition of CoFe onto Cu are less rough, but more chemically intermixed. The region of chemical intermixing formed when CoFe is deposited onto Cu (0.71.0 nm) is approximately two times larger than that when Cu is deposited onto CoFe (0.30.5 nm). © 2001 American Institute of Physics. 
+
+cobalt alloys
+iron alloys
+ferromagnetic materials
+magnetic thin films
+copper
+interface roughness
+chemical interdiffusion
+atom probe field ion microscopy

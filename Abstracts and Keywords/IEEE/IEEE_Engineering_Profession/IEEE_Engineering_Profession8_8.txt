@@ -1,0 +1,6 @@
+Little is known about the compliance of risk management models with the industrial practice and vice versa. In this paper, we compare the industrial risk management practice against a risk management model that we have synthesized from a set of current risk management models. This comparison has resulted in several discrepancies observed. As a result, this paper suggests a list of issues that need to be addressed in both the industrial and standard models.
+
+Lifecycle
+comparison
+process model
+status

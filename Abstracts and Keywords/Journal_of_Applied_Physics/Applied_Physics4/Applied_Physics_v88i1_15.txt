@@ -1,0 +1,28 @@
+Epitaxial metastable Ge1yCy alloy layers with y}0.02 were grown on Ge(001) at temperatures Ts=200550
+°C using hyperthermal Ge and C beams with average energies of 16 and 24 eV, respectively, in order to investigate C incorporation pathways in the Ge lattice. High-resolution reciprocal lattice maps show that all as-deposited alloy layers are fully coherent with the substrate. Layers grown at Ts}350
+°C are in compression due to higher C concentrations in interstitial than in substitutional sites. The compressive strain decreases (i.e., the substitutional C concentration increases) with increasing Ts within this temperature range. At higher growth temperatures, as-deposited alloys are nearly strain free since the majority of the incorporated C is trapped at extended defects. Annealing the Ge1yCy layers at Ta=450 and 550
+°C leads to a significant increase, proportional to the strain in the as-deposited films, in compressive strain. Further annealing at Ta=650
+°C results in the formation of dislocation loops which act as sinks for interstitial and substitutional C atoms and thus relieves residual macroscopic strain. Finally, we show that the large compressive strain associated with interstitial C atoms must be accounted for in order to determine the total incorporated C fraction from diffraction analyses. © 2000 American Institute of Physics. 
+
+germanium compounds
+semiconductor epitaxial layers
+atomic beams
+vapour phase epitaxial growth
+semiconductor materials
+semiconductor growth
+lattice constants
+internal stresses
+dislocation loops
+transmission electron microscopy
+secondary ion mass spectra
+impurity distribution
+stress relaxation
+GERMANIUM ALLOYS
+CARBIDES
+EPITAXY
+METASTABLE STATES
+ENERGY BEAM DEPOSITION FILMS
+STRAINS
+ANNEALING
+X-RAY DIFFRACTION
+INTERSTITIALS

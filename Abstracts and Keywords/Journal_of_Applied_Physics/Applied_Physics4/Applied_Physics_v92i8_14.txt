@@ -1,0 +1,15 @@
+GaAs thin films with embedded Mn(Ga)As magnetic nanoclusters have been synthesized by annealing (Ga,
+Mn)As diluted material grown by low-temperature molecular-beam epitaxy (MBE). The structural and magnetic properties of granular films prepared by using different annealing recipes have been investigated by x-ray diffraction, superconducting quantum interference device magnetometry, and transmission electron microscopy. Large spherical hexagonal MnAs nanocrystals are obtained when using rapid thermal annealing. Small tetrahedral zincblende Mn(Ga)As clusters result when annealing under MBE conditions. In both cases, the matrix develops a small tensile strain of similar value. The contribution from diffuse scattering to the diffraction from the granular layers is pronounced only for films with hexagonal clusters. Strong ferromagnetic behavior is observed only in films with hexagonal clusters.© 2002 American Institute of Physics. 
+
+manganese compounds
+gallium arsenide
+III-V semiconductors
+semimagnetic semiconductors
+molecular beam epitaxial growth
+nanostructured materials
+X-ray diffraction
+transmission electron microscopy
+rapid thermal annealing
+ferromagnetic materials
+semiconductor epitaxial layers
+semiconductor growth

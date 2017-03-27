@@ -1,0 +1,6 @@
+Computer mediated courseware (CMC) has been developed so far for individual courses considering single or multiple text books. A group of courseware can be developed by using multiple text books and in this case, it is a requirement to cluster the contents of different books to form a generalized clustered content. No work has been found to develop courseware applying generalized clustered content. We have proposed a clustering of content supporting computer mediated courseware development based on data mining techniques to construct a hierarchical general structure of a group of courseware combining the individual structure of a set of books. The clustering will help the courseware developer to dynamically allocate contents to develop different courses using a group of books. We have applied this methodology for different level of courses on database. The methodology is generalized and can be applied to any other courses.
+
+Clustering
+Courseware
+Proximity
+True Positive

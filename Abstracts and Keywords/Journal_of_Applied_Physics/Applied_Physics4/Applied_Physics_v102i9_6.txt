@@ -1,0 +1,15 @@
+We studied the current-induced magnetic switching in Co/Cu/Co nanopillars with an in-plane magnetization traversed by a perpendicular-to-plane spin-polarized current. The Landau-Lifshitz-Gilbert equation incorporating the spin transfer torque (STT) effect was employed. Magnetization switching was found to take place when the current density exceeds a threshold. It is accompanied by drastic oscillations near the magnetic reversal point. The switching time depends on the applied current density. The magnetization can also be switched by a sufficiently long square pulsed current. The roles of anisotropy, exchange, and demagnetization energies in the magnetization switching process of nanopillars are discussed. It is shown that the switching is mainly determined by the competition between STT and the Gilbert damping torque.
+
+cobalt
+copper
+current density
+demagnetisation
+exchange interactions (electron)
+ferromagnetic materials
+magnetic anisotropy
+magnetic multilayers
+magnetic switching
+magnetisation reversal
+micromagnetics
+nanostructured materials
+spin polarised transport

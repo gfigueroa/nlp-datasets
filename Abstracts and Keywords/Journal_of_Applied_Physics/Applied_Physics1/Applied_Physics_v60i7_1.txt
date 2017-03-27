@@ -1,0 +1,11 @@
+We have investigated the damage which results from silicon selfimplantation for the range of doses from 2×1014 to 1×1016 cm2 for temperatures from 82 to 296 K for 150 and 300keV implants. Crosssectional transmission electron microscopy (TEM) was used to evaluate the nature of the damaged layer. The experimental results were correlated with computer calculated damage distributions using a Monte Carlo simulation program. The depth of the amorphouscrystalline interface(s) was evaluated as a function of dose and temperature. An experimental depositeddamage energy curve for individual cascade was constructed. Using the curve a critical energy density for amorphization Ec, was calculated for the samples implanted at different temperatures. The energy was found to depend on depth and implant energy, and it increases with temperature. A study of amorphouscrystalline interface morphology shows no dependence on temperature within the range considered. The kinetics of dynamic annealing are discussed in conjunction with the above findings.
+
+TRANSMISSION ELECTRON MICROSCOPY
+ION IMPLANTATION
+DAMAGE
+SIMULATION
+AMORPHOUS STATE
+INTERFACES
+MORPHOLOGY
+INTERFACE STRUCTURE
+SILICON

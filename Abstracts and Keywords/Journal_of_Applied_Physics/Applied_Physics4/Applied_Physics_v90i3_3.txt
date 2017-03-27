@@ -1,0 +1,10 @@
+CaTiO3 (CT) and CaAl1/2Nb1/2O3 (CAN) have similar structures but very different dielectric properties. For CT at room temperature, the relative permittivity ºH170 and the temperature coefficient of resonance frequency ÄfH900×106
+K1, but for CAN, ºH27 and ÄfH88×106
+K1. I use first-principles density functional theory calculations to investigate the origin of the contrasting behaviors. I find important differences between the two systems in both the frequencies and the eigenvectors of the low-frequency polar phonons. In CT, the frequencies are lower and the perovskite B site cations move against the surrounding oxygen octahedra; whereas in CAN, the frequencies are higher and the B site cations move with the oxygen octahedra. These two factors are equally important in explaining the differences in º. I introduce and solve a decoupled quantum oscillator model for the temperature-dependent permittivity. This model predicts a large positive Äf for CT and a small Äf for CAN, in qualitative agreement with experiment. I relate the different dielectric behaviors to differences in the electronic structures. © 2001 American Institute of Physics. 
+
+calcium compounds
+permittivity
+dielectric resonance
+density functional theory
+eigenvalues and eigenfunctions
+phonons

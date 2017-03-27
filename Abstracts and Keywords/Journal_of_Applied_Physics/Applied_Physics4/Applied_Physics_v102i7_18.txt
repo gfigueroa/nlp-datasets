@@ -1,0 +1,4 @@
+In investigating guanidine (Gu)HCl-denatured chlorophyll protein 43 (CP43) and CP47 using the terahertz time-domain spectroscopy, we explored the feasibility and sensitivity of the terahertz technology in sensing protein denaturation and associated conformation changes. It was found that the conformation change was induced by the CûO group of chlorophyll a, interacting with the NH group of GuHCl to form hydrogen bonds. According to the fluorescence emission spectra of the CPs treated by GuHCl with different concentrations, we found that CP47 is more sensitive to GuHCl treatment than CP43.
+
+fluorescence
+proteins

@@ -1,0 +1,5 @@
+A stereo obstacle detection method based on images symmetrical move and cell partition is presented in this paper. This algorithm gets each cell's optimum offset by calculating the minimum non-similarity of cell, and merges Cell of Interests (COIs) to calculate obstacles in the most probably obstacle regions, and gives information of these obstacles. The paper introduces the perspective projection model at first, and then gives two conclusions which are the basic of the algorithm, the part of cell partition and cell optimum offset calculation are presented. Finally, algorithm performance tested by experiment on the test vehicle JJUV-I is shown in the paper.
+
+Image symmetrical move
+Obstacle detection
+Stereo vision

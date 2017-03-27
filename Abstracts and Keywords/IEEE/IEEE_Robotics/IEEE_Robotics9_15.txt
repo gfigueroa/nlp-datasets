@@ -1,0 +1,6 @@
+Recurrent neural networks (RNNs) have good modeling capability for nonlinear dynamic systems, but due to the difficulties for training this superiority is discounted. Echo state network (ESN) is a new paradigm for using RNNs with a simpler training method, where an RNN is generated randomly and only a readout is trained. ESN method has quickly become popular in robotics, such as for motor control, for navigation. However, the classical training method for ESNs can not ensure the dynamics asymptotic stability if the trained ESNs run in a closed-loop self-generative mode. The reason is analyzed at first. We then consider the ESN training problem as an optimization problem with a nonlinear constraint, and take a particle swarm optimization (PSO) algorithm solve it. In our simulation experiments, the ESNs are trained as Â¿figure-eightÂ¿ trajectory generators. The results show that the proposed PSO-based training method can effectively ensure the dynamics asymptotic stability as well as the precision of generating trajectories of the trained ESNs.
+
+Echo state networks
+asymptotic stability
+particle swarm optimization
+recurrent neural networks

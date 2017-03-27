@@ -1,0 +1,12 @@
+We study the hysteresis in threshold voltage shift during alternating gate bias ramps (drain current vs gate voltage (IdVg) sweeps) after negative bias temperature stress and compare the results with carefully recorded charge pumping measurements. This allows us to clearly identify three different types of defects. All defect types have in common that their charge state depends on the position of the Fermi level and that they introduce a broad density of states (DOS) in the vicinity or within of the silicon band gap. Defect I is fully recoverable, defect II is similar to defect I in terms of DOS but does not recover, while defect III can be attributed to the conventional interface states. With a precise microstructural model in mind, and by using specific test chips, which allow us to vary stress bias and temperature quasiarbitrarily, we come to the conclusion that the carrier trapping and detrapping characteristics of stress induced defects can be controlled by temperature and electric field in a similar way, but that irrevocable structural relaxation is mainly influenced by temperature. Based on these ideas, we present a measurement method which can be used to energetically profile the relaxation of stress induced oxide defects.
+
+electric fields
+electron traps
+electronic density of states
+elemental semiconductors
+energy gap
+Fermi level
+hole traps
+interface states
+silicon
+silicon compounds

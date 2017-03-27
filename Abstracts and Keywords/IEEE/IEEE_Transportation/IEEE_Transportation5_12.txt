@@ -1,0 +1,6 @@
+In military applications, it is important for a platform (warship, aircraft, etc.) or an installation (airbase, etc.) to maintain war fighting ability after being damaged. In particular, if the unit requires electric power, cooling, or other resources to perform its mission, then these resources must be available following a weapon detonation event. The integrated engineering plant is responsible for providing these services to the mission critical loads in a unit. Novel continuity of service metrics for integrated engineering plants are set forth. These metrics provide a quantitative means of predicting the worst case scenario for a given system, as well as the level of service the plant can provide under the worst case scenario. This provides a method of making meaningful comparisons between different designs. The computation and meaning of the proposed metrics are explored using the notional plant.
+
+Continuity of service
+integrated engineering plants
+metrics
+survivability

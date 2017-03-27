@@ -1,0 +1,9 @@
+The gallium arsenide metalsemiconductor fieldeffect transistor (GaAs MESFET) with a gate length of 0.3 ¼m is numerically simulated in two dimensions using a semiclassical hotelectron transport model. A new type of nonstationary velocity overshoot is predicted in submicron devices. This new velocity overshoot phenomenon occurs in the drain region when the applied drain voltage is sufficiently large, so that a strong stationary highfield domain extended near the drain is developed in the region between the gate and the drain. The mechanism is found to be associated with a large mobility change by macroscopic intervalley transfer from the lowmobility higher energy satellite valleys to the highmobility lower energy central valley in GaAs. In submicron GaAs MESFETs, this situation occurs as the electrons are rapidly cooled from the higher energy satellite valleys below the threshold energy during their transport across the depletion layer that developed near the drain electrode under large drainbias conditions. Even though the mechanism involves initially heavy electrons under decreasing electric field conditions, it is found that a substantially high velocity overshoot is exhibited. The peak drift velocity attained reaches twice the maximum drift velocity obtainable under stationary conditions.
+
+GALLIUM ARSENIDES
+FIELD EFFECT TRANSISTORS
+COMPUTERIZED SIMULATION
+HOT ELECTRONS
+VELOCITY
+ELECTRON MOBILITY
+ELECTRON DRIFT

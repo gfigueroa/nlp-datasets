@@ -1,0 +1,11 @@
+We report the effects of cubic and uniaxial anisotropy on the propagation of magnetostatic waves. When yttrium iron garnet films grown by the method of liquidphase epitaxy on a [111] plane are biased in plane, the magnetization is aligned with the bias field only at six special orientations. In addition to frequency band shifts, the cubic anisotropy results in magnetostatic surface wave modes which have tilted plane phase fronts. Furthermore, the dB/¼s loss of magnetostatic surface waves in multiplelayer films is not constant but varies with frequency.
+
+YIG
+FILMS
+LAYERS
+LPE
+MAGNETOSTATIC WAVES
+ANISOTROPY
+SURFACE WAVES
+DAMPING
+LS COUPLING

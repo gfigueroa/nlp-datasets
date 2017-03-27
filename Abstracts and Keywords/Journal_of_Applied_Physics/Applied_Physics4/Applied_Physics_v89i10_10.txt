@@ -1,0 +1,12 @@
+The band-gap (Egp) and valence band offset (”Ev) energies of pseudomorphic GaAsSb layers on GaAs substrate are determined from temperature-dependent photoluminescence measurements on GaAsSb/GaAs and GaAsSb/GaAlAs quantum wells grown by molecular beam epitaxy. A clear evidence of staggered type-II band alignment of GaAsSb relative to GaAs and a value of 1.05 for the valence band offset ratio (Qv) are proposed. Finally, through a detailed comparison of these values with those published previously, we have shown that the scatter in Qv found in the literature (&lt;1 to 2.1) is closely dependent on the exact determination of Egp. Particularly, we have shown that the strain dependence of the deformation potential is important in the calculation of the strain energy contribution to Egp. © 2001 American Institute of Physics.
+
+gallium compounds
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor epitaxial layers
+semiconductor quantum wells
+photoluminescence
+valence bands
+energy gap
+internal stresses

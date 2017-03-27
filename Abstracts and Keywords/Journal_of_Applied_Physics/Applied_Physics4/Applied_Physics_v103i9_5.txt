@@ -1,0 +1,10 @@
+Hematocompatibility and nonfouling properties of materials are crucial for the development of small-scale biomedical devices. This study examines the adhesion and morphology of purified human platelets on plasma-polymerized tetraglyme-coated glass substrates. The effect of varying the plasma-processing parameters on platelet responses was determined using scanning electron microscopy. Images of platelets on the coated surfaces show that a significant reduction in platelet adhesion and spreading can be achieved as the processing parameters are varied.
+
+adhesion
+blood
+cellular biophysics
+coatings
+glass
+plasma materials processing
+polymerisation
+scanning electron microscopy

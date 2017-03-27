@@ -1,0 +1,5 @@
+The response of multiple quantum well (QW) infrared photodetectors (QW) to the photoexcitation of one QW selected from many identical QWs was recently modeled [M. Ershov, J. Appl. Phys. 86, 7059 (1999)]. We point out here that the presented analysis based on the use of drift-diffusion model for a system with a few electrons is incorrect. © 2001 American Institute of Physics. 
+
+photodetectors
+infrared detectors
+quantum well devices

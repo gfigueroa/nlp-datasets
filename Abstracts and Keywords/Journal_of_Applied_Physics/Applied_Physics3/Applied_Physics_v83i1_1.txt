@@ -1,0 +1,14 @@
+We report on the precipitation kinetics of Fe contamination at SiSiO2 interfaces during dry oxidation at 900	°C. Transmission electron microscopy (TEM) and atomic force microscopy are used to monitor the interface roughness and precipitate density for oxides formed in the presence of both bulk and surface contamination of the Si. We show that the precipitating phase is ²-FeSi2, the equilibrium FeSi phase (rather than ±-FeSi2 or an iron silicate or iron oxide). The interface precipitate density is proportional to the surface Fe, and differs in float-zone and Czochralski Si. These precipitates correlate with the presence of sharp asperities at the interface. Detectable Fe precipitation is measured in TEM for contamination levels down to 1×1013
+cm2. In contrast, bulk contamination to above the solid solubility does not generate observable precipitation at the oxide interface. © 1998 American Institute of Physics. 
+
+precipitation
+atomic force microscopy
+transmission electron microscopy
+surface contamination
+semiconductor-insulator boundaries
+oxidation
+solid solubility
+silicon
+silicon compounds
+interface structure
+iron

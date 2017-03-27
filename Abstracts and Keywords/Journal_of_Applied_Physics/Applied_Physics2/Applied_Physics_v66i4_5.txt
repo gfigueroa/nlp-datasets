@@ -1,0 +1,12 @@
+The influence of grain orientation and weaklink coupling between grains on the critical current of polycrystalline YBaCuO superconductors has been investigated by numerical methods. The theoretical results indicate that there is size effect on jC in bulk polycrystals, and that it is not necessary to consider the influence of grain orientation when jC is less than 105 A/cm2.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+POLYCRYSTALS
+GRANULAR MATERIALS
+CRITICAL CURRENT
+SUPERCONDUCTORS
+GRAIN ORIENTATION
+GRAIN SIZE
+JOSEPHSON JUNCTIONS

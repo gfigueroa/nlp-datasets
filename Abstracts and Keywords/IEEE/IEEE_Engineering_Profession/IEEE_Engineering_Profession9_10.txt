@@ -1,0 +1,7 @@
+a new configuration is proposed to mitigate power quality problems in traction system. Proposed configuration is a combined system of single tuned passive filter and a thyristor controlled reactor. This configuration is cheaper and easier to implementation. It decreases power losses in supply system considerably through optimal compensation of reactive power. Also its control strategy is simple. A phase locked loop is proposed in control system which can work in case of harmonic voltage and noisy conditions; it has not been used yet in such systems practically. A fuzzy controller determines the firing angle of the thyristor controlled reactor and provide voltage profile at desired value. Validity of this configuration is confirmed through simulation results with Matlab program.
+
+Power quality
+harmonics
+passive filter
+thyristor controlled reactor
+traction systems

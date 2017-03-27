@@ -1,0 +1,10 @@
+Femtosecond laser radiation has been used to ablate a gold target in pure deionized water to produce colloidal gold nanoparticles. We report evidence for two different mechanisms of material ablation in the liquid environment, whose relative contributions determine the size distribution of the produced particles. The first mechanism, associated with thermal-free femtosecond ablation, manifests itself at relatively low laser fluences F&lt;400	J/cm2 and leads to very small (310 nm) and almost monodispersed gold colloids. The second one, attributed to the plasma-induced heating and ablation of the target, takes place at high fluences and gives rise to a much larger particle size and broad size distribution. The fabricated nanoparticles exhibit plasmon-related optical absorption peak and are of significance for biosensing applications. © 2003 American Institute of Physics. 
+
+gold
+nanoparticles
+laser ablation
+particle size
+high-speed optical techniques
+colloids
+biosensors
+plasmons

@@ -1,0 +1,6 @@
+External sorting of large files of records involves use of disk space to store temporary files, processing time for sorting, and transfer time between CPU, cache, memory, and disk. Compression can reduce disk and transfer costs, and, in the case of external sorts, cut merge costs by reducing the number of runs. It is therefore plausible that overall costs of external sorting could be reduced through use of compression.In this paper, we propose new compression techniques for data consisting of sets of records. The best of these techniques, based on building a trie of variable-length common strings, provides fast compression and decompression and allows random access to individual records. We show experimentally that our trie-based compression leads to significant reduction in sorting costs; that is, it is faster to compress the data, sort it, and then decompress it than to sort the uncompressed data. While the degree of compression is not quite as great as can be obtained with adaptive techniques such as Lempel-Ziv methods, these cannot be applied to sorting. Our experiments show that, in comparison to approaches such as Huffman coding of fixed-length substrings, our novel trie-based method is faster and provides greater size reductions.
+
+External sorting
+Query evaluation
+Semi-static compression
+Sorting

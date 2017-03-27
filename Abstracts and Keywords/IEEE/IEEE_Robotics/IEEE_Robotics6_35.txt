@@ -1,0 +1,8 @@
+Recently, it is well known that identity authentication is one of the most important technologies in computer systems and information networks. This study focuses on a new identity authentication method, whose originality is that we admit to use ldquotimerdquo instead of binary bits string in passwords. In this paper we propose fuzzy timing passwords, which enable us to secure security in identity authentication systems and avoid constrains of users. Then, we consider the effectiveness and constraint of them in practical use.
+
+brute force attack
+disable person
+fuzzy measure
+fuzzy timing password
+identity authentication
+visually impaired

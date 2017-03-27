@@ -1,0 +1,13 @@
+A new technique for the formation of ultrathin tungsten filaments is described. It is based on the selective deposition of tungsten via the silicon reduction of WF6 along the sidewall of a photolithographically defined undoped polycrystalline silicon/SiO2 step. The width of the filament is determined by the tungsten deposition parameters and the thickness by the thickness of the polycrystalline film. Filaments with a cross section of 600×2000 Å and 67.5, 140, and 265 ¼m lengths have been fabricated by this method. Initial low temperature resistance measurements of nonimplanted and Siimplanted (1×1015 cm2, 20 keV) filaments show localization/electronelectron interaction behavior.
+
+TUNGSTEN
+CHEMICAL VAPOR DEPOSITION
+TUNGSTEN FLUORIDES
+LITHOGRAPHY
+SILICON
+VAPOR DEPOSITED COATINGS
+FILAMENTS
+FABRICATION
+ELECTRIC CONDUCTIVITY
+THICKNESS
+LOCALIZED STATES

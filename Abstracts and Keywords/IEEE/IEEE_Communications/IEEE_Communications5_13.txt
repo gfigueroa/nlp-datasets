@@ -1,0 +1,7 @@
+In the objective of improving the video quality as perceived by end-users, multipath video streaming in Video Distribution Network (VDN) comes as a promising solution. In this paper, we present a new adaptive mechanism to maximize the overall video quality at the client. Overlay path selection is dynamically done based on available bandwidth estimation, while the Quality of Experience (QoE) is subjectively measured using Pseudo-Subjective Quality Assessment (PSQA) tool. Simulation results show that our proposed method can automatically adapt to the load variation on the different Internet paths, in a way that it guarantees a best perceived quality by end-users.
+
+Multipath
+PSQA
+QoE
+VDN
+Video streaming

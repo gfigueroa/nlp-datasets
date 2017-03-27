@@ -1,0 +1,19 @@
+Nanocrystalline and nanocomposites of (Mn0.6Zn0.4Fe2O4)(1z)(SiO2)z (z = 0.0,0.10,0.15,0.25) were prepared by sol-gel method. The as-prepared samples were annealed at 200, 400, and 600	°C. The crystallographic phases, particle sizes and their distributions, etc. of the annealed samples were determined by x-ray diffraction and high-resolution transmission electron microscopy (TEM). Zero field cooled (ZFC) and field cooled (FC) magnetizations of some selected samples measured in the temperature range of 3005 K suggest the presence of superparamagnetic (SPM) relaxation in the samples. For a few selected samples particle sizes were also estimated from the TEM micrographs and dc magnetizations. The particle sizes, magnetic anisotropies and blocking temperatures of some samples have also been computed from the difference of FC and ZFC magnetizations data. The particle sizes of the samples were also worked out from the Langevin fitting of the anhysteretic magnetization curve above the blocking temperature. The SPM relaxations of all the samples have also been confirmed by ac magnetic measurements. The SPM relaxations in the nanocomposite samples annealed at higher temperature (600	°C) is stronger than the bare sample which is attributed to the controlled rate of growth of particle sizes by SiO2 coating. In case of sample annealed at 400	°C, the value of magnetic anisotropy constant determined from the ZFC and FC magnetizations is in agreement with that obtained from the Neels equation. However it is a bit smaller for the sample annealed at 600	°C.
+
+annealing
+ferrites
+magnetic anisotropy
+magnetic relaxation
+magnetisation
+manganese compounds
+nanocomposites
+nanofabrication
+Neel temperature
+particle size
+silicon compounds
+soft magnetic materials
+sol-gel processing
+superparamagnetism
+transmission electron microscopy
+X-ray diffraction
+zinc compounds

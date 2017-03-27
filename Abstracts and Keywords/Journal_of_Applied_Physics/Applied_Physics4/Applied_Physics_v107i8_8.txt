@@ -1,0 +1,14 @@
+A ferroelectric thin film of Aurivillius phase K0.5Bi4.5Ti4O15 (KBT) with a complex bismuth layer-structure was fabricated using the pulsed laser deposition method. The thin film grown on Pt/Ti/SiO2/Si substrate shows a strong c-axis orientation, as revealed by x-ray diffraction results, and platelike growth of grains. A Pt/KBT/Pt capacitor shows a maximum polarization of about 20¼C/cm2. In addition, the capacitor also shows good fatigue resistance, with a decrease of 14.5% in the remanent polarization after 107 switching cycles. This Aurivillius phase with four layers of TiO6 octahedra in its unit cell has a band gap of 3.6 eV, which is greater than that of Bi4Ti3O12.
+
+bismuth compounds
+capacitors
+dielectric polarisation
+energy gap
+ferroelectric materials
+ferroelectric switching
+ferroelectric thin films
+grain growth
+platinum
+potassium compounds
+pulsed laser deposition
+X-ray diffraction

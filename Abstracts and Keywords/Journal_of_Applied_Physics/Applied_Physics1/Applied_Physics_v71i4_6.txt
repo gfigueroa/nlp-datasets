@@ -1,0 +1,11 @@
+Deep electronic energy levels associated with defects confined to interrupted growth interfaces of thin GaAs layers grown by lowtemperature (720 K) metalorganic chemical vapor deposition using tertiarybutylarsine and subsequently annealed at 920 K for about 2 min were investigated by transient capacitance spectroscopy at both atmospheric pressure (1 bar) and hydrostatic pressures to 8 kbar. Samples grown under widely different As/Ga ratios in the gas phase were compared, and this ratio was found to have a strong influence on the levels observed. Most of these levels are characteristic of levels seen in GaAs grown from the vapor phase. Analysis of the pressure dependencies of the electron emission rates and capture cross sections shows that most of the levels move higher in energy with pressure and yields the activation volume which accompanies electron emission or capture. These features are unique signatures of the levels and provide new insights into the physics involved. One of the levels is identified as the midgap donor EL2. Its energy exhibits a relatively large increase with pressure, and a large inward (outward) volume relaxation accompanies electron emission (capture) of electrons from (by) it.
+
+HYDROSTATIC PRESSURE
+DONORS
+GALLIUM ARSENIDES
+CRYSTAL DEFECTS
+INTERFACES
+CHEMICAL VAPOR DEPOSITION
+PRESSURE DEPENDENCE
+DEEP LEVEL TRANSIENT SPECTROSCOPY
+VERY HIGH PRESSURE

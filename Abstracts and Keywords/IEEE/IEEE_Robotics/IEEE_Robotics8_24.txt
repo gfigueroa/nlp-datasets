@@ -1,0 +1,6 @@
+In this paper, the chaotic characteristic of the Sprott E system with parameter is studied in theoretical analysis and numerical simulations, and abundant dynamical behavior is presented. In order to realize the anti-synchronization of the system, a proper systematical state controller is designed. Numerical simulations show that the state observer works well.
+
+Sprott E system
+anti-synchronization
+chaos
+chaotic attractor

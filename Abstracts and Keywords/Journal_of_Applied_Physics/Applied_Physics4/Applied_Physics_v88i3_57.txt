@@ -1,0 +1,12 @@
+InP/InGaAs heterojunction bipolar transistor (HBT) wafers grown by metalorganic vapor-phase epitaxy were characterized by photoreflectance (PR) spectroscopy. We found that the intensity of PR signals from the InP emitter and InGaAs collector layers of the HBT wafer decreases with increasing emitter growth temperature and shows a linear positive correlation with the HBT current gain. On the other hand, the intensity of PR signals from the n-InP single layers scarcely changes with increasing InP growth temperature. Similar tendencies in the PR intensity were also observed with changes in postgrowth annealing temperature. The change in the PR intensity of the emitter and collector layers is expected to reflect the crystal quality of the adjacent InGaAs:C base layer, which determines the HBT current gain. The present PR method is eminently suitable for the nondestructive diagnostics of the crystal quality of InP/InGaAs HBT wafers. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+heterojunction bipolar transistors
+photoreflectance
+spectral line intensity
+annealing
+semiconductor device measurement
+semiconductor device testing
+nondestructive testing

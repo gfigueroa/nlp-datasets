@@ -1,0 +1,18 @@
+The temperature dependence of the dielectric parameters µ and tan
+´ for the entire x range of barium lanthanide titanate solid solutions (BLT	ss) using the general formula Ba6xLn8+2x/3Ti18O54 (Ln=La, Nd, Sm, Gd) was measured over wide frequency and temperature ranges. The results show the presence of diffuse regions of µ(T) and tan
+´(T) anomalies, which are located below (in the La- and Nd-containing solid solutions) or above (in the Sm- and Gd-containing solid solutions) room temperature. However, no evidence of a structural transition responsible for these anomalies could be determined by differential scanning calorimetry and x-ray diffraction analysis. To examine the nature of the abnormal temperature behavior the dielectric parameters in the systems studied were considered in terms of a simple oscillator model. Within the framework of this model correlations among the average size of the A-site ions, tilting of the oxygen octahedra, and the lattice strain are discussed, and the effect of crystallographic peculiarities on the temperature behavior of the dielectric parameters is shown. As a consequence, the changes in µ(T) and tan
+´(T) behavior in the BLT	ss family were shown to originate from a varying relationship between the harmonic and anharmonic contributions to the phonons of the BLT	ss crystal lattice. © 2002 American Institute of Physics. 
+
+barium compounds
+lanthanum compounds
+neodymium compounds
+samarium compounds
+gadolinium compounds
+solid solutions
+permittivity
+dielectric losses
+differential scanning calorimetry
+X-ray diffraction
+crystal structure
+internal stresses
+anharmonic lattice modes

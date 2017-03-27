@@ -1,0 +1,10 @@
+We have employed 16O(±,±)16O oxygen resonance measurement and transmission electron microscopy to study the oxidation and reduction of copper oxide thin films. The in and outdiffusion of oxygeninduced oxygen concentration variations and microstructural changes in the films were monitored. The study of reduction was carried out by annealing CuO and Cu4O3 thin films in vacuum. Darkfield microscopic images show that isolated and large Cu2O grains emerge from the small CuO and Cu4O3 grain matrices. The growth of Cu2O grains in both CuO and Cu4O3 matrices has been measured to be linear with time, and have activation energies 1.1 and 0.7 eV, respectively. The main controlling mechanism to the discontinuous morphology of the Cu2O grain growth is the migration of the phase boundaries between the oxides induced by oxygen outdiffusion along the moving boundary. An oxygen indiffusion study was performed by annealing Cu2O and Cu4O3 in an oxygen ambient. The CuO phase nucleates randomly and rapidly in both Cu2O and Cu4O3 matrices. The small grain growth rate of CuO suggests that nucleation rather than grain growth is the predominant event during oxidation. The kinetics study of the reduction and oxidation of copper oxides shows that the two processes are asymmetrical and the latter is faster.
+
+COPPER OXIDES
+OXIDATION
+REDUCTION
+TRANSMISSION ELECTRON MICROSCOPY
+ATOM TRANSPORT
+MICROSTRUCTURE
+HIGHTC SUPERCONDUCTORS
+THIN FILMS

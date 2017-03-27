@@ -1,0 +1,20 @@
+Experimental data are reported for the persistent photocapacitance quenching observed at 77 K in GaAs. This effect, which arises on the socalled oxygen (or EL2) center in gallium arsenide, is explained by the existence of two states of this center. The physical parameters of these stable and metastable states are given: optical cross section, annealing, and electrical deexcitation. Assuming a large lattice relaxation for the metastable one, a physical model is given with a possible microscopic origin. Other striking memory effects, and especially photoconductivity, are shown to be simply explained by our model.
+
+GALLIUM ARSENIDES
+PHOTOELECTRIC EFFECT
+MEMORY DEVICES
+DATA
+LOW TEMPERATURE
+CAPACITORS
+SCINTILLATION QUENCHING
+OXYGEN
+E CENTERS
+METASTABLE STATES
+OPTICAL PROPERTIES
+CROSS SECTIONS
+ANNEALING
+EXCITATION
+CRYSTAL LATTICES
+RELAXATION
+MATHEMATICAL MODELS
+PHOTOCONDUCTIVITY

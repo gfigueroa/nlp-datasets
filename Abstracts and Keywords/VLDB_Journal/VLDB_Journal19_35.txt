@@ -1,0 +1,9 @@
+RDF is a data model for schema-free structured information that is gaining momentum in the context of Semantic-Web data, life sciences, and also Web 2.0 platforms. The pay-as-you-go nature of RDF and the flexible pattern-matching capabilities of its query language SPARQL entail efficiency and scalability challenges for complex queries including long join paths. This paper presents the RDF-3X engine, an implementation of SPARQL that achieves excellent performance by pursuing a RISC-style architecture with streamlined indexing and query processing. The physical design is identical for all RDF-3X databases regardless of their workloads, and completely eliminates the need for index tuning by exhaustive indexes for all permutations of subject-property-object triples and their binary and unary projections. These indexes are highly compressed, and the query processor can aggressively leverage fast merge joins with excellent performance of processor caches. The query optimizer is able to choose optimal join orders even for complex queries, with a cost model that includes statistical synopses for entire join paths. Although RDF-3X is optimized for queries, it also provides good support for efficient online updates by means of a staging architecture: direct updates to the main database indexes are deferred, and instead applied to compact differential indexes which are later merged into the main indexes in a batched manner. Experimental studies with several large-scale datasets with more than 50 million RDF triples and benchmark queries that include pattern matching, manyway star-joins, and long path-joins demonstrate that RDF-3X can outperform the previously best alternatives by one or two orders of magnitude
+
+RDF
+Batched updates
+Indexing
+Query processing
+Query optimization
+SPARQL
+Database engine

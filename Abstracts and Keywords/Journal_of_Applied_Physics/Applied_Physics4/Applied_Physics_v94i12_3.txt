@@ -1,0 +1,11 @@
+We present quantitative results of light coupling from SU8 waveguides into silicon p-n photodiodes in monolithically integrated structures. Multimode, 12 ¼m thick, and 20 ¼m wide SU8 waveguides were fabricated to overlap 40×180	¼m2 photodiodes, with three different waveguide-photodiode overlap lengths. The attenuation due to leaky-mode coupling in the overlap area was then calculated from photocurrent measurements. The overlap attenuation ranged from a minimum of 2.2 dB per mm overlap length to a maximum of about 3 dB/mm, comparing favorably with reported nonpolymeric waveguide-Si photodiode attenuations. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+photodiodes
+integrated optoelectronics
+optical waveguides
+optical polymers
+optical couplers
+optical losses
+micro-optics

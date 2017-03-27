@@ -1,0 +1,13 @@
+Au/Sb films annealed at temperatures as low as 370	°C yield ohmic contacts to ntype Si. The contact formation is based on a liquidphase epitaxy process of Sbdoped Si from Au solution. Measured contact resistivities range around 3×102 ©	cm2 and are at least one order of magnitude higher than what is expected from the solid solubility of Sb in Si. The discrepancy stems from local inhomogeneous etching and epitaxial regrowth of the (100)oriented Si surface by and from the Au solution. Only a small fraction of the macroscopic contact area is doped by Sb and contributes to current transport across the Au/Si(100) interface.
+
+GOLD
+OHMIC CONTACTS
+ANTIMONY
+METALSEMICONDUCTOR CONTACTS
+THIN FILMS
+LPE
+SILICON
+ELECTRIC CONDUCTIVITY
+DOPED MATERIALS
+NTYPE CONDUCTORS
+ANNEALING

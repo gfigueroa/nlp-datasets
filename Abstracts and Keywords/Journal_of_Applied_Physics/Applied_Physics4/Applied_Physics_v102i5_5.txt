@@ -1,0 +1,7 @@
+Electronic properties of 6 nm (HfO2)x(SiO2)1x dielectric thin films, deposited on Si(100) by atomic layer deposition with x equal to 0.75 and 0.25, were studied by means of x-ray photoelectron spectroscopy (XPS) and reflection electron energy loss spectroscopy (REELS). XPS measurements confirmed the formation of a silicate structure, and showed shifts of the Hf 4f and Si 2p peaks with varying Hf concentrations; these shifts are believed to be caused by changes in the amount of charge transfer and by the substitution of Si by Hf as second-nearest-neighbors. The band gap, Eg, was estimated from REELS. It increased from 5.52 eV for Hf silicate with a Hf/Si ratio of 3:1 to 6.61 eV for Hf silicate with a Hf/Si ratio of 1:3. For Hf silicate dielectrics, the band gap is mainly determined by Hf 5d conduction-band and O 2p valence-band states, and the increase with increasing Si concentration is due to mixing with the Si 3s electrons. By quantitative analysis of REELS spectra, the dielectric functions of the thin films were also determined and expressed as a sum of oscillators. The position, strength, and width of the oscillators were determined quantitatively for the different dielectric films.
+
+dielectric thin films
+electron energy loss spectra
+hafnium compounds
+silicon compounds
+X-ray photoelectron spectra

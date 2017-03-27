@@ -1,0 +1,11 @@
+The possibility to image the local permittivity in giant-º dielectrics by scanning probe microscopy was demonstrated. In particular, the microstructure and the dielectric properties of CaCu3Ti4O12 (CCTO) films grown on (001) LaAlO3 substrates were studied. CCTO amorphous layers obtained by metal-organic chemical vapor deposition have been crystallized by subsequent rapid thermal treatments at 1100	°C. X-ray diffraction measurements demonstrated the growth of CCTO and CaTiO3 phases. As a novelty, large square CCTO grains (a few microns) were formed with a very high permittivity. The local impedance modulus, phase, and morphology were simultaneously acquired, and the local permittivity (around 8000 at 90 kHz) of each isolated CCTO grain was calculated.
+
+amorphous state
+calcium compounds
+copper compounds
+heat treatment
+high-k dielectric thin films
+MOCVD
+permittivity
+scanning probe microscopy
+X-ray diffraction

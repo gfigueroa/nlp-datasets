@@ -1,0 +1,5 @@
+This note describes an expression for the electrostatic Greens function in a long conducting tube. The expression allows one to readily compute the potentials and fields at and in the vicinity of the singularity where other methods have difficulty. © 2003 American Institute of Physics. 
+
+Green's function methods
+potential energy functions
+electrostatics

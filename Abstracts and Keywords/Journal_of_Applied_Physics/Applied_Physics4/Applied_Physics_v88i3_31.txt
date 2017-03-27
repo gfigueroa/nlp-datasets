@@ -1,0 +1,8 @@
+We report polarized edge- and front-emission electroluminescence studies on red-emitting vertical-cavity surface-emitting laser (VCSEL) structures. The measurements were performed nondestructively on pieces of as-grown wafers using indiumtinoxide-coated glass electrodes. The front-emission spectra helped determine the FabryPérot cavity-mode wavelength, while the edge-emission spectra were used to identify the wavelength of ground-state emission from the quantum wells (QWs) in the active region. However, measurements on edge-emitting laser (EEL) structures with a similar QW active region reveal that the peaks of the edge-emission spectra are always slightly redshifted with respect to front emission. We show that this arises due to reabsorption effects and then appropriately correct for it in the VCSELs by studying such shifts in the equivalent EELs. Thereafter, by comparing the experimental results with theoretical calculations and simulations, we estimate the composition, strain, and material quality of the QWs in the VCSEL active regions. Finally, we comment on the usefulness of comparing the two orthogonally polarized edge-emission spectra. © 2000 American Institute of Physics. 
+
+surface emitting lasers
+quantum well lasers
+electroluminescence
+light polarisation
+red shift
+laser theory

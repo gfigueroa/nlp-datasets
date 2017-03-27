@@ -1,0 +1,18 @@
+Gallium arsenide grown by metalorganic chemical vapor deposition and n doped with silicon to nominal concentrations of 2×1015, 8×1015, and 2×1016
+cm3, was irradiated with 1.04 GeV bromine ions at a fluence of 5×109
+cm2, 1.7 GeV iodine ions at a fluence of 2.7×109
+cm2, and 1.5 GeV gold ions in the fluence range of 1.0×1062.2×109
+cm2. The effects were analyzed by photoluminescence (PL) spectroscopy. The donor-to-gallium vacancy (D-VGa) and the donor-to-silicon-acceptor (D-SiAs) transitions are observed in the PL spectra of the irradiated samples. The former occurs at 1.476 eV, and the latter at 1.483 eV when the recording temperature is 6.5 K. The relative introduction rates of the VGa and SiAs defects for these ions are compared to those obtained in previous studies where electrons, protons, alpha particles, lithium ions, and oxygen ions were the irradiating particles. The measured values correlate with relativistic (DarwinRutherford) or nonrelativistic (Rutherford) scattering theory, depending on the projectile energy. The relevance of the GeV heavy ion irradiation with cosmic rays is discussed. © 1998 American Institute of Physics. 
+
+bromine
+iodine
+gold
+silicon
+gallium arsenide
+III-V semiconductors
+CVD coatings
+photoluminescence
+impurity states
+impurity-vacancy interactions
+ion implantation
+semiconductor doping

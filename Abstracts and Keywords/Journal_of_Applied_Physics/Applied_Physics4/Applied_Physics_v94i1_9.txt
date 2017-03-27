@@ -1,0 +1,7 @@
+Many semiconductor electronic and photonic devices use heterostructures, where strain induced and/or spontaneous polarization play a key role. The polarization charges are screened by accumulation and depletion regions, which determine the device properties. This article considers nonlinear screening of the polarization dipole for pyroelectric (or ferroelectric) films and grains in a semiconductor matrix. Our results show that, for a pyroelectric of a finite size in a semiconductor matrix, a nonlinear screening length involved in most relevant cases is different from the conventional depletion length and depends on the geometry of the problem. These results are important for AlN/GaN/InN and SiC based electronic and photonic devices, ferroelectric random access memories, and other pyroelectric and ferroelectric semiconductor materials and devices. © 2003 American Institute of Physics. 
+
+barium compounds
+ferroelectric thin films
+pyroelectricity
+dielectric polarisation
+ferroelectric semiconductors

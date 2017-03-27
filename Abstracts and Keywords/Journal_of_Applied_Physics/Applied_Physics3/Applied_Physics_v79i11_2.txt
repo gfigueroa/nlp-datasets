@@ -1,0 +1,9 @@
+A synchrotron xray topography analysis of the impact of the distribution of defects/dislocations on the electrical performance of GaAs power varactor diodes was carried out. Diodes fabricated on or near Liquid Encapsulated Czochralski cellular dislocation networks in the substrate, which are also known to be rich in As precipitates near these cell walls, were observed to have reduced breakdown voltages (VBR). This is consistent with the possibility that the presence of spacecharge cylinders surrounding these dislocations gives rise to reduced VBR if they thread a pn junction; it is also in accord with the possibility that the As precipitates themselves can act as sites for local field enhancement, thus promoting premature avalanche breakdown. © 1996 American Institute of Physics. 
+
+GALLIUM ARSENIDES
+SEMICONDUCTOR DIODES
+DISLOCATIONS
+XRAY TOPOGRAPHY
+BREAKDOWN
+PRECIPITATES
+SYNCHROTRON RADIATION

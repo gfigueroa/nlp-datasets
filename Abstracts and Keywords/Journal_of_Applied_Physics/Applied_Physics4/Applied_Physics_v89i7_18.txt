@@ -1,0 +1,6 @@
+The nonlinear oscillations of field and current in semiconductor superlattices excited by terahertz laser radiation are studied within a self-consistent multifrequency internal field approach. We show that the oscillatory character of the nonlinear susceptibilities and dissipative and parametric instabilities in superlattices leads to multivaluedness and hysteresis of their spectral harmonics as functions of the external field amplitude. The key mechanisms of such spectral behavior are the spontaneous generation of a static field and parametric creation and amplification of the external field harmonics and subharmonics. It is shown that the field inside the superlattice cannot be understood in terms of a single frequency, especially for superlattices having high electron concentration. © 2001 American Institute of Physics.
+
+semiconductor superlattices
+submillimetre wave lasers
+parametric instability
+submillimetre wave spectra

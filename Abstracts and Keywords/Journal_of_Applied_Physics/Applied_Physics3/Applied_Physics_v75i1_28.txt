@@ -1,0 +1,10 @@
+We have used timeresolved reflection high energy electron diffraction (RHEED) measurements to study anion exchange reactions in molecular beam epitaxy (MBE) grown IIIV semiconductors. In the experiment, InAs surfaces are exposed to Sbx fluxes and subsequent changes in the crystals RHEED patterns are examined. We find that when an InAs surface is initially exposed to an Sb flux the specular spot intensity first decreases, then recovers back toward its initial value. The shape of the intensity versus time curves is extremely reproducible if the absolute Sb flux and the Sb species are kept constant. The length of time required for the RHEED pattern to stabilize is much shorter for cracked Sb than for uncracked Sb. The RHEED dynamics are also faster if the total Sb flux increases. The behavior of the RHEED dynamics as a function of Sb flux and Sb species is consistent with the changes in the RHEED pattern being due to an Sb/As exchange reaction on the crystals surface. The RHEED data are compared to previously published xray photoelectron spectroscopy (XPS) data which studied exchange reactions on InAs surfaces exposed to Sb fluxes. The XPS study confirmed that the incident Sb did indeed exchange with As in the epilayer and estimated the exposure time needed to complete the Sb/As exchange reaction. The time scales for exchange associated with the RHEED and XPS data are in good agreement. This further indicates that RHEED could be used to indirectly probe anion exchange reactions, potentially opening up several avenues of research ranging from basic materials science to MBE process control in manufacturing.
+
+INDIUM ARSENIDES
+RHEED
+CHARGE EXCHANGE
+ANIONS
+SURFACE REACTIONS
+MOLECULAR BEAM EPITAXY
+ANTIMONY
+PHOTOELECTRON SPECTROSCOPY

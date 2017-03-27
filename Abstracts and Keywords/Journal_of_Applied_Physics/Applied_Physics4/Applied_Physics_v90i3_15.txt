@@ -1,0 +1,17 @@
+Bulk properties of SiNx:H thin film dielectrics and interface characteristics of SiNx:H/Si devices are studied by a combination of electrical measurements (capacitancevoltage and currentvoltage characteristics) and defect spectroscopy (electron spin resonance). The SiNx:H films were deposited by an electron cyclotron resonance plasma method and subjected to rapid thermal annealing postdeposition treatments at temperatures between 300 and 1050
+°C for 30 s. It is found that the response of the dielectric to the thermal treatments is strongly affected by its nitrogen to silicon ratio (N/Si=x) being above or below the percolation threshold of the SiSi bonds in the SiNx:H lattice, and by the amount and distribution of the hydrogen content. The density of Si dangling bond defects decreases at moderate annealing temperatures (below 600
+°C) in one order of magnitude for the compositions above the percolation threshold (nitrogen rich, x=1.55, and near stoichiometric, x=1.43). For the nitrogen rich films, a good correlation exists between the Si dangling bond density and the interface trap density, obtained from the capacitance measurements. This suggests that the observed behavior is mainly determined by the removal of states from the band tails associated to SiSi weak bonds, because of the thermal relaxation of the bonding strain. At higher annealing temperatures the deterioration of the electrical properties and the increase of the Si dangling bonds seem to be associated with a release of trapped hydrogen from microvoids of the structure. For the silicon rich samples rigidity percolates in the network resulting in a rigid and strained structure for which the degradation phenomena starts at lower temperatures than for the other two types of samples. © 2001 American Institute of Physics. 
+
+aluminium
+silicon compounds
+hydrogen ions
+silicon
+MIS devices
+interface structure
+defect states
+interface states
+paramagnetic resonance
+rapid thermal annealing
+dangling bonds
+percolation
+elemental semiconductors

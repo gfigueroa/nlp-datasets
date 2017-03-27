@@ -1,0 +1,7 @@
+We have investigated the infrared absorption between confined levels in the conduction and valence bands of undoped InAs/GaAs self-assembled quantum dots. The intraband absorption, which is measured by photoinduced spectroscopy, is analyzed under resonant and nonresonant optical excitation of the quantum dots. The assignment of electron and hole intraband transitions is achieved on the basis of experimental results obtained with n-and p-doped quantum dots. A careful analysis of the absorption spectra shows that several hole transitions and one electron transition with a large broadening are evidenced in the mid-infrared spectral range. We show that the amplitude of the intraband absorption depends on the pump excitation wavelength and exhibits a maximum when the dots are populated via the wetting layer. The spectral shape of the hole intraband absorption is very weakly dependent on the excitation wavelength. The amplitude of the photoinduced hole intraband absorption exhibits a sublinear behavior with the pump intensity. This feature is explained by the state filling of the quantum dots. © 1998 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+infrared spectra

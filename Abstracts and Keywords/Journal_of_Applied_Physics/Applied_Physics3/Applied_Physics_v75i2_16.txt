@@ -1,0 +1,10 @@
+Monte Carlo simulations have been performed to calculate values for the correlation factors of vacancies fV, and cations diffusing via vacancies, fA and fB, in quasibinary spinel solid solutions of the type (A1xBx)3´O4 as a function of jump frequencies and the composition x, primarily at low vacancy concentrations. Because the cations A and B and the vacancies in spinels are distributed on two types of sublattices, an octahedral and a tetrahedral one, different frequencies occur, some of which are interrelated. The background of the Monte Carlo simulations performed is discussed and results for cases in which one type of cation exchange mechanism prevails are presented and compared to the very limited data available on this subject in the literature. The simulation results for cases which involve multiple types of cation exchange mechanisms will be presented elsewhere. 	
+
+SPINELS
+SOLID SOLUTIONS
+DIFFUSION
+CATIONS
+VACANCIES
+MASS TRANSFER
+MONTE CARLO METHOD
+SIMULATION

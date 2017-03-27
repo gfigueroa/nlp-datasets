@@ -1,0 +1,11 @@
+Highresolution transmission electron microscopy, electron holography, and highspatial resolution (19 Å) computercontrolled parallel electronenergyloss spectrometry (PEELS) were used to probe the structure of and chemical profile across two thin silicon oxidenitrideoxide layered structures of nominal widths of 10 Å50 Å10 Å and 30 Å50 Å30 Å. It was found that the individual layers of the stacked structures could be clearly imaged using electron holography, but not with electron microscopy due to the behavior of the microscope transfer function and the shape of the potential profile of the structure. Holography revealed that the layers of the 10 Å50 Å10 Å system were in fact 14 Å28 Å18 Å±5 Å, and the oxide layer in contact with the substrate (first oxide layer) was discontinuous. PEELS showed that the second oxide layer contained nitrogen, and the nitride layer had a silicontonitrogen concentration ratio of 1.0±0.1. The 30 Å50 Å30 Å system was in fact 30 Å20 Å40 Å15 Å±5 Å. The second oxide layer was SiO1.6±0.2, and nitrogen was found near the film surface which made the structure appear to be four layers. These results show the power of holography in characterizing thin, lightelement, amorphous layers and the importance of computercontrolled parallel energyloss line scans for obtaining analytical information at the highest spatial resolution with minimum dose.
+
+SILICON OXIDES
+NITRIDES
+MULTILAYERS
+MICROSTRUCTURE
+TEM
+HOLOGRAPHY
+EEL SPECTROSCOPY
+AMORPHOUS STATE
+CHEMICAL COMPOSITION

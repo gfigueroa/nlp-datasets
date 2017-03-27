@@ -1,0 +1,18 @@
+Surface structures of the highTc superconductor YBa2Cu3Ox have been investigated with a scanning tunneling microscope. Four typical features are revealed, e.g., (i) flat area of the size up to 0.2×0.2 ¼m2, (ii) step structures with the height of the step from tens to hundreds of angstroms, (iii) regular arrays of subgrains having the width down to 100 Å, and (iv) a complex formed by these features. The sharp surface corrugations suggest strong local fluctuations in the elastic and electronic properties of this material.
+
+SURFACE STRUCTURE
+MICROSTRUCTURE
+TOPOGRAPHY
+SCANNING ELECTRON MICROSCOPY
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+TYPEII SUPERCONDUCTORS
+FLUCTUATIONS
+ELASTICITY
+ELECTRONIC STRUCTURE
+ELECTRICAL PROPERTIES
+MAGNETIZATION
+CRITICAL FIELD
+TRANSITION TEMPERATURE
+TUNNEL EFFECT

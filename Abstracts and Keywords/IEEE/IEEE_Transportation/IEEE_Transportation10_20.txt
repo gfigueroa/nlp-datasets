@@ -1,0 +1,7 @@
+A utility-connected wind-power generation scheme using permanent magnet synchronous machines (PMSMs) in conjunction with a direct AC-AC matrix converter is proposed. The matrix converter converts the high-frequency of a micro-turbine generator to a conventional frequency of the utility system, based on a novel switching strategy. The control algorithm regulates magnitude and phase-angle of the converter output voltage to accommodate real and reactive power flow requirements of the utility system. The system enables optimal speed tracking for maximum energy capture from the wind and high performance active and reactive power regulation. The paper describes the operating principles of this power generation scheme. Emphasis is given to 3-2 matrix converters for 3f&#x2013;1f AC voltage/frequency for conversion control of system. The three-step voltage commutation sequence of the matrix converter is highlighted here. Simulation studies of the proposed power generation system were carried out. Results obtained are presented illustrating the good control performance of the system.
+
+PMSG
+directly drive
+matrix converter
+micro-turbine generator
+three-step commutation sequence

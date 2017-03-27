@@ -1,0 +1,12 @@
+The local morphology and electrical properties of InGaN films grown using a hot-wall epitaxy system coupled with a simple mixed source (metallic gallium and indium) were investigated by means of conductive atomic force microscopy. The photoluminescence (PL) wavelengths of two types of samples grown at different substrate temperatures (685 and 660
+°C) show different wavelength peaks (400 nm for the former and 420 nm for the latter), even though these samples have almost the same In contents as deduced from x-ray diffraction results. The sample grown at the higher substrate temperature exhibits a very flat morphology with both a roughness of about 3 nm and a low conductive homogeneous distribution. On the other hand, the sample grown at the lower substrate temperature shows a rougher topography and inhomogeneous conductive distribution. The longer PL peak and the inhomogeneous conductive distribution were attributed to the In fluctuation of the InGaN films. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+atomic force microscopy
+semiconductor epitaxial layers
+photoluminescence
+crystal morphology
+surface topography
+electrical conductivity

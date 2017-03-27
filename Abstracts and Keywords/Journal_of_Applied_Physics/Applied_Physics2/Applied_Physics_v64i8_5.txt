@@ -1,0 +1,15 @@
+The thermal reaction of sputtered platinum with silicon to form platinum silicide by rapid thermal processing (RTP) has been investigated. A platinum film of 800 Å was sputter deposited on undoped singlecrystal silicon substrates. A wide range of RTP cycles were used in N2 ambient to study the formation kinetics and determine the phase growth sequence. The composition, thickness, impurity content, platinumsilicon interface quality, grain size, and surface oxide of the Ptx Siy layer were characterized by Auger electron spectroscopy, transmission electron microscopy, and xray diffraction analysis. All the analysis techniques used were consistent in determining the platinum silicide system evolution. Initially, the reaction between platinum and silicon results in the formation of an intermediate phase of Pt2Si, the growth of which continues until the entire platinum film has been transformed into Pt2Si. Then the evolution of a final phase of PtSi starts at the Pt2 Si/Si interface and the reaction between Pt2 Si and Si proceeds towards the surface until the entire Pt2 Si is converted to PtSi film. No simultaneous presence of the three phases, Pt, Pt2Si, and PtSi, was observed in any sample studied. An enhanced diffusion coefficient of Pt through Pt2 Si was observed as a result of rapid thermal processing. It was determined that 1 Å of Pt results in the formation of 1.9 Å of PtSi and 1 Å of Si results in 1.44 Å of PtSi. This small rate of Si consumption is desirable for silicidation of shallow junctions formation. The resistivity of PtSi was determined to be in the range 3138 ¼©	cm which is similar to furnace annealed values. Reactive ion etching selectivity between silicon dioxide and PtSi was determined to be 33:1. The high etching selectivity combined with small Si consumption make PtSi a potential candidate for submicron applications.
+
+PLATINUM
+SURFACE REACTIONS
+FILM GROWTH
+THIN FILMS
+SYNTHESIS
+SILICON
+PLATINUM SILICIDES
+INTERFACES
+CHEMICAL COMPOSITION
+DIFFUSION
+VLSI
+CHEMICAL REACTION YIELD
+PHASE STUDIES

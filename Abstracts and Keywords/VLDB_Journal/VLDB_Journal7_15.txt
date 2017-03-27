@@ -1,0 +1,7 @@
+We optimize relational queries using connection hypergraphs (CHGs). All operations including value-passing between SQL blocks can be set-oriented. By introducing partial evaluations, reordering operations can be achieved for nested queries. For a query using views, we merge CHGs for the views and the query into one CHG and then apply query optimization. Furthermore, we may simulate magic sets methods elegantly in a CHG. Sideways information-passing strategies (SIPS) in a CHG amount to partial evaluations of SIPS paths. We introduce the maximum SIPS strategy, which performs SIPS for all bindings and all SIPS paths for a query. The new method has several advantages. First, the maximum SIPS strategy can be more efficient than the previous SIPS based on simple heuristics. Second, it is conceptually simple and easy to implement. Third, the processing strategies may be incorporated with the search space for query execution plans, which is a proven optimization strategy introduced by System R. Fourth, it provides a general framework of query optimization and may potentially be used to optimize next-generation database systems.
+
+Connection hypergraphs
+Partial evaluations
+Relational query optimization
+SIPS
+Search space

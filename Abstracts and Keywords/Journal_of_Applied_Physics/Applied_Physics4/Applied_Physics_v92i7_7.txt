@@ -1,0 +1,14 @@
+According to the approximate theory of transport in a conducting organic material containing exponential traps, ln
+J versus ln
+V plots are straight lines with slope l=TC/T, where TC is the characteristic temperature of the trap distribution. It is assumed in this theory that the concentration pt of trapped holes is much larger than the concentration p of free holes. Our experiments and recent literature results show that at high applied voltages the observed ln
+J versus ln
+V plots deviate from the straight lines and bend down. The numerical solution presented in this article shows that at high voltages the contribution of p to the space charge does not remain negligible. Calculated ln
+J versus ln
+V plots do bend down consistent with our experimental results. The current approaches the trap-filled limit asymptotically as the applied voltage approaches infinity. © 2002 American Institute of Physics. 
+
+organic semiconductors
+electron traps
+hole traps
+high field effects
+space charge
+hole density

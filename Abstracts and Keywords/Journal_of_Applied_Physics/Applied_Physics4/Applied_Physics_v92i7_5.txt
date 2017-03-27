@@ -1,0 +1,9 @@
+We present a fast and robust method for the full-band solution of the Schrödinger equation on a grid, with the goal of achieving a more complete description of high energy states and realistic temperatures. Using fast Fourier transforms, the Schrödinger equation in the one band approximation can be expressed as an iterative eigenvalue problem for arbitrary shapes of the conduction band. The resulting eigenvalue problem can then be solved using Krylov subspace methods such as Arnoldi iteration. We demonstrate the algorithm by presenting an application, in which we compare nonparabolic effects in an ultrasmall metaloxidesemiconductor (MOS) quantum cavity and a MOS quantum capacitor at room temperature. We show that for the cavity structure the nonparabolicity of the conduction band results in a significant lowering of high-energy electronic states and reshaping of the electron density, whereas the states and density in the MOS capacitor remain relatively unchanged. © 2002 American Institute of Physics. 
+
+MOS capacitors
+semiconductor device models
+Schrodinger equation
+interface states
+conduction bands
+fast Fourier transforms
+eigenvalues and eigenfunctions

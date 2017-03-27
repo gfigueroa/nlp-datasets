@@ -1,0 +1,6 @@
+The critical control issues of deep field weakening operation of PM machines are analyzed in this paper. The mathematical model of PM machines and the traditional current vector control method are reviewed. Then a simple yet reliable control method based on direct voltage vector control for deep field weakening operation of PM machines is proposed. When the speed is below the base speed, the traditional current vector control is applied. When the speed is above the base speed, the maximum voltage vector is applied to the PM machine and the direction of the voltage vector is determined by a phase angle controller. The direct voltage vector control algorithm makes full use of the DC bus voltage which helps achieve the maximum possible torque capability and reduce the copper losses in machine windings. Theoretical analysis is substantiated by experimental results.
+
+Constant Power Speed Ration (CPSR)
+Field weakening operation
+PM machines
+direct voltage vector control

@@ -1,0 +1,13 @@
+The stress distribution in bulk AlN crystals seeded on 6HSiC was theoretically modeled and also determined experimentally from Raman peak positions. The full width at half maximum of the AlN Raman peaks showed the crystal quality improved as its thickness increased. The theoretical frequency shifts of the E1 (transverse optical) mode calculated from model-predicted stress were in good agreement with experimental values taken along the edges of crystal samples. The stress was linearly distributed along the depth of the samples, and changed from compressive at the growing surface to tensile at the interface between AlN and SiC for thickness range of several hundred micrometers. Large tensile stresses, up to 0.6 GPa, were detected in the AlN at the interface. The effects of growth temperature and sample thickness were investigated. It is predicted that the AlN on 6HSiC must be at least 2 mm thick to prevent it from cracking while cooling down the sample from a growth temperature of 2000
+°C. © 2002 American Institute of Physics. 
+
+silicon compounds
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+CVD coatings
+sublimation
+stress analysis
+Raman spectra
+semiconductor thin films
+semiconductor growth

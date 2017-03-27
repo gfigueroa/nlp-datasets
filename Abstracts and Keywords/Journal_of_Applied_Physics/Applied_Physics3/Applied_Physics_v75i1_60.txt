@@ -1,0 +1,13 @@
+Three crystal modifications I, II, and III are known to exist for 1,4dithioketo3,6diphenylpyrrolo[3,4c]pyrrole (DTPP; blue pigment). Among these, only modification III exhibits an intense nearIR absorption due to interplanar ÀÀ interactions of the alternating nitrogen and thiocarbonyl carbon atoms along the stacking axis. An optical information storage system of the write once type has been developed in which the nearIR absorption (on state) is switchedoff (off state) on irradiation with GaAs laser diodes in the presence of a hydrazone compound. The nearIR absorption ceases to exist due to a molecular rearrangement caused by lasergenerated vapors of hydrazone molecules. Xraydiffraction analysis revealed that the present phenomenon is due to the phase change from modification quasiIII to modification II. The optical disk (structure: substrate/hydrazone/DTPP/Al) exhibits a reflectivity change from about 30% to 45% on writing with a power of about 9 mW at 780 nm. 	
+
+ORGANIC COMPOUNDS
+OPTICAL MATERIALS
+OPTICAL STORAGE
+PHASE TRANSFORMATIONS
+MOLECULAR CRYSTALS
+ABSORPTION
+INFRARED RADIATION
+SWITCHING
+MOLECULAR ORIENTATION
+XRD
+RECORDING SYSTEMS

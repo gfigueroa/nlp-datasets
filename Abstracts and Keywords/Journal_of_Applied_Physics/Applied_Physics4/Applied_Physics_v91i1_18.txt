@@ -1,0 +1,7 @@
+Two different methods of nanolithography, namely dynamic plowing lithography (DPL) and indentation by means of force-displacement curves (FDI), have been compared by performing them on two different polymers, poly (methylmethacrylate) and polystyrene. No fundamental differences can be found out in the efficiency of the two methods, i.e., in the depth of the lithographed structure as a function of the scanning parameters. The main drawback of FDI is that it is much more time consuming than DPL. On the other hand, when the sample is lithographed with DPL, the border walls that surround the lithographed structure are very much bigger than the border walls created through FDI. The physicochemical properties of the border walls created through DPL have been investigated. Several experimental data reveal that such border walls are very much softer and looser than unmodified polymers and suggest that during DPL the fast oscillating tip is able to break polymer chains. This does not happen with FDI, where border walls are simply made up of the material carved out by the tip. A method to eliminate these undesirable border walls is suggested. © 2002 American Institute of Physics. 
+
+lithography
+indentation
+nanotechnology
+atomic force microscopy
+polymers

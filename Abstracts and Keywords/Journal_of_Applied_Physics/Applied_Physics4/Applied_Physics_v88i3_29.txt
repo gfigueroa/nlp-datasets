@@ -1,0 +1,12 @@
+Silicides are often used in Si technology for both their ohmic and rectifying properties. In this work, we have compared Zr and Ti germanosilicides as possible metallic contacts on SiGeC alloys in terms of phase formation and stability of the unreacted SiGeC alloy. The germanosilicides are obtained after rapid thermal annealings of Zr or Ti with strained SiGeC layers. The interactions of the metal films with these alloys have been investigated by sheet resistance measurements, x-ray diffraction (XRD), cross-sectional transmission electron microscopy (TEM), and energy dispersive spectroscopy in situ in the TEM. Four crystal x-ray diffraction was performed to measure the residual strain of the unreacted SiGeC epilayer after reaction. The analyses indicate that the final compounds are the C49Zr(SiGe)2 and C54Ti(SiGe)2 phases, respectively: In both cases, the compound is formed by monocrystalline grains with various orientations. Nevertheless, neither XRD, nor sheet resistance measurements give any clear information about the C incorporation in the phase, when the reaction occurs with a SiGeC layer. We have observed that the use of Zr completely avoids Ge segregation with an uniform layer formed, while in the case of the reaction with Ti, the grains do not form a continuous layer and Ge-segregation is evidenced: A Ge-rich Si1zyGez(Cy) alloy is detected in between the metallic grains. In addition, an early strain relaxation of the unreacted SiGe layer is observed after reaction, and it is much more important after reaction with Ti. During the reaction with nearly compensated SiGeC layers, Zr totally prevents the initial state of strain, while Ti strongly affects the unreacted SiGeC alloy and destroys its initial state. All these results indicate that Zr may be an interesting candidate for realizing germanosilicide contacts on IVIV alloys, due to its good thermal stability. © 2000 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor epitaxial layers
+rapid thermal annealing
+stress relaxation
+X-ray diffraction
+transmission electron microscopy
+segregation
+zirconium
+titanium
+semiconductor-metal boundaries

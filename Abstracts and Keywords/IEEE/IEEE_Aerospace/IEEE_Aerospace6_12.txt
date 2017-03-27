@@ -1,0 +1,5 @@
+This paper is not to describe any new designs or theories. However, we would like to share some field experience in applied engineering. The applied robotics is not only designs or theories but the field experience as well. From the engineering-oriented and applying-oriented views, however, it was found that there was a long way to go from the lab design to the field application. In this paper, four specific requirements of applied robots are presented, including power supplying, communication, security and safety, and installation and running. The practical cases are described afterwards. We hope that the addressed issues can help the researchers in electric power robotics in their researches.
+
+Field Experiences
+Power Utility
+Robots

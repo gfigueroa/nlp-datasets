@@ -1,0 +1,13 @@
+The equilibrium between clusters and dopant in solution was studied on silicon on insulator specimens uniformly doped with As at concentrations CAs from 1 to 7.6×1020
+cm3. The values of the carrier density n after equilibration at 700, 800, and 900
+°C are reported. With increasing dopant concentration n rapidly saturates to the limiting value of the carrier density ne, thus simulating a precipitation process. It is shown that the values of n at different temperatures and dopant concentrations can be calculated by an equation derived in the Appendix by using a simple cluster model. The deactivation was analyzed by isothermal annealing of the specimens at temperatures in the range 550800
+°C. At high temperature the kinetics accurately complies with the rate equation dn/dt=A{exp[(E±n)/kT](n0n)/(n0n)exp[(E±n)/kT]} which is the one reported in [D. Nobili, S. Solmi, M. Merli, and J. Shao, J. Electrochem. Soc. 146, 4246 (1999)] complemented by the second term on the right to account for the declustering process. Deviations leading to rates lower than predicted by the above equation are presented by the most heavily doped compositions after partial deactivation at temperatures } 700
+°C. The analysis of this phenomenon puts into evidence that clustering presents a limiting rate which only depends on temperature and carrier density, and is insensitive to As concentration. © 2001 American Institute of Physics. 
+
+silicon
+arsenic
+elemental semiconductors
+carrier density
+annealing
+doping profiles
+silicon-on-insulator

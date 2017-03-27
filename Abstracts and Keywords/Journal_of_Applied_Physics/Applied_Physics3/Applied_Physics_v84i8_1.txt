@@ -1,0 +1,20 @@
+Transport properties of crystallized amorphous Si1xGex films, having different Ge content (x) and highly doped with boron were studied. The films were deposited by molecular beam at room temperature and subsequently annealed in vacuum at different temperatures between 500 and 900
+°C for 1 h. The microstructure of the crystallized Si1xGex films was characterized by means of transmission electron microscopy, x-ray diffraction, and scanning electron microscopy. Measured transport properties included Hall hole concentration (pH), Hall mobility (¼H), electrical conductivity (Ã), and the Seebeck coefficient (S), from which the powerfactor (S2Ã) was evaluated.The results obtained for the Hall mobility of the Si1xGex films are discussed on the basis of the carrier trapping model. The trapping state density at the grain boundaries increases with increasing B concentration, although it is not significantly dependent on Ge content. Consequently, the mobility energy barrier decreases with increasing B concentration and increasing Ge content.It was found that in all the studied Si1xGex films, independent of x, the predominant scattering mechanism changes from acoustic phonon scattering to ionized impurity scattering with increasing the boron concentration from 5×1018 to 5×1020
+cm3. In addition, the Si1xGex films demonstrate high electrical conductivity as well as a high Seebeck coefficient, after 1 h annealing at 600800
+°C, and thus exhibit a high powerfactor of the order of 6¼W/cm
+K2. Thus, these films have potential applications in thin-film thermoelectric devices. © 1998 American Institute of Physics. 
+
+semiconductor thin films
+Hall mobility
+electrical conductivity
+hole density
+Seebeck effect
+impurity scattering
+grain size
+scanning electron microscopy
+transmission electron microscopy
+X-ray diffraction
+heavily doped semiconductors
+boron
+Ge-Si alloys
+annealing

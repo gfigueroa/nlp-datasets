@@ -1,0 +1,21 @@
+Solution to the transport equations in the realm of small signal theory results in expressions for the electric field, and the excess minorityand majoritycarrier densities as functions of distance from an injecting boundary. Two situations are examined for lifetime semiconductors, the trapfree case and the case with monoenergetic traps. With different boundary conditions, the new expressions apply equally to all four nonequilibrium processes: injection, exclusion, accumulation, and extraction. Results on extraction are supported by measurements on singlecrystal Ge, before and after neutron bombardment (to introduce traps).
+
+INTERFACES
+CHARGE CARRIERS
+CHARGE COLLECTION
+INTERFACES
+METALS
+SEMICONDUCTOR MATERIALS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+EQUATIONS
+SIGNALS
+ELECTRIC FIELDS
+CARRIER DENSITY
+SPATIAL DEPENDENCE
+LIFETIME
+TRAPS
+BOUNDARY CONDITIONS
+EQUILIBRIUM
+NEUTRONS
+DATA

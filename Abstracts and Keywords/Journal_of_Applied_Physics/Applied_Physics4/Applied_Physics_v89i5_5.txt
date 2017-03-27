@@ -1,0 +1,9 @@
+Ruthenium oxide (RuO2) was synthesized in thin film and powder forms using the solution chemistry technique. The oxide electrodes on Si substrates were characterized in terms of their structure, composition, stoichiometry, and conductivity. X-ray lattice parameter calculations and micro-Raman analysis revealed the rutile structure in the material. Both films and powders exhibited an unassigned Raman band at about 477cm1 in their Raman spectra. Performing peak frequency calculations for B2g and A1g modes of RuO2 using the rigid-ion model, which ruled out the possibility that this band originated from disorder induced symmetry, allowed silent mode. Based on the x-ray photoelectron spectroscopy (XPS) and temperature dependent Raman studies, this band was assigned to hydrated RuO2. XPS characterizations of our samples revealed minute surface contamination of oxygen and chlorine, probably due to the film preparation and high temperature deposition processes. Films with uniform microstructure, low surface roughness, and good electrical properties meet the requirements for serving as the bottom electrode for the ferroelectric capacitor. © 2001 American Institute of Physics.
+
+ruthenium compounds
+thin films
+X-ray photoelectron spectra
+Raman spectra
+stoichiometry
+surface topography
+lattice constants

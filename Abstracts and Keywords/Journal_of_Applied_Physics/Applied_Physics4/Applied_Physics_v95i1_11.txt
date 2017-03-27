@@ -1,0 +1,9 @@
+High dielectric constant (k=41) titanium oxide (TiO2) was used as the gate insulator in field-effect transistors (FETs) with regioregular poly(3-hexylthiophene) (RR-P3HT) as the electronically active semiconductor. Good FET characteristics were obtained with saturation at low drive voltages (H2 V) and with carrier mobilities of 1.3×102	cm2/V
+s. Deposition of a thin layer of SiO2 (thicknesses of 3 and 17 nm) on top of the TiO2 (97 nm) gate insulator resulted in a reduced effective dielectric constant (keff=31 for 3 nm of SiO2 and keff=19 for 17 nm SiO2), but with significant improvement in the FET characteristics; the field-effect mobility increased to 5.4×102	cm2/V
+s, the on/off ratio increased from 102 to 6×104, and the leakage current decreased by a factor of approximately 102. The importance of the thin SiO2 layer was confirmed using aluminum oxide (Al2O3) (k=8.4) as the gate insulator in RR-P3HT FETs. © 2004 American Institute of Physics. 
+
+insulated gate field effect transistors
+organic semiconductors
+amorphous semiconductors
+leakage currents
+permittivity

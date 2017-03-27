@@ -1,0 +1,11 @@
+Growth of SiC on offoriented 6HSiC{0001} substrates was quantitatively analyzed based on the theory proposed by Burton, Cabrera, and Frank (BCF theory). By measuring the critical growth conditions where the growth mode changed from stepflow to twodimensional nucleation, the surface diffusion lengths of adatoms on 6HSiC(0001)Si and (0001)C faces were calculated with the model. Although the nucleation rate was much higher on (0001)C faces, the surface diffusion length was longer on (0001)C faces. This brought about little difference in the stepflow growth condition on both faces. Growth conditions where stepflow growth takes place were predicted as a function of growth parameters such as temperature, growth rate, and offangle of substrates. The analysis on offangle dependence of growth rate revealed that desorption of adatoms was negligible and the condensation coefficient of supplied species onto the surface was almost unity on substrates with offangles of more than 3°.
+
+SILICON CARBIDES
+VPE
+ADATOMS
+KINETICS
+FILM GROWTH
+DIFFUSION LENGTH
+CRYSTAL FACES
+NUCLEATION
+DESORPTION

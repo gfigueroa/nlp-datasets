@@ -1,0 +1,9 @@
+In a recent article, a simple latticebased crack percolation model was analyzed via an effective medium approximation [R. Blumenfeld and D. J. Bergman, J. Appl. Phys. 62, 1616 (1987)]. The effectivemedium theory developed for this model gave a prediction for pc , the critical fraction of cracks at which a connected pathway of cracks first appeared in the lattice. In this comment, pc is computed numerically and is found to be equal to 0.194±0.01, which is much less than the effective medium prediction of 0.5. Reasons for this disagreement are discussed.
+
+FLUID FLOW
+PERCOLATION THEORY
+CRACK PROPAGATION
+CRACK FORMATION
+CRACKS
+POROUS MATERIALS
+MATHEMATICAL MODELS

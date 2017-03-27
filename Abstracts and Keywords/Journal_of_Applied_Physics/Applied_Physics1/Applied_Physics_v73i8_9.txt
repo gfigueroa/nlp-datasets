@@ -1,0 +1,10 @@
+Control of the surface conductivity of insulators can be accomplished by high dose ion implantation of conductive species. The use of C+ as the implant species is particularly interesting because C can either form electrically insulating sp3 bonds or electrically conducting sp2 bonds. In the present work, fused quartz plates have been irradiated with 100 keV C+ ions to doses up to 1×1017 ions/cm2 at room temperature and at 200	°C. The ion beam induced conductivity was monitored in situ and was found to increase by up to 8 orders of magnitude for the ion dose range studied. Xe implantations over a similar range did not induce any changes in the conductivity showing that the increase in conductivity is caused by the presence of the C in the fused quartz matrix and not by damage. The conductivity, Ã, is found to vary with dose D as log	ÃD1/3 over a wide dose range, strongly supporting a hopping model for the conduction mechanism. The dependence of the conductivity on implantation temperature and on postimplantation annealing sheds light on the clustering of the C implants. The temperature dependence of the conductivity for the highest doses employed (1×1017 C+/cm2) can be described very well by ln	ÃT. This is a peculiar dependence which does not comply with any of the standard models for conduction.
+
+QUARTZ
+ELECTRICAL INSULATORS
+SURFACE CONDUCTIVITY
+ION IMPLANTATION
+CARBON IONS
+KEV RANGE 1001000
+XENON IONS
+TEMPERATURE DEPENDENCE

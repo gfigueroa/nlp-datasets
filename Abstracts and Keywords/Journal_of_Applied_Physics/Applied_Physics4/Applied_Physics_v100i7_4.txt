@@ -1,0 +1,10 @@
+We study both experimentally and theoretically the propagation of light emitted from silicon nanocrystals forming planar waveguides buried in SiO2. Photoluminescence spectra detected from the sample facet show significant spectral narrowingleaky modeswith respect to the spectra measured in standard photoluminescence configuration. The spectral position of the leaky modes responds strongly to a local change of refractive index (liquid drop) on the sample surface. Higher refractive index of the liquid induces higher redshift of the mode position. Experimental data agree with the previously proposed leaky mode model.
+
+silicon
+elemental semiconductors
+nanostructured materials
+optical planar waveguides
+photoluminescence
+spectral line narrowing
+refractive index
+red shift

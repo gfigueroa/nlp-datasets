@@ -1,0 +1,14 @@
+A model is presented that is able to account successfully for the Zn diffusion profiles in n+GaAs. The model is based on a previously developed formalism whose basis is the retarding of the interstitial Zn diffusivity because of Coulomb pairing between interstitial and substitutional Zn. By extending the model to include Coulomb pairing of interstitial Zn with all acceptors present during diffusion, the resulting theoretical profiles are shown to be in very good agreement with the data while using only one adjustable parameter.
+
+GALLIUM ARSENIDES
+NTYPE CONDUCTORS
+ZINC
+DIFFUSION
+MATHEMATICAL MODELS
+INTERSTITIALS
+COULOMB FIELD
+ACCEPTORS
+VACANCIES
+PAIRING INTERACTIONS
+ATOM TRANSPORT
+COULOMB FIELD

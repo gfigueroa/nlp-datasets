@@ -1,0 +1,12 @@
+Electron energy-loss spectroscopy and high-resolution transmission electron microscopy were used to investigate ZrO2 layers grown by electron-beam evaporation in a molecular-beam epitaxy system. ZrO2/Si layers were investigated before and after uncapped annealing at 1000
+°C under different oxygen partial pressures. The thickness of a SiO2-like, low-dielectric constant layer at the silicon interface was found to depend on the oxygen partial pressure during annealing. At oxygen partial pressures of about 104	torr the interfacial silicon oxide thickness increased through oxygen diffusion through the ZrO2 layer and silicon consumption at the interface. At oxygen partial pressures in the range of approximately 105	torr, only a thin (1 nm) interfacial silicon oxide layer was present, as required for low-equivalent oxide thicknesses of gate stacks incorporating alternative oxides. Further reduction of the oxygen partial pressures (about 107	torr) during annealing resulted in zirconium silicide formation at the interface. ZrO2 films annealed at the optimal partial pressure for a thin interfacial oxide were found to crystallize and contain no silicon. High-resolution analytical capabilities afforded by scanning transmission electron microscopy techniques proved essential in analyzing the stability of these ultrathin layers. © 2002 American Institute of Physics. 
+
+zirconium compounds
+dielectric thin films
+annealing
+electron energy loss spectra
+transmission electron microscopy
+epitaxial layers
+permittivity
+scanning-transmission electron microscopy
+diffusion

@@ -1,0 +1,14 @@
+A photothermal wave imager has been assembled and used to generate thermalwave images of an active metaloxidesemiconductor fieldeffect and related inactive microelectronic structure fabricated on a silicon chip. The imager, which monitors the thermoelastic surface deformation due to absorption of a highly focused, intensitymodulated heating laser beam, has proven to be capable of producing images of subsurface features related to processing steps (thermalwave depth profiling) at open circuit, as well as current flow sensitive images related to electronic processes in the active transistor (plasmawave depth profiling).
+
+MOSFET
+DEFORMATION
+TESTING
+IMAGES
+THERMOELASTICITY
+ABSORPTION
+NONDESTRUCTIVE TESTING
+SILICON
+MICROELECTRONICS
+DEFORMATION
+SOUND WAVES
+ACOUSTIC SURFACE WAVES

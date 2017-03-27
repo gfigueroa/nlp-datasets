@@ -1,0 +1,10 @@
+Oxidized titanium surfaces resulting from various processes have been structurally characterized by means of scanning force microscopy, xray photoemission spectroscopy (XPS), xray diffraction, and electron energyloss spectroscopy (EELS) with losses in the 0100 eV range. It has been found that the surface morphology has a granular structure for electropolished titanium and for titanium evaporated on mica at low substrate temperature (570 K), but changes to flat terraces for the films evaporated at higher temperature (770 K). Angulardependent XPS has revealed the presence of a Ti2O3 suboxide at the Ti/TiO2 interface for electropolished titanium. Dry oxidation has been performed at 770 and 970 K on both weakly and highly crystallized evaporated titanium films oriented along (0001). In the case of underlying crystallized metallic titanium, the resulting TiO2 films are crystallized with the anatase (004) orientation for oxidation at 770 K and with rutile (200) orientation for oxidation at 970 K. EELS spectra interpreted in terms of the molecular orbitals of a (TiO6)8 cluster show that the local octahedral environment of titanium atoms is preserved on native oxides, even if these oxides are not crystallized. © 1995 American Institute of Physics.
+
+TITANIUM OXIDES
+SURFACE STRUCTURE
+ATOMIC FORCE MICROSCOPY
+PHOTOEMISSION
+XRD
+EEL SPECTROSCOPY
+THIN FILMS
+SHORTRANGE ORDER

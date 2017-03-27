@@ -1,0 +1,6 @@
+Remote sensing data is widely used for the classification of types of land cover such as vegetation, water body etc. Conflicts are one of the most characteristic attributes in satellite remote sensing multilayer imagery. Many models for conflict resolution and analysis have been proposed and studied till time. Conflict occurs in tagging class label to mixed pixels that encompass spectral response of different land cover on the ground element. In this paper we attempted to present a new approach to conflict analysis due to mixed pixels using rough set-based model of machine learning. The paper deals with the idea of identifying the set of spectral bands contributing to conflict among opinions of experts with the help of training data sets.
+
+Artificial Intelligence
+Decision Support
+Process Modelling
+Satellite Application

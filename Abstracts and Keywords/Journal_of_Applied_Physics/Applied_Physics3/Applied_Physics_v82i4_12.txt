@@ -1,0 +1,18 @@
+The process of ion bombardment is investigated for the fabrication of Mo/Si multilayer x-ray mirrors using e-beam evaporation. The ion treatment is applied immediately after deposition of each of the Si layers to smoothen the layers by removing an additional thickness of the Si layer. In this study the parameters of Kr+ ion bombardment have been optimized within the energy range 300 eV2 keV and an angular range between 20° and 50°. The optical performance of the Mo/Si multilayers is determined by absolute measurements of the near-normal-incidence reflectivity at 14.4 nm wavelength. The multilayer structures are analyzed further with small-angle reflectivity measurements using both specular reflectivity and diffuse x-ray scattering. The optimal smoothening parameters are obtained by determining the effect of ion bombardment on the interface roughness of the Si layer. The optimal conditions are found to be 2 keV at 50° angle of incidence with respect to the surface. These settings result in 47% reflectivity at 85° (»=14.4 nm) for a 16-period Mo/Si multilayer mirror, corresponding to an interface roughness of 0.21 nm rms. Analysis shows that the interface roughness is determined by ion induced viscous flow, an effect which increases with ion energy as well as angle of incidence. In order to determine the effect of intermixing of the Si and Mo atoms, the penetration depth of the Kr+ ions is calculated as a function of ion energy and angle of incidence. Furthermore, the angular dependence of the etch yield, obtained from the in situ reflectivity measurements, is investigated in order o determine the optimal ion beam parameters for the production of multilayer mirrors on curved substrates. © 1997 American Institute of Physics. 
+
+elemental semiconductors
+optical films
+ion beam effects
+X-ray optics
+electron beam deposition
+reflectivity
+interface structure
+MOLYBDENUM
+SILICON
+RADIATION EFFECTS
+ENERGY BEAM DEPOSITION FILMS
+KRYPTON IONS
+OPTICAL REFLECTION
+X-RAY DIFFRACTION
+MIRRORS
+ENERGY DEPENDENCE

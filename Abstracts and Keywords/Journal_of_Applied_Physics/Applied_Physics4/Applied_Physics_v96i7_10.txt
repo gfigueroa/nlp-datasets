@@ -1,0 +1,17 @@
+Micromagnetic finite element method is used to simulate magnetic properties of FePtFe3Pt exchange-coupled nanocomposites. Numerical results show that the maximum energy product (BH)max about 34.6 MGOe can be obtained for the 3-nm-scale isotropic magnets with the volume fraction of soft Fe3Pt phase vs=15%. The appearance of touched soft grains causes the decrease of reduced remanence mr when vs exceeds 20%. Coercivity decreases with the simultaneous decrease of Ds and Dh, where Ds and Dh are the grain sizes of soft and hard phases, respectively. Only under the prerequisite of sufficiently large Dh, the coercivity can be improved remarkably by decreasing Ds below twice the domain wall width of hard phase.
+
+iron alloys
+platinum alloys
+nanocomposites
+permanent magnets
+soft magnetic materials
+finite element analysis
+micromagnetics
+coercive force
+magnetic domain walls
+grain size
+remanence
+demagnetisation
+magnetisation reversal
+exchange interactions (electron)
+ferromagnetic materials

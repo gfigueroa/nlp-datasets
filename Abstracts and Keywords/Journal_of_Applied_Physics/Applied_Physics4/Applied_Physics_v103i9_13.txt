@@ -1,0 +1,10 @@
+Plate impact experiments were conducted to produce two and three step shock wave loadings in [100] ultrapure, lithium fluoride (LiF) crystals to examine the role of loading history on optical window response in laser interferometry measurements. Peak compressive stresses ranged between 5.0 and 17.5 GPa, and the window response was characterized by measuring the difference between the apparent and actual velocities of reflecting surfaces by using a velocity interferometer. In some experimental configurations, this velocity correction was obtained independently from the projectile velocity. Our results show that the velocity correction in [100] lithium fluoride windows can be described in all cases by a single linear relation, ”u = (0.2739±0.0016)u. Because this correction is independent of the loading history, it is applicable to arbitrary loading, which includes ramp-wave or shockless compression. By using the velocity correction and the measured particle and shock velocities, we have also determined the density dependence of the refractive index for [100] lithium fluoride at 532 nm to be n = (1.2769±0.0024)+(0.0443±0.000	82)Á.
+
+compressive strength
+impact (mechanical)
+light interferometry
+lithium compounds
+optical materials
+optical windows
+refractive index
+shock wave effects

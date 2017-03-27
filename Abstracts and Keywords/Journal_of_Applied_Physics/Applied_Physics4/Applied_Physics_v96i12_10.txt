@@ -1,0 +1,12 @@
+Stable gases produced in SiH4 and H2-SiH4, capacitively coupled rf discharges operated at typical device-production conditions, were investigated by quadrupole mass spectrometry. The production of disilane and trisilane and the depletion of silane and pressure change were measured during consecutive short discharges. Dissociation rate constants and branching ratios for higher-silane production are obtained from the time-dependent densities. The influence of suspended Si particles on stable-gas production is found to be negligible, by changing the duration of individual discharges and thereby the particle densities and sizes. We have also observed pyrolitic decay of disilane and trisilane at 200°C, although this is negligible under normal reactor conditions.
+
+silicon compounds
+hydrogen
+plasma materials processing
+mass spectroscopy
+dissociation
+reaction rate constants
+silicon
+elemental semiconductors
+particle size
+plasma density

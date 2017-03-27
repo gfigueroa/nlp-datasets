@@ -1,0 +1,10 @@
+The effect of intermixing on the apparent interface stress is studied in 111	-textured dc-magnetron sputtered Au/Ni multilayers by use of two methods commonly used for determining interface stress. The method using profilometry and in-plane x-ray diffraction does not take intermixing into account and yields an apparent interface stress of 8.46±0.99 J	m2. However, observed discrepancies between model calculations and measured high-angle x-ray diffractograms indicate intermixing, and by use of the profilometry and sin2	È method the real interface stress value of 2.69±0.43 J	m2 is found. This method also reveals a significant and systematic change of the stress-free lattice parameter of both constituents as a function of modulation period which is shown to account for the difference between the two findings. The method using in-plane diffraction is thus shown to be inapplicable to interface stress determinations in systems exhibiting a modulation period-dependent stress-free lattice parameter. Finally, a deviation of the interface stress in the Au/Ni sample with the smallest modulation period as compared to specimens with larger bilayer lengths is observed to be concurrent with a significant decrease in the interface roughness measured by x-ray reflectivity, which suggests that the deviation is of geometrical origin. © 2000 American Institute of Physics. 
+
+gold
+nickel
+metallic superlattices
+interface phenomena
+internal stresses
+X-ray diffraction
+sputtered coatings
+chemical interdiffusion

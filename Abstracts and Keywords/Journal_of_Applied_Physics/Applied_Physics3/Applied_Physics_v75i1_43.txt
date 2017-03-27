@@ -1,0 +1,11 @@
+An exciton with a massive hole trapped at an arbitrary position in a semiconductor quantum dot (QD) is studied theoretically. The energy spectra, wave functions, and dipole moments are obtained in the effective mass approximation. The contour maps of the density of the lowest state obtained clearly show the development of the wave function from the strong to weak confinement limit. The energy minimum for the lowest state is found for the trapped hole position from the center of a QD. The dipole moment of an exciton with the hole trapped on the surface is found to be proportional to R0 for small R0 and nearly constant for large R0.
+
+QUANTUM DOTS
+EXCITONS
+HOLES
+EFFECTIVE MASS
+TRAPPING
+ENERGY SPECTRA
+WAVE FUNCTIONS
+DIPOLE MOMENTS
+SURFACE STATES

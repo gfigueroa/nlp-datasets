@@ -1,0 +1,10 @@
+We discuss the magnetic polariton modes which propagate in a two-sublattice, uniaxial Heisenberg antiferromagnet, for the case where an external magnetic field is applied perpendicular to the easy axis of the material. At high magnetic fields, a large magnetization component normal to the easy axis will be induced, and we may expect to find a magnetic field induced surface polariton mode, which propagates parallel to the easy axis, with nonreciprocal propagation characteristics. We confine our discussion to antiferromagnets, which have a body-centered tetragonal structure (e.g., XF2, with X=Mn and Fe). The spectra show that the nonreciprocal propagation of the surface polariton is much more evident in MnF2 crystals. © 2001 American Institute of Physics. 
+
+manganese compounds
+iron compounds
+polaritons
+canted spin arrangements
+antiferromagnetic materials
+Heisenberg model
+surface magnetism
+magnetisation

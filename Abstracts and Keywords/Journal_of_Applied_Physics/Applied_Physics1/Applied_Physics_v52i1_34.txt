@@ -1,0 +1,16 @@
+Volume versus pressure data of 1mlong polycrystalline potassium has been obtained as a function of hydrostatic pressure up to 7 kbars at 28.58	°C. The length change has been measured to an accuracy of less than 500 Å using a FabryPerot type HeNe laser interferometer in a temperaturecontrolled environment with temperature variations ±0.001	°C. The isothermal bulk modulus B0 and its pressure derivative B20 at atmospheric pressure and 28.58	°C are B0=31.01±0.02 kbars and B20 =3.91±0.01, when the firstorder Murnaghan equation is used; and B0=30.84±0.02 kbars and B20 =4.16±0.02, when the Keane equation is used. The Keane equation yields B03 =0.145 kbar1 in the applied pressure range. Various two and threeparameter equations of state have been used to fit the measured pressurevolume data. The Keane and Birch equations represent the data most closely when these equations are extrapolated into a higherpressure region.
+
+EQUATIONS OF STATE
+POTASSIUM
+ISOTHERMAL PROCESSES
+POLYCRYSTALS
+MEDIUM TEMPERATURE
+VERY HIGH PRESSURE
+PRESSURE DEPENDENCE
+ACCURACY
+FABRYPEROT INTERFEROMETER
+HELIUMNEON LASERS
+MECHANICAL PROPERTIES
+MEDIUM PRESSURE
+DATA
+EQUATIONS

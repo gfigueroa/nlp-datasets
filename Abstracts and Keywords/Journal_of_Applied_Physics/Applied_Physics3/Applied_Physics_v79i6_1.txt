@@ -1,0 +1,11 @@
+The opentube diffusion of zinc in GaAs0.8P0.2 from a zincdoped silica film was investigated in detail. Aluminum nitride (AlN) and silicon nitride (SiNx) films were used as the anneal caps. The dependence of diffusion depth on the thickness of an AlNcap was found to differ from its dependence on SiNxcap thickness. The selective masked diffusion of zinc using an AlN diffusionmask was also systematically studied. The diffusion depth in selective masked diffusion was found to depend on both AlNcap thickness and AlNdiffusionmask thickness. The experimental results suggest that diffusion depth is not necessarily governed by either cap thickness or diffusionmask thickness. From this standpoint, the role of film stress on diffusion depth was then quantitatively investigated. It was found that diffusion depth can be scaled well with total film stress in the measured filmthickness range. In this sense, it can be concluded that total film stress is the primary factor that determines the diffusion depth under the measured diffusion conditions. © 1996 American Institute of Physics. 
+
+ALUMINIUM NITRIDES
+DIFFUSION
+DOPED MATERIALS
+FILMS
+GALLIUM ARSENIDES
+SILICON NITRIDES
+STRESSES
+THICKNESS
+ZINC ADDITIONS

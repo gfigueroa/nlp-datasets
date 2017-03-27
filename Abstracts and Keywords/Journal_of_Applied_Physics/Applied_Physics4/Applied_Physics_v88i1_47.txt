@@ -1,0 +1,12 @@
+We have investigated the electron transport properties of a two-dimensional electron gas in a selectively doped AlxGa1xAs/GaAs heterostructure with reduced Al content in the doped layer by recording the longitudinal resistance as a function of magnetic field and performing Hall measurements at low magnetic fields on the same sample. The electron density was varied by stepwise illumination and we observe a dip in the mobility versus density dependence around a density of 5.0×1011cm2. As a reason for this mobility decrease we identify by magnetotransport measurements the onset of parallel conductance in the Si-doped AlxGa1xAl layer. With the onset of parallel conductance, the anisotropy in the electron mobility increases significantly. We attribute this to an increase of interface roughness scattering induced by the parallel conducting channel. © 2000 American Institute of Physics. 
+
+aluminium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor heterojunctions
+electron mobility
+electron density
+magnetoresistance
+quantum Hall effect
+surface scattering
+interface roughness

@@ -1,0 +1,11 @@
+We have employed a Monte Carlo technique for the simulation of electron transport and noise (diffusion) in GaAs rectangular quasionedimensional quantum wire structures at low temperatures. It is demonstrated that with the heating of electron gas the efficiency of acoustic phonon scattering decreases and the mobility increases. The increase of electron mobility appears as a superlinear region on velocityfield dependence. It is shown that electron noise increases in the superlinear region. The transition from superlinear transport to the regime close to electron streaming with a further increase of electric fields is reflected on the diffusivityfrequency dependence by the appearance of a separate peak at the streaming frequency. The electron streaming regime which takes place at higher fields causes the collapse of the diffusion coefficient (noise spectral density) to the streaming frequency.
+
+QUANTUM WIRES
+NOISE
+TRANSPORT PROCESSES
+MONTE CARLO METHOD
+SIMULATION
+GALLIUM ARSENIDES
+ACOUSTICAL PHONONS
+SCATTERING
+ELECTRON MOBILITY

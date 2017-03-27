@@ -1,0 +1,11 @@
+The dynamics of carrier recombination in proton bombarded highquality single crystal thin films of InAs grown by molecular beam epitaxy on transparent GaAs substrates are studied using the picosecond pumpprobe technique in the photon energy range 335483 meV. The effects of extrinsic recombination at the InAs/GaAs interface and of point defects introduced by proton damaging are separated by studying samples ranging from 3.3 to 0.27 ¼m in thickness and with proton doses in the range 10111015 cm2. The data indicate an interfacial recombination velocity of 2.7×104 cm	s1 and a defect capture time of 160 ps, and in the regime studied mobility limitations are found to have a negligible effect on the recombination dynamics.
+
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+HETEROSTRUCTURES
+RECOMBINATION
+PHYSICAL RADIATION EFFECTS
+PROTONS
+MOLECULAR BEAM EPITAXY
+OPTICAL TESTING
+PS RANGE

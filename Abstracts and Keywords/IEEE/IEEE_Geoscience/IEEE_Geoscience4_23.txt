@@ -1,0 +1,6 @@
+Flexible, distributed monitoring systems are essential to support decisions in a variety of contexts such as, for instance, vehicular traffic control, emergency evacuation plans, energy optimization services, pollutant detection or intelligent agriculture applications. In this paper, we present WSNAP, a platform for wireless sensor network (WSN) deployment. WSNAP relies on standard technologies, which enable users to interact easily with different types of sensors. Its main advantage is the ability to be easily adapted to the requirements of different applications, regardless of network topology and sensor board architecture. WSNAP was tested on a small WSN deployed at the ldquoDipartimento di Ingegneria e Scienza dell'Informazionerdquo (DISI) of the University of Trento, Trento, Italy. In the following, after describing the structure and the main features of the platform, the results of some experiments are reported.
+
+Wireless sensor networks
+databases
+distributed measurement systems
+environmental monitoring

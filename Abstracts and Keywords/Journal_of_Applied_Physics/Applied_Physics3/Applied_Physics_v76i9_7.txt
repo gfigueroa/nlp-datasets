@@ -1,0 +1,11 @@
+A method for imaging magnetic domain structures in the transmission electron microscope is described. Coherent Foucault imaging provides a direct means of producing a magnetic interferogram which reveals the quantitative distribution of magnetic induction across the specimen. The technique requires the high coherence of a fieldemission gun system and the ability to position an aperture accurately to cut part of the diffraction pattern. A simple analytical theory, together with computer simulations and experimental results, is presented to demonstrate the power of the technique.
+
+THIN FILMS
+DOMAIN STRUCTURE
+IMAGE FORMING
+TEM
+FERROMAGNETIC MATERIALS
+INDUCTION
+DIFFRACTION
+INTERFERENCE
+COMPUTERIZED SIMULATION

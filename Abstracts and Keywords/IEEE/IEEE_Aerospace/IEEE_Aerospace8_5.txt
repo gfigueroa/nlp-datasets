@@ -1,0 +1,9 @@
+This paper presents an assessment of 1.0 mm coaxial air lines for use as reference impedance standards at microwave and millimeter-wave frequencies in frequency domain and time-domain measurements. The time-domain measurement has proved effective in the assessment of air lines. Here, the assessments are performed for air lines in 1.0 mm line size and are based primarily on mechanical measurements and use several different types of time-domain reflection measurements with commercial Vector Network Analyzers (VNAs). This paper includes a comparison between the results obtained by these time-domain measurement options and mechanical measurement for reflections and electrical lengths. Frequency domain measurements up to 110 GHz are also included to complete the assessment.
+
+1.0 mm line size
+Coaxial air lines
+characteristic impedance
+electrical delay
+impedance standards
+mechanical assessment
+time-domain network analysis

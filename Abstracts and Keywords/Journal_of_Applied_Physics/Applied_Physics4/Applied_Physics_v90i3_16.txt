@@ -1,0 +1,19 @@
+We present a comparative analysis of the current spectral densities in a Si bipolar junction transistor (BJT) and a SiGe heterojunction bipolar transistor (HBT) of identical geometry performed by means of an ensemble Monte Carlo simulator self consistently coupled with a two-dimensional Poisson solver. We focus on the physical origin of the different noise sources in the transistors at rf when varying the injection level conditions. At low injection the spectral density of base current fluctuations, SJB(0), is governed by thermal noise related to the base resistance, while the collector spectral density, SJC(0), reaches a typical shot noise response. At high current density the onset of high injection in the base and the base push-out play an important role in the noise behavior of both transistors. Thus, SJC(0) deviates from the typical shot noise response. Hot carrier effects are also present. In the HBT, these effects are less important than in the BJT due to the SiGe/Si heterointerface, and SJB(0) can be neglected in the overall noise analysis because of the Ge content benefits when the structure enters the high-injection regime. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+Ge-Si alloys
+semiconductor materials
+bipolar transistors
+heterojunction bipolar transistors
+thermal noise
+current fluctuations
+semiconductor device models
+semiconductor device noise
+shot noise
+Monte Carlo methods
+Poisson equation
+high-frequency effects
+hot carriers
+current density
+charge injection

@@ -1,0 +1,6 @@
+The theoretical and experimental developments in interferometry have advanced spectacularly over the last five years and are still expanding at a rapid pace. With interferometry we mean the retrieval of the Green's function by cross-correlating or cross-convolving two (wave) field recordings. Over the last year several contributions have included interferometric representations for media with losses, in absence of wave phenomena, like in thermal and electromagnetic diffusion or viscous flow, and for moving media. In this paper we use the reciprocity theorems of the time-correlation and time-convolution types to formulate general representations for electromagnetic fields and waves, and give explicit expressions for different possible GPR applications involving controlled or uncontrolled sources, which can be transient or noise sources.
+
+Electromagnetism
+GPR applications
+Green's function retrieval
+Interferometry

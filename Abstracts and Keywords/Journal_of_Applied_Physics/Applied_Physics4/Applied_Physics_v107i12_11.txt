@@ -1,0 +1,14 @@
+We propose a bit patterned media fabrication method based on low energy nitrogen ion implantation. Nitrogen ion implantation of fcc-Co/Pd multilayer or hcp-CoCrPt single layer suppresses their magnetizations at room temperature. Ion implantation reduces the Curie temperature from 600 to 400 K (or lower) as a result of lattice expansion and reduced exchange interaction between the magnetic atoms in the magnetic layer. We have made media with magnetic dots of 190 to 30 nm in diameter by nitrogen ion doping through resist patterns. Writing and reading of the signal from individual dots were performed with a commercial perpendicular magnetic recording head.
+
+chromium alloys
+cobalt
+cobalt alloys
+Curie temperature
+exchange interactions (electron)
+ion implantation
+magnetic multilayers
+magnetic recording
+magnetisation
+nitrogen
+palladium
+platinum alloys

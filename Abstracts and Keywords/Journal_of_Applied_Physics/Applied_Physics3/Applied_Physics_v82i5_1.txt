@@ -1,0 +1,16 @@
+Photoluminescence (PL) spectra of Er3+ in an Er-doped silicon film were recorded at 2 and 77 K over the wavelength range from 1.52 to 1.68 ¼m, which includes optical transitions between the Er3+ 4I13/2 and 4I15/2 manifolds. These spectra were then analyzed to determine the nature of the electrostatic field at the site of the Er ion that governs the ions optical behavior. The PL spectra were analyzed three different ways: by considering the Er3+ ions to be occupying sites of Td, C3, or D2d point group symmetry. Transition energies and magnetic dipole transition probabilities were calculated for each case by diagonalizing a Hamiltonian representing the free-ion and crystal-field interactions in a RussellSaunders basis of states spanning the lowest 15 J multiplets of the 4f11 electronic configuration of Er3+. Crystal-field parameters were varied in each case to find the best agreement with the experiment. Our results showed that the site symmetry of the Er3+ ions most consistent with the data is D2d. For this case, the rms deviation between the experimental and calculated energy levels is 3.3
+cm1 with the calculated magnetic dipole transition probabilities in qualitative agreement with the experiment. © 1997 American Institute of Physics.
+
+silicon
+erbium
+carbon
+oxygen
+nitrogen
+semiconductor thin films
+photoluminescence
+optical constants
+electric fields
+crystal field interactions
+Russell-Saunders coupling
+electronic structure
+magnetic moments

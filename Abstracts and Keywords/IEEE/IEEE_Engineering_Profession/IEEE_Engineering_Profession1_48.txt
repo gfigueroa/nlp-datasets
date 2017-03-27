@@ -1,0 +1,6 @@
+Limited to the methods used before in designing logic circuits, not a same tool could be used to design both the combined circuits and the time-sequential circuits. The symmetrical coordinate system stated in this article can be constructed to represent various states of multi-dimensional logical variables. Using the symmetrical coordinate system, it is not only possible to complete the design of combined circuits, but also to carry out all the procedures needed in the design of time-sequence circuits. Thus the combined circuits and the time-sequential circuits can be easily designed with a same design tool. Examples are given in this article to illustrate how to use the system of symmetrical coordinate to design the logic circuits.
+
+Logic circuit
+Procedure diagram
+Quadrants merge
+symmetrical coordinate

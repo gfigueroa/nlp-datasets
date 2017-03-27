@@ -1,0 +1,9 @@
+Direct absorption and melting of 0.2, 0.5 and 1.1 ¼m polystyrene particles on a Si substrate irradiated by 248 nm excimer laser radiation was found to contribute to their dry laser removal via a hopping mechanism at cleaning thresholds of 0.05, 0.1, and 0.16 J/cm2, respectively. Ablation of these particles, which starts near the beginning of substrate deceleration at fluences above 0.40.5 J/cm2, suppresses particle removal due to ablative recoil momentum. At fluences above a second cleaning threshold of 0.7 J/cm2 particles are completely evaporated without any visible surface damage of the Si substrate. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+surface cleaning
+laser materials processing
+laser ablation
+polymers
+melting

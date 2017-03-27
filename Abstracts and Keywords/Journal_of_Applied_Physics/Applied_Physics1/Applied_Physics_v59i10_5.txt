@@ -1,0 +1,17 @@
+Efficient CdTe/CdS thin film solar cells have been the recent focus, in which the CdTe layers were reported by closespaced sublimation, and oxygen was used to control the 	ptype conductivity of the deposited films. Both the fundamental gap and the impurity level were determined by the wavelength modulation reflectance spectroscopy, which demonstrates that while oxygen atoms have an ionization energy of about 0.1 eV, they do not behave as a simple shallow acceptor. This finding is supported by the electrical characterization. The oxygen concentration incorporated in the CdTe thin films were found to be in the range of 10191020 cm3 by the IR measurements, while a carrier concentration between 1010 and 1012 cm3 was obtained by Hall measurements.
+
+CADMIUM TELLURIDE SOLAR CELLS
+CADMIUM SULFIDE SOLAR CELLS
+OPTICAL PROPERTIES
+ELECTRICAL PROPERTIES
+CRYSTAL DOPING
+CADMIUM TELLURIDES
+CARRIER DENSITY
+OPTICAL REFLECTION
+ENERGY GAP
+IMPURITIES
+HALL EFFECT
+EFFICIENCY
+FOCUSING
+ELECTRIC CONDUCTIVITY
+FABRICATION

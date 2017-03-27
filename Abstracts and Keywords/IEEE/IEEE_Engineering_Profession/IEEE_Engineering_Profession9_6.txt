@@ -1,0 +1,4 @@
+In an ideal world, system design and safety analysis are performed simultaneously in a top-down manner. Typically, the overall system concept is analysed first, followed by detailed analysis of the sub-systems that make up the system. However, due to the need to develop complex products quickly and due to different parts of the system being supplied by different companies, design and safety analysis of a sub-system sometimes takes place in isolation from design and safety analysis of other sub-systems. In order for sub-system analysis to be valid, a number of issues need to be addressed. This paper considers these issues and provides examples taken from the road transport domain.
+
+Safety analysis
+sub-system

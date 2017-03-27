@@ -1,0 +1,13 @@
+This paper studies the effects of pulsed laser-induced annealing of TiN-capped Co/Si bilayers with and without preamorphized Si substrate. For a low fluence of 0.2J/cm2, nonstoichiometry Co silicide with triple-layered structure is formed. On the other hand, highly textured CoSi2 grains in (111) direction are formed for a high fluence of 0.7J/cm2. The highly textured CoSi2 layer is monocrystalline and fully coherent with the (111) plane of the Si substrate. However, it has a large amount of microstructural defects throughout the layer. Competitive growth mechanisms between crystallization of homogenous intermixed layer and the nucleation from the melt boundary are discussed.
+
+titanium compounds
+cobalt
+silicon
+elemental semiconductors
+laser beam annealing
+high-speed optical techniques
+stoichiometry
+crystal microstructure
+crystallisation
+nucleation
+semiconductor-metal boundaries

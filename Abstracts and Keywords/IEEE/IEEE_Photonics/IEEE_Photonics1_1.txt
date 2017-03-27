@@ -1,0 +1,7 @@
+Glottal pulse corresponds to the glottal plosive produced in human speech. It is one of the consonants that exist phonemically in almost all languages. This paper utilizes the fact that the utterance of glottal stop is a unique quality of the speaker's way of pronunciation as well as his physical characteristics. The research work presented in this paper analyzes the energy and frequency responses of the glottal plosives, which provides a better basis for the purpose of speaker identification with deliberately disguised voices
+
+Affricate
+Formants
+Glottal plosive
+Speaker identification and IPA symbols
+deliberate disguise of voice

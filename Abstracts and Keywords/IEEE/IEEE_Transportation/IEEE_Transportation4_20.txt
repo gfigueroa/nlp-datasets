@@ -1,0 +1,5 @@
+The microgrid is a potential solution for future distributed generation systems. It aggregates many distributed energy resources (DERs) and loads together as an autonomous entity. As the penetration of DERs is increasing and their characteristics are very distinct, the control of DERs in microgrid is still a complex task. In this paper, a multi-agent system (MAS) approach, as a branch of distributed artificial intelligence methods, is introduced for DERs control in microgrid. The DER units and loads are classified and three types of agents, namely, the regional agent (RA), the local agent (LA) and the service agent (SA) are also defined. Two-layer control strategies are established to achieve local autonomy and global optimization respectively, operating in both grid-connected mode and island mode. Generation/load forecasting and schedule of loads shedding are also discussed in this paper.
+
+Distributed generation
+microgrid
+multi-agent system (MAS)

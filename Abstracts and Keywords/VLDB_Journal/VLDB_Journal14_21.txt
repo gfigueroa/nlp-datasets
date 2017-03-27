@@ -1,0 +1,6 @@
+We propose a mediator model for providing integrated and unified access to multiple taxonomy-based sources. Each source comprises a taxonomy and a database that indexes objects under the terms of the taxonomy. A mediator comprises a taxonomy and a set of relations between the mediator&#x2019;s and the sources&#x2019; terms, called articulations. By combining different modes of query evaluation at the sources and the mediator and different types of query translation, a flexible, efficient scheme of mediator operation is obtained that can accommodate various application needs and levels of answer quality. We adopt a simple conceptual modeling approach (taxonomies and intertaxonomy mappings) and we illustrate its advantages in terms of ease of use, uniformity, scalability, and efficiency. These characteristics make this proposal appropriate for a large-scale network of sources and mediators.
+
+Approximate query translation
+Information integration
+Mediators
+Taxonomies

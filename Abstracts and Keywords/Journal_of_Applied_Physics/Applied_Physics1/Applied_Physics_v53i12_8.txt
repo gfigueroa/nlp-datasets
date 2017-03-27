@@ -1,0 +1,18 @@
+The secondorder elastic stiffness constants of three ntype Tedoped GaSb single crystals were measured by the ultrasonic pulse interference method at 25	°C. Carrier concentrations of the samples are: 1.9×1017, 7.7×1017, and 1.2×1018 per cm3. The largest electronic effect was found in C44: a decrease of 0.32% for the highest doped sample compared with the lowest doped sample. The experimental results were interpreted in terms of Keyes theory, which is based on the consideration of electronic free energy. The shear deformation potential ž(111)u of the (111) band was found to be 16.5±1.8 eV. The longitudinal deformation potential ž(111)d was also estimated.
+
+gallium antimonides
+elasticity
+ntype conductors
+electrical properties
+tellurium additions
+doped materials
+monocrystals
+ultrasonic testing
+pulses
+interference
+carrier density
+medium temperature
+experimental data
+mathematical models
+deformation
+energy levels

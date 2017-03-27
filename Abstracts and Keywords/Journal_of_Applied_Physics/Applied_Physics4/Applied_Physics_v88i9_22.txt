@@ -1,0 +1,13 @@
+We have studied the thermal demagnetization in semi-infinite ferromagnets in Fe/MnF2 and Fe/Mn bilayers using Mössbauer spectroscopy. We find that the hyperfine field at the Fe/MnF2 interface follows a quasilinear temperature dependence, which reverts to a T3/2 dependence further into the bulk. The region in which linear temperature dependence was observed also showed significantly higher spin canting than in the films bulk layers. The interface in the Fe/Mn system immediately showed a T3/2 dependence which persisted deeper into the bulk. We attribute the linear temperature behavior to surface spin wave modes created by a perpendicular surface anisotropy at the interface. This behavior diminishes farther away from the interface, until the hyperfine field goes like T3/2 as expected for bulk, 3D spin waves. We conclude that the perpendicular surface anisotropy is much stronger at the Fe/MnF2 than the Fe/Mn interface. © 2000 American Institute of Physics. 
+
+manganese compounds
+manganese
+iron
+magnetic multilayers
+ferromagnetic materials
+demagnetisation
+spin waves
+surface magnetism
+Mossbauer effect
+hyperfine interactions
+perpendicular magnetic anisotropy

@@ -1,0 +1,14 @@
+A spatial map of the variation of acoustic impedance within a material structure can be made using only its resonance frequencies. We demonstrate this for a 1D rod having a diameter D which varies along its length l by determining D(l) from fundamental and overtone resonances. We also show how the technique can locate material/processing inhomogeneities in the elastic modulus and/or density on a scale of several parts per thousand for stock rods of an aluminum alloy using nondestructive and noncontact testing. And finally, we apply dimensional resonance tomography in new measurement methods to obtain the thermal diffusivity along a rod and the heat transfer coefficient of the rod to its ambient. The latter technique provides quantitative data while allowing an arbitrary and unknown initial temperature distribution, requiring no temperature measurement or Fourier analysis, and can be done in noncontact fashion with the measurement of frequency and time, only.
+
+ACOUSTIC IMPEDANCE
+TOMOGRAPHY
+ELASTICITY
+ACOUSTIC RESONANCE
+HEAT TRANSFER
+THERMAL DIFFUSION
+MAPPING
+RODS
+ALUMINIUM
+NONDESTRUCTIVE TESTING
+DENSITY
+MEASURING METHODS

@@ -1,0 +1,10 @@
+Correlated photon emission from a thick barrier coupled quantum dot (QD) has been observed by using selective two-color excitation spectroscopy and second-order photon correlation spectroscopy. Surprisingly, the carrier creation in both QDs induced an anomalous increase in the luminescence intensity, and furthermore the cross photon correlation spectrum between two QDs exhibited photon antibunching with a long recovery time. These significant findings can be interpreted in terms of the electromagnetic interaction between QDs with a thick barrier layer.
+
+gallium arsenide
+III-V semiconductors
+indium compounds
+photoluminescence
+photon antibunching
+photon correlation spectroscopy
+semiconductor quantum dots
+spectral line intensity

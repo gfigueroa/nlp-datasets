@@ -1,0 +1,15 @@
+Electrical resistivity Á(T) has been measured in two series of melt-spun amorphous ferromagnets Fe5Co50Ni17xCrxB16Si12 (x = 0,5,10,15) and Fe7.8Co31.2Ni39xCrxB14Si8 (x = 5,10,15) and Fe7.8Co31.2Ni24Mn15B14Si8 between 1.5 and 25K. Á(T) of all these high-resistive, soft ferromagnetic samples with wide device applications show pronounced minima at Tmin. In the region well below Tmin, it shows very conclusively a (T) dependence coming from electron-electron interaction effects in the presence of weak localization due to their high structural disorder. Á(T), measured over a wider temperature range of 1.5300K in the second series, shows in the region well above Tmin a T2 dependence coming from either the dynamical structure factor or magnetic scattering or from both. At still higher temperatures, Á(T) < T through the structural term only. The above interpretation is severely restricted by various characteristic temperatures such as Debye, Curie, and Tmin in the relevant theories used for the analysis. Reasonable isolations of different contributions were only possible because of the very high resolution of the Á(T) data.
+
+amorphous magnetic materials
+boron alloys
+chromium alloys
+cobalt alloys
+Curie temperature
+Debye temperature
+ferromagnetic materials
+iron alloys
+magnetoresistance
+metallic glasses
+nickel alloys
+silicon alloys
+weak localisation

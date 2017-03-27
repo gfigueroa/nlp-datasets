@@ -1,0 +1,11 @@
+The issues and solutions for the interoperability of a class of heterogeneous databases and their database systems are expounded in two parts. Part I presents the data-sharing issues in federated databases and systems. Part II, which will appear in a future issue, explores resource-consolidation issues. Interoperability in this context refers to data sharing among heterogeneous databases, and to resource consolidation of computer hardware, system software, and support personnel. Resource consolidation requires the presence of a database system architecture which supports the heterogeneous system software, thereby eliminating the need for various computer hardware and support personnel. The class of heterogeneous databases and database systems expounded herein is termed federated, meaning that they are joined in order to meet certain organizational requirements and because they require their respective application specificities, integrity constraints, and security requirements to be upheld. Federated databases and systems are new. While there are no technological solutions, there has been considerable research towards their development. This tutorial is aimed at exposing the need for such solutions. A taxonomy is introduced in our review of existing research undertakings and exploratory developments. With this taxonomy, we contrast and compare various approaches to federating databases and systems.
+
+attribute-based
+data-model-and-language-to-data-model-and-language mappings
+database conversion
+hierarchical
+network
+object-oriented
+relational
+schema transformation
+transaction translation

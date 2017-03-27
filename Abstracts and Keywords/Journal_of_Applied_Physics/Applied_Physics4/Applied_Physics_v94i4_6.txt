@@ -1,0 +1,9 @@
+Frequency (10 Hz1 MHz) and temperature (2280
+°C) dependent dielectric constant (both real and imaginary) of a ferroelectric liquid crystal ZLI-4851 film (21 ¼m thickness) showing a second order SmC-SmA phase transition around 63.2
+°C have been reported. The variation of dielectric constant as a function of temperature follows the generalized Landau theoretical model. Thermal variation of the complex dielectric constant has also been measured with different bias field strengths (020 V) for both the SmC and the SmA phases. Interestingly, soft mode is observed in the SmC phase only by applying a bias field perpendicular to the helix axis. Due to the application of the bias field, the SmC phase loses stability of the helical structure, which is considered to be responsible for the appearance of soft mode in the present ferroelectric liquid crystal system. © 2003 American Institute of Physics. 
+
+soft modes
+organic compounds
+liquid crystal phase transformations
+ferroelectric liquid crystals
+permittivity

@@ -1,0 +1,10 @@
+Phononic crystals with triangular and honeycomb lattices are investigated experimentally and theoretically. They are composed of arrays of steel cylinders immersed in water. The measured transmission spectra reveal the existence of complete band gaps but also of deaf bands. Band gaps and deaf bands are identified by comparing band structure computations, obtained by a periodic-boundary finite element method, with transmission simulations, obtained using the finite difference time domain method. The appearance of flat bands and the polarization of the associated eigenmodes is also discussed. Triangular and honeycomb phononic crystals with equal cylinder diameter and smallest spacing are compared. As previously obtained with air-solid phononic crystals, it is found that the first complete band gap opens for the honeycomb lattice but not for the triangular lattice, thanks to symmetry reduction.
+
+water
+steel
+phononic crystals
+energy gap
+boundary-elements methods
+finite element analysis
+finite difference time-domain analysis
+eigenvalues and eigenfunctions

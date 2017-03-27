@@ -1,0 +1,14 @@
+The BaFe12O19BaTiO3 composite ferroelectric/ferromagnetic ceramics were prepared by conventional solid-state sintering technique. The magnetic properties are consistent with the ratio of the magnetic phase present but ferroelectric properties are degraded due to a sufficiently high degree of conductivity in the ceramics. Magnetoelectric coupling was observed at a local level by means of the scanning probe microscopy (SPM). Piezoresponse and magnetic force modes of SPM were both utilized to assess strain-mediated magnetoelectric coupling between neighboring grains. The observed variation in the magnetic signal after the electrical poling with SPM was attested to the changes in the magnetic interactions and magnetic anisotropy leading to broadening of the magnetic domain wall.
+
+barium compounds
+composite materials
+electrical conductivity
+ferroelectric ceramics
+ferromagnetic materials
+magnetic anisotropy
+magnetic domain walls
+magnetic forces
+magnetoelectric effects
+multiferroics
+scanning probe microscopy
+sintering

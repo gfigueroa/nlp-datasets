@@ -1,0 +1,7 @@
+The future power system will integrate widely distributed energy resources (DER) interfaced by power electronics units, which may cause a reduction of the system inertia, resulting in non-compatibility with existing control algorithms and settings. Additional rotational-inertia can be provided to the system if many DER units combined with relative small storage units operate like virtual synchronous generators (VSG). This paper presents the measurement layer and the associated monitoring campaign needed for a VSG design and operation.
+
+Monitoring
+Remote access
+Stationarity
+Synchronized measurements
+Virtual Synchronous Generator

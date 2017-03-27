@@ -1,0 +1,9 @@
+We demonstrate a novel use of the pump-probe thermal lens spectroscopy and Z-scan techniques for the measurement of the small absorption coefficient in a semiorganic, nonlinear optical crystal zinc (tris) thiourea sulphate. We measure the absorption spectrum and the absolute values of the absorption of the crystal in the near-infrared region (700980 nm). A maximum absorption coefficient of <0.04 cm-1 is reported. © 2001 American Institute of Physics.
+
+zinc compounds
+organic compounds
+optical harmonic generation
+optical materials
+thermo-optical effects
+absorption coefficients
+infrared spectra

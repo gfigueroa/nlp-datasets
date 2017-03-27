@@ -1,0 +1,8 @@
+We have systematically examined the transition from twodimensional nucleation to stepflow growth on variously misoriented vicinal GaAs (001) surfaces during molecular beam epitaxy using reflection highenergy electron diffraction (RHEED). The time to the first maximum of the RHEED intensity oscillations is gradually delayed as the growth mode transition temperature is approached from below as the result of an increasing number of adatoms being incorporated at steps. Detailed analysis of this delay has shown that the incorporation rate is independent of the Ga flux, but it is strongly dependent on the direction of misorientation. This means that step edges do not act as perfect sinks for adatoms, but that detachment can occur relatively easily. The energy barrier for incorporation is considerably higher for Ga than Asterminated steps, which strongly suggests that the anisotropic growth mode transition on GaAs (001) stems mainly from the different step structures rather than anisotropic Ga adatom migration.
+
+GALLIUM ARSENIDES
+MOLECULAR BEAM EPITAXY
+FILM GROWTH
+RHEED
+ADATOMS
+KINETICS

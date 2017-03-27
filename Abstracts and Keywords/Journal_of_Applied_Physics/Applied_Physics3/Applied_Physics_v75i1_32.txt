@@ -1,0 +1,13 @@
+Excitons confined in highquality GaAs/Al0.19Ga0.81As double heterostructures have been studied experimentally and theoretically with emphasis on phenomena associated with the transition from a twodimensional exciton in a quantum well to a threedimensional exciton in a thin film. Exciton luminescence and reflectance spectra are obtained for GaAs film widths between 750 and 5200 Å. Exciton polariton luminescence is observed for the 5200 Å sample. Highly resolved exciton peaks are obtained in the freeexciton luminescence spectra for both the 990 and 2010 Å samples. Magnetoexciton spectra of the 990 Å sample reveal an enhanced spin splitting of the groundlevel exciton. Experimental results of both the 750 and the 990 Å samples are qualitatively explained by an effectivemass theory which considers mixing of a large number of quasitwodimensional excitons. The large spinsplitting of the 990 Å sample is a distinctive feature of a wide quantum well which can be explained by the well width dependence of exciton mixing. The comparison between the discrete luminescence spectrum of the 2010 Å sample and the reflectance spectrum with an exciton polariton interference pattern is presented. The quantization of the spatial dispersion contributes to the luminescence phenomena of the quasithreedimensional exciton which means that the exciton coherence length must be larger than 4020 Å.
+
+QUANTUM WELLS
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+EXCITONS
+HETEROSTRUCTURES
+TERNARY ALLOYS
+LUMINESCENCE
+SPECTRAL REFLECTANCE
+POLARITONS
+ENERGYLEVEL SPLITTING
+EFFECTIVE MASS

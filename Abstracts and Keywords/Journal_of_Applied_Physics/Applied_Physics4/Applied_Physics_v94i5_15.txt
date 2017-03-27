@@ -1,0 +1,12 @@
+The photoluminescence and crystalline structure characterization of undoped and several samarium doped ZrO2 samples are reported. Strong fluorescence emission produced by the transitions 4G5/2’6H5/2,7/2,9/2 of Sm3+ was obtained by the excitation of the host at 320 nm. The energy transfer process from the host to the samarium ion was confirmed by the analysis of the ZrO2 fluorescence decay curve. It is shown that the content of the active ions stabilizes the tetragonal structure of ZrO2 at 1000
+°C, being 73% for 2
+mol
+%
+Sm2O3 doped and 3% for undoped samples. The dependence between the fluorescence emission and the crystalline structure is discussed. © 2003 American Institute of Physics. 
+
+zirconium compounds
+samarium
+photoluminescence
+crystal structure
+fluorescence
+stimulated emission

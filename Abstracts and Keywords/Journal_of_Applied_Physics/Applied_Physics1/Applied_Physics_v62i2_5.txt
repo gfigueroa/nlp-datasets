@@ -1,0 +1,13 @@
+The finite strain elasticity theory of Murnaghan has been used to derive the expressions for the effective secondorder elastic constants of tetragonal, trigonal, orthorhombic, monoclinic, and triclinic crystals in their strained state in terms of the second and thirdorder elastic constants of the respective crystals in their natural state. These expressions are employed to obtain the pressure derivatives of the effective secondorder elastic constants of some trigonal and tetragonal crystals for which experimental second and thirdorder elastic constant data are available.
+
+ELASTICITY
+ELASTIC CONSTANTS
+STRAINS
+ONEDIMENSIONAL CALCULATIONS
+MATHEMATICAL MODELS
+CRYSTALS
+TETRAGONAL LATTICES
+TRIGONAL LATTICES
+ORTHORHOMBIC LATTICES
+MONOCLINIC LATTICES
+TRICLINIC LATTICES

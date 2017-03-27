@@ -1,0 +1,13 @@
+The simultaneous interaction of methyl radicals (CH3) and atomic hydrogen (H) with the surface of amorphous hydrogenated carbon (a-C:H) films is investigated by using quantified radical beam sources. The growth and/or erosion of the films during the interaction of the H and CH3 radical beam with the surface is monitored by means of in situ real-time ellipsometry at a substrate temperature of 320 K. Interaction with the CH3 beam alone results in a slow growth rate corresponding to a sticking coefficient for CH3 of <104. Simultaneous interaction of an atomic hydrogen beam and the CH3 radical beam with the surface results in a sticking coefficient for CH3 of <102. A microscopic modeling of this synergistic growth yields a cross section of 3.8 Å2 for CH3 adsorption at a dangling bond, created by abstraction of surface bonded hydrogen due to impinging atomic hydrogen. The cross section for the abstraction of surface bonded hydrogen by impinging CH3 radicals is 1.5×103
+Å2. © 2001 American Institute of Physics. 
+
+carbon
+hydrogen
+plasma CVD coatings
+adsorption
+ellipsometry
+surface chemistry
+dangling bonds
+amorphous semiconductors
+free radical reactions
+hydrogen neutral atoms

@@ -1,0 +1,11 @@
+The emission spectra resulting from ion beam sputtering a YBaCuO target were observed as a function of beam voltage and beam current. The spectra were relatively clean with several peaks readily attributed to each of Y, Ba, and Ar. Monitoring of copper and oxygen was more difficult with a single CuO peak and one O peak evident. The intensities of the cation peaks were linear with respect to beam voltage above 400 V. Since target current was found not to be directly proportional to beam current, target power was defined as the product of beam voltage and target current. The response of cation peak height to changes in target power was linear and similar for variations of either beam voltage or target current.
+
+HIGHTC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+SPUTTERING
+MONITORING
+ION BEAMS
+BEAM CURRENTS
+SUPERCONDUCTING FILMS

@@ -1,0 +1,6 @@
+Arrays of free-standing ZnSe nanowires with the length of 810¼m and diameters of 80150nm were fabricated by Au-catalyzed vapor-liquid-solid growth. Current-voltage characteristics of the arrays over the temperature interval of 90400K showed a superlinear character. The differential conductance varied between two saturating regimes at low and high biases, respectively. This behavior was explained using a model of nonuniform wires with concentration fluctuations along them. The nanowire photoconductivity had a spectral edge corresponding to the ZnSe band gap and a strong frequency dispersion, presumably due to carrier capture by deep centers.
+
+zinc compounds
+II-VI semiconductors
+nanowires
+photoconductivity

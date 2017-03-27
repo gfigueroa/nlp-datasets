@@ -1,0 +1,6 @@
+In this paper we address the disocclusion problem that occurs in Depth Image Based Rendering (DIBR). With a computed background model, the areas which were occluded by foreground objects can be filled with their true color values, in contrast to approximate values as in previous approaches. Our method avoids artifacts that occur with common approaches and can additionally reduce compression artifacts at object boundaries.
+
+3DTV
+DIBR
+Depth map estimation
+Stereo vision

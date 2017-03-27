@@ -1,0 +1,15 @@
+We give algebraic solutions for the voltage and temperature distributions in dielectrics under high applied voltage. The models show a restricted nonlinear steadystate currentvoltage relation on approaching breakdown, and enable us to show that the usual point of collapse will be at the outside of the sample. Comparison with experimental data indicates that electrothermal breakdown is not the normal breakdown mechanism in polymeric insulators.
+
+DIELECTRIC MATERIALS
+TEMPERATURE EFFECTS
+BREAKDOWN
+MATHEMATICL MODELS
+ELECTRIC CURRENTS
+ELECTRIC FIELDS
+THEORETICAL DATA
+SPATIAL DISTRIBUTION
+NONLINEAR PROBLEMS
+STEADYSTATE CONDITIONS
+COMPARATIVE EVALUATIONS
+POLYMERS
+ELECTRICAL INSULATORS

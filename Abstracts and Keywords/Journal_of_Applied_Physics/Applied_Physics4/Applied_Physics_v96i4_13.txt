@@ -1,0 +1,9 @@
+We have constructed pentacene-based organic thin-film transistors (OTFTs) using 270nm thick Al2O3+x gate dielectric deposited on indium tin oxide glass. Two different deposition techniques have been employed for the solid pentacene channel of our OTFTs: traditional thermal evaporation (TE) and energetic cluster evaporation (ECE). The TE-deposited pentacene channel appeared superior to the ECE-deposited pentacene in regard to crystallinity and hole mobility. However, the ECE-prepared OTFT showed an earlier turn on with smaller threshold voltage than the TE-prepared OTFT. This threshold voltage shift appeared more prominent with proper chemical treatment on the surface of our Al2O3+x gate oxide.
+
+organic semiconductors
+thin film transistors
+alumina
+vacuum deposition
+surface chemistry
+surface treatment
+hole mobility

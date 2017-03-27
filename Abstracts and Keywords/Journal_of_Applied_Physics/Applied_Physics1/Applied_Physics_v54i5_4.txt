@@ -1,0 +1,19 @@
+A model has been developed, using Ficks diffusion equations, to describe the effect of interposed silicide thickness on the growth rate of the outer silicide layer in bilayer metalsilicon thin film system. The model is based on diffusionlimited transport of silicon through the interposed silicide layer and predicts that the growth rate of the outer silicide layer will be inversely proportional to the thickness of the interposed layer, if the interposed thickness exceeds a certain critical value. To test the model, the growth rate of CrSi2 formation in the Si111	/Pd2Si/Cr system was studied as a function of Pd2Si thickness. The CrSi2 thickness was always found to increase linearly with annealing time, indicating a reactionlimited process. For thin epitaxial Pd2Si layers the CrSi2 growth rate was equal to that of CrSi2 grown directly on Si. However, for epitaxial Pd2Si layers thicker than the critical thickness, CrSi2 growth was inhibited causing the growth rate to be inversely proportional to Pd2Si thickness, in contrast to that found for CrSi2 formation on nonepitaxial Pd2Si where no thickness effects were found. The thickness effect of the epitaxial Pd2Si layer is believed to be due to its microstructure, which inhibits silicon diffusion.
+
+palladium silicides
+films
+thickness
+layers
+silicon
+chromium
+crystal lattices
+mathematical models
+diffusion
+equations
+metals
+chromium silicides
+annealing
+time dependence
+epitaxy
+microstructure
+experimental data

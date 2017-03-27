@@ -1,0 +1,13 @@
+A theoretical model for predicting the kinetics of ice crystallization inside cells during cryopreservation was developed, and applied to mouse oocytes, by coupling separate models of (1) water transport across the cell membrane, (2) ice nucleation, and (3) crystal growth. The instantaneous cell volume and cytosol composition during continuous cooling in the presence of glycerol were predicted using the water transport model. Classical nucleation theory was used to predict ice nucleation rates, and a nonisothermal diffusionlimited crystalgrowth model was used to compute the resulting crystallization kinetics. The model requires knowledge of the nucleation rate parameters © and º, as well as the viscosity · of a waterNaClglycerol solution as a function of both the composition and temperature of the solution. These dependences were estimated from data available in the literature. Cellspecific biophysical parameters were obtained from previous studies on mouse oocytes. A sensitivity analysis showed that the model was most sensitive to the values of º and ·.
+
+BIOLOGICAL MATERIALS
+FREEZING
+ANIMAL CELLS
+ICE
+CRYSTAL GROWTH
+OOCYTES
+GLYCEROL
+WATER
+MEMBRANE TRANSPORT
+SOLUTIONS
+NUCLEATION

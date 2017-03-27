@@ -1,0 +1,13 @@
+Recent experiments have shown that a periodic array of grooves and strips on a layered medium provides efficient conversion between Rayleigh and Sezawa modes supported by the medium; these novel mode converting reflectors have been used to construct surface wave resonators. This paper presents a theoretical analysis of the mode conversion process starting from material parameters. A firstorder perturbation theory is used to construct a fourport scattering matrix for each strip in the array. The scattering matrices are then converted to transmission matrices and cascaded to provide the overall scattering characteristics of the array. The predicted characteristics are in close agreement with experimentally measured values.
+
+surface waves
+oscillation modes
+perturbation theory
+matrices
+layered materials
+gratings
+reflection
+resonators
+cavities
+wave propagation
+acoustic surface waves

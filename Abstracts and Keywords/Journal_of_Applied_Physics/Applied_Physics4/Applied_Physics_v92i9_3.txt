@@ -1,0 +1,8 @@
+The qualitative and quantitative description of the laser tuning effect during a pulse forming has been described in this article. A MachZender interferometer to measure changes of the optical length of the laser resonator during pulse operation has been used. It has been proven that the reason for the line hopping during the pulse is because of the change in the refractive index. © 2002 American Institute of Physics. 
+
+gas lasers
+laser tuning
+Mach-Zehnder interferometers
+laser cavity resonators
+refractive index
+carbon compounds

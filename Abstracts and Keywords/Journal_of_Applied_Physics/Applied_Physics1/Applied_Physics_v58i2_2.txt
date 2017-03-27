@@ -1,0 +1,7 @@
+The electronacoustic phonon scattering in the presence of intense laser light is considered. A kinetic equation for electrons is derived from which the absorption coefficient is obtained. It is shown that in the limit of ultrastrong fields the absorption coefficient is vanishing small as a result of the weakening of the electronphonon interaction under intense fields.
+
+ELECTRONPHONON COUPLING
+LASER RADIATION
+PHOTOACOUSTIC EFFECT
+ABSORPTIVITY
+SEMICONDUCTOR MATERIALS

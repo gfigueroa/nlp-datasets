@@ -1,0 +1,9 @@
+Multi-level transactions are a varlant of open-nested transactions in which the subtransactions correspond to operations at different levels of a layered system architecture. They allow the exploitation of semantics of high-level operations to increase concurrency. As a consequence, undoing a transaction requires compensation of completed subtransactions. In addition, multi-level recovery methods must take into consideration that high-level operations are not necessarily atomic if multiple pages are updated in a single subtransaction. This article presents algorithms for multi-level transaction management that are implemented in the database kernel system (DASDBS). In particular, we show that multi-level recovery can be implemented in an efficient way. We discuss performance measurements using a synthetic benchmark for processing complex objects in a multi-user environment. We show that multi-level transaction management can be extended easily to cope with parallel subtransactions within a single transaction. Performance results are presented with varying degrees of inter- and intratransaction parallelism.
+
+atomicity
+complex objects
+inter- and intratransaction parallelism
+multi-level transactions
+performance
+persistence
+recovery

@@ -1,0 +1,8 @@
+Values of the temperature coefficient of the refractive index were obtained from the derivation of a simple relation between energy bandgap and refractive index in semiconductors. These values, (dn/dT)/n, were compared to the experimental data found in literature. Our model, with only one fitting parameter dB/dT=2.5×105 K1 for all semiconductors, results in the best agreement with experimental data. © 1995 American Institute of Physics.
+
+IIIV SEMICONDUCTORS
+IIVI SEMICONDUCTORS
+GROUP IVB ELEMENTS
+REFRACTIVE INDEX
+TEMPERATURE DEPENDENCE
+ENERGY GAP

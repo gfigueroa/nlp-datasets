@@ -1,0 +1,16 @@
+Plasma emission actinometry has been used to study the mechanism by which small additions of oxygen (<0.5%) enhance the rate of diamond deposition in a dilute (4%) CH4/H2 discharge at high temperature (9001300 K). Increasing amounts of CH4 in the feed depress [H], while increasing the O2 concentration, up to <5%, produces a fivefold increase in atomic hydrogen in the discharge zone. Invoking a mechanism where diamond growth competes with the formation of an amorphous/graphitic inhibiting layer, these results and earlier studies suggest that oxygen (1) increases [H] which selectively etches amorphous/graphitic carbon, (2) accelerates reaction of this layer with molecular hydrogen, and (3) may itself act as a selective etchant of nondiamond carbon. As a result, the number of active diamond growth sites is increased and enhanced growth rates are observed. We also have grown diamond by alternating a CH4/He discharge with a H2/O2/He discharge and results are consistent with this mechanism. Instantaneous growth rates are very high (45 ¼m/h) and codeposition of nondiamond allotropes is less. The H2/O2/He discharge removes the inhibiting carbon layer more effectively, while the CH4/He plasma presumably is richer in diamondforming precursors. Thermochemical calculations suggest that these precursors are likely to be C2H2, C2H, C2, or C atoms rather than methyl radicals (CH3) as others have postulated.
+
+diamonds
+synthesis
+oxygen additions
+electric discharges
+methane
+hydrogen
+high temperature
+very high temperature
+deposition
+plasma
+growth rate
+augmentation
+quantity ratio
+oxygen

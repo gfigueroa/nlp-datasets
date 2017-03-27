@@ -1,0 +1,7 @@
+An extended PCA algorithm to extract moving objects is presented in this paper. In the algorithm, three frames are sufficient for the extraction of for rigid or non-rigid objects. In order to obtain a precise contour of moving object, a snake model is adopted to process the object detection results. In our experiments, a range of image sequences is used to test the combined PCAsnake model. The results show that the proposed algorithm can extract the moving objects accurately and its speed is improved over the conventional PCA model.
+
+Contour Extraction
+Eigen-object
+Moving Object
+PCA
+Snake Algorithm

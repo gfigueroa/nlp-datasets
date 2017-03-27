@@ -1,0 +1,14 @@
+The phase composition of crystallized NdxFe81.5xB18.5 (x=3, 4, 4.5, 6, 12, and 15) alloys annealed under optimal condition are investigated by means of zerofield spinecho nuclear magnetic resonance (NMR) and Mössbauer effect (ME), together with xray diffraction (XRD). It is found that the phase composition depends on the Nd concentration. The samples with 1216 at.	%Nd contain Nd2Fe14B magnetically hard phase and Nd1.1Fe4B4 paramagnetic phase. Their large coercive fields are due to the very fine size of Nd2Fe14B crystallite below the critical size of single domain particles, and some minor phases precipitated at grain boundaries, which have a pinning domain wall effect. The samples with a lower Nd concentration (x=36 at.	%) consist of bodycenteredtetragonal (bct)Fe3B and a small amount of ±Fe, and no Nd2Fe14B and Nd1.1Fe4B4. Furthermore, the NMR results show that the spectra corresponding to bctFe3B in the samples annealed at 670	°C distort and broaden more seriously than that of pure bctFe3B in the Nd4Fe77.5B18.5 alloy annealed at 839	°C, and the difference of their spinlattice and spinspin relaxation time is very large, implying that B atoms have at a different nearestneighbor environment. Thus, it is reasonable to assume that Nd atoms enter into bctFe3B and that such a compound has a large coercive field.
+
+IRON BASE ALLOYS
+NEODYMIUM ALLOYS
+BORON ALLOYS
+MELT SPINNING
+PHASE STUDIES
+HEAT TREATMENTS
+NMR SPECTRA
+SPIN ECHO
+MOESSBAUER EFFECT
+XRD
+MAGNETIC STRUCTURE
+DOMAIN STRUCTURE

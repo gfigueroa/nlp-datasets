@@ -1,0 +1,6 @@
+The conditions under which an externally supplied pulse of electrons will induce breakdown in an undervoltaged, low-gain discharge gap are experimentally and theoretically explored. The minimum number of injected electrons required to achieve breakdown in a parallel-plate gap is measured in argon at pd values of 310 Torr	m using ultraviolet laser pulses to photoelectrically release electrons from the cathode. This value was found to scale inversely with voltage at constant pd and with pressure within the parameter range explored. A dimensionless theoretical description of the phenomenon is formulated and numerically solved. It is found that a significant fraction of the charge on the plates must be injected for breakdown to be achieved at low gain. It is also found that fewer electrons are required as the gain due to electron-impact ionization (± process) is increased, or as the sensitivity of the ± process to electric field is enhanced by increasing the gas pressure. A predicted insensitivity to ion mobility implies that the breakdown is determined during the first electron avalanche when space-charge distortion is greatest.
+
+avalanche breakdown
+charge injection
+electron impact ionisation
+space charge

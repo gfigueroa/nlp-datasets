@@ -1,0 +1,6 @@
+We have verified that extraordinary transmission of long-wavelength light through extremely narrow slits in a thick metal film can be achieved by hybrid surface-plasmon and FabryPérot modes. Transmittance of these ultranarrow slits, which have width and thickness of 0.56¼m and 100¼m, respectively, for a terahertz light with wavelength of 225¼m can be 2.1×108 times higher than that predicted by using classic theory. Furthermore, the corresponding ratio between transmission wavelength and slit width can be up to 400, which is over 60 times larger than that the conventional grating-based surface-plasmon modes can provide.
+
+diffraction gratings
+Fabry-Perot interferometers
+light transmission
+surface plasmons

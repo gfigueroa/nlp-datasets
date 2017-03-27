@@ -1,0 +1,11 @@
+Computer modeling has been employed to study the effect of volume fraction and morphology of secondphase constituents on composite stiffness and strength. It is found that the efficiency of load transfer to the secondphase constituent increases with volume fraction vf for particulate composites. For aligned shortfiber composites, the efficiency of load transfer reaches a limiting value with increasing volume fraction for homogeneous fiber dispersions, while for fiber distributions which allow for fiberrich and matrixrich regions, the efficiency of load transfer decreases. The saturation or decrease in load transfer efficiency is due to fiber confinement, by which the interfiber matrix material is constrained by the presence of neighboring fibers. Hence, the amount of shear tractions and load transferred to a given fiber is altered by the local fiber distribution, as compared to the case of an isolated fiber (dilute limit). The strength of brittle particulate composites is reduced for most particulate volume fractions considered, while the strength of aligned shortfiber composites with a homogeneous fiber dispersion is marginally increased only for vfs0.2. The composite strength has a downward concave shape, as a function of vf. This is accounted for by both the saturation in load transfer due to fiber confinement and the lower composite strain at failure (embrittlement) as vf is increased. The strength of viscoelastic aligned shortfiber composites with a homogeneous fiber dispersion displays a higher strength at high fiber volume fractions, as compared to a perfectly brittle matrix, which suggests that matrix toughness plays a key role in the strengthening of shortfiber composites.
+
+COMPOSITE MATERIALS
+REINFORCED MATERIALS
+MORPHOLOGY
+PARTICULATES
+VOLUME
+ELASTICITY
+LOADING
+COMPUTER CALCULATIONS
+YIELD STRENGTH

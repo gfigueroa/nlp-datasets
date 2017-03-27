@@ -1,0 +1,13 @@
+Many of todays processing plasma tools are operated at low pressures to achieve high etch directivity and reduce side erosion on the wafer. At these pressures electron-neutral collisions are rare and the electrons cannot gain energy through the ohmic heating process. Instead, the heating mechanism is attributed to a stochastic process between the electrons and the sheath electric field. Theoretical models of this stochastic process include the hard wall approximation and the pressure heating effect. The former is inconsistent with electron current conservation at the sheath, while the latter shows a difference in power absorption when electron loss to the electrodes is considered. This article examines the effects of electron current on a capacitive sheath by controlling this current with an additional dc bias on the electrode. Experimental and particle-in-cell model results for a low-pressure argon plasma are compared and presented. Results show that the electron power absorption is more effective when the electron current is removed. The model also shows a high harmonic content on the sheath voltage which is attenuated by removing the electron current. These high-frequency harmonics are measured in the experiment with a floating probe, and their correlation with the electron current is in agreement with the model results.
+
+argon
+plasma sheaths
+plasma materials processing
+sputter etching
+plasma ohmic heating
+stochastic processes
+plasma-wall interactions
+plasma pressure
+plasma transport processes
+plasma simulation
+plasma probes

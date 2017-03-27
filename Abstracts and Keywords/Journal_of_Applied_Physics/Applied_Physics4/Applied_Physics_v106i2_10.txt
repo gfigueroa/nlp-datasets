@@ -1,0 +1,17 @@
+This study is carried out to verify the role of thin film microstructure in determining the energy relaxation processes of swift heavy ions in CdS polycrystalline thin films. Two sets of CdS thin film samples, differing in their microstructures, prepared using thermal evaporation and spray pyrolysis, are irradiated with 100 MeV Ag ions using Pelletron accelerator. It is observed that the effects produced differ significantly in the two films. For the evaporated films, defect annealing dominates for lower irradiation fluences but at higher fluences the effects due to defect creation and their migration are dominant. A transformation from the metastable cubic to hexagonal phase together with the creation of a significant amount of compressive strain is seen in these films for irradiation at the highest fluence. The optical absorption of the samples shows an increase in band gap from 2.34 eV for the as grown film to 2.43 eV for the sample irradiated at the highest fluence that is further confirmed by photoluminescence (PL) studies. In contrast, the spray deposited samples undergo a significant improvement of crystalline quality for all fluences as shown by an increase in x-ray diffraction peak intensity, sharper optical absorption edge, reduction in defect PL intensity, and removal of asymmetry in the line shape of the longitudinal optical phonon on its lower wavenumber side in Raman spectra.
+
+annealing
+cadmium compounds
+compressibility
+energy gap
+II-VI semiconductors
+ion beam effects
+phonons
+photoluminescence
+pyrolysis
+Raman spectra
+semiconductor thin films
+solid-state phase transformations
+vacuum deposition
+wide band gap semiconductors
+X-ray diffraction

@@ -1,0 +1,11 @@
+The surface resistance R of meltprocessing samples is investigated as a function of the radio wave amplitude H in the low frequency range. We found an unusual dependence R(H) for samples with high critical current density. The rate of change of R(H) has a minimum at amplitudes H around the lower critical magnetic field Hc. This phenomenon is explained within the proposed theoretical model which takes into account the critical intercrystallite currents as well as the intracrystallite ones. The nature of the effect is connected with the increase of the crystallite screening capability which occurs at the transition of the crystallites to the Bean critical state.
+
+HIGHTC SUPERCONDUCTORS
+TEXTURE
+MELTING
+ABSORPTION
+SURFACE CONDUCTIVITY
+RADIOWAVE RADIATION
+AMPLITUDES
+GRAIN BOUNDARIES
+CRITICAL CURRENT

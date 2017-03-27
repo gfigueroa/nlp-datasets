@@ -1,0 +1,10 @@
+The performance of distributed text document retrieval systems is strongly influenced by the organization of the inverted text. This article compares the performance impact on query processing of various physical organizations for inverted lists. We present a new probabilistic model of the database and queries. Simulation experiments determine those variables that most strongly influence response time and throughput. This leads to a set of design trade-offs over a wide range of hardware configurations and new parallel query processing strategies.
+
+file organization
+full text information retrieval
+inverted file
+inverted index
+performance
+query processing
+shared-nothing
+striping

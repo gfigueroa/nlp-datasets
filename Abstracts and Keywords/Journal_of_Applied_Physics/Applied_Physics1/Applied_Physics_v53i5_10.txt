@@ -1,0 +1,16 @@
+We have found that the rate of deposition of Pb when fabricating thin film AloxidePb tunnel junctions has a small but reproducible effect on tunneling characteristics. Zero bias junction conductance is typically increased by a factor of 2 or more when the top electrode deposition rate is raised from 10 to 100 Å/s. This change is associated principally with a reduction of the effective barrier height at the Pb interface.
+
+TUNNEL JUNCTIONS
+ELECTRODES
+DEPOSITION
+TIME DEPENDENCE
+FABRICATION
+LEAD
+THICKNESS
+FILMS
+ALUMINIUM
+OXIDES
+ELECTRIC CONDUCTIVITY
+POTENTIALS
+INTERFACES
+MATHEMATICAL MODELS

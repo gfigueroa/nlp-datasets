@@ -1,0 +1,5 @@
+High level image understanding and content extraction requires image regions analysis to reveal the spatial interaction between them. This paper aims to engender new attributes for scene description considering the relative position of the objects inside. A visual grammar of the scene is built using an extension for a Knowledge Based Image Information Mining system (KIM). The objects are extracted using statistical models and machine learning through the KIM system, according to the user interest. Further, an affine invariant descriptor of the relative position between two objects is computed. This is the force histogram and it is considered to be a spatial signature which characterizes configurations of regions based on the attraction forces between the composing objects. Thereby, new patterns could be defined using similar object configurations, in order to enhance the effectiveness of the content-based image retrieval inside large databases.
+
+High levei image understanding
+invariant signatures
+spatial relationships

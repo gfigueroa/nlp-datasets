@@ -1,0 +1,9 @@
+Solar cells of p-CdTe/n-CdS structure with a conversion efficiency of 10%±1% (AM1 spectrum, 127 mW/cm2 irradiance) were prepared by electrodeposition of CdTe on CdS-coated conducting glass. CdS was coated by chemical bath deposition. The tinoxide conducting glass was prepared by the spray pyrolysis technique. The currentvoltage, capacitancevoltage, photocurrentvoltage, photocurrent spectroscopy, and photoinduced current transient spectroscopy measurements proved to be powerful tools for the characterization of junction. The concentration of donors and acceptors in both sides of the junction are comparable, in the range of 1016cm3. The cell built-in potential is 1.20 V from which 0.65 V drops across the depletion width of CdTe. From the analysis of experimental data to construct the energy band diagram, it becomes evident that an electric dipole layer must exist at the CdTe/CdS interface. The presence of this layer is associated with a discontinuity of electrostatic potential at the interface by 0.28 V and a conduction-band spike of 64 meV. The conduction-band spike and an interfacial recombination center are accountable for the collection losses of photogenerated carriers. The recombination center that is likely related to the interstitial cadmium defect is energetically located 0.63 eV below the conduction-band edge and has a capture cross section of 8.8×1012cm2. © 2001 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+solar cells
+electrodeposition
+impurity states
+conduction bands
+electron-hole recombination

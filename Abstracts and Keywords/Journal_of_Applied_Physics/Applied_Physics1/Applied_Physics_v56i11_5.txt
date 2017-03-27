@@ -1,0 +1,8 @@
+We have studied the temperature dependence of the 1/f noise of carbon resistors, and find it to be in good qualitative agreement with the predictions of the model developed by Dutta and Horn to describe the 1/f noise of metal films. This suggests that, as seems to be the case for metals, the noise of carbon resistors is caused by an activated process with a distribution of relaxation times. However, there are small but significant quantitative discrepancies between our experimental results and the predictions of the DuttaHorn model, and these may yield additional insight into the origin of the noise in this system.
+
+TEMPERATURE DEPENDENCE
+NOISE
+RESISTORS
+POWER SPECTRA
+CARBON
+FILMS

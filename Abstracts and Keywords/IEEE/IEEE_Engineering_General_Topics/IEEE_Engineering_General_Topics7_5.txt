@@ -1,0 +1,6 @@
+Distributed generator (DG), with its flexible power generation, environment-friendly advantages has been more widely used in distribution system, which has brought some influence to the traditional distribution network reliability evaluation. In this paper, two different models for conventional DG and wind turbine generator (WTG) are established for reliability evaluation, based on different energy sources and operation characteristics. This paper presents a technique to obtain the WTG output using statistical wind speed information, considering to the intermittent characteristics of wind power. On this basis, an improved minimal cut set algorithm is proposed to evaluate the reliability of distribution network with DG. Finally, the simulation of a typical distribution line with DG verifies the validity of this method.
+
+distributed generator (DG)
+distribution system
+reliability evaluation
+wind power

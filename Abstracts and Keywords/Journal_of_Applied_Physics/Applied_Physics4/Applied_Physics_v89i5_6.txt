@@ -1,0 +1,10 @@
+Amorphous silicon is strongly affected by exposure to hot-wire atomic hydrogen. In this study we show the various effects of atomic hydrogen on thin hydrogenated amorphous silicon films. The as-deposited material is of high quality. It appears possible to increase the hydrogen concentration by a factor of 2. At least 80% of the additional hydrogen atoms are bonded to silicon. Prolonged hydrogen loading causes total removal of the amorphous silicon layer by etching. An underlying crystalline silicon substrate is etched inhomogeneously. We link these various effects, describe a probable mechanism, and suggest processes taking place during hot-wire deposition. Atomic hydrogen appears to play a major role during film growth. © 2001 American Institute of Physics.
+
+hydrogen
+silicon
+elemental semiconductors
+amorphous semiconductors
+semiconductor thin films
+etching
+semiconductor growth
+chemical vapour deposition

@@ -1,0 +1,10 @@
+Timeofflight (TOF) direct recoiling (DR) studies of borazine (B3N3H6) decomposition on the Si(100) surface between 100 and 850	°C are reported. The DR method with a grazing incidence angle directly detects the diffusion of light adsorbate elements into sites below the first Si layer, and this migration process is examined here as a function of temperature (T). Submonolayer coverages of coadsorbed B and N atoms (from B3N3H6) occupy subsurface sites after annealing above 550	°C. The B + N results are compared with the wellstudied N atom (from NH3) case and limited data for boron from B10H14. The atomic composition of the initial growth surface during thermal chemical vapor deposition (CVD) of boron nitride (BN) from B3N3H6 is surveyed in situ as a function of T using DR in a B3N3H6 flux of 4×1016 molecules	cm2	s1. Desorption of surface hydrogen plays a central role in controlling both the submonolayer diffusion effects and thermal CVD growth of BN.
+
+BORON NITRIDES
+THIN FILMS
+CHEMICAL VAPOR DEPOSITION
+DIFFUSION
+SILICON
+MONOLAYERS
+DESORPTION
+SURFACE RECONSTRUCTION

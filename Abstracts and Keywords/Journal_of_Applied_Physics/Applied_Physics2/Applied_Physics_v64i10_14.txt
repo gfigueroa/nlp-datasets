@@ -1,0 +1,10 @@
+The complex ac magnetic initial susceptibility («=«2j«3) has been measured along the [100], [110], and [001] directions from 4.2 to 300 K. Along the two basal directions the spinreorientation phase transition (SRT) is detected at TS =57.8 K as an abrupt steplike anomalous decrease in «2 for increasing temperature. The value of the experimental ratio «2[110]/ «[100] B2 holds for TeTS. The reversible magnetic moment rotation set on by the exciting ac magnetic field explains these results, allowing a fit from which the stress constant √=42±1 kg/mm2 is derived. Along the [001] direction no anomaly in «2(T) is detected at TS while a strong continuous increase is manifest above 150 K. It is explained by the onset of narrow wall motions between 180∞ domains induced by thermal excitations.
+
+WALL PINNING
+DOMAIN WALL
+MAGNETIC STRUCTURE
+HOLMIUM BORIDES
+IRON BORIDES
+DOMAIN STRUCTURE
+BLOCH WALL
+MAGNETIC SUSCEPTIBILITY

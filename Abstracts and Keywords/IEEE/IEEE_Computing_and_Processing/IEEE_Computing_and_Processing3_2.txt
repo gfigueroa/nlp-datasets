@@ -1,0 +1,7 @@
+In this paper by utilizing a new concept for designing logic gates based on MOBILE, we have presented new three-input XOR and XNOR gates which were based on generalized threshold gate (GTG) topology. The proposed gates use fewer elements count in comparison with other implementations which utilize MOBILE as a main part. The correct operation of XOR and XNOR gates were confirmed by using HSPICE simulator.
+
+generalized threshold gate
+monostable-bistable logic element
+multi threshold threshold gate
+resonant tunneling diode
+threshold gate

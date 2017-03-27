@@ -1,0 +1,12 @@
+Single crystals of an AlMn superlattice have been grown by molecularbeam epitaxy. For thicknesses less than the critical thickness dc B30 Å, Mn atoms form the fcc lattice in the [111] direction of an Al surface grown on sapphireC substrate. The modulated structure of the Mn surface has been observed in situ by reflection highenergy electron diffraction. On the other hand, for thicknesses more than dc, Mn grows in the [110] direction of the bcc lattice (± phase). After annealing a compression of the lattice has been observed by xray diffraction. The annealing has produced welloriented alloys with fairly large domain sizes.
+
+FABRICATION
+CRYSTAL STRUCTURE
+ANNEALING
+ELECTRON DIFFRACTION
+THICKNESS
+MANGANESE
+XRAY DIFFRACTION
+MOLECULAR BEAM EPITAXY
+SUPERLATTICES
+ALUMINIUM

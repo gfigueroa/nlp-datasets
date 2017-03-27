@@ -1,0 +1,13 @@
+We describe chemical modifications of GaAs surfaces which produce robust selenium layers that significantly enhance the electronic properties of the surface. The terminating layers are produced by depositing elemental selenium on GaAs surfaces under alkaline conditions followed by conversion to selenide and selenate using sodium sulfide. These selenium phases are more stable against photooxidation than their sulfide counterparts. On the chemically modified surface, photoluminescence is enhanced 400× and Raman spectroscopy indicates that surface band bending has been reduced to <0.1 eV. Xray photoelectron spectroscopy reveals significant AsSe bond formation at the surface and a complicated interfacial structure with selenium present in oxidation states varying from 2 to 4+.
+
+GALLIUM ARSENIDES
+SURFACES
+SELENIUM
+PASSIVATION
+CHEMICAL REACTIONS
+ELECTRICAL PROPERTIES
+PHOTOLUMINESCENCE
+RAMAN SPECTRA
+BAND STRUCTURE
+PHOTOELECTRON SPECTROSCOPY
+X RADIATION

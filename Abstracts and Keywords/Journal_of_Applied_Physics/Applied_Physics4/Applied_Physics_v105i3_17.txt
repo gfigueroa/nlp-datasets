@@ -1,0 +1,9 @@
+The decay time of the phosphor yttrium aluminum garnet doped with cerium (YAG:Ce) is temperature dependent. Selective incorporation of gallium into the YAG:Ce matrix permits tuning the temperature at which quenching begins. Also, the size of the phosphor particle and processing method affect this characteristic. We describe one such situation in which the quenching of the combustion synthesized nanophosphor Y3(Al0.5Ga0.5)5O12:Ce 1% was observed from ambient to 125	°C. By signal averaging of laser excited fluorescence, temperature uncertainties ranged from 0.05 to 0.15	°C. The single shot temperature uncertainty at 115	°C was ±3	°C, indicating the feasibility for transient thermometry with response rate exceeding 1 MHz.
+
+cerium
+combustion
+fluorescence
+nanostructured materials
+phosphors
+radiation quenching
+thermo-optical effects

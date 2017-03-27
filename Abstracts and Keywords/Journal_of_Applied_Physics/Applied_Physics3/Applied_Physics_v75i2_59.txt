@@ -1,0 +1,13 @@
+IVVI semiconductor quaternary alloys lattice matched with BaF2 substrates have been grown by liquid phase epitaxy. Xray diffraction analysis shows that liquid (Pb1xLSnxL)0.99 (Se1yLTeyL)0.01 solutions produce Pb1xSSnxSSe1ySTeyS alloys lattice matched with the substrate when yL=60%, 58%, and 57%, and xL=20%, 40%, and 60%, respectively. These data, which can be used to fabricate latticematched heterostructure optoelectronic devices covering the 630 ¼m spectral range, show that smaller tellurium concentrations in the liquid growth solution yield latticematched alloys as the tin content increases. This is despite the fact that the tellurium content in the isoperiodic solid solution alloy increases with tin content. This result suggests that the chemical potential of tellurium in Pb1xSSnxSSe1ySTeyS solid solutions decreases as tin and tellurium concentrations increase. It is argued that this highly nonideal behavior is due to the decreasing strain energy driven segregation of tellurium from the solid to the liquid as the tin concentration increases.
+
+LEAD SELENIDES
+TIN SELENIDES
+LEAD TELLURIDES
+QUATERNARY ALLOYS
+LPE
+MATCHING
+XRD
+BARIUM FLUORIDES
+SUBSTRATES
+SOLID SOLUTIONS
+STRAINS

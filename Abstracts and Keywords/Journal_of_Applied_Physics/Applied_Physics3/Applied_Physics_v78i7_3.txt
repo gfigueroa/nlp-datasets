@@ -1,0 +1,9 @@
+Multilayer heterostructure thin films of electroactive polymers such as poly(pphenylene vinylene) (PPV)precursor and sulfonated polyaniline (SPAn) have been successfully fabricated via a process based on the spontaneous selfassembly of conjugated polyion on a substrate. We have prepared SPAnPPV multilayer heterostructure lightemitting diodes (LEDs) using this electrostatic selfassembly technique and discussed the electroluminescent (EL) properties. The SPAnPPV monolayer LED emits greenishyellow light, but the SPAnPPV multilayer emits bluishgreen light and there is a slight shift between the two spectra of these devices. These results can be interpreted in terms of the confinement effect of carriers in the superlattice structure consisting of a SPAnPPV multilayer system. © 1995 American Institute of Physics.
+
+MULTILAYERS
+HETEROSTRUCTURES
+ELECTROLUMINESCENCE
+LIGHT EMITTING DIODES
+ORGANIC POLYMERS
+FABRICATION
+POLYANILINES

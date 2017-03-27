@@ -1,0 +1,5 @@
+This paper presents an overview of MOS device characteristics and its use as voltage controlled resistors. A modified gate driving mechanism is proposed to enhance the MOS resistor properties. Generally, MOS resistors behave linearly only for a small value of Drain-to-Source voltage (V<sub>DS</sub>). With the new scheme, the non-linearity that arises out of its dependence on V<sub>DS</sub> is removed and the linearity property of the resistor is kept intact even for larger values of V<sub>DS</sub>.
+
+Drain Curves
+Linear MOS resistor
+MOS

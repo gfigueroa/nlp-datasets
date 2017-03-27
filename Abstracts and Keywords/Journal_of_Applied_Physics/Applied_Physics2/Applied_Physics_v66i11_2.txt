@@ -1,0 +1,14 @@
+The stability of doped Si with respect to a contacting silicide is investigated for TiSi2, VSi2, CoSi2, ZrSi2, MoSi2, TaSi2, WSi2, and PtSi on As and Bdoped Si by calculation of the critical portion of the ternary diagram. From the thermodynamic calculations it is shown that high B concentrations in Si will be unstable underneath an overlaying TiSi2, TaSi2, and ZrSi2 film. In the case of Asdoped Si, high concentrations in Si are unstable with respect to an overlaying TiSi2, TaSi2, ZrSi2, and PtSi film. The effect of metaldopant compound formation is not expected to occur in the case of VSi2, MoSi2, and CoSi2, and probably also not for WSi2, on Bdoped Si. It is similarly not expected to occur in the case of VSi2, CoSi2, MoSi2, and WSi2 on Asdoped Si. The relevance of these thermodynamic predictions for technological applications is illustrated by experimental results on the diffusion of B and As from various implanted silicide layers. From comparison of thermodynamic properties of MP and MAs compounds, it was shown that no advantage is expected from P over As as far as metaldopant compound formation is concerned.
+
+SILICON
+DOPED MATERIALS
+ARSENIC ADDITIONS
+BORON ADDITIONS
+TRANSITION ELEMENT COMPOUNDS
+SILICIDES
+CHEMICAL REACTIONS
+STABILITY
+THERMODYNAMIC PROPERTIES
+PHASE DIAGRAMS
+CRITICAL PHENOMENA
+DIFFUSION

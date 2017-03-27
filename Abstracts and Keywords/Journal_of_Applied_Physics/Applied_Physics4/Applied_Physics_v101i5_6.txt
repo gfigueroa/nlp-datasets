@@ -1,0 +1,14 @@
+Thermoelectric properties of nanostructured skutterudite CoSb3 have been reported. Nanosized CoSb3 powders were synthesized through a solvothermal route. The bulk materials with average grain sizes of 250 and 150nm were prepared by hot pressing and spark plasma sintering from the solvothermally synthesized CoSb3 powders. Both the samples show n-type conduction and the thermal conductivities are reduced compared with that of the sample prepared by the melt-annealinghot pressing method. A thermoelectric figure of merit of 0.61 has been obtained for the unfilled CoSb3 skutterudite by spark plasma sintering, which indicates that nanostructuring is an effective way to improve the thermoelectric properties of skutterudite compounds.
+
+cobalt compounds
+semiconductor materials
+nanoparticles
+nanotechnology
+thermoelectricity
+grain size
+hot pressing
+plasma materials processing
+sintering
+electrical conductivity
+thermal conductivity
+annealing

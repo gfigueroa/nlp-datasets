@@ -1,0 +1,5 @@
+An electric drive system can operate using conventional position, speed and current controllers or other advanced control methods. These control methods provide good dynamic and stationary performances, but they do not take into consideration the conversion efficiency. It is well known that during the transient regimes, e.g. starting and stopping, the conversion efficiency is diminished to about half, while during the stationary regime the efficiency is increased. There are many approaches concerning the minimization of the system consumption energy. The paper objective is to present an approach, using optimal control theory, which minimizes the consumption of energy necessary to perform a given state trajectory. This control also provides dynamic and stationary performances similar to conventional control methods. A comparison is drawn between two control methods, conventional and optimal, at the level of simulation and experimental test using a dedicated laboratory platform. The experimental and numerical results that asses the performances of the proposed control method are also presented.
+
+electric drive system
+energetic criteria
+optimal control

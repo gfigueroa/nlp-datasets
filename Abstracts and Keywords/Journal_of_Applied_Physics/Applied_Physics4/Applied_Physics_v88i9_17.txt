@@ -1,0 +1,10 @@
+We report a fabrication method for laterally confining the two-dimensional electrons in InAs/AlSb single quantum wells into artificially patterned conducting wires. The minimum wire width is demonstrated to be <30 nm, among the smallest reported to date. The confining potential is approximately square and abrupt, and that makes the electrons spatial distribution in the transverse direction the same as the physical width of the wire. The conducting electrons have close proximity to the surface charges, thus there is always a reduction in the elastic mean free path when the wire width decreases. Despite the reduction in mean free path, we find that the phase coherence length is approximately 1 ¼m at 2.2 K, a factor of 30 larger than the minimum feature size. © 2000 American Institute of Physics. 
+
+semiconductor quantum wells
+III-V semiconductors
+indium compounds
+semiconductor quantum wires
+aluminium compounds
+Aharonov-Bohm effect
+two-dimensional electron gas
+electron mean free path

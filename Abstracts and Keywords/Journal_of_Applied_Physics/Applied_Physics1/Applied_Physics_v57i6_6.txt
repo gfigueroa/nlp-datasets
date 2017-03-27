@@ -1,0 +1,24 @@
+The electrical properties of polycrystalline silicon films deposited by lowpressure chemical vapor deposition and doped by boron, phosphorus, or arsenic with ion implantation, are investigated, and it is found that the resistivity versus donor concentration curve has a peak point for the completely depleted samples. An improved conduction model for the highresistivity polycrystalline silicon films is proposed. The theoretical results are in reasonable agreement with experiment. It is shown that the trap level located at the grain boundary exists at 0.51 eV above the valenceband edge and that the hole current dominates the whole current through the films for all of the lightly doped samples, even for the donordoped samples.
+
+SILICON
+THIN FILMS
+CRYSTAL DOPING
+DOPED MATERIALS
+CHEMICAL VAPOR DEPOSITION
+ELECTRIC CONDUCTIVITY
+TRAPS
+GRAIN BOUNDARIES
+VALENCE BANDS
+HOLES
+DONORS
+BORON IONS
+PHOSPHORUS IONS
+ARSENIC IONS
+ION IMPLANTATION
+DONORS
+DOPING PROFILES
+FABRICATION
+TRAPPING
+IMPURITY STATES
+ACTIVATION ENERGY
+CHARGEDPARTICLE TRANSPORT

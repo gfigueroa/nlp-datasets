@@ -1,0 +1,14 @@
+Timezero currentvoltage characteristics and timedependent current behavior of metalferroelectricmetal (PtPZTPt) capacitor structures have been studied. Under constantvoltage stressing, the current density through the 1500Åthick leadzirconatetitanate (PZT) film exhibits a powerlaw dependence on time, with the exponent (<0.33) independent of temperature and voltage. Electrode material dependence of current density indicates that the conventional model of traplimited singlecarrier injection over nonblocking contacts is inadequate to explain the timezero current. A change in top electrode material from Pt to In leads to the observation of workfunctiondriven Schottky contacts between the metal and ferroelectric. The currentvoltage characteristics fit a twocarrier injection metalsemiconductormetal model incorporating blocking contacts, with distinct low and highcurrent regimes (PZT is assumed to be ptype and trapfree in this model). Temperaturedependent IV measurements indicate a PtPZT barrier height of 0.6 eV and an acceptor doping level of <1018 cm3 in PZT. The implications of this model on the optimization of ferroelectric capacitors for dynamic random access memory applications are discussed.
+
+FERROELECTRIC MATERIALS
+MIM JUNCTIONS
+CAPACITORS
+ELECTRIC CONDUCTIVITY
+THIN FILMS
+IV CHARACTERISTIC
+CURRENT DENSITY
+PZT
+TIME DEPENDENCE
+MATHEMATICAL MODELS
+TEMPERATURE DEPENDENCE
+PLATINUM

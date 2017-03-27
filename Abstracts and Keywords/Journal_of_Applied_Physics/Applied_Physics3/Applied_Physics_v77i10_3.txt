@@ -1,0 +1,11 @@
+We have studied the effect of H2 dilution on the growth of polycrystalline silicon (polySi) using SiF4/SiH4/H2 by a remote plasma chemical vapor deposition. With an increase of H2 dilution ratio the grain size decreases and the polycrystalline fraction increases, probably due to enhancement of the nucleation rate with H2 flow rate. We have deposited polycrystalline silicon films with a crystalline fraction of 89% at a substrate temperature of 330	°C. The peak of the deconvoluted Raman spectrum contributed from the microcrystalline (or amorphous) Si portion in the deposited polySi film increases and the full width at half maximum decreases with increasing H2 flow rate. © 1995 American Institute of Physics.
+
+SILICON
+FILM GROWTH
+POLYCRYSTALS
+AMORPHOUS STATE
+CVD
+NUCLEATION
+HYDROGENATION
+RAMAN SPECTRA
+MICROSTRUCTURE

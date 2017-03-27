@@ -1,0 +1,18 @@
+In a welldefined range of conditions, selenium vapor deposited onto a thermoplastic substrate forms a monolayer array of spherical particles located just beneath the surface. A model for the growth of these particles has been proposed. In it, the particles grow by two mechanisms: (i)capture of selenium molecules diffusing into the substrate, and (ii)coalescence with other particles when they grow into contact. Expressions for both rates are presented and analytical solutions for the time dependence of the numbers and sizes of the particles are devived for two limiting casescomplete condensation (in which all impinging materials become incorporated into the particles) and incomplete condensation (in which reevaporation of adsorbed species limits the kinetics). Experimental data confirm the models predictions.
+
+KINETICS
+PARTICLES
+SURFACES
+VAPOR
+DEPOSITION
+SELENIUM
+SUBSTRATES
+SPHERICAL CONFIGURATION
+MATHEMATICAL MODELS
+MOLECULES
+DIFFUSION
+COALESCENCE
+COMPARATIVE EVALUATIONS
+EQUATIONS
+ANALYTICAL SOLUTION
+CONDENSATION

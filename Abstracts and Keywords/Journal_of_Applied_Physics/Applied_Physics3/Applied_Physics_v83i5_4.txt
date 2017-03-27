@@ -1,0 +1,19 @@
+A sharp transition from unidirectional to uniaxial behavior is observed in magnetization measurements performed either at high temperatures or after annealing, on spin valves exchange biased by a thin TbCo layer. Magneto-optic Kerr-effect measurements with in-plane or out-of-plane magnetic fields were carried out on annealed samples to demonstrate that the weakening of the TbCo perpendicular anisotropy is responsible for this transition. The uniaxial characteristic is achieved when the exchange coupling between the in-plane and out-of-plane magnetization components of TbCo (J%¥) overcomes the perpendicular anisotropy of the TbCo layer (K¥TbCo). A modified spin-valve structure with reinforced perpendicular anisotropy, developed to shift the transition to high temperature, shows a blocking temperature as high as 270	°C and an exchange field at room temperature larger than 500 Oe. Unshielded sensors were implemented with this structure showing good thermal stability up to 280	°C. © 1998 American Institute of Physics.
+
+magnetic multilayers
+exchange interactions (electron)
+magnetic anisotropy
+thermal stability
+magnetisation
+magnetic transitions
+Kerr magneto-optical effect
+annealing
+perpendicular magnetic anisotropy
+TERBIUM ALLOYS
+COBALT ALLOYS
+MAGNETIZATION
+THIN FILMS
+EXCHANGE INTERACTIONS
+MAGNETO-OPTICAL EFFECTS
+KERR EFFECT
+TEMPERATURE DEPENDENCE

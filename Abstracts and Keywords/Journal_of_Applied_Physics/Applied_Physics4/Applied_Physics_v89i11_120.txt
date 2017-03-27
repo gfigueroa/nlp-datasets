@@ -1,0 +1,13 @@
+The exchange field and domain configurations were investigated in patterned polycrystalline and (100) NiO/NiFe films. The exchange field was enhanced in the polycrystalline patterns with the aspect ratio larger than one (the long edge parallel to the original easy axis). Exchange field of patterned (100) NiO/NiFe on MgO, in contrast, showed little dependence on the aspect ratio, but strong dependence on the pattern size. The exchange field increased from 8.6 Oe in the sheet film to 48.4 Oe in the 2 ¼m patterns. The different dependence of the exchange field of polycrystalline and (100) NiO/NiFe on the pattern size can be plausibly explained by the difference of the domain size in NiO, and the variation of the blocking temperature distribution. Magnetic force microscopy images of patterned polycrystalline NiO/NiFe showed two kinds of domain configurations (single-domain state and multidomain state) in the sample with the pattern size of 2 ¼m, which may be the direct observation of various exchange paths at the interface of NiO/NiFe. © 2001 American Institute of Physics. 
+
+nickel compounds
+antiferromagnetic materials
+magnetic thin films
+nickel alloys
+iron alloys
+ferromagnetic materials
+interface magnetism
+size effect
+exchange interactions (electron)
+magnetic domains
+magnetic force microscopy

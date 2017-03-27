@@ -1,0 +1,5 @@
+Neural networks algorithms have already shown good capabilities in handling nonlinear inversion problems in hyperspectral remote sensing. In this study we investigate on their potential in solving spectral unmixing. A Multi-Layer Perceptron (MLP) neural network scheme is trained for the implementation of a pixel-based classification algorithm. Subsequently, for the output response, the &#x201C;winner-takes-all&#x201D; rule is replaced by a more soft interpretation able to give the percentage with which, each of the considered land cover classes, may be associated to the analysed pixel. In an experimental set-up addressing multi-temporal and multi-angular CHRIS-PROBA imagery, the results obtained with such a technique have been compared with those yielded by Linear Spectral Unmixing (LSU), up to date one of the most frequently used approach for dealing with the unmixing problems.
+
+Hyperspectral
+Neural Networks
+Spectral Unimixing

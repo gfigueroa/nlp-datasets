@@ -1,0 +1,10 @@
+A formulation to describe the general expression for the modulation broadening of Lorentzian profile is given analytically by using the Fourier expansion and the residue theorem. It is shown that the specific nth derivative signal can be obtained in a most straightforward manner. The present method is applied to a study of the maximum sensitivity (amplitude versus frequency detuning) of phasesensitive detection as a frequency discriminator. For the first derivative signal, maximum discrimination sensitivity can be obtained when the modulation width is set to be 1/2 times of the full width at the half maximum (FWHM) of the profile, while the maximum amplitude (signaltonoise ratio) is obtained when the width is exactly equal to FWHM.
+
+FREQUENCY MODULATION
+AMPLITUDES
+LINE BROADENING
+STABILIZATION
+SENSITIVITY
+LASERS
+TUNING
+ANALYTICAL SOLUTION

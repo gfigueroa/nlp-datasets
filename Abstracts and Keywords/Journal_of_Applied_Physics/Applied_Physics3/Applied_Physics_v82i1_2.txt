@@ -1,0 +1,21 @@
+The metallic glass Zr65Al7.5Cu27.5 exhibits a wide temperature range in the undercooled liquid region. This offers the possibility of examining the phenomena that occur during glass transition. We investigated this glass by x-ray diffraction and x-ray absorption spectroscopy (XAS) at room temperature and at elevated temperatures below and above the glass transition temperature. The total number of nearest neighbors determined by x-ray diffraction remained unchanged. Using XAS irreversible changes in the short range order (SRO) towards the SRO of crystalline Zr2Cu is observed in the nearest neighbor shell which is consistent with the x-ray diffraction results. The long range order was not affected by these changes. From the temperature dependence of the atomic mean-square relative displacements Ã2, Debye temperatures were determined and they compare well with low temperature specific heat measurements. Above Tg the slope of Ã2 increases drastically and is attributed to anharmonic effects. © 1997 American Institute of Physics.
+
+glass structure
+glass transition
+short-range order
+long-range order
+specific heat
+liquid structure
+undercooling
+EXAFS
+ZIRCONIUM ALLOYS
+ALUMINIUM ALLOYS
+COPPER ALLOYS
+METALLIC GLASSES
+PHASE TRANSFORMATIONS
+STRUCTURAL CHEMICAL ANALYSIS
+X-RAY SPECTRA
+ABSORPTION SPECTRA
+X-RAY DIFFRACTION
+DEBYE TEMPERATURE
+TEMPERATURE DEPENDENCE

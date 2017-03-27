@@ -1,0 +1,10 @@
+We have constructed a plasma-gas-condensation type cluster deposition apparatus and tried to find the optimum operation conditions for controlling the cluster size. Transmission electron microscope (TEM) observation has been done to evaluate sizes of Ni clusters produced when varying the volume of a cluster growth region, sputtering power, and inert gas pressure. The mean cluster size decreases by decreasing the volume of growth region and the sputtering power. The smallest cluster obtained in this work is about 2.3 nm in diameter. We have considered the following two models for the cluster growth: (1) a clustercluster collision growth and (2) an atomic vapor condensation growth. The cluster growth speed estimated from the former is too slow, while that from the latter is reasonable in comparison with the present experiments. When stable embryos are made from atom collisions, they grow up faster and the final cluster sizes estimated from the latter model are consistent with those observed by TEM. © 1998 American Institute of Physics.
+
+nickel
+metal clusters
+nanostructured materials
+transmission electron microscopy
+sputtering
+nucleation
+condensation
+plasma deposition

@@ -1,0 +1,14 @@
+Microfilamentary composites of continuous Nb fibers in Cu matrices prepared by the stackanddraw method were tested for normalstate electrical conductivity, residual stress state, and tensile properties. Composite wires having nominal filament diameters of about 0.1 ¼m were characterized by elevated matrix annealing temperatures, large Nb residual strains, and high tensile strengths. In the finefilament regime, finer wire sizes result in larger matrix resistivities, higher residual fiber strains, and higher tensile strengths with little effect on matrix annealing temperatures.
+
+COMPOSITE MATERIALS
+NIOBIUM
+COPPER
+MATRIX MATERIALS
+STRAINS
+FIBERS
+TENSILE PROPERTIES
+STRAINS
+STRESSES
+ANNEALING
+THERMOMECHANICAL TREATMENTS
+ELECTRIC CONDUCTIVITY

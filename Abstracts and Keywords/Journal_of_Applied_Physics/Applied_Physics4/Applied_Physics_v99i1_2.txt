@@ -1,0 +1,7 @@
+A simple analytical model of the barrier discharge in a long gap between opposing plane electrodes is developed. It is shown that the plasma density becomes uniform over a large part of the gap in the course of the discharge development, virtually forming a dynamic positive column. The column completely controls the dynamics of the barrier discharge and determines such characteristics as the discharge current, discharge duration, light output, etc. Using the proposed model, one can easily evaluate many important discharge parameters.
+
+positive column
+discharges (electric)
+electrodes
+plasma density
+plasma transport processes

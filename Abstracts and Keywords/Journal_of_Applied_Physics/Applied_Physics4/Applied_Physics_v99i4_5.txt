@@ -1,0 +1,12 @@
+Measurements of optical transmission and ion-induced photon emission (IIPE) during implantation of copper ions into silica glass (a-SiO2) have been combined in order to study formation of Cu nanoparticles. It has been shown that in situ measurements are more advantageous than conventional experimental approaches of examining the properties of ion-implanted nanocomposites solely after implantation. Series of experiments have been done to prove that the band of IIPE at 545550 nm originates from Cu+ solutes in a-SiO2. The combination of in situ optical techniques provides means of monitoring Cu nanoparticles and Cu solutes via the optical absorption in the range of the surface-plasmon resonance (SPR) of nanoparticles and the IIPE of Cu+ solutes. It has been shown that a simple linear approximation can be used to separate optical bands of defects, Cu solutes, and nanoparticles. Ion-induced transient optical absorption has been found in the ranges of SPR and defect bands. The transient optical response in the range of SPR has been tentatively attributed to a thermomodulation effect. We analyze relationships between electronic excitation, radiation-induced optical responses, and kinetics of nanoparticle formation. Several stages of nanoparticle formation have been distinguished: accumulation of Cu solutes, precipitation of Cu atoms, coalescence, growth of nanoparticles, and saturation of nanocomposites.
+
+nanoparticles
+ion implantation
+light transmission
+copper
+glass
+silicon compounds
+nanocomposites
+surface plasmon resonance
+precipitation
+visible spectra

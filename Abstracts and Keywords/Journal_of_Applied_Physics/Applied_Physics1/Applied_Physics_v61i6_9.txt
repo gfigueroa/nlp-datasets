@@ -1,0 +1,13 @@
+Photochemical vapor deposition technique using an ArF excimer laser has been employed to deposit W films on SiO2 and Si from a WF6 and H2 system. Adhesion characteristics of the film to SiO2 are found to depend both on substrate temperature and on H2/WF6 gas flow ratio: good adhesion is obtained with an increase in the temperature or the ratio. Film formation has reaction orders of 1, 1/2 , and 1 with respect to deposition time, and WF6 and H2 partial pressures, respectively. An activation energy of 0.36 eV is estimated for this film formation on both SiO2 and Si; this energy is plausibly due to H atom diffusion on the W surface. These findings are different from conventional thermal chemical vapor deposition. Film resistivities as low as about 2× the value of bulk W have been observed in the substrate temperature range 250500	°C. The crystalline structure of the film deposited in this temperature range is uniquely of the ± phase. The crystal orientation of the film depends both on substrate temperature and on H2/WF6 gas flow ratio: at low ratios, the dominant crystal orientation varies from (110) to (200) with an increase in temperature. With an increase in H2/WF6 gas flow ratio, the dominant crystal orientation is changed from (200) to (110).
+
+EXCIMER LASERS
+TUNGSTEN
+CHEMICAL VAPOR DEPOSITION
+SILICA
+VAPOR DEPOSITED COATINGS
+TUNGSTEN FLUORIDES
+HYDROGEN MOLECULES
+ELECTRIC CONDUCTIVITY
+CRYSTAL STRUCTURE
+ADHESION
+DIFFUSION

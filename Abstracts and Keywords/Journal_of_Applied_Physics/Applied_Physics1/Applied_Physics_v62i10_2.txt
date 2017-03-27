@@ -1,0 +1,11 @@
+Lithographic properties of Ag/P4Se10 (80° deposited) films exposed to photons and glowdischarge hydrogen plasma have been investigated. It has been observed that the etching rate of the exposed film is lower compared to the unexposed one, giving rise to a negative tone behavior of the material. The effect of exposure time on the etching rate and selectivity ratio has been studied. The contrast (³) values obtained for the photoexposed and plasmaexposed negative resists are 2.9 and 5.1, respectively, with a photosensitivity of <1021 photons/cm2.
+
+PHOTORESISTS
+ETCHING
+LITHOGRAPHY
+SILVER
+PHOSPHORUS SELENIDES
+PHOTONS
+PHOTOSENSITIVITY
+PLASMA
+GLOW DISCHARGES

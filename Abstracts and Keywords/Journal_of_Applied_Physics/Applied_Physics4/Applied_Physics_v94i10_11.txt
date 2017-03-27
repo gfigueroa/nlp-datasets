@@ -1,0 +1,15 @@
+The refractive index of GaAs has been measured in the wavelength range from 0.97 to 17 ¼m, which covers nearly the entire transmission range of the material. Linear and quadratic temperature coefficients of the refractive index have been fitted to data measured between room temperature and 95
+°C. In the midinfrared, the refractive index and temperature dependence are obtained from analysis of etalon fringes measured by Fourier-transform spectroscopy in undoped GaAs wafers. In the near infrared, the refractive index is deduced from the quasiphasematching (QPM) wavelengths of second-harmonic generation in orientation-patterned GaAs crystals. Two alternative empirical expressions are fitted to the data to give the refractive index as a function of wavelength and temperature. These dispersion relations agree with observed QPM conditions for midinfrared difference-frequency generation and second-harmonic generation. Predictions for various nonlinear optical interactions are presented, including tuning curves for optical parametric oscillators and amplifiers. Also, accurate values are predicted for QPM conditions in which extremely large parametric gain bandwidths can be obtained. © 2003 American Institute of Physics. 
+
+gallium arsenide
+optical materials
+refractive index
+III-V semiconductors
+Fourier transform spectra
+infrared spectra
+optical dispersion
+optical harmonic generation
+optical parametric amplifiers
+optical parametric oscillators
+optical phase matching
+optical tuning

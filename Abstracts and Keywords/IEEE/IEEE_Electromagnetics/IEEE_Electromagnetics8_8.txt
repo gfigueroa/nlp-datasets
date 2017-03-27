@@ -1,0 +1,6 @@
+In this paper we present a design of a nanostructured conformable patch antenna array and full system level radio design that could be integrated with the conformable antenna. The proposed system designed specifically for biomedical applications can be used to provide real time remote health monitoring thus improving patient quality of life. CNT-polymer nanocomposite antenna is designed on cotton dielectric that resonate at 2.45 GHz on a 1.57 mm thick substrate with &#x03B5;<sub>r</sub>=1.6. To demonstrate antenna performance in dynamic environment the antenna array was bent outward on a 17mm radius of curvature. All antenna parameters such as VSWR, return loss, gain and radiation pattern meet the design criteria. Our simulated antenna shows a return loss less than -10 dB and VSWR less than 2 at 2.06 GHz, 2.38 GHz and 2.49 GHz.
+
+Conformable Antenna
+RF transmitter
+patch antenna
+remote health monitoring

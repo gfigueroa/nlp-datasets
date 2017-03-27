@@ -1,0 +1,7 @@
+Fluoropolyol, a sorbent chemoselective oligomer, has been deposited using a matrix-assisted laser-based deposition technique. A comparison of films deposited with infrared (2.94 ¼m) and ultraviolet (UV) (193 nm) radiation shows that photochemical and/or photothermal modification of the oligomer occurs for the UV-deposited films while the IR-deposited films appear to be identical to the starting material. In addition, it is shown that even ablating the matrix alone causes a film to be deposited when using a UV laser. Therefore, unless photochemical interactions are a desired outcome, the use of a UV laser for most matrix-assisted laser ablation and deposition techniques is unfavorable. © 2004 American Institute of Physics. 
+
+pulsed laser deposition
+ultraviolet radiation effects
+organic compounds
+chemisorption
+photochemistry

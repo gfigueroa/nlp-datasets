@@ -1,0 +1,15 @@
+Ferromagnetic resonance (FMR) spectra (derivatives of microwave power absorption) were measured in a granular, ribbon-shaped melt-spun Cu90Co10 alloy in a wide range of temperatures from 10 K up to room temperature. Prior to measurements the sample was annealed at 773 K for 1 h in order to create a well-developed granular structure. The results are interpreted using the Kittel FMR equations originally introduced for thin ferromagnetic films, as well as by using an Arrhenius-type exponential function for superparamagnetic relaxations. These results are also compared with the experimental data obtained from low-field susceptibility measurements in both, zero-field-cooling and field-cooling modes. It is shown that FMR spectroscopy is a useful tool for studying magnetic properties of granular magnets consisting of nanometer-scale single-domain particles, in particular, if the resonance spectra are measured in a wide range of temperatures, thus allowing for identification of the magnetic phases of the particles. The derived value of 1013
+s for the characteristic time of superparamagnetic relaxations is four orders of magnitude smaller than that commonly used while analyzing data yielded by just one measuring technique. The obtained results allowed us to estimate the first order constant of the magnetocrystalline anisotropy for fcc Co particles in the copper matrix K1=4.2×106
+erg/cm3. © 2000 American Institute of Physics. 
+
+copper alloys
+cobalt alloys
+granular materials
+ferromagnetic resonance
+annealing
+superparamagnetism
+magnetic particles
+magnetic anisotropy
+nanostructured materials
+magnetic susceptibility
+magnetic relaxation

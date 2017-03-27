@@ -1,0 +1,7 @@
+The KSTAR is a superconducting tokamak under construction at the Korea Basic Science Institute (KBSI) in Daejeon, Korea. The project mission aims at a steady-state operation and advanced tokamak physics. At present, the project is in the peak of fabrication and assembly phase. The fabrication of the major tokamak structures such as vacuum vessel, cryostat, port system, thermal shields, and gravity support, is completed. The manufacture and testing of the 30 superconducting magnets are rigorously being progressed. As of Sep. 2005, 16 toroidal field coils and 4 large poloidal field coils are completed. To verify the operational feasibility of the KSTAR coils, cool-down and current charging tests of a real sized prototype TF coil and a pair of CS model coil have been carried out. The assembly of the device has begun from beginning of 2004. Now, the vacuum vessel body, thermal shields and 8 toroidal field magnets are assembled on the tokamak position. Assembly finish is scheduled for August 2007. This paper describes the manufacture and assembly progress of the KSTAR tokamak
+
+KSTAR
+Superconducting Magnet
+Tokamak
+Vacuum Structure
+component

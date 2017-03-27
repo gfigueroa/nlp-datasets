@@ -1,0 +1,12 @@
+Yield learning during early technology development is critical to ensuring successful integration of new process technologies, meeting development schedules, and transitioning smoothly into manufacturing. However, yield learning in early technology development is very different from yield learning in manufacturing. This paper will discuss the unique challenges of yield learning in early technology development. To meet these challenges, innovative systematic and parametric yield models were developed to address many new issues that arose in early 45 nm development at IBM. Furthermore, to understand and characterize new yield loss mechanisms, innovative characterization methods were developed. This paper will illustrate the unified yield learning methodology in early technology development which combines these various yield models and methods to establish a grand pareto and a yield step-up plan to prioritize the whole technology development efforts.
+
+SRAM stability
+TPLY
+Yield model
+critical length
+early technology development
+grand pareto
+parametric yield model
+systematic yield model
+voltage contrast
+yield step up plan

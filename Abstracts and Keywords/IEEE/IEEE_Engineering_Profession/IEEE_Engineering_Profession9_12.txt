@@ -1,0 +1,6 @@
+Nonlinear load and system problems has caused appearance of voltage problems such no sinusoidal voltage, sag and etc. A single phase series active filter for mitigating voltage quality problems is simulated. Also a phase locked loop is used to control active filter. Effectiveness of proposed method is confirmed through simulation results by Matlab software. Control method is easy to digitally implementation also phase locked loop is insensitive to noise and other voltage problems. The control method is applicable in both single and three phase systems.
+
+Harmonics
+power quality
+series active filter
+voltage sag

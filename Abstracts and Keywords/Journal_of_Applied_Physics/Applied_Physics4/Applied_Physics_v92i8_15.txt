@@ -1,0 +1,18 @@
+Silicon-rich silicon oxide thin films have been prepared by thermal evaporation of silicon monoxide in vacuum. The SiOx film composition (1.1}
+x
+}1.7) has been controlled by varying the deposition rate and residual pressure in the chamber. Long time stability of all films has been ensured by a postdeposition annealing at 523 K for 30 min in Ar atmosphere. Some films were further annealed at 973 K and some others at 1303 K. Raman scattering measurements have implied the formation of amorphous silicon nanoparticles in films annealed at 973 K and Si nanocrystals in films annealed at 1303 K. The latter conclusion is strongly supported by high resolution electron microscopy studies which show a high density of Si nanocrystals in these films. Photoluminescence has been observed from both amorphous and crystalline nanoparticles and interpreted in terms of band-to-band recombination in the nanoparticles having average size greater than 2.5 nm and carrier recombination through defect states in smaller nanoparticles. © 2002 American Institute of Physics. 
+
+silicon
+silicon compounds
+elemental semiconductors
+nanostructured materials
+annealing
+Raman spectra
+photoluminescence
+vacuum deposition
+noncrystalline structure
+amorphous semiconductors
+electron microscopy
+particle size
+radiative lifetimes
+defect states

@@ -1,0 +1,6 @@
+Landing gear of aircraft is the key component. The magneto-rheological (MR) damper applied to landing gear can ensure stability and safety during the process of takeoff, landing and rollout. Because of landing gear is a nonlinear, multivariate and multi-degree of freedom system. The traditional PID control can't obtain ideal control effects. Based on the advantages of fuzzy control theory do not need a precise mathematical model, fuzzy PID control is proposed in this paper by combining PID control and fuzzy control. The models of landing gear are simulated and analyzed under passive control, PID control and fuzzy PID control. The simulation results indicate that fuzzy PID control can effectively lower the amplitude of fuselage vibration acceleration and improve the ride quality and safety of aircraft. It has an important influence in the optimal control of the landing gear system.
+
+Fuzzy PID
+Landing gear
+MR fluid damper system
+Road excitation

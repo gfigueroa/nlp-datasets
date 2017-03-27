@@ -1,0 +1,9 @@
+The addition of low loss ilmenite impurities, can effectively tailor the dielectric properties of MgTiO3 without modifying the crystal structure. In the present study, the modification of the structural and dielectric properties of sol gel derived MgTiO3 films by doping with Ni and Zn is exploited. The change of the dielectric response and unit cell parameters of doped MgTiO3 is correlated with Ni and Zn occupancy. The temperature stability of MgTiO3 thin films is improved with doping, while the dielectric losses are aggravated with both Zn and Ni doping, which is correlated with the localized d electrons of the dopant cations. The dielectric permittivity decreased with Ni doping while it increased with Zn, which is attributed to the lower ionic polarizability of Ni2+ (1.23Å3) as in comparison with Mg2+ (1.32Å3) while Zn2+ has a higher ionic polarizability (2.04Å3).
+
+crystal microstructure
+dielectric losses
+dielectric thin films
+magnesium compounds
+nickel
+sol-gel processing
+zinc

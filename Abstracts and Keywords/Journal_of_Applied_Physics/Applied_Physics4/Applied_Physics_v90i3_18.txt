@@ -1,0 +1,12 @@
+In this article the ionization rate of phosphorus doped in poly-Si gate and band gap narrowing caused by carriercarrier interactions and carrierion interactions are self-consistently calculated by using a simple algorithm that is formulated phenomenologically. As a result, the ionization rate is found to be unity when the phosphorus concentration is less than 3×1019
+cm3, and becomes lower rapidly with the increase of the concentration larger than 3×1019
+cm3. Using this result, in a wide oxide voltage region, we can reproduce the oxide voltage dependence of the measured tunneling current from the gate in various samples (tOX=2.1, 2.8, and 3.4 nm) with the same tunneling mass (mOX=0.42m0), where m0 is the free electron mass. In particular, we show why the incomplete ionization can reproduce the tunneling current from the gate even in a lower oxide voltage region where the complete ionization cannot do so. Furthermore, a local band gap narrowing, which is described by an additional band gap narrowing due to exchangecorrelation interactions of carriers induced by a local potential, is included in the present calculation. © 2001 American Institute of Physics.
+
+silicon
+elemental semiconductors
+phosphorus
+impurity states
+leakage currents
+energy gap
+interface states
+tunnelling

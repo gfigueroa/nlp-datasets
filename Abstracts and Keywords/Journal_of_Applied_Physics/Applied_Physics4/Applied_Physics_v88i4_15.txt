@@ -1,0 +1,12 @@
+The anisotropy contributions in epitaxial Fe/MnPd bilayers were analyzed in this study. It was found that due to ferromagneticantiferromagnetic interfacial exchange coupling, large uniaxial and cubic anisotropy contributions are also induced, in addition to the unidirectional anisotropy. These contributions play an essential role in the magnetization reversal process of the system, in which unusual reversal processes were found upon some fields orientations. © 2000 American Institute of Physics. 
+
+iron
+manganese alloys
+palladium alloys
+magnetisation reversal
+magnetic epitaxial layers
+exchange interactions (electron)
+interface magnetism
+ferromagnetic materials
+antiferromagnetic materials
+magnetic anisotropy

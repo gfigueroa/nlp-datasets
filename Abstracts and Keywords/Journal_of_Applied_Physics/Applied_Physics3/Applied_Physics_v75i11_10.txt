@@ -1,0 +1,11 @@
+Successful observation is reported of the quantumconfined Stark effect in electroluminescence (EL) under a forward electricfield condition, with a current injected into a pin diode containing Al0.3Ga0.7As/GaAs symmetric coupled double quantum wells (CDQWs). The Stark shift observed in EL and (under a reverse bias) in photoluminescence (PL), in both of which the transitions involved are between the electron and heavyhole lowest states, is found to be symmetrical with respect to the flatband bias, in agreement with calculations. The origin of the optical transitions between electron and light or heavyhole states in the CDQWs is also clearly identified by a combination of PL and circularly polarized photoluminescence excitation spectra.
+
+QUANTUM WELLS
+STARK EFFECT
+PHOTOLUMINESCENCE
+ELECTROLUMINESCENCE
+CIRCULAR POLARIZATION
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+ENERGYLEVEL TRANSITIONS

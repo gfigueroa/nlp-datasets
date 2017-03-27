@@ -1,0 +1,12 @@
+Calculations of the binding energy of an on-center donor hydrogenic impurity in a quasizero-dimensional quantum-well system [quantum dot (QD)] placed in an intense, high-frequency laser field are presented. A nonperturbative theory and a variational approach are used as the framework for this calculation. The effect of the intense laser field is to dress the impurity potential making it dependent upon the laser field amplitude. A rapid decrease of the binding energy, for different values of the QD radius and for both infinite and finite potential barriers, with increasing field intensity is predicted. An application is made for a spherical QD made of GaAs/Ga1xAlxAs heterostructures. © 1997 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+hydrogen
+semiconductor quantum dots
+interface states
+impurity states
+binding energy
+variational techniques
+potential energy functions
+III-V semiconductors

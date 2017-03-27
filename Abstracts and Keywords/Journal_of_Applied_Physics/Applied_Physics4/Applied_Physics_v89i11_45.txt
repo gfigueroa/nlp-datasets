@@ -1,0 +1,9 @@
+Half-metallic manganite (La0.7Ca0.3MnO3) based spin tunnel junctions with two barrier layers (NdGaO3 and La0.45Ca0.55MnO3) have been investigated structurally as well as chemically using high spatial resolution electron microscopy techniques. Both junctions were grown on a NdGaO3 substrate, which has better lattice match compared to a more traditional substrate such as strontium titanate (SrTiO3). Devices with a NdGaO3 barrier showed tunnel magnetoresistance (TMR) values up to 85% at 77 K, whereas the devices with a La0.45Ca0.55MnO3 barrier layer showed only 18% TMR at 77 K. The electron microscopy data show much clearer, sharper interfaces, structurally as well as chemically, for NdGaO3 than for the La0.45Ca0.55MnO3 barrier layer. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+electron microscopy
+magnetoresistance
+magnetic multilayers
+ferromagnetic materials
+electron spin polarisation

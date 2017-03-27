@@ -1,0 +1,4 @@
+In this article we address the problem of the reconstruction of surface temperature history of a semi-infinite solid from subsurface temperature wave data at one instant. This problem proves particularly interesting in relation to the geothermal history and the detection of climatic changes using borehole data. In particular we present exact analytical results valuable for this important inverse problem. We show how this provides us with a straightforward method which eliminates the need of foreknowledge typical of the current numerical approaches. © 2002 American Institute of Physics. 
+
+temperature measurement
+geology

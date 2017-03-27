@@ -1,0 +1,6 @@
+Sku assignment is an essential problem for the design and operation of Automated Picking System (APS), which is mainly composed of Horizontal Dispenser (HD) and A-frame. The challenge is to develop an effective measurement to evaluate the sku and the efficient assignment procedure in practice. Based on fluid model, the optimal number of channels allotted to each sku to minimize the total restocking cost of Horizontal Dispenser is presented and extended to A-frame. Greedy heuristic algorithm to assign skus to Horizontal Dispenser and A-frame for a given period is then developed based on the equivalent two-tier, three-mode inventory system. In order to evaluate skus over multi-period, sequence viscosity is formulated by minimizing the total cost of picking, restocking, and reslotting. And three efficient heuristic algorithms are adopted to assign skus to Horizontal Dispenser and A-frame in the equivalent inventory system of APS over multiple periods.
+
+automated picking system
+forward-reserve problem
+reslotting
+restocking

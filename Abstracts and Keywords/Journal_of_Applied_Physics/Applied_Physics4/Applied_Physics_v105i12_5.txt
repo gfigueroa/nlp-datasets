@@ -1,0 +1,14 @@
+We report the dependence of electronic and optical properties on the Ag thickness in transparent conductive indium tin oxide (ITO)-Ag-ITO (IMI) multilayer films deposited on polyethylene naphthalate flexible substrate by sputtering at room temperature. The electrical properties (such as carrier concentration, mobility, and resistivity) changed significantly with incorporation of Ag between the ITO layers. Comparison of sheet resistance of the IMI multilayers and the calculated sheet resistance of the Ag midlayer indicates that most of the conduction is through the Ag film. The critical thickness of Ag to form a continuous conducting layer is found to be 8 nm using electrical and optical analysis. A conduction mechanism is proposed to elucidate the mobility variation with increased Ag thickness. Carrier transport is limited by either interface scattering or grain-boundary scattering depending on the thickness of the Ag midlayer. Interface scattering is dominant for thinner (5.57 nm) Ag and grain-boundary scattering is dominant for thicker (810.5 nm) Ag midlayers. In addition, the effect of varying Ag midlayer thickness on transmittance behavior is also discussed. A figure of merit is used to compare performance of the IMI multilayer systems as a function of Ag thickness.
+
+carrier density
+carrier mobility
+electrical resistivity
+grain boundaries
+indium compounds
+light transmission
+multilayers
+semiconductor materials
+semiconductor thin films
+semiconductor-metal boundaries
+silver
+sputter deposition

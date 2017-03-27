@@ -1,0 +1,10 @@
+The growth steps were observed on both {100} and {111} planes of diamonds prepared by a combustionflame deposition method using C2H2O2. The etch pits on {100} planes of diamonds were also observed with a scanning electron microscope. The orientations of both growth steps and etch pits on {100} planes were parallel to 110	, whereas the step directions on {111} planes were [112]oriented and the lateral growth rate was the slowest in the [112] direction. The former is described with the hypothesis of socalled (2×1) surface reconstruction, and the latter is successfully explained by a step reconstruction model. The occurrence of the surface reconstruction would indicate that not only atomic hydrogen but also OH radicals and atomic oxygen, which adequately exist in the diamond growing region in a flame, prevent the surface from being passivated or adsorbed by impinging atoms and/or radicals under the growing conditions.
+
+DIAMONDS
+CHEMICAL VAPOR DEPOSITION
+SURFACE RECONSTRUCTION
+CRYSTAL FACES
+COMBUSTION
+ETCH PITS
+CRYSTAL GROWTH
+HYDROXYL RADICALS

@@ -1,0 +1,10 @@
+In silverdoped silicon, several new electron paramagnetic resonance spectra were observed. Three of these, labeled SiNL45, SiNL46, and SiNL47, were detected in ntype samples. The spectra have trigonal symmetry; the effective electron spin value S equals 1/2. The spectra SiNL45 and SiNL46, with the perpendicular g values close to 6 and 8, can alternatively be described by electron spins S=5/2 and S=7/2, respectively, and g values close to 2. The SiNL47 center has both principal g values significantly deviating from 2. They can be accounted for by taking crystalfield splitting and spinorbit coupling into consideration. On the basis of the correlation of the production of these centers with the SiNL44 center and the analysis with high values of electron spin, all these centers are tentatively identified as silverrelated complexes.
+
+SILICON
+DOPED MATERIALS
+ESR
+NTYPE CONDUCTORS
+ENERGYLEVEL SPLITTING
+SILVER ADDITIONS
+PHOSPHORUS ADDITIONS
+DIFFUSION

@@ -1,0 +1,11 @@
+Ti3SiC2/Al2O3 hybrids were prepared by a spark plasma sintering process. The effective dc conductivity of the hybrids was measured at room temperature, which agrees with the percolation theory and follows the power law around the percolation threshold. The ac conductivity and dielectric constants of the hybrids were also characterized and follow the power law when the concentration of the conductive phase is close to the percolation threshold; meanwhile, the dielectric constant could increase over three orders of magnitude compared with Al2O3.
+
+alumina
+composite materials
+critical exponents
+electrical conductivity
+percolation
+permittivity
+silicon compounds
+sintering
+titanium compounds

@@ -1,0 +1,9 @@
+The band gap tuning of amorphous silicon carbon nitride thin (a-SiCN) film was demonstrated in the range of 2.33.0 eV by pulsed laser deposition using mixed targets. a-SiCN films were grown on silicon and quartz glass substrates at room temperature in a vacuum. Targets were fabricated by compacting a mixture of silicon carbide and silicon nitride powders. The stoichiometry of the film could be varied by the mixing ratio of the target. Ternary phase SiCN films were deposited at 30 70 wt. % SiC in a target and their band gaps were controlled by appropriate adjustment of the carbon content. These findings indicate that the growth of a-SiCN films with a mixed target and their subsequent use as optoelectronic materials is a possibility. © 2003 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+amorphous semiconductors
+semiconductor thin films
+semiconductor growth
+pulsed laser deposition
+energy gap

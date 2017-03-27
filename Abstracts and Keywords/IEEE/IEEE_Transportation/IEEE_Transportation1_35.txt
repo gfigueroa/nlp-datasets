@@ -1,0 +1,7 @@
+In this paper, a single machine batch process scheduling problem (SBPSP) integrating batching decision is investigated. The integration problem of batching and scheduling is to allocate the demands from different customer orders to sets of batches and schedule these batches such that the total weighted tardiness costs and the total set-up costs are minimized. This problem is formulated as a mixed-integer nonlinear programming model and thus provides a challenging area for metaheuristics. We propose a hybrid algorithm of particle swarm optimization (PSO) and artificial immune algorithm (AIA) to solve this problem. In the proposed algorithm, a novel particle solution representation is designed for representing a batching scheme for SBPSP and the AIA mechanism improves the diversity of the swarm. Computational experiments on randomly generated instances with different structures show the validity and effectiveness of the proposed algorithm.
+
+Artificial Immune Algorithm
+Batching
+MINLP
+Particle Swarm Optimization
+Scheduling

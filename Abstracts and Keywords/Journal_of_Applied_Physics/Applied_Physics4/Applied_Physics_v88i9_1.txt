@@ -1,0 +1,14 @@
+Amorphous tantalum oxide thin films were deposited by reactive rf magnetron sputtering onto [001] silicon substrates. Growth temperature, oxygen partial pressure, and total gas pressure have been varied to obtain thin films with different densities. The thin films were analyzed by glancing angle-of-incidence x-ray diffraction, atomic force microscopy, and variable angle-of-incidence spectroscopic ellipsometry in the near infrared to vacuum ultraviolet spectral region for photon energies from E=1 to 8.5 eV, and in the infrared region from E=0.03 to 1 eV. We present the dielectric function of amorphous tantalum oxide obtained by line shape analysis of the experimental ellipsometric data over the range from E=0.03 to 8.5 eV (40 ¼m145 nm). In the infrared spectral region the ellipsometric data were analyzed using Lorentzian line shapes for each absorption mode observed in the spectra. Amorphous tantalum oxide optical properties in the near infrared to vacuum ultraviolet spectral region were extracted by using a Kim and Garland parameter algorithm [C. C. Kim et al., Phys. Rev. B 45, 11
+749 (1992)] in order to model the absorption due to the fundamental band gap of the material. We consider thin film porosity, and therefore analyzed the experimental ellipsometric data by an effective medium approach. We obtain information on the tantalum oxide optical properties, a percentage of void fraction, and film thickness. The optical percentage of void fractions corresponds to surface roughness measured by atomic force microscopy and depends on deposition parameters. © 2000 American Institute of Physics. 
+
+tantalum compounds
+amorphous state
+sputtered coatings
+dielectric function
+energy gap
+optical constants
+ellipsometry
+X-ray diffraction
+spectral line breadth
+atomic force microscopy
+surface topography

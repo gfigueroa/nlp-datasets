@@ -1,0 +1,21 @@
+A very sensitive dielectric resonator technique is employed to measure loss tangent tan
+´ and relative permittivity õr of lanthanum aluminate (LaAlO3) single crystals at 4300 K and 412 GHz. A variety of single crystals grown by different techniques and purchased from different suppliers are considered. For T&gt;150
+K the loss tangent tan
+´ is almost sample independent with linear frequency dependence and monotonous temperature variation from 8×106 at 300 K to 2.5×106 at 150 K and 4.1 GHz. In this temperature range the experimental data are explained by a model based on lifetime broadened two-phonon difference processes. The loss tangent below 150 K is characterized by a peak in tan
+´(T) at about 70 K. The height of this peak is frequency and strongly sample dependent. This leads to a variation of the loss tangent from 106 to 1.5×105 at 77 K and 8.6 GHz, the lowest values are generally achieved with Verneuil grown crystals and approach the intrinsic lower limit predicted by the phonon model. The peak is explained by defect dipole relaxation (local motions of ions). The activation energy of the relaxation process is determined from the measured data to be 31 meV. This low value indicates that the defect dipoles are associated with interstitials, possibly impurities in interstitial positions. Considering absorption due to phonons and due to defect dipole relaxation the loss tangent is calculated for a wide frequency range. © 1997 American Institute of Physics.
+
+lanthanum compounds
+interstitials
+dielectric losses
+phonon-phonon interactions
+electromagnetic wave absorption
+LANTHANUM OXIDES
+ALUMINATES
+ABSORPTION SPECTRA
+MICROWAVE RADIATION
+MONOCRYSTALS
+PERMITTIVITY
+AC LOSSES
+TEMPERATURE DEPENDENCE
+FREQUENCY DEPENDENCE
+GHZ RANGE 01-100

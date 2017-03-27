@@ -1,0 +1,7 @@
+Prior work on computing queries from materialized views has focused on views defined by expressions consisting of selection, projection, and inner joins, with an optional aggregation on top (SPJG views). This paper provides a view matching algorithm for views that may also contain outer joins (SPOJG views). The algorithm relies on a normal form for outer-join expressions and is not based on bottom-up syntactic matching of expressions. It handles any combination of inner and outer joins, deals correctly with SQL bag semantics, and exploits not-null constraints, uniqueness constraints and foreign key constraints.
+
+Aggregation
+Materialized views
+Outer joins
+Query processing
+View matching

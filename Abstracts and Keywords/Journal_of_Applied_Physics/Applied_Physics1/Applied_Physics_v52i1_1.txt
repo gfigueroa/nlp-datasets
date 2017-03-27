@@ -1,0 +1,15 @@
+The xray emission from a Ni target irradiated with an 8ns Nd: glass laser pulse focused to <5×1013 W/cm2 did not change when up to 2torr Xe was added to the target chamber. This suggests that the incident laser beam was not affected appreciably as it propagated through the background gas to the target.
+
+LASER RADIATION
+TRANSMISSION
+GASES
+NEODYMIUM LASERS
+GLASS
+TARGETS
+DATA
+XRADIATION
+NICKEL
+LOW PRESSURE
+XENON
+FOCUSING
+PULSES

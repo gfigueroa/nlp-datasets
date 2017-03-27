@@ -1,0 +1,13 @@
+The influence of the tensile stress on the flux reversal phenomena in asquenched state of Fe77.5Si7.5B15 is investigated. A large and stable Barkhausen jump is observed at a field H, called the switching field. The switching field H passes through a minimum as tensile stress increases and the jump in magnetization M at H grows with stress. It is observed that H of the sample can be modified by flash annealing under stress. The results on magnetic properties like coercive field, squareness ratio, power loss of asquenched and stressannealed samples are presented. The stress annealing induces elastic and plastic components in anisotropy.
+
+IRON BASE ALLOYS
+SILICON ALLOYS
+BORON ALLOYS
+TERNARY ALLOY SYSTEMS
+AMORPHOUS STATE
+WIRES
+STRESSES
+MAGNETIC PROPERTIES
+BARKHAUSEN EFFECT
+ANNEALING
+ANISOTROPY

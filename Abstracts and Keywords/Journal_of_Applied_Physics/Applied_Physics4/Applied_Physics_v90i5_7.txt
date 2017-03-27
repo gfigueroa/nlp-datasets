@@ -1,0 +1,9 @@
+We present experimental results for [13] magnetostrictive composites containing a 20% volume-fraction of Terfenol-D coarse particles (k1
+¼m) suspended in a nonmetallic binder. Results from magnetostrictive strain and magnetoelastic measurements are provided for particle distributions that differ in particle size and range of size distribution. Particle size and packing density are shown to effect strain response and are attributed to demagnetization and loading (prestress) effects. Both a decreasing and increasing ”E effect are measured for low and high fields, respectively, and found to be independent of particle distribution. The response of an optimized bimodal distribution increases packing density and produces 15% larger magnetostrictive strains than the other widely dispersed (polydispersed) (&lt;106, &lt;212, and &lt;300
+¼m) and narrowly dispersed (monodispersed) (&lt;45, 98, and 275 ¼m) distributions at comparable magnetic field levels. © 2001 American Institute of Physics.
+
+particle reinforced composites
+magnetic particles
+magnetostriction
+particle size
+demagnetisation

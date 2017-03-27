@@ -1,0 +1,7 @@
+Several possible doping effects in organic electroluminescent devices are studied within the framework of the trap-charge limited conduction models. A significant increase in the trapped charges in the doped layer can cause an overall trap charge redistribution and a shift of the location of the recombination zone. Some experimental data are analyzed and their possible relevance to our predictions is discussed. An experimental verification scheme is also proposed. © 1998 American Institute of Physics. 
+
+electroluminescent devices
+electron traps
+electron-hole recombination
+organic semiconductors
+semiconductor doping

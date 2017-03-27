@@ -1,0 +1,5 @@
+Based on binocular vision measurement principle, this paper describes a new method that measures the 3D posture of micro-table, this method can match and track the micro-table and get its three-dimensional position. We use the four corners of the table points as signalized points to describe the position and posture of the micro-table, and track the four corners by the dual-CCD cameras in the three-dimensional space, detect the changes of corners in the coordinate of the image, According to the mapping model of image coordinate system and world coordinate system, get the changes of the corners in the world coordinate, establish the posture equation of the micro-table using the four corners coordinates in order to achieve the 3D posture measurement of the micro-table.
+
+binocular vision
+micro-table
+posture

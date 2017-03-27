@@ -1,0 +1,10 @@
+The trapping of charges in hard dielectric materials has been recently described [G. Blaise, IEEE Trans. Electr. Insul. EI28, 437 (1993)] on the basis of the polaron concept. A local increase of the internal energy of the medium Up<510 eV results from the polarization around a trapped charge. The relaxation of the lattice after a rapid detrapping of charges from their site releases the local excess of internal energy to the medium, producing breakdown when critical conditions are reached. This scenario is applied to the electric breakdown of a parallelplate capacitor in which the space charge results from the injection of electrons at the cathode. Breakdown at the cathode is produced by the destabilization of a static space charge when the field in dielectric gap exceeds the detrapping field of charges. This determines the minimum value EM1 of the field strength. At the anode breakdown is due to the trappingdetrapping of flowing charges. This corresponds to the maximum value of the field strength EM2. The model allows the interpretation of scaling laws observed experimentally: an inverse relationship of the field strength with the dielectric constant õ; a dependence of the field strength on the length l of the gap (size effect). It is demonstrated that, provided the total amount of charges is bounded when l’, the field strength EM2 is necessarily a decreasing function of l, tending toward a finite value. This interpretation of breakdown applies to bulk breakdown observed in smallgap capacitors and surface flashover observed in largegap capacitors as well. © 1995 American Institute of Physics.
+
+ELECTRIC DISCHARGES
+BREAKDOWN
+SPACE CHARGES
+DIELECTRIC MATERIALS
+POLARONS
+TRAPPING
+CAPACITORS
+SCALING LAWS

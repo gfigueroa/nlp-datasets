@@ -1,0 +1,10 @@
+Hexabenzocoronene (HBC) derivatives which are designed to self-assemble into a two-dimensional conductor have been synthesized. The derivatives were deposited by vacuum sublimation as an active layer in organic field-effect transistors. The dihexyl and tetrahexyl derivatives increased the field-effect mobilities and onoff ratios by a factor of 10 or more as compared to the unsubstituted hexabenzocoronene and the hexahexyl derivative. This good performance could be explained by the self-assembly in a two-dimensional conductor of the HBC derivatives, i.e., the dihexyl and tetrahexyl derivatives, in contrast to the self-assembly in the one-dimensional conductor of the hexahexyl derivative and low self-assembling property of the unsubstituted HBC.
+
+field effect transistors
+organic semiconductors
+thin film transistors
+carrier mobility
+semiconductor thin films
+vacuum deposition
+self-assembly
+semiconductor growth

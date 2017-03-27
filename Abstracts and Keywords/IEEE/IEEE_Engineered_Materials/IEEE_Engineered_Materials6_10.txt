@@ -1,0 +1,5 @@
+The main objective of this paper is to propose a solution for modeling, analysis and verification of embedded real-time systems with energy constraints. For that, we combine functionalities of the SysML models and annotation from MARTE with the advantages of using time Petri net. This formalism allows analysis and verification of functional, timing and energy requirements in early phases of the development lifecycle. In order to depict the practically usability of the proposed method, a real-world case study is presented, namely, pulse-oximeter. Experimental results have demonstrated an accuracy of 96% using the proposed formal method in comparison with the values obtained with the hardware platform.
+
+Embedded Systems
+SysML
+Time Petri Net

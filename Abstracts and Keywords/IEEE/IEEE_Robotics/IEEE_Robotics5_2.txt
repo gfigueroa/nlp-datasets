@@ -1,0 +1,6 @@
+In this article, we present a method for computing an optimal state feedback control law for switched affine systems which do not have common equilibrium points. The hybrid solution is obtained from a general convex formulation for which the existence of the optimal solution is guaranteed. We show that the synthesis of the optimal trajectories yields a partition of the state space with respect to the mode. The design uses singular arcs which are obtained through an algebraic condition. In order to test the performance of the control law, an academical buck converter is taken as an example with a quadratic and a minimum time criteria.
+
+Affine switching systems
+optimal control
+singlar arcs
+state feedback

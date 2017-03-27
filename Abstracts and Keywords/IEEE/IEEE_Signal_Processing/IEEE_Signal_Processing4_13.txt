@@ -1,0 +1,10 @@
+This article presents a method for including impact forces in the analysis of legged robot dynamic performance. This involves examining how well the legged system uses ground contact to produce acceleration of its body when the feet experience impact with the ground; these abilities are referred to as its force and acceleration capabilities and they determine the robot's agility. These capabilities are bounded by actuator torque limits and friction forces. The proposed analysis describes the effect of an impact event on dynamic performance in terms of the coefficient of friction required to prevent slipping of the feet, and the amount of control authority/acceleration which is achievable, at the termination of the impact event. The method is illustrated using a hexapod as an example.
+
+Acceleration
+Agility
+Dynamic Performance
+Impact
+Impulse
+Leg
+Locomotion
+Mobility

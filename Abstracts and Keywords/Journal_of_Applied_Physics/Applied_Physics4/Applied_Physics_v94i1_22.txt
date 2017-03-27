@@ -1,0 +1,9 @@
+The near-ultraviolet fundamental optical absorption edge of sputter-deposited ZrO2TiO2 nanolaminate films on SiO2 substrates was studied by transmission-reflection spectrophotometry. Seven different bilayer architectures were investigated, with nominal ZrO2 volume fractions ranging from 0.10 to 0.91 (Zr atom fractions of 0.10.9). The absorption coefficient, ±(E), was determined as a function of the incident photon energy, E, in the 3.55.8 eV range (350215 nm wavelength). ±(E) vs E curves show a systematic blueshift and a change in shape with an increase in the Zr atom fraction in a bilayer. Neither amalgamation nor persistence models can adequately explain the experimental results. The reason why is that an extensive and structurally complex mixed cation interfacial structure formed even during room temperature deposition. A model that takes into account contributions to ±(E) from TiOTi and ZrOZr linkages far from the interfaces between constituents and TiOZr linkages at these interfaces is successfully applied to the data. © 2003 American Institute of Physics. 
+
+zirconium compounds
+titanium compounds
+nanocomposites
+laminates
+absorption coefficients
+thin films
+sputtered coatings

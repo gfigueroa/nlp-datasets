@@ -1,0 +1,10 @@
+A theoretical study is presented of the effects of in-plane magnetic fields on the IV characteristic curves associated with resonant electron tunneling through shallow impurity states in GaAs/(Al,Ga)As double-barrier heterostructures. A simple one-band tight-binding Hamiltonian is used and the current is obtained by adopting Keldysh diagrammatic techniques for nonequilibrium processes. As the field strength increases the peak associated with the donor-assisted tunneling shifts to lower voltages whereas the resonance associated with tunneling through the first subband shifts to higher ones. Also, the intensities are both reduced, in qualitatively good agreement with the experimental reports of Sakai et al. [Phys. Rev. B. 48, 5664 (1993)]. © 2004 American Institute of Physics.
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor heterojunctions
+resonant tunnelling
+impurity states
+tight-binding calculations
+interface states

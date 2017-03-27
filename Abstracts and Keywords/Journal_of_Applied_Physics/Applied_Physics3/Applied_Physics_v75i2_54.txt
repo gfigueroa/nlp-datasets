@@ -1,0 +1,13 @@
+The absorption spectrum of Ti3+:Al2O3 crystals grown in a reducing atmosphere consists of the main bluegreen absorption band and a weak infrared band. This infrared absorption decreases in intensity on annealing the asgrown samples in a reducing atmosphere. The analysis of electron spin resonance spectra of the asgrown samples, in which the infrared absorption band is observed, indicates that the center associated with the band is a cluster involving Ti3+ and Ti4+ ions with a neighboring, charge compensating Al3+ vacancy. The coexistence of a Ti4+ ion and an Al3+ vacancy in the neighborhood of the Ti3+ ion weakens the crystal field at this ion more than a single Ti4+ ion, giving rise to a red shift of the Ti3+ absorption.
+
+ALUMINIUM OXIDES
+TITANIUM IONS
+ABSORPTION SPECTRA
+EPR SPECTRA
+INFRARED SPECTRA
+ANNEALING
+VACANCIES
+LASER MATERIALS
+DOPED MATERIALS
+MONOCRYSTALS
+EMISSION SPECTRA

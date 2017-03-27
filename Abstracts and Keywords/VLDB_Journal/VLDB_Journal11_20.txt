@@ -1,0 +1,6 @@
+We propose a new data structure to search in metric spaces. A metric space is formed by a collection of objects and a distance function defined among them which satisfies the triangle inequality. The goal is, given a set of objects and a query, retrieve those objects close enough to the query. The complexity measure is the number of distances computed to achieve this goal. Our data structure, called sa-tree (&ldquo;spatial approximation tree&rdquo;), is based on approaching the searched objects spatially, that is, getting closer and closer to them, rather than the classic divide-and-conquer approach of other data structures. We analyze our method and show that the number of distance evaluations to search among n objects is sublinear. We show experimentally that the sa-tree is the best existing technique when the metric space is hard to search or the query has low selectivity. These are the most important unsolved cases in real applications. As a practical advantage, our data structure is one of the few that does not need to tune parameters, which makes it appealing for use by non-experts.
+
+Multimedia databases
+Similarity or proximity search
+Spatial and multidimensional search
+Spatial approximation tree

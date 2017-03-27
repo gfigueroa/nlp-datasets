@@ -1,0 +1,4 @@
+For most embedded systems the implementation language of choice is C. Currently some vehicle-based software-controlled embedded systems, notably those for traction control and ABS, are assessed at ISO/IEC 61508 SIL4 [3]. At this level it is highly recommended that developers use certificated compilers. This paper sets out the rationale for such use, the nature of certification testing and what questions developers should ask their compiler vendors.
+
+C compiler validation
+certification testing

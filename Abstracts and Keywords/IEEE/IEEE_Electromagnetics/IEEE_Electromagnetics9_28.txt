@@ -1,0 +1,8 @@
+Recent progresses of high temperature superconducting (HTS) bulk technology have made various applications realistic, especially the compact and highly efficient electric motors, magnetic levitation systems and flywheel energy storage systems. In these applications, the HTS bulks are always exposed to the AC external magnetic field. It has previously observed that the trapped magnetic field of a HTS bulk is influenced even attenuated to zero when applied by the AC external magnetic field. Therefore it is important to clarify the trapped field attenuation characteristic in external AC magnetic field. In this work, the trapped field attenuation characteristics of HTS bulk magnet exposed to external AC magnetic field are studied with results presented. The models of HTS bulk with their properties are also summarized. Different magnetization methods are applied to magnetize the HTS bulks, and the magnetization characteristics having differences are illustrated with experimental results.
+
+AC external field
+HTS bulk model
+field-cooled magnetization
+high temperature superconductor (HTS)
+pulse magnetization
+trapped field attenuation

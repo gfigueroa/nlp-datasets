@@ -1,0 +1,5 @@
+In this paper, a new method for content-based video copy detection is presented. This method includes fingerprint extracting and matching phases. In the fingerprint extracting phase, a video is represented by a set of Speeded Up Robust Features (SURF), which outperforms other local features. In the fingerprint matching phase, the Locality Sensitive Hashing (LSH) is applied to efficiently detect video copy. The experimental results show that the proposed method has excellent performance in accuracy and speed.
+
+LSH
+SURF
+video copy detection

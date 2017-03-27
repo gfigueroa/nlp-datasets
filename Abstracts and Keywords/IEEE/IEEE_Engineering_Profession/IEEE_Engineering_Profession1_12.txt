@@ -1,0 +1,6 @@
+During high assurance data transmission (HADT) and classification, the features and its effect on data transmission are illustrated and discussed. The status and developing process are described, which makes the rapidly developing HADT face new challenges. The reliability, mechanisms, needs and technical measures of data transmission are analyzed. Based on chaotic encryption (CE) theory, how the chaotic encryption control of HADT is studied and a comprehensive CE algorithm is deduced. The algorithm can be used to encrypt and decrypt data transmission effectively. It is concluded that a discrete chaotic system is simulated and the results show the confidentiality of encryption method well and mathematical validation of high assurance in data transmission is carried out.
+
+CE
+data transmission
+high assuranc
+parameter modulation

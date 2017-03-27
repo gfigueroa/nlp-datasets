@@ -1,0 +1,5 @@
+Quan, Kim, and Cho [J. Appl. Phys. 92, 3724 (2002)] have proposed a compact model to evaluate the tunneling current across the insulator of metaloxidesemiconductor structures and have claimed to have shown conclusively that image force lowering of the oxide barrier is negligible for the oxide as thin as 1 nm. Unfortunately, the model is based on a questionable approximation for the transparency factor. Most importantly, the argument brought forward to explain the negligible effect of the image-induced barrier-lowering ignores simple concepts of electrostatics. © 2003 American Institute of Physics. 
+
+MIS structures
+tunnelling
+WKB calculations

@@ -1,0 +1,15 @@
+Highperformance FeNdB magnets were prepared by consolidation of rapidly solidified meltspun powders using a hot extrusion technique. The extrusion was carried out with various die openings to control the distribution of stresses and strains influencing the possible development of texture. A strong anisotropy in magnetic properties has been found in the extruded magnets. The highest remanence of 10.6 kG and the maximum energy product of 16.6 MGOe were achieved along the throughthickness direction of the magnet extruded with a rectangular cross section. A(001) [120] texture was found to develop in the plane normal to the throughthickness direction. It is suggested that the enhanced remanent magnetization arises principally from the formation of a favorable texture.
+
+IRON ALLOYS
+NEODYMIUM ALLOYS
+BORON ALLOYS
+MAGNETIC MATERIALS
+POWDERS
+METALLIC GLASSES
+FABRICATION
+EXTRUSION
+COERCIVE FORCE
+GRANULAR MATERIALS
+PERMANENT MAGNETS
+MANUFACTURING
+XRAY DIFFRACTION

@@ -1,0 +1,6 @@
+With growing demand of bandwidth, modelocked fiber lasers are mandatory for having smooth and efficient communication systems. We have simulated and analyzed the cavity dynamics of an actively modelocked fiber ring laser for Gaussian pulse as well as under soliton conditions. In order to do full justification with nonlinear as well as dispersive effects, we have optimized the algorithm using a previously explored approach. We had explored nonlinear phenomena in various types of fibers using the said approach. Results are compared with conventional method and found in coherence. Novelty lies in optimization of algorithm in order to get precise and accurate results.
+
+Fiber laser
+Mode locked
+Nonlinear coefficient
+Split step Fourier method

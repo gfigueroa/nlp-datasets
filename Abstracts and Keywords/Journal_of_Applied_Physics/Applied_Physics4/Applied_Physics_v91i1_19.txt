@@ -1,0 +1,4 @@
+We investigate the effects of structural fluctuations on three-dimensional photonic crystals with stacked-stripe (woodpile) structures at near-infrared wavelengths. Two photonic crystals are prepared: one with a perfect structure and the other with significant structural irregularities artificially introduced. Through an experimental comparison of the optical properties and photonic band gap structures of these two photonic crystals, it is shown that the structure treated here is very robust to structural fluctuations. © 2002 American Institute of Physics. 
+
+photonic band gap
+crystal structure

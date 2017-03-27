@@ -1,0 +1,5 @@
+We present a first application of a general approach to learn the behavior of NPCs (and other entities) in a game from observing just the graphical output of the game during game play. This allows some understanding of what a human player might be able to learn during game play. The approach uses object tracking and situation-action pairs with the nearest-neighbor rule. For the game of Pong, we were able to predict the correct behavior of the computer controlled components approximately 9 out of 10 times, even if we keep the usage of knowledge about the game (beyond observing the images) at a minimum
+
+Agent Modeling
+Computer Games
+Object Tracking

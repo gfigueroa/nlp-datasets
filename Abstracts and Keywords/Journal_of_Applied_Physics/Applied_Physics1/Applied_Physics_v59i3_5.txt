@@ -1,0 +1,18 @@
+We present experimental evidence that during rapid deformation of at least some crystalline and polymeric solids heat is generated at unexpectedly high temperatures beginning essentially at the moment deformation begins. The heat was observed by fast infrared sensors. Both the initial infrared emissions and the apparent blackbody temperatures were far in excess of what can reasonably be accounted for by the conventional picture that distributes the energy due to deformation over the bulk of the solid. It appears that the origins of these high temperatures are associated with mechanical processes that effectively concentrate the energy of deformation into small local regions within the sample. These local hot spot regions are most likely associated with shear bands and possibly fracture sites in the deforming crystal.
+
+IMPACT TESTS
+IMPACT PHENOMENA
+CALIBRATION
+INFRARED RADIATION
+LUMINESCENCE
+DEFORMATION
+HEATING
+HOT SPOTS
+FRACTURES
+VERY HIGH TEMPERATURE
+SODIUM CHLORIDES
+AMMONIUM PERCHLORATES
+PETN
+TEFLON
+POLYMETHYLENES
+AMINES

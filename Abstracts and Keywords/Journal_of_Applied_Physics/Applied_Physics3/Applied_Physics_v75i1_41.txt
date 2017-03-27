@@ -1,0 +1,9 @@
+Calculations are carried out which show minima or quasiminima in the voltagecurrent characteristics of semiconductor diodes for values of the plasma frequency/scattering time product of the order of unity. In this regime the minima are evident only for nonOhmic injection conditions. The results are consistent with reported experiments.
+
+SEMICONDUCTOR DIODES
+SPACE CHARGE
+IV CHARACTERISTIC
+SCATTERING
+INJECTION
+PLASMONS
+EQUATIONS OF MOTION

@@ -1,0 +1,19 @@
+The effects of gas adsorption and high current on the field emission characteristics of ZnO nanoneedles grown directly from metal electrodes have been systematically investigated. Exposure of nanoneedles to H2, N2, or O2 gas degraded the field emission characteristics, with O2 having the strongest impact. Complete recovery of emission current following H2 and N2 treatment was accomplished by vacuum annealing at 450	°C. Meanwhile, changes induced by O2 adsorption were irreversible. First-principle calculations revealed electronic structure modifications through change of work function and charge density distribution upon gas exposure. It is suggested that the emission current degradation originates from shifts in the Fermi level caused by charge transfer from nanoneedle surface to gas adsorbates. Moreover, field emission degradation has been observed at high currents as a result of surface melting at the nanoneedles apex caused by resistive heating.
+
+ab initio calculations
+adsorption
+annealing
+charge exchange
+electronic structure
+Fermi level
+field emission
+heating
+hydrogen
+II-VI semiconductors
+melting
+nanostructured materials
+nitrogen
+oxygen
+wide band gap semiconductors
+work function
+zinc compounds

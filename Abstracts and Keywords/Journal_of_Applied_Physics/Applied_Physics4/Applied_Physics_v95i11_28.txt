@@ -1,0 +1,14 @@
+The long-range ferromagnetic order was observed only for x~0.25 in the Ca1xSrxRuO3
+(0}x}1) metallic system, while short-range magnetic correlation of ferromagnetic double-exchange interaction persists for x&lt;0.25. Temperature, field, and time dependent magnetization m(T,Ba,t) for exchange-enhanced paramagnetic Ca0.8Sr0.2RuO3 near the boundary show similar electronic-inhomogeneous, spin-glass-like behavior as in Sr-free CaRuO3. X-ray Rietveld analysis and x-ray absorption near-edge structure data indicate that weaker double-exchange coupling strength Jde in the Ca-rich regime is closely related with stronger RuO6 tilting and distortion, which results with weaker Ru 4dO
+2p hybridization, narrower bandwidth W, and stronger on-site Coulomb repulsion Udd. © 2004 American Institute of Physics. 
+
+calcium compounds
+crystal structure
+strontium compounds
+ferromagnetic materials
+exchange interactions (electron)
+long-range order
+short-range order
+lattice dynamics
+magnetic hysteresis
+XANES

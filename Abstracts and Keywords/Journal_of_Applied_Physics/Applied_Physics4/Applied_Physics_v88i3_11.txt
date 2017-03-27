@@ -1,0 +1,8 @@
+The results of large-scale molecular dynamics simulations demonstrate that the mechanisms responsible for material ejection as well as most of the parameters of the ejection process have a strong dependence on the rate of the laser energy deposition. For longer laser pulses, in the regime of thermal confinement, a phase explosion of the overheated material is responsible for the collective material ejection at laser fluences above the ablation threshold. This phase explosion leads to a homogeneous decomposition of the expanding plume into a mixture of liquid droplets and gas phase molecules. The decomposition proceeds through the formation of a transient structure of interconnected liquid clusters and individual molecules and leads to the fast cooling of the ejected plume. For shorter laser pulses, in the regime of stress confinement, a lower threshold fluence for the onset of ablation is observed and attributed to photomechanical effects driven by the relaxation of the laser-induced pressure. Larger and more numerous clusters with higher ejection velocities are produced in the regime of stress confinement as compared to the regime of thermal confinement. For monomer molecules, the ejection in the stress confinement regime results in broader velocity distributions in the direction normal to the irradiated surface, higher maximum velocities, and stronger forward peaking of the angular distributions. The acoustic waves propagating from the absorption region are much stronger in the regime of stress confinement and the wave profiles can be related to the ejection mechanisms. © 2000 American Institute of Physics. 
+
+organic compounds
+laser ablation
+thermal stresses
+pyrolysis
+molecular dynamics method
+acoustic wave propagation

@@ -1,0 +1,6 @@
+Fuel cells are one of the key enabling technologies for future hydrogen economy. For the last 20 years applications for the fuel cells are mostly replacing internal combustions engines, and providing power in stationary and portable power applications. But the history of the fuel cells is more than the last 20 years; actually it has more than 150 years! It is the purpose of this paper to present the development of the fuel cells across the time. The paper discuss the typical characteristics and electrochemical reactions a fuel cell. Additionally, the paper presents the basic concepts, applications for the six main types of fuel cell technologies. Finally, it is intended with the paper to present the concepts and history related to the fuel cells in a basic way. This paper will be very helpful for undergraduate researches, history and professional engineers without previous knowledge of the technical fields related to the fuel cells.
+
+Fuel Cells
+History
+Power Engineering Education
+Product Development

@@ -1,0 +1,11 @@
+Experimentally determined solar cell parameters of a large number of metalinsulatorsemiconductor cells on damaged ptype silicon are compared with the dislocation conductivity model [J. Appl. Phys. 60, 406 (1986)]. Cell behavior is explained in terms of conducting dislocations. The variation of major cell parameters with the density of dislocations is calculated using the model. It is predicted that silicon with mild surface damage where dislocation density is less than about 105 cm2 can produce solar cells of almost equal quality as dislocationfree Si.
+
+SILICON
+PTYPE CONDUCTORS
+ALUMINIUM
+SILICON OXIDES
+SOLAR CELLS
+PHOTOVOLTAIC EFFECT
+DISLOCATIONS
+MATHEMATICAL MODELS
+SCANNING ELECTRON MICROSCOPY

@@ -1,0 +1,6 @@
+During radiation treatment of lung cancer patients, synchronization of treatment devices and tumor position has been a challenging task due to breathing-induced tumor motion and treatment device latency. One method to mitigate the impact of system latency is to determine the future tumor position. Breathing prediction presents a methodology to determine future tumor position indirectly. Different types of neural networks have been used to predict breathing behavior, but these networks are not able to adapt well to the irregular transient patterns in breathing dynamics. This paper utilizes a second order Volterra predictor for predicting regular and highly irregular breathing behaviors. This paper also compares the performance of Volterra predictor with that of a feed-forward backpropagation network. The results showed that the adaptive performance of the Volterra predictor is not significantly different from that of the neural network for all the breathing cases used in the study, and its ability to adapt to transient behavior greatly outperforms that of neural networks.
+
+Volterra polynomial
+breathing prediction
+feed-forward backpropagation network
+radiotherapy

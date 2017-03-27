@@ -1,0 +1,13 @@
+In situ transmission electron microscopy observations during 50keV Si+ ion implantation in InP were performed from 15 to 600 K. The implantation dose temperature dependence of the cluster density was studied in the 15400K range, and the results are discussed. It is shown that the result of increasing damage is either amorphization (Td400 K) or phase precipitation (Te500 K). The threshold fluence for these phenomena increases with the implantation temperature (from 8 × 1011 Si/cm2 at 15 K to 4 × 1015 Si/cm2 at 600 K). The formation of an amorphous layer is ascribed to the defect zone overlap of the displacement cascade outskirts. The precipitate structure and evolution are studied.
+
+INDIUM PHOSPHIDES
+ION IMPLANTATION
+SILICON IONS
+VERY LOW TEMPERATURE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+HIGH TEMPERATURE
+TRANSMISSION ELECTRON MICROSCOPY
+TEMPERATURE DEPENDENCE
+AMORPHIZATION
+PRECIPITATION

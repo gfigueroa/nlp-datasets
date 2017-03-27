@@ -1,0 +1,11 @@
+We report on the controlled growth and characterization of quaternary AlGaInN compounds by plasma-assisted molecular beam epitaxy. Two-dimensional growth is achieved with a monolayer of In segregating at the growth front. In incorporation is hindered by increasing growth temperature and Al mole fraction, which is explained by the lower binding energy of InN compared to GaN and AlN. The mosaicity of the layers is determined by the substrate quality, whereas the alloy disorder increases with the Al content, independent of the In mole fraction. Room temperature photoluminescence is dominated by a narrow band-edge emission, whose Stokes shift and activation energy increase with the In content. This behavior is interpreted in terms of carrier localization in self-formed alloy inhomogeneities. An In-related band bowing parameter of 2.5 eV has been estimated. © 2003 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+molecular beam epitaxial growth
+mosaic structure
+photoluminescence

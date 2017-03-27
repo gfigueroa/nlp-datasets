@@ -1,0 +1,14 @@
+Radiation transport and multiple scattering calculations are presented and compared with experimental observations to characterize light attenuation in high emissivity nanopowders irradiated with low power laser light at room temperature, and to explain the associated white light emission and the onset of melting. Using radiation tuned to an absorption resonance of Yb3+ dopants in Y2O3 nanopowder, we observed the onset of intense blackbody emission above a well-defined intensity threshold. Local melting of the compact above threshold leads to the formation of single crystal microtubes. Evidence is provided to show that two-flux transport theory and diffusion theory both significantly underestimate the absorption due to dependent, multiple scattering and that the threshold for the thermal runaway process responsible for this behavior is very sensitive to porosity of the random medium. © 2004 American Institute of Physics. 
+
+yttrium compounds
+ytterbium
+erbium
+nanoparticles
+light scattering
+thermal expansion
+laser beam effects
+melting
+blackbody radiation
+diffusion
+porosity
+visible spectra

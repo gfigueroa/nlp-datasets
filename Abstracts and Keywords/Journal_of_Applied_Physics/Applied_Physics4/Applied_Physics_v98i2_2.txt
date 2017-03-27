@@ -1,0 +1,12 @@
+Electronic state calculations are performed self-consistently using the extended Hückel-type nonorthogonal tight-binding method for two different oxygen configurations (backbonded and double-bonded oxygen configurations) on the H-covered surface of spherical Si35H36, Si47H60, Si71H84, Si136H120, Si148H120, and Si172H120 quantum dots. The size dependence of the effect of oxygen on the electronic structure of the Si dots is studied. Energy gaps calculated for both oxygen configurations can explain oxidation-induced redshifts in photoluminescence (PL) observed in porous Si. However, the energy gaps calculated for the backbonded oxygen model are around 2.2eV and dipole allowed in all Si dots studied, whereas those for the double-bonded oxygen model are gradually decreased with the increase in size (2.31.7eV), and optical transitions are dipole forbidden in the Si dots near 1nm across and dipole allowed in the ones near 2nm in diameter. The results calculated for the backbonded oxygen model coincide well with the experimental fact that the PL-peak energies are fixed at < 2.1eV when porous Si is exposed to air.
+
+silicon
+elemental semiconductors
+hydrogen
+semiconductor quantum dots
+porous semiconductors
+energy gap
+red shift
+oxidation
+tight-binding calculations
+photoluminescence

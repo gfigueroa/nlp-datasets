@@ -1,0 +1,18 @@
+Plasma characteristics at high pressure YBa2Cu3O7´ reactive magnetron sputtering were investigated with a probe technique and in situ film resistance measurements. The experimental features of probe measurements in oxygen plasma are discussed. Electron energy distribution is the sum of two Maxwell distributions with kTe H 1.5
+eV and kTe H 0.3
+eV. N2O addition to a gas mixture results in the generation of negative ions with a density virtually equal to the density of positive ions. The energies of ions, impinging the film surface under film biasing, are discussed in collisionless and drift approximations. Low energy ion bombardment of the film surface at temperatures H 400
+°C results in a reduction of film oxygen content. © 1997 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting thin films
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+SPUTTERING
+HIGH-TC SUPERCONDUCTORS
+PLASMA DIAGNOSTICS
+DISTRIBUTION FUNCTIONS
+ION DENSITY
+ENERGY BEAM DEPOSITION FILMS

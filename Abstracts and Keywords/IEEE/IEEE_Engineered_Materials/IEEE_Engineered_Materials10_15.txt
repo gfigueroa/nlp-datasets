@@ -1,0 +1,8 @@
+The AARM is a robot tool for remote controlled visual inspection and some operations inside a nuclear reactor. The user takes full advantage of the opportunity created during nuclear reactions retrofit operations. It allows inspection of components that have not been visible since the reactor was initially commissioned, usually several decades earlier. Specifically, during retrofit of a reactor this tool can be inserted through a lattice sleeve tube in the shielding wall of the reactor after the fueling and pressure tubes were removed, in order to perform inspection and some cleaning operations.
+
+collision avoidance
+internal inspection
+nuclear reactor
+radiation shielding
+remote control
+robot arm

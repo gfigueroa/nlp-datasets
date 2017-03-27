@@ -1,0 +1,9 @@
+We prepared polycrystalline samples of ²-KxBa1xCu2S2 (x = 0,0.05,0.1) with a natural superlattice structure and measured the thermoelectric properties from room temperature to about 850K. The Seebeck coefficients are positive in the whole temperature range. The electrical resistivity and Seebeck coefficient decrease with potassium content, which indicates that potassium doping introduces charge carriers. The thermal conductivities of potassium-doped samples are slightly higher than those of undoped samples as a result of electronic contributions. The values of thermal conductivities are very low, 0.97W	m1	K1 at room temperature for ²-K0.1Ba0.9Cu2S2. The dimensionless figure of merit ZT can be improved by potassium doping and reaches 0.28 at 820K for ²-K0.1Ba0.9Cu2S2.
+
+potassium compounds
+barium compounds
+copper compounds
+superlattices
+Seebeck effect
+electrical resistivity
+thermal conductivity

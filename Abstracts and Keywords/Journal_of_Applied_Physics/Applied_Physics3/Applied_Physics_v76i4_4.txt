@@ -1,0 +1,11 @@
+Anisotropic thermoelectric characteristics of a sintered Bi2Te3 system have been evaluated on the basis of the orientation distribution of crystallites. Uniaxially anisotropic resistivities, Hall coefficients, and thermal conductivities of sintered Bi2Te3 were expressed by linear combinations of those of single crystal. The combination coefficients are specified by an anisotropy parameter that may be estimated by the anisotropy in the observed resistivities. Two types of xray diffraction experiments were performed to confirm the validity of the estimate. The observed diffraction intensities were reasonably consistent with the orientation distribution predicted by the anisotropy parameter. Theoretical curves of resistivities, Hall coefficients, and thermal conductivities of the sintered material were calculated by using the orientation distribution which was specified by a parameter estimated by the observed resistivities. The theoretical curves were in reasonable agreement with the observed data.
+
+BISMUTH TELLURIDES
+THERMOELECTRIC PROPERTIES
+SINTERING
+GRAIN ORIENTATION
+DISTRIBUTION FUNCTIONS
+ELECTRIC CONDUCTIVITY
+CARRIER MOBILITY
+XRD
+ANISOTROPY

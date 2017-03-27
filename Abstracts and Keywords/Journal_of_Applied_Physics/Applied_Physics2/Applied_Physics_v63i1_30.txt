@@ -1,0 +1,9 @@
+Photoinjection efficiencies of holes from the carrier generation layer (CGL) into the carrier transport layer (CTL) in doublelayered organic photoconductors were measured by using a photoacoustic technique. The photoinjection efficiency depends on the concentration of transporting molecules doped in the polymer of the CTL. At low molecular concentrations, the injection efficiency is mainly limited by the low ability to transport carriers in the CTL. The concentration dependence of the photoinjection efficiency is found to be similar to that of hopping transport processes in the CTL. At high molecular concentrations, the photoinjection efficiency is limited by the freecarrier generation process in the CGL.
+
+PHOTOCONDUCTORS
+PHOTOACOUSTIC EFFECT
+CHARGEDPARTICLE TRANSPORT
+CHARGE CARRIERS
+POLYMERS
+EFFICIENCY
+ORGANIC COMPOUNDS

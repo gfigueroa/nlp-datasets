@@ -1,0 +1,14 @@
+A pump-probe thermoreflectance technique is used for the nondestructive evaluation of thermal and acoustic properties of Si/Si0.7Ge0.3 superlattice (SL) at room temperature. In particular, this technique allows the determination of the metal transducer/SL thermal boundary resistance, the SL cross-plan thermal conductivity, and the longitudinal sound velocity inside the SL. Several effects related to the extraction of these properties are studied, including the metal transducer thickness and electron diffusion inside it.
+
+silicon
+elemental semiconductors
+Ge-Si alloys
+semiconductor superlattices
+high-speed techniques
+ultrasonic measurement
+thermoreflectance
+nondestructive testing
+transducers
+thermal conductivity
+ultrasonic velocity
+diffusion

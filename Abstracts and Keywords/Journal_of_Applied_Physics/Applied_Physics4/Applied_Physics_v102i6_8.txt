@@ -1,0 +1,9 @@
+The effect of nitrogen ion implantation has been examined in transparent surfaces of CR-39 polymer. Samples were implanted with 100keV N+ ions to various doses ranging from 1014to1017cm2. The chemical and structural changes in the implanted specimens were performed using Raman spectroscopy and glancing angle x-ray diffraction. Ultraviolet-visible absorption analysis indicates a drastic decline in optical band gap from 3.50eV in virgin sample to 0.80eV at an implantation dose of 1017ions	cm2.
+
+ion implantation
+nitrogen
+polymers
+Raman spectra
+Raman spectroscopy
+ultraviolet spectra
+X-ray diffraction

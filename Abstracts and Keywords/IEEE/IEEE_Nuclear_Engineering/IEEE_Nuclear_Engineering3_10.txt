@@ -1,0 +1,6 @@
+In this paper, we proposed an alternative method that is simple and cost-effective to fabricate full glass chips with hybrid micro- and nanochannels. Double-lithography and double wet-etching technique was used for the fabrication of hybrid micro and nanostructures. The microchannels were firstly constructed on a glass substrate by standard UV photolithography and wet etching technique. After washing away the rest photoresist and spinning a new layer of photoresist on the microchannel-structured glass substrate, nanochannels with the depth less than 100 nm were produced on the same substrate by second lithography and wet etching. Then the channels-structured glass substrate was sealed to a cover glass plate by using previously developed room temperature bonding technique. Without using clean room facilities and expensive instruments, micro- and nanofluidic chips with delicate structures were well fabricated. The good nature of those nanofluidic chips was demonstrated by the successful concentration of FITC-labeled bovine serum albumin via electrokinetic ion trapping.
+
+chip fabrication
+double-etching technique
+micro- and nanofluidic chips
+protein concentration

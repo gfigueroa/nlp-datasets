@@ -1,0 +1,7 @@
+The vectors of the local geomagnetic field, the direction of the sun at the time, and acceleration due to gravity constitute a unique natural frame of reference at any point on earth. A combination of 3-axis magnetometer, CMOS array, and accelerometers-all in the realm of a few grams can measure these quantities. We show that measurement of these quantities at sufficient resolution uniquely identifies a location on the earth at a particular time. For night-time flying, the angle to the sun can be replaced by angles to the moon or specific stars. Point-to-point navigation can be attained through simply supplying waypoints in terms of these vectors. We calculate the accuracy of localization and orientation, as a function of sensor resolution. We find that sensor accuracy needed for localization and orientation is not far from available technology.
+
+Navigation
+accelerometer
+geomagnetic field
+magnetometer
+sun-sensor

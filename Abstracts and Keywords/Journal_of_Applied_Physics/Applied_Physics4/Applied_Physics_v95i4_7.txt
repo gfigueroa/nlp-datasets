@@ -1,0 +1,12 @@
+The thermoelectric properties, including electrical resistivity (Á), Seebeck coefficient (S), and thermal conductivity (º) on binary icosahedral Cd-Yb quasicrystals and Cd6Yb are investigated. The Cd-Yb quasicrystals have a room-temperature (RT) resistivity value of about 200 (¼©
+cm), however, the temperature-dependent resistivity is sensitive to a small composition change in these compounds. For all studied samples, Seebeck coefficients are positive and small (<10	¼V/K at RT). Upon cooling, S decreases quasilinearly, indicative of a metallic diffusion behavior, and then develops a broad phonon drag peak at around 40 K. The temperature characteristic of thermal conductivity º of Cd-Yb quasicrystals shows a most peculiar feature in all measured thermoelectric properties. The RT º value <6	(W/m
+K) of Cd-Yb quasicrystals is considerably larger than that of conventional ternary counterparts. Such an observation is attributed to the substantial electrical contribution ºe (<50%) to their total thermal conductivity, as deduced from the WiedemannFranzs law, and larger lattice thermal conductivity ºP due to less chemical disorder present in the binary Cd-Yb quasicrystalline structure. In addition º decreases with decreasing temperature and shows a distinct maximum, a broad maximum, or a plateau at low temperatures, depending on the sample composition. The dimensionless thermoelectric figure of merit (ZT) for Cd-Yb quasicrystals is estimated to be small, on the order of 0.005 at RT. © 2004 American Institute of Physics. 
+
+cadmium alloys
+ytterbium alloys
+quasicrystals
+electrical conductivity
+electrical resistivity
+phonon drag
+Seebeck effect
+thermal conductivity

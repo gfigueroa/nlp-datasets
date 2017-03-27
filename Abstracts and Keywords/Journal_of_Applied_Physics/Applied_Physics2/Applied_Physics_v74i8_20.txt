@@ -1,0 +1,9 @@
+Although the thermal conductivities of silicon and silicon dioxide do vary with temperature, minimal change would result from a temperature rise of 50	°C, from room temperature to 350	°C. as is the case in the application in question.
+
+THIN FILMS
+RESISTORS
+SILICON
+SILICON OXIDES
+THERMAL CONDUCTIVITY
+TEMPERATURE DISTRIBUTION
+TEMPERATURE DEPENDENCE

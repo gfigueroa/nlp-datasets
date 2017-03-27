@@ -1,0 +1,7 @@
+We describe in detail the detection of deflagration of trinitrotoluene (TNT) deposited on a piezoresistive microcantilever and point out its possible use for explosive-vapor detection. The deflagration of TNT causes the cantilever to bend (due to released heat) and its resonance frequency to shift (due to mass unloading). Explosive vapors provide unique responses that are absent for interferences such as water or alcohol vapors. The proposed sensor makes possible a sensitive, miniature explosives detection device that may be deployed in large numbers. The minimum amount of TNT detected on the cantilever depends on the cantilever dimensions and was H50 pg for the batch of cantilevers used. © 2004 American Institute of Physics. 
+
+organic compounds
+piezoresistive devices
+resonance
+gas sensors
+microsensors

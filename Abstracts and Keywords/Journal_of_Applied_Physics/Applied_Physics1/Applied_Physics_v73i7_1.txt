@@ -1,0 +1,11 @@
+The cosh2 profile is used to model the hydrogen concentrations of protonexchanged and annealed LiNbO3 waveguides. These hydrogen concentrations are experimentally determined using a secondaryionmass spectrometry. A twodimensional extraordinary refractive index profile is obtained from a model for the hydrogen concentration profile, assuming a linear relationship between the index change and concentration. A matrix effective refractive index technique with a twodimensional index profile is then used to analyze protonexchanged and annealed channel waveguides. Calculated nearfield intensities and propagation constants are compared to measured values for various channel waveguides and fabrication conditions. The matrix effective refractive index method, along with coupledmode equations, are used to simulate the performance of protonexchanged and annealed directional couplers as a function of various device geometries and thermal annealing conditions. Comparisons of computer simulations to actual device measurements indicate that these analytical techniques are sufficiently fast and accurate enough to be used in computeraided design of integrated optical components. 	
+
+LITHIUM NIOBATES
+OPTICAL COUPLERS
+ION EXCHANGE
+WAVEGUIDES
+REFRACTIVE INDEX
+COMPUTERIZED SIMULATION
+COUPLED MODES
+MATHEMATICAL MODELS
+HYDROGEN

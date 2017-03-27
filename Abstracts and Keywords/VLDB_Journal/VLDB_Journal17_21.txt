@@ -1,0 +1,7 @@
+It is generally believed that data mining results do not violate the anonymity of the individuals recorded in the source database. In fact, data mining models and patterns, in order to ensure a required statistical significance, represent a large number of individuals and thus conceal individual identities: this is the case of the minimum support threshold in frequent pattern mining. In this paper we show that this belief is ill-founded. By shifting the concept of k -anonymity from the source data to the extracted patterns, we formally characterize the notion of a threat to anonymity in the context of pattern discovery, and provide a methodology to efficiently and effectively identify all such possible threats that arise from the disclosure of the set of extracted patterns. On this basis, we obtain a formal notion of privacy protection that allows the disclosure of the extracted knowledge while protecting the anonymity of the individuals in the source database. Moreover, in order to handle the cases where the threats to anonymity cannot be avoided, we study how to eliminate such threats by means of pattern (not data!) distortion performed in a controlled way.
+
+Knowledge discovery
+Privacy preserving data mining
+Frequent pattern mining
+Individual privacy
+anonymity

@@ -1,0 +1,5 @@
+This workshop will expose participants to the utility of the ASU Java-DSP software technology in Signals and Systems courses. The session will be interactive and participants will use and assess an exercise that involves step-by-step online simulations on prepackaged online laboratory exercises that can be disseminated in their junior level signals and systems classes. Assessment forms and pre- and post-evaluation quizzes will be discussed
+
+DSP. Java
+online labs
+signals

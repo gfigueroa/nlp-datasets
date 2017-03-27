@@ -1,0 +1,5 @@
+The bipolar junction transistor is modeled using the thermodynamic theories. The main reason for using the thermodynamic theories is to ensure that the law of conservation of energy is maintained. Violating such a fundamental law is expected to result in errors in simulating the device performance. Although using some empirical parameters can reduce the severity of such deviations, such a process requires some guessing that cannot be guaranteed to be accurate in all cases. Using the thermodynamic theories, the transistor IV relationships were derived and the device characteristics were simulated. The results show that the proposed model can predict the device performance without using empirical fitting parameters. © 2000 American Institute of Physics. 
+
+bipolar transistors
+semiconductor device models
+thermodynamics

@@ -1,0 +1,7 @@
+Query evaluation over probabilistic XML is explored. The queries are twig patterns with projection, and the data is represented in terms of three models of probabilistic XML (that extend existing ones in the literature). The first model makes an assumption of independence among the probabilistic junctions, whereas the second model can encode probabilistic dependencies. The third model combines the first two and, hence, is the most general. An efficient algorithm (under data complexity) is given for query evaluation in the first model. In addition, various optimizations are proposed, and their effectiveness is shown both analytically and experimentally. For the other two models, it is shown that every query is either intractable or trivial. Nonetheless, efficient (additive and multiplicative) approximation algorithms are given for these two models. Finally, Boolean queries are enriched by allowing disjunctions and negations of branches. The above algorithm for the first model is extended to handle these queries. For the other two models, there is an efficient additive approximation, and a multiplicative one also exists if there is no negation; in addition, it is shown that if the query is non-monotonic, then no efficient multiplicative approximation exists unless NP = RP.
+
+Probabilistic databases
+Probabilistic XML
+Query processing
+Query optimization
+Approximate query evaluation

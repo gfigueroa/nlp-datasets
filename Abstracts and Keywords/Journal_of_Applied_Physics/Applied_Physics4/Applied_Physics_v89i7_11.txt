@@ -1,0 +1,13 @@
+The thermal stability of n-InP/p+-InGaAs heterojunctions was studied using photoreflectance (PR) spectroscopy. The PR signal amplitude from the n-InP depletion region decreased after postgrowth annealing. The reduction of the PR signal amplitude reflected an increase of recombination centers in the n-InP depletion region, which was attributed to the degradation of the adjacent carbon-doped p+-InGaAs layer. The reduction of the PR signal amplitude was more significant in samples with higher carbon doping concentration. We propose a model of the increase of the recombination centers that is consistent with our systematic experimental results, where the thermal degradation of the heavily carbon doped p+-InGaAs is taken into account. The present study shows that the PR method is quite helpful in the nondestructive diagnosis of the crystal quality of epitaxial wafers after thermal processing in heterojunction bipolar transistor device fabrication. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+carbon
+III-V semiconductors
+semiconductor heterojunctions
+photoreflectance
+thermal stability
+annealing
+electron-hole recombination
+defect states
+nondestructive testing

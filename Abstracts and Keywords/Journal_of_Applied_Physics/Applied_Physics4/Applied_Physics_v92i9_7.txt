@@ -1,0 +1,8 @@
+A method of observing the compressive failure waves in glass is presented. Its advantages are good reproducibility of the recorded data and capabilities of measuring, the kinematic parameters of the failure wave and determining by one shot the failure threshold. The experiments presented herein confirm that the network of growing cracks in shock-compressed glass may indeed be considered as a failure wave with a small stress increment. Transformation was observed of the elastic compression wave followed by the failure wave in a thick glass plate into a typical two-wave configuration in a pad of thin glass plates. © 2002 American Institute of Physics. 
+
+glass
+failure (mechanical)
+cracks
+shock waves
+compressibility
+elastic waves

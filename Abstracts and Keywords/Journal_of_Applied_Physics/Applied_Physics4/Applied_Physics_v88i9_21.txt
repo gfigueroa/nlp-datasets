@@ -1,0 +1,14 @@
+Thin ferromagnetic Fe films were grown at both room and low temperatures (150 K) on (2×1) and on Au-passivated Si(001). In the case of Fe grown on (2×1) Si(001), the magnetization sets in at an Fe coverage of 3.6 monolayers (ML) at room temperature and of 2.3 ML at 150 K, indicating a reduced magnetization due to silicide formation. To suppress FeSi reactions we used a 2 ML thick Au buffer layer deposited in two steps. We performed a reconstruction by the deposition of about 0.5 ML of Au at <1000 K followed by the growth of another 1.5 ML at room temperature or at 150 K. Room temperature growth results in rough Au films and no earlier onset of magnetization in comparison to the case of unbuffered Fe films. However, a strong out-of-plane magnetization is measured at the onset coverage. By contrast, at 150 K, smooth Au buffer films are observed, acting as protective layers against Fe and Si intermixing. Growth on these buffer layers results in an early onset of the out-of-plane magnetization at 1.4 ML of Fe and a larger Kerr signal. Both these findings point at a significant reduction of silicide formation. A 2.3 ML thick Fe film grown on Au passivated Si(001) shows a reversible magnetic behavior upon annealing to 280 K and cooling back to 150 K, indicating a thermally stable system. © 2000 American Institute of Physics. 
+
+iron
+gold
+silicon
+elemental semiconductors
+semiconductor-metal boundaries
+chemical interdiffusion
+magnetisation
+ferromagnetic materials
+magnetic thin films
+annealing
+passivation
+vacuum deposition

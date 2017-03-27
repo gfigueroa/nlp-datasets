@@ -1,0 +1,7 @@
+We present a numerical and analytic study of the influence of the passive region on fluxon dynamics in a window junction. We examine the effect of the extension of the passive region and its electromagnetic characteristics, its surface inductance LI, and capacitance CI. A one dimensional model describes well the operation of the device when the velocity in the passive region vI is equal to the Swihart velocity. In the opposite case, the fluxon adapts its speed to vI. In both situations we give simple formulas for the position of the limiting voltage of the zero field steps. Large values of LI and CI lead to different types of solutions which are analyzed. © 2002 American Institute of Physics. 
+
+Josephson effect
+flux flow
+inductance
+capacitance
+superconducting junction devices

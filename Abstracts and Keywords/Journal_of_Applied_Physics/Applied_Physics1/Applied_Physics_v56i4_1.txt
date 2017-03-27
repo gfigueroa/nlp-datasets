@@ -1,0 +1,12 @@
+Using only purely electrical measurements based on the capacitance transient techniques, for the first time all the four majority and minority carrier capture rates in zero field as well as the two emission rates of the two Ti deep levels have been directly obtained on a single n+/p diode. The data are in good agreement with our results from other n+/p and nSi and pSi Schottky barriers and give a reliable picture of the recombination properties of Ti impurity in silicon. The capture rate and level concentration data support the double donor model. The first donor level is found located at EC271 meV and has electron capture cross section of (2.57±0.17)×1014	exp[(3.9±0.6) meV/kT] cm2 and hole capture cross section of 1.35×1015 cm2. The second donor level is located at EV+255 meV and has electron capture cross section of (1.30±0.05)×1014 (300/T) cm2 and hole capture cross section of (1.09±0.14)×1016	exp[(27.0±1.2) meV/kT] cm2.
+
+titanium
+deep energy levels
+capacitance
+dlts
+donors
+silicon
+electrical properties
+minority carriers
+schottky barrier diodes
+charge carriers

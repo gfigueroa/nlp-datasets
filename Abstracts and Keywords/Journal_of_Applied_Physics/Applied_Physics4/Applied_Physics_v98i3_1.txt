@@ -1,0 +1,5 @@
+Extensive research over the past several years has revealed graded composition and strong atomistic intermixing between a quantum dot (QD) and its surrounding material. In this paper, the strain and stress fields induced by a QD with an initial misfit strain due to its nonuniform composition are investigated. A general expression of the stress field for an arbitrarily shaped QD structure with a nonuniform composition is presented. It is found that the hydrostatic stress and strain are proportional to the initial misfit strain inside the QD but vanish outside it. The stress field in an arbitrarily shaped QD with a linearly graded composition is studied in detail, and a simple formula containing integrals over the boundary of the QD is derived. It can greatly simplify the numerical calculation of the elastic fields. Based on this formula, a closed-form analytical solution for a cuboidal QD with a linearly graded composition is obtained. It is also demonstrated that the strains inside and around the QD are sensitive to both the composition and the height of the QD in the growth direction.
+
+semiconductor quantum dots
+internal stresses
+elasticity

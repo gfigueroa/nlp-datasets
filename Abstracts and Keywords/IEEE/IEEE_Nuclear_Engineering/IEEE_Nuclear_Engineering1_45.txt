@@ -1,0 +1,7 @@
+In spite of all the efforts in different industries to reduce the number of undesirable accidents, a lot of events always threat industrial societies. These events often cause huge damages to the environment, facilities and even in some cases, fatalities and disabilities for people. Therefore, it is important to predict these probable accidents and plan to prevent them. Hence, this research proposed to analysis hazards in one of the most important components of natural gas distribution network which is city gate station (C.G.S). In this analysis firstly, critical hazards are identified and classified based on HSE standards. Then for decreasing risk of selected hazards, a survey is done on a specific C.G.S according to previous accidents. Finally, some suggestions are offered to improve existing preventive activities.
+
+City gate station
+Hazard
+Health
+Natural gas
+Safety

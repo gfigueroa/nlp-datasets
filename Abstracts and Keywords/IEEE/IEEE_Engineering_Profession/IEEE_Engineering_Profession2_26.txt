@@ -1,0 +1,7 @@
+Travel time estimation is a key factor in the successful implementation of routing guidance applications in intelligent transportation systems. Traditional models of traffic congestion and management lack the adaptability and sophistication needed to effectively and reliably deal with increasing traffic volume on certain road stretches. Many existing models base either on speed or traffic flows for traffic condition forecasting. This article will focus on the analysis and usage of time series of density values due to its major advantages. A neural network structure based on fuzzy ARTMAP theory is proposed to classify density values patterns and provide an estimation of travel time.
+
+Advanced traveler information systems
+fuzzy ARTMAP
+neural networks
+traffic engineering
+travel time

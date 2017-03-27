@@ -1,0 +1,12 @@
+We investigate indium interdiffusion in InAs/(AlGa)As self-assembled quantum dots by studying the changes in the optical properties of the system induced by ion implantation and/or thermal annealing. Interdiffusion of InGa and InAl atoms at the interface between the dot and the (AlGa)As barrier takes place in as-grown samples and is enhanced by the postgrowth treatments. In contrast to the proposed interdiffusion as the way for suppressing the optical emission from the wetting layer, we show that it drives the system towards a predominantly two-dimensional morphology. © 2001 American Institute of Physics.
+
+indium compounds
+aluminium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+self-assembly
+chemical interdiffusion
+ion implantation
+annealing
+photoluminescence

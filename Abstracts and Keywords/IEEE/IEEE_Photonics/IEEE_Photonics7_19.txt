@@ -1,0 +1,7 @@
+FinFET devices are explicitly mentioned in the ITRS roadmap and have a good potential for scaling CMOS to 22 nm and below. Some physical characterization and reliability aspects of these devices are reviewed. Attention is given to transient floating body effects and low frequency noise, which may yield information on the materials' characteristics like carrier recombination lifetime or interface and oxide trap density. These methods can be useful to study the performance of these components under harsh operation conditions of low or high temperature, or at high bias voltages.
+
+FinFETs
+MuGFETs
+SOI
+drain current transients
+low-frequency noise

@@ -1,0 +1,13 @@
+The bandbending potential profile V(x) in the spacecharge region of an amorphous semiconductor moves regidly in the x direction, with increased bias, irrespective of the form of the density of localized states N(E). A recent paper by Singh and Cohen [J. Appl. Phys. 51, 413 (1980)] which suggest this is not true is incorrect in this point. This property leads to simplified schemes for the analysis of CV measurements and fieldeffect conductance measurements.
+
+SEMICONDUCTOR MATERIALS
+ELECTRICAL PROPERTIES
+SILICON
+SPACE CHARGE
+LAYERS
+AMORPHOUS STATE
+POTENTIALS
+ENERGYLEVEL DENSITY
+COMPARATIVE EVALUATIONS
+BAND THEORY
+MATHEMATICAL MODELS

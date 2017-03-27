@@ -1,0 +1,10 @@
+We have studied the oxidation of Si nanocrystals as a function of oxidizing ambient, temperature, time, and initial nanocrystal size using x-ray photoelectron spectroscopy, transmission electron microscopy, and energy-filtered transmission electron microscopy. Thicker oxide shells are obtained by oxidation in O2 ambient compared with NO ambient. Oxidation in O2 is observed to be self-limiting at temperatures below the viscoelastic temperature of SiO2 because of compressive stress normal to the SiO2/Si interface, which retards the surface oxidation rate. Oxidation in NO also results in self-limiting oxidation due to the incorporation of N at the Si/SiOx interface. This N-rich interfacial layer acts as an effective barrier against oxidant diffusion and also blocks the reaction sites on the Si surface. Therefore, NO oxidation is successful in slowing further oxidation of Si cores, even in a severe oxidizing ambient such as O2 at 1050
+°C. © 2003 American Institute of Physics. 
+
+silicon
+nanostructured materials
+oxidation
+elemental semiconductors
+X-ray photoelectron spectra
+transmission electron microscopy
+internal stresses

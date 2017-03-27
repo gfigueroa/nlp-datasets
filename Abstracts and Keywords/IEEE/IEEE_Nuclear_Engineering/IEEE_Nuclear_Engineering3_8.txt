@@ -1,0 +1,4 @@
+The paper studies the effect of the adhesive mass in the cantilever beam dynamic. In this paper, this determines the adhesive mass by using the adhesive material volume. The adhesive volume estimation is the semi-sphere volume. The adhesive volume in the cantilever beam can be determined by using the SEM (Scanning Electron Microscopy, SEM). From the analysis result, this can be found that the effect of the moisture in the cantilever beam resonance is very clear. These determined materials are four material included Mg, Cu, Fe and Ti. These analyzed result show that the determined adhesive mass error between the semi-sphere volume method and the resonance method is smaller 15.99% in these four materials. The adhesive mass big error shows in the handling material. This can know that the result by using the semi-sphere volume method is very closed the theoretical value by using the cantilever beam resonance.
+
+AFM
+adhesive

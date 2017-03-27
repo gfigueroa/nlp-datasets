@@ -1,0 +1,14 @@
+Uniform metal iron ellipsoidal particles of around 200 nm in length were obtained by reduction and passivation of alumina-coated ±Fe2O3 (hematite) particles under different conditions of temperature and hydrogen flow rate. The monodispersed hematite particles were prepared by the controlled hydrolysis of ferric sulfate and further coated with a homogeneous thin layer of Al2O3 by careful selection of the experimental conditions, mainly pH and aluminum salt concentration. The reduction mechanism of ±Fe2O3 into ±Fe was followed by x-ray and electron diffraction, and also by the measurements of the irreversible magnetic susceptibility. The transformation was found to be topotactic with the [001] direction of hematite particles, which lies along the long axis of the particles, becoming the [111] direction of magnetite and finally the [111] direction of metal iron. Temperature and hydrogen flow rate during the reduction have been found to be important parameters, which determine not only the degree of reduction but also the crystallite size of the final particles. Magnetic characterization of the samples shows that the only parameters affected by the crystallite size are the saturation magnetization and magnetic time-dependence effect, i.e., activation volume. © 2002 American Institute of Physics. 
+
+iron compounds
+particle size
+reduction (chemical)
+magnetic particles
+X-ray diffraction
+electron diffraction
+magnetic susceptibility
+crystallites
+magnetisation
+passivation
+powder metallurgy
+iron

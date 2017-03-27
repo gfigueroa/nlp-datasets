@@ -1,0 +1,15 @@
+Bi1xSbx
+(xH0.1) alloy crystals present a high thermoelectric figure of merit at TH100
+K. The alloys are difficult to grow successfully and require special techniques to avoid constitutional supercooling and the resulting segregation. We present a study of the growth of 200 nm wire arrays of BiSb by high-pressure injection of the melt of the alloy in a porous template. We find that the concentration of Sb in the nanowires is much lower than the composition of the starting alloy and discuss the results in terms of a model of constitutional supercooling in restricted geometries. © 2002 American Institute of Physics. 
+
+bismuth alloys
+antimony alloys
+supercooling
+thermoelectricity
+high-pressure effects
+nanostructured materials
+arrays
+semiconductor quantum wires
+composite materials
+semiconductor growth
+materials preparation

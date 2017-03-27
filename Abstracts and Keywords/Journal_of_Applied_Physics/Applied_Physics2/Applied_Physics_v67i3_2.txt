@@ -1,0 +1,8 @@
+With the aid of a mode diagram, the qualitative dependence of phase space trajectory on power and saturation for saturable nonlinear couplers is revealed. The uplimit of power (due to saturation of nonlinearity) for efficient switching by a nonlinear coupler is evaluated.
+
+OPTICAL COUPLERS
+NONLINEAR OPTICS
+SATURATION
+PHASE SPACE
+TRAJECTORIES
+SWITCHING

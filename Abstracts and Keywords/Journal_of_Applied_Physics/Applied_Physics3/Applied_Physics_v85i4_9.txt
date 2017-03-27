@@ -1,0 +1,8 @@
+Effective cluster models have been developed that treat disordered suspensions of monodisperse metal spheres as mixtures of isolated spheres and compact clusters of spheres using the ClausiusMossotti equation [Phys. Rev. B 42, 9319 (1990); J. Appl. Phys. 71, 3926 (1992)] and the Bruggeman equation [J. Appl. Phys. 78, 6165 (1995)]. These effective cluster models are adapted to suspensions of dielectric particles with arbitrary complex permittivity. The models are compared with the coated sphere model of Sheng [Phys. Rev. Lett. 45, 60 (1980); J. Opt. Soc. Am. B 15, 1022 (1998)]. Model calculations are compared with the measurements of the optical transmission spectra and low frequency electrical conductivity of AuSiO2 films by Cohen, Cody, Coutts, and Abeles [Phys. Rev. B 8, 3689 (1973)], and with the low frequency permittivity measurements on suspensions of Ag spheres in KCl of Grannan, Garland, and Tanner [Phys. Rev. Lett. 46, 375 (1981)]. The models accurately predict the percolation thresholds seen in the electrical measurements and are in good agreement with all of the experiments over the entire range of volume loading. © 1999 American Institute of Physics.
+
+composite materials
+permittivity
+light transmission
+electrical conductivity
+percolation
+cluster approximation

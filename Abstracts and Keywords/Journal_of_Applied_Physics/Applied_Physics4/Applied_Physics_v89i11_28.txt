@@ -1,0 +1,16 @@
+Magnetic microstructure, exchange induced uniaxial and unidirectional anisotropy and structural transformation have been studied in PtMn/NiFe bilayer films and small elements as a function of annealing time. The relationship between the fcc-fct ordering phase transformation in PtMn and the development of exchange induced magnetic properties in PtMn/NiFe bilayers is complicated by the fact that the transformation occurs throughout the entire volume of the PtMn film, while the exchange between the layers is predominantly an interface effect. Consequently, the development of the exchange anisotropy should depend primarily on the character of the structural transformation at the interface between PtMn and NiFe. The purpose of this article is to correlate the volume phase transformation in PtMn to the development of exchange anisotropy and micromagnetic behavior in PtMn/NiFe bilayers. The interface structure can be inferred from the anisotropy and micromagnetic measurements, leading to a model that explains the relationship between the volume and interface transformation structures in PtMn, and magnetic properties of the bilayers. The structure and magnetic properties were characterized by x-ray diffraction, vibrating sample magnetometry, and magnetic force microscopy. © 2001 American Institute of Physics. 
+
+platinum alloys
+manganese alloys
+nickel alloys
+iron alloys
+ferromagnetic materials
+antiferromagnetic materials
+interface magnetism
+exchange interactions (electron)
+interface structure
+induced anisotropy (magnetic)
+solid-state phase transformations
+magnetic force microscopy
+X-ray diffraction
+annealing

@@ -1,0 +1,13 @@
+In phase-change technology small volumes of a chalcogenide material are switched between amorphous and crystalline states by local heating with a short laser or current pulses. AgInSbTe is an alloy frequently used in optical data storage, which could also be applied in electronic data storage. For those applications it is crucial to understand the reliability and reproducibility of the switching process. In this work the first crystallization of an AgInSbTe alloy has been studied on a microsecond time scale using a focused laser beam. The experiments show that nucleation is a process governed by statistics. A correlation between the success of a nucleation event with the probability of nucleation is established. By measuring the nucleation probability as a function of laser pulse duration, the incubation time is determined to 11¼s. The results are compared to measurements of the growth velocity of this material. The analysis of the temperature dependence of the growth velocity explains why AgInSbTe shows growth-dominated recrystallization. The implications of these findings to the application of such growth-dominated materials in electronic data storage are discussed.
+
+nucleation
+silver compounds
+indium compounds
+antimony compounds
+semiconductor thin films
+phase change materials
+chalcogenide glasses
+crystallisation
+optical storage
+laser beam effects
+recrystallisation

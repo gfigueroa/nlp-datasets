@@ -1,0 +1,8 @@
+The thermal stability of Er2O3 thin films grown epitaxially on Si substrates has been investigated in this paper by x-ray diffraction and high resolution transmission electron microscopy. The Er2O3/Si(001) films are found to react with Si to form silicates at the temperature of 450	°C in N2 ambience, whereas O2 ambience can prevent the silicate formation even at the temperature of 600	°C. However, at a high temperature of 900	°C in either N2 or O2 ambience, Er2O3 films react with Si, and both silicate and SiO2 are formed in the films. In addition, the Er2O3 films grown on Si(111) substrates show poorer thermal stability than those grown on Si(001) substrates; Er silicide is formed at the interface in the films annealed at 450	°C in O2 ambience, which is attributed to that the reaction product hexagonal ErSi2 is formed more easily on Si(111) than on Si(001) due to structure similarity as well as small lattice mismatch.
+
+erbium compounds
+epitaxial layers
+X-ray diffraction
+transmission electron microscopy
+annealing
+thermal stability

@@ -1,0 +1,13 @@
+The electronic structure and dielectric response of 25% and 50% Hf substituted zirconia (ZrO2) are determined, using first-principles density functional theory calculations based on pseudopotentials and a plane wave basis. It is found that Zr0.75Hf0.25O2 is more promising with higher dielectric response compared to pure ZrO2, the dielectric constant increases further upon introduction of oxygen vacancies. In contrast, Zr0.5Hf0.5O2 shows a decrease in the response compared to pure ZrO2. The IR-active phonon modes cause enhanced response in 25% Hf substituted ZrO2 and the material remains insulating making it promising for applications such as a gate oxide material.
+
+ab initio calculations
+density functional theory
+dielectric materials
+doping
+electronic structure
+hafnium
+permittivity
+phonons
+pseudopotential methods
+vacancies (crystal)
+zirconium compounds

@@ -1,0 +1,5 @@
+We have developed and tested a multistep-index x-ray waveguide. The waveguide geometry allows for a controlled positioning of the waveguide gap down to the nanometer range. The waveguide consists of two closely spaced flat fused-silica substrates, coated with an aluminum layer. On top of the aluminum layer we deposited an optically transparent spacer layer. The aluminum layers are the mirrors of an optical interferometer, which is used to measure the separation and parallelism of the waveguide surfaces. The x rays are guided within the gap between the spacer layers. We have observed so-called cladding modes and demonstrate waveguiding in a multistep index structure having a gap width of 59 nm over a length of 5 mm. © 2001 American Institute of Physics. 
+
+waveguides
+X-ray diffraction
+X-ray optics

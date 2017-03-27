@@ -1,0 +1,7 @@
+Tsuo and Milstein [J. Appl. Phys. 57, 5523 (1985)] recently reported observations of hydrogen passivation of dislocations in silicon sheet solar cells. We dispute their claim of prior discovery on this and also question the validity of a deep channeling model to explain their results.
+
+PASSIVATION
+DISLOCATIONS
+SILICON SOLAR CELLS
+HYDROGEN
+ION CHANNELING

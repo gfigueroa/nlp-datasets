@@ -1,0 +1,14 @@
+The nucleation, distribution, and composition of erbium embedded in a SiO2Si layer were studied with high resolution transmission electron microscopy (TEM), electron energy loss spectroscopy, energy filtered TEM, scanning transmission electron microscopy, and x-ray photoelectron spectroscopy. When SiO2 layer contains small amounts of Si and Er, nanoclusters of Er oxide are formed throughout the whole layer. The exposure of oxide to an electron beam with 1.56×106electrons	nm2	s causes nanocluster growth. Initially this growth matches the Ostwald ripening model, but eventually it stagnates at a constant nanocluster radius of 2.39 nm.
+
+electron beam effects
+electron energy loss spectra
+erbium
+insulating thin films
+nanostructured materials
+nanotechnology
+nucleation
+scanning electron microscopy
+silicon
+silicon compounds
+transmission electron microscopy
+X-ray photoelectron spectra

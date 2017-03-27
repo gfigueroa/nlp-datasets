@@ -1,0 +1,6 @@
+We investigate the domain structure of submicrometer sized ferromagnetic stripes exhibiting in-plane and out-of-plane magnetized areas with magnetic force microscopy (MFM). Two simulation approaches are used to calculate the observed MFM response. The first relies on an analytical solution for the stray field of a bar magnet and the subsequent modeling of the sample as an arrangement of bar magnets. The MFM response is calculated for a realistic tip shape incorporating a distribution of magnetic dipoles. The second, numerical approach is based on a discretization scheme, breaking the tip-sample problem up into cells and then calculating the energy of the magnetic tip-sample interaction. The MFM responses obtained for the ferromagnetic stripe structure are compared. A discussion of the advantages and limitations of the two methods is given in terms of precision, computing time, and flexibility. The numerical method offers shorter computing times and greater flexibility, opening the door for realistic three-dimensional MFM response simulations. The advantage of the analytical method is the investigation of small structures, as its precision is higher for the comparable computational effort.
+
+magnetic force microscopy
+ferromagnetic materials
+magnetic moments
+magnetic domains

@@ -1,0 +1,11 @@
+Different and novel in-grown stacking faults have been observed and characterized in 4H-SiC epitaxial layers grown on 4° or 8° off-cut substrates. Two different kinds of triangular stacking faults were observed in the epilayers grown on 4° off-cut substrates. The faults were formed during the epitaxial growth close to the episubstrate interface and increased continuously in size during the growth. Their structural and optical properties were however different as seen from both synchrotron white beam topography and low temperature photoluminescence. The luminescence spectra were similar but appeared in different energy regions of 2.852.95 eV and 2.482.64 eV, respectively, which have not been observed for previously reported stacking faults. A third stacking fault was observed in 8° off-cut as-grown epilayers, sometime with higher density. A combination of back polishing, etching in molten KOH, and optical microscopy revealed the geometrical structure of the stacking fault inside the epilayer. Also this fault started close to the episubstrate interface, expanded rapidly but changed geometry after some time and reduced in size during further growth. The optical spectrum from this fault is identical with the emission from the stacking faults previously only observed and formed in bipolar diodes during forward voltage operation.
+
+etching
+optical microscopy
+photoluminescence
+polishing
+semiconductor epitaxial layers
+semiconductor growth
+silicon compounds
+stacking faults
+wide band gap semiconductors

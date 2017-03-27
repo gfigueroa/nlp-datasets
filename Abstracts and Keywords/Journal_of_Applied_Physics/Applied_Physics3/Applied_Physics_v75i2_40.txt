@@ -1,0 +1,12 @@
+Admittance spectroscopy has been used to determine the value of the valenceband discontinuity in a ptype GaAs/Al0.3Ga0.7As multiplequantumwell system. The structures were multiple quantum wells grown by molecularbeam epitaxy on semiinsulating GaAs substrates. Three Bedoped (ptype) GaAs wells, 30, 35, and 40 Å wide, were used in these measurements. The barriers were undoped. Based on our measurements and a Fermilevel determination from an 8×8 envelope function approximation calculation of the valence electronic structure of the GaAs/AlGaAs system, the valenceband discontinuity, ”Ev, was found to be 0.165 eV. Using established relations, the bandgap difference in the GaAs/AlGaAs system ”Eg for xAl=0.3 was calculated to be 0.429 eV, which, together with the valenceband offset determined in this work, gives the ratio of the conductiontovalenceband offsets as 60:40. These values are in excellent agreement with those determined by capacitancevoltage profiling, thus confirming the utility of the admittance spectroscopic technique for determining the band discontinuities in bandgapengineered materials.
+
+QUANTUM WELLS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+DOPED MATERIALS
+BERYLLIUM ADDITIONS
+VALENCE BANDS
+PTYPE CONDUCTORS
+ENERGY GAP
+SPECTROSCOPY

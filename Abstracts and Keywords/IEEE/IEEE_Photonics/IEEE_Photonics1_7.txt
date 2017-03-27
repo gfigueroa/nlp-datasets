@@ -1,0 +1,6 @@
+The ways to improve the efficiency of light field transformations by dynamic holograms with the use of the frequency-nondegenerate multiwave-mixing schemes in linearly absorbing media are analyzed. The mechanism associated with the development of the fifth-order nonlinearities in pure and colored organic liquids due to the thermooptical coefficient nonlinearity as well as due to the temperature dependence of the solvent density and heat is established. Based on this mechanism, the recording of quadratic dynamic holograms with a diffraction efficiency of 20% is realized using the frequency-nondegenerate six-wave mixing scheme.
+
+dynamic holography
+multiwave mixing
+nonlinear susceptibilities
+thermal nonlinearity

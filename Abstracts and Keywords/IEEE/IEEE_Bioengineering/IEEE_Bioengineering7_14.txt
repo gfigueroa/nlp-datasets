@@ -1,0 +1,5 @@
+This paper employs machine learning techniques to develop models that predict gender based on the iris texture features. While there is a large body of research that explores biometrics as a means of verifying identity, there has been very little work done to determine if biometric measures can be used to determine specific human attributes. If it is possible to discover such attributes, they would be useful in situations where a biometric system fails to identify an individual that has not been enrolled, yet still needs to be identified. The iris was selected as the biometric to analyze for two major reasons: (1) quality methods have already been developed to segment and encode an iris image, (2) current iris encoding methods are conducive to selecting and extracting attributes from an iris texture and creating a meaningful feature vector.
+
+biometric
+gender classification
+iris

@@ -1,0 +1,8 @@
+We present a theoretical study of the spin-dependent scattering of electrons from screened attractive and repulsive impurities in III-V semiconductor quantum wells. The effective one-band Hamiltonian and the Rashba spinorbit interaction are used. We demonstrated that the asymmetry of the spin-dependent skew-scattering and side-jump effect can lead to a quite large spin-dependent (anomalous) Hall effect at zero magnetic field in all-semiconductor quantum well structures. Our theory predicts a measurable spin-dependent Hall angle that reaches about 2.5×103
+rad for a CdTe/InSb/CdTe quantum well with impurities doped in the center of the well. © 2004 American Institute of Physics. 
+
+semiconductor quantum wells
+III-V semiconductors
+spin-orbit interactions
+quantum Hall effect
+impurities

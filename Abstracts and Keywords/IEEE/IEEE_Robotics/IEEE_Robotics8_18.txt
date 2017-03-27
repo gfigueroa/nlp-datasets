@@ -1,0 +1,5 @@
+This paper addresses the problem of the development of optimal offering strategies by electricity producers in day-ahead energy auctions with step-wise energy offer format and transmission constraints. The producer energy offer optimization is formulated as a bi-level optimization problem, which is converted to a mathematical program with equilibrium constraints (MPEC). The producer MPEC is subsequently converted to a mixed integer linear program (MILP) using binary expansion of offer quantities and prices. The uncertainties under which the producer must develop his offering strategy are modeled. Test results on a small three-node, ten-unit test system address the effect of the transmission network on the producer strategic behavior in the day-ahead energy market.
+
+bidding strategies
+electricity market
+offering strategies

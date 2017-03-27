@@ -1,0 +1,5 @@
+This paper at first presents a novel approach to recognize characters, numbers or the signs under translation, scaling and rotation (TRS) from Civil Aerial Meteorological Maps by templates, which is based on a new class of moment invariants. Meanwhile, aiming to the important parameter (the range of orders for moment invariants) in it, we prove so that could decrease efficiently the errors brought by the absence or superabundance. Secondly, we propose a novel approach based on Multilevel Normalized Cross-Correlation Winner-Update Algorithm for Template-Matching. It represents efficiently, which is not only resolved the left problem in the moment approach that is filter of invariants, but also would guarantee efficiently the fast matching speed and reduce the cost of time, memory assisted by DGA data structure and Breath-First Search. The experimental results show significantly improving the performance, compared with other two traditional moment approaches: the Central Moment (Hu) and Complex Moment (Flusser) Method representations.
+
+Character Recognition
+Moment Invariants
+Template-Matching

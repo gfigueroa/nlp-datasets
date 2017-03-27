@@ -1,0 +1,5 @@
+ Although 3D virtual environments are designed to provide the user with an intuitive interface to view or manipulate highly complex data, current solutions are still not ideal. In order to make the interaction as natural as possible, metaphors are used to allow the users to apply their everyday knowledge in the generated environment. In literature, a lot of experiments can be found, describing new or improved metaphors. In our former work, we presented the &#145;Object In Hand&#146; metaphor [4], which addresses some problems regarding the access of objects and menus in a 3D world. Although the metaphor turned out to be very promising, the solution shifted the problem towards a selection problem. From the insights of our previous work, we believe the non-dominant hand can play a role in solving this problem. In this paper we formally compare three well-known selection metaphors and we will check their suitability to be carried out with the non-dominant hand in order to seamlessly integrate the most suitable selection metaphor within the &#145;Object In Hand&#146; metaphor.
+
+ 3D virtual Environments
+ Selection Metaphors
+ User&#146;s Experiment

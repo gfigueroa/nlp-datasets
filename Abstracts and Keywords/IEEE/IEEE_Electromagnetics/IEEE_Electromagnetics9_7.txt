@@ -1,0 +1,4 @@
+In this paper, we design and optimize 1X2, 1X4, 1X8, 1X16, and 1X32 optical power splitter based on Multimode Interference (MMI). A mathematical model is used to get accurate values of propagation constants and subsequently calculates the optimum value of coupler length of the MMI region, L<sub>MMI</sub>. The results are predicted by the mathematical model, which gives the optimum values of the device properties such as excess loss and imbalance.
+
+Multimode interference (MMI)
+optical power splitter

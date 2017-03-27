@@ -1,0 +1,8 @@
+The electrondensity distribution is determined in a laser tube that is formed by a hyperboloid of revolution and spherical end surfaces. Calculations are made assuming different symmetrical optical resonator configurations ranging from nearplanar to nearconfocal. The tube geometry is specified in terms of the optical resonator parameters: resonator length L, mirror radius of curvature, R, and optical spot size at the mirror surface. The active medium is assumed to be a lowtemperature, weakly ionized plasma. Schottky boundary conditions are assumed and the electron temperature is taken to be independent of position. The particlediffusion equation is solved using oblate spheroidal coordinates. The oblate spheroidal angular dependence (which in the cylindrical limit corresponds to the variation perpendicular to the axis of the cylinder) of the density is found to be that of a zeroorder Bessel function. The oblate spheroidal radial dependence (which in the cylindrical limit corresponds to the axial dependence) is obtained by means of numerical methods. Radial density profiles are calculated, assuming L=1.0 m, for various R/L ratios. The position Zp of the peak radial density is found to depend on the R/L ratio; as R/L decreases Zp is observed to move towards the end walls of the tube.
+
+GAS LASERS
+RESONATORS
+ELECTRON DENSITY
+DIFFUSION
+BOUNDARY CONDITIONS
+PERFORMANCE

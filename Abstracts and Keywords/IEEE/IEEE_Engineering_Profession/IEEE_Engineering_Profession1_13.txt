@@ -1,0 +1,6 @@
+Mining of confident patterns from the datasets with skewed support distributions is a very important problem in the pattern discovery field. A hyperclique pattern is presented as a new type of association pattern for mining such datasets, in which items are highly affiliated with each other. The maximal hyperclique pattern is a more compact representation of a group of hyperclique patterns. In this paper, we present a fast algorithm of mining maximal hyperclique pattern called hyperclique pattern growth (HCP-growth) based on frequent pattern tree (FP-tree). The algorithm adopts recursive mining method without any candidate generation and exploits many efficient pruning strategies. The experimental results demonstrate that our algorithm is more effective than the standard maximal hyperclique pattern mining algorithm, particularly for the large-scale datasets.
+
+FP-tree
+data mining
+hyperclique pattern
+pruning strategy

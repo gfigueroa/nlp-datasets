@@ -1,0 +1,12 @@
+Shockcompression experiments were performed on 50% by volume ceramicmetal mixtures of silicon carbide and copper at pressures of 1530 GPa. The objective of these experiments was to determine the hydrodynamic compressibility (dynamic pressurevolume response) of silicon carbide through shock measurements on the ceramicmetal composite and the application of analytic mixture theory. Compression states inferred for silicon carbide above 20 GPa appear consistent with hydrodynamic behavior and are in agreement with compression curves extrapolated from ultrasonic data. Dynamic strength or viscosity effects apparently complicate shock compression of the ceramicmetal composite at the lower shock pressures. Shock release experiments on the composites provide further highpressure equationofstate data for the ceramicmetal mixture.
+
+PRESSURE EFFECTS
+SILICON CARBIDES
+COPPER
+MIXTURES
+CERAMICS
+COMPRESSIBILITY
+SHOCK WAVES
+VERY HIGH PRESSURE
+HYDRODYNAMICS
+COMPOSITE MATERIALS

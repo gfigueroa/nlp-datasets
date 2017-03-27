@@ -1,0 +1,7 @@
+The photoinduced refractive index changes in polymeric and liquid crystalline materials containing photoisomerizable azo-dyes form a group of materials that could be exploited in optical switching. Depending on the type of linkage between the dye and the matrix and its physicochemical properties various magnitudes of refractive index changes An and response times Â¿ are observed. Here, we describe few polymeric systems showing high photoinduced birefringence up to 0.1 and DNA-CTMA biopolymer doped with disperse red (DR1) or disperse orange (DO3) azo-dyes showing responses as fast as 1 ms. By incorporation of metallic nanoparticles (15 nm gold) into the liquid crystalline matrix doped with DO3 we observed an enhancement of molecular reorientation due to plasmonic coupling with an electromagnetic torque. The preliminary results of optical Kerr effect measurements in the mentioned above systems are presented and briefly analyzed.
+
+azobenzenes
+molecular reorientation
+optical Kerr effect
+photochromic biopolymer
+plasmonic effects

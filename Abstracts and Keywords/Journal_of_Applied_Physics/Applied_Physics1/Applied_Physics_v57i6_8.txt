@@ -1,0 +1,15 @@
+The purpose of this paper is to examine hole injection into either the valence band of singlecrystal silicon or into the grainboundary levels of polycrystalline silicon from various oxidizing ions in solution. The results for single crystals did not follow the simple picture one gets from comparing the redox potentials to the position of the silicon valence band edge. It is concluded that the band edges are shifted up by a hydride layer on the silicon surface. A solution of ferric EDTA (ethylene diamine tetraacetic acid) and 1% HF did not exhibit injection into the valence band and was used to test for hole injection into grainboundary levels. This grainboundary injection was definitely observed but exhibited a marked time dependence (decay). This is best interpreted as a form of hydrogen passivation (by the cathodic injection of protons).
+
+ELECTRODES
+HOLES
+SILICON
+POLYCRYSTALS
+VALENCE BANDS
+GRAIN BOUNDARIES
+SILICON HYDROXIDES
+PASSIVATION
+SOLUTIONS
+OXIDATION
+REDOX REACTIONS
+ELECTROCHEMISTRY
+MONOCRYSTALS

@@ -1,0 +1,11 @@
+This article presents a method for investigating the diffusion of photocarriers in semiconductors by the analysis of phase shift between a temporally modulated illumination grating and its inducing photocurrent. Experiments on hydrogenated amorphous silicon prove that an accurate measurement of the diffusion length as well as an identification of ambipolar or nonambipolar diffusion can be acquired by using this technique. 	
+
+AMORPHOUS SEMICONDUCTORS
+SILICON
+PHOTOCONDUCTIVITY
+GRATINGS
+FREQUENCY DOMAIN ANALYSIS
+HYDROGEN ADDITIONS
+DIFFUSION LENGTH
+MEASURING METHODS
+MODULATION

@@ -1,0 +1,15 @@
+As part of a systematic study of the crystalfield (CF) potential in RCu2Si2 compounds (R=Ce, Pr, Nd, Tb, Ho, Er) using inelastic neutron scattering, the CF level scheme and potential in the antiferromagnet PrCu2Si2 both above and below TN has been determined. There have been recent speculations that the quadrupole moment of PrCu2Si2 has been quenched by the quadrupolar Kondo effect. Using the CF potential derived from the results, the quadrupole moment Q2 of PrCu2Si2 has been calculated and it has been compared to the other members of the RCu2Si2 series. The temperature dependence of the quadrupole moment of PrCu2Si2 is significantly weaker than all the other compounds, e.g., it is approximately five times smaller than in HoCu2Si2. Therefore, it is the CF potential which is responsible for quenching Q2 at low temperature rather than a quadrupolar Kondo effect. Furthermore, the CF Schottky contribution to C/T vs T2 is approximately linear above TN and explains the anomalously high linear term in the specific heat. However, the evolution of the CF potential across the rareearth series provides evidence of an enhanced hybridization contribution to the CF potential of PrCu2Si2, intermediate between the heavy fermion CeCu2Si2 and the other rareearth compounds.
+
+TERNARY COMPOUNDS
+ANTIFERROMAGNETIC MATERIALS
+PRASEODYMIUM COMPOUNDS
+COPPER COMPOUNDS
+SILICON COMPOUNDS
+F STATES
+ELECTRONIC STRUCTURE
+CRYSTAL FIELD
+QUADRUPOLE MOMENTS
+KONDO EFFECT
+INELASTIC SCATTERING
+NEUTRON BEAMS
+TEMPERATURE RANGE 00130065 K

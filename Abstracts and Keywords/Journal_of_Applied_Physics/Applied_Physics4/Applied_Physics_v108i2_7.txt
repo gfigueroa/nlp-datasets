@@ -1,0 +1,7 @@
+We report on the proof of photovoltaic activity of homojunction ZnTe solar cells in which n-ZnTe layers are fabricated by thermal diffusion of Al into p-ZnTe at several diffusion times to control the junction depth. An open circuit voltage of approximately 0.9 V was obtained under 1× sun AM1.5G condition in all solar cells, independent of diffusion times, while a short circuit current dropped down with increasing the diffusion time due to an increased light absorption in heavily defective Al-diffused layer. These fundamental results provide a basis for future development of intermediate band solar cells based on ZnTe materials.
+
+II-VI semiconductors
+photovoltaic cells
+solar cells
+thermal diffusion
+zinc compounds

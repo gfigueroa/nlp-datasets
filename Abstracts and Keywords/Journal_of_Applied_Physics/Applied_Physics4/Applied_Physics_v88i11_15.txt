@@ -1,0 +1,13 @@
+Sintered (1475
+°C/2 h) pellets of Ba(Zn1/3Ta2/3)O3 were annealed at temperatures ranging from 1550 to 1625
+°C/15 h and subsequently quenched into water. The degree of B-site order between the Zn and Ta cations was investigated using x-ray diffraction (XRD) and transmission electron microscopy (TEM). Samples quenched from 1575 to 1600
+°C exhibit the highest degree of order by XRD. Dark-field TEM images from these samples revealed 1:2, Zn:Ta, trigonal, ordered domains approximately 0.4 ¼m diam near grain boundaries but 100 nm in the grain interior. Samples annealed and quenched from 1625
+°C exhibited no ordered superlattice reflections by XRD. However, diffuse scatter along 111	 directions and fcc rather than trigonal ordered reflections were observed in electron diffraction patterns. Disordered samples were subsequently annealed at 1500
+°C/15 h (below the orderdisorder phase transition <1625
+°C) and ±S{hkl} superlattice reflections reappeared in XRD patterns demonstrating the reversibility of the phase transition. © 2000 American Institute of Physics. 
+
+barium compounds
+order-disorder transformations
+X-ray diffraction
+transmission electron microscopy
+grain boundaries

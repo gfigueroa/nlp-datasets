@@ -1,0 +1,6 @@
+This paper introduces an unsupervised method to acquire the lexical semantics of action verbs. The eventual goal of the presented method is allowing a robot to acquire language under realistic conditions. The method acquires lexical semantics by forming association sets that contain general perceptual symbols associated with a certain concept as well as perceptual symbols of the utterances of the name of a concept. The lexical semantics is learned with the help of a narrator who comments on what the robot sees. The technique works even if the narrator only occasionally comments on what the robot sees. The paper presents experimental results that show that the method can acquire the lexical semantics of action verbs while the robot is watching a human who performs actions and hearing a narration that only occasionally actually describes what the robot is currently seeing. A comparison with supervised learning algorithms shows that the method discussed in this paper outperforms other techniques.
+
+language acquisition
+lexical semantics
+perceptual symbol systems
+unsupervised learning

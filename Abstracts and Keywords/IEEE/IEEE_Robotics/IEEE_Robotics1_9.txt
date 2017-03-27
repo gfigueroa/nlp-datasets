@@ -1,0 +1,7 @@
+This paper presents a method taking advantage of medically available MRI (Magnetic Resonance Imaging) data to derive the kinematics of a knee joint. The bio-joint model is applied to the design of a compliant sensing mechanism with two examples. The first investigates the effect of materials and characteristic geometry of the compliant mechanism on the knee joint, while the second (utilizing the bio joint model as boundary conditions to measure the knee joint rotation and internal forces involved) provides a better understanding on the interaction between the human knee and compliant sensing mechanism. The results potentially help establish a new topic of accommodating human bio-joint variations and nature degrees-of-freedom movements in the design of an exoskeleton.
+
+compliant mechanism
+dynamic model
+exoskeleton
+flexible beam
+knee joint sensor

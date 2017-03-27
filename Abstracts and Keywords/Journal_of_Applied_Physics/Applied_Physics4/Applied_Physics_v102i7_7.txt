@@ -1,0 +1,8 @@
+Magnetoresistance and efficiency measurements of aluminum tris(8-hydroxyquinoline) (Alq3) based organic light emitting diode structures have been made as a function of magnetic field and Alq3 thickness. Both positive and negative magnetoresistances can be observed depending on the thickness of the Alq3 layer, the drive voltage, and the applied field. In all devices, large increases in device efficiency are observed. We suggest that the increase in device efficiency is due to conversion of triplet states into singlets through a hyperfine scale interaction. The changes in the magnetoresistance are a result of the reduction in the triplet concentration and operate either through the reduced role of free carrier trapping at triplet states or through the reduction in triplet dissociation at the cathode interface depending on the Alq3 thickness.
+
+aluminium compounds
+electron traps
+hyperfine interactions
+magnetoresistance
+organic light emitting diodes
+triplet state

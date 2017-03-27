@@ -1,0 +1,14 @@
+In a continuation of our earlier work with CuNiZn [J. Appl. Phys. 48, 3560 (1977)] and Cu1 wt.	% SnZn [J. Appl. Phys. 54, 6652 (1983)], the plastically deformed state of ternary CuMnZn alloy system (fcc) has been analyzed by xray diffraction method using detailed Fourier line profile analyses which take into account peak shift, peak asymmetry, and peak broadening of respective diffraction profiles. Quantitative estimation of intrinsic (±2), extrinsic (±3), and twin fault (	²) probabilities have been made. The results indicate, as in earlier cases, a greater presence of intrinsic stacking faults than the extrinsic type, and a total absence of deformation twins. Other microstructural parameters, namely domain size, rms strain, dislocation density, and stacking fault energy (pure copper) in the alloys have been estimated from analyses of peak broadening as adopted earlier. The results indicate that the addition of transitional solute manganese (130 wt.	%) fails to produce any significant change in the microstructural parameters for a fixed zinc concentration. However, for a fixed manganese concentration, the parameters vary gradually, similar to a binary system, with the increase of zinc concentration from 10 to 20 wt.	%.
+
+plasticity
+deformation
+microstructure
+dislocations
+domain structure
+grain density
+fcc lattices
+manganese alloys
+zinc alloys
+copper base alloys
+xray diffraction analysis
+cold working

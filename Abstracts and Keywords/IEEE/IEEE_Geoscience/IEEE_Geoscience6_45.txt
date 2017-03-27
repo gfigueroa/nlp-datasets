@@ -1,0 +1,6 @@
+In light of the recent shift towards multi-core processor designs, dynamic power-management techniques that were designed for single-core microprocessors must be augmented with larger chip-level control. In this paper, we explore the design-tradeoffs associated with CMP power management solutions in a full-system simulation environment. We show that global power management solutions outperform solutions that locally manage power per-core. We then show that global power management is most effective at finer granularities that allow it to adapt to changing workload behavior and thus conclude that on-chip hardware solutions for CMP power management are an important consideration for future CMP microprocessors.
+
+chip multi-processor
+dynamic voltage scaling
+fetch throttling
+power-aware

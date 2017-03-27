@@ -1,0 +1,11 @@
+Strong adhesion is shown to be achieved in the growth of smooth nanocrystalline diamond (NCD) thin films on silicon substrates at 600
+°C using biased enhanced growth in microwave plasma chemical vapor deposition. The strong adhesion is evident from the films sustaining compressive stress, which may be as high as 85 GPa. The substrates are bent spherically after deposition, however, films are not peeled off, in spite of having enormous in-plane stress. The strong adhesion may be a result of implanted carbon below the substrate surface with an optimized ion flux density in the initial stages of growth. The compressive stress in the films is shown to be generating from the graphitic and other nondiamond carbon impurities in the films. It was observed that the NCD grain size decreases with biasing hence increasing grain boundary area in the films accommodating more graphitic impurities, which in turn results in an increase in compressive stress in the films. © 2001 American Institute of Physics.
+
+diamond
+elemental semiconductors
+adhesion
+plasma CVD
+nanostructured materials
+plasma CVD coatings
+grain size
+grain boundaries

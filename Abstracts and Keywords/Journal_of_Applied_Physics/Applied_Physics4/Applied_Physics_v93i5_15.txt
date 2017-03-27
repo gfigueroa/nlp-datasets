@@ -1,0 +1,8 @@
+We report on the study of single biological cells with a confocal micro-Raman spectroscopy system that uses optical trapping and shifted excitation Raman difference technique. A tunable diode laser was used to capture a living cell in solution, confine it in the confocal excitation volume, and then excite the Raman scattering. The optical trapping allows us to lift the cell well off the cover plate so that the fluorescence interference from the plate can be effectively reduced. In order to further remove the interference of the fluorescence and stray light from the trapped cell, we employed a shifted excitation Raman difference technique with slightly tuned laser frequencies. With this system, high-quality Raman spectra were obtained from single optically trapped biological cells including E. coli bacteria, yeast cells, and red blood cells. A significant difference between control and heat-treated E. coli B cells was observed due to the denaturation of biomolecules. © 2003 American Institute of Physics. 
+
+biological techniques
+cellular biophysics
+Raman spectra
+radiation pressure
+microorganisms
+Raman spectroscopy

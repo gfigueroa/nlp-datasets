@@ -1,0 +1,8 @@
+Band-to-band Auger recombination in crystalline silicon is investigated by means of quasi-steady-state photoconductance measurements under intermediate- and high-injection conditions. The measurements reveal that the correlation of the charge carriers via Coulombic interaction has to be taken into account to accurately model the observed injection level and doping concentration dependence of the Auger recombination lifetime. A semi-empirical Coulomb-enhanced Auger recombination model is applied in order to simulate the experimental results theoretically. © 2000 American Institute of Physics. 
+
+Auger effect
+electron-hole recombination
+elemental semiconductors
+silicon
+photoconductivity
+carrier lifetime

@@ -1,0 +1,7 @@
+Femtosecond laser ablation of titanium has been studied via time-of-flight (TOF) and emission spectroscopy measurement. Laser pulses of 80 fs full width at half maximum at »=800
+nm were delivered by a Ti:sapphire femtosecond laser system. A vacuum chamber with a base pressure of 107
+Torr was built for ion TOF measurement. These ion TOF spectra were utilized to determine the velocity distribution of the ejected ions. While nanosecond laser ablation typically generates ions of tens of eV, femtosecond laser irradiation even at moderate energy densities were found to produce energetic ions with energies in the range of a few keV. Two ablation regimes, exhibiting different laser fluence dependence of the total ion yields, and the corresponding percentage of energetic ions and the crater depth, were identified and explained on the basis of the two-temperature model. Clean craters were observed by interferometric microscope measurements, indicating the advantages of and potential for applying femtosecond lasers to micromachining and advanced materials treatment. Emission spectroscopy and imaging have been carried out via a monochromator and an intensified CCD camera. Femtosecond laser-induced plumes were found to be much smaller and weaker in intensity than those induced by nanosecond laser pulses. © 2001 American Institute of Physics. 
+
+titanium
+laser ablation
+time of flight spectra

@@ -1,0 +1,6 @@
+Particle swarm optimization is used for the training of the action network and critic network of the adaptive dynamic programming approach. The typical structures of the adaptive dynamic programming and particle swarm optimization are adopted for comparison to other learning algorithms such as gradient descent method. Besides simulation on the balancing of a cart pole plant, a more complex plant pendulum robot (pendubot) is tested for the learning performance. Compared to traditional adaptive dynamic programming approaches, the proposed evolutionary learning strategy is verified as faster convergence and higher efficiency. Furthermore, the structure becomes simple because the plant model does not need to be identified beforehand
+
+adaptive dynamic programming
+particle swarm optimization
+pendubot
+pole balancing

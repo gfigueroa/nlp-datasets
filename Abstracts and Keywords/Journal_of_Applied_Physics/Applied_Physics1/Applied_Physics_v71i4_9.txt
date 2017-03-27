@@ -1,0 +1,9 @@
+Pressure dependence of the electrical conductivity of a range of polypyrrole samples doped to various levels is interpreted in terms of variablerange hopping theory. All samples are well described by a model that treats the density of localized states around the Fermi level as the pressuredependent commodity. The presumption of invariance of wavefunction inverse localization length is vindicated by samples with a range of mean hopping lengths all being described by a single statecompressibility term. This term is defined by the elastic constants of polypyrrole and measurements of macroscopic elasticity confirm the value deduced from the pressure dependence of conductivity versus temperature curves.
+
+ORGANIC SEMICONDUCTORS
+POLYMERS
+ELECTRIC CONDUCTIVITY
+PRESSURE DEPENDENCE
+HOPPING
+LOCALIZED STATES
+ELASTICITY

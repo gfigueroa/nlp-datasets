@@ -1,0 +1,6 @@
+Modern space missions equipped with SAR instruments provide high spatial resolution data. In such data features of urban objects, man-made structures, as well as natural targets can be identified. We propose a descriptive model based on the frequency spectra of the complex signal, that integrates the radiometric, geometric, and texture features, for scene and target indexing, to cope with the problem of large database queries and information retrieval. Considering the properties of the Spotlight imaging mode in particular, a phase correction algorithm is applied to the data, prior to feature extraction. The assignation of a particular scene to a certain class is done using a Bayesian Support Vector Machine classifier. The method allowed for the recognition of more than thirty targets and structures in the scenes.
+
+FFT
+High- Resolution SAR image classification
+SVM
+Spotlight mode

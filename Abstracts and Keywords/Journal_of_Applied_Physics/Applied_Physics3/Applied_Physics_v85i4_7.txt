@@ -1,0 +1,19 @@
+The hotside operating temperatures for many projected thermophotovoltaic (TPV) conversion system applications are approximately 1000
+°C, which sets an upper limit on the TPV diode band gap of 0.6 eV from efficiency and power density considerations. This band gap requirement has necessitated the development of new diode material systems never previously considered for energy generation. To date, InGaAsSb quaternary diodes grown lattice matched on GaSb substrates have achieved the highest performance. In this article we relate observed diode performance to electro-optical properties such as minority carrier lifetime, diffusion length, and mobility and provide initial links to microstructural properties. This analysis has bounded potential diode performance improvements. For the 0.53 eV InGaAsSb diodes used in this analysis (active layer doping is 2×1017
+cm3) the dark current density measured is 2×105
+A/cm2 versus a potential Auger and/or a radiative limit of 2×106
+A/cm2 (no photon recycling), and an absolute thermodynamic limit of 1.4×107
+A/cm2. These dark current limits are equivalent to open circuit voltage gains of 60 (20%) and 140 mV (45%), respectively. © 1999 American Institute of Physics.
+
+indium compounds
+gallium compounds
+gallium arsenide
+III-V semiconductors
+energy gap
+carrier lifetime
+minority carriers
+carrier mobility
+dark conductivity
+current density
+photodiodes
+thermophotovoltaic cells

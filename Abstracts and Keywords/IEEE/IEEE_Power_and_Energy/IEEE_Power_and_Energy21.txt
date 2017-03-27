@@ -1,0 +1,7 @@
+Centrifugal pumps are the most widely used ac-motor-driven pump systems mainly for water pumping applications. Due to increasing and varying load demand, voltage variation and unbalance is a reality and has to be dealt with carefully. Studies on motor-driven systems under conditions of voltage unbalance have either neglected or maintained constant magnitude of the rotational loss component and focused only on the motor performance while system side performances have not been discussed generally. This paper presents the experimental results of a three-phase induction motor-pump system subjected to voltage and load variations with a view to justify that knowledge of voltage and load variations are very much essential for better result analysis.
+
+Centrifugal pump
+complex voltage unbalance factor
+equal voltage unbalance
+overvoltage unbalance
+undervoltage unbalance

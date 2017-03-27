@@ -1,0 +1,10 @@
+We present a study of the effects of high and low energy neutron irradiation on CdTe and CdZnTe high resistivity detector grade material. The evolution of the defect states under increasing irradiation fluence has been monitored by means of photoinduced current transient spectroscopy analyses. Particular attention is placed on the comparison and correlation between the results from the two materials under the two different neutron irradiation energies. The behavior of the observed deep traps associated with defect states allowed us to attribute an origin to most of them and to understand the role they play in the charge carrier collection process and in the degradation of material spectroscopic capabilities. © 2003 American Institute of Physics. 
+
+cadmium compounds
+zinc compounds
+II-VI semiconductors
+semiconductor counters
+neutron effects
+OBIC
+photoconductivity
+deep levels

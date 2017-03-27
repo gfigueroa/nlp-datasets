@@ -1,0 +1,8 @@
+We investigate the problem of how to evaluate efficiently a collection of shortest path queries on massive graphs that are too big to fit in the main memory. To evaluate a shortest path query efficiently, we introduce two pruning algorithms. These algorithms differ on the extent of materialization of shortest path cost and on how the search space is pruned. By grouping shortest path queries properly, batch processing improves the performance of shortest path query evaluation. Extensive study is also done on fragment sizes, cache sizes and query types that we show that affect the performance of a disk-based shortest path algorithm. The performance and scalability of proposed techniques are evaluated with large road systems in the Eastern United States. To demonstrate that the proposed disk-based algorithms are viable, we show that their search times are significant better than that of main-memory Dijkstra's algorithm.
+
+Disk-based algorithms
+Graph algorithms
+Graph pruning
+Query evaluation and optimization
+Route queries
+Shortest path queries

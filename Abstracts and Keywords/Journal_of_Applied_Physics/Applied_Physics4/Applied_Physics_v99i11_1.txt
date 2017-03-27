@@ -1,0 +1,7 @@
+Triple-biprism electron interferometry has been developed to flexibly control all interference parameters, i.e., interference region (size and shape), fringe spacing, and fringe angle. Each filament electrode of the upper and middle electron biprisms is installed in the individual image planes of the objective and first magnifying lenses, respectively. One more filament electrode of the lower biprism is set between the crossover plane and image plane behind the second magnifying lens. The azimuth angle between the upper and middle filaments is set at 90°, and lower filament is set at about 45° for both of the above filaments. Among many possible optical setups, we chose the setup with the easiest and most flexible control of all the interference parameters through theoretical investigation and experimental confirmation. The interferometer was constructed in a 1×106V field emission electron microscope, and the overall performance was demonstrated and investigated experimentally.
+
+particle interferometry
+electrodes
+field emission electron microscopy
+optical prisms
+light interference

@@ -1,0 +1,6 @@
+Aiming at the problems of optimization design of propulsive mechanism and motion control for an amphibious robot capable of multimode motion, a kinematics model is established by Solidworks and imported into ADAMS to form a virtual prototype. An accurate simulation can facilitate designer find hidden errors and gain insights into the kinematics of an amphibious robot. The abilities of straight-going, turning and slope climbing on land are then fulfilled and tested in ADAMS. The concrete steps are also introduced, accompanied by the corresponding analyses. The simulation results are close to the truth and can reflect actual kinematic characteristic of amphibious robot, which confirms the validity of the model.
+
+ADAMS
+Amphibious robot
+kinematics modeling
+multi-mode

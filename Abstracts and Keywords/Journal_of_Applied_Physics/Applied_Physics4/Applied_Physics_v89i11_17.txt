@@ -1,0 +1,11 @@
+Er-related luminescence near 1.54 ¼m (<805 meV) is observed under below band gap excitation at 4.2 K in GaN:Er and GaN:Er,O implanted samples. The spectrum of the recovered damage samples is a multiline structure. So far, these lines are the sharpest ones reported for GaN. Well-resolved green and red luminescences are observed in implanted samples. The dependence of luminescence on the excitation energy as well as the influence of different nominal fluence and annealing conditions is discussed. Combining the results obtained from photoluminescence and Rutherford backscattering spectrometry, different lattice sites for the optical active Er-related centers are identified. © 2001 American Institute of Physics.
+
+oxygen
+erbium
+gallium compounds
+III-V semiconductors
+annealing
+photoluminescence
+Rutherford backscattering
+ion implantation
+impurity states

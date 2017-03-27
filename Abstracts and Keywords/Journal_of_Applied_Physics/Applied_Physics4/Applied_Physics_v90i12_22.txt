@@ -1,0 +1,11 @@
+The one-dimensional Schrödinger equation for an arbitrary potential with position-dependent mass is often solved by the transfer-matrix method. While the usual definition relates wave-function coefficients on two sides of an interface, this article presents an alternative approach, in which a propagation matrix evolves the wave function and its derivative between a pair of points. The formalism is developed without an a priori commitment to a breakdown of the potential into a series of flat, linear, or other types of segments. We obtain a Wick-expansion form for the matrix and also provide a geometrical interpretation based on the SL(2,R) group. Turning to a variably spaced discretized potential we show how this approach can be flexibly applied to any potential segments. We discuss explicitly the case of constant potential and the WentzelKramersBrillouin approximation, as well as the linear potential segment. For the latter, the obtained propagation matrix has definite advantages, from both speed and robustness standpoints. Applications to transport in the ballistic regime are discussed and explicit results are presented for a InPInGaAs junction. © 2001 American Institute of Physics. 
+
+Schrodinger equation
+matrix algebra
+wave functions
+WKB calculations
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor heterojunctions
+high field effects

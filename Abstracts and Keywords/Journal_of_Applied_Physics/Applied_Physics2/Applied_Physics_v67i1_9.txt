@@ -1,0 +1,14 @@
+The densityofstates around midgap g(E) of undoped amorphous silicon (aSi:H) has been determined by measuring the spacechargelimited photocurrent (SCLPC) of aSi:H Schottky diodes under blue light (»=450 nm) illumination. In this novel technique, a single type of photogenerated carrier is utilized as the source of space charge to dispense with highly doped layers required in the conventional spacechargelimited current (SCLC) technique. Conditions for the uniform formation of space charge are discussed and checked by the satisfaction of a scaling law for samples with different thicknesses. The g(E) deduced from the SCLPC is found to be similar to that from the SCLC technique.
+
+SILICON
+AMORPHOUS STATE
+ENERGY GAP
+ENERGYLEVEL DENSITY
+PHOTOCURRENTS
+SPACE CHARGE
+SILANES
+SCHOTTKY BARRIER DIODES
+CHARGE CARRIERS
+SCALING LAWS
+IV CHARACTERISTIC
+HOLES

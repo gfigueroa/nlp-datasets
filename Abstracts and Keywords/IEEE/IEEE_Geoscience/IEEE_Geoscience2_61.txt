@@ -1,0 +1,7 @@
+Based on analysis of the conventional speech signal identical algorithm, an improved algorithm for the speaker recognition is introduced. It is a method based on the probabilistic neural network (PNN), which uses Mel Frequency Ceptral Coefficients(MFCC) as human sound feature parameters. The experiment has shown the high accuracy of the proposed algorithm in the classification of training samples and testing samples. The experiment results also validate the effectiveness of the method.
+
+Feature abstraction
+MFCCs
+PNN
+Speaker recognition
+Speech identification

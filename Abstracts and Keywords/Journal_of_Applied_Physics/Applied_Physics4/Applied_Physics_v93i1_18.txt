@@ -1,0 +1,12 @@
+GaAs/AlxGa(1x)As quantum well lasers have been demonstrated via organometallic chemical vapor deposition on relaxed graded Ge/GexSi(1x) virtual substrates on Si. A number of GaAs/Ge/Si integration issues including Ge autodoping behavior in GaAs, reduced critical thickness due to thermal expansion mismatch, and complications with mirror facet cleaving have been overcome. Despite unoptimized laser structures with high series resistance and large threshold current densities, surface threading dislocation densities for GaAs/AlGaAs lasers on Si substrates as low as 2×106	cm2 permitted continuous room-temperature lasing at a wavelength of 858 nm. The laser structures are uncoated edge-emitting broad-area devices with differential quantum efficiencies of 0.24 and threshold current densities of 577 A/cm2. Identical devices grown on commercial GaAs substrates showed similar behavior. This comparative data agrees with previous measurements of near-bulk minority carrier lifetimes in GaAs grown on Ge/GeSi/Si substrates. © 2003 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+quantum well lasers
+integrated optoelectronics
+MOCVD
+current density
+dislocation density
+semiconductor quantum wells
+III-V semiconductors
+stress relaxation

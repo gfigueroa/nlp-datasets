@@ -1,0 +1,6 @@
+This paper describes our work on improving interaction between humans and mobile robots on navigation tasks. To represent and reason about humans' route instructions, a user-centered qualitative spatial model- the Conceptual Route Graph - is introduced. Three reasoning strategies based on this conceptual model are discussed, which enable a mobile robot to generate different clarification responses if spatial mismatches are detected in route instructions. Moreover, results of an empirical study to evaluate and compare their effects on people's navigation activities are presented.
+
+human-robot interaction
+mode confusion
+qualitative spatial representation and reasoning
+user focus

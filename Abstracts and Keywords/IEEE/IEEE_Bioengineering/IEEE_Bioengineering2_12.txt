@@ -1,0 +1,6 @@
+Wireless sensor network applications in healthcare and biomedical technology have received increasing attention, while associated security and privacy issues remain open areas of consideration. The relevance of this technology to our growing elderly population, as well as our increasingly over-crowded and attention-drained healthcare systems, is promising. However, prior to the emergence of these systems as a ubiquitous technology, healthcare providers and regulatory agencies must determine an acceptable level of security and privacy. This paper will review biomedical applications of wireless sensor networks, identify security and privacy issues to be addressed, and note some of the proposed methods for securing these systems.
+
+Biomedical Applications of Sensor Networks
+Body Area Networks
+WSN
+Wireless Sensor Networks

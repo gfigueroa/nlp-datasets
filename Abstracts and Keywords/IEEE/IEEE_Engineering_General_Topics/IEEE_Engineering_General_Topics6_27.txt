@@ -1,0 +1,6 @@
+In order to build a more compact, simple, mobile and reliable vision measurement system in plant physiological parameter measurement, we choose the smart camera and infrared light source as the principle components. The hardware architecture of smart camera and the software development process is described. An example of leaf area measurement algorithm is shown which include camera calibration section to establish the spatial relationship between leaf and camera. Special initialized a snake active contour is able to separate the leaf boundary from its petiole. With the extrinsic parameters and contour of leaf we can calculate the real area of leaf. Similarly, other useful plant physiological parameters such as the diameter of fruit, height of plant could be achieved with this system.
+
+area measurement
+computer vision
+physiological parameter measurement
+smart camera

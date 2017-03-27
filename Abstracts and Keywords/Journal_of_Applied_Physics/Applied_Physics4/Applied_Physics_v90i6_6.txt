@@ -1,0 +1,12 @@
+ZrO2 is investigated in this work to replace SiO2 as the dielectric material in metaloxidemetal capacitors in dynamic random access memory (DRAM) devices for its high dielectric constant, good thermal stability, excellent conformality, and large band gap. ZrO2 films were deposited on planar Si (100) wafers and patterned amorphous silicon cylinders by rapid thermal chemical vapor deposition process using a zirconium (IV) t-butoxide Zr(OC4H9)4 precursor and oxygen. At substrate temperature below 300
+°C, no significant deposition was observed. At temperatures between 300 and 400
+°C, the reaction is thermally activated with an activation energy of 29 kcal/mol, consistent with a ²-hydride elimination mechanism leading to ZrO2 deposition. In this regime, one atomic layer of ZrO2 can be deposited after each alternating exposure to the precursor and oxygen, ideal for achieving conformal coverage of ZrO2 over high aspect ratio features. At temperatures above 400
+°C, the deposition rate is less sensitive to temperature with an apparent activation energy of 4 kcal/mol due to decomposition and desorption of the precursors. Stoichiometric, uniform, and amorphous ZrO2 was obtained at all temperatures investigated. Highly conformal step coverage of the deposited ZrO2 was achieved on 300 nm×600 nm cylindrical features with an aspect ratio of 4. The dielectric constant of ZrO2 achieved in this work ranges from 15 to 18 depending upon process conditions and small capacitancevoltage hysteresis is observed, ideal for DRAM application. © 2001 American Institute of Physics.
+
+thermal stability
+zinc compounds
+insulating thin films
+DRAM chips
+MIM devices
+thin film capacitors
+chemical vapour deposition

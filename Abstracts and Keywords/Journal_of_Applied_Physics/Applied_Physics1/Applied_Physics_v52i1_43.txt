@@ -1,0 +1,14 @@
+We develop a model for states and charges at the SiSiO2 interface based on the expected existence at this interface of threefold coordinated Si atoms, strained SiSi bonds, etc. The associated electronic states are studied by using a generalized bond orbital approximation (supplemented in some cases by multiband cluster Bethe lattice calculations), where the various configurations ofinterest are allowed to relax in order to minimize the energy of the system. It is shown that the reconstructing character of interface states so obtained has a number of interesting experimental implications, and in particular it is found that by including reconstruction effects one is able to understand and in some cases correlate many different experimental results. Among others, these include some observed metaloxidesemiconductor device instabilities, the dependence of the interface density of states on the conductivity type of the semiconductor substrate, and the amphoteric character of interface states.
+
+INTERFACES
+ENERGY LEVELS
+MATHEMATICAL MODELS
+SILICON
+SILICON OXIDES
+COMPARATIVE EVALUATIONS
+THEORETICAL DATA
+BINDING ENERGY
+ELECTRONIC STRUCTURE
+CORRELATIONS
+SEMICONDUCTOR MATERIALS
+MOS TRANSISTORS

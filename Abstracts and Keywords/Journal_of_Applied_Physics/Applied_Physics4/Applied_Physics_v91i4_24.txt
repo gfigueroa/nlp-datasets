@@ -1,0 +1,12 @@
+Low-temperature (1.8 K) magneto-optical reflectivity spectroscopy together with derivative operation has been employed in evaluating the reduced effective mass and exciton binding energy in GaxIn1xP/AlGaInP quantum wells (QWs). Low uncertainty of the method in identifying excitonic transition energy (}0.3 meV) enables a simultaneous determination of both the heavy-hole (hh) and light-hole (lh) excitons in the QWs with ordering. The obtained effective masses manifest to be ordering-dependent, the dependence of which is compared with that reported for the GaInP2 bulk material. Results from the lattice-matched QWs suggest that the magnetic-field enhancement of the oscillator strength is stronger for the hh exciton than for the lh exciton. © 2002 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+effective mass
+excitons
+binding energy
+magnetoreflectance
+oscillator strengths

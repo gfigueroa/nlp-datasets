@@ -1,0 +1,8 @@
+The dispersion relation and convergence of a novel (2,2) modified finite-difference time-domain (MFDTD) method, which has fourth order convergence and excellent broadband characteristics, are presented. Accuracy of MFDTD is compared with that of standard FDTD and Fang (4,4) FDTD. The Convergence characteristics of the MFDTD and the FDTD are also furnished. We have presented MFDTD in 2-D in CEM-TD 2005. Here we extend MFDTD to 3-D.
+
+Broadband schemes
+FDTD methods
+convergence of numerical methods
+dispersion
+hexahedral mesh
+modified finite difference methods

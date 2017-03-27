@@ -1,0 +1,9 @@
+We apply the standard photovoltaic technique of texturing to reduce the reflectivity of silicon cryogenic calorimetric light detectors. In the case of photons with random incidence angles, absorption is compatible with the increase in surface area. For the geometrically thin detectors studied, energy resolution from athermal phonons, dominated by position dependence, is proportional to the surface-to-volume ratio. With the CaWO4 scintillating crystal used as light source, the time constants of the calorimeter should be adapted to the relatively slow light-emission times. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+photodetectors
+texture
+reflectivity
+calcium compounds
+scintillation

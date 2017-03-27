@@ -1,0 +1,20 @@
+The recombination reaction NF2+F+M’NF3+M has been investigated theoretically using a RRKM approach. Adequate agreement is found with the available association and decomposition data in low pressures of He or Ar. The recombination in 4 atm of Ne is calculated to be much slower than would be expected from extrapolation of the lowpressure, threebody rate constant. In particular, little recombination should occur during a discharge or electronbeam laser excitation pulse (r1 ¼s), but reformation of NF3 should be the dominant loss mechanism for F and NF2. The theoretical techniques used here should be equally applicable to other important recombination processes in laser media.
+
+GAS LASERS
+RECOMBINATION
+MOLECULES
+NITROGEN FLUORIDES
+FLUORINE
+NEON
+MATHEMATICAL MODELS
+THEORETICAL DATA
+CHEMICAL REACTIONS
+COMPARATIVE EVALUATIONS
+DATA
+MEDIUM PRESSURE
+HELIUM
+ARGON
+THREEBODY PROBLEM
+ELECTRICAL DISCHARGES
+ELECTRON BEAMS
+PULSES

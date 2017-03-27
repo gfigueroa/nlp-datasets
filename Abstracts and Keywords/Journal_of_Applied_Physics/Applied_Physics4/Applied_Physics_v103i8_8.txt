@@ -1,0 +1,5 @@
+The effects of the photonic band structure on the radiation from a dipole moment placed within photonic crystal (PC) slabs are investigated. Radiation above the slab surface and coupling with the slabs propagating mode are calculated for frequencies above and below the light line of air cladding. The strongly enhanced emission from the surface and coupling with propagating modes and its polarization vector dependence are explained in terms of the photonic band of the PC slab structures. The emitted electromagnetic field is mainly extracted through coupling with the leaky modes of PC slabs.
+
+photonic band gap
+photonic crystals
+slabs

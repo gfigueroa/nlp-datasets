@@ -1,0 +1,7 @@
+We consider in this paper a synchronous dataflow (SDF) scheduling problem in the context of a multimedia real-time application. A SDF is in our context a chain of non-preemptive processing tasks in charge of the treatment of multimedia data blocks, denoted tokens. SDF has been wildly used in DSP (digital signal processor) design environments over the past ten years. The application relies on source, processing and sink tasks. A source task produces tokens, processing tasks process the tokens from the source down to the sink task, and a sink task consumes the tokens. Source, processing and sink tasks are executed in three different processors. As a function of the underlying hardware used to retrieve or store tokens (hard-disk or hardware machine), source and sink tasks can be periodic real-time tasks or not. Each task has an input and an output buffer filled with tokens. This model is typically used in embedded multimedia applications. We propose, in this paper, a solution to optimize both the latency of the application in charge of the treatment of the tokens and the input/output buffers used to store the tokens. We establish a necessary and sufficient condition for the feasibility of a SDF chain. We then validate our results onto a multimedia system simulator of the ST Nomadikreg platform.
+
+Data memory
+Latency
+Multimedia application
+Real-Time Dimensioning
+Synchronous Data FLow

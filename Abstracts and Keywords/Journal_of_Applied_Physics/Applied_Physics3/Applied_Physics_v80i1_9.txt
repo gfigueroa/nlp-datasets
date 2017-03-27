@@ -1,0 +1,11 @@
+A new way is presented for deriving spacecharge dynamics and transport parameters in thin films sandwiched between two metallic electrodes. The measurement method uses the detection of electroluminescence excited by square voltage pulses. The spacecharge buildup time is derived from the electroluminescence time lag when the structure is excited by a single square voltage pulse. The relaxation time of the space charge is investigated by using a double pulse excitation. Carrier mobility is determined by an optical transittime technique. Measurements are carried out on hydrogenated amorphous carbon layers with different composition and electrical properties. The films display spacecharge limited conduction which is due to the existence of trap states. Their concentration is derived from the currentvoltage characteristics and the mobility measurements. The trap concentration increases with a decreasing graphite content in the films. Film properties are weakly temperature dependent in graphiterich layers as opposed to the behavior of layers with a lower graphite concentration. In this later case, the structural features of the films change at low temperature as suggested by the evolution of the trap concentration which decreases by three orders of magnitude, going from an exponential to a uniform distribution. © 1996 American Institute of Physics. 
+
+CARBON
+THIN FILMS
+HYDROGENATION
+SPACE CHARGES
+ELECTRIC CONDUCTIVITY
+ELECTROLUMINESCENCE
+RELAXATION TIME
+CV CHARACTERISTIC
+TEMPERATURE DEPENDENCE

@@ -1,0 +1,8 @@
+Hyperspectral image data with sub-centimeter spatial resolution acquired by a low-altitude imaging system provided us valuable insight for the biochemistry. However, it is rather difficult to utilize the spatially detailed information because of the spectral fluctuation caused by the structural factor, e.g. BRDF, specular components, shading. This paper provides a statistical method for the estimation of growth levels in rice paddy based on hyperspectral image data with spatially high resolution. The extraction of vegetation regions under direct sun is followed by gaussian mixture modeling to separate different parts in the vegetation regions, e.g. leaves and ears in rice paddy. BRDF characteristics of specular components are utilized for simple specular component removal from the vegetation regions. The extracted spectral data are mapped to a feature space spanned by scaling factor-tolerant vegetation indices. Principal component analysis (PCA) with order constraint is used to generate indices which quantify growth levels of 5 paddy fields with different planting dates.
+
+BRDF
+gaussian mixture models
+growth level
+high spatial resolution
+order constraint
+specular component removal

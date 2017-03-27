@@ -1,0 +1,6 @@
+Persistent layer-by-layer removal of Au(111) during Ar+ ion irradiation was observed in a real-time x-ray scattering study. Over 100 specular beam intensity oscillations were measured. For a given ion energy, a smoother surface morphology is obtained when the ion flux is reduced. For a fixed erosion rate, ion energy in the range of 70500 eV does not have a strong influence on the evolution of surface morphology. Diffuse scattering measurements show the development of features with a characteristic lateral length scale on the surface during ion irradiation. © 2000 American Institute of Physics. 
+
+gold
+sputtering
+ion-surface impact
+surface topography

@@ -1,0 +1,7 @@
+Wireless networks have grown rapidly and more becoming part of our life, due to its advantages over the wired network, such as convenience, mobility, and flexibility. However the security concerns in wireless networks might have prevented its further widespread adoption. One of the solutions to overcome the wireless network security concerns is the IEEE 802.1X specification, a mechanism for port-based network access control, which is based on extensible authentication protocol (EAP), an authentication framework that can support multiple authentication methods. This paper proposed a design for an extension to the EAP framework for EAP authentication method selection purpose. The design then can be used to develop a simulation model of the EAP method selection mechanism.
+
+authentication
+design
+extensible authentication protocol (EAP)
+modeling
+simulation

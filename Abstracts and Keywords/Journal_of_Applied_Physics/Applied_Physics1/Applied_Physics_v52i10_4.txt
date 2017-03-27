@@ -1,0 +1,20 @@
+InGaAsP/InP 1.3¼m laser material grown by liquidphase epitaxy occasionally exhibits an anomalous xray diffraction pattern and may also have a high threshold current density. The origin of this effect is shown to be the contamination of the normal ptype InP cladding layer with Ga and As. A typical composition of this quaternary cladding layer is determined, and secondaryion massspectrometry analyses are used to show the contamination is most likely caused by pullover from the previous melt.
+
+SEMICONDUCTOR LASERS
+SEMICONDUCTOR MATERIALS
+MELTING
+LIQUIDS
+EPITAXY
+CRYSTAL GROWTH
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+GALLIUM ARSENIDES
+GALLIUM PHOSPHIDES
+DATA
+XRAY DIFFRACTION
+CURRENT DENSITY
+PTYPE CONDUCTORS
+LAYERS
+IMPURITIES
+MASS SPECTROSCOPY
+SECONDARY EMISSION

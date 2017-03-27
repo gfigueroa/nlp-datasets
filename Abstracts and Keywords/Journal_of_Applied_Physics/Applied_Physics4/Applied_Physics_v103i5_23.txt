@@ -1,0 +1,6 @@
+The available work (exergy) of thermal radiation is derived ab initio by using a simple statistical thermodynamic approach. A general upper bound for the efficiency of thermal radiation conversion into work is derived. This efficiency is different from the Carnot efficiency and generalizes the Petela efficiencylike factor appearing in the available work of blackbody radiation. The maximum efficiencies of photothermal and photovoltaic conversions, are particular cases of this general result. One proves by using available work considerations that the maximum efficiency of photothermal conversion is higher than the maximum efficiency of photovoltaic conversion.
+
+ab initio calculations
+blackbody radiation
+photothermal conversion
+thermodynamics

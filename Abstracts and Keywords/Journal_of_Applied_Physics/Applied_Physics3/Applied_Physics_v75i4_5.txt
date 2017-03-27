@@ -1,0 +1,13 @@
+Schrödingers and Poissons equations have been selfconsistently solved in the Hartree approximation in order to study the behavior of electron inversion layers in the cubic form of silicon carbide. The major crystalline orientations have been investigated in a large temperature range. Owing to the specific ratio between the longitudinal and transverse effective masses, it is shown that quantization as well as the subband occupation may differ from the case of silicon in a noticeable way, depending on temperature or electron density: Even for rather low electron concentrations, several subbands could be occupied at very low temperature and for (100) orientation. In addition, the average penetration depth of the inversion layer is always lower than that of silicon at room temperature, which could result in increased surface roughness scattering.
+
+SILICON CARBIDES
+INVERSION LAYERS
+SELFCONSISTENT FIELD
+SCHROEDINGER EQUATION
+POISSON EQUATION
+CUBIC LATTICES
+HARTREEFOCK METHOD
+TEMPERATURE DEPENDENCE
+BAND STRUCTURE
+CRYSTAL FACES
+PENETRATION DEPTH

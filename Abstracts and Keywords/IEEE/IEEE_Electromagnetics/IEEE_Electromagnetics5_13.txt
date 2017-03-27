@@ -1,0 +1,7 @@
+An unmanned aerial vehicle (UAV) electronic support payload (ESP) has been developed for the purpose of detecting and analyzing radar signals. The airborne payload control system (PCS) must be controlled from a ground control station (GCS) remotely through a wireless link. For the purpose, a control program, called Radar Signal Acquisition System (RSAS), has been designed, implemented and integrated with ESP. This paper introduces the ESP system, provides an overview of the general acquisition process, gives details on the RSAS and wireless link implementation using the Matlab scripting language, and finally presents some test results.
+
+Electronic Support Payload
+Ground Control Station
+Remote Sensing
+Unmanned Aerial Vehicle
+Wireless Data Link

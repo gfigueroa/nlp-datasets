@@ -1,0 +1,8 @@
+Electrospinning is a method to produce polymer fibers from solution with diameters ranging from 100 to 500 nm. Pure Polyurethane was electrospun from solution to produce an isotropic fiber mat. The mechanical behavior such as stress-strain curve and maximum load during fracture of the mat was characterized by uniaxial tensile tests. Scanning electron microscopy was used to characterize the electrospun material. Finite Element Analysis method is utilized to simulate stress distribution. The experimental result shows that the maximum load increases when the thickness increases.
+
+Electrospinning
+FEA analysis
+mechanical properties
+nanofibers
+polyurethane
+tensile testing

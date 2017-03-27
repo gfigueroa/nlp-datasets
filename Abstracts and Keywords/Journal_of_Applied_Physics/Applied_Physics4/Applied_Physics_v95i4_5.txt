@@ -1,0 +1,13 @@
+A contacted electroreflectance technique was used to investigate AlGaN/GaN heterostructures and their intrinsic electric field-induced properties. By studying variations in the electroreflectance with applied field, spectral features associated with the AlGaN barrier, the two-dimensional electron gas at the interface, and bulk GaN were identified. Barrier-layer composition and electric field were determined from the AlGaN FranzKeldysh oscillations. For a high mobility heterostructure grown on SiC, measured AlGaN polarization electric field and two-dimensional electron gas density approached values predicted by a standard bandstructure model. The two-dimensional electron gas produced a broad, field-tunable first derivative electroreflectance feature. With a dielectric function calculation, we describe the line shape and relative amplitude of the two-dimensional electron gas electroreflectance feature for a wide range of electron density and applied field values. © 2004 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+semiconductor heterojunctions
+two-dimensional electron gas
+electron density
+electroreflectance
+dielectric function
+spectral line breadth
+Hall mobility
+conduction bands

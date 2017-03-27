@@ -1,0 +1,13 @@
+The structural and optical properties of GaAs-based 1.3 ¼m InAs/InGaAs dots-in-a-well (DWELL) structures have been optimized in terms of different InGaAs and GaAs growth rates, the amount of InAs deposited, and In composition of the InGaAs quantum well (QW). An improvement in the optical efficiency is obtained by increasing the growth rate of the InGaAs and GaAs layers. A transition from small quantum dots (QDs), with a high density (<5.3×1010
+cm2) and broad size distribution, to larger quantum dots with a low dot density (<3.6×1010
+cm2) and narrow size distribution, occurs as the InAs coverage is increased from 2.6 to 2.9 monolayers. The room-temperature optical properties also improve with increased InAs coverage. A strong dependence of the QD density and the QD emission wavelength on the In composition of InGaAs well has been observed. By investigating the dependence of the dot density and the high-to-width ratio of InAs islands on the matrix of InGaAs strained buffer layer (SBL), we show that the increasing additional material from wetting layer and InGaAs layer into dots and the decreasing repulsive strain field between neighboring islands within substrate are responsible for improving QD density with increasing In composition in InGaAs SBL. The optical efficiency is sharply degraded when the InGaAs QW In composition is increased from 0.15 to 0.2. These results suggest that the optimum QW composition for 1.3 ¼m applications is <15%. Our optimum structure exhibits a room temperature emission of 1.32 ¼m with a linewidth of 27 meV. © 2003 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+semiconductor quantum dots
+molecular beam epitaxial growth
+III-V semiconductors
+photoluminescence
+semiconductor growth
+atomic force microscopy
+island structure

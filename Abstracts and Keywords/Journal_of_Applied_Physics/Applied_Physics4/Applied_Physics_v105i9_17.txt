@@ -1,0 +1,8 @@
+By performing quasidimensional computer simulations and finite-time thermodynamic analysis we study the effect of spark advance, fuel ratio, and cylinder internal wall temperature in spark ignition engines. We analyze the effect of these parameters on the power output and efficiency of the engine at any rotational speed, É. Moreover, we propose the optimal dependence on É of the spark advance angle and the fuel ratio with the objective to get maximum efficiency for any fixed power requirement. The importance of engine power-efficiency curves in order to perform this optimization procedure and also of the evaluation of macroscopic work losses in order to understand the physical basis of the optimization process is stressed. Taking as reference results from simulations with constant standard values of spark advance, fuel ratio, and cylinder internal wall temperature, the optimized parameters yield to substantial increases in engine performance parameters.
+
+digital simulation
+electric ignition
+engines
+mechanical engineering computing
+sparks
+thermodynamics

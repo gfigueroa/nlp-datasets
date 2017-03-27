@@ -1,0 +1,11 @@
+We provide evidence of phase separation in La0.45Sr0.55MnO3´ using electron spin resonance, magnetic force microscopy (MFM), x-ray diffraction, and magnetic and transport measurements. The results reveal that ferromagnetic and antiferromagnetic phase coexist at low temperature and that ferromagnetic and paramagnetic phases coexist in the temperature range between the Néel and the Curie temperature. Moreover, the size and shape of ferromagnetic phase (the minority phase) in the sample were observed directly by MFM. From these results, we infer an electroneutral type phase separation, possibly resulting from a nonuniform distribution of oxygen vacancies, as opposed to charge segregation. © 2002 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+colossal magnetoresistance
+phase separation
+paramagnetic resonance
+magnetic force microscopy
+X-ray diffraction
+magnetic transitions
+vacancies (crystal)

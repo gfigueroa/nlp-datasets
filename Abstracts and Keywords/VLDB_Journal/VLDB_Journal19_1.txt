@@ -1,0 +1,7 @@
+Social bookmarking enables knowledge sharing and efficient discovery on the web, where users can collaborate together by tagging documents of interests. A lot of attention was given lately for utilizing social bookmarking data to enhance traditional IR tasks. Yet, much less attention was given to the problem of estimating the effectiveness of an individual bookmark for the specific tasks. In this work, we propose a novel framework for social bookmark weighting which allows us to estimate the effectiveness of each of the bookmarks individually for several IR tasks. We show that by weighting bookmarks according to their estimated quality, we can significantly improve social search effectiveness. We further demonstrate that using the same framework, we can derive solutions to several recommendation tasks such as tag recommendation, user recommendation, and document recommendation. Empirical evaluation on real data gathered from two large bookmarking systems demonstrates the effectiveness of the new social bookmark weighting framework.
+
+Algorithms
+Experimentation
+Bookmarks
+Tagging
+Social bookmarking

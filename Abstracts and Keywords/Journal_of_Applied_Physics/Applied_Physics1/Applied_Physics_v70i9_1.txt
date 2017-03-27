@@ -1,0 +1,12 @@
+We have investigated the properties of Zn diffusion in the In0.53Ga0.47As/In0.52Al0.48As superlattice and have made optical guides delineated by Zninduced layer disordering in the multilayers. Measurements on the singlemode waveguides show loses as low as 2.3 dB/cm including coupling loss.
+
+ZINC
+DIFFUSION
+WAVEGUIDES
+SUPERLATTICES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+QUASIBINARY COMPOUNDS
+ENERGY LOSSES
+OPTICAL MODES

@@ -1,0 +1,14 @@
+The open-circuit voltage (VOC) of bulk-heterojunction solar cells based on [6,6]-phenyl C61-butyric acid methyl ester (PCBM) as electron acceptor and poly[2-methoxy-5(32,72-dimethyloctyloxy)-p-phenylene vinylene] (OC1C10-PPV) as an electron donor has been investigated. In contrast to the present understanding, it is now demonstrated that for non-ohmic contacts the experimental VOC is determined by the work function difference of the electrodes. A total variation of more than 0.5 V of the VOC was observed by variation of the negative electrode (cathode) work function. For ohmic contacts the VOC is governed by the LUMO and HOMO levels of the acceptor and donor, respectively, which pin the Fermi levels of the cathode and anode. The band bending created by accumulated charges at an ohmic contact produce a considerable loss in VOC of 0.2 V at room temperature. The experimentally observed voltage loss in VOC of 0.38 V due to the presence of ohmic contacts at both interfaces strongly limits the maximum open-circuit voltage of OC1C10-PPV/PCBM solar cells. © 2003 American Institute of Physics. 
+
+conducting polymers
+organic semiconductors
+fullerene compounds
+cathodes
+solar cells
+fullerene devices
+semiconductor heterojunctions
+ohmic contacts
+work function
+Fermi level
+interface states
+semiconductor device measurement

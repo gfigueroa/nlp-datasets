@@ -1,0 +1,13 @@
+One-dimensional arrays of nanoparticles of silver and copper, respectively, have been grown within a silicate glass by an electrodeposition process. Silversilica nanocomposites were prepared using a melt quenched glass whereas solgel derived glass was used for the synthesis of coppersilica nanocomposites. The metal particle diameters had values ranging from 1.5 to 20 nm. The composite structures exhibited a diodelike currentvoltage characteristic in the temperature range 300 to 160 K for silver containing nanocomposites and at around 280 K for copper containing nanocomposites. The diode action is believed to be caused by the presence of metalsemiconductor nanojunctions in these glassthe typical number of such junctions being 60. The rather narrow range of temperature for diode action as observed in coppersilica nanocomposites is ascribed to the easy breakup of the metal nanoarrays because of the solgel derived medium of silica glass in which the metal phase was grown. The metal particles of diameter <2 nm constituted the semiconducting phase in these nanojunctions. © 2003 American Institute of Physics. 
+
+silver
+copper
+nanoparticles
+nanocomposites
+electrodeposition
+particle size
+nanocontacts
+semiconductor-metal boundaries
+particle reinforced composites
+quenching (thermal)
+sol-gel processing

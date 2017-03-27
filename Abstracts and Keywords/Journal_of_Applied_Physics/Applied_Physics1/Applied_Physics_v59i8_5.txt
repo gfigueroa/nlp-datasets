@@ -1,0 +1,10 @@
+A set of semiinsulating bulk GaAs samples of various specifications and origins has been studied under illumination conditions proper to reveal quenchable paramagnetic signals behaving like the metastable electrical defect EL2. Whereas Inalloyed crystals are almost free of any defect, all other materials display photosensitive signals which are either a quenchable quadruplet constrainable to the As4+Ga configuration or two enhanceable singlets not yet fully identified; the preferred occurrence of either type of spectrum is seemingly linked to the growth method.
+
+GALLIUM ARSENIDES
+PHOTOSENSITIVITY
+ELECTRON SPIN RESONANCE
+ARSENIC
+ENERGY LEVELS
+ELECTRONIC STRUCTURE
+CRYSTAL DEFECTS
+METASTABLE STATES

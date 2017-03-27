@@ -1,0 +1,11 @@
+We use photoluminescence and photoluminescence excitation experiments with and without magnetic field to study the electronic properties of InxGa1-xAs/GaAs quantum wells grown on vicinal (001) substrates. We analyze samples of a wide range of In contents (from 17% to 35%) and various misorientation angles (up to 6°). The optical quality of the samples increases with the tilt angle and is explained as mainly controlled by alloy disorder. A fit of the electron-heavy-hole transitions is performed by means of a method which consists of the resolution of a two-dimensional Schrödinger equation and which includes two adjustable parameters: the In surface segregation energy Es and the length ¾ in which the hydrostatic pressure becomes biaxial as defined by the Nagais model [J. Appl. Phys. 45, 3789 (1974)]. For a given angle and In content the differences between the PL peaks of vicinal and nominal samples present a maximum as a function of the well width, a fact which is well explained by our theoretical model. A study of the exciton dimensionality has been also carried out using models that take dimensionality into account in different manners. © 1997 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+photoluminescence
+surface segregation
+Schrodinger equation
+magneto-optical effects
+excitons

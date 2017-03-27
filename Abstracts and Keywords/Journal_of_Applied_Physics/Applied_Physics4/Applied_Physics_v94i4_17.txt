@@ -1,0 +1,12 @@
+Carbon nitride films have been deposited by rf reactive magnetron sputtered graphite carbon in an N2 discharge. The process parameters, viz., nitrogen partial pressure (PN2), substrate temperature (Ts), and substrate bias (Vb) were varied in order to investigate their influence on the field emission properties. The effective work function for carbon nitride films determined using the FowlerNordheim equation is in the range of 0.010.1 eV. Insight is presented into the nitrogen-lowered threshold of cold cathode electron emission of carbon from the perspective of nitride tetrahedron bond formation. The involvement of nonbonding (lone pair) and lone-pair-induced antibonding (dipole) states is suggested to be responsible for lowering the work function and hence the electron emission threshold. It is found that the substrate temperature of 200
+°C, floating potential at the substrate, and nitrogen partial pressure of 0.3 Pa are favorable to promote the reaction that lowers the work function. © 2003 American Institute of Physics. 
+
+carbon compounds
+thin films
+electron field emission
+cathodes
+sputtered coatings
+work function
+sputter deposition
+bonds (chemical)
+surface states

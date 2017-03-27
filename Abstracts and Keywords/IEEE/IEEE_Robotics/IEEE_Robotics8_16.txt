@@ -1,0 +1,8 @@
+This paper presents a Power System Stabilizer (PSS) tuning procedure based on a Parallel Genetic Algorithm (PGA). The procedure is applied to the simultaneous tuning of 61 PSSs, using their actual models in the entire Brazilian Interconnected Power System (BIPS) modeled with 3849 buses. Heavy, median and light loading conditions were considered during the tuning process, to ensure control robustness. A PGA with small population sizes distributed in various CPUs is utilized to accelerate the searching for the solution. The PGA utilizes the genetic operator called migration. Real number chromosome representation, arithmetic crossover, variable exponential mutation and variable search space are some techniques exploited in the paper.
+
+Arithmetic crossover
+Modal Analysis
+Parallel Genetic Algorithm
+Pareto front
+Power System Stabilizer
+Small-signal stability

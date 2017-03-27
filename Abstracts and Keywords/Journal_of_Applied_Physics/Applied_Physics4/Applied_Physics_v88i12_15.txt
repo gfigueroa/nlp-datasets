@@ -1,0 +1,4 @@
+In a recent article [J. Appl. Phys. 85, 1935 (1999)], Osvald simulated forward and reverse currentvoltage and capacitancevoltage characteristics of inhomogeneous Schottky barrier (SB) diodes and concluded that the currents flowing in interacting and noninteracting inhomogeneous SBs were largely identical. This Comment points out the inappropriateness of some of the conditions chosen for these simulations which likely has rendered that conclusion untenable. © 2000 American Institute of Physics. 
+
+Schottky diodes
+semiconductor device models

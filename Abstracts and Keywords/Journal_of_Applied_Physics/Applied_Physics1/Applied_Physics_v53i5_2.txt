@@ -1,0 +1,21 @@
+The physical properties of Sbdoped SnO2 thick films, prepared by a repeating chemical spray deposition method, have been investigated. The films 100014	000Å thick were deposited on fused quartz, borosilicate glass, and soda lime glass substrates at 600	°C using an aqueous solution of a mixture of SnCl4 and SbCl3. The films prepared by the method are homogeneous, and the electrical resistivity of the films on fused quartz and borosilicate glass substrates were found to be independent of the film thickness, and are 9.5×104 ©	cm, and 8.6×104 ©	cm, respectively. The resistivity of the films thicker than 4000 Å on soda lime glass substrates is almost constant, and is 1.8×103 ©	cm, although a large increase in the resistivity of the thinner films was observed. The optical band gap of the films on fused quartz and borosilicate glass substrates is also independent of the film thickness, and is almost the same: 3.75 eV. But the band gap of the films on soda lime glass substrates depends on the film thickness, and increases from 2.85 to 3.08 eV with increasing thickness from 2250 to 13	000 Å. The Hall mobility and carrier concentration of the films were also measured. The results of xray diffraction analysis and observations by SEM are described.
+
+TIN OXIDES
+PHYSICAL PROPERTIES
+FILMS
+ANTIMONY
+DOPED MATERIALS
+THICKNESS
+EXPERIMENTAL DATA
+DEPOSITION
+HIGH TEMPERATURE
+QUARTZ
+GLASS
+BOROSILICATES
+TIN CHLORIDES
+ANTIMONY CHLORIDES
+AQUEOUS SOLUTIONS
+ELECTRIC CONDUCTIVITY
+ENERGY GAP
+CARRIER DENSITY
+CARRIER MOBILITY

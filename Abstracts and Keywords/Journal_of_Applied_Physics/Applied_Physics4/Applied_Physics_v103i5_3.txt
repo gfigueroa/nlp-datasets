@@ -1,0 +1,13 @@
+We present results from a numerical study on heating in a 10¼m thick layer of Hg0.72Cd0.28Te induced by 1¼s long laser pulses at photon energies close to the band gap of the material. A number of highly nonlinear mechanisms contribute to the heating, their relative importance being dependent on laser wavelength, instantaneous irradiance, and material temperature. Mechanisms studied include one- and two-photon absorptions across the band gap, intervalence band absorption between light- and heavy hole bands, electron-hole recombination, free-carrier absorption, excess carrier temperatures, and refractive index changes. The increase in band gap with temperature eventually terminates one-photon absorption from the valence to the conduction band, and further heating is driven by much weaker absorption processes. The varying band gap also introduces changes in electron- and light hole masses and thereby in the separation between the light- and heavy hole bands, thus strongly affecting intervalence band absorption. At the shortest laser wavelength of 3.8¼m, the simulations indicate that surface melting will occur at fluence levels in the range of 23J/cm2, while more than 10J/cm2 will be required for melting at wavelengths beyond 5¼m.
+
+cadmium compounds
+conduction bands
+electron-hole recombination
+energy gap
+II-VI semiconductors
+laser beam effects
+melting
+mercury compounds
+refractive index
+two-photon processes
+valence bands

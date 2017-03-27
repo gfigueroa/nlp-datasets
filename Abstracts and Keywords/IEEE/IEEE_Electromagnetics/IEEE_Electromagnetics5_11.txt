@@ -1,0 +1,7 @@
+Multi-fidelity microwave design optimization using low-order Cauchy-approximation surrogate models based on coarse-discretization EM simulations is discussed. A sequence of surrogate models is set up in small hyper-cubes containing the optimization path. This allows us to substantially limit the number of training points necessary to set up the surrogates when compared to setting a single model valid for the entire search space. Standard space mapping (SM) is used as an optimization engine. Our approach allows us to perform computationally efficient optimization of microwave structures without circuit-equivalent coarse model traditionally used by SM algorithms. It is demonstrated that the proposed technique allows us to obtain satisfactory design at a computational cost of few full-wave simulations of the structure in question. Illustration examples are provided.
+
+Computer-aideddesign(CAD)
+EM optimization
+design tuning
+space mapping
+surrogate models

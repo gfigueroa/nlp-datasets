@@ -1,0 +1,12 @@
+Post-transit photocurrent spectroscopy (PTPS) has been employed as an effective method to obtain the energy distribution of gap states in undoped hydrogenated amorphous silicon. In this article, we demonstrate that the simplifying assumptions in conventional PTPS related to the trap occupation are not always valid and special care should be taken when we extend PTPS to samples with larger leakage currents and/or high-defect densities. We show test diode structures and experimental conditions to exactly determine the energy distribution of both electron and hole trap states in these cases. The attempt-to-escape frequency, ½, both for electrons and holes has been evaluated from the temperature dependence of the characteristic points in PTPS signal. It has been found that the density of electron and hole trap states in the deeper energy range increases with long exposure to visible light while the density in the shallower energy range decreases, which suggests the occurrence of defect conversion. © 2003 American Institute of Physics. 
+
+photoconductivity
+hole traps
+electron traps
+silicon
+amorphous semiconductors
+elemental semiconductors
+hydrogen
+leakage currents
+semiconductor thin films
+p-i-n photodiodes

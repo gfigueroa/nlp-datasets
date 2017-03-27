@@ -1,0 +1,6 @@
+In this paper, we present a novel adaptive step-size and block-size frequency-domain block least mean square (ASB-FBLMS) algorithm. The convergence speed and the steady stage error are two conflicting factors in the traditional frequency-domain block least mean square (FBLMS) algorithm. While our algorithm optimally increase the convergence speed while maintaining or reducing the steady stage error by using an adaptive variable step-size and an adaptive variable block-size, it can also reduce the computational complexity effectively in a high transmission rate by utilizing an adaptive variable block-size. Through the simulation on the Matlab platform, the results demonstrated that our algorithm outperformed FBLMS algorithms currently reported in the literature in terms of faster convergence, smaller steady stage error and lower computational complexity.
+
+Frequency-domain
+LMS
+Variable block-size
+Variable step-size

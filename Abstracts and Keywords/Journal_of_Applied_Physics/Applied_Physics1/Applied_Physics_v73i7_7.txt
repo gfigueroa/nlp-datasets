@@ -1,0 +1,9 @@
+The diffusioninduced stresses in a long bar of square cross section have been investigated. Two mass transfers consisting of constant average concentration and constant surface concentration were considered. The concentration distribution was obtained in an analytic form. The displacement and stress fields were obtained numerically using a Jacobi iterative method. The maximum stress is located at the corner for constant average concentration and at the midedge for constant surface concentration. A comparison of stresses built up in the bar of a square cross section and in a thin slab was made.
+
+IMPURITIES
+DIFFUSION
+STRESSES
+DISTRIBUTION FUNCTIONS
+ANALYTICAL SOLUTION
+MASS TRANSFER
+WAFERS

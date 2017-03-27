@@ -1,0 +1,8 @@
+Wire-diameter dependencies were investigated using microwire sample arrays with diameters from 2 to 25¼m and polycrystalline bulk bismuth. Seebeck coefficient and resistivity were measured from 50 to 300 K. Although the temperature dependence of the Seebeck coefficients of all samples were similar to that of the bulk, the resistivity dependence of the 2-¼m-diameter microwire array sample had a small positive temperature coefficient, and was quite different from the other samples. Mobility was estimated using a simple model to identify the dependences on temperature and wire diameter. The ratio of electron mobility divided by hole mobility gradually decreased with decreasing temperature for samples with wire diameters below 6¼m, and electron mobility was suppressed at low temperatures, explaining the promotion of the boundary scattering. Therefore, small positive temperature coefficients of resistivity were obtained for very small diameter microwire array samples. To compare with the temperature dependence of the nanowire array samples that typically have negative temperature coefficient reported, a model for mobility was developed to represent the temperature dependence of resistivity.
+
+bismuth
+electrical resistivity
+electron mobility
+hole mobility
+nanowires
+Seebeck effect

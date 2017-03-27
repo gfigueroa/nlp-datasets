@@ -1,0 +1,6 @@
+ESRT protocol is a transport solution that seeks to achieve reliable event detection solution with minimum energy expenditure and congestion resolution. Depending on the current network state, it configures the reporting frequency rate f for the next time interval. Due to the dynamic properties of the networks, the adjustment always has a delay. A prediction-based ESRT (PBESRT) protocol is presented to improve the performance of the networks. It can predict the flow rate of the next time interval, and then adjust the reporting frequency rate f. The performance of prediction-based ESRT protocol depends on the accuracy of predictors. It has been proved that FARIMA model is an effective method in network traffic prediction. Simulation compared PBESRT with the original ESRT. Then the performance of each protocol is studied at deferent Hurst parameters value. The result shows that PBESRT converges to state OOR with less time intervals, starting from some special states. More importantly, the network with PBESRT protocol runs more time intervals at state OOR. As the Hurst parameter increasing, the OOR rate of each protocol increases, the improvement PBESRT to ESRT decreases yet.
+
+ESRT protocol
+FARIMA predictor
+congestion control
+wireless sensor networks

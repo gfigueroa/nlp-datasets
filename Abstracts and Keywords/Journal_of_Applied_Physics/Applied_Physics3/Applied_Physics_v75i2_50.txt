@@ -1,0 +1,11 @@
+The thermoluminescence of several Al2O3 samples doped with different impurities (mainly Cr and Ni) is studied. The main characteristics (emission spectra, dose dependence, peak parameters) of the observed thermoluminescence glow curve are determined. A very high peak is found at 335	°C for some concentrations of Ni. The possible use of this material for dosimetry applications is discussed.
+
+ALUMINIUM OXIDES
+THERMOLUMINESCENCE
+IMPURITIES
+ABSORPTION SPECTRA
+DOPED MATERIALS
+CHROMIUM ADDITIONS
+NICKEL ADDITIONS
+EMISSION SPECTRA
+X RADIATION

@@ -1,0 +1,20 @@
+Data are presented on the characterization of deep electron traps in six different undoped single crystals of CdS and in one alloy of CdS96Se4. The obtained spectra by the capacitance deep level transient spectroscopy (DLTS) of the seven samples are very similar with only two or three distinct maxima observed between liquid nitrogen and room temperature. Detailed analysis of the DLTS and admittance spectroscopy reveals that three deep levels:EL1 (200±10 meV, Se C1014 cm2), EL2 (430±30 meV, SeC1012 cm2), and EL4 (630±30 meV, Se C1014 cm2), are present in almost all samples. Direct measurements of the capture cross sections indicate that the capture of an electron occurs with a small lattice relaxation in the case of EL1 and a large lattice relaxation in the case of EL2. Two other trap levels, EL3 (520±30 meV, Se C1011 cm2) and EL5 (750±40 meV, Se C1011 cm2), are also detected in two respective samples. Comparisons are made with previous data obtained in semiinsulating and semiconducting CdS crystals. Illumination of the sample at low temperatures induces a permanent capacitance change due to electron excitation from a very deep level which cannot be electrically refilled at liquidnitrogen temperature. The energy threshold EC1.4 eV of the spectral response of this emptying process is an indication that this level is probably the same as the sensitizing center. Direct measurements of the temperature dependence of its capture cross section, Sc =4×1023 exp (0.042/kT)	cm2 is direct of the doubly ionized acceptor like imperfection, probably associated to a cadmium vacancy VCd.
+
+CADMIUM SULFIDES
+MONOCRYSTALS
+ELECTRONS
+TRAPS
+SENSITIZERS
+COMPARATIVE EVALUATIONS
+DATA
+ALLOYS
+SELENIUM ALLOYS
+SPECTRA
+TRANSIENTS
+SPECTROSCOPY
+MEDIUM TEMPERATURE
+LOW TEMPERATURE
+CROSS SECTIONS
+CRYSTAL LATTICES
+RELAXATION
+SEMICONDUCTOR MATERIALS

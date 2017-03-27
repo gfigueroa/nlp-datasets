@@ -1,0 +1,8 @@
+We investigate spin-dependent transport through a band-gap-matched ZnSe/Zn1xMnxSe heterostructure with a single paramagnetic layer under influence of both an electric and a magnetic field. It is shown that the magnetic-field tunable potential and its symmetry in this system can be significantly modulated by the electric field, which results in obvious dependence of the magnitude of the electronic spin polarization on the electric field magnitude. The results obtained in this work might shed light on the development of new electron-polarized devices. © 2000 American Institute of Physics. 
+
+electron spin polarisation
+zinc compounds
+manganese compounds
+semimagnetic semiconductors
+semiconductor heterojunctions
+II-VI semiconductors

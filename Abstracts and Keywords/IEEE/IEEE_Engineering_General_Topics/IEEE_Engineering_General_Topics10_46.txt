@@ -1,0 +1,5 @@
+In view of the disadvantages of traditional measurement and control system, this article has proposed a cloud computing based on IEEE1451. It has defined the functions and goal of this system through the analysis of market demands, set up a hierarchical structure model, and established a software structure and application pattern with the combination of C/S structure and B/S structure.
+
+IEEE1451
+Wireless smart sensor
+cloud computing

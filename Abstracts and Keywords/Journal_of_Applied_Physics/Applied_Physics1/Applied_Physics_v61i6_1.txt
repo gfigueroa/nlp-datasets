@@ -1,0 +1,10 @@
+A theoretical model which allows prediction of the type and of the equilibrium configuration of dislocations generated or captured in fcc substrates at the edges of thin films is applied to local oxidation processes on (001) Czochralski silicon substrates. Nitride film structures aligned along the two most interesting crystallographic directions on the (001) surface, i.e., the 110	 and the 100	 directions, are studied by highvoltage electron microscopy. The model allows to explain the observed dislocation types including most of the previous reports in the literature. Some numerical examples are given which illustrate the strength of the model to obtain even quantitative information both on the film stresses and on the critical glide force from the observed equilibrium configuration of the defects. Good agreement is obtained between the observed shape and position of the defects and computer simulations based on the model.
+
+DISLOCATIONS
+SILICON
+SUBSTRATES
+OXIDATION
+ELECTRON MICROSCOPY
+COMPUTERIZED SIMULATION
+SILICON NITRIDES
+FILMS

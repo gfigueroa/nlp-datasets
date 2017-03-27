@@ -1,0 +1,6 @@
+The layer-based machining (LBM) has been developed as an integrated rapid prototyping (RP) process for large-scale models with combined benefits of both layered manufacturing (LM) processes and material removal (MR) processes. In the layer based machining process, a three dimensional model is built layer by layer. On each layer, contours are shaped by a milling process. For a given part model, different build orientation will result in variant surface quality, support design, number of stock layers, removed material volume, part stability, build time, and sometimes, the machinability of a part. The preferred build orientation should have the tendency to maximize surface quality, minimize build time and build cost simultaneously. In this paper, seven factors affecting build orientation are formulated based on the STL file of an object and represented as fuzzy variables. A fuzzy multi-criteria decision method is used to rank candidate build orientations. Experiment with two examples shows satisfactory results.
+
+build orientation
+fuzzy decision making
+layer-based machining
+rapid prototyping

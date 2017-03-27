@@ -1,0 +1,12 @@
+The distribution of excess carriers in the three dimensions of a semiconductor in closely packed sensing arrays is analytically derived using a novel threedimensional simulation. In addition to the introduction of lateral transport, the results show significant deviation from the distribution obtained out of the onedimensional model, both in magnitude and gradients. Thus, the net flow of carriers is drastically different than previously predicted. The technical implications of the exact threedimensional distribution on quantum efficiency and crosstalk is visualized. The effects of physical parameters such as absorption coefficient, diffusion length, array geometry, and detector structure are thoroughly investigated.
+
+CHARGE CARRIERS
+CHARGEDPARTICLE TRANSPORT
+ARRAYS
+SEMICONDUCTOR DEVICES
+SEMICONDUCTOR MATERIALS
+CARRIER DENSITY
+THREEDIMENSIONAL CALCULATIONS
+ANALYTICAL SOLUTION
+CARRIER LIFETIME
+BOUNDARY CONDITIONS

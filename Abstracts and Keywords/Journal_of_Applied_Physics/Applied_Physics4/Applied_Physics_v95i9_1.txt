@@ -1,0 +1,19 @@
+Pure ZnO films and PbS/ZnO nanocomposite films of optical quality were prepared with a solgel method. The particle size, optical absorption, and linear refractive index of the PbS/ZnO films were measured by TEM (transmission electron microscopy), UV-Vis absorption, and ellipsometry techniques, respectively. For high Pb/Zn ratios, PbS particles of size 58 nm are observed in TEM, and a large refractive nonlinearity of 107
+esu with a saturable absorption was measured in picosecond Z-scan experiments. © 2004 American Institute of Physics. 
+
+lead compounds
+zinc compounds
+sol-gel processing
+particle size
+nanocomposites
+semiconductor growth
+refractive index
+semiconductor thin films
+absorption coefficients
+II-VI semiconductors
+IV-VI semiconductors
+nanoparticles
+nonlinear optics
+ultraviolet spectra
+transmission electron microscopy
+ellipsometry

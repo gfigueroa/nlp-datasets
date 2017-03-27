@@ -1,0 +1,12 @@
+The thermal stability of aSi/aGe superlattices with periods ranging from 2.5 to 41.2 nm has been studied using Raman spectroscopy. Atomic relaxation and rearrangement at the Si/Ge interfaces occur up to an anneal temperature of 300	°C. Further annealing of the superlattices reveals enhanced diffusion and a retarded crystallization, and these effects are more pronounced in short period superlattices.
+
+SILICON
+GERMANIUM
+SUPERLATTICES
+AMORPHOUS STATE
+INTERFACES
+ANNEALING
+STABILITY
+RAMAN SPECTRA
+DIFFUSION
+CRYSTALLIZATION

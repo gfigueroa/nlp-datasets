@@ -1,0 +1,12 @@
+Poissons ratio flow diagrams, that is, the Poissons ratio versus the fiber fraction, are obtained numerically for hexagonal arrays of elastic circular fibers in an elastic matrix. High numerical accuracy is achieved through the use of an interface integral equation method. Questions concerning fixed point theorems and the validity of existing asymptotic relations are investigated and partially resolved. Our findings for the transverse effective Poissons ratio, together with earlier results for random systems by other authors, make it possible to formulate a general statement for Poissons ratio flow diagrams: For composites with circular fibers and where the phase Poissons ratios are equal to 1/3, the system with the lowest stiffness ratio has the highest Poissons ratio. For other choices of the elastic moduli for the phases, no simple statement can be made. © 1996 American Institute of Physics. 
+
+REINFORCED MATERIALS
+FIBERS
+POISSON RATIO
+ELASTICITY
+NUMERICAL SOLUTION
+ASYMPTOTIC SOLUTION
+ALGORITHMS
+ARRAYS
+INTERFACES
+INTEGRAL EQUATIONS

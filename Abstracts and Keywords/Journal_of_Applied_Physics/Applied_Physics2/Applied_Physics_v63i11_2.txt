@@ -1,0 +1,10 @@
+The elucidation of the chemistry and physics of shockinduced chemical reactions and the initiation and detonation of chemical explosives has been slow and difficult. The processes involved often are not in thermal equilibrium, and they do not obey Arrhenius kinetics in the usual sense. Some calculations show a slow step in the transfer of shock energy to intramolecular vibrons from the lattice phonons that may limit reaction rates to around 107109 s1. Data and arguments are presented from Hugoniot and detonation studies that support a new concept of hightemperature kinetics. It is proposed that the averaged vibrational velocities of the atoms in condensed systems under the influence of highvelocity shock waves constrain the chemical reaction rates in the systems. This new concept is compared with alternative explanations and contrasted with Arrhenius processes.
+
+CHEMICAL REACTIONS
+CHEMICAL EXPLOSIVES
+SHOCK WAVES
+LATTICE VIBRATIONS
+PHONONS
+CHEMICAL REACTION KINETICS
+VERY HIGH TEMPERATURE
+THEORETICAL DATA

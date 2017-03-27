@@ -1,0 +1,13 @@
+A simulated thinfilm transistor (TFT) circuit has been built to drive the twisted nematic (TN) cell for the measurements of charge retention and the transmission versus peak voltage applied to the drain electrode of the simulated TFT using the gate pulse width as a parameter. The established rule that the transmission of the TN cell depends only on the rms voltage applied to the cell has been confirmed by calculating the rms voltage of the charge retention curves in correlation with the measured transmissions. The deviation of the decaying charge retention curves from the exponential behavior has been observed and can be qualitatively explained by a combination of the dielectric and transport properties of nematic liquidcrystal medium.
+
+NEMATIC CRYSTALS
+LIQUID CRYSTAL DEVICES
+DISPLAY DEVICES
+ELECTRIC CHARGES
+THIN FILMS
+TRANSISTORS
+SIMULATION
+ELECTRONIC CIRCUITS
+TRANSMISSION
+DIELECTRIC PROPERTIES
+TRANSPORT PROCESSES

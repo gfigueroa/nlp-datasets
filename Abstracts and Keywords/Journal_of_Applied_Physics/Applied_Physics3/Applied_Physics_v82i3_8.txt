@@ -1,0 +1,21 @@
+PbZr0.56Ti0.44O3 (PZT) epitaxial ferroelectric thin films on a LaAlO3 (100) substrate, covered by a metallic oxide electrode La0.5Sr0.5CoO3 (LSCO) are demonstrated in this work. The films are fabricated by the solgel method and effort was focused on thermal processing to obtain the desired epitaxial heterostructure. The dielectric and ferroelectric properties of PZT thin films were measured and it was found that they are as good as in the films deposited by other thin-film methods. The dielectric constant and the dissipation factor of the PZT films are, respectively, about 500 and 0.06 below 20 kHz. The remanent polarization Pr is about 27 ¼C/cm2 and the coercive field Ec is about 50 kV/cm. It was found that the ferroelectric properties were significantly influenced by the microstructure of the PZT layers. The present study also showed that the fatigue characteristics of the epitaxial heterostructure with LSCO electrodes under a reversed electrical field are far superior to those obtained with a polycrystalline ferroelectric layer on Pt bottom electrodes. A low leakage current, about 3 ¼A/cm2 at 0.5 MV/cm, was obtained for these epitaxial films. In addition, the optical transmittance spectrum of PZT thin films was also measured and the conduction mechanism is discussed.© 1997 American Institute of Physics. 
+
+lead compounds
+ferroelectric thin films
+epitaxial layers
+sol-gel processing
+permittivity
+dielectric polarisation
+dielectric losses
+visible spectra
+leakage currents
+PZT
+THIN FILMS
+LANTHANUM OXIDES
+STRONTIUM OXIDES
+COBALT OXIDES
+HETEROJUNCTIONS
+FERROELECTRIC MATERIALS
+POLARIZATION
+EPITAXY
+SOL-GEL PROCESS

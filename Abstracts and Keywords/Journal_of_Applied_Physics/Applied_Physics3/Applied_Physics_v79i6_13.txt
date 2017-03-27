@@ -1,0 +1,11 @@
+Passivation of point and extended defects in GaSb has been observed as a result of hydrogenated amorphous silicon (aSi:H) treatment by the glow discharge technique. Cathodoluminescence (CL) images recorded at various depths in the samples clearly show passivation of defects on the surface as well as in the bulk region. The passivation of various recombination centers in the bulk is attributed to the formation of hydrogenimpurity complexes by diffusion of hydrogen ions from the plasma. aSi:H acts as a protective cap layer and prevents surface degradation which is usually encountered by bare exposure to hydrogen plasma. An enhancement in luminescence intensity up to 20 times is seen due to the passivation of nonradiative recombination centers. The passivation efficiency is found to improve with an increase in aSi:H deposition temperature. The relative passivation efficiency of donors and acceptors by hydrogen in undoped and Tecompensated pGaSb has been evaluated by CL and by the temperature dependence of photoluminescence intensities. Most notably, effective passivation of minority dopants in tellurium compensated pGaSb is evidenced for the first time. © 1996 American Institute of Physics. 
+
+AMORPHOUS STATE
+CATHODOLUMINESCENCE
+CRYSTAL DEFECTS
+DOPED MATERIALS
+FILMS
+GALLIUM ANTIMONIDES
+HYDROGENATION
+PASSIVATION
+SILICON

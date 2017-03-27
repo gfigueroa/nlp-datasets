@@ -1,0 +1,15 @@
+Absorption spectra of trivalent thulium ions in gadolinium scandium gallium garnet are reported between 1.9 and 0.25 ¼m at 4 K. Laserinduced fluorescence was observed at 4 K from the 1D2, 1G4, and 3H4 (4 and 300 K) manifolds. Siteselective excitation experiments reveal large fractions of thulium ions in both regular D2 sites and alternate sites. A crystalfield splitting calculation was carried out in which a parameterized Hamiltonian (including Coulombic, spinorbit, and crystalfield terms in D2 symmetry) was diagonalized for all multiplet manifolds of the Tm3+ (4f12) configuration. The rms deviation between 56 experimental and calculated Stark levels was 10 cm1. Calculations were carried out to predict branching ratios for emission from the 3H4 manifold to the 3H5, 3F4, and 3H6 manifolds, as well as linetoline transition probabilities for transitions between the 3H4 manifold and the 3H5 manifold. 	
+
+GARNETS
+GADOLINIUM OXIDES
+SCANDIUM OXIDES
+GALLIUM OXIDES
+QUATERNARY COMPOUNDS
+THULIUM IONS
+ABSORPTION SPECTRA
+TEMPERATURE RANGE 013 K
+FLUORESCENCE
+ENERGYLEVEL SPLITTING
+STARK EFFECT
+BRANCHING RATIO
+MATHEMATICAL MANIFOLDS

@@ -1,0 +1,6 @@
+It is a challenging idea to measure and to analyse a person's handwriting dynamics in order to detect diseases at an early stage, to control medication, or to extend available therapies. This article makes an important move towards those biomedical applications of biometrics by showing that low temperature, physical strain, or writing with the non-preferred hand (mostly left) have a bearing on human hand movement. This is measurable even for very simple kinds of hand movement, e.g., when drawing repeated backslashes. The handwriting dynamics are measured by means of a pen equipped with force and tilt sensors. Then, the parameterized script generator model proposed by Hollerbach is used in order to extract characteristic features from the measured signals, e.g., features describing deviations of measured time series from predicted model time series. The features are then used as inputs of support vector machines that classify whether the handwriting has been influenced or not. In particular for a cooled hand this can be performed with a very high accuracy
+
+biometric pen
+handwriting dynamics
+script generator model
+support vector machine

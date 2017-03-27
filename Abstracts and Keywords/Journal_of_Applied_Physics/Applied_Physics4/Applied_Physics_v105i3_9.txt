@@ -1,0 +1,8 @@
+Effect of demagnetization field on chaotic and deterministic nonlinear magnetization dynamics regimes formation in the presence of oscillating and constant external magnetic fields is studied using the LandauLifshitzGilbert approach. The uniformly magnetized sample is considered to be an axially symmetric particle described by demagnetization factors and to have uniaxial crystallographic anisotropy formed some angle with an applied field direction. The equations of magnetic moment motion are considered to be the synergetic equations and the system behavior is examined on the phase plane. It is investigated as to how the change in particle shape and its orientation with respect to the external field (systems configuration) can cause the transition between chaos and regular magnetization dynamics. Moreover, the way to completely suppress chaotic dynamics of magnetic moments in such sample is proposed. To produce a regular study, all results are presented in the form of bifurcation diagrams for all sufficient dynamics regimes of the considered system. Our results suggest that varying the particles shape and fields geometry may provide a useful way of magnetization dynamics control in complex magnetic systems.
+
+bifurcation
+chaos
+demagnetisation
+magnetic anisotropy
+magnetic moments
+magnetic particles

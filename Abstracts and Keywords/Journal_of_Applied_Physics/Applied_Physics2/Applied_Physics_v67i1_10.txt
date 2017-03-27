@@ -1,0 +1,6 @@
+A new deep level transient spectroscopy technique is suggested which allows the deep level parameters to be obtained from a single temperature scan. Using large ratio t2/t1 of the measurement gate positions t1 and t2 and analyzing the steep hightemperature side of the peak, it is demonstrated that the deep level activation energy can be determined with high accuracy.
+
+DEEP ENERGY LEVELS
+DLTS
+ACTIVATION ENERGY
+EFFICIENCY

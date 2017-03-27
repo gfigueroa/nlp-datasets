@@ -1,0 +1,12 @@
+The epitaxial growth of CoSi2 from Co with a Ti capping layer using plasma nitridation-mediated epitaxy (PNME) was demonstrated. By exposing the Si substrate to the NH3 plasma, an a-SiNx layer was formed with atomic scale thickness controllability. After Co and Ti deposition followed by annealing, high quality epitaxial CoSi2 was formed on Si(001) with a perfectly flat interface. However, the epitaxial growth was observed for Co with a Ti capping layer prepared only by ex situ deposition, not by in situ deposition. The epitaxial CoSi2 was analyzed by x-ray diffraction and a scanning transmission electron microscope. Based on these results, the mechanism of PNME and the effects of the Ti capping layer process on silicidation were discussed.
+
+annealing
+atomic layer epitaxial growth
+cobalt compounds
+epitaxial layers
+nitridation
+plasma materials processing
+scanning electron microscopy
+sputter deposition
+transmission electron microscopy
+X-ray diffraction

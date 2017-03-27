@@ -1,0 +1,8 @@
+Photorefractive multiple quantum well (PRMQW) devices can achieve simultaneously higher resolution and greater sensitivity by distributing several highly trapping low temperature growth (LTG) layers at different depths in their intrinsic region. This article extends a previously derived analytical model of PRMQW devices to distributed photorefractive devices (DPDs) that consist of a cascade of smaller MQW regions sandwiched between LTG layers. This enables an understanding of how multiple trapping layers affect the resolution and sensitivity in these DPDs. In addition to an improvement in resolution, the model predicts an enhancement in diffraction efficiency at small grating spacings as the number of subdevices increases for a fixed total DPD length. This result is of significance in designing compact image processing systems that can operate at small grating periods but still be able to achieve a large signal-to-noise ratio for image processing and sensing applications. © 2000 American Institute of Physics. 
+
+photorefractive effect
+semiconductor superlattices
+quantum well devices
+diffraction gratings
+image processing
+electro-optical devices

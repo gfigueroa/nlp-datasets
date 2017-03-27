@@ -1,0 +1,8 @@
+In many respects, large motors and generators in petrochemical plants have become a commodity product with intense competition amongst manufacturers from around the world to secure orders. This has resulted in pressure on machine designers to reduce manufacturing costs. Some of the methods employed to accomplish this include: (1) Reducing the conductor cross section (2) Reducing the insulation thickness (3) Reducing the amount of steel core material (4) Developing manufacturing methods that result in less time to manufacture. Each of these methods tends to increase the operating temperature of the windings or put additional voltage stress on the electrical insulation. Many design and processing innovations have been successfully implemented. However, there are both anecdotal and statistical data that indicates that there are more problems with machines made in the past 10 years, as compared to machines made previously. Engineering firms and end-users perhaps need to provide comprehensive, yet reasonable, purchase specifications that allow all manufacturers to compete on a level playing field. This paper is mainly concerned with stator windings rated greater than 6 kV, and rotors of various sized machines.
+
+Generator
+Motor
+Winding failure
+electrical insulation
+rotor winding
+stator winding

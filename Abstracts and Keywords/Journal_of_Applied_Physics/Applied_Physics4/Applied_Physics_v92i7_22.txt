@@ -1,0 +1,8 @@
+We formulated a model to reproduce the spectral shape of in situ mass spectra of sympathetically cooled molecular ions trapped in a linear radio-frequency-quadrupole. The molecular ions are sympathetically cooled by laser cooled ions. The mass spectrum is obtained by observing fluorescence emitted from the laser-cooled ions as we excite the resonant motion of the sympathetically cooled molecular ions in the trap. The model, which uses a pseudopotential and space-charge approach, reproduces the mass spectra of molecules. The model suggests that the variation of the space-charge density of the laser-cooled ions can produce in-trap kinetic excitation without the loss of the excited ions from the trap. © 2002 American Institute of Physics. 
+
+laser cooling
+mass spectra
+pseudopotential methods
+particle traps
+spectral line breadth
+fluorescence

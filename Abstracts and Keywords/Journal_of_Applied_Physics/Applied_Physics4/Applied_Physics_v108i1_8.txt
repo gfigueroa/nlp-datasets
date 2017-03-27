@@ -1,0 +1,14 @@
+We examine the applicability of the Langmuir-type of characterization for atmospheric pressure plasma jets generated in a millimeter-size cavity microwave resonator at 2.45 GHz. Wide range I-V characteristics of helium, argon, nitrogen, air and oxygen are presented for different gas fluxes, distances probe-resonator, and microwave powers. A detailed analysis is performed for the fine variation in the current around the floating potential. A simplified theory specially developed for this case is presented, considering the ionic and electronic saturation currents and the floating potential. Based on this theory, we conclude that, while the charge carrier density depends on gas flow, distance to plasma source, and microwave absorbed power, the electron temperature is quite independent of these parameters. The resulting plasma parameters for helium, argon, and nitrogen are presented.
+
+air
+argon
+helium
+Langmuir probes
+nitrogen
+oxygen
+plasma density
+plasma jets
+plasma sources
+plasma temperature
+plasma theory
+plasma transport processes

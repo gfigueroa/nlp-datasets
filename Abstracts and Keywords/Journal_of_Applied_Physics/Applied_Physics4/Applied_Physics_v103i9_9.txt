@@ -1,0 +1,9 @@
+The detection mechanism of glow discharge plasma, which is derived from direct current gas breakdown, in neon indicator lamps was investigated in the terahertz and microwave regimes. Such devices exhibit high sensitivity to terahertz radiation. Experimental setups at 10, 100, and 250GHz were carried out and analyzed. The analysis of the experimental results shows that the dominant mechanism of the glow discharge detector (GDD) in these regimes is enhanced cascade ionization. Furthermore, the responsivity at 10GHz decreases with the increase in the dc bias current between the electrodes, while the responsivity at 100 and 250GHz increases with the dc current. This is attributed to electron-neutral atom collision frequency (½) of the GDD being tens of gigahertz and its increasing with dc bias current according to dc field increase.
+
+discharge lamps
+electrodes
+glow discharges
+ionisation
+neon
+plasma devices
+submillimetre wave detectors

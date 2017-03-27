@@ -1,0 +1,19 @@
+Theoretical modeling and experimental characterization of InGaAsGaAs quantum dots-in-a-well (DWELL) intersubband heterostructures, grown by molecular beam epitaxy are reported. In this heterostructure, the self-assembled dots are confined to the top half of a 110 InGaAs well which in turn is placed in a GaAs matrix. Using transmission electron microscopy, the quantum dots are found to be pyramidal in shape with a base dimension of 110 and height of 65. The band structure for the above mentioned DWELL heterostructure was theoretically modeled using a Bessel function expansion of the wave function. The energy levels of the three lowest states of the conduction band of the quantum dot are calculated as a function of the electric field. Intersubband nin detectors were fabricated using a ten layer DWELL heterostructure. The spectral response of the detector is measured at a temperature between 30 and 50 K and compared with the prediction of our theoretical model.
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+semiconductor quantum wells
+semiconductor heterojunctions
+photodetectors
+semiconductor growth
+molecular beam epitaxial growth
+self-assembly
+conduction bands
+Bessel functions
+Fourier transform spectra
+infrared spectra
+transmission electron microscopy
+quantum well devices
+photoemission

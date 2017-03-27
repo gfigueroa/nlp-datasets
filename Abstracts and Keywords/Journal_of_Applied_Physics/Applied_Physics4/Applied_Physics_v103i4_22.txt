@@ -1,0 +1,6 @@
+Preliminary evidence of enhanced etching of rhenium by XeF2 under the influence of an electric field (3.36GV/m) is presented. Scanning electron microscope photographs of sharp rhenium tips show etching of at least 0.40¼m ±0.07 in 32min at the point of maximum electric field, indicating a field enhanced etching rate of 13nm/min ±2. A control experiment shows a maximum spontaneous etching of rhenium by XeF2 of 0.1¼m ±0.07 in 30min, indicating a maximum possible spontaneous etching rate of rhenium by XeF2 of 3nm/min ±2. The spontaneous rate of tungsten by XeF2 reported in the literature is 0.2nm/min.
+
+etching
+refractories
+rhenium
+xenon compounds

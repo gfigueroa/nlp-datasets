@@ -1,0 +1,7 @@
+In this paper, we report the thermally induced light leakage in in-plane-switching liquid crystal displays (IPS LCDs) that have a built-in small-angle deviation (&lt;4deg) between the polarization axis of a polarizer and the rubbing directions for liquid crystal (LC) alignment. We have found that the thermally induced light leakage depends strongly on the phase retardation which is a function of cell gap, wavelength, and birefringence of LCs used in the IPS LC cells. In addition, we have measured the light leakage of vertically aligned LC cells, which is independent of temperature and the deviation angle. A temperature-scanning method is proposed to reduce the light leakage of the IPS LCDs.
+
+abrasion
+birefringence
+light polarisation
+liquid crystal displays
+optical polarisers

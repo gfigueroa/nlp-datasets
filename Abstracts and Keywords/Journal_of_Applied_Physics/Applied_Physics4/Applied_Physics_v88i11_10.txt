@@ -1,0 +1,13 @@
+Periodically poled titanium in-diffused lithium niobate (Ti:LiNbO3) seems to be an attractive candidate for applications in the field of integrated optics for wavelength division multiplexed networks it could allow building of polarization-independent devices. In this study, we present the fabrication of reversed ferroelectric domain gratings by direct electron beam writing on both clear LiNbO3 and Ti:LiNbO3. First, a preliminary study was carried out on clear lithium niobate in order to determine the irradiation parameters (voltage, probe current, scanning speed) needed to create inverted ferroelectric domains, and then the same irradiation parameters were used for Ti:LiNbO3. The irradiated patterns were observed after chemical etching using a scanning electron microscope and optical microscopy. HeNe laser diffraction through the samples shows that the irradiation induces a variation of the linear optical refractive index in Ti:LiNbO3 but not in LiNbO3. Moreover, no topographical modification was observed before chemical etching by atomic force microscopy on either sample. © 2000 American Institute of Physics. 
+
+electric domains
+lithium compounds
+atomic force microscopy
+ferroelectric materials
+dielectric polarisation
+electron beam applications
+etching
+scanning electron microscopy
+optical microscopy
+refractive index
+titanium

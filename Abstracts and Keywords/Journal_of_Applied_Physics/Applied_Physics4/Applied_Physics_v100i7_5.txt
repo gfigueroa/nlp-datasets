@@ -1,0 +1,11 @@
+Polymorphic barium thioaluminate crystal phases have been synthesized and their luminescent properties have been evaluated in hybrid electroluminescent devices. The electroluminescent devices employ mixed phase thin film europium activated barium thioaluminate phosphors and thick film dielectric layers. The crystal structures of two polymorphic phases were determined and x-ray diffraction analysis was used to determine the relative quantity of three barium thioaluminate crystal phases that were found in the synthesized phosphor films. The electroluminescent properties of these mixed phase films as a function of the relative concentrations of the three identified phases are reported.
+
+barium compounds
+aluminium compounds
+europium
+phosphors
+electroluminescence
+electroluminescent devices
+thin films
+crystal structure
+X-ray diffraction

@@ -1,0 +1,13 @@
+In this work, we investigate the stress developed in phosphorus-doped layers grown on (110)-textured polycrystalline diamond templates. To that end, we follow the shifts of the diamond Raman diffusion and the exciton recombination energies by Raman and cathodoluminescence spectroscopies, respectively. With each approach, a high tensile strain of several gigapascal is evidenced. Moreover, Raman mapping performed in cross section shows (i) at the grain boundaries, a strain in tension that propagates along the growth direction from the template to the deposited layer and (ii) at the center of each grain, a tensile strain of the phosphorus-doped layer with respect to the underlying undoped grain. Concerning the second, we observe also an increase in strain effects at high phosphorus incorporation, together with a structural degradation. The possible origins of such high lattice deformation of phosphorus-doped layers are discussed.
+
+cathodoluminescence
+diamond
+electron-hole recombination
+elemental semiconductors
+excitons
+grain boundaries
+internal stresses
+phosphorus
+Raman spectra
+semiconductor epitaxial layers
+texture

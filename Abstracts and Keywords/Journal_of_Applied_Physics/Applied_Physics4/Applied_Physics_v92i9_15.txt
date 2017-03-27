@@ -1,0 +1,14 @@
+Oxyfluoride glasses were developed with composition 30SiO2Å15AlO1.5Å28PbF2Å22CdF2Å(4.8x)GdF3Å0.1NdF3Å0.1HoF3ÅxYbF3	(x=0, 0.1, 0.2, 0.5, 1, 2, 3, 4, and 4.8) in mole percent. Powder x-ray diffraction analysis revealed that the heat treatments of the oxyfluoride glasses at 450	°C for 0.5 h cause the precipitation of Nd3+Yb3+Ho3+ codoped fluorite-type nanocrystals of about 16.3 nm in diameter in the glass matrix. These transparent glass ceramics exhibited very strong green up-conversion luminescence due to the Ho3+: (5F4, 5S2)’5I8 transition under 800 nm excitation. The intensity of the green up-conversion luminescence in a 1 mol	% YbF3-containing glass ceramic was found to be about 120 times stronger than that in the precursor oxyfluoride glass. The reason for the highly efficient Ho3+ up-conversion luminescence in the oxyfluoride glass ceramics is discussed. An up-conversion mechanism is also proposed. © 2002 American Institute of Physics. 
+
+fluorescence
+glass ceramics
+nanostructured materials
+fluoride glasses
+optical glass
+transparency
+radiative lifetimes
+optical frequency conversion
+neodymium
+ytterbium
+holmium
+aluminosilicate glasses

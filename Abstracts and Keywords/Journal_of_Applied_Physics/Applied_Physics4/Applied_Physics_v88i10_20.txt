@@ -1,0 +1,15 @@
+Dislocation structures are presented for GaAs/InxGa1xAs/GaAs heterostructures before and after thermal processing. Cathodoluminescence has allowed nondestructive examination of bulk specimens, while transmission electron microscopy has been used to establish the details of the dislocation configurations. In each as-grown specimen the thickness of the InxGa1xAs layer was above its critical value, so 60° misfit dislocations were already present. It is shown that new pure edge, i.e., 90°, dislocations are formed at the interfaces by thermal processing at 1040 K. Their Burgers vectors are a/2101	 perpendicular to their 010	 directions. Although individual 90° misfit dislocations are more effective relievers of strain than 60° ones, the self-energy for an array of such dislocations is higher and hence 60° misfit dislocations form first. A model of the formation of 90° edge misfit dislocations is proposed in which the climb of vacancy-producing jogs on pre-existing 60° dislocations leaves a trailing dislocation dipole. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor heterojunctions
+dislocation structure
+cathodoluminescence
+transmission electron microscopy
+edge dislocations
+dislocation climb
+dislocation jogs
+vacancies (crystal)
+dislocation dipoles
+annealing

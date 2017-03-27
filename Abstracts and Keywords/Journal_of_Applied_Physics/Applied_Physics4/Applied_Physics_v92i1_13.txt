@@ -1,0 +1,9 @@
+Three thulium doped tellurite glass compositions have been investigated. The 1470 nm transition is radiative in these tellurite glasses and the radiative lifetimes are in the range of 350 to 470 ¼s. The 1470 nm fluorescence is broad with a full width at half maximum of 105 nm. Fibers have been drawn from these glasses with a loss of 0.7 dB/m at 1300 nm. A fiber with an OH fundamental absorption of 200 dB/m at 2.99 ¼m has an OH first overtone absorption of 0.3 dB/m at 1480 nm. The overlap between the thulium ion 1470 nm emission and the hydroxyl absorption depends on glass composition. Tellurite glasses can accept large concentrations of Tm3+ ions and, as long as the hydroxyl level can be kept low, the effect of concentration quenching can be minimized. Tm3+-doped tellurite glasses represent a viable alternative for the next generation of active components for S-band optical amplifiers. It can be pumped at 795 nm with an absorption of <38 dB/km/ppm and codoped with Ho3+ to avoid self-termination of the 1470 nm transition. It can also be pumped at 1212 nm as efficiently as at 795 nm, but diodes are not yet available at this wavelength. Using available pump wavelengths of 1064 nm and 1047 nm will require fiber lengths 15 times longer than pumping at 1212 nm. © 2002 American Institute of Physics. 
+
+tellurium compounds
+thulium compounds
+optical glass
+fluorescence
+radiative lifetimes
+Raman spectra
+optical fibre amplifiers

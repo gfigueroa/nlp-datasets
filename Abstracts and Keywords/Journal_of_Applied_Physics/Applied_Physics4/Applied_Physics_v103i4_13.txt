@@ -1,0 +1,11 @@
+We report a systematic investigation on the structural and magnetic properties of molecular-beam epitaxial growth of CrTe thin films with different layer thicknesses and Cr/Te flux ratios. A phase diagram of the growth parameters is established based on the detailed analyses of the reflection high-energy electron diffraction patterns, atomic force microscopy, and magnetization. Our high-resolution transmission electron microscopy results show that under appropriate growth conditions, a metastable zinc-blende (ZB) phase of CrTe film can be achieved with a nominal thickness of 5nm. The magnetic properties of ZB CrTe exhibit a strong in-plane anisotropy with an easy axis along the [001] direction and hard axes along the [011] and [01] directions. Correspondingly, the uniaxial (KU) and cubic (KC) anisotropy constants are obtained through the fitting of the [011] hard-axis direction. The temperature dependence of the remanent magnetization indicates the TC < 100K of ZB CrTe is attained.
+
+atomic force microscopy
+chromium compounds
+ferromagnetic materials
+magnetic anisotropy
+molecular beam epitaxial growth
+reflection high energy electron diffraction
+remanence
+thin films
+transmission electron microscopy

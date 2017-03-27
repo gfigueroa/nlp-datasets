@@ -1,0 +1,10 @@
+The response of piezoresistance stress gauges to multipleshock loading is discussed in terms of the elastoplastic model for their dynamic response. It is argued that their response to a second (or third) shock wave should not depend on previous shocks and should only depend on the amplitude of these consecutive shocks. In order to substantiate these arguments we performed double and tripleimpact experiments in which the impactors were composed of two (or three) metallic disks separated by 0.2mm gaps. Symmetric experiments in which the shock waves were of equal amplitude resulted in an equal response of the gauge for each shock. Another type of impactor, with thin aluminum disks separated by 0.2 mm from thicker copper disks, resulted in higher second shocks. The response of the gauges to these higher shocks were equal to those obtained by single shocks with the same amplitudes.
+
+SHOCK WAVES
+DYNAMIC LOADS
+IMPACT SHOCK
+MEASURING INSTRUMENTS
+STRESS ANALYSIS
+PIEZOELECTRIC MATERIALS
+ELASTICITY
+PLASTICITY

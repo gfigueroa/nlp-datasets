@@ -1,0 +1,6 @@
+In this paper, a greedy iteration scheme based on approximate dynamic programming (ADP), namely heuristic dynamic programming (HDP), is used to solve for the value function of the Hamilton Jacobi Bellman equation (HJB) that appears in discrete-time (DT) nonlinear optimal control. Two neural networks are used - one to approximate the value function and one to approximate the optimal control action. The importance of ADP is that it allows one to solve the HJB equation for general nonlinear discrete-time systems by using a neural network to approximate the value function. The importance of this paper is that the proof of convergence of the HDP iteration scheme is provided using rigorous methods for general discrete-time nonlinear systems with continuous state and action spaces. Two examples are provided in this paper. The first example is a linear system, where ADP is found to converge to the correct solution of the algebraic Riccati equation (ARE). The second example considers a nonlinear control system.
+
+Adaptive critics
+Approximate dynamic programming
+HJB
+Policy iterations

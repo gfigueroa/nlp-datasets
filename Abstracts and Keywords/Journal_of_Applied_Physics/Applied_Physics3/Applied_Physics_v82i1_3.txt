@@ -1,0 +1,16 @@
+J. D. Guo et al. [J. Appl. Phys. 80, 1623 (1996)] have studied the thermal stability of Ni on GaN and have deduced by x-ray diffraction measurements that new phases form at the interface between Ni and GaN. This determination, based solely on x-ray diffraction data, is ambiguous, as the peaks assigned to the Ga4Ni3 and NiN phases can also be attributed to substrate related x-ray peaks. © 1997 American Institute of Physics.
+
+thermal stability
+III-V semiconductors
+gallium compounds
+Schottky barriers
+semiconductor-metal boundaries
+interface structure
+GALLIUM ARSENIDES
+SCHOTTKY BARRIER DIODES
+NICKEL
+X-RAY DIFFRACTION
+INTERFACES
+CHEMICAL REACTIONS
+PHASE STUDIES
+STABILITY

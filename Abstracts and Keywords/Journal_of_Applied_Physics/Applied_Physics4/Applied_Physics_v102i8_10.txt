@@ -1,0 +1,10 @@
+It has been well established that the critical current density Jc across grain boundaries (GBs) in high-temperature superconductors decreases exponentially with misorientation angle ¸ beyond < 2°3°. This rapid decrease is due to a suppression of the superconducting order parameter at the grain boundary, giving rise to weakly pinned Abrikosov-Josephson (AJ) vortices. Here we show that if the GB plane meanders, this exponential dependence no longer holds, permitting greatly enhanced Jc values: up to six times at 0T and four times at 1T at ¸ < 4°6°. This enhancement is due to an increase in the current-carrying cross section of the GBs and the appearance of short AJ vortex segments in the GB plane, confined by the interaction with strongly pinned Abrikosov (A) vortices in the grains.
+
+barium compounds
+critical current density (superconductivity)
+flux flow
+grain boundaries
+high-temperature superconductors
+Josephson effect
+superconducting thin films
+yttrium compounds

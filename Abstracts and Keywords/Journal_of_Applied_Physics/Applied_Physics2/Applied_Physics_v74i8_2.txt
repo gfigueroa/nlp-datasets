@@ -1,0 +1,10 @@
+A new algorithm that determines the evolution of a surface eroding under reactiveion etching is presented. The surface motion is governed by both the HamiltonJacobi equation and the entropy condition for a given etch rate. The trajectories of shocks and rarefaction waves are then directly tracked, and thus this method may be regarded as a generalization of the method of characteristics. This allows slope discontinuities to be accurately calculated without artificial diffusion. The algorithm is compared with geometric surface evolution methods, such as the linesegment method. 	
+
+REACTIVE SPUTTERING
+ETCHING
+SURFACES
+ION COLLISIONS
+ALGORITHMS
+HAMILTONJACOBI EQUATIONS
+ENTROPY
+TRAJECTORIES

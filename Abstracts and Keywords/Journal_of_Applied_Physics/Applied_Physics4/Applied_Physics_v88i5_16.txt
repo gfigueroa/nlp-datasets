@@ -1,0 +1,18 @@
+The structural and electrical characteristics of Ba0.5Sr0.5TiO3 (BST) thin films deposited by inverted cylindrical magnetron rf sputtering have been investigated. This unconventional sputter deposition technique consisting of a hollow cylindrical composite target of BST, high argon/oxygen gas pressure 53.2 Pa (400 ¼m), and 750
+°C substrate temperature was employed for depositing low-loss BST thin films. The films were postannealed in a tube furnace at 780
+°C for 8 h in flowing oxygen. Atomic-force microscopy revealed anisotropic grain growth with a columnar grain structure protruding from the surface with a 0.25 ¼m grain size. X-ray diffractometry shows the films to be purely (h00) oriented for certain deposition parameters. The lattice parameter of the best film was slightly larger than that for bulk BST. Other deposition conditions yielded films having many of the BST powder peaks. Capacitance versus voltage characteristics have been measured from 50 MHz to 20 GHz. Device Q values &gt;600, beyond the resolution of the device/measurement system, were realized with a 6.7% tunability at 10 GHz for the best films. 
+
+barium compounds
+strontium compounds
+ferroelectric materials
+ferroelectric thin films
+sputter deposition
+dielectric losses
+grain size
+lattice constants
+annealing
+atomic force microscopy
+surface structure
+grain growth
+capacitance
+Q-factor

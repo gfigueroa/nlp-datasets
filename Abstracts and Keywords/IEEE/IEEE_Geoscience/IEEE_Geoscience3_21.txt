@@ -1,0 +1,8 @@
+Uniform marginal price schemes in a pool-based electricity market cannot clear the market. In this paper, we propose an alternative pricing approach for the day-ahead electricity market in a power pool auction assuming inelastic demand. The approach employs a Semi Lagrangean Relaxation (SLR) technique and a second price auction. We show that the method proposed accommodates the non-convexities that characterize the electricity market and provides a shadow value that represents the price to be announced for the second price auction. The SLR closes the integrality gap, while the second price auction guarantees that only those generators that can fulfill the demand without losses are engaged. The second price auction provides the final price for the day-ahead electricity. The demand is fulfilled at minimum cost and all generators committed cover their own costs. We argue that these prices are market clearing and provide market equilibrium.
+
+Integer programming
+mathematical programming
+operations research
+power generation dispatch
+power generation economics
+power generation scheduling

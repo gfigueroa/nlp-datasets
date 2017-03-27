@@ -1,0 +1,6 @@
+Newer, realistic models of targets and backgrounds used in hyperspectral detection do not always lend themselves to a CFAR (constant false alarm rate) formulation. Several advanced techniques are considered here. It is found that incorporating a particular empirically validated method of target evolution permits an exact CFAR version of a large class of advanced detectors based on elliptically contoured distributions. Other validated detectors are considered, for which no closed form normalization exists to convert them to CFAR form. For these a geometrical approach to achieving approximate CFAR performance is described and analyzed.
+
+CFAR
+algorithm
+detection
+hyperspectral

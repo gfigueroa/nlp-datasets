@@ -1,0 +1,15 @@
+Electroluminescence from heterojunctions fabricated by depositing ultrathin films of nanocrystalline CdS and ZnS on porous silicon by the liquidliquid interface reaction technique is reported. Junction currentvoltage characteristics were studied for different thicknesses of the deposited films. Large forward currents on the order of 180	mA/cm2 and a rectification ratio on the order of 103 were characteristic of the diode. The reverse breakdown voltage on the order of 150 V indicated the stability of these diodes. Electroluminescence was observed to arise at around 625 nm, which was blueshifted as compared to the photoluminescence peak and showed much smaller full width at half maximum (<40	nm). © 2002 American Institute of Physics. 
+
+cadmium compounds
+zinc compounds
+II-VI semiconductors
+silicon
+elemental semiconductors
+porous semiconductors
+semiconductor heterojunctions
+electroluminescence
+semiconductor diodes
+rectification
+semiconductor thin films
+liquid phase deposited coatings
+nanostructured materials

@@ -1,0 +1,10 @@
+Visual tracking is one of the most important field of computer vision. It has immense number of applications ranging from surveillance to hi-fi military applications. This paper is based on the application developed for automatic visual tracking and fire control system for anti-aircraft machine gun (AAMG). Our system mainly consists of camera, as visual sensor; mounted on a 2D-moving platform attached with 2GHz embedded system through RS-232 and AAMG mounted on the same moving platform. Camera and AAMG are both bore-sighted. Correlation based template matching algorithm has been used for automatic visual tracking. This is the algorithm used in civilian and military automatic target recognition, surveillance and tracking systems. The algorithm does not give robust performance in different environments, especially in clutter and obscured background, during tracking. So, motion and prediction algorithms have been integrated with it to achieve robustness and better performance for real-time tracking. Visual tracking is also used to calculate lead angle, which is a vital component of such fire control systems. Lead is angular correction needed to compensate for the target motion during the time of flight of the projectile, to accurately hit the target. Although at present lead computation is not robust due to some limitation as lead calculation mostly relies on gunner intuition. Even then by the integrated implementation of lead angle with visual tracking and control algorithm for moving platform, we have been able to develop a system which detects tracks and destroys the target of interest.
+
+anti-aircraft machine gun
+correlation
+lead
+predictions
+search window
+slant range
+template
+tracking

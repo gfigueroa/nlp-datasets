@@ -1,0 +1,9 @@
+Damage created by ion implantation into single crystalline silicon was characterized with an optical model based on the coupled half-Gaussian model developed by Fried et al [J. Appl. Phys. 71, 2835 (1992)]. In the improved optical model the damage profile was described by sublayers with thicknesses inversely proportional to the slope of the profile. This method allows a better resolution at the quickly changing parts of the profile, and a better approximation of the Gaussian profile with the same number of sublayers. A fitting procedure, which we call multipoint random search, was applied to minimize the probability of getting in a local minimum. The capabilities of our method were demonstrated for amorphizing doses using different ions and energies. The improved fit quality and the correlation with results of backscattering spectrometry basically supported the optical model. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+ellipsometry
+ion implantation
+amorphisation
+visible spectra
+surface structure

@@ -1,0 +1,10 @@
+Optical nonlinearity and dynamic response of a novel inorganic metal cluster (¼3-MoSe4)Ag3(PPh3)3Cl were studied. Large optical limiting effect was observed with the inorganic metal cluster (¼3-MoSe4)Ag3(PPh3)3Cl dissolved in CH2Cl2. We also proved that nonlinear scattering contributes much to its optical limiting performance, which counts for nearly 75% of the total nonlinear energy loss used. The dynamic response of the cluster when pumped at high fluence was tested by a standard time-resolved pump-probe technique. The effective third-order susceptibility Ç(3) for this sample was determined in a standard backward degenerate four wave mixing experiment with pump fluence lower than limiting threshold Fth. The conjugate signal intensity tends to saturate when the incident fluence rolls over this value (Fth) in spite of the fact that large optical limiting effect was observed in this fluence region, which implies that the nonlinearity mechanism is different for these two regions. © 2000 American Institute of Physics. 
+
+metal clusters
+molybdenum compounds
+selenium compounds
+silver compounds
+multiwave mixing
+nonlinear optical susceptibility
+optical limiters
+time resolved spectra

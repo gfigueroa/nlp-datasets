@@ -1,0 +1,11 @@
+The optical properties of high-temperature-phase ±-quaterthiophene and ±-hexathiophene single crystals were investigated by photoacoustic and photoluminescence spectroscopy at low temperatures. The absorption and fluorescence spectra of both materials consist of a series of similar well-resolved lines, which are explained by vibronic progression of the 00 transition. Five vibronic modes are identified and ascribed to the out of phase translation of adjacent monomer units, ring deformation, and ring breathing modes. The energies of the out of phase translation and the antisymmetric ring deformation are slightly smaller for the hexamer than for the tetramer, whereas the other modes were independent of the conjugation length. Only a small Stokes shift is observed in these high quality crystals (18
+cm1 for ±-quaterthiophene and 10
+cm1 for ±-hexathiophene) and is ascribed to a shallow defect state below the bottom of the excitonic band. © 1999 American Institute of Physics. 
+
+organic compounds
+photoluminescence
+fluorescence
+visible spectra
+light absorption
+vibronic states
+photoacoustic spectra

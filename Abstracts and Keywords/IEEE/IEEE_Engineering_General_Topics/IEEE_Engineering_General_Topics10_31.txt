@@ -1,0 +1,5 @@
+Simulation of Snow falling can greatly improve the effect of 3D scene. The real-time simulation of the Snow falling process is very difficult due to the extremely complicated snowing process and the complex model of wind fields. This paper establishes the simple and practical wind field model and particle system model based on physical dynamics theory and particle system theory. It achieves the real-time 3D animation simulation of falling snow process by using of Direct3D technology, considering the impact of the wind on snow particles. The result of the experiment shows that the snowing process can be simulated under different speed of wind with different amounts of snowflakes in real-time.
+
+3D animation simulation
+Dirext3D
+particle system

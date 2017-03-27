@@ -1,0 +1,12 @@
+ Control system software now plays a key role on many platforms, including aircraft and automobiles. However, as control system software has been performing increasingly complex tasks, the associated software development, maintenance and certification costs have escalated significantly. The CLawZ toolset is dedicated to the formal verification of control system software. By using some novel ideas, it achieves the highest levels of assurance whilst not suffering from the prohibitively high costs normally associated with applying formal verification. This toolset has been successfully used in the certification of a large scale, highly complex, flight safety critical system. This paper outlines the toolset, and explains how the approach used to build it enables costs to be dramatically reduced whilst not compromising on soundness.
+
+  Ada
+  Industrial formal verification 
+  ProofPower 
+  Simulink 
+  Z 
+  control systems 
+  formal proof 
+  real-time software 
+  refinement 
+  safety-critical software 

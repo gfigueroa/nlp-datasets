@@ -1,0 +1,7 @@
+The duration of the reliability qualification test for a new software release at ASML is derived from the SEMI-E10 standard. A system level 'run production' test case is used for qualification, even if specific sub-system test cases could reach the target confidence faster. The confidence in the reliability of a sub-system can be increased faster by utilizing sub-system test cases, because sub-system test cases can stress a sub-system more in the same amount of time. The normal approach from the reliability engineering domain to utilize the sub-system test cases is difficult to set up and maintain. This paper presents a simple and intuitive reliability qualification method which benefits from sub-system test cases. The proposed method is compared with the SEMI-E10 standard. And, two case studies have been performed which show the applicability for software reliability qualification.
+
+SEMI-E10
+Wafer scanner software
+reliability qualification
+reliability test modeling
+test sequencing

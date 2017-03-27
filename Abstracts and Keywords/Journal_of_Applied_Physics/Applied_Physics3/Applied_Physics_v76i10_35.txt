@@ -1,0 +1,9 @@
+We report enhanced room temperature magnetoresistance of up to 11.4% in sputter deposited Fe/Cr multilayers when the iron layers are doped with additional chromium. To our knowledge, this is the largest room temperature magnetoresistance in polycrystalline Fe/Cr multilayers reported to date. In comparison, the magnetoresistance was 7.5% in a similar, undoped sample made at the same time. The magnetoresistance of antiferromagnetically coupled Fe/Cr multilayers has been the subject of considerable study in the past five years. We have investigated the possibility of doping the Fe layers with additional chromium, in order to increase the magnetoresistance by enhancing the spin dependent scattering. In one series of samples, the chromium dopant was concentrated into thin layers within the Fe layer. A 1 Å layer of chromium (1/2 monolayer) was deposited at a depth of 4, 8, or 15 Å into the 30Åthick iron layers of the multilayers. The magnetoresistance was enhanced in all of the samples, to 8% when the doping layer was at 4 Å and to 10.5% in the others. In the second series of samples the iron layers were alloyed with between 1.5% and 50% chromium. The maximum magnetoresistance was 11.4%, observed in the sample with 20% chromium in the Fe layers. This is larger than the magnetoresistance in any of the samples where the Cr was concentrated in a thin layer within the Fe layer, but a given amount of chromium appears to be more effective in increasing magnetoresistance when it is concentrated in a layer rather than distributed as an alloy. A 1 Å layer of Cr is roughly equivalent to a 3% alloy, but the alloyed sample only showed 8% magnetoresistance, in comparison to up to 10.5% in the samples with layered doping.
+
+MULTILAYERS
+IRON
+CHROMIUM
+CHROMIUM ADDITIONS
+SPUTTERED MATERIALS
+MAGNETORESISTANCE
+AMBIENT TEMPERATURE

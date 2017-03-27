@@ -1,0 +1,5 @@
+This paper considers the L<sub>2</sub>-L<sub>infin</sub> model reduction problems for polytopic system with time-varying delay. In terms of the solution of linear matrix inequalities (LMIs) and inverse constraints, sufficient conditions are presented to construct the reduced order models such that the L<sub>2</sub>-L<sub>infin</sub> gain of the error system between the full order model and the reduced order one is less than a given scalar.
+
+L<inf>2</inf>-L<inf>&#x221E;</inf> norm
+model reduction problems
+polytopic systems with time-varying delay

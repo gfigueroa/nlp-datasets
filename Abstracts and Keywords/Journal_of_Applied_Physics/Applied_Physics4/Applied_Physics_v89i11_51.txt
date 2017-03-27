@@ -1,0 +1,17 @@
+It has recently been found that large uniaxial anisotropy fields in excess of 120 kA/m (1500 Oe) can be created in thin (35 nm) films of Co by obliquely sputtered Ta underlayers. This anisotropy can be used to pin the bottom film of a spin valve while having only a modest effect on the top free film, separated by a 2.5 nm Cu spacer layer. This article describes measurements of thermal stability in these Ta-pinned spin valves. Using room temperature giant magnetoresistance (GMR) as a measure, we find that the structure is stable under cumulative 20 min anneals at 25
+°C intervals up to 300
+°C; GMR decreases to zero upon further anneals up to 450
+°C. Measurements taken at elevated temperatures reveal that GMR decreases linearly with temperature, extrapolating to zero at approximately 425
+°C, while the anisotropy field is much less temperature dependent, remaining nearly constant up to 150
+°C and gradually decreasing to 50% of its room temperature value at 325
+°C. © 2001 American Institute of Physics. 
+
+cobalt
+tantalum
+magnetic thin films
+spin valves
+thermal stability
+magnetic anisotropy
+magnetocaloric effects
+sputtered coatings
+giant magnetoresistance

@@ -1,0 +1,9 @@
+Analytical approximations are derived for treating isotropic nonparabolic bands in the framework of the JoyceDixon approximation [W. B. Joyce and R. W. Dixon, Appl. Phys. Lett. 31, 354 (1977)]. The approximations are worked out for three, two, and onedimensional idealized systems. Example calculations illustrate the utility of the methods for the narrowgap IIIV compounds, such as InAs and InSb, which are now being developed for device applications.
+
+FERMI LEVEL
+FERMI GAS
+DISPERSION RELATIONS
+ANALYTICAL SOLUTION
+IIIV SEMICONDUCTORS
+SEMICONDUCTOR DEVICES
+BAND STRUCTURE

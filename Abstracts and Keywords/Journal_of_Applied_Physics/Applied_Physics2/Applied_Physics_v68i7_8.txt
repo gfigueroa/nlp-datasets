@@ -1,0 +1,7 @@
+TFE (thermal field emission) properties of LaB6 100	 and 310	 single crystals were investigated by emission pattern observation. It was found that field evaporation with the tip temperature held at <1500	°C is very useful to get a clean pattern of fourfold symmetry. Each of four bright spots in the clean pattern was presumed to correspond to 310	 emission. It is proposed, as the most appropriate operating condition, to use the 310	LaB6 tip at a temperature <1000	°C in vacuum of 109	Torr region, promising a new TF emitter of high brightness and stability for practical use.
+
+LANTHANUM BORIDES
+MONOCRYSTALS
+FIELD EMISSION
+THERMIONIC EMISSION
+ULTRAHIGH VACUUM

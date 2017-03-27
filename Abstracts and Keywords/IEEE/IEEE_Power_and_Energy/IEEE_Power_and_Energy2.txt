@@ -1,0 +1,10 @@
+Utilization of plasma gasification in waste to energy (WTE) is one of the novel applications of a technology that was introduced several decades ago. In this application, plasma arc gasifies the carbon-based part of waste materials such as municipal solid waste, sludge, agricultural waste, etc., and generates a synthetic gas which can be used to produce energy through reciprocating engine generators, gas turbines, and boilers. The noncarbon-based part of the waste materials form a vitrified glass and reusable metal. The goal of this study is to describe the basics of this technology, review the challenges and opportunities for implementation of plasma gas technology in WTE applications in the U.S., and provide a road map to eliminate current roadblocks for developing such projects.
+
+Below detectable level (BDL)
+landfill gas (LFG)
+municipal solid waste (MSW)
+plasma gasification technology (PGT)
+pyrolysis
+renewable energy
+syngas
+waste to energy (WTE)

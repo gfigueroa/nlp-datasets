@@ -1,0 +1,10 @@
+A versatile test bench and CAE environment are employed to characterize and simulate a 915MHz receiver subsystem. The subsystem, which down-converts to a 70MHz IF frequency, is constructed with coaxial components and characterized at several different levels. The 3GHz test bench used includes a vector network analyzer, a spectrum analyzer, and a synthesized signal source. Measurements are compared to system simulations enabled by HP EEsof's Series IV: Communications Design SuiteÂ¿ (CDS). Simulation accuracy is improved through the use of measured component level characterization data. This receiver case study provides powerful insight into the capabilities of modern measurement and simulation tools for assessment of system-level linear and non-linear performance. The revealing case study, developed for a new undergraduate course in Wireless Circuits and Systems, would be easily duplicated for in-house company training, short course seminars, as well as RF/microwave courses at other universities.
+
+1dB compression
+CAE
+RF measurements
+Wireless systems
+downconverter
+microwave measurements
+receiver
+system simulation

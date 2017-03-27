@@ -1,0 +1,7 @@
+This paper presents a hybrid hyperelastic model for rubbery material combining the GentThomas theory for low stretch deformation and the Ogden theory for large stretch deformation. Any deformation mode of rubbery materials is completely characterized by the studied model. A method for mechanical parameters identification is developed. So, comparison between experimental data and analytical solutions is made permitting discussions on the validity of different strain energy function domains. Good agreement between predicted results and experimental data is shown by the processing of the curves of simple tension and pure shear. © 2003 American Institute of Physics. 
+
+rubber
+elastic deformation
+elasticity
+continuum mechanics
+shear modulus

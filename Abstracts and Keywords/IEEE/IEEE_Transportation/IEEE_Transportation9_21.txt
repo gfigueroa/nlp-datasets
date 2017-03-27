@@ -1,0 +1,6 @@
+This paper applies the method of decomposition of wavefronts to ray tube tracing model. Energy ray tubes which are emitted from the source are modeled by three rays and the method of decomposition of wavefronts iteratively improves the accuracy of ray tracing. Comparison with applying the method of decomposition of wavefronts to conventional ray tracing is made afterwards. It is observed that by applying the method of decomposition of wavefronts to ray tube model, the accuracy of ray tracing can be improved much more efficiently and the simulation time decreases to almost a half.
+
+Decomposition of wavefronts
+indoor propagation
+ray tracing
+ray tube tracing

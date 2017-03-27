@@ -1,0 +1,13 @@
+A series of experimental trials was made on the oriented nucleation in the graphoepitaxial growth of germanium. The graphoepitaxial growth was performed from a germanium/metal eutectic alloy solution by scanning a cw argonion laser on a silicondioxide/tantalum/nickel substrate having a surface of pyramidal relief duplicated from the textured surface of (100) singlecrystalline silicon. In the germanium/metal system, the germanium can be grown at relatively low temperatures in the 300400	°C range by the eutectic effect. The laserinduced recrystallization of an eutectic alloy started at the bottom of the valleys and moved up to the top through the germanium/metal alloy phase. Then the metal was left on the top of the pyramids. When the laser scan was repeated, the surface became flat, and its crystallographic orientation was epitaxially controlled by the surface relief of the substrate.
+
+GERMANIUM
+GROWTH
+EPITAXY
+NUCLEATION
+ORIENTATION
+LASER RADIATION
+SILICON
+MONOCRYSTALS
+SURFACES
+TEXTURE
+EUTECTICS

@@ -1,0 +1,10 @@
+A marker study of the lutetium silicide prepared by vacuum furnace annealing of a Lu thin layer on Si substrate shows that Si atoms are the dominant diffusing species during the formation of LuSi2x. Rutherford backscattering spectrometry is used to determine the position of the marker before and after the annealing. The silicide films are characterized by xray diffraction and scanning electron microscopy.
+
+LUTETIUM SILICIDES
+THIN FILMS
+SOLIDPHASE EPITAXY
+DIFFUSION
+RBS
+XRAY DIFFRACTION ANALYSIS
+SCANNING ELECTRON MICROSCOPY
+CHEMICAL REACTIONS

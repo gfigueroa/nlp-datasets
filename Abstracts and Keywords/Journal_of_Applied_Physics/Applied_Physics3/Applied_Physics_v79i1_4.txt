@@ -1,0 +1,9 @@
+We formulate and discuss principles for designing computationally useful networks of Coulombblockade devices. Our particular focus is on locally interconnected synchronous networks in which the numerical discreteness of a computation is represented directly by the quantization of electron charge, i.e., electrons represent bits. To highlight our emphasis on circuits and architectural issues, and on performing locally interconnected computation rather than traditional logic as has been the interest heretofore (singleelectron logic), we refer to our networks as singleelectron digital circuits (SEDCs). In addition to being singleelectron and locally interconnected, the SEDCs we propose have a regular cellular structure with occupancyindependent biasings and with electronelectron interactions carefully controlled. The chief virtue of SEDCs is their scalability, both as devices (because of their Coulomb blockade basis) and as circuits (because of their local interconnectivity), perhaps even to molecular dimensions. We illustrate our approach with a number of new device and network designs based on electronpumplike structures and mostly directed at performing latticegas simulation. For this application we effectively create an electron gas within a SEDC which precisely mimics the lattice gas. Finally, we have validated our designs using numerical simulation and expect that at least some of them should be realizable in current technology. However, their promise of enormous levels of integration and performance should be tempered with a clear awareness of the many obstacles associated with fabrication and economics which must be overcome if they are ever to be the foundation for a practical computer technology. 
+
+COULOMB FIELD
+DESIGN
+DIGITAL CIRCUITS
+ELECTRON CHARGE
+INTEGRATED CIRCUITS
+QUANTIZATION
+TUNNEL EFFECT

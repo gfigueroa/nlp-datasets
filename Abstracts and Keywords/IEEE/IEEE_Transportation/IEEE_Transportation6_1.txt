@@ -1,0 +1,5 @@
+This paper describes the behavior of two popular thin-QR decomposition algorithms when they are implemented using fixed-point arithmetic. This behavior is studied in the context of a V-BLAST receiver, and the effects of the limited precision are evaluated in terms of their impact on the receiver's bit error rate. Our analysis of V-BLAST under these conditions shows a strong dependence on the numerical precision, for both the integer and fractional parts. We have also identified an "error floor" effect, where the bit error rate reaches a limit and stops improving even if the precision is increased. In addition, we have determined the minimum fixedpoint word size required not to adversely impact the performance for a variety of antenna array sizes.
+
+Fixed-Point Arithmetic
+QR decomposition
+VBLAST

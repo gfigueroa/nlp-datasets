@@ -1,0 +1,6 @@
+The interaction of low energy electrons with multimode combined intense laser beams in vacuum was studied by using three-dimensional test particle simulation. The process of interaction and the ponderomotive potential structures of some multimode combined intense laser beams are analyzed in detail. This article presents the detailed characteristics of the multimode combined intense laser-induced electron acceleration and violent bunch compression [Wang et al., Appl. Phys. Lett. 82, 2752 (2003)]. The properties of the output electron bunch are also investigated.© 2004 American Institute of Physics. 
+
+laser beam effects
+pulse compression
+electron beam pumping
+electron accelerators

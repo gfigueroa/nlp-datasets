@@ -1,0 +1,5 @@
+In this paper, a new type of air core current transformer (Rogowski coil) for easily industrialized application is introduced. Based on the analysis of the working principle of air core current transformer with separate coils, a design method called error balance method (EBM) is proposed by considering the adjacent interference and sensitivity to the position variation of the conductor carrying primary current. The improved performance of the new type of air core current transformer is validated by both simulation and test results.
+
+Current transformer
+Rogowski coil
+adjacent interference

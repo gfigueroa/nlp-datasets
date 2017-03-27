@@ -1,0 +1,13 @@
+Ellipsometry signal oscillations were clearly seen during metalorganic vapor-phase epitaxy (MOVPE) of IIIV materials under high sample rotation at 1400 rpm. The ellipsometric signal oscillated at a period corresponding to 1 ML of MOVPE growth. Oscillations correlated with the formation of islands due to nucleation on terraces during the growth of 1 ML. Different surface reconstructions between (100) terraces (As stable) and (111)A step edges (Ga stable) result in different dielectric functions. The effective medium dielectric response of rough and smooth surfaces appears to be responsible for different ellipsometry signals. Layer thickness and InGaAs composition were precisely determined in situ. Critical layer thickness and In composition for InGaAs quantum-dot formation were also evaluated directly from in situ ellipsometry data. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+ellipsometry
+semiconductor growth
+vapour phase epitaxial growth
+MOCVD coatings
+surface topography
+dielectric function
+monolayers

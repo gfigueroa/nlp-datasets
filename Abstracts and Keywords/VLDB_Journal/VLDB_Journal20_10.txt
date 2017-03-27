@@ -1,0 +1,9 @@
+A common approach to performing keyword search over relational databases is to find the minimum Steiner trees in database graphs transformed from relational data. These methods, however, are rather expensive as the minimum Steiner tree problem is known to be NP-hard. Further, these methods are independent of the underlying relational database management system (RDBMS), thus cannot benefit from the capabilities of the RDBMS. As an alternative, in this paper we propose a new concept called Compact Steiner Tree (CSTree), which can be used to approximate the Steiner tree problem for answering top-k keyword queries efficiently. We propose a novel structure-aware index, together with an effective ranking mechanism for fast, progressive and accurate retrieval of top-k highest ranked CSTrees. The proposed techniques can be implemented using a standard relational RDBMS to benefit from its indexing and query-processing capability. We have implemented our techniques in MYSQL, which can provide built-in keyword-search capabilities using SQL. The experimental results show a significant improvement in both search efficiency and result quality comparing to existing state-of-the-art approaches.
+
+Keyword search
+Relational databases
+Steiner Tree
+Compact Steiner tree
+Approximate algorithms
+Structure-aware index
+Progressive search

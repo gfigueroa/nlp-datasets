@@ -1,0 +1,12 @@
+The dielectric behavior and the main features of the diffuse phase transition of nondoped and rare earth (La, Nd, or Gd) doped Sr0.61Ba0.39Nb2O6 relaxor ferroelectric ceramics were carefully investigated. The dopant incorporation gives rise to one continuous decrease of the temperatures of maximum dielectric permittivity. The whole set of the effects of rare earth (RE) doping on SBN diffuse phase transition and relaxation features can be attributed to the RE site distribution. In fact, the dopant incorporates into the tungsten bronze A2 sites, giving rise to the strong random field sources that act mainly on destroying the ferroelectric long-range interactions. This A2-sites occupation also affects the dielectric permittivity frequency response, whereas the relaxation strength (”Trs=Tm(1	MHz)Tm(100
+Hz)) increases with RE content increasing. This effect can be explained considering that the dopant roughens the free energy landscape, promoting strong changes in the volume size distribution of the interacting ferroelectric clusters. © 2002 American Institute of Physics. 
+
+neodymium
+gadolinium
+lanthanum
+strontium compounds
+barium compounds
+ferroelectric ceramics
+ferroelectric transitions
+dielectric relaxation
+permittivity

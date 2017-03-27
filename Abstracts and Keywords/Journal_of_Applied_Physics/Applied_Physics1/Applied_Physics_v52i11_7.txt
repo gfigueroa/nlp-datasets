@@ -1,0 +1,16 @@
+This paper reports an experimental and theoretical analysis of the diffusivity of electrons in Si as function of temperature, field strength, and field direction. Results for the longitudinal diffusion coefficient have been obtained experimentally for fields applied along 111	 and 100	 directions with timeofflight and noise measurements. Calculations have been performed with the Monte Carlo procedure. The theoretical analysis, which includes an extensive discussion of the intervalley diffusion process, has yielded a revised version of the silicon model which correctly interprets both the new diffusion data and other wellestablished electron transport properties. The revision of the model is mainly concerned with the relative weights of f and g intervalley scattering mechanisms. In fact the interpretation of the anisotropy of the diffusion allows separate estimates of the two types of scattering through their different effects on the intervalley diffusion which comes about when electrons have different drift velocities in different valleys.
+
+SILICON
+ELECTRONS
+DIFFUSIVITY
+DATA
+MATHEMATICAL MODELS
+THEORETICAL DATA
+TEMPERATURE DEPENDENCE
+ELECTRIC FIELDS
+TIMEOFFLIGHT METHOD
+NOISE
+CRYSTAL LATTICES
+MONTE CARLO METHOD
+SCATTERING
+ANISOTROPY

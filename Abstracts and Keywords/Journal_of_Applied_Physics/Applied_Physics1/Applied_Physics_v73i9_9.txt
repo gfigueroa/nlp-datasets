@@ -1,0 +1,12 @@
+The effect of coupling between quantum wells on the optical gain has been examined here. Although the results of the calculations mostly agree with previous qualitative expectations of gain suppression with coupling, there are some important exceptions. It is shown that the dependence of peak gain or threshold current density is not a monotonic function of the barrier thickness, and more importantly there are barrier thicknesses (beyond the almost opaque barrier case) for which optical gain can be enhanced and threshold current density reduced as compared to the values for an uncoupled structure. Results and discussion for the gain peak and threshold current density of a GaAs/Al0.3Ga0.7As double quantum well system are presented as a specific example
+
+QUANTUM WELLS
+SEMICONDUCTOR LASERS
+GAIN
+MULTILAYERS
+COUPLING
+THRESHOLD CURRENT
+THICKNESS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS

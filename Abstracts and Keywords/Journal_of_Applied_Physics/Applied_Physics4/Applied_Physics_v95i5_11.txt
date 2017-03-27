@@ -1,0 +1,8 @@
+We present a model that provides a description of the microwave dielectric loss in oxides. The dielectric loss (tan
+´) in single crystal and polycrystalline MgO and Al2O3 is measured over the temperature range 70300 K. We are able to model the dielectric loss in terms of a two-phonon difference model. There are two key parameters in this model: The third derivative, Õ3, of the lattice potential and the linewidth, ³, of the thermal phonons. In polycrystalline samples, rather than considering the different mechanisms of extrinsic loss, it is assumed that the main effect of extrinsic factors is a modification of the linewidth of the thermal phonons. By varying ³(T), it is shown that the model can describe the loss in both single crystals and polycrystallines materials. In single crystal and polycrystalline MgO, we use ³ as a fitting parameter. In single crystal and polycrystalline Al2O3, we obtain ³(T) by Raman spectroscopy. The theory gives the right order of magnitude of the measured loss. © 2004 American Institute of Physics. 
+
+magnesium compounds
+aluminium compounds
+dielectric losses
+phonon-phonon interactions
+Raman spectra

@@ -1,0 +1,14 @@
+The timeofflight (TOF) measurements for ions in the expanding plume during laser ablation of Y1Ba2Cu3Ox are performed. The TOF spectra consist of peaks of only the monatomic ions. The drift velocities for these ions are revealed to be (24)×106 cm/s at the laser fluence of 2.0 J/cm2 and an oxygen pressure of 103 Torr. These velocities are affected by the ablation conditions, and are found to increase with increasing laser fluence and decrease with increase of oxygen pressure. The velocity distributions for the ions at high oxygen pressure are described by the supersonic expansion model with a distribution width narrowing with decreasing oxygen pressure.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+HIGHTC SUPERCONDUCTORS
+ABLATION
+MASS SPECTROSCOPY
+TIMEOFFLIGHT METHOD
+VELOCITY DISTRIBUTION
+IONS
+LASER RADIATION
+SUPERCONDUCTING FILMS

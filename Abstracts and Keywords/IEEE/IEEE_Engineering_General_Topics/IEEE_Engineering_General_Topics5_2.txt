@@ -1,0 +1,6 @@
+Test purposes are requirements, usually constructed by hand, which aim at testing critical properties on implementations. These ones are then used by testing methods to generate test cases. Writing them manually is a heavy task, this is why we propose several techniques to generate test purposes automatically or semi-automatically from a specification. These methods use different strategies for test purpose generation in order to focus on specific communication protocol properties like the test of critical states and actions, or the test of service invocations.These methods are basically based on a test purpose design language which takes into consideration testability. This one measures the test quality of a system with the evaluation of several criteria (observability, controllability,...). Measuring the testability while generating test purposes helps to reduce the test costs and helps to improve the fault detection during the testing process.
+
+Timed protocols
+conformance testing
+test purpose
+testability

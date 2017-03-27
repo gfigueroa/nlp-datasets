@@ -1,0 +1,11 @@
+Ultrathin ferroelectric LangmuirBlodgett films are studied using an electrostatic force microscope (EFM). The films were deposited by a subsequent transfer of monolayers of a ferroelectric polymer from the water surface onto Si substrates covered with Al electrodes. A film was switched locally by a voltage applied between a tip and the Al electrode. The dynamics of the electric field relief above a switched ferroelectric domain is studied by EFM imaging with simultaneous control of the topographic relief. In order to explain an image contrast a simple model for a thin ferroelectric film is discussed which takes into account the remanent polarization of the film, the surface charge, and interface work functions. © 2001 American Institute of Physics.
+
+ferroelectric materials
+polymers
+ferroelectric thin films
+Langmuir-Blodgett films
+ferroelectric switching
+monolayers
+electric domains
+dielectric polarisation
+work function

@@ -1,0 +1,5 @@
+In this paper, a novel objective evaluation of depth image based rendering (DIBR) is proposed for the 3D video in format of a monocular video augmented by the gray-scale depth image. The metric is composed of Color and Sharpness of Edge Distortion(CSED) measure. Color distortion measures the luminance loss of the rendered image compared with the reference, and sharpness of edge distortion calculates a depth-weighted proportion of remaining edge to the original edge. Comparing to the conventional quality metrics such as MSE and PSNR, our metric represents not only the color artifact but also the synthesis error with above two aspects. Subjective assessment of the different rendering methods is done as well, and the obtained results show significant agreement with our objective metric.
+
+3DTV
+depth image based rendering
+objective quality assessment

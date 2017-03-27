@@ -1,0 +1,5 @@
+Friction-type reinforcing members (FRMs) developed for the purpose of enhancing the wind-resistant performance of transmission towers are tested experimentally. The FRMs, in the middle of which slotted bolted connections (SBCs) are installed, are placed on the outside of tower legs, and provide additional damping and stiffness to the tower structure under bending deformations. First, the SBCs used in the FRMs are tested for various frictional sliding interface conditions. Second, the FRMs are installed on a 1/2 scale plane tower substructure and cyclic loading tests are conducted. Energy dissipation capacity and effects from local deformations of the FRMs and joint slips are investigated. From the test results, remarkable energy dissipation capacity, reaching to the 2.4 times of that before the installation of the FRMs, is observed. However, the local deformation of the SBC and joint slip should be prevented for more reliable design of the FRMs.
+
+Energy dissipation
+transmission tower
+wind load

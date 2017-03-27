@@ -1,0 +1,15 @@
+The heteroepitaxy of a-plane (110) InN films on r-plane (102) sapphire substrates, by nitrogen radio frequency plasma-assisted molecular beam epitaxy, has been investigated and compared to that of c-plane (0001) InN. The epitaxial growth of a-plane InN proceeded through the nucleation, growth, and coalescence of three-dimensional islands, resulting in surface roughness that increased monotonically with epilayer thickness. The full width at half maximum of (110) x-ray diffraction rocking curves decreased significantly with increasing InN thickness, characteristic of structural improvement, and it reached the value of 24 arcmin for a 1¼m thick film. Hall-effect measurements exhibited a similar dependence of electron concentration and mobility on thickness for both the a- and c-plane InN films. The analysis of the Hall-effect measurements, by considering the contribution of two conducting layers, indicates a similar accumulation of low mobility electrons with Ns&gt;1014cm2 at the films surface/interfacial region for both the a- and c-plane InN films. From optical transmittance measurements, the absorption edge of 0.768 eV was determined for the 1¼m a-plane film, consistent with the expected BursteinMoss effect. Photoluminescence spectra exhibited a lower energy peak at 0.631 eV, suggesting defect-related transitions.
+
+electron density
+electron mobility
+Hall effect
+III-V semiconductors
+indium compounds
+molecular beam epitaxial growth
+nucleation
+photoluminescence
+plasma materials processing
+semiconductor growth
+semiconductor thin films
+wide band gap semiconductors
+X-ray diffraction

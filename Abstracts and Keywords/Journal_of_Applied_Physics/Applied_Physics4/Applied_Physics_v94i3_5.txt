@@ -1,0 +1,9 @@
+Lubricative coatings of copper oxide on a stainless-steel substrate were synthesized by a rf magnetron sputter deposition method with a different gas ratio of oxygen and argon in sputter plasma. The crystal structure of the coatings was analyzed with x-ray diffraction spectroscopy. The friction force of the coating films in atmospheric pressure and in an ultrahigh vacuum (UHV) was evaluated by a vacuum pin-on-disk tribometer with different ball probes. Friction coefficients (¼) as low as 0.03 and 0.05 for a stainless-steel ball were achieved in atmospheric pressure and in an UHV, respectively. A value of ¼=0.04 was also realized for a silicon nitride ball both in atmospheric pressure and in an UHV. Surface energy was analyzed by a contact angle measuring method which reveals that the behavior of the frictional properties correspond with that of the surface energy. Since the coatings consist of oxide, they will be applicable to a low-frictional coating with resistance to oxidation for aerospace applications in a low Earth orbit environment. © 2003 American Institute of Physics. 
+
+copper compounds
+lubrication
+sputtered coatings
+X-ray diffraction
+friction
+surface energy
+contact angle

@@ -1,0 +1,7 @@
+Two-dimensional (2D) honeycomb photonic crystals with cylinders and connecting walls have the potential to have a large full band gap. In experiments, 2D photonic crystals do not have an infinite height, and therefore, we investigate the effects of the thickness of the walls, the height of the slabs, and the type of the substrates on the photonic bands and gap maps of 2D honeycomb photonic crystal slabs. The band structures are calculated by the plane wave expansion method and the supercell approach. We find that the slab thickness is a key parameter affecting the band gap size, while on the other hand the wall thickness hardly affects the gap size. For symmetric photonic crystal slabs with lower dielectric claddings, the height of the slabs needs to be sufficiently large to maintain a band gap. For asymmetric claddings, the projected band diagrams are similar to that of symmetric slabs as long as the dielectric constants of the claddings do not differ greatly.
+
+honeycomb structures
+photonic crystals
+photonic band gap
+energy gap
+permittivity

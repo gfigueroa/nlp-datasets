@@ -1,0 +1,10 @@
+A numerical study is made of the impurity photovoltaic (IPV) effect in crystalline Si p-n junction solar cells. Application is made to In impurities whose energy level is at 0.157 eV above the valence band edge. The numerical resolution of Poissons equation and the continuity equations for electrons, holes and defect levels yields the currentvoltage curves for different impurity concentrations Nt, from which the short-circuit current density Jsc, the open-circuit voltage Voc, and the energy conversion efficiency · is obtained. It is shown that increasing the defect concentration Nt with respect to the background donor concentration leads to an increase of Jsc but decreases Voc and ·. A modified defect concentration profile in a p-n-n+ structure is suggested to extract the maximum benefit from the IPV effect. © 1999 American Institute of Physics.
+
+silicon
+elemental semiconductors
+indium
+solar cells
+photovoltaic effects
+current density
+defect states
+impurities

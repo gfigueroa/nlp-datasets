@@ -1,0 +1,17 @@
+The magnetic behavior and domain structure of Fe films grown on yttriumirongarnet (YIG) underlayers were studied to elucidate their interlayer coupling, as a function of the Fe layer thickness, using magnetic force microscopy (MFM) and magneto-optic Kerr effect (MOKE). The YIG layer, grown by liquid phase epitaxy on single crystal gadoliniumgalliumgarnet (GGG) substrates, showed a characteristic stripe domain structure in MFM images. Fe layers with thickness values of (5, 10, and 20 nm) were separately deposited on the YIG layer using ion beam sputtering system at room temperature. MOKE measurements of Fe/YIG/GGG with different Fe thickness showed that Fe films preferred to be magnetized perpendicular to the surface when the thickness was less than 20 nm. Stripe domain structure was observed for Fe thickness of 5 and 10 nm, but not for 20 nm film. Micromagnetic simulations of these Fe/YIG bilayers show that the volume exchange stiffness term at the interface plays a dominant role, when compared with the bilinear and biquadratic coupling contributions, in determining the interlayer coupling. © 2004 American Institute of Physics. 
+
+iron
+yttrium compounds
+gadolinium compounds
+garnets
+magnetic thin films
+exchange interactions (electron)
+magnetic hysteresis
+magnetic domains
+magnetic structure
+Kerr magneto-optical effect
+liquid phase epitaxial growth
+sputter deposition
+micromagnetics
+interface structure
+magnetic force microscopy

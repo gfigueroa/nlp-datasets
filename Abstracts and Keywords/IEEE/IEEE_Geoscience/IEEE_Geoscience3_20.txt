@@ -1,0 +1,12 @@
+The paper concerns the identification of the development of the Polish electric power market (REE). First, the electric power market was characterized, and then the problem of the development of the electrical power market from the point of view of the system was formulated. Numerical data for the period of 1946-2007 were used in the experiments. Identification was carried out at the level of five integrated subsystems: power and electrical power production system, transmission system operator, power and electrical power distribution operator, system of turnover companies, electrical energy exchange system. A number of development models were obtained with the assumed model being MISO and the method of parametric identification - arx. The identification was conducted in the MATLAB and Simulink environments. Selected results of identification were presented in the paper in the form of arx model (th matrices) and in the form of state variables model (matrices A, B, C, D). The paper also presents selected characteristics of development for individual subsystems as well as Evans' root lines graphs. Detailed results of the research were presented and published in the conference materials in XPlore. The research is in continued.
+
+electric power
+energy management
+product development
+product safety
+productivity
+programming environments
+state space methods
+statistical databases
+structural engineering
+system identification

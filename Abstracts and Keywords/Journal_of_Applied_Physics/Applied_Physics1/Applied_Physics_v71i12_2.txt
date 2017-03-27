@@ -1,0 +1,10 @@
+The kinetics of the formation and decay of pulsed nitrogen rf plasmas have been investigated with time and spatially resolved optical emission and laser induced fluorescence spectroscopy. At a gas pressure of 3 Pa the decay of the N2+ ions, after the power is switched off, is caused by dissociative recombination and ambipolar diffusion to the wall. At higher pressures (30 Pa) the formation of N4+ has to be taken into account. An accurate method to determine the ion density from the second order decay is presented. A numerical model of the time evolution of the ion concentration profile is developed, which renders good agreement with the experimental data. Kinetic measurements of the rotational (Tr) and vibrational (Tv) temperature of N2+ show that Tr and Tv of N2+ are in equilibrium with Tr and Tv of the N2 gas. The vibrational temperature is, however, much higher than the rotational temperature. This observation can be readily explained on the basis of the results of the kinetic measurements. The experimental excitation and cooling rates for the translational, rotational, and vibrational energy levels of the N2 molecules are compared to simulations.
+
+HIGHFREQUENCY DISCHARGES
+ION DENSITY
+PLASMA DIAGNOSTICS
+NITROGEN
+TIMING PROPERTIES
+TEMPERATURE MEASUREMENT
+DECAY
+RECOMBINATION

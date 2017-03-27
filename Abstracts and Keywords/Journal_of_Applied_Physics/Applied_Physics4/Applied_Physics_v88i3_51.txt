@@ -1,0 +1,12 @@
+We have fabricated conductive-ferromagnetic [(La0.8Sr0.2)MnO3/antiferromagnetic-[LaFeO3] spin-frustrated superlattices and insulative-ferromagnetic [La1´MnO3]/magnetic [LaMO3] (M=Ni,Co,Cr,Fe) superlattices through accurate unit cell control (110 units) using a laser-molecular beam epitaxy technique. In [(La,Sr)MnO3]m/[LaFeO3]n superlattices, it has been observed that resistivity is increased and TC is reduced from 270 to 130 K when the antiferromagnetic layer is increased. Metalinsulator transition occurred systematically in a series of superlattices (m=2) with n increasing from 1 to 3 unit cells. This can be explained by spin frustration induced by the neighboring antiferromagnetic spin order. This colossal magnetoresistance effect is enhanced by up to 35% in a magnetic field of 1.0 T. In [LaMnO3]1/[LaMO3]1 superlattices, reduction (M=Cr,Fe) and enhancement (M=Co,Ni) of TC have been observed. We propose an expression for TC on the basis of the molecular field image and demonstrate that the ferromagnetism is systematically affected by the neighboring magnetic layers via the interface. © 2000 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+colossal magnetoresistance
+metal-insulator transition
+ferromagnetic materials
+antiferromagnetic materials
+spin dynamics
+exchange interactions (electron)
+magnetic multilayers
+giant magnetoresistance

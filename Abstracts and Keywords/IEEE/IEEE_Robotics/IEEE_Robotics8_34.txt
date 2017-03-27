@@ -1,0 +1,6 @@
+It is important to design an agent with logical and decisive rationality in agent organization. Study about organization focuses on the definition of agent organization model and the analysis of organization formation and evolution, an attractive and challenging issue is how to combine logical and decisive rationality into a uniform framework. This paper aims at arguing the combination with logic and decision in agent organization. To pursue this aim, we extend the notions of commitment and obligation with utility in agent organization and utility reflects agent decision. In order to systematize the notions, formal tools are introduced to describe them as well as the semantics of utility for commitment and obligation are defined. We specify the properties and consequences of the extension for agent organization
+
+Agent organization
+commitment
+obligation
+utility

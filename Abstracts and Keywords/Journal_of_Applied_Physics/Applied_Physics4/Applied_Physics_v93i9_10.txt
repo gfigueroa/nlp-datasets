@@ -1,0 +1,10 @@
+Pulses of nonequilibrium phonons (heat pulses) have been used to mimic the absorption of x-ray photons in superconducting niobium tunnel junctions. For device characterization, the technique provides a valuable alternative to photoabsorption with good time resolution and continuous variability of absorbed energy. In addition, excitation is uniform across the tunnel junction, so that the effects of quasiparticle diffusion can be neglected in the analysis, and hence, the RothwarfTaylor equations solved exactly. Consistency is obtained between device parameters obtained from phonon measurements and those inferred from modeling of photoabsorption. In addition, the quasiparticle recombination rate can be determined directly from the nonlinearity of the energy response. © 2003 American Institute of Physics. 
+
+niobium
+superconductive tunnelling
+X-ray detection
+superconducting particle detectors
+superconducting junction devices
+interface phonons
+quasiparticles
+type II superconductors

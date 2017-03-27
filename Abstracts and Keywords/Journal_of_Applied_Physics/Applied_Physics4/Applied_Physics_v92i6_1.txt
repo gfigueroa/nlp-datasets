@@ -1,0 +1,8 @@
+The complex impedance of a semiconductor superlattice biased into the regime of negative differential conductivity and driven by an additional gigahertz ac voltage is computed. From a simulation of the nonlinear spatiotemporal dynamics of traveling field domains we obtain strong variations of the amplitude and phase of the impedance with increasing driving frequency. These serve as fingerprints of the underlying quasiperiodic or frequency locking behavior. An anomalous phase shift appears as a result of phase synchronization of the traveling domains. If the imaginary part of the impedance is compensated by an external inductor, both the frequency and the intensity of the oscillations strongly increase. © 2002 American Institute of Physics. 
+
+semiconductor superlattices
+high-frequency effects
+synchronisation
+electric impedance
+negative resistance
+nonlinear dynamical systems

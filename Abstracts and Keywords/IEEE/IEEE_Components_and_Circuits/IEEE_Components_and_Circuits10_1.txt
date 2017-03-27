@@ -1,0 +1,6 @@
+Planter force plays an important role in the gait analysis and other biomedical applications. The paper presents a study on the designing of a new MEMS (Micro Electro-Mechanical system) force sensor for plantar force measurement. This force sensor consists of a metal elastic element and a MEMS strain gauge realized through SOI (silicon on insulator) technology. The process of design and fabrication of the strain gauge and metal elastic element is given. A commercial software tool ANSYSTM is introduced to help validate the usability of the elastic element structure and determine the proper position of the strain gauge in the bottom surface of the metal elastic element. The calibration result confirms the feasibility and the effectiveness of the sensor.
+
+MEMS
+force measurement
+planter pressure
+sensor

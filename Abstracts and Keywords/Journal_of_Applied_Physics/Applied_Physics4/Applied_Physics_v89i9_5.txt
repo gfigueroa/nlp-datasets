@@ -1,0 +1,11 @@
+The formation process of point defect clusters in high-purity (99.999%) iron as a typical bcc metal under the irradiation with low-energy (5
+keV)He+ is studied by in situ transmission electron microscopy (TEM). Using conventional TEM techniques, clusters induced by the irradiation are determined to be interstitial-type dislocation loops (I loops) at temperatures ranging from 85 to 770 K and cavities from 300 to 770 K. Most of the I loops are determined to lie on {100} planes, and their Burgers vector are determined to be a[100]. The temporal variation in the volume density of I loops is measured by stereomicroscopy at several temperatures. The volume density of I loops is about two orders of magnitude higher in comparison with the case of high-energy electron irradiation at the same dpa rate; hence, it is deduced that helium atoms have an effect enhancing the nucleation of I loops. The depth distribution of the loop densities becomes broad above around 235 K at which vacancies become thermally mobile, and the dependence of loop formation on He+ beam flux is weak. From these results, it is suggested that helium-vacancy complexes act as trapping sites of self-interstitial atoms and I-loop nucleation is enhanced. © 2001 American Institute of Physics.
+
+iron
+dislocation loops
+transmission electron microscopy
+ion-surface impact
+ion beam effects
+point defects
+vacancies (crystal)
+interstitials

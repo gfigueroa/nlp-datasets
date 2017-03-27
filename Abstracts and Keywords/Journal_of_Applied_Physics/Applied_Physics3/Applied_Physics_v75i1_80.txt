@@ -1,0 +1,13 @@
+We have grown InGaAs quantum wells (QW), lattice matched to InP, with spatially modulated thickness along the [011] direction of the crystal. Kinetic roughening alters the morphology of the underlying InP buffer layer and leads to the modulation of the well thickness. Photoluminescence (PL) emission reveals two distinct peaks, corresponding to excitons bound to well sections of different thicknesses. Comparison of PL spectra of 10 and 40 Å QW samples at different temperatures clearly indicates carrier confinement in the thicker well section. This effect is potentially useful for the preparation of quantum wires.
+
+QUANTUM WELLS
+MOLECULAR BEAM EPITAXY
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+INDIUM PHOSPHIDES
+TERNARY COMPOUNDS
+THICKNESS
+MODULATION
+PHOTOLUMINESCENCE
+ATOMIC FORCE MICROSCOPY
+MORPHOLOGY

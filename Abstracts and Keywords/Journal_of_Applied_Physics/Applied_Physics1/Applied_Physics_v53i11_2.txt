@@ -1,0 +1,13 @@
+The Hall mobility of copper phthalocyanine as a function of temperature has been measured using a microwave technique at 10 GHz. The mobility increases from 40 cm2/Vsec at 300 K to 200 cm2/Vsec at 100 K. The Hall mobility shows a negative sign, in agreement with other observations, and displays a T1.5 temperature dependence, in fair agreement with theory. A new instrument for measuring low temperature Hall mobilities, which allows simpler tuning by keeping the cavity at room temperature, is presented.
+
+copper complexes
+phthalocyanines
+Hall effect
+mobility
+microwave radiation
+monocrystals
+temperature dependence
+GHz range 01100
+medium temperature
+low temperature
+measuring instruments

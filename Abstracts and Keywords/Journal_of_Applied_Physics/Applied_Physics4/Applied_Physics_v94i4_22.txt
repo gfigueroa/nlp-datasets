@@ -1,0 +1,4 @@
+Currentvoltage characteristics were obtained at room temperature on duplex »-deoxyribonucleic acid (DNA) molecules labeled with disulfide end groups in two configurations: Either the disulfide groups were attached to the 32 ends of opposite DNA strands, or on the same strand at one 32 end and at one 52 end. In the latter configuration, only one strand is attached and contacted to the two Au electrodes utilized in the measurement. The currentvoltage characteristics of both configurations are linear and do not reveal significant differences. The disulfide end groups in either configuration thus provide an equivalent contact. Moreover, the strand contacted at both ends by disulfide groups is not preferred for charge transport which, hence, involves the complete double-helical structure. © 2003 American Institute of Physics. 
+
+DNA
+transport processes

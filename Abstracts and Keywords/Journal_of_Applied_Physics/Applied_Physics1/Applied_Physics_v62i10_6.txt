@@ -1,0 +1,13 @@
+A novel point contact technique for directly measuring Fermilevel variations in biased semiconductor diodes is described. This technique is applied to Al/nSi and Al/SiO2/pSi structures, and the results are shown to be in good agreement with the drift/diffusion limit of diode transport theory.
+
+SCHOTTKY BARRIER DIODES
+FERMI LEVEL
+MEASURING METHODS
+SEMICONDUCTOR DIODES
+DIFFUSION
+CHARGEDPARTICLE TRANSPORT
+SILICON
+ALUMINIUM
+SILICA
+CHARGE CARRIERS
+EXPERIMENTAL DATA

@@ -1,0 +1,5 @@
+We demonstrate analytically that long-period fiber gratings operating near the maximum of a cladding mode's phase-matching curve can be designed to exhibit far broader bandwidths (around 800nm) than reported to date, at any center wavelength and with any peak attenuation. In a given fiber, the center wavelength and attenuation are controlled independently by properly selecting the grating period and length, respectively, Extremely large bandwidths are obtained by increasing the grating index perturbation, by increasing the fiber core radius, andor optimizing the numerical aperture. Implemented with a mechanically induced grating, this concept produced a 1465nm filter with a record 10dB bandwidth of 360nm.
+
+diffraction gratings
+optical fibre cladding
+light transmission

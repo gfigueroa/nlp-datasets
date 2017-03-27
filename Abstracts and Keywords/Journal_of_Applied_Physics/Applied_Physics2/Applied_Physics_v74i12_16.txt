@@ -1,0 +1,11 @@
+Concentration profiles and diffusion coefficients of deuterated polystyrene chains (27	000104	000 amu) diffusing into hydrogenated polystyrene (hPS) matrices (90	000 and 590	000 amu) were measured by forward recoil of 2.0 MeV He ions. This experimental procedure allows us to detect the diffusion coefficient in the range 3×10153×1013 cm2/s. The irradiation of the hPS layer with ion beam changes the interdiffusion properties. The diffusion coefficient, measured in hPS irradiated with 300 keV H+ in the 5×10112×1014 ions/cm2 fluence range, does not change at low fluence, instead it is reduced for a threshold fluence whose value depends on the matrix molecular weight. High fluence irradiation of hPS decreases the polymer solubility because crosslinks between the original chains, produced by ion irradiation, yield a threedimensional network (gel). By combining diffusion and solubility measurements, for both molecular weights, we observed that the diffusion process is slowed down when, in the irradiated hPS is produced a gel fraction of 0.8, which corresponds to a polymer structure containing an average of 1.0 crosslink per chain. This result does not depend on the marker molecular weight.
+
+POLYSTYRENE
+GELS
+DIFFUSION
+CHAINS
+PHYSICAL RADIATION EFFECTS
+HYDROGEN IONS
+SOLUBILITY
+CROSSLINKING
+DEUTERATION

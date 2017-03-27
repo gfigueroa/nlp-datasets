@@ -1,0 +1,11 @@
+The stepfrequency radar is proposed as a means of detecting targets imbedded in high loss media. The radar derives information on target distance by exploiting the phase and amplitude characteristics of the returned signal. With a given frequency change, the phase angle change from a faroff target is larger, and therefore its phasor rotates faster, than that from a closeby target. Distance information is conveniently derived by applying the Fast Fourier Transform algorithm. The radar is able to offset an arbitrary distance and zoom to the targets, thereby obtaining fine resolution. With Wiener filtering, the resolution of the radar is high enough to identify the type, as well as the orientation, of the buried targets. A subtraction feature has also been incorporated which allows scattering from unwanted targets to be cancelled out from that of the wanted targets. The radar was successfully demonstrated for the detection and identification of various targets buried in sand, moist clay soils, underwater, as well as for the mapping of thin ice.
+
+TARGETS
+RADAR
+RESOLUTION
+SIGNAL PROCESSING
+MAPPING
+USES
+ICE
+SENSITIVITY
+DESIGN

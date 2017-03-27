@@ -1,0 +1,10 @@
+We have measured the electron emission from a CsIcoated multiwire cathode, induced by ultraviolet photons and electrons, in vacuum at high electric fields. We found an enhancement in quantum efficiency of a factor of 1.5 at 160 nm, 3 at 185 nm, and 25 above 200 nm, at a field of 500 kV/cm. At the short wavelengths the amplitude of the effect is a linear function of the square root of the field strength. The enhancement of the electroninduced secondary electron emission yield is dependent on the primary electron energy: for energies above 1 keV it varies by a factor of 2 to 10. A simple model of the field enhancement of the photoemission is suggested. Practical applications are discussed. © 1995 American Institute of Physics.
+
+CESIUM IODIDES
+SECONDARY EMISSION
+PHOTOEMISSION
+PHOTOCATHODES
+ELECTRON EMISSION
+ULTRAVIOLET RADIATION
+QUANTUM EFFICIENCY
+ELECTRIC FIELD EFFECTS

@@ -1,0 +1,13 @@
+The laserassisted chemical vapor deposition of metals is modeled. The case of pyrolytic deposition induced by a continuous laser source is considered. The heat transfer in the solid substrate is considered to be transient, while the gasphase heat and mass transfer are assumed to be in the quasisteady state. The model accommodates the use of temperaturedependent physical properties and the occurrence of irregularly shaped deposits. The modeling equations are solved by a finite element approach which is briefly described. Volcanolike deposits are predicted under certain conditions of gas pressure and laser intensity. Model predictions show that depletion effects and adsorptiondesorption phenomena are major factors in influencing the occurrence of volcanolike deposits.
+
+NICKEL
+CHEMICAL VAPOR DEPOSITION
+NICKEL CARBONATES
+SURFACE STRUCTURE
+MATHEMATICAL MODELS
+KINETICS
+MASS TRANSFER
+LASERRADIATION HEATING
+PYROLYSIS
+ADSORPTION
+DESORPTION

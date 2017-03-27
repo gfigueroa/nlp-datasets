@@ -1,0 +1,7 @@
+Through the numerical solution of the time-dependent Schrödinger equation, the tunneling current through ultrathin gate oxides in metal-oxide-semiconductor (MOS) structures was computed. The tunneling current exhibited oscillatory behavior, which was attributed to wave interference. It is found that the oscillation amplitude decreases as the oxide thickness is increased. This amplitude decrease used to be attributed to different scattering mechanisms. However, we will show that the oscillation amplitude decrease as oxide thickness is increased is an intrinsic quantum-tunneling feature. Furthermore, we will also show that the oscillation amplitude decreases as well when the semiconductor effective mass in the MOS structures is increased, vanishing when the semiconductor effective mass reaches that of a metal, thus forming a metal-insulator-metal (MIM) structure. This result pinpointed why tunneling current oscillation has never been observed experimentally in MIM-like structures. © 2001 American Institute of Physics. 
+
+MIS structures
+tunnelling
+quantum interference phenomena
+Schrodinger equation
+effective mass

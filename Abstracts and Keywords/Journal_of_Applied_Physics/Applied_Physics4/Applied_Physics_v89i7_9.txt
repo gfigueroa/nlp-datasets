@@ -1,0 +1,9 @@
+In this article, we report magneto-photoluminescence measurements on stacked self-assembled InAs quantum dots. By applying a magnetic field parallel to the growth direction, we determined the exciton reduced mass and exciton radius from the photoluminescence (PL) peak energy. We observed an asymmetric increase of the full width at half maximum of the quantum dots PL peak to the high-energy side that we associate to the size selectivity of the oscillator strength of the ground state transitions. The observed increase of the integrated intensity of the quantum dots line is explained in terms of the reabsorption of the photons emitted by the GaAs substrate and the InAs wetting layer. These effects are related to the multilayer structure of the sample. © 2001 American Institute of Physics.
+
+indium compounds
+III-V semiconductors
+semiconductor quantum dots
+photoluminescence
+magneto-optical effects
+excitons
+oscillator strengths

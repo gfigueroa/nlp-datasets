@@ -1,0 +1,14 @@
+We have investigated the influence of nickel doping in a series of n-type CoSb3 skutterudite materials partially filled with Ca. The electrical resistivity, thermopower, and thermal conductivity have been measured in the 300800 K temperature range on CayCo1xNixSb12 compounds prepared by a powder metallurgy route. The chemical composition and structure have been analyzed by electron probe microanalyses and x-ray diffraction, respectively. It was found that the presence of nickel substantially decreases the electrical resistivity without any detrimental effect on the thermopower, resulting in an improvement of the power factor. The dimensionless thermoelectric figure ZT increases with increasing temperature and reaches a maximum value of 1 at 800 K.
+
+calcium alloys
+cobalt alloys
+nickel alloys
+antimony alloys
+alloying additions
+powder metallurgy
+electrical resistivity
+thermoelectric power
+thermal conductivity
+electron probe analysis
+X-ray diffraction
+X-ray chemical analysis

@@ -1,0 +1,7 @@
+To directly observe the behavior of single molecules in real time and space, the x-ray methodology, diffracted x-ray tracking, has been proposed. This system monitors the spots of a diffracted x ray from individual nanocrystals, which are labeled with the individual single molecules. To operate single molecular detection systems with x rays, it is necessary to fabricate dispersive nanocrystals and observe the diffracted spots from the nanocrystals. We succeeded in fabrications of dispersive one-dimensional (Mo/Si) nanocrystals with diameters of approximately 25 nm using reactive ion etching. Furthermore, we monitored well-defined diffracted x-ray spots from Mo/Si nanocrystals (2.5 bilayers: Mo/Si/Mo/Si/Mo, d-space=5.0	nm) in real time (2.0 ms). © 2002 American Institute of Physics. 
+
+molybdenum
+silicon
+nanostructured materials
+X-ray diffraction
+X-ray imaging

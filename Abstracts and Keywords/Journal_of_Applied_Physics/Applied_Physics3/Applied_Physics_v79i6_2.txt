@@ -1,0 +1,9 @@
+Doublecrystal xray rocking curves from metamorphic epitaxial heterostructures are broadened by the presence of misfit dislocations and this vitiates the usual interpretation of rocking curves using simulation software. However, analysis of the moments of the rocking curve can be useful. Using single layers, we show that the first moment is equivalent to the peak splitting, so that the average strain and average composition of an inhomogeneous layer can be derived from its first moments. The usefulness of the method is demonstrated on complicated heterostructures including graded layers. © 1996 American Institute of Physics. 
+
+CHEMICAL COMPOSITION
+EPITAXIAL LAYERS
+GRADED BAND GAPS
+HETEROSTRUCTURES
+MISFIT DISLOCATIONS
+STRAINS
+XRD

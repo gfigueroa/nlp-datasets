@@ -1,0 +1,6 @@
+There are two major objectives to the present work. The first objective is to study the influence of the frequency of the oscillating electrical field and membrane conductivity on the dielectric relaxation (²-dispersion resulting from the buildup of charge at cell membranes due to the MaxwellWagnerSillars interfacial polarization) of simple core-shell structural models of biological cells. The characteristic frequency, relaxation strength, and effective conductivity are explicitly computed, via finite element simulations, as a function of surface fraction of inclusion and shape. The second objective of this work is to determine the electric potential distribution inside and outside several cell models and comment on the relevance of these numerical expectations to many aspects of cellular transformation.
+
+cellular biophysics
+dielectric relaxation
+finite element analysis
+membranes

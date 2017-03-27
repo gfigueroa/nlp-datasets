@@ -1,0 +1,7 @@
+This work aims to develop an artificial intelligence for a helicopter pilot. That is, a system that learns to fly a helicopter the way a human pilot would. It draws on the benefits of using inverse simulation and genetic algorithms to model systems similar to human process. The goal is to define tasks for the helicopter and have the pilot find control settings that carry out those tasks. The inverse simulation technique generates the control inputs required for a desired set of motion outputs. Genetic algorithms (GA) generate feasible solutions to the inverse problem in which the helicopter's trajectory is defined as a set of way-points. The continuous controls encoding method was implemented in flying a longitudinal acceleration/deceleration maneuver. The helicopter pilot was formulated as a multi-optimization problem with four objectives imposed as penalties. The work proposed an optimization approach termed maxPenalty, which compared and returned the biggest of the four penalties. The GA attempts to maximize the fitness and while minimizing the pilot workload. The work shows some aspects of the GA-produced flight that are human-like, and the fact that humans do not move along precise trajectories.
+
+Genetic algorithms
+Helicopter control
+Inverse simulation
+MIMO systems
+Optimization methods

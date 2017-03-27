@@ -1,0 +1,6 @@
+This paper describes the portable satellite backhauling solution for emergency communications used in the e-Triage Project. The main objective of e-Triage is the efficient electronic on-site registration of the victims in Mass Casualty Incidents (MCIs) to enable a fast distribution of the information to hospitals for a better handling of victims. To achieve this, e-Triage designs the end device used to register the victims, the database where the information of the victims is saved, and the communications infrastructure necessary to transmit the data, as after a disaster event the terrestrial networks are likely to be overloaded, damaged or not operative, if they ever existed. This paper focuses on the design aspects of a hand-luggage-size suitcase that offers GSM/GPRS and WLAN to rescue teams and victims in the disaster area and connects them over satellite to the disaster-safe area.
+
+Emergency Communications
+GSM/GPRS
+Satellite Backhauling
+WLAN

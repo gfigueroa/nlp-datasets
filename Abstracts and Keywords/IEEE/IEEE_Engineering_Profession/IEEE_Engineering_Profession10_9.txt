@@ -1,0 +1,6 @@
+The objective of the present research is to build an empirical Lotka-Volterra system using real-time data and information from the postpaid and prepaid mobile telecommunications subscribers in the OECD area. Genetic algorithms are used in order to specify the appropriate coefficients of the corresponding predator-prey competition system, where the pre-paid subscribers hold the role of the predator. The results show that both the postpaid the prepaid subscribers of the area under investigation are in the process of reaching long-run stable coexistence equilibrium. The final postpaid - prepaid market share predictions are 58,8% and 41,2%, respectively.
+
+Competition
+Genetic Algorithm
+Lotka-Volterra
+Prepaid mobile telephony

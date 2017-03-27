@@ -1,0 +1,10 @@
+The kinetics of the phase transitions occurring in solid materials under strong compression are an issue of considerable interest, which can be studied using dynamic loading processes. Here, we investigate the phase transformation behavior of quartz under laser-induced shock compression of a very short duration (nanosecond order). Time-resolved measurements, coupled with simple computer simulations, have been used to characterize the pressure pulse induced in the samples. Recovery shots have been performed for postshock spectroscopy, that has revealed permanent structural changes of various types, depending on the experimental conditions (loading pressure, sample thickness, and initial temperature). The results, which differ notably from observations reported under quasi-static compression or longer pulsed loads (microsecond order), suggest a partial amorphization of the shocked samples, as well as the formation of a structure that can be compared to known orthorhombic high-pressure phases. They provide an insight into the early stages of the shock-induced transformation mechanisms in this widely studied material. © 2003 American Institute of Physics. 
+
+quartz
+high-pressure solid-state phase transformations
+shock wave effects
+compressibility
+time resolved spectra
+amorphisation
+equations of state
+Raman spectra

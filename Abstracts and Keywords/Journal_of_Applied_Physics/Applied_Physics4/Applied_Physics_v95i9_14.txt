@@ -1,0 +1,10 @@
+We investigated a field-effect transistor (FET) based on a poly(3-n-hexylthiophene) (P3HT) to determine the influence of moisture on device characteristics and thus gain a deep understanding of the mechanism underlying the susceptibility to air of the operation of FETs of this kind. The fundamental output characteristics, which include effective field-effect modulation and saturation behavior in the output current, remained almost the same for every currentvoltage profile in a vacuum, N2 and O2. By contrast, operation in N2 humidified with water resulted in enlarged off-state conduction and deterioration in the saturation behavior, in the same manner as that experienced with exposure to room air. We concluded that atmospheric water had a greater effect on the susceptibility of the device operation to air than O2, whose p-type doping activity as regards P3HT caused only a small increase in the conductivity of the active layer and a slight decrease in the field-effect mobility with exposure at ambient pressure. We discuss the mechanism of the significant distortion in the operation induced by moisture in terms of the difference between the influence of water and O2 on the device characteristics. © 2004 American Institute of Physics. 
+
+field effect transistors
+carrier mobility
+semiconductor device testing
+moisture
+organic semiconductors
+molecular electronics
+conducting polymers
+semiconductor device measurement

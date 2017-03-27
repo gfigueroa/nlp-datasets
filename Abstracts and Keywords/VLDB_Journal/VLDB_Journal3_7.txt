@@ -1,0 +1,7 @@
+View-objects are complex objects that are instantiated by delivering a query to a database and converting the query result into a nested structure. In relational databases, query results are conventionally retrieved as a single flat relation, which contains duplicate subtuples in its composite tuples. These duplicate subtuples increase the amount of data to be handled and thus degrade performance. In this article, we describe two new methods that retrieve a query result in structures other than a single flat relation. One method retrieves a set of relation fragments, and the other retrieves a single-nested relation. We first describe their algorithms and cost models, and then present the cost comparison results in a client-server architecture with a relational main memory database residing on a server.
+
+client server
+complex object
+nested relation
+query optimization
+relation fragments

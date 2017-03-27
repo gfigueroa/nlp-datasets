@@ -1,0 +1,19 @@
+A selfepitaxial method has been applied to the preparation of Nb3Al thin films by magnetron sputtering, utilizing a composition variation with sputtering gas pressure. The effects of the deposition parameters of both the epitaxial layer and the lower Nbrich layer on film properties have been investigated. The A15 phase boundary is extended by 2 at.	% Al, as compared with conventional deposition, to a stoichiometric composition. An epitaxial temperature of about 400	°C and a correlation between TC enhancement and ordering in the lower layer are found. The growth of a nearly stoichiometric A15 phase over a thickness of more than 100 nm is confirmed by xray diffraction, Auger analysis, and tunneling measurements, although the latter reveals evidence of some material inhomogeneity. Thickness dependence of film properties different from those for coevaporated films suggest the important roles of a homoepitaxial process as well as the suppression of secondphase nucleation at the selfepitaxial interface. The highest TC observed in this work is 17.7 K and the transition width is typically 0.10.3 K. A comparison of the compositional dependence of TC for both films and bulk Nb3Al suggests that the inferior TC values in our sputtered films are attributable to lack of longrange order.
+
+EPITAXIAL LAYERS
+SPUTTERING
+EPITAXY
+STOICHIOMETRY
+CHEMICAL COMPOSITION
+HIGH TEMPERATURE
+TUNNEL EFFECT
+THICKNESS
+AUGER ELECTRON SPECTROSCOPY
+XRAY DIFFRACTION
+TRANSITION TEMPERATURE
+BINARY ALLOY SYSTEMS
+PHASE STUDIES
+NUCLEATION
+SUPERCONDUCTING FILMS
+NIOBIUM ALLOYS
+ALUMINIUM ALLOYS

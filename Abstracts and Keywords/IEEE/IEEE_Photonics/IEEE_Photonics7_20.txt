@@ -1,0 +1,9 @@
+We present a new approach to overcome the well-known deficiency of CMOS technology pertaining to global communication capability within large-scale, parallel information processing systems such as supercomputers, internet switches and multi-ported storage. This is based on a novel surface-normal communication scheme. It exploits massively parallel quantum tunneling through an array of field emission devices lining the surface of an electromagnetic vacuum chamber and multi-trajectory electron optics through the cavity volume. This results in significantly reduced energy loss per bit communicated, due loss-less nature of quantum tunneling and collision-free movement of electrons through vacuum. Modulation of field-emitted electron beams and the new electron optical system are both enabled by recent insights into optimization problems with multiple global minima. Just as many natural systems governed by potential energy functions with multiple global minima are well understood theoretically (e.g. systems with translational symmetry in crystallography and solid state physics), we are able to analyze behavior of electrons in systems with artificially created symmetries based on finite projective geometry. The resulting physical complexity of connecting n information sources to n destinations is O(n), in contrast with conventional approaches of O(n<sup>2</sup>) physical complexity.
+
+Electron mirror
+Electron optics
+Field Emission
+Parallel architectures
+Tunneling
+Wigner-Seitz cell
+symmetries in electronic structure

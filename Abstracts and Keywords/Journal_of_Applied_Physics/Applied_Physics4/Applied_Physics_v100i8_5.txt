@@ -1,0 +1,9 @@
+We calculate the band structures of BaO and BaS using the local density approximation and the GW approximation (GWA). The Ba 4d states are treated as valence states. We find that BaO is an indirect band-gap semiconductor and BaS is a direct band-gap semiconductor. The results show that the band gaps of GWA agree excellently with the experimental results.
+
+barium compounds
+density functional theory
+Green's function methods
+quasiparticles
+energy gap
+valency
+semiconductor materials

@@ -1,0 +1,7 @@
+By relying on a recently proposed multicanonical algorithm adapted to long-ranged models, we shed new light on the critical behavior of the long-ranged q-state Potts model. We refine the controversial phase diagram by an order of magnitude, over a large range of q values, by applying finite-size scaling arguments to spinodal curves. We further offer convincing evidence that the phase transition on the line of inverse-square interactions is not of the first order, by virtue of a very unusual, previously unnoticed, finite-size effect. Finally, we obtain estimates of critical couplings near the mean-field region, which clearly reinforce Tsallis conjecture. © 2004 American Institute of Physics. 
+
+Potts model
+phase transformations
+phase diagrams
+spin Hamiltonians
+long-range order

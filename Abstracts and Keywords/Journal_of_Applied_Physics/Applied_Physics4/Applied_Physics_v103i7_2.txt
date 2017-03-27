@@ -1,0 +1,13 @@
+We show that the conduction band structure of dilute AlxGa1xAs1yNy with x } 0.37 and y } 0.04 can be described consistently by the experimentally motivated band anticrossing model. The interband transition energies E, E+”0, and E+ have been derived from a full line shape fit to photomodulated reflectance (PR) spectra recorded at room temperature. The PR data were taken (a) from a series of Al0.06Ga0.94As1yNy samples with y } 0.04 and (b) from a set of AlxGa1xAs0.99N0.01 layers with x } 0.37. The latter series covers the range of Al concentrations where the AlxGa1xAs band gap energy EM is expected to cross the nitrogen-induced energy level EN. The resulting nitrogen- and Al-concentration dependent interband transition energies are described by the band anticrossing model using a matrix element for the coupling between the nitrogen-induced states and the extend lowest conduction band states of CMN = 2.32eV and a nitrogen level energy EN = (1.625+0.069x)eV, the latter measured with respect to the GaAs valence band edge.
+
+aluminium compounds
+conduction bands
+energy gap
+gallium arsenide
+gallium compounds
+III-V semiconductors
+molecular beam epitaxial growth
+photoreflectance
+plasma materials processing
+semiconductor epitaxial layers
+valence bands

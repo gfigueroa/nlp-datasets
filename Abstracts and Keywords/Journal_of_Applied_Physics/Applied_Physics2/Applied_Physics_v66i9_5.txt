@@ -1,0 +1,19 @@
+The physical mechanism of photostimulated luminescence (PSL) of RbBr:Tl, resulting from xray irradiation, has been investigated. Spectroscopic methods have been utilized to identify the bromine F center as the occupied electron trap. By means of absorption studies the charge state of the dopant Tl was found to be monovalent. The spectral emission showed the characteristic JahnTeller splitting of the 3P1 state of the Tl+ and its known temperature dependence. PSL lifetime and efficiency experiments have been conducted in the temperature regime from liquid helium to 500 K to understand the charge transport from the F center to the activator and have been compared with corresponding data obtained from direct optical excitation into the A band of the Tl+. The observed temperature dependencies of both lifetimes could be explained by the properties of the s2 ion Tl+. As a resulting model for the PSL process a tunneling from the relaxed excited state of the F center to an excited state of the Tl2+ ion following photostimulation is suggested. The temporal, thermal, and spectral behavior of the subsequent radiative fraction of the deexcitation process is solely determined by the properties of the Tl+ ion in the RbBr matrix.
+
+RUBIDIUM BROMIDES
+THALLIUM ADDITIONS
+IMPURITIES
+X RADIATION
+PHOTOLUMINESCENCE
+F CENTERS
+JAHNTELLER EFFECT
+ULTRALOW TEMPERATURE
+VERY LOW TEMPERATURE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+HIGH TEMPERATURE
+TRANSPORT PROCESSES
+TEMPERATURE DEPENDENCE
+LIFETIME
+TUNNEL EFFECT
+TIME RESOLUTION

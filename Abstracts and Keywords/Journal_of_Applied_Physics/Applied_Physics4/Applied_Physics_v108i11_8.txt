@@ -1,0 +1,10 @@
+The nanostructure of L10-ordered FePt films with a [001] orientation prepared by both an epitaxial growth and nonepitaxial method was characterized by fitting X-ray diffraction profiles. Good fitting results for both types of films were obtained by considering the structural inter-and intragrain disorders in a calculation model. The distributions of the long range order and film thicknesses were considered to be part of the structural disorder among the grains. The fluctuation of the lattice spacing and the depth of x-ray interference along the surface normal were also taken into account to explain the structural disorder within the grain. The epitaxial FePt films grown on the MgO(100) underlayer were gradually transformed from a disordered A1 phase to an ordered L10 phase with increasing deposition temperature. A thinner film of 5 nm indicated a relatively low long range order with the fluctuation of lattice spacing. This is attributed to a large mismatch between the lattice of the initial growth layer and the MgO underlayer. On the other hand, for nonepitaxial FePt films prepared by SiO2 doping and rapid thermal post-annealing, high [001]-oriented L10 grains without the distribution of long range order were obtained at an initial transformation stage at a low annealing temperature, and the L10 grains grew along the film surface with increasing temperature. The fluctuation of lattice spacing was independent of the crystallite height in the nonepitaxial films, whereas the structural disorders such as the lattice fluctuation and chemical disorder in epitaxial films increased with a decrease in the crystallite height.
+
+crystallites
+iron alloys
+metallic epitaxial layers
+nanostructured materials
+platinum alloys
+rapid thermal annealing
+texture
+X-ray diffraction

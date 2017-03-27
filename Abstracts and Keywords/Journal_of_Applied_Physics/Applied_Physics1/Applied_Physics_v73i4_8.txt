@@ -1,0 +1,10 @@
+The lockon effectobserved in highpower GaAs and InP photoconductive switchesis characterized by a high onstate conduction current resulting from a high gain switching mechanism. In our study, an analytical model has been developed to determine the fundamental limitations to device performance imposed by this effect on highpower switching devices. In this model, a regional approximation is used to calculate the field distribution in the device and to obtain the devices current densityvoltage (JV) characteristics. It is shown that negative resistance gives rise to highfield avalanche injection at the anode boundary. Moreover, the analytical results indicate the importance of electron velocity saturation for the onset of negative resistance, as well as the effect of hole injection from the highfield anode region on voltage lowering across the switch. It is determined that lockon is associated with the transferredelectron effect, and will therefore constrain the use of GaAs and InP as materials for highpower switching devices.
+
+SEMICONDUCTOR DEVICES
+SWITCHES
+AVALANCHE DIODES
+GALLIUM ARSENIDES
+INDIUM PHOSPHIDES
+MATHEMATICAL MODELS
+PHOTOCONDUCTORS
+ELECTRIC FIELD EFFECTS

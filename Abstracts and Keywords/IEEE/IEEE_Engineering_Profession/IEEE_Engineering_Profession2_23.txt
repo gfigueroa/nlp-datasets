@@ -1,0 +1,9 @@
+An appropriate signal processing technique for analyzing both the transient natural excitations and the vibration structures response, capable to determine the time variations in the amplitude and in the frequency content of these structures, is presented. This technique makes use of an impulse invariant transformation for obtaining an equivalent model of the vibration structure, represented by a parallel-form realization of second-order subsystems, corresponding to different modes of vibration, having as input a stationary independent and identically distributed sequence. The method was applied for detection of changes in dynamic characteristics of a structure, a multi-story concrete building under an earthquake ground.
+
+AR processes
+deconvolution
+detection
+filtering
+frequency response
+parameter estimation
+seismic signal processing

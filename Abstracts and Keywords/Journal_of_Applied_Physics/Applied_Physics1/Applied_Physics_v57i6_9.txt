@@ -1,0 +1,10 @@
+An exact analytical solution is given for the photoresponse of a pn junction on a thick semiconductor due to lateral diffusion of minority carriers.
+
+PHOTOCONDUCTIVITY
+ANALYTICAL SOLUTION
+PN JUNCTIONS
+MINORITY CARRIERS
+PHOTOSENSITIVITY
+PHOTODIODES
+PHOTOCURRENTS
+CARRIER DENSITY

@@ -1,0 +1,8 @@
+Traditionally, the lognormal distribution has been used to analyze electromigration (EM) failure data for both Al- and Cu-based interconnect technologies. However, from a statistical perspective, the lognormal distribution is found to be inappropriate for submicron interconnects because their resistance degradation profiles are no longer gradual as compared to the wider interconnects. In such cases, the gamma distribution is found to be a good choice to represent such failures which are initially gradual and later catastrophic in nature. The invalidity of the lognormal model for submicron interconnects is assessed and a statistical proof in favor of the gamma statistics is presented. Experimental EM test data for submicron Cu interconnects are analyzed and it is found that the data fitting is generally more accurate for submicron interconnects when the gamma distribution is used. The use of a gamma distribution also changes the field operation lifetime estimates obtained through reliability extrapolation.
+
+copper
+electromigration
+gamma distribution
+integrated circuit interconnections
+log normal distribution
+reliability

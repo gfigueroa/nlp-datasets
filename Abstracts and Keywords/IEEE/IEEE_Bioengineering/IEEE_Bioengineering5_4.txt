@@ -1,0 +1,6 @@
+This paper describes the possibility of analyzing gait pattern from the variation of the lower leg electrical impedance. This impedance is measured by the four-electrode method. Two current electrodes are applied to the thigh, knee, and foot, and two potential electrodes are applied to the lateral aspect, medial aspect, and posterior position of lower leg. The correlation coefficients of the joint angle and the impedance change from human leg movement was obtained using electrogoniometer and 4ch impedance measurement system developed in this study. We found the optimal electrode position for ankle, knee and hip joint movements based on high correlation coefficient, least interference, and maximum magnitude of impedance change. The correlation coefficients of the ankle, knee, and the hip movements -0.87, 0.957 and 0.80, respectively. From such features of the lower leg impedance, it has been made clear that different movement patterns exhibit different impedance patterns and impedance level. This system showed possibility that lower leg movement could be easily measured by impedance measurement system with a few skin-electrodes.
+
+Angular change
+Impedance change
+Leg movement
+Optimal electrode configuration

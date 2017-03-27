@@ -1,0 +1,7 @@
+This paper develops an adaptive algorithm for position control of electrohydraulic servo systems (EHS), with the objective of addressing variations in supply pressure. Most approaches for control of EHS assume constant supply pressures, which in practical terms require the use of additional components such as accumulators. In this article, we consider a nonlinear model of an electrohydraulic system, establish a controller structure using feedback linearization (model inversion) and then derive an adaptive control law for position control with unknown supply pressure. A function of the unknown parameter is estimated using a gradient method based on an augmented error. Closed-loop stability is established using a Lyapunov approach and the tracking-error between a desired model-reference output and the system output is shown to asymptotically go to zero. Finally, simulation results pertaining to implementation issues are presented.
+
+Adaptive control
+Electrohydraulic systems
+Friction compensation
+Lyapunov methods
+Nonlinear control

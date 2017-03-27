@@ -1,0 +1,7 @@
+In our earlier work, we proposed an architecture for a Web-based video database management system (VDBMS) providing an integrated support for spatiotemporal and semantic queries. In this paper, we focus on the task of spatiotemporal query processing and also propose an SQL-like video query language that has the capability to handle a broad range of spatiotemporal queries. The language is rule-based in that it allows users to express spatial conditions in terms of Prolog-type predicates. Spatiotemporal query processing is carried out in three main stages: query recognition, query decomposition, and query execution.
+
+Content-based retrieval
+Inference rules
+Multimedia databases
+Spatiotemporal query processing
+Video databases

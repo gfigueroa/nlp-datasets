@@ -1,0 +1,12 @@
+The action of transverse shock waves (the shock wave propagates across the magnetization vector M) on the magnetic phase state of a Nd2Fe14B high-energy hard ferromagnetic was investigated experimentally. The design of the ferromagnetic sample, which was made as a hollow cylinder, has made it possible to dramatically reduce the amount of the explosive that initiates a transverse shock wave in Nd2Fe14B to 1.0 g (for Nd2Fe14B samples weighing 67.5 g). The results of the experiment have shown that the transverse shock wave propagating through Nd2Fe14B causes hard ferromagnetic-to-paramagnetic phase transformation terminating by practically complete demagnetization of Nd2Fe14B. Pulse generators based on the transverse shock wave demagnetization of hollow cylindrical Nd2Fe14B samples with diameter of 25.4 mm and length of 19.1 mm are capable of producing high-voltage pulses [peak voltage of 11.3 kV, full width at half maximum (FWHM) of 4.5 ¼s] and high-current pulses (peak current of 1.93 kA, FWHM of 100 ¼s, peak power of 27.0 kW). The effect of transverse shock wave demagnetization of high-energy hard ferromagnetic, Nd2Fe14B, was detected. © 2002 American Institute of Physics. 
+
+neodymium alloys
+iron alloys
+boron alloys
+permanent magnets
+ferromagnetic materials
+magnetomechanical effects
+shock wave effects
+ferromagnetic-paramagnetic transitions
+demagnetisation
+pulsed power technology

@@ -1,0 +1,14 @@
+Objective. To assess the effects of olanzapine and risperidone on metabolic factors in children and adolescents admitted to an inpatient psychiatric hospital. Methods. The study was a retrospective chart review of hospitalized patients younger than 18 years of age treated with olanzapine or risperidone. Data collected from medical charts were analyzed to assess weight gain, lipid profiles, blood pressure, and glucose levels in patients prescribed olanzapine or risperidone. Results. A total of 49 patients (25 receiving olanzapine and 24 receiving risperidone) with a mean age of 13 years were included in the study; the mean duration of treatment was 27 days. A significant increase in body mass index (BMI) from baseline to endpoint in both treatment groups was found (<em>P</em>&lt;0.001); however, the change in BMI was not significantly different between the olanzapine and risperidone groups (<em>P</em>=0.425). Seven new cases (28%) in the olanzapine group and 4 new cases (17%) in the risperidone group met criteria for being overweight or at risk for being overweight. A significant increase in mean systolic blood pressure was found in subjects receiving olanzapine compared with those receiving risperidone (+5.4 mm Hg vs. -3.2 mm Hg; <em>P</em>=0.044), while diastolic blood pressure did not differ between the treatment groups. A significant increase in risk factors for diabetes mellitus (<em>P</em>=0.008) and in overall risk factors for metabolic syndrome (<em>P</em>=0.013) was found in the olanzapine group over the course of treatment, whereas no significant effect on risk factors for diabetes or metabolic syndrome was found in the risperidone group. Conclusions. Inpatient treatment with both olanzapine and risperidone was correlated with a significant increase in BMI. Olanzapine also resulted in increased risk factors for diabetes and metabolic syndrome (<em>Journal of Psychiatric Practice</em> 2009;15:320-328). 
+
+olanzapine
+risperidone
+glucose
+lipids
+triglycerides
+weight
+body mass index
+blood pressure
+second-generation (atypical) antipsychotic
+metabolic syndrome
+side effect
+diabetes mellitus

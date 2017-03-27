@@ -1,0 +1,16 @@
+Oxidationenhanced diffusion (OED) of ionimplanted boron has been studied in extrinsic conditions, i.e, in a high boron concentration range by a new isoconcentration method using secondary ion mass spectroscopy (SIMS). In the isoconcentration method, 10B has been used as a tracer and 11B as a base, considering the SIMS measurement sensitivity. For isoconcentration diffusion at 950 and 1000	°C, diffusion coefficients both in N2 ambient and in dry O2 ambient increase with boron concentration in extrinsic conditions. The diffusion coefficient in dry O2 is larger than that in N2, i.e., OED is observed for boron concentration from intrinsic conditions to 1020 cm3. The increment in the diffusion coefficient due to OED is constant for the boron concentration range of 2×10191×1020 cm3, and is 23.5 times larger than that in intrinsic conditions. On the other hand, for boron implantation into intrinsic substrates, i.e., nonisoconcentration diffusion at 950 and 1000	°C, OED decreases with the dose and disappears at a 1015 cm2 dose which has a peak boron concentration of about 4×1019 cm3. The OED disappearance at the 1015 cm2 dose is attributed to the loss of silicon interstitials by the residual damage due to implantation.
+
+OXIDATION
+DIFFUSION
+BORON IONS
+ATOM TRANSPORT
+SILICON
+SIMS
+VERY HIGH TEMPERATURE
+DAMAGE
+INTERSTITIALS
+BORON 11
+BORON 10
+NITROGEN MOLECULES
+OXYGEN MOLECULES
+ION IMPLANTATION

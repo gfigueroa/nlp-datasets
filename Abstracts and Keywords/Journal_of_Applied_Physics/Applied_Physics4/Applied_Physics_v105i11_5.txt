@@ -1,0 +1,10 @@
+In this work, by means of Monte Carlo simulations, two different narrow band gap semiconductors, InAs and InSb, and their associated heterostructures, AlSb/InAs and AlInSb/InSb, have been studied. The parameters for the bulk simulations have been optimized in order to correctly reproduce the experimental mobility values. For the correct simulation of the heterostructures, roughness scattering has been included in the model, and its strength has been adjusted to achieve a good agreement with the experimentally measured mobility.
+
+aluminium compounds
+electron mobility
+high electron mobility transistors
+III-V semiconductors
+indium compounds
+Monte Carlo methods
+narrow band gap semiconductors
+semiconductor heterojunctions

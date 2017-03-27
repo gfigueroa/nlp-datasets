@@ -1,0 +1,6 @@
+This paper reports on a 3 years applied research project dealing with several inspection scenarios of power plants and resulting in many robot prototypes and 3 main achievements. The project is a common effort between industry and university, including ALSTOM together with researchers from the 2 Swiss Federal Institutes of Technology. The goal is to generate knowledge and transfer technology to the industry in the field of robot inspection. The method is to collect commercial scenarios, study them, make some exploratory prototypes, select the best scenarios and develop enhanced prototypes for the most promising applications. The 3 most evolved robots are MagneBike for steam chest, AirGapCrawler for generators and TubeCrawler for boiler tube. The supporting technologies that have been developed are adhesion, locomotion, system integration and localization.
+
+Robot sensing systems
+industrial power system maintenance
+inspection
+mobile robots

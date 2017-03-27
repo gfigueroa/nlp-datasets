@@ -1,0 +1,12 @@
+Anomalous depth distributions of bulk microdefects (BMDs) are observed in Czochralski silicon wafers subjected to twostep annealing [(550700	°C)×t1+(850950	°C)×t2, where t1 and t2=1100 h]. The number density of BMDs near the surface is smaller than that in the bulk when t1 is short, and is larger when t1 is long. The anomalous distribution extends deeper than 100 ¼m from wafer surfaces and cannot be explained by the behavior of interstitial oxygen atoms. Distributions are examined under various annealing conditions, such as annealing temperature, rate of temperature ramping, ambient atmosphere, and initial oxygen concentration. The anomalous distributions are found to be formed in the early stage of secondstep annealing only when the annealing starts with a rapid temperature rise. A formation model of anomalous distributions is proposed based on the following assumptions: (1) selfinterstitials exist in the thermal equilibrium state, (2) wafer surfaces are a permanent source and sink of selfinterstitials, (3) growing oxygen precipitates produce selfinterstitials, and (4) selfinterstitial undersaturation enhances stable growth of precipitate nuclei, and supersaturation suppresses stable growth. The nonequilibrium selfinterstitial concentration induced in the bulk after the rapid temperature rise is responsible for the anomalous distributions. All the experimental characteristics are reasonably explained by the model. The formation process of the anomalous distributions is detected by threestep annealing experiments. Basic properties of selfinterstitials in silicon are extracted from experimental results combined with the model. The activation energy for migration is about 2.5 eV. The diffusion coefficient is about 106 cm2	s1 at 900	°C. The thermal equilibrium concentration is estimated as about 1012 cm3 at 1000	°C. These results are close to recent experimental estimates utilizing impurity diffusion in floating zone silicon. © 1995 American Institute of Physics. 	
+
+SILICON
+WAFERS
+CZOCHRALSKI METHOD
+DEPTH PROFILES
+ANNEALING
+CRYSTAL DEFECTS
+DISTRIBUTION
+INTERSTITIALS
+DIFFUSION
+ACTIVATION ENERGY

@@ -1,0 +1,6 @@
+This paper presents a novel application of half-bridge series-parallel resonant converter (HBSPRC) for dc source and secondary battery interface. The converter practically eliminates both low- and high-frequency current ripple on the battery, thus maximizing battery life without penalizing the volume of the charger circuit. Moreover, operation above resonance is preferred because the power switches turn on at zero current and zero voltage; thus, the freewheeling diodes do not need to have very fast reverse-recovery characteristics. The proposed battery charger circuit has few components and low energy conversion loss, which enhance the system's overall efficiency. Circuit operation modes are determined from the conduction profiles. Operating equations and operating theory are also developed. Experimental results based on a 12V 48Ah battery charger are proposed to validate the analysis and to demonstrate the performance of the proposed approach. The maximum charging efficiency of the proposed topology during the overall charging period is 93.98%. Satisfactory performance is obtained from the measured results.
+
+Battery
+charger
+series-parallel resonant converter
+soft-switching converter

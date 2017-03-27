@@ -1,0 +1,12 @@
+We investigate in detail the occurrence of magnetic domains in epitaxially grown MnAs films on GaAs(001) by magnetic force microscopy (MFM). MnAs layers exhibit in their demagnetized state a very complex magnetic domain structure. High resolution MFM images reveal detailed information on the domain wall. Additionally, we imaged magnetic domains in the dependence on the applied magnetic field. This detailed investigation gives new insight into the correlation between film topography and magnetic domain structures. Systematic magnetization measurements in-plane and out-of-plane have shown high anisotropy in our films. The out-of-plane magnetization determined as a function of the applied field reveals that the direction of the magnetic moments in the domain walls are out-of-plane, thus the domain walls are determined as 180° Bloch type. © 2000 American Institute of Physics. 
+
+manganese compounds
+magnetic semiconductors
+semiconductor epitaxial layers
+magnetic structure
+magnetic domain walls
+magnetic force microscopy
+magnetisation
+magnetic moments
+magnetic anisotropy
+magnetic epitaxial layers

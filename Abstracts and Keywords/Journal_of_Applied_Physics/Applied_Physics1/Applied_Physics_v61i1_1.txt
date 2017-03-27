@@ -1,0 +1,11 @@
+This paper presents a study of the microwave impedance of GaAsAlxGa1xAs resonant tunneling heterostructures. An equivalentcircuit model is proposed that accounts for the frequency variation of the measured impedance and whose elements correspond to physical phenomena believed to be present in the device. Empirical formulas are obtained which can be used to calculate the values of the equivalentcircuit elements from the structural parameters and the dc currentvoltage characteristics of the device.
+
+HETEROSTRUCTURES
+TUNNEL EFFECT
+EQUIVALENT CIRCUITS
+TUNNEL DIODES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+MICROWAVE RADIATION
+IV CHARACTERISTIC
+ELECTRIC IMPEDANCE

@@ -1,0 +1,15 @@
+A novel CrSe/Fe bilayer structure has been fabricated on a GaAs (100) substrate by the molecular beam epitaxy technique. Microstructural characterizations have revealed that the Fe layer is a single-crystalline bcc structure with the orientation relationship of (100)Fe(100)GaAs, while the top CrSe layer shows four preferred hexagonal domains with their c axis each along one of the four upward-pointing è111é directions of the underlying Fe lattice. The magnetic hysteresis loops of this bilayer structure measured by a superconducting quantum interference device magnetometer demonstrate a strong exchange bias effect with a negative exchange bias field as high as 48.4Oe at 5K. The magnetization reversal process shows an abrupt transition nature at temperature from 5to300K. An enhancement of the coercivity not accompanied by the exchange bias field was observed at temperature higher than and well above the blocking temperature. We have interpreted these observations based on the well-established exchange spring model for antiferromagnetic/ferromagnetic bilayer structures.
+
+antiferromagnetic materials
+chromium alloys
+coercive force
+crystal microstructure
+crystal structure
+ferromagnetic materials
+iron
+magnetic hysteresis
+magnetisation reversal
+molecular beam epitaxial growth
+selenium alloys
+SQUID magnetometers
+texture

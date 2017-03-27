@@ -1,0 +1,13 @@
+Two series of thin-film diodes (TFDs), used as switching elements in active-matrix liquid-crystal displays, have been prepared with various amorphous-silicon-nitride (a-SiNxHy) thicknesses. In a first series, with thin top metal contacts, it was observed by photon-emission spectroscopic analysis that both the effective electron temperature and the number of hot electrons increased as the nitride thickness (at constant field) or the electric field across the TFD (at constant nitride thickness) increased. A further analysis revealed that for the thicker samples, the electrons became progressively hotter on moving from the cathode to the anode. In a second series, the drift of the TFD currentvoltage characteristic under dc-driving conditions has been monitored as a function of nitride thickness at various fields. The anodic drift, resulting from defect-state creation in the anodic sample region, and the field and thickness dependence of the hot-electron intensity, show very similar trends. Therefore, it is concluded that the anodic drift is driven by hot-electron-induced defect-state creation. Also, it was found that optical phonon scattering effectively limits the electron temperature up to a field of around 1.5 MV/cm, while for larger field strengths impact ionization appears a probable additional energy-loss mechanism. For the anodic drift in a TFD with an a-SiNxHy layer thickness of 104 nm, a comparable critical-field strength of around 1.5 MV/cm was determined, below which an efficient electronphonon scattering mechanism strongly limits the production of hot electrons. For a decreasing amorphous-layer thickness, the critical-field strength increases. As a result, an improved lifetime of a-SiNxHy TFDs in their application has been obtained using a small amorphous-layer thickness. © 2001 American Institute of Physics.
+
+silicon compounds
+amorphous semiconductors
+thin film devices
+semiconductor diodes
+hot carriers
+liquid crystal displays
+semiconductor device measurement
+electron-phonon interactions
+life testing
+semiconductor device reliability
+impact ionisation

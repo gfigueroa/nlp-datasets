@@ -1,0 +1,7 @@
+Spatial coordinate transformation is used as a reliable tool to control electromagnetic fields. In this paper, we derive the permeability and permittivity tensors of a metamaterial able to transform an isotropically radiating source into a compact ultradirective antenna in the microwave domain. We show that the directivity of this antenna is competitive with regard to conventional directive antennas (horn and reflector antennas), besides its dimensions are smaller. Numerical simulations using finite element method are performed to illustrate these properties. A reduction in the electromagnetic material parameters is also proposed for an easy fabrication of this antenna from existing materials. Following that, the design of the proposed antenna using a layered metamaterial is presented. The different layers are all composed of homogeneous and uniaxial anisotropic metamaterials, which can be obtained from simple metal-dielectric structures. When the radiating source is embedded in the layered metamaterial, a highly directive beam is radiated from the antenna.
+
+antenna radiation patterns
+finite element analysis
+horn antennas
+metamaterials
+reflector antennas

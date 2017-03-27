@@ -1,0 +1,11 @@
+The specific dynamic Youngs modulus E2/Á and the internal friction Q1 of Al2 O3 3YZrO2 composites with different 3YZrO2 content were investigated. With the increase of 3YZrO2 content, the E2/Á decreased linearly showing a large inflection point at about 20% and a small one at 65%, and the Q1 reached a peak at 17% and a trough at 40%, and increased showing a shoulder at about 70%. The specific loss modulus E3/Á calculated from E2/Á and Q1 showed the peaks at 17% and 65%. The E3/Á peaks corresponded with the E2/Á inflection points in composition. As a result, it was estimated that they were due to the tetragonal to monoclinic transformation of ZrO2 phase, and that the increase of internal friction at above 40% was not due to the crack formation and the ZrO2 phase transformation, but due to the flexural deformation caused by shearing force.
+
+YOUNG MODULUS
+ALUMINIUM OXIDES
+ZIRCONIUM OXIDES
+INTERNAL FRICTION
+YTTRIUM OXIDES
+CRACKS
+CHEMICAL COMPOSITION
+COMPOSITE MATERIALS
+PHASE TRANSFORMATIONS

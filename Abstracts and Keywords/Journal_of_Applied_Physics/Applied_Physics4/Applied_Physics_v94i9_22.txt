@@ -1,0 +1,10 @@
+We prepared an epitaxial 530-nm-thick bismuth iron garnet (BIG) film on a Gd3Ga5O12(GGG) (111) substrate by pulsed laser deposition and measured spectra of optical transmission and magneto-optical Faraday rotation ¸F(») in visible light. Both spectra are shaped by the dispersion relations of the dielectric tensor and the effects of multiple-beam interference in the thin film.From fitting of the transmission spectrum, dispersion relations of the real and imaginary parts of the refractive index were found for the wavelength range from 515 to 1000 nm, n(»)=2.36+(413	nm/»)2 and k(»)=(»/4À	nm)×exp[(1660	nm/»)215.2]. With these data as input information, a single diamagnetic line centered at »=486	nm was fitted to the experimentally recorded magneto-optical spectrum.The effects of thin film interference and surface roughness were included in order to closely reproduce the measured spectrum. The roughness determined from spectral analysis was compared to the rms roughness measured by atomic force microscopy. The values agree within a deviation of less than 20% and are approximately 3% of film thickness.The magneto-optical figure of merit 2#¸F#/± (± is the absorption coefficient) of our film increases strongly with wavelength and exceeds 100° at 740 nm. The optical efficiency for magneto-optical visualization #exp(2±d)sin(4¸Fd)# (d is film thickness) possesses a maximum value of 29% at 600 nm. Both quantities were calculated using the obtained dispersion relations for absorption and Faraday rotation. © 2003 American Institute of Physics. 
+
+bismuth compounds
+garnets
+iron compounds
+Faraday effect
+dispersion relations
+refractive index
+surface topography
+atomic force microscopy

@@ -1,0 +1,10 @@
+Films of W oxide and oxyfluoride were made by reactive sputtering, and electrochromic absorption modulation was obtained by subsequent electrochemical Li intercalation. Total and diffuse transmittance and reflectance were measured in the 0.41 ¼m wavelength range using a newly developed instrument. The ratio between diffuse and total optical response was &lt;0.2% for the transmittance and &lt;1% for the reflectance irrespective of the electrochromic absorption level. These magnitudes of the scattering are acceptable for practical smart windows applications and lend credence to a description of electrochromism in terms of localized absorption centers. Vector perturbation theory for light scattering by a film with rough interfaces could be reconciled with the data, assuming uncorrelated roughness. © 1996 American Institute of Physics. 
+
+TUNGSTEN OXIDES
+THIN FILMS
+SPUTTERED MATERIALS
+MODULATION SPECTROSCOPY
+LIGHT SCATTERING
+ELECTROCHROMISM
+REFLECTION SPECTROSCOPY
+OPTICAL MATERIALS

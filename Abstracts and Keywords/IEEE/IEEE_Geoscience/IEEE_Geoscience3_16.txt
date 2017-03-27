@@ -1,0 +1,7 @@
+Over the next several decades, substantial reductions in greenhouse gas emissions from transportation will be required. The targets-an 80% reduction by 2050-are challenging. Thus, we need quantitative methodologies for assessing the impact of changes in vehicle technology and use, and of fuels, on transportation energy consumption and GHG emissions. This paper describes an appropriate methodology for creating plausible future transportation scenarios and assessing their impacts. It focuses on light-duty vehicles (cars and light trucks), in the U.S. and European context. The factors that must be included are: more efficient propulsion systems; vehicle weight changes; performance, size and other vehicle attributes; and now rapidly the deployment of these improved technologies can grow over time. The methodology combines engineering assessments of vehicle performance for the different propulsion and vehicle technologies, a model of the in-use vehicle fleet, and the availability of the various possible fuels. The findings show there is significant potential for reducing petroleum consumption and GHG emissions through improvements in engines, transmissions, vehicle weight reduction, and alternative fuels.
+
+Alternative fuels
+GHG emissions
+light-duty vehicle assessment
+transportation energy
+vehicle fleet modeling

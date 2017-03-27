@@ -1,0 +1,10 @@
+We have used conductive atomic force microscope (AFM) tips in order to probe the local electronic properties of InGaAs quantum dots (QDs) grown on GaAs (311)B and (001) substrates by atomic H-assisted molecular beam epitaxy. Highly doped Si and Si3N4 AFM tips coated with a metal such as Au and Ti which warrant electrical conductivity were used to measure the currentvoltage (IV) characteristics of QDs of varying sizes and of any other arbitrary positions on the surface such as the wetting layer. In the case of QDs formed on (001) substrates, it was found that the local surface potentials of larger QDs were lower than the small QDs due to the effect of surface states. On the other hand, noticeable differences were not observed for the QDs formed on (311)B substrates. The local surface potential was similar on each QD and in fact over the whole (311)B surface, and a complex phase separation and strain-relief mechanism were thought to be responsible the observed QDs assembly on (311)B. Last, a resonant tunneling characteristics through the quantized energy levels was studied with a small QD with <45 nm in diameter and <4 nm in height. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+electrical conductivity
+resonant tunnelling
+surface states
+surface potential

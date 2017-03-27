@@ -1,0 +1,6 @@
+Nowadays, railway-based transport can no longer meet the increasing demand for coal day by day. The advanced mode of water medium pipeline transportation is also not suitable for regions which are in short supply of water. Focusing on the existing pipeline-transport technology, this paper proposes pipeline transportation with gas as the key transport medium, and such chief technical links as coal pre-treatment, gas medium type and pressure, pipe diameter, intervals between elbows, pipe abrasion resistance, pipeline flow measurement, blockage prevention as well as heat dissipation are explored and discussed hereby. As can be seen through the paper, gas medium pipeline transportation has significant advantages for coal transport over long distance, especially in those arid areas in western China.
+
+coal
+gas medium
+long-distance
+pipeline transportation

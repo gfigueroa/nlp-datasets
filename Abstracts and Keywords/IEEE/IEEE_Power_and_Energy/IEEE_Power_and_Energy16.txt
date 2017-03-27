@@ -1,0 +1,6 @@
+High penetration of wind power requires reliable wind energy generation. A successful low-voltage ride-through (LVRT) scheme is a key requirement to achieve reliable and uninterrupted electrical power generation for wind turbines equipped with doubly fed induction generators (DFIGs). This paper proposes a feed-forward transient current control (FFTCC) scheme for the rotor side converter (RSC) of a DFIG to enhance its LVRT capability. This new control scheme introduces additional feed-forward transient compensations to a conventional current regulator. When three phase faults occur, these compensation terms correctly align the RSC ac-side output voltage with the transient-induced voltage, resulting in minimum transient rotor current and minimum occurrence of crowbar interruptions. With little additional computational effort, the proposed control scheme helps relieve the transient current stress on the RSC and helps maintain an uninterrupted active and reactive power supply from the wind turbines to the power grid. Simulation results are shown to demonstrate the effectiveness of the proposed FFTCC scheme in suppressing transient rotor currents.
+
+Doubly fed induction generator (DFIG)
+low-voltage ride-through (LVRT)
+transient current control
+wind turbines

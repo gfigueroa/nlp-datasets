@@ -1,0 +1,6 @@
+Due to the nonlinear of the Black-Scholes option pricing model, r and &#x03C3; were not easy to be solved by analytic method. Quantum-behaved Particle Swarm Optimization (QPSO) algorithm was proposed to estimate the parameters because of its global search ability and robustness. In the process of optimization, Black-Scholes option pricing formula was used as the research object to establish the algorithm model of parameter estimation and weighted sum of squared errors between experimental values and predicted values was used as the objective optimization function. Experimental results show that QPSO algorithm is more effectively than Particle Swarm Optimization (PSO) algorithm and Deferential Evolution (DE) algorithm.
+
+Black-Scholes partial differential equation
+Option Pricing
+Parameter estimation
+QPSO

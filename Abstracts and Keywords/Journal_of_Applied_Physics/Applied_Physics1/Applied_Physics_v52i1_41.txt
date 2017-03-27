@@ -1,0 +1,21 @@
+The coadsorption of cesium and oxygen on iridium and lanthanum hexaboride has been studied by measurements of elemental surface concentrations, work functions, and electron reflectivities. The elemental surface concentrations were determined by Auger electron spectroscopy and the work functions and reflectivities by the field emission retarding potential technique. Simultaneous deposition of cesium and oxygen on iridium or lanthanum hexaboride substrates produced a thick oxide layer. For both substrates this oxide layer possessed a work function of 1.0±0.05 eV and an electron reflectivity at threshold of 0.45±0.10 eV. Brief stepwise heatings of this layer on LaB6 showed stability to 390 K. The threshold reflectivity for some higher work function surfaces depended strongly on whether the final deposition was cesium or oxygen.
+
+LANTHANUM BORIDES
+IRIDIUM BORIDES
+ADSORPTION
+CESIUM
+OXYGEN
+SURFACES
+QUANTITY RATIO
+WORK FUNCTIONS
+ELECTRONS
+REFLECTIVITY
+AUGER ELECTRON SPECTROSCOPY
+FIELD EMISSION
+ELECTRIC POTENTIAL
+DEPOSITION
+SUBSTRATES
+LAYERS
+MEDIUM TEMPERATURE
+HEATING
+SORPTIVE PROPERTIES

@@ -1,0 +1,11 @@
+Room temperature electroreflectance measurements on ´-doped low-dimensional structures are presented. Previously proposed electroreflectance bias-wavelength mapping is used for characterization of (1) a modulation Si ´-doped pseudomorphic InGaAs/GaAs quantum well and (2) a Sn ´-doped GaAs layer. An electric field above and below the ´-doping plane found from the Fourier transform applied to FranzKeldysh oscillations was used to find the ´-dopant concentration in investigated structures. The position of the ´-doping plane and a Schottky barrier height are also determined. © 2002 American Institute of Physics. 
+
+indium compounds
+silicon
+semiconductor quantum wells
+tin
+gallium arsenide
+III-V semiconductors
+electroreflectance
+doping profiles
+Schottky barriers

@@ -1,0 +1,19 @@
+Here, we will discuss the electrical transport processes that occur within thin films of polymeric amorphous carbon, which possess a high resistivity of 1015	©
+cm, a Tauc band gap of 2.6 eV, and a low defect density of 1017	spins
+cm3. Using current versus voltage measurements, we have shown that the current is space-charge-limited, with a mobility value of typically 1010	cm2
+V1
+s1. The implantation of boron ions at doses below 6×1014	cm2 results in an increase in mobility of more than one order of magnitude. Above this dose, the conductivity increases by five orders of magnitude, and the transport mechanism changes to a FrenkelPoole type conduction process. At an intermediate dose of 2×1015	ions
+cm2, the current versus voltage characteristic exhibits strong hysteresis. The observed hysteresis effects could be removed from one polarity by implanting only through the first half of the film. The hysteresis is likely to be due to the trapping of holes at one or both of the interfaces, resulting in the modification of the space-charge within the polymeric amorphous carbon film. © 2003 American Institute of Physics. 
+
+carbon
+boron
+amorphous semiconductors
+elemental semiconductors
+semiconductor thin films
+ion implantation
+electrical resistivity
+space-charge-limited conduction
+energy gap
+Poole-Frenkel effect
+hole traps
+carrier mobility

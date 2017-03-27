@@ -1,0 +1,9 @@
+Epitaxial thin films of naphthalocyanines (Ncs) were prepared on the (001) surface of alkali halide (AX) by a vacuumdeposition technique. Two types of molecular stacking and orientation were found depending on the molecular structure. Metalfree Nc(H2Nc) and divalent zinc Nc(ZnNc) took the facetoface, eclipsed stacking, P orientation, in which their molecular planes came into a parallel contact to the substrate surface. Trivalent chloroaluminum Nc(AlNcCl) and fluorogallium Nc(GaNcF), and tetravalent vanadyl Nc(VONc) took the eclipsed, slipped stacking, I orientation, holding their molecular planes slightly inclined to the substrate surface. In the latter orientation an unexpected facetoface stacking caused a stacking defect structure. The tetragonal lattice of the Nc crystals demonstrated five types of commensurate matchings to the ionic lattice of AX, depending on the lattice parameters of the Nc and AX crystals. On NaCl unidirectional AX(001)(4×4)R+45°Nc was a predominant orientation, and on KCl and KBr bidirectional AX(001)(10 ×10)R±26.5°Nc was mainly found.
+
+EPITAXIAL LAYERS
+ORGANIC COMPOUNDS
+STACKING FAULTS
+DEFECT STRUCTURE
+LATTICE PARAMETERS
+TEM
+PHYSICAL VAPOR DEPOSITION

@@ -1,0 +1,12 @@
+The dielectric activity of poly {5-[(acryloxy)methyl]-5-methyl-1,3-dioxacyclohexane} (PAMMD), poly{5-[(acryloxy)methyl]-5-ethyl-1,3-dioxacyclohexane} (PAMED) and poly{5-[(acryloxy) methyl]-2-phenyl-5-ethyl-1,3-dioxacyclohexane} (PAEDP) is studied by thermostimulated discharge current (TSDC) techniques. The global TSDC curves corresponding to PAMMD, PAMED, and PAEDP exhibit subglass absorptions centered in the vicinity of 105, 100, and 120
+°C, respectively. The dielectric activity of PAEDP in the glassy region is negligible in comparison with that of both PAMMD and PAEDP which have nearly similar relaxation strengths. Prominent peaks associated with the glassrubber transition are located at 41, 38, and 57
+°C for PAMMD, PAMED, and PAEDP, respectively. The real and loss components of the complex dielectric permittivity in the frequency domain (1010102
+Hz) were calculated at several temperatures from elementary peaks obtained by partial TSDC curves in the glassy region. The differences observed in the spectra are discussed in terms of previous molecular dynamics studies carried out in model compounds of the flexible side groups of these polymers. © 1998 American Institute of Physics. 
+
+thermally stimulated currents
+polymers
+permittivity
+dielectric losses
+dielectric relaxation
+glass transition
+polymer structure

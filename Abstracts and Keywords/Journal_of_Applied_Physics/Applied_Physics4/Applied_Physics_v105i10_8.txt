@@ -1,0 +1,16 @@
+Materials based on rare-earth and iron have drawn much attention due to their high performance properties for permanent magnet application. Substitution of Fe by a transition metal remains of considerable interest owing to the relatively modest magnetic properties of the binary SmFe compounds. The structure of the nanocrystalline Sm1s(Fe,Mo)5+2s alloys is governed by the s Sm vacancy rate and the x amount of Mo. In this work, the Rietveld analysis shows that for s = 0.33 the structure is Rm of Th2Zn17-type, for s = 0.5 the structure is I4/mmm of ThMn12-type. For s = 0.38, the results show a 3/29 phase, which can be described as A2/m space group. The solubility of Mo in the 2/17 structure predicted by atomistic simulation has been demonstrated. The Mössbauer spectra analysis corroborates the x-ray structure results whereas Mo atoms are located in the 6c position (dumbbell site). In contrast, Si and Ga substituting for Fe are located in 18h site. Thermomagnetic measurements indicate that the Curie temperature (TC) of the 2/17 phase increases up to 434K, for the 3/29 and 1/12 phases, TC is equal to 459 and 551K, respectively. The saturation magnetic moment is measured at 9T.
+
+crystal structure
+crystal symmetry
+Curie temperature
+iron alloys
+magnetic moments
+molybdenum alloys
+Mossbauer effect
+nanostructured materials
+permanent magnets
+samarium alloys
+solubility
+space groups
+thermomagnetic effects
+vacancies (crystal)

@@ -1,0 +1,11 @@
+The properties of the ruthenium nanocluster polymer of formula [Ru6C(CO)15P(C6H5)2CCP(C6H5)2]n are studied by atomic-force microscopy, Fourier-transform infrared spectroscopy, and electron microscopy as a function of electron-beam exposure. These properties are related to the electrical conductivity, which is measured at various temperatures and electric fields. A hopping correlation length of 240 nm is deduced and explained on the basis of the formation of ruthenium superclusters in an insulating matrix. © 2001 American Institute of Physics. 
+
+metal clusters
+polymers
+atomic force microscopy
+Fourier transform spectra
+infrared spectra
+electron microscopy
+electrical conductivity
+electron beam effects
+ruthenium compounds

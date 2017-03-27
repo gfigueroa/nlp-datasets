@@ -1,0 +1,8 @@
+The stability and reproducibility of currentvoltage curves of Schottky barrier structures on particular porous silicon surfaces used for obtaining electroluminescence is greatly improved by first coating the surface with a conducting polymer, poly-4-dicyanomethylene-4H-cyclopenta [2,1-b:3,4-b2] dithiophene. With such coated structures it is possible to fit the usual diode formula at room temperatures with a quality factor of 3.0, obviating the need for more complex theories. The stability of electroluminescence, which shows a redshift from 500 to 580 nm after coating, is also greatly improved. The coating appears to chemically react with the hydride surface and also mechanically strengthens the structure. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+porous semiconductors
+electroluminescence
+Schottky barriers
+conducting polymers

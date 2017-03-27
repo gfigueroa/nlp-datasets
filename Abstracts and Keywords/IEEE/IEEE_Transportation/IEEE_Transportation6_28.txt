@@ -1,0 +1,5 @@
+The Grassberger-Procaccia (GP) algorithm is investigated in estimating ID of hyperspectral imagery. Due to the high data dimensionality and large pairwise pixel distance, data dimensionality may need to be pre-reduced such that the trade-off can be achieved between taking the scale r small enough to have an accurate estimate and taking the r sufficiently large to reduce statistical errors due to lack of data counts. Since random projection can preserve volumes and distances to affine spaces, it is a good choice to run the GP algorithm on the random projected data points. Based on real data experiments, the GP algorithm provides estimates that are close to virtual dimensionality (VD) estimates from other VD estimation approaches.
+
+Intrinsic dimensionality
+hyperspectral imagery
+virtual dimensionality

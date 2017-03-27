@@ -1,0 +1,10 @@
+We measured the amplitudefrequency characteristics of radio frequency superconducting quantum interference devices (rf SQUIDs) over a temperature range between 65 and 79 K. Using the expressions derived from the recently developed rf SQUID theory, valid also at large thermal fluctuations, we determined from these data the basic parameters of high-transition-temperature superconductor (HTS) rf SQUIDs. These parameters were: (a) the high-frequency coupling coefficient between the rf SQUID and the tank circuit resonator, k, (b) the SQUIDs hysteretic parameter, ², (c) the critical current of the Josephson junction, Ic, (d) its normal resistance, Rn, and (e) its noise parameter, “. We found a good agreement with the values of ²(Ic) and Rn determined directly after destructively opening the SQUID loop. In accordance with the theoretical predictions, our experimental results show that at large thermal fluctuation levels (TE77
+K), rf SQUIDs with large loop inductance operate in nonhysteretic mode up to ² values exceeding 3. Furthermore, we have shown that the optimal energy sensitivity is attained in the nonhysteretic mode at a value of ² distinctly higher than 1. A quantitative comparison of white noise predicted by the theory with that obtained from the experiment showed a reasonable agreement. We also discussed the contribution of the phase information to the SQUIDs signal and noise at optimum operation conditions, when a mixer was used as a signal detector. © 2000 American Institute of Physics. 
+
+SQUIDs
+superconducting device noise
+high-temperature superconductors
+fluctuations in superconductors
+white noise
+critical currents
+hysteresis

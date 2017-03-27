@@ -1,0 +1,21 @@
+We report on our observation of visible photoluminescence and cathodoluminescence of Pr-implanted GaN. The implanted samples were subjected to isochronal thermal annealing treatments at a temperature of 1100
+°C in N2 at atmospheric pressure to recover from implantation damage and activate the rare earth ions. The sharp characteristic emission lines corresponding to Pr3+ intra-4fn-shell transitions are resolved in the spectral range from 400 to 1000 nm and observed over the temperature range from 12 to 335 K. We have developed an energy level diagram for Pr3+ ions in GaN using recorded spectra. The photoluminescence decay kinetics measurements of 3P1, 3P0, and 1D2 levels and quenching mechanism analysis allow us to conclude that the dominant de-excitation process is of electric dipoleelectric quadrupole type. We found also that the 1D2 level separated from the upper 3P0 level by 3755 cm1 energy gap can be populated in several ways, by direct energy transfer processes, cross relaxation #3P0,3H4	’#1D2,3H6	 and cascade processes from the 3P0 or higher levels. The full width at half maximum of the strongest photoluminescence line at 653 nm, the 3P0 level, is 2.9 meV at 13 K, with a 1.86 meV blue peak shift in going from 13 to 330 K temperature, while the line at 670 nm, 3P1 level, has a full width at half maximum of 4 meV at 13 K and a 1.6 meV red peak shift. The thermal stability of GaN:Pr3+ epilayers indicates the suitability of this material for visible optoelectronic devices. © 2000 American Institute of Physics. 
+
+III-V semiconductors
+gallium compounds
+praseodymium
+semiconductor epitaxial layers
+semiconductor doping
+radiation quenching
+spectral line breadth
+spectral line shift
+thermal stability
+energy gap
+GALLIUM NITRIDES
+DOPED MATERIALS
+PRASEODYMIUM ADDITIONS
+PHOTOLUMINESCENCE
+CATHODOLUMINESCENCE
+ION IMPLANTATION
+ANNEALING
+RED SHIFT

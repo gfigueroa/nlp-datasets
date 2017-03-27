@@ -1,0 +1,11 @@
+InGaAs strain relaxation is studied by an in situ multibeam optical stress sensor (MOSS). Strain relaxation during growth of InGaAs on GaAs occurs at different thicknesses and rates along the directions perpendicular to its misfit dislocations, [110] and [10]. We show the asymmetry of relaxation between these directions in real time by aligning the MOSS laser array along [110] and [10]. This asymmetric relaxation data from the MOSS correlates with both x-ray diffraction relaxation analysis and an estimation of the misfit dislocation density from transmission electron microscopy images. Lowering the V/III ratio or raising the growth temperature lowers the thickness of the onset of dislocation formation, changes the relaxation rate, lowers the final relaxation during 2¼m of growth, and shifts the initial direction of relaxation from [110] to [10]. We identify two phases of relaxation that occur at different growth thicknesses. Lowering the V/III ratio changes the relative contribution of each of these phases to the total relaxation of the epilayer.
+
+dislocations
+gallium arsenide
+III-V semiconductors
+indium compounds
+molecular beam epitaxial growth
+semiconductor epitaxial layers
+semiconductor growth
+transmission electron microscopy
+X-ray diffraction

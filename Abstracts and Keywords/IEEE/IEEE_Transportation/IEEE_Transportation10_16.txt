@@ -1,0 +1,7 @@
+A research on differences of latest Grid Code requirements for wind farm integration between China and selected EU countries are conducted. The similarities and differences of these Grid Codes in the aspects of low voltage ride-through ability, transient fault ride-through requirements, negative phase sequence requirements and reactive power control requirements are compared. The main causes of these differences are investigated and the author tried to predict the future trend of regulations.
+
+Grid Code
+Low voltage ride-through
+Negative phase sequence
+fault ride-through
+wind farm

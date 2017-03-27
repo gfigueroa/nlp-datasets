@@ -1,0 +1,10 @@
+Er3+ doped Nb2O5TeO2 (NT) glass suitable for developing optical fiber laser and amplifier has been fabricated and characterized. Intense and broad 1.53 ¼m infrared fluorescence and visible upconversion luminescence were observed under 975 nm diode laser and 798 nm laser excitation. For 1.53 ¼m emission band, the full width at half-maximum is 51 nm, the fluorescence lifetime is 2.6 ms, and the quantum efficiency is <100%. The maximum emission cross section is 8.52×1021	cm2 at 1.532 ¼m, and is higher than the values in silicon and phosphate glasses. Under 798 nm excitation, efficient 531, 553, and 670 nm upconversion emissions are due to two-photon absorption processes. The standardized efficiency for the green upconversion light is 9.5×104, and this value is comparable to that reported for Er3+/Yb3+ codoped fluoride glasses. Intense visible upconversion fluorescence in Er3+ doped NT glass can be used in color display, undersea communication, and infrared sensor. © 2003 American Institute of Physics. 
+
+niobium compounds
+tellurium compounds
+erbium compounds
+optical glass
+optical frequency conversion
+fluorescence
+radiative lifetimes
+two-photon spectra

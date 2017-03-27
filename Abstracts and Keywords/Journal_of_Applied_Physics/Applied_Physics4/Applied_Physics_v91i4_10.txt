@@ -1,0 +1,8 @@
+Brillouin scattering has been performed on the relaxor ferroelectric Pb(Ni1/3Nb2/3)O3 (PNN) from 80 to 450 K across its Curie temperature. A diffuse phase transition from the paraelectric to ferroelectric phase, associated with a broad phonon frequency dip and a damping maximum, is observed around 200 K. A relaxation mode in the form of a broad Rayleigh wing, whose frequency is strongly temperature dependent above 190 K, is observed and analyzed based on a modified superparaelectric model. Dielectric studies of PNN have also been carried out at several measurement frequencies. The relation between the measurement frequency and the dielectric maximum temperature was analyzed on a modified VogelFulcher model. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric transitions
+Brillouin spectra
+ferroelectric Curie temperature
+phonons
+dielectric relaxation

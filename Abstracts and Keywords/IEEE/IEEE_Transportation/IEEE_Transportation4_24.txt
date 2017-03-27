@@ -1,0 +1,5 @@
+This paper presents the Eurocontrol surveillance strategy, comprising 3 pillars of surveillance: primary surveillance radar together with co-operative independent systems; i.e. mode S, multilateration and cooperative dependent system; i.e. automatic dependent surveillance-broadcast. The current surveillance standard requires, for en-route and terminal manoeuvring areas, two independent layers of surveillance to satisfy the necessary safety arguments. However, which surveillance options are chosen is left to individual states or service provider choice, based on economic or geographic considerations. The paper also presents the European Commission Implementing Rule for surveillance performance and interoperability.
+
+ADS-B
+Multilateration
+Surveillance

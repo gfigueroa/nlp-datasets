@@ -1,0 +1,11 @@
+Two-dimensional angular correlation of annihilation radiation (2D-ACAR) spectra have been taken for 1019	cm3 phosphorus-doped Si in the as-grown state after having been subjected to 1.8 MeV electron fluences of 1×1018 and 2×1018	cm2. Positron annihilation lifetime spectroscopy confirms, in accordance with previous works, that positrons are saturation trapping into (VSi:P) pair defect (E-center) monovacancy sites in the electron irradiated samples. In the as-grown case, the positronelectron autocorrelation functions along the [111] and [1-10] directions, obtained through Fourier transformation of the 2D-ACAR data, reveal zero-crossings that deviate only slightly from the lattice points, in a manner consistent with positronelectron correlation effects. Conversely, in the spectra of the irradiated samples, the zero-crossing points are observed to move outward further by between 0.15 and 0.50 Å. This displacement is associated with positron annihilation with electrons in localized orbitals at the defect site. An attempt is made to extract just the component of the defects positronelectron autocorrelation function that relates to the localized defect orbitals. In doing this features are found that correspond to the expected atomic positions at the vacancy defect site suggesting that this real-space function may provide a convenient means for obtaining a mapping of localized orbitals. The observed approximate separability of positron and electron wave-function autocorrelates leads to an estimate of 0.22 eV for the positron binding energy to the E-center. © 2003 American Institute of Physics. 
+
+silicon
+phosphorus
+elemental semiconductors
+positron annihilation
+perturbed angular correlation
+Fourier transforms
+localised states
+defect states
+colour centres

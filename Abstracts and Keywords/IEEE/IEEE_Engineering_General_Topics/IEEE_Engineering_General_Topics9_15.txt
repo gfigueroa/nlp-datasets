@@ -1,0 +1,7 @@
+Governance, Risk Management and Compliance (GRC) is an executive level concern in many enterprises today. It is an approach that addresses not only the establishment of business rules but more importantly how those rules are integrated into sensible organizational structures, embedded into the day-to-day business processes of the organization, communicated including ongoing training and monitored for compliance. In the first section of this paper, different focus areas for the GRC approach have been derived. The successful application of IT governance principles can provide a mechanism to increase the effectiveness of IT and, in turn, meet the increasingly high demands from business for IT. The purpose of a survey with several Swiss hospital CIOs was to reach members of the IT management to determine their sense of priority and actions taken relative to IT governance, as well as their need for tools and services to help ensure effective IT governance. This survey aims to give an overview of the common IT governance models already used in the healthcare sector and attempts to answer the question if they really meet the requirements of the healthcare sector as a complex and heterogeneous economic sector. To accomplish these aims, a maturity model has been developed to measure the extent to which the different GRC focus areas based on the Control Objectives for Information and related Technology (CobiT) Maturity Model have been selected and how they have been perceived.
+
+GRC
+IT Governance
+IT Management
+ITIL
+Survey

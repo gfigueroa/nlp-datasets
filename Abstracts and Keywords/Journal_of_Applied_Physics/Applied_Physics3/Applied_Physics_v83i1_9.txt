@@ -1,0 +1,17 @@
+We have found from spin-wave Brillouin spectra that a half-monatomic thick Au interlayer at a Co/Cu(111) interface causes a significant improvement in magnetic uniformity in the Co ultrathin overlayer film deposited. The field-independent Brillouin spectrum width abruptly decreases with the insertion of the Au-interlayer, and an inhomogeneous transition at a critical field between out-of-plane and in-plane magnetizations also is suppressed. From the field dependence of the spin-wave energy, we find that the second-order uniaxial perpendicular anisotropy increases with the Au interlayer. © 1998 American Institute of Physics. 
+
+magnetic thin films
+ferromagnetic materials
+magnetic epitaxial layers
+interface magnetism
+Brillouin spectra
+perpendicular magnetic anisotropy
+COBALT
+COPPER
+INTERFACES
+SPIN WAVES
+BRILLOUIN EFFECT
+GOLD
+THIN FILMS
+MAGNETIZATION
+ANISOTROPY

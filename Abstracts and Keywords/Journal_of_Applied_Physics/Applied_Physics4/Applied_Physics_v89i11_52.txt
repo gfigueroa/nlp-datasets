@@ -1,0 +1,14 @@
+Molecular beam epitaxial methods have been used to grow single crystal Laves phase DyFe2/YFe2 superlattice samples with a (110) growth direction. In particular, the magnetic properties of the YFe2 dominated multilayer samples [wDyFe2/4wYFe2]×N with w=20, 30, 40, 45, 50, and 55 Å are presented and discussed. In principle, the multilayer films should possess similar magnetic properties because they are all nominally Dy0.2Y0.8Fe2. However, it is shown that their magnetic properties depend strongly on the thickness of the DyFe2 layers w. Those films with w~45
+Å possess negative coercivities, while those with w}40
+Å are positive. It is argued that this behavior can be understood in terms of a strong increase of the intrinsic coercivity of the DyFe2/YFe2 superlattice, taken as a whole, as w is reduced. For w}40
+Å almost none of the DyFe2 moments can be flipped over in the available field range (12 T). © 2001 American Institute of Physics.
+
+dysprosium alloys
+yttrium alloys
+iron alloys
+magnetic multilayers
+magnetic epitaxial layers
+molecular beam epitaxial growth
+spin dynamics
+magnetic structure
+coercive force

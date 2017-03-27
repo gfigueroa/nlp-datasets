@@ -1,0 +1,7 @@
+We introduce a semantic data model to capture the hierarchical, spatial, temporal, and evolutionary semantics of images in pictorial databases. This model mimics the user's conceptual view of the image content, providing the framework and guidelines for preprocessing to extract image features. Based on the model constructs, a spatial evolutionary query language (SEQL), which provides direct image object manipulation capabilities, is presented. With semantic information captured in the model, spatial evolutionary queries are answered efficiently. Using an object-oriented platform, a prototype medical-image management system was implemented at UCLA to demonstrate the feasibility of the proposed approach.
+
+image
+medical
+multimedia databases
+spatial query processing
+temporal evolutionary query processing

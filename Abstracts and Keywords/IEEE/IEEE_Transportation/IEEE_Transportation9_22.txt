@@ -1,0 +1,8 @@
+This tutorial paper reviews the fundamentals of different methods for current decomposition and non-active power compensation in poly-phase power systems. The basic concepts and the properties of the instantaneous active and reactive power theory and of the active/reactive average power theory are discussed and critically compared.
+
+active current
+active power
+compensation
+non-active current
+nonsinusoidal currents
+power theory

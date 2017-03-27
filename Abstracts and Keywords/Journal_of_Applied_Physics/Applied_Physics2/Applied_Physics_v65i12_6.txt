@@ -1,0 +1,17 @@
+Multilayer films consisting of hydrogenated amorphous silicon and zincsulfide (aSi:H/ZnS) were prepared by glowdischarge decomposition of silane gas and diethylsulfurdiethylzinc gas mixture. Since aSi:H/ZnS multilayer films do not have Si atoms in their barrier layer, they have an advantage of easy characterization of the aSi:H well layer by using electronspin resonance and infrared absorption. These measurements revealed that in an interface region within a distance of 10 nm from the interface, H atoms in aSi:H are incorporated in the form of dihydride rather than in the form of monohydride. In accordance with the H bonding scheme, it was also found that the interface region in aSi:H within a distance of several nanometers from the interface has a large Si dangling bond density of the order of 1018 cm3. Transport properties in these films were also investigated.
+
+SILANES
+AMORPHOUS STATE
+ZINC SULFIDES
+FILMS
+MULTILAYERS
+GLOW DISCHARGES
+INTERFACE STRUCTURE
+ELECTRON SPIN RESONANCE
+INFRARED RADIATION
+ABSORPTION SPECTROSCOPY
+HYDROGEN BONDS
+TRANSPORT PROCESSES
+PHOTOCONDUCTIVITY
+LOW TEMPERATURE
+XRAY DIFFRACTION

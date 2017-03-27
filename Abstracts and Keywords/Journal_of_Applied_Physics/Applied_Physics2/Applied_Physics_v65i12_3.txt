@@ -1,0 +1,17 @@
+YBa2Cu3O7x thin films on (001) and (014) SrTiO3 were prepared by coevaporation of Y, BaF2, and Cu, and annealing in oxygen at 850	°C. Crosssectional samples prepared by cutting films and substrates along the SrTiO3 (100) plane were studied with transmission electron microscopy. The growth of YBa2Cu3O7x in asdeposited films is extremely anisotropic with the [001] being the slow direction and the (001) plane being the fast growth plane. When the (001) planes of YBa2Cu3O7x grains are parallel to the film plane, as on (001) SrTiO3, there is a dominance of this orientation over the whole film. Three types of YBa2Cu3O7x grains, 90° misoriented from each other, are observed to grow on both (001) and (014) surfaces of singlecrystal SrTiO3 substrates with their c directions aligned with one of the three 100	 directions of cubic SrTiO3. This ambiguity creates a threefold degenerate epitaxy of YBa2Cu3O7x on SrTiO3, which results in 90° grain boundaries in the final YBa2Cu3O7x thin films. These boundaries are free of any second phase and decorations. While some extraneous phases were observed in these films, they were located away from the crystallographically special, 90° boundaries. Therefore, the presence of extraneous phases elsewhere in the films was not damaging to the superconducting transport.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+FILMS
+STRONTIUM COMPOUNDS
+TITANATES
+SUBSTRATES
+MONOCRYSTALS
+MICROSTRUCTURE
+TRANSMISSION ELECTRON MICROSCOPY
+ANISOTROPY
+GRANULAR MATERIALS
+EPITAXY
+SUPERCONDUCTORS
+ANNEALING

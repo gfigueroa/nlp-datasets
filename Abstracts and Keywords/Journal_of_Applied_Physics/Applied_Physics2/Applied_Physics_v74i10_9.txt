@@ -1,0 +1,11 @@
+Using the xray excited optical luminescence technique, we have investigated the soft xray induced photoluminescence of porous silicon in the optical region (200900 nm) and the Si Kedge xray absorption fine structures of porous silicon in the near edge region. It is found that while porous silicon prepared at low current density (20 mA/cm2 for 20 min) exhibits a single broad luminescence band, porous silicon prepared at high current density (200 mA/cm2 for 20 min) exhibits three optical luminescence channels; i.e., in addition to the broad peak characteristic of all porous silicon, there are at least two additional optical luminescence channels at shorter wavelengths, one with modest intensity at <460 nm and the other a weak and very broad peak at <350 nm. These optical channels have been used to monitor the Si Kedge absorption of porous silicon in the near edge structure region. Analysis of the data shows that while the band at <627.5 nm corresponds to the bulk emission, the other channels are of a surface origin. These observations and their implications are discussed.
+
+EXAFS
+SILICON
+POROUS MATERIALS
+LUMINESCENCE
+VISIBLE RADIATION
+CURRENT DENSITY
+ETCHING
+SURFACE PROPERTIES
+ULTRAVIOLET RADIATION

@@ -1,0 +1,18 @@
+The pressure dependence of the effects of the dissolved highpressure (112 atm) SF6 gas on the electrical conduction and prebreakdown phenomena of an insulating oil has been studied. The pulsed conduction currents in the oil dissolved SF6 gas under a high dc electric field of more than 100 kV/cm depend on both high equilibrium pressure (solubility) and high applied hydrostatic pressure, i.e., the pulsed currents are suppressed by both pressures. The ac partial dischargeinception voltage in the oil containing dissolved SF6 gas of an equilibrium pressure of 10 atm (466 vol	%) under an applied hydrostatic pressure of 12 atm has a value of 1.4 times larger than that for a degassed oil at 5×105 Torr. The results obtained suggest that electron affinity of SF6 gas enhances the dielectric strength of the oil saturated with SF6 gas. The degree of enhancement is apparently related to the amount of SF6 gas absorbed by the oil, which in turn is a function of the applied hydrostatic pressure.
+
+electric discharges
+electric currents
+insulating oils
+sulfur fluorides
+high pressure
+breakdown
+electric conductivity
+pressure dependence
+medium pressure
+dielectric properties
+absorption
+dissolved gases
+affinity
+hydrostatics
+solubility
+electrons

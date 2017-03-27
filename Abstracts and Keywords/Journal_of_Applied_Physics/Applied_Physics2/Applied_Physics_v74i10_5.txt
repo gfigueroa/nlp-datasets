@@ -1,0 +1,10 @@
+The dangling bonds in pellets made by compacting nanometersized silicon nitride (NASN) grains are studied by electronspin resonance (ESR). The ESR results of NASN show that the number of dangling bonds in NASN is about three orders of magnitude higher than that of coarsegrained silicon nitride. It is also observed that compaction pressure and thermal treatment temperature affect the type and the number of dangling bonds. An explanation is presented for the changes in the dangling bonds caused by the processes of compaction and thermal treatment. 	
+
+SILICON NITRIDES
+DANGLING BONDS
+POWDERS
+DISORDERED SYSTEMS
+EPR SPECTRA
+GRAIN SIZE
+COMPACTING
+HEAT TREATMENTS

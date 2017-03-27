@@ -1,0 +1,5 @@
+Falls on elderly people represent a significant health problem where having a permanent care personnel attention is the unique effective method to avoid them. As more is investigated on causes originating falls, more is known about pre fall conducts. This project studies in-bed patient behaviour with the purpose of detecting a fall before it happens, sending an alarm to the complete system. The work presented in this article is still being developed within the framework of INTEK projects founded by the Basque Government, in cooperation with Atica Innovation Company.
+
+Monitoring
+behaviuor
+eHealth

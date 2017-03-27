@@ -1,0 +1,7 @@
+The crystallinity of lithium cobalt oxide thin films deposited by the radio-frequency (rf) reactive magnetron sputtering method has been improved by the rf plasma irradiation method. Compared with conventional thermal annealing, reaction to form crystalline lithium cobalt oxide via rf plasma irradiation is fast and does not need any additional external heat supply. It is found that the nucleation and the growth reactions are determined during the film deposition and the rf irradiation, respectively. The film composition does not change significantly, and severe mechanical damages such as resputtering or etching phenomena do not appear after the irradiation. A model showing the process of the crystallization by rf plasma irradiation is suggested on the basis of phenomenological analyses using secondary electron microscopy, high-resolution transmission electron microscopy, etc. © 2001 American Institute of Physics.
+
+lithium compounds
+sputtered coatings
+crystallisation
+scanning electron microscopy
+transmission electron microscopy

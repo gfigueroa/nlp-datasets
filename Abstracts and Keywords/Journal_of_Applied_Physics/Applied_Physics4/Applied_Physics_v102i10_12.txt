@@ -1,0 +1,7 @@
+Solution derived poly(vinylidene fluoride) (PVDF) homopolymer thin films on silicon substrates with the addition of hydrated salt [Mg(NO3)2Å6H2O] were systematically investigated. ² phase dominant ferroelectric PVDF thin films with a remnant polarization of 77mC/m2 were achieved by optimizing the concentration of Mg(NO3)2Å6H2O and the processing condition. Our experimental results and theoretical analysis indicated that the hydrogen bonds between water in the hydrated salt and the PVDF molecules result in the interchain registration of the all-trans conformation, and the hydrated salt acts as the nucleation agent and promotes the crystallization of the ² phase. The obtained effective d33 was 14.5pm/V, tested with a laser scanning vibrometer, without taking into account the substrate clamping effect. The numerical simulation, after considering the elastic constrain of the substrate, determined that the corresponding actual d33 is 30.8pm/V, which is comparable to that of uniaxially stretched piezoelectric PVDF films.
+
+crystallisation
+dielectric polarisation
+ferroelectric thin films
+hydrogen bonds
+polymer films

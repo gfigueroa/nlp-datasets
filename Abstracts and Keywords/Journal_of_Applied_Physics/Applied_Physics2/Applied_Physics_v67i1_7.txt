@@ -1,0 +1,11 @@
+The output characteristics of an optically pumped titanium vapor laser on various buffer gas species and pressures have been measured, and the role of buffer gas on the laser output is accordingly discussed. He, Ne, Ar, and Kr are used as buffer gases. The optimum condition for the maximum output energy is 4 Torr of He with 10 ¼s delay time.
+
+TITANIUM
+METAL VAPOR LASERS
+LASERS
+OPTICAL PUMPING
+BUFFERS
+HELIUM
+NEON
+ARGON
+KRYPTON

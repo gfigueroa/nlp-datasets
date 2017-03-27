@@ -1,0 +1,8 @@
+We report on exchange bias effects and time evolution in Co nanowires electrodeposited into the pores of track etched polycarbonate membranes. The slow variation of the exchange bias anisotropy, as extracted from field cooled hysteresis loops, is due to the delayed in time oxidation of the nanowires embedded in the polymer template. A model has been proposed to account for the drop of magnetization due to the presence of an oxide layer at the periphery of the nanowires, within the nanowires/polymer interface. The measured exchange bias energy is about four times smaller than the energy in planar bilayers because of the cylindrical geometry of the wires.
+
+cobalt
+electrodeposition
+magnetic anisotropy
+magnetic hysteresis
+nanowires
+polymers

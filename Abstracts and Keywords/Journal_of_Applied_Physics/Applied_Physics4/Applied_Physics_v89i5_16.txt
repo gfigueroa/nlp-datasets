@@ -1,0 +1,7 @@
+We consider the interpretation of some theoretical and experimental work regarding electromigration voiding in nanoindented, single crystal aluminum lines. A recently suggested voiding criterion of a critical accumulated flux divergence is found, in fact, to be identical to the widely accepted critical stress criterion. The inclusion of the stress dependence of the atomic diffusion coefficient is shown to be vital when the steady state is characterized by J`0, such as in the case of a void growing at a constant rate. It is found, for example, that the stress required for steady void growth, within single crystal Al lines, is probably significantly smaller than previously suggested. © 2001 American Institute of Physics. 
+
+aluminium
+electromigration
+metallic thin films
+voids (solid)
+surface diffusion

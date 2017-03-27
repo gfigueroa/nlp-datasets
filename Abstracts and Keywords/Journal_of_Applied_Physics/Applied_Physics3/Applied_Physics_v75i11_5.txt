@@ -1,0 +1,13 @@
+Amorphous zincphosphide films have been prepared by reactive rf sputtering of zinc in a PH3containing argon atmosphere. Transmittance and reflectance measurements were used to calculate the refractive index n and the extinction coefficient k as functions of wavelength. The absorption coefficient ± was calculated and an optical gap of 1.60 eV was deduced. The benchmark energy E04, where the absorption reaches 104 cm1, is at 1.75 eV. The measurement of the dark conductivity yielded an activation energy around 0.7 eV, near optical midgap. The magnitude of the preexponential factor of the conductivity and the sign of the thermopower indicate that carrier transport is due to conduction in extended valenceband states. The photoconductivity is much higher than the dark conductivity at room temperature. A gain of 103 was obtained by illumination with 100 mW	cm2 white tungsten lamp radiation. From the temperature dependence of the photoconductivity, activation energies of 0.18 and 0.3 eV can be deduced.
+
+ZINC PHOSPHIDES
+THIN FILMS
+AMORPHOUS SEMICONDUCTORS
+SPUTTERED MATERIALS
+OPTICAL PROPERTIES
+OPTICAL REFLECTION
+LIGHT TRANSMISSION
+REFRACTIVE INDEX
+ABSORPTION
+PHOTOCONDUCTIVITY
+TEMPERATURE DEPENDENCE

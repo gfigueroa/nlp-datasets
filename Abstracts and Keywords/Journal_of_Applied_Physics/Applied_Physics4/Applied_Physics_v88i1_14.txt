@@ -1,0 +1,20 @@
+Isothermal-isobaric Monte Carlo calculations were used to obtain predictions of the elastic coefficients and derived engineering moduli and Poisson ratios for crystalline hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX). The elastic coefficients were computed using the strain fluctuation formula due to Rahman and Parrinello [J. Chem. Phys. 76, 2662 (1982)]. Calculations were performed as a function of temperature (218
+K}T}333
+K) and hydrostatic pressure (0
+GPa}p}4
+GPa). The predicted values of the moduli and Poisson ratios under ambient conditions are in accord with general expectations for molecular crystals and with a very recent, unpublished determination for RDX. The moduli exhibit a sensitive pressure dependence whereas the Poisson ratios are relatively independent of pressure. The temperature dependence of the moduli is comparable to the precision of the results. However, the crystal does exhibit thermal softening for most pressures. An additional product of the calculations is information about the pressure-volume-temperature (pVT) equation of state. We obtain near-quantitative agreement with experiment for the case of hydrostatic compression and reasonable, but not quantitative, correspondence for thermal expansion. The results indicate a significant dependence of the thermal expansion coefficients on hydrostatic pressure. © 2000 American Institute of Physics. 
+
+Monte Carlo methods
+organic compounds
+elastic moduli
+high-pressure effects
+EXPLOSIVES
+ELASTICITY
+MONTE CARLO METHOD
+EQUATIONS OF STATE
+SIMULATION
+POISSON RATIO
+STRAINS
+CRYSTALS
+TEMPERATURE DEPENDENCE
+THERMAL EXPANSION

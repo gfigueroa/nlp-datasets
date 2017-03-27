@@ -1,0 +1,5 @@
+We have revisited the BlakeTolstoi theory [Coll. Surf. 47, 135 (1990)] for molecular and hydrodynamic slip and applied it to the fundamental description of acoustic wave devices coupled to a liquid of finite thickness. The aim is to provide a framework for a predictive model for slip, based on surfaceliquid interactions and contact angle. This theory provides a description of slip that links hydrodynamic boundary slip to a schematic, molecular description involving the wettability of the liquidsolid interface. We redevelop the model, using current acoustic sensors notation, then evaluate its qualitative behavior as a predictive model for slip length in the context of acoustic wave devices. Finally, we discuss the limitations of the model and consider the advantages of a predictive model for boundary slip. © 2003 American Institute of Physics. 
+
+contact angle
+surface acoustic wave sensors
+wetting

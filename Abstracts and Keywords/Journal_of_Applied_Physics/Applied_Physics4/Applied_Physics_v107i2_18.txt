@@ -1,0 +1,11 @@
+Ge1xMnx/Ge single-crystal heterojunction diodes with p-type Ge1xMnx ferromagnetic semiconductor were grown, respectively on Ge substrates of p-type, n-type, and intrinsic semiconductors by molecular beam epitaxy. The I-V curve of the p-Ge0.95Mn0.05/intrinsic-Ge diode can be greatly tuned by a magnetic field, which was indicated by a large positive magnetoresistance. The magnetoresistance shows a peak value of 700% under a +2V bias voltage around the Curie temperature of 225 K of the Ge0.95Mn0.05 magnetic semiconductor, and it remains as high as 440% at room temperature. The origin of the positive magnetoresistance is discussed.
+
+Curie temperature
+ferromagnetic materials
+germanium compounds
+giant magnetoresistance
+magnetic semiconductors
+magnetic thin films
+p-n heterojunctions
+rectification
+semiconductor diodes

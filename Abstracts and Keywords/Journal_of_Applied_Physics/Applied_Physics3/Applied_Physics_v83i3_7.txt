@@ -1,0 +1,14 @@
+A study of near-band-edge optical properties of ZnSe epilayers grown on GaAs substrates using various modulation techniques is presented. We compare the contactless electroreflectance (CER) and piezoreflectance spectra to ascertain that our ZnSe epilayers of 1.2 ¼m in thickness grown on GaAs substrates are under a biaxial tensile strain. The defect-related transitions near the ZnSe/GaAs interface are also compared by identifying the photoreflectance and other spectra. In addition, in order to observe the temperature-dependent energy splitting and strains, we present a detailed investigation of the heavy-hole and light-hole related transition energies as a function of temperature in the 15200 K range by identifying the excitonic signatures in the CER spectra. We have also calculated the energy splitting between heavy-hole and light-hole valence bands by utilizing the temperature-dependent elastic constants for ZnSe and the thermal expansion coefficients for ZnSe and GaAs. Both the experimental result and the theoretical calculation have shown a similar trend that the biaxial tensile strains decrease in magnitude with increasing temperatures in the 1.2 ¼m ZnSe epilayer grown on a GaAs substrate. © 1998 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+semiconductor epitaxial layers
+electroreflectance
+piezoreflectance
+photoreflectance
+valence bands
+elastic constants
+thermal expansion
+internal stresses
+excitons
+modulation spectra

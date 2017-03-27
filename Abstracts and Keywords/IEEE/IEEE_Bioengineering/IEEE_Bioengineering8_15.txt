@@ -1,0 +1,6 @@
+Iris recognition has been shown to be one of the most accurate biometrics. However, under non-ideal situations, its recognition accuracy can be reduced dramatically. Under such situations, video images can be used to improve the accuracy. The traditional single image based segmentation method could be inefficient. Video image based thresholding method can help improve the segmentation efficiency. However, traditional thresholding methods are not designed for iris images. In this paper, the multi-level iris video image thresholding method is proposed. It takes advantage of the correlations between consecutive images for video based thresholding. It is an orientation invariant thresholding scheme. K-mean clustering is used to find the clusters and PCA is used to quickly project the image to the clusters. The experimental results show the proposed method is effective. The thresholded images show clear pupil and iris areas, which can help further iris segmentation and processing. In addition, the proposed method can be applied to non-video images if they are obtained from the same sensor with similar illumination conditions.
+
+Iris recognition
+multi-level image thresholding
+multi-level iris video image thresholding
+video image

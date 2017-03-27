@@ -1,0 +1,7 @@
+A method was developed and used to determine the electromechanical properties of high frequency (&gt;20 MHz) piezoelectric strip vibrators. A nonlinear regression technique was employed to fit the impedance magnitude and phase as predicted by Masons model to measured values. Results from experimental measurements on 30 MHz array elements supported by an attenuative backing indicated degraded performance when compared to values predicted from the electromechanical properties measured at low frequency. This degradation may be attributed to damage incurred during fabrication and grain size effects, with a fine grain sized material providing superior relative performance. This technique may be used in the evaluation and comparison of different fabrication processes and materials for high frequency medical imaging arrays. © 2000 American Institute of Physics. 
+
+crystal resonators
+grain size
+biomedical imaging
+ultrasonic imaging
+biomedical ultrasonics

@@ -1,0 +1,13 @@
+We report on edge state transport in a ternary material, a modulation-doped InP/Ga0.25In0.75As/InP quantum well, where the electron transport takes place in the highly strained Ga0.25In0.75As layer. The electron mobility is, even though fundamentally limited by alloy-disorder scattering, determined by the two-dimensional electron concentration. By varying the distance between the modulation-doped layer and the two-dimensional electron gas we influence the single particle relaxation time but not the electron mobility. Special attention is paid to the effect of dislocation formation in the conducting Ga0.25In0.75As layer. In addition to the quantum Hall and the Shubnikovde Haas effect a strong, nonlocal transport behavior, which is maintained after illumination, is observed. This effect is explained by the low defect density and the Fermi level pinning on the etched Ga0.25In0.75As surface, at an energy close to the same as the Fermi energy of the two-dimensional electron gas. Furthermore, overshoot effects of the quantum Hall plateaus introduced by the high and varying effective (many-body) g value are investigated. The g value is further addressed in an experiment on a wet etched quantum wire in which values enhanced up to around 45 were found. © 1998 American Institute of Physics.
+
+gallium arsenide
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+electron mobility
+two-dimensional electron gas
+dislocations
+quantum Hall effect
+Shubnikov-de Haas effect
+Fermi level
+semiconductor quantum wires

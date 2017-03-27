@@ -1,0 +1,5 @@
+Due to the increasing importance of thermal devices in engineering applications, the investigation of the thermal properties of magnetic fluids has become necessary. In this work, we report both the temperature and field dependence of the specific heat of a water-based magnetic fluid. The results show that the specific heat of the magnetic fluid is almost independent of temperature under lower-field strengths (&lt;50 Oe), but decreases significantly upon increasing temperature under higher fields. To clarify this effect of the magnetic field on the specific heat capacity of the magnetic fluid, the evolution of the structure of the magnetic fluid film is examined and compared with its field-modulated heat capacity of the fluid. © 2003 American Institute of Physics. 
+
+ferrites
+magnetic fluids
+specific heat

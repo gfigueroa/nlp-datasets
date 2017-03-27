@@ -1,0 +1,13 @@
+Lanthanum modified lead zirconate with La to 8 at.	% were prepared using mixed oxide method and followed by hot press sintering. The basic characterization included: dielectric spectroscopy, SawyerTower polarization measurements, and temperature dependent selected area electron diffraction techniques. An intermediate rhombohedral ferroelectric phase (FER), characterized by square hysteresis loops, was found to exist in lead zirconate below the dielectric maximum. Strong 1/2{110} superlattice reflections associated with Mtype oxygen octahedral rotation is found in the intermediate rhombohedral ferroelectric state. In addition, 1/x{110} incommensurate reflections were observed within a narrow temperature range between the FER phase and the lowtemperature orthorhombic antiferroelectric state. With increasing La content, the temperature stability range of the incommensurate antiferroelectric phase was increased, at the expense of the FER phase. Incommensuration is suggested to result from a competition between broken dipolar and antiferroelectric sublattice interactions. © 1995 American Institute of Physics.
+
+CERAMICS
+PZT
+LEAD COMPOUNDS
+FERROELECTRIC MATERIALS
+PHASE STUDIES
+STABILITY
+POLARIZATION
+ELECTRON DIFFRACTION
+PHASE TRANSFORMATIONS
+INCOMMENSURATE PHASES
+TEMPERATURE DEPENDENCE

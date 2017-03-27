@@ -1,0 +1,15 @@
+In situ xraydiffraction studies of nanophase TiO2 during annealing reveal a strong angulardependent decrease in diffuse background intensities and a corresponding increase in rutile and anatase phase peak intensities for samples annealed above 623 K. This behavior is consistent with the crystallization of an amorphous phase present in unannealed samples in addition to the two previously observed crystalline phases. The rutile lattice is significantly strained in unannealed samples, with a0 increased and c0 decreased compared to the values for coarsegrained material. Normal bulk lattice parameters are obtained after annealing samples at 1073 K. Assuming that strain contributions to the measured lowangle peak breadths are negligible, measurements of the time and temperature dependencies of grain growth in nanophase rutile during annealing indicate a grain growth exponent of 0.64±0.06 and a grain growth activation enthalpy of 83±40 kJ/mol.
+
+TITANIUM OXIDES
+MICROSTRUCTURE
+ANNEALING
+TEMPERATURE RANGE 04001000 K
+TEMPERATURE RANGE 10004000 K
+XRAY DIFFRACTION
+CRYSTALLIZATION
+AMORPHOUS STATE
+STRAINS
+LATTICE PARAMETERS
+GRAIN GROWTH
+TEMPERATURE DEPENDENCE
+ENTHALPY

@@ -1,0 +1,5 @@
+A complex analysis of magnetostatic interactions in particulate media is performed by means of a micromagnetic model. The properties of the interaction field distribution are presented for the case of structured two-dimensional media. The vector properties of the interaction field distribution are also analyzed. The hypothesis concerning interactions in scalar Preisach-type models are validated while the same hypothesis used in vector Preisach models are not entirely in agreement with the physical reality in particulate media. © 2001 American Institute of Physics. 
+
+magnetostatics
+magnetisation
+magnetic particles

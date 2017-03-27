@@ -1,0 +1,9 @@
+Objective: Although patients with bipolar disorder have been shown to benefit from psychosocial interventions, the proportion that utilizes these interventions is unknown. We set out to clarify the determinants of psychosocial service utilization in adults with bipolar disorder. Method: We investigated psychosocial service utilization among the first 500 patients admitted to the Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD). Results: In the 3 months prior to enrollment in STEP-BD, a majority of the patients (54%) were engaged in at least one psychosocial service modality in addition to pharmacotherapy. In order of decreasing frequency, these were therapy with a psychologist, self-help group, therapy with a social worker, and therapy with another type of provider. Bipolar patients with personality disorders (80% vs 20%, <em>p</em> = 0.0002), alcohol/drug abuse disorders (76% vs 24%, <em>p</em> = 0.0022), and anxiety disorders (60% vs 40%, <em>p</em> = 0.0043) received more psychosocial services than those without. Poorer global functioning also increased the likelihood of receiving services, whereas being married decreased service utilization. Conclusion: Psychosocial service utilization by outpatients with bipolar disorder is strongly linked to greater severity/complexity of illness. Potential moderators, such as insurance status and availability of care, should be examined in future studies. 
+
+bipolar disorder
+psychosocial interventions
+service utilization
+Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD)
+therapy
+self-help groups
+comorbidity

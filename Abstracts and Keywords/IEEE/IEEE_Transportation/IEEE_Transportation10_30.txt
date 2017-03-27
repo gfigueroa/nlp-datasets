@@ -1,0 +1,6 @@
+This paper proposes an analytical approach for calculating the incentive charge for individual participant when the multiple wheeling transaction are considered simultaneously. The proposed method allocate the incentive charge over the participants by analyzing their shares in negative power flow or counter flow. To determine the individual participants impact on the transmission power flows, Bialek tracing algorithm is used. One case study based on IEEE 14 bus system is used to illustrate the proposed approach. The results show that the each participant provide with some incentive charges, which encourages the individual participants contribution over the traditional MW-mile approach in the context of revenue reconciliation of transmission services, regardless of transmission arrangement and locations. The main advantage of the developed method lies in its capability to consider multiple wheeling transactions simultaneously.
+
+counter flow
+open access
+transmission pricing
+wheeling transaction

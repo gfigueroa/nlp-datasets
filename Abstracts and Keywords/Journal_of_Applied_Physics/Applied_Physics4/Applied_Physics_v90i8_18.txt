@@ -1,0 +1,13 @@
+In this study, we present a detailed structural characterization by means of transmission electron microscopy and Raman spectroscopy of polymorphous silicon (pm-Si:H) thin films deposited using radio-frequency dust-forming plasmas of SiH4 diluted in Ar. Square-wave modulation of the plasma and gas temperature was varied to obtain films with different nanostructures. Transmission electron microscopy and electron diffraction have shown the presence of Si crystallites of around 2 nm in the pm-Si:H films, which are related to the nanoparticles formed in the plasma gas phase coming from their different growth stages, named particle nucleation and coagulation. Raman scattering has proved the role of the film nanostructure in the crystallization process induced in situ by laser heating. © 2001 American Institute of Physics.
+
+semiconductor thin films
+semiconductor growth
+plasma deposition
+Raman spectra
+elemental semiconductors
+transmission electron microscopy
+electron diffraction
+crystallites
+nanostructured materials
+hydrogen
+silicon

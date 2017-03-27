@@ -1,0 +1,9 @@
+We have explored electrical trap levels inside SrTiO3 epitaxial films grown by the pulsed laser deposition method from electrical measurements of semiconducting oxide p-i-n diodes consisting of La0.85Sr0.15MnO3/SrTiO3/La0.05Sr0.95TiO3 trilayers. The prepared p-i-n diodes exhibited a marked temperature dependence in their currentvoltage (IV) characteristics. By attributing the temperature dependence of IV curves to the space-charge limitation due to the trapped charges inside the i-SrTiO3 layer, we estimated crudely the level of the dominant trap in the SrTiO3 layer as <0.09 eV. The trap density was also estimated from the curve-fitting technique. At this moment, the trap densities were 1016 and 1018/cm3 when SrTiO3 layers were grown at 650 and 630
+°C, respectively. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+semiconductor epitaxial layers
+electron traps
+pulsed laser deposition
+p-i-n diodes

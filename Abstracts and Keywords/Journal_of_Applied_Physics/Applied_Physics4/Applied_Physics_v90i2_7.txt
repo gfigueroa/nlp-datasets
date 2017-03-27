@@ -1,0 +1,10 @@
+Complex conductivity of moderately P-doped silicon wafers (1.1±0.2
+©
+cm at room temperature) has been measured by using a terahertz (THz) time-domain spectroscopy for the temperature and frequency ranges of 20300 K and 0.21.1 THz, respectively. The strong frequency dependence of the complex conductivity due to the free carriers in the THz region is observed and it changes rapidly with temperature, which is interpreted in terms of the increase in mobility and freezing of the free carrier as analyzed by using the simple Drude model. The experimental data deviate slightly from the simple Drude model at low temperatures and becomes apparent with decreasing temperature. © 2001 American Institute of Physics. 
+
+silicon
+phosphorus
+elemental semiconductors
+carrier mobility
+electrical conductivity
+submillimetre wave spectra

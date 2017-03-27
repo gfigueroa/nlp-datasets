@@ -1,0 +1,13 @@
+Tunneling current and thickness inhomogeneities of ultrathin aluminum oxide layers of magnetic tunnel junctions are studied by conducting atomic force microscopy (CAFM). The current inhomogeneities are attributed to thickness inhomogeneities on a nanometer scale. Thickness distributions are derived from the current distributions, using the Simmons tunneling model by assuming a constant and uniform barrier height. It is shown that dielectric breakdown at high voltages can cause modifications of the AlOx layer during CAFM measurements, characterized by the irreversibility of both current images and local IV characteristics. Working at low voltage and low current is a necessary condition for applicability of the CAFM method for testing the insulator layers. The effect of the method of film preparation on the film dielectric strength is studied. © 2001 American Institute of Physics. 
+
+MIM structures
+tunnelling
+interface magnetism
+atomic force microscopy
+electric breakdown
+electric strength
+ferromagnetism
+dielectric materials
+magnetic heads
+magnetic recording
+dielectric thin films

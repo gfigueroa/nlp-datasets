@@ -1,0 +1,11 @@
+Organic-inorganic multilayer structures of the siliconpolymermetal type have been fabricated. The current-voltage characteristics of these structures versus temperature are measured. The obtained results are treated within different models of charge transport such as Richardson-Schottky thermionic emission, Fowler-Nordheim tunneling, and Pool-Frenkel and hopping mechanisms. The conclusions about the mechanisms of charge transport at different electric fields and temperatures have been made. The Richardson-Schottky model is in good quantitative agreement with the experimental data in the case of the metal-polymer interface with the energy barriers of 0.260.10eV. The charge transport in the polymer is explained by the hopping mechanism near the Fermi level with the activation energies being of 0.010.04eV.
+
+silicon
+elemental semiconductors
+Poole-Frenkel effect
+polymers
+copper
+thermionic emission
+hopping conduction
+Fermi level
+MIS structures

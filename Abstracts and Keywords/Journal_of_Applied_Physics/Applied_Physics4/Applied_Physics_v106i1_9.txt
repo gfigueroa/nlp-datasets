@@ -1,0 +1,11 @@
+A method to evaluate the space charge trap energy levels in ferroelectric (FE) Ba0.3Sr0.7TiO3 film incorporated into a metal/FE/metal parallel plate capacitors structure is presented. It is based on microwave measurements of the capacitance relaxation time after the end of a dc pulse, when the change in measured capacitance is due to internal processes of space charge relaxation [Q(t)] in the FE film. Using the Q(t) dependencies obtained as a function of temperature, the time constants of slow relaxation processes were defined and the trap energy levels were evaluated as Et = 0.7, 0.5, and 0.1 eV.
+
+barium compounds
+capacitors
+copper
+ferroelectric materials
+ferroelectric thin films
+MIM devices
+platinum
+space charge
+strontium compounds

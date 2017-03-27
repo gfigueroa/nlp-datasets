@@ -1,0 +1,18 @@
+Impurities and growth-related defect structures are mainly responsible for low thermal conductivity of chemical vapor deposited diamond films. Different quality arc-jet-deposited, free-standing diamond samples were obtained from industry. Fourier transform infrared (FTIR), Raman, and x-ray photoelectron spectroscopy (XPS) were used to determine the quality of these samples. The nondiamond carbon was estimated from the 1560
+cm1 broad peak intensity, the CHx integrated peak absorbance, and the C1s plasmon loss features for Raman, FTIR, and XPS studies, respectively. The diamond quality was also determined from the Raman diamond peak full width at half maximum (FWHM) and XPS valence band spectra. It was observed that the higher the hydrogen content (determined by FTIR), the darker the color of the film, the larger the nondiamond 1560
+cm1 peak intensity, and the larger the FWHM of the Raman diamond peak at 1332
+cm1. Negligible difference in the C1s diamond bulk plasmon loss peak was observed for films of wide ranging quality. The FTIR CHx band exhibited the highest sensitivity to film quality. Impurity-related peaks were observed in the one phonon region of the FTIR spectra and the photoluminescence spectra. The photoluminescence background peak centered at 2.0 eV was found to be strongly related to nondiamond carbon impurities. It is shown that a combination of different analytical tools is required to determine diamond quality. © 1998 American Institute of Physics.
+
+diamond
+semiconductor thin films
+elemental semiconductors
+plasma arc spraying
+infrared spectra
+Raman spectra
+photoluminescence
+X-ray photoelectron spectra
+Fourier transform spectra
+plasmons
+valence bands
+impurities
+thermal conductivity

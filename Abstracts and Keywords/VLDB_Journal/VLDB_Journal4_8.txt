@@ -1,0 +1,6 @@
+We describe the TIGUKAT objectbase management system, which is under development at the Laboratory for Database Systems Research at the University of Alberta. TIGUKAT has a novel object model, whose identifying characteristics include a purely behavioral semantics and a uniform approach to objects. Everything in the system, including types, classes, collections, behaviors, and functions, as well as meta-information, is a first-class object with well-defined behavior. In this way, the model abstracts everything, including traditional structural notions such as instance variables, method implementation, and schema definition, into a uniform semantics of behaviors on objects. Our emphasis in this article is on the object model, its implementation, the persistence model, and the query language. We also (briefly) present other database management functions that are under development such as the query optimizer, the version control system, and the transaction manager.
+
+database management
+objectbase management
+persistent storage system
+reflective system

@@ -1,0 +1,9 @@
+Real-world entities are inherently spatially and temporally referenced, and database applications increasingly exploit databases that record the past, present, and anticipated future locations of entities, e.g., the residences of customers obtained by the geo-coding of addresses. Indices that efficiently support queries on the spatio-temporal extents of such entities are needed. However, past indexing research has progressed in largely separate spatial and temporal streams. Adding time dimensions to spatial indices, as if time were a spatial dimension, neither supports nor exploits the special properties of time. On the other hand, temporal indices are generally not amenable to extension with spatial dimensions. This paper proposes the first efficient and versatile index for a general class of spatio-temporal data: the discretely changing spatial aspect of an object may be a point or may have an extent; both transaction time and valid time are supported, and a generalized notion of the current time, now, is accommodated for both temporal dimensions. The index is based on the R $^*$-tree and provides means of prioritizing space versus time, which enables it to adapt to spatially and temporally restrictive queries. Performance experiments are reported that evaluate pertinent aspects of the index.
+
+Access method
+Bitemporal data
+Multidimensional indexing
+R-tree
+Spatio-temporal data
+Transaction time
+Valid time

@@ -1,0 +1,13 @@
+The recombination centers induced by rapid thermal processing are characterized by measurements of the minoritycarrier diffusion lengths using the surface photovoltage technique. It is shown that transition metals originating from the ambient, especially the furnace and handling, as well as residual metal impurities in the starting material are important factors for the final diffusion length in rapid thermal processed virgin silicon. The preparation of the surface has equally an influence on the diffusion length. The strong degradation of ionimplanted samples is a result of coimplanted metallic impurities which are due to sputtering on metallic parts of the implantation system (apertures), and which are activated by the quenching step. Most of our data presented for quenchinginduced recombination centers are in agreement with a model of isolated metallic impurities which are activated by the quenching. The puzzling deeplevel transient spectroscopy data on quenchedin defects, however, and some experimental results give hints that the nature of these centers may be a complex one.
+
+SILICON
+HEAT TREATMENTS
+RECOMBINATION
+COLOR CENTERS
+MINORITY CARRIERS
+DIFFUSION LENGTH
+SURFACES
+PHOTOVOLTAIC EFFECT
+ION IMPLANTATION
+DLTS
+SOLAR CELLS

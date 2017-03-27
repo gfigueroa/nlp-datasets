@@ -1,0 +1,6 @@
+It is investigated that the lateral shifts of the ballistic electrons transmitted through semiconductor quantum slabs can be negative as well as positive, which are analogous to the anomalous lateral shifts of the transmitted light beam through a dielectric slab. The necessary condition for the shift to be negative is advanced. It is shown that the lateral shifts depend not only on the structure parameters of semiconductor quantum slab but also on the incidence angle and the incident energy. Numerical calculations further indicate that the lateral shifts can be tuned from negative to positive by the external applied electric field. The voltage-tunable lateral shifts may lead to potential applications in quantum electronic devices.
+
+ballistic transport
+dielectric materials
+numerical analysis
+semiconductor quantum wells

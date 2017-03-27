@@ -1,0 +1,14 @@
+Electrical characterization of AlN/GaN interfaces was carried out by the capacitancevoltage (CV) technique in materials grown by metalorganic chemical vapor deposition. The high-frequency CV characteristics showed clear deep-depletion behavior at room temperature, and the doping density derived from the slope of 1/C2 plots under the deep depletion condition agreed well with the growth design parameters. A low value of interface state density Dit of 1×1011
+cm2
+eV1 or less around the energy position of Ec0.8
+eV was demonstrated, in agreement with an average Dit value estimated from photoassisted CV characteristics. © 2000 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+MIS structures
+MOCVD
+semiconductor epitaxial layers
+vapour phase epitaxial growth
+semiconductor growth
+interface states

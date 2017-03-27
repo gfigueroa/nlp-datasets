@@ -1,0 +1,13 @@
+Substitutions by aliovalent cations on the Sr2+ and Bi3+ sites of ferroelectric SrBi2Ta2O9 (SBT) have been carried out, which result in modified dielectric and electrical properties of SBT. The substitution of 10 mole
+% Fe3+ for Sr2+ shows an increase of 80
+°C in TC, whereas Ca2+ substitution for Bi3+ gives rise to diffused and frequency dispersive dielectric maxima with a relaxor-like behavior. The presence of Ca2+ in the (Bi2O2)2+ layers appears to enhance the mobility of charge carriers thus increasing the bulk conduction of the sample. On the other hand, Fe3+ addition in the perovskite-like units results in a sharp dielectric anomaly at the ferroelectric phase transition, with a bulk conductance similar to that of pure SBT compound, but with a reduced space charge relaxation time. The low temperature conductivity mechanism shows a frequency dependence, which can be ascribed to the space charge mainly due to the oxygen vacancies. The dielectric and conductivity properties of the Ca2+-doped SBT make it a promising material for the fatigue resistance in device applications. © 2001 American Institute of Physics. 
+
+strontium compounds
+bismuth compounds
+calcium
+ferroelectric transitions
+ferroelectric materials
+electrical conductivity
+space charge
+dielectric relaxation
+vacancies (crystal)

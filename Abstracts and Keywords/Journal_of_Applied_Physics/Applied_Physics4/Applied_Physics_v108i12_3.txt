@@ -1,0 +1,8 @@
+State-of-the-art green emission efficiency has been achieved with light-emitting diodes incorporating CdMgZnSe color-converting quantum well heterostructures, although dark line defects (DLDs) limit the device reliability. We have determined that misfit strain plays an important role in the formation of extended stacking faults (SFs) and DLDs in II-VI green converters. Even small strain causes SFs to extend to accommodate misfit strain and extended SFs further give rise to DLDs when they intersect active regions. Detailed strain relaxation mechanisms for both tensile and compressive strain have been investigated, which may apply for other semiconductor heterostructures with an fcc lattice. Careful control of the layer strain via close lattice matching prevents the extension of SFs and leads to DLD-free converters.
+
+cadmium compounds
+II-VI semiconductors
+light emitting diodes
+optical wavelength conversion
+quantum well devices
+stacking faults

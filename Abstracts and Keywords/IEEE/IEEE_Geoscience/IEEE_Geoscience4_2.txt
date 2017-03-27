@@ -1,0 +1,5 @@
+This paper constitutes a state-of-the art of specification languages relevant to be used as front-ends towards the DEVS (Discrete EVent System Specification) formalism. Comparison criteria are defined to evaluate specification languages for the description of DEVS structures. Finally, the need for building an original front-end, accounting for the whole criteria, is discussed.
+
+Discrete event simulation
+Modeling
+Specification languages

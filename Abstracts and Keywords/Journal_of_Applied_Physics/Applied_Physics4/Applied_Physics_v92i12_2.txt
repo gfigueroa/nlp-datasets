@@ -1,0 +1,7 @@
+We report a study of the effect of magnetocrystalline anisotropy in the magnetization reversal of submicron Co rings fabricated by nanoimprint lithography. For weak magnetocrystalline anisotropy, the complete reversal takes place via a transition from saturation at large negative fields, into a vortex configuration at small fields, and back to reverse saturation at large positive fields. When the anisotropy strength is increased to a critical value, the intermediate vortex configuration no longer exists in the magnetization reversal along the easy axis; instead, the reversal occurs through a rapid jump. However, when the applied field direction is far from the easy axis, the presence of the magnetocrystalline anisotropy favors local vortex nucleation, and this leads to a similar switching process as found for low anisotropy. Micromagnetic simulations indicate that the magnetization reversal process of the rings, starts from a buckling-like reverse domain nucleation, followed by local vortex formation and an avalanche process of local vortex nucleation. © 2002 American Institute of Physics. 
+
+cobalt
+ferromagnetic materials
+nanostructured materials
+magnetic anisotropy
+magnetisation reversal

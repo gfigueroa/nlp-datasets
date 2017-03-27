@@ -1,0 +1,12 @@
+Effects of switched bias on the radiation response of metaloxidesemiconductor (MOS) devices have been investigated. Transistors with 50nm gate oxides were irradiated at +10V bias to create a large trappedhole density in the oxide. Irradiation was continued under varying negative and positive biases. Very little radiationinduced charge neutralization is observed at biases &lt;10 V for these devices. However, significant trappedhole neutralization is observed at biases from 10 to 0 V, with a broad maximum in neutralization rate from 6 to 1 V. The peak charge neutralization rate is approximately equal to the rate of trappedhole buildup under positive bias. This establishes an upper bound on the rate of radiationinduced charge neutralization, and demonstrates that, under peak neutralization conditions, the effective cross section for the capture of radiationinduced electrons by a filled hole trap is similar to the effective cross section for capture of a hole by an empty trap. Interface traps are found to build up at approximately the same rate when the oxide electric field at the Si/SiO2 interface is positive, regardless of the field direction in the bulk of the oxide. This suggests that nearinterfacial hydrogen may play a key role in interfacetrap buildup in MOS devices.
+
+SEMICONDUCTOR DEVICES
+MOS TRANSISTORS
+PHYSICAL RADIATION EFFECTS
+HOLES
+TRAPPING
+RECOMBINATION
+ELECTRIC POTENTIAL
+INTERFACES
+TRAPS
+GAMMA RADIATION

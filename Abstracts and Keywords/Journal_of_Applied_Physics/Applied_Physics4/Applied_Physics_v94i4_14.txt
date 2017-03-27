@@ -1,0 +1,10 @@
+Wet chemical cleaning is central to semiconductor device processing. For InP-based optoelectronic devices, controlling wet processing is challenging because of the high reactivity of InP surfaces in ambient air. In situ techniques are therefore critical to monitor and understand wet chemical etching and oxidation. We have combined in situ and ex situ Fourier transform infrared absorption spectroscopy, in direct transmission and multiple internal reflection configurations, with ex situ x-ray photoelectron spectroscopy to investigate the wet-chemical removal of epi-ready oxides on InP(100). Even dilute solutions of HCl, HF, or H2SO4 are found to completely remove the epi-ready oxides. For both HCl and HF, the InP surface is left unpassivated, exhibiting rapid recontamination and reoxidation upon air exposure. In contrast, H2SO4 aggressively etches the surface, and forms a thick and fragile oxide cap that can be washed away during a subsequent water rinse. This systematic in situ vibrational study of InP oxide chemistry provides a basis for a mechanistic understanding of wet chemical etching and oxidation. © 2003 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+surface cleaning
+etching
+oxidation
+Fourier transform spectra
+infrared spectra
+X-ray photoelectron spectra

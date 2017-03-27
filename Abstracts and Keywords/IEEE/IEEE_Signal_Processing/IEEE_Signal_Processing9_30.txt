@@ -1,0 +1,7 @@
+Recently many studies on ubiquitous computing have been done. In such studies, we have proposed a portable environment communicator, which enable us to retrieve our past memories and connect objects through the Internet. In this paper, we first introduce our portable environment communicator of prototype, and then demonstrate the following applications for senior persons and disable persons; (1)Supporting memory and mind, (2)Remote care.
+
+disable person
+memory
+mind
+senior person support
+ubiquitous computing

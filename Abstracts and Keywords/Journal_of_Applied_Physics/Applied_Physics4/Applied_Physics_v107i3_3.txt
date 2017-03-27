@@ -1,0 +1,7 @@
+Numerical investigations on the performance of a traveling-wave thermoacoustic refrigerator are described. This refrigerator consists of a looped tube attached to an acoustic driver. A regenerator with many narrow flow channels is installed in the looped tube. When acoustic power is supplied by the acoustic driver to the looped tube, heat pumping occurs inside the regenerator. The coefficient of performance (COP), i.e., the ratio of cooling power to input power, of the refrigerator was calculated by varying the position, length, and flow-channel radius of the regenerator. When the three factors were simultaneously optimized, the COP was found to exceed 60% of the Carnot COP.
+
+acoustics
+cooling
+heat pumps
+optimisation
+refrigerators

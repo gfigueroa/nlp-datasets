@@ -1,0 +1,12 @@
+The infrared absorption from intersubband transitions between the lowest two superlattice conduction minibands is investigated for ntype Ga1xAlxSb/AlSb superlattices. In such an indirect semiconductor superlattice, intersubband transitions can be induced by normally incident light because of the effectivemass anisotropy and the tilted orientation of conductionband valleys with respect to the growth direction. The absorption coefficients and peak transition wavelengths are calculated for superlattices grown in the [001], [110], and [111] directions for both normal and parallel incidence. In the [110] Ga1xAlxSb/AlSb superlattice, peak absorption coefficients of 50007000 cm1 are obtained for both normally and parallel incident radiation in the wavelength range of 814 ¼m with moderate sheet doping concentrations of 1012 cm2. The ability to detect normally incident radiation and to achieve absorption comparable to that in the GaAs/Ga1xAlxAs detectors makes the Ga1xAlxSb/AlSb devices promising for future applications in longwavelength infrared detection.
+
+GALLIUM ANTIMONIDES
+ALUMINIUM ANTIMONIDES
+SUPERLATTICES
+NTYPE CONDUCTORS
+INTERBAND TRANSITIONS
+ANISOTROPY
+EFFECTIVE MASS
+RADIATION DETECTORS
+QUASIBINARY COMPOUNDS
+INFRARED SPECTRA

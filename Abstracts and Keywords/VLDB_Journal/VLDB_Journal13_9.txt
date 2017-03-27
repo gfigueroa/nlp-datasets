@@ -1,0 +1,7 @@
+The Visual Semantic Web (ViSWeb) is a new paradigm for enhancing the current Semantic Web technology. Based on Object-Process Methodology (OPM), which enables modeling of systems in a single graphic and textual model, ViSWeb provides for representation of knowledge over the Web in a unified way that caters to human perceptions while also being machine processable. The advantages of the ViSWeb approach include equivalent graphic-text knowledge representation, visual navigability, semantic sentence interpretation, specification of system dynamics, and complexity management. Arguing against the claim that humans and machines need to look at different knowledge representation formats, the principles and basics of various graphic and textual knowledge representations are presented and examined as candidates for ViSWeb foundation. Since OPM is shown to be most adequate for the task, ViSWeb is developed as an OPM-based layer on top of XML/RDF/OWL to express knowledge visually and in natural language. Both the graphic and the textual representations are strictly equivalent. Being intuitive yet formal, they are not only understandable to humans but are also amenable to computer processing. The ability to use such bimodal knowledge representation is potentially a major step forward in the evolution of the Semantic Web.
+
+Conceptual graphs
+Knowledge representation
+Object-Process Methodology
+Semantic Web
+Visual Semantic Web

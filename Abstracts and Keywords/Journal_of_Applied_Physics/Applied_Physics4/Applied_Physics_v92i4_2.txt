@@ -1,0 +1,12 @@
+A mode of impact ionization breakdown of a pn junction is suggested: We demonstrate that when a sufficiently sharp voltage ramp is applied in reverse direction to an initially unbiased equilibrium p+nn+ structure, after some delay the system will reach a high conductivity state via the propagation of a superfast impact ionization front. The front travels towards the anode with a velocity vf several times larger than the saturated drift velocity of electrons vs leaving a dense electronhole plasma behind. The excitation of the superfast front corresponds to the transition from the common avalanche breakdown of a semiconductor structure to a collective mode of streamer-like breakdown. We propose that similar fronts can be excited not in layered structures but in plain bulk samples without pn junctions. Our numerical simulations apply to a Si structure with typical thickness of W<100
+¼m switched in series with a load R<100
+©, with a voltage ramp of A&gt;1012
+V/s applied to the whole system. Our simulations show that first there is a delay of about 1 ns during which the voltage reaches a value of several kilovolts. Then, as the front is triggered, the voltage abruptly breaks down to several hundreds of volts within <100 ps. This provides a voltage ramp of up to <2×1013
+V/s hence up to 10 times sharper than the externally applied ramp. We unravel the source of initial carriers which trigger the front, explain the origin of the time delay in triggering the front, and we identify the mechanism of front propagation. © 2002 American Institute of Physics. 
+
+p-n heterojunctions
+impact ionisation
+semiconductor plasma
+avalanche breakdown
+silicon
+elemental semiconductors

@@ -1,0 +1,5 @@
+This paper discusses the research being conducted in Italy by ENAV CNS/ATM Experimental Centre to verify the potential benefits deriving from the use of ADS-B technology in Caraffa di Catanzaro and Alghero scenarios. This objective has to be achieved through technical and pre-operational validation activities. The first one is on-going, and some initial observations with regard to validation objectives are also presented together with the parameters and acceptance criteria used. Preliminary results are introduced and analyzed. The pre-operational validation is planned to start in autumn 2008; approach, objectives and expected results are also reported.
+
+ADS-B
+ATM
+Validation

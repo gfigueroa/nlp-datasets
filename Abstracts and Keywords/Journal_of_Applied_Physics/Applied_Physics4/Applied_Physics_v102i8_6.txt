@@ -1,0 +1,13 @@
+The influence of intentional iron bulk contamination on the performances of boron doped p-type multicrystalline silicon solar cells was investigated. Solar cells were made from iron contaminated wafers, with an initial dissolved iron concentration 100 times higher than that of standard wafers. Nevertheless, the conversion efficiency of these cells was not impacted by this intentional contamination. We showed that this tolerance toward iron was due to the efficiency of the gettering and hydrogenation effects, complementary in this material. While phosphorus diffusion (extracting more than 99% of the iron from the bulk) is slightly limited in regions of high dislocation density, hydrogen diffuses through the whole thickness of the wafer and passivates defects and remaining impurities, with its diffusion being faster along extended defects
+
+boron
+diffusion
+dislocation density
+elemental semiconductors
+extended defects
+getters
+hydrogenation
+iron
+phosphorus
+silicon
+solar cells

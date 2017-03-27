@@ -1,0 +1,14 @@
+Furnace annealing (FA) and rapid thermal anealing (RTA) of As75implanted Ge is studied and contrasted. Activation has been observed in furnaceannealed samples at 500	°C. Rapid thermally annealed samples show activation at 575	°C and thereafter. Diffusion effects are significant during FA above 575	°C, while RTA is accompanied with very little dopant diffusion. Damage annealing is best in the FA samples as indicated by the mobility profiles. A dual process such as a 430	°CFA/650	°CRTA offers best results for activation, especially in the case of lowdose implants (<97%). Carrier concentration profiles resemble theoretical implant profiles except near the surface where a region of high concentration is observed.
+
+ANNEALING
+GERMANIUM
+DIFFUSION
+CARRIER DENSITY
+ATOM TRANSPORT
+DAMAGE
+ARSENIC
+ACTIVATION ENERGY
+VERY HIGH TEMPERATURE
+HIGH TEMPERATURE
+CARRIER MOBILITY
+ION IMPLANTATION

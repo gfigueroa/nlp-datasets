@@ -1,0 +1,5 @@
+This paper introduces an innovative approach for teaching higher education students how to professionally communicate using advanced technologies. It is based on a large scale experience with 266 students from the Universit&#x00E0; della Svizzera italiana (Switzerland), Faculty of Communication Sciences. Although a basic mastering of technologies is also taught in the curriculum, the courses where &#x201C;multimedia communication&#x201D; is taught focus on design and communication, not programming, by means of a hands-on approach. Three toolkits are used: IDM (Interactive Dialogue Model), a design methodology, and two authoring tools (1001stories and MEDINA) that allow the creation of multimedia multichannel narratives, and more traditional websites respectively. These three tools are trivial in terms of technological competences required to handle them, but powerful in terms of communication outcomes. By using them, students are stimulated to focus almost exclusively on communication issues. The paper presents the pedagogical approach, the results and the learning benefits achieved by students.
+
+eLearning
+media literacy
+multimedia authoring

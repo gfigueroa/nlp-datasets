@@ -1,0 +1,11 @@
+Co/Cu multilayers were prepared by dc magnetron sputtering, varying the individual layer thicknesses tCuEtCo in the range of t=0.650 nm. Additionally, the ratio tCo/tCu was varied as tCo/tCu=0.44. Giant magnetoresistance (GMR) and saturation ferromagnetic (FM) resistivity for the first three antiferromagnetic (AFM) coupling maxima were measured as a function of temperature in the range of T=4.2300 K, with the GMR values ranging up to 115%. For equidistant Co and Cu layers the saturation resistivity at T=4.2 K matches the size effect dependence in single thin films. Even when changing the single layer thickness or the Co/Cu thickness ratio by an order of magnitude a uniform normalized temperature dependence Á(T,t)/Á(T0,t) is found and no shunting effects are observed for tCo,tCu&lt;10 nm. The results favor the following GMR model: The resistivity in the FM (aligned) state is dominated by (hybridized) majority spin electrons, the states of which at similar s like regions of the Fermi surfaces of face-centered-cubic majority Co and Cu allow them to transmit the Co/Cu interfaces with a large mean free path ». The temperature dependence of » is governed by the transmittance and it is therefore uniform. Diffuse scattering at crystalline defects at the interfaces reduces » in accordance with the size effect in single layers. The transition to the AFM state reduces the large » to the dimensions of CuCo‘, “Cu trilayers, that can be understood in terms of a temperature independent size effect, too. © 2001 American Institute of Physics. 
+
+size effect
+giant magnetoresistance
+magnetic multilayers
+metallic superlattices
+cobalt
+copper
+electrical resistivity
+sputtered coatings
+ferromagnetic materials

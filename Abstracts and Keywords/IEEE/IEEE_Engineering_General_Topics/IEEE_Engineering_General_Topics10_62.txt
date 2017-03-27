@@ -1,0 +1,5 @@
+Road embankments in Northern Manitoba experience lateral spreading and settlements that result in longitudinal cracking of road surfaces. Highways and road embankments can degrade permafrost because their construction and use increase the ground thermal regime beneath the embankments. In addition climate warming trend is likely to magnify this problem. When thawed, the permafrost beneath the road embankments results in differential settlements and dips, which contribute to a concern of public safety. A thermal modeling to reproduce the conditions and trends in the ground beneath road embankments in areas of discontinuous permafrost in Northern Manitoba was used as basis for assessing the impacts of climate change. Based on the simulated impact of climate change to the permafrost, a stress-deformation analysis was performed to determine the deformation and stability of the embankments with and without mechanical stabilization of the degrading permafrost.
+
+Thermal modelling
+adaptation strategies
+stress-deformation analysis

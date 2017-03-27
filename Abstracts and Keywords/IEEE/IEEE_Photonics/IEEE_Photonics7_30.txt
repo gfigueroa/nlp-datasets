@@ -1,0 +1,6 @@
+This work studies the microscopic defects in oxynitride films prepared by plasma-enhanced chemical vapor deposition (PECVD) technique. X-ray photoelectron spectroscopy (XPS) study indicates that the silicon atoms in the films are randomly bonded with nitrogen and oxygen atoms. Photoluminescence measurements were conducted to study the radiative defect centers in the oxynitride films and found that the oxynitride films have a significant amount of non-bridging oxygen defects. Fourier Transform Infrared (FTIR) measurements indicate that the as-deposited films contain significant amount of hydrogen and OH groups.
+
+Fourier transform infrared spectroscopy
+defect
+photoluminescence
+silicon oxynitride

@@ -1,0 +1,13 @@
+A new class of devices consisting of a heterojunction npn transistor with a wavelength modulator and a transversal potential grating in the base region is proposed. An electron injected at high energy into the base region is modulated in wavelength due to acceleration by a signal voltage and its transmission to the collector is controlled through diffraction caused by the grating. Diffraction characteristics are analyzed to reveal the possibility of high transconductances. Furthermore, a reduced transit time, which is due to the constant flow of highenergy and collisionfree electrons and an extremely small capacitance between the modulation electrodes, provides significant potential for highspeed logic applications.
+
+DESIGN
+ELECTRON DIFFRACTION
+PN JUNCTIONS
+TRANSISTORS
+LOGIC CIRCUITS
+HETEROJUNCTIONS
+PERFORMANCE
+MODULATION
+PN HETEROJUNCTIONS
+CHARGEDPARTICLE TRANSPORT
+BIPOLAR TRANSISTORS

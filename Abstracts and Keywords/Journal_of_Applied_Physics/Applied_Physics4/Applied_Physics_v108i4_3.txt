@@ -1,0 +1,7 @@
+The size effect on pyroelectric response of ferroelectric nanowires is analyzed. The pyroelectric coefficient strongly increases with the wire radius decrease and diverges at critical radius Rcr corresponding to the size-driven transition into paraelectric phase. Size-driven enhancement of pyroelectric coupling leads to the giant pyroelectric current and voltage generation by the polarized ferroelectric nanoparticles in response to the temperature fluctuation. The maximum efficiency of the pyroelectric energy harvesting and bolometric detection is derived, and is shown to approach the Carnot limit for low temperatures.
+
+ferroelectric materials
+nanoparticles
+nanowires
+pyroelectricity
+size effect

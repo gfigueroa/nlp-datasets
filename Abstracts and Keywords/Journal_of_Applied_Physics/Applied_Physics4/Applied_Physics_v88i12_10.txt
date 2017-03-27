@@ -1,0 +1,12 @@
+Cubic aluminum nitride (c-AlN) thin films have been deposited at room temperature on silicon substrates by nitrogen-ion-assisted pulsed laser ablation of a hexagonal AlN target. The deposited thin films exhibit good crystal properties with sharp x-ray diffraction peaks. The influences of the nitrogen ion energy on the morphological, compositional, and electronic properties of the AlN thin films have been studied. The nitrogen ions can effectively promote the formation of AlN bonds and improve the crystal properties of the deposited thin films. A nitrogen ion energy of 400 eV is proposed to deposit high quality c-AlN thin films. © 2000 American Institute of Physics. 
+
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor thin films
+semiconductor growth
+pulsed laser deposition
+ion beam assisted deposition
+crystal structure
+stoichiometry
+bonds (chemical)

@@ -1,0 +1,6 @@
+The refinery units frequently need advanced process control (APC) strategies and near smooth real-time feed stream composition of crude oil for increasing economic profit in petroleum refining industry. So crude oil blending is a crucial process for managing crude transitions in logistics. In this paper we model the blending process as multi-input multi-output (MIMO) CARIMA model according to the characteristics that there is no coupling among variables, we control the blending process based on generalized predictive control (GPC) strategy. Meanwhile a nuclear magnetic resonance (NMR) spectroscopy analyzer is used to precisely measure the important crude oil composition of different steam of the blender. Then the real time data is used to adapt the parameters of CARIMA model. Finally, the accurateness and suitability of the proposed method is demonstrated with the case study of a crude oil blender.
+
+CARIMA model
+Crude oil blending
+Generalized predictive control
+Nuclear magnetic resonance spectroscopy analyzer

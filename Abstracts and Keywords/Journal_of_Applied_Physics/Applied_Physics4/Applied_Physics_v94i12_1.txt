@@ -1,0 +1,9 @@
+Selective formation of the single-phase nanoclusters of Cu2O on SrTiO3(100) substrates in the size range of 1050 nm is found to occur only in a very narrow oxygen plasma-assisted molecular-beam epitaxy growth parameter window, in comparison with the bulk phase diagram (for oxygen pressure versus temperature). There are distinctive parameter regions, where multiple phaselike forms coexist (CuO/Cu2O and Cu2O/Cu), in agreement with theoretical prediction for small systems, and as opposite to the sharp phase boundaries for the bulk. Observed changes in the nanocluster composition are found to correlate with differences in cluster morphologies. © 2003 American Institute of Physics. 
+
+copper compounds
+molecular beam epitaxial growth
+plasma deposition
+quantum dots
+nanoparticles
+self-assembly
+phase diagrams

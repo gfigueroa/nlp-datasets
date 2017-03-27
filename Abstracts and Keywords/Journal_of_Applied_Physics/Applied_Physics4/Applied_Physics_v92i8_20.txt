@@ -1,0 +1,10 @@
+We have fabricated and studied the magnetic properties of the Ni81Fe19/Al2O3/Ni81Fe19 based magnetic tunnel junction sensors. Magnetoresistance (MR) of 35% is achieved with a small applied field (&lt;10 Oe). The introduction of a hard axis bias field linearizes the MR response. The hysteresis disappears in hard-axis fields greater than 3 Oe, which corresponds to the effective anisotropy field along the easy axis. A sensitivity of 3.5%/Oe has been demonstrated in this linear region. Low-frequency noise measurements indicate that sensor noise is dominated by field-dependent 1/f noise caused by magnetization fluctuations. Finally, a noise level as low as 1
+nT/Hz1/2 has been obtained. © 2002 American Institute of Physics. 
+
+magnetic sensors
+nickel alloys
+iron alloys
+tunnelling
+magnetoresistance
+1/f noise
+magnetisation

@@ -1,0 +1,7 @@
+The dynamic densification behavior of nanoiron powder ( < 25nm particle size) prepressed to < 35% and < 45% of solid density was determined based on measurements of shock input stress and wave velocity by using piezoelectric stress gauges. The experimentally determined shock densification response is observed to be sensitive to the initial density (or porosity) of prepressed nanoiron powder compacts. Hugoniot measurements show an obvious densification-distension transition at < 2GPa for the < 35% dense and < 6GPa for the < 45% dense powder compacts. The densification and shock compression responses of the nanoiron powders are also calculated by using isobaric and isochoric models. Correlations of the model calculations with the measured data indicate that the shock Hugoniot of nanoiron powders cannot be correctly described by the currently available analytical models that are otherwise capable of predicting the Hugoniot of highly porous materials (prepressed compacts) of micron-sized powders.
+
+densification
+iron
+nanoparticles
+particle size
+shock wave effects

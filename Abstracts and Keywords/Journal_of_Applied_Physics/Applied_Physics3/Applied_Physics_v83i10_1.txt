@@ -1,0 +1,10 @@
+Tunnel junctions comprised of two magnetic metal layers separated by a thin insulating oxide layer have been prepared by reactive sputtering onto thermally oxidized (100) silicon wafers at room temperature. The magnetic layers (thicknesses < 3050
+nm) consisted of thin films of Co, Fe, and/or CoFe and the oxide barriers (thicknesses in the range 210 nm) included CoO, MgO, HfO2, and SiO2. The barriers were prepared by dc reactive sputtering from pure metal sources in mixed oxygenargon atmospheres or by rf sputtering from oxide targets. Transmission electron microscopy in the cross-sectional geometry was used in this study to characterize the tunnel junction microstructure. Barriers of CoO and MgO were invariably polycrystalline with many crystallites extending across the entire barrier thickness, whereas barriers of SiO2 and HfO2 appeared to be amorphous. Although grain boundary diffusion has been proposed as a possible mechanism for providing shorts or pinholes between the magnetic electrodes, it was significant that both HfO2 (amorphous) and MgO (polycrystalline) showed high magnetoresistive response at low temperature. © 1998 American Institute of Physics.
+
+magnetic thin films
+ferromagnetic materials
+sputtered coatings
+transmission electron microscopy
+grain boundary diffusion
+magnetoresistance
+magnetic hysteresis

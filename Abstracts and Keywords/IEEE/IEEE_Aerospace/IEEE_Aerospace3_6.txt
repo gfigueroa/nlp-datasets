@@ -1,0 +1,7 @@
+On-body communication channels are used in an increasing number of applications, including headsets and wristwatch controllers for mobile phones, and systems for emergency personnel and for personal medical support. In channels for such systems the movement of the body causes significant fading, in addition to that caused by scattering from the local environment. This can be mitigated using diversity methods. Measurement results of space, and pattern diversity at 2.45 GHz, using two antenna types is presented and results indicate that useful diversity gain can be obtained, which is dependent on the specific channel and antenna type. A switched beam antenna is also used to estimate ray angle of arrival statistics and results are given. Simulation of channel and antenna performance whilst the body is moving is also an important challenge and progress is also described. The work has been performed at the Universities of Birmingham, Pisa and Bari.
+
+angle-of-arrival
+computer simulations
+diversity
+on-body propagation
+wearable antennas

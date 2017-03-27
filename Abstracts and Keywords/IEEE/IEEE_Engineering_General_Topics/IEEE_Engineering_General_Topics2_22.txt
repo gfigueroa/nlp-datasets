@@ -1,0 +1,6 @@
+For the requirement of 3G mobile terminal at present, we have designed a new kind of WCDMA mobile terminal spiral antenna with PBG structure, which is capable of working in 1920-2170 MHz frequency broad band. Applying PBG configuration in planar spiral antenna, the characteristics is improved significantly and the size is also reduced. It makes the band width reach 250 MHz, which covers the whole emitting and receiving frequency band of WCDMA system. This antenna has been simulated and designed by using simulation design software, and the experiment results are agree well with the simulation results, which show that the varied period configuration of PBG is more benefit to improve antenna performance.
+
+3G
+PBG
+WCDMA system
+planar spiral antenna

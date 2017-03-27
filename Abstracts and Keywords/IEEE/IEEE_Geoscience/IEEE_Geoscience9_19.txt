@@ -1,0 +1,6 @@
+This paper reveals a model of an optical front-end receiver with an intermediate frequency (IF) signal transmission utilizing photonic up-conversion technique through harmonic balance simulation analysis. This technique is proposed at base station (BS) merited by the dispersion effect that occurs on the fiber at higher frequency signals. Heterojunction bipolar transistor (HBT) is modeled as an optoelectronic mixer (OEM) due to the nonlinearities of HBT to attain the up-conversion signal. IF modulated input signal is in the range of 0.1 GHz to 0.4 GHz and the local oscillation (LO) frequency of 30 GHz is pumped to the base terminal with input power of -10 dBm. 30.4 GHz up-converted frequency with about -2.32 dBm of conversion gain is obtained at V<sub>BE</sub> = 0.76 V based on simulation study.
+
+dispersion effects
+frequency up-conversion
+heterojunction bipolar transistor
+optoelectronic mixer

@@ -1,0 +1,7 @@
+Mesoscopic structures made of cigar-shaped ³-Fe2O3 nanocrystals with an average length of 325 nm and aspect ratio of 7 are described. The structures were prepared starting from an aqueous solution to which a magnetic field parallel to the substrate could be applied during the evaporation process. If a magnetic field was applied, the nanocrystals rotated their long axis along the magnetic field direction to form ribbons, whereas without a field the nanocrystals remained deposited on the substrate with a random orientation. The orientation of the nanocrystals is responsible for the anisotropy of the ribbons as evidenced by the hysteresis loops. © 2002 American Institute of Physics. 
+
+ferrites
+nanostructured materials
+magnetic particles
+magnetic anisotropy
+magnetic hysteresis

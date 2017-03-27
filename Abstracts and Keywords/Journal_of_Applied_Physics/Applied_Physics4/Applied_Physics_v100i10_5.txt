@@ -1,0 +1,15 @@
+Lead-free piezoelectric ceramics, with the nominal composition of 0.948(K0.5Na0.5)NbO30.052LiSbO3 (KNN-LS5.2), were synthesized by conventional solid-state sintering, and the piezoelectric and electromechanical properties were characterized as a function of temperature. The Curie temperature of the KNN based perovskite material was found to be 368	°C with an orthorhombic-tetragonal polymorphic phase transition (TO-T) temperature at approximately < 35	°C. The room temperature dielectric permittivity (µ33T/µ0) and loss were found to be 1380 and 2%, respectively, with piezoelectric properties of k33 < 62% and d33 < 265pC/N and k31 < 30% and d31 < 116pC/N. The temperature dependence of the properties mimicked the compositional variation seen in the proximity of a morphotropic phase boundary [e.g., lead zirconate titanate (PZT)], with a maxima in the dielectric and piezoelectric properties and a corresponding softening of the elastic properties. Unlike that found for PZT-type materials, the modified KNN material exhibited characteristics of both soft and hard piezoelectricities owing to the distinctly different domain states associated with orthorhombic and tetragonal phases.
+
+potassium compounds
+sodium compounds
+lithium compounds
+piezoceramics
+sintering
+piezoelectricity
+permittivity
+dielectric losses
+elasticity
+polymorphic transformations
+ferroelectric Curie temperature
+ferroelectric transitions
+electric domains

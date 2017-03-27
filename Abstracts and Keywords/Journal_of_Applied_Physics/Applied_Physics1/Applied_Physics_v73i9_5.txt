@@ -1,0 +1,10 @@
+The illuminationinduced enhancement of the sheet density of the twodimensional electron gas (2DEG) dwelling within the quantum well of a semiconductor heterostructure is determined as a function of cumulative photon dose through a theoretical interpretation that processes the experimental data of the persistent photoconductivity effect exhibited by the doped, widebandgap side of the probed heterojunction (HJ). The interpretation takes into account the photocurrent flowing within the HJ interface along with the subsequent alterations in the persisting charge, ionized donor, and 2DEG populations. Results are given for typical AlxGa1xAs/GaAs heterodiodes.
+
+QUANTUM WELLS
+ELECTRON GAS
+HETEROSTRUCTURES
+ILLUMINATION
+PHOTOCONDUCTIVITY
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+DOPED MATERIALS

@@ -1,0 +1,11 @@
+Diamond films were grown over Si substrate at 1223 K by the hot filament chemical vapor deposition (CVD) method using CH4/H2 gas mixtures (1%, 2%, 3% CH4,) and the intrinsic stresses in the film were deduced using the ex situ curvature method. After subtracting the curvature change during the cooling process, average stresses in the film during the CVD process, Ãf	, were calculated using the elastic/plastic analysis which treated the creep deformation of the substrate. The intrinsic stress kept increasing during the CVD process and was generally several times larger than the Ãf	 which tended to saturate around the film thickness (tf) of 10 ¼m. For thicker films, substrate creep became significant and the substrate stress was substantially relaxed by creep. Fraction of the creep strain with respect to the total strain at the filmsubstrate interface was around <1/3 when tf<10
+¼m, and increased as large as 2/3 during the film deposition. The intrinsic stress was believed to arise from the grain growth during the CVD process, because the stress deduced from the actual grain size measurements agreed reasonably with calculated values from the above analysis. Later, the diamond film layer was removed by O2 electron cyclotron resonance etching, and the remaining curvatures of the substrate were compared with those deduced from the elastic/plastic analysis. Residual stresses in the substrate after the film removal were tensile near the interface and the substrate bottom but compressive in the middle. © 2000 American Institute of Physics. 
+
+diamond
+elemental semiconductors
+semiconductor thin films
+chemical vapour deposition
+internal stresses
+creep
+grain growth
+grain size

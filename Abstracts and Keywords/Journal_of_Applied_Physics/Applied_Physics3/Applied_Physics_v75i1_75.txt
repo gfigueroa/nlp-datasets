@@ -1,0 +1,14 @@
+Room temperature YBa2Cu3Ox films, epitaxially grown on oriented substrates, are shown to be effective detectors of far infrared laser pulses. The photovoltage arises due to an anisotropic material thermopower subject to the thermal gradient arising from the radiation heating. For a 40 nm thick film we have measured a responsivity of (5±2)×107 V/W, independent of frequency in the range from 20 to 110 cm1. The response time is limited by thermal diffusion, giving a 200 MHz detector bandwidth and a noise equivalent power of 3.6×103 W(Hz)1/2 for this film thickness. Due to their large area (1 cm2) and uniform spectral response, such films may be useful replacements for pyroelectric power/energy meters.
+
+RADIATION DETECTION
+INFRARED RADIATION
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+THIN FILMS
+SPECTRAL RESPONSE
+PHOTOVOLTAIC EFFECT
+THERMOELECTRIC PROPERTIES
+MHZ RANGE 1001000
+LASER RADIATION

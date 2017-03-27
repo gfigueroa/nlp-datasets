@@ -1,0 +1,7 @@
+The advancement of mobile information systems is going in parallel with Geographical Information Systems where they both meet in providing location-aware services. New systems are providing a new pervasive GIS dimension where access to geographical attributes is being possible at ldquoanytime, anyplace and anyhowrdquo. Having this objective, one of the key problems is the integration of geo-spatial information, which comes from multiple sources completely heterogeneous but has to accomplish all the user tasks. These information sources came mainly from: i) multiple databases, which can contain very different information and different representation method (vector or raster), and ii) useful elements like satellite information (images and GPS). In this article, we propose an approach to integrate all this information. We use XML descriptors to store all different information that the user will need when he is consulting his mobile device. Having this information in XML format has some advantages, for example it can be updated easily and it can be shared with other services and users. We also propose an approach that provides mobile users with a service that corresponds not only to their requests but also to their preferences, location and querying time.
+
+GI Service
+GIS mobile
+XML tags
+data integration
+spatial database

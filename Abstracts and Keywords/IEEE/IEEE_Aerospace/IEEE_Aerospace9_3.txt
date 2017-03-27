@@ -1,0 +1,8 @@
+In object recognition (classification), it was known that the human brain processes visual information in semantic space mainly, that is, extracting the semantically meaningful features such as line-segments, boundaries, shape and so on. But by recent information processing techniques, these kinds of features cannot be detected by computers robustly so that in computer vision it's still difficult to process visual information as humans do. Computers have to process visual information in data space formed by the robustly detectable but less meaningful features such as colors, textures etc. Therefore, the processing methodology in computers is quite different from that in human beings. In the talk, we will address the main principle of the image recognition (classification) approach in computer vision, its seedtime, main results and the difficulty faced recently. From digital cameras, there is a huge amount of 2D-image data. In computer object recognition (or classification), the data should be transformed into an object-invariant inner representation. In order to solve the problem, we need two key techniques, i.e., a robust detector and an invariant descriptor. People have attempted to solve the two key techniques for a long time but so far they didn't find any efficient solution. Human visual performances are still superior to that of computer vision greatly in many aspects. So as a future direction, computer vision should learn some things from neuroscience and brain science. We will discuss what computer vision can learn from human vision and how it will be affected by the new interdisciplinary research. We may still face many difficulties in the future.
+
+computer vision
+descriptor
+detector
+feature
+human vision
+object recognition

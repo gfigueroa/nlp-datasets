@@ -1,0 +1,13 @@
+Siteselective photoluminescence spectroscopy of Ho3+ ions in singlecrystal KYF4, measured with a Fouriertransform spectrometer at 80 and 2 K sample temperatures, gives evidence for two dissimilar classes of crystalfield sites. Three similar sites contribute to each class giving a total of six sites in agreement with recent crystallographic results. Analysis of crystalfield splittings indicates that only one of the classes can contribute to Yb’Ho upconversion green lasing in (Yb,Ho):KYF4.
+
+LASER MATERIALS
+POTASSIUM FLUORIDES
+YTTRIUM FLUORIDES
+TERNARY COMPOUNDS
+HOLMIUM IONS
+PHOTOLUMINESCENCE
+TEMPERATURE RANGE 013 K
+TEMPERATURE RANGE 65273 K
+CRYSTAL FIELD
+ENERGYLEVEL SPLITTING
+MONOCRYSTALS

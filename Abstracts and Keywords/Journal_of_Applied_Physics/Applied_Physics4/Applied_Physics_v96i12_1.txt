@@ -1,0 +1,13 @@
+The mechanisms controlling the growth rate and composition of epitaxial CdTe and Cd1xZnxTe films were studied. The films were grown by isothermal closed space configuration technique. A GaAs(100) substrate was exposed sequentially to the elemental sources (Zn, Te, and Cd) in isothermal conditions. While growth of ZnTe followed an atomic layer epitaxy (ALE) regime [self-regulated at one monolayer (ML) per cycle]; the CdTe films revealed different growth rates in dependence of the growth parameters (exposure and purge times). Combination of short purge times and larger Cd exposure times led to not self-regulated growth regime for CdTe. This is ascribed to large Cd coverages that were dependent on Cd exposure times (following a Brunauer-Emmett and Teller-type adsorption). However, for longer purge times andor short Cd exposure times, an ALE self-regulated regime was achieved with 2MLcycle. In this sense, the self-regulation of the growth is limited by desorption, instead of absorption, as in the traditional growth technique. Cd atoms substitution by Zn atoms and subsequent evaporation of surface Cd atoms during Zn exposure has been proved. The influence of these facts on the growth and composition of the alloy is discussed.
+
+cadmium compounds
+zinc compounds
+II-VI semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+atomic layer epitaxial growth
+desorption
+adsorption
+surface chemistry
+chemical interdiffusion
+evaporation

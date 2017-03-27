@@ -1,0 +1,9 @@
+X-ray resonant magnetic scattering was used to study the antiferromagnetic correlation between weakly coupled Co layers in a [Co(6	nm)#Cu(6	nm)]20 multilayer. Half-order peaks were observed for standard specular ¸2¸ scans with the energy of the incident x rays tuned to the Co L3 absorption edge. Three characteristic lengths were extracted from fits to the multicomponent 3/2-order diffuse spectrum: average correlated domain size, average correlated domain wall thickness, and average in-plane structural correlation length. © 2004 American Institute of Physics. 
+
+cobalt
+copper
+ferromagnetic materials
+antiferromagnetism
+magnetic multilayers
+magnetic domain walls
+X-ray scattering

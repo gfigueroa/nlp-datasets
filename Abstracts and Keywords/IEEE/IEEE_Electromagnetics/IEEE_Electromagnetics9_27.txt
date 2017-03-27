@@ -1,0 +1,7 @@
+High temperature superconducting (HTS) linear synchronous motor (LSM) integrated with HTS magnetic levitation system, can realize self-levitation and self-guidance without any sliding friction, which will have important applications in many fields such as electromagnetic aircraft launch system, maglev transportation. This paper presents the design and electromagnetic analysis of a HTS LSM, which is levitated by a magnetic levitation system consisting of HTS bulks-permanent magnet (PM) guideways. Numerical analysis and magnetic field finite element analysis (FEA) methods are applied to analyze the thrust, levitation and guidance force characteristics, and the electromagnetic performance of HTS LSM under no-load and load situations are studied with the analysis results are given. Finally, the primary motor running testing results are provided.
+
+HTS bulk
+HTS linear synchronous motor
+HTS magnetic levitation
+electromagnetic characteristic
+high temprature superconductor (HTS)

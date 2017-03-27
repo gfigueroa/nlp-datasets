@@ -1,0 +1,13 @@
+We have carried out high temperature x-ray diffraction studies on (Pb1xBax)ZrO3(PBZ) to correlate the large thermal hysteresis (<100
+°C for x=0.05) and irreversibility (for x=0.10) of the antiferroelectric (AFE)ferroelectric (FE) phase transition observed in dielectric measurements with structural changes. It is shown that for both the compositions, the sequence of phase transitions during heating is orthorhombic antiferroelectric (AO) to rhombohedral ferroelectric (FR) and then to cubic paraelectric (PC). The wide phase coexistence region (<80
+°C for x=0.05 and <160
+°C for x=0.10) and the arrest of the FR to AO transition for x=0.10 during cooling strongly indicate first order character of the AOFR transition. It is shown that the transformation strains associated with the AO to FR transition increases with Ba2+ concentration from a value of 0.6% for x=0 to 0.9% for 0.10. Similarities of the AOFR transition in PBZ with nonthermoelastic martensitic transformations are pointed out. The FR to PC transition is also shown to be first order but with a small thermal hysteresis (<10
+°C) and a small discontinuous change in the cell volume (<0.5%). © 2001 American Institute of Physics. 
+
+lead compounds
+barium compounds
+antiferroelectric materials
+ferroelectric transitions
+ferroelectric materials
+X-ray diffraction
+hysteresis

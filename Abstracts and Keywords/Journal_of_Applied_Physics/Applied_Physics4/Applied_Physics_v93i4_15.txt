@@ -1,0 +1,11 @@
+Time-resolved second-harmonic generation was used to generate and detect coherent longitudinal optical phonons in GaAs/AlxGa1xAs single heterojunctions. Three coherent LOGaAs, LOGaAs	-	like, and LOAlAs	-	like phonons were launched by transiently screening the depletion field in the GaAs/AlxGa1xAs interfacial region. The first and the last two phonon modes were assigned to confined LO phonons in the GaAs well and the AlxGa1xAs barrier, respectively. The initial phase and dephasing time were determined for each phonon mode. The driving mechanism and dephasing process were investigated in the experiments. © 2003 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+optical harmonic generation
+time resolved spectra
+electron-phonon interactions
+two-dimensional electron gas
+semiconductor junctions
+semiconductor quantum wells

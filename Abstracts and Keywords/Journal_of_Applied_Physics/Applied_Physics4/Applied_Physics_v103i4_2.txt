@@ -1,0 +1,4 @@
+We derive a generalized theory of a dual photoelastic modulator system designed for the measurement of the Stokes parameters of an arbitrary light beam. Based on the theory, a critique of various potential configurations that could be used to effect such measurements is presented. A calibration procedure for the entire optical system is introduced which, among other things, renders a knowledge of the frequency response of the detector system unnecessary. An analysis of the errors due to incorrect setting of optical components is presented for some of the more practical cases. This allows an assessment of the relative merit of different experimental configurations.
+
+optical modulation
+photoelasticity

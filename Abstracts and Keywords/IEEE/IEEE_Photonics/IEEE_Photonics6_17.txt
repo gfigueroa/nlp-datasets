@@ -1,0 +1,6 @@
+In this paper a generic susceptibility model of a personal computer (PC) was derived using generic coupling characteristics. Coupling of interference through cables, enclosure, apertures, and directly to a circuit board were considered. Using experimental upset data for digital semiconductor components electric field intensities were calculated for an unshielded PC board and a typical PC. The obtained results show the envelope of electric field intensities at which a PC is susceptible with the minimum and maximum margins. A typical PC can be upset with an electric field strength of 48 V/m, whereas an unshielded PC board requires about 9 V/m. A typical PC is most susceptible at frequency ranges 3-500 MHz and 700-1500 MHz.
+
+Computers testing
+Electromagnetic radiation effects
+Electromagnetic radiative interference
+modelling

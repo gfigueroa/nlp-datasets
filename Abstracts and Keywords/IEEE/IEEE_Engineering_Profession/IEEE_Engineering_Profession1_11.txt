@@ -1,0 +1,6 @@
+Mining the implicit laws of poor information in the database is the important problems which need to be solved presently. Clustering analysis plays very important role in mining the data. The grey trend relation (GTR) clustering involved in the grey trend relation system is a good way to find the poor information in order to find the useful information to make decision, which is also an implement and development in data mining. Combining with the grey trend relation and using the general mathematical system theory, the GTR system model are setup. Through analyzing the data of sale system, it is can be seen that some different commodities in sale increment are similar and there are a few of different classification. Comparing with the real sale records, it is found that the results by the GTR clustering are in keeping with the investigation in the sale system.
+
+data mining
+grey relation
+grey trend relation clustering
+information extraction

@@ -1,0 +1,7 @@
+We present a detailed study of the electron-LO phonon interaction in a triple quantum well structure, which acts as the active region in an intersubband terahertz emitter. The phonon modes of the heterostructure were calculated using a transfer matrix method within the framework of the dielectric continuum model. Unlike earlier calculations that approximate phonon emission rates using bulk-like phonon modes, we exploit the presence of specific interface and layer-confined phonon modes. The electronic levels are designed to be in resonance with one of the phonon modes for optimizing phonon-scattering rates and to enhance device performance. Our calculations indicate that it is beneficial to utilize the higher energy interface phonon modes rather than the confined phonon modes for faster depopulation in a three level lasing scheme. Scattering rates for two different designs were computed to establish the above result. © 2000 American Institute of Physics. 
+
+quantum well lasers
+interface phonons
+electron-phonon interactions
+submillimetre wave generation
+interface states

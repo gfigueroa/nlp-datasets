@@ -1,0 +1,13 @@
+ZnO thin films were grown on silicon (100) by pulsed laser deposition. Highly textured crystalline ZnO thin films can be grown at 600	°C. The films were then annealed at 600	°C in oxygen. The effects of annealing on chemical composition of the ZnO films were investigated by x-ray photoelectron spectroscopy (XPS) and Raman spectroscopy. The XPS spectra indicate that water has been adsorbed and then dissociated into H and OH groups. The surface properties of ZnO were studied both by scanning tunneling microscopy and scanning tunneling spectroscopy (STS). A narrow potential well has been formed on the surface of the ZnO thin films due to high density of surface states and negatively biasing the ZnO thin films during STS measurement. The discrete energy levels can be measured by STS. © 2000 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+annealing
+pulsed laser deposition
+X-ray photoelectron spectra
+Raman spectra
+scanning tunnelling microscopy
+scanning tunnelling spectroscopy
+surface states
+adsorption
+surface chemistry

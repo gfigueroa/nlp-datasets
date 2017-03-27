@@ -1,0 +1,6 @@
+The problem of frequently updating multi-dimensional indexes arises in many location-dependent applications. While the R-tree and its variants are the dominant choices for indexing multi-dimensional objects, the R-tree exhibits inferior performance in the presence of frequent updates. In this paper, we present an R-tree variant, termed the RUM-tree (which stands for R-tree with update memo) that reduces the cost of object updates. The RUM-tree processes updates in a memo-based approach that avoids disk accesses for purging old entries during an update process. Therefore, the cost of an update operation in the RUM-tree is reduced to the cost of only an insert operation. The removal of old object entries is carried out by a garbage cleaner inside the RUM-tree. In this paper, we present the details of the RUM-tree and study its properties. We also address the issues of crash recovery and concurrency control for the RUM-tree. Theoretical analysis and comprehensive experimental evaluation demonstrate that the RUM-tree outperforms other R-tree variants by up to one order of magnitude in scenarios with frequent updates.
+
+Indexing techniques
+Frequent updates
+Spatio-temporal databases
+Performance

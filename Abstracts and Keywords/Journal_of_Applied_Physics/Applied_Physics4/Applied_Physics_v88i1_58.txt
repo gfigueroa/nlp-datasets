@@ -1,0 +1,8 @@
+For polymer composites to be used in electronic packaging, they must have a good combination of thermal and dielectric properties. A composite of aluminum-nitride (AlN) particles dispersed around polystyrene matrix particles has been synthesized in this study. The purpose of using this microstructure is to improve the thermal properties of the polymer at the low-filler content with a minimal increase in the dielectric constant of the polymer composite. The dielectric relaxation behavior of polystyreneAlN composites has been investigated with broadband dielectric relaxation spectroscopy. The experimental results indicate that the dielectric property of polystyreneAlN composites is a function of polystyrene particle size, AlN filler concentration, temperature, and frequency under this dispersion state. The dependence of MaxwellWagnerSillars or interfacial polarization of polystyreneAlN composites on AlN volume fraction has also been studied. The DavidsonCole equation is used to fit the experimental ColeCole plot. © 2000 American Institute of Physics. 
+
+semiconductor device packaging
+filled polymers
+aluminium compounds
+III-V semiconductors
+dielectric relaxation
+permittivity

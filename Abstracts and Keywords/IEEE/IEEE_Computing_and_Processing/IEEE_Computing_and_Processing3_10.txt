@@ -1,0 +1,9 @@
+The management of resources and scheduling computations is a challenging problem in grid. Load balancing is essential for efficient utilization of resources and enhancing the performance of computational grid. In this paper, we propose a decentralized grid model, as a collection of clusters. We then introduce a dynamic load balancing algorithm (DLBA) which performs intra cluster and inter cluster (grid) load balancing. DLBA considers load index as well as other conventional influential parameters at each node for scheduling of tasks. Simulation results show that the proposed algorithm is feasible and improves the system performance considerably.
+
+Cluster
+Coordinator Node
+Grid
+Load Balancing
+Scheduling
+Task
+Worker Node

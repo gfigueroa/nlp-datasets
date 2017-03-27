@@ -1,0 +1,8 @@
+To analyze the costs of any optical fiber installation, it is critical to know the evolution of prices of its individual components in time. In this paper we present reliable data prices for several fiber components and we propose future cost trends for them. We extract that, while optical fiber cable manufacturing is a mature technology and no large cost reduction is expected in the future, other components are showing large price drops in the last years, and are expected to keep on descending.
+
+Communication system economics
+Costs
+Manufacturing economics
+Optical fiber cables
+Optical fiber connecting
+Optical fiber devices

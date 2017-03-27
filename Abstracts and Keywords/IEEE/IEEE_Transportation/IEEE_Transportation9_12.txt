@@ -1,0 +1,6 @@
+This paper is concerned on a parallel active power filter for harmonic compensation of a single-phase system feeding non-linear load. An active current wave-shaping technique is proposed to mitigate the distortion current by injecting equal but opposite current to shape the pulsating nature of the supply current to a sinusoidal form and in-time phase with the supply voltage. In the proposed work only one power switch is employed to minimize cost, reduce switching stress and losses. The behaviour and operation of the proposed filter structure was examined through computer simulation.
+
+Active Power Filter
+Boost Circuit
+Pulse Width Modulation
+Rectifier

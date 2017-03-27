@@ -1,0 +1,7 @@
+With the commoditization of digital devices, personal information and media sharing is becoming a key application on the pervasive Web. In such a context, data annotation rather than data production is the main bottleneck. Metadata scarcity represents a major obstacle preventing efficient information processing in large and heterogeneous communities. However, social communities also open the door to new possibilities for addressing local metadata scarcity by taking advantage of global collections of resources. We propose to tackle the lack of metadata in large-scale distributed systems through a collaborative process leveraging on both content and metadata. We develop a community-based and self-organizing system called PicShark in which information entropyin terms of missing metadatais gradually alleviated through decentralized instance and schema matching. Our approach focuses on semi-structured metadata and confines computationally expensive operations to the edge of the network, while keeping distributed operations as simple as possible to ensure scalability. PicShark builds on structured Peer-to-Peer networks for distributed look-up operations, but extends the application of self-organization principles to the propagation of metadata and the creation of schema mappings. We demonstrate the practical applicability of our method in an image sharing scenario and provide experimental evidences illustrating the validity of our approach.
+
+Metadata scarcity
+Metadata heterogeneity
+Metadata entropy
+Peer-to-Peer collaboration
+Peer data management

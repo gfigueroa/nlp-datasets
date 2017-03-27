@@ -1,0 +1,21 @@
+The effect of microstructural change on both magnetic and optical properties of Mn-implanted p-type GaN was studied. A dilute magnetic semiconductor was achieved by implanting Mn ions into p-type GaN and subsequently annealing. The magnetization measurement showed that the Curie temperature was the highest in the 800
+°C annealed sample due to the formation of GaMn magnetic phases. The annealing at a higher temperature of 900
+°C produced antiferromagnetic MnN compounds such as Mn6N2.58 and Mn3N2, leaving N vacancies. This provides evidence that N vacancies played a critical role in weakening the ferromagnetic property in the Mn-implanted GaN. The photoluminescence peak at 2.92 eV became strong after annealing at 800
+°C, indicating an increase in hole concentration due to an enhanced activation of Mn impurities in p-type GaN. The intensity of Raman modes at 290 and 670cm1 decreased drastically as annealing temperature increased (&gt;800
+°C), due to the reduction in Mn-implantation-induced lattice imperfections. From this, it is proposed that the increase in magnetic properties of Mn-implanted GaN originated from the enhancement in the crystallinity as well as the production of GaMn magnetic phases. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+manganese
+ion implantation
+semimagnetic semiconductors
+Curie temperature
+annealing
+antiferromagnetic materials
+vacancies (crystal)
+photoluminescence
+hole density
+Raman spectra
+magnetisation
+semiconductor thin films

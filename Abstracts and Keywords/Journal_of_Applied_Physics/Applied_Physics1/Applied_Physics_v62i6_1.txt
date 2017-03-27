@@ -1,0 +1,12 @@
+A plasma etching model for rfdischarge plasma reactors has been developed. The model considers the linear and nonlinear effects on plasma kinetics of atomic effects, ion chemistry, spacecharge effects, and the plasma/surface interactions. The linear effects of physical and chemical etching and the nonlinear effects of the enhanced physical and chemical etching, which are due to the plasma/surface interactions, are also discussed. New generalized plasma transport equations are introduced. These equations are valid for collisional to weakly collisional plasmas [»/LrO(1)], where » is the ion mean free path and L is the smallest of the scale lengths of the gradient in the electric field or in the macroscopic plasma parameters. The transport equations are used to calculate the magnitude and profile of the plasma particle and energy fluxes for the etching model. The model has shown good agreement with experimental etch rates of silicon dioxide, borophosphosilicate glass, and photoresist.
+
+ETCHING
+HIGHFREQUENCY DISCHARGES
+MATHEMATICAL MODELS
+KINETIC EQUATIONS
+CHARGEDPARTICLE TRANSPORT
+PLASMA
+SILICA
+PHOTORESISTS
+BOROPHOSPHATE GLASS
+BOROSILICATE GLASS

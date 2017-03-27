@@ -1,0 +1,11 @@
+The electronic and magnetic properties of (Mn,N)-codoped ZnO are studied within the framework of the density functional theory, by using the PerdewBurkeErnzerhof form of generalized gradient approximation. Five geometrical configurations of Mn doped ZnO are investigated and antiferromagnetic (AFM) properties of Mn doped ZnO are demonstrated. Furthermore, by investigating 13 geometrical configurations, for (Mn,N)-codoped ZnO, the ground state is changed from no-metallic AFM to half-metallic ferromagnetic, which is due to the strong hybridization between N2p and Mn3d states. In addition, the most stable configurations are found to be OMnNMnO.
+
+antiferromagnetism
+Curie temperature
+density functional theory
+II-VI semiconductors
+manganese
+nitrogen
+semimagnetic semiconductors
+wide band gap semiconductors
+zinc compounds

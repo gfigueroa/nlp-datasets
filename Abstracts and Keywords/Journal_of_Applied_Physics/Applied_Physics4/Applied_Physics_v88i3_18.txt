@@ -1,0 +1,15 @@
+Natural quartz single crystals (±-SiO2) have been exposed to pulsed heavy ion beams (12C,
+19F,
+32S) with energies of 1 MeV
+amu1 in the electronic slowing down regime. The simultaneous recording of the ion fluence and emitted photons with time-resolved spectroscopy experiments allowed the measurement of the blue luminescence time decay at 85 K as a function of the fluence at the various electronic stopping power, Se=(dE/dx)e, of the ions. For all ions, regardless of fluence, the spectra are similar and have two broad bands centered at 1.60 and 2.75 eV with full widths at half maximum around 0.30 and 0.75 eV, respectively. Single-exponential time decay curves are found regardless of Se increasing from 1.4 keV
+nm1 (12 MeV 12C) to 5.2 keV
+nm1 (32 MeV 32S) across the amorphous track-formation threshold at 2.5±0.5
+keV
+nm1. At low damaged fractions (}22%), the decay-time constant ranges between 1.0 and 1.6 ms. The luminescence intensities at zero delay time approximately decrease in an exponential fashion versus fluence with a decay cross section increasing by around one order-of-magnitude at the track-formation threshold, as found in the previous experiments with continuous beams. We analyze to which extent the luminescence decay versus fluence could be due to the quenching of the self-trapped exciton (STE) radiative recombinations by interactions with the ion-induced defects. For this, a STE diffusion model is devised where the STEs recombine nonradiatively at the neighboring cylindrical tracks. The model gives luminescence decay curves versus fluence in good agreement with the experimental data by varying the STE diffusion constant and the amorphous track-core radius in a reasonable range of values. © 2000 American Institute of Physics. 
+
+quartz
+ion beam effects
+photoluminescence
+excitons
+energy loss of particles
+time resolved spectra

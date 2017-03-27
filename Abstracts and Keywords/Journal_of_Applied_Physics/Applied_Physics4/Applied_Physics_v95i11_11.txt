@@ -1,0 +1,9 @@
+The magnetic and magnetocaloric properties of Er(Co1xSix)2 compounds with 0}x}0.075 have been studied to determine their suitability as magnetic refrigerant materials. The strength of itinerant electron metamagnetism was found to decrease with Si concentration, which is responsible for the reduction of the magnetocaloric effect. Magnetization curves at low temperatures show the existence of a critical field for magnetization to increase, which is a consequence of domain wall pinning. The critical field and the coercive field were found to increase with Si concentration. © 2004 American Institute of Physics. 
+
+metamagnetism
+magnetocaloric effects
+coercive force
+magnetic domain walls
+erbium alloys
+cobalt alloys
+silicon alloys

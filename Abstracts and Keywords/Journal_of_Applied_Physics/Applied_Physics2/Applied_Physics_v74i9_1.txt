@@ -1,0 +1,10 @@
+A new laser method is proposed for the deposition of high purity, hard fcc TiN layers of unlimited thickness. The film thickness can be very finely controlled mainly through the intermediary of the number of applied laser pulses as the deposition rate is of only 0.020.05 nm/pulse. The ablation is promoted from a Ti target by high intensity multipulse excimer laser irradiation in a low pressure N2 ambient gas while the forming compound is collected on a Si singlecrystalline wafer. The best results have been obtained for an ambient pressure of p=1030 mTorr and a distance between the target and support of d=10 mm. It is shown that the formation of a liquid phase within the irradiated zone, maintained even after the end of a laser pulse, is the most important requisite for TiN formation. TiN is then ablated as a stoichio metric phase.
+
+TITANIUM NITRIDES
+ABLATION
+LASER RADIATION
+THIN FILMS
+THICKNESS
+PULSES
+STOICHIOMETRY
+EXCIMER LASERS

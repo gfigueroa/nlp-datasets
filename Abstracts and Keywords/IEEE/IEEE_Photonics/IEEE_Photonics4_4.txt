@@ -1,0 +1,7 @@
+This paper presents the application of the least- squares field integrated method based on hybrid linear finite elements in time-domain electromagnetic (EM) problems with high contrast interfaces. The method proposes the use of edge based linear finite elements over nodal elements and edge elements of Whitney form. It shows how the equations have to be accommodated to yield a correct solution. It proposes a general strategy to combine edge linear finite elements and nodal linear finite elements. Numerical experiments show that the resulting algorithms are stable and achieve high quality field interpolation even in the presence of very high contrasts.
+
+Field Integrated Equations
+high contrast
+hybrid finite element
+least-squares
+time domain computational electromagnetism

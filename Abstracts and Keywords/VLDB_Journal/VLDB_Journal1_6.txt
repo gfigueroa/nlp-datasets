@@ -1,0 +1,8 @@
+Due to the proliferation of database applications, the integration of existing databases into a distributed or federated system is one of the major challenges in responding to enterprises' information requirements. Some proposed integration techniques aim at providing database administrators (DBAs) with a view definition language they can use to build the desired integrated schema. These techniques leave to the DBA the responsibility of appropriately restructuring schema elements from existing local schemas and of solving inter-schema conflicts. This paper investigates the assertion-based approach, in which the DBA's action is limited to pointing out corresponding elements in the schemas and to defining the nature of the correspondence in between. This methodology is capable of: ensuring better integration by taking into account additional semantic information (assertions about links); automatically solving structural conflicts; building the integrated schema without requiring conforming of initial schemas; applying integration rules to a variety of data models; and performing view as well as database integration. This paper presents the basic ideas underlying our approach and focuses on resolution of structural conflicts.
+
+conceptual modeling
+database design and integration
+distributed databases
+federated databases
+heterogeneous databases
+schema integration

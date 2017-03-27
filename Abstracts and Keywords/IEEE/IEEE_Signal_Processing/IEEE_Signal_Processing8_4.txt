@@ -1,0 +1,6 @@
+Creating a database of user-contributed recordings allows sounds to be linked not only by the semantic tags and labels applied to them, but also to other sounds with similar acoustic characteristics. Of paramount importance in navigating these databases are the problems of retrieving similar sounds using text or sound-based queries, and automatically annotating unlabeled sounds. We propose an integrated system, which can be used for text-based retrieval of unlabeled audio, content-based query-by-example, and automatic annotation. To this end, we introduce an ontological framework where sounds are connected to each other based on a measure of perceptual similarity, while words and sounds are connected by optimizing link weights given user preference data. Results on a freely available database of environmental sounds contributed and labeled by non-expert users, demonstrate effective average precision scores for both the text-based retrieval and annotation tasks.
+
+Acoustic signal analysis
+Clustering methods
+Database query processing
+Hidden Markov models

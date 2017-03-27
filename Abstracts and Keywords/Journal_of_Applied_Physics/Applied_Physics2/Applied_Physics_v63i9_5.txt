@@ -1,0 +1,22 @@
+The limiting factor for the lack of reproducibility in previous studies of atmospheric pressure chemical vapor deposition of aSi:H from Mg2Si generated higher silanes is contamination by gas phase dopant impurities, both n and p type originating from the higher silanes production system. An ntype impurity is shown to originate from the drying column. After elimination of this impurity, the aSi:H films produced showed evidence of ptype doping. Secondary ion mass spectroscopy analyses of the resulting films identify boron as the ptype dopant. The incorporation of boron into the films was varied by preheating the reactant gas immediately prior to deposition. The ideal preheat temperature is shown to be between 350 and 400	°C. Films deposited with a preheat of 375	°C showed no flow dependence of the hole diffusion length and the best electron transport properties. Attempts at removing the boron impurity from the gas stream were also made. A Porapak Q column installed at the end of the drying column was found to be reasonably effective. Depositions of aSi:H were also made utilizing a commercially purified tank of Si2H6. The lack of evidence of compensating or ptype doping in this system firmly establishes the impurities as originating from the Mg2Si based silanes production system.
+
+SIMS
+AMORPHOUS SEMICONDUCTORS
+IMPURITIES
+THIN FILMS
+SILICON SOLAR CELLS
+MASS SPECTROSCOPY
+CHEMICAL VAPOR DEPOSITION
+SILICON
+CRYSTAL DOPING
+DOPED MATERIALS
+HIGH TEMPERATURE
+HOLE MOBILITY
+CHARGEDPARTICLE TRANSPORT
+HYDROGENATION
+AMORPHOUS STATE
+BORON
+VAPOR DEPOSITED COATINGS
+OPTICAL PROPERTIES
+ENERGY GAP
+MAGNESIUM SILICIDES

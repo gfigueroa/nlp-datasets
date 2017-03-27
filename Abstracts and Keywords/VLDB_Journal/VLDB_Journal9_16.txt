@@ -1,0 +1,4 @@
+Strudel is a system for implementing data-intensive Web sites, which typically integrate information from multiple data sources and have complex structure. Strudel's key idea is separating the management of a Web site's data, the specification of its content and structure, and the visual representation of its pages. Strudel provides a declarative query language for specifying a site's content and structure, and a simple template language for specifying a site's HTML representation. This paper contains a comprehensive description of the Strudel system and details the benefits of declarative site specification. We describe our experiences using Strudel in a production application and describe three different, but complementary, systems that extend and improve upon Strudel's original ideas.
+
+Declarative query languages
+Web-site management

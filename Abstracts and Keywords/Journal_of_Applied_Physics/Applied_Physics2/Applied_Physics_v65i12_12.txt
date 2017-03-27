@@ -1,0 +1,8 @@
+An imaging mode for a scanning tunneling microscope is described in which the tunneling needle is periodically withdrawn from the surface under study in order to reduce the elastic interaction effects between needle and substrate during imaging. Examples of images of weakly bonded surface deposits that could not be imaged with the conventional sweep method are presented. The technique also makes it possible to first manipulate and subsequently image deposits that are weakly bonded to a substrate.
+
+DEPOSITS
+SURFACES
+IMAGE FORMING
+SCANNING TUNNELING MICROSCOPY
+TUNNEL EFFECT
+ADHESION

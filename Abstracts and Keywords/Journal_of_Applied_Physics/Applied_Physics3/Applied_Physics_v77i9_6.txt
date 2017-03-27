@@ -1,0 +1,10 @@
+We report a quantitative calculation of the capacitances of high critical temperature (highTc) Josephson junctions. The matter is of practical interest, because the usual junction realizations cause the conventional plate capacitor formula sufficient in low critical temperature (lowTc) technique to fail. In our work we used a threedimensional algorithm for computing the electrostatic field. We show for two planar junction types, how the capacitive contributions are composed of direct and stray components and that the latter for the wide used SrTiO3 substrates lead to capacitance values which cannot be predicted by simple analytical approximations. The derived data can be used for simulations of highTc Josephson devices in the framework of the resistively and capacitively shunted junction model. © 1995 American Institute of Physics.
+
+HIGHTC SUPERCONDUCTORS
+JOSEPHSON JUNCTIONS
+CAPACITANCE
+ELECTROSTATICS
+ELECTRIC FIELDS
+COMPUTERIZED SIMULATION
+GRAIN BOUNDARIES
+CRITICAL CURRENT

@@ -1,0 +1,7 @@
+This paper presents an architectural framework of a motion detection and compression system for surveillance applications. The emphasis is on use of a dataflow based design paradigm that can be dynamically linked to an extensible framework for simulation and algorithm development. The framework is based on Ptolemy II software environment and is built around synchronous dataflow (SDF) domain. It employs Ptolemy's flexibility for the development of functional and behavioral simulations and rapid prototyping of embedded systems
+
+Modeling and Simulation
+Motion detection
+Prototyping
+Synchronous dataflow
+Video processing

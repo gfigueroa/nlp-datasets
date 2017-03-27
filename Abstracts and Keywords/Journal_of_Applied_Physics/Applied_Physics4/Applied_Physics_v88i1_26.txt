@@ -1,0 +1,9 @@
+High quality GaN and AlxGa1xN films have been grown by reactive crossed-beam pulsed laser deposition at 248 nm (KrF) using liquid AlGa alloy targets and a synchronous gas pulse on 7×7 reconstructed Si(111) substrates. The growth kinetics and their effect on the optical properties were studied in detail. The growth rates were lower and the optical properties were superior for GaN films grown with N2 than when NH3 was used as the nitriding source. The ratio of Ga to Al in the alloy was reproduced in AlxGa1xN films when using NH3, but was in general lower when using N2. These findings can be explained by the lower reaction rate of Ga with N2 and the high vapor pressure of Ga at the adopted substrate temperatures. © 2000 American Institute of Physics. 
+
+pulsed laser deposition
+III-V semiconductors
+semiconductor growth
+photoluminescence
+gallium compounds
+wide band gap semiconductors
+aluminium compounds

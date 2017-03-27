@@ -1,0 +1,12 @@
+Taking into account the presence of multimode oscillation, selfresonant current steps in currentvoltage characteristics of rectangular Josephson tunnel junctions are studied theoretically. An expression for the zerofield step is obtained, which is shown to be significantly different from previous theories assuming a singlemode oscillation. For a long junction with a length larger than the Josephson penetration depth, the present theory gives the magnetic field dependence of the Fiske step, whose shape is considerably changed from the one calculated from Kuliks theory. The present theory well explains the experimental results for the zerofield step and the Fiske step of long junctions, which could not be explained by the previous theories.
+
+JOSEPHSON JUNCTIONS
+OSCILLATION MODES
+RESONANCE
+ELECTRIC CURRENTS
+TUNNEL EFFECT
+MATHEMATICAL MODELS
+THEORETICAL DATA
+COMPARATIVE EVALUATIONS
+MAGNETIC FIELDS
+DEFORMATION

@@ -1,0 +1,13 @@
+Highly c- and a-oriented LiNbO3 films were deposited on a-sapphire substrates by pulsed laser deposition. The film microstructure and crystal orientation were studied by transmission electron microscopy, and the mechanism forming the different film orientations was interpreted in terms of the adatom energy and oxygen pressures. The electron-energy-loss functions derived from the electron-energy-loss spectra exhibit characteristic energy-loss peaks at about 7.0, 11.0, and 14.0eV. These peaks correspond to electron transitions from the maximum density of the states in the valence band of O 2p to the split conduction band. The dielectric functions of the LiNbO3 films were also derived from the energy-loss function.
+
+lithium compounds
+ferroelectric thin films
+amorphous state
+pulsed laser deposition
+dielectric function
+electronic density of states
+electron energy loss spectra
+valence bands
+conduction bands
+crystal orientation
+transmission electron microscopy

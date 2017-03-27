@@ -1,0 +1,5 @@
+Like robot soccer, robot hockey is a game played between two teams of robots. A robot hockey simulator has been created, for the purpose of game strategy testing and result visualization. One major modification in robot hockey is the addition of a puck-shooting mechanism to each robot. As a result, the mechanics of interaction between the robots and the hockey puck become a key design issue. This paper describes the simulator design considerations for robotic hockey games. A potential field-based strategy planner is implemented which is used to develop strategies for moving the robots autonomously. The results of the simulation study show both successful cooperation between robots (on the strategy level), and realistic interaction between robots and the puck
+
+Artificial Potential Field
+Game Engine
+Robot Hockey

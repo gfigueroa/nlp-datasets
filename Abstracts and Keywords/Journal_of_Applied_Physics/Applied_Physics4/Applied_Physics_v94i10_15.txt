@@ -1,0 +1,14 @@
+Granular cermet films (Fe50Co50)x(Al2O3)1x fabricated using the electron-beam coevaporation technique at oblique incidence of FeCo and alumina atom fluxes have been found to exhibit both oblique and in-plane uniaxial magnetic anisotropy. This anisotropy first appears just below the percolation threshold due to a magnetic coupling of particles taking place at a certain stage of their growth and coalescence. The FeCo content x varied from 0.07 to 0.49. A simple model of the film microstructure is presented based on the results of magnetization measurements and ferromagnetic resonance at intermediate (9.4 GHz) and high (94 GHz) frequencies. At 94 GHz the concentration dependence of the effective anisotropy field follows the solid solution law, since then the magnetic field is sufficient to magnetize the films close to saturation. The 9.4 GHz data points deviate from the solid solution line below the percolation threshold due to both modification of the resonance fields by intergranular interactions in nonsaturated films and the reduction of the average magnetization of granules, comparing to the saturation magnetization, at room temperature. Different mechanisms of line broadening observed at frequencies used in experiments are also discussed. © 2003 American Institute of Physics. 
+
+iron alloys
+cobalt alloys
+alumina
+magnetic thin films
+granular materials
+cermets
+ferromagnetic resonance
+magnetisation
+electron beam deposition
+magnetic anisotropy
+percolation
+solid solutions

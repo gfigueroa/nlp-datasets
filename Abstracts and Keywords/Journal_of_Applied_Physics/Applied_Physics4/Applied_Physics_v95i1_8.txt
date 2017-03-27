@@ -1,0 +1,14 @@
+Epitaxial PbTiO3 films of various thickness were prepared on a Pt(001) bottom electrode layer, which was also grown epitaxially on MgO(001) single crystal substrates. Their ferroelectric domain structures were investigated extensively by two-dimensional reciprocal space mapping using synchrotron x-ray. In contrast to the PbTiO3 films grown directly on the MgO(001) substrate, the epitaxial films grown on Pt(001)/MgO(001) experienced compressive misfit strain at the growth temperature. At the Curie temperature (TC), the PbTiO3 films transformed to almost a fully c-axis oriented structure due to the large compressive strain. As the temperature decreased further below TC, some of the c domains turned into a domains in order to relax the tensile stress developed due to the increased tetragonality of the film. As the film thickness increased, relaxation of the initial compressive misfit stress was enhanced, reducing the initial c-domain abundance. Magnitudes of the residual misfit stresses were estimated as a function of film thickness by a finite element analysis. © 2004 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+ferroelectric thin films
+epitaxial layers
+electric domains
+X-ray diffraction
+ferroelectric Curie temperature
+internal stresses
+finite element analysis
+platinum
+magnesium compounds
+pulsed laser deposition

@@ -1,0 +1,14 @@
+Gamma ray irradiation of doubleheterostructure highradiance LEDs utilizing junction current confinement results in a shift of emission spectrum to shorter wavelengths with increased linewidth, while the absorption edge is seen to shift to longer wavelengths. A novel hypothesis is presented to explain changes in electrical and optical properties based on diffusion of Al from layers of higher concentration to areas of lower concentration, as a result of the ³ irradiation. This causes forbidden energy gaps and refractive indices of the various layers to become more uniform. This hypothesis is supported by all the various changes observed in electrical and optical properties.
+
+GAMMA RADIATION
+PHYSICAL RADIATION EFFECTS
+ABSORPTION EDGE
+LIGHT EMITTING DIODES
+HETEROJUNCTIONS
+LINE WIDTHS
+ELECTRICAL PROPERTIES
+OPTICAL PROPERTIES
+SELFDIFFUSION
+ALUMINIUM
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES

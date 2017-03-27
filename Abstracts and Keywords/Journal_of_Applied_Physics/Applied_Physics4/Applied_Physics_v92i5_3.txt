@@ -1,0 +1,11 @@
+Heavily boron-doped nanocrystalline (nc) diamond films were deposited using microwave plasma chemical vapor deposition process in which the growing film surface was continuously bombarded by H+ and hydrocarbon ions. The dependency of grain size and phase purity on the process parameters and boron incorporation was investigated. Due to boron incorporation the grown nc diamond films show a lower intrinsic compressive stress, which is due to a compensation effect between the boron doping-induced tensile stress and the ion subplantation-induced compressive stress. The nc films show strongly improved electron emission properties. Low-field electron emission and high emission current have been achieved from the films consisting of nanosized diamond grains, showing a long-term stability. © 2002 American Institute of Physics. 
+
+diamond
+boron
+elemental semiconductors
+heavily doped semiconductors
+semiconductor doping
+grain size
+plasma CVD coatings
+nanostructured materials
+electron field emission

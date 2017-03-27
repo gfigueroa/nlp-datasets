@@ -1,0 +1,19 @@
+The extent of electronlattice coupling at neutral, extrinsic selftrappinginduced deep centers in IIIV compound semiconductors is estimated by assuming deformation potential interaction in the framework of a continuum lattice model, and its delocalization around these deep centers is pointed out. A model potential which takes into account the delocalization of the coupling is proposed and a theoretical expression is derived for capture cross sections at these centers by combining the model potential with multiphonon emission carrier capture scheme. The theory successfully explained both temperature dependence and the magnitude of capture cross sections observed at three electron traps (deep centers) in GaAs. Although the magnitude of capture cross sections at two of these three electron traps seem to deviate from that predicted by Henry and Lang, the multiphonon emission carrier capture scheme is still applicable to such deep states by employing our model potential.
+
+gallium arsenides
+charge carriers
+phonons
+emission
+energy levels
+radiation effects
+trapping
+electrons
+crystal lattices
+semiconductor materials
+deformation
+potentials
+interactions
+mathematical models
+theoretical data
+cross sections
+temperature dependence

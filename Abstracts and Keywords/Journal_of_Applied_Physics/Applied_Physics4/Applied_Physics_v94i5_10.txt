@@ -1,0 +1,14 @@
+The relaxation processes of photoexcited carriers in GaAs/AlAs multiple quantum well structures grown at low temperatures by molecular beam epitaxy were studied by a tunable single-beam femtosecond pumpprobe method. Concentrations of singularly ionized antisite arsenic ions, AsGa+, in the quantum wells, which were considered as traps of photoexcited carriers, were estimated from flux conditions and substrate temperatures in the growth. Transient transmittivity of the structures were measured by varying the pumpprobe photon energy. The trapping rate of photoexcited carriers, which corresponded to the reciprocal of the carrier lifetime, was derived from the relaxation profile at the pumpprobe photon energy close to the exciton resonant excitation energy for each structure. The trapping rate was found to increase linearly with AsGa+ in a lower concentration range and superlinearly in a higher concentration range. Photoluminescence and absorption spectra were observed at room temperature and their correlation to the carrier lifetimes were investigated. © 2003 American Institute of Physics. 
+
+semiconductor quantum wells
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+molecular beam epitaxial growth
+photoconductivity
+carrier lifetime
+electron traps
+semiconductor growth
+photoluminescence
+infrared spectra
+carrier relaxation time

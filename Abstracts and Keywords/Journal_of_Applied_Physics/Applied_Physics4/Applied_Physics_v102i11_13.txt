@@ -1,0 +1,9 @@
+The excitonic recombinations in hexagonal boron nitride (hBN) are investigated with spatially resolved cathodoluminescence spectroscopy in the ultraviolet range. Cathodoluminescence images of an individual hBN crystallite reveals that the 215 nm free excitonic line is quite homogeneously emitted along the crystallite, whereas the 220 and 227 nm excitonic emissions are located in specific regions of the crystallite. Transmission electron microscopy images show that these regions contain a high density of crystalline defects. This suggests that the 220 and 227 nm emissions are both produced by the recombination of excitons trapped at structural defects.
+
+boron compounds
+cathodoluminescence
+crystal defects
+excitons
+luminescence
+transmission electron microscopy
+wide band gap semiconductors

@@ -1,0 +1,10 @@
+Blueshifts in the ultraviolet absorption spectra have been observed in cerium oxide nanocrystallites. The mechanism of the absorption is a charge-transfer optical transition. The relationships among the blueshift, valence state of cerium ions, and the particle size are formulated. The blueshifts are well explained for diameters down to less than a few nanometers by the change in the electronic band structure. © 2003 American Institute of Physics. 
+
+cerium compounds
+nanoparticles
+spectral line shift
+ultraviolet spectra
+charge transfer states
+valency
+particle size
+band structure

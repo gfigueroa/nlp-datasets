@@ -1,0 +1,12 @@
+This article reports experimental evidence for the effect of oxygen on carbon precipitation in polycrystalline ribbon silicon. Four sets of wafers subject to various heat treatments have been examined by infrared spectroscopy. It is found that carbon precipitation in an oxygen-containing wafer consists of two distinct steps, namely, an initial rapid oxygencarbon coprecipitation in the very first hour annealing, followed by slow precipitation during subsequent prolonged annealing. A high oxygen content enhances carbon precipitation throughout the two steps. It is shown that the formation of interstitial carbon in the presence of excess silicon self-interstitials generated during oxygen precipitation plays an important role in increasing the carbon precipitation rate in the first hour annealing. Because of the absence of interstitial injection during the following slow precipitation process, the enhancement effect of oxygen can only arise from an increase in precipitation sites. It is proposed that the oxygencarbon coprecipitates formed in the very first hour annealing provide sites for continuous carbon precipitation. This explains why carbon impurities precipitate faster in a high oxygen-containing wafer, even after removal of all the interstitial oxygen from the silicon matrix.
+
+silicon
+carbon
+oxygen
+elemental semiconductors
+semiconductor thin films
+annealing
+precipitation
+interstitials
+diffusion
+impurity distribution

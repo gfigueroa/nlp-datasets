@@ -1,0 +1,6 @@
+Magnetron reactive ion etching (RIE) characteristic of polycrystalline (poly) 3C-SiC thin films grown on thermally oxidized Si substrates are presented. The magnetron RIE can stably etch the poly 3C-SiC thin films at a lower ion energy (70 W) without any damages than the commercial RIE system. The best vertical structure was improved by the addition of 40% O<sub>2</sub> and 16% Ar with the CHF<sub>3</sub> reactive gas.
+
+CHF3
+M/NEMS
+Polycrystalline 3C-SiC
+RIE

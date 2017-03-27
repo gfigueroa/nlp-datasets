@@ -1,0 +1,6 @@
+True material nonlinear piezoelectric coefficients must be applicable to the piezoelectric response of a crystal under static as well as under dynamic conditions. Experiments involving the static compression of quartz crystals in suitable geometries indicate that some of the nonlinear piezoelectric constants are considerably smaller than those given by R. Brendel [J. Appl. Phys. 54, 5339 (1983), 55, 608 (1984)].
+
+PIEZOELECTRICITY
+QUARTZ
+COMPRESSION
+ELASTIC CONSTANTS

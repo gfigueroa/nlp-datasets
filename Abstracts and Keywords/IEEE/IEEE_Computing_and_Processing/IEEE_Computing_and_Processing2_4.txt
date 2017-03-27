@@ -1,0 +1,6 @@
+Studies shows that electrocardiogram (ECG) computer programs perform at least equally well as human observers in ECG measurement and coding, and can replace the cardiologist in epidemiological studies and clinical trials (J. A. Kors and G. V. Herpen, 2001). However, in order to also replace the cardiologist in clinical settings, such as for out-patients, better systems are required in order to reduce ambient noise while maintaining signal sensitivity. Therefore the objective of this work was to develop an adaptive filter to remove the contaminating signal in order to better obtain and interpret the electrocardiogram (ECG) data. To achieve reliability, the real-time computing systems must be fault-tolerant. This paper proposed a fault-tolerant adaptive filter for noise cancellation of ECG signals. Comparison of the performance and reliability of non-fault-tolerant and fault-tolerant adaptive filters are performed. Experimental results showed that the fault-tolerant adaptive filter not only successfully extract the ECG signals, but also is very reliable
+
+ECG
+adaptive filter
+fault tolerant
+noise cancellation

@@ -1,0 +1,7 @@
+Selecting the best peer(s) to serve a unicast streaming session is vital for providing efficient streaming without packet loss and incurring a single break-point. When an end-user selects a file to downstream, the peer selection module establishes two groups: an active sender and standby senders. The active sender is a peer who streams the media to a requesting peer, whereas standby peers is responsible for replacing any active sender who leaves. Active and standby senders change periodically until the media playback is finished. Peer selection of active and standby senders is based on their rank, upstream, and serving limitation. Peers are classified from bad to good. Our simulation shows that with dynamic active and standby sender peers in streaming sessions, the quality of media streaming can be preserved.
+
+media streaaming
+peer selection
+peer-to-peer
+ranking peer
+standby and active sender

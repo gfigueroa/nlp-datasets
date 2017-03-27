@@ -1,0 +1,18 @@
+We present a study of some features of a two-dimensional hole gas confined in a Si/Si1xGex/Si/SiO2 structure when the external applied gate bias is varied. From the framework of the effective-mass theory, and applying the semiaxial approximation to separate the 6×6 Luttinger Hamiltonian into two 3×3 matrices, we calculated the hole density profile and the band structure. This enabled us to evaluate, in an iterative process, the Poisson and Schrödinger equations until convergence was achieved, obtaining the above-mentioned results for a discretional angle in the kxky plane, and thus including the warping. We identified in this way the influence of the different technological parameters which determine the behavior of the device, in particular, through the determination of a unique effective mass. We conclude that the utility of this kind of device lies more in the possibility of modifying the band structure due to the strain introduced than in the fact of being able to confine carriers in the Si1xGex channel. Accurate calculation of the band structure is, therefore, needed and although simpler simulations can qualitatively model some features of the device, a complete study as described in this article must be carried out in order to obtain better insight into the physics of the system. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+Ge-Si alloys
+semiconductor materials
+silicon compounds
+effective mass
+two-dimensional electron gas
+semiconductor heterojunctions
+semiconductor-insulator boundaries
+Luttinger liquid
+hole density
+band structure
+interface states
+Poisson equation
+Schrodinger equation
+iterative methods

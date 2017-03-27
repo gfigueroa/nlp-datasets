@@ -1,0 +1,18 @@
+A systematic study of the effects of Ti doping on the electrical and optical properties of GaAs and InP has been carried out employing both melt and solutiongrown crystals. Utilizing deep level transient spectroscopy, Hall effect measurements, photoconductivity, and optical absorption measurements, it was found that Ti introduces two deep levels in GaAs at Ec 0.23 eV and Ec 1.00 eV which were identified as the Ti3+/Ti2+ acceptor level and the Ti4+/Ti3+ donor level, respectively. In InP the Ti4+/Ti3+ donor level was found near midgap at Ec 0.63 eV, while the Ti3+/Ti2+ acceptor level was found to lie within the conduction band. As a consequence of the midgap position of this donor level, we developed a formulation for producing semiinsulating InP based on doping with Ti to compensate shallow acceptors. Resistivities in excess of 107 ©	cm can easily be obtained using this technique. This is the first semiinsulating IIIV compound having a compensation mechanism based on a deep donor impurity. In view of the fact that Ti is expected to have a very low diffusivity in InP, Tidoped semiinsulating InP should exhibit far greater thermal stability than Fedoped InP and thus it should prove technologically significant.
+
+electrical properties
+titanium additions
+crystal doping
+gallium arsenides
+indium phosphides
+melts
+solutions
+dlts
+hall effect
+photoconductivity
+absorption spectra
+deep energy levels
+energy levels
+acceptors
+donors
+titanium

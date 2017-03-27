@@ -1,0 +1,8 @@
+We have investigated the role of the stress induced by the presence of the substrate in thin films of colossal magnetoresistive manganites on structural, resistive, and magnetic properties. Because of the strong coupling between the small structural distortions related to the charge ordering (CO) and the resistive properties, the presence of the substrate prevents the full development of the charge ordering in Pr0.5Ca0.5MnO3, especially in the very thin films. For thicker films, the CO state exists, but is not fully developed. Correlatively, the magnetic field which is necessary to suppress the CO is decreased drastically from 25 T to about 5 T on SrTiO3 substrates. We have also investigated the influence of the doping level by studying the case of Pr0.6Ca0.4MnO3. © 2001 American Institute of Physics.
+
+praseodymium compounds
+calcium compounds
+magnetic thin films
+colossal magnetoresistance
+stress effects
+ferromagnetic materials

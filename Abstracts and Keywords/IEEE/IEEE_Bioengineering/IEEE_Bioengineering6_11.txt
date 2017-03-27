@@ -1,0 +1,6 @@
+An automated, unsupervised Maximum a Posterior - Markov Random Field Expectation Maximisation (MAP- MRF EM) Labelling technique, based upon a Bayesian framework, for volume of interest (VOI) determination in Positron Emission Tomography (PET) imagery is proposed. The segmentation technique incorporates MAP-MRF modelling into a mixture modelling approach using the EM algorithm, to consider both the structural and statistical nature of the data. The performance of the algorithm has been assessed on a set of PET phantom data. Investigations revealed improvements over a simple statistical approach using the EM algorithm, and improvements over a MAP- MRF approach, using the output from the EM algorithm as an initial estimate. Improvement is also shown over a standard semi-automated thresholding method, and an automated Fuzzy Hidden Markov Chain (FHMC) approach; particularly for smaller object volume determination, as the FHMC method loses some spatial correlation. A deblurring pre-processing stage was also found to provide improved results.
+
+EM
+MAP-MRF
+PET
+segmentation

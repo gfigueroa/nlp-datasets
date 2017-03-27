@@ -1,0 +1,9 @@
+We demonstrate that optical extinction spectroscopy can be used to determine the effective shape of Cu nanocrystals (NCs) embedded in a transparent amorphous Al2O3 host both produced by pulsed laser deposition. The axial ratio of the NCs was extracted from the positions of the surface plasmon modes of the optical extinction spectra of the nanocomposite film. Comparison to the results obtained by grazing incidence small angle x-ray scattering shows excellent agreement. Thus, optical spectroscopy can be used as a simple, easily accessible, and versatile tool for the characterization of the NCs that form nanocomposite films. © 2001 American Institute of Physics. 
+
+copper
+nanostructured materials
+particle reinforced composites
+pulsed laser deposition
+alumina
+surface plasmons
+visible spectra

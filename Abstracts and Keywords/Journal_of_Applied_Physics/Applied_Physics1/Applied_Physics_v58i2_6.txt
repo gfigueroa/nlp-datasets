@@ -1,0 +1,8 @@
+We have tested a new device based on a 12 junction array coupled to a resonator. We have explored the feasibility of the phase lock for all the junctions at the same biasing current, which yields voltage quantization across each junction, eliminating the need to individually bias the junctions. The whole rf structure has been realized by stripline technology. The resonator is fed by a 50© line and is decoupled from the dc circuit by elliptical lowpass filters inserted in the bias leads.
+
+JOSEPHSON JUNCTIONS
+RESONATORS
+ELECTRIC POTENTIAL
+FEASIBILITY STUDIES
+HYSTERESIS
+PHASE OSCILLATIONS

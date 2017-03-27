@@ -1,0 +1,7 @@
+The long range dependence (LRD) of stationary process is characterized by the Hurst parameter. In practice, previous methods for estimation of the Hurst parameter might have poor performance when processing the non-stationary time series or trying to distinguish the slight difference between very long stochastic processes. This paper explores the use of fractional Fourier transform (FrFT) for estimating the Hurst parameter. The time series was processed locally to achieve a reliable local estimation of the Hurst parameter. The biocorrosion signal which is very popular in biological engineering was studied as an example to show the long range dependence properties. After comparing with the commonly used wavelet based method and another method based on Matlab's polyfit, the new Hurst parameter estimator proposed in this paper is proved to be more robust for non-stationarity and can show the slight difference clearly between those very long sets of biocorrosion data
+
+Hurst parameter
+biocorrosion signal
+fractional Fourier transform
+long range dependence
+parameter estimation

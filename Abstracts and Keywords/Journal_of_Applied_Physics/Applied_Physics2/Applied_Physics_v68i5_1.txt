@@ -1,0 +1,10 @@
+Nonexponential relaxations may be decomposed into a distribution of elementary exponential relaxations. Although of mathematical interest, these distributions may not have a physical sense if the elementary process of dipolar orientation itself is nonexponential, that is, nonDebye. We analyze nonDebye models using the superposition principle and assume that they admit a rate equation. In this case the rate itself results to be time dependent. Using the superposition principle as a guide, it then is possible to find the polarization for nonisothermal processes and even for timevarying electric fields. We finally comment on defect diffusion models devised to explain the dynamics of the polarization and depolarization unit, which seem not to be in accord with the superposition principle.
+
+DIELECTRIC PROPERTIES
+RELAXATION
+MATHEMATICAL MODELS
+MASTER EQUATIONS
+POLARIZATION
+CRYSTAL DEFECTS
+DIFFUSION
+CRYSTALS

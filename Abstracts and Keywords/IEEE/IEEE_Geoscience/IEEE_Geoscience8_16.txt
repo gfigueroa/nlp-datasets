@@ -1,0 +1,10 @@
+This publication describes the electrical system design, equipment and technology developed for the multi 12.5MW Ormen Lange Subsea Compression Station. This Subsea Station is supplied from shore with an umbilical length of 125km, and includes four compression trains, each having one 12.5MW VSD high speed 11000rpm compressor, one 400kW VSD Pump, UPS, and HV switchgear. The Station Pilot, consisting of one full scale train, will be installed in a test pit at Nyhamna within the Ormen Lange terminal by beginning 2011. All equipment are now designed and manufactured, and are about to be assembled into subsea modules in Norway.
+
+Electrical system design
+Nyhamna test pit qualification
+Ormen Lange field
+Subsea 11000rpm high speed moto-compressor
+Subsea 12.5MW VSD
+Subsea 52MW compression station
+Subsea electrical distribution
+Subsea power electronics technology

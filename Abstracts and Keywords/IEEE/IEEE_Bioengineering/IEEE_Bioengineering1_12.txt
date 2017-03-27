@@ -1,0 +1,6 @@
+This article presents the design and a user experimentation of a multimodal service based on an experimental multimodal platform. It describes the technical realization of the platform and the development of a multimodal service. Lastly, it presents the results of an experimentation with users applying this service. These results show that users prefer multimodal interactions and are more efficient with this kind of interface.
+
+Multimodality
+design
+mobility
+user experimentation

@@ -1,0 +1,7 @@
+Atomic layer deposition (ALD) of TiO2 thin films using Ti isopropoxide and tetrakis-dimethyl-amido titanium (TDMAT) as two kinds of Ti precursors and water as another reactant was investigated. TiO2 films with high purity can be grown in a self-limited ALD growth mode by using either Ti isopropoxide or TDMAT as Ti precursors. Different growth behaviors as a function of deposition temperature were observed. A typical growth rate curve-increased growth rate per cycle (GPC) with increasing temperatures was observed for the TiO2 film deposited by Ti isopropoxide and H2O, while surprisingly high GPC was observed at low temperatures for the TiO2 film deposited by TDMAT and H2O. An energetic model was proposed to explain the different growth behaviors with different precursors. Density functional theory (DFT) calculation was made. The GPC in the low temperature region is determined by the reaction energy barrier. From the experimental results and DFT calculation, we found that the intermediate product stability after the ligand exchange is determined by the desorption behavior, which has a huge effect on the width of the ALD process window.
+
+atomic layer deposition
+density functional theory
+desorption
+high-k dielectric thin films
+titanium compounds

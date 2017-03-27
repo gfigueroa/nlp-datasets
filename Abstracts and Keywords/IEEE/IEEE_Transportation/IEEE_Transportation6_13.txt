@@ -1,0 +1,4 @@
+The cooling requirements for standard commercial and passenger vehicles have been largely unchanged over the last century. An internal combustion engine, up till now has been the only significant source of heat. A mechanical coolant pump and mechanical fan usually suffice to crudely control the operating temperature of the internal combustion engine. The introduction of power electronics and electric machines into the vehicle means that the cooling system must be able to cope with thermal loads that vary greatly from one another. Removing heat from thermal loads that operate at different temperatures is one of the main challenges imposed on the hybrid vehicle cooling system. This paper will analyse the difference between thermal loads introduced by the parallel and series drivetrain, and will show that with careful consideration of cooling system topology and control strategy, all thermal loads can be effectively managed.
+
+Thermal management
+cooling system control

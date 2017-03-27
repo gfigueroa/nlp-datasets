@@ -1,0 +1,6 @@
+The exposure to an arc flash high incident energy fault to technicians operating low and medium voltage switching equipment is a daily hazard in the workplace and there is an opportunity to improve safety. While PPE protects for first and second degrees burns it could not provide sufficient protection for the impact and forces that a high incident energy arcing fault produces and the gases released for exposures over 40 cal/cm<sup>2</sup>. One solution is to reduce the incident energy of the arcing fault below 40 cal/cm<sup>2</sup>, This paper analyzes methods to reduce the exposure of personnel to high-energy arcing faults to levels below 40 cal/cm<sup>2</sup>, and also defines a method to determine the limits of coordination among protective devices to identify where the selectivity could be jeopardized.
+
+Arc flash
+arc flash hazards
+coordination
+fault studies

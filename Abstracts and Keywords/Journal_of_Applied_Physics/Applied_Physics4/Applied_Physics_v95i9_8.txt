@@ -1,0 +1,15 @@
+To observe the effects of polarization fields and screening, we have performed contacted electroreflectance (CER) measurements on In0.07Ga0.93N/GaN single quantum well light emitting diodes for different reverse bias voltages. Room-temperature CER spectra exhibited three features which are at lower energy than the GaN band gap and are associated with the quantum well. The position of the lowest-energy experimental peak, attributed to the ground-state quantum well transition, exhibited a limited Stark shift except at large reverse bias when a redshift in the peak energy was observed. Realistic band models of the quantum well samples were constructed using self-consistent SchrödingerPoisson solutions, taking polarization and screening effects in the quantum well fully into account. The model predicts an initial blueshift in transition energy as reverse bias voltage is increased, due to the cancellation of the polarization electric field by the depletion region field and the associated shift due to the quantum-confined Stark effect. A redshift is predicted to occur as the applied field is further increased past the flatband voltage. While the data and the model are in reasonable agreement for voltages past the flatband voltage, they disagree for smaller values of reverse bias, when charge is stored in the quantum well, and no blueshift is observed experimentally. To eliminate the blueshift and screen the electric field, we speculate that electrons in the quantum well are trapped in localized states. © 2004 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+semiconductor quantum wells
+wide band gap semiconductors
+quantum confined Stark effect
+energy gap
+localised states
+electroreflectance
+red shift
+light emitting diodes
+semiconductor device models
+interface states

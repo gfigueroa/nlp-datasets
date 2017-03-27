@@ -1,0 +1,9 @@
+We report a theoretical study of the equilibrium spin current (ESC) flowing in a ferromagnet/ferromagnet (FM/FM) graphene junction with noncollinear magnetizations, in which the FM correlation in graphene is induced by depositing an FM insulator on it. Using the scattering matrix method, we derived an analytical expression of the ESC which is formally the same as that of a normal FM/FM junction. The ESC comes from the exchange coupling between the two FM magnetizations. Owing to the linear dispersion of graphene, the ESC disappears in the one-dimensional case, while it exists in the two-dimensional case. It exhibits damped oscillations with change in the Fermi energy, the layer length between the two FM regions, and the FM exchange splitting. It is also found that ESC in FM/FM graphene junctions has electron-hole inversion symmetry whereas it has electron-hole inversion antisymmetry in normal FM/FM junctions.
+
+exchange interactions (electron)
+Fermi level
+ferromagnetic materials
+graphene
+interface magnetism
+magnetisation
+spin polarised transport

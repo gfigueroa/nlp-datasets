@@ -1,0 +1,5 @@
+The influence of bulk inversion asymmetry (tetrahedral) on the optical transitions in zinc blende quantum wells is analyzed using an enhanced kp optical calculation framework which takes intracell interactions into account. It is shown that inversion asymmetry results in a marked variation of the optical transition strength. Significantly, this effect cannot be revealed by the conventional kp optical transition formalism, which considers intercell interactions only.
+
+semiconductor quantum wells
+k.p calculations
+crystal symmetry

@@ -1,0 +1,11 @@
+The current injection into metal/porous Si/bulk Si diodes is investigated by transport and photoresponse measurements. Under low forward bias, the diode current is determined by the space charge region at the porous Si/bulk Si interface. The activation energy of the photovoltage shows that holes are injected into porous Si states which have little quantum confinement. This is discussed in terms of the confinement model for porous Si photoluminescence.
+
+SILICON
+POROSITY
+PHOTOLUMINESCENCE
+JUNCTIONS
+SILICON DIODES
+CURRENTS
+PHOTOVOLTAIC EFFECT
+CONFINEMENT
+IV CHARACTERISTIC

@@ -1,0 +1,12 @@
+Uniaxial tension and polarization evolution under cyclic electric field are investigated for poly(vinylidene fluoride-trifluorethylene-chlorofluoroethylene) terpolymer films prepared by different annealing conditions. The stress-strain behavior of the terpolymer film exhibits that of polymeric elastomers, with its fracture strain reaching 680%. Structure analysis demonstrates that the polymer chains undergo reorientation, and conformational change from nonpolar to polar phase takes place during uniaxial tension. Under cyclic electric field, the terpolymer film exhibits a narrow polarization loop typical of a ferroelectric relaxor. Conformational change from nonpolar to polar phase also occurs upon the electric field, and it reverses to the nonpolar phase when the field is removed. As the cycle number accumulates, the terpolymer film demonstrates excellent resistance to electric fatigue. Compared to the film annealed at 115	°C, the terpolymer film annealed at 100	°C has a larger volume fraction of crystallite/amorphous interfaces and shows better mechanical flexibility as well as electric fatigue resistance. The mechanical flexible and electric fatigue resistant terpolymer films hold promises for many applications, ranging from embedded sensors and actuators to flexible memory devices.
+
+annealing
+dielectric hysteresis
+dielectric polarisation
+electrical resistivity
+ferroelectric thin films
+fracture toughness
+materials preparation
+polymer films
+relaxor ferroelectrics
+stress-strain relations

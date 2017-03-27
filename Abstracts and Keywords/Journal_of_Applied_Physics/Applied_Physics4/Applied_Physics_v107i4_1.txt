@@ -1,0 +1,10 @@
+Thermally poled glasses of composition 0.20Na2O0.15Al2O30.65P2O5 were investigated by second harmonic generation (SHG) to characterize the induced second order optical nonlinearities (Ç2), and by infrared reflectance and micro-Raman spectroscopy to probe structural rearrangements in the nonlinear optical (NLO) layer. The SHG signals showed anodic and bulk Ç2 contributions, with the anodic response being one order of magnitude stronger. Also, a good agreement was found between the thickness of the NLO anodic layer (approximately 3¼m) and the depth where structural changes were detected. The latter include the destruction of bonds between phosphorus and nonbridging oxygen atoms, this process leads to the release and migration of sodium cations and oxide anions and to the enhancement of glass network connectivity in the anodic NLO layer.
+
+aluminium compounds
+glass structure
+light polarisation
+optical harmonic generation
+phosphate glasses
+photoreflectance
+Raman spectra
+sodium compounds

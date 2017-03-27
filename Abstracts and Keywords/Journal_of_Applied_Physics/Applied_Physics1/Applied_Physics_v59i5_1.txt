@@ -1,0 +1,7 @@
+Lowfrequency capacitance measurements were used to determine the dielectric constant of InP from 100 to 300 K. A value of 12.56±0.2 was obtained at 300 K and an extrapolated value of 11.93±0.2 was obtained at 77 K. Below about 220 K the temperature dependence can be expressed by the relationship õ0=11.76(1+2.26×104 T).
+
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+PERMITTIVITY
+INDIUM PHOSPHIDES
+TEMPERATURE DEPENDENCE

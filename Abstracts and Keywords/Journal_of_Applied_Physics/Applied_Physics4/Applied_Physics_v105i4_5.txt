@@ -1,0 +1,13 @@
+In the framework of LandauDevonshire thermodynamic theory, which is used in conventional ferroelectrics, we investigate the ferroelectric properties of the 13 type multiferroic BaTiO3CoFe2O4 nanocomposite films. The films are epitaxial both in plane and out of plane with self-assembled hexagonal arrays of CoFe2O4 nanopillars embedded in a BaTiO3 matrix and present the tantalizing possibility of heteroepitaxy in three dimensions. It is shown that the properties of the BaTiO3 thin films such as polarization, piezoelectric coefficient, dielectric susceptibility, etc., are functions of not only misfit strains but also external magnetic field. The film thickness dependence of epitaxial strains due to relaxation by misfit dislocation during film deposition is incorporated into the model by using effective substrate lattice parameters. Therefore, the thickness dependence of ferroelectric properties and magnetic-field-induced electric polarization (MIEP) in BaTiO3CoFe2O4 epitaxial thin films are well explained. In addition, the MIEP has also been studied by applying the transversal and longitudinal external magnetic fields to the magnetostrictive phase. Our main results are quantitatively consistent with experimental ones reported for multiferroic BaTiO3CoFe2O4 nanocomposite films.
+
+barium compounds
+cobalt compounds
+dielectric polarisation
+dislocations
+ferroelectric thin films
+internal stresses
+magnetic epitaxial layers
+magnetostriction
+multiferroics
+nanocomposites
+piezoelectricity

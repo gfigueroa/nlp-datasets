@@ -1,0 +1,12 @@
+The aim of this article is to determine the role of carbon atoms in the growth of hydrogenated amorphous carbon (a-C:H) films by means of an argon/acetylene expanding thermal plasma. Cavity ring down absorption spectroscopy is used to detect metastable carbon atoms by probing the 1s2	2s2	2p	3s
+1P1ê1s2	2s2	2p2
+1S0 electronic transition. In addition to absorption measurements, the emission of the same transition is monitored by means of optical emission spectroscopy. These two measurements provide information about the local production of the C atoms and about their reactivity in the gas phase. It will be shown that under growth conditions in an Ar/C2H2 expanding thermal plasma, the metastable carbon density is also representative for the ground state carbon density. From obtained results it is concluded that the carbon atoms react rapidly with acetylene in the gas phase and therefore their contribution to the growth of hard diamond-like a-C:H films can be neglected. Only at low acetylene flows, the condition when soft polymer-like films are deposited, carbon atoms are detected close to the substrate and can possibly contribute to the film growth. © 2003 American Institute of Physics. 
+
+carbon
+hydrogen
+hydrogenation
+amorphous semiconductors
+semiconductor thin films
+atomic absorption spectroscopy
+plasma CVD
+atomic emission spectroscopy

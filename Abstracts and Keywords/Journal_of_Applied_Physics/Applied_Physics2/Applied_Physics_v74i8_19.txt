@@ -1,0 +1,10 @@
+This comment is to point out that the temperature dependence of the thermal conductivity should be taken into account in computing the temperature distribution in substrate material (such as silicon) with temperaturedependent thermal conductivity. Ignoring the temperature dependence of the thermal conductivity will lead to a large error in the calculated results.
+
+THIN FILMS
+RESISTORS
+THERMAL CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+TEMPERATURE DISTRIBUTION
+SUBSTRATES
+SILICON
+ERRORS

@@ -1,0 +1,11 @@
+We have investigated the emission properties of low-growth-rate InAs/GaAs self-assembled quantum-dot multilayer samples with spacer layers of different thicknesses. For two layers with the same InAs coverage and a spacer of 40 nm, emission from the two layers is shown to be at different wavelengths. This is discussed in terms of local strain and surface undulation caused by the first layer influencing the growth of the second layer. We show that by annealing the surface before the growth of each subsequent layer this effect can be avoided for spacers of 40 nm and above. Furthermore, it is shown by collecting photoluminescence over a limited area of an N-layer sample, grown with surface annealing, that this sample exhibits a maximum modal gain N times that of a single layer. For spacers below 10 nm, only one emission peak is observed. However, we show that the observation of a single peak is due, in this case, to tunneling between adjacent layers, and that the maximum modal gain at 1300 nm of such electronically coupled layers is comparable to that of a single layer. © 2002 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+photoluminescence
+self-assembly
+annealing
+tunnelling
+internal stresses

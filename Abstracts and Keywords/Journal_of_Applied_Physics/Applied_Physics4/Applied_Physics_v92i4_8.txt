@@ -1,0 +1,20 @@
+The glass-forming ability of (FexCoyBzCu)80Si3Al5Ga2P10 with x=570, y=063, z=512, and u=05 amorphous alloys has been analyzed in terms of the width of the supercooled liquid region, the reduced glass transition temperature, and the VogelFulcherTammann parameters. Substitution of Fe by Co slightly decreases the glass-forming ability of the studied alloys. The value of the fragility parameter m is discussed in the frame of the general classification scheme of glass-forming liquids. The crystalline phases formed during the first crystallization step are identified. Magnetic moment at low and room temperature, Curie temperature, room temperature magnetostriction, and coercivity decrease with increasing Co content. © 2002 American Institute of Physics. 
+
+iron alloys
+cobalt alloys
+silicon alloys
+boron alloys
+aluminium alloys
+gallium alloys
+phosphorus alloys
+ferromagnetic materials
+amorphous magnetic materials
+metallic glasses
+soft magnetic materials
+glass transition
+supercooling
+crystallisation
+magnetic moments
+Curie temperature
+magnetostriction
+coercive force

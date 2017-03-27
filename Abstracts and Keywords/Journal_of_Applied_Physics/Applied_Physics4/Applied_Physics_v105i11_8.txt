@@ -1,0 +1,9 @@
+Measuring the electric-field-induced resonance frequency of nanowires and nanotubes as cantilever beams has become a popular method to derive their elastic modulus. However, this method is sensitive to the experimental uncertainties of the clamp point conditions. In a preceding paper, we found that such uncertainty could lead to 30%70% errors of the derived elastic modulus and then we proposed a tunable resonance method as a remedy. In this paper, we implement the tunable resonance method in experiment. The fundamental resonant frequencies of a Si nanowire cantilever stimulated in an electrical field are measured with an extra support localized at different positions along the nanowire. Our results show that based on this set of measured frequencies, the uncertainties of the clamp boundary condition can be easily identified and filtered out and thus the deduced Youngs modulus is more reliable.
+
+electric field effects
+elemental semiconductors
+nanowires
+semiconductor nanotubes
+semiconductor quantum wires
+silicon
+Young's modulus

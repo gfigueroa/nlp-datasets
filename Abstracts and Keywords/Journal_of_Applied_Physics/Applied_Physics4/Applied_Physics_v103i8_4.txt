@@ -1,0 +1,11 @@
+We report the preparation of highly photoluminescent porous silicon in the form of thin films with thicknesses of around 1¼m. These films are obtained by stain etching thin films of microcrystalline silicon deposited by plasma-enhanced chemical vapor deposition with a flow of silane gas (SiH4) that is highly diluted in hydrogen. Stain etching is performed with aqueous solutions of hydrofluoric acid and Fe(III) in the form of ferric chloride (FeCl3). The porous silicon obtained shows a strong photoluminescence with a quantum efficiency estimated in the 1%10% range. It could be used for the design of inexpensive large-surface electroluminescent devices.
+
+elemental semiconductors
+etching
+hydrogen
+photoluminescence
+plasma CVD
+porous semiconductors
+semiconductor growth
+semiconductor thin films
+silicon

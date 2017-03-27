@@ -1,0 +1,8 @@
+This paper presents a numerical impedancemeter which allows the electric impedance of a piezoelectric transducer Z(f) to be estimated both in real time and in situ. Authors' method is based on SOPC and hardware in the loop (HIL) techniques. The system comprises two principal modules: a direct digital synthesizer (DDS) and a chain actuator with a numerical resistive network and a transducer. Feedback control of the excitation voltage is carried out by regulating the resistive network. Z(f) modulus is estimated from the values obtained by the resistive network during a fast frequential sweep. The analogical part is modeled by using Matlab SimPower Syst and the numerical architecture is built by DSP Builder. The architecture is then implemented in a FPGA Stratix II board and validated by HIL simulation, in which the transducer is modeled by a Butterworth van Dycke structure. The system is tested within the bandwidth 1.8 MHz - 2.8 MHz with a 20 mm square transducer resonant at 2 MHz. We have determined all the relations which allow the parameters of the numerical functions to be set. The parameters take into account the range of excitation, the quality factor of the transducer and the resolution, speed and duration of the analysis. The results show how accurate Z(f) estimation is and the duration of the analysis, which does not exceed 10 ms.
+
+DDS
+FPGA
+Hardware In the Loop
+electric impedance
+piezoelectric transducer
+ultrasonic sensor

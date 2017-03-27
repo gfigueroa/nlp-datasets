@@ -1,0 +1,5 @@
+This pager surveys the use of wireless sensors and sensor networks in monitoring Dam safety. Engineers paid much attention to focus on the research of Dam safety monitoring (DSM), Since it could increase the safety and reduce the maintenance costs of engineering structures. Recently, wireless sensor network (WSN) has been explored for adoption to improve the centralized cable-based DSM system performances. This paper presents a multi-agent design method and system evaluation for wireless sensor network based Dam safety monitoring to validate the efficiency of the multi-agent technology. Through the cooperation of four different agents for DSM applications, the distributed wireless sensor network can automatically allocate DSHM tasks; self-organize the sensor network and aggregate different sensor information.
+
+Dam safety monitoring
+Multi-agent
+Wireless Sensor network

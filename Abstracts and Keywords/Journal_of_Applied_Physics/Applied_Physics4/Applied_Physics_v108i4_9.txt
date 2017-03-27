@@ -1,0 +1,16 @@
+Cupric iodide is a p-type semiconductor and has a large band gap. Doping of Mn, Co, and Ni are found to make ³-CuI ferromagnetic ground state, while Cr-doped and Fe-doped CuI systems are stabilized in antiferromagnetic configurations. The origins of the magnetic ordering are demonstrated successfully by the phenomenological band coupling model based on d-d level repulsions between the dopant ions. Furthermore, using a molecular-orbital bonding model, the electronic structures of the doped CuI are well understood. According to Heisenberg model, high-TC may be expected for CuI:Mn and CuI:Ni if there are no native defects or other impurities.
+
+antiferromagnetic materials
+cobalt
+copper compounds
+electronic structure
+energy gap
+ferromagnetic materials
+ground states
+Heisenberg model
+magnetic semiconductors
+manganese
+nickel
+orbital calculations
+semiconductor doping
+wide band gap semiconductors

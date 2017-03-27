@@ -1,0 +1,11 @@
+Metaloxidesemiconductor fieldeffect transistors have been fabricated with a buriedoxide layer implanted under only the source and drain regions. Tungsten selectively chemically vapor deposited over the polycrystallinesilicon gate electrode limited the oxygenimplanted area and provided a selfaligned structure. The surface of the source and drain regions was raised above that of the channel by the implanted oxide. The buried oxide formed under the source and drain regions joined smoothly with the surrounding field oxide. Some additional oxide was formed beneath the thermally grown field oxide by the implanted oxygen, and significant field oxide appears to have been removed by sputtering during the implantation. A simplified, nonoptimum, transistorfabrication process produced depletionmode, nchannel devices which exhibited transistor action.
+
+ION IMPLANTATION
+TUNGSTEN
+SILICON
+MOSFET
+FABRICATION
+CHEMICAL VAPOR DEPOSITION
+VAPOR DEPOSITED COATINGS
+MICROELECTRONICS
+OXYGEN

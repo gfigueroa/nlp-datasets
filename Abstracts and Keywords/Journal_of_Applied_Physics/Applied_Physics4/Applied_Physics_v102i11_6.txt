@@ -1,0 +1,6 @@
+The design of a new type of left-handed material (LHM), having two dimensions of negative permittivities and one dimension of negative permeability, is presented in this paper for the observation and demonstration of the LH properties of erenkov radiation, which is a transverse magnetic (TM) electromagnetic wave. For a unit cells dimension of 5 mm, a LH band is observed between 6 and 7 GHz upon a TM incidence. We also use an antenna array to model a traveling current source, representing a single frequency component of a moving charged particle, demonstrating the feasibility and basis of observing backward erenkov radiation experimentally with LHM.
+
+Cherenkov radiation
+magnetic permeability
+metamaterials
+permittivity

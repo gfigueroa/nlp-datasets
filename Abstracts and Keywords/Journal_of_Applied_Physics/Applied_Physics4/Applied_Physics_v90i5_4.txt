@@ -1,0 +1,11 @@
+The minority carrier lifetime in boron-doped oxygen-contaminated Czochralski (Cz) silicon is strongly reduced under illumination or carrier injection. This process can be fully reversed by a 200	°C anneal step. In several recent studies it was shown that boron and oxygen are the major components of the underlying metastable Cz-specific defect. The energy level of the defect in its active state A was determined to be around midgap [Schmidt et al., J. Appl. Phys. 86, 3175 (1999)] while the energy level of the defect in its passive state P is very shallow. The Cz-specific defect in its passive state can be identified with the shallow thermal donor. The kinetics of the excess carrier-induced transformation from state P to state A can be described using recombination-enhanced defect reaction theory. On the basis of these experimental facts different solutions for the reduction or elimination of the metastable defect are suggested. Two promising solutions are discussed in more detail: the use of gallium-doped Cz silicon and the introduction of high-temperature anneals into the process sequence. Gallium-doped Cz silicon shows no degradation and excellent lifetimes over a wide resistivity range, although the concentration of interstitial oxygen is in the same range as in standard Cz silicon. Stable solar cell efficiencies comparable to FZ silicon have been achieved. If standard boron-doped Cz silicon is used, the defect concentration can be reduced permanently by a high-temperature anneal using conventional tube or rapid thermal processing. This leads to an improvement of the carrier lifetime by a factor of 23. Nevertheless, it is always necessary to use an optimized set of process parameters because otherwise the lifetime of all oxygen-contaminated materials (including gallium-doped Cz silicon) is severely reduced © 2001 American Institute of Physics. 
+
+silicon
+boron
+elemental semiconductors
+crystal growth from melt
+carrier lifetime
+minority carriers
+rapid thermal annealing
+defect states
+solar cells

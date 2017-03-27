@@ -1,0 +1,7 @@
+Microwave focusing systems of spherical shape (constant K-lens, Luneberg lens and spherical reflector antenna) are investigated. The corresponding wave scattering problems are treated as classical boundary value problems for Maxwell's equations. The systems are illuminated by an electromagnetic plane wave (receiving) and by a complex-point huy-gens source producing a Gaussian beam-like radiation (transmitting). In the case of a spherical lens the electromagnetic field has an explicit mie series representation. When investigating the spherical reflector antenna and spherical lens reflectors we employ the rigorous method of regularization. This method provides stable and fast converging computational algorithms, which guarantee any desired accuracy of the computations. The specific computational tools are implemented to advance into the deep quasi-optical region, where electrical size of an aperture D/lambda is specified by thousands. These advances are employed for comprehensive analysis of the giant spherical reflector antennas (up to D/lambda = 10000 ). The performance of low-profile multi-beam antennas based on spherical lenses is examined when the interference between beams is "automatically" incorporated into the general solution. The comparative analysis of the Luneberg lens and Constant-K lens reflectors is performed in a wide frequency range.
+
+Method of Regularization
+Spherical reflector
+focal studies
+multi-beam antenna
+spherical lens

@@ -1,0 +1,21 @@
+Perovskite lead scandium tantalate (PST)PbSc1/2Ta1/2O3thin films have been prepared from lead-rich targets by rf magnetron sputtering onto a variety of substrates (e.g., MgO-on-sapphire and platinized silicon). Detailed microstructural chemical analysis of the films using transmission electron microscopy and energy dispersive x-ray spectroscopy techniques showed that they contained large amounts of excess lead, ranging from 7 to over 70 at.	% and that this was located within the crystallite grains making up the films rather than solely at grain boundaries. Measurement of the lattice parameters of the films using x-ray diffraction and using the underlying materials as internal standards have shown that the lattice parameters of the films are consistently larger than those for bulk PST. Comparison of the film lattice parameters with composition and with the lattice parameter/composition trend of a large number of lead containing perovskites strongly suggests that the excess lead is present on the B sites of the structure as Pb4+. The consequences for this on the structural and electrical properties of these films and PST films deposited by other workers are discussed. © 1997 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+ferroelectric thin films
+sputter deposition
+crystal structure
+lattice constants
+X-ray chemical analysis
+grain boundaries
+crystal microstructure
+SCANDIUM OXIDES
+LEAD OXIDES
+TANTALUM OXIDES
+THIN FILMS
+PEROVSKITES
+STOICHIOMETRY
+MICROSTRUCTURE
+TRANSMISSION ELECTRON MICROSCOPY
+X-RAY SPECTROSCOPY
+LATTICE PARAMETERS

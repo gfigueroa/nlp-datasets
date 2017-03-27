@@ -1,0 +1,11 @@
+We investigate the magnetic properties and the magnetic entropy change around the martensitic transformations in Sb-doped Ni50Mn35In15 ferromagnetic shape memory alloys. We find that the martensitic transformation temperature decreases, and the thermal hysteresis associated with the transition increases when Sb is added. The alloy with 5.5at.	% Sb enhances the ferromagnetism of austenitic phase and improves the field shift martensitic transition ability, resulting in a great increase in magnetic entropy change up to 8J	kg1	K1 at 2 T and 21J	kg1	K1 at 5 T. This is attributed to magnetic interaction that is sensitive to the variation of p-d hybridization and conduction electron concentration arising from the substitution of sp element.
+
+antimony
+entropy
+ferromagnetic materials
+indium alloys
+magnetic hysteresis
+magnetocaloric effects
+manganese alloys
+nickel alloys
+shape memory effects

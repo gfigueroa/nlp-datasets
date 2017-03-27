@@ -1,0 +1,15 @@
+Defects in GaN grown using metalorganic chemical vapor deposition were studied through the use of monoenergetic positron beams. For Mg-doped GaN, no large change in the diffusion length of positrons was observed before and after activation of Mg. This was attributed to the scattering of positrons by potentials caused by electric dipoles of Mghydrogen pairs. For Si-doped GaN, the line-shape parameter S increased as carrier density increased, suggesting an introduction of Ga vacancy due to the Fermi level effect. Based on these results, we discuss the effects of the growth polar direction of GaN on optical properties in this article. Although the optical properties of a GaN film grown toward the Ga face direction exhibited excitonic features, a film grown toward the N face (c) direction exhibited broadened photoluminescence and transmittance spectra, and a Stokes shift of about 20 meV was observed. This difference was attributed to extended band-tail states introduced by high concentrations of donors and acceptor-type defects in c
+GaN. © 2001 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+vapour phase epitaxial growth
+MOCVD coatings
+crystal defects
+positron annihilation
+Fermi level
+photoluminescence
+visible spectra
+carrier density

@@ -1,0 +1,11 @@
+An experimental and numerical study of a-SiGe:H based solar cells with a band gap graded i layer in the shape of a V is presented. The variation of the location of the band gap minimum has a strong influence on solar cell performance. Under air mass (AM) 1.5 illumination the cells show a strong increase in open circuit voltage and a distinct decrease in the fill factor when shifting the band gap minimum from the front to the rear part of the i layer. Comparisons of experimental and simulated data of the dark I/V behavior, the I/V curves under illumination and the quantum efficiency allow insights into the transport and recombination behavior within the solar cell. The simulations reveal that the position as well as the charge state of the defects and, under illumination additionally the recharging behavior of the defect states, determine the device characteristics. © 1998 American Institute of Physics. 
+
+Ge-Si alloys
+hydrogen
+amorphous semiconductors
+semiconductor epitaxial layers
+solar cells
+energy gap
+dark conductivity
+photoconductivity
+defect states

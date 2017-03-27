@@ -1,0 +1,9 @@
+Using ab initio simulations we determine the stable phases of ABO3 perovskites (A = Ca,Sr,Ba;B = Ti,Zr,Hf) at T = 0K by calculating the free energy. For these structures we calculate the dielectric constant and the bandgap. It turns out that for tolerance factors far from 1, the stable phase is always Pnma. For SrZrO3 and BaZrO3 with tolerance factors close to 1, we predict that the high temperature cubic phase is broken to I4/mcm like in case of SrTiO3 with a very small gain in free energy. The calculated dielectric constants are in agreement with the experimental values for the few cases known.
+
+ab initio calculations
+barium compounds
+calcium compounds
+energy gap
+free energy
+permittivity
+strontium compounds

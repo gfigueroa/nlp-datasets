@@ -1,0 +1,13 @@
+Alkene molecules were covalently bonded to hydrogen-terminated crystalline silicon (111) and hydrogenated amorphous silicon (a-Si:H) surfaces by thermally induced hydrosilylation. The resulting chemical surface structure was analyzed by x-ray photoelectron spectroscopy and compared to that of the corresponding silicon surfaces covered by a native oxide and terminated with hydrogen. Our results demonstrate successful hydrosilylation on both substrate materials. However, the presence of oxygen on the surface turns out to hinder the hydrosilylation reaction, as shown by the reduced concentration of hydrocarbons on the surface after prolonged exposure of the Si substrates prior to hydrosilylation. By monitoring both the O
+1s and the Si
+2p peaks, the oxidation kinetics of a-Si:H was found to be diffusion limited. Since stable hydrogen termination as a prerequisite of hydrosilylation can be achieved on a-Si:H surfaces with much less technological effort than on crystalline silicon surfaces, a-Si:H is a promising substrate for biofunctionalization procedures requiring less stringent process conditions. © 2003 American Institute of Physics. 
+
+silicon
+X-ray photoelectron spectra
+oxidation
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+surface chemistry
+surface structure
+chemical structure

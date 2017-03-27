@@ -1,0 +1,11 @@
+A simple evaluation technique of a lifetime Ä and diffusion coefficient D of minority carriers in a semiconductor wafer by using the newly contrived twomercury probe method and a graphic analysis is described. The twomercury probe method makes it possible to measure Ä and D in an electrodefree wafer sample. The graphic analysis can be applied to a semiconductor wafer with a large backsurface recombination velocity for evaluation of Ä and D. Using the proposed technique, the minoritycarrier lifetime and diffusion coefficient have been successfully evaluated even in a ptype lowresistivity (0.20.5 ©	cm) silicon wafer for the first time.
+
+SILICON
+WAFERS
+PTYPE CONDUCTORS
+MINORITY CARRIERS
+CARRIER LIFETIME
+MERCURY
+PROBES
+DIFFUSION
+RECOMBINATION

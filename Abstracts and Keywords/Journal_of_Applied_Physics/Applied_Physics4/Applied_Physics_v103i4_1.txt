@@ -1,0 +1,10 @@
+The spectral and laser properties of Nd3+ doped (1wt	%) LaAlO3 single crystal are presented. The energy levels of the Nd3+ ion in the LaAlO3 matrix were assigned. The JuddOfelt parameters ©2 = 1.346, ©4 = 4.490, and ©6 = 5.168 (all ×1020cm2) were evaluated. The absorption Ãabs and emission Ãemi cross sections at the respective pumping and emission wavelengths were calculated to be Ãabs(789.7nm) = 2.42×1020cm2, Ãemi(909nm) = 5.02×1020cm2, and Ãemi(1080nm) = 7.03×1020cm2. Continuous-wave laser action at 1080nm in LaAlO3:Nd3+ was obtained.
+
+impurity absorption spectra
+Judd-Ofelt theory
+lanthanum compounds
+neodymium
+optical materials
+optical pumping
+solid lasers
+visible spectra

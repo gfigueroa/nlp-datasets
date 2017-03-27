@@ -1,0 +1,6 @@
+In this article, we describe our approach to the compile-time optimization and parallelization of queries for execution in DBS3 or EDS. DBS3 is a shared-memory parallel database system, while the EDS system has a distributed-memory architecture. Because DBS3 implements a parallel dataflow execution model, this approach applies to both architectures. Using randomized search strategies enables the exploration of a search space large enough to include zigzag trees, which are intermediate between left-deep and right-deep trees. Zigzag trees are shown to provide better response time than right-deep trees in case of limited memory. Performance measurements obtained using the DBS3 prototype show the advantages of zigzag trees under various conditions.
+
+cost function
+fragmentation
+pipeline
+search space

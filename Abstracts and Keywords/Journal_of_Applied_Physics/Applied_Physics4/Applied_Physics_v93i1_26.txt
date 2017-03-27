@@ -1,0 +1,10 @@
+The synthetic characteristics of large carbon cluster ions by laser ablation of polymers in vacuum were investigated. Time-of-flight mass spectrometry was used for analyzing the masses of ionic species produced by laser ablation. We found that large carbon cluster ions Cn+ with n up to 400 were synthesized in vacuum when copolymer of ethylene and tetrafluoroethylene, polyvinyliden fluoride, and chlorotrifluoroethylene were employed as the target material. Since the synthesis of large cluster ions in vacuum is a surprising phenomenon, we examined the synthesis efficiency in various experimental conditions. By comparing mass spectra obtained from various polymers containing hydrogen and/or halogen atoms, the existence of both hydrogen and halogen atoms in polymers do not directly contribute to enhance the synthesis efficiency of large carbon clusters. In addition, microscopic observations of surface morphologies of laser-ablated polymers revealed that the clustering reactions in eroded craters had little correlation with the synthesis efficiency of large carbon clusters. © 2003 American Institute of Physics. 
+
+carbon
+atomic clusters
+laser ablation
+time of flight mass spectra
+polymer blends
+materials preparation
+scanning electron microscopy
+surface structure

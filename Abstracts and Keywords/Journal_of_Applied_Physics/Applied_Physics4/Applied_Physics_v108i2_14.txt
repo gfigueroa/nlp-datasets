@@ -1,0 +1,9 @@
+It is difficult to measure the in-plane directional electrical properties of a crystal sample without physical contact. This paper describes the measurement of in-plane unidirectional resistivity through electromechanical coupling. The degree of coupling was determined from acoustic velocity data measured using the Brillouin scattering method. The resistivity distribution in a ZnO crystal with a resistivity of less than 1©	m, (common in intrinsic wide band-gap semiconductors) was clearly detected through acoustic velocity at gigahertz frequencies. The resistivity values obtained from the acoustic wave velocities showed a good correlation with standard contact electrode measurements in the resistivity range of 0.031©	m. This noncontact measurement technique should be useful for measuring the microscopic distribution of in-plane resistivity in wide band-gap semiconductors, and is a powerful tool for experiments under extreme conditions, such as high pressure and/or high temperature.
+
+acoustic wave velocity
+Brillouin spectra
+electrical resistivity
+electromechanical effects
+II-VI semiconductors
+wide band gap semiconductors
+zinc compounds

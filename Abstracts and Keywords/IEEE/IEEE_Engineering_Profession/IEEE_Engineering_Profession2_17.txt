@@ -1,0 +1,6 @@
+The application of Independent Component Analysis (ICA) to functional magnetic resonance imaging (FMRI) data has proven to be quite fruitful. In this sense, an important problem is different nongaussian properties of FMRI data that should be considered in ICA application. In this paper, we have experimentally compared nongaussian source separation ability of three ICA/BSS approaches for fMRI: Infomax, FastICA and JADE. The comparison study used both simulated fMRI-like data generated using the synthesis model and actual fMRI data performing an audio-visual stimulation task. The results were evaluated by task-related activation maps and associated time-courses. Based on our result, Infomax emerged as a reliable choice for the task followed by JADE. FastICA didn't perform reliably especially for sub-gaussian sources.
+
+Spatial Independent Component analysis (SICA) algorithms
+component
+functional Magnetic Resonance Imaging (fMRI)
+nongaussian distributions

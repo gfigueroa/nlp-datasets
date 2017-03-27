@@ -1,0 +1,6 @@
+The performance optimization of query processing in spatial networks focuses on minimizing network data accesses and the cost of network distance calculations. This paper proposes algorithms for network k-NN queries, range queries, closest-pair queries and multi-source skyline queries based on a novel processing framework, namely, incremental lower bound constraint. By giving high processing priority to the query associated data points and utilizing the incremental nature of the lower bound, the performance of our algorithms is better optimized in contrast to the corresponding algorithms based on known framework incremental Euclidean restriction and incremental network expansion. More importantly, the proposed algorithms are proven to be instance optimal among classes of algorithms. Through experiments on real road network datasets, the superiority of the proposed algorithms is demonstrated.
+
+Spatial networks
+Spatial queries
+Instance optimality
+Incremental lower bound constraint

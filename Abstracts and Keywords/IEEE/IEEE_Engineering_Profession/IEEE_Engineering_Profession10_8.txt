@@ -1,0 +1,6 @@
+In the current debate towards a more energy efficient supply and demand in household settings, notions such as smart grids, smart meters and smart appliances are of main importance. Different stakeholders are involved, but often neglected is the exact role of the customer, or more specific, his opinion, attitude, drivers or barriers towards these developments. As a consequence, this paper employs a user-centric perspective. It addresses issues such as the effect of giving personalized feedback on energy consumption and refers to studies that have been conducted concerning a possible future implementation of smart meters and smart appliances. Furthermore, it describes an innovative combination of different methodological techniques on the level of energy monitoring and user interrogation. This methodological set-up will allow to gain a clear insight in the willingness of consumers to accept different kinds of measures when it comes to smart metering and smart appliances in their daily life, as to have an efficient user adoption in the future.
+
+consumer behavior
+energy consumption
+smart appliances
+smart grid

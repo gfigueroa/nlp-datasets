@@ -1,0 +1,9 @@
+Two types of high-quality PbTe p-n junctions, prepared by thermal diffusion of In4Te3 gas [thermally diffused junction (TDJ)] and by ion implantation [implanted junction (IJ)] of indium (In-IJ) and zinc (Zn-IJ), have been characterized. Capacitance-voltage and current-voltage characteristics have been measured over a temperature range from < 10to < 180K. The saturation current density J0 in both diode types was < 105A/cm2 at 80K, while at 180K, J0 < 101A/cm2 in TDJ and < 1A/cm2 in both IJ diodes. At 80K, the reverse current started to increase markedly at a bias of < 400mV for TDJ and at < 550mV for IJ. The ideality factor was about 1.52 for both diode types at 80K. Both diode types were linearly graded. The height of the junction barrier, the concentration and the concentration gradient of the impurities, and the temperature dependence of the static dielectric constant have been determined. The zero-bias resistance times area product (R0Ae) at 80K is 850©	cm2 for TDJ, 250©	cm2 for In-IJ, and < 80©	cm2 for Zn-IJ, while at 180K, R0Ae < 0.38©	cm2 for TDJ and < 0.1©	cm2 for both IJ diodes. The estimated detectivity is D* < 1011cm	Hz1/2/W at T = 80K, determined mainly by background radiation, while at T = 180K, D* decreases to 5×1091010cm	Hz1/2/W and is determined by the Johnson noise.
+
+ion implantation
+IV-VI semiconductors
+lead compounds
+permittivity
+p-n junctions
+semiconductor doping
+thermal diffusion

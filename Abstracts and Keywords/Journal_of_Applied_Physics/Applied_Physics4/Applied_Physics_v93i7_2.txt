@@ -1,0 +1,16 @@
+In this article we report the thermodynamic investigations on the Ericsson cycle with application on RNi2 (R=Nd, Gd, Tb, Dy, Ho, and Er) series. Besides the Zeeman and exchange interactions, these compounds present an important contribution from crystalline electrical field interaction. The Ericsson coefficient of performance and refrigerant capacity was investigated under the crystal field influence. An optimum molar composite of ErDyTbNi2 was proposed to work as refrigerant material in the temperature interval from 7 to 22 K. © 2003 American Institute of Physics. 
+
+neodymium alloys
+gadolinium alloys
+terbium alloys
+dysprosium alloys
+holmium alloys
+erbium alloys
+nickel alloys
+magnetocaloric effects
+magnetic cooling
+ferromagnetic materials
+entropy
+Zeeman effect
+exchange interactions (electron)
+crystal field interactions

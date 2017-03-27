@@ -1,0 +1,16 @@
+InGaN/GaN multiquantum-well (MQW) structures grown by metalorganic chemical-vapor deposition on n-type GaN and capped by p-type GaN were investigated by cross-sectional transmission electron microscopy, double crystal x-ray diffraction, and temperature-dependent photoluminescence. For the sample with strained-layer thicknesses greater than the critical thicknesses, a high density of pure edge type threading dislocations generated from MQW layers and extended to the cap layer was observed. These dislocations result from a relaxation of the strained layers when their thicknesses are beyond the critical thicknesses. Because of indium outdiffusion from the well layers due to the anneal effect of Mg-doped cap layer growth and defects generated from strain relaxation, the PL emission peak was almost depressed by the broad yellow band with an intensity maximum at 2.28 eV. But for the sample with strained-layer thicknesses less than the critical thicknesses, it has no such phenomenon. The measured critical thicknesses are consistent with the calculated values using the model proposed by Fischer, Kühne, and Richter. © 2004 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor quantum wells
+MOCVD coatings
+semiconductor growth
+photoluminescence
+dislocations
+annealing
+stress relaxation
+transmission electron microscopy
+X-ray diffraction
+semiconductor thin films

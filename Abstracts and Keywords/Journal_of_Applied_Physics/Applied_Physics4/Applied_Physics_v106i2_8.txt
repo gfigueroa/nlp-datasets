@@ -1,0 +1,7 @@
+This paper focuses on the numerical research of the influence of electrode erosion on the arc behavior during opening process of low-voltage circuit breakers. The mathematical model of three-dimensional air arc plasma considering electrode erosion is built based on magnetic hydrodynamics. The mass fraction equation of copper vapor is introduced to the model on the basis of traditional mass, momentum, and energy balance equations. The influence of copper vapor on the thermodynamic and transport properties of the gas mixture is considered in this paper. The distributions of temperature field, gas flow field, and mass fraction of copper vapor in the arc chamber are simulated. The arc root displacements and arc voltage, which takes account of the influence of electrode erosion, are calculated. The simulation results indicate that the immobility time of both moving contact and stationary contact is much longer considering electrodes erosion. The calculated voltage of the arc column during arc motion considering erosion is smaller because of the change in the electrical conductivity of air-copper vapor mixtures. Except for the numerical investigation on the arc motion considering electrode erosion, the experiment work is also carried out to support the simulation work.
+
+circuit breakers
+electrical conductivity
+plasma materials processing
+thermodynamics
+wear

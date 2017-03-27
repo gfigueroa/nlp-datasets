@@ -1,0 +1,20 @@
+A halide chemical vapor deposition technique has been developed to grow highly c-axis oriented submicron Bi4Ti3O12 films onto Pt(200
+nm)/Ti(20
+nm)/SiO2(1200
+nm)/Si(100) substrates. BiI3, TiI4, and oxygen were used as precursors. The total gas pressure was found to be the critical processing parameter to grow films with good crystalline and dielectric properties. The 300 nm thick Bi4Ti3O12 films fabricated at 700
+°C and total gas pressure of 3.8 Torr exhibit the best dielectric performance: dielectric constant around 200 and loss tan
+´<0.018 at 100 kHz, remnant polarization of 5.3¼C/cm2, induced polarization of 14.9¼C/cm2 at 560 kV/cm, coercive field of 150 kV/cm, electrical tunability of 51% at 350 kV/cm, resistivity of 2×109
+©
+cm, and leakage current as low as 3×105
+A/cm2 at 100 kV/cm. The effect of weak reduction of the remnant polarization and coercive field has been observed in the temperature range from 300 to 77 K and ascribed to the in-plane orientation of the polar a axis in fabricated Bi4Ti3O12 films. © 2000 American Institute of Physics. 
+
+bismuth compounds
+ferroelectric materials
+ferroelectric thin films
+chemical vapour deposition
+permittivity
+dielectric losses
+dielectric polarisation
+electrical resistivity
+leakage currents
+crystal orientation

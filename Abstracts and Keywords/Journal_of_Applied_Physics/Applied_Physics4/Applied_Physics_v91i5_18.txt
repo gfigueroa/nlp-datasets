@@ -1,0 +1,15 @@
+Minority carrier transient spectroscopy is performed in Schottky diodes fabricated on hexagonal n-type GaN grown by metalorganic chemical vapor deposition, either doped with two concentrations of Si or unintentionally doped. Capacitance transients are measured after a light pulse sent through the semitransparent contact which generates electronhole pairs in the depletion zone. They display the characteristic sign of hole emission. The same deep level is detected in all the samples, independent of the doping level and doping species, with a concentration of some 1015
+cm3, even in the sample prepared by epitaxial lateral overgrowth. The ionization energy and capture cross section deduced from Fourier Transform transient spectroscopy are respectively 0.81±0.03 eV and 2×1014
+cm2. Such a capture cross section for holes indicates an attractive potential and hence a negatively charged center before the hole capture. Hole emission is suppressed by electronhole recombination when a sufficiently long majority carrier pulse is applied after the light pulse. A single recombination time constant is measured and an electron capture cross section near 1021
+cm2, independent of temperature, is deduced. These facts demonstrate that this deep center is a point defect, still negatively charged after a hole has been captured, since it repels electrons, and hence it is a deep acceptor. All these properties fit very well the theoretical predictions previously published about the isolated gallium vacancy in n-type GaN. © 2002 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+minority carriers
+carrier mobility
+carrier lifetime
+deep levels
+Schottky diodes
+electron-hole recombination
+hole traps

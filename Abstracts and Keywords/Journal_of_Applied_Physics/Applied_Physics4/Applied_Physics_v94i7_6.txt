@@ -1,0 +1,10 @@
+In this article, the impact of several electrical and technological parameters on a particular type of Lorentzian noise, occurring in deep submicron silicon-on-insulator (SOI) metaloxidesemiconductor field-effect transistors with an ultrathin gate dielectric is described and a semi-empirical model is proposed that captures the main features of the experimental behavior. It is shown that the noise takes place in both n- and p-channel partially depleted SOI transistors. The excess Lorentzians are also found in the n-channel fully depleted devices studied, whereby the noise plateau amplitude [SI(0)] increases for a more negative back-gate bias, putting the back interface into stronger accumulation. The dependence of the characteristic time constant Ä and SI(0) on transistor length, drain, front- and back-gate bias is reported, where from a first-order model is derived. The latter is based on the idea that the excess Lorentzian noise originates from filtered shot noise induced by majority carriers, that are injected in the floating body of the transistors by electron valence-band tunneling across the ultrathin (2.5 nm) gate oxide. © 2003 American Institute of Physics. 
+
+MOSFET
+semiconductor device models
+shot noise
+semiconductor device noise
+tunnelling
+valence bands
+silicon-on-insulator
+dielectric thin films

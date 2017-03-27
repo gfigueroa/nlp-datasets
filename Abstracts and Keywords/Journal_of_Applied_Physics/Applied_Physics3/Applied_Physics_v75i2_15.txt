@@ -1,0 +1,10 @@
+A model is proposed to predict the following quantities for powder materials compacted by shock waves: the pressure, the specific volume, the internal energy behind the shock wave, and the shockwave velocity Us. They are calculated as a function of flyerplate velocity up and initial powder specific volume V00. The model is tested on Cu, Al2024, and Fe. Calculated Us vs up curves agree well with experiments provided V00 is smaller than about two times the solid specific volume. The model can be used to predict shockwave state points of powder or solid material with a lower or higher initial temperature than room temperature. 	
+
+POWDERS
+COMPACTING
+SHOCK WAVES
+VOLUME
+MATHEMATICAL MODELS
+EQUATIONS OF STATE
+PRESSURE EFFECTS
+INTERNAL ENERGY

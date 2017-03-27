@@ -1,0 +1,14 @@
+Raman scattering spectroscopy is applied to an evaluation of silicononinsulator substrates formed by highdose oxygenion implantation. This implantation creates a superficial crystal silicon/buried oxide/substrate silicon structure. Two peaks are found in the Raman spectra of the substrates. Their intensity ratio varies with the exciting laser wavelength. One narrow peak at 521 cm1 is assigned to optical phonons in the substrate silicon, and the other broader peak at lower frequency is assigned to the superficial silicon. With an increase in postimplantation annealing temperature, the Raman peak frequency of the superficial silicon increases and the linewidth becomes narrower, approaching the values of singlecrystal silicon. One possible interpretation for the Raman peak downshift is that the oxygenion implantation causes structural deformations of the superficial silicon layer, mainly oxygen precipitation and defect generation.
+
+PRECIPITATION
+CRYSTAL DEFECTS
+OPTICAL PHONONS
+SILICON
+RAMAN SPECTROSCOPY
+LINE WIDTHS
+OXYGEN
+PRECIPITATES
+ION IMPLANTATION
+FABRICATION
+ANNEALING
+DEFORMATION

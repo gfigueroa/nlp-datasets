@@ -1,0 +1,20 @@
+High efficiency SnO2/nSi and In2O3:Sn/nSi solar cells have been fabricated which when encapsulated in EVA (ethylene vinyl acetate copolymers) and kept at temperatures below 200	°C exhibit longterm stability. However, in the absence of proper encapsulation or at high temperatures, it is possible for the properties of heterojunction SnO2/nSi and In2O3:Sn/nSi solar cells to suffer degradation through two distinct mechanisms, one optical and the other thermal in nature. In either case, losses in Voc can be correlated with changes in the dark currentvoltage characteristics: light stress increases the dark saturation current J0, while heat stress decreases the diode quality faction n. Both degradation mechanisms are related to changes in the stored charges in the SiOx interphase region between the conducting oxide and the silicon. The thermal process is only relevant for temperatures above 300	°C, while the optical process is only evidenced if ultraviolet light is incident on the cell. Thus, cells kept at T&lt;200	°C behind a suitable UVabsorbing filter remain stable indefinitely.
+
+tin oxides
+silicon solar cells
+indium oxides
+interfaces
+stability
+heterojunctions
+experimental data
+efficiency
+high temperature
+encapsulation
+electrical properties
+radiation effects
+stresses
+temperature effects
+ultraviolet radiation
+absorption
+filters
+semiconductor diodes

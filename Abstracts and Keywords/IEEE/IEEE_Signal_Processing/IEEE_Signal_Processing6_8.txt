@@ -1,0 +1,7 @@
+This paper aims to analyse the electroencephalogram (EEG) background activity of Alzheimer's disease (AD) patients using the multiscale entropy (MSE) method. The MSE has been recently introduced as a measure of the signal complexity that inspects different time scales. EEGs were recorded from 19 scalp electrodes in 8 AD patients and 8 control subjects and the MSE analysis was performed on each artefact-free EEG epoch. The MSE analysis of the data suggests a high degree of complexity and the presence of long time correlations in the EEG. Moreover, we found significant differences (p-value < 0.01, Student's t-test) between the MSE profile of control subjects and AD patients at 7 electrodes (Fp1, Fp2, T5, P3, P4, O1 and O2). We can infer from these findings that the MSE may be a useful tool to inspect the complexity of the EEG and, therefore, increase our knowledge of AD.
+
+Alzheimer's disease
+complexity
+electroencephalogram
+multiscale entropy
+time scales

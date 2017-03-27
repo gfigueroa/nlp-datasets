@@ -1,0 +1,11 @@
+We present a real space density functional theory localized basis set semiempirical pseudopotential (SEP) approach. The method is applied to iron and magnesium oxide, where bulk SEP and local spin density approximation band structure calculations are shown to agree within approximately 0.1 eV. Subsequently we investigate the qualitative transferability of bulk derived SEPs to Fe/MgO/Fe tunnel junctions. We find that the SEP method is particularly well suited to address the tight binding transferability problem because the transferability error at the interface can be characterized not only in orbital space (via the interface local density of states) but also in real space (via the system potential). To achieve a quantitative parameterization, we introduce the notion of ghost SEPs extracted from the first-principles calculated Fe/MgO bonding interface. Such interface corrections are shown to be particularly necessary for barrier widths in the range of 1 nm, where interface states on opposite sides of the barrier couple effectively and play an important role in the transmission characteristics. In general the results underscore the need for separate tight binding interface and bulk parameter sets when modeling conduction through thin heterojunctions on the nanoscale.
+
+ab initio calculations
+band structure
+density functional theory
+electronic density of states
+interface states
+iron
+magnesium compounds
+pseudopotential methods
+tunnelling magnetoresistance

@@ -1,0 +1,11 @@
+We conducted optical and electrical simulations with the goal of determining the optimal design for conjugated polymer-fullerene tandem solar cells using poly[2,6-(4,4-bis-(2-ethylhexyl)- 4H-cyclopenta[2,1-b;3,4-b2]dithiophene)-alt-4,7-(2,1,3-benzothiadiazole)] (PCPDTBT): [6,6]-phenyl C61 butyric acid methyl ester (PC61BM) as a bottom cell and poly(3-hexylthiophene) (P3HT): [6,6]-phenyl C71 butyric acid methyl ester (PC71BM) as a top cell. The effects of photon density, absorption, balanced and unbalanced charge carrier transport, and bimolecular recombination in the two subcells were incorporated into the simulations. We found that the maximum energy conversion efficiency (·) is 9% when charge carrier mobilities in both top and bottom cells are balanced. However, the efficiency drops significantly if the carrier mobilities are unbalanced in either the top or bottom cell. In addition, we found that unbalanced carrier mobilities in the top cell require a reduction in the thickness of the bottom cell whereas unbalanced bottom cell mobilities require an increase in the thickness of the bottom cell to compensate for the reduced current.
+
+carrier mobility
+conducting polymers
+fullerenes
+infrared spectra
+photoluminescence
+polymer blends
+solar cells
+ultraviolet spectra
+visible spectra

@@ -1,0 +1,6 @@
+The automatic leaf spring end eye forming machine is special equipment which is used for the trimming (or corner cutting) and end eye forming of leaf-spring. The control system and program has been developed. The Centralized control mode has been adopted by PLC in the machine. The control system software construction is the modular program type. Equipped with Electro-hydraulic servo-driven hydraulic cylinder and sensor with the properties of high precision and good linearity, all performing structures in the machine could locate and move and work in precision status. The control program of PLC could complete real-time controlling and testing in the machine form the leaf spring into and out furnace, trimming (or corner cutting), end eye forming to finished product palletization.
+
+Control system
+Eye forming machine
+Leaf sprinf
+PLC

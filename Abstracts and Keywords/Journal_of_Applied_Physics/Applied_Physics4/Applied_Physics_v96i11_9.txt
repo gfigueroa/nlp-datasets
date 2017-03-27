@@ -1,0 +1,13 @@
+We demonstrate controllable shift of the threshold voltage and the turn-on voltage in pentacene thin film transistors and rubrene single crystal field effect transistors (FET) by the use of nine organosilanes with different functional groups. Prior to depositing the organic semiconductors, the organosilanes were applied to the SiO2 gate insulator from solution and form a self-assembled monolayer (SAM). The observed shifts of the transfer characteristics range from 2to50V and can be related to the surface potential of the layer next to the transistor channel. Concomitantly the mobile charge carrier concentration at zero gate bias reaches up to 4×1012cm2. In the single crystal FETs the measured transfer characteristics are also shifted, while essentially maintaining the high quality of the subthreshold swing. The shift of the transfer characteristics is governed by the built-in electric field of the SAM and can be explained using a simple energy level diagram. In the thin film devices, the subthreshold region is broadened, indicating that the SAM creates additional trap states, whose density is estimated to be of order 1×1012cm2.
+
+organic semiconductors
+silicon compounds
+insulated gate field effect transistors
+thin film transistors
+semiconductor thin films
+surface potential
+monolayers
+self-assembly
+electron traps
+electronic density of states
+electron density

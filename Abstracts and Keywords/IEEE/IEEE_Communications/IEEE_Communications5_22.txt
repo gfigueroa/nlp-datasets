@@ -1,0 +1,8 @@
+This system proposes Indian-logic ontology based Context-aware Query Refinement model to support context-sensitive semantic search in keyword based search engine. This is by formulating effective query using Indian logic based Ontology for Context identification to overcome ambiguous query terms and increase the relevancy of documents retrieved. Here we propose Indian-Logic based Context Ontology for Context representation of ambiguous keywords along with Domain Ontology for complete domain knowledge. This system effectively uses these ontologies to identify the context and iteratively refine the query. This system visualizes results based on ontology to easily obtain an overall picture of the types of results obtained and also gives indication of relationships and subcategories within the refined results. The experiment result shows that our proposed method shows better precision compared over normal search engine results.
+
+Indian-logic ontology
+context
+ontology
+query expansion
+query refinement
+web-search

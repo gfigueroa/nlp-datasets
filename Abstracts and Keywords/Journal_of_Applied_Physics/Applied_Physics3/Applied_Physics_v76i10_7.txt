@@ -1,0 +1,11 @@
+Halleffect and deeplevel transient spectroscopy measurements have been performed on GaAs epilayers grown by organometallic vaporphase epitaxy and intentionally doped with diethyltellurium and dimethylaluminum methoxide (DMAlMO). The DMAlMO doping was observed to compensate shallow tellurium donors for concentrations as high as 1019 cm3, producing fully compensated highresistivity epilayers. Seven DMAlMOinduced deep levels have been observed in the GaAs band gap with activation energies of 0.25, 0.30, 0.37, 0.40, 0.58, 0.74, and 0.93 eV. Less than 5% of all oxygen atoms were present in the layer in the form of isolated offcenter substitutional oxygen corresponding to the 0.58 eV level. The major traps located at 0.74 and 0.93 eV below the conduction band have been attributed to complexes of aluminum and oxygen involving two and one aluminum atoms, respectively. Both of these levels are deep acceptors responsible for the compensation of shallow donors.
+
+GALLIUM ARSENIDES
+VPE
+EPITAXIAL LAYERS
+DONORS
+CHARGE COMPENSATION
+DOPED MATERIALS
+HALL EFFECT
+DLTS
+DEEP ENERGY LEVELS

@@ -1,0 +1,6 @@
+The energy distribution of electrons that were transported through a thin intrinsic AlN film was directly measured as a function of the applied field. The measurements were realized by extracting the electrons into vacuum through a semitransparent Au contact and measuring their energies using an electron spectrometer. At moderate applied fields (100 kV/cm), the energy distribution was found to follow a Maxwellian model corresponding to a temperature of 2700 K and a drift component below the spectrometer resolution. At higher fields, intervalley scattering was evidenced by the presence of a second peak at 0.7 eV. This coincides well with the energy position of the LM valleys in AlN. © 2000 American Institute of Physics. 
+
+hot carriers
+III-V semiconductors
+aluminium compounds
+wide band gap semiconductors

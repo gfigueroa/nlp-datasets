@@ -1,0 +1,6 @@
+Monitoring and analyzing the fatigue and attention state by using the machine vision is one of hotspots in the assistant safe driving system. The idea of face and face organ location is introduced firstly and the techniques for driver face orientation in this system are discussed mostly and then a strategy is used for judging whether the driver's attention is disturbed or not; Based on analyzing the head rotary motion, an algorithm for calculating the facial rotary angle of drivers is proposed. Practice proves that the algorithm proposed acts in real time and obtains excellent effect, which provide more accurate basis for analyzing of the driver's attention state.
+
+Driver Behavior Surveillance
+Face Orientation
+Machine Vision
+Real-Time

@@ -1,0 +1,9 @@
+It has been found that CuInSe2 polycrystalline material suitable for photoelectrochemical cells can be produced from low grade In, Se, and Cu. Lowenergy electron diffraction (LEED) measurements on these samples show that well ordered (112) surfaces can be produced after 35 min Ar ion bombardment at <8 ¼A cm2, 600 eV, followed by 30 min anneal at temperatures as low as 320	°C. Extra LEED spots are visible at some energies, indicating a clean surface but with possible nonstoichiometric areas. No effects of oxygen are observed at exposures up to 326×103 L.
+
+COPPER SELENIDES
+INDIUM SELENIDES
+CRYSTAL GROWTH
+PHOTOELECTROCHEMICAL CELLS
+MATERIALS
+ELECTRON DIFFRACTION
+SURFACE PROPERTIES

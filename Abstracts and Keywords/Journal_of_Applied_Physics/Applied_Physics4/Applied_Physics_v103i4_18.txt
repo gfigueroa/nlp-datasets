@@ -1,0 +1,10 @@
+Based on the experimental responsivity of single-period GaN/AlGaN midinfrared (MIR) heterojunction interfacial work-function internal photoemission (HEIWIP) detectors, we have optimized in detail the single- and multiperiod GaN/AlGaN MIR HEIWIPs to enhance the light absorption in the detectors. The yielded parameters of emitter, intrinsic, and bottom contact layers could achieve large improvement of the MIR peak absorption efficiency in the multiperiod GaN/AlGaN MIR HEIWIPs. Employing the concept of photon frequency upconversion, we have further investigated the realization of MIR pixel-less upconversion imaging through the integration of GaN/AlGaN MIR HEIWIP with a GaN/AlGaN violet light-emitting diode (LED). Under the optimized device structures, good imaging characteristics and high upconversion efficiency could be expected in the GaN/AlGaN HEIWIP-LED MIR upconverter.
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+infrared detectors
+light emitting diodes
+photodetectors
+semiconductor heterojunctions
+wide band gap semiconductors

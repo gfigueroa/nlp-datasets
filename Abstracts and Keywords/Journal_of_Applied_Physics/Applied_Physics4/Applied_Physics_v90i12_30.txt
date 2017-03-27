@@ -1,0 +1,11 @@
+SmCo particles have been produced in a W matrix by annealing sputtered SmCo/W multilayers with layer thicknesses of 528 nm at temperatures of 600850
+°C. The SmCo particles had the intermetallic 1:7 and 2:17 structures with sizes below 10 nm and coercivities in the range of 210 kOe. A reduction of magnetization with prolonged annealing has been observed and attributed to alloying of Co with both W and Si by interdiffusion through the W layer. © 2001 American Institute of Physics. 
+
+samarium alloys
+cobalt alloys
+nanostructured materials
+annealing
+coercive force
+chemical interdiffusion
+tungsten
+multilayers

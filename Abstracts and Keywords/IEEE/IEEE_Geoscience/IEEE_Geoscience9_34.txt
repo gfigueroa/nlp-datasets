@@ -1,0 +1,7 @@
+The paper focuses on the importance of demand management and load control for the development of electric power system and the provision of electricity supply reliability. The potential of controllable loads in Russia is estimated including electric vehicle transport, climate systems, household, industrial and agricultural consumers. The potential and optimal volumes of perspective controllable loads in Russia by 2030 are estimated.
+
+controllable load
+demand side management
+electric power system
+electricity supply reliability
+load control

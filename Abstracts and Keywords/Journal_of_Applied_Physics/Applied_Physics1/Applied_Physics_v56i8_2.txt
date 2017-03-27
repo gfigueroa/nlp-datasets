@@ -1,0 +1,10 @@
+Electron mobility and electron concentration have been measured in epitaxial heavilyPdoped Si grown from a SiH4/PH3 system. The electron concentration range covered is from 1.8×1019 to 1.7×1020 cm3. Mobility measurements agree within 4% with previous experimental data from W. R. Thurber, R. L. Mattis, Y. M. Liu, and J. J. Filliben [J. Electrochem. Soc. 127, 1807 (1980)] in asgrown material, and G. Masetti, M. Severi, and S. Solmi [IEEE Trans. Electron. Devices ED30, 764 (1983)] in diffused, and in implanted and annealed Si. The electrical resistivity versus electron concentration also agrees within 5% with these other data. Full activation of P is found up to the highest doping level of 1.7×1020 cm3.
+
+SILICON
+DOPED MATERIALS
+PHOSPHORUS ADDITIONS
+ELECTRON DENSITY
+ELECTRON MOBILITY
+ELECTRIC CONDUCTIVITY
+QUANTITY RATIO
+EPITAXY

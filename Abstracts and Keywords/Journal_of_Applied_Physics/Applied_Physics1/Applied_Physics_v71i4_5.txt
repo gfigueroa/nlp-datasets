@@ -1,0 +1,14 @@
+Nonlatticematched GaxIn1xAs/AlyIn1yAs modulationdoped heterostructures grown on (100) InP by molecularbeam epitaxy suitable for application in fieldeffect transistors have been studied. A computer simulation of the xray diffraction pattern proves to be necessary to obtain precise information about the structural parameters of the samples. The high crystal quality of our samples is demonstrated by the excellent agreement between experimental and simulated xraydiffraction curves. The transport characteristics of Ga0.38In0.62As/AlyIn1yAs heterostructures including the evolution of the mobility and of the twodimensional electrongas density with temperature and structural parameters are discussed in relation with the relevant scattering mechanisms. The use of a thin spacer layer makes it possible to obtain very high conductivities. Both xray and transport measurements show that the strained GaxIn1xAs layers are pseudomorphic well above the critical thickness calculated with the mechanical equilibrium model. The highest mobilities (13	100 and 103	000 cm2	V1	s1 at 300 and 4 K, respectively), obtained with a sheet carrier density of 1.7×1012 cm2, are measured on a Ga0.38In0.62As/Al0.51In0.49As heterostructure. They are among the best values reported so far for similar structures.
+
+HETEROSTRUCTURES
+MOLECULAR BEAM EPITAXY
+DOPED MATERIALS
+CRYSTAL STRUCTURE
+TRANSPORT PROCESSES
+MODULATION
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+ALUMINIUM ARSENIDES
+QUASIBINARY COMPOUNDS
+XRAY DIFFRACTION ANALYSIS
+COMPUTERIZED SIMULATION

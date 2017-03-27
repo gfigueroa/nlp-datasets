@@ -1,0 +1,15 @@
+The growth kinetics of amorphous interlayers (a interlayers) formed by solid-state diffusion in ultrahigh vacuum deposited polycrystalline Ti thin films on germanium and epitaxial Si1xGex (x=0.3, 0.4 and 0.7) alloys grown on (001) Si and (111) Ge has been investigated by transmission electron microscopy and Auger electron spectroscopy. The growth of a interlayers in all systems was found to follow a linear growth behavior initially. The activation energies for the linear growth of a interlayers were found to decrease with the Ge content and are 1.0±0.2, 0.95±0.2, 0.85±0.2, and 0.7±0.2
+eV for Ti/Si0.7Ge0.3, Ti/Si0.6Ge0.4, Ti/Si0.3Ge0.7, and Ti/Ge systems, respectively. The maximum thickness of a interlayer was found to increase with the Ge content with x}0.4. On the other hand, the formation temperature of crystalline phase was observed to decrease with the Ge content. Essential factors for the formation and growth of a interlayer are discussed. The results are compared with the Ti/Si system. © 2001 American Institute of Physics.
+
+titanium
+Ge-Si alloys
+semiconductor materials
+semiconductor-metal boundaries
+chemical interdiffusion
+metallic thin films
+semiconductor epitaxial layers
+vacuum deposited coatings
+transmission electron microscopy
+Auger electron spectra
+amorphous state
+interface structure

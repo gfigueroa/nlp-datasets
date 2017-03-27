@@ -1,0 +1,10 @@
+Stable compounds in microwave plasmas of various source gases for vaporphase diamond growth have been measured by using in situ Fourier transform infrared spectroscopy. Each gas mixture of CH4+H2, C2H2+H2, C2H4+H2, CH3OH+H2, C2H5OH+H2, CO+H2, CCl4+H2, and CH4+O2+H2 was introduced into the plasma discharge region as a source gas. The detected carbonaceous compounds were CH4, C2H2, C2H4, and CO, and no other carbonaceous compounds were observed. CH4 and C2H2 were observed in plasmas of all source gases, whereas C2H4 was detected only at higher concentrations of carbonaceous compounds in source gases. CO was produced from source molecules containing oxygen atoms. The source molecules of CH3OH, C2H5OH, and CCl4 disappeared in the microwave plasma. Concentrations of products in the plasmas of CH4+H2, C2H2+H2, and C2H4+H2 were very similar. This result suggests that an equilibrium among CH4, C2H2, C2H4, H2, H, electrons, and various radicals is kept in the hydrogen excess plasma. Moreover, it was found that the addition of O2 to the CH4+H2 plasma reduced the concentrations of CH4 and C2H2 in the plasma.
+
+PLASMA
+CARBONACEOUS MATERIALS
+DIAMONDS
+CRYSTAL GROWTH
+FOURIER TRANSFORM SPECTROSCOPY
+CHEMICAL COMPOSITION
+INSITU PROCESSING
+HIGHFREQUENCY DISCHARGES

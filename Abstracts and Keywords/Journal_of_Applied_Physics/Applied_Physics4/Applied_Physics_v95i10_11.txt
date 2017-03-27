@@ -1,0 +1,10 @@
+Films of well-ordered crystalline copper oxide (CuO) nanofibril arrays were synthesized using a procedure involving electrodeposition followed by a gas-solid reaction. Analyses showed that the nanocrystalline CuO nanofibrils with a mean length of 8 ¼m have an average density of 107108/cm2. Photoluminescence measurements showed a main peak in the visible light band at 410 nm, and the band gap energy was estimated to be 1.67 eV. It was found that the film of aligned CuO nanofibrils has typical FowlerNordheim plots in the follow-up electron field emission test. Typical turn-on voltage was detected at <6 V/¼m with an emission area of 1 mm2. The FowlerNordheim model was employed to analyze the IV data obtained. The work function of the nanofibrils was estimated to be in the range of 4.14.3 eV. © 2004 American Institute of Physics. 
+
+copper compounds
+nanostructured materials
+thin films
+nanoparticles
+electrodeposition
+photoluminescence
+energy gap
+electron field emission

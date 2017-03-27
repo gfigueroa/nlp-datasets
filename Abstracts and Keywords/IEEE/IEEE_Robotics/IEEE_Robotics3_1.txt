@@ -1,0 +1,6 @@
+Economic, technology and environmental incentives are changing the features of electricity generation and transmission. Centralized power systems are giving way to local scale distributed generations. At present, there is a need to assess the effects of large numbers of distributed generators and short-term storage in Microgrid. A Matlab/Simulink based flywheel energy storage model will be presented in details. The corresponding control philosophy has been well studied. Simulation results show the accurate dynamic behavior of flywheel unit during charge and discharge modes. The flywheel unit is fully compatible with the existing Microgrid testbed.
+
+Energy Storage
+Flywheel
+Microgrid
+Renewable Energy

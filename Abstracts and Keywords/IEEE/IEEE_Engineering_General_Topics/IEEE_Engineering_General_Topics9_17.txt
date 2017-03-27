@@ -1,0 +1,6 @@
+In this paper we examine the distortion-rate (D-R) performance of two competing approaches for error-resilient transmission of scalable sources over error-prone packet-based memoryless channels. Thereby, we consider scalable joint source-channel coding (JSCC) based on forward error correction (FEC) and scalable multiple description coding (MDC). Our analysis considers memoryless Gaussian input sources encoded using source coders that can achieve theoretical performance bounds. This input source model is independent of actual implementations of the source coders and therefore allows drawing conclusions on the theoretical D-R performance of both approaches. Our comparative analysis indicates that in matched channel conditions, the use of an optimized FEC-based JSCC approach yields significantly better error resilience compared to the use of scalable MDC. Moreover, it is shown that in mismatched conditions a scalable JSCC approach has the potential to outperform a scalable MDC approach.
+
+Scalable source coding
+error resilience
+forward error correction
+multiple description coding

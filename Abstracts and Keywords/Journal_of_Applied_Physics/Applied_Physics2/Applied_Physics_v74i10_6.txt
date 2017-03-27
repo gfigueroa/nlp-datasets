@@ -1,0 +1,14 @@
+Ceramic/polymer composites made of calciummodified lead titanate grains in the matrix of a copolymer of vinylidene fluoride and trifluorethylene, in a 65:35 volume fraction percentage, respectively, were produced in order to obtain mechanically strong ferroelectric films with improved piezo and pyroelectric properties. Their poling behavior was studied using a modified ferroelectric hysteresis measurement setup that allowed for the measurement of the remanent polarization Pr and coercive field Ec, as a function of the peak of the sinusoidal applied field, the frequency of the excitation, and the poling temperature. The ranges of variation of the electric field, frequency, and temperature were from 5 to 25 MV/m, from 0.04 to 2 Hz, and from 50 to 120	°C, respectively. Estimates of the activation field and saturation polarization were calculated based on these measurements. The observed properties in the ferroelectric composites were then compared and correlated with the properties of the ceramic material.
+
+FERROELECTRIC MATERIALS
+COMPOSITE MATERIALS
+HYSTERESIS
+CERAMICS
+COPOLYMERS
+LEAD TITANATES
+CALCIUM ADDITIONS
+FILMS
+PIEZOELECTRICITY
+PYROELECTRICITY
+TEMPERATURE RANGE 273400 K
+HZ RANGE

@@ -1,0 +1,6 @@
+The generation of a spin-polarized electric current is one of the key issues in the field of semiconductor spintronics. We show by numerical simulation that a three-terminal conductor with an antidot potential at the junction can be used as a spin filter. In addition, one can control the direction of spin polarization by changing the Fermi energy with respect to the height of antidot potential. This is understood by the interplay between spin-orbit coupling and the curvature of the potential. We also investigate the effect of disorder and an asymmetric confinement potential in order to clarify the validity of the spin filter.
+
+Fermi level
+magnetoelectronics
+spin polarised transport
+spin-orbit interactions

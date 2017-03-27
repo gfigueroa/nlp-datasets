@@ -1,0 +1,9 @@
+We investigate in this paper a photomemory effect in the photocurrent of semiinsulating GaAs when it is illuminated with photons ranging from 1 to 1.35 eV. We observe a strong enhancement of the photocurrent after long excitation with those photons, which is thermally quenched between 123 and 135 K. We explain this phenomenon by a defect reaction, dealing with the association of two or more complex defects, as a result of the electrostatic interaction between the original defects when their charge state is changed by means of the illumination. The formation of this complex drives the sample into a highsensitivity state, which we have called onstate. The dissociation of the photogenerated complex defect, due to thermal emission of electrons to the conduction band, restores the crystal into its normal photosensitivity state, which we have called offstate.
+
+PHOTOCURRENTS
+GALLIUM ARSENIDES
+CRYSTAL DEFECTS
+PHOTOSENSITIVITY
+CONDUCTION BANDS
+IMPURITIES
+VISIBLE RADIATION

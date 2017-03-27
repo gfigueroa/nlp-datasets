@@ -1,0 +1,9 @@
+A photovoltaic device based on an intermediate electronic band located within the otherwise conventional band gap of a semiconductor, the so-called intermediate band solar cell (IBSC), has been proposed for a better utilization of the solar spectrum. Experimental IBSC devices have been engineered using quantum dot technology, but their practical implementation results in a departure of key underpinning theoretical principles, assumed to describe the operation of the IBSC, away from the ideal. Two principles which are only partially fulfilled are that (i) the intermediate band should be half filled with electrons and (ii) the region containing the quantum dots should not be located fully within the junction depletion region. A model to describe the operation of the devices under these nonidealized conditions is presented and is used to interpret experimental results for IBSCs with ten layers of quantum dots. Values for the electron and hole lifetimes, associated with recombination from the conduction band to the intermediate band and from the intermediate band to the valence band (0.5 and 40ps, respectively) are thus obtained.
+
+solar cells
+space charge
+semiconductor quantum dots
+carrier lifetime
+electron-hole recombination
+conduction bands
+valence bands

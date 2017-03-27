@@ -1,0 +1,10 @@
+An analytic atomic independent particle model potential adjusted to experimental singleparticle energy levels is used to generate wave functions for the valence and excited states of chlorine. Using these wave functions in conjunction with the Born approximation and LS coupling, we calculate generalized oscillator strengths and integrated cross sections up to 5 keV for various electron impact excitations from the 1s2 2s2 2p6 3s2 3p5(2P3/2) ground state.
+
+CROSS SECTIONS
+EXCITATION
+CHLORINE
+ELECTRONATOM COLLISIONS
+THEORETICAL DATA
+BORN APPROXIMATION
+EXCITED STATES
+OSCILLATOR STRENGTHS

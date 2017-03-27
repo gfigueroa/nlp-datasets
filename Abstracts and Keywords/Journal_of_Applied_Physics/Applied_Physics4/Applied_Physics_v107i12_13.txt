@@ -1,0 +1,10 @@
+Measurements of the magnetic susceptibility, electrical resistivity, and heat capacity are reported for the polycrystalline YbNiAl4 intermetallic compound. Ç(T) has been measured up to 1000 K and its behavior is typical of a compound with the valence fluctuation between Yb3+ and Yb2+. This is especially evident from a broad maximum observed at 400 K and interpreted in frames of the interconfiguration fluctuation model. The Sommerfeld coefficient derived from the heat capacity measurements takes a small value of ³ = 16mJ	mol1	K2. The low temperature resistivity follows the AT2 dependence characteristic of a Fermi liquid.
+
+aluminium alloys
+electrical resistivity
+Fermi liquid
+magnetic susceptibility
+mixed valence compounds
+nickel alloys
+specific heat
+ytterbium alloys

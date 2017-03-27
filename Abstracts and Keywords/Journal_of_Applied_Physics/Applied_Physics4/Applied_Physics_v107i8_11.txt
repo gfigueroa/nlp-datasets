@@ -1,0 +1,8 @@
+Mn-doped Bi(Mg1/2Ti1/2)PbTiO3 disordered ferroelectric ceramics were studied under ac electric fields and a crossover from a nearly constant loss to a superlinear power-law behavior was observed. Our results confirmed that the nearly constant loss behavior also exists in disordered ferroelectrics. The exponent of the superlinear power-law was found to be temperature dependent. Such a behavior was related to the local movements of oxygen vacancies.
+
+bismuth compounds
+ferroelectric ceramics
+lead compounds
+manganese
+permittivity
+vacancies (crystal)

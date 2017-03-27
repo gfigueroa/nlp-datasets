@@ -1,0 +1,4 @@
+This paper will discuss about the performance of cellular system using bunched concept. In a bunch, a limited number of remote antenna units are connected to central unit. They are connected through a high speed communication link using fiber optics. The concept can be implemented easily since only remote antenna unit will be in the coverage area. Using Matlab software, a simulation scenario was developed based on Manhattan grid topology. This paper discuss the performance of cellular in terms of the grade of service for different channel assignment either DCA or FCA scheme.
+
+Bunched Concept
+radio propagation

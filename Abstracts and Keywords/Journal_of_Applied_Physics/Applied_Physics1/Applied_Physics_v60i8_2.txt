@@ -1,0 +1,14 @@
+High and low densities of 300keV Ag atoms were implanted into (100) and (111) crystalline and selfamorphized Si, and annealed at temperatures from 100 to 900	°C and for various times. Silver depth distributions were profiled using secondary ion mass spectrometry. Regrowth locations and rates of the various damaged regions were measured with good sensitivity via the Ag profiles, which resulted from the retention of Ag atoms by defect complexes and their release upon annihilation of the defect complexes during annealing. The following results were obtained for (100) Si: regrowth toward the surface of the 0.3¼mthick amorphized layer beginning at about 450	°C, up to 650	°C, with a regrowth rate of (18±2) Å/°C or 5.2 Å/min at 530	°C; regrowth of the amorphouscrystalline interface region at 850	°C at a rate of (8±1) Å/min. The presence of 2×1019 cm3 Ag atoms retards the regrowth rate of (100) Si by a factor of 2. Two separate, but closely spaced regions of residual damage in the amorphouscrystalline interface region were revealed. Regrowth of (111) Si occurs uniformily in depth throughout the amorphized region, consistent with the growth of polycrystalline or microtwinned Si in this region as seen by transmission electron microscopy.
+
+DEPTH PROFILES
+SILICON
+AMORPHOUS STATE
+TRANSMISSION ELECTRON MICROSCOPY
+SILVER
+DOPING PROFILES
+DAMAGE
+ION IMPLANTATION
+RECRYSTALLIZATION
+SIMS
+INTERFACES
+THICKNESS

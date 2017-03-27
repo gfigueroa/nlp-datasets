@@ -1,0 +1,7 @@
+We present Juxtaposed approximate PageRank (JXP), a distributed algorithm for computing PageRank-style authority scores of Web pages on a peer-to-peer (P2P) network. Unlike previous algorithms, JXP allows peers to have overlapping content and requires no a priori knowledge of other peers' content. Our algorithm combines locally computed authority scores with information obtained from other peers by means of random meetings among the peers in the network. This computation is based on a Markov-chain state-lumping technique, and iteratively approximates global authority scores. The algorithm scales with the number of peers in the network and we show that the JXP scores converge to the true PageRank scores that one would obtain with a centralized algorithm. Finally, we show how to deal with misbehaving peers by extending JXP with a reputation model.
+
+Link analysis
+Markov chain aggregation
+Peer-to-peer systems
+Social reputation
+Web graph

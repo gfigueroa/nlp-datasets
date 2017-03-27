@@ -1,0 +1,8 @@
+A three-dimensional constitutive model for polarization switching in ferroelectric ceramics is presented and implemented into a finite element code. The developed code is applied to investigate the nucleation and growth of domains in a ferroelectric thin film. Initially the thin film is completely poled upward and its bottom electrode is grounded. Then a point on the top surface of the film is subjected to a constant positive electric potential for a certain period of time, leading to a polarization switching downward. The distribution of electric field is not homogeneous within the film and so neither the distribution of polarization. It is found that initially the switched zone is of a dagger shape but after the switched zone penetrates the film thickness it changes to the shape of a reversed cup with the lower part wider that the upper part. It is also observed that the width of switched zone increases with the period and magnitude of applied potential. The predictions are qualitatively compared with experimental observations. © 2003 American Institute of Physics. 
+
+ferroelectric ceramics
+ferroelectric thin films
+electric domains
+ferroelectric switching
+dielectric polarisation
+finite element analysis

@@ -1,0 +1,11 @@
+Oxide films of BaTiO3 and MgO were deposited on SrTiO3 single crystal substrates by laser molecular beam epitaxy. Reflection high-energy electron diffraction was performed in situ to investigate the change of growth mode and the lattice relaxation. Due to the different mismatches between epitaxial oxide films and substrates, two kinds of strain relaxation behavior during the growth process can be observed. For the BaTiO3/SrTiO3 system with the small mismatch of 2.18%, the coherent epitaxial growth can be maintained within the critical thickness. The experimental data were well in accord with the elastic strain theory in the small mismatch system. The coherent epitaxial growth is crucial to fabricate the functional oxide superlattice. However, strained island can form at the initial period to release strain energy in the case of MgO/SrTiO3 system with the large mismatch of 7.8%. It provides a useful practical method to realize self-organized nanostructures by introducing the moderate strain at interface. Our systematic study on the interface strain of functional oxide heteroepitaxial growth could give an instructive method to realize different heterostructures, e.g., superlattice and nanostructures.
+
+barium compounds
+magnesium compounds
+superlattices
+molecular beam epitaxial growth
+reflection high energy electron diffraction
+stress relaxation
+elasticity
+nanostructured materials
+interface structure

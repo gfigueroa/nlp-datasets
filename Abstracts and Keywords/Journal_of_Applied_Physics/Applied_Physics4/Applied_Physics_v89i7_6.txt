@@ -1,0 +1,8 @@
+The magneto-optical and optical properties of GdFe single layer films, which are covered with a thin Si3N4 layer, were studied in the visible wavelength region. A Kerr rotation peak and a reflectivity drop were observed near 4.1 eV in GdFe alloyed films and attributed to the Gd element. Compared with the single thick GdFe film, the Kerr effect of SiN/GdFe bilayers was enhanced, due to the optical interference between Si3N4 and GdFe. The Kerr rotation of GdFe films showed a nonlinear function of the compositions in the whole measured wavelength range. Magneto-optical measurements directly evidence the spinflip in the GdFe films as the Gd content increased from 20.7 to 24.2at.
+%, which showed advantages over conventional magnetometry. © 2001 American Institute of Physics. 
+
+lithium compounds
+indium
+ferroelectric materials
+optical harmonic generation
+nonlinear optical susceptibility

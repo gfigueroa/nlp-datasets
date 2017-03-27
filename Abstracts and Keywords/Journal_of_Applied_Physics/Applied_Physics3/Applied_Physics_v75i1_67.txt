@@ -1,0 +1,9 @@
+Internal collection efficiency of solar cells is calculated as a function of depletion width, minoritycarrier diffusion length, solar spectrum, and absorption coefficient. Particular attention is given to the variation of depletion width with voltage, which may reduce collection efficiency by a few percent at operating voltages and may be misinterpreted as a shunting effect. Calculations of collectionefficiency magnitude and voltage dependence, plus comparisons with experiment, are presented for several types of solar cells. Primary emphasis is placed on polycrystalline thinfilm cells with relatively short diffusion lengths and hence potentially more pronounced collection efficiency effects. 	
+
+SOLAR CELLS
+EFFICIENCY
+VOLTAGE DEPENDENCE
+DIFFUSION LENGTH
+DEPLETION LAYERS
+POLYCRYSTALS
+THIN FILMS

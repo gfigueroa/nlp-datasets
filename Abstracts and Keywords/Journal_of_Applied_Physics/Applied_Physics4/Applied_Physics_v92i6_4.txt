@@ -1,0 +1,7 @@
+We have studied, by means of a Monte Carlo simulation, data propagation in quantum cellular automaton circuits, comparing the performance of nonclocked and clocked implementations. Based on two choices of fabrication parameters, we have evaluated the maximum achievable clock speed for different operating temperatures, concluding that better performance can be obtained with the clocked architecture, which, however, involves significant technological difficulties. The large discrepancy existing between a simple estimate of the cell switching time, based on the RC time constant, and our results is discussed and explained by means of an intuitive argument. Two different circuits have been investigated, a binary wire and a majority voting gate, obtaining analogous results, with a slightly smaller maximum clock rate for the majority voting gate, due to the larger number of cells involved. © 2002 American Institute of Physics. 
+
+cellular automata
+quantum gates
+majority logic
+circuit simulation
+Monte Carlo methods

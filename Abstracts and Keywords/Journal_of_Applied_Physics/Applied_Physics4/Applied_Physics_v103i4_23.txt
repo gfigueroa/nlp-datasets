@@ -1,0 +1,12 @@
+The Nd49Al13Ni38 amorphous alloy has been prepared by melt-spinning in the form of ribbons. Its magnetic properties have been investigated via superconducting quantum interference device magnetometry and its magnetic phase diagram was established. Hysteresis and temperature-dependent magnetization measurements show the occurrence of a reentrant spin-glass behavior on cooling. With increasing applied field, the spin-freezing temperature decreases and disappears at very high field, and the Curie temperature increases, broadening the temperature range of the ferromagnetic state. The resulting magnetocaloric effect was evaluated and compared to other interesting magnetic refrigerant materials.
+
+aluminium alloys
+amorphous magnetic materials
+Curie temperature
+ferrimagnetic materials
+magnetic hysteresis
+magnetocaloric effects
+melt spinning
+neodymium alloys
+nickel alloys
+spin glasses

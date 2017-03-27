@@ -1,0 +1,14 @@
+The impact of metaloxidesemiconductor processing on strained Si/SiGe device structures has been examined. Material was grown by gas-source molecular beam epitaxy and ultra low pressure chemical vapor deposition, with different as-grown surface roughness. The effects of RCA cleaning, gate oxidation and rapid thermal annealing on this material were studied by atomic force microscopy (AFM) and optical profilometry. Certain processes caused reactions common to both material types, whereas others yielded dissimilar responses. Filtering AFM roughness data of specific wavelengths enabled the effects of processing on large-scale surface roughness dominated by the cross-hatching morphology and smaller scale microroughness to be investigated. The results suggest that as-grown Si/SiGe material quality is not a good indicator of processed device performance, rather morphological changes which occur during processing must be considered. © 2002 American Institute of Physics.
+
+silicon
+elemental semiconductors
+Ge-Si alloys
+semiconductor materials
+semiconductor epitaxial layers
+semiconductor heterojunctions
+surface topography
+surface cleaning
+rapid thermal annealing
+atomic force microscopy
+oxidation
+MIS structures

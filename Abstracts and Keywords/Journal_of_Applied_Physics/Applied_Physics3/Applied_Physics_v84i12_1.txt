@@ -1,0 +1,11 @@
+We have investigated the photoluminescence (PL) properties of Zn1xMgxSe epilayers grown on GaAs substrates with different misorientation angles by molecular beam epitaxy. According to the data measured by PL and by electron-probe microanalysis, the Mg incorporation in the Zn1xMgxSe epilayer decreases with increasing misorientation angle. In addition, the PL spectra showed that the full width at half maxima of the band-edge excitonic emission and the intensity of the defect-related donor-acceptor emission in Zn1xMgxSe epilayers decreased appreciably when a substrate with a misorientation angle of 15° was used. © 1998 American Institute of Physics. 
+
+photoluminescence
+semiconductor epitaxial layers
+zinc compounds
+magnesium compounds
+electron probe analysis
+spectral line breadth
+defect states
+impurity states
+excitons

@@ -1,0 +1,11 @@
+RFe2 laves phase intermetallic compounds are promising materials for magnetostrictive applications. To obtain a larger magnetostriction in a low magnetic field, the influence of boron addition on the giant magnetostriction of an amorphous (SmFe2) (1x) at.	% B (x) at.	% alloy has been examined. In the amorphous alloy, the saturation magnetostriction anomalously increases, while the saturation magnetization decreases with the increase in x. The highest saturation magnetostriction of 670×106 at 10 kOe and its effective magnetostriction of 490×106 at 0.3 kOe can be obtained for amorphous (SmFe2) 99.26	at. % B 0.74	at. % alloy. This effective giant magnetostriction obtained in a low magnetic field is larger than those reported in previous researches. I attribute this anomalous giant magnetostriction in a low magnetic field to the increment of elastic energy in the amorphous (SmFe2) (1x) at.	% B (x) at.	% alloy.
+
+SAMARIUM ALLOYS
+IRON ALLOYS
+BINARY ALLOYS
+LAVES PHASES
+BORON ADDITIONS
+MAGNETOSTRICTION
+AMORPHOUS STATE
+ANOMALOUS PROPERTIES
+ELASTICITY

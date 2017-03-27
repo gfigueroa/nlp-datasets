@@ -1,0 +1,11 @@
+The role of interface-optical (IO) phonons in tunneling through an asymmetric double barrier structure in a magnetic field perpendicular to the barriers is studied. The phonon-assisted tunneling current densities are calculated and the numerical results for typical AlxGa1xAs/GaAs/AlyGa1yAs structures are given. The theoretical results show that the applied magnetic field sharpens and heightens the phonon-assisted tunneling peaks in agreement with experimental observations. In contrast to previous work, the calculated IO phonon-assisted tunneling current peak occurs at the energy the same as that of the bulk GaAs longitudinal-optical (LO) phonon energy. The IO phonon-assisted tunneling is much more important than the confined LO phonon-assisted tunneling. The phonon-assisted tunneling currents are sensitive to the thickness of the emitter barrier. Only one phonon-assisted tunneling peak can be easily observed for the wider well case. © 2002 American Institute of Physics. 
+
+aluminium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor heterojunctions
+interface phonons
+tunnelling
+magnetoresistance
+current density
+electron-phonon interactions

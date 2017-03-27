@@ -1,0 +1,11 @@
+Thin Ni films on GaN were annealed at temperatures between 400 and 900	°C in N2, Ar, and forming gas and were analyzed using glancing angle x-ray diffraction and Auger depth profiling. The first indication of an interfacial reaction was found after an anneal at 600	°C for 1 h, after which Ga was observed to be dissolved in the face-centered cubic Ni film. The extent of dissolution increased with continued annealing. After annealing at 750	°C for 1 hr in either N2 or Ar, greater intermixing occurred. The reaction product was either Ni3Ga or face-centered cubic Ni with dissolved Ga. Annealing at 900	°C resulted in the formation of the B2 phase NiGa. It was clear from Auger depth profiles that the reacted film contained significantly more Ga than N and that N2 gas was released to the annealing environment, even when the samples were annealed in N2 gas at 1 atm. Thus, a trend of increasing Ga content in the reacted films was observed with increasing temperature. The observed reactions are consistent with the thermodynamics of the NiGaN system. © 1997 American Institute of Physics.
+
+nickel
+metallic thin films
+semiconductor-metal boundaries
+annealing
+X-ray diffraction
+Auger effect
+surface chemistry
+gallium compounds
+III-V semiconductors

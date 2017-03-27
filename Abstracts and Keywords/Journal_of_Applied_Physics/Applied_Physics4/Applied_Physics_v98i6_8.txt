@@ -1,0 +1,21 @@
+6at.	% Al-doped Ba0.6Sr0.4TiO3 (BSTA) thin films were grown on Ir/MgO-buffered Si(001) substrates by in situ pulsed-laser deposition techniques. All-epitaxial growth of BSTA/Ir/MgO/Si(001) heterostructures with layer-by-layer mode was evidenced by in situ reflection high-energy electron-diffraction observation and x-ray diffraction. The epitaxy relationship was determined as: BSTA100	Ir100	MgO100	Si100	 (in-plane) and BSTA(001)Ir(001)MgO(001)Si(001) (out-of-plane). The BSTA thin films exhibit an extremely smooth surface with a roughness of RMS = 0.89nm. The largely reduced leakage current for BSTA thin films, which was dominated by the Schottky emission mechanism, might be attributed to combination effects of the crystal-structure-perfection and acceptor Al doping. Moreover, the BSTA thin films show good dielectric properties at low-frequency regime.
+
+barium compounds
+strontium compounds
+aluminium
+silicon
+iridium
+magnesium compounds
+dielectric materials
+dielectric thin films
+elemental semiconductors
+pulsed laser deposition
+vapour phase epitaxial growth
+leakage currents
+doping
+reflection high energy electron diffraction
+X-ray diffraction
+surface roughness
+Schottky effect
+crystal structure
+semiconductor-insulator boundaries

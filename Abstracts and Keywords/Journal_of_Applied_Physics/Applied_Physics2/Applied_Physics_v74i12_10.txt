@@ -1,0 +1,9 @@
+A microscopic model for low energy electron interaction in alkali halides was used to simulate secondary electron emission from CsI induced by x rays with energies up to 100 keV. The integral current and pulse yields were calculated as function of the xray energy, CsI convertor thickness, and angle of incidence. We observe a decrease in true low energy (&lt;50 eV) secondary electron yields at increasing xray energies and discuss the effectiveness of CsI convertors coupled to gaseous electron multipliers developed for fast, high resolution xray imaging.
+
+CESIUM IODIDES
+ELECTRON EMISSION
+SECONDARY EMISSION
+X RADIATION
+PHYSICAL RADIATION EFFECTS
+KEV RANGE
+IMAGE FORMING

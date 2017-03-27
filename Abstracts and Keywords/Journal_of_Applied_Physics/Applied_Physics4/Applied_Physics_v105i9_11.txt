@@ -1,0 +1,5 @@
+In this article, particle swarm optimization (PSO) was applied to extract the solar cell parameters from illuminated current-voltage characteristics. The performance of the PSO was compared with the genetic algorithms (GAs) for the single and double diode models. Based on synthetic and experimental current-voltage data, it has been confirmed that the proposed method can obtain higher parameter precision with better computational efficiency than the GA method. Compared with conventional gradient-based methods, even without a good initial guess, the PSO method can obtain the parameters of solar cells as close as possible to the practical parameters only based on a broad range specified for each of the parameters.
+
+genetic algorithms
+particle swarm optimisation
+solar cells

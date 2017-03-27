@@ -1,0 +1,6 @@
+X-ray computer microtomography is a powerful tool for nondestructive examinations in medicine, biology, and material sciences. The resolution of the presently used detector systems is restricted by scintillator properties, optical light transfer, and charge-coupled-device granularity, which impose a practical limit of about 1 ¼m spatial resolution at detector efficiencies of a few percent. A recently developed detector, called the Bragg magnifier, achieves a breakthrough in this respect, satisfying the research requirements that ask for an efficient advance towards the submicron range. The Bragg magnifier uses the properties of asymmetric Bragg reflections to increase the cross section of the diffracted x-ray beam. Magnifications of up to 100×100 can be achieved even at hard x-rays energies (&gt;20	keV). In this way, the influence of the detector resolution can be scaled down accordingly and the efficiency increased. Such a device has been developed and successfully integrated into the Microtomography Station of the Materials Science Beamline of the Swiss Light Source. The device is operated at energies ranging from 21.1 to 22.75 keV, reaching spatial resolutions of 140 nm, and is ready for submicrometer microtomography. © 2002 American Institute of Physics. 
+
+X-ray detection
+computerised tomography
+X-ray optics
+X-ray microscopy

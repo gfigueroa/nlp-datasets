@@ -1,0 +1,11 @@
+Thick (570 nm) plasmaenhanced chemicalvapordeposited Si3N4 films are analyzed by voltage breakdown and IV measurements. Exponentials of the form exp(const/E) are shown to fit the log of the reliability function of such films. An expression for dielectric lifetime that is proportional to exp[(B+H)/(3E)] and that also is a function of the cumulative fraction of failed capacitors, F, is derived. B and H are, respectively, the tunnelingcurrent and holegeneration exponential constants. For these films, B=339 MV/cm and H=120 MV/cm. Voltage breakdown is observed to occur either while the dominant currenttransport mechanism is tunneling or during a highercurrent mode. In the latter case, both B and a value for H can be determined from voltage breakdown measurements.
+
+SILICON NITRIDES
+FILMS
+CAPACITORS
+CHEMICAL VAPOR DEPOSITION
+PLASMA
+ELECTRIC POTENTIAL
+BREAKDOWN
+IV CHARACTERISTIC
+TUNNEL EFFECT

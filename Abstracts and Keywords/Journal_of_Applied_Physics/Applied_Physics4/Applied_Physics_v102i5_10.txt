@@ -1,0 +1,12 @@
+We report room temperature ferromagnetism (RTFM) in the hydrogenated bulk samples of Zn0.98Mn0.02O synthesized via standard solid state reaction route. The effect of hydrogenation time (tH) on the structural and magnetic properties of the samples has been explored. Magnetic measurements show that the samples synthesized by sintering in air at < 800	°C exhibit paramagnetic behavior and the same samples on annealing in a gaseous mixture of argon (90%) and hydrogen (10%) at < 800	°C become ferromagnetic at room temperature. Based on the structural and magnetic properties of the samples, it is argued that RTFM in the hydrogenated samples originates from the oxygen vacancies and some defects at Zn sites.
+
+annealing
+crystal defects
+ferromagnetic materials
+hydrogenation
+paramagnetic materials
+semiconductor doping
+semimagnetic semiconductors
+sintering
+vacancies (crystal)
+zinc compounds

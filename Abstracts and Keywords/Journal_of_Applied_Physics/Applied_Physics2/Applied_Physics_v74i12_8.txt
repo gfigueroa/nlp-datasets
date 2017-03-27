@@ -1,0 +1,9 @@
+A theoretical model for the surface photovoltage effect (SPV) in undoped semiinsulating (SI) GaAs is presented. This model accounts for the large measured SPV signals for SI material compared with ntype material. The SPV effect in undoped SI GaAs is shown to originate predominantly from the large difference in mobilities between electrons and holes. The low dark conductivity of SI GaAs also plays an important role in determining the large measured signal. In this article experimental SPV data for undoped SI GaAs are presented and explained using the proposed model, providing a value for the ambipolar diffusion length of 1.4 ¼m. The native surface field contribution to the measured SPV signal is estimated experimentally and found to be negligible in undoped SI GaAs compared with the aforementioned effects.
+
+GALLIUM ARSENIDES
+SURFACE PROPERTIES
+PHOTOVOLTAIC EFFECT
+MATHEMATICAL MODELS
+CARRIER MOBILITY
+DARK CONDUCTIVITY
+AMBIPOLAR DIFFUSION

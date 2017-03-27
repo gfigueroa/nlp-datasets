@@ -1,0 +1,10 @@
+The thickness dependence of selectively deposited Si1xGex on the oxide pattern defining the deposition is a strong function of the total system operating pressure. The pattern sensitivity is much greater for atmosphericpressure deposition than for reducedpressure (1080 Torr) deposition. Within the reducedpressure regime, the pattern sensitivity decreases as the pressure is reduced, either for the same GeH4 mole fraction or for the same Ge content in the deposited layer. The observed behavior is consistent with the easier lateral transport of reactive species in the gas phase at lower pressure. Higher HCl mole fractions also decrease the pattern sensitivity.
+
+GERMANIUM SILICIDES
+CVD
+PRESSURE DEPENDENCE
+THICKNESS
+THIN FILMS
+WAFERS
+SILICON OXIDES
+LITHOGRAPHY

@@ -1,0 +1,6 @@
+Flaw contour recognition is very important to heavy Plate Ultrasonic Testing (PUT) which is used to classify the plates used for ships, pressure vessels and nuclear power plants. The state-of-the-art contour recognition algorithm is too slow or inexact to be used in field. A Fast Flaw Contour Recognition (FFCR) algorithm is developed which is a hybrid of Convex Hull (CH) and Edge Detection (ED). This paper focuses on how to combine CH and ED to describe planar concave flaw contour and to recognize the flaw local outline quickly and exactly.
+
+Contour Recognition
+Convex Hull
+Edge Detection
+Ultrasonic Testing

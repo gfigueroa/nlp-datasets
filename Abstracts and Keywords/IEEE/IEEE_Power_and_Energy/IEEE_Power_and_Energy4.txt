@@ -1,0 +1,10 @@
+A robust multivariable controller with the objective of enhancing the low-voltage ride-through (LVRT) capability of wind farms with fixed-speed induction generators is presented in this paper. The nonlinear dynamics of the wind generator is represented as a linear system and a norm-bounded nonlinear uncertain term, derived from the Cauchy remainder of the Taylor series. The designed robust controller provides acceptable postfault performance for both small and large perturbations. Large disturbance simulations demonstrate that the designed controller enhances voltage stability as well as transient stability of the system during low-voltage ride-through transients and thus enhances the LVRT capability of fixed-speed wind generators.
+
+Fixed-speed wind turbines
+STATCOM and pitch angle controls
+linearization
+low-voltage ride-through (LVRT) capability
+minimax linear quadratic Gaussian (LQG) control
+nonlinearity
+robust control
+uncertainty

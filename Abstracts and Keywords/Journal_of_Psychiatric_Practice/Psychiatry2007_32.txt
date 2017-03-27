@@ -1,0 +1,10 @@
+Objective. There is increasing concern about the use of multiple medications in populations with psychiatric illnesses. One large study reported that 99% of pregnant women had received a prescription for at least one medication during pregnancy, with a mean of 13.6 medications per woman. The present descriptive study examined patterns of medication use across pregnancy in a low socioeconomic status population of women who had a psychiatric illness as a primary diagnosis. Method. Data on 115 pregnant women were extracted from a Medicaid Database of 5,000 women who received prenatal and other medical care over a 2-year period (2002-2004). Subjects included women with bipolar disorder, schizoaffective disorder, and schizophrenia. Information on age, diagnoses, dates prescriptions were filled, and type, dose, and quantity of medications was recorded in the database. Results. Data were collected on 115 pregnancies; complete data throughout pregnancy were available for 75 women, while data on certain gestational months were available for the other 40 women. A majority of the 115 women were diagnosed with bipolar or schizoaffective disorder. Their mean age was 26 years. The mean number of medications taken during pregnancy was three (range 0-10; mode = 3); 26.8% of the pregnant women filled prescriptions for 6-10 medications during their pregnancy. No dose changes were made for the prescribed medications to accommodate changing metabolism across pregnancy. The most frequently prescribed medications for these psychiatrically ill women were from the opiate family. Conclusions. Multiple medications are frequently prescribed to pregnant women with psychiatric disorders because of comorbid diagnoses. However, the effects of taking multiple psychotropic or other medications during pregnancy on pregnancy outcome and fetal development are unknown. Therefore, more research is needed concerning the effects on the developing fetus of taking multiple medications with central nervous system effects during pregnancy. 
+
+pregnancy
+medications
+psychiatric illness
+polypharmacy
+bipolar disorder
+schizoaffective disorder
+schizophrenia
+miscarriage

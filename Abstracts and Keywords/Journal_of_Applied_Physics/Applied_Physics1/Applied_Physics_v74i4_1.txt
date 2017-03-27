@@ -1,0 +1,9 @@
+The dynamic properties of a superconducting quantum interference device (SQUID) containing arrays of Josephson junctions in a superconducting loop, and in particular the case of a fourjunction SQUID, is analyzed theoretically via computer simulations. It is shown that phase locking of Josephson junctions determines the dynamic behavior of the SQUID. In the case of a stable phaselock state hysteretic IV curves as well as unusual voltageflux dependencies appear. The influence of a small spread in the Josephson junction parameters upon the stability of the phaselock state is investigated in parameter space.
+
+SQUID DEVICES
+ARRAYS
+JOSEPHSON JUNCTIONS
+DYNAMICS
+COMPUTERIZED SIMULATION
+STABILITY
+HIGHTC SUPERCONDUCTORS

@@ -1,0 +1,8 @@
+The number of oxygen atoms in a thermal donor (TD) can be determined directly from the reduction of the concentration of interstitial oxygen in Czochralski (Cz) silicon after annealing at 450	°C for 75 h, when the effect of highcarbon concentration in Si crystals is considered. It is found that on the average a single TD cluster contains eight oxygen atoms. Some TDinactive large oxygen clusters are produced if the annealing time is longer than the time for TDs to reach their maximum concentration or if the annealing temperature is higher than 475	°C. We also find that the smallest TD cluster contains five oxygen atoms and the largest TD cluster contains 13 oxygen atoms.
+
+SILICON
+DONORS
+VACANCIES
+INTERSTITIALS
+ANNEALING
+HIGH TEMPERATURE

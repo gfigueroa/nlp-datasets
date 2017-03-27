@@ -1,0 +1,11 @@
+Manganeseferrite and nickelferrite ionic magnetic fluids (MFs) were investigated using static magnetic birefringence (SMB). Transmission electron microscopy (TEM) was used to obtain the particle diameter polydispersity profile of the MF samples. The model used in the present study to fit the SMB data includes the field dependence of the magnetic permeability associated to the magnetic structures (incoherent monomer and dimer) and allowed estimation of the magnetic surface anisotropy. The combined analysis of the SMB and TEM data support the contribution of incoherent monomer to the SMB signal in MFs and allows the estimation of its characteristic diameter. It was found that the incoherent monomer diameter is sensitive to the nanoparticle nature. Finally, the surface anisotropy depends upon the nanoparticle diameter and falls within the range of 0.11.5 erg/cm2. © 2001 American Institute of Physics.
+
+manganese compounds
+nickel compounds
+magnetic fluids
+ferrites
+magneto-optical effects
+magnetic permeability
+transmission electron microscopy
+surface magnetism
+magnetic anisotropy

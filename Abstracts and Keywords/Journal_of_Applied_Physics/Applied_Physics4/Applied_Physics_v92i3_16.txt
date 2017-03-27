@@ -1,0 +1,13 @@
+A recently developed model that unifies the ballistic and diffusive transport mechanisms is applied to the carrier transport across potential barriers at grain boundaries in microcrystalline semiconducting materials. In the unified model, the conductance depends on the detailed structure of the band edge profile and in a nonlinear way on the carrier mean free path. Equilibrium band edge profiles are calculated within the trapping model for samples made up of a linear chain of identical grains. Quantum corrections allowing for tunneling are included in the calculation of electron mobilities. The dependence of the mobilities on carrier mean free path, grain length, number of grains, and temperature is examined, and appreciable departures from the results of the thermionic-field-emission model are found. Specifically, the unified model is applied in an analysis of Hall mobility data for n-type ¼c-Si thin films in the range of thermally activated transport. Owing mainly to the effect of tunneling, potential barrier heights derived from the data are substantially larger than the activation energies of the Hall mobilities. The specific features of the unified model, however, cannot be resolved within the rather large uncertainties of the analysis. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor thin films
+high field effects
+grain boundaries
+band structure
+carrier mean free path
+tunnelling
+electron mobility
+Hall mobility
+quantum interference phenomena

@@ -1,0 +1,13 @@
+Using xray diffraction, Rutherford backscattering spectrometry, Auger electron spectroscopy, and scanning electron microscopy, effects of ambient anneal and Pt thickness on the interdiffusion of Pt/Ti bilayers deposited on SiO2/Si and on reactively sputtered TiN/Ti/Si substrates have been investigated. The Pt layer was 2000 or 930 Å thick while the Ti thickness was fixed at 1000 Å. The wafers were annealed in either O2 or N2 ambients or in N2 followed by O2, with temperatures ranging from 600 to 800	°C for 30 min. The anneal ambients and the thickness of Pt relative to the Ti layer had tremendous effects on the interdiffusion processes, the reaction products, and the surface morphology of the multilayer structures. Samples annealed in O2 were generally rough, with bumps of the order of 1000 Å, while those annealed in N2 were relatively smooth. With lead zirconium titanate on top, the surface of Pt/Ti electrode annealed in O2 at 650	°C was relatively smooth.
+
+PLATINUM
+TITANIUM
+TITANIUM NITRIDES
+INTERFACE PHENOMENA
+CHEMICAL REACTIONS
+DIFFUSION
+BILAYERS
+AES
+RBS
+XRD
+ANNEALING

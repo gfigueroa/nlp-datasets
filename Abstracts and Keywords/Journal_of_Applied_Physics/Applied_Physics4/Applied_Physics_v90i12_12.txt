@@ -1,0 +1,9 @@
+The transient photoconductivity in a 1 ¼m layer of low temperature grown GaAs (LT-GaAs) on a GaAs substrate was measured using time-resolved terahertz spectroscopy. When photoexcitation occurs at 400 nm we find a time-dependent mobility that increases from 400±100 to 1100±100cm2	V1	s1 with a time constant of 2 ps. Photoexcitation at 800 nm produces a time-independent mobility of 3000±500cm2	V1	s1. We determine the carrier lifetime in LT-GaAs to be 1.1 ± 0.1 ps. © 2001 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+photoconductivity
+carrier lifetime
+time resolved spectra
+carrier mobility
+submillimetre wave spectra

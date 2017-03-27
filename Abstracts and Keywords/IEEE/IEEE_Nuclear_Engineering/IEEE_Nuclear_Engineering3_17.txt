@@ -1,0 +1,5 @@
+The development of embedded sensing applications based on integrated circuits leads to ever-growing complexity of VHDL-code and requires sophisticated testability to achieve high diagnostic coverage. The norm IEC 61508 provides a set of requirements for the implementation of safety-related software. This paper deals with the testing of VHDL modules according to IEC 61508. Since VHDL is a hardware description language and differs from traditional software languages, new testing aspects and common coverage criteria are examined with respect to basic needs resulting from those differences. Therefore, a development process according to the V-Model is introduced and a classification of VHDL modules is proposed, providing a basis on which several testing methods and exit-criteria can be evaluated with respect to specific design attributes common for each class.
+
+Functional Safety
+Tests
+VHDL

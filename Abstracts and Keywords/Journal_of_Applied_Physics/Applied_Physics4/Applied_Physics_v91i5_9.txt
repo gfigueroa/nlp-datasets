@@ -1,0 +1,11 @@
+The electronic polarizability and optical basicity of La2O3 and related glasses have been determined from ultraviolet absorption spectra and calculations based on the LorentzLorenz equation. The optical basicity for La2O3 oxide is found to be 1.07, being much larger compared with typical glass-forming oxides such as B2O3 (0.42) and SiO2 (0.48) but being similar to heavy element oxides such as TeO2 (0.93). The Yamashita and Kurosawas interaction parameter of La2O3 is 0.03 Å3, indicating that La2O3 is classified as a normal ionic (basic) oxide, i.e., an ionic bonding character in the La3+O bond is proposed. Close correlations are confirmed among optical basicity, interaction parameter, and oxygen 1s binding energy in x-ray photoelectron (XPS) spectra for La2O3P2O5 and other La2O3-containing glasses. It is found from XPS and Raman spectra that La3+ ions in La2O3P2O5 glasses act as network modifiers, supporting an ionic bonding character in the La3+O bond. The parameters related to electronic polarizability in La2O3 determined in the present study would be useful for the design of rare-earth containing optical functional glasses. © 2002 American Institute of Physics.
+
+lanthanum compounds
+phosphate glasses
+ultraviolet spectra
+X-ray photoelectron spectra
+Raman spectra
+glass structure
+refractive index
+chemical shift
+optical glass

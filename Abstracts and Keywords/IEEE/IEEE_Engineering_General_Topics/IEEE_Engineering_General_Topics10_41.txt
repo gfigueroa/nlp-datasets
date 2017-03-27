@@ -1,0 +1,5 @@
+Concerned with real requirement of software development, this paper point out limitation of the universal computer language courses at the present time. The limitation is the programming language courses pay more attention to the language itself, but ignore other important aspects related to software development. So we introduce the basic skills which should be cultivated through the programming language courses. Moreover, this paper discuss how to training these basic skills through programming language courses.
+
+Code
+Program Design
+Software development

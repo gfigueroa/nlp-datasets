@@ -1,0 +1,11 @@
+A photoluminescence study of the effects of annealing on Sidoped (<1016 cm3) GaAs grown on (311)A, (111)A, (111)B, and (100)oriented substrates by molecularbeam epitaxy has been performed. The anneal temperatures were 873, 973, and 1098 K. All the anneals were of 24 h duration. Detailed assessment of the lowtemperature photoluminescence spectra suggests that site switching (Si switching from Ga site to As site) only occurs in the ntype samples [(100) and (111)B samples] and not in the ptype ones [(111)A and (311)A samples].
+
+GALLIUM ARSENIDES
+MOLECULAR BEAM EPITAXY
+DOPED MATERIALS
+SILICON ADDITIONS
+ANNEALING
+PHOTOLUMINESCENCE
+TEMPERATURE RANGE 04001000 K
+DONORS
+ACCEPTORS

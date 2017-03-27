@@ -1,0 +1,5 @@
+Qingxin County is a typical transition area between the Pearl River Delta and north Guangdong. To explore the ideal land use pattern of Qingxin County, this article simulates the county's land use/cover changes based on the CLUE-S (the Conversion and Land Use and its Effects) model. The relation between land use changes and its driving factors are studied by analyzing static and dynamic factors in the simulation process. Besides, the spatial distribution of land use of Qingxin County in 2020 is predicted with the statistical and scenario analysis methods, and the results under different scenarios are plotted into simulated land cover maps. Compared with the land use of 2007, the environmental, economic and social consequences resulting from the simulated land use/cover changes in 2020 indicate that the simulation under the full-sided development goals, is more in line with Qingxin County's actual conditions, and also has greatly practical significance in land use.
+
+CLUE-S
+land use/cover change
+transitional area

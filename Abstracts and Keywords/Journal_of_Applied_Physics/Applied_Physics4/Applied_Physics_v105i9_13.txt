@@ -1,0 +1,15 @@
+In this study, in order to biologically evaluate the surface condition of the a-C:H film which was deposited on a complicated polymeric medical apparatus by using rf plasma chemical vapor deposition technique with a special three-dimensional-type electrode, we have investigated the cytocompatibility to the a-C:H film with and without plasma post-treatment. The a-C:H film surface was modified with argon (Ar) and oxygen (O2) plasma post-treatment to change the surface condition of the a-C:H film. The effects of the plasma post-treatment of a-C:H film deposited on a complicated object were estimated by using an Ar-laser Raman microscopy (Raman), a wettability measurement, a x-ray photoelectron spectrometer, and an atomic force microscopy. Additionally, the cellular adhesions of a-C:H film with and without plasma post-treatments were carried out under cell culture by in vitro studies. As results, The surface properties of a-C:H film on a complicated polymeric medical apparatus were controlled by surface modifications with Ar and O2 plasma post-treatment. Additionally, the cell cultures by in vitro studies have shown good cell growth on all the a-C:H film surface. Moreover, it was observed that cellular growth/adhesion was controlled by surface conditions of the a-C:H film with and without plasma post-treatments.
+
+atomic force microscopy
+biomedical materials
+carbon
+cellular biophysics
+hydrogen
+plasma CVD coatings
+plasma materials processing
+polymers
+Raman spectroscopy
+surface treatment
+thin films
+wetting
+X-ray photoelectron spectra

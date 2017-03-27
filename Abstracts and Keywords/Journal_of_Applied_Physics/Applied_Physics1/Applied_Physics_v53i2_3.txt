@@ -1,0 +1,13 @@
+The boundary layer between an electrode biased to a large negative potential (relative to the electron temperature e’kkTe ) and a collisionless argon plasma (n<1◊109 cm3, kTe <2.5 eV) was studied using Langmuir probes. A simple model based on Childs law, including finite electron temperature effects, was fit to data obtained from both cold and emitting probes. A convenient method was developed to locate the sheath edge using cold probes. The emitting probe experiments demonstrated what we believe is a new technique for measuring the potential within the nonneutral sheath region.
+
+PLASMA DIAGNOSTICS
+ONEDIMENSIONAL CALCULATIONS
+BOUNDARY LAYERS
+ELECTRODES
+ELECTRIC POTENTIAL
+ELECTRON TEMPERATURE
+ARGON
+EV RANGE
+LANGMUIR PROBES
+DATA
+MATHEMATICAL MODELS

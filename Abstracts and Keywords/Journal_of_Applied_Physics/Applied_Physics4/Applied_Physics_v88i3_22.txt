@@ -1,0 +1,11 @@
+Studies of pulsed laser annealing (PLA) of CdTe/CdMnTe quantum well structures are made in order to examine depth dependent effects in laser irradiated semiconductors. Since diffusion coefficients are strongly dependent on the temperature, depth resolution is achieved because the diffusion of Mn from the barriers into the quantum wells is depth dependent. Multiple quantum well (MQW) structures of CdTe/CdMnTe were annealed with single pulses from an XeCl laser at 308 nm. At a threshold of 90 mJ
+cm2 two new emission bands are observed that are attributed to the diffusion of Mn from barrier layers to QWs. The diffusion associated with these bands, measured as the integrated product of the diffusion constant and time, is found to be 300 and 30 Å2. Calculations of the temperature, reached within the surface following PLA, using an analytical solution of the heat diffusion equation coupled with known high temperature diffusion coefficients predict the diffusion to decrease by one order of magnitude within one period at the top of the MQW stack. It is suggested that at the threshold surface melting occurs and that these emission bands arise from the QWs immediately beneath the melt front. The diffusion of Mn ions into the QWs is confirmed by magneto-optical data. A further emission band occurs at this same threshold with a Mn concentration above that of the concentration in the barrier layers of the MQW stack. This emission is attributed tentatively to the segregation of the Mn ion within the molten region following recrystallization. © 2000 American Institute of Physics. 
+
+semiconductor quantum wells
+diffusion
+laser beam annealing
+surface diffusion
+cadmium compounds
+manganese compounds
+semimagnetic semiconductors
+II-VI semiconductors

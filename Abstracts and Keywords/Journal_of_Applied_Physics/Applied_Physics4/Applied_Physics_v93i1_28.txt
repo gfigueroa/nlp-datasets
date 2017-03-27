@@ -1,0 +1,11 @@
+Contact electrification between metals and insulators lead to dramatic transient charge transfer phenomena during sliding contact. We report simultaneous transient current and lateral force measurements as a stainless-steel stylus is drawn across a high-density polyethylene surface in vacuum. Stylus motion in this system is marked by unstable transitions between high and low velocity modes, similar to stickslip. The high velocity events coincide with falling lateral forces and high current signals. Scanning electron microscope images of the resulting wear tracks show slip-related features at intervals consistent with the lateral force and current fluctuations. Although average charge densities along the wear track ranged from 0.41
+mC/m2, measurements at low normal forces are consistent with higher charge densities (up to 3
+mC/m2) at isolated asperity contacts. Current transients as short as 60 ¼s were observed with total charges consistent with the detachment of 40×40
+¼m2 contact areas. © 2003 American Institute of Physics. 
+
+polymers
+wear
+sliding friction
+surface charging
+charge exchange
+scanning electron microscopy

@@ -1,0 +1,11 @@
+Magnetic entropy change (”S) of a single crystal Ni50.1Mn20.7Ga29.6 alloy under different applied fields has been investigated near the martensiticaustenitic structural transition temperature of 219 K. With increasing applied field from 0.2 to 5 T, the sign of ”S changes from positive to negative. At 0.8 T the positive ”S reaches a maximum value of about 6.0 J/kg 
+K, and above 0.8 T the increase of applied field results in a negative ”S. At 5 T ”S reaches 6.0 J/kg
+K. The interesting behavior of ”S is attributed to the first-order martensiticaustenitic structural transition at 219 K on heating. The phenomenon of the considerable magnetic entropy change under the relatively low applied field of 0.8 T and the easy adjustment of the martensiticaustenitic transition temperature indicate that NiMnGa single crystal materials may have a possibility for practical applications as magnetic refrigerants. © 2001 American Institute of Physics.
+
+nickel alloys
+manganese alloys
+gallium alloys
+entropy
+martensitic transformations
+magnetic cooling
+heat of transformation

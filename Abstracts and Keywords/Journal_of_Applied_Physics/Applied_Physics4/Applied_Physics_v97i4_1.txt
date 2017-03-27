@@ -1,0 +1,16 @@
+A model for multistep trap-assisted tunneling (TAT) with strong dependence on the trap concentration is introduced. The current density J as a function of the applied voltage V for A1/chemical vapor deposition-Al2O3/SiO2/p-Si structures has been measured and fitted for 12 orders of magnitude in a temperature range from T = 42K to T = 420K. A trap concentration of NT = 1.3×1019/cm3, an electron affinity of eÇel = 1.7eV, and an effective electron mass of mox = 0.28m0 (m0 is the electron rest mass) for the Al2O3 are used. A single set of parameters fits the leakage currents of all samples with different Al2O3 thicknesses at all temperatures.
+
+aluminium
+alumina
+silicon compounds
+silicon
+dielectric materials
+dielectric thin films
+current density
+MIS structures
+electron density
+electron affinity
+electron traps
+leakage currents
+tunnelling
+Poole-Frenkel effect

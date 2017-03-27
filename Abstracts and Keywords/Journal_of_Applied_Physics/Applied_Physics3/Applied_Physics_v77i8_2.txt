@@ -1,0 +1,15 @@
+Carefully prepared and wellcharacterized Bi1.7Pb0.3 Sr2Ca2Cu3Ox samples were studied by means of differential scanning calorimetry, thermogravimetry, and room and high temperature xray diffraction in different atmospheres. It is found that the decomposition of Bi1.7Pb0.3Sr2Ca2Cu3Ox strongly depends on the given conditions. In argon atmosphere, the sample begins to decompose at 850	°C, and finally decomposes mainly into Bi2Sr2CuOx, Cu2O, CaO, and (Sr,Ca)2O3; in air, it decomposes at 880	°C, into Bi2Sr2CuOx, Bi2Sr2CaCu2Ox, Bi1.7Pb0.3Sr2Ca2Cu3Ox, and (Sr,Ca)O; in oxygen, it decomposes at 900	°C, into Bi2Sr2CuOx, Bi2Sr2CaCu2Ox, Bi1.7Pb0.3Sr2Ca2Cu3Ox, and (Sr,Ca)2O3. The process of the melting was in situ studied by high temperature xray diffraction and a quenching method. This study gives some hints for growing single crystals of Bi1.7Pb0.3Sr2Ca2Cu3Ox and how to introduce pinning centers into Bi2Sr2CaCu2Ox and Bi1.7Pb0.3Sr2Ca2Cu3Ox. © 1995 American Institute of Physics.
+
+HIGHTC SUPERCONDUCTORS
+BISMUTH OXIDES
+LEAD OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+MULTIELEMENT COMPOUNDS
+PHASE STUDIES
+MELTING
+XRD
+DSC
+TGA
+TEMPERATURE DEPENDENCE

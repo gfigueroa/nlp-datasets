@@ -1,0 +1,10 @@
+A detailed balance solar energy conversion model offering a single treatment of both photovoltaic and photothermal conversion is expounded. It includes a heat rejection mechanism. The effect of multiple impact ionizations on the solar cell efficiency is reconsidered by including the constraints dictated by the first law of thermodynamics (which already exist in the model) and it improves of course the solar cell efficiency. However the upper bound efficiencies previously derived are too optimistic as they do not take into consideration the necessary increase in solar cell temperature. The cell efficiency operating under unconcentrated radiation is a few percent lower than in the ideal case (i.e., with perfect cooling). Wider band gap materials are recommended for those applications where the cell cooling is not effective. The best operation of naturally ventilated cells is under unconcentrated or slightly concentrated solar radiation. Increasing the (forced) ventilation rate allows an increase of the optimum concentration ratio. Additional effects such as the radiation reflectance and radiative pair recombination efficiency are also considered. A sort of threshold minimum band gap depending on the last effect is emphasized: materials with band gaps narrower than this threshold are characterized by very low cell efficiency. © 2001 American Institute of Physics.
+
+solar cells
+solar energy conversion
+photothermal conversion
+impact ionisation
+statistical mechanics
+thermodynamics
+semiconductor device models
+energy gap

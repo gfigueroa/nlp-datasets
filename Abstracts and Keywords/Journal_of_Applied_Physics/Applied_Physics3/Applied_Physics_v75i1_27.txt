@@ -1,0 +1,11 @@
+A study was made of the energies for ejection of Si atoms and SiCl molecules from defect sites on Si (100) and (110) surfaces, including adatoms, kinks, and vacancies, with and without interaction with Cl adsorbates. It is found that the energies for emitting a Si atom from defect sites are smaller than those for the perfect site and almost proportional to the coordination number for the Si (110) surface. It is also found that the interaction of Cl with defects reduces the energy for the ejection of a Si atom and a SiCl molecule, depending on the adsorption site.
+
+SILICON
+SURFACE PROPERTIES
+ADSORBATES
+CHLORINE
+DEFECT STATES
+ETCHING
+ADATOMS
+VACANCIES
+DESORPTION

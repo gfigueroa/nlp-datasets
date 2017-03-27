@@ -1,0 +1,4 @@
+Many Asian cities, i.e. Beijing, China, are facing increasing conflicts between the booming vehicles and bicyclists/pedestrians in the five years. One important alleviating method is to introduce exclusive right-turn phases which have rarely been designed or set up for signalized intersections before. To estimate how this method can improve traffic efficiency, the conflicts between right-turn vehicles and other road users are first studied and modeled through vision monitoring. Then, different settings of phasing scheme are compared based on the simulation tests that are designed to incorporate the conflicts characteristics. The results show that the vehicle/pedestrian traffic efficiency varies with several conditions, i.e. vehicle/pedestrian arriving rate. This indicates that some appropriate adaptive phasing strategies should be used to better serve traffic requirements.
+
+Exclusive right-turn phase
+conflict modeling

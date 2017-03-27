@@ -1,0 +1,13 @@
+The validity of actinometry to monitor oxygen atom concentration in O2N2 microwave discharges created by surface wave is investigated. The plasma is created with a gas flow in a quartz tube of inner diameter 16 mm at pressures in the Torr range. First, it is shown that the reliability of actinometry can be deduced from the longitudinal profile of the actinometry signal. Second, absolute concentrations of oxygen atoms are estimated from the experimental actinometry signal and agree satisfactorily with concentrations simultaneously measured by vacuum ultraviolet (VUV) absorption downstream from the plasma. Moreover, upon varying the nitrogen percentage (0%100%), it is evidenced that the actinometry signal is proportional to the concentration measured by VUV absorption. Furthermore, it is evidenced that the oxygen dissociation rate is only 2% in pure oxygen plasmas, while it reaches 15% (433 MHz) or 30% (2450 MHz) for mixtures containing more than 20% of nitrogen. This drastic increase in [O] upon the addition of N2 is extensively discussed and, finally, attributed to a decrease in the recombination frequency of oxygen atoms on the quartz wall, in the presence of nitrogen.
+
+HIGHFREQUENCY DISCHARGES
+PLASMA DIAGNOSTICS
+OXYGEN
+MICROWAVE RADIATION
+SURFACE WAVES
+ABSORPTION
+CONCENTRATION RATIO
+NITROGEN
+MIXTURES
+MHZ RANGE
+DISSOCIATION

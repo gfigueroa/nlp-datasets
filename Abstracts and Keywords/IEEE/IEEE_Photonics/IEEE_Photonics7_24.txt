@@ -1,0 +1,9 @@
+The fundamental processes on nanoscale that may influence the design of nanoelectronic chips, sensors, and systems is presented. The focus is on the breakdown of Ohm's law in nanoscale devices extensively being used to assess the performance of a ldquosystem-on-a-chip,rdquo may it be for bio, chemical, physical or engineering applications. Novel insights on theories of three sources of transformation of Ohm's law are enumerated: quantum confinement in low-dimensional nanostructures, ballistic transport when conducting channel length is smaller than the mean free path, and high-field initiated carrier asymmetric distribution. The saturation velocity arising from the high-field initiated mobility degradation is shown to be the intrinsic velocity that depends on the nanostructure dimensionality, its carrier concentration, and the ambient temperature, in direct contrast to single number that is quoted in the literature. The ballistic intrinsic velocity is the ultimate saturation velocity that can be lowered by the onset of a quantum emission that may be an optical phonon or photon quantum emitted from an excited quantized level to the ground state. The results presented will have profound impact in the interpretation of data on a variety of nanoelectronic devices and systems that may exist with varying low dimensionality, i. e., classical (analogue energy spectrum) in one or more of the three cartesian directions while other directions go quantum (digitized energy spectrum).
+
+Ballistic mobility
+ballistic transport
+high-field distribution
+nonohmic transport
+saturation velocity
+scattering-limited transport
+velocity-field

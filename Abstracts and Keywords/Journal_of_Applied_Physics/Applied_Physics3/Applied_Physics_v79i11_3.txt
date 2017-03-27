@@ -1,0 +1,13 @@
+Structural changes in solgel derived amorphous silica films were investigated using vacuum ultraviolet light emitted from an undulator. A significant increase in the refractive index and a decrease in the thickness for the silica films were induced by photons with energies above <9 eV. The frequency shift of É4 (transverse optical mode) of infrared absorption to a lower wave number with the irradiation indicates a decrease in the average SiOSi bridging angle. These results suggest that the silica films were densified by the irradiation with the energetic photons. The densification of silica gel films dried at 50	°C was accompanied by a decrease of OH groups in a manner similar to thermal treatments. On the other hand, the structure of the irradiated silica was similar to that of silica glass densified under high pressures. Although silica gel films annealed at 6001000	°C were also densified by the irradiation, the structural changes were relatively small for the films annealed at temperatures above 700	°C. The significant densification induced by the irradiation is presumed to be due to the electronic excitation of the distorted structure as well as residual OH groups in solgel derived amorphous silica. © 1996 American Institute of Physics. 
+
+SILICA
+AMORPHOUS STATE
+SOLGEL PROCESS
+RADIATION EFFECTS
+ULTRAVIOLET RADIATION
+FILMS
+DENSIFICATION
+STRUCTURAL MODELS
+REFRACTIVE INDEX
+ANNEALING
+BOND ANGLE

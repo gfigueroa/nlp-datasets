@@ -1,0 +1,7 @@
+Raman scattering has been used to study the variation of surface barriers in GaAs due to sulfur passivation in solutions of ammonium sulfide [(NH4)2S] in different alcohols (ethanol, isopropanol, and tert-butanol). It has been found that the surface barrier height and the depletion layer width decrease considerably with the decrease of the dielectric constant of the passivating solution. © 1997 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+Raman spectra
+passivation
+permittivity

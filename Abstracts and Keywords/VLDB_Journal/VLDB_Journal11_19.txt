@@ -1,0 +1,7 @@
+We propose an indexing technique for the fast retrieval of objects in 2D images based on similarity between their boundary shapes. Our technique is robust in the presence of noise and supports several important notions of similarity including optimal matches irrespective of variations in orientation and/or position. Our method can also handle size-invariant matches using a normalization technique, although optimality is not guaranteed here. We implemented our method and performed experiments on real (hand-written digits) data. Our experimental results showed the superiority of our method compared to search based on sequential scanning, which is the only obvious competitor. The performance gain of our method increases with any increase in the number or the size of shapes.
+
+Fourier descriptors
+Image databases
+Shape retrieval
+Similarity queries
+Similarity retrieval

@@ -1,0 +1,6 @@
+IPv6 protocol which would replace IPv4 in the near future is a major boost to network technology as it has many inherent good qualities that IPv4 lacks. We seek to analyze some features of the IPv6 network communication. To understand more on the co-existence technology between IPv4 and IPv6, tunneling and dual stack technology were configured in simulation. Thus 6 to 4 tunnel network and multi-tier dual stack network were analyzed and studied through simulation. The analysis of these network behaviors is presented through generated graphs that show the IPv6 traffic patterns or performance aspects.
+
+IPv6 network
+communication
+dual stack
+tunnel

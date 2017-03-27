@@ -1,0 +1,4 @@
+Precise ac electrical measurements as well as dc IV plots at forward bias have been used to characterize multi-quantum-well (MQW) laser diodes. Step offsets of apparent conductance, apparent capacitance, junction voltage, series resistance, and ideality factor at lasing threshold were observed. To compare the electrical characteristics of different diodes numerical simulations of the IdV/dII curve of the double-heterostructure (DH) laser were performed. We find that the conventional model used to explain this curve is not very satisfactory. Our simulations demonstrate that the junction voltage, series resistance, and ideality factor for both DH and MQW lasers exhibit the same sudden changes at threshold. Perhaps the electrical behavior near threshold for all laser diodes is very similar.
+
+electrical conductivity
+quantum well lasers

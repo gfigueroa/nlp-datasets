@@ -1,0 +1,20 @@
+Nd25Fe40Co20Al10B5 was prepared by high-energy milling and melt-spinning techniques. The as-milled and as-quenched samples were subsequently annealed in a temperature range from 400to1100	°C for 20min. For the annealed samples, x-ray diffraction combined with high-resolution transmission microscopy show the presence of ferromagnetic Nd2(Fe,Co,Al)14B crystallites coexisting with antiferromagnetic Nd6(Fe,Co,Al)14 ones, among an amorphous matrix. After annealing, coercivities of about 22 and 25kOe can be reached with the high-energy milled and melt-spun samples, respectively, while the Curie temperature of both samples reaches 660K.
+
+aluminium alloys
+amorphous state
+annealing
+antiferromagnetic materials
+boron alloys
+cobalt alloys
+coercive force
+crystallites
+Curie temperature
+ferromagnetic materials
+iron alloys
+melt spinning
+milling
+nanostructured materials
+neodymium alloys
+quenching (thermal)
+transmission electron microscopy
+X-ray diffraction

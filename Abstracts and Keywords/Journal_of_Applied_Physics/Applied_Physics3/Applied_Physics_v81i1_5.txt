@@ -1,0 +1,21 @@
+Transient Langmuir probe measurements of the plasma density, electron temperature, and plasma potential during slow quenching of a CsBa tacitron at two different discharge conditions were made. Following the application of a negative voltage pulse on the grid, the grid aperture sheaths initially grew then shrank temporarily, due to an increase in the ion flux from the grid-collector region, then grew again until the discharge eventually extinguished. Discharge extinguishing occurred when the effective ionization cross section became decoupled from the continually rising electron temperature; hence, the discharge could not be maintained owing to the decrease in the ionization rate. This inability to maintain the discharge is considered the mechanism for extinguishing by slow quenching. © 1997 American Institute of Physics. 
+
+caesium
+barium
+plasma density
+Langmuir probes
+plasma temperature
+discharges (electric)
+cathodes
+plasma switches
+plasma sheaths
+ionisation
+PLASMA SWITCHES
+PLASMA DIAGNOSTICS
+CESIUM
+BARIUM
+PLASMA DENSITY
+ELECTRON TEMPERATURE
+PLASMA POTENTIAL
+ELECTRIC DISCHARGES
+IONIZATION

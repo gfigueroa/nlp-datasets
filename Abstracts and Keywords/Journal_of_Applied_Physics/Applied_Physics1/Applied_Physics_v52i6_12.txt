@@ -1,0 +1,11 @@
+In an attempt to clarify the controversial views about the general validity of the rather frequently and successfully used critical state mode, we consider an explicit formulation of this model and present a careful analysis of the boundaries of the regions where the field B is zero. As a result, it seems that the arguments recently published that call into question the general validity of this mode are not acceptable.
+
+MATHEMATICAL MODELS
+TWODIMENSIONAL CALCULATIONS
+MAGNETIC FIELDS
+THEROETICAL DATA
+BOUNDARY LAYERS
+COMPARATIVE EVALUATIONS
+BOUNDARY CONDITIONS
+CRITICAL CURRENT
+TYPEII SUPERCONDUCTORS

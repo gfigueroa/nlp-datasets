@@ -1,0 +1,10 @@
+The diffusion length of minority carriers in nCuInS2 samples is examined with electronbeaminduced current (EBIC) technique in vertical and planar configuration. Theories for the interpretation of the EBIC data from the experiments are reported. The holes as minority carriers show a diffusion length in the range of 1 ¼m, which is promising for high efficient solar energy conversion.
+
+COPPER SULFIDES
+INDIUM SULFIDES
+NTYPE CONDUCTORS
+MINORITY CARRIERS
+DIFFUSION LENGTH
+EBIC
+HOLES
+SOLAR ENERGY CONVERSION

@@ -1,0 +1,10 @@
+A method is proposed to control the wavelength of visible photoluminescence (PL) from porous silicon (PS). This is based on the postanodization illumination technique which employs a filtered light with various maximum cutoff photon energies. As the illumination time increases, the PL spectra shift toward the higher energy side. This blue shift tends to stop at the time when the PL peak energy becomes close to the cutoff photon energy. The emission wavelength can be controllably tuned in a wide spectral range by changing the cutoff filter. These results give us a strong indication that the visible PL of PS is closely related to interband excitation in Si nanocrystallites, not to some surface chemical compounds.
+
+POROUS MATERIALS
+SILICON
+PHOTOLUMINESCENCE
+VISIBLE RADIATION
+ILLUMINATION
+BLUE SHIFT
+WAVELENGTHS
+TUNING

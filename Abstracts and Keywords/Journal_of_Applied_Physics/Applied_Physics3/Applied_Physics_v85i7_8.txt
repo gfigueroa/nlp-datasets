@@ -1,0 +1,12 @@
+The crystallinity of a phosphorus-doped n-type diamond thin film as grown on a C(001) substrate by gas source molecular beam epitaxy has been examined by x-ray photoelectron diffraction (XPD) and atomic force microscopy (AFM). AFM showed that the growth mode of the n-type film is not an island-growth type that hinders the application of XPD. C
+1s XPD patterns for the n-type film and the substrate showed almost perfect similarity. This proves that, like the substrate, the phosphorus-doped n-type thin film is in a good diamond structure. © 1999 American Institute of Physics. 
+
+diamond
+phosphorus
+elemental semiconductors
+semiconductor epitaxial layers
+chemical beam epitaxial growth
+semiconductor growth
+X-ray photoelectron spectra
+electron diffraction
+atomic force microscopy

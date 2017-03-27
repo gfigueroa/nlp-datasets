@@ -1,0 +1,9 @@
+Dielectric properties of multiferroic BiMn2O5 ceramics were evaluated over broad temperature and frequency ranges. Two Debye-type dielectric relaxations were observed at low temperatures (130250 K) and high temperatures (200450 K), respectively. The low temperature relaxation with an activation energy of 0.18 eV was attributed to charge carrier hopping process between Mn3+ and Mn4+. The high temperature dielectric relaxation with an activation energy of 0.38 eV, which is similar to the activation energy of conductivity, was associated with oxygen vacancies related defect complex. The dielectric response at high temperatures was significantly suppressed and the dc conductivity increased after oxygen annealing.
+
+annealing
+bismuth compounds
+dielectric relaxation
+ferroelectric ceramics
+hopping conduction
+multiferroics
+vacancies (crystal)

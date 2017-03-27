@@ -1,0 +1,5 @@
+Polycrystalline aluminum nitride thin films were deposited on polycrystalline 3C-SiC buffer layers by pulsed reactive magnetron sputtering system. Structural properties of AlN/3C-SiC thin films were investigated experimentally by means of FE-SEM, X-ray diffraction, and FT-IR. The columnar structure of AlN thin films was observed by FE-SEM. Results of XRD and FT-IR shows that AlN films on SiC layers were highly (002) oriented. It was determined from infrared absorbance spectrum that the residual stress of AlN thin films grown on SiC layers was almost free. The presented results show that AlN thin films on 3C-SiC buffer layer can be used for M/NEMS applications.
+
+3C-SiC
+AIN
+piezoelectric properties

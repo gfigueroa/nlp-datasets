@@ -1,0 +1,15 @@
+Subband properties of Si ´-doped pseudomorphic In0.2Ga0.8As/GaAs heterostructures have been investigated by solving the SchrödingerKohnSham equation and the Poission equation self-consistently, and by the densitydensity dynamical response function. Different ´-doping configurations, in which the same Si ´-doped layer is placed at different positions with respect to the In0.2Ga0.8As well, have been studied to find their effect on subband electron densities and mobilities. High electron densities of greater than 3.6×1012
+cm2 are obtained when a ´-doping density of 4.5×1012
+cm2 is placed at the well center or at the well-barrier interface. However, the electron density in the well for Si ´-modulation-doped In0.2Ga0.8As/GaAs heterostructure is only about 1.3×1012
+cm2. The change of the position of a Si ´-doped layer from the well center to the barrier does not change the mobility of electrons in the lowest subband significantly. The Si ´ doping in both barriers leads to an increase of the electron density by almost a factor of 2. The mobilities in the well for the modulation-doped structures are always much greater than those for the well-doped structures. The calculated results are also compared to the corresponding experimental data. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+silicon
+III-V semiconductors
+semiconductor heterojunctions
+electron density
+electron mobility
+Schrodinger equation
+Poisson equation
+doping profiles

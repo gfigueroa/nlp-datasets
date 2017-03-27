@@ -1,0 +1,5 @@
+Dimensionality reduction is an essential task for many large-scale information processing problems such as classifying document sets, searching over Web data sets, etc. It can be used to improve both the efficiency and the effectiveness of classifiers. In this paper, a comparative study is conducted of five Dimension Reduction Techniques in the context of the Arabic text classification problem using an in house Arabic dataset. We evaluated and compared Stemming, Light-Stemming, Document Frequency (DF), TFIDF and Latent Semantic Indexing (LSI)methods to reduce the feature space into an input space of much lower dimension for the neural network classifier. The results showed that the proposed model was able to achieve high categorization effectiveness as measured by Macro-Average F1 measure. Experiments on Arabic datasets indicate that the DF, TFIDF and LSI techniques are favorable in terms of its effectiveness and efficiency when compared with the two other methods.
+
+Arabic Text Categorization
+Back-Propagation Neural Network
+Dimensionality Reduction

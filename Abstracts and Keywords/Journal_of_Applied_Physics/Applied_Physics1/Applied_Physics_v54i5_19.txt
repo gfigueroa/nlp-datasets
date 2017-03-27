@@ -1,0 +1,21 @@
+Ion beam techniques, combining insulator deposition and atomic hydrogen treatment, are used for the fabrication of metalinsulatorsilicon (MIS) structures at low temperature (300	°C). SiNxOy and AlNxOy insulating layers are deposited by reactively sputtering either a silicon or an aluminium target with a nitrogen ion beam. The y/x ratio is controlled by introducing pure molecular oxygen in the vicinity of the substrate. The resistivity and dielectric strength of the films increase with the y/x ratio and exceed typically 1016 ©	cm and 2×106 V/cm, respectively. The electrical properties of the MIS devices were investigated by the capacitance/conductance method. The dramatic reduction of the interface state density (below 1011 cm2	eV1 with AlNxOy) consecutive to H treatment and annealing in nitrogen at 300	°C, is interpreted on the basis of the formation, weakening, and strengthening of SiH bonds.
+
+mis transistors
+fabrication
+ion beams
+electrical insulators
+deposition
+hydrogen
+plasma
+interfaces
+energylevel density
+high temperature
+silicon
+nitrogen oxides
+aluminium
+sputtering
+nitrogen ions
+quantity ratio
+electric conductivity
+dielectric properties
+experimental data

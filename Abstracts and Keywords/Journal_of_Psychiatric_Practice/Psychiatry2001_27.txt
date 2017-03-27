@@ -1,0 +1,19 @@
+The authors review the psychosocial aspects of transplantation. They first review psychosocial risk factors that place transplant patients at higher risk for noncompliance and negative outcomes. They then discuss what assessments should be included in a pretransplantation psychosocial evaluation. Goals of the psychosocial evaluation include selection of candidates most likely to benefit from transplantation and identification of areas for psychosocial intervention, both before and after transplantation. The assessment should address the patient's premorbid psychiatric state, past adaptation to stressors, history of compliance with treatment, substance abuse history, and level of social support, including community and faith-based support systems. Results of psychometric assessments may be helpful when considered in conjunction with a clinical interview and other sources of information about the patient. It may also be helpful to use a screening tool developed specifically to evaluate psychosocial factors relevant to transplantation, such as the Psychological Assessment of Candidates for Transplantation (PACT) scale and the Transplantation Evaluation Rating Scale (TERS). The authors then review issues related to psychopharmacologic interventions in transplant patients, including the use of antidepressant medication pre- and post-transplant, strategies for avoiding delirium associated with immunosuppressive medications immediately post-transplantation, neuropsychiatric symptoms associated with interferon alpha therapy for hepatitis C, and interactions between over-the-counter and herbal agents (e.g., St. John's Wort) and immunosuppressive agents. Although limited research has been done on nonpharmacologic interventions, such as transplant support groups, it appears that certain types of group therapy, in particular, cognitive-behavioral groups that target specific risk factors such as depression, distress, and compliance, may also offer promising approaches for dealing with the problems of transplant patients. The authors then focus on two special situations that create particular problems for transplantation teams: liver transplantation in patients with alcoholic liver disease (ALD) and obesity in transplant patients. The authors conclude that the prognosis for patients with ALD who receive liver transplantation is similar to that of non-alcoholics and that alcoholism is not a contraindication for liver transplantation. However, careful preliminary psychosocial assessment is essential to review candidates for factors that are predictive of relapse, while close follow-up post-transplantation can help improve outcomes. It appears that obesity can increase the risk of negative outcomes in transplant patients, although there is currently no consensus on the use of obesity as an exclusion criteria. Interventions that take into account the special psychological and medical needs of transplant patients need to be developed for treating obesity both pre- and post-transplantation. Improved strategies for identifying high-risk patients and finding ways to intervene both pre- and post-transplantation can not only help lengthen transplant recipients' life spans, but also improve their adaptation to transplantation and lead to improved quality of life. 
+
+transplantation
+psychosocial assessment
+consultation-liaison psychiatry
+Psychological Assessment of Candidates for Transplantation (PACT)
+Transplantation Evaluation Rating Scale (TERS)
+antidepressants
+immunosuppressive agents
+cyclosporine
+tacrolimus
+hepatitis C
+interferon alpha therapy
+support groups
+cognitive-behavioral therapy
+alcoholic liver disease
+liver transplantation
+obesity
+heart transplantation

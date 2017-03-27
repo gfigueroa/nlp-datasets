@@ -1,0 +1,11 @@
+The interaction between gas clouds, created by laser ablation, and a diluted gas background is studied by means of Monte Carlo simulations. More specifically, the effect of elastic collisions between ablated atoms and background gas atoms on the kinetic energy and spatial distributions of atoms arriving at the substrate is investigated. The pressure regime under study is typically the range 0.1200 mTorr. Thermalization is observed in a pressure range that varies over two orders of magnitude, dependent on the initial energy of the atoms and the ratio of the background gas and ablated atom molecular masses. During the first stages of thermalization, forward focusing is found to occur.
+
+ABLATION
+LASER RADIATION
+COMPUTERIZED SIMULATION
+MONTE CARLO METHOD
+ELASTIC SCATTERING
+GASES
+ATOM COLLISIONS
+FILM GROWTH
+TRANSPORT PROCESSES

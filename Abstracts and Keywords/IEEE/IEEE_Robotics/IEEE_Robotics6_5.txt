@@ -1,0 +1,6 @@
+Plant growth modeling is one of the key issues in virtual plant research. In this paper, we mainly focus on the morphogenetic models of virtual plant. The procedures for simulation and visualization of plant morphological structure during the period of plant growth are summarized first. The techniques for data acquisition of plant morphological structure are introduced since it is the initial work of modeling. We divide the existing morphogenetic models into three categories: static models, non-interactive dynamic models and morphology-environment interactive models. An extensive survey of morphogenetic models is presented. Advantages and disadvantages of these models are analyzed. The remaining problems in the current morphogenetic model research are also pointed out.
+
+Dynamic Model
+Morphogenetic model
+Static Model
+Virtual plant

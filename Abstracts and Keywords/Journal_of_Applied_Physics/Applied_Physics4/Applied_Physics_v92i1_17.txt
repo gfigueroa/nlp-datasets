@@ -1,0 +1,10 @@
+We have performed in situ and ex situ measurements of reflectance difference (RD) spectra for Cl-doped n-type ZnSe grown by molecular beam epitaxy. The linear electro-optic (LEO) effect (or Pockels effect) in the depletion layer induces characteristic RD features near the E1 and E1+”1 transition energy. The intensity of these features is correlated with the carrier concentration determined from capacitancevoltage measurements. A quantitative model is presented to explain the observed dependence of the LEO signal on the carrier concentration. This model quantitatively considers the effect of the finite surface state density. A good fit with the experimental results was obtained by assuming the surface state densities of 3.8×1013 and 2.6×1013 cm2	eV1, respectively, for in situ measurement of a Se-terminated surface at 300		°C and for ex situ measurement of an oxide-covered surface at room temperature. © 2002 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+reflectivity
+carrier density
+Pockels effect
+semiconductor epitaxial layers
+surface states
+molecular beam epitaxial growth

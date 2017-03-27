@@ -1,0 +1,9 @@
+In a recent communication Sato et al. [J. Appl. Phys. 69, 7933 (1991)], it states that the high current output of multiply charged ions, Ii, where i is the charge state, during the early part of the discharge in a pulsed Penning source is due to the long ion confinement time. They argue that Ii is proportional to the ion confinement time, Ä, however, it is shown here that Ii is proportional to Ä	i1 and not Ä. The power dependence better explains the experimental results but does not conclusively prove the importance of Ä.
+
+PENNING ION SOURCES
+MULTICHARGED IONS
+CONFINEMENT
+NONEQUILIBRIUM
+PULSES
+ION DENSITY
+PLASMA

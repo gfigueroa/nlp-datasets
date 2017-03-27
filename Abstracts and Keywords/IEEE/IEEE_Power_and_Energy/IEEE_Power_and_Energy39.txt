@@ -1,0 +1,6 @@
+Low-voltage current interruption is studied in this paper in order to develop a suitable blackbox model for low-voltage circuit breakers. The electric arc will be modeled by means of electrical quantities. Accurate post-arc current measurements by a high sensitivity current probe and signal analysis techniques (Savitsky-Golay filtering) are adopted to extract information. A set of interrupting performance evaluators is proposed, and the best performing indicators are selected. Theoretical explanations provide insight in the physical processes of low-voltage interruption. The difference with the classical context of blackbox modeling in medium- and high-voltage circuit breakers is explained, based on the different relative weight of the arc voltage and voltage supply.
+
+Blackbox models
+Savitsky&#x2013;Golay filter
+interruption performance evaluators
+low-voltage arc

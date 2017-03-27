@@ -1,0 +1,9 @@
+ This paper introduces the iSith metaphor, a concept for a very direct bimanual object selection and manipulation interface using two ray pointers, one for each hand, and thus taking advantage of the user&#146;s natural control over his interhand-coordination. The concept allows controlled translation of virtual objects in an increased interaction volume, not restricted by arm&#146;s length and without the use of buttons for reeling or confusing algorithms for translation scaling.
+
+ 3D user interface
+ Bimanual interaction
+ immersive virtual environments
+ ray
+ selection
+ symmetric interaction
+ two-handed input

@@ -1,0 +1,6 @@
+The increased use of spread spectrum techniques in modern communication system has confronted designers with the non-trivial task of interpreting and translating system demands into circuit specification and verification. To overcome these constraints, we present an integral strategy for spread spectrum simulation and test, which will be illustrated using the North American Digital Cellular, IS-95 standard. Taking advantage of HP-EEsofÂ¿s Circuit Envelope Simulator developed for the simulation of RF circuits driven by complex signals, we have implemented the complete IS-95 standard in their Microwave Design System (MDS). This facilitates simulation and test at the hardware and software level using physical CDMA signals as defined in the simulator and generated externally. CDMA design examples are introduced and considered in some depth. This method can be extended for testing a wide variety of circuits intended for use in other communication systems such as W-CDMA, GSM and DECT.
+
+CDMA
+Mobile communication
+Verification
+Virtual loop

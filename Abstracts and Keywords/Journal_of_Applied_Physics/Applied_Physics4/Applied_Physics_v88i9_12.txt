@@ -1,0 +1,11 @@
+We investigate theoretically the electronic structure of InxGa1xAs/GaAs near-surface quantum wells within the framework of the effective mass theory. We found that the energies of electron and hole states depend sensitively on the capped layer thickness, and the Stark shift is asymmetric with respect to the applied electric field, i.e., the blueshifts or redshifts are determined by the direction and the strength of the electric field. The asymmetric Stark shift is due to the image charge effect and the Coulomb interaction. The spatial distribution of the electron and hole changes significantly when the thickness of the capped layer and the electric field is varied. The exciton binding energy is enhanced significantly by the image charge effect and decreases rapidly with increasing capped layer thickness. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+quantum confined Stark effect
+effective mass
+interface states
+band structure
+excitons

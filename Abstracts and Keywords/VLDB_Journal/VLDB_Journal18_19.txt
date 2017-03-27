@@ -1,0 +1,5 @@
+We introduce RATEWeb, a framework for establishing trust in service-oriented environments. RATEWeb supports a cooperative model in which Web services share their experiences of the service providers with their peers through feedback ratings. The different ratings are aggregated to derive a service providers reputation. This in turn is used to evaluate trust. The overall goal of RATEWeb is to facilitate trust-based selection and composition of Web services. We propose a set of decentralized techniques that aim at accurately aggregating the submitted ratings for reputation assessment. We conduct experiments to assess the fairness and accuracy of the proposed techniques.
+
+Reputation
+Trust
+Web service

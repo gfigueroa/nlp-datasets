@@ -1,0 +1,13 @@
+In this paper we present 300 and 77 K photoluminescence (PL) investigations of GaAs/AlGaAs heterojunction bipolar transistor (HBT) structures grown by lowpressure metalorganic vapor phase epitaxy. Special attention is paid to the dependence of the PL signal intensity on the excitation power. We find a strongly nonlinear behavior which we attribute to the modification of the internal pn junctions in the HBT layer structure by the above bandgap excitation. Model calculations performed in the framework of a driftdiffusion mechanism are shown to agree well with the experimental results if generation and recombination of electronhole pairs are correctly included in the simulation procedure. The photoluminescence of HBT layer sequences with variations in collector doping and thickness, in base thickness and composition is examined. It is shown that these layer parameters have a unique influence on the relation between PL intensity and excitation density. A thorough analysis of the PL data provides additional information about electrical properties of the basecollector junction within the HBT structure. This information can be obtained without employing any process technology. For this reason PL is a very comfortable and efficient characterization method even for complicated multilayer structures designed for device applications.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+HETEROJUNCTIONS
+BIPOLAR TRANSISTORS
+PHOTOLUMINESCENCE
+VPE
+MEDIUM TEMPERATURE
+LOW TEMPERATURE
+NONLINEAR PROBLEMS
+ELECTRONHOLE DROPS
+RECOMBINATION

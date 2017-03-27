@@ -1,0 +1,5 @@
+In this paper, a fault detection and diagnosis (FDD) scheme for a class of discrete nonlinear system fault using output probability density estimation is presented. Unlike classical FDD problems, the measured output of the system is viewed as a stochastic process and its square root probability density function (PDF) is modeled with B-spline functions, which leads to a deterministic space-time dynamic model including nonlinearities, uncertainties. A weighted average function is given as an integral form of the square root PDF along space direction, which leads a function only about time and can be used to construct residual signal. Thus, the classical nonlinear filter approach can be used to detect and diagnose the fault in system. A feasible detection criterion is obtained at first, and a new adaptive fault diagnosis algorithm is further investigated to estimate the fault. The simulation example given demonstrates the effectiveness of the proposed approaches.
+
+Fault detection
+fault diagnosis
+probability density function

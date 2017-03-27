@@ -1,0 +1,13 @@
+Nitrogen has been introduced in the preparation of hydrogenated amorphous silicon carbon alloy films by magnetron sputtering of silicon in a methaneargon gas mixture. The partial pressure of nitrogen was changed, and its effects on the structural, optical, electrical, and optoelectronic properties of the deposited films were investigated. The SiN bond becomes predominant with increasing partial pressure of nitrogen pN above 10%, at which the optical band gap is rapidly increased. The concentration of silicon and carbon in the films remained almost unchanged by changing pN up to 20%. It was found that the photoconductivity is also almost unchanged up to 20%, while the optical band gap is increased. This indicates that the photoconductivity is improved over a wider optical band gap, as compared with previous studies when the optical band gap was changed by changing deposition conditions but without introducing nitrogen.
+
+SILICON CARBIDES
+SILANES
+FILMS
+AMORPHOUS STATE
+PHOTOCONDUCTIVITY
+ENHANCEMENT
+SPUTTERING
+NITROGEN
+OPTICAL PROPERTIES
+ELECTRICAL PROPERTIES
+SOLID STRUCTURE

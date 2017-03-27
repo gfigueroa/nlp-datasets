@@ -1,0 +1,9 @@
+Current spreading and current concentrating effects of constricted doubleheterojunction lasers (CDH) have been studied. A quantitative formula of the current profile for CDH structure has been obtained theoretically and verified experimentally. In addition, we have compared the influence of these two effects on the threshold current of CDH lasers. From this study, we proposed a scheme to reduce threshold current and fabricated lasers with typical threshold currents of 3050 mA. The lowest threshold current is 27.5 mA (L=125 ¼m, s=10 ¼m, 21	°C, cw). Our results also indicated that the temperature coefficient T0 of CDH lasers will be improved only through increasing side leakage current.
+
+THRESHOLD CURRENT
+FABRICATION
+SEMICONDUCTOR LASERS
+EXPERIMENTAL DATA
+ELECTRIC CURRENTS
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES

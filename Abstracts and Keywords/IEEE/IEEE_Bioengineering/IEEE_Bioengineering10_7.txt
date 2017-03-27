@@ -1,0 +1,7 @@
+The paper presents a new and fast algorithm to efficiently compute radix-10 logarithm of a decimal number. The algorithm uses 32-bit floating-point arithmetic, and is based on a digit-by-digit iterative computation that does not require look-up tables, curve fitting, decimal-binary conversion, or division operations; the number of iterations depends on the user defined precision. The algorithm produces error-free (infinite precision) results up to 7 decimal digits. A numerical example is shown for the purpose of illustration. The accuracy is analyzed for several decimal digits showing compliance with the IEEE 754-2008 standard. When implemented on to the Xilinx VirtexII FPGA, the architecture costs only 1,053 logic cells, runs at a maximum frequency of 44 MHz, and consumes 79 mW of power.
+
+Decimal logarithm
+IEEE754-2008
+floating point arithmetic
+iterative computation
+radix-10 converter

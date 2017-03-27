@@ -1,0 +1,11 @@
+Nanogranular CoAlO thin films were fabricated by rf magnetron sputtering using Co target partially covered by Al2O3 chips in argon atmosphere. The films consist of Co nanograins with a mean diameter of 530nm surrounded by an amorphous AlO phase. It was found that Co grains of face-centered-cubic and hexagonal-close-packed structures coexist in the films with relatively low (Al,O) content, whereas Co grains of face-centered-cubic structure are preferentially formed in the films with higher (Al,O) content. Due to the microstructure changes with increasing (Al,O) content in the films, coercivity and magnetization decrease but the anisotropy field increases. The high frequency properties of the CoAlO films were experimentally characterized, and the effects of magnetization, anisotropy field, and damping factor on the permeability spectrum are also analyzed using the Landau-Lifshitz-Gilbert equation. The ferromagnetic resonance frequency was found to increase from 2.1to2.8GHz with the microstructure change in the films.
+
+cobalt compounds
+grain size
+magnetic thin films
+magnetic anisotropy
+amorphous magnetic materials
+magnetisation
+high-frequency effects
+ferromagnetic resonance
+magnetic permeability

@@ -1,0 +1,7 @@
+This paper presents analyses and estimation of optimal control strategies of the parallel hybrid electric vehicles (HEV) from the perspective of fuel economy and maximum energy regeneration during an active braking process. In the paper, there are four main control strategies of continuously variable transmission (CVT) during a regenerative braking process depicted and discussed in detail. The four strategies are: 1) Control strategy of maximal use of regenerative braking. 2) Control strategy of CVT during to support workload of electrical motor according to maximal efficiency characteristics. 3) Control strategy of the CVT for maximal regenerative of energy of braking process per braking distance unit or braking time unit. 4) Discrete control strategy of the CVT with direct combinatorial applications of genetic algorithms and elements of fuzzy logic in control unit of the HEV. In all depicted control strategies, data of the HEV's drive system components, such as, electric motor, internal combustion engine, energy storage, transmission - CVT, are obtained from database of the software package ADVISOR of National Renewable Energy Laboratory (NREL).
+
+fuzzy logic
+genetic algorithms
+hybrid vehicle
+optimal control strategies
+regenerative process

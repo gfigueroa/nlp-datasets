@@ -1,0 +1,21 @@
+Let us consider the surface composition of the binary alloy, where the surface composition R1 is considered to be different from the bulk inside composition R2 and also the segregation region thickness is T. In this model it is possible to count the Auger signals considering the contributions of an attenuating primary beam and the secondary electrons which are backscattered and forwardscattered. Using the theory, we have calculated these R1 for the reported experimental results of the AgAu binary alloy as a function of T. The calculated Ag composition R1 are compared with the ISS (Ion Scattering Spectroscopy) results that are said to be the most surface sensitive technique. When the bulk Ag content is less than 50 at.	%, the Ag segregation region thickness T is considered to be one monolayer (2.58 Å < an average layer spacing, d3 = M/6.02×1023Á, where M = atomic mass and Á = specific mass or density). However, when the bulk content is greater than 50 at.	%, T lies between one and two monolayers (2.58 and 5.16 Å). The usual method that uses a relative sensitivity factor only estimates the surface average composition in the depth of the mean free path of the Auger electrons. However, this method can estimate the surface composition R1 as well as the segregation region thickness T.
+
+BINARY ALLOY SYSTEMS
+SURFACES
+SEGREGATION
+AUGER ELECTRON SPECTROSCOPY
+THICKNESS
+QUANTITY RATIO
+MATHEMATICAL MODELS
+BACKSCATTERING
+SCATTERING
+SECONDARY EMISSSION
+ELECTRONS
+THEORETICAL DATA
+DATA
+GOLD
+SILVER
+LAYERS
+SPATIAL DISTRIBUTION
+MEAN FREE PATH
+SENSITIVITY

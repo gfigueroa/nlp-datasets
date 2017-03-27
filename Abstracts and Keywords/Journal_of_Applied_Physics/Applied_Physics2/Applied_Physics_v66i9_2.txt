@@ -1,0 +1,13 @@
+The advantage of a film with high saturation magnetic flux density for perpendicular magnetic recording is investigated through computer simulations and read/write measurements. A singlepole head using FeC/NiFe multilayered film with a saturation magnetic flux density of 2.0 T is fabricated. Read/write tests are performed with the CoCr doublelayer media. It is shown that the recording ability of this head is very high and does not change with increasing CoCr layer coercivity. Computer simulations show that the recording ability also increases when using film with high saturation magnetic flux density for the back layer of a doublelayer medium. The upper limit of saturation magnetization of the recording layer can be extended by increasing coercivity. Thus, the higher saturation magnetization medium, which offers higher output voltage and resolution, can be used by applying film with high saturation magnetic flux density for the main pole and the back layer.
+
+MAGNETIC STORAGE DEVICES
+MAGNETIC TAPES
+IRON
+CARBON
+NICKEL
+MULTILAYERS
+FILMS
+MAGNETIC FLUX
+SATURATION
+COMPUTERIZED SIMULATION
+COERCIVE FORCE

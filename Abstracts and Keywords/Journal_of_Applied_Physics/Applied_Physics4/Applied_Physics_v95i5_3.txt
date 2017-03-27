@@ -1,0 +1,6 @@
+Early work in force-detected nuclear magnetic resonance (FD-NMR) and magnetic resonance force microscopy was restricted to nuclei with a relatively large gyromagnetic ratio ³. Increasingly, as researchers look to apply FD-NMR to practical problems, observing isotopes with a small ³ is becoming necessary. The small ³ of these isotopes places severe restrictions on the radio frequency field strength necessary to flip the sample spins at practical cantilever frequencies by adiabatic rapid passage. These restrictions led us to investigate the feasibility of observing FD-NMR by flipping sample spins at a rate well below the cantilever frequency. In this article we show that there is no increase in thermomechanical force noise in off-cantilever-resonance FD-NMR relative to on-cantilever-resonance work. Further, we show that working off-cantilever resonance can reduce artifacts and decrease data acquisition time. The major disadvantage to working off-cantilever resonancereduced cantilever responseincreases the importance of low noise detection of cantilever oscillation. © 2004 American Institute of Physics. 
+
+nuclear magnetic resonance
+magnetic noise
+gyromagnetic ratio
+spin dynamics

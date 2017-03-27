@@ -1,0 +1,7 @@
+The effect of a dc stress voltage on the junction resistance and magnetoresistance (MR) of spin-dependent tunneling (SDT) junctions with naturally oxidized barriers was investigated. There is a threshold voltage at which irreversible resistance change begins. Beyond this threshold, device resistance decreases gradually over a transition period prior to breakdown of the tunneling barrier. The onset voltage of irreversible resistance change is much higher than the optimum operating voltage of SDT heads having the precursor aluminum thicknesses here investigated (511 Å). The MR ratio decreased with increasing stress voltage in a pattern similar to that of the junction resistance. © 2001 American Institute of Physics. 
+
+tunnelling
+magnetoresistance
+magnetic multilayers
+magnetoresistive devices
+electron spin polarisation

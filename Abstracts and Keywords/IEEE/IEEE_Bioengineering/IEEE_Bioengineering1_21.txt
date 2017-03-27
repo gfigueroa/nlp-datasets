@@ -1,0 +1,6 @@
+The paper demonstrates the advantages arising from the simultaneous assessment of RF-MEMS capacitive switches and MIM capacitors. The application of simple capacitive-voltage characteristics and thermally stimulated depolarization current methods, respectively, allow the discrimination of the contribution of injected charges induced space charge polarization and the dipolar polarization. The proposed method allows the direct determination of device degradation sources and can be used for the dielectric material improvement.
+
+Dielectrics polarization
+microelectromechanical devices
+reliability
+surface charging

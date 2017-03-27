@@ -1,0 +1,4 @@
+The neuraminidase of the influenza virus is the target of the anti-flu drugs oseltamivir and zanamivir. Clinical practices show that zanamivir and oseltamivir are effective to treat the 2009 H1N1 influenza virus. Herein, we report the findings of molecular simulations for zanamivir, oseltamivir, and Chinese natural herb products with the neuramindase of the 2009 H1N1 influenza. Our approach theoretically suggests that the Glu278 residue is responsible for the neuramindase of the 2009 influenza drug selectivity.
+
+H1N1 virus neuramindase
+Molecular dynamics

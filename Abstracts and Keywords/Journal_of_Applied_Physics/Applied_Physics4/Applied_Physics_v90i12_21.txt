@@ -1,0 +1,8 @@
+We have determined the elastic constants of langasite-type crystals (La3Ga5SiO14, La3Ga5.5Nb0.5O14, and La3Ga5.5Ta0.5O14) from measurements of the sound velocity of acoustic waves. Starting with the elastic tensor determined from bulk acoustic waves, we optimized the data set by investigating the influence of the elastic tensor components on the angular dispersion of surface guided waves. This procedure is particularly useful for accurate determination of the nondiagonal elements of the elastic tensor. Phase velocity calculations based on the new set of constants show an increased agreement with experimental data compared to the data set derived from bulk waves and previously published material data. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+gallium compounds
+elastic constants
+acoustic wave velocity
+surface acoustic waves
+acoustic waves

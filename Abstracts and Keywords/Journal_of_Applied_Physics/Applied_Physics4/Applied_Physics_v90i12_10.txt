@@ -1,0 +1,6 @@
+Microscale contact between two solid surfaces induced by the liquid-bridging force is studied in the present article. Attention is focused on the interaction between the size of the contact area and the magnitude of the liquid-bridging force. The liquid-bridging force is related to the contact size and the other parameters, such as the filling angle, the contact angles, and the surface tension of the liquid, by solving the LaplaceYoung equation. A singular integral equation for the coupled contact equilibrium problem is established and solved. Two approximate solutions for the same problem are also given and compared with the solution of the singular integral equation. Parametric study reveals the dependence of the semicontact width and the liquid-bridging force on the filling angle and the dimensionless group in the microscale contact. © 2001 American Institute of Physics.
+
+contact angle
+surface tension
+adhesion
+friction

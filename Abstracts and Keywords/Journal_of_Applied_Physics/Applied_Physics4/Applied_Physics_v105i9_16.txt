@@ -1,0 +1,9 @@
+GaSb and InSb epilayers grown on GaAs (001) vicinal substrates misoriented toward (111) plane were studied using high resolution x-ray diffraction. The results show that GaSb and InSb epilayers take on positive crystallographic tilt, and the asymmetric distribution of 60° misfit dislocations in {111} glide planes have an effect on the tilt. In addition, the vicinal substrate influences the distribution of the threading dislocations in {111} glide planes, and the density of dislocation in the (111) plane is higher than in the (1) plane. A model was proposed to interpret the distribution of full width at half maximum, which can help us understand the formation and glide process of the dislocations.
+
+dislocation density
+gallium compounds
+III-V semiconductors
+indium compounds
+semiconductor epitaxial layers
+slip
+X-ray diffraction

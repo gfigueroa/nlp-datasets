@@ -1,0 +1,9 @@
+This paper presents a control scheme based on a superconducting magnetic energy storage (SMES) unit to achieve both power flow control and damping enhancement of a novel hybrid wind and marine-current farm (MCF) connected to a large power grid. The performance of the studied wind farm (WF) is simulated by an equivalent 80-MW induction generator (IG) while an equivalent 60-MW IG is employed to simulate the characteristics of the MCF. A damping controller for the SMES unit is designed by using modal control theory to contribute effective damping characteristics to the studied combined WF and MCF under different operating conditions. A frequency-domain approach based on a linearized system model using eigen techniques and a time-domain scheme based on a nonlinear system model subject to disturbance conditions are both employed to validate the effectiveness of the proposed control scheme. It can be concluded from the simulated results that the proposed SMES unit combined with the designed damping controller is very effective to stabilize the studied combined WF and MCF under various wind speeds. The inherent fluctuations of the injected active power and reactive power of the WF and MCF to the power grid can also be effectively controlled by the proposed control scheme.
+
+Eigen techniques
+induction generator (IG)
+marine-current farm (MCF)
+modal control theory
+nonlinear model simulations
+superconducting magnetic energy storage (SMES)
+wind farm (WF)

@@ -1,0 +1,8 @@
+A concept of three modules micro smart quantitative polymerase chain reaction (3M<sup>2</sup>sqPCR) is proposed and designed. The main design philosophy is to meet the ever increasing challenge of low cost, light-weighted, portable and real-time sensitive detection PCR system. The system consists of three modules: the micro-heater module, the reaction cell module and the electrochemical detection module. Experiments have been done to test performance of each module of the prototyped device. The test results reveal that the modules are sensitive and reliable, so the total 3M<sup>2</sup>sqPCR system is promising realized and suitable to perform further total analysis trials.
+
+3M<sup>2</sup>sqPCR
+electrochemical
+methylene blue
+micro-eletrode
+micro-heater
+three-module

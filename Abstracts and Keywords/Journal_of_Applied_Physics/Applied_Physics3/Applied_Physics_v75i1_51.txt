@@ -1,0 +1,12 @@
+By making use of the fact that domainwall motions do not produce volumetric changes, an experimental method is introduced to directly and quantitatively determine the domainwall and intrinsic contributions to the piezoelectric and dielectric responses of a ferroelectric material. Utilizing this method, the contributions from the domain walls and intrinsic part as well as their temperature dependence for lead zirconatetitanate (PZT) 52/48 and PZT500 ceramics are evaluated. The data show that at temperatures below 300 K, the large change in the dielectric and piezoelectric constants with temperature is due to the change in the domainwall activities in the materials. The results confirm that most of the dielectric and piezoelectric responses at room temperature for the materials studied is from the domainwall contributions. The data also indicate that in PZT500, both 180° wall and non180° walls are possibly active under a weak external driving field. 	
+
+PZT
+CERAMICS
+DOMAIN WALLS
+DIELECTRIC FUNCTION
+PIEZOELECTRICITY
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 65273 K
+TEMPERATURE RANGE 1365 K
+RESPONSE FUNCTIONS
+MEASURING METHODS

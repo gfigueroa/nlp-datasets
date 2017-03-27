@@ -1,0 +1,12 @@
+The anomalies in photoluminescence spectra of modulation doped AlGaAs/GaAs/AlGaAs double barrier heterostructures with various GaAs quantum well (QW) widths are observed. The intensity of the photoluminescence peak excited by Ar laser and associated with electron optical transitions from the second QW subband to the valence band becomes higher than for the case of the first (lowest) subband in the GaAs QW width range L = 22.530 nm. The calculations of electron-polar optical phonon scattering rate show that the well-width dependence of the intersubband electron scattering rate due to emission of confined and interface optical phonons is responsible for the photoexcited electron subband population redistribution and anomalies in the photoluminescence spectra. The transition rate for the second QW subband electron binding to the exciton state is evaluated as 25×1010 s1 at L&lt;22.5 nm and 4×1010 s 1 at 22.5&lt;L } 30 nm. © 1997 American Institute of Physics. 
+
+aluminium compounds
+gallium arsenide
+III-V semiconductors
+photoluminescence
+interface states
+semiconductor heterojunctions
+semiconductor quantum wells
+electron-phonon interactions
+excitons
+valence bands

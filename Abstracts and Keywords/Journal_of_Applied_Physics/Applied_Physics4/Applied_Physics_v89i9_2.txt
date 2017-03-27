@@ -1,0 +1,4 @@
+This article is devoted to the study of image formation in gas discharge, initiated by a strong impulsive electromagnetic field around drops of four different nonorganic electrolytes. To describe the image mathematically we propose several parameters: the form coefficient (fractality), the entropy, and the average streamer width. We study the dependence of these parameters on concentration. The form coefficient turns out to have the best combination of stability and sensitivity in the whole range of concentrations. Statistically significant difference between the solutions and distilled water disappears at concentrations of about 220 N. © 2001 American Institute of Physics.
+
+discharges (electric)
+electrolytes

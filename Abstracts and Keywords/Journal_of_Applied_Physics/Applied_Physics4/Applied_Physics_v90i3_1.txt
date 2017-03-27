@@ -1,0 +1,11 @@
+Photoacoustic and electron paramagnetic resonance (EPR) spectroscopies have been applied to resolve the electronic structure in powder polycrystalline samples of three biogenic polyamine copper complexes, spermine copper dinitrate, aqua norspermine copper dinitrate, and homospermine copper dinitrate. The fine structure of the intense absorption band in the photoacoustic spectra is assigned to the dd transitions between the crystal field split levels of copper ions, that cannot be discriminated in the UV/vis solution absorption spectra. Combination with the EPR results allows one to probe the variation of the electronic properties and bonding interaction at the copper site, consistent with the structural data for the crystalline complexes and further supports the reliability of the photoacoustic method to resolve the dd transition band. A dominant contribution of the in-plane ligand field due to equatorial nitrogen atoms is deduced for the complexes of polyamines with copper salts. © 2001 American Institute of Physics. 
+
+paramagnetic resonance
+photoacoustic spectra
+organic compounds
+fine structure
+crystal field interactions
+bonds (chemical)
+copper compounds
+molecular biophysics
+electronic structure

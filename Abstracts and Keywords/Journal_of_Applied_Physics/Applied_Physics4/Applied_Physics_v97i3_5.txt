@@ -1,0 +1,12 @@
+A three-dimensional transient temperature field model (TTFM) is proposed for the general problem of laser-induced out-of-equilibrium annealing of a bilayer device, which is made up of a bulk material covered by a transparent layer. The TTFM solves the moving-boundary problem with a deterministic relation between the interface velocity and temperature in contrast to preceding problem-dependent models, which use an interface-tracking heuristic algorithm. The TTFM is the first step to model many temperature-driven phenomena such as diffusion and segregation in laser annealing. Both computed transient temperature field and melted-zone dimensions of a SiO2/Si example device, which is irradiated by a focused visible (532nm) laser, are in very good agreement with experimental measurements.
+
+silicon
+silicon compounds
+elemental semiconductors
+laser beam annealing
+laser beam effects
+semiconductor devices
+boundary-value problems
+diffusion
+segregation
+melting

@@ -1,0 +1,12 @@
+The temperature dependence of ultrasonic absorption and nonlinearity parameter has been investigated in the range 80300 K for LiF and NaF. We have estimated the attenuation of ultrasound in these materials for longitudinal and shear waves along the [100], [110], and [111] directions using Masons pure mode formulation [in Physical Acoustics, edited by W. P. Mason and R. N. Thurston (Academic, New York, 196465), Vol. 3B, Chap. 6] and also using a computer program recently developed by us which is based on the interaction of the sound wave with a much wider spectrum of the phonon modes and which also incorporates the refinements suggested by Merkulov, Kovalenok, and Konovodchenko [Sov. Phys. Solid State 11, 2241 (1970)] regarding the dependence of Masons integral on the cutoff frequency supported by the lattice. The results obtained using our program are in better agreement with the experimental variation of attenuation than those obtained using Masons pure mode scheme in most cases. The nonlinearity parameter ² defined by Breazeale and Philip (in Physical Acoustics, Vol. 17, Chap. 1) has also been estimated for longitudinal waves along the [100], [110], and [111] directions in this temperature range. The variation of ² with temperature in these materials is found to be similar to that measured for NaCl. © 1995 American Institute of Physics. 	
+
+ATTENUATION
+COMPUTER CALCULATIONS
+LITHIUM FLUORIDES
+NONLINEAR PROBLEMS
+PHONONS
+SHEAR WAVES
+SODIUM FLUORIDES
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 65273 K
+ULTRASONIC WAVES

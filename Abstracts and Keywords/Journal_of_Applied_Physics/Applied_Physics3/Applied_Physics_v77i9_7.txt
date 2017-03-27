@@ -1,0 +1,14 @@
+Current induced excess noise, in connection with bolometric performance of thin superconducting GdBa2Cu3O7x films on silicon membranes, has been investigated as a function of temperature within the transition regime for the first time. The data reveal a strong correlation between structural film properties and the individual noise pattern that clearly indicates three separated coexisting superconducting phases in the film, with transition temperatures of 84.5, 86, and 88.5 K. The latter accounts for the current carrying properties, while the former two have a limiting effect on the sensitivity of the device. Inhomogeneous film growth accounts for high resistance fluctuation noise (flicker noise) at very low frequency. Also, a drastically increased sensitivity against electromagnetic background interference has been observed, in conjunction with nonlinear properties of the device, and at isolated frequencies. The increase in the concentration of microcracks in the film generated upon thermomechanical stress, and through aging, accounts for a drastic increase in the overall noise magnitude and a rapidly degrading bolometric performance, respectively. © 1995 American Institute of Physics.
+
+SUPERCONDUCTING FILMS
+SILICON
+MEMBRANES
+BOLOMETERS
+NOISE
+CRYSTAL STRUCTURE
+GADOLINIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+STRESSES
+MICROCRACKS

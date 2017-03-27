@@ -1,0 +1,9 @@
+The indirectexchange interaction between nuclear spins in Cu and Ag has been calculated using band structures based on two different methods: a selfconsistent ab initio method and a semiempirical parametrized method. The results from the different band approaches agree with one another more closely than either of them does with the conventional result based on freeelectron bands and constant matrix elements. The oscillatory nature of the interaction is similar in each case but the nearestneighbor interaction is far more significant in the former cases. It is concluded that the simpler, parametrized approach gives satisfactory results but that there is insufficient evidence at this stage for any of the theoretical results to be chosen as the definitive one to be used in explaining the ordering of the nuclear spins in Cu.
+
+EXCHANGE INTERACTIONS
+COPPER
+SILVER
+AB INITIO CALCULATIONS
+MAGNETIC ORDERING
+BAND STRUCTURE
+ANTIFERROMAGNETIC MATERIALS

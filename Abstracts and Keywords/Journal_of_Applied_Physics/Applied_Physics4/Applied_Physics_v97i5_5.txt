@@ -1,0 +1,14 @@
+The energy level structure of a step-like GaInNAsSb/GaNAs/GaAs quantum well (QW) has been investigated by photoreflectance (PR) spectroscopy and was analyzed by theoretical calculations. In the active region of this structure, i.e., GaInNAsSb/GaNAs QW, we have observed PR resonances related higher order QW transitions in addition to the ground state transition. Based on calculations from experimental data, we have found that the electron effective mass in the active QW is 0.12m0 and the conduction band offset for GaInNAsSb/GaAs interface is about 0.85. The emission observed from this structure at 10K has a small Stokes shift (i.e., 6meV and &lt;2meV for as-grown and annealed structures, respectively) and is without the exponential-like tail at the low-energy side. Hence, we conclude that the incorporation of Sb atoms into GaInNAs alloy helps to achieve QW structures which emit light at longer wavelength and have quite narrow emission line and small Stokes shift.
+
+gallium compounds
+gallium arsenide
+indium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor quantum wells
+conduction bands
+energy gap
+photoreflectance
+photoluminescence
+annealing
+ground states

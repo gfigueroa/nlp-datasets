@@ -1,0 +1,11 @@
+We study the role that the denuded zone around Si nanocrystals obtained by chemical vapor deposition plays on the fluctuations of the dot surface coverage. In fact, the capture mechanism of the silicon adatoms in the proximity of existing dots restricts the number of possible nucleation sites, the final dot size, and the dot position, thus driving the process toward partial self-order. We numerically evaluate the relative dispersion of surface coverage for several gate areas and compare the results to the fully random case. The coverage dispersion is related to the fluctuations from bit to bit of the threshold voltage window (”Vth) distribution of nanocrystal memories. The evaluations, compared to experimental data on ”Vth extrapolated to small gate areas, provide very favorable projections on the scalability of these memories.
+
+silicon
+elemental semiconductors
+chemical vapour deposition
+nucleation
+nanostructured materials
+nanotechnology
+semiconductor storage
+adsorption
+semiconductor growth

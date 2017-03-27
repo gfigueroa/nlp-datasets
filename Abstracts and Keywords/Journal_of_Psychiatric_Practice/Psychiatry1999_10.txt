@@ -1,0 +1,16 @@
+The authors first review the current classification of memory systems and their proposed neuroanatomical correlates and discuss how this general framework can be helpful in "localizing a lesion" and focusing the differential diagnosis of memory decline. They focus especially on the anatomical mapping of declarative memory function. They then review a variety of different pathological processes that can disrupt memory function, including metabolic conditions that can lead to memory decline (hypothyroidism, vitamin B12/folate deficiency, and thiamine (vitamin B1) deficiency), medications, recreational drugs, industrial and marine toxins, infections, neurodegenerative disorders, aging, trauma, neoplasms, vascular problems, and seizures. Two syndromes that can be associated with memory decline, depression and transient global amnesia, are also reviewed. 
+
+long-term memory
+short-term memory
+memory decline
+hypothyroidism
+vitamin deficiency
+recreational drugs
+alcohol
+toxins
+HIV
+Alzheimer's disease
+aging
+depression
+cerebrovascular accident
+transient global amnesia

@@ -1,0 +1,7 @@
+Silver lithium niobate (Ag<inf>0.9</inf>Li<inf>0.1</inf>Nb<inf>0.3</inf>, ALN10) single crystals were grown by a slow cooling method without flux under oxygen flow. By optimizing growth conditions, the ALN10 crystals with sizes of ca. 30 mm cube were successfully grown. Its crystal symmetry was investigated by high energy X-ray diffraction, and the space group at 24Â°C was assigned to the ferroelectric Pc2<inf>1</inf>b orthorhombic symmetry. The ALN10 crystals were oriented along the [010]<inf>o</inf> and the [110]<inf>o</inf> directions, and their piezoelectric properties were measured using the 31 resonators.
+
+crystal growth
+piezoelectric property
+silver lithium niobate
+single crystal
+space group

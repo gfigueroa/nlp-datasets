@@ -1,0 +1,6 @@
+Facing today's educational popularization and students on various levels, how to carry out course teaching more effectively has become an active research in universities. Based on the theory of Â¿zone of proximal developmentÂ¿ (ZPD), we introduce the method of effectively carrying out multi-level teaching in software engineering specialty education, and present the concrete methods taking data structure and algorithm course for example. Setting different teaching aims and method for students on various levels, this method is beneficial for stimulating their study interest and improving the quality of software engineering teaching. The practical applications demonstrate its effectiveness and efficiency for improving education quality.
+
+Data Structure
+Instructional design
+Zone of Proximal Development (ZPD)
+multi-level teaching

@@ -1,0 +1,7 @@
+Machine vision for selective weeding or selective herbicide spraying relies substantially on the ability of the system to analyze weed images and process the extracted knowledge for decision making prior to implementing the identified control action. To control weed, different weed type would require different herbicide formulation. Consequently the weed must be identified and classified accordingly. In this work, weed images were classified as either broad or narrow weed type. A fundamental problem in weed image recognition using planar curve analysis is to detect curve. It is difficult to successfully extract curve from the image of weed edges since the appropriate scale to use for extraction is not known a priori. As such, this paper considers a curve detection method based on the quadratic polynomial technique which include the use of the region-of- interests (ROI) technique. The ROI technique creates image subsets by selecting regions of the displayed image. The ROIs are typically used to extract statistics for image operations such as classification. As such, the objective of this paper is to present a novel application of curve detection feature extraction technique in weed classification.
+
+Feature Extraction
+Neural Network
+Pattern Recognition
+Plant Identification
+Region of Interest

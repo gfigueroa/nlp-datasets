@@ -1,0 +1,6 @@
+This article gives several answers to the comments of Py and Buehlmann about our article Conduction and low frequency channel noise of GaAs based pseudomorphic high electron mobility transistors [J. Appl. Phys. 91, 3318 (2002)]. © 2002 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+high electron mobility transistors
+semiconductor device noise

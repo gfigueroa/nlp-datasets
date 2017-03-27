@@ -1,0 +1,13 @@
+Deep level transient spectroscopy and transport properties measurements were performed on closespaced vapor transport deposited epitaxial GaAs. The deep EL2 donor level was consistently observed in all of the layers. A side band at around 300 K was found to be present in relatively high concentration close to the asgrown surface of the epitaxial films. The multilevel impurity model treatments suggest the existence of an offstoichiometryinduced deep acceptor level, related to possible gallium vacancies, in Asrich GaAs.
+
+GALLIUM ARSENIDES
+ARSENIC ADDITIONS
+E CENTERS
+VPE
+DLTS
+TRANSPORT PROCESSES
+DEEP ENERGY LEVELS
+FILMS
+IMPURITIES
+MATHEMATICAL MODELS
+LUMINESCENCE

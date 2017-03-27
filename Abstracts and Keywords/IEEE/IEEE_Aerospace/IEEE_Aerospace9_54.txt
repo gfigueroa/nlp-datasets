@@ -1,0 +1,8 @@
+This paper discusses the stabilization problem for the class of uncertain switched linear systems with norm-bounded uncertainties. A multiple Lyapunov function approach employing Metzler type of matrix inequalities is adopted to derive sufficient conditions under which the uncertain switched system is robustly asymptotically stable. A design procedure is proposed to determine simultaneously a switching rule, which depends only on the available information, and an associated state or output feedback controller that, when applied simultaneously, stabilize the closed-loop system for all admissible uncertainties. All the proposed conditions are expressed in term of bilinear matrix inequalities (BMIs) that can be solved as linear matrix inequalities (LMI) provided that certain design variables are fixed in advance. Numerical examples are presented to show the effectiveness of the proposed methods.
+
+Linear matrix inequalities
+Norm-bounded uncertainties
+Output feedback control
+Robust stability
+Switched systems
+Switching feedback control

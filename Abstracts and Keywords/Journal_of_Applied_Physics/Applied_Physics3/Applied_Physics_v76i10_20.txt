@@ -1,0 +1,15 @@
+Hightemperature phase relations in the Ferich corner of the NdFeTi ternary alloy system have been investigated and an equilibrium phase diagram has been constructed at 1100	°C. Arcmelted and annealed alloys of systematically varying compositions were characterized utilizing scanning electron microscopy, an energy dispersive xray microanalysis system (EDS), xray diffraction, and optical metallography. Three major phases have been identified, the well known Nd(Fe,Ti)12 1:12 (ThMn12type structure) and Nd2(Fe,Ti)17 2:17 (Th2Zn17type structure) compounds, and a phase with approximate composition Nd2(Fe,Ti)19 2:19. The crystal structure of the latter phase has very recently been solved, and the ideal composition shown to be Nd3(Fe,Ti)29 3:29. Quantitative EDS data has been used to identify the compositional limits for the three major phases. Annealing the 1:12 and 3:29 ternary phases at 900	°C results in a slow decomposition into Nd2(Fe,Ti)17, Fe2Ti, and ±Fe(Ti).
+
+MAGNETIC MATERIALS
+TERNARY ALLOYS
+NEODYMIUM ALLOYS
+IRON BASE ALLOYS
+TITANIUM ALLOYS
+PHASE STUDIES
+CRYSTAL STRUCTURE
+ANNEALING
+TEMPERATURE RANGE 10004000 K
+MICROANALYSIS
+XRD
+SEM
+METALLOGRAPHY

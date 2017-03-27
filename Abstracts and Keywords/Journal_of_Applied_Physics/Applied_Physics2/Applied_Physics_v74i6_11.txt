@@ -1,0 +1,14 @@
+Magnetic properties and magnetoresistance were investigated for Ni80Fe20/Cu multilayers with different Ni80Fe20 and Cu thicknesses that were prepared on an MgO (110) substrate using ion beam sputtering with different Ar ion acceleration voltage (VB). The structure of Ni80Fe20 is epitaxial distorted face centered tetragonal with (110) orientation, as was determined by xray and electron diffraction measurements. Thus, the induced inplane uniaxial magnetic anisotropy depends on the VB and the Ni80Fe20 layer thickness. A giant magnetoresistance at room temperature was obtained up to 20% for (15 Å Ni80Fe20/10 Å Cu)60 multilayers, and oscillated for Cu layer thickness with 12 Å period. The saturation field Hs for the giant magnetoresistance (GMR) is in good agreement with 2J/dMs, where J, d, and Ms are layer exchange coupling, magnetic layer thickness, and saturation magnetization, respectively. The small field changes ”H of 20 and 8 Oe needed for GMR were attained for n=16 (MR=12%) and 2 (MR=6.5%), respectively, in (70 Å Ni80Fe20/10 Å Cu)n with inplane uniaxial anisotropy.
+
+NICKEL ALLOYS
+IRON ALLOYS
+MULTILAYERS
+COPPER
+MAGNETORESISTANCE
+BINARY ALLOYS
+MAGNETIC ANISOTROPY
+SPUTTERED MATERIALS
+EPITAXIAL LAYERS
+OSCILLATIONS
+MAGNETIZATION
+SATURATION

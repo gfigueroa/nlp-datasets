@@ -1,0 +1,8 @@
+Lowtemperature photoluminescence spectra have been measured for a series of ZnSe films of varying thicknesses grown by molecularbeam epitaxy on GaAs, and variations in the spectra have been correlated with changes in the lattice parameter in the epilayer. Elastic strain resulting from inplane compression of the epilayer is found to cause a displacement of excitonrelated photoluminescence features to higher energies with decreasing layer thickness. This behavior reflects an increase in the band gap of ZnSe under increasing strain, similar to the behavior observed in several other zincblende semiconductor epilayer systems, but in contrast to the behavior predicted for this particular system by some authors.
+
+STRAINS
+ENERGY GAP
+PHOTOLUMINESCENCE
+MOLECULAR BEAM EPITAXY
+ZINC SELENIDES
+LATTICE PARAMETERS

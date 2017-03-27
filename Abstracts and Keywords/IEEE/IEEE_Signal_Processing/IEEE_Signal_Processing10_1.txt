@@ -1,0 +1,7 @@
+Advances in computing, communications and storage technology have seen a proliferation of multimedia resources on a wide range of online services. The rich content of multimedia data has called for innovative annotation technique and advanced IR methods for retrieving multimedia information. Great efforts have been made through MPEG-7 standards for multimedia metadata description, but difficult to manage and integrate due to lack of its formal semantics. While, complex retrieval techniques can enhance metadata search ability, fundamental to efficient searching and retrieval systems are based on how annotated data are organized and managed. Our research approach aims to provide a compressive context-based mapping of multimedia semantic organization and management based on a concept of a semantic space. This paper presents a formalized core context-based multimedia ontology model (a semantic Concept) that facilitates multimedia semantic organization and management. The formalized model has been used to generate RDF-OWL context-based multimedia semantics.
+
+contextual information
+multimedia semantics
+organisation and management
+representation
+semantic concept

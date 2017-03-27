@@ -1,0 +1,14 @@
+The time-resolved optical emission studies of laser ablated carbon plasma in nitrogen ambient are carried out to understand the dynamic of formation of C2 and CN for depositing quality thin films. An optimum formation of C2 is observed at 3 mm from the target surface and 350 ns after the initiation of plasma. However, CN is formed at comparatively larger distance, 4 mm, and larger delay (850 ns). The expanding plasma plume splits/bifurcates into slow and fast moving two distinct components, with the faster components further splitting up at later times (&gt;350ns) into two components. The estimated plume front velocity from plume imaging in the nitrogen ambient of 1.2 mbars at a delay of 100 ns is 3.8×106cm/s, consistent with spectroscopic measurement < 3.0×106cm/s. The CNx thin films deposited by pulsed laser deposition technique are characterized by x-ray diffraction, atomic force microscopy, and Raman spectroscopy. The high ID/IG ratio and peak position shift of G band to lower values in the films deposited for longer time indicates the high incorporation of nitrogen and increasing CN concentration within the film.
+
+atomic force microscopy
+carbon
+carbon compounds
+doping
+laser ablation
+nitrogen
+plasma materials processing
+pulsed laser deposition
+Raman spectra
+thin films
+time resolved spectra
+X-ray diffraction

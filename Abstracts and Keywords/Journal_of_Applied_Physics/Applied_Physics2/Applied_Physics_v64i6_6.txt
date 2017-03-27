@@ -1,0 +1,10 @@
+In order to understand the influence of various growth and processing procedures on the quality of silicon grown on sapphire (SOS), one needs a way to measure microtwin density as a function of distance from the interface. In previous studies, however, the technique best suited for determining such a density profile, transmission electron microscopy (TEM), has been applied to this problem in a relatively qualitative manner. We have chosen to apply TEM in a more quantitative fashion to this problem by keying our observations to microtwin morphology. These observations indicate that the microtwins occurring in SOS grown by chemical vapor deposition are faceted and grow contiguously from the interface. The volume fraction of silicon occurring as microtwins does not decrease away from the interface at as large a rate as indicated by previous TEM studies. Instead, the decrease in the number of twins away from the interface appears to be balanced by an increase in twin size. It also appears that the greatest volume fraction of twinned material occurs at least several hundred angstroms away from the interface rather that at the interface.
+
+INTERFACE STRUCTURE
+TWINNING
+SILICON
+SAPPHIRE
+CHEMICAL VAPOR DEPOSITION
+VAPOR DEPOSITED COATINGS
+TRANSMISSION ELECTRON MICROSCOPY
+MORPHOLOGY

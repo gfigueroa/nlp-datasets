@@ -1,0 +1,11 @@
+We used x-ray magnetic circular dichroism (XMCD) to obtain element specific magnetization curves. The most common way measuring XMCD in the soft x-ray region is total electron yield (TEY), because of the easy experimental setup and high signal-to-noise ratio compared to fluorescence yield. Surprisingly TEY was used only marginally for magnetization curves in the past. We show that the major problem using field dependent TEY is the complex current behavior as a function of applied magnetic fields, which directly results in corresponding normalization problems. We developed a simple but effective normalization method in combination with symmetry arguments to obtain magnetization curves using TEY as a probe for XMCD. Quick (26 min) and high quality data could be extracted in a wide range of high magnetic fields. In comparison to fluorescence yield hysteresis loops, those measurements could be easily done at synchrotron bending magnet beamlines and no high brilliant undulator sources and/or long measurement times are necessary. As an example we compare hysteresis loops of the colossal magnetoresistance compound La0.7Ca0.3MnO3 measured in situ by XMCD at the Mn
+L3 edge and conventional ex situ measurements. © 2000 American Institute of Physics. 
+
+magnetic circular dichroism
+magnetisation
+magnetic hysteresis
+lanthanum compounds
+calcium compounds
+colossal magnetoresistance
+ferromagnetic materials
+X-ray emission spectra

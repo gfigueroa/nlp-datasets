@@ -1,0 +1,12 @@
+Objective. To obtain pilot data in an observational setting on the use of lamotrigine plus lithium in the long-term treatment of patients with bipolar disorder, 87% of whom had failed to respond to at least one previous mood stabilizer. Methods. Charts of 21 patients (11 females, 10 males, mean age 43.2 years) treated with the combination of lithium and lamotrigine were reviewed retrospectively for treatment response using the Clinical Global Impression-Bipolar Disorder-Improvement scale, divided into benefit for acute depressive symptoms, acute manic symptoms, and overall illness (including prophylaxis of mood episodes). Of the 21 patients, 76% were diagnosed with bipolar I disorder, and depressive symptoms were the most common acute indication for treatment (52%). Mean doses of lithium and lamotrigine were 963 mg/day and 179 mg/day, respectively, used for a mean of 55.7 weeks. Results. Acute antidepressant benefit was observed in 48% of patients, acute anti-manic benefit in 14%, and overall prophylactic benefit in 29%. Side effects were observed in 38%, with cognitive problems most common (29%). 48% discontinued combination therapy, mainly due to lack of efficacy (19%) or activation of manic-like symptoms (19%). Conclusions. Among a group of largely treatment-resistant bipolar patients, the combination of lithium and lamotrigine appeared effective for acute depressive symptoms in about half of the patients, but acute anti-manic and long-term prophylactic efficacy appeared less robust. 
+
+bipolar disorder
+drug therapy
+lamotrigine
+lithium
+prophylaxis
+mania
+polypharmacy
+combination treatment
+mood disorders
+depression

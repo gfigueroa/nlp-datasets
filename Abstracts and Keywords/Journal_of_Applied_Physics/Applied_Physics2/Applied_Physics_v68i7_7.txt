@@ -1,0 +1,9 @@
+The interaction of strontium overlayers with atomically clean Si(100) surface has been studied by xray photoelectron spectroscopy. Also studied were the effects of Sr overlayers on the oxidation of silicon at different Sr coverage (0d¸d1.85) and different oxygen exposure. It is found that at low coverage, ¸d1 monolayer (ML), Sr interacts with the Si(100) surface to form a strong ionic bond. Also, Sr is found to significantly increase the oxidation of the Si(100) surface. Silicon oxidation increased with increasing Sr coverage to a maximum at ¸J1 ML. Above 1ML Sr coverage, the rate of Si oxidation decreased with increasing coverage.
+
+SILICON
+STRONTIUM
+OVERLAYERS
+PHOTOELECTRON SPECTROSCOPY
+X RADIATION
+IONIC BINDING
+CATALYTIC EFFECTS

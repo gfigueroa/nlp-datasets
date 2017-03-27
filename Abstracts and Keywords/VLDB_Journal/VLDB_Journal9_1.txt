@@ -1,0 +1,7 @@
+Traditional algorithms for optimizing the execution order of joins are no more valid when selections and projections involve methods and become very expensive operations. Selections and projections could be even more costly than joins such that they are pulled above joins, rather than pushed down in a query tree. In this paper, we take a fundamental look at how to approach query optimization from a top-down design perspective, rather than trying to force one model to fit into another. We present a graph model which is designed to characterize execution plans. Each edge and each vertex of the graph is assigned a weight to model execution plans. We also design algorithms that use these weights to optimize the execution order of operations. A cost model of these algorithms is developed. Experiments are conducted on the basis of this cost model. The results show that our algorithms are superior to similar work proposed in the literature.
+
+Graph model
+Method query
+Object-oriented databases
+Query optimization
+Spanning tree

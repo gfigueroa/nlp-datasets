@@ -1,0 +1,15 @@
+We present a full band calculation of the doping-induced energy shifts of the conduction-band minimum and the valence-band maximum for n- and p-type GaN and AlN. Both wurtzite and zinc-blende structures have been considered. The resulting optical and reduced band-gap energies are presented as functions of the ionized impurity concentration in the heavily doped regime. The computational method is based on a zero-temperature Greens function formalism within the random phase approximation and with the local-field correction of Hubbard. The calculation goes beyond the spherical approximation of the energy bands by using energy dispersions and overlap integrals from a first-principle, full-potential band-structure calculation. Inclusion of the spin-orbit interaction is crucial for describing the uppermost valence bands properly, and we show that the nonparabolicity of the valence bands influences the energy shifts strongly, especially the shift of the optical band gap. With the full band structure, we can explain the results of photoluminescence measurements by Yoshikawa et al. [J. Appl. Phys. 86, 4400 (1999)]. © 2002 American Institute of Physics. 
+
+gallium compounds
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+energy gap
+optical constants
+valence bands
+conduction bands
+impurity states
+Green's function methods
+RPA calculations
+Hubbard model
+ab initio calculations

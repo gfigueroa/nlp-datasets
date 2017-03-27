@@ -1,0 +1,6 @@
+It is shown that a layered waveguide can support the propagation of nonattenuated acoustic modes of which the phase velocity exceeds the velocity of both the quasitransverse bulk waves in the medium that surrounds the waveguide. These high-velocity modes appear at a special choice of materials for the external medium and the waveguide. Numerical computations are performed for a number of structures. A comparison is given of numerical results with approximate analytical estimations. A criterion for the existence of high-velocity waveguide modes at small values of the thickness/wavelength ratio is derived. © 2000 American Institute of Physics. 
+
+acoustic waveguides
+acoustic wave velocity
+acoustic waves
+acoustic wave propagation

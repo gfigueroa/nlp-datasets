@@ -1,0 +1,5 @@
+In this paper a wide difference of output power is achieved between linear cavity and ring cavity. A comparison process is proposed between three fiber laser configurations. These configurations are ring cavity (RC), single stage linear cavity (SSLC) and double stage linear laser (DSLC). A comparison investigation is presented between the RC and SSLC where a high output power and high side mode suppression ratio (SMSR) is recorded for the SSLC compared with RC. In the mean while the DSLC shows a dominant output power of 18 dBm compared to RC and SSLC.
+
+double stage linear cavity
+ring cavity
+single stage linear cavity

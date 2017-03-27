@@ -1,0 +1,5 @@
+The reuse of design knowledge for use in CAD systems is a promising way to reduce time and cost during the design cycle. To support this, a semantic core for a novel type of informational infrastructure supporting CAD systems is introduced, which allows to extract arbitrary subparts of the information base and use it efficiently. The key problem is the automated setup and classification of information piece within knowledge domains. This is solved by connecting depending design methods strongly to information sources outside the actual CAD design environment with a focus on knowledge generation, distribution and application. As a result it will provide problem solving capabilities within the geometric area supported by a system that can classify information based on context.
+
+intelligent CAD
+product design
+semantics of product models

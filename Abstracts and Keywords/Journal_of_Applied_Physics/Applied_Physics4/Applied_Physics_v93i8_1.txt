@@ -1,0 +1,14 @@
+Cobalt (Co) nanocrystalline thin films consisting of Co nanocrystals (NCs) embedded in an amorphous carbon matrix were directly synthesized at ambient temperature by codeposition of Co and carbon using high vacuum dual electron-beam evaporation. In the as-deposited films, Co was identified to have a cubic µ-Co structure (with a controllable particle size). After annealing at 360
+°C for 2 h, the Co NCs with a particle size of 5 nm in the as-deposited film were transformed into hexagonal ±-Co (8 nm in size), whereas, the as-deposited Co NCs of 3 nm in size had a tendency to coalesce and interconnect to each other, forming a face-centered-cubic ²-Co network. While the µ-Co NCs of 3 nm in size showed superparamagnetism at room temperature, the µ-Co NCs of 5 nm in size exhibited a ferromagnetic state due to coupling interaction or local interparticle connections. The saturation magnetization and coercivity substantially increased after annealing compared to the as-deposited films due to coarsening of Co NCs. © 2003 American Institute of Physics. 
+
+cobalt
+nanostructured materials
+magnetic thin films
+magnetic particles
+electron beam deposition
+annealing
+particle size
+ferromagnetic materials
+superparamagnetism
+magnetisation
+coercive force

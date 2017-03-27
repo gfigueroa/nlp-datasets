@@ -1,0 +1,19 @@
+The roughness at the interface has been determined quantitatively on an atomic scale after removal of the oxide by LEED (lowenergy electron diffraction) in an ultrahigh vacuum. The energy dependant broadening of the diffracted electron beam yields the average size of stepfree terraces. Silicon (111) samples have been oxidized under various conditions concerning atmosphere (dry and wet), temperature (800 and 1000	°C), time, pretreatment, and posttreatment. The oxidation produces a roughness, which may be decreased by low oxidation rates and appropriate annealing in nonoxidizing atmosphere. The novel technique of evaluation for the first time shows systematically how oxidation parameters determine the roughness at the interface, which again is important for the performance of metaloxidesemiconductor (MOS) devices.
+
+INTERFACES
+ROUGHNESS
+ATOMS
+SILICON
+SILICON OXIDES
+OXIDATION
+PARAMETRIC ANALYSIS
+DATA
+ELECTRON DIFFRACTION
+ULTRAHIGH VACUUM
+ENERGY DEPENDENCE
+VERY HIGH TEMPERATURE
+ELECTRON BEAMS
+ATMOSPHERES
+TIME DEPENDENCE
+ANNEALING
+MOSFET

@@ -1,0 +1,9 @@
+Many ultrasonic devices, among which are surface and bulk acoustic wave devices and ultrasonic transducers, are based on multilayers of heterogeneous materials, i.e., piezoelectrics, dielectrics, metals, and conducting or insulating fluids. We introduce metal and fluid layers and half spaces into a numerically stable scattering matrix model originally proposed for solving the problem of plane wave propagation in piezoelectric and dielectric multilayers. The method is stable for arbitrary thicknesses of the layers. We discuss how the surface Greens functions can be computed for an arbitrary stack of homogeneous materials with plane interfaces. Aditionnally, we set up a backscattering algorithm to compute the distribution of electromechanical fields at any point in the stack. The model is assessed by considering some well-known examples. © 2003 American Institute of Physics. 
+
+metallic superlattices
+piezoelectric thin films
+superlattices
+surface acoustic wave devices
+Green's function methods
+S-matrix theory
+ultrasonic transducers

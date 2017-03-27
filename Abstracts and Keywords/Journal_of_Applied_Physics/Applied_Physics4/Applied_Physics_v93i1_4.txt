@@ -1,0 +1,9 @@
+Irradiation induced dewetting of 310 nm Pt thin films from SiO2 and SiNx substrates is studied using real-time in situ transmission electron microscopy (TEM). Fissures in the initial films form dry patches, which serve as nuclei for the dewetting process. Upon 800 keV Kr++ irradiation, the dry patches undergo filling-in, growth and coalescence. The dose range for these three stages of dewetting depends on the film thickness. Due to the effects of line tension, the growth of fissures is anisotropic, turning elongated fissures into rounded ones. The evolution of the area and width of individual fissures was extracted from a sequence of TEM images for 3 nm Pt/SiO2 under 800 keV Kr++ irradiation. We calculate the average velocity of receding contact lines to be <0.55±0.2 m/s during the thermal spike. © 2003 American Institute of Physics. 
+
+platinum
+metallic thin films
+melting
+ion beam effects
+transmission electron microscopy
+cracks
+surface energy

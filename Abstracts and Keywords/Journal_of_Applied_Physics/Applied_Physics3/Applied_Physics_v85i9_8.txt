@@ -1,0 +1,12 @@
+Proton irradiation with subsequent rapid thermal annealing was used to investigate intermixing of InGaAs/GaAs and InGaAs/AlGaAs quantum wells. Large photoluminescence (PL) energy shifts were observed in both materials. Comparatively, InGaAs/AlGaAs samples showed larger PL energy shifts than InGaAs/GaAs samples because of the presence of Al in the barriers and also better recovery of PL intensities, which is mainly due to dynamic annealing effects in AlGaAs during irradiation. Based on this, InGaAs/AlGaAs quantum-well lasers were fabricated and up to 49.3-nm-emission wavelength shift was observed in the proton-irradiated laser with no significant degradation in device characteristics. © 1999 American Institute of Physics. 
+
+III-V semiconductors
+indium compounds
+gallium arsenide
+proton effects
+ion beam mixing
+rapid thermal annealing
+photoluminescence
+semiconductor quantum wells
+quantum well lasers
+spectral line shift

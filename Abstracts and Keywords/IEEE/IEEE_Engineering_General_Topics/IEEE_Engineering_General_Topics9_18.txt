@@ -1,0 +1,6 @@
+This paper proposes a novel feature type for the recognition of emotion from speech. The features are derived from a long-term spectro-temporal representation of speech. They are compared to short-term spectral features as well as popular prosodic features. Experimental results with the Berlin emotional speech database show that the proposed features outperform both types of compared features. An average recognition accuracy of 88.6% is achieved by using a combined proposed &amp; prosodic feature set for classifying 7 discrete emotions. Moreover, the proposed features are evaluated on the VAM corpus to recognize continuous emotion primitives. Estimation performance comparable to human evaluations is furnished.
+
+Emotion recognition
+affective computing
+spectro-temporal features
+speech processing

@@ -1,0 +1,12 @@
+Vapor-deposited polyimide capsules from pyromellitic dianhydride and 4,42-oxydianiline were irradiated with an electron beam that mimicked the ²-radiation emitted by tritium, a fuel that the capsules are to contain during the inertial confinement fusion process. The mechanical properties and gas permeability of the irradiated capsules were measured to examine their radiation resistance. Upon electron-beam irradiation at an energy of 8keV and a dose of 120MGy, the capsules showed 15% and 56% decrease in tensile strength and elongation at break, respectively, without significant change in gas permeability and Youngs modulus. Analyses using x-ray photoelectron spectroscopy and Fourier transform infrared spectroscopy indicated that the chain cleavage and carbonization occurred but were confined in a thin layer at the top surface of the capsules. The shallow penetration of the low-energy electron beam used, as well as the existence of cross-linking in the vapor-deposited polyimide, may have led to the smaller magnitude of property degradation in the capsules compared to that reported for solution-cast polyimide.
+
+polymers
+vapour deposition
+electron beam effects
+permeability
+tensile strength
+elongation
+Young's modulus
+X-ray photoelectron spectra
+Fourier transform spectra
+infrared spectra

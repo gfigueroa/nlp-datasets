@@ -1,0 +1,10 @@
+The effective number of carriers Neff of a sample with ring geometry is recalculated analytically and numerically. The Neff of the sample with ring geometry as calculated by Bisschop (Ph.D. thesis, Eindhoven University of Technology, Eindhoven, 1983, Chap. V) is erroneous. Therefore, the 1/f noise parameter ± of 107 at 300 K of a pSi sample with ring geometry given by Bisschop must be replaced by 105.
+
+SILICON
+PTYPE CONDUCTORS
+RINGS
+RING CURRENTS
+CARRIER DENSITY
+NOISE
+MEDIUM TEMPERATURE
+ALTERNATING CURRENT

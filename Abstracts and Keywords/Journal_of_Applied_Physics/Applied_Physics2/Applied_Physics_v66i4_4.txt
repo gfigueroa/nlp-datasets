@@ -1,0 +1,12 @@
+Excimerlaserinduced ablation of polymers is often accompanied by a modification of the surface morphology at the irradiated regions. Only very recently models have been proposed for this effect, the origin being searched in different absorption properties of crystalline and amorphous material. A study by the authors on synthetic fibers irradiated by the UV laser is in contrast with that assumption and gave evidence of a thermal contribution to laserpolymer interaction. Furthermore, a strong influence of internal or external stress fields is found. On this basis a synergetic understanding of the surface structures is proposed.
+
+POLYMERS
+ABLATION
+LASER RADIATION
+EXCIMER LASERS
+SURFACE STRUCTURE
+MORPHOLOGY
+CRYSTALS
+AMORPHOUS STATE
+ABSORPTIVITY
+STRESSES

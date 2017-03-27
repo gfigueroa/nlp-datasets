@@ -1,0 +1,5 @@
+In order to increasing the number of pump beam passes from active medium, we have used an optical cavity for pumping the solid state thin disk laser which results in getting high power laser output. We analytically analyzed the necessary conditions for our design. The spot size of pumping on the active medium is controlled by distances between quasi-cavity and gain medium and mirrors (or curvature radius of mirrors) which are located before and after the amplifier medium. We have calculated numerical dependence of pump spot size on injected pump beam divergence and distance between mirrors and amplifier medium.
+
+homogenizer
+solid state lasers pumping system
+thin disk laser

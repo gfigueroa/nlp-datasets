@@ -1,0 +1,9 @@
+We characterized the electronic structure of LaVOx thin films by x-ray photoemission spectroscopy. We could distinguish the photoemission spectra among the x = 3 phase (LaV3+O3), the x = 4 phase (LaV5+O4), and the mixed phase regime. In the mixed phase, the surface was found to be mostly LaVO4. We could observe the evolution of the electronic structure in the growth phase diagram by systematically measuring core-level photoemission spectra. The V4+ component present in the x = 3 phase may be due to charge transfer to avoid the polar catastrophe of the polar LaVO3 thin-film surface and/or to the oxidation of the surface.
+
+band structure
+charge exchange
+core levels
+lanthanum compounds
+phase diagrams
+thin films
+X-ray photoelectron spectra

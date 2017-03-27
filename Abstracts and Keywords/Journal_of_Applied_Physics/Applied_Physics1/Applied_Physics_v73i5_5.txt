@@ -1,0 +1,11 @@
+Positron trapping in microvoids was studied by positronlifetime and positron Doppler lineshape measurements of centrifugally atomized 304 stainlesssteel powder, which was hotisostaticallypress consolidated. This material contained a concentration of several times 1023/m3 of 1.5nmdiam microvoids. Positron annihilation was strongly influenced by the microvoids in that a very long lifetime component Ä3 of about 600 ps resulted. The intensity of the Ä3 component decreased with decreasing number density of 1.5 nm microvoids. The Doppler peak shape was found to be much more strongly influenced by microvoids than by any other defects such as precipitates or grain boundaries. In particular microvoids produced significant narrowing of the Doppler distribution shape.
+
+STAINLESS STEEL304
+VOIDS
+POSITRON PROBES
+LINE SHAPE
+DOPPLER BROADENING
+GRAIN BOUNDARIES
+GRAIN SIZE
+DISLOCATIONS
+ANNEALING

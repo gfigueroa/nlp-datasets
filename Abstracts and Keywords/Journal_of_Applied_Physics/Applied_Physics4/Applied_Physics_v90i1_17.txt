@@ -1,0 +1,12 @@
+The interdiffusion of GaxIn1xN0.04As0.96/GaAs single quantum well (QW) structure with well width of 6 nm is studied theoretically. The as-grown Ga concentration in the QW is chosen to be 0.7 and 0.6 for the operation wavelengths of 1.3 and 1.55 ¼m, respectively. We studied the effects of interdiffusion on the in-plane strain, confinement potential, and subband energy levels of the QW using Ficks law. The diffusion coefficients of both the well and barrier layers are assumed to be constant. The effects of valence band mixing and strains are included in the calculation of the electron and hole subband structures. We find that the group-III interdiffusion effects can result in blueshifts of 123 and 211 nm in the GaxIn1xN0.04As0.96/GaAs QW at operation wavelength of 1.3 ¼m (x=0.7) and 1.55 ¼m (x=0.6), respectively. Our results show that interdiffusion technique can be used to tune the operating wavelengths of GaInAsN/GaAs lasers for multiwavelength applications such as in the sources of dense wavelength division multiplexed optical communication systems. © 2001 American Institute of Physics. 
+
+chemical interdiffusion
+III-V semiconductors
+gallium compounds
+gallium arsenide
+indium compounds
+quantum well lasers
+internal stresses
+interface states
+spectral line shift
+valence bands

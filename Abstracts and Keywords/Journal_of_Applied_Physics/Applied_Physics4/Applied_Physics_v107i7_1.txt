@@ -1,0 +1,8 @@
+We took a model created by the molecular dynamics (MD) simulation with a semiempirical potential as a target system and explored how its amorphous structure and a few other properties depend on the simulation method. We found that if the cooling rate is too high, 10131014K/s, the system has no time to adjust its structure to the change in temperature/density. Since this cooling corresponds to a typical ab initio MD simulation, this brings into doubt that an equilibrium glass structure can be obtained using ab initio MD simulation. We also used the target partial pair correlation functions (PPCFs) to explore a possibility to create the atomic models from diffraction data alone. We were able to create models with the PPCFs, which nearly coincided with the target ones. Nevertheless, we found that the potential energy of the quenched states and the distribution of the Voronoi polyhedra in the models created from PPCFs were different than the target quantities. This study shows that reverse Monte Carlo technique used to analyze the diffraction data can result in a considerably more disordered structure than the target structure.
+
+ab initio calculations
+amorphous state
+cooling
+diffraction
+glass structure
+molecular dynamics method

@@ -1,0 +1,11 @@
+Oxidation of silicon wafers under external mechanical stress was studied in this work. From the oxide thickness profile measured by an automatic-scanning ellipsometer, it was found that the oxidation kinetics of silicon were significantly affected by mechanical stress. There are two distinct features of oxide thickness distribution corresponding to short and long times. By comparing the kinetic constants taken from experiments and the simulated stress distribution on the silicon wafer, we can possibly explain the two features of oxide thickness distribution: the initial rate constant is deformation dependent and the parabolic rate constant is stress dependent. The observed stress-dependent oxidation rates are important in the study of thin gate oxide reliability. © 2001 American Institute of Physics.
+
+silicon
+elemental semiconductors
+oxidation
+reaction rate constants
+deformation
+stress effects
+surface chemistry
+ellipsometry
+semiconductor thin films

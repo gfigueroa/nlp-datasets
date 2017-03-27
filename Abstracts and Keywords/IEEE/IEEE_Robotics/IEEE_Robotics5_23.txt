@@ -1,0 +1,5 @@
+Study of radio-wave propagation into and through buildings has become important with the increase in the broadband mobile services. Currently ray tracing and ray launching techniques are used for modeling radio transmission but due to unavailability of detailed building databases, it is not possible to take into account all the edges and discontinuities in the buildings. To overcome this limitation a semi-deterministic technique is proposed in which walls and windows/doors in the buildings arc modeled as strips and slits respectively and their distribution is treated statistically. The model so developed takes into account all the edges and discontinuities in the buildings and doesn't rely heavily on the vector database. Simulations for field strength prediction in the vicinity of a room were carried out using the proposed model. The results show that to accurately model the scattering from buildings multiple interactions between the walls (strips) must be taken into account.
+
+Channel Impulse Response (CIR)
+Electric field Integral Equation (EFIE)
+Semi-deterministic approach

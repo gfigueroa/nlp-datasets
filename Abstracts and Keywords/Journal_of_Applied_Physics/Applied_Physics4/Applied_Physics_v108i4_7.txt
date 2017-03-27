@@ -1,0 +1,23 @@
+Electronic properties of the Al0.56In0.44Sb/Ga0.5In0.5Sb heterostructure grown by molecular beam epitaxy are investigated. We measure by means of x-ray photoemission spectroscopy, photoluminescence, and Hall effect measurements the key parameters involved in the achievement of a high speed and very low power consumption field effect transistor: conduction and valence band offsets, energy gaps of channel and barrier materials, electron effective mass, and density of states in the channel. We observe the influence of the quantum well thickness on the electron Hall mobility and sheet carrier density. A type I heterostructure exhibiting a room temperature electron mobility of 25	000cm2	V1	s1 with a sheet carrier density of 1.5×1012cm2 is demonstrated for the widest channel. We show that the thickness of the channel influences both Hall density and mobility through a multisubband occupancy. We discuss about the scattering mechanisms limiting the mobility in the second subband.
+
+aluminium compounds
+carrier density
+conduction bands
+effective mass
+electron mobility
+electronic density of states
+energy gap
+gallium compounds
+Hall mobility
+high electron mobility transistors
+III-V semiconductors
+indium compounds
+molecular beam epitaxial growth
+narrow band gap semiconductors
+photoluminescence
+quantum Hall effect
+quantum well devices
+semiconductor heterojunctions
+semiconductor quantum wells
+valence bands
+X-ray photoelectron spectra

@@ -1,0 +1,11 @@
+Significant improvement on twodimensional electron gas (2DEG) concentration and mobility in a ´doping superlattice GaAs/In0.25Ga0.75As/GaAs pseudomorphic heterostructures prepared by lowpressure metalorganic chemical vapor deposition have been demonstrated and discussed. The secondaryion mass spectrometry profiles of these ´doping superlattice structures were studied. The triple and double ´doping superlattice heterostructures showed extremely high 2DEG concentrations of 8.8 (6.0) and 4.3 (2.5)×1012 cm2 along with enhanced mobilities of 2710 (6500) and 3916 (18400) cm2/V	s at 300 (77) K, respectively. The 2DEG concentrations, to our knowledge, are among the highest for previously reported pseudomorphic heterostructures with similar mobilities. 	
+
+HETEROSTRUCTURES
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+TERNARY COMPOUNDS
+SUPERLATTICES
+SIMS
+DOPED MATERIALS
+CVD
+CARRIER MOBILITY

@@ -1,0 +1,16 @@
+Thermal oxidation of singlecrystal ptype CdTe has been carried out in dry and wet oxygen. The thickness of the oxide varies as the square root of oxidation time, implying a diffusion controlled process. The activation energy for thermal oxidation is 1.2 eV. Examination of the oxide by Auger electron spectroscopy, xray photoelectron spectroscopy, and transmission electron microscopy shows that the composition of thick layers is CdTeO3; thin layers less than 100 Å thick may differ slightly in composition. An oxygen gradient is detected in asgrown thin oxides, but with storage in air at room temperature the oxygen gradient disappears. Values of chemical shift of the xray photoelectron spectroscopy peaks for the cadmiumtelluriumoxygen ternary system are clarified.
+
+FILM GROWTH
+OXIDATION
+CHEMICAL COMPOSITION
+THICKNESS
+FILMS
+CADMIUM TELLURIDES
+CADMIUM OXIDES
+TELLURIUM OXIDES
+DIFFUSION
+AUGER ELECTRON SPECTROSCOPY
+X RADIATION
+PHOTOELECTRON SPECTROSCOPY
+TRANSMISSION ELECTRON MICROSCOPY
+ACTIVATION ENERGY

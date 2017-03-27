@@ -1,0 +1,7 @@
+This paper presents the first field trials carried out in Spain to test HDTV reception using DVB-T and DVB-T2 systems. High definition and standard definition digital television contents and services were multiplexed and broadcasted from a terrestrial transmitter. The aim of these trials was to analyze DVB-T2 technology when this system is configured according to the needs of terrestrial HDTV broadcasting and to compare the results with DVB-T technology in terms of CNR requirements and achieved data rate. Field measurements were carried out in different scenarios and reception conditions. The study presented in this paper is focused on fixed reception, Gaussian channel, because it is the expected reception condition for HDTV.
+
+DVB-T
+DVB-T2
+Digital Terrestrial Television
+Field Trials
+HDTV

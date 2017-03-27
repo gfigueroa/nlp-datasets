@@ -1,0 +1,6 @@
+The draft design for a new apparatus to study sediment transport processes in shallow water is described. This design was subjected to analysis using computational fluid dynamics (CFD) to ensure that it performed satisfactorily in both tidal and wave-induced flows. The analyses indicated that performance could be improved by minor modifications to the design, particularly to the design of the flow-sensor assemblies. The final design and construction are then reported.
+
+Apparatus
+fluid dynamics
+sediment-resuspension
+turbulent currents

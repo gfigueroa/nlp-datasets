@@ -1,0 +1,7 @@
+An experimental and theoretical investigation of the axial structure of a surface wave (2.45 GHz) driven atmospheric plasma source in air with a small admixture (1%) of water vapor has been performed. Measurements of the gas temperature and of the intensities of the O(777.4 nm), O(844.6 nm), and O(630 nm) atomic lines and the NO(³) molecular band versus input power and axial position were carried out. Amplitude and phase sensitive measurements have also been performed to derive the surface wave dispersion characteristics. The experimental results are analyzed in terms of a one-dimensional theoretical model based on a self-consistent treatment of particle kinetics, gas dynamics, and wave electrodynamics. The predicted gas temperature and emission line intensities variations with power and axial position are shown to compare well with experiment. Hot excited O atoms (with kinetic energy < 2eV) have been detected.
+
+plasma diagnostics
+plasma kinetic theory
+plasma sources
+plasma temperature
+surface waves (fluid)

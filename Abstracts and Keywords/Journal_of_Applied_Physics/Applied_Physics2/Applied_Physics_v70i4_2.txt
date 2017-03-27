@@ -1,0 +1,9 @@
+The performance of four overmoded (TE011 circular), twocavity gyroklystron amplifier tubes operating in X band is reported. A summary of the theoretical design procedure is presented, followed by a description of the experimental setup. The stability and amplification properties of the four gyroklystron tubes are subsequently described, each being modified in sequence to improve performance. The fourth tube produced 2.02.7 MW pulses at 9.87 GHz for 0.51.0 ¼s, and exhibited gains of 1719 dB and efficiencies of 5%. The results were obtained using electron beams with voltages, currents, and computed beam alphas (v¥/vz) of 407425 kV, 115135 A, and 0.81.0, respectively. The presence of instabilities in the gun downtaper and drift tube prevented operation at the design point (500 kV, 160 A, and alpha 1.5). The effects of varying input frequency, input power, and beam parameters (voltage, current, magnetic compression) on the amplifier operation are reported. Detailed descriptions of the instabilities observed in the gyroklystrons are presented, and the use of lossy dielectrics to suppress the instabilities is discussed. The amplifier experimental performance is compared with simulations. Improvement schemes are summarized and followup experiments are outlined.
+
+MICROWAVE AMPLIFIERS
+PERFORMANCE
+KLYSTRONS
+ELECTRON BEAMS
+OPERATION
+GAIN
+EFFICIENCY

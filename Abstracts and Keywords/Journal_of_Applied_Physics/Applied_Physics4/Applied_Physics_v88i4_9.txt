@@ -1,0 +1,9 @@
+The effect of surface passivation of undoped p-CdTe(100) by (NH4)2Sx treatment was investigated by using photoluminescence (PL), photoconductivity (PC), and x-ray photoelectron spectroscopy (XPS). After sulfur treatment for 2 min, the acceptor bound exciton (A0,X) peak increases greatly in the PL spectrum, and the minority-carrier lifetime of CdTe becomes the longest value in the PC measurement. The XPS spectrum for untreated CdTe shows the additional peaks on the right side of two main Te peaks corresponding to the Te 3d core levels, and these additional peaks are related to TeO3 with binding energies of 576.2 and 586.5 eV. After sulfur treatment, while the intensities of the Te 3d core levels decreased gradually, those of the TeO3 peaks disappear. In addition, the S 2p core-level spectra for sulfur-treated CdTe show the peaks at the 161.7 and 162.8 eV, which are attributed to a CdS formation at the surface of CdTe. These results indicate the sulfur effectively dissociates the native oxides from and neutralizes the dangling bonds at the surface of CdTe. © 2000 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+passivation
+photoconductivity
+photoluminescence
+X-ray photoelectron spectra
+dangling bonds

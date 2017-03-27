@@ -1,0 +1,8 @@
+In this paper we describe the basic functionalities of a system dedicated to process high-resolution satellite images and to handle them through (semi-) structured descriptors. These descriptors enable to manage in a unified representation two families of features extracted from the objects identified by image segmentation: the attributes characterizing each object, and the attributes characterizing relationships between objects. Our aim is to focus on the complement of two approaches, on one hand concerns the remote sensing and the image segmentation, and on the other hand concerns the knowledge discovery and the modeling. The first approach discusses how to apply an auto-adaptive (non-linear) segmentation approach on a collection of such images. This method is based on the morphological transformations of opening and closing to obtain relevant and significant objects. Using this approach, we simplify and conserve the principal features and objects from the image. The second approach proposes to create a set of XML tags to model the main features elicited from the previous objects using their relationships. These tags are then exploited by querying, using topological, directional, or metrical relationships. Using this approach we can extract not only some explicit spatial information like urban areas, wooded areas and linear features such as roads or railways, but some implicit spatial information like urban organization or urban dynamics.
+
+High spatial resolution
+feature extraction
+knowledge discovering
+morphological segmentation
+semi-structured data
+spatial querying

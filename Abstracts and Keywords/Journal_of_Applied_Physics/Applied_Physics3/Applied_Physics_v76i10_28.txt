@@ -1,0 +1,10 @@
+Magnetoresistance measurements have been performed on epitaxial metal/ferromagnetic insulator bilayers. They are more sensitive to magnetic behavior at the interface of such structures than magnetization measurements. It is clear from the magnetoresistance data that previously reported slope discontinuities in the resistance versus temperature of such heterostructures are magnetic in origin. These studies demonstrate that the conduction electrons of the metal are coupled to the spins in the magnetic insulator, and act as probes of the magnetic state at the interface between the two materials. An example of the usefulness of this probe is shown by magnetoresistance measurements on a Ag/EuO bilayer.
+
+BILAYERS
+SILVER
+EUROPIUM OXIDES
+METALINSULATOR CONTACTS
+MAGNETORESISTANCE
+ANOMALOUS PROPERTIES
+TEMPERATURE EFFECTS
+FERROMAGNETIC MATERIALS

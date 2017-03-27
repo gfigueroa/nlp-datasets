@@ -1,0 +1,8 @@
+A compliant two-fingered microgripper was designed, fabricated, and demonstrated. To accommodate objects of various sizes and weights, the gripper is distributively actuated by shape memory alloy (SMA) wires so that high gripping range to gripper length ratio and mechanical advantage are achieved. A SMA actuated gripper model is presented to predict SMA strain and gripper deflection by using measurements from force sensors. Based on this model, design of finger shape and specification of SMA wire dimension are facilitated. Two grippers with different stiffness are prototyped and their motion characteristics demonstrated. Due to the large stress provided by SMA wires, high gripping force can be obtained. The SMA contraction force to deflect gripper and produce gripping force may be adjusted by changing the input power to SMA wire. We further investigate the feasibility of self-sensing contraction force by using SMA resistance signal. With the capabilities of the gripper shown, we expect that it can be applied for miniature robotic manipulations.
+
+Micromanipulation
+flexure
+force sensors
+microgripper
+self-sensing
+shape memory alloy

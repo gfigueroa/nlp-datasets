@@ -1,0 +1,6 @@
+The influence of space charge on gate control of switching in electron waveguide Y-branch switches operating in the single-mode coherent regime is discussed. A previously reported model based on a single switch parameter to this end is reexamined. Self-consistent computer simulations are presented and the results are discussed with reference to the single-parameter model and earlier experiments. © 2003 American Institute of Physics. 
+
+electron waveguides
+semiconductor switches
+space charge
+semiconductor device models

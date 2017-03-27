@@ -1,0 +1,19 @@
+Single impacts of energetic C60 clusters on (2×1)-(100) silicon substrates are studied by molecular-dynamics simulations. The role of impact energies and internal cluster energy are investigated in detail. Six different energy regimes can be identified at the end of the ballistic phase: At thermal energies below 20 eV the fullerene cages undergo elastic deformation, while impinging on the surface, and are mostly chemisorpted on top of the (2×1)-dimer rows. Between 20 and 100 eV the cage structure is preserved after the collision, but the cluster comes to rest within a few monolayers of the silicon surface. At energies of 100500 eV the cluster partially decomposes and small coherent carbon caps are embedded in the surface. At higher energies up to 1.5 keV complete decomposition of the fullerene cluster occurs and an amorphous zone is formed in the subsurface area. At energies greater than approximately 1.5 keV craters form and above 6 keV sputtering becomes significant. In all cases the substrate temperature is of minor influence on the final result, but the projectile temperature is important for impacts at lower energies (&lt;1.5 keV). For high energy impacts the ballistics resemble that of single atom impacts. Nearly 1:1 stoichiometry is obtained for impact energies around 1 keV. These results reveal an interesting possibility for controlled implantation of C in Si at high local concentrations, which might allow the formation of silicon carbide. © 2000 American Institute of Physics. 
+
+digital simulation
+elemental semiconductors
+atomic clusters
+molecule-surface impact
+sputtering
+chemisorption
+SILICON
+FULLERENES
+COLLISIONS
+SIMULATION
+MOLECULAR DYNAMICS METHOD
+MOLECULAR CLUSTERS
+SURFACES
+ENERGY DEPENDENCE
+KEV RANGE
+EV RANGE
+DEFORMATION

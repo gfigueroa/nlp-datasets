@@ -1,0 +1,15 @@
+The morphology, structure, and magnetism of Fe films on an oxygen-precovered, stepped Cu(1 1 25) surface are investigated by scanning tunneling microscopy, low-energy electron diffraction, and magneto-optical Kerr effect analysis. After exposure of Cu(1 1 25) to about 600 L of oxygen at 493 K, a well-ordered (22×2)R45° superstructure is formed. The O-induced structure has a zig-zag morphology, showing a high density of facets and is very stable during subsequent Fe deposition. Fcc Fe can be stabilized up to 20 monolayer (ML) thickness, while the magnetization of the films reorients from perpendicular to in-plane at 15 ML. From 24 ML, the linear extrapolation line of the thickness dependence of the Kerr intensity of the transformed bcc Fe films does not go along with the pure fully magnetized bcc Fe films. We conclude that oxygen adsorption strongly affects the structure and spin-reorientation transition of Fe films. © 2004 American Institute of Physics. 
+
+iron
+ferromagnetic materials
+magnetic thin films
+monolayers
+adsorption
+oxygen
+magnetisation
+magnetic structure
+surface morphology
+Kerr magneto-optical effect
+scanning tunnelling microscopy
+low energy electron diffraction
+solid-state phase transformations

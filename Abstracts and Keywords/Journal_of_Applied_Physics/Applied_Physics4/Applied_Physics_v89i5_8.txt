@@ -1,0 +1,10 @@
+The oxidation kinetics of nickel particles with an approximate median size of 15 nm was determined by thermogravimetry. The particles had a thin initial oxide shell amounting to 36 wt
+% of the sample. The kinetics was studied in pure oxygen in the temperature range 135235
+°C, giving power law behavior of each isotherm with an exponent between 0.48 and 0.58. By use of a master plot technique an apparent activation energy of 1.34 eV was determined. The power law exponent is considerably lower than the one expected for diffusion limited oxidation of a spherical particle with an initial oxide shell. The deviations from parabolic kinetics are discussed in terms of nonlinear diffusion, grain growth, and particle agglomeration. © 2001 American Institute of Physics.
+
+oxidation
+nickel
+thermal analysis
+nanostructured materials
+diffusion
+grain growth

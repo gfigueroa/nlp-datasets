@@ -1,0 +1,8 @@
+Using the pump-probe technique, we have observed time-resolved differential reflection in InAsxP1x/InP (x } 0.35) strained-multiple-quantum wells. The experimental results show that barrier height, interface roughness and well width influence strongly the differential reflection dynamics. For samples with the same interface quality and almost the same well width, the delay time of the differential reflection decreases with increasing barrier height, while for the sample with rough interface and narrower wells, the delay time of the differential reflection is much slower, although it has a larger barrier height. To understand the experimental results, we have performed a simulation study of temporal and spatial evolutions of photoexcited carriers in the samples, and the influence of various physics processes on the photoexcited carrier dynamics has been discussed. From the calculated and the measured results, we conclude that carrier diffusion in the cap layer and the barriers plays a dominant role in determining the differential reflection dynamics. © 1998 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+time resolved spectra
+photoconductivity
+reflectivity

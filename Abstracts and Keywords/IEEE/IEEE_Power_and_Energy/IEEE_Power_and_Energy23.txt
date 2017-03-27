@@ -1,0 +1,6 @@
+This paper presents a novel energy efficient single-phase induction motor with three series-connected windings and two capacitors. By suitable selection of capacitors, the currents in three windings are approximately symmetrical, and thus, the motor can operate approximately symmetrically from single-phase supply. Based on the symmetrical components method, the condition for balanced operation is studied, and the method for determining capacitances is proposed. The performance analysis method is put forward to calculate the steady performances. Performance tests are performed on the proposed motor and three-phase induction motor. It is proved that their rated efficiency is approximately the same, while the power factor of the former is higher than that of the latter. In comparison with the ordinary single-phase induction motor, it has the advantages of higher efficiency and smaller volume, thus can take the place of the latter in some applications.
+
+Energy efficient motor
+single-phase induction motor
+symmetrical components method
+three-winding single-phase induction motor

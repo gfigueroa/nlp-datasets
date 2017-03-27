@@ -1,0 +1,6 @@
+The study is focused on the channel design of PEM fuel cell based on numerical simulation to analyze the flow performance. In addition, SIMPLE method was used to calculate the coupling of pressure and the velocity. We investigated the different types of chancel to replace the traditional vertical-straight type. Using CFD software, the main blockage in the channel was found to be triangle-shape. The results showed that the height and surface shape.
+
+pressure
+triangle-shapey
+velocity
+vertical-straighte

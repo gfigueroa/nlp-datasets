@@ -1,0 +1,10 @@
+Ferroelectric properties of thin film materials like lead zirconate titanate differ from those observed for bulk material. It is well known that the surface can strongly influence phase transition phenomena. By the use of a thermodynamical approach, very similar to those generally used to describe phase transitions, we have proposed for studying ferroelectric states a two dimensional lattice model which allowed us to account for surface effects. These surface effects described by an inhomogeneous LandauDevonshire theory were suggested to produce a finite size effect even if the surface charge is compensated at the metallic electrodes. The manifestations of the field induced by the bound charges in the polarization switching is discussed and is shown to depend strongly on the bulk correlation length and on the extrapolation length. Finally we have applied our model to investigate the influence of the surface effect and of the related bound charges on the thickness dependence of ferroelectric properties. © 2001 American Institute of Physics. 
+
+ferroelectric thin films
+ferroelectric switching
+dielectric hysteresis
+ferroelectric capacitors
+dielectric polarisation
+dielectric depolarisation
+size effect
+charge compensation

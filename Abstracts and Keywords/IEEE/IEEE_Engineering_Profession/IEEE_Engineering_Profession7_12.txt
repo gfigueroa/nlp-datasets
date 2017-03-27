@@ -1,0 +1,6 @@
+Troubleshooting procedures are prevalent in the computer industry and in many other industries and subject areas. In the computer industry, they appear in manuals and help systems and, especially, as &#x201C;articles&#x201D; in the KB (Knowledge Base) that comprises a core component of support websites. Developing successful troubleshooting procedures is both a technical and a rhetorical task. These procedures take diverse forms and vary greatly in complexity. Troubleshooting procedures, however, almost always have a diagnosis-resolution structure consisting of configurations of symptoms and solution methods. Examining this structure enables us to meaningfully classify the very diverse instances of this genre, reveals key design issues, and can help us identify productive research questions. Complex troubleshooting procedures present the user with multiple symptoms. A set of symptoms may correspond directly to particular causes or may comprise a tree of symptoms. The resolution phase consists of one or more solution paths each consisting of one or more methods. When feasible, solution paths and methods should be variable rather than fixed sequences and should empower users to choose among solution paths.
+
+documentation
+procedures
+troubleshooting
+writing

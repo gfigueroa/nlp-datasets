@@ -1,0 +1,8 @@
+Urban buses have nowadays an important challenge which is to respect the local nuisances such as air pollution and noise while offering to their passengers a high level of accessibility and comfort. Hybrid drivelines are one potential alternative to respond to these constraints. In that context, the Transport and Environment Laboratory (LTE) of the INRETS is collaborating with an urban buses manufacturer with the aim to develop and optimize a 5.5 m, 22 passenger series hybrid plug in microbus. This paper presents the first phases of our research. Firstly, the microbus components description, the actual energy management and the traction motor working are presented. Secondly, the measurement phase carried out on the GRUAU's test bus site in Laval elaborates a start point to understand the various energy flows. After that, the model of the microbus's processing is developed using the LTE library VEHLIB and validated with measurements. Thus, some suggestions about new energy management laws are proposed in order to optimize the consumption of the internal combustion engine together with the battery behavior.
+
+Battery
+Data acquisition
+Energy management
+Hybrid vehicle
+Plug in Hybrid
+Simulation

@@ -1,0 +1,8 @@
+Comprehensive analysis of the influence of a weak inplane field on the dynamics of a planar domain wall in a uniaxial ferromagnet with a small quality factor has been carried out. The peculiarities of the domainwall movement in both subcritical Hz&lt;Hw regimes and supercritical regimes of the domainwall movement are analyzed. Numerical calculations for yttriumirongarnetlike material have been carried out. It is shown that the influence of the inplane field which is parallel to the domain wall is more pronounced than the influence of the field which is normal to the domain wall for a given type of magnetic material considered.
+
+DOMAIN WALL
+PRECESSION
+DYNAMICS
+FERROMAGNETIC MATERIALS
+NUMERICAL SOLUTION
+YIG

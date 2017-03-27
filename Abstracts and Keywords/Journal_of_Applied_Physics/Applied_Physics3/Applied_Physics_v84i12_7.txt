@@ -1,0 +1,12 @@
+Amorphous aluminum oxide layers have been successfully produced by oxidizing amorphous (Al, As) compounds using water vapor at temperatures as low as 300	°C. The amorphous (Al, As) was deposited on InP substrates by molecular beam epitaxy at low temperatures (<100	°C), and was found to have 50% more As than crystalline AlAs. Auger electron spectroscopy depth profiles indicate a complete depletion of As in the amorphous aluminum oxide layer. However, complete removal of As in the amorphous (Ga, As) layer requires a minimum oxidation temperature higher than 300	°C. This method has extended the use of native oxides to lattice-mismatched heterostructures. © 1998 American Institute of Physics.
+
+aluminium compounds
+gallium arsenide
+indium compounds
+III-V semiconductors
+oxidation
+amorphous semiconductors
+Auger effect
+transmission electron microscopy
+reflection high energy electron diffraction
+semiconductor heterojunctions

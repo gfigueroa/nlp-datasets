@@ -1,0 +1,11 @@
+The recognition that the brain continues to generate new neurons well into adulthood has made a marked impact on the field of neuroscience in general and specifically on neurobiological models of the pathogenesis of major depression. Stress, neuroendocrine activation, neurotransmitter systems, and other factors can down-regulate the process of neurogenesis and may contribute to certain morphological changes seen in depression. Evidence is emerging that antidepressant treatments may mitigate these effects by stimulating neurogenesis in particular regions of the brain. This review introduces the reader to recent literature on neurogenesis as it relates to the understanding and treatment of depression. 
+
+neurogenesis
+major depression
+neurons
+stress
+hormones
+antidepressants
+neurotransmitters
+intracellular transduction mechanisms
+neurotrophins

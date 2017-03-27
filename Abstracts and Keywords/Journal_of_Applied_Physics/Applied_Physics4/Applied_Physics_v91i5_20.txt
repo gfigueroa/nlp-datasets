@@ -1,0 +1,6 @@
+Currentvoltage curves of molecular single-electron tunneling transistors are simulated based on a modified theory of single electronics that accounts for the discreteness of the energy spectrum of the molecule. The simulation was performed including effects of energy relaxation of the electrons in the molecule for two limiting cases of fast and slow relaxation, and for both equidistant and randomly spaced energy levels of the molecule. An efficient recursion method allowing a fast calculation of the Gibbs canonical distribution for electrons in the molecule is suggested and realized. A comparison of the simulated IV curves with the experimental ones shows that the experimental conditions correspond to the slow relaxation case. © 2002 American Institute of Physics.
+
+single electron transistors
+molecular electronics
+tunnelling
+interface states

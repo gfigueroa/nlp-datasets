@@ -1,0 +1,11 @@
+We study the effects of lattice damage level, pump fluence, and temperature on carrier dynamics in thin silicon films. Two samples of radiation-damaged silicon-on-sapphire (RD-SOS) and one amorphous silicon thin film on sapphire were investigated. The first RD-SOS sample was O+ implanted with doses of 1×1013	cm2 at 100 and 200 keV; the second RD-SOS sample was O+ implanted with a dose of 1×1015	cm2 at 100 and a second dose of 2×1015	cm2 at 200 keV; the third sample was a nonhydrogenated amorphous-silicon thin film grown by electron-beam evaporation. Carrier concentrations up to 7.4×1020	cm3 were injected into the samples with 100 fs, 400 nm pump pulses, while the transient optical properties were probed with subpicosecond-wide terahertz (THz) pulses. Using a thin film Drude model, we derived the carrier relaxation time and effective carrier mobility for the three samples. The increase of lattice damage decreased both the relaxation time constant and the carrier mobility. A slight increase in relaxation time was observed for increasing pump fluence, but mobility values were not affected. No change in relaxation time or mobility was found for temperatures from 5 to 300 K. We find average relaxation time constants of 5.5 ps in the first sample, 1.4 ps in the second sample, and 0.58 ps in the third sample, and average carrier mobility values of 383, 44, and 4.4	cm2/V
+s, respectively. The presence of a single relaxation time constant is consistent with a trap-influenced relaxation mechanism and not of Auger recombination for carrier concentrations &lt;1021	cm3, indicative of the absence of thermally activated processes in the relaxation mechanism. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+carrier density
+carrier relaxation time
+semiconductor thin films
+electron traps
+amorphous semiconductors
+silicon-on-insulator

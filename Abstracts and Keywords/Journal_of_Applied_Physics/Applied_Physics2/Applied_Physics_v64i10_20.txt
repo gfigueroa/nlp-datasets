@@ -1,0 +1,15 @@
+Multilayers of Nb/Ni and Ni/Si have been fabricated by dc triode sputtering. Standard xray diffraction in the reflection geometry shows good layering for both systems with several orders in smallangle scans which correspond to the modulation of the films. Highangle scans show that Nb/Ni films growth with (111) texture for Ni layers and (110) for Nb layers. Ni/Si multilayers do not show any texture. Transverse magnetoresistance (TMR), longitudinal magnetoresistance (LMR), and the spontaneous anisotropy of the resistivity (SAR) have been measured with an applied field up to 70 kOe and between 10 and 110 K and bilayer thicknesses between 60 and 200 Å. Both systems show LMR and TMR to be very small in comparison with pure Ni films. The SAR effect is temperature independent and increases with bilayer thickness. Also, it is higher for Nb/Ni than Ni/Si multilayers with Á% &gt;Á¥ for Ni/Si but Á% &lt;Á¥ for Nb/Ni samples.
+
+MAGNETOELECTRIC EFFECTS
+MAGNETIC ANISOTROPY
+MULTILAYERS
+MAGNETIC ORDERING
+NIOBIUM
+MAGNETORESISTANCE
+ELECTRIC CONDUCTIVITY
+MAGNETIC PROPERTIES
+THIN FILMS
+NICKEL
+SILICON
+ANISOTROPY
+XRAY DIFFRACTION

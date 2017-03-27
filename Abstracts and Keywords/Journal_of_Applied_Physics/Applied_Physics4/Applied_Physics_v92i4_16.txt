@@ -1,0 +1,14 @@
+This article studies the dynamic magnetic behavior of a system of colloidal Fe3O4 nanoparticles dispersed in kerosene. By increasing the frequency of the magnetizing field from 50 to 640 Hz, and by reducing the temperature from 300 to 77 K, the measuring time is getting closer to the magnetic relaxation time. Under these conditions, it was possible to observe how the dynamic behavior is modified by the parallel arrangement of the easy magnetization axes of the particles from the frozen ferrofluid, as opposed to the situation when the axes are randomly oriented. Unlike the superparamagnetic behavior at room temperature, at low temperatures the magnetization has a hysteresis loop. This behavior is due to Néel relaxation processes. It has been shown that the relaxation time resulting from the Néel theory is determined by an effective anisotropy constant that takes into account the magnetocrystalline anisotropy, as well as the shape and surface anisotropy. The relaxation time becomes greater when the easy magnetization axes of the nanoparticles are aligned in the direction of the magnetization field, as opposed to the case when the axes are oriented in all directions. The results show that the remanence increases both with the decrease of the temperature and with the increase of the frequency of the magnetization field. At the temperature of 77 K, the saturation magnetization Msat of the colloidal suspension increases by 57.1% compared to the value at the temperature of 300 K, whereas the saturation (spontaneous) magnetization Ms of bulk Fe3O4 increases by only 6.6% in the same temperature range. Using the core-shell model, we assumed that the surfactant decreases the superexchange interaction in the shell, as opposed to the core of the particle; this leads to an increase of the magnetic diameter when the temperature is decreasing. © 2002 American Institute of Physics. 
+
+iron compounds
+magnetic particles
+nanostructured materials
+magnetic fluids
+magnetic relaxation
+magnetisation
+superparamagnetism
+magnetic hysteresis
+magnetic anisotropy
+remanence
+surfactants
+superexchange interactions

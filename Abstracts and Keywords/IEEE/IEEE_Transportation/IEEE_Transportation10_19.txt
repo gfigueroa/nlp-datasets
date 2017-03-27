@@ -1,0 +1,6 @@
+Supercapacitors are well known for their good power performances and for their very high life time expectancy when compared with batteries. However, individual supercapacitor is only capable of operating a relatively low voltage, normally between 1V and 3V. For higher voltage or current applications, many of these capacitors must be linked in series or in parallel. For supercapacitor module, there are 2 kinds of combinations. A suitable design of combination mode will balance individual voltage better. This literature analyzed these 2 combination methods. And after a number of simulation works, come to the conclusion that linked in series first then in parallel is not only with high reliability, but also with better balance effect in charge-recharge process than that which is linked in parallel first then in series, and after the theoretical analysis, comes to a simulink result to verify that.
+
+Supercapacitor
+charge balancing circuit
+module
+ultracapacitor

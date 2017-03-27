@@ -1,0 +1,6 @@
+The aim of this study was to analyse the EEG background activity in Alzheimer's disease (AD) with two non-linear methods: Approximate Entropy (ApEn) and Auto Mutual Information (AMI). ApEn quantifies the regularity in data, while AMI detects linear and non-linear dependencies in time series and can be used as a normalized complexity measure. EEGs were recorded from the 19 scalp loci of the international 10-20 system in 11 AD patients and 11 age-matched controls. ApEn was significantly lower in AD patients at electrodes O1, P3 and P4 (p<0.05). The AMI of the AD patients decreased significantly more slowly with time delays than the AMI of control subjects at electrodes T5, O1, P3 and P4 (p<0.05). The decreased irregularity and complexity found in AD patients leads us to think that EEG analysis with ApEn and AMI could help to increase our insight into brain dysfunction in AD.
+
+Alzheimer's disease
+approximate entropy
+electroencephalogram
+mutual information

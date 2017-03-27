@@ -1,0 +1,6 @@
+Even though there is no fuel cost for a renewable resource, the use of it is still more costly than fossil and nuclear fueled energy production. Other problems limit the effective use of solar and wind energy. New and novel ways of using these resources must be found to make them more cost efficient in today's world in order to explore the full potential of renewable energy. The idea of Distributed Generation (DG) is not new, but the idea of large scale implementation is. While still not as efficient or cost effective as traditional power generation, these technologies are finding a useful niche in the power grid. The model was built at the University of Wyoming power system lab as part of a project to study distributed generation. A system including a collection of inductors and a motor-generator set was constructed. The design called for multiple distributed sources and loads. Also, variable resistance and capacitance were noted. Each of these tests was also conducted using the Powerworld simulator. End of line voltage, line capacity and a comparison between similar "percentage of power supplied by the PV" values will be shown for each case.
+
+Distributed Generation
+Photovoltaic
+Simulation
+Voltage Support

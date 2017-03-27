@@ -1,0 +1,11 @@
+The growth of diamond in a subatmospheric dcarc plasmajet reactor has been studied theoretically. Full transport equations for this geometry, including gasphase and surface chemistry, have been solved numerically. The surfacereaction mechanism includes pathways for the incorporation of CH3, C2H2, and C from the gas phase, as well as growth of graphite. The surface mechanism includes full reversibility for all reactions, based on estimates of the thermochemistry. Results are presented for degrees of dissociation of H2 in the plasma gun ranging from 2.6% to 90%, and inlet levels of CH4 spanning 0.15.0 mol	%. It is seen that CH3 is the predominant growth species when there is little H2 dissociation within the plasma gun, but C becomes the dominant species at higher dissociation levels. The third growth species, C2H2, does not play a role in diamond growth under these conditions when there is less than 1% CH4 in the feed; but, at higher CH4 levels both C and CH3 addition rates drop to 50 times greater than C2H2.
+
+DIAMONDS
+CHEMICAL VAPOR DEPOSITION
+PLASMA GUNS
+CHEMICAL REACTIONS
+DISSOCIATION
+SURFACES
+GROWTH
+METHANE
+THIN FILMS

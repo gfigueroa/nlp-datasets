@@ -1,0 +1,12 @@
+The orientation of the magnetization and the occurrence of interfacial ferromagnetic inactive layers for ultrathin Co films grown on Ge(111) and Ge(100) surfaces have been studied using the in situ surface magneto-optic Kerr effect. On a Ge(111) substrate, cobalt films (}28 monolayers) with in-plane easy axis of magnetization have been observed; however, on a Ge(100) substrate, ultrathin Co films (1416 monolayers) with canted out-of-plane easy axis of magnetization were measured. The ferromagnetic inactive layers were formed due to the intermixing of Co and Ge and lowering the Curie temperature by reducing Co film thickness. The CoGe compound inactive layers were 3.8 monolayers thick for Co films grown on Ge(111) and 6.2 monolayers thick for Co films deposited on Ge(100). This is attributed to the difference of the density of surface atoms on Ge(111) and Ge(100). © 2001 American Institute of Physics. 
+
+cobalt
+ferromagnetic materials
+magnetic thin films
+germanium
+magnetic anisotropy
+interface magnetism
+Kerr magneto-optical effect
+monolayers
+chemical interdiffusion
+Curie temperature

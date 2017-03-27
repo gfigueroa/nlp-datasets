@@ -1,0 +1,6 @@
+We report calculations that show that a metalpolar semiconductor heterostructure can exhibit highly controllable nonlinear currentvoltage characteristics. A change in barrier thickness can alter the characteristics from Schottky-like to ohmic in different bias regimes. The origin of these unusual effects is a large electric field (&gt;106	V/cm) and high sheet charge(<10131014cm2) without doping, in the polar heterostructure. Theoretical calculation of the tunneling current density in these systems is done in this work. The results indicate that very interesting nonlinear behavior is shown by these systems, even in the undoped case. The choice of suitable compositions of the materials and thicknesses can be used to tailor devices with desired characteristics. © 2002 American Institute of Physics. 
+
+polar semiconductors
+semiconductor-metal boundaries
+Schottky barriers
+tunnelling

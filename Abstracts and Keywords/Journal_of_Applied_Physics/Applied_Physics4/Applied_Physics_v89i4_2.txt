@@ -1,0 +1,8 @@
+Plasma abatement of perfluorinated compounds (PFCs) is a technology of increasing interest as the semiconductor industry seeks to reduce emission of these global warming gases. This article reports a simulation of point-of-use plasma abatement, in which a high density abatement plasma is placed between the process tool turbomolecular pump and the roughing pump. Oxygen is added to convert the feed PFCs to oxidized species that can then be scrubbed downstream. The simulation is used to examine the transport and chemistry that occurs in these plasmas. Two-dimensional plasma and neutral transport models are coupled to a description of gas and surface plasma chemistry. The simulation shows that, at high electron density and low neutral density, abatement of CF4 is governed by electron impact dissociation. Both the model and experimental measurements predict high peak neutral temperatures (&gt;1500 K) that play a large role in determining the characteristics of these plasmas. © 2001 American Institute of Physics. 
+
+organic compounds
+plasma applications
+air pollution control
+plasma chemistry
+plasma density
+plasma transport processes

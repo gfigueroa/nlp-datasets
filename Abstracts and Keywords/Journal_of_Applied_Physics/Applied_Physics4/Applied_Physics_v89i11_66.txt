@@ -1,0 +1,9 @@
+We studied epitaxially grown single-crystalline chemically disordered ultrathin NixPd1x alloy films on Cu3Au(100) by means of photoemission using magnetic circular dichroism in the angular distribution. We clearly observe a well-defined three-dimensional band dispersion in 15 monolayer films. On the basis of relativistic selection rules, this dispersion can be related to specific electronic states. Since the spinorbit coupling (”Eso) is smaller for Ni than for Pd, the alloy will assume an average value. We find that this average spinorbit coupling clearly shows up in the electronic structure and correlates directly to the composition of the NiPd alloy film. The results are discussed in terms of a simple qualitative model. © 2001 American Institute of Physics.
+
+nickel alloys
+palladium alloys
+photoemission
+magnetic epitaxial layers
+magnetic circular dichroism
+spin-orbit interactions
+band structure

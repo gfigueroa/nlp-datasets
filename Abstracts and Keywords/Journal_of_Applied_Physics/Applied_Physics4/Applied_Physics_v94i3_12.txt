@@ -1,0 +1,6 @@
+We investigate the quantum dynamics of the quantum-dot cellular automata qubit in the presence of a quantum point contact detector by modified rate equations. It is demonstrated that the qubit information can be resolved by measuring the detector current variation. Furthermore, we show that this oscillating current and the electron occupation probabilities in states #b	 and #c	 decay drastically as the dephasing rate increases, clearly revealing the influence of the dephasing induced by the detector. Moreover, it is shown that the operation speed of the quantum-dot cellular automata qubit may be adjusted by varying the interdot coupling strength. © 2003 American Institute of Physics. 
+
+cellular automata
+quantum computing
+quantum dots
+quantum point contacts

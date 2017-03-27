@@ -1,0 +1,10 @@
+Molecular hydrogen is alternately introduced into and removed from the gate oxide of irradiated metaloxidesemiconductor fieldeffect transistors at room temperature by changing the ambient between forming gas (10/90% H2/N2) and nitrogen. Using charge pumping, it is observed that H2 causes a simultaneous buildup of interface states and decrease of trapped positive charge. The results are explained by a reaction sequence in which H2 is cracked to form mobile H+, which under positive bias drifts to the Si/SiO2 interface, and reacts to produce a danglingbond defect. The rate limiting step over most of the time domain studied is the cracking process. Two types of cracking sites are modeled by molecular orbital calculations: oxygen vacancies (E2 centers) and broken bond hole traps (BBHTs). Initial and finalstate energies, as well as the activation energies, are calculated. The calculations indicate that the latter is the more likely H2 cracking site. The combined experimental and theoretical results suggest that at least 15% of the trapped positive charge is at sites similar to the BBHT sites. Implications of the model and similarities between interfacestate formation by cracked H2 and irradiation are discussed.
+
+MOSFET
+INTERFACE STATES
+HYDROGEN
+PHYSICAL RADIATION EFFECTS
+TRAPPING
+VACANCIES
+DANGLING BONDS
+MOLECULAR ORBITAL CALCULATIONS

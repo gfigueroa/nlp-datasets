@@ -1,0 +1,6 @@
+Aiming at the complex dynamic feature of large ship, an intelligent control structure based on library-similar knowledge-increasable neural network group is presented. This compounded control structure using the dynamic knowledge-increasable learning capability of the neural network groups, solve the problems of online identification and online design of the controller, so that the high precise output tracking control of uncertain nonlinear large ship can be realized. Simulating results show that it is feasible and effective.
+
+artificial neural network
+intelligence control
+knowledge-increasable neural network
+ship motion control

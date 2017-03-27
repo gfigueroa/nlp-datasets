@@ -1,0 +1,9 @@
+Temporal lobe epilepsy (TLE) is a neurological disease that affects millions of individuals in the world. Majority of TLE patients suffer from refractory seizures. Determining abnormal/damaged regions of the brain that harbor seizure focus is a critical step towards treatment of TLE patients. Diffusion tensor imaging (DTI) is a non-invasive method that we use in this work to determine damaged regions of white matter in the brain. To this end, we apply two methods, voxel based morphometry (VBM) and fiber tracking. We use these methods along with two anisotropy maps (EAR and FA) extracted from the DTI data. We use DTI data of 31 subjects (12 normal subjects and 19 TLE patients) for testing and evaluation studies. The VBM method shows that TLE is associated with reduction of both of FA and EAR values in several regions within the temporal lobes. The tractography method shows abnormal diffusion characteristics in three fiber bundles (fornix, uncinate fasciculus, and cingulum). The results show that the EAR maps are less sensitive to noise than the FA maps and the EAR values change more than the FA values in TLE.
+
+Diffusion Tensor Magnetic Resonance Imaging (DTMRI)
+Ellipsoidal Area Ratio (EAR)
+Fractional Anisotropy (FA)
+Image Analysis
+Medical Imaging
+Temporal Lobe Epilepsy (TLE)
+Voxel-Based Morphometry (VBM)

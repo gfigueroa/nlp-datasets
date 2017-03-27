@@ -1,0 +1,11 @@
+Paiva presented in these pages an argument that terrestrial gamma-ray flashes (TGFs) are created by the interaction of lightning-generated neutrons with nitrogen nuclei in air. I show that this model cannot produce the observed energy spectrum of TGFs, while the generally accepted model of bremsstrahlung from relativistic electrons fits the data well.
+
+air
+atmospheric radiation
+bremsstrahlung
+gamma-rays
+lightning
+neutron-nucleus reactions
+neutrons
+nitrogen
+relativistic electron beams

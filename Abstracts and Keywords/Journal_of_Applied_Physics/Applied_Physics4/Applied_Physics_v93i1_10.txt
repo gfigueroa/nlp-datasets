@@ -1,0 +1,11 @@
+Photoluminescence spectra were measured experimentally and compared with the results of the optical model calculations in oder to identify the region of photoluminescence in a porous silicon layer. It is found that the upper surface region in the porous silicon layer contributes most of the luminescence, by analyzing the interference patterns of the photoluminescence spectra and those of reflectances. It is confirmed by comparing the results of a detailed computer simulation with the experiments, and by analyzing the photoluminescence characteristics of a free-standing porous silicon film. Analyses of the photoluminescence spectra measured using several different excitation wavelengths also support our conclusion. © 2003 American Institute of Physics. 
+
+silicon
+porous semiconductors
+elemental semiconductors
+photoluminescence
+anodised layers
+electrolytic polishing
+semiconductor thin films
+reflectivity
+visible spectra

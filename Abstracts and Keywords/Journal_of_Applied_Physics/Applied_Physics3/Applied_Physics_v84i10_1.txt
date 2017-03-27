@@ -1,0 +1,13 @@
+Epitaxially grown gallium nitride thin films were deposited on sapphire(0001) substrates with a thin zinc oxide buffer layer by a liquid target pulsed laser deposition technique. The GaN thin film optimized at a substrate temperature of 600
+°C has an epitaxial relationship with ZnO buffered sapphire(0001) of (0001)GaN//(0001)ZnO//(0001)sapphire, and (100)GaN//(100)ZnO//(110)sapphire. The surface morphology was also improved by applying a ZnO buffer layer shown by scanning electron microscopy. Although the as-grown GaN thin film showed no band edge or yellow band photoluminescence at room temperature, a weak band edge luminescence of 3.42 eV could be seen at 20 K. © 1998 American Institute of Physics.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+pulsed laser deposition
+vapour phase epitaxial growth
+semiconductor epitaxial layers
+semiconductor growth
+surface structure
+scanning electron microscopy
+photoluminescence

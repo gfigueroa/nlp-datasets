@@ -1,0 +1,16 @@
+Tracer diffusion of Ag in the c direction of single crystal Bi2Sr2CaCu2Ox (2212), and in dense polycrystalline Bi2Sr2CuOx (2201) and (Bi,Pb)2Sr2Ca2Cu3Ox (2223) has been investigated. Concentration profiles were measured by secondaryion mass spectrometry and by a radiotracer serialsectioning technique for the single and polycrystals, respectively. The diffusion coefficients of Ag in the c direction of 2212 at 500 and 600	°C at one atmosphere of oxygen are approximately four orders of magnitude smaller than those previously measured in 2212 polycrystals by [Y. Fang, S. Danyluk, K. C. Goretta, N. Chen, M. Runde, S. J. Rothman, and J. L. Routbort, Appl. Phys. Lett. 60, 2291 (1992)]. The volume diffusivity of 110Ag in 2223 is given by D=6.7×107	exp[(334±12 kJ/mol/RT] cm2/s at temperatures from 600 to 817	°C, and is not very sensitive to oxygen partial pressure between 103 and 105 Pa at 760	°C. The diffusion coefficient of 110Ag in 2201 is described by D=155	exp[(196±6 kJ/mol)/RT].
+
+MULTIELEMENT COMPOUNDS
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+SILVER 110
+DIFFUSION
+MASS TRANSFER
+TRACER TECHNIQUES
+POLYCRYSTALS
+MASS SPECTROSCOPY
+TEMPERATURE RANGE 04001000 K
+PRESSURE DEPENDENCE

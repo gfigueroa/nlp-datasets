@@ -1,0 +1,6 @@
+The Griffith criterion is applied for the calculation of the critical fracture toughness upon which the formation of a rough self-affine crack (which is characterized by the rms roughness amplitude Ã, the correlation length ¾, and the roughness exponent H) commences. For large crack sizes Rk¾, the stress field singularity close to the crack tip involves the value 1/2 in both the strong and weak roughness limit. In the latter limit, the fracture toughness K remains close to the classical value K H 2(³E)1/2 with ³ the surface tension and E the Young modulus, while in the strong roughness limit it becomes significantly large [&gt;2(³E)1/2] following the asymptotic behavior K H 2(³E)1/2(Ã/¾H)1/2. © 1998 American Institute of Physics.
+
+fracture toughness
+Young's modulus
+crack-edge stress field analysis
+surface topography

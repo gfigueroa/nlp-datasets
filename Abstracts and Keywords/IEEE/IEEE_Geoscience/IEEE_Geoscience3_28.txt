@@ -1,0 +1,7 @@
+Small and medium size distributed generation (DG) including renewable generation technologies (RES) have limited incentive to participate in the free electricity market trade because they are not able to meet basic market requirements: to match bid/offer size or to correspond with requirements for the provision of reserve services for balancing. For some DG technologies, like wind power and PV, another reason significantly limiting their participation in the electricity market trade is the inherent intermittency of power generation process which might result in a high risk of financial losses due to additional balancing needs. At the same time being connected together, DG and RES technologies can complement each other in balancing out the total operation result. Aggregations of distributed generators of different technological types (&#x201C;DG clusters&#x201D;) lead to aggregated generation profiles. These aggregations are suitable for minimizing generation prognoses errors and resulting balancing needs - experience of Denmark, Germany and UK can prove it. In this article different approaches to influence the DG clusters' properties to adjust them to market needs have been investigated and necessary recommendations for smaller size renewable energy producers for their electricity market participation have been worked out.
+
+Dispersed storage and generation
+Energy Management
+Power generation control
+Power system control
+Power systems

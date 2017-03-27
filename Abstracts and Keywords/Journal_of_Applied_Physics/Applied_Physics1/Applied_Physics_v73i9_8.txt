@@ -1,0 +1,12 @@
+A method of obtaining the complex change in dielectric constant ”õ from values of the photoinduced change in reflection ”R/R and transmission ”T/T measured via pumpprobe spectroscopy is presented. By solving Maxwells equations perturbatively in the small ”õ limit, we show that the nonuniformity of the pump absorption profile must be taken into account in order to obtain an accurate measurement of ”õ. A method for removing artifacts due to thinfilm interference fringes is also presented. The results are applied to picosecond photomodulation studies of amorphous hydrogenated semiconductor films.
+
+THIN FILMS
+REFLECTION SPECTROSCOPY
+LIGHT TRANSMISSION
+DIELECTRIC FUNCTION
+MAXWELL EQUATIONS
+ABSORPTION
+MEASURING METHODS
+INTERFERENCE
+SILICON
+HYDROGEN ADDITIONS

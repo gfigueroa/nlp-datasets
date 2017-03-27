@@ -1,0 +1,9 @@
+Epitaxial Cu/Ni/Cu/Si(001) magnetic films have been studied in the thickness range (17120 Å) where a uniaxial anisotropy favoring the direction perpendicular to the film plane is dominant over the easy-plane dipolar interaction. Using magneto-optic magnetometry and Brillouin light scattering we show that on decreasing an in-plane magnetic field the perpendicular component of the magnetization breaks into domains. © 2001 American Institute of Physics. 
+
+nickel
+magnetic epitaxial layers
+spin waves
+perpendicular magnetic anisotropy
+Brillouin spectra
+magnetic domains
+Kerr magneto-optical effect

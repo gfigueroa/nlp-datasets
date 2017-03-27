@@ -1,0 +1,14 @@
+Shock temperatures of pentaerythritol tetranitrate (PETN) single crystals have been measured by using a nanosecond time-resolved spectropyrometric system operated at six discrete wavelengths between 350 and 700 nm. The results show that the shock sensitivity of PETN is strongly dependent on the crystal orientation: Sensitive along the shock propagation normal to the (110) plane, but highly insensitive normal to the (100) plane. The detonation temperature of PETN is, however, independent from the crystal orientation and is determined to be 4140 (±70) K. The time-resolved data yielding the detonation velocity 8.28 (±0.10) mm/¼s can be interpreted in the context of a modified thermal explosion model. © 2000 American Institute of Physics. 
+
+organic compounds
+explosions
+crystal orientation
+shock wave effects
+CHEMICAL EXPLOSIVES
+PETN
+MONOCRYSTALS
+DETONATION WAVES
+SHOCK WAVES
+PYROMETERS
+TEMPERATURE MEASUREMENT
+VELOCITY

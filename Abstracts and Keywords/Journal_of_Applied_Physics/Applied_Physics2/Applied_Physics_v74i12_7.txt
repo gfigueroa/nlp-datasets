@@ -1,0 +1,13 @@
+The photoresponses of Pb doped 2223 phase BiSrCaCuO films to low power 5 mm cw radiation were measured at temperatures near Tc. To identify the involved detection mechanisms, dependence of responsivity on temperature, supplied current, radiation power, and film granularity were investigated. At temperatures in the vicinity of the transition to the normal state, good agreement was obtained with the responses derived from a bolometric model. At temperatures below the transition, a nonbolometric response mode was found to occur when the film was biased into a partially resistive regime. Transient measurements were carried out showing a response time for this mode of at least 5 orders of magnitude smaller than that of the bolometric response. Further characteristics inherent to the nonbolometric mode include square law detection, nonlinear current dependence, and short wavelength cutoff. In addition, a correlation between responsivity and film granularity was established. For strongly granular films with an active area of 300×1800 ¼m2, a detectivity D of about 1.1×108 cm Hz1/2/W was typically achieved at a modulation frequency of 5 kHz. Consistency of the experimental results with the subgap responses of Josephson arrays is discussed.
+
+SUPERCONDUCTING FILMS
+GRANULAR MATERIALS
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+MILLIMETER WAVE RADIATION
+TEMPERATURE RANGE 65273 K
+TEMPERATURE DEPENDENCE
+TRANSIENTS
+RESPONSE FUNCTIONS

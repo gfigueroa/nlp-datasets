@@ -1,0 +1,11 @@
+The thermal diffusivities of mercury cadmium telluride, (Hg1xCdx)1yTey, and mercury zinc telluride, (Hg1xZnx)1yTey, with 0.55dyd1.0 and 0.0125dxd0.054	65, and of pure Te were measured from 350 to 850	°C by the laser flash technique. The diffusivity of nearpseudobinary Hg1xCdxTe solids decreased more rapidly with temperature approaching the melting point than did pseudobinary solids previously reported: The solid diffusivity for x=0.028	17 and y=0.55 was 0.83 mm2/s at 371	°C, decreasing to 0.22 mm2/s at 614	°C. The diffusivity of Terich (Hg1xCdx)1yTey melt increased with x and with temperature: The melt diffusivity for x=0.039	36 and y=0.782 was 0.91 mm2/s at 485	°C, increasing to 4.93 mm2/s at 851	°C. For Terich (Hg1xZnx)1yTey melt with x=0.0125 and y=0.7944 there appeared to be a minimum diffusivity of about 2.6 mm2/s near 690	°C. The thermal diffusivity of pure Te solid was 0.97 mm2/s at 300	°C and decreases to 0.64 mm2/s at 439	°C. The melt diffusivity of pure Te was 1.52 mm2/s at 486	°C, increased to 3.48 mm2/s at 584	°C. Experimental data presented can be used to calculate the thermal conductivity needed for designing systems capable of growing a better quality single crystal of these materials.
+
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+ZINC TELLURIDES
+TERNARY COMPOUNDS
+CRYSTAL GROWTH
+MELTS
+LASER RADIATION
+THERMAL DIFFUSIVITY
+TEMPERATURE RANGE 04001000 K

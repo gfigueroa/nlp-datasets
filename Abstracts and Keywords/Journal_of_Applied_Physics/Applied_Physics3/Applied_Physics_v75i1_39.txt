@@ -1,0 +1,12 @@
+The transport properties of electrons in Co/Cu multilayered thin films are of special interest for the giant magnetoresistance (GMR) of this system. The magnitude of this effect depends on the mean free paths and on the strength of the interface scattering which in turn are strongly related to film structure. In this article, we discuss the results of resistance and magnetoresistance measurements carried out during film growth. We characterize the electronic transport parameters of these films and the growth mechanism of the layers. The new technique of the in situ measurement of the magnetoresistance furthermore provides a tool to find correlations of the growth mechanism with the dependence of the GMR on the Co thickness.
+
+COBALT
+COPPER
+MULTILAYERS
+MAGNETORESISTANCE
+THICKNESS
+ELECTRIC CONDUCTIVITY
+FILM GROWTH
+MEAN FREE PATH
+SCATTERING
+INTERFACES

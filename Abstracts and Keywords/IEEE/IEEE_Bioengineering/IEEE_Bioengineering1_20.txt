@@ -1,0 +1,6 @@
+After deregulation of power systems, large problems with voltage stability incurred due to the large transits of power transmitted to large distances. Systems are very stressed and often work on their limits. Therefore, single contingency is sometimes enough to cause system collapsing. One of the most economic methods to prevent larger scale voltage collapse is undervoltage load shedding (UVLS). In this article, implementation of UVLS scheme is tested in New England Test System and then modeled in part of Croatian power system. Simulation of system behavior is presented as well.
+
+simulation
+undervoltage load shedding
+voltage
+voltage stability

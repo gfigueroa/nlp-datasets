@@ -1,0 +1,10 @@
+Extensive xray diffraction (XRD) and magnetic measurements were done on Nd15 Fe77 B8 magnet alloy green compacts after cold isostatic pressing following a pulsed 2T field (CIP) and diepressing under a static 1.2T perpendicular field (DP1) or parallel field (DP2), and on those after sintering. An alignment factor F, through the calculation of the integrated diffraction intensity ratio of the XRD patterns, was adopted as the effectiveness of magnetic alignment. At the green compact state, DP1 has the best alignment while CIP the worst. However, after sintering the alignment factor was such that CIP&gt;DPI&gt;DP2, the same order as the magnetic properties. Three mechanisms were proposed for the evolution of the alignment factor at different stages of sintering, i.e., that both the appearance of a liquid phase at low temperatures and preferred grain growth at high temperatures enhance F, while recrystallization at intermediate temperatures deteriorates F. CIP results in lessdefect green compact, hence less recrystallization, leading to better resultant alignment
+
+NEODYMIUM ALLOYS
+BORON ALLOYS
+IRON ALLOYS
+XRAY DIFFRACTION
+SINTERING
+RECRYSTALLIZATION
+COMPACTING
+MAGNETIC PROPERTIES

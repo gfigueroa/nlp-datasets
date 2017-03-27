@@ -1,0 +1,8 @@
+This study proposes a novel chip-level packaged planar Ti/Pd/Ag/AgCI/KCI-gel micro reference electrode for the electrochemical and biomedical sensing applications. The miniaturized reference electrode is constructed by two wafers ("Ti/Pd/Ag/AgCI quasi reference electrode wafer" and "KCI-gel cap sealing wafer") and with a total dimension of only 9 mm (L) &#x00D7; 6 mm (W) &#x00D7; 1 mm (H), hundredfold less than the commercial Ag/AgCI reference electrode (OD = 12 mm). Many excellent characteristics were demonstrated by the optimized encapsulated solid-state micro reference electrode, including a very stable cell potential (5 mV drift voltage in 30,000 s), an approximately zero offset-voltage, a very low impedance (&lt;;1.50 k&#x03A9;) and phase shift (&lt;;8.98&#x00B0;) at normal operation frequency range (0~1 kHz), and a low electro-chemical noise spectrum.
+
+Chip-level packaging
+Drift and offset voltage
+Impedance and phase shift
+Micro reference electrode
+Noise analysis
+Reproducibility

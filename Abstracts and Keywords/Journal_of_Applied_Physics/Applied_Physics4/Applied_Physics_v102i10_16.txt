@@ -1,0 +1,10 @@
+Based on lattice dynamics theory and molecular dynamics simulations, we have investigated the geometrical structures, phonon dispersion relations, and specific heat of silicon nanowires with Stillinger-Weber potential. It was shown that the original Stillinger-Weber potential can reproduce the well-established four acoustical branches. With the calculated spectra, we calculated specific heats of silicon nanowires. It is found that the specific heats of thin nanowires are much higher than those of bulk silicon. According to the partial density of states of surface atoms, the enhancement of specific heats of silicon nanowires can be attributed to the surface effect and phonon confinement effect.
+
+dispersion relations
+elemental semiconductors
+molecular dynamics method
+nanowires
+phonon spectra
+semiconductor quantum wires
+silicon
+specific heat

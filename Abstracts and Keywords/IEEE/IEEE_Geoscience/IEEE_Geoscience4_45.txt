@@ -1,0 +1,6 @@
+Northrop Grumman has developed a GeoProfiling analysis algorithm which creates a probabilistic spread of where a criminal might live or work based on crime locations. Also known as geographic profiling, the analysis is based on the concept that criminals commit crimes within a certain radius of where they live or work but not too close to these locations. Northrop Grumman has developed a GeoProfiling Web service and integrated it within various geospatial visualization tools to allow users to analyze and predict criminal where abouts using the tool of their choice. The service takes a set of crime points and statistical information, such as the mean and standard deviation of historical criminal data, as input parameters for basis of analysis. The paper explores the development of the GeoProfiling tool and the use of the GeoProfiling algorithm as applied to real world data and situations.
+
+GeoProfiling
+criminal profiling
+services-oriented architecture
+web services

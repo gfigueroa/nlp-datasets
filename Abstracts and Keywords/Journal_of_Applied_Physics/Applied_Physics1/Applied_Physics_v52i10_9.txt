@@ -1,0 +1,10 @@
+A recent paper by Mahan on energygap narrowing in extrinsic semiconductors is compared and contrasted with a previous analysis by Inkson. It is found that, contrary to a statement by Mahan, the two papers rely on the same physical basis but use different means of calculation. The source of confusion is identified as the use of an inconsistent terminology.
+
+ENERGY GAP
+SILICON
+GERMANIUM
+IMPURITIES
+MATHEMATICAL MODELS
+THEORETICAL DATA
+SEMICONDUCTOR MATERIALS
+COMPARATIVE EVALUATIONS

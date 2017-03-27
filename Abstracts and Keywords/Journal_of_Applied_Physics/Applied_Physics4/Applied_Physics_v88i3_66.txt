@@ -1,0 +1,12 @@
+The reactions between platinum and silicon, both during platinum deposition at elevated temperature and during a thermal annealing process, have been investigated using x-ray diffraction, cross-sectional transmission electron microscopy, and x-ray photoelectron spectroscopy. It has been found that sputtering deposition of platinum on a silicon substrate at 200
+°C results in the formation of PtSi at the PtSi interface. But the reaction cannot fully proceed at this temperature for a platinum film with a thickness of 35 nm. Further annealing at 450
+°C causes the platinum film to transform to PtSi completely. A substrate bias of 90 V during sputtering deposition leads to the formation of platinum films with larger columnar grains, instead of finer grains as being formed without substrate bias. In such a case, oxygen diffusion toward the interface was enhanced through the boundaries of these columnar grains, and this results in an accumulation of oxygen and oxide formation at the interface. As a result, the reaction between platinum and silicon was inhibited during the further annealing process for the Pt/Si films deposited with substrate bias. © 2000 American Institute of Physics. 
+
+platinum
+silicon
+metallic thin films
+sputtered coatings
+semiconductor-metal boundaries
+grain size
+crystal microstructure
+interface structure

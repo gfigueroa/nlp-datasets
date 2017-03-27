@@ -1,0 +1,7 @@
+In recent years, it has been shown that one-dimensional photonic crystals such as superlattices can exhibit an omnidirectional reflection of light for a given frequency range. However, this property requires that the incident wave be launched from vacuum or from a low refractive index material. In this article, we show that the limitation about the choice of the substrate can be removed by adding a clad layer of low refractive index at one boundary of the superlattice. The additional layer acts like a barrier for the propagation of light. An alternative solution based on a combination of two multilayer structures is also mentioned. © 2002 American Institute of Physics. 
+
+optical multilayers
+superlattices
+photonic band gap
+mirrors
+refractive index

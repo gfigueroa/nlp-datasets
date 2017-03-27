@@ -1,0 +1,6 @@
+ This paper presents a set of Virtual Reality-based interaction techniques for spatial analysis of medical datasets. Computer-aided medical planning tools often require precise and intuitive interaction for the quantitative inspection and analysis of anatomical and pathological structures. We claim that measurement tasks can be carried out more efficiently using Virtual Reality-based interaction tools rather than using common 2D input devices used for medical workstation. Due to the true direct manipulation of threedimensional virtual objects, measurement tools can be used easily in 3D. An evaluation performed with a group of 20 subjects provides evidence to back up our claims.
+
+ 3d measurement
+ direct manipulation
+ spatial analysis
+ surgery planning

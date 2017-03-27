@@ -1,0 +1,8 @@
+We present here models that allow us to calculate the effects of various linear and low-order nonlinear terms on the E×B drift frequency in a cylindrical Penning trap mass spectrometer. These effects translate directly to shifts in the observed ion cyclotron resonance frequency. We show that nonlinearities in the external electrostatic potential interact with the space charge to affect the observations. Similarly, image charge effects are readily incorporated. The model is then used to describe experimental observations and found to largely account for our observations.
+
+magnetic traps
+plasma nonlinear processes
+plasma drift waves
+plasma diagnostics
+plasma electrostatic waves
+space charge

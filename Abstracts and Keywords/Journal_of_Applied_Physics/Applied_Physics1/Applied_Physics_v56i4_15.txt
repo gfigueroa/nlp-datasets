@@ -1,0 +1,8 @@
+Analyses of neutron powder diffraction data for Er6Fe23 at several temperatures are described. We find that the Er and Fe moments are essentially collinear throughout the ordered temperature regime, in contrast to other Ertransition metal systems. Our results are compatible with molecular field theory analyses of the Er6Fe23 magnetization.
+
+NEUTRON DIFFRACTION
+IRON BASE ALLOYS
+ERBIUM ALLOYS
+MAGNETIZATION
+MAGNETIC MOMENTS
+MAGNETIC STRUCTURE

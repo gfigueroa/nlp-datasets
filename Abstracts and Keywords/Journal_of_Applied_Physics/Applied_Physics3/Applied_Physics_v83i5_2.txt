@@ -1,0 +1,9 @@
+The rates of low temperature atomic oxygen-assisted oxidation of strained epitaxial Si1xGex (x = 0.05, 0.1, and 0.2) layers have been measured and compared with the rate of oxidation of pure Si. We show that in the linear regime, the oxidation rate of the SiGe layer increases with the Ge concentration in the alloy. On the other hand, Ge/Si (100) structures have been oxidized. We show that this oxidation leads to the formation of pure SiO2 oxide and that the nonoxidized Ge layer is still present at the SiO2/Si interface. The oxidation rate of Si is not affected by the presence of the pure Ge interface layer. This, together with the results of SiGe oxidation, allows us to conclude that the SiGe oxidation rate is enhanced by the presence of Ge in the SiGe alloy. This can be explained by the fact that SiGe bonds are weaker than the SiSi bonds. For longer oxidation times, the oxidation kinetics of SiGe layers follow a parabolic regime. We show that the parabolic constant strongly depends of the composition of the oxide layer. © 1998 American Institute of Physics.
+
+Ge-Si alloys
+semiconductor materials
+semiconductor epitaxial layers
+oxidation
+surface chemistry
+reaction rate constants
+bonds (chemical)

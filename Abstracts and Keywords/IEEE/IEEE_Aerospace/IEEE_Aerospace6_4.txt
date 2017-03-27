@@ -1,0 +1,8 @@
+LTCC technology has large benefits in microwave and millimeterwave applications. In this presentation an overview is given on application of LTCC technology for the integration of microwave and millimeter-wave systems.
+
+LTCC antennas
+LTCC design
+LTCC system packaging
+LTCC technology
+Low temperature cofired ceramics (LTCC)
+microwave and millimeterwave LTCC circuits

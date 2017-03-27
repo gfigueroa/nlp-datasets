@@ -1,0 +1,5 @@
+The purpose of this study was to asses the utility of a Long Wave Infrared (LWIR) snapshot imager for remote sensing applications. The snapshot imager is made possible by the utilization of a color filter array that selectively allows different wavelengths of light to be collected on separate pixels of the focal plane in same fashion as a typical Bayer array in visible portion of the spectrum [1]. Recent technology developments have made this possible in the LWIR [2]. The primary focus of the study is to develop a band selection technique that is capable of identifying both the optimal number and width of the spectral channels. Once selected, the theoretical sensor performance is used to evaluate the usefulness in a typical remote sensing application.
+
+Color Filter Array
+LWIR
+Multispectral

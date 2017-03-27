@@ -1,0 +1,11 @@
+The effect of the equilibrium (or dark) occupation of the recombination centers on the majoritycarrier mobilitylifetime ¼Ä product and its light intensity dependence have been discussed by Rose many years ago [Concepts in Photoconductivity and Allied Problems (Wiley Interscience, New York, 1963), p. 22]. The corresponding theory is extended and it is discussed in terms of the energy separation between the equilibrium Fermi level and the energy levels of the recombination centers. The theory is then generalized to include the corresponding dependencies of the minoritycarrier ¼Ä product. The results are shown to be useful in analyzing the available phototransport data of hydrogenated amorphous silicon, aSi:H, indicating that the standard defect model, which is widely used for the description of the electronic structure and the recombination processes in this material, cannot account for the phototransport data associated with the minority carrier. On the other hand the defect pool model, suggested more recently, is shown to be in accord with the available data.
+
+AMORPHOUS SEMICONDUCTORS
+SILICON
+CARRIER MOBILITY
+HYDROGENATION
+LIFETIME
+RECOMBINATION
+PHOTOCONDUCTIVITY
+MINORITY CARRIERS
+MATHEMATICAL MODELS

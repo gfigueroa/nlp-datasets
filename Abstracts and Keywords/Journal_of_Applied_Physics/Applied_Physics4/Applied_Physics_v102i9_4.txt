@@ -1,0 +1,11 @@
+Photoluminescence measurements at different temperatures have been performed to investigate the optical response of a two-dimensional electron gas in n-type wide parabolic quantum wells. A series of samples with different well widths in the range of 10003000Å was analyzed. Many-body effects, usually observed in the recombination process of a two-dimensional electron gas, appear as a strong enhancement in the photoluminescence spectra at the Fermi level at low temperature only in the thinnest parabolic quantum wells. The suppression of the many-body effect in the thicker quantum wells was attributed to the decrease of the overlap between the wavefunctions of the photocreated holes and the two-dimensional electrons belonging to the highest occupied electron subband.
+
+aluminium compounds
+electron-hole recombination
+Fermi level
+gallium arsenide
+III-V semiconductors
+photoluminescence
+semiconductor quantum wells
+two-dimensional electron gas
+wave functions

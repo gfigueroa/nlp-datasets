@@ -1,0 +1,6 @@
+Rough set theory and formal concept analysis (FCA) can be viewed as two different approaches of data analysis on data description and summarization. They focus on different characteristics of data in a context: the indiscernibility relation and the binary relation. The indiscernibility of objects with respect to a set of properties is an important notion in rough set theory. In general, this relation is an equivalence relation. A matrix can be seen as an internal representation of equivalence relations. The binary relation in FCA can establish contact with matrix through rough set theory. Representing knowledge in a form of matrix has many advantages. For examples, to represent knowledge in a form of a discernibility matrix enable simple computation of the core, reducts, etc. In this paper, this approach is first applied to FCA. Concept lattices are expressed in terms of matrices that can be computed intuitively and efficiently
+
+Rough sets
+concept lattices
+equivalence relations
+matrices

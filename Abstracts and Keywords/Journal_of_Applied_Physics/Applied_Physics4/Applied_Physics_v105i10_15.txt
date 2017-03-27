@@ -1,0 +1,7 @@
+The effects of electron temperature and density on the ion-dust grain bremsstrahlung process in dusty plasmas are studied. The ion-dust bremsstrahlung radiation cross section is obtained as a function of the dust charge, dust radius, Debye length, collision energy, radiation energy, electron density, and electron temperature by using the Born approximation. It is shown that the ion-dust bremsstrahlung radiation cross section decreases with an increase in the electron density in dusty plasmas. It is also shown that the electron temperature suppresses the bremsstrahlung radiation cross section. In addition, the effect of electron temperature on the ion-dust bremsstrahlung process is found to be more significant than the effect of electron density in dusty plasmas.
+
+bremsstrahlung
+dusty plasmas
+electron density
+plasma density
+plasma temperature

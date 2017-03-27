@@ -1,0 +1,9 @@
+Carbon nanotubes are grown on Ni catalyst coated on soda-lime glass substrates using chemical vapor deposition of C2H2 gas at 550
+°C. Ni film is coated on the surface of Ag film using the electroplating method. Ni was etched by ammonia (NH3) gas in order to form nanometer sized catalytic particles before carbon nanotube growth. Pd film is applied as a gas activator to decrease the growth temperature of carbon nanotubes. The carbon nanotubes grown on Ni catalyst particles showed a multiwalled structure with defective graphite sheets at the wall. The turn-on voltage was about 2.8 V/¼m with an emission current density of 10 ¼A/cm2, and the threshold voltage was about 4.0 V/¼m with an emission current density of 10 mA/cm2. The Fowler-Nordheim plot showed a good linear fit, indicating that the emission current of carbon nanotubes follows Fowler-Nordheim behavior. The calculated field enhancement factor was 2850. © 2001 American Institute of Physics. 
+
+carbon nanotubes
+nickel
+electroplated coatings
+nanotechnology
+chemical vapour deposition
+electron field emission

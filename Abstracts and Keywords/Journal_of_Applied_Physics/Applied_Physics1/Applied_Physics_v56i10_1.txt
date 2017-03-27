@@ -1,0 +1,13 @@
+Highdose, highcurrent arsenic implantation in silicon produces a partial recrystallization during the implantation process. The phenomenon presents the disadvantage that the recrystallized region is highly defective and remains nearly unchanged during subsequent low temperature thermal treatments. Instead, in implantation conditions leading to an amorphous layer, similar treatments should give rise to a solidphase epitaxial regrowth. In this work the nature of the damaged region is investigated by electrical, analytical and structural techniques.
+
+ION IMPLANTATION
+SILICON
+DAMAGE
+HEAT TREATMENTS
+RECRYSTALLIZATION
+AMORPHOUS STATE
+RBS
+AUGER ELECTRON SPECTROSCOPY
+ELECTRON DIFFRACTION
+SURFACE ANALYSIS
+ELECTRICAL PROPERTIES

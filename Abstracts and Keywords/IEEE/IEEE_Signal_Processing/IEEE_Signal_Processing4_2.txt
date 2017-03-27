@@ -1,0 +1,6 @@
+SA (smart antennas) is a core technology of TD-SCDMA system. That is because people consider that a set of SA can simultaneously directionally receive multiple CDMA channel signals on a single carrier. And then according the reciprocity of transceiver, the directional transmission of multiple CDMA channel signals can also be realized on a single carrier by a set of SA. This technology can dramatically enhance spectrum utilization and increase capacity of the TD-SCDMA system. For the receiving of signals, the view mentioned above is right. However, for the transmission of signals, simultaneous directional transmission of multiple CDMA channel is impossible on one carrier by only using a set of SA, which is researched by means of the basic principles of phase controlled linear antenna array and proved by a simple virtual test in this paper. For the test, we adopt two different direction PSK (phase shift key) signals which are transmitted by a set of SA. The result of the test can be applied to multiple CDMA channels system. Hence the reciprocity of transceiver can not be applied to smart antennas to achieve multiple beams in same frequency CDMA system. Furthermore, this paper also point out some wrong viewpoints on the application of the Butler antenna array.
+
+Butler antenna array
+CDMA
+Directional Transmission
+Smart Antenna (SA)

@@ -1,0 +1,4 @@
+Low frequency electromagnetic waves in the ionosphere are examined, and we calculate the refraction angles and other properties as these waves propagate through the ionosphere. The correlation to fluctuations in the total electron content is derived, and the results are compared to observed results. © 2001 American Institute of Physics.
+
+ionospheric electromagnetic wave propagation
+electromagnetic wave refraction

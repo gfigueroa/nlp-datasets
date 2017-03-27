@@ -1,0 +1,8 @@
+Arrays of Co particles with well-defined geometry and lateral sizes in the range 0.10.5 ¼m were prepared by electron beam lithography and studied by magnetization measurements and magnetic force microscopy. The starting materials were epitaxial Co films, with in-plane magnetic anisotropy, having thicknesses in the range 1050 nm. The particles change from multidomain behavior to that of stable single domains in zero field, as the lateral dimension decreases within these ranges. For particles of circular shape, i.e., without in-plane shape anisotropy, the critical size for forming single domains was found to be about 200 nm in lateral extension and 20 nm thickness. Elliptical particles prepared with 20 nm thickness and lateral dimensions 150 by 450 nm were found to be stable single domains, of good uniformity, in zero field. The switching of these particles from one magnetization direction along the long axis to the other, requires an applied field BSH(100±20)mT. A comparison with other published results leads to the conclusion that although the critical volume for single domains may be about the same, the final microscopic magnetic structure and the processes for magnetic switching for particles in the actual range of sizes, are strongly governed by the intrinsic properties of the Co films, which may vary widely. © 2001 American Institute of Physics. 
+
+cobalt
+magnetic particles
+magnetic epitaxial layers
+magnetic domains
+magnetic anisotropy
+magnetic structure

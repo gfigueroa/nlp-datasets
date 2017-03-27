@@ -1,0 +1,8 @@
+The performance of organic light emitting devices is strongly dominated by the cathode materials, because the injection barrier for electrons is largely affected by the electronic properties of the used metal. We report internal photoemission measurements of the barrier height existing between aluminum tris(8-hydroxyquinoline) and different cathode materials. It is shown, that a linear relationship exists between the measured barrier height and the work function of the cathode material. However, the gradient in this phenomenological equation indicates, that the barriers cannot be calculated as usual merely as the difference of the lowest unoccupied molecular orbital of the organic material, and the work function of the cathode, but that surface states play an important role. The barrier height remains unchanged after storage, even though the contact exhibits clearly visible degradation effects and numerous dark spots. © 1999 American Institute of Physics.
+
+light emitting devices
+work function
+surface states
+organic compounds
+cathodes
+photoemission

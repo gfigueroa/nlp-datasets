@@ -1,0 +1,17 @@
+The size effects of 0.8SrBi2Ta2O90.2Bi3TiNbO9 thin films, prepared by metalorganic deposition technique, were studied by determining how the ferroelectric properties vary with film thickness and grain size. It was found that the ferroelectric properties were determined by the grain size, and not by the thickness of the film in our studied thickness range of 80500 nm. A 80 nm thick film showed good ferroelectric properties similar to the 500 nm thick film. The possible mechanisms for the size effects in SBTBTN films are discussed. © 1998 American Institute of Physics. 
+
+strontium compounds
+bismuth compounds
+titanium compounds
+ferroelectric thin films
+size effect
+electric domains
+STRONTIUM OXIDES
+BISMUTH OXIDES
+TANTALATES
+NIOBATES
+TITANIUM OXIDES
+FERROELECTRIC MATERIALS
+THIN FILMS
+GRAIN SIZE
+MICROSTRUCTURE

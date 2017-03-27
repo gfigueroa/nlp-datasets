@@ -1,0 +1,5 @@
+Indium bumps properties for flip-chip assembly of InAs infrared detector arrays to multiplexers have been investigated. It is shown that the indium bumps fabricated by a vacuum indium deposition and a direct photolithography, contains a surface layer more rigid in comparison with the clean indium and having a poor adhesive ability. This release layer prevents bumps from the good adhesive contact during assembly and leads to bumps disconnection under a temperature cycling because of the difference in the thermal-expansion coefficients of the InAs infrared detector arrays and the silicon multiplexer. Precise chemical removal this layer and following bumps re-flow increases the adhesion strength between indium bumps more than two order
+
+Indium bump
+adhesion
+flip-chip

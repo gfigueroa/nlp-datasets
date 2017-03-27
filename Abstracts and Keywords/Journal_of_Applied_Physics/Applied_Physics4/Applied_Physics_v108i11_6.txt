@@ -1,0 +1,10 @@
+We have modified the existing rigid vortex model to probe magnetostatic interactions in coupled elements of arbitrary shape. We predict that in coupled ellipsoidal magnets, reversal can occur by nucleating either one or two vortex cores, depending on the lattice configuration. When the ellipsoids are arranged along their major axis, the reversal occurs by nucleation of a single vortex core. However, when the ellipsoids are arranged along their minor axis, two vortex cores are nucleated. Our theoretical predictions have been validated experimentally using magnetic force microscopy.
+
+iron alloys
+magnetic anisotropy
+magnetic force microscopy
+magnetostatics
+magnets
+nickel alloys
+nucleation
+vortices

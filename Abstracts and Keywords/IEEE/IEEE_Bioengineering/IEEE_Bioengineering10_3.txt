@@ -1,0 +1,6 @@
+In ordinary statistical methods, multiple outliers in least-squares regression model are detected sequentially one after another, where smearing and masking effects give misleading results. If the potential multiple outliers can be detected simultaneously, smearing and masking effects can be avoided. Such multiple-case outlier detection is of combinatorial nature and 2<sup>N</sup> -1 sets of possible outliers need to be tested, where N is the number of data points. This exhaustive search is practically impossible. In this paper, we have used quantum-inspired evolutionary algorithm (QEA) for multiple-case outlier detection in least-squares regression model. An information criterion based fitness function incorporating extra penalty for number of potential outliers has been used for identifying the most appropriate set of potential outliers. Experimental results with four datasets from statistical literature show that the QEA effectively detects the most appropriate set of outliers.
+
+Information criterion based fitness function
+least-squares regression model
+multiple-case outlier detection
+quantum-inspired evolutionary algorithm

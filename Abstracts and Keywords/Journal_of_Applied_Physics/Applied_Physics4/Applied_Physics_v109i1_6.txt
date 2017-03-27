@@ -1,0 +1,9 @@
+The formation of polariton wave-packets created by high-intensity laser beams focused in plasmas is analyzed, and the velocity, energy, size, structure, stability, and electron content of such polaritonic pulses are characterized. It is shown that polaritonic pulses may transport trapped electrons with appreciable energies, provided the medium behaves as a rarefied classical plasma. The relativistic electron energy is related to the polariton group velocity, which is close to the velocity of light in this case. The plasma pulse is polarized, and the electron number in the pulse is estimated as being proportional to the square root of the laser intensity and the 3/2-power of the pulse size. It is shown that Compton (Thomson) backscattering by such polaritonic pulses of electrons may produce coherent X- and gamma rays, as a consequence of the quasirigidity of the electrons inside the polaritonic pulses and their relatively large number. The classical results of the Compton scattering are re-examined in this context, the energy of the scattered photons and their cross-section are analyzed, especially for backscattering, the great enhancement of the scattered flux of X- or gamma rays due to the coherence effect is highlighted and numerical estimates are given for some typical situations.
+
+Compton effect
+plasma light propagation
+plasma transport processes
+plasma X-ray sources
+polaritons
+relativistic plasmas
+Thomson effect

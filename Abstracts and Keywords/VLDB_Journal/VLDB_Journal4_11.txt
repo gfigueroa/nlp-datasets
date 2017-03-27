@@ -1,0 +1,5 @@
+Connectivity products are finally available to provide the "highways" between computers containing data. IBM has provided strong validation of the concept with their "Information Warehouse." DBMS vendors are providing gateways into their products, and SQL is being retrofitted on many older DBMSs to make it easier to access data from standard 4GL products and application development systems. The next step needed for data integration is to provide (1) a common data dictionary with a conceptual schema across the data to mask the many differences that occur when databases are developed independently and (2) a server that can access and integrate the databases using information from the data dictionary. In this article, we discuss InterViso, one of the first commercial federated database products. InterViso is based on Mermaid, which was developed at SDC and Unisys (Templeton et al., 1987b). It provides a value added layer above connectivity products to handle views across databases, schema translation, and transaction management.
+
+data warehouse
+database integration
+federated database

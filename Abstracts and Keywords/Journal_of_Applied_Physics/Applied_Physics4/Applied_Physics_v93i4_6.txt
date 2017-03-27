@@ -1,0 +1,10 @@
+The effects of implantation temperature and ion flux on damage accumulation on both the Si and C sublattices in 4H-SiC have been investigated under 1.1-MeV Al22+ irradiation at temperatures from 150 to 450 K. The rate of damage accumulation decreases dramatically, and the damage profile sharpens due to significant dynamic recovery at temperatures close to the critical temperature for amorphization. At 450 K, the relative disorder and the density of planar defects increase rapidly with the increasing ion flux, exhibiting saturation at high ion fluxes. Planar defects are generated through the agglomeration of excess Si and C interstitials during irradiation and post-irradiation annealing at 450 K. A volume expansion of <8% is estimated for the peak damage region. © 2003 American Institute of Physics. 
+
+silicon compounds
+aluminium
+ion implantation
+semiconductor doping
+wide band gap semiconductors
+ion beam effects
+transmission electron microscopy
+interstitials

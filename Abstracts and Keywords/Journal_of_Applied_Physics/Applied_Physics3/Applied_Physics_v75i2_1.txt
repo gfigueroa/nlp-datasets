@@ -1,0 +1,15 @@
+The construction of microelectronic circuits from hightransitiontemperature (Tc) superconductors requires techniques for producing thinfilm wires, insulating crossovers, and vias (window contacts) between wires. Together, these three components form a superconducting interconnect technology. The challenges encountered in developing such a technology for highTc superconductors involve factors associated with the materials, the circuits and the fabrication techniques. The use of pulsed laser deposition in conjunction with shadow mask patterning, photolithographic pattern definition, acid etching, ionbeam etching, and surface cleaning to produce multilayer interconnects from YBa2Cu3O7x (YBCO) is discussed. These processes have been used to construct a variety of passive hightemperature superconducting components and circuits, including crossovers, window contacts, multiturn coils, and flux transformers. Integrated magnetometers incorporating superconducting quantum interference devices, multichip modules with semiconductor die bonded to YBCO interconnect structures, and analogtodigital converters have also been successfully demonstrated.
+
+MULTILAYERS
+LITHOGRAPHY
+HIGHTC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+THIN FILMS
+SUPERCONDUCTING WIRES
+CONNECTORS
+MICROELECTRONIC CIRCUITS
+LASER RADIATION
+ABLATION
+ETCHING

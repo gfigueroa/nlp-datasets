@@ -1,0 +1,11 @@
+The influence of potential spike on the transport properties of heterostructureemitter bipolar transistor (HEBT) has been demonstrated. The potential spike is attributed primarily to the extended depletion region adjacent the p+ GaAs base layer. Due to the existence of potential spike, the electrical properties including conducting current, current gain, and offset voltage, etc., are degraded seriously. The kneeshaped characteristics and strong reachthrough effect are observed. Consequently, the design of the structural parameters, such as GaAs emitter (collector) width adjacent p+ base, plays an important role of highperformance HEBT devices.
+
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+BIPOLAR TRANSISTORS
+MOLECULAR BEAM EPITAXY
+TRANSPORT PROCESSES
+ELECTRICAL PROPERTIES
+ELECTRIC POTENTIAL
+PERFORMANCE
+SURGES

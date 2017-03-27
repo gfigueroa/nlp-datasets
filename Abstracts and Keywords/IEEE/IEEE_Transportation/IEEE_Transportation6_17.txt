@@ -1,0 +1,6 @@
+Recent changes to the rules for Formula One have created renewed interest in flywheel based hybrid systems and encouraged significant development. These systems have been known for many years to offer an efficient and low cost alternative to electric hybrid systems, but were characterised by large and heavy flywheels giving rise to packaging issues and significant processional forces. Silverstone based Flybrid Systems have taken advantage of the high efficiency of the mechanical hybrid solution in their Formula One kinetic energy recovery system and have developed a high-speed flywheel storage module that overcomes the size, weight and processional force issues. Flybrid's 5 kg flywheel spins at up to 64,500 RPM inside an evacuated enclosure and stores more than enough energy to maximise system efficiency over the NEDC test cycle for a large road car. The resulting mechanical hybrid system offers double the efficiency of existing electric solutions with less than half the packaging space, weight and cost. The system is suitable for many classes of vehicle including road cars, buses, trucks and trains and offers a new possibility for vehicle makers to address CO<sub>2</sub> emission targets whilst retaining or even enhancing vehicle performance.
+
+Flybrid
+Flywheel
+Hybrid
+KERS

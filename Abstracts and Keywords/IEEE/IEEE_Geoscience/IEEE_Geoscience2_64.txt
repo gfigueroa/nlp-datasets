@@ -1,0 +1,4 @@
+We determined the material flow of a Japanese telephone corporation. We used a modified input-output table intended for LCA and found that the calculated annual input flow in weight was 93% compared with the annual output flow. This result indicates the change in total assets. We suggest that we could use this method for calculating the macro material flow.
+
+Communication services
+Material flow analysis

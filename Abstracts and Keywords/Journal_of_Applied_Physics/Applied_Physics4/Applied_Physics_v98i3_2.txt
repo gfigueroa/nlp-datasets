@@ -1,0 +1,12 @@
+Energy-dispersive powder diffraction as a function of pressure has been used to search for elastic interactions between CuCl nanocrystals embedded in NaCl and sample surfaces. Anomalous properties have been observed only for (200) reflexes of the NaCl matrix although crystallographic structure and imposed pressure are essentially isotropic. The material shows an initial compressive strain of S(200) = 0.002 which is large compared with the low concentration of CuCl but small compared with the accuracy achieved in a high-pressure apparatus. It was necessary to identify the influences of grain morphology, sample preparation, deformation of the sample cell, uniaxial pressure component, and nonlinear elasticity to obtain reliable results. The initial strain is accompanied by an elastic hardening of NaCl. The appearance of both effects is traced back to the influence of sample surfaces. This interpretation is verified by exciton spectroscopy studied in a thin optical plate. A comparison between experimental results and elastic continuum theory demonstrates that the theory describes correctly the observed phenomena but predicts effects which are significantly smaller than the measured values. The mechanisms which are able to amplify the impact of nanocrystals on the matrix are discussed.
+
+sodium compounds
+copper compounds
+nanostructured materials
+semiconductor materials
+X-ray diffraction
+elasticity
+crystal structure
+high-pressure effects
+hardening
+excitons

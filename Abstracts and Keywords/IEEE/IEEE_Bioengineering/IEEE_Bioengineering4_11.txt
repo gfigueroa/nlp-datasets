@@ -1,0 +1,5 @@
+It is important to develop computational methods to predict target genes of a transcription factor. In this paper, we developed a phylogenetic footprinting method to effectively identify target genes on the whole genome scale. Appling the method to 31 transcription factors, we improved the quality of the initial motifs, and predicted additional target genes that are supported by gene ontology analysis. We also showed that the predicted target genes of different transcription factors could provide evidences of cooperation to form transcription modules. Our method provides useful tools for systematic study of gene regulatory networks.
+
+phylogenetic footprinting
+position weight matrix
+transcription factor binding sites

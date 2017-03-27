@@ -1,0 +1,8 @@
+Vibration in high speed turbine engines is a performance limiting factor. Optical sensors can be used to accurately measure vibration in high speed turbo machinery. This paper will overview the development of the hardware and software whose purpose is to quantify these vibrations and present this data in a easy to understand fashion to the end user.
+
+APD
+FPGA
+USB
+optical
+quantify
+vibration

@@ -1,0 +1,18 @@
+The magnetic inhomogeneities in the double perovskite Sr2CrWO6 ceramics have been investigated by means of ferromagnetic resonance spectra and magnetization measurements. The experimental results show that the peak-to-peak linewidth increases with decreasing temperature from 450 to 294 K. Meanwhile, the samples exhibit a remarkable coercivity up to 1050 Oe at room temperature in magnetic field of 18.3 kOe, and hard to attain saturation in magnetization. All these behaviors are symptomatic of magnetic inhomogeneities in the samples. The magnetoresistance (MR), arising from spin-polarized carriers tunneling at the grain boundaries, is about 24% at 6 K in magnetic field of 50 kOe. The MR decreases with elevating temperature and is nearly zero at room temperature. These studies clearly reveal that the magnetically soft character in this system is a prerequisite to enhance low-field magnetoresistance at room temperature. The investigation of x-ray photoemission spectra indicates that the ground state of Sr2CrWO6 adopts Cr3+W5+ configuration. The superexchange interaction between Cr and W ions leads to ferrimagnetic ordering below Curie temperature TC<473
+K. © 2003 American Institute of Physics. 
+
+chromium compounds
+ferrimagnetic materials
+valency
+ceramics
+ferromagnetic resonance
+magnetisation
+coercive force
+magnetoresistance
+tunnelling
+electron spin polarisation
+grain boundaries
+soft magnetic materials
+X-ray photoelectron spectra
+superexchange interactions
+Curie temperature

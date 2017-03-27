@@ -1,0 +1,13 @@
+Computer simulation of experimental current densityvoltage (JV) and quantum efficiency characteristics of thin film p1-i1-n1-p2 structures and of double junction solar cells (p1-i1-n1-p2-i2-n2), has been used to understand the hole transport mechanisms near the np tunnel junction between two subcells of a multijunction structure. Two different types of p layers at the junction have been studied: (i) hydrogenated microcrystalline silicon (¼c-Si:H) and (ii) hydrogenated amorphous silicon carbide (a-SiC:H). There is a striking difference between the experimental JV characteristics for the p1-i1-n1-p2 structures, with case (i) having a fairly high fill factor (FF) and conversion efficiency (·), as against a very low FF and · in case (ii). Although the difference is much smaller for double junction cells employing these two types of materials as the p layer at the junction, the fill factor of the cell employing ¼c-Si:H is about 8% higher. Analysis of transport properties as a function of position by computer modeling reveals that the main difference in behavior between the two cases is due to the much higher free hole population in the p layer at the junction when it is microcrystalline; which in turn, is a direct consequence of the lower activation energy for this case. We also learn that not only tunneling and the electric field in the bottom subcell, but also diffusion, plays a major role in pushing the holes produced in it by the incident light towards the recombination layer at the junction; and thereby helps improve cell performance, especially its fill factor. We conclude that the p layer at the junction should have a high free hole density (low activation energy in the device), to attain an overall high fill factor and conversion efficiency. Another interesting inference is the fact that tunneling as transport mechanism for holes towards the junction is more important when the p layer at the junction is a-SiC:H than when it is microcrystalline, while diffusion plays a more prominent role in propelling holes towards the junction in the latter case. © 2000 American Institute of Physics. 
+
+solar cells
+semiconductor thin films
+silicon
+hydrogen
+elemental semiconductors
+silicon compounds
+amorphous semiconductors
+wide band gap semiconductors
+surface recombination
+hole mobility
+tunnelling

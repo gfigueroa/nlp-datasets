@@ -1,0 +1,9 @@
+The dynamics of a fragmentation model is examined from the point of view of numerical simulation and rate equations. The model includes effects of temperature. The number n(s,t) of fragments of size s at time t is obtained and is found to obey the scaling form n(s,t)< sÄtws³eÁtf(s/tz) where f(x) is a crossover function satisfying f(x)B1 for xj1 and f(x)j1 for xk1. The dependence of the critical exponents Ä, w, ³, and z on space dimensionality d is studied from d=1 to 5. The result of the dynamics on fractal and nonfractal objects as well as on square and triangular lattices is also examined.
+
+CHEMICAL REACTION KINETICS
+FRAGMENTATION
+SCALING
+COMPUTERIZED SIMULATION
+CRITICAL EXPONENTS
+FRACTALS
+TRIANGULAR LATTICES

@@ -1,0 +1,13 @@
+Magnetron plasmas are of great current interest for semiconductor manufacturing applications because of their high ion density and low operating pressure. We have studied the properties of a magnetron ion etching system using CF4 and CF4/O2 with respect to the plasma chemistry and the interaction of the plasma with both the etched substrate and the chamber walls. The higher dissociation and ionization rates lead to significant changes in the species present in the plasma as compared to a conventional reactive ion etching (RIE) plasma. The F atom concentration in a CF4 magnetron plasma is much higher than in a RIE plasma. The addition of O2 leads to only a small further enhancement and produces a decrease in the Si etch rate. The highly dissociated species in the magnetron plasma produce less CF polymer, both on the wafer and on the chamber walls, relative to RIE. Sputtering of Al from the electrode produces a substantial deposit of AlFx on the chamber walls, but not on the wafer.
+
+CARBON TETRAFLUORIDE
+OXYGEN MOLECULES
+SILICON
+ETCHING
+MAGNETRONS
+POLYMERS
+ALUMINIUM
+WAFERS
+ELECTRODES
+WALLS
+ION COLLISIONS

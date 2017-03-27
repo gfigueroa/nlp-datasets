@@ -1,0 +1,9 @@
+A theoretical investigation of the ground state electronic structure of InAs/GaAs quantum confined structures is presented. Energy levels of cuboids and pyramidal shaped dots are calculated using a single-band, constant-confining-potential model that in former applications has proved to reproduce well both the predictions of very sophisticated treatments and several features of many experimental photoluminescence spectra. A connection rule between their ground state energies is found which allows the calculation of the energy levels of pyramidal dots using those of cuboids of suitably chosen dimensions, whose solution requires considerably less computational effort. The purpose of this work is to provide experimentalists with a versatile and simple method to analyze their spectra. As an example, this rule is then applied to successfully reproduce the position of the ground state transition peaks of some experimental photoluminescence spectra of self-assembled pyramidal dots. Furthermore the rule is used to predict the dimensions of a pyramidal dot, starting from the knowledge of the ground state transition energy and an estimate for the aspect ratio Q. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+semiconductor quantum dots
+ground states
+III-V semiconductors
+photoluminescence
+self-assembly

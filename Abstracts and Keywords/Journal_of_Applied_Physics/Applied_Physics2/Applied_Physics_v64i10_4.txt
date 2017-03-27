@@ -1,0 +1,11 @@
+Electron mobilities at 300 K as high as 4500 and 9800 cm2 /V s are observed when AlInAs is grown on in situgrown InP and GaInAs, respectively. These high anomalous mobilities, compared to those of material grown directly on InP substrates, are shown to be due to parallel conduction both in the AlInAs and in the twodimensional electron gas present at the AlInAs/InP and AlInAs/GaInAs interface. To our knowledge, this is the first report of a twodimensional electron gas for AlInAs/InP heterostructures. Theoretical estimation of the electron mobilities in AlInAs using realistic values of alloy scattering potentials have been used to show that the true mobilities of electrons in AlInAs are for material grown on InP substrates.
+
+ELECTRON MOBILITY
+HETEROSTRUCTURES
+ELECTRON GAS
+CHARGEDPARTICLE TRANSPORT
+ALUMINIUM ARSENIDES
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+GALLIUM ARSENIDES
+TWODIMENSIONAL CALCULATIONS

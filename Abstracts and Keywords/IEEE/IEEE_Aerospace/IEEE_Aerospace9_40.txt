@@ -1,0 +1,7 @@
+The effect of induced channel strain on surface quantisation at inversion has been studied using SiO<sub>2</sub> and ZrO<sub>2</sub> as the gate dielectrics on strained-Si/SiGe MOS structures. The location of charge centroid and its carrier distribution have been observed to change significantly with high-k gate dielectrics in comparison to SiO<sub>2</sub> and also with the induced strain in the channel. The charge centroid location and peak carrier density have significant impact on the measured oxide thickness and consequently the device parametric values since it alters carrier transport along the channel.
+
+CMOS
+charge centroid
+high-k material
+surface quantization
+ultra-thin gate dielectric

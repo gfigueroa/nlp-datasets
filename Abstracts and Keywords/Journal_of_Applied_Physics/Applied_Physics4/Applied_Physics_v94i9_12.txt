@@ -1,0 +1,9 @@
+A series of sharp intense peaks was observed in the low-temperature photoluminescence spectrum of unintentionally doped GaN in the photon energy range between 3.0 and 3.46 eV. We attributed the majority of these peaks to excitons bound to unidentified structural and surface defects. Most of the structural- and surface-related peaks (at 3.21, 3.32, 3.34, 3.35, 3.38, and 3.42 eV) were observed in Ga polar films. In N polar GaN, we often observed the 3.45 eV peak attributed to excitons bound to the inversion domain interfaces. © 2003 American Institute of Physics.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+photoluminescence
+excitons
+bound states
+defect states

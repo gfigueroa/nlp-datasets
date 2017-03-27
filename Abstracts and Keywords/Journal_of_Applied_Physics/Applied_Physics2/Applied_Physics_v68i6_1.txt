@@ -1,0 +1,17 @@
+In order to calibrate a timeofflight mass spectrometer which is to be flown in the solar wind we have investigated the charge exchange properties of lowenergy ions in thin carbon foils. We have used incident ions of He, C, N, O, Ne, and Ar with energies in the range 0.52 keV/nucleon to measure chargestate distribution, residual energy, and angular distribution after transmission through thin (16 ¼g/cm2 ) carbon foils. Within such foils an equilibrium between ionization and recombination of the projectile is rapidly established and, consequently, the charge state of the emerging particle depends essentially on its residual velocity. A comparison of the charge exchange properties of 22 Ne with 2 0 Ne demonstrates that indeed the velocity (and not the energy) of the emerging particle determines its final charge. Comparing properties of different elements one observes an indication of an electron shell effect. Predictions for the energy loss of ions within the carbon foils made with the trim code [J. F. Ziegler, computer code trim88 (IBMResearch, Yorktown, NY, 1987)] are in good agreement with the experimental results presented in this paper.
+
+CARBON
+FOILS
+ION COLLISIONS
+HELIUM IONS
+CARBON IONS
+NITROGEN IONS
+OXYGEN IONS
+NEON IONS
+ARGON IONS
+CHARGE EXCHANGE
+IONIZATION
+RECOMBINATION
+VELOCITY
+ENERGY LOSSES
+COLLISIONS

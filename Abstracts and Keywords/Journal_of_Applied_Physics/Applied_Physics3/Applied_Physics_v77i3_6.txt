@@ -1,0 +1,9 @@
+It is shown that the occurrence of magnetic polaron formation can have an appreciable influence on the values of the diffusion constants deduced from observations of the photoluminescence in diffused magnetic quantumwell structures. Arguments are presented that show that photoluminescence excitation spectroscopy provides several independent, more accurate measurements from which the diffusion constants can be more reliably estimated. © 1995 American Institute of Physics.
+
+MAGNETIC SEMICONDUCTORS
+QUANTUM WELLS
+DIFFUSION
+POLARONS
+PHOTOLUMINESCENCE
+EXCITONS
+SPECTROSCOPY

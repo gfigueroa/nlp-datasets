@@ -1,0 +1,8 @@
+Semiconductor quantum dot lasers offer significant advantages over traditional quantum well devices. However, the advantages due to the discrete density of states of a structure confined in all three spatial dimensions are usually not fully realized because of problems associated with the capture of carriers into the discrete states. In this paper we use a simple rate equation model to identify the processes that limit the performance of a quantum dot laser. This simplistic approach, while lacking the rigor of more complex models, allows us to develop a physical understanding of how the properties of the quantum dot electronic states effect the operation of a laser. The existence of a thermal, Fermi-Dirac distribution of carriers is shown to exist only when there are no recombination processes (either radiative or nonradiative). In a quantum well laser the rate of thermalization is much faster than the carrier loss processes and therefore the distribution appears to be close to Fermi-Dirac; however, in a quantum dot structure the slower capture/escape rates can cause nonthermal carrier distributions. The interplay of the radiative recombination and capture and escape rates in the dots is shown to define the mode of operation of the laser. An identity, derived simply in terms of the rates of carrier escape and spontaneous recombination and a confinement energy, predicts whether the carrier population is coupled across the dot ensemble. This will determine whether a semiconductor quantum dot laser exhibits single mode operation.
+
+semiconductor quantum dots
+quantum dot lasers
+quantum statistical mechanics
+electronic density of states
+quantum well lasers
+laser modes

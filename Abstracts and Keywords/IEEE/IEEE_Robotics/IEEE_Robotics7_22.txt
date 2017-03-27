@@ -1,0 +1,5 @@
+This paper presents a novel method by regulating the height of a CCD camera to measure the width and height of a targeted object. That is, three-dimensional measurement can be obtained with the use of a single CCD camera. To facilitate the measurement using various kinds of CCD cameras, parameters pertinent to the cameras can be established via a proposed mechanism in this paper. As a result, any kinds of CCD cameras can be used to perform three dimensional measurement of a targeted object via software implementation of the proposed measuring method. No changes to the circuits or structure of the camera are required.
+
+CCD camera
+distance measurement
+three-dimensional measurement

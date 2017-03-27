@@ -1,0 +1,11 @@
+The transient response of photogenerated carriers in semiinsulating (SI) GaAs is expected to be influenced by the inevitable deep traps in the material. To investigate this effect, and its dependence on the trapcompensation scheme, we have simulated the dynamical behavior of carriers in a planar structure consisting of Schottky electrodes applied directly to SIGaAs that is either doped (with Cr) or undoped (with EL2 compensation). We show by a twodimensional, finitedifference calculation how the deep traps lead to photoinduced space charge at the electrodes. This space charge screens the bias field and modifies the transient response of the carriers, but the details vary with the type of trap compensation used in the SIGaAs. Although we consider for illustration the simplest possible planar structure, our results relate directly to a class of metalsemiconductormetal photodetectors that is potentially important in integrated optoelectronics.
+
+GALLIUM ARSENIDES
+PHOTOCONDUCTIVITY
+TRAPS
+SIMULATION
+CHARGE CARRIERS
+SCHOTTKY BARRIER DIODES
+DEEP ENERGY LEVELS
+SPACE CHARGE
+PHOTODETECTORS

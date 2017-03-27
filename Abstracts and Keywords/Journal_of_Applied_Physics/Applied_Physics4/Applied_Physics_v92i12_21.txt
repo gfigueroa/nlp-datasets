@@ -1,0 +1,14 @@
+Mesoporous molecular sieves (MCM-41) consist of an ordered array of silica tubules comprised of pores with uniform controllable diameters in the nanometer range. Tin was successfully incorporated into MCM-41 using wet chemical techniques. Detailed structural analysis via x-ray diffraction and high resolution transmission electron microscopy confirm this, and indicate that, after sintering samples in air, SnO2 crystal nanoclusters formed in the channels. These conclusions are further supported by a study of the positron annihilation spectrum. In particular, the insensitivity, after incorporation of tin, of the long-lived component of the positron annihilation spectrum to whether an air or a vacuum annealing atmosphere is used indicates that tin in the MCM-41 channels hinders the entry of quenching oxygen from the air. Furthermore, after sintering, the complete loss of this long-lived component indicates that SnO2 nanoclusters fill the channels. © 2002 American Institute of Physics. 
+
+positron annihilation
+tin
+silicon compounds
+X-ray diffraction
+transmission electron microscopy
+sintering
+annealing
+nanostructured materials
+tin compounds
+materials preparation
+semiconductor materials
+porous materials

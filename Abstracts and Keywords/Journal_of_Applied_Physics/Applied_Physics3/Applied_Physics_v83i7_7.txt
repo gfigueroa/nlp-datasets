@@ -1,0 +1,9 @@
+Microwave propagation in a layered dielectric/ferromagnet were explored in the past. Previous studies, however, made use of an approximation to the full permeability tensor in the ferromagnet. This approximation fails in a frequency range where the structure can act as a band pass filter. Here we seek to verify the behavior in the predicted band pass region using the full permeability tensor. We also explore the use of the layered structure in two devices: a tunable band pass filter and an adjustable phase shifter. © 1998 American Institute of Physics.
+
+ferromagnetism
+magnetic multilayers
+magnetic microwave devices
+microwave filters
+band-pass filters
+microwave phase shifters
+magnetic permeability

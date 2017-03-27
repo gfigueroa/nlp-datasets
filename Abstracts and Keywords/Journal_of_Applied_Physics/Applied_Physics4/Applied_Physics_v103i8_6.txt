@@ -1,0 +1,11 @@
+Quantum-cascade lasers operating at » H 3.9¼m at room temperature with narrow w H 5¼m ridge widths are described. The lateral confinement due to the narrow ridge is similar to the vertical confinement and the resulting beam is circular in cross section with a single TM00 spatial mode. The beam divergence is 46° both parallel and perpendicular to the surface. The beam quality factor along the slow axis is about M2 = 1.6. The narrow ridges also increase the relative lateral heat dissipation from the active region, resulting in a thermal conductance per unit area of about Gth = 380W	K1	cm2 for a 3mm long laser. Maximum average power is obtained with duty cycles between 10% and 30%; in spite of the very narrow ridge, the total average power with thermoelectric cooling exceeds 60mW with a peak power of 460mW. The circularly symmetric beam with very good beam quality suggests essentially zero astigmatism and indicates that these narrow-ridge quantum-cascade lasers are well suited for applications in midinfrared spectroscopy and imaging.
+
+cooling
+infrared imaging
+infrared spectroscopy
+laser beams
+optical materials
+quantum cascade lasers
+thermal conductivity
+thermoelectric devices
+thermo-optical effects

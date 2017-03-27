@@ -1,0 +1,14 @@
+Shallowdonor levels due to Si, Ge, Sn, S, Se, and Te in GaAs are neutralized by association with atomic hydrogen; Si and Te donors in AlGaAs have also been shown to be neutralized. In contrast, the shallow acceptors Be, Mg, Zn, and Cd in GaAs are relatively unaffected by hydrogenation. The activation energy for recovery of the donor electrical activity is around 2.1 eV for each of the species, but varies as the strength of an isolated hydrogendonor species bond. The neutralization depth of the donors is proportional to the inverse square root of donor concentration, and this depth is given as a function of plasma exposure temperature (100350	°C) and bonding site density (8×10131.5×1018 cm3).
+
+IMPURITIES
+DONORS
+IMPURITY STATES
+HYDROGENATION
+ATOM TRANSPORT
+DIFFUSION
+HYDROGEN
+GALLIUM ARSENIDES
+ACTIVATION ENERGY
+HIGH TEMPERATURE
+ALUMINIUM ARSENIDES
+RECOMBINATION

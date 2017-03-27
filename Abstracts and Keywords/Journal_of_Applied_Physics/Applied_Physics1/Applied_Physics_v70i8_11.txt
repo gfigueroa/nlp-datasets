@@ -1,0 +1,15 @@
+We report the demonstration of an all molecular beam epitaxy HgCdTe biasselectable dualband infrared photodetector. The mesa device, an npn three layer HgCdTe heterostructure, was in situ doped with arsenic and indium for p and ntype doping. The device design is similar to a heterostructure floating base transistor. The feasibility of the twocolor biasswitchable detector was demonstrated by obtaining backside illuminated spectrally pure dualband detection at 77 K. Wavelength cutoff (»co) selection to 5.2 ¼m with 60% quantum efficiency (QE) was obtained by applying a negative bias of 250 meV, and to »co=7.9 ¼m with 36% QE by applying a positive bias of 250 meV. The currentvoltage characteristics of this device can be described in terms of a simple backtoback diode model.
+
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+QUASIBINARY COMPOUNDS
+PHOTODIODES
+INFRARED SPECTRA
+MULTILAYERS
+ARSENIC ADDITIONS
+INDIUM ADDITIONS
+MOLECULAR BEAM EPITAXY
+DESIGN
+HETEROSTRUCTURES
+PHOTODETECTORS
+INFRARED RADIATION

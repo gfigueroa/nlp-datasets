@@ -1,0 +1,15 @@
+Polymer light-emitting electrochemical cells containing a ternary mixture of a soluble phenyl-substituted poly(para-phenylene vinylene) copolymer (superyellow), a dicyclohexano-18-crown-6 (DCH18C6) crown ether and a LiCF3SO3 salt as the active material have been assembled. Planar Au/{superyellow+DCH18C6+LiCF3SO3}/Au devices, with an interelectrode gap of 50 ¼m, were initially charged (i.e., electrochemically p- and n-doped in situ) at T=85
+°C and then cooled to room temperature under applied voltage. When operated at T=23
+°C charged devices show electroluminescence with fast response (&lt; 1 s) at a low applied voltage (V~6	V). Charged devices could be stored under open-circuit conditions at room temperature for a prolonged time without detectable changes in device performance, and they can be completely (reversibly) discharged by raising the temperature to 85
+°C. The active material mixtures were studied by atomic force microscopy and differential scanning calorimetry. The results demonstrate that superyellow phase separates from a crystalline DCH18C6LiCF3SO3 complex on a <25 nm scale. The superyellow phase exhibits a glass transition at Tg<180
+°C, while the crystalline DCH18C6LiCF3SO3 phase melts at TmH56
+°C. Thus, we attribute the stabilization of charged Au/{superyellow+DCH18C6+LiCF3SO3}/Au devices in going from 85 to 23
+°C as being directly related to the passage of Tm of the DCH18C6LiCF3SO3 phase. The ionic distribution related to the p- and n-doped regions is frozen-in by this crystallization allowing for the observed fast kinetics at low voltages at room temperature. © 2004 American Institute of Physics. 
+
+organic light emitting diodes
+polymer films
+polymer blends
+electroluminescence
+atomic force microscopy
+differential scanning calorimetry
+glass transition

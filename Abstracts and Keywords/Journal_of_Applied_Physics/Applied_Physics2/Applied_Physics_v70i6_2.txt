@@ -1,0 +1,16 @@
+Growth and microstructure of thin Ag, Cu, and Au films ultrahigh vacuum deposited onto singlecrystalline mica(001) have been studied in situ by intrinsic stress measurements (ISM) and lowenergy electron diffraction. Depending on the respective substrate temperature, three different modes of VollmerWeber (VW) growth can be clearly distinguished by ISM: (i) VWtype nucleation and subsequent columnar grain growth at low temperatures (110 K) where grainboundary relaxation is the prevailing stress contribution, (ii) polycrystalline VW mode in a medium temperature range that is characterized by VWtype nucleation and grain growth in the continuous film and dominated by the capillarity stress, and (iii) epitaxial VW growth mode at temperatures above 470 K for Ag and 600 K for Cu and Au; here a novel stress mechanism due to the formation of singlecrystalline grain boundaries appears during the network stage.
+
+SILVER
+COPPER
+GOLD
+THIN FILMS
+MICA
+MONOCRYSTALS
+FILM GROWTH
+MICROSTRUCTURE
+ULTRAHIGH VACUUM
+STRESSES
+ELECTRON DIFFRACTION
+POLYCRYSTALS
+EPITAXY
+GRAIN BOUNDARIES

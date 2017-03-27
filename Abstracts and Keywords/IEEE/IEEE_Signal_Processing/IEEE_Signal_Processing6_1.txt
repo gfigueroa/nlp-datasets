@@ -1,0 +1,13 @@
+Traffic data extraction is an increasing demand for applications such as traffic lights control, population evacuation, or to reduce traffic issues including congestion, pollution, delays, and accidents. We present in this paper a new framework to reliably detect, classify and track multiple vehicles at night-time. The system shows excellent performance after an evaluation procedure involving many cameras and different conditions. The vehicle detection consists of detecting its two headlights. To avoid false positives and make the detector reliable, a second stage seeks clues of vehiclepsilas presence through a decision tree composed of feature-based and appearance-based classifiers. Finally, the vehicles are tracked over frames. A Kalman filter is associated with a reasoning module. The tracker is designated to be fast, stable, as well as dealing safely with partial and total occlusions.
+
+Kalman filter
+Traffic monitoring
+headlights detection
+machine learning
+mulitple vehicles detection
+multiple vehicles tracking
+nighttime
+nigth-time
+occlusions reasoning
+traffic data extraction
+windshield detection

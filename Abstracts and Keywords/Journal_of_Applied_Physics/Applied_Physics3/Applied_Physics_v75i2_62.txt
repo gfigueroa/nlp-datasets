@@ -1,0 +1,9 @@
+The influence of the surface temperature on tungsten etching in a SF6 plasma diffusing from a helicon source has been studied in detail. The surface temperature dependence of the etching kinetics has been analyzed. The influence of the other parameters such as oxygen content of the plasma and ion energy have also been considered. The etching mechanism depends on the temperature range: the etching is partly spontaneous at higher temperatures (Ts20	°C), becomes a chemical sputtering type at intermediate temperature (20	°C&lt;T&lt;40	°C), and a chemically enhanced physical sputtering at lower temperature (T&lt;40	°C). Surface analyses by xray photoelectron spectroscopy provide an understanding of how the surface chemistry is modified with temperature.
+
+TUNGSTEN
+ETCHING
+SURFACE TEMPERATURE
+PLASMA
+SULFUR FLUORIDES
+SPUTTERING
+PHOTOELECTRON SPECTROSCOPY

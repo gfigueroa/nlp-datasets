@@ -1,0 +1,9 @@
+We have observed more extraordinary polarized guided modes near cutoff in titanium indiffused lithium niobate planar waveguides than are predicted by titanium indiffusion models. We also observe these nearly cutoff modes in lithium niobate specimens fabricated without titanium under a variety of diffusion atmospheres. We found more guided modes, with higher effective index in these plain lithium niobate specimens fabricated in wet oxygen than in specimens fabricated in either air, dry oxygen, dry argon, or wet argon. Values of the effective index of these nearly cutoff modes found in plain lithium niobate planar waveguides do not agree with those calculated using the lithium outdiffusion model for either vacuumdiffused or oxygendiffused lithium niobate waveguides. We found good agreement between measured values of the effective mode index in specimens fabricated in either dry oxygen or air and calculated values found using an empirical diffusion model of a step index profile whose depth increases as the square root of diffusion time.
+
+LITHIUM NIOBATES
+OPTICAL MATERIALS
+WAVEGUIDES
+DIFFUSION
+POLARIZATION
+FABRICATION
+WAVE PROPAGATION

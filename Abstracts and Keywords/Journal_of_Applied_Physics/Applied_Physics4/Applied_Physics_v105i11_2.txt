@@ -1,0 +1,7 @@
+Photoinduced phenomena in Se-loaded ZSM-5 single crystals have been studied through electron-spin resonance, optical absorption, and photoluminescence spectroscopy. Marked exposure effects appear at room temperature. Upon illumination of visible light, an electron-spin signal at g H 2.00 increases by an order, subgap absorption of 103cm1 appears, and photoluminescence at subgap regions weakens to a half. Timescales of these photoinduced changes including recoveries are not the same, which suggests different origins for the three changes. The spin increase evinces bond scission in single Se chains.
+
+light absorption
+paramagnetic resonance
+photoluminescence
+selenium
+zeolites

@@ -1,0 +1,11 @@
+Hightemperature charge transport across an oxidenitrideoxide sandwich of erasable programmable read only memories is mainly governed by the oxide conductivity as experimentally determined. It was verified in the examined devices that charge loss is not due to mobile ions. Since hole injection from the control gate into the nitride can be blocked by a 70Åthick top oxide we conjecture that charge loss is due to leakage of electrons; however, the observed leakage current is too large to be explained by pure electrodelimited charge transport (Richardson emission and direct tunneling). It was also verified that field gain on asperities and along edges cannot increase the charge loss current to the required range. Numerical evaluation of trap tunneling and resonant tunneling indicated that both mechanisms are weakly temperature dependent while charge loss has a typical activation energy of 1.2 eV in the range of 250350	°C. Consequently, a multiphononassisted tunneling mechanism is proposed where electrons stored on the floating gate tunnel to oxide traps, then are emitted into the nitride. The coupling of the trap level to oxide phonons results in virtual energy levels in the oxide which allow for more effective transition paths. As a consequence of the electronphonon coupling, the emission occurs close to the oxide conductionband edge at temperatures between 250 and 350	°C, producing a strong temperature dependence for the mechanism. © 1995 American Institute of Physics.
+
+TRAPS
+NITRIDES
+SANDWICH STRUCTURES
+MEMORY DEVICES
+INTEGRATED CIRCUITS
+CHARGE TRANSPORT
+TEMPERATURE DEPENDENCE
+TUNNEL EFFECT
+ELECTRIC FIELDS

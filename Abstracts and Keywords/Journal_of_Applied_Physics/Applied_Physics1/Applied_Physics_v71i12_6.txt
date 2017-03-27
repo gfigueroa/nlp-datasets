@@ -1,0 +1,12 @@
+Polymeric electrolytes of the poly(ethylene) oxide (PEO) potassium thiocyanate system have been studied by analyzing the temperature dependence of the lowfrequency (0.330 Hz) mechanical characteristics. It is found that the local and cooperative molecular motions characterizing the host polymer are strongly influenced by the addition of the salt, as a result of strong interactions between the polymeric chains and the alkaline salt molecules, which ensure the formation of homogeneous complexes. In the lowconcentration region (molar fraction Xd0.08) a relevant enhancement of the noncrystallinity and a considerable shift of the glasstorubber transition toward higher temperatures characterize the blends. Further salt addition stiffens the material, this peculiarity being connected to the gradual formation of a crystalline complex with a fixed stoichiometry. It is believed that the observed inversion in the structural trend arises from an increase of the interchain interactions via the polarizing effects of the salt molecules. At low temperatures the single ³ relaxation, observed in pure PEO and in complexes of the same kind with smaller cations, is modified by the presence of the salt; two close peaks appear, whose strength follows behavior closely correlated to that of the primary relaxation. A quantitative interpretation in terms of a parallel relaxation permits the microscopic origin to be discussed and the underlying local motions to be ascribed to the amorphous fraction of the polymer.
+
+POLYMERS
+SOLID ELECTROLYTES
+SIZE EFFECT
+CATIONS
+MECHANICAL PROPERTIES
+TEMPERATURE DEPENDENCE
+MOLECULAR STRUCTURE
+HZ RANGE
+GLASS TRANSFORMATIONS
+MOBILITY

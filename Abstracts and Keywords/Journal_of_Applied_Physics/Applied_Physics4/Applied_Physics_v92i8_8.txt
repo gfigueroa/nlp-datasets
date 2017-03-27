@@ -1,0 +1,14 @@
+Results of structural characterization by Fourier transform infrared spectroscopy, x-ray diffraction, and specular x-ray reflectivity measurements are employed for the interpretation of electrical measurement data and the deconvoluted distribution of electron states, N(E) of carbon doped hydrogenated silicon oxide (SiOCH) low-k dielectric films. Atomic structure of the films is identified as a mixture of a dominant and totally amorphous SiO2-like phase with a partially polycrystalline SiC phase. The n-type dc conductivity that dominates in this material points to the principal role of the SiC-like phase in the dc transport of the SiOCH material. The deep level transient spectroscopy technique is applied for the N(E) shape studies in the energy range up to 0.7 eV below the conduction band bottom. Typical N(E) values lie in the 10101014	eV1
+cm3 range for films deposited at different ratios of tri-methyl-silane to oxygen flow rate. No correlation between the N(E) shape and the film deposition conditions have been found in this case. The Fermi level position usually lies at 0.180.4 eV below conduction band bottom. For the SiOCH films prepared at different levels of rf power densities, the N(E) in the whole studied range increases nearly monotonically with increasing rf power, which is attributed to the SiC-like phase fraction increment. An N(E) peak at 0.250.35 eV below conduction band bottom has been found in the films. The possible origin of the peak appearance is discussed. © 2002 American Institute of Physics. 
+
+silicon compounds
+dielectric thin films
+plasma CVD coatings
+permittivity
+deep level transient spectroscopy
+electrical conductivity
+Fourier transform spectra
+infrared spectra
+X-ray diffraction
+electronic density of states
+Fermi level

@@ -1,0 +1,10 @@
+Hightemperature annealing of semiinsulating GaAs has been studied. Thermal conversion induced by annealing at 10601200	°C can be explained by the causes of both the reduction of EL2 concentration and the generation of deep acceptors during hightemperature annealing. Both of them can be rationalized by the supposition that the antisite defect, AsGa, breaks into AsI and VGa, and the latter is a deep acceptor.
+
+GALLIUM ARSENIDES
+ANNEALING
+TEMPERATURE RANGE 10004000 K
+DEEP ENERGY LEVELS
+ACCEPTORS
+HALL EFFECT
+ABSORPTION SPECTRA
+DLTS

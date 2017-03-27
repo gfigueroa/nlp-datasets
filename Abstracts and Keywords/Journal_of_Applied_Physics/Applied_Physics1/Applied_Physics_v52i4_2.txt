@@ -1,0 +1,21 @@
+A calculation method to treat the electronic structures of crystalline Siamorphous SiO2 interfaces with or without microstructural defects is developed based on semiempirical tightbinding Hamiltonians and the Greens function formulation, and applied for calculation of the energy level of the trap states between amorphous SiO2 and the Si substrate with (111) orientation. The major results are (i) the perfect interface does not have any states in the forbidden gap of Si although the SiOSi bonding angle at the interface is varied in the range between 120° and 180°, and neither does the interface with oxygen dangling bonds have any; (ii) trap states due to a Si dangling bond appear at about the middle of the Si band gap; and (iii) Ovacancy and SiSi weak bonds at the interface produce trap states at the energy range higher than the midgap, whereas SiO weak bonds at the interface produces trap states at the energy range lower than the midgap. The energy level of these trap states varies with changing bonding parameters such as bond lengths and bond angles. These energy levels caused by SiSi weak bonds and SiO weak bonds are possible origins of the interface states continuously distributed in energy. The reduction of trap states in the Si forbidden gap by bonding H, OH, Cl, and F atoms to Si dangling bonds is also discussed.
+
+SILICON
+SILICON OXIDES
+INTERFACES
+ENERGY LEVELS
+MATHEMATICAL MODELS
+TRAPS
+ELECTRONIC STRUCTURE
+CRYSTALS
+AMORPHOUS STATE
+MICROSTRUCTURE
+CRYSTAL DEFECTS
+HAMILTONIANS
+GREEN FUNCTION
+SUBSTRATES
+CRYSTAL LATTICES
+ORIENTATION
+ENERGY GAP
+BOND ANGLE
+THEORETICAL DATA

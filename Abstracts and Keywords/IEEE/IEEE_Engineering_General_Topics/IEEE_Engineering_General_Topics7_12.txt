@@ -1,0 +1,9 @@
+Studies on quality evaluation of coordinate transformation have not yet to comprehensively investigate the simulation ability and reliability of a transformation. This paper presents a comprehensive quality evaluation system (QES) for coordinate transformation that includes the testing of reliability and simulation ability. The proposed QES was used to test and evaluate transformations using typical common point distributions and transform models. Both the transformation model and distribution of common points are factors in the effectiveness of a transformation. The performances of typical common point distributions and transform models are demonstrated using the proposed QES.
+
+QES
+common point distribution
+coordinate transformation
+reliabilit
+simulation reliability
+transform model
+transformon reliability

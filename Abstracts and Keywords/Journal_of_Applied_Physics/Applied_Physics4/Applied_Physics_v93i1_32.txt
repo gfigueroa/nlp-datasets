@@ -1,0 +1,13 @@
+The glass transition and the microstructural characteristics of (Zr0.59Ti0.06Cu0.22Ni0.13)100xAlx (10}x}16) bulk metallic glasses (BMG) are investigated as function of Al content. It is found that the Al content has strong effects on the glass transition, microstructure, and properties of the alloy. The marked increase of the Debye temperature and shear modulus with increasing Al content indicates that the different Al incorporations result in microstructural change in atomic short range of the BMG. The increase of the glass transition temperature with the increase Al content is consistent with the large variation of properties with increase of Al content. The change of the microstructure of the glass-forming alloy is responsible for the change of the properties. © 2003 American Institute of Physics. 
+
+glass transition
+glass structure
+metallic glasses
+shear modulus
+Debye temperature
+zirconium alloys
+titanium alloys
+copper alloys
+nickel alloys
+aluminium alloys
+short-range order

@@ -1,0 +1,12 @@
+Experimental evidence is presented and reviewed that amorphous Fe91Zr9 does not exhibit conventional longrange ordered ferromagnetism below its Tc=210 K, but rather enters a state characteristic of a strongly exchangefrustrated system in which the ferromagnetic correlations are quite short range (less than 30 Å) as determined by smallangle neutron scattering (SANS). At a lower temperature the SANS develops a Lorentziansquared component to the line shape which is evidence of cluster spin freezing. Inelastic scattering data show no resolvable spinwave peaks and place an upper limit of 1215 meV	Å2 on the spin stiffness D. The anomalously small ratio of D/Tc is further evidence of a system near a multicritical point concentration.
+
+METALLIC GLASSES
+IRON BASE ALLOYS
+ZIRCONIUM ALLOYS
+FERROMAGNETISM
+SPIN WAVES
+NEUTRON DIFFRACTION
+LONGRANGE ORDER
+CURIE POINT
+CRITICAL POINTS
+CORRELATIONS

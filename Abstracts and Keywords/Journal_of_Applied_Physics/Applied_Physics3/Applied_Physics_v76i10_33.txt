@@ -1,0 +1,12 @@
+The structural properties and growth of sputtered Co/Ag multilayers were studied with nuclear magnetic resonance. For samples with a nominal Co thickness of less than 10 Å the Co grows in threedimensional islands. If the nominal Co thickness is larger than 10Å continuous Co layers are formed. The relation of the structural properties with magnetization and magnetoresistance is discussed.
+
+SPUTTERED MATERIALS
+MULTILAYERS
+COBALT
+SILVER
+THICKNESS
+ISLAND STRUCTURE
+NMR SPECTRA
+MAGNETIZATION
+MAGNETORESISTANCE
+TEMPERATURE RANGE 013 K

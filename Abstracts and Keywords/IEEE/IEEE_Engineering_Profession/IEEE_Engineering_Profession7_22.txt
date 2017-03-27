@@ -1,0 +1,13 @@
+This paper presents a summary of the findings from our literature review of qualitative research in technical communication from 2003 to 2007 of the five peer- reviewed technical communication journals. We provide examples of qualitative research from the articles we reviewed, and conclude with a snapshot of the state of qualitative research in this period. Further, we examine the types of qualitative research topics being presented and the most common qualitative research methods. Quantitative research provides only one half of the understanding of the technical communication body of knowledge - the other half comes from qualitative research, which provides information that is essential for a balanced view of what is happening in the technical communication field. It is the synthesis of qualitative and quantitative responses that provides a complete answer. The qualitative research we conducted provides a significant body of knowledge on topics that are important to our field and critical to establishing respect and understanding from other disciplines and professions. Technical communicators are looking for current information that can be used to advance their knowledge of their discipline. It is reasonable to expect that technical communicators would look at qualitative research in the field as yielding first-hand accounts of how technical communicators are using emerging technologies, evolving their areas of expertise, and providing business value. It is important to understand influences, and be able to answer the question, "Why? " to develop the body of knowledge for our profession.
+
+body of knowledge
+content analysis
+focus group
+interviews
+observation and participation
+qualitative research
+qualitative research methods
+quantitative research
+technical communication
+technical communication journals
+usability test

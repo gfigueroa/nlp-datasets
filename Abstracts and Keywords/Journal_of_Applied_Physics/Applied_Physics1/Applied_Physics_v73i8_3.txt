@@ -1,0 +1,14 @@
+Ion implantation of H2+ or O+ ions in the range 01.7×1015 and 01.3×1015/cm2, respectively, was used to investigate the effect of implantinduced damage on the electrical properties of Sndoped In2O3 (ITO) films deposited by electronbeam evaporation on SiO2coated sodalime glass substrates. The films were characterized as a function of implant dose using lowtemperature Hall effect, resistivity, optical transmissivity, xray diffraction, and transmission electron microscopy (TEM). A systematic decrease in both carrier density (n) and Hall mobility (¼) was observed with increasing dose of either implant species. The electronic results were analyzed using charged and neutral impurity scattering models which suggest that the observed changes are due to the degradation of electrically active donor centers and the generation of the neutral scattering centers. The microstructure of the implanted films, as revealed by TEM and xray diffraction, is consistent with the presence of significant dynamic recovery during implantation. 	
+
+ITO LAYERS
+ION IMPLANTATION
+INDIUM OXIDES
+THIN FILMS
+ION IMPLANTATION
+MICROSTRUCTURE
+ELECTRIC CONDUCTIVITY
+TRANSMISSION ELECTRON MICROSCOPY
+CARRIER MOBILITY
+TIN ADDITIONS
+HYDROGEN IONS
+OXYGEN IONS

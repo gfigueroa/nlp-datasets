@@ -1,0 +1,17 @@
+In the present work process methodology was optimized to synthesize oriented barium strontium titanate (BST) (50/50) and (60/40) thin films on strontium titanate (100) and lanthanum aluminate (LAO) (100) substrates by using the chemical solution deposition technique. These films were characterized in terms of their phase formation behavior and structural growth characteristics using x-ray diffraction and atomic force microscopy. A tentative mechanism of the epitaxial growth has been proposed. Films were also characterized in terms of their dielectric properties. The high tunability and low dielectric loss of these films make them attractive for fabricating tunable dielectric devices. Accordingly, we have fabricated eight element coupled microstrip phase shifters and tested them in terms of their degree of phase shift and insertion loss characteristics. An insertion loss of 8.435 dB, phase shift in the order of 320° (2.614.5 V/¼m) and º factor (phase shift/dB of loss) of about 38.0°/dB was achieved in BST (60/40) films deposited on LAO (100) substrate which is comparable to the films grown by other film deposition techniques reported in the literature. The microstructure of the solgel derived films show surface porosity which may be responsible for the low dielectric strength of these films. Presently, we are studying the sintering mechanism and kinetics of these films in order to improve the density which is believed to further improve the phase shift and lower insertion loss to result in an improved tunability. © 2001 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+ferroelectric materials
+ferroelectric thin films
+sol-gel processing
+liquid phase deposition
+liquid phase epitaxial growth
+X-ray diffraction
+atomic force microscopy
+dielectric losses
+microstrip components
+microwave phase shifters
+porous materials
+crystal microstructure
+electric strength

@@ -1,0 +1,6 @@
+A revision of an ESOP-based Toffoli gate cascade synthesis technique is presented. The cost metric used previously was replaced with a new cost metric based on autocorrelation coefficients to determine the placements of Toffoli gates. The algorithm remains capable of generating reversible circuits for large functions within reasonable time.
+
+ESOP
+logic synthesis
+reversible logic
+toffoli gates

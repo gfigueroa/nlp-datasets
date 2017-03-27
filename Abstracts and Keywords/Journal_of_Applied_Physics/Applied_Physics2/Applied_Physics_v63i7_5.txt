@@ -1,0 +1,7 @@
+Parallel field ferromagnetic resonance spectra of an yttrium iron garnet film in the vicinity of a metallic ground plane are presented. The evolution of the spectra with changing filmground distance is traced continuously over a wide range. The following effects are found to occur at distances of less than about 500 ¼m: Large shifts of the resonance fields, disappearance and subsequent reappearance of lines, appearance of forbidden lines, and crossing of lines. All of these effects are confirmed by a theoretical calculation which relies on the mechanism of excitation of waves which are circulating around the sample.
+
+FERROMAGNETIC RESONANCE
+YIG
+MAGNETOSTATIC WAVES
+FILMS
+EXCITATION

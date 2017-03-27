@@ -1,0 +1,13 @@
+When a material is heated sufficiently to cause a conducting plasma to blow off, the resulting layer shields this material from magnetic fields and currents that may be present. Theoretical considerations relevant to the simulation of such situations are discussed. Results are presented for the problem of current flow in transmission lines undergoing surface blowoff due to high current densities. For a typical case of interest only 10% of the current is found to flow in the plasma blowoff. Moreover, the transmissionline properties are not substantially changed on time scales of interest.
+
+POWER TRANSMISSION
+PLASMA
+MAGNETIC FIELDS
+ELECTRIC CURRENTS
+POWER DENSITY
+MATHEMATICAL MODELS
+HEATING
+LAYERS
+SHIELDING
+THEORETICAL DATA
+CURRENT DENSITY

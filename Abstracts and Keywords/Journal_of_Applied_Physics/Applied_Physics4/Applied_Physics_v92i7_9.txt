@@ -1,0 +1,15 @@
+We investigate the nonalloyed ohmic contact of Ti/Al contacts to (NH4)2Sx-treated n-type GaN layers using x-ray photoelectron spectroscopy analysis. The native oxide on the n-type GaN surface can be completely removed by (NH4)2Sx solution. The resultant Ga/N ratio was decreased. The deposited Ti is in intimate contact with the (NH4)2Sx-treated n-type GaN layer. As a result, the TiN interlayer, which has a low work function and low electrical resistivity, is formed easily. The nonalloyed ohmic mechanism results from the formation of a TiN interlayer and the creation of nitrogen vacancies due to the nitrogen outdiffusion from the n-type GaN layer. The nonalloyed ohmic behavior of the as-deposited Ti/Al contacts with (NH4)2Sx-treated GaN layer was associated with Al/Ti/TiN/n-type GaN. © 2002 American Institute of Physics. 
+
+aluminium
+titanium
+titanium compounds
+gallium compounds
+ohmic contacts
+semiconductor-metal boundaries
+III-V semiconductors
+X-ray photoelectron spectra
+core levels
+wide band gap semiconductors
+vacancies (crystal)
+surface treatment
+work function

@@ -1,0 +1,8 @@
+The influence of planar ´-doping on the effective parameters of Schottky diodes was modeled by J. Osvald [J. Appl. Phys. 90, 6205 (2001)]. In this Comment we emphasize that the proposed analysis based on the drift-diffusion model does not seem to be fully correct for the system in question. Neglect of the tunneling effects in Schottky diode with isotype ´-layer inserted near the metalsemiconductor interface leads to wrong speculations about the effective barrier height and ideality factor. © 2004 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+aluminium
+Schottky diodes
+Schottky barriers
+semiconductor device models

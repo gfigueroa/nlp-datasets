@@ -1,0 +1,14 @@
+Optical absorption of nanocrystalline thin films can be influenced by the presence of both porosity and grain size effects. If both are present simultaneously, their effects are difficult to separate. In this study it is shown that the combination of uv-vis transmittance and reflectance measurements on porous CeO2 films provides enough data to make this separation. The CeO2 films were prepared by deposition of nanosized (<5 nm) particles from a water colloidal suspension onto sapphire and subjecting these films to sintering temperatures sufficiently high to provide a series of films with a typical thickness of 0.6 ¼m with a wide range of grain sizes and porosity. X-ray diffraction, scanning electron microscopy, ellipsometry, and profilometry were used to characterize the films and to compare the observed grain sizes and porosity with that obtained from optical measurements. All of the techniques used gave results on porosity and grain size which were in good agreement, from 15% to 50% and 5 to 65 nm, respectively. For these porous films it was found that the changes in absorption which are normally explained by quantum confinement effects due to the small crystallite size can be attributed primarily to changes in porosity rather than in grain size. © 2001 American Institute of Physics. 
+
+cerium compounds
+insulating thin films
+porosity
+grain size
+reflectivity
+ultraviolet spectra
+visible spectra
+scanning electron microscopy
+sintering
+nanostructured materials
+X-ray diffraction
+refractive index

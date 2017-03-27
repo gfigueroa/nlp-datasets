@@ -1,0 +1,8 @@
+Bandwidth extension of a constrained loudspeaker system is regularly achieved employing nonlinear bass synthesis. The method operates on the doctrine of the missing fundamental whereby humans infer the presence of a fundamental tone when presented with a signal consisting of higher harmonics of said tone. Nonlinear devices and phase vocoders are commonly used for signal generation; both exhibiting deficiencies. A system is proposed where the two approaches are used in tandem via a mixing algorithm to suppress these deficiencies. Mixing is performed by signal transient content analysis in the frequency domain using constant-Q transforms. The hybrid approach is rated subjectively against various nonlinear device and phase vocoder techniques using the MUSHRA test method.
+
+audio
+nonlinear signal processing
+phase vocoder
+psychoacoustics
+transient detection
+virtual bass

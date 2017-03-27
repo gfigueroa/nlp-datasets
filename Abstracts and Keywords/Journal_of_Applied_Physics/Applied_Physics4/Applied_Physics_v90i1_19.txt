@@ -1,0 +1,10 @@
+We demonstrate and analyze the epitaxial film formation of a molecular material that cannot be evaporated in vacuum due to thermal decomposition. A solution of the material is sprayed onto single crystalline van der Waals surfaces using a pulse valve under controlled vapor pressure of the solvent. Monolayer epitaxial films are obtained and we propose that the growth is mediated by liquid ultrathin films formed on the surface. Molecular arrangement and electronic structure of C60(CH3)5H films are studied by reflection high energy electron diffraction and ultraviolet photoelectron spectroscopy, respectively. The present technique will be useful to study the electronic structure of recently synthesized molecular materials. © 2001 American Institute of Physics. 
+
+liquid phase epitaxial growth
+van der Waals forces
+monolayers
+reflection high energy electron diffraction
+ultraviolet photoelectron spectra
+electronic structure
+organic compounds
+fullerene compounds

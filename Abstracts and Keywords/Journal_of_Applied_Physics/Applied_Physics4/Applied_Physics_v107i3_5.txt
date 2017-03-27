@@ -1,0 +1,8 @@
+We describe the use of single-plane phase retrieval tomography using a laboratory-based x-ray source, under conditions where the retrieval is not formally valid, to present images of the internal structure of an Aerosil granule and a hydrated bentonite gel. The technique provides phase images for samples that interact weakly with the x-ray beam. As the method is less affected by noise than an alternative two-plane phase retrieval method that is otherwise formally valid, object structure can be observed that would not otherwise be seen. We demonstrate our results for phase imaging in tomographic measurements.
+
+aerosols
+computerised tomography
+image processing
+image retrieval
+X-ray apparatus
+X-ray microscopy

@@ -1,0 +1,11 @@
+Experimental studies of electronbeam excitation of organic dye vapors of pphenylenebis(5phenyl2oxazole) POPOP and pquaterphenyl have demonstrated shortduration highgain and superradiant laser behavior accompanied by severe fluorescence quenching due to dye fragmentation. This has been analyzed quantitatively by evaluation of the nitrogen fluorescence, originating from the complete breakdown of the POPOP structure.
+
+DYE LASERS
+ORGANIC COMPOUNDS
+FREE ELECTRON LASERS
+VAPORS
+EXPERIMENTAL DATA
+GAIN
+FLUORESCNECE
+SCINTILLATION QUENCHING
+MATHEMATICAL MODELS

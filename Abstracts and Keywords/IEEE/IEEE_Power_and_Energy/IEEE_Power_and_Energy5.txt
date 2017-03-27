@@ -1,0 +1,8 @@
+Pumped storage is generally viewed as the most promising technology to increase renewable energy source penetration levels in power systems and particularly in small autonomous island grids, where technical limitations are imposed by the conventional generating units. The Hybrid Power Station (HPS) of Ikaria Island, Greece, which is currently in the construction stage, will be one of the first wind-hydro-pumped-storage hybrid stations in the world. In this paper, the HPS is described and a suitable operating policy is introduced, both for the HPS and the overall generation system of Ikaria, taking into consideration the existing regulatory framework for HPS in isolated island grids. Based on the proposed policy, the operation of the Ikaria Island system is simulated on an annual basis, in order to quantify the expected benefits from the operation of the HPS.
+
+Hybrid power station (HPS)
+island grid
+isolated system
+pumped storage
+small hydro
+wind power

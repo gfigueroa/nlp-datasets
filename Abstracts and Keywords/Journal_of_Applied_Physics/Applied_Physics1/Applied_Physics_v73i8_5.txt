@@ -1,0 +1,13 @@
+The thickness of the individual layers of molecular beam epitaxy grown pseudomorphic InyGa1yAs (0.1dyd0.35)/GaAs/Al0.3Ga0.7As quantum well structures has been determined by transmission electron microscopy (TEM), secondary ion mass spectrometry (SIMS) depth profiling, and reflection high energy electron diffraction (RHEED) with the aim of the compositional analysis of the ternary alloy films. Agreement between SIMS and TEM thickness data within 15% is found. Reliable RHEED data at ye0.25, where the number of RHEED oscillations is drastically reduced by the threedimensional growth of the InGaAs film, have been obtained by averaging repeated RHEED measurements. As compared with TEM, RHEED tends to lower values by 10% at maximum. The compositional data determined by the different methods including also photoluminescence (PL) agree within 20% in the technologically important region ye0.2. At y=0.1, extreme accuracy requirements concerning the thickness determination limit the accuracy of SIMS and TEM to around 30%. Therefore PL and RHEED are superior at this concentration. An influence of the growth temperature on the In content at y=0.3 could be detected only by PL, demonstrating the excellent relative accuracy of PL.
+
+QUANTUM WELLS
+MOLECULAR BEAM EPITAXY
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY ALLOYS
+CHEMICAL COMPOSITION
+TEM
+THICKNESS
+SIMS
+RHEED

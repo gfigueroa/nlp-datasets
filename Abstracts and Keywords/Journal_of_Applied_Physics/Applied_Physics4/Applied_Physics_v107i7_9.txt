@@ -1,0 +1,12 @@
+Magnetic nanoparticles (NP) of magnetite (Fe3O4) coated with oleic acid (OA) and dodecanoic acid (DA) were synthesized and investigated through transmission electron microscopy (TEM), magnetization M, and ac magnetic susceptibility measurements. The OA coated samples were produced with different magnetic concentrations (78%, 76%, and 65%) and the DA sample with 63% of Fe3O4. Images from TEM indicate that the NP have a nearly spherical geometry and mean diameter < 5.5nm. Magnetization measurements, performed in zero-field cooled (ZFC) and field cooled processes under different external magnetic fields H, exhibited a maximum at a given temperature TB in the ZFC curves, which depends on the NP coating (OA or DA), magnetite concentration, and H. The temperature TB decreases monotonically with increasing H and, for a given H, the increase in the magnetite concentration results in an increase in TB. The observed behavior is related to the dipolar interaction between NP, which seems to be an important mechanism in all samples studied. This is supported by the results of the ac magnetic susceptibility Çac measurements, where the temperature in which Ç2 peaks for different frequencies follows the VogelFulcher model, a feature commonly found in systems with dipolar interactions. Curves of H versus TB/TB(H = 0) for samples with different coatings and magnetite concentrations collapse into a universal curve, indicating that the qualitative magnetic behavior of the samples may be described by the NP themselves, instead of the coating or the strength of the dipolar interaction. Below TB, M versus H curves show a coercive field (HC) that increases monotonically with decreasing temperature. The saturation magnetization (MS) follows the Blochs law and values of MS at room temperature as high as 78 emu/g were estimated, a result corresponding to < 80% of the bulk value. The overlap of M/MS versus H/T curves for a given sample and the low HC at high temperatures suggest superparamagnetic behavior in all samples studied. The overlap of M/MS versus H curves at constant temperature for different samples indicates that the NP magnetization behavior is preserved, independently of the coating and magnetite concentration.
+
+coatings
+ferrimagnetic materials
+iron compounds
+magnetic particles
+magnetic susceptibility
+magnetisation
+nanoparticles
+organic compounds
+superparamagnetism
+transmission electron microscopy

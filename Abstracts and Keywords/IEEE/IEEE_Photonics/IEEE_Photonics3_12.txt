@@ -1,0 +1,7 @@
+Performance of a L-branch predetection equal gain combining receiver has been analyzed in independent Hoyt fading channels with arbitrary fading parameters applying classical probability density function (PDF) based approach. An approximate but highly accurate PDF of the sum of independent Hoyt random variables has been used for the analysis. Simple and easy to evaluate expressions for the outage probability and amount of fading have been obtained. An expression for average symbol error rate, in the form of an infinite series with a single integral with finite limits has been obtained which is applicable for a number of M-ary coherent and noncoherent modulations. Numerically evaluated results have been compared with the published results to verify the correctness of the derived expressions.
+
+Diversity
+Hoyt fading
+PDF
+average symbol error rate
+equal gain combining

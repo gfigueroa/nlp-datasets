@@ -1,0 +1,5 @@
+Text-message is a very important component of mobile industry, and it makes communication faster and more convenient. However, the junk text message really does a lot of harm to mobile users, mobile carriers, and the society at large. In this paper, we design a text-message filtering system which use ACE platform's abundant packages and frames, as well as its portability. This manuscript describes the functionality of such text message filtering system, and designs of its critical components. Finally, we provide example of this system.
+
+ACE
+filtering
+text-message

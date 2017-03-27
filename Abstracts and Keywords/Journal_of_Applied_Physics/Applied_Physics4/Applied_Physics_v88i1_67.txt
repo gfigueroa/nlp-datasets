@@ -1,0 +1,25 @@
+We describe the development of depth-graded W/Si multilayer films prepared by magnetron sputtering for use as broad-band reflective coatings for hard x-ray optics. We have used specular and nonspecular x-ray reflectance analysis to characterize the interface imperfections in both periodic and depth-graded W/Si multilayer structures, and high-resolution transmission electron microscopy (TEM) and selected area electron diffraction (SAED) to characterize the interface structure and layer morphology as a function of depth in an optimized depth-graded multilayer. From x-ray analysis we find interface widths in the range Ã=0.2750.35
+nm for films deposited at low argon pressure (with a slight increase in interface width for multilayers having periods greater than <20 nm, possibly due to the transition from amorphous to polycrystalline metal layers identified by TEM and SAED), and somewhat larger interface widths (i.e., Ã=0.350.4
+nm) for structures grown at higher Ar pressures, higher background pressures, or with larger target-to-substrate distances. We find no variation in interface widths with magnetron power. Nonspecular x-ray reflectance analysis and TEM suggest that the dominant interface imperfection in these films is interfacial diffuseness; interfacial roughness is minimal (Ãr<0.175
+nm) in structures prepared under optimal conditions, but can increase under conditions in which the beneficial effects of energetic bombardment during growth are compromised. X-ray reflectance analysis was also used to measure the variation in the W and Si deposition rates with bilayer thickness: we find that the W and Si layer thicknesses are nonlinear with the deposition times, and we discuss possible mechanisms responsible for this nonlinearity. Finally, hard x-ray reflectance measurements made with synchrotron radiation were used to quantify the performance of optimized depth-graded W/Si structures over the photon energy range from 18 to 212 keV. We find good agreement between the synchrotron measurements and calculations made using either 0.3 nm interface widths, or with a depth-graded distribution of interface widths in the range Ã=0.2750.35
+nm (as suggested by 8 keV x-ray and TEM analyses) for a structure containing 150 bilayers, and designed for high reflectance over the range 20
+keV&lt;E&lt;70
+keV. We also find for this structure good agreement between reflectance measurements and calculations made for energies up to 170 keV, as well as for another graded W/Si structure containing 800 bilayers, designed for use above 100 keV, where the peak reflectance was measured at E=212
+keV to be R=76.5±4% at a graze angle of ¸=0.08°. © 2000 American Institute of Physics. 
+
+optical multilayers
+X-ray optics
+sputter deposition
+X-ray reflection
+interface structure
+TUNGSTEN
+SILICON
+X-RAY EQUIPMENT
+BEAM OPTICS
+STRUCTURAL CHEMICAL ANALYSIS
+INTERFACES
+LAYERS
+ELECTRON DIFFRACTION
+TRANSMISSION ELECTRON MICROSCOPY
+SPUTTERING
+X-RAY DIFFRACTION

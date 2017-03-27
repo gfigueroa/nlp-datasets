@@ -1,0 +1,12 @@
+Tinoxide nanoparticles with controlled narrow size distributions are synthesized while physically encapsulated inside silica mesoporous templates. By means of ultraviolet-visible spectroscopy, a redshift of the optical absorbance edge is observed. Photoluminescence measurements corroborate the existence of an optical transition at 3.2 eV. The associated band of states in the semiconductor gap is present even on template-synthesized nanopowders calcined at 800
+°C, which contrasts with the evolution of the gap states measured on materials obtained by other methods. The gap states are thus considered to be surface localized, disappearing with surface faceting or being hidden by the surface-to-bulk ratio decrease. © 2004 American Institute of Physics. 
+
+nanoparticles
+surface states
+tin compounds
+oxygen compounds
+X-ray photoelectron spectra
+photoluminescence
+ultraviolet spectra
+visible spectra
+red shift

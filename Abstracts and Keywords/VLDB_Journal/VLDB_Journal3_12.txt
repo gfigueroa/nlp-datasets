@@ -1,0 +1,6 @@
+Several object-oriented database management systems have been implemented without an accompanying theoretical foundation for constraint, query specification, and processing. The pattern-based object calculus presented in this article provides such a theoretical foundation for describing and processing object-oriented databases. We view an object-oriented database as a network of interrelated classes (i.e., the intension) and a collection of time-varying object association patterns (i.e., the extension). The object calculus is based on first-order logic. It provides the formalism for interpreting precisely and uniformly the semantics of queries and integrity constraints in object-oriented databases. The power of the object calculus is shown in four aspects. First, associations among objects are expressed explicitly in an object-oriented database. Second, the "nonassociation" operator is included in the object calculus. Third, set-oriented operations can be performed on both homogeneous and heterogeneous object association patterns. Fourth, our approach does not assume a specific form of database schema. A proposed formalism is also applied to the design of high-level object-oriented query and constraint languages.
+
+Object-oriented databases
+association patterns
+query expressions
+semantic constraints

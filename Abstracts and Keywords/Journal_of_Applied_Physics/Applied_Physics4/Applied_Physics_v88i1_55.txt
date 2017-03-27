@@ -1,0 +1,8 @@
+The problem of ferromagnetic resonance in magnetic microspheres is revisited due to related experiments in this size range. The eigenfrequency spectrum is examined more rationally compared to previous numerical computations, due to proper selection of the radial dependence of the solution. The cylindrically symmetric modes studied agree with experiments on Ni micrometer-size particles for an exchange constant A=2×107
+erg/cm, while the error is less than 9% for the well-known value of A=3.4×107
+erg/cm. © 2000 American Institute of Physics. 
+
+ferromagnetic resonance
+eigenvalues and eigenfunctions
+magnetic particles
+exchange interactions (electron)

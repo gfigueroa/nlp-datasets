@@ -1,0 +1,6 @@
+We study theoretically the electronic entropy and specific heat in diffusive superconductor-normal metal-superconductor Josephson junctions. In particular, we consider the influence of nonidealities occurring in an actual experiment, such as the presence of barriers at the normal (N) metal-superconductor interfaces, the spin-flip, and inelastic scattering in the N-metal region and quasiparticle subgap states in the superconductors. We find that spin-flip and inelastic scattering do not have, for typical parameters values, a large effect. On the contrary, the presence of barriers suppresses the superconducting correlations in the N region, with the consequence that the entropy and the specific heat get reduced eventually to those in the absence of superconductivity for opaque interfaces. Finally we suggest an experiment and check that it is possible, under realistic conditions, to measure the dependence of electronic specific heat on the phase difference between the superconductors.
+
+entropy
+Josephson effect
+specific heat
+superconducting energy gap

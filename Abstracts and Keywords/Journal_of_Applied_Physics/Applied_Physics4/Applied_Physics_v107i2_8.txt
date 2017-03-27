@@ -1,0 +1,9 @@
+Five-component perovskite Ba0.5Sr0.5Co0.2Fe0.8O3 (BSCFO) thin films are reported to have polarized electrical-pulse-induced resistance (EPIR) change at room temperature. Such an EPIR change is attributed to a combined effect of the resistance change in the Schottky barrier and the oxygen ion/vacancy movement near the interface. In the BSCFO, the lower threshold voltage of the electric pulse that leads to nonvolatile resistive changes is closely related to its higher oxygen permeability.
+
+barium compounds
+cobalt compounds
+random-access storage
+Schottky barriers
+semiconductor thin films
+strontium compounds
+vacancies (crystal)

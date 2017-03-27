@@ -1,0 +1,6 @@
+RFID (Radio Frequency IDentification) is a very widely used technology and is still rapidly developing. RFID uses include tracking equipment, goods, animals, etc. Tracking helps a business optimize their processes thus reducing operating cost. As a result, there is an increased need for accurate and fast design of the RF portion of RFID systems. In this tutorial overview we show how easily it can be to design the key RF portions of an RFID system by using EM analysis. This paper starts with a brief overview of antenna design and performance criteria and different kinds of EM (electromagnetic) analyses appropriate for RFID design. Two design examples will be illustrated. Due to paper length limitations, descriptions are necessarily brief.
+
+Electromagnetic analysis
+Frequency domain analysis
+RFID
+Remote sensing

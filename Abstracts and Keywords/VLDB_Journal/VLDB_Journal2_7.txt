@@ -1,0 +1,6 @@
+A consensus on parallel architecture for very large database management has emerged. This architecture is based on a shared-nothing hardware organization. The computation model is very sensitive to skew in tuple distribution, however. Recently, several parallel join algorithms with dynamic load balancing capabilities have been proposed to address this issue, but none of them consider multi-way join problems. In this article we propose a dynamic load balancing technique for multi-way joins, and investigate the effect of load balancing on query optimization. In particular, we present a join-ordering strategy that takes load-balancing issues into consideration. Our performance study indicates that the proposed query optimization technique can provide very impressive performance improvement over conventional approaches.
+
+load balancing
+multi-way join
+parallel-database computer
+query optimization

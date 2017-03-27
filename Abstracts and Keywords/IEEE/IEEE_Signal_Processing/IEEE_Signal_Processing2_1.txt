@@ -1,0 +1,7 @@
+This paper compares two prediction structures for predictive perceptual audio coding in the context of the ultra low delay (ULD) coding scheme. One structure is based on the commonly used AR signal model, leading to an IIR predictor in the decoder. The other structure is based on an MA signal model, leading to an FIR predictor in the decoder. We find that the AR-based predictor has a slightly better performance in case of an undisturbed transmission channel, but the MA-based predictor has a much better performance in case of transmission errors. For a bit error rate (BER) of 1.0e-5, the perceptual quality of the proposed MA model predictor achieves a mean objective difference grade (ODG) of -0.66 ODG whereas the AR model predictor only reaches -3.42 ODG.
+
+Autoregressive processes
+Linear predictive coding
+Low Delay Audio coding
+Moving average processes
+Robustness

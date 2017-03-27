@@ -1,0 +1,8 @@
+A sinusoidal field solution for a high-temperature superconducting variable spacing parallel plate transmission line is derived. This solution demonstrates how to relate the propagation characteristics to the thicknesses and material parameters of the variable spacer and superconducting films in addition to the dielectric substrates. Then, a numerical analysis of the attenuation constant and phase velocity as a function of the dielectric spacer thickness is made. In addition, some further numerical results from this solution show that the roles played by the thicknesses of the two dielectric substrates are insignificant and can be neglected in practical microwave applications. © 2001 American Institute of Physics.
+
+high-temperature superconductors
+microwave propagation
+numerical analysis
+superconducting microwave devices
+superconducting transmission lines
+superconducting thin films

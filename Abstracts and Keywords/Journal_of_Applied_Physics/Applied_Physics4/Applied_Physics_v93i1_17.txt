@@ -1,0 +1,15 @@
+Magnetic-field (B=01.5	T) dependent thermoelectric power (TEP) of the Na-doped La0.7Ca0.3yNayMnO3 (0.0}y}0.3) system has been studied in the temperature range 80300 K. X-ray diffraction studies indicate a rhombohedrally distorted perovskite structure of the samples. The observed sharp peak in the resistivity (Á) versus temperature (T) curve falls and shifts to higher temperature with increasing Na concentration (y). In the low-temperature ferromagnetic (FM) regime, thermopower (Seebeck coefficient, S) obeys the expression S=S0+S1.5T1.5+S4T4 over the entire range of y. Electron-magnon scattering is found to dominate the low-temperature resistivity and TEP data. High-temperature TEP data can be well fitted with Motts small polaron hopping model. The activation energy (ES) and polaron hopping energy (WH) decrease with increasing Na content. Both ES and WH decrease while polaron radius (rp) increase with the application of a magnetic field. Field-dependent TEP data also indicate the suppression of spin fluctuations in the presence of a magnetic field. In the low-temperature FM region, both magnon drag and phonon drag effects coexist. © 2003 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+sodium compounds
+thermoelectric power
+magnetic field effects
+X-ray diffraction
+crystal structure
+electrical resistivity
+ferromagnetic materials
+Seebeck effect
+magnons
+magnetic polarons
+phonon drag

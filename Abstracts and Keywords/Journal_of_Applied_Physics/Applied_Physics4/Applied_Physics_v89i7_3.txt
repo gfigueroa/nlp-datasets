@@ -1,0 +1,10 @@
+Optoelectronic properties of undoped ZnSe/ZnMgSSe multiple quantum wells (MQWs) grown by molecular beam epitaxy on (001) GaAs substrates have been investigated by photoluminescence, photoconductivity, and persistent photoconductivity (PPC) measurements. The features related to the band-to-band excitonic and impurity-related transitions of ZnSe/ZnMgSSe MQWs are observed and discussed. In addition, the parameters that describe the temperature dependence of the interband transition energy and broadening function of the excitonic feature are evaluated. PPC has been observed in undoped ZnSe/ZnMgSSe MQWs. The decay kinetics of the PPC effect can be described by a stretched-exponential function, Ippc(t)=Ippc(0)exp[(t/Ä)²], (0&lt;²&lt;1). Through the study of the PPC effect under various conditions, such as different temperature, different photon energy of photoexcitation, and different ZnSe well width, we identify that the carrier excitation from the defect level in ZnMgSSe barrier layer into the ZnSe well layer is the origin of the PPC effect in ZnSe/ZnMgSSe MQWs. © 2001 American Institute of Physics. 
+
+semiconductor quantum wells
+zinc compounds
+II-VI semiconductors
+magnesium compounds
+photoconductivity
+photoluminescence
+excitons
+impurity states

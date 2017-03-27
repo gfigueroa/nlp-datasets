@@ -1,0 +1,16 @@
+Bi2xPbxSr2Ca1yGdyCu2O8+´ (x=0.34 and y=0.18, 0.34) crystals were grown by the self-flux method. The crystals have a cleavage thickness of only half unit cell up to two unit cells with Tc only dropping 20 K as y is increased from 0.18 to 0.34 for as-grown crystals. However, Tc increased to almost the same value of about 80 K after annealing in air regardless of the Gd doping levels. The co-doping produced enhanced flux pinning compared to the sole Gd doping. A secondary peak effect presented in crystals with x=0.34 and y=0.34 was explained by phase segregations containing Gd-rich clusters. © 2004 American Institute of Physics. 
+
+flux pinning
+bismuth compounds
+lead compounds
+strontium compounds
+calcium compounds
+gadolinium compounds
+high-temperature superconductors
+impurities
+annealing
+segregation
+crystal growth from solution
+crystal microstructure
+superconducting transition temperature
+impurity states

@@ -1,0 +1,9 @@
+The acoustic loss phenomena of conventional and electrodeless quartzcrystal resonators over the temperature range from 1.4 to 77 K were investigated. The AT electrodeless resonator of the BVA type exhibited smaller acoustic losses than the conventional FC crystals at the ionic sodium impurity relaxation temperature (<50 K) and acoustic wave interaction with thermal phonon temperature (<20 K). A dramatic decrease in the acoustic losses in the electrodeless resonator was observed at temperatures in the range from 1.4 to 5 K. This decrease is attributed to a decrease in twolevel energy excitations in this type of resonator. Furthermore, acoustic attenuation was shown to be a function of microwave power absorbed by the crystal plates.
+
+ULTRALOW TEMPERATURE
+VERY LOW TEMPERATURE
+LOW TEMPERATURE
+QUARTZ
+ACOUSTIC RESONANCE
+ATTENUATION
+ENERGY LOSSES

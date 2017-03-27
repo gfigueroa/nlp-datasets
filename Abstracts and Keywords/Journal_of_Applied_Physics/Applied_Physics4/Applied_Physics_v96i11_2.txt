@@ -1,0 +1,10 @@
+Near-stoichiometric LiNbO3 crystals slightly doped with Mn from melts with different compositions are grown by the top seeded solution growth method. The growth parameters such as temperature field, pulling, and rotation rates are optimized. Two-color holograms are recorded in these crystals by the use of a near infrared laser of 778 nm for writing and an ultraviolet laser of 350 nm for gating. The light-induced absorption changes and two-color holographic characteristic performances are presented and compared. The results show that crystals with composition closer to stoichiometry exhibit better two-color holographic storage performance.
+
+lithium compounds
+manganese
+photorefractive materials
+crystal growth from solution
+stoichiometry
+infrared spectra
+ultraviolet spectra
+holographic storage

@@ -1,0 +1,8 @@
+Not only for the the heart, but also for papillary muscle a contraction variable º can be defined (in analogy with the deformation variable ») in a phenomenological approach that makes use of the finding that two of the three constants (c2 and c3) in the isochronics of such a muscle can be considered functions of the third one (º). This fact provides four constants (k1, k2, k3, and k4) of an energy density function. A tentative bridge to the heart (for clinical application) is laid; four analogous constants of the same order of magnitude can be measured there.
+
+ENERGY DENSITY
+HEART
+MUSCLES
+MECHANICAL PROPERTIES
+CONTRACTION
+MATHEMATICAL MODELS

@@ -1,0 +1,6 @@
+Many database applications require the storage and manipulation of different versions of data objects. To satisfy the diverse needs of these applications, current database systems support versioning at a very low level. This article demonstrates that application-independent versioning can be supported at a significantly higher level. In particular, we extend the EXTRA data model and EXCESS query language so that configurations can be specified conceptually and non-procedurally. We also show how version sets can be viewed multidimensionally, thereby allowing configurations to be expressed at a higher level of abstraction. The resulting model integrates and generalizes ideas in CAD systems, CASE systems, and temporal databases.
+
+EXTRA/EXCESS data models
+generic and specific references
+query language
+semantically based configuration specifications

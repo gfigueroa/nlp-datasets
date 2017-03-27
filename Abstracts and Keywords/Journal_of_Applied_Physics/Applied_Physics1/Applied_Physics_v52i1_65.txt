@@ -1,0 +1,21 @@
+Hydrogenated amorphous silicon obtained by rf sputtering has been annealed using cw lasers (Ar or Kr ion). The annealed films have been microanalyzed for quantitative profiling of hydrogen and argon. TEM analysis was used for structure determination. The release of hydrogen and argon as well as the grain size of the polycrystalline material obtained are related to the deposited laser energy. Comparison with other production methods of such material from the amorphous state is discussed.
+
+SEMICONDUCTOR MATERIALS
+ANNEALING
+SILICON
+HYDROGENATION
+AMORPHOUS STATE
+LASERRADIATION HEATING
+SPUTTERING
+RF SYSTEMS
+GAS LASERS
+ARGON IONS
+KRYPTON IONS
+SPATIAL DISTRIBUTION
+FILMS
+TRANSMISSION ELECTRON MICROSCOPY
+CRYSTAL STRUCTURE
+GRAIN SIZE
+POLYCRYSTALS
+ENERGY ABSORPTION
+COMPARATIVE EVALUATIONS

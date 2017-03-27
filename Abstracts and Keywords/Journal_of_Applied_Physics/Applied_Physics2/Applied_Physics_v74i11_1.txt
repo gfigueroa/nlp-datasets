@@ -1,0 +1,13 @@
+Emission life of small Baimpregnated thermionic cathodes suitable for use in TV tubes is investigated systematically. Cathodes are covered with an Os layer to enhance the emissivity. They have an unusual emission life in that the emission current decreases gradually with time and then drops abruptly. The early gradual decrease in emission at high cathode temperatures is caused by the phase change of the Os layer to OsW2. A linear relationship is found to exist between the logarithm of the lifetime and the reciprocal of the cathode temperature. This life end is believed to happen after the end of the reduction reaction between BaO and the porous W body and after ceasing replenishment of the low work function Ba+O monolayer on the metal surface. A formula for the emission lifetime is derived from the assumption that the rate determining step is the Ba diffusion inside the pellet. Emission lifetime Ä is shown to be given by Ä=Ad2	exp(E/kT), where A is a constant, d is the pellet thickness, and E is the activation energy of Ba diffusion. This relation is confirmed experimentally.
+
+THERMIONIC EMITTERS
+BARIUM OXIDES
+CALCIUM OXIDES
+ALUMINIUM OXIDES
+POWDERS
+CATHODES
+SURFACE ANALYSIS
+OSMIUM
+EMISSIVITY
+LIFETIME
+DIFFUSION

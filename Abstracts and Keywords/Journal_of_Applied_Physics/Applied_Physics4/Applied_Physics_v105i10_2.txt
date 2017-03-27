@@ -1,0 +1,12 @@
+The effects of ultraviolet light irradiation on the conducting properties of SnO2x thin films grown epitaxially on TiO2 or Al2O3 single-crystal substrates are studied at room temperature. A large increase in conductivity by two to four orders of magnitude is observed with light irradiation in an inert atmosphere and remains after the light is removed. The high-conducting state reverts to the original low-conducting state by exposing it to oxygen gas. These reversible phenomena are ascribed to the desorption and adsorption of negatively charged oxygen species at the grain boundaries, which critically change the mobility of electron carriers already present inside grains by changing the potential barrier height at the grain boundary. The UV light irradiation provides us with an easy and useful route to achieve a high-conducting state even at low carrier density in transparent conducting oxides and also to draw an invisible conducting wire or a specific pattern on an insulating film.
+
+adsorption
+carrier density
+desorption
+electron mobility
+grain boundaries
+photoconductivity
+semiconductor thin films
+tin compounds
+ultraviolet radiation effects
+wide band gap semiconductors

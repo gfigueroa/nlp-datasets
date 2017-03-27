@@ -1,0 +1,12 @@
+Data are presented describing Si impurityinduced layer disordering (IILD) and AlGa interdiffusion in AlxGa1x AsGaAs quantumwell heterostructures (QWHs) using opentube rapid thermal annealing (9001000	°C) in a flowing N2/H2 ambient. The data show that AlGa interdiffusion is enhanced by ntype crystal doping and suppressed by ptype doping. By surrounding the active layers of the heterostructure with layers of opposite doping, we show that the surrounding layers modify the interdiffusion by controlling the diffusion of point defects to the active layers of the heterostructure. Data are presented showing the effects of dielectric encapsulation (SiO2, Si3N4 ) on AlGa interdiffusion. The data show that regardless of doping SiO2 enhances interdiffusion as compared to Si3N4. To achieve more thorough layer intermixing of AlxGa1x AsGaAs QWHs, Si IILD is also investigated in the hightemperature Aspoor regime. The experimental data show that in a hightemperature Aspoor annealing ambient, little or no Si diffusion occurs from an elemental Si source in contact with a ptype GaAs QWH cap layer. To achieve Si diffusion under these conditions requires removal of the GaAs cap and the use of Alreduced SiO2 or Si3N4 as a Si diffusion source. Based on secondaryion mass spectroscopic measurements, direct comparison of Si diffusion from closedtube (825	°C, 48 h) and open tube (1000	°C, 10 min) anneals shows increased Si incorporation and layer disordering at higher temperatures.
+
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+QUANTUM WELL STRUCTURES
+SILICON ADDITIONS
+IMPURITIES
+DIFFUSION
+ORDERDISORDER TRANSFORMATIONS
+ANNEALING
+POINT DEFECTS
+SIMS

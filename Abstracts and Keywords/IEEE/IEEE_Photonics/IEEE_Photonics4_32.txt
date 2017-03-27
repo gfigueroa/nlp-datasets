@@ -1,0 +1,7 @@
+A study on the effect of the thickness of the substrate was carried out for the heat transfer behaviors of two microchannel heat exchangers. The results were obtained by both numerical simulations and experimental data. The solver of numerical simulations - COMSOL - was developed by using the finite element method. For all cases done in this study, when the thickness of substrate of the heat exchanger increases, its actual heat transfer rate decreases. However, with a range from 1.2 mm to 2 mm of the substrate, the actual heat transfer rate varies insignificantly: the value obtained from the former (Case T1.2) is 1.025 to 1.031 times of that obtained from the latter (Case T2). For the case of T1.2, the experimental results indicated that the actual heat transfer rate of 24 W was achieved for water from the hot side of the device having the inlet temperature of 70&#x00B0;C and flow rate of 0.2314 g/s and for water from the cold side having the inlet temperature of 22.5&#x00B0;C and flow rate of 0.2078 g/s. In addition, the results obtained from the numerical analyses were in good agreement with those obtained from the experiments, with the discrepancies of the heat transfer coefficient estimated to be less than 5%.
+
+Heat transfer behavior
+heat transfer rate
+micro heat exchanger
+numerical simulation
+temperature profile

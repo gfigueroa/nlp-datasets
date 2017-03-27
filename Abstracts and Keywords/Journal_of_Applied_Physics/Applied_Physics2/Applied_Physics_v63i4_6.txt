@@ -1,0 +1,11 @@
+We have characterized the diffusion of Zn into GaAs from the organometallic sources diethylzinc and trimethylarsenic. This method produces surface hole concentrations in excess of 1020 cm3 with good control of junction depths as shallow as 0.1 ¼m. Smooth surface morphology is retained. The profile shape is much more complex than the accepted interstitialsubstitutional Zndiffusion model would predict. To explain the observed profiles, a new model for Zn diffusion is proposed and implemented in a computer simulation.
+
+DIFFUSION
+ZINC
+GALLIUM ARSENIDES
+ATOM TRANSPORT
+INTERSTITIALS
+MORPHOLOGY
+SURFACE STRUCTURE
+COMPUTERIZED SIMULATION
+MATHEMATICAL MODELS

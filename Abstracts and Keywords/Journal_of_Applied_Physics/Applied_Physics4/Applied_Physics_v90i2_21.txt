@@ -1,0 +1,11 @@
+Single-electron transistors utilizing Coulomb blockade effects are promising candidates for future silicon based nanoelectronics. We present the fabrication of such transistors and measurements that reveal Coulomb blockade behavior. Various silicon quantum dots are investigated up to room temperature. We employ a dual gate configuration with which we are able to control our devices by both a metallic top gate as well as by an in-plane gate. This design principle enhances the integration density. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+silicon compounds
+silicon-on-insulator
+semiconductor quantum dots
+Coulomb blockade
+single electron transistors
+quantum interference devices
+semiconductor device measurement

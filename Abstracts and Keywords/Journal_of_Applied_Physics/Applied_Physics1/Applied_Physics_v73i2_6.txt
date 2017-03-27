@@ -1,0 +1,12 @@
+Deep level transient spectroscopy has been employed to determine the defect energy levels, capture cross sections, and trap densities in Sidoped vapor phase epitaxy GaAs both before and after irradiation by 1 MeV electrons at room temperature for electron fluence ranging from 1.1×1014 to 5.0×1015 e	cm2. The results indicate that the irradiated samples have an electron trap at Ec0.334 eV(EL6) in addition to the two electron traps at Ec0.815 eV(EL2) and Ec0.420 eV(EL3) which are present in the nonirradiated sample. The density of the EL6 trap increases monotonically with irradiation fluence from 6.7×1013 to 24.4×1013 cm3 as electron fluence is increased from 1.1×1014 to 3.1×1014 e	cm2. In contrast, both the EL2 and EL3 trap densities were found to be only moderately affected by electron irradiation with trap densities slightly greater than the nonirradiated sample. These results, along with the fact that the EL6 trap was not observed in the nonirradiated sample, strongly suggest that this trap is created by the electron irradiation. In addition to creating the EL6 trap, electron irradiation results in a nonexponential transient for the EL2 deep level at Ec0.815 eV which can be resolved into the sum of two exponential transients arising from two closely spaced deep levels at Ec0.815 eV and Ec0.843 eV.
+
+GALLIUM ARSENIDES
+EPITAXIAL LAYERS
+DLTS
+DEFECT STATES
+PHYSICAL RADIATION EFFECTS
+ELECTRONS
+MEV RANGE 0110
+SILICON ADDITIONS
+DOPED MATERIALS
+CROSS SECTIONS

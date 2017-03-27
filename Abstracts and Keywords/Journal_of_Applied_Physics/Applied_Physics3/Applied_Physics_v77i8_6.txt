@@ -1,0 +1,14 @@
+Damage produced in semicrystalline polyvinylidene fluoride by highenergy ions (0.30.8 MeV/u) is studied. The samples, 9 ¼m thick, are irradiated with proton and carbon ions in the electronic stopping power regime with a fluence ranging from 1011 to 1014 ions/cm2. Irradiated samples are analysed by differential scanning calorimetry, xray diffraction, and solubility measurements. Differential scanning calorimetry curves show a decrease of the melting enthalpy and the appearance of a melting peak whose temperature decreases with increasing the ion fluence and xray diffraction analysis shows a decrease of the main diffraction peak intensity. All these effects are associated with a change in the crystalline morphology and with an increase of the polymer disordered regions. Solubility measurements suggest that the change in the polymer morphology is related to the formation of cross links between the polymeric chains produced by ion irradiation and to the production of a gel material. The data of amorphous fraction versus ion fluence are well fitted by using a track overlap model based on an amorphyzation process through the overlap of damaged clusters. The efficiency of this process does not depend on the nature of the incident ion, showing that the average energy deposited in electronic excitations and/or ionizations is the key parameter in the polymer amorphyzation. Moreover, the change in the polymer morphology is not directly related to the average deposited energy, but to the spatial distribution of energy inside the ion track. © 1995 American Institute of Physics.
+
+POLYVINYLS
+FLUORIDES
+PHYSICAL RADIATION EFFECTS
+PROTON BEAMS
+CARBON IONS
+DAMAGE
+DSC
+XRD
+SOLUBILITY
+MELTING
+THERMODYNAMIC PROPERTIES
+AMORPHIZATION

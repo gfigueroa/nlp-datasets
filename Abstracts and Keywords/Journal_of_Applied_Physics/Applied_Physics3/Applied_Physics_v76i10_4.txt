@@ -1,0 +1,10 @@
+The attenuated total reflection Kretschmann configuration is used for exciting guided optical modes in thin mica sheets. It is shown that this allows for detecting an additional mica monolayer (1 nm thick) on top of a few micron thick mica waveguide and therefore will allow for the determination of the optical properties of ultrathin layers (LangmuirBlodgettKuhnselfassembly monolayers) on top of the mica surface. Optical waveguide microscopy was performed with this nearly ideal slab configuration, allowing for the detection of plateaus on the mica surface.
+
+MICA
+SUBSTRATES
+MONOLAYERS
+OPTICAL PROPERTIES
+SURFACTANTS
+WAVEGUIDES
+LANGMUIRBLODGETT FILMS
+OPTICAL MICROSCOPY

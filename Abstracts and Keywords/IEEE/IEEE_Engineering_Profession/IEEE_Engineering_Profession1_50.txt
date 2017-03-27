@@ -1,0 +1,6 @@
+This study investigated whether young children's actions could be affected by their observation of an android's actions. In a card sorting task, 3-and 4-year-old children were asked to observe either the video of a person or that of an android sorting cards according to one dimension (e.g., color). After that, children were asked to sort the cards according to the other dimension (e.g., shape). The results showed that 3-year-old children tended to sort the cards according to the observed, first dimension in both conditions. On the other hand, 4-year-old children were not affected by the observation of the android's actions although the human model's actions did affect 4-year-old children's actions. The results were consistent with the studies that suggested that children's actions were affected by a human model's actions, but not a robot's actions. These results suggested that 3-year-old children may perceive the android as a human whereas 4-year-old children may perceive the android as a robot. The results also suggested that young children's actions could be affected by agents when they perceive them as social.
+
+action control
+android
+children
+social cognition

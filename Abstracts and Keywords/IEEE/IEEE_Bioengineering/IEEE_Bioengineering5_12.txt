@@ -1,0 +1,6 @@
+This paper presents a low power, highly integrated wireless transceiver ASIC designated for peer-to-peer wearable and portable data communication apparatus. The transceiver utilized a novel implementation of energy-efficient wideband impulse communication that uses the human body as the transmission medium, provides high communication data rate, low power consumption, high reception sensitivity and wide operation frequencies. The transceiver frequency was measured to be in the range of 0.3-15 MHz. The data rate was approximately 5 Mbps at a total power consumption of 5 mW. The ASIC was fabricated with a standard 0.18-¿m CMOS process.
+
+Transceiver
+energy efficient
+human body channel communication
+wearable electronics

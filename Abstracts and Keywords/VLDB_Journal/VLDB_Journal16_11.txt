@@ -1,0 +1,6 @@
+An SQL extension is formalized for the management of spatio-temporal data, i.e. of spatial data that evolves with respect to time. The extension is dedicated to applications such as topography, cartography, and cadastral systems, hence it considers discrete changes both in space and in time. It is based on the rigid formalization of data types and of SQL constructs. Data types are defined in terms of time and spatial quanta. The SQL constructs are defined in terms of a kernel of few relational algebra operations, composed of the well-known operations of the 1NF model and of two more, Unfold and Fold. In conjunction with previous work, it enables the uniform management of 1NF structures that may contain not only spatio-temporal but also either purely temporal or purely spatial or conventional data. The syntax and semantics of the extension is fully consistent with the {SQL:2003} standard.
+
+Data modelling
+SQL
+Spatial databases
+Spatio-temporal databases

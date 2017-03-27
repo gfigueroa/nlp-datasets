@@ -1,0 +1,13 @@
+Platinumsilicon alloys have been prepared over a wide composition range by reactive magnetron sputtering of platinum in a SiH4 plasma. Studies on the stoichiometry of the films show that it depends sensitively on the silane partial pressure and the cathode potential. An analysis of the intensities of the emission lines of platinum and hydrogen present in the plasma indicates that at lower silicon concentrations the stoichiometry of the film bears a onetoone correspondence with the stoichiometry of the plasma. Xray diffraction studies on the films deposited at room temperature show metastable products such as extended solid solutions on either side of the equilibrium phase field and the formation of a bcc phase (a=4.169 Å) for the Pt67Si33 alloy. Stoichiometric intermetallic phases Pt2Si, PtSi, and PtSi2 have been synthesized by depositing the films at 100, 300, and 500	°C, respectively.
+
+FABRICATION
+PLATINUM
+PLATINUM SILICIDES
+SYNTHESIS
+REACTIVE SPUTTERING
+PLATINUM ALLOYS
+SILICON ALLOYS
+STOICHIOMETRY
+XRAY DIFFRACTION ANALYSIS
+CHEMICAL COMPOSITION
+SILANES

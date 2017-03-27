@@ -1,0 +1,16 @@
+The behavior of a flowing Cs+UF6 ionpair plasma in the radiofrequency (rf) quadrupoledipole fields of a mass filter has been studied experimentally. The flowing plasma was formed by collision of a beam of accelerated UF6 molecules with an intense beam of thermal Cs atoms. The maximum current (positive or negativeion flux) entering the mass filter was 0.5×103 A, corresponding to a positive or negativeion density in the injection region of <1.1×1010 ions/cm3. Four aspects of the interaction of the plasma with the radiofrequency fields were investigated: (1) the injection of the ionpair plasma into the quadrupoledipole field, (2) confinement by and transmission of the flowing plasma through a quadrupole field, (3) masssensitive ejection of ions from the plasma by superimposed quadrupole and dipole fields, and (4) effects of the extraction and exit fringe fields on the flowing plasma. In particular, the effects of increasing plasma density in relation to the above topics was experimentally determined. The results of the experimental observations in conjunction with the theoretical calculations discussed in the following paper suggest that the limitingion flux that can be confined within a quadrupole mass filter is determined by the requirement that the plasma frequency ½p must be lower than or at most equal to the applied rf quadrupole frequency ½1. If ½p &gt;½1, the rf field causes rapid destruction of the plasma. The massresolving power of the mass filter was found to deteriorate significantly with increasing plasma throughput, a result of the increasing spacecharge forces within the plasma and their interaction with the applied dipole field.
+
+cesium ions
+uranium hexafluoride
+plasma
+radiowave radiation
+quadrupolar configurations
+dipoles
+electromagnetic fields
+experimental data
+mass
+filters
+collisions
+ion density
+interactions
+confinement

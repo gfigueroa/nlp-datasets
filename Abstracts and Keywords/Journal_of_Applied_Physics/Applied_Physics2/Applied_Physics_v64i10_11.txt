@@ -1,0 +1,11 @@
+rfsputtered amorphous CoZrNb (CZN) thin films have been shown to be promising materials for highdensity magnetic recording heads. In this paper, we report correlations of the physical and micromagnetic structures with the magnetic properties of CZN films using transmission electron microscopy (TEM) techniques. Observations of the physical microstructures of CZN films verify that one of the apparent effects of the applied magnetic field during film deposition is to suppress crystallization. We have also observed that the number of the microcrystallites which coexist with the amorphous matrix is reduced by an applied magnetic field. We show that the coercivities of CZN films are correlated with the sizes and volume fractions of the microcrystallites. The contribution of the microcrystalline phase to magnetic anisotropies is discussed in terms of the residual anisotropy after rotational magnetic field annealing and the magnetization ripple amplitudes observed in the films. In addition, we report on investigations of the in situ crystallization processes of thin CZN films (500 Å) using a TEM hot stage.
+
+COBALT ALLOYS
+ZIRCONIUM ALLOYS
+NIOBIUM ALLOYS
+AMORPHOUS STATE
+THIN FILMS
+MAGNETIC PROPERTIES
+MAGNETIZATION
+TRANSMISSION ELECTRON MICROSCOPY
+SPUTTERING

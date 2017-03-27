@@ -1,0 +1,8 @@
+A new physics based model is developed for the small signal and large signal high current response of p-i-n photodetectors. The numerical treatment is not constrained by the numerical stability requirements of conventional treatments of the time-dependent drift-diffusion equations. The results confirm the finding of other authors in predicting the formation of an extended low field region at high currents, with consequent collapse of the frequency response. Comparison with available experimental data for GaAs based photodiodes suggests that 2D effects are important in the high current limit, but can be allowed for within the 1D model by reducing the calculated particle velocity in the low field region. © 1998 American Institute of Physics.
+
+p-i-n photodiodes
+photodetectors
+frequency response
+numerical stability
+carrier mobility
+semiconductor device models

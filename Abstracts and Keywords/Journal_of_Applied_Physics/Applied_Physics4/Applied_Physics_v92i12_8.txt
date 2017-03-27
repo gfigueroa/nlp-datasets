@@ -1,0 +1,15 @@
+Luminescent Si nanocrystals imbedded in amorphous SiO2 and Si3N4 networks have been prepared using an approach based on deposition of Si-rich SiO and SiN films by ultrahigh vacuum-chemical vapor deposition reactions of the single-source precursors O(SiH3)2 and N(SiH3)3 respectively. The film growth is conducted on Si (100) at temperatures of 750850
+°C and at extremely high rates of 2030 nm per min with complete hydrogen elimination. Rapid thermal annealing of the as-deposited films at 11001200
+°C for 3060 s generates Si nanocrystals with tunable sizes, discrete shapes, and uniform distributions. The phase, composition, and microstructure of the films are characterized by a variety of analytical techniques including high-resolution electron microscopy. The room temperature photoluminescence (PL) is blueshifted substantially with respect to pure Si and appears to be independent of the Si3N4 and SiO2 dielectric medium. The PL energy increases with decreasing crystal size in accordance with quantum confinement concepts. The key aspects of this approach include the use of completely inorganic (CH free) and volatile siloxanes and silyl amines with built-in SiN and SiO atomic arrangements that allow stoichiometric control at the atomic level leading to formation of highly homogeneous crystallite profiles with adjustable densities and sizes throughout the amorphous matrix. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+nanostructured materials
+crystal morphology
+CVD coatings
+vacuum deposited coatings
+rapid thermal annealing
+photoluminescence
+crystal microstructure
+transmission electron microscopy
+silicon compounds

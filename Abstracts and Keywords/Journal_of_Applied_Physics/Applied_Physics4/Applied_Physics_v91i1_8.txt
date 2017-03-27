@@ -1,0 +1,10 @@
+Temperature dependence of 1/f noise in the Pd/n-GaAs Schottky barrier diode has been investigated. The noise measurements were performed under forward bias over a wide temperature range from 90 to 300 K and frequency range from 1 to 100 Hz. The noise spectra exhibited a frequency dependence proportional with 1/f2³ where ³ varied between 0.8 and 1.2. It was observed that the spectral power density of current noise SI decreased with the increase in temperature up to 130 K. This behavior has been attributed to the spatial inhomogeneities of the Schottky barrier height at the metalsemiconductor interface. Above a temperature of 130 K, SI increased with the increase in temperature. This variation in SI has been attributed to the mobility and diffusivity fluctuations of the carriers within the space charge region of the Schottky barrier diode. © 2002 American Institute of Physics. 
+
+palladium
+gallium arsenide
+III-V semiconductors
+semiconductor-metal boundaries
+Schottky diodes
+1/f noise
+semiconductor device noise
+carrier mobility

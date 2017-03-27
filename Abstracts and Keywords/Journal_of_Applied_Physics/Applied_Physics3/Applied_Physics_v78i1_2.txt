@@ -1,0 +1,9 @@
+The kinetics of rise and decay of groundstate atomic oxygen was investigated in a lowpressure O2 radiofrequency discharge. The ground state of O was monitored using laserinducedfluorescence spectroscopy. The discharge was operated in two modes: a continuous mode and a pulsed mode. Typical discharge settings are rf power of 100 W, a pressure of 10 Pa, and a gas flow of 10 sccm. Using a pulsed mode the behavior of the O density was determined in a pure O2 discharge with no reaction products, and in a discharge during etching of organic polymers. Production and loss mechanisms for O in a pure O2 discharge are discussed. For an O2 discharge during etching of resist it is found that under the given experimental conditions atomic oxygen does not play a significant role in the chemical etch mechanisms involved. © 1995 American Institute of Physics.
+
+ORGANIC POLYMERS
+ETCHING
+PLASMA
+OXYGEN
+HIGHFREQUENCY DISCHARGES
+FLUORESCENCE SPECTROSCOPY
+PHOTORESISTS

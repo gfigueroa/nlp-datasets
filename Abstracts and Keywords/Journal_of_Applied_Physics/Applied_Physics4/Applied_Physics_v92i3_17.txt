@@ -1,0 +1,10 @@
+The electronic structures of Ni3Al, Ni3Ga, Ni3In, and NiGa are studied by x-ray absorption near-edge spectra (XANES) at the Ni and Ga K edges. The XANES spectra are compared with those calculated with theory. The experimental XANES features for these compounds reflect the Ni- and Ga-p unoccupied density of states. The calculated magnetic moments for Ni3Al, Ni3Ga, and Ni3In are between 0.70.8	¼B/cell. The number of 3d holes per Ni atom is calculated for Ni3Al, Ni3Ga, and Ni3In. These numbers show correlation with heats of formation of the bulk compounds. © 2002 American Institute of Physics. 
+
+XANES
+electronic density of states
+magnetic moments
+heat of formation
+nickel alloys
+aluminium alloys
+gallium alloys
+indium alloys

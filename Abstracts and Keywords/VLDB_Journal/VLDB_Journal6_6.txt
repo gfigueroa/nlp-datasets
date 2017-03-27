@@ -1,0 +1,7 @@
+In this paper, we re-examine the results of prior work on methods for computing ad hoc joins. We develop a detailed cost model for predicting join algorithm performance, and we use the model to develop cost formulas for the major ad hoc join methods found in the relational database literature. We show that various pieces of common wisdom about join algorithm performance fail to hold up when analyzed carefully, and we use our detailed cost model to derive op timal buffer allocation schemes for each of the join methods examined here. We show that optimizing their buffer allocations can lead to large performance improvements, e.g., as much as a 400% improvement in some cases. We also validate our cost model's predictions by measuring an actual implementation of each join algorithm considered. The results of this work should be directly useful to implementors of relational query optimizers and query processing systems.
+
+Buffer allocation
+Cost models
+Join methods
+Optimization
+Performance

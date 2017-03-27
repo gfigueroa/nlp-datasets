@@ -1,0 +1,5 @@
+In object-oriented database systems where the concept of the superclass-subclass is supported, an instance of a subclass is also an instance of its superclass. Consequently, the access scope of a query against a class in general includes the access scope of all its subclasses, unless specified otherwise. An index to support superclass-subclass relationship efficiently must provide efficient associative retrievals of objects from a single class or from several classes in a class hierarchy. This paper presents an efficient index called the hierarchical tree (the H-tree). For each class, an H-tree is maintained, allowing efficient search on a single class. These H-trees are appropriately linked to capture the superclass-subclass relationships, thus allowing efficient retrievals of instances from a class hierarchy. Both experimental and analytical results indicate that the H-tree is an efficient indexing structure.
+
+Indexing structures
+OODB
+Query retrieval

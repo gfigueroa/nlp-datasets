@@ -1,0 +1,18 @@
+In order to quantify the contributions of atomic and molecular chlorine during the plasma etching of aluminum, a dischargeflow system was used to generate chlorine atoms upstream of a parallelplate reactor in which aluminum samples were etched with the afterglow. Molecular dissociation in excess of 70% was achieved. Dissociation was measured in the parallelplate reactor by gasphase titration of the chlorine atoms with NOC1 using the chemiluminescent emission resulting from atom recombination as an end point indicator. Molecules etched aluminum at least four times faster than atoms and displayed an activation energy near zero (0.020.04 eV/molecule) between 35 and 150 °C. Below 25 °C etching was quenched due to the inability of products and/or contaminants to desorb. The higher molecular etch rate is believed to be the result of an enhanced sticking coefficient on the chlorinated surface. Calculation of molecular sticking coefficients based on the assumption of adsorptionlimited etching are in good agreement with reported values. Temperaturedependent atom recombination on the in situ electrodes prevented accurate determination of the molecule/atom etch rate ratio and masked the activation energy for atom etching.
+
+ALUMINIUM
+ETCHING
+ATOM COLLISIONS
+ION COLLISIONS
+SURFACE REACTIONS
+CHLORINE MOLECULES
+CHLORINE
+COLLISIONS
+ACTIVATION ENERGY
+ADSORPTION
+RECOMBINATION
+PLASMA
+ELECTRODES
+AFTERGLOW
+DISSOCIATION
+MEDIUM TEMPERATURE

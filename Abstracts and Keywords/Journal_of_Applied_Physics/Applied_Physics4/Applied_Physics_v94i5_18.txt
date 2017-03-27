@@ -1,0 +1,10 @@
+An easy and reliable method to extract the crystalline fractions in microcrystalline films is proposed. The method is shown to overcome, in a natural way, the inconsistencies that arise from the regular peak fitting routines. We subtract a scaled Raman spectrum that was obtained from an amorphous silicon film from the Raman spectrum of the microcrystalline silicon film. This subtraction leaves us with the Raman spectrum of the crystalline part of the microcrystalline film and the crystalline fraction can be determined. We apply this method to a series of samples covering the transition regime from amorphous to microcrystalline silicon. The crystalline fractions show good agreement with x-ray diffraction (XRD) results, in contrast to crystalline fractions obtained by the fitting of Gaussian line profiles applied to the same Raman spectra. The spectral line shape of the crystalline contribution to the Raman spectrum shows a clear asymmetry, an observation in agreement with model calculations reported previously. The varying width of this asymmetrical peak is shown to correlate with the mean crystallite size as determined from XRD spectra. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor thin films
+amorphous semiconductors
+Raman spectra
+X-ray diffraction
+spectral line breadth
+crystallites

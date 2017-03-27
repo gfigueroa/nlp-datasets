@@ -1,0 +1,11 @@
+Ultrathin Fe films were epitaxially grown at room temperature on GaAs(001) with either predominant (4×2) or (2×6) surface reconstruction. At nominal Fe coverages of tFe~2.8 monolayers (ML), a ferromagnetic state is observed below a certain critical temperature, TC. Surprisingly, the magnetic phase transition at TC appears even sharper than for Fe films on metallic single-crystal substrates, which were believed to be an excellent representation of two-dimensional (2D) ferromagnets. This may be due to the extremely short lateral length scale of film inhomogeneities. The critical exponent ²=0.26 is close to the value expected for 2D XY systems of finite size. For tFe=3.6
+ML, TC is close to room temperature. TC decreases steeply with decreasing Fe coverage, with an average slope of 270 K/ML. From a power law extrapolation, TC seems to vanish at tFe=2.5
+ML. The onset of ferromagnetism at tFe=2.5
+ML is interpreted as a percolation phenomenon during the coalescence process of Fe islands. © 2001 American Institute of Physics. 
+
+iron
+magnetic epitaxial layers
+ferromagnetic materials
+magnetic transitions
+magnetic moments
+percolation

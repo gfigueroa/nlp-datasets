@@ -1,0 +1,19 @@
+Pulsed laser deposition (PLD) has been used to fabricate polymer/carbon nanocomposite thin films for use in chemical sensors (chemiresistors). Ethylene vinyl acetate copolymer (EVA) films (undoped and 20% carbon by weight) were deposited using an ArF excimer laser (193 nm) at fluences between 150 and 300 mJ/cm2. The structure and morphology of the deposited films were characterized using Fourier transform infrared spectroscopy (FTIR), Raman scattering, and transmission and scanning electron microscopy (TEM). An analysis of the FTIR spectra indicates that a film deposited using an undoped EVA target is primarily polyethylene, suggesting that the acetate group is photochemically or photothermally removed from the starting material. Gas phase measurements of the laser-evaporated material using a quadrupole time of flight mass spectrometer confirm the production of the acetyl radical on the target surface. Analysis of TEM of films deposited using C-doped targets shows that the carbon black particles (initially 50 nm particles in 1 ¼m agglomerates) are broken down into particles that are }50 nm in the deposited film. Incorporation of carbon into the target reduces the degree of photochemical damage of the starting material, as shown in the FTIR spectra of the deposited film. The sensitivity and response time of chemiresistors fabricated from 6 ¼m thick composite films on top of gold electrodes were measured using toluene vapor (548 ppm). The chemiresistors exhibited a reversible and fast (&lt;1.3 s) response to the vapor. In comparison to data reported in the literature, chemiresistors fabricated from PLD films are significantly better than devices fabricated using a more conventional polymer film growth technique. © 2001 American Institute of Physics. 
+
+polymer films
+nanostructured materials
+filled polymers
+carbon
+pulsed laser deposition
+gas sensors
+polymer structure
+Fourier transform spectra
+infrared spectra
+Raman spectra
+transmission electron microscopy
+scanning electron microscopy
+time of flight mass spectra
+particle size
+photochemistry
+organic compounds
+laser materials processing

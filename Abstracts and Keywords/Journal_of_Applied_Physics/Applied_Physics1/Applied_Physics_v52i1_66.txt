@@ -1,0 +1,16 @@
+The decomposition of CF4 and of O2 and the formation of the plasma product molecules CO2 and COF2 have been determined by mass spectrometry for a 2450MHz CF4 plasma to which variable amounts of oxygen were added. In addition, the SiF4 production resulting from the interaction of the plasma effluent with a silicon wafer was monitored. It was found that up to its maximum the decomposition of CF4 is twice the amount of decomposed oxygen. This result, combined with those of experiments in which CO2 was used instead of oxygen, and experiments in which CF4 and O2 were discharged separately, leads to the conclusion that after decomposition of O2 to O atoms and of CF4 to CF3 fragments and F atoms, one oxygen atom reacts with one shortlived CF3 fragment to form the primary products COF2 and atomic fluorine. At higher oxygen concentrations, excess O(1D) atoms are formed. These atoms rapidly react with the COF2 to form CO2 and F2. Consequently, the COF2 production strongly decreases with the simultaneous formation of carbon dioxide. At these higher oxygen concentrations it is also found that excess molecular oxygen reacts with the atomic fluorine produced, eventually forming molecular fluorine. As a result, the production of SiF4 decreases much more strongly than expected on the basis of the decomposition of CF4.
+
+AFTERGLOW
+DECOMPOSITION
+PLASMA
+ETCHING
+SILICON
+SYNTHESIS
+CARBON TETRAFLUOIDE
+OXYGEN
+DATA
+MOLECULES
+CARBON DIOXIDES
+MASS SPECTROSCOPY
+SILICON FLUORIDES
+QUANTITY RATIO

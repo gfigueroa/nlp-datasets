@@ -1,0 +1,16 @@
+We have studied the growth and the properties of (t)a-C:F films prepared by the deposition of mass separated 12C+ and 19F+ ions as a function of the F concentration. The films are always strongly F deficient due to the formation of volatile F2 and CFx molecules during the deposition process. A maximum F content of about 25 at.
+% is obtained for an ion charge ratio of C+:F+=1:1. The observed mechanical, optical, electrical, and structural properties as well as the thermal stability of the films are strongly influenced by the F content. A three step progression of the film structure is evident for increasing F concentration: the amorphous three-dimensional network of tetrahedrally bonded carbon atoms of pure carbon films (ta-C) with diamondlike properties is doped for very low F concentrations (ta-C:F). A further increase of the F content results first in transformation to a graphitelike amorphous structure (a-C:F) before the deposited films become porous and to a polymerlike one for the highest F content. © 2001 American Institute of Physics.
+
+carbon
+fluorine
+amorphous state
+insulating thin films
+vacuum deposition
+ion beam applications
+thermal stability
+density
+electrical conductivity
+stoichiometry
+Fourier transform spectra
+infrared spectra
+electron energy loss spectra

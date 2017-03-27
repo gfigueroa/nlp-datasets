@@ -1,0 +1,14 @@
+Ionassisted doping has been used to control the phosphorus incorporation and ptype doping of CdTe epitaxial films. Ion dose, ion energy, growth temperature, and growth rate were all varied. A saturated carrier density of 2×1017 cm3 was observed, although secondary ion mass spectroscopy analyses of several films indicated a continuous increase in phosphorus concentration in the films with increasing ion dose. Hole mobilities, majoritycarrier lifetimes, and minoritycarrier lifetimes were measured as a function of carrier density. nCdS/pCdTe heterojunction solar cells were prepared to further characterize the CdTe films for solar cell applications. Spectral response measurements indicated that both the minoritycarrier lifetime and the interface collection function decreased with increases in carrier density. Such reduced values were not seen for CdS/CdTe heterojunctions prepared on Pdoped singlecrystal CdTe with high carrier densities.
+
+CADMIUM TELLURIDES
+THIN FILMS
+EPITAXY
+PTYPE CONDUCTORS
+CRYSTAL DOPING
+ION COLLISIONS
+MONOCRYSTALS
+PHOSPHORUS IONS
+CARRIER DENSITY
+CADMIUM SULFIDES
+HETEROJUNCTIONS
+SOLAR CELLS

@@ -1,0 +1,6 @@
+Pretreatment is one of the approaches to yield the higher saccharification process leading to optimization of ethanol yield. The effect of ultrasonic pretreatment on ethanol production from rice straw was studied. A 0.16 kW/L ultrasonic treatment was applied to treat rice straw during enzymatic hydrolysis and fermentation process. The enzymatic hydrolysis process was carried out at 50&#x00B0;C and pH 4.8 by using a commercial enzyme and followed by fermentation with S.cereviceae. Morphological structure of rice straw was analyzed by a scanning electron microscopy (SEM) and the glucose concentration was detected by biochemistry analyzer. The result showed that the structure of rice straw after ultrasonic treatment showed a breaking of lignin and exposition of cellulose surface. The glucose concentration of the pretreated rice straw increased significantly by 57.65% (p = 0.003) when compared to the untreated rice straw. The total ethanol concentration of the untreated was not obviously different from the pretreated rice straw. Results revealed that ultrasonic treatment could enhance the ethanol production from rice straw.
+
+enzymatic hydrolysis
+ethanol
+rice straw
+ultrasonic pretreatment

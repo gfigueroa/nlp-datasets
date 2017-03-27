@@ -1,0 +1,13 @@
+Cationic silicon clusters, containing up to ten silicon atoms, have been measured by mass spectrometry in an argon/hydrogen/silane expanding thermal plasma. A quasi-one-dimensional model, based on the idea that the clustering process initiated by argon or hydrogen ions depends on the path length of the plasma in the deposition chamber and on silane density, is presented. The chemistry is described by ionmolecule reactions between the formed clusters and silane and by dissociative recombination. The model is able to reproduce fairly well the experimental data for various plasma conditions. It is shown that reaction rates for the clustering process do not strongly depend on the number of silicon atoms in the cluster. This result is in contrast with rates published in the previous literature. For the conditions investigated, the consumption of silane by cationic cluster formation is not significant. The contribution of neutral clusters is investigated and recombination proves to be an important process. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor growth
+plasma CVD
+atomic clusters
+plasma chemistry
+mass spectroscopic chemical analysis
+dissociation
+ion recombination
+ion-molecule reactions
+reaction kinetics theory

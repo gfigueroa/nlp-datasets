@@ -1,0 +1,11 @@
+Conditions for efficiency improvement and optimization in indiumtinoxide/pindiumselenide solar cells are discussed in this paper. This aim is achieved by using lowresistivity pindiumselenide and by incorporating a backsurfacefield contact. This contact is insured by a pindium selenide/gold barrier whose rectifying behavior is explained through the complex impurity structure of pindiumselenide. Electrical and photovoltaic properties of the cells are also reported. The efficiency parameters under AM1 simulated conditions have been improved up to 32 mA/cm2 for the shortcircuit current density, 0.58 V for the opencircuit voltage, and 0.63 for the filling factor. As a result, solar efficiencies larger than 10% in annealed cells and 8% in unannealed ones have been attained. The limitations of these devices are discussed by investigating the dependence of electrical and efficiency parameters in function of photon flux and temperature.
+
+OPTIMIZATION
+EFFICIENCY
+INDIUM SELENIDE SOLAR CELLS
+PERFORMANCE
+INDIUM OXIDES
+TIN OXIDES
+PHOTOVOLTAIC EFFECT
+ELECTRICAL PROPERTIES
+EXPERIMENTAL DATA

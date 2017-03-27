@@ -1,0 +1,7 @@
+In order to reduce the impact of inclusion of citations and references during the detection of plagiarism in academic theses, and extract the original content, the author created three ways to extract original content and remove the citation: 1) Removal of normative citations by symbol features; 2) removal tacit citations by Bayesian method based on the minimum risk and thesis structure; 3) removal common knowledge base on domain public knowledge base. The research results show that during the extraction of original content, the precision decreases as the risk coefficient increases, while the recall rate increases with the risk coefficient. When the risk coefficient is 60, the whole performance achieves the optimum. Plagiarism detection after extracting the original content presents a fault rate decrease from 9.09% to 4.52%.
+
+Beyes
+citation removal
+content extraction
+plagiarism
+thesis structure

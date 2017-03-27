@@ -1,0 +1,5 @@
+Peers in a peer-to-peer data management system often have heterogeneous schemas and no mediated global schema. To translate queries across peers, we assume each peer provides correspondences between its schema and a small number of other peer schemas. We focus on query reformulation in the presence of heterogeneous XML schemas, including datametadata conflicts. We develop an algorithm for inferring precise mapping rules from informal schema correspondences. We define the semantics of query answering in this setting and develop query translation algorithm. Our translation handles an expressive fragment of XQuery and works both along and against the direction of mapping rules. We describe the HePToX heterogeneous P2P XML data management system which incorporates our results. We report the results of extensive experiments on HePToX on both synthetic and real datasets. We demonstrate our system utility and scalability on different P2P distributions.
+
+Schema mapping
+XML query translation
+Heterogeneous Peer-to-Peer XML databases

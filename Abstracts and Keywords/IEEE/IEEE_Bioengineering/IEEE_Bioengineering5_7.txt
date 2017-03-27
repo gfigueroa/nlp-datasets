@@ -1,0 +1,6 @@
+This paper describes a novel approach to hardware efficient computing of the LF/HF ratio as required in heart rate variability (HRV) analysis. Heart rate data are converted into a bit stream vie delta-sigma modulation. The bit stream is filtered in the LF and HF sub-bands using novel hardware architecture. Sub-band spectral content is estimated from the filtered signals. The proposed algorithm and hardware architecture is extremely efficient, making continuous real-time HRV analysis possible in low-power microelectronics.
+
+Bitstream convolution
+bitstream filtering
+heart rate variability
+real-time cardiac monitoring

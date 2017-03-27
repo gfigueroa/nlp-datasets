@@ -1,0 +1,10 @@
+We report a theoretical analysis of the switching mechanism in the heterostructure hotelectron diode which confirms our earlier qualitative description. In addition, we present new experimental data on improved multilayer structures grown by metalorganic chemical vapor deposition which show the same negative differential resistance as reported previously. We show that these experimental data are in overall agreement with the theoretical results.
+
+HOT ELECTRONS
+TUNNEL DIODES
+PERFORMANCE
+FABRICATION
+CHEMICAL VAPOR DEPOSITION
+MULTILAYERS
+HETEROJUNCTIONS
+SWITCHING

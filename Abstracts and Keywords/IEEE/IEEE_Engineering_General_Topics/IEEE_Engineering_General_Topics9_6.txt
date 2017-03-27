@@ -1,0 +1,7 @@
+The role of behavior for the acquisition of sensory representations has been underestimated in the past. We study this question for the task of learning vergence eye movements allowing proper fixation of objects. We model the development of this skill with an artificial neural network based on reinforcement learning. A biologically plausible reward mechanism that is responsible for driving behavior and learning of the representation of disparity is proposed. The network learns to perform vergence eye movements between natural images of objects by receiving a reward whenever an object is fixated with both eyes. Disparity tuned neurons emerge robustly in the hidden layer during development. The characteristics of the cells' tuning curves depend strongly on the task: if mostly small vergence movements are to be performed, tuning curves become narrower at small disparities, as has been measured experimentally in barn owls. Extensive training to discriminate between small disparities leads to an effective enhancement of sensitivity of the tuning curves.
+
+disparity tuning
+natural images
+neural network
+reinforcement learning
+vergence

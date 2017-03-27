@@ -1,0 +1,11 @@
+We report here computer calculations of currentvoltage characteristics, impedance, and noise in spacechargelimited (SCL) flow in SiC crystals composed of layered polytypes. The results are compared with previously reported experimental data [Part I of the same title, J. Appl. Phys. 58, 1562 (1985) and Part II of the same title, J. Appl. Phys. 58, 1571 (1985)], and are found to give excellent agreement. In contrast to the analytical computations reported previously, the diffusion term is not neglected. It is shown to play an important role at low and moderate bias voltage. Also, these computations show clearly that while many types of traps are present, ranging from 63 to 367 meV below the conduction band, at a given temperature only one trap determines the IV characteristics. On the contrary, in the impedance and in the generationrecombination noise spectra, many traps show up simultaneously and must be taken into account. In general, the main features of the analytical theory developed by Van Vliet et al. are confirmed.
+
+CHARGEDPARTICLE TRANSPORT
+NOISE
+IV CHARACTERISTIC
+IMPEDANCE
+TRAPS
+ELECTRIC IMPEDANCE
+COMPUTERIZED SIMULATION
+RECOMBINATION
+SILICON CARBIDES

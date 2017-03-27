@@ -1,0 +1,8 @@
+We investigate the effect of incomplete removal of semiconductor overlayers on critical-point (CP) parameters determined from the analysis of ellipsometric spectra. An approximate analytic expression shows that CP energies and broadening parameters should be relatively unaffected for isolated CPs if the dielectric response of the overlayer varies slowly with energy. The results are confirmed by model calculations for InAs, which show that the energies of the E1 and E1+”1 CP structures that are commonly used for compositional analysis of semiconductor alloys are relatively unaffected. We also analyze overlayer-removal data for a series of InxGa1xAs alloy samples. Consistent with the above, the amplitudes and phases are affected significantly for all CPs, while the energies of the well-separated E1 and E1+”1 transitions are relatively invariant. The results show that accurate values of composition can be obtained from the analysis of the E1 and E1+”1 CP structures, even if complete removal of overlayers is not achieved.
+
+critical points
+dielectric function
+gallium arsenide
+III-V semiconductors
+indium compounds
+semiconductor thin films

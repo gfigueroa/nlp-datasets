@@ -1,0 +1,8 @@
+We investigated the electroluminescence (EL) of single-layer near-ultraviolet (NUV) light-emitting diodes (LEDs) made from poly[bis(p-n-butylphenyl)silane] (PBPS) with three different molecular weights (MWs). Although the NUV EL spectra of the three LEDs exhibited no noticeable differences, we observed a marked MW dependence on such aspects of the operating performance as the EL external quantum efficiency, EL threshold current density and electric field, which were improved as the MW of PBPS decreased. The MW dependence of the hole transport behavior suggested that the MW decrease promoted positive space charge formation in the PBPS layer during LED operation. We attributed the origin of the MW dependence of the LED performance to this positive space charge formation, which played an important role in improving the electronhole supply balance from the external electrodes of the LED. © 2000 American Institute of Physics. 
+
+electroluminescent devices
+light emitting diodes
+molecular weight
+conducting polymers
+current density
+space charge

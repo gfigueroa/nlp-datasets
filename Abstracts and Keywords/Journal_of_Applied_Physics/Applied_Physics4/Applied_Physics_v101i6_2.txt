@@ -1,0 +1,10 @@
+We use Monte Carlo and molecular dynamics simulation to study a magnetic tip-sample interaction. Our interest is to understand the mechanism of heat dissipation when the forces involved in the system are magnetic in essence. We consider a magnetic crystalline substrate composed of several layers interacting magnetically with a tip. The set is put thermally in equilibrium at temperature T by using a numerical Monte Carlo technique. By using that configuration we study its dynamical evolution by integrating numerically the equations of motion. Our results suggest that the heat dissipation in this system is closed related to the appearing of vortices in the sample.
+
+Monte Carlo methods
+molecular dynamics method
+vortices
+friction
+magnetic heads
+spin waves
+spin dynamics
+surface magnetism

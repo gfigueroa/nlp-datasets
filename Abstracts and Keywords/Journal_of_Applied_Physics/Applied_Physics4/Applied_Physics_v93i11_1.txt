@@ -1,0 +1,19 @@
+Experiments are reported in which two configurations for ablation-plasma-ion-implantation (APII) are characterized by diagnostics and compared. The first configuration oriented the target parallel to the deposition substrate. This orientation yielded ion-beam-assisted deposition of thin films. A delay (&gt;5
+¼s) between laser and high voltage was necessary for this geometry to avoid arcing between negatively biased substrate and target. The second experimental configuration oriented the target perpendicular to the deposition substrate, reducing arcing, even for zero/negative delay between the laser and the high voltage pulse. This orientation also reduced neutral atom, ballistic deposition on the substrate resulting in a pure ion implantation mode. Ion density measurements were made by resonant laser diagnostics and Langmuir probes, yielding total ion populations in the range of 1014. Implanted ion doses were estimated by electrical diagnostics, and materials analysis, including x-ray energy dispersive spectroscopy and x-ray photoelectron spectroscopy, yielding implanted doses in the range 1012
+ions/cm2
+per	pulse. This yields an APII efficiency of order 10% for implantation of laser ablated ions. Scaling of ion dose with voltage agrees well with a theory assuming the ChildLangmuir law and that the ion current at the sheath edge is due to the uncovering of the ions by the movement of the sheath. Thin film analysis showed excellent adhesion with smoother films for an accelerating voltage of 3.2
+kV; higher voltages (7.7
+kV) roughened the film. © 2003 American Institute of Physics. 
+
+plasma immersion ion implantation
+laser ablation
+Langmuir probes
+plasma diagnostics
+ion beam assisted deposition
+arcs (electric)
+plasma deposition
+ion density
+X-ray chemical analysis
+X-ray photoelectron spectra
+surface topography
+adhesion

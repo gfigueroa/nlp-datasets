@@ -1,0 +1,9 @@
+For the first time, ZnSe epitaxial layers grown by molecularbeam epitaxy are shown to exhibit large contrast, low power, and extremely longterm stable thermally induced absorptive optical bistability. It is observed over a wide temperature range between 169 K and RT, with a strongly variable loop width and a switchback adjustable to be less than 50% of the respective switchdown value. Critical slowing down as well as switchdown times are studied in dependence of the excess over the switchdown intensity values.
+
+ZINC SELENIDES
+LAYERS
+MOLECULAR BEAM EPITAXY
+OPTICAL PROPERTIES
+OPTICAL BISTABILITY
+LOW TEMPERATURE
+MEDIUM TEMPERATURE

@@ -1,0 +1,9 @@
+Timeofflight photoconductivity measurements were performed on HgI2 using a penetrating, pulsed xray source, simulating the operation of photoconductive xray detectors. By examining a variety of HgI2 samples, a wide range of electron and hole mobilities were observed, but in all cases hole transport was highly localized, limiting the collection of the photocarriers in HgI2 detectors. The intrinsic photocarrier generation and recombination processes differed from classical Onsager and Langevin mechanisms observed in lowmobility photoconductors.
+
+PHOTOCONDUCTIVITY
+MERCURY IODIDES
+OPERATION
+XRAY DETECTION
+CHARGE CARRIERS
+ELECTRON MOBILITY
+SEMICONDUCTOR DETECTORS

@@ -1,0 +1,8 @@
+ Trust can be an important aspect for decision-making in the Internet. This paper proposes a new trust establishment model for identity management on the Internet. After discussing the challenges and opportunities of a trust model in identity management, we describe our trust model in detail. The fundamental difference to existing models (or the lack of) in identity management is the establishment of trust and evaluation of trust in this model changes over time. Leaving greater incentives to constantly seek and learn from the past behavior to influence their future. Moreover this model acknowledges the heterogeneity of service providers, and lastly this model proposes some attenuation measures to counter biased ratings in identity management scenarios.
+
+ Identity
+ Identity Management
+ Trust
+ Trust Establishment
+ Trust Management
+ Trust Responsivness

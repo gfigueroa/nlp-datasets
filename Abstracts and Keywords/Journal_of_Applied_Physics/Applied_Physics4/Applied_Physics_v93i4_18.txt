@@ -1,0 +1,8 @@
+The generalized grazing-incidence-angle x-ray scattering technique has been developed for analysis of near-surface structures, namely, the anisotropy of the structure in the directions perpendicular and parallel to its surface, and its change within the depth. In this method, a specimen is irradiated by an x-ray beam with a grazing-incidence angle as small as the critical angle of the surface, and both in- and out-of-plane scattering are analyzed simultaneously. The technique has been applied to investigate the structures of InAs quantum dots grown on Si with a diameter of 37 nm and a surface coverage of 11%. It has been found that the InAs dots were dilated by 1.7% along the direction perpendicular to the surface and compressed by 1.4% in the lateral direction. The compression in the lateral direction shows a maximum value at the interface, and decreases as the distance from the interface increases. The existence of 1.7% compressive strain means that most of the 11.7% lattice mismatch between the InAs dots and the Si substrate was relaxed during the growth. © 2003 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+silicon
+semiconductor quantum dots
+X-ray scattering
+interface structure

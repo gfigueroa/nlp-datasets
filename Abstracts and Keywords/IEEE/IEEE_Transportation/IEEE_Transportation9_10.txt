@@ -1,0 +1,8 @@
+This paper presents work on modelling and simulation of single-phase matrix converter with buck or boost rectifier operation. Both buck or boost rectifier operation are implemented using the same topology. This is facilitated through proper switching control algorithm. The circuit behaviour is verified by MATLAB/Simulink simulation results. Selected experimental result are also presented to illustrate its potential in practical realisation.
+
+Boost Rectifier
+Buck Rectifier
+Controlled Rectifier
+MATLAB/Simulink (MLS)
+Pulse Width Modulation (PWM)
+Single-Phase Matrix Converter (SPMC)

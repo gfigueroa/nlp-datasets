@@ -1,0 +1,11 @@
+The temperature dependence of magneto-optical property in the visible wavelength region has been studied on four-element semimagnetic semiconductor CdMnCoTe films deposited on quartz glass substrates by using MBE equipment. A large dispersion of Faraday rotation was observed, and the peak of the Faraday rotation was shifted to the higher photon energies with increasing Mn concentration at low temperatures. At 180 K, the value of the Faraday rotation observed for the Cd0.647Mn0.34Co0.013Te film on quartz glass was 0.36 deg/cmG at 630 nm. It is equivalent to the value of 0.36 deg/cmG observed at 77 K for the Cd0.52Mn0.48Te film on quartz glass. At 77 K, the Faraday rotation observed for the Cd0.647Mn0.34Co0.013Te film on quartz glass was 0.49 deg/cmG at 610 nm. The value is approximately two times larger than that of the Cd0.52Mn0.48Te film deposited on the same quartz glass substrate. The origin of the enhancement of Faraday rotation in CdMnCoTe films has been discussed in terms of the magnetic susceptibility Ç. © 2001 American Institute of Physics. 
+
+cadmium compounds
+manganese compounds
+cobalt compounds
+semimagnetic semiconductors
+Faraday effect
+semiconductor epitaxial layers
+magnetic epitaxial layers
+optical dispersion
+magnetic susceptibility

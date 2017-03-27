@@ -1,0 +1,5 @@
+The combined analysis of the microarray and drug-activity datasets has the potential of revealing valuable knowledge about various relations among gene expressions and drug activity patterns in tumor cells. However, the huge amount of biological data needs appropriate data mining models in order to extract interesting patterns and useful information. In this paper, the NCI60 dataset has been analyzed for the molecular pharmacology of cancer. In particular, we proposed a novel relational clustering algorithm joint with Bayesian network inference engine for linking gene expression profiles to drug activity patterns. Our analysis could be an initial step for predicting potential useful drugs according to the gene expression level of tumor tissues.
+
+Bayesian Networks
+NCI60 dataset analysis
+Relational Clustering

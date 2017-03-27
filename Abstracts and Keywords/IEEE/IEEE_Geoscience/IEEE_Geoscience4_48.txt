@@ -1,0 +1,6 @@
+ArcGIS Engine can access HDF files with only one dataset, but can not access HDF files with multiple datasets. To Make ArcGIS Engine have the ability to access HDF files with multiple datasets, this article studies the data model of GDAL, and uses the API of GDAL to read HDF files into memory, then uses the programming interface of ArcGIS Engine to convert the data in memory to raster datasets that ArcGIS Engine can access. With this method, ArcGIS Engine will have the ability to access HDF files with multiple datasets.
+
+ArGIS
+GDAL
+HDF
+precipitation raster

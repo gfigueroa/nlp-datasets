@@ -1,0 +1,7 @@
+The differential inductance and flux linkage positional derivative are important parameters in the analysis and simulation of electrical machines where saturation is nonnegligible. A new method for the computation of these quantities for devices with an arbitrary number of windings is presented. The method is based on the determination of the sensitivity of the magnetic vector potential to variations in the input current vector or the rotor position, in the context of finite-element formulations. The implementation of the proposed method for plane Cartesian and axisymmetric cases is considered in detail. The method and its implementation are verified by comparisons against known inductance formulas or results from other computational methods. In the case of the differential inductance, the proposed scheme is an alternative to energy perturbation methods, while the determination of the flux linkage positional derivative is made in one step for the first time.
+
+Electric machines
+finite-element methods
+inductance
+magnetic fields
+magnetic transducers

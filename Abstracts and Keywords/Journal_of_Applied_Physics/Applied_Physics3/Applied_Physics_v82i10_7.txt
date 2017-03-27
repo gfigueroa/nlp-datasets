@@ -1,0 +1,10 @@
+We present an optical characterization technique to determine both the refractive index and the shrinkage of laterally oxidized AlAs and AlGaAs layers. The technique consists of measuring the angular dependence of the Fabry-Pérot dip wavelength in a simple cavity structure. Over standard ellipsometry, it has the advantage of measuring more realistic layer structures. Over transmission electron microscopy cross sections to determine the final aluminum-oxide layer thickness, it has the benefit of performing the measurement without elaborate sample preparation. We find that AlAs shrinks by approximately 3% during oxidation, and that the refractive index of oxidized AlAs is 1.52. © 1997 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+oxidation
+refractive index
+shrinkage
+thickness measurement
+reflectivity

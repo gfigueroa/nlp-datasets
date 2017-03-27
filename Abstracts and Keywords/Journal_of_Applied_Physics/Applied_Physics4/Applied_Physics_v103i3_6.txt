@@ -1,0 +1,7 @@
+The performance of magnetic field sensors based upon the giant magnetoimpedance (GMI) effect in soft magnetic wires is investigated in the MHz frequency range. The performance of the sensor is based on its sensitivity, voltage noise level and (voltage) noise-to-sensitivity ratio, or intrinsic magnetic noise level. Optimization of the sensitivity and noise response of the sensor through variation of the sample anisotropy direction and external applied axial field and dc bias current suggest an intrinsic noise level in the fT/ level. Qualitative agreement is obtained between theory and experiment on a CoFeSiB microwire, for the maximum sensitivity and the corresponding noise, as a function of the external field and dc bias current.
+
+giant magnetoresistance
+magnetic noise
+magnetic sensors
+sensitivity
+soft magnetic materials

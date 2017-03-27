@@ -1,0 +1,8 @@
+We present calculations of the properties of the slowmode surface plasmon supported by certain planar metaloxidemetal tunnel junctions. We study the AlAl oxideAg and AlAl oxideAu device structures commonly used in lightemission experiments and give the dispersion, propagation decay length, and field profile of the mode in devices of typical dimensions over the energy range 1.43.8 eV. We also consider the dependence of the dispersion and decay length on the thickness of the oxide barrier and the likely effect of interface roughness. The bearing of these results on roughnesscoupled interconversion between the slow and fastmode plasmons is discussed, and we comment on the possibilty of obtaining radiation directly from the slow mode.
+
+SURFACE PLASMONS
+MIM JUNCTIONS
+ALUMINIUM
+ALUMINIUM OXIDES
+ROUGHNESS
+TUNNEL EFFECT

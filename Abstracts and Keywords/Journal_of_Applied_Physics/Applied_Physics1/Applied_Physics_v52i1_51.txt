@@ -1,0 +1,19 @@
+A fourphase complex refractive indexmodel approximation coupled with multipleangleofincidence ellipsometric measurements is utilized in an analysis of ionimplantation damage in silicon. The four phases refer to the ambient, native oxide, implant layer, and substrate. The analysis is applied to phosphorus implants as functions of various iondose ranging from 5×1012 to 1×1016 ions cm2, and effective energies from 36 to 120 KeV, for both monomer (P+) and dimer (P+2) species. Implant depths are found to be related to the implant parameters and are found to be equal to RP +1.08 ”RP where RP is the projected range and ”RP is the projected standard deviation of the implanted ion. This relationship is invariant with respect to effective energy, ion dose, and species. Changes in refractive index, extinction coefficient, and reflectivity are readily detected at doses as low as <1013 ions cm2. A decrease in extinction coefficient at high doses suggests that ionbeam annealing is occurring. In general, changes in optical constants reflecting implant damage are larger for the dimer than the monomer, increase with ion dose, and decrease as the effective energy decreases.
+
+SEMICONDUCTOR MATERIALS
+OPTICAL PROPERTIES
+ION IMPLANTATION
+DAMAGE
+REFRACTIVITY
+MATHEMATICAL MODELS
+PHOSPHOROUS IONS
+INCIDENCE ANGLE
+DATA
+OXIDES
+LAYERS
+SUBSTRATES
+MONOMERS
+DIMERS
+RANGE
+OPACITY
+REFLECTIVITY

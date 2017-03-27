@@ -1,0 +1,7 @@
+Spin valves exchange biased by a Co/Ru/Co synthetic antiferromagnet were fabricated and characterized. Room temperature measurements show giant-magnetoresistance ratios above 5% and that fields in excess of 5000 Oe are needed to saturate the synthetic antiferromagnet. The saturation field of the synthetic antiferromagnet is higher than 3000 Oe at 250	°C, which yields the possibility of observing the spin valve effect at very high temperatures. The transfer curve of the patterned structure shows a much weaker magnetostatic coupling than that observed in standard spin valves of identical dimensions. This is a consequence of the particular magnetic configuration of the synthetic antiferromagnet, which promotes an almost vanishing magnetostatic field. © 1998 American Institute of Physics. 
+
+cobalt
+ruthenium
+magnetic multilayers
+giant magnetoresistance
+antiferromagnetic materials

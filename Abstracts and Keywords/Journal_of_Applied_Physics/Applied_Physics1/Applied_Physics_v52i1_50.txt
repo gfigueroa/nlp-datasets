@@ -1,0 +1,10 @@
+The threedimensional treatment of heat flow in the photoacoustic effect is extended to allow for thermal conduction to the cell walls. The typical effect is to reduce the photoacoustic signal when thermal waves extend to the cell wall with appreciable amplitude, although small increases may also occur. Results are in good agreement with recent experimental data. Comparisons with predictions from onedimensional models are given.
+
+PHOTOACOUSTIC EFFECT
+HEAT FLOW
+THREEDIMENSIONAL CALCULATIONS
+THERMAL CONDUCTION
+THEORETICAL DATA
+SIGNALS
+COMPARATIVE EVALUATIONS
+ONEDIMENSIONAL CALCULATIONS

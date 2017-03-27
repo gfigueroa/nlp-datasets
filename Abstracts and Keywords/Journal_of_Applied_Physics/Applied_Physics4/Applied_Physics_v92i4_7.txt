@@ -1,0 +1,8 @@
+A method is developed to analyze thermally agitated magnetization reversal in a single-domain ferromagnetic grain with a uniaxial anisotropy axis oriented at an arbitrary angle to a magnetic field. Random forces and phenomenological damping consistent with thermodynamics are introduced into the dynamic equations of the normal modes. This general approach reduces to the LandauLifshitzGilbert formalism only when the magnetic energy is isotropic about the equilibrium position. A stochastic averaging method based upon a small damping parameter is used to transform the inherent two-dimensional problem into a one-dimensional form. The mean first exit time is calculated and the results for dynamic coercivity at different angles to the magnetic field are obtained. The method is ultilized to calculate the switching field versus pulse time for planar random media with noninteracting grains. The results fit well with direct Langevin simulation over short times and with NéelArrhenius models at long times. A general field and temperature dependent form of the attempt frequency, f0, is derived. © 2002 American Institute of Physics. 
+
+magnetic particles
+coercive force
+magnetisation reversal
+magnetic anisotropy
+ferromagnetism
+magnetic switching

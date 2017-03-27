@@ -1,0 +1,19 @@
+Diamond thin films were deposited on WCCo substrates by hot filament chemical vapor deposition to improve the tribological performance. The influence of the substrate surface topography was found to play an important role during the nucleation stage and the later growth rate as well. In this study, we systematically investigated the relation between substrate surface irregularity, which was evaluated by fractal dimension as well as statistical roughness parameters and the quality of the later deposited diamond film. Preseeding processes, in diamond acetone suspensions with two particle diameters, by supersonic vibrator were also implemented to investigate the effect of particular size on diamond nucleation. The original surfaces were measured with a stylus profiler and contact-mode atomic force microscopy. The diamond deposited substrates were examined by scanning electron microscopy, x-ray diffractometry, Raman spectroscopy, and Rockwell-C indentation to study substrate topography, crystalline structure of the coating, the composition of diamond films, and adhesion between deposited layers and substrates, respectively. The synergetic influence of the substrates fractal dimension and the particular size of pre-seeding diamond suspension were studied and addressed. The deposited film of a WCCo substrate with higher surface fractal dimension (&gt;2.50), preseeded by fine diamond suspension (412 nm particle size) in advance, has a high diamond-rich composition and adhesion strength.
+
+adhesion
+atomic force microscopy
+chemical vapour deposition
+cobalt
+diamond
+elemental semiconductors
+indentation
+particle size
+Raman spectra
+scanning electron microscopy
+semiconductor growth
+semiconductor thin films
+substrates
+surface roughness
+tribology
+tungsten compounds
+X-ray diffraction

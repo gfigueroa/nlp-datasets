@@ -1,0 +1,9 @@
+Epitaxial La0.35Nd0.35Sr0.3MnO3 (LNSMO) thin films and Pb(Zr0.52Ti0.48)O3(PZT)/LNSMO heterostructures have been grown on LaAlO3 (001) substrates by the pulsed laser deposition method. The oxygen concentration in the LNSMO films is quite sensitive to the deposition oxygen pressure and can be controlled during the fabrication process. It is, however, stable against in situ postdeposition thermal treatments. Consequently, the resistivity and the metal-semiconductor transition temperature of the LNSMO films can be tuned and fixed during film growth. Electrical measurements on the Pt/PZT/LNSMO ferroelectric capacitor show a remnant polarization of <35 ¼C/cm2 and a coercive field of 3040 kV/cm at low driving voltages. Switching endurance tests suggest no polarization loss up to about 1010 bipolar switching cycles. The advantages of using epitaxial LNSMO films as the semiconducting channel in an all-perovskite ferroelectric field-effect transistor are discussed. © 2000 American Institute of Physics. 
+
+lead compounds
+lanthanum compounds
+pulsed laser deposition
+ferroelectric materials
+ferroelectric thin films
+field effect transistors
+dielectric polarisation

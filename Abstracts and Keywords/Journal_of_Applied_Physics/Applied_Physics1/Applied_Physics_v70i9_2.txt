@@ -1,0 +1,10 @@
+MeV He ion implantation is used to produce optical waveguides in KTa1xNbxO3 (x=0.37). The detailed refractive index profiles of the implanted planar waveguides are reconstructed from the measured mode spectra at the wavelength of 632.8 nm. The absorption and the tunneling losses of the lowest mode of the waveguides are determined. Ionic collision is proposed to be the mechanism which causes the observed variation of the refractive index.
+
+WAVEGUIDES
+POTASSIUM NIOBATES
+POTASSIUM TANTALATES
+ION IMPLANTATION
+HELIUM IONS
+REFRACTIVE INDEX
+ENERGY LOSSES
+ABSORPTION

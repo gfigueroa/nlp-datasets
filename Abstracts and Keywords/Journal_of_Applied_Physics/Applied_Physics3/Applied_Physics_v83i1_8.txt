@@ -1,0 +1,12 @@
+An approach for calculating the interaction between a hard superconductor and a permanent magnet in the field-cooled case is proposed. The exact solutions were obtained for the point magnetic dipole over a flat ideally hard superconductor. We have shown that such an approach is adaptable to a wide practical range of melt-textured high-temperature superconductors systems with magnetic levitation. In this case, the energy losses can be calculated from the alternating magnetic field distribution on the superconducting sample surface. © 1998 American Institute of Physics. 
+
+high-temperature superconductors
+magnetic levitation
+penetration depth (superconductivity)
+magnetic fields
+SUPERCONDUCTORS
+LEVITATION
+PERMANENT MAGNETS
+TEXTURE
+ELASTICITY
+MAGNETIC FLUX

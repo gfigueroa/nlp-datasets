@@ -1,0 +1,13 @@
+The complex dielectric constants of Zr0.98Hf0.02TiO4 ceramics are reported in the frequency range 1031010 Hz for the temperature range 830
+°C } T } 860
+°C, just above the commensurate-incommensurate phase transition temperature, Tc. The disappearance of x-ray satellite reflections at 825
+°C was used to determine Tc experimentally. The dielectric measurements show that a relatively narrow distribution of relaxation times is present in the ceramics, which broadens as the temperature approaches Tc from above. By analyzing the temperature at which the dielectric constant is a maximum as a function of frequency using the Vogel-Fulcher relationship, an activation energy of 550±15 kb,where kb is the Boltzmann constant, and an effective freezing temperature, Tf, of 825
+°C have been determined, confirming that, to within experimental error, Tf coincided with Tc. The experimental results for Zr0.98Hf0.02TiO4 are interpreted in terms of a possible dipole-glass-like phase that has been proposed for relaxor systems. © 1999 American Institute of Physics. 
+
+zirconium compounds
+hafnium compounds
+ceramics
+permittivity
+dielectric relaxation
+commensurate-incommensurate transformations
+dipole glasses

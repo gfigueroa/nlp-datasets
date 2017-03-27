@@ -1,0 +1,9 @@
+We analyze the influence of Ohmic electrodes on the impedance spectroscopy of an electrolytic cell in the shape of a slab. The electrolyte is assumed completely dissociated. The positive and negative ions have different diffusion coefficients. We show that in the very low frequency limit, the electrical impedance of the cell reduces to a pure resistance, whose value depends on the diffusion coefficients and on the conductivity of the electrodes. The ratio between the diffusion coefficients determines the numerical value of the plateaus of the resistance, and the position and amplitude of the local minimum of the reactance of the cell.
+
+cells (electric)
+diffusion
+electrical conductivity
+electrical resistivity
+electrochemical electrodes
+electrochemical impedance spectroscopy
+electrolytes

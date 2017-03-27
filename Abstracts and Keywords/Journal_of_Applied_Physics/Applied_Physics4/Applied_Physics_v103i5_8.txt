@@ -1,0 +1,17 @@
+The Ni3Mn type of ordering in nanocrystalline NiMn films with different compositions prepared by electrodeposition was investigated by using x-ray diffraction, differential scanning calorimetry (DSC), thermogravimetric analyzer, Mössbauer spectroscopy, and transmission electron microscopy. The investigations reveal the existence of composition-induced Ni3Mn-type ordering in the as-deposited film of 76.2at.	% Ni. The atomic disorder is characterized by an exothermic effect in DSC. An analysis of the broad exothermic transition reveals the stages of phase transformation leading to ordering. The Curie temperatures of the alloys were determined from thermomagnetic measurements, the maximum value obtained for the ordered sample. Mössbauer spectroscopy at room temperature reveals ordered (ferromagnetic) and disordered (paramagnetic) phases in the as-deposited films. Superlattice reflections observed in selected area electron diffraction pattern for the 76.2at.	% Ni film alone further support the observation of composition-specific atomic ordering.
+
+Curie temperature
+differential scanning calorimetry
+electrodeposition
+electron diffraction
+ferromagnetic materials
+magnetic thin films
+manganese alloys
+metallic thin films
+Mossbauer effect
+nanostructured materials
+nickel alloys
+order-disorder transformations
+thermomagnetic effects
+transmission electron microscopy
+X-ray diffraction

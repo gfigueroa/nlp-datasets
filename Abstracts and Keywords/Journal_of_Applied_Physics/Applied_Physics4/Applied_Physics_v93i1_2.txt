@@ -1,0 +1,11 @@
+Micro-Raman spectroscopy was employed to investigate the structural changes of diamond films prepared by hot filament chemical vapor deposition and treated by femtosecond (fs) laser and nanosecond (ns) lasers. BreitWignerFano and Lorentzian line shape simulations were used to fit the spectra. For 266 nm ns laser treated samples, increasing laser power density results in the transformation of amorphous carbons in diamond films into nanocarbon clusters whose size increases and saturates rapidly at around 5.1 nm. At the same time, the Raman G peak position considerably shifts upwardly with increasing laser power density. The different change behavior of the nanocarbons and G peak is interpreted in light of the charge transfer from the graphite À bands to the localized edge states. As the 266 nm laser power density is high enough, a Raman peak in the range of 11501200 cm1 appears, which is attributed to the presence of amorphous diamond. In the case of fs laser treated samples, much more power density (&gt;15 TW/cm2) is needed to transform the amorphous carbon into nanocarbon phases. With increasing fs laser power density, the diamond peak is broadened and downshifted due to the presence of nanocrystalline diamond produced by the high laser power density. © 2003 American Institute of Physics. 
+
+diamond
+CVD coatings
+laser materials processing
+laser beam effects
+nanostructured materials
+Raman spectra
+localised states
+amorphous state
+elemental semiconductors

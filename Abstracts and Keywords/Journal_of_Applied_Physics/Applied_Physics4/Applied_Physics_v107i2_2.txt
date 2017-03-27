@@ -1,0 +1,7 @@
+The experimental study on the laser acoustic signal in salt water with different salinities using high power pulsed CO2 laser has been carried out. By using a hydrophone to receive the sound signal and further analyzing in time domain, the effects of the salinity and pulse energy on the characteristics of the sound signals were disclosed. The results show that the salinity has significant effect on the characteristics of the laser acoustic signal. As the salinity increases, the amplitude of the sound signal decreases. The profile of the sound signal also changes with the salinity. As the salinity decreases, the changes in the signal waveform show the loss of its originally bimodal shape. This phenomenon is also found in the laser energy which decreases when the salinity is kept constant.
+
+acoustic variables measurement
+gas lasers
+hydrophones
+photoacoustic effect
+underwater sound

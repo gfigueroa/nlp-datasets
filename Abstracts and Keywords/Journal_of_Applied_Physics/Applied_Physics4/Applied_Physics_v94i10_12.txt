@@ -1,0 +1,11 @@
+Optical absorption and electron paramagnetic resonance (EPR) techniques have been used to characterize the production and thermal decay of point defects in undoped single crystals of KD2PO4 grown at Lawrence Livermore National Laboratory. A crystal was irradiated at 77 K with x rays, and then warmed to room temperature. Immediately after irradiation, broad optical absorption bands were observed to peak near 230, 390, and 550 nm. During warming, these absorption bands thermally decayed in the 80140 K range. Another absorption band peaking near 450 nm appeared as the three bands disappeared. This last band decayed between 140 and 240 K. Correlations with EPR data suggest that the band at 230 nm is associated with interstitial deuterium atoms, the two bands at 390 and 550 nm are associated with self-trapped holes, and the band at 450 nm is associated with holes trapped adjacent to deuterium vacancies. Additional EPR spectra from several oxygen-vacancy centers and a silicon-associated hole center were observed as the crystal was warmed. All the electron and hole traps reported in this study are expected to participate in the room-temperature response of KD2PO4 crystals to pulsed high-power ultraviolet laser beams. © 2003 American Institute of Physics. 
+
+potassium compounds
+deuterium compounds
+X-ray effects
+interstitials
+paramagnetic resonance
+impurity absorption spectra
+electron traps
+hole traps
+vacancies (crystal)

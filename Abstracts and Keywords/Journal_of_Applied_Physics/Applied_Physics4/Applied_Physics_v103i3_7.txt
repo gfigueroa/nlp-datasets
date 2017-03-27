@@ -1,0 +1,11 @@
+One of the persistent criticisms of claims for observation of superconductivity in Ba2YRu1uCuuO6 (O6) is that the diamagnetism is actually due to the decomposition of the material into YBa2Cu3O7´ and other phases. We report a series of experiments in which YBa2Cu3O7´ is doped into Ba2YRuO6 and carried through a series of sintering steps which were followed by magnetization, neutron diffraction, and scanning electron microscopy/microprobe measurements. It was found that the dopant YBa2Cu3O7´ decomposed and failed to reform with cooling. It is concluded that the O6 phase is the stable high-temperature phase. The Cu released from the Y123 decomposition doped the host Ba2YRuO6, in partial substitution for Ru. This doping resulted in a small diamagnetic response with an onset temperature of < 84K.
+
+barium compounds
+diamagnetism
+doping
+high-temperature superconductors
+magnetisation
+neutron diffraction
+scanning electron microscopy
+sintering
+yttrium compounds

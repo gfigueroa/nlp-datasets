@@ -1,0 +1,10 @@
+Dynamic tensile response and fracture of a Zr-based bulk amorphous alloy (BAA) were examined by subjecting samples to uniaxial tensile strain in plate-impact experiments. Following elastic compressive loading to peak stresses ranging between 3.9 and 6.1 GPa, wave interactions produced tensile loading resulting in spallation in the BAA samples. Rear-surface velocity histories, obtained using laser interferometry, provided a real-time measure of the tensile response including spallation. The initial tensile loading was elastic (loading rates approximately 8×105	s1) and the data were analyzed to obtain a nonlinear, tensile stress-strain relation. Tensile fracture or spall, observed in all experiments, was initiated at a tensile stress of 3.8±0.3	GPa; this initiation value was independent of the impact stress and is significantly higher than that observed for crystalline metals. A phenomenological tensile fracture model was incorporated into one-dimensional wave propagation simulations to gain insight into the BAA tensile response and damage. Good agreement was obtained between the numerical simulations and the experimental measurements. With increasing impact stress, the BAA samples exhibited a change from ductile to brittle tensile response.
+
+shock wave effects
+amorphous state
+zirconium alloys
+stress-strain relations
+impact (mechanical)
+elastic waves
+light interferometry
+ductile-brittle transition

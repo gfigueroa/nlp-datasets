@@ -1,0 +1,5 @@
+We investigate phase-coherent electron transport through height-varying potential barriers in a quantum-dot superlattice. Due to the aspect ratio variations of two alternating potential heights in the quantum channel, well-arranged resonant peaks in the first miniband of each plateau are divided into the paired peaks of two groups, which produce an extra gap inside each miniband. In addition, for a five barrier case, the second and third resonant peaks in the miniband are no longer distinguishable at a critical aspect ratio, and the amplitude of this degenerate peak becomes smaller than one and eventually approaches zero. The mean lifetimes of the resonant peaks whose amplitudes remain unity are studied. We also examine the resonant tunneling with under-unity transmission in the one-dimensional superlattice system with alternating potential barriers. Finally, it is found that the quasi-resonance appears in a quantum-dot superlattice with 13 barriers consisting of 2 alternating potential heights. © 2000 American Institute of Physics. 
+
+resonant tunnelling
+semiconductor quantum dots
+semiconductor superlattices

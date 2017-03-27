@@ -1,0 +1,7 @@
+The mass migration phenomenon occurring on the free surface of azobenzene-containing polymers illuminated by light of appropriate wavelength is employed to pattern polymeric films constituted by an azopolymer doped with photoluminescent chromophore. Different topographical features are obtained by adjusting the laser scanning parameters, in particular the laser polarization direction. A detailed microscopic analysis of the patterned samples, based on atomic force microscopy and spectral confocal imaging, evidences the photobleaching of the emitting chromophore in the exposed regions, whereas the emitting features of the chromophore are preserved by the mass migration process. Our results are important for the design of nanostructured light emitting photonic devices based on azopolymers.
+
+atomic force microscopy
+laser materials processing
+optical saturable absorption
+photoluminescence
+polymer films

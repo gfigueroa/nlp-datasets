@@ -1,0 +1,11 @@
+Avalanche breakdown in polycrystalline ZnS thin films can produce cold cathode hot electron emission. The physical processes behind this phenomenon are not well understood, nor is the nature of the electron energy distribution inside the ZnS during breakdown. Lowering the work function of the emission surface by evaporation of elemental cesium is discussed. The increase in emission current is compared to that from a tungsten filament and photoemission measurements are made, with results suggesting a nonBoltzman distribution of electron energies in the ZnS. The time profile of the emission current is investigated. A preliminary measurement of the energy distribution of the emission current is obtained with a retarding grid setup.
+
+THIN FILMS
+ZINC SULFIDES
+ELECTRON EMISSION
+CESIUM
+COATINGS
+COLD CATHODE TUBES
+BREAKDOWN
+WORK FUNCTIONS
+ENERGY DISTRIBUTION FUNCTIONS

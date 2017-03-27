@@ -1,0 +1,12 @@
+We respond to the recent claim that in facecenteredcubic FeNi alloys the two cubic elasticshear coefficients, C44 and (C11C12)/2, vary linearly with composition. Both theory and measurement support a nonlinear variation.
+
+NICKEL ALLOYS
+IRON ALLOYS
+ELASTICITY
+TEMPERATURE EFFECTS
+CRYSTALPHASE TRANSFORMATIONS
+MAGNETIC MOMENTS
+FCC LATTICES
+BCC LATTICES
+POISSON RATIO
+MAGNETIC PROPERTIES

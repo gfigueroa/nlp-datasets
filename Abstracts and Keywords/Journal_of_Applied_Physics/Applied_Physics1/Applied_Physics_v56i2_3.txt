@@ -1,0 +1,11 @@
+AmorphousSi (aSi)/crystallineSi (cSi) interface facet formation was found during Si solidphase epitaxy (SPE) near the Si/SiO2 boundary. A (110) facet is formed during (010)b[100]SPE (SPE growth in the [100] direction and near the (010) boundary between aSi and SiO2). A (111) facet is formed during (011)b[100]SPE. The facet formation is explained with an atomistic model wherein an aSi atom must complete at least two undistorted bonds to attain SPE growth, and the boundary condition wherein an aSi atom cannot form undistorted bond to Si/SiO2 boundary.
+
+silicon
+crystals
+amorphous semiconductors
+interfaces
+epitaxy
+boundary layers
+mathematical models
+chemical bonds
+silica

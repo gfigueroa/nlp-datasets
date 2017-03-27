@@ -1,0 +1,10 @@
+We present a novel fabrication method of desirable ferromagnetic fine structure patterns in an amorphous GeMnTe film by using phase change optical disk technology. The a-Ge1xMnxTe films are prepared by the rf sputtering and ionized-cluster beam (ICB) methods. The characteristics of crystalline wire fabricated by irradiating a laser beam in a-Ge1xMnxTe films are reported. The ferromagnetic crystalline wire pattern of 1 ¼m in width is successfully formed in this experiment. The magnetic property of crystalline wire for the sputtering methods is similar to that for the ICB method. Magnetoresistance exhibits the negative in both cases of the magnetic fields applied along the longitudinal and transverse directions of crystalline wires. Through the measurement of the magnetic field angular dependence of magnetroresistance, anisotropic magnetoresistance-like behavior is observed in a diluted magnetic semiconductor system. © 2001 American Institute of Physics. 
+
+germanium compounds
+manganese compounds
+semimagnetic semiconductors
+magnetic thin films
+ferromagnetic materials
+sputter deposition
+ionised cluster beam deposition
+magnetoresistance

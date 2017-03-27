@@ -1,0 +1,5 @@
+Packing problems have mathematical as well as practical application point of interest. We present, here, Monotonic Basin Hopping heuristic approach to solve the problem of packing identical circles within a minimum size of circular container. Extensive computational experiments have been performed for analyzing the problem as well as for choosing an appropriate way the parameter values for the proposed methods. Several improvements with respect to the best results reported in the literature have been detected.
+
+Circle Packing
+Monotonic Basin Hopping
+Multistart

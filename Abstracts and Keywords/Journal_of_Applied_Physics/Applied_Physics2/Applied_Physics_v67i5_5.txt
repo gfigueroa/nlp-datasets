@@ -1,0 +1,10 @@
+An analytical waveoptics solution is derived for the modal structure of the erenkov secondharmonic optical field in weakly guiding cylindrical fiber waveguides. Numerical results for the axially symmetric mode indicate that the secondharmonic power significantly depends on the dimension of the core.
+
+OPTICAL FIBERS
+CHERENKOV RADIATION
+SECOND HARMONIC GENERATION
+NONLINEAR OPTICS
+WAVEGUIDES
+ANALYTICAL SOLUTION
+CYLINDRICAL CONFIGURATION
+MAXWELL EQUATIONS

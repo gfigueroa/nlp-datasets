@@ -1,0 +1,9 @@
+By sharing building blocks between different applications and standards, portable wireless devices gain advantage over their predecessors: they use a smaller chip area, consume less power, and have a potential for lower overall cost. This requires the development of adaptive circuits and systems that are able to trade off power consumption for performance on the fly. Realization of the adaptivity function requires scaling of circuit parameters to the demands of the signal-processing task. Basic aspects of the mechanisms underlying the operation of adaptive receivers and adaptive circuits are examined in this paper, and methodologies for their synthesis discussed
+
+RF front-end circuits
+adaptive and low-power circuits and
+analog circuits.
+circuits
+multifunctional circuits and systems
+receiver
+systems

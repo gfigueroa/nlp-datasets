@@ -1,0 +1,5 @@
+Object segmentation has an important role in the field of computer vision for semantic information inference. Many applications such as 3DTV archive systems, 3D/2D model fitting, object recognition and shape retrieval are strongly dependent to the performance of the segmentation process. In this paper we present a new algorithm for object localization and segmentation based on the spatial information obtained via a Time-of-Flight (TOF) camera. 3D points obtained via a TOF camera are projected onto the major plane representing the planar surface on which the objects are placed. Afterward, the most probable regions that an item can be placed are extracted by using kernel density estimation method and 3D points are segmented into objects. Also some well-known segmentation algorithms are tested on the 3D (depth) images.
+
+3D Sensor Fusion
+Density Estimation
+Segmentation

@@ -1,0 +1,10 @@
+Electromagnetic fields in a planar radiofrequency inductively coupled plasma source were measured using an inductive loop (Bdot) probe. The probe was oriented to measure the time derivative of the axial component of the magnetic field (z). Using these measurements and Faradays law, taking advantage of cylindrical symmetry, the time varying azimuthal electric field (EÕ) was calculated directly. Contour plots of z and EÕ in the rz plane show that the radiofrequency electromagnetic fields penetrate further into the plasma at lower gas pressure and lower rf power, corresponding to less effective shielding of the fields at lower plasma density. Estimates of skin depth from the axial decay of the field amplitudes near the axis of the discharge are consistent with values calculated from plasma parameters measured with Langmuir probes, confirming that near the axis the degree of shielding is most strongly dependent on the local plasma density. Near the conducting walls of the chamber, the skin depth calculations from the Langmuir probe data diverge from the Bdot probe data. Bdot probe measurements taken in the absence of plasma show that near the walls of the chamber the axial decay of the field amplitude is partly a geometrical effect in addition to a plasma shielding effect. © 1995 American Institute of Physics.
+
+PLASMA SOURCES
+INDUCTIVELY COUPLED PLASMA
+ELECTROMAGNETIC FIELDS
+HIGHFREQUENCY DISCHARGES
+SKIN EFFECT
+LANGMUIR PROBE
+PLASMA DENSITY
+PLASMA DIAGNOSTICS

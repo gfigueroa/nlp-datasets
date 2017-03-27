@@ -1,0 +1,13 @@
+Microstructures of 50 nm thick FePt magnetic thin films deposited on Pt buffer layers with various thicknesses (0500 nm) grown on a Fe seeded MgO (100) substrate have been studied by transmission electron microscopy to correlate them with magnetic properties. High density of planar defects such as twin and antiphase boundary are present in the FePt films. The twins observed in these films are not the {011} twins which are commonly observed in the bulk FePt magnet, but they are the {111} twins. The density and morphology of these twins drastically change depending on the composition of the FePt thin films as well as the thickness of the Pt buffer layer, while that of the antiphase boundary does not show noticeable changes. In the Pt buffer layer, a high density of dislocations is present in order to reduce the elastic strain due to a large lattice mismatch imposed between the Pt layer and the MgO substrate (about 9%). When the thickness of the Pt buffer layer is increased to 500 nm, the Pt and FePt layers show a polycrystalline microstructure having a grain size ranging from 0.3 to 2.0 ¼m. The origin of the magnetic hardness is discussed based on these microstructural observation results. © 1998 American Institute of Physics. 
+
+iron alloys
+platinum alloys
+platinum
+magnetic thin films
+coercive force
+perpendicular magnetic anisotropy
+transmission electron microscopy
+dislocation density
+grain size
+twin boundaries
+antiphase boundaries

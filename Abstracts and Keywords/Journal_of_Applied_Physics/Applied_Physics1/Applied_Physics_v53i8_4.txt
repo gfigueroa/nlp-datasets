@@ -1,0 +1,12 @@
+Experimental measurements of the coupling between neighboring singlefluxquantum cells are compared with numerical calculations made using a twodimensional model of the structure. Good agreement is found both for the influence of a control current in one cell on the neighboring cells, and for the effect of the stray field due to a stored flux quantum. The magnitudes of these unwanted effects between memory cells having the bridgetype interferometer structure are calculated as the minimum linewidth is reduced, and the limits to miniaturization imposed by stray magnetic coupling are estimated.
+
+JOSEPHSON JUNCTIONS
+INTERFEROMETERS
+COUPLING
+MAGNETIC FIELDS
+MEMORY DEVICES
+SUPERCONDUCTORS
+TWODIMENSIONAL CALCULATIONS
+MATHEMATICAL MODELS
+CONTROL
+ELECTRIC CURRENTS

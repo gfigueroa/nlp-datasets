@@ -1,0 +1,10 @@
+The phenomenon of current drive under the action of radiofrequency traveling waves into a tokamak is analytically studied by solving the twodimensional FokkerPlanck equation first treated by Fisch. The runaway rate, the number of runaway electrons, the electron current density, and power density are obtained analytically and are compared with the results of onedimensional analytic treatment.
+
+TOKAMAK DEVICES
+ELECTRIC CURRENTS
+RADIOWAVE RADIATION
+TRAVELLING WAVES
+FOKKERPLANCK EQUATION
+ANALYTICAL SOLUTION
+TWODIMENSIONAL CALCULATIONS
+KINETIC EQUATIONS

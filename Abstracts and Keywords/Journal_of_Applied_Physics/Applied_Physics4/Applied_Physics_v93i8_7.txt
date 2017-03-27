@@ -1,0 +1,12 @@
+We have investigated the outcome of energetic implantation of size-selected metal cluster ions below the surface of graphite. Pt4 clusters were implanted to a prescribed depth of 3 monolayers established by scanning tunneling microscopy of etched cluster tracks. The subsurface individual clusters were imaged directly by annular dark-field imaging in a scanning transmission electron microscope. The results show that the constituent atoms of the implanted clusters remain spatially correlated to within 5 Å. © 2003 American Institute of Physics. 
+
+graphite
+platinum
+metal clusters
+ion implantation
+monolayers
+scanning tunnelling microscopy
+etching
+scanning-transmission electron microscopy
+nanostructured materials
+surface morphology

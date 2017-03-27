@@ -1,0 +1,9 @@
+We show that spacecharge injection from a needle into a dielectric can be determined with a resolution of 1015 °C, by using guarded needle electrodes and a charge compensating bridge circuit. The technique is applied to epoxy resin samples. A welldefined homogeneous spacecharge cloud formation is observed in quantitative agreement with a fieldlimiting spacecharge concept.
+
+EPOXIDES
+RESINS
+SPACE CHARGES
+SPACE CHARGE
+INJECTION
+ELECTRODES
+RESOLUTION

@@ -1,0 +1,9 @@
+We have applied infrared near-field scanning optical microscopy (IRNSOM) to enable evaluation of detailed molecular changes in cholesteryl oleate, a primary cause of arteriosclerosis. In our IRNSOM, a wide wavelength range of 2.96.7 ¼m is achieved by use of an optical parametric amplifier and an apertured cantilever. IR irradiation from a free-electron laser (FEL) tuned to a 5.75 ¼m wavelength induced molecular structural changes and caused cholesteryl oleate to decompose to cholesterol and fatty acids in the FEL irradiated areas. The IRNSOM images at two different wavelengths, 5.75 and 5.3 ¼m, with a 2 ¼m apertured cantilever probe successfully identified areas of molecular change in cholesteryl oleate beyond the diffraction limit of IR microspectroscopy. In-depth molecular structure changes were also evaluated by the IRNSOM and we demonstrated that the FEL irradiation induced subsurface molecular structure changes throughout cholesteryl oleate in the irradiated areas. © 2004 American Institute of Physics. 
+
+near-field scanning optical microscopy
+infrared imaging
+diseases
+optical parametric amplifiers
+organic compounds
+biological effects of laser radiation
+radiation therapy

@@ -1,0 +1,6 @@
+Data placement in shared-nothing database systems has been studied extensively in the past and various placement algorithms have been proposed. However, there is no consensus on the most efficient data placement algorithm and placement is still performed manually by a database administrator with periodic reorganization to correct mistakes. This paper presents the first comprehensive simulation study of data placement issues in a shared-nothing system. The results show that current hardware technology trends have significantly changed the performance tradeoffs considered in past studies. A simplistic data placement strategy based on the new results is developed and shown to perform well for a variety of workloads.
+
+Declustering
+Disk allocation
+Resource allocation
+Resource scheduling

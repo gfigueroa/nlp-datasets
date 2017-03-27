@@ -1,0 +1,6 @@
+The state-of-the-art Intel Core 2 processors has benefited greatly from the utilization of high-dielectric constant (high-k) dielectric film with significant reduction in power dissipation and enhancement in operation speed when compared to Pentium 4. The use of thick high-k material in the advanced CMOS technology has significantly reduced the gate leakage current by avoiding the direct tunneling current. However, the gate leakage current still governed the off-current of CMOS circuits. Particularly for sub-nanometer EOT (equivalent oxide thickness) gate dielectric to be used in future technology nodes, the gate leakage current is expected to enhance greatly because of the low band offset energies and poor film properties. This paper reviews the conduction mechanisms in high-k metal oxides. The parameters affecting the current conduction such as <i>dielectric</i> <i>constant,</i> <i>effective</i> <i>mass,</i> <i>band</i> <i>offset</i> <i>energies,</i> <i>effective</i> <i>thickness</i>, and <i>oxide</i> <i>trap</i> <i>density</i> will be critically discussed.
+
+MOS technology
+current conduction
+high-K dielectric
+metal oxide

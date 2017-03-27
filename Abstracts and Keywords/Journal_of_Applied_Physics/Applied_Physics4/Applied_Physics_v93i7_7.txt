@@ -1,0 +1,9 @@
+The dielectric properties of Mn-doped ZnO ceramics with electrically active grain boundaries at low temperatures of 1070 K were investigated by admittance spectroscopy. It was observed that the dielectric relaxation of the main shallow donors, zinc interstitial, in these samples occurred in the temperature range of 2050 K. Based on theoretical analysis, an expression for the admittance of an electrically active grain boundary at low temperatures was obtained. It was concluded that the relaxation of the shallow donors is Debye type with a thermally activated relaxation time and is related to the ionization process of these donors. The activation energy for the relaxation, i.e., the ionization energy of the shallow donors, was determined to be about 0.04 eV, the capture cross section of the shallow donors to be around 1012	cm2, and the relaxation time at room temperature to be about 1013	s. © 2003 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+manganese
+semimagnetic semiconductors
+dielectric relaxation
+grain boundaries
+interstitials

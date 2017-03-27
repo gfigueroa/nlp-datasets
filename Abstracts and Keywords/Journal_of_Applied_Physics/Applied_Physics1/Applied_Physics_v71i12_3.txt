@@ -1,0 +1,12 @@
+During sputtering of polymethylmethacrylate in a lowpressure argon rf plasma, the density and the reaction kinetics of groundstate methylidyne (CH radical) were determined by laser induced fluorescence spectroscopy (LIF). For a plasma in a steadystate condition at 10 Pa and 100 W, the density of CH in the bulk of the plasma was 6.8×1010 cm3. By pulsing the rf power, the production rate of CH was determined to be 5.1×1013 cm3	s1. This production rate was found to be independent of CH density and time after the plasma had been switched on, indicating that CH is not formed in the gas phase, but is sputtered from the substrate. A model, taking diffusion of CH from the substrate into the plasma and chemical reactions in the gas phase into account, has been set up to calculate the CH flux from the substrate surface. The calculated rise curve of CH could be fitted to the measured data with a diffusion coefficient D=1800 cm2	s1 and an overall reaction rate coefficient k=55 s1. These data have been used to calculate the total CH flux from the substrate. From this CH flux and the ion current density on the powered electrode, the CH yield was determined to be 0.02 CH radicals per ion, indicating that CH is not the main sputtered species since the overall carbon yield is 4.8 per ion. In an oxygen plasma the CH density is below the detection limit of LIF due to a high overall reaction rate coefficient with O and O2.
+
+HIGHFREQUENCY DISCHARGES
+CHEMICAL REACTIONS
+PMMA
+ETCHING
+ARGON
+OXYGEN
+PLASMA DIAGNOSTICS
+LASER SPECTROSCOPY
+PHOTORESISTS
+METHYLENE RADICALS

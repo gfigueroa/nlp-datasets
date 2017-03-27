@@ -1,0 +1,12 @@
+This column continues the discussion of outliers on the dose-response curve begun in earlier columns. It focuses on therapeutic drug monitoring (TDM) as an underutilized tool in psychiatry to minimize this problem. The scientific rationale for dose adjustment based on TDM is presented and its efficiency is contrasted with dose adjustment based on clinical assessment of response. In current practice, the use of TDM with psychiatric drugs is generally restricted to drugs with narrow therapeutic windows or drugs imported into psychiatry from neurology where TDM is more commonly used. Examples of each of these types of drugs are cited. (<em>Journal of Psychiatric Practice</em> 2010;16:177182.) 
+
+therapeutic drug monitoring
+dose
+response
+dose-response curves
+dose titration
+genotyping
+phenotyping
+cytochrome P450 enzymes
+drug sensitivity
+drug resistance

@@ -1,0 +1,5 @@
+This paper describes the performance of a textile CPW antenna under bending and crumpling conditions. An electromagnetic band gap material (EBG) is used to improve the wearable antenna performance. Both input impedance and radiation pattern are investigated based on numerical and experimental methods.
+
+Textile antennas
+bending
+crumpling

@@ -1,0 +1,6 @@
+Multihop wireless mesh networks have emerged as the next generation in wireless network technology. This is due to the advantages provided by the mesh network technology. WMNs provides ease of installation, cost effective deployments, high level of scalability, wide coverage area and capacity, network flexibility and self-configuration capabilities. However, despite these advantages, many research challenges still remain in WMNs. One such challenge is the support of real time applications such as video streaming. This paper proposes a two-layer mechanism for the transportation of real-time video. In this mechanism, rate adaptation is implemented in the data link layer for channel error control, link stability and reliability. In addition, the network layer routing protocol is optimized for congestion control and optimal route selection by using congestion information from the data link layer and link quality metric from the network layer. Simulation results show that the proposed mechanism improves the network performance in terms of throughput, delay and jitter in multihop wireless mesh networks when UDP is used as the transport protocol.
+
+Cross-Layer
+Rate Adaptation
+Routing Protocol
+Video Streaming

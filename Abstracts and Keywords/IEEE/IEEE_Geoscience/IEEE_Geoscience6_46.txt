@@ -1,0 +1,7 @@
+A statistical performance simulator is developed to explore the impact of die-to-die (D2D) and within-die (WID) parameter variations on the distributions of maximum clock frequency (FMAX) and throughput for multi-core processors in a future 22nm technology. The simulator integrates a compact analytical throughput model, which captures the key dependencies of multi-core processors, into a statistical simulation framework that models the effects of D2D and WID parameter variations on critical path delays across a die. The salient contributions from this paper are: (1) Product-level variation analysis for multi-core processors must focus on throughput, rather than just FMAX, and (2) Multi-core processors are inherently more variation tolerant than single-core processors due to the larger impact of memory latency and bandwidth on overall throughput. To elucidate these two points, multi-core and single-core processors have a similar chip-level FMAX distribution (mean degradation of 9% and standard deviation of 5%) for multi-threaded applications. In contrast to single-core processors, memory latency and bandwidth constraints significantly limit the throughput dependency on FMAX in multi-core processors, thus reducing the throughput mean degradation and standard deviation by 50%. Since single-threaded applications running on a multi-core processor can execute on the fastest core, mean FMAX and throughput gains of 4% are achieved from the nominal design target.
+
+FMAX distribution
+multi-core
+parameter fluctuations
+parameter variations
+throughput distribution

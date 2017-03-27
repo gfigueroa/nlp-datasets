@@ -1,0 +1,14 @@
+The inversion-layer mobility in future highly doped silicon-on-insulator (SOI) n-channel metaloxidesemiconductor field-effect transistors (MOSFETs) has been examined for various SOI layer thicknesses (tSOI) using self-consistent calculation. Not only phonon scattering but also surface roughness scattering and ionized impurity scattering have been taken into account. It has been found for SOI MOSFETs with a highly doped channel that, whenever tSOI (s2 nm) is reduced under the full-depletion condition, the inversion-layer mobility in SOI MOSFETs becomes higher than that in bulk MOSFETs. The increase in mobility with the reduction of tSOI to about 10 nm is mainly caused by the suppression of surface roughness scattering. Independent of acceptor concentration (NA), the mobility reaches its peak at tSOI of about 3 nm and then decreases drastically with decreasing tSOI. For SOI MOSFETs with NA higher than 5×1017
+cm3, the mobility increases monotonously to the peak with decreasing tSOI under the full-depletion condition due to the large suppression of ionized impurity scattering for the tSOI range between 10 and 5 nm. These results are different from those in the previous works for SOI MOSFETs with low channel impurity concentration. © 2001 American Institute of Physics. 
+
+silicon-on-insulator
+MOSFET
+semiconductor device models
+inversion layers
+carrier mobility
+surface scattering
+impurity scattering
+electron-phonon interactions
+heavily doped semiconductors
+Schrodinger equation
+Poisson equation

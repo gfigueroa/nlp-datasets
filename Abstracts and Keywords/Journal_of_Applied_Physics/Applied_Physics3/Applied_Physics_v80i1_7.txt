@@ -1,0 +1,8 @@
+The origin and interpretation of the Raman features of amorphous (hydrogenated) carbon films deposited at room temperature in the region of 10001700 cm1 is discussed in this paper. Possible interpretations of the linewidths, positions of the G graphite peak and D disordered peak, and their intensity ratios are examined using results obtained from magnetron sputtered and magnetic field enhanced plasma deposited films. It is shown that even small clusters of condensed benzene rings (cluster size below 20 Å) in carbon films can explain the observed Raman scattering. Besides the care that should be taken in the correct interpretation of Raman results, the utility of Raman scattering in obtaining an estimate of cluster sizes in amorphous (hydrogenated) carbon films is discussed. Carbon films prepared by magnetron sputtering show two additional Raman features at 1180 and 1490 cm1 in addition to the G and D peaks. It is shown that a correlation exists between the 1180 cm1 peak and the sp3 content in the films. © 1996 American Institute of Physics. 
+
+CARBON
+THIN FILMS
+AMORPHOUS STATE
+RAMAN SPECTRA
+HYDROGENATION
+SPUTTERED MATERIALS

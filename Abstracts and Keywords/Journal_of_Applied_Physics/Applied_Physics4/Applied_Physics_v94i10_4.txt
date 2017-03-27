@@ -1,0 +1,9 @@
+This article studies elastic anisotropy of chemical vapor deposition (CVD) polycrystalline diamond films using acoustic spectroscopy and micromechanics modeling. CVD diamond films often exhibit elastic anisotropy between the film-growth direction and in-plane direction and show five independent elastic constants. They are denoted by C11, C33, C13, C44, and C66 when the x3 axis lies along the film-growth direction. Measurements of thickness resonance frequencies and free-vibration resonance frequencies of the diamond film deduce four independent elastic constants among them, including C44 and C66, with which the elastic anisotropy is discussed. The anisotropy between the shear moduli is 5%10%. The elastic constants are remarkably smaller than those of an isotropic polycrystalline diamond. We attribute the anisotropy and small elastic constants of the CVD diamond film to local incomplete cohesion. This view is supported by a micromechanics calculation. © 2003 American Institute of Physics. 
+
+diamond
+CVD coatings
+elastic constants
+micromechanics
+acoustic resonance
+bonds (chemical)
+shear modulus

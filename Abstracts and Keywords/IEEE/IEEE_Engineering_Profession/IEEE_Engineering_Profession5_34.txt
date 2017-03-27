@@ -1,0 +1,6 @@
+While patent citations provide a powerful way of identifying the process of knowledge transfer, the question is: are future citations by patents within the same community better drivers of knowledge flow than patent citations from a different community? In this paper, the authors present a mixed regression model to study the differential effect of these two classes of patent citations as an influencing factor for future innovations. The study involves analysis of patents within the green energy sector in the US during the timeframe 1976 to 2008. The empirical results suggest that there is a positive relationship between both of these classes of citations and the creation of new patents. Furthermore, it shows that the citations from a different community would be a better driving factor behind new innovations than citations from within the same community.
+
+Inclass component
+outclass component
+patent citation
+technological innovation

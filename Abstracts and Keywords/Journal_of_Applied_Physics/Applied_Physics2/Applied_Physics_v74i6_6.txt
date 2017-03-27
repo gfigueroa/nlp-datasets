@@ -1,0 +1,15 @@
+Highly textured (c axis perpendicular to the plane of the substrate tape) thick films of YBa2Cu3O7 grown on Ag0.9Pd0.1 and pure silver substrates have been made by a traveling heated zone method. The speed of the traveling zone can be as fast as <5 cm/h and the temperatures of the zone, 930975	°C, were well below the peritectic temperature of YBa2Cu3O7. A precursor layer, which consisted of a nitrate solution of yttrium, barium, and copper cations, was deposited by spray pyrolysis directly onto a heated substrate. The values of the resistively measured Tc were 8391 K. The transport critical current density of these thick films was in the range of 28×103 A/cm2 at 77 K and 0 T.
+
+CRYSTAL GROWTH FROM MELTS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+SUPERCONDUCTING FILMS
+FABRICATION
+SUBSTRATES
+SILVER ALLOYS
+PALLADIUM ALLOYS
+TRANSITION TEMPERATURE
+CRITICAL CURRENT
+HIGHTC SUPERCONDUCTORS
+TEXTURE

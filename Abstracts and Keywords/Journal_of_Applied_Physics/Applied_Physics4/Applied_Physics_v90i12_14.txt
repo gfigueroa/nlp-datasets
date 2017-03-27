@@ -1,0 +1,12 @@
+Interaction between diamond crystals and liquid silicon at pressures of 2 and 9 GPa and various temperatures was studied by Raman spectroscopy, x-ray single crystal diffractometry, and scanning electron microscopy. The mechanism of growth of silicon carbide (SiC) film on diamond crystals depended on the magnitude of applied pressure. At low pressures, in the graphite stable region, only disoriented, fine grain ²-SiC crystals were formed inside silicon surrounding diamond crystals. At higher pressures corresponding to the diamond stable region, oriented growth of ²-SiC film on both {111} and {100} faces of diamond crystals was observed, even at high growth rates. © 2001 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+semiconductor thin films
+diamond
+high-pressure effects
+semiconductor growth
+Raman spectra
+X-ray diffraction
+scanning electron microscopy
+liquid phase deposition

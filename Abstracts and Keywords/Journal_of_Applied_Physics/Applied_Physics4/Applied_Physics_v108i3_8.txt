@@ -1,0 +1,13 @@
+This paper deals with aging phenomena in polymers under electric stress. In particular, we focus our efforts on the development of a novel theoretical method accounting for the discharge process (partial discharge) in well known defects present in polymers, which are essentially tiny air gaps embedded in a polymeric matrix. Such defects are believed to act as trigger points for the partial discharges and their induced aging process. The model accounts for the amplitude as well as the energy distribution of the electrons during their motion, particularly at the time in which they impact on the polymer surface. The knowledge of the number of generated electrons and of their energy distributions is fundamental to evaluate the amount of damage caused by an avalanche on the polymer-void interface and get novel insights of the basic phenomena underlying the relevant aging processes. The calculation of such quantities would require generally the combined solution of the Boltzmann equation in the energy and space/time domains. The proposed method simplifies the problem, taking into account only the main phenomena involved in the process and provides a partial discharge (PD) model virtually free of adjustable parameters. This model is validated by an accurate experimental procedure aimed at reproducing the same conditions of the simulations and regarding air gaps embedded in polymeric dielectrics. The experimental results confirm the validity and accuracy of the proposed approach.
+
+ageing
+air gaps
+Boltzmann equation
+dielectric materials
+electron avalanches
+high field effects
+organic insulating materials
+partial discharges
+polymers
+space charge
+voids (solid)

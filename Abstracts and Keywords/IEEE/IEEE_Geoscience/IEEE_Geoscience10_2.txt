@@ -1,0 +1,5 @@
+This paper describes the effect of different defuzzification methods (DFMs) and membership functions (MFs) on the fuzzy logic-based self-tuning current controller applications in an HVDC link. The OGRE HVDC Benchmark system and control features are modeled using the SimPowerSystem toolbox and the available blocks in the MATLAB/SIMULINK<sup>reg</sup>. The fuzzy logic-based self-tuning controller is designed using the fuzzy logic toolbox in the MATLAB<sup>reg</sup>. A comparative study is conducted between the fixed-gain controller and the fuzzy tuning controllers. This paper also presents the effect of the number of rules on the fuzzy logic-based self-tuning controller in an HVDC link. The results reveal that fuzzy tuned PI controller recovers the system from the faults faster than the traditional PI controller with fewer oscillations, and consecutively has less commutation failures.
+
+Fuzzy Logic
+High Voltage DC Transmission
+SIMULINK

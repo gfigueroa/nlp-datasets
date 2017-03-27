@@ -1,0 +1,20 @@
+Co23wt.	%Cr alloy films with thicknesses of 0.3 to 2.5 ¼m were deposited using a conventional rf diode sputtering system when a magnetic field Hs less than 90 Oe is applied during deposition. As Hs increases, the hcp caxis orientation normal to the film plane develops and the halfangle width of the rocking curve of the (002) line ”¸50 reaches to 3.5 deg at Hs more than 40 Oe. The development of the orientation is strongly related to the concentration of O in the films, which is lower in the films deposited in a magnetic field than those in a nonmagnetic field. The magnetic properties such as perpendicular coercive force Hc¥ and saturation magnetization Ms strongly depend on the substrate temperature rather than Hs.
+
+cobalt alloys
+chromium alloys
+magnetic properties
+crystal lattices
+orientation
+films
+anisotropy
+magnetic fields
+sputtering
+rf systems
+experimental data
+quantity ratio
+thickness
+hcp lattices
+oxygen
+saturation
+magnetization
+temperature dependence

@@ -1,0 +1,10 @@
+Conduction and low-frequency noise are analyzed in hydrogenated amorphous thin film transistors with small channel length. From currentvoltage characteristics a set of conduction parameters is extracted pointing out parasitic resistances in series with the active channel. The low-frequency noise behavior is studied by means of the small equivalent circuit of the device. Intrinsic channel noise is separated from access resistance noise. Channel noise variations versus device biases agree with Hooges theory (carrier mobility fluctuations) but the noise levels are greater than in crystalline metal-oxide-semiconductor transistors. For high drain current 1/f noise in access series resistances prevails and becomes the main noise source. So, the results show the important part taken by these resistances in conduction and noise. Some comments for the design of thin film transistors are given. © 1998 American Institute of Physics.
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+thin film transistors
+1/f noise
+semiconductor device noise
+carrier mobility

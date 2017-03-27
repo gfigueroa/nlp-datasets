@@ -1,0 +1,6 @@
+Groupware development has reached the point where demands for adaptability and tailorability urged the need for an assessment model that can reflect a user's requirements of the groupware components. Using a three stage approach, we present our work on developing the assessment model and discuss the results of the evaluation of the developed model after being tested with both professional users and non-professional users. Furthermore, the evaluation that was performed over four different scenarios intended to cover most of the domain of modern groupware, has shown good acceptance of the assessment model.
+
+adaptability
+assessments
+groupware
+tailorability

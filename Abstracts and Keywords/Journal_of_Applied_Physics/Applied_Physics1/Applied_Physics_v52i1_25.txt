@@ -1,0 +1,10 @@
+Fieldline reconnection and the behavior of closed fieldline plasma have been studied using a twodimensional Lagrangian code. The effects of fieldline divergence of the pinch end, active and passive mirrors, and laser heating are considered. A physical interpretation of plasma behavior for different experimental techniques is given. These calculations aid in understanding some of the experimental results of Los Alamos and the Kurchatov Institute.
+
+THETA PINCH
+MATHEMATICAL MODELS
+TWODIMENSIONAL CALCULATIONS
+LAGRANGE EQUATIONS
+COMPUTER CODES
+MIRRORS
+LASERRADIATION HEATING
+THEORETICAL DATA

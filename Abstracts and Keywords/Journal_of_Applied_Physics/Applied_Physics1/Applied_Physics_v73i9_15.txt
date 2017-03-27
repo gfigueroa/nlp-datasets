@@ -1,0 +1,10 @@
+Highresolution electron energy loss spectroscopy has been used to investigate the effect of atomic hydrogen and oxygen on diamond growth. For a totally desorbed diamond (100) surface, atomic hydrogen corrodes carbon atoms on the surface first, then saturates the dangling bonds of sp3 hybridized carbon atoms on the next layer of diamond surface. But for the monohydrogenated dimerized surface, atomic hydrogen opens the elongated surface CC dimer bonds. Oxygen abstracts adsorbed hydrogen at low substrate temperature, and makes all of the adsorbed hydrogen become abstracted if the reaction time is long enough. But this desorbed surface differs from that by heating to 1300	°C. For diamond (111) facets, atomic deuterium first abstracts the hydrogen atoms adsorbed on (111) faces, and then replaces the hydrogen atoms adsorbed on {110} steps. 	
+
+DIAMONDS
+FILM GROWTH
+EEL SPECTROSCOPY
+HYDROGEN
+OXYGEN
+SURFACE REACTIONS
+CVD
+ADSORPTION

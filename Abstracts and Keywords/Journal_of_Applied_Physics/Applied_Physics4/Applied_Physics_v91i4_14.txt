@@ -1,0 +1,10 @@
+Enhancement of remanent polarization has been demonstrated in epitaxial asymmetric BaTiO3/SrTiO3 strained superlattices, in which the thickness ratio of BaTiO3 to SrTiO3 layers is changed at molecular layer order accuracy. The superlattices have been prepared on Nb-doped SrTiO3 (100) single-crystal substrates by a pulsed-laser deposition technique. The superlattice with a stacking periodicity of 15 unit cells BaTiO3/3 unit cells SrTiO3 shows the largest remanent polarization 2Pr of 46 ¼C/cm2, which is about three times that of the BaTiO3 single-phase film formed under the same condition. The increase in the remanent polarization is attributed both to the BaTiO3-rich structure and to the increase in lattice parameter c due to the mismatch of in-plane lattice parameters between BaTiO3 and SrTiO3. © 2002 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+superlattices
+dielectric polarisation
+lattice constants
+ferroelectric ceramics
+ferroelectric thin films
+epitaxial layers

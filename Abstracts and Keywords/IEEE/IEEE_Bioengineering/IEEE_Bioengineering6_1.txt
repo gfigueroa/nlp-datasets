@@ -1,0 +1,10 @@
+In Color Doppler ultrasound imaging system, digital signal processing is mainly based on Hilbert filter and Clutter rejection filters. Hilbert filter is used to filter out the negative frequency component of the real Doppler signal to produce the analytic signal. Clutter rejection filter are used to filter out the low frequency unwanted tissue signals for measurement of the low velocity blood flow. In this paper, two methods for designing a Hilbert filter are implemented. One of these methods is based on shifting sinc function and the other method is window based. In addition, clutter filters are designed using different types of FIR and IIR design methods. The magnitude response of each of the different designed filters is plotted to select the best filter design with the minimum order that reject clutter signals. The assessment is based on the magnitude response specifications. The Hilbert filters results show that the first method is better than other method. The clutter rejection filters results show that IIR filters offer significantly better performance than FIR at the same order. The FIR requires higher order to achieve comparable narrow transition band to IIR. For IIR; Chebyshev II and elliptic types show the best clutter rejection filters.
+
+FIR
+HPF
+Hilbert filters
+IIR
+analytic signal
+clutter rejection filter
+clutter signal
+real signal

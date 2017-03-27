@@ -1,0 +1,7 @@
+Aim. The full paper begins with the bad influence of the thermo-elastic instability (TEI) due to frictional heat energy at the rough sliding interfaces. The main shortcoming of existing literatures is, in our opinion, that it do not deduce theoretical mathematics model taken into account the rough surface profile with the heat convection and radiation boundary conditions in temperature field. We now present our finite element model that we believe can much reduce this shortcoming. In the full paper, we explain our model in some detail; in this abstract, we just add some pertinent remarks to naming the two topics. Topic 1 is: contact model of rough surface profile. Topic 2 is: temperature field model of brake disks. Finally we perform simulations in ANSYS. The results, shown in the full paper, show the importance of the roughness in the temperature field and the practicability of the model.
+
+aircraft
+braking
+computer simulation
+finite element method
+temperature field

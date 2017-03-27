@@ -1,0 +1,14 @@
+We present atomic level studies of the quantized electronic states in AlGaN/GaN superlattice by employing first-principles calculations. Based on the complete band profile, distribution of the discrete energy levels inside the GaN quantum well is obtained and the well-in-well confinement is observed. This second-level well introduces the spatial localization of quantized states. The calculated envelopes of the quantized state densities reveal the spatial overlap between certain electron and hole states. This, together with theoretical absorption spectra, enables us to assign the origin of band-edge peak to the e0-h2 intersubband transition, which governs the optical band gap in the superlattice structure.
+
+ab initio calculations
+aluminium compounds
+energy gap
+gallium compounds
+III-V semiconductors
+impurity absorption spectra
+impurity states
+localised states
+optical constants
+semiconductor quantum wells
+semiconductor superlattices
+wide band gap semiconductors

@@ -1,0 +1,7 @@
+This work presents an accurate physical model of discretization error in one-dimensional perfectly matched layer (PML) using finite difference time domain (FDTD) method. The proposed model is based on the concept of the effective wave impedance of the PML. This concept implies that the wave impedance in the discretized space changes, with respect to the continuous value, when absorption occurs. These changes are dependent on the PML absorption per unit length as well as on the cell size. The validity of the proposed model has been checked with numerical simulations in coaxial waveguide geometry. One of the important consequences of the proposed modeling scheme is the feasibility of a PML with, ideally, no return losses due to discretization error. This prediction has also been corroborated by numerical simulations; being the improvement of the PML return losses of about 30 dB.
+
+FDTD methods
+absorbing boundary conditions (ABC)
+discretization error
+effective wave impedance (EWI)
+perfectly matched layer (PML)

@@ -1,0 +1,8 @@
+Fast reversal processes in magnetic particles and arrays involve fundamental magnetic dynamic and relaxation processes. Exchange and dipolar interactions determine equilibrium ground states and strongly influence linear and nonlinear dynamics. Calculations are used to show how high frequency resonances in arrays of densely packed magnetic particles can affect reversal times, possibly leading to dramatic decreases in switching rates. High frequency excitations and dynamic processes in interface exchange coupled magnets are also discussed, with emphasis on exchange biased materials. The exchange bias effect is closely related to interface magnetic structure and magnetization processes in systems of ferromagnets exchange coupled to antiferromagnets. It is shown how magnetization processes in the antiferromagnet can be studied through observation of dynamic effects in the ferromagnetic component. © 2001 American Institute of Physics.
+
+magnetic multilayers
+spin dynamics
+magnetic particles
+ground states
+exchange interactions (electron)
+ferromagnetic resonance

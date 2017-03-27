@@ -1,0 +1,8 @@
+The thermodynamic properties and critical behavior of a Heisenberg ferromagnet in two dimensions are studied using the Handscomb quantum Monte Carlo method. The spins (with quantum number S=½) are arranged on a square lattice and have a long-range interaction with a power-law decrease, J(r)rp, with distance r. The parameter p is taken to be in the range 2&lt;p}6. The system has an ordering transition at a nonzero temperature Tc when 2&lt;p&lt;4. The dependence of Tc on p and the critical behavior of the susceptibility are investigated. Properties of spin correlation functions in different regimes (of p and T) are discussed. The results are compared with previous approximate analytic quantum theories. © 2001 American Institute of Physics. 
+
+Heisenberg model
+thermodynamic properties
+magnetic transitions
+ferromagnetism
+Monte Carlo methods
+magnetic susceptibility

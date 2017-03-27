@@ -1,0 +1,16 @@
+The method of Roe and Krigbaum for determining fiber texture has been extended to thin film applications. It is often desirable to make in situ pole density measurements of a film on a thick substrate. This does not permit complete data to be collected by xray transmission techniques. If the data are restricted to the range 0d«d75∞, obtained by reflection, incomplete pole density plots are obtained, and it is necessary to devise a selfconsistent extrapolation technique that extends the pole density data to 90∞. This requires leastsquares fitting over the range from «=0 to 75∞ and an iterative procedure for extrapolating with functions consistent with a single orientation function. The example of a 1.14º Mo film on a (111) Si substrate requires an expansion of the symmetry relations to order 46. The procedure established herein is readily extended to include the effect of static displacements resulting from embedded gas atoms that are associated with sputtered films.
+
+molybdenum
+films
+texture
+fibers
+thickness
+x radiation
+transmission
+reflection
+least square fit
+iterative methods
+orientation
+silicon
+substrates
+symmetry

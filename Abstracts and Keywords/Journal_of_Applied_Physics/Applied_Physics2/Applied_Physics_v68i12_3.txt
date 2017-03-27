@@ -1,0 +1,13 @@
+A numerical model of the filamentassisted diamond growth environment has been developed and used to calculate temperature, velocity, and species concentration profiles, accounting both for transport and detailed chemical kinetics. The computed hydrocarbon concentrations agree well with previously measured values, when allowance is made for 3D effects not included in our model. Upperbound, diffusionlimited film growth rates for various assumed growth species have been computed, and it has been found no hydrocarbon species other than CH3, C2H2, or CH4 can account for measured diamond growth rates. The effect of thermal diffusion on Hatom profiles has been examined, and found to be only 10%. Although the environment is far from thermodynamic equilibrium, several reactions are close to partial equilibrium throughout the region from the filament to the substrate. It is also shown that homogeneous Hatom recombination is too slow to explain the experimentally observed decrease in the concentration of H with increasing initial methane concentration.
+
+DIAMONDS
+CHEMICAL VAPOR DEPOSITION
+GROWTH RATE
+HYDROCARBONS
+QUANTITY RATIO
+SIMULATION
+NUMERICAL SOLUTION
+TRANSPORT PROCESSES
+FILMS
+DIFFUSION
+FILAMENTS

@@ -1,0 +1,7 @@
+The electric properties of bismuth- and sodium-modified barium titanate, Ba<inf>1-x</inf>(Bi<inf>1/2</inf>Na<inf>1/2</inf>)<inf>x</inf> TiO<inf>3</inf> (BBNT) were studied as a lead-free PTC (positive temperature coefficient of resistivity) thermistor material usable over 130Â°C. Two semiconductorization processes and their electric properties are described. Lanthanum(La)-doped BBNT ceramics sintered in air still show dielectric behaviors, but Nb-doped ones have a low resistivity Â¿RT on the order of 10<sup>3</sup>Â¿cm at room temperature and show a PTC behaviors. Sintering under low O<inf>2</inf> atmosphere produces BBNT ceramics with less than 10<sup>2</sup> Â¿cm compared to those prepared in air. A trial PTC heater constructed using the BBNT semiconducting ceramics demonstrates a comparable performance of those made of the Pb-contained PTC ones. Our current research shows the BBNT ceramics with a switching temperature T<inf>s</inf> around 210Â°C by increasing the (Bi<inf>1/2</inf>Na<inf>1/2</inf>) content x of the ceramics.
+
+PTC
+barium titanate
+bismuth sodium titanate
+heater
+lead-free

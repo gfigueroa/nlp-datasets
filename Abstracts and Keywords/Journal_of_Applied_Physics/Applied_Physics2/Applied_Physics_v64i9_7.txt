@@ -1,0 +1,12 @@
+Ion and neutral species were sampled from a H2/WF6 tungsten deposition atmosphere (with and without plasma enhancement) by a lineofsight quadrupole mass spectrometer and cylindrical mirror ion energy analyzer. These diagnostics were used to investigate the influence of neutral and ion flux on the resistivity and morphology of ± and ²tungsten films. In all depositions, WF, WF2, and WF6 were the principle tungstenfluorine species while WF+5 was the primary plasmagenerated ion. Variation of ±tungsten film properties with thickness was dominated by impurities and defects incorporated early in the deposition and by domain size. Plasmaenhanced chemical vapordeposited films exhibited lower resistivity, and higher temperature coefficient of resistivity and domain size compared to lowpressure chemical vapor deposition films. The variation of ±tungsten properties with increasing ionbombardment energies was consistent with enhanced sputtering and damage production. Lowresistivity smalldomain films were deposited at low frequencies while lowenergy highcurrent bombardment conditions were conducive to domain growth. Nucleation and growth of ² tungsten required oxygen rather than fluorine impurities.
+
+FILM GROWTH
+TUNGSTEN
+CHEMICAL VAPOR DEPOSITION
+TUNGSTEN FLUORIDES
+CHEMICAL REACTION KINETICS
+CONTROLLED ATMOSPHERES
+MASS SPECTROSCOPY
+ELECTRONION COLLISIONS
+ION COLLISIONS
+GLOW DISCHARGES

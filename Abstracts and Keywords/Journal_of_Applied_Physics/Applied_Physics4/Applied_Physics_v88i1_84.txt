@@ -1,0 +1,8 @@
+Among the relaxations of thermal-activation type Ä=Ä0
+exp(E/kBT), complex relaxations showing the following abnormal characteristics were noted: (1) a strong correlation between the activation energy E and the preexponential factor Ä0; (2) unreasonably small values of Ä0(j1014
+s) and unusually large values of E. As examples, (a) the viscosity relaxation in amorphous materials near the glass transition, and (b) the anelastic relaxation in heavily cold-worked alloys are shown. These are compared with examples of relaxation with normal characteristics, or simple relaxation. In complex relaxation, the compensation effect, a linear decrease of log
+Ä0 with increasing E, can be seen. Cooperative jumps of relaxing elements were taken into consideration, and a simple formalism for interpreting the complex relaxation was derived. The above examples of complex relaxation were analyzed by considering (a) the cooperative movement of several atoms over potential barriers existing in the amorphous materials, and (b) the cooperative movement of dislocation segments over a potential barrier resulting from impurity atoms. © 2000 American Institute of Physics. 
+
+glass transition
+anelastic relaxation
+viscosity

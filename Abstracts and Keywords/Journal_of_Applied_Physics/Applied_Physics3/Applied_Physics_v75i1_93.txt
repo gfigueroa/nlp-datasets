@@ -1,0 +1,10 @@
+In this communication, we present a short discussion in order to correct some apparent misinterpretations of a previous work of ours. We discuss the interpretation of the electron distribution function presented in an earlier work [K. Brennan, J. Appl. Phys. 64, 4024 (1988)].
+
+THIN FILMS
+ELECTROLUMINESCENCE
+ZINC SULFIDES
+DISPLAY DEVICES
+MONTE CARLO METHOD
+TRANSPORT PROCESSES
+SIMULATION
+DISTRIBUTION FUNCTIONS

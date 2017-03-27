@@ -1,0 +1,14 @@
+We have investigated the inclined alignment of polyimide molecules (containing azobenzene in the backbone structure) induced by oblique angle irradiation of ultraviolet (UV) light. The UV irradiation was performed for a polyamic acid film, which then was thermally converted into a polyimide film. The orientation of the polyimide backbone structure was determined by measuring the polarized infrared absorption spectra as a function of the angle of incidence. We confirmed that inclined alignment of the polyimide backbone structures is obtained by oblique angle UV irradiation, and that this also induces tilted homogeneous liquid crystal (LC) alignment. For the UV irradiation conditions used in the present study, the average inclination angle of the polyimide backbone structure was about 4° from the surface plane. The pretilt angle of the LC molecules was 0.9°. © 2003 American Institute of Physics. 
+
+polymer films
+polymer structure
+ultraviolet radiation effects
+infrared spectra
+liquid crystal displays
+dyes
+optical polymers
+filled polymers
+nematic liquid crystals
+isomerisation
+photochemistry
+molecular orientation

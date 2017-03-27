@@ -1,0 +1,7 @@
+An effect of the toed-in camera configuration is keystone distortion, which causes vertical and horizontal parallax in the stereoscopic image. However if the stereoscopic image captured by the toed-in camera system with fish-eye lens is displayed on mobile device, it is uncomfortable to view because the horizontal parallax contain horizontal parallax distortion occurred by the wide field of view of the lenses. Therefore, in this paper, we propose a novel correction method of the horizontal parallax distortion, which is one of the keystone distortions. We have experimented to attest the proposed method. The captured stereoscopic image was corrected for the barrel distortion and the horizontal parallax distortion. Therefore, the proposed method provides correcting of the horizontal parallax distortion from a toed-in camera system in order that users can enjoy three-dimensional effects without the visual fatigue.
+
+Field of view
+Horizontal parallax distortion
+Keystone distortion
+Stereoscopic Image
+Toed-in camera

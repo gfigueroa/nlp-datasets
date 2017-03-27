@@ -1,0 +1,11 @@
+Capacitancevoltage, photoluminescence (PL), and deep level transient spectroscopy techniques were used to investigate deep electron states in n-type Al-doped ZnS1xTex epilayers grown by molecular beam epitaxy. The integrated intensity of the PL spectra obtained from Al-doped ZnS0.977Te0.023 is lower than that of undoped ZnS0.977Te0.023, indicating that some of the Al atoms form nonradiative deep traps. Deep level transient Fourier spectroscopy (DLTFS) spectra of the Al-doped ZnS1xTex (x = 0, 0.017, 0.04, and 0.046, respectively) epilayers reveal that Al doping leads to the formation of two electron traps 0.21 and 0.39 eV below the conduction band. DLTFS results suggest that in addition to the roles of Te as a component of the alloy as well as isoelectronic centers, Te is also involved in the formation of an electron trap, whose energy level with respect to the conduction band decreases as Te composition increases. Our results show that only a small fraction of Al atoms forms nonradiative deep defects, indicating clearly that Al is indeed a very good donor impurity for ZnS1xTex epilayers in the range of Te composition being studied in this work. © 1997 American Institute of Physics.
+
+deep level transient spectroscopy
+photoluminescence
+II-VI semiconductors
+zinc compounds
+aluminium compounds
+electron traps
+semiconductor epitaxial layers
+Fourier transform spectra
+impurity states

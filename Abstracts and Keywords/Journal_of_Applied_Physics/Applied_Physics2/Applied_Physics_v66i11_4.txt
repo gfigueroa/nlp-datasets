@@ -1,0 +1,14 @@
+We extend and generalize our earlier model which was proposed to explain tails in the diffusion profiles of highconcentration boron and phosphorus in silicon. Our quasisteadystate approach is generalized here to include both vacancies (V) and interstitials (I) at equivalent levels. IV recombination is regarded as near local equilibrium, occurring through reactions of the defects with defectimpurity pairs. This approach leads to important details such as the wellknown plateau, kink, and tail in highsurfaceconcentration P diffusions in Si, and to the less wellrecognized tails in B as well, with no additional ad hoc assumptions. Our extended model, in its simplest form, allows a more complete and less restrictive treatment than the usual models of Au indiffusion in Si. An important advantage is the direct inclusion of these defectimpurity interactions and the resulting gradients in the defect concentrations, which are ignored in even the latest versions of popular process simulation programs, such as suprem iv.
+
+SILICON
+IMPURITIES
+BORON
+PHOSPHORUS
+CRYSTAL DEFECTS
+DIFFUSION
+COUPLING
+VACANCIES
+INTERSTITIALS
+RECOMBINATION
+MATHEMATICAL MODELS
+ATOM TRANSPORT

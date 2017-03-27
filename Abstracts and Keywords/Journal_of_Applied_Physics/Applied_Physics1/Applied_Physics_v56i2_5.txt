@@ -1,0 +1,16 @@
+Xray diffraction and Rutherford backscattering (RBS) analysis were used independently to investigate the interface reaction of CuAl thinfilm bilayers during in situ annealing in the temperature range 157220	°C. The growth kinetics of the ¸CuAl2 phase were measured and were found to follow a diffusion limited process. Using Arrhenius plots, activation energies of 1.21 and 1.24 eV and preexponential factors of 4×101 and 9×101 cm2 s1 were obtained from xray diffraction and RBS, respectively. Xray and RBS data are presented and advantages of each method are discussed. It was observed in the in situ xray scans that the phase ³2Cu9Al4 grows simultaneously with ¸CuAl2 from the beginning of the interface reaction. The growth of ³2Cu9Al4 is also diffusion limited with an activation energy of 1.59 eV and a preexponential factor of 6×102 cm2 s1 as obtained from xray data. The growth of both phases is believed to be largely controlled by volume diffusion. A comparison with previous studies indicated that depending on the annealing treatment, either ³2Cu9Al4 or ²1Cu3Al grows together with ¸CuAl2 in the initial stage of the interface reaction.
+
+crystal growth
+xray diffraction analysis
+aluminium
+copper
+interface phenomena
+activation energy
+chemical composition
+thin films
+chemical reaction kinetics
+low temperature
+rbs
+annealing
+copper compounds
+aluminium compounds

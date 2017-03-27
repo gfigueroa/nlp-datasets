@@ -1,0 +1,5 @@
+The EXPLAN model of speech control is outlined. The essence of EXPLAN is that language processing (PLAN) and motor programming (EX), when linked together for production of speech, can lead to fluency problems when the two components are not synchronized. It is argued that neither language, nor motor, processes alone can account for dysfluencies. Studies are reviewed that have tested the EXPLAN idea that the planning-motor interface is involved when dysfluencies occur. It is shown how the account explains changes in patterns of stuttering over age and how it indicates the distinguishing features of the persistent form of stuttering. The relation of fluent speech to different forms of dysfluency is also examined.
+
+EXPLAN model
+Speech Development
+Stuttering

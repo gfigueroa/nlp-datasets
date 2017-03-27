@@ -1,0 +1,7 @@
+In this paper, a set of biologically-inspired features are presented for robust object recognition. The proposed pyramidal feature set is obtained by extracting the geometric relationship of keypoints using a set of biologically inspired templates in different scales. Lifetime is proposed to describe the keypoints. This paper brings together new algorithms, representations, and insights which are quite generic and may well have broader applications in computer vision. The proposed approach has following properties. First, lifetime is applied to describe the stability of the keypoints. Second, the templates, which are used to extract the geometric relationships between the keypoints, are biologically inspired structure information extractors or texture information extractors. Third, the proposed approach successfully achieves an effective trade-off between generalization ability and discrimination ability for object recognition tasks. Promising experimental results on object recognition demonstrate the effectiveness of the proposed method.
+
+discrimination ability
+generalization ability
+geometric relationship
+keypoints
+visual cortex

@@ -1,0 +1,9 @@
+So far, excitonic luminescence in metal halide (MH) has extensively been studied by many workers, with the interest not only in physics of excitons but also in its possible application in optoelectronics. In the actual MHs, however, excitonic luminescence is so weak that it is beyond the scope of applications. Here we report the rediscovery that inherent excitonic luminescence in MH is dominated by a dramatically high light-emitting mechanism. This is demonstrated using improved films of MH yielded by two simple, independent methods, both applicable to several MHs. For example, improved CsPbCl3 and CuBr films exhibit more than 103104 times stronger excitonic luminescence than conventional films. Inherent excitonic luminescence in MH is promising for applications in exciton-based light-emitting devices, particularly in shorter-wavelength devices than the traditional, nonexcitonic ones because it is MH and only MH that includes many compounds with large band gap and large exciton binding energies.
+
+binding energy
+caesium compounds
+copper compounds
+excitons
+lead compounds
+photoluminescence
+thin films

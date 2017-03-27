@@ -1,0 +1,19 @@
+We describe a parameter extraction technique for the simultaneous determination of physical parameters in nonideal Schottky barrier, p-n and p-i-n diodes. These include the ideality factor, saturation current, barrier height, and linear or nonlinear series, and parallel leakage resistances. The suggested technique which deals with the extraction of bias independent parameters makes use of the forward biased currentvoltage (IV) characteristics and the voltage-dependent differential slope curve ±(V) = [d(ln
+I)]/[d(ln
+V)]. The method allows (a) establishment of the current flow mechanisms at low and high bias levels, (b) extensive of the permissible ranges of determined parameters beyond what is possible in other published methods, and (c) to automation and computerization of the measurement processes. The method is verified experimentally using metalsemiconductor structures based on Si, InGaP, and HgCdTe as well as an InGaAs/InGaAsP multiple quantum well laser diode exemplifying a p-n junction. © 1999 American Institute of Physics.
+
+Schottky diodes
+p-i-n diodes
+leakage currents
+silicon
+indium compounds
+gallium compounds
+III-V semiconductors
+gallium arsenide
+quantum well lasers
+semiconductor-metal boundaries
+II-VI semiconductors
+mercury compounds
+cadmium compounds
+p-n junctions
+semiconductor device models

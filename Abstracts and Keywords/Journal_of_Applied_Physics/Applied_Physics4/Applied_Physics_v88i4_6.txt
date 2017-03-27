@@ -1,0 +1,12 @@
+The presence of silicon nanocrystals in Er doped SiO2 can enhance the effective Er optical absorption cross section by several orders of magnitude due to a strong coupling between quantum confined excitons and Er. This article studies the fundamental processes that determine the potential of Si nanocrystals as sensitizers for use in Er doped waveguide amplifiers or lasers. Silicon nanocrystals were formed in SiO2 using Si ion implantation and thermal annealing. The nanocrystal-doped SiO2 layer was implanted with different doses of Er, resulting in Er peak concentrations in the range 0.0151.8 at.
+%. All samples show a broad nanocrystal-related luminescence spectrum centered around 800 nm and a sharp Er luminescence line at 1536 nm. By varying the Er concentration and measuring the nanocrystal and Er photoluminescence intensity, the nanocrystal excitation rate, the Er excitation and decay rate, and the Er saturation with pump power, we conclude that: (a) the maximum amount of Er that can be excited via exciton recombination in Si nanocrystals is 12 Er ions per nanocrystal, (b) the Er concentration limit can be explained by two different mechanisms occurring at high pump power, namely Auger de-excitation and pair-induced quenching, (c) the excitable Er ions are most likely located in an SiO2-like environment, and have a luminescence efficiency &lt;18%, and (d) at a typical nanocrystal concentration of 1019
+cm3, the maximum optical gain at 1.54 ¼m of an Er-doped waveguide amplifier based on Si nanocrystal-doped SiO2 is <0.6 dB/cm. © 2000 American Institute of Physics. 
+
+silicon compounds
+silicon
+excitons
+erbium
+impurity absorption spectra
+nanostructured materials
+photoluminescence
+infrared spectra

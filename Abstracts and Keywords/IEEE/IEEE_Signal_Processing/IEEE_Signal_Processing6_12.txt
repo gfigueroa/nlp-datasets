@@ -1,0 +1,5 @@
+We report on a novel signal analysis technique for the ECG designed to monitor the state of the myocardium during cardiopulmonary resuscitation (CPR) in defibrillation devices. The technique uses wavelet transform-based methods to analyse the signal in order to: (1) identify the underlying rhythm during CPR; (2) indicate the efficacy of the ongoing CPR, and (3) predict the outcome of subsequent defibrillation therapy during CPR.
+
+CPR
+Cardiac Arrest
+Wavelet Transform

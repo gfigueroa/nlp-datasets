@@ -1,0 +1,10 @@
+The dynamic hysteresis scaling behavior in epitaxial Fe/GaAs(001) and Fe/InAs(001) thin films (thickness range 7.3150 Å) has been investigated as a function of Fe film thickness in the field sweep rate range 0.0051000 kOe/s using the magneto-optic Kerr effect. The hysteresis loop area A follows the scaling relation A(dH/dt)±. We find two distinct dynamic regimes: the low dynamic regime in the sweep rate range 0.005250 kOe/s, and the high dynamic regime beyond 250 kOe/s. There is a marked increase in ± between the low and high dynamic regimes which we attribute to the dominant reversal mechanism changing from domain wall motion to nucleation. In the low dynamic regime ± is a decreasing function of Fe film thickness, and this behavior is attributed to the effect of interface-induced pinning. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+iron
+magnetic epitaxial layers
+magnetic hysteresis
+magnetisation reversal
+Kerr magneto-optical effect
+magnetic domain walls

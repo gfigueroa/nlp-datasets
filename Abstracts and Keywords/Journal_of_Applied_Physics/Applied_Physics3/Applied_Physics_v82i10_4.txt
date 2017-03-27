@@ -1,0 +1,12 @@
+To clarify the structure of ultrathin silicon oxide gate films less than about 5 nm thick, densities of the films grown on Si(100) at 800950	°C by the recently proposed rigorous ultradry oxidation process were determined by charged-particle activation analysis. The density curve plotted as a function of oxidation temperature shows a peak, i.e., the density of the 850	°C grown films is largest of all, about 2.38
+Mg/m3. Interestingly, a similar relationship is confirmed in the time-dependent dielectric breakdown lifetime characteristic curve, which is the most fundamental index of reliability for the oxide. This suggests that the reliability is closely related to the density. That is, since the density reflects the atomic arrangement of the films, the lifetime enhancement near the same oxidation temperature is possibly caused by changes in the films microscopic structure. © 1997 American Institute of Physics. 
+
+density
+oxidation
+electric breakdown
+semiconductor device reliability
+insulating thin films
+silicon compounds
+semiconductor-insulator boundaries
+nuclear chemical analysis
+MIS devices

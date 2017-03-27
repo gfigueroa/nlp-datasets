@@ -1,0 +1,8 @@
+Strained silicon on insulator was exposed to high-temperature annealing and high-dose gamma (³)-ray irradiation to study the tenacity of the bond between the strained Si film and the underlying buried oxide. During the high-temperature anneals, the samples were ramped at a rate of 150°C/s to 850°C then ramped to 1200, 1250, and 1300	°C at a rate of approximately 5×105	°C/s for millisecond duration anneals. For the irradiation experiments, the samples were irradiated with ³ rays to a dose of 51.5kGy. All samples were characterized by ultraviolet (UV) Raman, pseudo metal-oxide-semiconductor field-effect transistor (¨-MOSFET) current voltage, Hall mobility, and photoluminescence (PL) to verify changes in strain. UV Raman, PL, and ¨-MOSFET measurements show no strain relaxation for the high-temperature annealed samples and only very slight relaxation for the ³-ray irradiated samples.
+
+gamma-ray effects
+Hall mobility
+MOSFET
+Raman spectra
+rapid thermal annealing
+silicon-on-insulator

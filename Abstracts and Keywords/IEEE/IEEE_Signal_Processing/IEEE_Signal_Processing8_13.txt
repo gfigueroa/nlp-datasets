@@ -1,0 +1,5 @@
+Registration and alignment of feature (e.g., vector) and raster geospatial data is a difficult and time-consuming process when performed manually. This paper presents an approach for vector-to-raster registration. Candidate features are auto-extracted and vectorized from imagery, which are the basis to compare against existing vector layer(s) to be registered. Given that automated feature extraction (AFE) methods are imperfect, the objective is to determine and gather a sufficient signal-to-noise ratio from AFE upon which to base a registration process between vector data sets. Two vector registration methods were investigated. The first is based on an algebraic structural algorithm (ASA) in which structural components (e.g., angles, lengths and areas) are used as similarity metrics. The second is based on a similarity transformation of local features (STLF) in which a 4-parameter transformation is used to align features on a local basis. Experiments were performed to register road vector data to commercial panchromatic and multispectral QuickBird imagery.
+
+image
+registration
+vector

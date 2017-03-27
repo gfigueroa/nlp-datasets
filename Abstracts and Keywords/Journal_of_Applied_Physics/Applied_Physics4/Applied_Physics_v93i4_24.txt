@@ -1,0 +1,10 @@
+Epitaxial Fe/MgO heterostructures have been grown on Si(001) by a combination of sputtering and laser ablation deposition techniques. The growth of MgO on Si(001) is mainly determined by the nature of the interface, with large lattice mismatch and the presence of an amorphous layer of unclear origin. Reflection high energy electron diffraction patterns of this MgO buffer layer are characteristic of an epitaxial, but disordered, structure. The structural quality of subsequent Fe and MgO layers continuously improves due to the better lattice match and the burial of defects. A weak uniaxial in-plane magnetic anisotropy is found superimposed on the expected cubic biaxial anisotropy. This additional anisotropy, of interfacial nature and often found in Fe/MgO and Fe/MgO/GaAs(001) systems, is less intense here due to the poorer MgO/Si interface quality compared with that of other systems. From the evolution of the anisotropy field with film thickness, magnetic anisotropy is also found to depend on the crystal quality. Kerr measurements of a Fe/MgO multilayered structure grown on Si show two different switching fields, suggesting magnetic coupling of two of the three Fe layers. Nevertheless, due to the little sensitivity to the bottom Fe film, independent switching of the three layers cannot be ruled out. © 2003 American Institute of Physics. 
+
+iron
+magnesium compounds
+magnetic epitaxial layers
+magnetic anisotropy
+ferromagnetic materials
+magnetisation reversal
+sputtered coatings
+pulsed laser deposition

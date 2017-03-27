@@ -1,0 +1,9 @@
+The completion of the working draft of the human genome in 2001 is an important milestone in achieving greater understanding of the role of genetics in health and disease. This very important technological achievement holds both promise and peril for the theory and practice of medicine. The author discusses how the information in the genome, coupled with insights into the interactions of gene and environment, may revolutionize clinical practice and eventually make it possible to tailor diagnosis and treatment to the allelic and experiential nature of the individual patient. He also points out the dangers of leaping from gene discovery to premature diagnosis and unproven interventions that may endanger patients and gives several examples of such occurrences. What is known about the relationship between gene and phenotype is reviewed and examples of the different phenotypes that may arise with identical genomes are presented to illustrate how environment influences gene expression, both in humans and other species. Finally, the author considers the challenge in conveying newly gained knowledge of genetic risk in ways that will benefit rather than harm patients. 
+
+human genome
+genes
+environment
+schizophrenia
+phenotypes
+polyphenism
+genetic counseling

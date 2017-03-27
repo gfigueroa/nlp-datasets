@@ -1,0 +1,11 @@
+The structural and magnetic evolution in magnesium ferrite (MgFe2O4) caused by high-energy milling are investigated by Mössbauer spectroscopy. It is found that the nanostructural state of the milled MgFe2O4 is characterized by a mechanically induced cation redistribution between tetrahedral (A) and octahedral [B] sites. The reduced concentration of iron ions at (A) sites in the mechanically treated samples leads to the variation in the number of magnetic and nonmagnetic (A)-site ions as nearest neighbors of the Fe3+[B] ions. This results in a broad distribution of magnetic hyperfine fields at the [B] sites. In addition to the local magnetic fields B(6), B(5), and B(4) characteristic of nonactivated ferrite and corresponding to Fe3+[B] ions with n=6, 5, and 4 nearest (A)-site iron neighbors, respectively, the distribution curves of mechanically treated samples show additional components at smaller magnetic fields. The weight of the B(6) field decreases with increasing milling time, and the B(5) field becomes the most probable hyperfine field component in the distribution curve of the mechanically activated samples. The degree of inversion in MgFe2O4 is calculated from the probabilities of the different [B]-site surroundings as well as from the Mössbauer subspectral areas. Excellent agreement is obtained in the two independent procedures for the determination of the cation distribution. This enables us to separate from the [B]-site magnetic field distribution profile the contribution arising from the mechanically induced new nearest-neighbor (A)-site configuration with n=3 nearest (A)-site iron neighbors. Taking into account the nanoscale nature of the mechanically activated MgFe2O4, the observed spin canting, which increases with increasing milling time, is attributed to the noncollinear spin structure of the near-surface atoms. In strongly activated ferrite, the magnetic hyperfine splitting breaks down totally and the Mössbauer spectrum is dominated by a superparamagnetic relaxation effect. © 2000 American Institute of Physics. 
+
+magnesium compounds
+ferrites
+superparamagnetism
+magnetic relaxation
+magnetic particles
+Mossbauer effect
+canted spin arrangements
+nanostructured materials
+hyperfine interactions

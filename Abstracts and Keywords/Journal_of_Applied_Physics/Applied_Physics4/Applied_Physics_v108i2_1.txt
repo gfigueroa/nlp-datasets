@@ -1,0 +1,12 @@
+Homogeneous ZnO/polymethyl methacrylate (PMMA) nanocomposites were prepared by incorporating ZnO nanoparticles synthesized in various diols into a PMMA matrix by the free-radical bulk polymerization. Room temperature photoluminescence spectra of the as-grown and PMMA-embedded ZnO nanoparticles exhibit an excitonic band-gap emission at 3.3 eV, a near band-gap emission at < 3.1eV and a broad defect band centered at < 2.4eV. Relative intensity of the defect versus band-gap luminescence depends on the parameters of ZnO preparation as well as the average particle size. However, PMMA-embedded particles produce a much stronger excitonic luminescence, whereas the ratio of the 3.1 to 2.4 eV remains approximately constant. There is no indication of random lasing threshold pointing to the ZnO/PMMA interfacial origin of the enhanced band-gap emission.
+
+energy gap
+II-VI semiconductors
+nanocomposites
+particle size
+photoluminescence
+polymerisation
+polymers
+semiconductor-insulator boundaries
+wide band gap semiconductors
+zinc compounds

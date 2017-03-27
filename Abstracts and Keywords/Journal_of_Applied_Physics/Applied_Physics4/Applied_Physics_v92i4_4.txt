@@ -1,0 +1,13 @@
+The time resolved photoluminescence (TRPL) and the time resolved photocurrent (TRPC) are simultaneously measured for undoped (Al0.7Ga0.3)0.5In0.5P/AlxIn1xP (x=0.53 and 0.57) superlattices. The bias voltage is applied on the semitransparent Au electrode on the epitaxial layer. From the measurement of the sample with x=0.53 (lattice matched to the GaAs substrate), most of the carriers are recombined by nonradiative processes under the bias voltage of +0.31.0 V. The increase of the electric field causes the increase of electron flow from the surface region of the SL and the decrease in PL intensity. From the bias voltage dependence of the TRPL and TRPC properties, the amount of the radiatively recombined carriers are found to be less than 1×109 when 1.4×1011 photons are incident on the sample. The surface electric field of the sample without the electrode is estimated to be less than 3×103 V/cm during the PL measurement. For the sample with x=0.57, the energy states originating from the crystal defects act as the carrier traps under a low-electric field and the levels which contribute to the tunneling of electrons through the potential barriers under a high-electric field. © 2002 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor superlattices
+photoluminescence
+photoconductivity
+time resolved spectra
+carrier density
+electron mobility
+interface states

@@ -1,0 +1,15 @@
+Epitaxially aligned films of ²FeSi2 were grown on (001) silicon by reactive deposition epitaxy (RDE), molecularbeam epitaxy (MBE), and solidphase epitaxy (SPE). Although the matching crystallographic faces, FeSi2 (100)/Si(001), remained invariant throughout this study, two different azimuthal orientations predominated, depending on the deposition mode and growth temperature. Films with the FeSi2[010]%Si110	 orientation (grown by RDE at typically 500	°C) were of a genuine largearea singlecrystal structure; however, the surface morphology was rough due to islanding which always preceeded the formation of a continuous film. Films of the alternative azimuthal orientation FeSi2[010]%Si100	 (which were grown by SPE at typically 250	°C or by MBE at temperatures as low as 200	°C on top of an SPEgrown template) have a much smoother surface morphology. However, there was some loss of purity in the epitaxial alignment at these extremely low temperatures. Excellent RHEED (reflection highenergy electron diffraction) streak patterns were observed for all the films; the technique was used for the determination of azimuthal orientation. In addition, we have shown that it is possible to determine the entire heteroepitaxial relationship using RHEED.
+
+IRON SILICIDES
+FILMS
+EPITAXY
+SILICON
+SUBSTRATES
+ORIENTATION
+MONOCRYSTALS
+SURFACE PROPERTIES
+RHEED
+MORPHOLOGY
+ULTRAHIGH VACUUM
+ELECTRON BEAMS
+VAPOR DEPOSITED COATINGS

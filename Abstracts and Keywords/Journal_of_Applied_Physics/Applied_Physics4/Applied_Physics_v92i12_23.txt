@@ -1,0 +1,15 @@
+The effect of the substitution of B for C on the structure and magnetic properties of the Pr15Fe77C8xBx (x=08) ribbons has been investigated. Microstructure analysis shows that the grain size and size distribution of the ribbons with x~2 do not change with B substitution. It is found that B substitution significantly improves the hard magnetic properties of the samples. The coercivity, remanence, and energy product increase from 0.0002 and 0.19 T and 0.001 MGOe for x=0 to 2.19 and 0.76 T and 14.3 MGOe for x=8, respectively. Without heat treatment, Pr2Fe14C-type ribbons with high coercivity of greater than 2 T have been prepared by melt spinning. The introduction of B changes the phase components, and leads to a substantial difference in coercivity mechanisms of the B-poor ribbons (x=2) and B-rich (x=8) ribbons. © 2002 American Institute of Physics. 
+
+permanent magnets
+coercive force
+grain size
+melt spinning
+X-ray diffraction
+transmission electron microscopy
+demagnetisation
+remanence
+praseodymium alloys
+iron alloys
+boron alloys
+alloying additions
+ferromagnetic materials

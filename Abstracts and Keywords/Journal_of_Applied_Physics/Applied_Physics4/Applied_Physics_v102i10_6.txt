@@ -1,0 +1,9 @@
+We measured current-voltage characteristics of circular deoxyribonucleic acid (DNA) bundle samples embedded in a water mantle lying on a nylon porous membrane between vacuum-evaporated gold electrodes. The nonlinear behavior observed at room temperature on samples of different molecular sizes and variable concentration was interpreted as a long-range conduction mechanism that takes place by means of charge hopping through the network of molecules. A tunneling process acting as an additional transport channel inside single molecules between energetically appropriate bases was inferred. Our data also suggest at low bias a thermionic emission mechanism by means of which the charges move from one electrode, overcoming a potential barrier. Characteristic energies involved in the transport were reproducibly measured.
+
+bioelectric potentials
+biomembrane transport
+DNA
+electrodes
+molecular biophysics
+thermionic emission
+tunnelling

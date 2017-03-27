@@ -1,0 +1,11 @@
+We study energy transfer in efficient polymer electrophosphorescent organic light emitting diodes (PHOLEDs) using poly(9-vinylcarbazole) (PVK) host doped with one or more phosphorescent cyclometalated Ir(III) complexes. Single dopant double heterostructure PHOLEDs exhibited saturated color luminescence due to emissive triplet metal-to-ligand charge-transfer to ground state transitions of the Ir(III) dopants. Blue PHOLEDs, excited by an endothermic process from the host polymer, exhibited an emission maximum at a wavelength of »max=474	nm, with an external quantum efficiency of ·ext=1.3±0.1% and luminous power efficiency of ·p=0.8±0.1	lm/W. The green PHOLED exhibited ·ext=5.1±0.1%, with ·ext&gt;2% for both red and yellow emission. Resonant energy transfer between green emitting fac-tris (2-phenylpyridyl)Ir(III) and red emitting bis[2-(22-benzothienyl)-pyridinato-N,C32](acetylacetonate)Ir(III) was observed to nearly double the efficiency of red emission when both dopants were simultaneously blended in a PVK host. PHOLEDs containing a blend of red, yellow, and blue Ir(III) complex dopants produced white light emission with ·ext=2.1±0.1%. Our results suggest that deep lying energy states in the PVK conductive matrix may limit the energy transfer efficiency in phosphor doped polymer OLEDs. © 2002 American Institute of Physics.
+
+light emitting diodes
+conducting polymers
+optical polymers
+electroluminescence
+phosphorescence
+polymer films
+triplet state
+charge transfer states
+organic compounds

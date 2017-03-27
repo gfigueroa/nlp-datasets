@@ -1,0 +1,8 @@
+High-power pulsed magnetron discharges have drawn an increasing interest as an approach to produce highly ionized metallic vapor. In this paper we propose to study how the plasma composition and the deposition rate are influenced by the pulse duration. The plasma is studied by time-resolved optical emission and absorption spectroscopies and the deposition rate is controlled thanks to a quartz microbalance. The pulse length is varied between 2.5 and 20¼s at 2 and 10mTorr in pure argon. The sputtered material is titanium. For a constant discharge power, the deposition rate increases as the pulse length decreases. With 5¼s pulse, for an average power of 300W, the deposition rate is < 70% of the deposition rate obtained in direct current magnetron sputtering at the same power. The increase of deposition rate can be related to the sputtering regime. For long pulses, self-sputtering seems to occur as demonstrated by time-resolved optical emission diagnostic of the discharge. In contrary, the metallic vapor ionization rate, as determined by absorption measurements, diminishes as the pulses are shortened. Nevertheless, the ionization rate is in the range of 50% for 5¼s pulses while it lies below 10% in the case of a classical continuous magnetron discharge.
+
+plasma diagnostics
+high-frequency discharges
+titanium
+argon
+ionisation
+sputter deposition

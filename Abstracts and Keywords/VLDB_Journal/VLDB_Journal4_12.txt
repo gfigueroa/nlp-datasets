@@ -1,0 +1,8 @@
+Spatial data types or algebras for database systems should (1) be fully general, that is, closed under set operations, (2) have formally defined semantics, (3) be defined in terms of finite representations available in computers, (4) offer facilities to enforce geometric consistency of related spatial objects, and (5) be independent of a particular DBMS data model, but cooperate with any. We present an algebra that uses realms as geometric domains underlying spatial data types. A realm, as a general database concept, is a finite, dynamic, user-defined structure underlying one or more system data types. Problems of numerical robustness and topological correctness are solved within and below the realm layer so that spatial algebras defined above a realm have very nice algebraic properties. Realms also interact with a DMBS to enforce geometric consistency on object creation or update. The ROSE algebra is defined on top of realms and offers general types to represent point, line, and region features, together with a comprehensive set of operations. It is described within a polymorphic type system and interacts with a DMBS data model and query language through an abstract object model interface. An example integration of ROSE into the object-oriented data model O2 and its query language is presented.
+
+finite resolution
+geometric consistency
+numerical robustness
+object model interface
+realm
+topological correctness

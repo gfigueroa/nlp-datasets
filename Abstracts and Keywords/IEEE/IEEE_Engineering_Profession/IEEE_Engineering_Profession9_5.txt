@@ -1,0 +1,5 @@
+To analyse a system, we must define it. We must identify what's inside the system, and what's outside in the environment. This distinction has been a source of controversy for some time; for example, is the operator part of the system, or external to it? The issue is tied in with several other contentious topics, such as the relationship of operational personnel with rules and regulations (scripted actors, or creative improvisers?). Growing interest in Autonomous Systems (AS) looks set to force the issue by creating new ambiguities. Of particular concern is the role that human operators, supervisors and peers play with respect to the AS. There are no easy answers here, but we will identify a simple, pragmatic option, and show how a truly system-theoretic modelling process avoids the worst of the issue. We then look to future prospects.
+
+autonomous
+human
+unmanned

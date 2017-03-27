@@ -1,0 +1,15 @@
+Distributed Bragg reflector Pb1xSnxSe/Pb1xyEuySnxSe double heterostructure stripe geometry diode lasers were fabricated using molecularbeam epitaxy. Singlemode cw operation at about 7.8 ¼m was obtained for heatsink temperatures in the range 2575 K. the singlemode continuous tuning range was 10 cm1. Tuning the diodes via the injection current, a range of 24 cm1 was completely covered with singlemode emission. The reason for this wide tuning range was mode hopping to lower frequencies rather than the usual hopping to higher frequencies.
+
+SEMICONDUCTOR LASERS
+LEAD SELENIDES
+TIN SELENIDES
+LEAD COMPOUNDS
+TIN COMPOUNDS
+EUROPIUM COMPOUNDS
+LAYERS
+FABRICATION
+MOLECULAR BEAM EPITAXY
+DESIGN
+LOW TEMPERATURE
+VERY LOW TEMPERATURE
+EXPERIMENTAL DATA

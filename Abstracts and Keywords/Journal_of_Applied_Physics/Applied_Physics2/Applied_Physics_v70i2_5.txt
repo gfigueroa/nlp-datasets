@@ -1,0 +1,8 @@
+The interaction between a screw dislocation and an interface cylindrical hole is found to depend on the source and location of the screw dislocation. When a screw dislocation is inside one of the media it has one image in the other medium. If the real dislocation is emitted from the hole which is originally stress free, it has only two images inside the hole. However, if the real dislocation is emitted from elsewhere and moves to the vicinity of the hole, there is a third image at the center of the hole to keep the total Burgers vector of the images in the hole zero. These considerations were used to study the interaction of a screw dislocation with an interface crack (or elliptical hole) by means of conformal mapping. The effect of the screw dislocation on the stress intensity factor at the crack tip is continuous when the screw dislocation moves from one medium across the interface to the other medium. The image force can be divided into two parts. One part is due to the interface and the other is due to the interface crack. The composite solid behaves like a homogeneous solid with an effective shear modulus when the dislocation is in the interface. The interaction between two or more screw dislocations in the presence of an interface crack is studied also. The latter result can be used to study the emission of an array of screw dislocations from an interface crack.
+
+SCREW DISLOCATIONS
+INTERFACES
+CRACKS
+INTERACTIONS
+BURGERS VECTOR
+IMAGES

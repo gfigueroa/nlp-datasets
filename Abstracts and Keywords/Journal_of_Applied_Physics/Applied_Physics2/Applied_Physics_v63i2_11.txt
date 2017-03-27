@@ -1,0 +1,17 @@
+The interaction between iron and defects produced by electron irradiation in irondoped silicon has been observed by using deeplevel transient spectroscopy. A new electron trap level due to the ironvacancyoxygen complex [Fe+(VÅO)] was detected at Ec0.36 eV. The role of the A center (VÅO) in the formation of the complex was confirmed by the observation that during lowtemperature annealing (&lt;150	°C) the increases in the concentration of the [Fe+(VÅO)] complex was accompanied by an equal and opposite change in the concentration of the A center. Besides the interaction with the A center, iron was found to influence the annealing behavior of the divacancy and E center.
+
+IMPURITY STATES
+DEEP ENERGY LEVELS
+VACANCIES
+SILICON
+ANNEALING
+PHYSICAL RADIATION EFFECTS
+CRYSTAL DEFECTS
+CRYSTAL DOPING
+ELECTRONIC STRUCTURE
+DEEP LEVEL TRANSIENT SPECTROSCOPY
+IRON
+COMPLEXES
+ELECTRON BEAMS
+TRAPS
+ELECTRON COLLISIONS

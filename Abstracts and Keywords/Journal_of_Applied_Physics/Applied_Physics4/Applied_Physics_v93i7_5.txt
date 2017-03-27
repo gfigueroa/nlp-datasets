@@ -1,0 +1,14 @@
+The 0.675Pb(Mg1/3Nb2/3)O30.325PbTiO3 (PMN32.5PT) ceramic composition (with 1 wt.
+% excess PbO) was fiber textured in the 001	 direction by the templated grain growth process using 5 vol
+% oriented {001}-BaTiO3 platelet crystals as the templates. The templated ceramics annealed at 1150
+°C for 5 h attained texture fractions as high as 0.9. The fiber-textured samples showed an increase in the piezoelectric, electromechanical coupling, and compliance coefficients when poled and measured in the 001	-textured direction. The low drive field (&lt;5	kV/cm) d33 coefficients in the 001	, measured directly from unipolar strain-field measurements, were <1150	pC/N. This d33 coefficient is 1.21.5 times greater than randomly oriented samples. The poled µmax and µrt for a 0.9-textured PMN32.5PT ceramic were 21
+500 and 2450, respectively. Factors limiting further property improvements are discussed. © 2003 American Institute of Physics. 
+
+lead compounds
+piezoceramics
+texture
+piezoelectricity
+elastic constants
+permittivity
+X-ray diffraction
+grain growth

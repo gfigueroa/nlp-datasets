@@ -1,0 +1,7 @@
+With the emergence of Grid technologies, the problem of scheduling tasks in heterogeneous systems has been arousing attention. Task scheduling is a NP-complete problem and it is more complicated under the Grid environment. To better use tremendous capabilities of Grid system, effective and efficient scheduling algorithms are needed. In this paper, we are presenting a new heuristic scheduling strategy for Independent tasks. The strategy is based on two traditional scheduling heuristics Min-Min and Max-Min. The strategy also considers the overall performance of machines to decide the scheduling sequence of tasks. We have evaluated our scheduling strategy within a grid simulator known as GridSim. We compared the results given by our strategy with the existing scheduling heuristics Min-Min and Max-Min and the results shows that our strategy outperforms in many cases than the existing ones.
+
+Grid Computing
+Max-Min
+Min-Min
+Task scheduling
+Weighted Mean Time

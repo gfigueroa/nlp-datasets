@@ -1,0 +1,10 @@
+A computer simulation program, based on a two sublattice model, is performed to analyze the magnetization process of ferromagnetic materials (like, for instance, RCo5 and R2Fe14B compounds). Without using the assumption of the existence of a small canting angle between the two sublattices, as has been used in the analysis of S. Rinaldi and L. Pareti [J. Appl. Phys. 50, 7719 (1979)], the magnetization curve as well as its derivative curves are studied for the two sublattice system with high competing singleion anisotropies. In the present work, a peak in the low field range of the second curve of magnetization is reported and the magnetic process is correspondingly discussed in terms of both the exchange energy and the anisotropy.
+
+FERROMAGNETIC MATERIALS
+MAGNETIZATION
+COMPUTERIZED SIMULATION
+RARE EARTH COMPOUNDS
+INTERMETALLIC COMPOUNDS
+TRANSITION ELEMENT COMPOUNDS
+MAGNETIC ANISOTROPY
+EXCHANGE INTERACTIONS

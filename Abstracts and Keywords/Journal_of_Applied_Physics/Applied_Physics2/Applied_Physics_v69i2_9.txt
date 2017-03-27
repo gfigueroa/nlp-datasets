@@ -1,0 +1,10 @@
+The behavior of zinc oxide varistors subject to partial discharges in sulfur hexafluoride is studied with respect to their protective coating (glass and epoxy resin). Sulfur hexafluoride (SF6) is used as an insulating medium for the electrical equipment because of its high dielectric strength and good heat transfer properties. The decomposition of SF6 and residual impurities can considerably influence the varistor currentvoltage characteristics essentially in the ohmic region. An analysis of the phenomenon shows that the degradation is due to a conducting deposit around the varistors and a physical corrosion of the coating.
+
+ZINC OXIDES
+RESISTORS
+ELECTRIC DISCHARGES
+SULFUR FLUORIDES
+ELECTRICAL PROPERTIES
+IV CHARACTERISTIC
+DECOMPOSITION
+DEGRADATION

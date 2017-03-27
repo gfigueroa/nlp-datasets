@@ -1,0 +1,14 @@
+The influence of operation voltages and doping densities on superlattice infrared photodetectors (SLIPs) with a single current blocking layer has been investigated. Higher responsivity and the redshift of peak-responsivity wavelength with increasing applied voltage are observed for SLIP with higher quantum-well doping. The phenomenon is attributed to the increase in tunneling probability for low-energy photoelectrons with increased applied voltage. Taking into consideration the shift in Fermi level at different doping densities in the quantum well and the electron-tunneling probability for the front blocking layer, the spectral responses under different applied voltages can be derived by the summation of dipole transitions for each energy states in the minibands. It is shown that the measurement data and the simulation results are identical for devices applied under different voltages and with different quantum-well doping densities.
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor superlattices
+semiconductor device models
+infrared detectors
+photodetectors
+spectral line shift
+Fermi level
+tunnelling
+absorption coefficients
+semiconductor quantum wells

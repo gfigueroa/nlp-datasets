@@ -1,0 +1,11 @@
+Energy band structures are presented for three different types of SiSixGe1x superlattices using an approach more rigorous than the envelope function approach and including spinorbit and strain effects. The directness of the energy bands has been found to depend exclusively on the superlattice period. The energy extrema of the valence and conduction bands depend primarily on the thickness of the well material. The valenceband energy maxima vary much more with layer thickness than the conductionband minima. The maximum attainable band gaps correspond approximately to the band gap of the germaniumcontaining material.
+
+SILICON
+GERMANIUM SILICIDES
+SUPERLATTICES
+BAND STRUCTURE
+STRAINS
+LS COUPLING
+VALENCE BANDS
+CONDUCTION BANDS
+ENERGY GAP

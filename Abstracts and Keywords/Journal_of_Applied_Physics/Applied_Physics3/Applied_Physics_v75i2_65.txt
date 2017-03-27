@@ -1,0 +1,15 @@
+Heteroepitaxial CoxNi1xSi2 layers with good crystalline quality (Çmin=3.5%) have been formed by ion beam synthesis. For a sample with x=0.66, we found that this ternary silicide layer contains 11% type B and 89% type A orientation. The transmission electron microscopy investigation reveals that the type B component is mainly located at the interfaces and with a thickness of only a few monolayers. Xray diffraction studies of the sample show that the strain of the type B component is smaller than that of the type A and is probably the reason for such a unique distribution of the type B component in the epilayer. Rutherford backscatteringchanneling, Auger electron spectroscopy, transmission electron microscopy, and xray diffraction have been used in this study.
+
+SILICON
+COBALT SILICIDES
+NICKEL SILICIDES
+TERNARY ALLOYS
+EPITAXIAL LAYERS
+ENERGY BEAM DEPOSITION FILMS
+ION BEAMS
+TEM
+XRD
+AES
+RBS
+CHEMICAL COMPOSITION
+STRAINS

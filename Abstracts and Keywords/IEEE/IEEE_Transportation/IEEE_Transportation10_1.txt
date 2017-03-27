@@ -1,0 +1,6 @@
+This paper describes a novel high-precision, low-noise, high-stability, calibrated and compensated digital oscillatory gyroscope with SPI interface, housed in custom-made ceramic packages. The device is factory-calibrated and compensated for temperature effects to provide high-accuracy digital output over a broad temperature range. Optimized tuning of the excitation and detection frequencies, as well as optimized mechanical and electrical balancing result in low sensitivity to shock and vibrations. By utilizing a unique sealed cavity technology, the vibrating elements of the gyroscope are contained within the low-pressure hermetic environment needed for high Q factors. Further on, improved stability of the device is achieved by full design symmetry, high thermal efficiency and choice of crystalline materials in the entire structure.
+
+high-performance
+high-stability
+low-noise
+north seeking capable MEMS gyroscope

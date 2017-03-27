@@ -1,0 +1,5 @@
+Many distributed database applications need to replicate data to improve data availability and query response time. The two-phase commit protocol guarantees mutual consistency of replicated data but does not provide good performance. Lazy replication has been used as an alternative solution in several types of applications such as on-line financial transactions and telecommunication systems. In this case, mutual consistency is relaxed and the concept of freshness is used to measure the deviation between replica copies. In this paper, we propose two update propagation strategies that improve freshness. Both of them use immediate propagation: updates to a primary copy are propagated towards a slave node as soon as they are detected at the master node without waiting for the commitment of the update transaction. Our performance study shows that our strategies can improve data freshness by up to five times compared with the deferred approach.
+
+Data replication
+Distributed databases
+Performance evaluation

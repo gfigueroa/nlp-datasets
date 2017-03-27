@@ -1,0 +1,10 @@
+We fabricated Nb/AlOx/Nb Josephson junctions which showed excellent IV characteristics (Vm = 80 mV at the criticalcurrent density of 1500 A/cm2). We attribute these characteristics to the clear junction interface, obtained by depositing Nb and Al layers with a minimum of thermal and physical damage. We fabricated 104 junctions connected in series on a single chip with an area of 5×5 mm2. Each junction is 10×10 ¼m2. These junctions have excellent uniform critical currents, have not failed, and have not changed after roomtemperature storage for 4 years. These results indicate that Nb/AlOx/Nb junctions are excellent for use in Josephson LSI circuits. However, it may be further necessary to improve the uniformity of Al and Aloxide layers if they are used in an actual largescale integrated circuit, where more than 105 junctions are contained. The influence of the flux trap on current uniformity and deterioration of the IV characteristics by annealing may be critical for largescale integration. 	
+
+NIOBIUM
+ALUMINIUM OXIDES
+JOSEPHSON JUNCTIONS
+SPUTTERING
+ELECTRICAL PROPERTIES
+STABILITY
+INTEGRATED CIRCUITS
+MEDIUM TEMPERATURE

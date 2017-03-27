@@ -1,0 +1,6 @@
+The IEEE 802.16 standard, the service data units deemed to exceed the granted bandwidth may be delayed or dropped. In addition, nodes would behave maliciously by requesting more resources than their requirements just to deny other nodes from having access to the network. In this paper, we propose a trust-aware adaptive monitoring scheme that can be integrated with the basic architecture of WiMAX network to monitor if a service flow exceeds its maximum sustained traffic rate and whether the resources allocated to subscriber stations are significantly used or not. To detect and react to malicious behaviors, the scheme gradually establishes a trust relationship between the different entities of the network. We have evaluated the performance of the proposed scheme using the network simulator NS-2 while measuring several network parameters such as throughput.
+
+IEEE 802.16
+QoS
+WiMAX
+trust

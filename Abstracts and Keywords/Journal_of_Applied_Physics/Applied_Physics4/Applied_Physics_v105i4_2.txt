@@ -1,0 +1,10 @@
+We present a simulation to characterize the dependence on hydrostatic pressure for the photoluminescence spectra in self-assembled quantum dots with lens shape geometry. We have tested the physical effects of the band offset and electron-hole effective masses on the optical emission in dot lens. The model could be implemented to get qualitative information of the parameters involved in the quantum dot or the measured optical properties as function of pressure.
+
+effective mass
+gallium arsenide
+high-pressure effects
+III-V semiconductors
+indium compounds
+photoluminescence
+self-assembly
+semiconductor quantum dots

@@ -1,0 +1,7 @@
+Carbon nanotubes (CNTs) inevitably contain defects that exert a significant influence on their physical, electrical, and electrochemical properties. In this study, we subject vertically aligned multiwalled CNT ensembles to argon and hydrogen ion irradiation, to artificially introduce defects into the structure. Subsequently, Raman spectroscopy in conjunction with electrochemical analyses was used to characterize the amount and nature of disorder within the CNTs. While an increased disorder with ion irradiation was generally observed, argon and hydrogen exhibit different effects on the Raman intensity spectra. Argon irradiation seems to cause charged defects, e.g., in the form of dangling bonds, and increases the in-plane correlation length (La), while hydrogen irradiation passivates residual defects and decreases the La. It was noted that hydrogen treated CNTs could serve as electrochemical sensors with quicker response time.
+
+carbon nanotubes
+dangling bonds
+electrochemical sensors
+etching
+Raman spectra

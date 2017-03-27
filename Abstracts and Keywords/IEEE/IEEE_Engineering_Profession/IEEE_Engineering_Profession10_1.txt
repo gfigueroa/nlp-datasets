@@ -1,0 +1,8 @@
+This paper explores the work of Professor Kevin Warwick, a researcher in the Department of Cybernetics at the University of Reading in the United Kingdom, who has played a major role in propelling the science of humancentric chip implantation. On the 24<sup>th</sup> of August 1998, just over a decade ago, Professor Warwick became the first man to officially implant a radio-frequency identification (RFID) transponder under his skin. This paper explores Warwick's achievements, motivations, and chipping experience, offering a unique insight into the ethical dilemmas and controversy surrounding implantable devices for identification purposes, interactive environments and the potential for location-based services. The authors employed a qualitative research strategy. A case study of Professor Kevin Warwick and his research endeavors are presented in a narrative form. The study used three approaches to collect data for the case study- (i) an email questionnaire, (ii) a primary interview, and (iii) secondary documentary sources about Warwick. The data itself is analyzed using qualitative content analysis. The outcome of the research is a contextual account of Warwick's motivations towards the scientific study of implantable computing for the sake of medical progress; one of the approaches which (at least in this instance) underpins chip implant research for human benefit.
+
+Kevin Warwick
+chip implants
+cybernetics
+interactive environment
+location services
+ubiquitous computing

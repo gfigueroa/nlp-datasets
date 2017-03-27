@@ -1,0 +1,11 @@
+The linearized energy and momentum balance equations of the single electron gas transport model are considered. A general analytic solution is obtained for transient velocity responses to arbitrary time dependent field perturbations. A criterion for the occurrence of velocity overshoot following a field step is determined. Various characteristics of such overshoot are established, and a new differential overshoot mobility is defined. Compact analytic expressions are obtained for Thornbers augmented driftdiffusion overshoot coefficient B, and the smallsignal complex mobility. Calculated results are presented for electron transport in silicon at 77, 300, and 450 K, for material that is undoped and for material that is doped n type at a level of 1018 cm3.
+
+SEMICONDUCTOR DEVICES
+TRANSPORT PROCESSES
+SCATTERING
+ELECTRON GAS
+MONTE CARLO METHOD
+ANALYTICAL SOLUTION
+SILICON
+MOMENTUM TRANSFER
+MOBILITY

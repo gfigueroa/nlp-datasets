@@ -1,0 +1,15 @@
+A method for manufacturing terahertz absorber is presented. Varying fractions of graphite powder are mixed with the host poly methylmethacrylate powder and compress molded. The shielding efficiency, together with real and imaginary parts of the dielectric constant, is unambiguously determined by terahertz time domain spectroscopy in the continuous frequency range of 0.11.6THz. While the composites are absorptive in most of the frequency range with relatively small reflection, it turns metallic at a high enough graphite fraction of 35.7%: there exists a zero crossing of the real part of dielectric function µr(É) to negative values below 0.22THz. Our method provides an easy-to-control way of manufacturing terahertz absorbers with a wide range of shielding efficiency and low reflectance.
+
+polymers
+graphite
+powders
+composite materials
+microwave materials
+compression moulding
+time resolved spectra
+submillimetre wave spectra
+electromagnetic shielding
+electromagnetic wave absorption
+dielectric function
+reflectivity
+permittivity

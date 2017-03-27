@@ -1,0 +1,20 @@
+Focused, pulsed, tunable dye lasers have been used to deposit chromium films by multiphoton dissociation of Cr(CO)6. The multiphoton dissociation of Cr(CO)6 is strongly wavelength dependent. Large increases in deposition rate occur below 350 nm, where the threshold between initial 1 and 2 photon absorption to the lowest lying dissociative state are reached in Cr(CO)6. Lack of correlation of deposition rate with multiphoton ionization (MPI) resonances, and polarity of a biased electrode in the cell, suggests multiphoton absorption leads to decomposition to Cr atoms followed by ionization. Power dependence of the deposition rates and MPI signals indicate saturation in the focal region for wavelengths 280&lt;»&lt;340, for pulse energies 0.020.2 mJ. Deposition on cell windows not in the focal region also appears saturated at the shorter wavelengths. Films deposited on silicon and quartz substrates appear uniform, with visible evidence of melting and regrowth in the center of the deposits due to heating by subsequent pulses. Isotropic deposition of Cr atoms on the substrate from the gas phase, away from the irradiated spot, was also observed. Auger analysis of films deposited in the focal region suggest that significant quantities of carbon are present in the film. Alloying of the Cr with the underlying Si by laser heating of the substrate is also suggested.
+
+films
+deposition
+chromium
+dissociation
+carbonyls
+pulses
+dye lasers
+frequency dependence
+decomposition
+ionization
+saturation
+windows
+silicon
+quartz
+substrates
+heating
+isotropy
+auger electron spectroscopy

@@ -1,0 +1,5 @@
+We consider the entity resolution (ER) problem (also known as deduplication, or mergepurge), in which records determined to represent the same real-world entity are successively located and merged. We formalize the generic ER problem, treating the functions for comparing and merging records as black-boxes, which permits expressive and extensible ER solutions. We identify four important properties that, if satisfied by the match and merge functions, enable much more efficient ER algorithms. We develop three efficient ER algorithms: G-Swoosh for the case where the four properties do not hold, and R-Swoosh and F-Swoosh that exploit the four properties. F-Swoosh in addition assumes knowledge of the features (e.g., attributes) used by the match function. We experimentally evaluate the algorithms using comparison shopping data from Yahoo! Shopping and hotel information data from Yahoo! Travel. We also show that R-Swoosh (and F-Swoosh) can be used even when the four match and merge properties do not hold, if an approximate result is acceptable.
+
+Entity resolution
+Generic entity resolution
+Data cleaning

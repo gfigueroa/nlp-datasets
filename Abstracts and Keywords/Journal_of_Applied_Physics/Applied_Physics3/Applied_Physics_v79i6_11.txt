@@ -1,0 +1,10 @@
+The longitudinal (LO) and transverse (TO) A1 vibrational modes have been measured between 30 and 1200 cm1 as a function of temperature (301240 K) for both KTiOPO4 (KTP) and KTiOAsO4 (KTA). KTP and KTA exhibit an obviously different Raman spectra in the frequency region 400650 cm1 (with respect to KTA). This middlefrequency difference is attributed to the substitution ions in XO4 group (X=P or As) modifing the force constant of crystal. The relative intensities of the lowfrequency bands increase dramatically with increasing temperature due to high mobility of K+ ion. There is no typical softmode like behavior in the measured frequency range. A higher symmetric structure taking place above Tc has been confirmed by the disappearance of the A1g(LO) stretching modes of TiO6 group. Comparison of each frequency belonging to the symmetry A1, A2, B1, and B2 measured along the [110] phonon direction shows complex difference. The vibrational frequencies of various symmetries were also obtained. © 1996 American Institute of Physics. 
+
+ARSENATES
+MONOCRYSTALS
+OPTICAL MATERIALS
+POTASSIUM PHOSPHATES
+RAMAN SPECTRA
+TEMPERATURE DEPENDENCE
+TITANIUM COMPOUNDS
+VIBRATIONAL STATES

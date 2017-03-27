@@ -1,0 +1,18 @@
+Antiferromagnetic FeSn2(001) thin films with different thicknesses and relatively low Néel temperatures were grown on InSb(001)(4×2) surfaces by molecular-beam epitaxy. The Néel temperature could be increased to above room temperature by subsequent thermal annealing. In situ structural characterization was performed by high- and low-energy electron diffraction. The degree of the structural (001) texture as a function of the preparation and annealing conditions was investigated by x-ray diffractometry. The local magnetic properties and the spin structure were studied using 57Fe conversion electron Mössbauer spectroscopy (CEMS) at different temperatures. The epitaxial FeSn2(001) thin films exhibit in-plane Fe spin orientation and appear to be suitable antiferromagnets for studying the interfacial spin structure in exchange-biased bilayers by CEMS. © 2003 American Institute of Physics. 
+
+iron alloys
+tin alloys
+antiferromagnetic materials
+magnetic epitaxial layers
+Neel temperature
+annealing
+low energy electron diffraction
+high energy electron diffraction
+texture
+X-ray diffraction
+conversion electron spectra
+Mossbauer effect
+magnetic structure
+exchange interactions (electron)
+indium alloys
+interface magnetism

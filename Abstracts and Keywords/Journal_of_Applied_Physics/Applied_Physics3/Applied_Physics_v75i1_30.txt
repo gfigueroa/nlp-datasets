@@ -1,0 +1,12 @@
+The resonant structure in the conductivity of a twodimensional system such as a GaAs/AlGaAs heterojunction is investigated using a memory function approach. In a onesubband model the memory function obtains the expected dependence of the plasmon resonance on the electron concentration. A nonanalytic behavior is, however, obtained when a twosubband model is employed within the random phase approximation. In particular, a negative lifetime is found at low frequencies that is attributed to its inability to handle the full electronelectron interaction tensor. It is found that if certain matrix elements are discarded, the resulting memory function does become analytic. The result thus obtained for the electron lifetime agrees with experiment. In addition, the memory function calculated conductivity for the twosubband case shows a richer structure than the onesubband conductivity above.
+
+HETEROJUNCTIONS
+RESONANCE
+ELECTRIC CONDUCTIVITY
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+PLASMONS
+RANDOM PHASE APPROXIMATION
+TWODIMENSIONAL SYSTEMS
+LIFETIME
+ELECTRONELECTRON INTERACTIONS

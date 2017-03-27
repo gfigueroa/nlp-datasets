@@ -1,0 +1,13 @@
+Both isothermal and isochronal anneals were performed on doses of 1×1013 to 1×1015 cm2 of 200keV selenium ions implanted into indium phosphide (InP) at room temperature. A graphite strip heater was used to anneal chemical vapor deposited silicon nitride (CVDSi3N4) capped samples between 620 and 710	°C for times of 5180 sec. The electrical properties varied with annealing temperature and time; however, it was found unnecessary to anneal for times in excess of about 40 sec. Also, heat treatment above ± 650	°C produced only a small improvement in the electrical properties. Thus only relatively short thermal pulses to temperatures between 650 and 710	°C are required to activate selenium ions implanted into indium phosphide.
+
+annealing
+selenium
+selenium ions
+heat treatments
+ion implantation
+indium phosphides
+silicon nitrides
+chemical vapor deposition
+high temperature
+kev range 1001000
+electrical properties

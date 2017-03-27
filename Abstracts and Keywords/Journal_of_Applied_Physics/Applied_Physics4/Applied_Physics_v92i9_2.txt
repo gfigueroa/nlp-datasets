@@ -1,0 +1,9 @@
+We report a study of the crucial role of liquid-crystalpolymer interface on photoinduced transport and redistribution of charges in pure nematic liquid-crystal cells that exhibit a photorefractivelike effect. A stationary photocurrent that is 30% of the dark current has been measured for very low power illumination (few mW) and low applied dc electric field (about 0.1 V/¼m). The experimental results indicate a clear dependence of the effect on the light wavelength. The absence of photocurrent in cells with only one component, liquid-crystal, or polymer, suggests that both are not intrinsically photoconductive, rules out light-induced charge injection by the electrodes, and indicates the polymerliquid-crystal interface as the photoactive element in the effect. The photocurrent dynamics indicate the presence of various mechanisms. We suppose that the effect is due to photoinduced carriers injection through the liquid-crystalpolymer interface and recombination process with the counterions present on the opposite side. Different hypotheses are made and discussed. © 2002 American Institute of Physics. 
+
+nematic liquid crystals
+photorefractive effect
+dark conductivity
+photoelectricity
+charge injection
+organic compounds
+polymers

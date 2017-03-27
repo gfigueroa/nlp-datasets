@@ -1,0 +1,8 @@
+The structures of free-standing magnesium nanowires are systematically studied by using genetic algorithm simulations based on molecular dynamics with a tight-binding many body potential. Several helical multishell cylindrical growth sequences are observed for magnesium nanowires. The numbers of atomic strands show the even-odd or odd-even coupling between the inner and outershell with the differences of five strands, These multishell structures are made up of coaxial tubes in the three- and four-strands helical, centered pentagonal and hexagonal, and double-chain-core parallel curved surface epitaxy. The average binding energy and coordination numbers are calculated. The angular correlation functions and vibrational properties of magnesium nanowire have also been studied.
+
+magnesium
+nanowires
+correlation methods
+binding energy
+molecular dynamics method
+tight-binding calculations

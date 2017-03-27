@@ -1,0 +1,11 @@
+We have investigated the crystallization of amorphous germanium films on GaAs crystals using nanosecond laser pulses. The structure and composition of the crystallized layers is dominated by nonequilibrium effects induced by the fast cooling process following laser irradiation. Perfect epitaxial films are obtained for fluencies that completely melt the Ge film, but not the substrate. For higher fluencies, partial melting of the substrate leads to the formation of a (GaAs)1xGe2x epitaxial alloy with a graded composition profile at the interface with the substrate. Since Ge and GaAs are thermodynamically immiscible in the solid phase, the formation of the alloy is attributed to the suppression of phase separation during the fast cooling process. Lower laser fluencies lead to polycrystalline layers with a patterned surface structure. The latter is attributed to the freeze-in of instabilities in the melt during the fast solidification process. © 2001 American Institute of Physics.
+
+elemental semiconductors
+amorphous semiconductors
+semiconductor growth
+crystallisation
+surface structure
+laser materials processing
+semiconductor epitaxial layers
+liquid phase epitaxial growth
+germanium

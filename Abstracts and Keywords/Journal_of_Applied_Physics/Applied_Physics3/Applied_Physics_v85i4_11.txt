@@ -1,0 +1,6 @@
+In the laser ablation of RuO2, the propagation of oxygen and ruthenium atoms in vacuum and in an oxygen ambient were investigated by observing the fluorescence from excited atoms in the plume using a framing streak camera. An analysis, which took into account the focusing depth of the camera, was introduced. In vacuum the spatial distributions of the oxygen and ruthenium atoms were found to be shifted Maxwellians. The flow velocity and thermal velocity remained almost unchanged for different laser energy densities, suggesting a thermal process during the interaction of laser pulse and target. The kinetic energies of 12 and 19 eV for oxygen and ruthenium atoms, respectively, were found. In the presence of an O2 ambient, atom propagation changed from a free expansion in vacuum to a collision-dominated one. The O2 molecules collide with the species present in the plasma, slowing down their velocities, and the velocities for different atoms equilibrate to almost the same value at a certain distance from the target and at a certain pressure of O2 ambient due to collisions between fast and slow atoms and exchanging of speeds. © 1999 American Institute of Physics. 
+
+ruthenium compounds
+laser ablation
+fluorescence
+plasma production by laser

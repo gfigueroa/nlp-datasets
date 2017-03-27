@@ -1,0 +1,5 @@
+This paper is concerned with modified function projective synchronization in discrete-time chaotic and hyperchaotic systems. The control method is based on the active control idea and the backstepping design method. Firstly, the projective synchronization control method is given mathematically. Then, the 2D discrete-time Henon map, the 2D discrete-time kawakami system, the 3D Henon map and the 3D Henon-like map are chosen to verify the correctness and effectiveness of the control method.
+
+Backstepping design method
+Chaotic synchronization
+Discrete-time chaotic system.

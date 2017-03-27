@@ -1,0 +1,8 @@
+An equivalent circuit for a hysteresis motor (HM) is established in this paper, of which the electrical parameters can be directly calculated for motor analysis. The circuit is based on the parallelogram hysteresis model (PHM), which is often used in the analysis of electric machines, including the HMs and the permanent magnet motors. In this paper, a significant variable (<i>Br</i>) of the PHM developed by Copeland and Slemon (CSPM) is first modified, which makes the major loop area of the <i>B</i> -<i>H</i> parallelogram and that of the <i>B</i>-<i>H</i> rectangular loop theoretically equal. Then, the equivalent circuit of an HM is set up. To obtain the parameters in the equivalent circuit, the corresponding ellipse model of the modified CSPM is derived by Fourier transform. Finally, a 30-HP written pole machine is analyzed and its rated operation point is obtained from the equivalent circuit. The test data validate the equivalent circuit and the calculations. The method presented in this paper is proved to be useful in the design of HMs as well as written pole machines.
+
+Electric machines
+ellipse model
+equivalent circuit
+hysteresis model
+parallelogram model
+self-consistency validation

@@ -1,0 +1,14 @@
+Lowtemperature photoluminescence has been used to characterize 200 keV/3×1012 cm2 Siimplanted and rapid thermal annealed InP:Fe. A very lowoptical activation was observed in the samples annealed for 15 s at less than 700	°C. A peak at 1.353 eV has been observed along with exciton peak (1.419 eV) and ZnC acceptor peak (1.382 eV) in Siimplanted and annealed samples. The 1.353eV peak which is not observed in unimplanted samples exhibited shallow donortodeep acceptor transition behavior and is believed to be due to the siliconantisite defectcomplex (InPSi+In) acting as the deep acceptor. Analysis of variable temperature PL data gives an activation energy of 69.8 meV for this deep acceptor level. Due to compensating effect of this acceptor complex, a relatively poor electrical activation (d35%) has been observed in the annealed samples.
+
+ACCEPTORS
+IMPURITY STATES
+DEEP ENERGY LEVELS
+PHOTOLUMINESCENCE
+ANNEALING
+INDIUM PHOSPHIDES
+HIGH TEMPERATURE
+IRON
+ZINC
+ACTIVATION ENERGY
+ION IMPLANTATION
+SILICON IONS

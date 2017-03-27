@@ -1,0 +1,5 @@
+First vision-based approaches for detecting the drivable road area on unmarked streets were introduced in recent years. Although most of these visual feature-based approaches show sound results in scenarios of limited complexity, they seem to lack the necessary system-inherent flexibility to run in complex cluttered environments under changing lighting conditions. Our proposed architecture relies on four novel approaches that make such systems more generic by autonomously adapting important system parameters to the environment. As the presented results show, the approach allows for robust road detection on unmarked inner-city streets without manual tuning of internal parameters. The described system was implemented in C relying on the Intel performance primitives library and proved its real-time capability. It will be a sub-module of an advanced driver assistance architecture, which runs in real-time on a test vehicle.
+
+driver assistance
+lane detection
+robust path identification

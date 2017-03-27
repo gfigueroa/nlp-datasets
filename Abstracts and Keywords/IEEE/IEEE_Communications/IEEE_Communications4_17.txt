@@ -1,0 +1,6 @@
+Automatically switched optical network (ASON) is controlled with the help of generalized multi protocol label switch (GMPLS) protocol. It enables telecom operators automatic traffic provisioning for enhanced network protection, operation and maintenance, but the deployed ASON/GMPLS realizes only point-to-point connections. The emerging broadband services, such as IPTV and e-Science, would need point-to-multipoint and multipoint-to-multipoint connections in optical layer. This paper investigates and summarizes the enhanced connectivity in ASON/GMPLS network with demonstration in field trial of regional China centered at Shanghai based on 3TNET project.
+
+ASON
+Control and management
+GMPLS
+Optical fiber communication

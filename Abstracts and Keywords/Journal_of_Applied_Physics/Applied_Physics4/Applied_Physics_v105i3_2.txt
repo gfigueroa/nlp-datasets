@@ -1,0 +1,6 @@
+The plasma cracking of exo-tetrahydrodicyclopentadiene (JP-10) (C10H16) is investigated using a quadrupole mass spectrometer. The relative densities of the JP-10 molecule and its principal decomposition products, including H2, are determined for varying rf powers in the range of 330 W, using the measured ion intensities combined with ionization cross section data from the literature. The extent of the cracking of JP-10 and the formation of H2 as functions of the rf power are discussed.
+
+decomposition
+mass spectroscopic chemical analysis
+organic compounds
+plasma chemistry

@@ -1,0 +1,15 @@
+Comments made for the infrared absorption data in our previous paper have pointed out that the assignments of thermally grown oxide products are in error. From comparing the infrared absorption spectra for the thermal oxide with those for In2O3, P2O5, and InP, and analyzing the electron diffraction data for the thermal oxide, it is concluded that conclusions reached in our previous paper have been conservative, and unknown infrared absorption band for the thermal oxide may originate from InPO4 as described in the comments.
+
+FILMS
+INDIUM PHOSPHIDES
+OXIDATION
+TEMPERATURE EFFECTS
+OXIDES
+INFRARED RADIATION
+ABSORPTION
+SPECTRA
+INDIUM OXIDES
+PHOSPHOROUS OXIDES
+ELECTRON DIFFRACTION
+INDIUM PHOSPHATES
+OPTICAL PROPERTIES

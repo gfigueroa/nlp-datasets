@@ -1,0 +1,10 @@
+A three-step method is proposed for reconstructing the in-plane magnetization distribution from a magnetic force microscope (MFM) image. The magnetization distribution is initialized using some assumptions based on our knowledge about domain structures and MFM contrast mechanisms. Then the high-energy moment configurations, which are initialized based on linear variation assumption, are relaxed by performing a micromagnetic calculation using experimentally measured magnetic parameters. A section of a 360° wall in a NiFe/NiO bilayer has been selected to illustrate the reconstruction procedures. It is shown that the method is effective in revealing the wall structure related to the MFM contrast. This method avoids problems caused by noise and nonunique solutions of the micromagnetic equations. © 2001 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+nickel compounds
+magnetisation
+magnetic force microscopy
+magnetic domain walls
+magnetic thin films
+ferromagnetic materials

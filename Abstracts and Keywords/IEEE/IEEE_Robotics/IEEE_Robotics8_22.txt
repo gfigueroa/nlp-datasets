@@ -1,0 +1,7 @@
+Bioventing and microbe composting methods were used in the laboratory to simulate the remediation of the diesel-contaminated soil. Consequently the contaminants removal paths and mechanism were discussed. The results showed that these two methods were effective in the remediation process. After 45 days, over 64&#x025; diesel was removed from the soil given the original oil content at 5.00&#x0D7;104mg&#x02022;kg-1. The rate constant of biodegradation and half life was 0.0384d-1 and 18.05d, respectively. Biodegradation was the main way of contaminant removal. Volatilization loss of diesel oil was less than 2.5&#x025; of initial diesel oil content. Among the three ratio of contaminated soil to sewage sludge (dry weight) with the ratio of 8:2, 7:3 and 5:5 respectively, the highest removal of diesel oil was observed in the ratio of 7:3, in which the removal of complete biodegradation reached to 73.59&#x025; of the total removal.
+
+biodegradation
+bioventing
+composting
+diesel-contaminated soil
+sewage sludge

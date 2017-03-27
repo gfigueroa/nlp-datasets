@@ -1,0 +1,6 @@
+Beginning with the present situation and relevance of software protection, introduced the classification of software protection and analyzed its advantages and disadvantages, focused on the meaning, content and development of its key technologies, discussed the ways to improve its strength and finally predicted the trends for it.
+
+code obfuscation
+data encryption
+software protection
+software watermarking

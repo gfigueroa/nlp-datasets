@@ -1,0 +1,17 @@
+The total Sn concentration of Sndoped vaporphase epitaxially grown GaAs layers (dopant range 10171019 cm3) was determined by secondaryion mass spectrometry. Within experimental error these concentrations are equal to the electron densities obtained from Hall measurements on the same samples. This result indicates that, in contrast to earlier conclusions, Sn doping does not introduce any significant degree of compensation. The upper limit of the acceptor concentration compared to that of the donors is established to be 8%. The importance of this finding for GaAs films with donortype dopants is discussed.
+
+SEMICONDUCTOR MATERIALS
+GALLIUM ARSENIDES
+ELECTRON DENSITY
+EPITAXY
+VAPORS
+TIN
+QUANTITY RATIO
+DOPED MATERIALS
+LAYERS
+SECONDARY EMISSION
+IONS
+MASS SPECTROSCOPY
+ERRORS
+HALL EFFECT
+COMPARATIVE EVALUATIONS

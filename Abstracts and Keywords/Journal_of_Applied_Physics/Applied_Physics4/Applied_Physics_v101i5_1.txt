@@ -1,0 +1,16 @@
+Congruent LiNbO3 crystals doped with 5.5/1, 6/0.15, and 7/0.8mol	%/mol	% of Zn/Er were thermally treated at 1120	°C over 101h using vapor transport equilibration (VTE) technique. Unpolarized visible and infrared absorption spectra of the VTE-treated and corresponding as-grown crystals were recorded at room temperature. It is shown that VTE treatment has brought these crystals closer to stoichiometric composition. X-ray powder diffraction and optical absorption results show that the VTE treatment induces the crystalline phase transformation with respect to Er3+ from the original Er3+:LiNbO3 to the ErNbO4 in all crystals studied. The formation of the ErNbO4 phase results in substantial absorption changes that include the drop of the transparency in the visible region, the reduction of Er3+ absorption, and the Zn-doping-level-dependent changes in spectral shape and peaking position at 0.98 and 1.5¼m regions. Based upon the measured absorption spectra, the influences of Zn-doping level and VTE treatment on the Er3+ spectroscopic properties were studied by using the Judd-Ofelt (JO) theory. The results show that the VTE treatment has a little effect on the fluorescence branch ratio, while a large effect on the JO parameters, oscillator strength, and electron transition probability. The Zn doping level affects the JO parameters, oscillator strength, and transition probabilities of some individual manifolds. In addition, the VTE treatment leads to the increases of the theoretical radiative lifetimes of almost all manifolds considered. For the emission at 1.5¼m, the lifetime increase is as much as 30% and the theoretical results are in well agreement with the experimental data. The VTE-induced lifetime increase is qualitatively explained.
+
+zinc
+erbium
+lithium compounds
+Judd-Ofelt theory
+infrared spectra
+visible spectra
+heat treatment
+X-ray diffraction
+solid-state phase transformations
+doping profiles
+oscillator strengths
+radiative lifetimes
+fluorescence
+transparency

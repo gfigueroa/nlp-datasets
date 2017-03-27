@@ -1,0 +1,8 @@
+Spin-dependent tunnel junctions with AlON and AlN barriers have been investigated using high-resolution electron microscopy. Plasma gas composition, nitridation time, and deposited Al thickness were studied independently. Plasma-nitrided Al produces thinner tunnel barriers than those obtained with an oxygen or oxygen+nitrogen plasma, for the same plasma exposure time. Experiments to study an increase in plasma nitridation time for a constant Al deposition thickness showed that overexposure to the plasma resulted in a thinner barrierpossibly due to the competing processes of nitride formation and slight etching of the barrier. The AlN barrier thickness increases monotonically with deposited Al thickness for a constant nitridation time. Electron energy loss spectroscopy compositional mapping has confirmed that nitrogen is present in the barrier layer. The roughness between the barrier layer and the two ferromagnetic layers has also been estimated. © 2001 American Institute of Physics. 
+
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+electron microscopy
+interface roughness
+electron energy loss spectra

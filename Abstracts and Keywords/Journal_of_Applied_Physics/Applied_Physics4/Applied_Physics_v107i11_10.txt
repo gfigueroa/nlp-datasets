@@ -1,0 +1,9 @@
+Recently, we reported a vigorous, scale-adaptive mixing technique suitable for microfluidic applications, wherein a suspension of spherical magnetic particles is subjected to a vortex magnetic field, which induces the formation of dynamic particle chains that efficiently stir the solution. Here we explore the dependence of the mixing torque on particle shape, and show that increasing degrees of shape anisometry (i.e., spheres, platelets, rods) give increased mixing torque at the same particle volume fraction. Moreover, all particles, regardless of shape, exhibit similar dependencies of the mixing torque on the vortex field parameters: the torque is maximized in a balanced vortex magnetic field, is proportional to the square of the field strength, and is independent of the field frequency. However, the torque advantage of anisometric particles is somewhat offset by their increased packing volume, which can make the removal of trapped fluid difficult.
+
+magnetic particles
+magnetohydrodynamics
+microfluidics
+mixing
+suspensions
+torque
+vortices

@@ -1,0 +1,10 @@
+A model based on a timedependent treatment of the ablation of organic polymer surfaces by UV laser radiation is proposed. It relates the dynamics of the etching process to the experimental parameters such as the fluence, wavelength, and the width of the laser pulse. The model is applied to poly(methyl methacrylate) and to polyimide in order to predict the etch characteristics quantitatively and to compare them systematically to the experimental results. This model accounts for a wide variety of observations such as fluence thresholds, wavelengthdependent etch rates, incubation pulses, filtering by photofragments, fast intrapulse etching, thermal contributions, and even the influence of pulse compression so that a consistent picture of the mechanisms underlying the ablation process becomes apparent.
+
+ETCHING
+ABLATION
+LASER RADIATION
+PHOTON COLLISIONS
+LASERRADIATION HEATING
+POLYIMIDES
+PMMA
+ULTRAVIOLET RADIATION

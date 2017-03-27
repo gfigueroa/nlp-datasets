@@ -1,0 +1,18 @@
+Large electrical polarization effects in the time photoresponse of multilayer heterostructure diodes have been observed. This phenomenon manifests itself in a displacement current spike synchronous to a darklight transition and in an opposite spike in the lightdark one. The effect is associated with the pileup and spatial separation of photogenerated electrons and holes in the wells in the spacecharge region of the diode. At a particular forward bias voltage, the conduction photocurrent is eliminated, allowing accurate measurements of this phenomenon.
+
+SEMICONDUCTOR DIODES
+MULTILAYERS
+HETEROSTRUCTURES
+PHOTOCURRENTS
+POLARIZATION
+QUANTUM WELL STRUCTURES
+ELECTRONS
+HOLES
+SPACE CHARGE
+PHOTOPRODUCTION
+EPITAXY
+CHEMICAL VAPOR DEPOSITION
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+CV CHARACTERISTIC

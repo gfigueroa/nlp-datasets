@@ -1,0 +1,12 @@
+Sodium niobium borophosphate glass, with a composition of 0.58(0.95NaPO3+0.05Na2B4O7)+0.42Nb2O5, has been doped with monovalent silver ions. Second harmonic generation (SHG) has been obtained from the poling treatment of this sample. The second order nonlinearity from the anode side was estimated from an analysis of transmitted polarized Maker-fringe patterns. Thanks to the original Maker fringe simulations, a value of 3 pm/V is obtained with the silver doped glass that unambiguously scales an enhancement of < 35% with respect to the nondoped glass susceptibility. For both glasses, the nonlinear layer is found to be sodium-depleted up to 4¼m inside the anode, in accordance with quantitative energy dispersive x-ray spectroscopy characterizations. This comparative study indicates complex space-charge-migration processes during the poling treatment. The relative enhancement of the SHG signal of the silver doped glass is correlated with the increase in its linear susceptibility.
+
+doping
+light polarisation
+light transmission
+niobium compounds
+nonlinear optical susceptibility
+optical harmonic generation
+phosphate glasses
+silver
+sodium compounds
+X-ray chemical analysis

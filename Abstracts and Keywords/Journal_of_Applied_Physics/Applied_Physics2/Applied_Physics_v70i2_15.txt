@@ -1,0 +1,9 @@
+The origin of the excess admittance at a forwardbiased Schottky diode invokes a controversy among research workers. Werner commented on our papers [J. Appl. Phys. 70, 1090 (1991)], in which he believes that the excess admittance is caused by minoritycarrier extraction at defective back contacts rather than charge capture and emission at interface states. This reply answers the questions raised by Werner et al. [Phys. Rev. Lett. 60, 53 (1988)] and points out that the minoritycarrier effect cannot account for the experimental observations.
+
+METALS
+SEMICONDUCTOR MATERIALS
+INTERFACE PHENOMENA
+CAPACITANCE
+SCHOTTKY BARRIER DIODES
+MINORITY CARRIERS
+MATHEMATICAL MODELS

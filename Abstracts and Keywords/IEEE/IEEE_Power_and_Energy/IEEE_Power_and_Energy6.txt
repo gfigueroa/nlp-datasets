@@ -1,0 +1,5 @@
+This paper examines the value of concentrating solar power (CSP) and thermal energy storage (TES) in a number of regions in the southwestern United States. Our analysis shows that TES can increase the value of CSP by allowing more thermal energy from a CSP plant's solar field to be used, allowing a CSP plant to accommodate a larger solar field, and by allowing CSP generation to be shifted to hours with higher energy prices. We analyze the sensitivity of this value to a number of factors, including the optimization period, price and solar forecasting, ancillary service sales, and dry cooling of the CSP plant, and also estimate the capacity value of a CSP plant with TES. We further discuss the value of CSP plants and TES net of capital costs.
+
+Economics
+solar power generation
+thermal energy storage (TES)

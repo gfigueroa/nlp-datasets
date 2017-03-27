@@ -1,0 +1,9 @@
+The electron pulse broadening and energy spread, caused by space charge effects, in a photoelectron gun are studied analytically using a fluid model. The model is applicable in both the photocathode-to-mesh region and the postanode electron drift region. It is found that space charge effects in the photocathode-to-mesh region are generally unimportant even for subpicosecond pulses. However, because of the long drift distance, electron pulse broadening due to space charge effects in the drift region is usually significant and could be much larger than the initial electron pulse duration for a subpicosecond electron pulse. Space charge effects can also lead to a considerable electron energy spread in the drift region. Temporal broadening is calculated for an initial electron pulse as short as 50 fs with different electron densities, final electron energies, and drift distances. The results can be used to design electron guns producing subpicosecond pulses for streak cameras as well as for time resolved electron diffraction. © 2002 American Institute of Physics. 
+
+electron guns
+electron beams
+particle beam diagnostics
+space charge
+photoemission
+streak cameras
+electron diffraction

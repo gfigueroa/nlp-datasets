@@ -1,0 +1,12 @@
+A spatial light modulator consisting of a polymerdispersed liquid crystal (PDLC) film, a dielectric mirror, and a Bi12SiO20 photoconductor is useful for projectiontype displays, optical image processing, and optical computing. However, a portion of the reading light scattered by the PDLC film passes through the dielectric mirror and illuminates the photoconductor, thus causing deterioration of displayimage quality. This article reports on the results of a detailed study on the influence of reading light on the resolution and amplification factor, which is the ratio of reading light intensity to the maximum intensity of writing light. Angular distributions of light scattered by a PDLC cell were measured and the results were used to calculate the intensity of scattered light absorbed by the photoconductor. We then analyzed the optical input/output characteristics of the spatial light modulator with regard to the optical feedback effect caused by the reading light in order to discover the parameter for evaluating image quality. The relation between amplification and resolution is derived from this parameter. We have also considered a light absorption layer for preventing the deterioration of image quality and obtained the relation between the amplification factor and the transmittance of the light absorption layer for high definition images of high brightness. Finally, these theoretical results were confirmed by an experiment using a spatial light modulator with no dielectric mirror.
+
+LIQUID CRYSTAL DEVICES
+OPTICAL MODULATORS
+POLYMERS
+DISPERSIONS
+RESOLUTION
+NEMATIC CRYSTALS
+FILMS
+LIGHT SCATTERING
+IMAGE PROCESSING
+COMPOSITE MATERIALS

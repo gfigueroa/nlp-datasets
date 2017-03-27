@@ -1,0 +1,11 @@
+A multiple images potential energy model for a charge carrier located in a single quantum well (QW) of a superlattice is derived. The new model is applied to a hydrogenic charge carrier in a GaAs QW of GaAs/AlxGa1xAs superlattice. It is found that the present model is more pronounced for studying the energy states of impurities in narrow QWs than for wide ones.
+
+SUPERLATTICES
+POTENTIAL ENERGY
+IMAGE FORCE
+MATHEMATICAL MODELS
+IMPURITIES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+QUASIBINARY COMPOUNDS
+CHARGE TRANSPORT

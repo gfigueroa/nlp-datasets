@@ -1,0 +1,8 @@
+A resonance method for measuring the complex elastic and electromechanical properties of piezoelectric materials under high-power operational conditions has been developed. In this method, rectangular specimens are piezoelectrically driven into mechanical resonance. The displacement of the transverse resonance mode is measured as a function of frequency (f
+) using an optical vibrometer method in conjunction with a frequency response analyzer. Due to the wide amplitude sensitivity range of the detection system, asymmetries in nonlinear resonance curves with mechanical damping can be accurately measured. The method has been applied to the study of Pb(Zr1xTix)O3. Under resonant high-power drive, it has been found that electromechanical nonlinearities are due to elastic ones, as the elastic and electromechanical properties were both found to scale with the square of the strain amplitude. The temperature (T) and ac electric field (Eac) dependence of the mechanical quality factor Qm were also determined. Iso-Qm curves were constructed that can be used to predict performance criteria for high-power applications of piezoelectric materials. © 2001 American Institute of Physics. 
+
+piezoelectric materials
+frequency response
+Q-factor
+elasticity
+lead compounds

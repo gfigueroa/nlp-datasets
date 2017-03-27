@@ -1,0 +1,6 @@
+A new type of oil and gas wells' orientation &amp; incline system which is constituted of fiber optic gyroscope and MEMS accelerometer has been introduced. And the system scheme, methods of dynamic north-seeking and algorithm have been given. By the introduction of low-speed continuous rotation, the adoption of dynamic rotation mode and the using of inertial system's own output signal, the low-frequency random drift error of fiber-optic gyro is decreased, and ultimately this instrument can achieve the oil and gas wells' geographic north &amp; Incline angle of probe quickly and accurately. The experimental results show that: the system's orientation precise is within plusmn1deg, and the level precise is within plusmn0.1deg. Besides, the system has the advantage of having solid structure, stand high temperature, high shock above 100g, more than 3000h of MTBF, more than 10 years of life expectancy. It is suitable for all-weather field environment, and is the ideal next-generation oil and gas wells' orientation &amp; incline measurement instrument.
+
+dynamic north-seeking
+oil and gas wells
+orientation &#x00026; Incline
+solid structure

@@ -1,0 +1,6 @@
+The author reviews the basic properties of the cytochrome enzyme systems and discusses why it is important for prescribing psychiatrists to be familiar with them. He then reviews the specific properties and types of interactions associated with the cytochrome families that play the most important roles in psychotropic drug metabolism: CYP 3A4, CYP 2D6, CYP 1A2, and CYP 2C. Tables are provided listing the principle substrates, inhibitors, and inducers of each of these cytochrome families. Finally, practical and clinical considerations in assessing the potential for cytochrome interactions are reviewed and illustrated with clinical vignettes. 
+
+cytochrome enzymes
+cytochrome P450 system
+psychotropic medications
+drug interactions

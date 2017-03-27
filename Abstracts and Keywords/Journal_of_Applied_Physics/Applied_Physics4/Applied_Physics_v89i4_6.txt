@@ -1,0 +1,11 @@
+A quantitative analysis of 29Si nuclear magnetic resonance spectra of radiation damaged, natural zircons showed that the local structure in crystalline and amorphous regions depend explicitly on radiation dose. Nonpercolating amorphous islands of high density glass within the crystalline matrix show a low interconnectivity of SiO4 tetrahedra. This structural state is quite different from that of the high dose, percolating regions of low density glass with more polymerised tetrahedra. A continuous nonlinear dose dependence between the high and low density glass states is reported. A continuous evolution of the local structure of the crystalline phase up to the percolation point is also reported. No phase separation into binary oxides was observed. The total number of permanently displaced atoms per ±-recoil event is <3800 atoms for low radiation doses and decreases to <2000 atoms for 10×1018
+±
+events/g. No indication of partitioning of paramagnetic impurities between crystalline and amorphous regions was found for these natural zircons. The amorphous fractions of the metamict zircons were determined as a function of their accumulated radiation dose. These values coincide closely with those recently determined by x-ray diffraction studies. They are much greater than previously assumed based on density measurements. The dose dependence is consistent with the concept of direct impact amorphization in the atomic cascade following an ±-recoil event. © 2001 American Institute of Physics. 
+
+zirconium compounds
+minerals
+alpha-particle effects
+nuclear magnetic resonance
+amorphisation
+glass structure
+percolation

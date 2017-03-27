@@ -1,0 +1,10 @@
+Pr1xSrxFe0.8Ni0.2O3´ (x = 0.1, 0.2, and 0.3) polycrystalline phases were prepared by combustion synthesis. Their magnetic properties and Mössbauer effect have been examined in the range 5300 K. Mössbauer spectroscopy shows the existence of charge disproportionation in several of the samples at low temperatures. Meanwhile, the samples present multiple features pointing out a frustrated magnetic order, with competing ferro- and antiferromagnetic interactions. Additionally, exchange bias (EB) phenomena have been observed. Hence, when the samples are cooled in a static magnetic field down to temperatures below 50 K, the hysteresis loops shift in the opposite direction to the applied biasing field, with shifts up to 10 kOe and more, and a small vertical shift of the loops also appears. This behavior seems linked to spin disorder and to the appearance of ferromagnetic (FM) ordered regions at low temperatures when cooling with a high applied field. The growth of these FM regions is likely due to the aligning role of an important cooling magnetic field over Ni-Fe and Fe5+-Fe3+ FM interactions. The higher FM contributions and therefore EB values found in the samples presenting charge disproportionation are related to the formation of FM regions in Fe5+-rich areas.
+
+antiferromagnetic materials
+combustion synthesis
+exchange interactions (electron)
+ferromagnetic materials
+magnetic hysteresis
+Mossbauer effect
+praseodymium compounds
+strontium compounds

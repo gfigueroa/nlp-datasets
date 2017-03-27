@@ -1,0 +1,8 @@
+Seventeen years ago, Ito, Naito, and Inaba [J. Appl. Phys. 46, 3992 (1975)] studied the general nature of induced secondorder nonlinear optical polarizations and their phase matching in biaxial crystal. They derived the expressions of the effective nonlinear coefficients for both type I and type II phase matching. In recent research work, we found some errors in some of the expressions in that paper which were used by some papers published later. 	
+
+CRYSTALS
+NONLINEAR OPTICS
+POLARIZABILITY
+PHASEMATCHING
+ERRORS
+EQUATIONS

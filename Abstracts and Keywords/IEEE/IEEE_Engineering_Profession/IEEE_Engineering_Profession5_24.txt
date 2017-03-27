@@ -1,0 +1,6 @@
+In the logistics system, the facility location problem, which can be used to determine the mode, the structure and the form of the whole logistics system, is a very important decision problem in the logistics network. Often uncertainty may be associated with demand, supply or various relevant costs. In some cases, roughness and fuzziness simultaneously appear in a system, in order to describe this phenomena, we introduce the concept of hybrid variable and propose a mixed integer programming model for rough fuzzy facilities location problem.
+
+facility location
+hybrid variable
+rough fuzzy
+st-GA

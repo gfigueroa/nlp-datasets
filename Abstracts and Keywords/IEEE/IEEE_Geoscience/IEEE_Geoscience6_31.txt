@@ -1,0 +1,5 @@
+As information technology and multimedia products become more and more readily available, copyright and other related legal topics become more and more significant. Embedding copyright information as hidden data into the multimedia product-named watermarking- is one of the methods to protect owner rights. Two main concepts in watermarking are imperceptibility and robustness of the watermark. A tradeoff between these two features exists, which can be introduced as an optimization problem. Genetic Algorithm (GA) is applied to solve this optimization problem. In this paper, a new adjustable watermarking method based on singular value decomposition is presented so that SVD parameters are adjusted by using the GA considering image complexity and attack resistance. The proposed watermarking method is also an adjustable solution, so that by changing fitness function (cost function), watermarking method can be converted to each of robust, fragile, or semi-fragile types. Simulation results show that the proposed method has better results from the case where watermarking parameters are adjusted by the user empirically.
+
+GA
+SVD
+blind Watermarking

@@ -1,0 +1,16 @@
+Transparent ultrathin films (&lt;100 nm) of lead lanthanum zirconate titanate (PLZT) with good dielectric properties were successfully grown on a platinum plate by rf magnetron sputtering and following an anneal in PbO atmosphere. The sputtering conditions were controlled by monitoring the plasma emission from the sputtering species. The PLZT thin films were deposited at an extremely low growth rate of 36 nm/h at 400	°C and annealed at 800	°C for 3 h in PbO atmosphere. The obtained thin films are oriented to [110] of the perovskitetype structure and have relatively low dc conductivity (<107 ©1	cm1). The evaluated dielectric constants are anomalously large around 5000 at room temperature and 1 kHz.
+
+LEAD COMPOUNDS
+LANTHANUM COMPOUNDS
+ZIRCONATES
+TITANATES
+THIN FILMS
+SPUTTERING
+PLATINUM
+SUBSTRATES
+DIELECTRIC PROPERTIES
+ANNEALING
+ANOMALOUS PROPERTIES
+MEDIUM TEMPERATURE
+KHZ RANGE
+ELECTRIC CONDUCTIVITY

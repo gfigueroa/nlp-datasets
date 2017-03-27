@@ -1,0 +1,9 @@
+Lack of parametric polymorphism has been a major obstacle for making Java a viable database programming language. Regrettably, a recently accepted solution for genericity in Java 5.0 has far-reaching negative implications for persistent and database systems because of static and dynamic type violations. Severe implications occur in typical database transactions when processing a variety of database collections. Well-known approaches to persistence in Java, including Javas own persistence mechanism, do not perform correctly due to incorrect dynamic type information that gets promoted to persistence along with objects. Dynamic checking of types of objects fetched from the persistent store may now lead to unexpected type violations. Further problems occur in reflective transactions as Java Core Reflection now allows dynamic type violations without detecting them or throwing standard exceptions. All of this shows that extending Java with parametric polymorphism has not made Java a more viable database programming language. Both legacy systems, such as those based on the Java binding of the ODMG or JDO, and future Java-related persistent and database technologies will be affected. The source of these problems is in an implementation idiom called type erasure. This paper provides formal proofs of the above implications of type erasure along with specific samples of code in Java 5.0 illustrating these violations. The limitations of the virtual platform and extensions required for persistent systems to solve this problem are also elaborated.
+
+Java
+Object persistence
+Type systems
+Object-oriented databases
+Transactions
+Reflection
+Virtual platforms

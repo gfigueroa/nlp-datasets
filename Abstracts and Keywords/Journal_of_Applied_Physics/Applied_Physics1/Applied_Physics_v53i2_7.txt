@@ -1,0 +1,21 @@
+Sheet resistance measurements on polycrystalline films of seven transitionmetal silicides have been used to study the production of damage by Ar+ion bombardment. The sensitivity of the compounds to bombardment, as measured by the relative increase in resistance for a given ion dose, increases in the following order: Pd2Si, Pt2Si, PdSi, Ni2Si, PtSi, NiSi, NiSi2. The heat of formation per metal atom, which is believed to be correlated with the degree of covalent bonding, increases in the same order. In experiments on films of Pd2Si, PtSi, and NiSi2, the difficulty in removing bombardment damage by thermal annealing was found to increase in the same order as the sensitivity to bombardment.
+
+PLATINUM SILICIDES
+PALLADIUM SILICIDES
+NICKEL SILICIDES
+SYNTHESIS
+ANNNEALING
+DAMAGE
+IONS
+IRRADIATION
+ELECTRIC CONDUCTIVITY
+DATA
+POLYCRYSTALS
+FILMS
+TRANSITION ELEMENTS
+METALS
+ARGON IONS
+FORMATION HEAT
+CORRELATIONS
+BINDING ENERGY
+COVALENCE

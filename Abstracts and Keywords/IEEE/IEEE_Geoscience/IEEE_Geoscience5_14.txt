@@ -1,0 +1,6 @@
+In this study, we physically built hardware modules which enable us to freely construct robots with various morphologies. As opposed to the existing studies of modular robotics where the connection topology among the modules has to be hand-designed, our modules are able to adaptively modify their connection topology which enables them to generate an overall behavior as one robot. We ran several physical experiments where robots with various morphologies are assembled from the proposed modules to acquire several target behaviors.
+
+adaptive topology
+central pattern generator
+modular robot
+simulated annealing

@@ -1,0 +1,10 @@
+We describe the concept of an asymmetrically shaped n-n+-planar GaAs diode whose operation is based on nonuniform free charge carrier heating effects. The detector was fabricated on thin elastic polyimide film and has been shown to have an operational bandwidth for detection ranging from 30 GHz up to 2.5 THz at room temperature. The voltage sensitivity of the detector is nearly independent of the frequency from 30 GHz up to 0.7 THz and is close to 0.3 V/W. In the upper section of the frequency range, 0.72.5 THz, the sensitivity is limited by the electron momentum relaxation time. The induced signal responds linearly to the incident power over the frequency range studied. It is shown that the performance of the detector can be explained well by a phenomenological theory. © 2003 American Institute of Physics. 
+
+gallium arsenide
+semiconductor diodes
+microwave detectors
+millimetre wave detectors
+submillimetre wave detectors
+III-V semiconductors
+hot carriers
+electron relaxation time

@@ -1,0 +1,9 @@
+Reflection effects in oblique incidence grooved gratings in the presence of propagating surface acoustic waves are analyzed. The particle displacements associated with these waves are described by a modal expansion including secondorder evanescent and propagating bulk waves. The reflection coefficient and velocity shift are derived to first and second order (in the overlay height) using the boundary condition matching method. It is shown that the same secondorder effects predicted for normal incidence groove gratings will exist for oblique incidence groove gratings. In addition, the reflection coefficient and velocity shift behavior are examined as functions of incidence angle and metallization ratio. 	
+
+ACOUSTIC SURFACE WAVES
+REFLECTION
+INCIDENCE ANGLE
+GRATINGS
+BOUNDARY CONDITIONS
+WAVE PROPAGATION
+ARRAYS

@@ -1,0 +1,12 @@
+The validity of nonmagnetic grainboundary (NMGB) models for the initial permeability of polycrystalline ferrites is examined. The domain size in a series of wetchemically prepared polycrystalline MnZn ferrites, in the demagnetized state, has been determined by neutron depolarization. A transition in the intragranular domain structure from mono to two domain is observed at grain size DJ4 ¼m. An expression for this transition has been derived for a dense magnetic material. The grain size dependence of the initial permeability of the ferrites studied, particularly for monodomain grains, is consistent with the NMGB model. The grainboundary width and composition have been determined with a nanoprobe (1.5 nm resolution). Composition variations extend J10 nm into the grain. The findings suggest that, although the NMGB model considers nonmagnetic grain boundaries, in practice the grain boundary may be hard magnetic.
+
+FERRITES
+MANGANESE ALLOYS
+ZINC ALLOYS
+BINARY ALLOYS
+POLYCRYSTALS
+PERMEABILITY
+MICROSTRUCTURE
+DOMAIN STRUCTURE
+NEUTRON SPECTROSCOPY
+GRAIN BOUNDARIES

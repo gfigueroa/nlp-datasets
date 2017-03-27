@@ -1,0 +1,9 @@
+Transition metal (TM) Co doped SnO2 dilute magnetic semiconductor (DMS) in both nano- and bulk state are prepared by solvothermal and mechanosyhtesis route, respectively. Contraction in unit cell volume of tetragonal rutile SnO2 after Co doping and redshift in energy band gap compared to that of undoped SnO2 ensures the incorporation of smaller Co2+ ions replacing larger host cations Sn4+. Vibrating sample magnetometer measurements show that paramagnetism is the intrinsic magnetic property in single-phase Sn1xCoxO whereas non-DMS related ferromagnetism is associated only with the corresponding nanostructures. Paramagnetism is also confirmed by thermal dependence of magnetization M (T) and magnetic susceptibility (Ç) measurement in between 80 d T d 350K.
+
+cobalt compounds
+magnetic susceptibility
+magnetisation
+paramagnetism
+semimagnetic semiconductors
+tin compounds
+transition metals

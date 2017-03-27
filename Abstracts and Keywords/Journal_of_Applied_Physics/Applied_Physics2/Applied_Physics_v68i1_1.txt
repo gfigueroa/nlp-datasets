@@ -1,0 +1,10 @@
+A spherical reflector illuminated by a point source is found to be capable of launching an electromagnetic missile. Since the surfaces of the reflector are not complete spherical surfaces, the problem cannot be solved by simple boundary matching. The electromagnetic fields have to be solved in three regions separately. The general solutions are matched on the boundaries to obtain a set of coefficient equations. Under the conditions for an electromagnetic missile, the coefficient equations are solved asymptotically. The evaluation of the Poynting vector shows that the energy radiated from the reflector has the same slow rate of decay as for the spherical lens.
+
+MISSILES
+ELECTROMAGNETISM
+LAUNCHING
+MIRRORS
+SPHERICAL CONFIGURATION
+ELECTROMAGNETIC FIELDS
+BOUNDARY CONDITIONS
+ASYMPTOTIC SOLUTIONS

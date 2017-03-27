@@ -1,0 +1,10 @@
+Measurements have been made of the preionization electron number density produced by xray irradiation of typical raregas fluoride laser gas mixtures. The results obtained show significant deviations from predictions made by using the mass absorption coefficients of the individual laser gases. Those deviations are shown to be caused by interactions between the constituent gases of the laser mixture and ionization produced from areas of the laser chamber exposed to the x rays. Measurements of the decay of the ion species produced have also been made, indicating a rate in close agreement with diffusionlimited ionion recombination. An unexplained dependence of this rate on initial ion number density has been observed.
+
+PREIONIZATION
+PHOTOIONIZATION
+XENON FLUORIDES
+KRYPTON FLUORIDES
+EXCIMER LASERS
+OPERATION
+DECAY
+X RADIATION

@@ -1,0 +1,13 @@
+The tungsten filament aging when using silacyclobutane (SCB) as a source gas in a hot-wire chemical vapor deposition reactor was systematically studied by the characterization of surface morphology using scanning electron microscopy and the chemical composition analysis of the filament surfaces using Auger electron spectroscopy. It is shown that filament aging involves the formation of silicides and under more severe conditions, a pure silicon deposit. At low pressures of SCB samples, e.g., 0.06 and 0.03Torr, only Si3W5 alloy was formed. Silicon-rich silicide, Si2W, was found when using a higher pressure of SCB at 0.12Torr. At the high SCB pressure of 0.12Torr and low temperatures, pure silicon was deposited on the W filament surface. It is also demonstrated that H2 can etch the aged filament at high temperatures above 1900	°C. The etching products detected by the 10.5eV vacuum ultraviolet laser single photon ionizationtime-of-flight mass spectrometer include SiH4, SiCHx (x = 25), and SiC2Hy (y = 47).
+
+ageing
+Auger electron spectra
+chemical analysis
+chemical vapour deposition
+elemental semiconductors
+etching
+scanning electron microscopy
+semiconductor growth
+silicon
+surface morphology
+time of flight mass spectra

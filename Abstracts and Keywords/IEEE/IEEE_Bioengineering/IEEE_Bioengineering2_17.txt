@@ -1,0 +1,6 @@
+Hardware-in-the-Loop (HIL) simulation is a widely used concept for design, rapid prototyping, test and optimization of complex systems. The paper attempts to present a formal approach of determining the fidelity of HIL simulation coupling systems. This approach can help to design and optimize such systems.
+
+HIL
+Modelling
+Simulation
+Simulation Tools

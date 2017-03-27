@@ -1,0 +1,10 @@
+We have investigated the effects of the resonant coupling between the Wannier-Stark localization states on photocurrent properties in a GaAs (6.8nm)/Al0.1Ga0.9As (4.0nm) superlattice embedded in a pin structure. The resonant-coupling profiles were confirmed with electroreflectance spectroscopy and analyzed by calculating the Wannier-Stark localization states as a function of electric field. It is found that the photocurrent-voltage characteristics exhibit peak structures, which results in negative differential resistance, owing to the changes of the optical-transition probabilities under the first- and second-nearest-neighbor resonant-coupling conditions between the first and second quantized electron states in the Wannier-Stark localization. Utilizing the negative differential resistance properties under the resonant-coupling conditions, we have demonstrated photocurrent-bistability operations of a self-electro-optic effect device.
+
+aluminium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor superlattices
+photoconductivity
+localised states
+electroreflectance
+electrical resistivity

@@ -1,0 +1,12 @@
+Filling of submicron width trenches with Cu from a highly ionized plasma is sensitive to both the directionality of the depositing flux and reflection and resputtering at the film surface. The spatial distributions of Cu atoms sputtered by He+, Ar+, and Xe+ ions incident at 30°, 45° and 60° and over an ion energy range of < 55600 eV have been investigated. In all cases, the distribution is forward directed and cannot be described by a cosine distribution about the surface normal. Decreasing energy, increasing angles of incidence, and increasing ion mass yield more forward directed distributions. For < 55 eV Ar+ incident at 60°, < 85% of the resputtered flux is in the forward direction. From these distributions, in a 50% ionized physical vapor deposition system the depositing flux due to forward directed resputtering is estimated to be of the same order of magnitude as the neutral flux. © 1997 American Institute of Physics.
+
+metallic thin films
+COPPER
+SPUTTERING
+PLASMA
+HELIUM IONS
+ARGON IONS
+XENON IONS
+EV RANGE
+PHYSICAL VAPOR DEPOSITION
+DISTRIBUTION FUNCTIONS

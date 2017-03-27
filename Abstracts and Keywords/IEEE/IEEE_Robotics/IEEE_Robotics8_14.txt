@@ -1,0 +1,5 @@
+In this paper a voice biometric system for secure human computer interaction is considered. The proposed approach uses multi resolution HMM-based classifiers combined both at model- and decision-level. The different resolution representations of the speaker are obtained by considering multiple frame lengths in the feature extraction phase and from these representations a single Pseudo-Multi Parallel Branch (PMPB) Hidden Markov Model is obtained (model-level fusion). In the verification process, multiple P-MPB based classifiers are inputted with different resolution representations of the speech signal: the final decision is obtained by means of different combination techniques (decision-level fusion).
+
+Classifiers Combination
+User Authentication
+Voice Security System

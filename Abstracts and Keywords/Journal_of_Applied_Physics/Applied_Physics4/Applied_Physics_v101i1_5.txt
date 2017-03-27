@@ -1,0 +1,9 @@
+We report reliable, reversible trapping of live magnetotactic bacteria, Magnetospirillum magneticum AMB-1, using a commercial magnetic recording head. The magnetic recording head was modified to generate spatially localized magnetic fields of high magnitude and gradient, and effectively trapped AMB-1, which have a magnetic moment per cell one order of magnitude smaller than cells previously trapped using Amperian fields. We also describe selective trapping of magnetic wild-type AMB-1 with discrimination against a nonmagnetic mutant strain of the same bacteria. Finally, we discuss the prospects of using the built-in spin valve sensor on a recording head for integrated detection of trapped bacteria. Using the chip-based methods we describe, it may be possible to capture, sort, and count magnetic bacteria quickly from samples taken directly from their natural aquatic habitat. More generally, the method may be applicable to the manipulation, spatial control, and integrated detection of magnetically labeled cells and magnetic nanoparticles.
+
+microorganisms
+cell motility
+biomagnetism
+magnetic recording
+magnetic moments
+spin valves
+biological techniques

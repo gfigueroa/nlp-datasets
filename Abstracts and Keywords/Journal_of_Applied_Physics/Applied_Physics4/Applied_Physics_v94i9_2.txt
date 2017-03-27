@@ -1,0 +1,8 @@
+The luminescence dynamics of optical centers in nanocrystals depends critically on the phonon density of states (PDOS), which is quite distinct from that of bulk materials. It is shown that energy transfer (ET) in nanocrystals is confined by discrete PDOS as well as direct size restriction. Temperature-, concentration-, and size-dependence of the fluorescence decay from the 4S3/2 state of Er3+ in Y2O2S nanocrystals have been investigated using laser spectroscopic experiments and computational simulations. A set of microscopic rate equations that govern the evolution of the excitation probability Pi(t) are solved iteratively using a Monte Carlo method. The simulations of ET based on a theoretical model with five parameters are in good agreement with the experimental results. It is shown that phonon-assisted ET processes in Er3+:Y2O2S nanocrystals contribute partly to the fluorescence decay at 295 K, and is negligible at 5 K. For applications, the nanoconfinement effects on ET may significantly reduce the efficiency of sensitized or upconversion luminescence due to the lack of low-frequency phonon modes and restricted excitation migration in nanophosphors. © 2003 American Institute of Physics. 
+
+erbium
+yttrium compounds
+electron-phonon interactions
+nanostructured materials
+Monte Carlo methods
+fluorescence

@@ -1,0 +1,5 @@
+A result of global asymptotic stability is given by Liapunov's second method.
+
+global asymptotic stability
+model
+wireless communication

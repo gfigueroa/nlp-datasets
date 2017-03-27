@@ -1,0 +1,14 @@
+Based on the universal additivity law of the interference of light the following was achieved. (i) An analytic representation between the eigenvalue of the Kerr rotation angle ¸0k and the enhanced ¸k for a doublelayered film, ¸k=en1 ¸0k, was obtained theoretically, where e is the enhancement factor and n1 is the refractive index of the dielectric medium. (ii) An analytic representation between ¸k and ¸0k (¸k=e013e123n2¸0k) of the trilayered film [bilayered transparent media and monolayered magnetooptical (MO) medium], was also obtained, where e013 and e123 are the enhancement factors: The calculated ¸k value is in good agreement with experimental results for e=1. In general, the theoretical calculation shows that ¸k is related to the thickness of the transparent media. Thus, if one wants to get an optimum value for ¸k, the thickness of the first transparent film layer (such as a glass substrate) must be selected carefully. It also shows that if the variation of the thickness of the glass substrate is 5 nm, ¸k could vary by 0.1° for MnBiCe films. (iii) The relation connecting ¸k with ¸0k1 and ¸0k2 for bilayered MO films has been theoretically studied, where ¸0k1 and ¸0k2 are the eigenvalues of the Kerr rotation angle of MO materials 1 and 2, respectively. Finally, ¸k for a Fe/Co film was calculated.
+
+THIN FILMS
+MAGNETOOPTICAL EFFECTS
+KERR EFFECT
+EIGENVALUES
+ENHANCEMENT
+ANALYTICAL SOLUTION
+MANGANESE ALLOYS
+BISMUTH ALLOYS
+CERIUM ALLOYS
+TERNARY ALLOYS
+IRON
+COBALT

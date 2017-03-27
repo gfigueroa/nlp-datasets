@@ -1,0 +1,13 @@
+The formation of high-quality thin films of pentacene is important in electronic applications. We show here that laser ablation, a technique widely used to deposit a variety of inorganic materials, can also be employed for forming thin oligomeric films. Pentacene films produced by the evaporation of a solid target with a pulsed ultraviolet laser are comparable to those produced via thermal evaporation. The composition of the ablation plume suggests that deposition proceeds by way of a laser-induced evaporation followed by condensation on a nearby surface. Laser deposited films are single-phase material with interlamella spacing characteristic of thin-film structures. The optical properties, field effect mobilities, and surface morphology of laser deposited pentacene films as compared to those produced via thermal evaporation are discussed. © 2003 American Institute of Physics. 
+
+infrared spectra
+visible spectra
+ultraviolet spectra
+semiconductor thin films
+organic semiconductors
+vacuum deposition
+vacuum deposited coatings
+pulsed laser deposition
+electron mobility
+surface morphology
+semiconductor growth

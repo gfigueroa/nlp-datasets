@@ -1,0 +1,11 @@
+We report the formation of several members of the recently discovered class of R3(Fe,T)29 compounds and some of their intrinsic properties. Focusing on materials with T=Ti and Cr, we have prepared R3(Fe,Ti)29 (R=Ce, Pr, Nd, Sm) and R3(Fe,Cr)29 (R=Ce, Nd, Sm) compounds which all feature the novel monoclinic crystal structure first established for Nd3(Fe,Ti)29. In each of the Ti and Crcontaining groups the Ce member has the smallest magnetization, Curie temperature, and unit cell, suggesting that the Ce ion is tetravalent, or nearly so, in this family of materials. We observed no evidence of R3(Fe,Ti)29 phase formation for R=Y, Gd, Dy, and Er. Our magnetization measurements indicate that only Nd3(Fe,Ti)29 and Nd3(Fe,Cr)29 exhibit spin reorientations, at temperatures of 235 and 145 K, respectively.
+
+TERNARY COMPOUNDS
+RARE EARTH COMPOUNDS
+TRANSITION ELEMENT COMPOUNDS
+PHASE STUDIES
+CRYSTAL STRUCTURE
+MAGNETIZATION
+SPIN ORIENTATION
+CURIE POINT
+TEMPERATURE EFFECTS

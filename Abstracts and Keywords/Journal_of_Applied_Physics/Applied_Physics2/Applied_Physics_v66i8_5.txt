@@ -1,0 +1,11 @@
+The behavior of traprelated transfer loss in acoustic charge transport devices is characterized experimentally through measurements of pulse degradation and frequency response rolloff. A theoretical loss analysis which incorporates a physical model of the charge packets in the device and the characteristics of electron traps in the GaAs epitaxial layers is presented and correlated with experimental results. It is found that the traprelated loss cannot be described by a proportional loss model. Good qualitative agreement is found between theoretical predictions and experimental results; however, the time constants observed experimentally in pulse measurements are 50100 times faster than the theoretical predictions. Additional loss due to traps with long time constants is predicted theoretically but not observed experimentally.
+
+SEMICONDUCTOR DEVICES
+CHARGE TRANSPORT
+ACOUSTOELECTRIC EFFECTS
+GALLIUM ARSENIDES
+LOSSES
+TRAPS
+STRUCTURAL MODELS
+LAYERS
+EPITAXY

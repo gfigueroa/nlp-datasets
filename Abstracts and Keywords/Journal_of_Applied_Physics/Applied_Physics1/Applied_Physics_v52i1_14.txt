@@ -1,0 +1,10 @@
+We describe the effects of energy conservation on the growth of a Gaussian perturbation superimposed on a Gaussian profile laser beam. Using a simple twostep energy conservation criterion, we obtain a relationship between the selffocal distance zff for the smooth Gaussian profile laser beam and the distance Dt at which the growth in the Gaussian spike terminates. For a very intense laser beam, with appreciable amplitude of the perturbation, the growth of the perturbation is studied using a continuous energyconservation criterion. The results explain the stabilization of intensity in the perturbation at a certain distance inside the medium. Our model explains formation of bright stabilized filaments and gives reasonable estimates for the distance of the first appearance of filaments.
+
+GAUSSIAN PROCESSES
+MATHEMATICAL MODELS
+FILAMENTS
+NONLINEAR PROBLEMS
+VARIATIONS
+LASER RADIATION
+STABILIZATION
+THEORETICAL DATA

@@ -1,0 +1,11 @@
+Amorphous Ti1xNix alloys were prepared by means of melt spinning and studied by means of differential scanning calorimetry. The crystallization temperatures and the activation energies for crystallization were determined over a wide concentration range. The former values were found to vary only slightly with concentration while the latter showed a marked concentration dependence. This difference in behavior is discussed in terms of the occurrence of compositional shortrange ordering. It is shown that the activation energy for crystallization is not always a good measure of the thermal stability of amorphous alloys.
+
+titanium alloys
+nickel alloys
+crystallization
+activation energy
+crystal growth from melts
+stability
+amorphous state
+metallic glasses
+calorimetry

@@ -1,0 +1,6 @@
+In the past research has been carried out in development of invasive artificial visionary system for visually impaired people. To investigate the possibility of designing and producing a noninvasive artificial visionary system an interdisciplinary research has been carried out. The concept solution is based on the conversion of moving images captured through a camera and converting them into visual signals for optical nerve. The proposed system is EEG based non-invasive brain computer interface (BCI). This compact, easily worn system having head mounted cap, microcomputer worn belt around the waist and a frame mounted camera will have the capabilities of creating images of an object on the brain.
+
+EEG based
+Visually Impaired People
+artificial visionary system
+noninvasive BCI

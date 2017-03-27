@@ -1,0 +1,11 @@
+Measuring the second derivatives of electron retarded current characteristics of a plane probe at different angle positions, the coefficients fi(õ) of the velocity distribution function developed as a Legendre polynomial are determined for the anisotropic plasma of a hollow cathode arc discharge. The integral values deduced from this for the electron concentration ne and the mean electron energy õ, as well as the drift velocity vd, show only a limited dependence on the number of angle positions used for measurement. Even for measurements at a single angle position (Druyvesteyn method), the values obtained for ne, õ, and vd differ by less than 10% from the corresponding values measured with the multiposition method, so long as vdrift d vthermal. On the contrary, the shape of fi(õ), like the angle dependence f(¸)õ=const, is clearly affected by the number of angle positions used. A Maxwell distribution superimposed by a group of directed fast electrons proves to be a sufficient model for the plasma investigated here.
+
+ELECTRIC DISCHARGES
+ELECTRIC ARCS
+ANISOTROPY
+PLASMA DIAGNOSTICS
+HOLLOW CATHODES
+ELECTRIC PROBES
+DISTRIBUTION FUNCTIONS
+LEGENDRE POLYNOMIALS
+MATHEMATICAL MODELS

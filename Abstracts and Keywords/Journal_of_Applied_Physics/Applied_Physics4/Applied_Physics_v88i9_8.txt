@@ -1,0 +1,7 @@
+We discuss in detail the considerations necessary to determine the absolute stable anion formation (SAF) cross section for a molecule embedded within the bulk of condensed matter, using the low energy electron transmission (LEET) method. We show that the LEET method is applicable at any energy below the ionization potential of the charge trapping molecule and the first exciton energy of the matrix. As an example, charge trapping due to SAF from CF4 molecules is investigated. In order to generalize the LEET method, we solve in the Appendix a classical electrostatic boundary value problem using the method of images for a charge embedded in a dielectric medium surrounded by two other media of different dielectrics. © 2000 American Institute of Physics. 
+
+krypton
+electron attachment
+electron-surface impact
+ionisation potential
+excitons

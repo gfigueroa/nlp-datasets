@@ -1,0 +1,5 @@
+In this study we investigate the effect of a finite thickness transition layer on the character of charged particle localization at the boundary separating domains with different electric permittivities. It is shown that the effective potential at the location of the particle can be determined using perturbation theory, and the conditions for the validity of the theory are discussed. We discuss various effects that can be observed experimentally in the behavior of charged particles located near the boundary. © 2001 American Institute of Physics. 
+
+localised states
+permittivity
+perturbation theory

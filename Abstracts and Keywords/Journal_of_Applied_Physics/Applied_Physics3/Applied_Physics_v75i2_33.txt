@@ -1,0 +1,11 @@
+Tail broadening of nondispersive photocurrent transients has been measured in 1,1bis(di4tolylaminophenyl)cyclohexanedoped polystyrene over a range of concentrations, fields, and temperatures. The results are described by the parameter W, defined as W=(t1/2t0)/t1/2, where t1/2 is the time for the transient to decay to onehalf of its plateau value and t0 the time defined by the intersection of asymptotes of the plateau and trailing edge of the transient. The interpretation of the experimental results leads to the conclusion that energetic disorder is the principal source of broadening of the transients.
+
+POLYMERS
+DOPED MATERIALS
+PHOTOCONDUCTIVITY
+TRANSIENTS
+ELECTRIC FIELD EFFECTS
+POLYSTYRENE
+ENERGYLEVEL DENSITY
+HOPPING
+TEMPERATURE EFFECTS

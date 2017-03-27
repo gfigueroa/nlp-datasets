@@ -1,0 +1,10 @@
+Physical properties of zinc oxide films deposited by dualionbeam sputtering are analyzed to point out the performance of this technique for the deposition of this material. The films are deposited by sputtering a zinc oxide target with an argonion beam, while a second lowenergy beam, the assistance ion beam, impinges directly on the growing films. Results are presented for ZnO films deposited at room temperature with different oxygen/argon ratios in assistance ion beam and different sputtering ionbeam currents. Elemental, structural, and electrical analyses have been performed on films. All the films show the typical crystallographic orientation, with the c axis perpendicular to the substrate. The oxygen percentage in the assistance ion beam plays an important role in controlling the electrical resistivity of the films.
+
+ZINC OXIDES
+THIN FILMS
+SPUTTERING
+MICROSTRUCTURE
+ELECTRIC CONDUCTIVITY
+PHOTOELECTRON SPECTROSCOPY
+CHEMICAL COMPOSITION
+OPTICAL PROPERTIES

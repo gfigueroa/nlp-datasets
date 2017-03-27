@@ -1,0 +1,7 @@
+Robotic gait rehabilitation is at least as effective as conventional gait training in stroke survivors. Patients must be assisted as needed in order to improve affected gait patterns. The combination of impedance control and series elastic actuation is a viable actuation principle to be used for human robot interaction. Here, a new promising electric series elastic actuated joint is developed. The large torque bandwidth limit at 100 Nm is 6.9 Hz. With a total weight of 3.175 kg it is possible to directly mount the actuator on the exoskeleton frame. The actuator is capable of providing sufficient torque at normal walking speed. Full patient assistance during gait and free motions without impeding the gait pattern are possible. The actuator allows isometric measurements up to 100 Nm and the patient's progress in robotic rehabilitation can be evaluated.
+
+Backdrivability
+Impedance control
+Rehabilitation
+Series Elastic Actuator
+Stroke

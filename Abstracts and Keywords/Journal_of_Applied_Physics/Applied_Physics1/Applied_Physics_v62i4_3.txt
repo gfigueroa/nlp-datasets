@@ -1,0 +1,9 @@
+An analytical formulation is presented which addresses the currentvoltage characteristic of p+Àn+ doubleinjection devices from square law to threshold. The model includes the assumption of charge neutrality, which limits the applicability to cases of relatively high magnitudes of thermal equilibrium carrier densities, and the assumption that the current is entirely field driven. The approach is based on a modification of the square law which accounts for the fact that the effective length becomes progressively shorter for higher currents as a lowfield region moves in from the anode. The electric field dependence of carrier mobilities and capture cross sections is included in the development. Solutions are presented for the currentvoltage characteristics and the threshold voltage, which include an indication for when the approximations which were used are valid and which demonstrate the conditions under which the field dependence is a factor in the results.
+
+ELECTRIC FIELD EFFECTS
+SEMICONDUCTOR DEVICES
+THRESHOLD VOLTAGE
+IV CHARACTERISTIC
+CARRIER DENSITY
+CARRIER MOBILITY
+PN JUNCTIONS

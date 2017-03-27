@@ -1,0 +1,10 @@
+We have modeled the response of a nonlinear periodic structure by means of the Abelés 2×2 matrix method. Our structure differs from the usual rejectionband filter designs, in that we have chosen the filter elements to be index matched in the absence of radiation, providing a rejection band that both grows and shifts as a function of incident intensity. The intensity output function of the model not only directly demonstrates optical bistability, but also limiting, switching, selfpulsing, and chaos.
+
+NONLINEAR OPTICS
+PERIODIC VARIATIONS
+MATHEMATICAL MODELS
+RESPONSE FUNCTIONS
+AMPLITUDES
+OPTICAL BISTABILITY
+SWITCHING
+CHAOTIC SYSTEMS

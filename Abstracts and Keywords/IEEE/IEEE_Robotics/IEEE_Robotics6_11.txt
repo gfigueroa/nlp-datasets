@@ -1,0 +1,6 @@
+The parallel genetic algorithm (PGA) realizes converging rate greatly as a result of fully displaying the natural parallelism of GA. This paper is just about applying this idea to fuzzy c-mean clustering, introducing immunity density adjustment mechanism, and proposing a new FCM clustering method - IGA-FCM double groups parallel clustering algorithm (another form of PGA). In order to realize the algorithm, this paper especially designs an extra link - communication and control mechanism (CACM) to communicate and control the flow and cut-off time of whole algorithm. Finally, its superiority is demonstrated through the Matlab simulation and comparison.
+
+Communication and control
+FCM clustering
+IGA-FCM double groups parallel
+Information transmission

@@ -1,0 +1,11 @@
+Interactions between plasmas produced by a nitrogen ion beam source and the pulsed laser ablation of an Al2O3 target were studied for the growth of Al-O-N films. Plasma fluxes from both sources were intersected on the substrate surface in a typical arrangement for ion beam assisted pulsed laser deposition (IBPLD). Plasma emission imaging and spectroscopic analyses were performed in real time, using laser pulses for analysis synchronization while varying the N2 background pressure in the range from 0.08 to 4 Pa. This study was focused on the detection of temporal and spatial plasma distributions, excitation states, and chemical reactions during the IBPLD process which were not present when operating each of the plasma sources separately. Two significant plasma interaction effects were discovered. One was the production of atomic N and O in the near-substrate region, resulting in the formation of NO molecules which then reacted with Al to form Al-O-N. Another was the formation of short-lived plasma channels connecting ion beam and laser-ablated plasmas, which was observed in the 24 Pa pressure regime. These channels resulted in plasma bending and shifting from the substrate surface and affected film composition. These findings suggest that the interaction of ion beam and laser ablation plumes in IBPLD might considerably affect plasma chemistry, excitation states, and spatial distribution, thus providing opportunities for the control of deposited film properties.
+
+aluminium compounds
+ion beam assisted deposition
+ion sources
+laser ablation
+plasma chemistry
+plasma interactions
+plasma sources
+pulsed laser deposition
+thin films

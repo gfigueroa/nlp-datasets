@@ -1,0 +1,5 @@
+For a small antenna placed on a metamaterial ground plane vertically or horizontally, we analyzed the conditions under which the antenna emissions are highly directional. We found through finite-difference time-domain (FDTD) simulations that a previously discovered directional emission phenomenon can be explained by our theory for the horizontal antenna case. For the vertical antenna case, we employed FDTD simulations to design a realistic metamaterial ground plane with desired reflection phase properties, and performed microwave experiments to verify its ability to support directional emissions.
+
+finite difference time-domain analysis
+metamaterials
+reflectivity

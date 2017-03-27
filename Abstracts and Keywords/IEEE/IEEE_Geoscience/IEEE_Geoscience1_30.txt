@@ -1,0 +1,8 @@
+A reliable density estimate for the position of the coronary arteries in Computed Tomography (CT) data is beneficial for many coronary image processing applications, such as vessel tracking, lumen segmentations, and calcium scoring. This paper presents a method for obtaining an estimate of the coronary artery location in CT and CT angiography (CTA). The proposed method constructs a patient-specific coronary density estimate using CTA atlas registration. The method is evaluated by quantifying the overlap of the obtained density estimate with 24 manually annotated centrelines of the lumen. Furthermore, the method is quantitatively evaluated when applied in automatic calcium scoring of the coronary arteries, which is an important risk predictor of coronary artery disease. The obtained results were compared to manual annotations for 170 CT datasets.
+
+CT
+CTA
+Calcium Score
+atlas
+coronary arteries
+image registration

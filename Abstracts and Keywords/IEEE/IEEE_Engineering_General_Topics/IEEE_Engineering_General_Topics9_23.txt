@@ -1,0 +1,7 @@
+Novel architectures for designing modulo 2<sup>n</sup>+1 subtractors are introduced, for both the normal and the diminished-one number representation of the operands. Zero-handling is also considered in the diminished-one operand representation case. The modulo 2<sup>n</sup>+1 subtractors for operands in the normal representation that are proposed are shown to be more efficient in area, delay and power dissipation than the currently most efficient ones. The proposed diminished-one modulo 2<sup>n</sup>+1 subtractors offer similar characteristics to those of the corresponding diminished-one adders.
+
+Residue number system
+modulo 2<sup>n</sup>+1 circuits
+normal and diminished-one number
+representation
+subtraction

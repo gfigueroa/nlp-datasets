@@ -1,0 +1,13 @@
+A new theoretical insight in the dynamics of positiondependent deep trapping within the p/iinterface region of aSi:H pin diodes is presented. The positive space charge in this region relates internal electric field and deep trapping electron lifetime profiles with each other. A hyperbolic field dependence and a positionindependent capture constant can explain well the experimental delayed field time of flight results.
+
+PIN JUNCTIONS
+SILICON DIODES
+AMORPHOUS SEMICONDUCTORS
+HYDROGENATION
+DEEP ENERGY LEVELS
+TRAPS
+SPACE CHARGE
+ELECTRIC FIELDS
+TIMEOFFLIGHT METHOD
+INTERFACE STATES
+D STATES

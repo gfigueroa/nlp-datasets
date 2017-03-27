@@ -1,0 +1,16 @@
+Rapid thermal annealing (4 min at 560	°C) of implanted As in Si can electrically activate concentrations up to 5×1020 cm3, which exceeds the solubility at that temperature. Prolonged thermal annealing at the same temperature causes deactivation of such metastable concentrations. The results suggest that when the amorphouscrystalline interface is moving during solid phase epitaxial regrowth, dopants go to substitutional sites even in concentrations exceeding solubility. If solubility is exceeded, deactivation takes place after the material has recrystallized.
+
+ARSENIC
+QUANTITY RATIO
+ION IMPLANTION
+ANNEALING
+TIME DEPENDENCE
+HIGH TEMPERATURE
+ACTIVATION
+SOLUBILITY
+AMORPHOUS STATE
+CRYSTALS
+INTERFACES
+SOLIDS
+EPITAXY
+RECRYSTALLIZATION

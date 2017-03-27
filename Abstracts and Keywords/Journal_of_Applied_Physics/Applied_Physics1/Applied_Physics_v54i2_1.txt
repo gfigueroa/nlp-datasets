@@ -1,0 +1,16 @@
+Freezeout of substrate doping impurities, at T&lt;25	°K for conventional shallow level impurities in silicon, creates an insulating substrate in silicon metaloxidesemiconductor (MOS) transistors. With the flow of majority carriers (holes for ptype substrates) through the substrate impeded, the accumulated majority carrier density in the MOS transistor surface channel must be provided from the sides of the channel. When switched from strong surface accumulation toward surface inversion, a rapidly responding minority carrier density, injected by the source and drain regions, might act to compensate a more slowly responding majority carrier density in the transistor channel, giving rise to anomalously high minority carrier densities. This picture was previously invoked by the author to explain a low level discrete conductance effect seen in a few devices. The other devices exhibit instead a pronounced current spike, which is described here and further supports the initial high charge densities.
+
+mos transistors
+plasma
+plasma density
+electrons
+holes
+substrates
+doped materials
+impurities
+experimental data
+energy levels
+charge carriers
+carrier density
+surfaces
+mathematical models

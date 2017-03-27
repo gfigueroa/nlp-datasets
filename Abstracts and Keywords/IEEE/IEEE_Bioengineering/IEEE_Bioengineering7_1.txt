@@ -1,0 +1,6 @@
+In this paper, we address the problem of FingerCode-based identity matching using encrypted templates. Instead of the classical approach of combining secure signal processing (SSP) tools to mimic the behavior of some well-known identity matching algorithm, we will investigate the possibility of using a SSP-friendly biometric implementation, i.e., an implementation based on SSP tools. We will propose two alternative strategies for reducing the size of the FingerCode templates, to make them compatible with existing SSP solutions. Experimental results show that feature size reduction has a very limited impact on the accuracy of the biometric system, demonstrating that encrypted domain identity matching can be implemented without sacrificing biometric performance.
+
+Biometric-Based Identification
+Fingercode
+Secure Signal Processing
+Signal Processing in the Encrypted Domain

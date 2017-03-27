@@ -1,0 +1,9 @@
+(CeOy)0.67(Al2O3)0.33 (1.5}y}2) (CeAlOx) thin films were deposited on p-type Si (100) substrates by the pulsed laser deposition method at 650
+°C. The effect of oxygen pressure on structural and thus dielectric properties of the CeAlOx films was extensively investigated. The CeAlOx thin films turned from a mixture of crystalline CeO2, Ce2O3, and Al2O3 to the amorphous CeAlO3 as the deposition oxygen pressure was decreased from 3.2×102 to 4.5×106	mbar. With decreasing oxygen pressure, Ce4+ content decreased while Ce3+ content increased. The reduction of Ce4+ to Ce3+ compensated the oxygen deficit as a result of the decreased oxygen pressure. The flatband voltage (VFB) of the CeAlOx thin films decreased with oxygen pressure due to the decreased fixed charges in the films. The increased leakage current density of films as a result of the reduction in oxygen pressure was probably attributed to the electron hopping conduction between Ce4+ and Ce3+ at middle pressure and poor leakage property of Ce2O3 at low pressure, respectively. © 2003 American Institute of Physics. 
+
+cerium compounds
+alumina
+pulsed laser deposition
+dielectric thin films
+leakage currents
+hopping conduction

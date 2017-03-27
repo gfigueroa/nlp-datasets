@@ -1,0 +1,7 @@
+  This paper presents an efficient and fast solver developed based on the adaptive integral method and its application for characterizing electromagnetic scattering by arbitrarily shaped objects, and designing antennas for large scaled radio radiation problems. Although a brief summary of the historical development will be given, the emphasis of the paper will be given to the recent advances and new developments made quite recently. During the development procedure, the method of moments (MoM) has been considered and applied as a foundation to start with for discretizing the integral equations. The resultant matrix system of a large dimension is then solved by an iterative solver where the adaptive integral method (AIM) is employed on the top of them to accelerate the matrix-vector multiplications and to reduce matrix storage. Various numerical results are presented to demonstrate the accuracy, efficiency, and applicability of the technique. 
+
+  Electromagnetic scattering 
+  adaptive integral method 
+  fast Fourier transform (FFT) 
+  method of moments
+  radiation 

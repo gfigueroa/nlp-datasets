@@ -1,0 +1,18 @@
+Results of photoluminescence and Hall effect measurements of ptype Gedoped Ga0.60Al0.40As grown by liquid phase epitaxy are reported. The effective segregation coefficient for Ge for growth at 785	°C is estimated to be <2×103. The photoluminescence spectra at 5.5 K are characterized by two edge emission bands at <1.91 and <1.88 eV and a broadband at <1.55 eV. The edge emission bands are identified to be donoracceptor pair recombination bands involving the same donor but two different acceptors. The ionization energy of the donor is estimated to be 5060 meV and the acceptor ionization energies are estimated to be <60 and <100 meV for the 1.91 and 1.88eV bands, respectively. The deep acceptor is believed to involve a background impurity, most likely C or Si. It is suggested that the 1.55eV band arises from a nextnearest neighbor complex consisting of Ge on an arsenic site and an As vacancy. Postgrowth annealing treatment at 830 °C is found to decrease the photoluminescence intensity suggesting the presence of annealing induced nonradiative centers.
+
+DOPED MATERIALS
+PHOTOLUMNESCENCE
+GERANIUM
+PTYPE CONDUCTORS
+GALLIUM ARSENIDES
+ALUMINUM ARSENIDES
+DATA
+VERY HIGH TEMPERATURE
+CRYSTAL GROWTH
+HALL EFFECT
+LIQUIDS
+EPITAXY
+ULTRALOW TEMPERATURE
+SPECTRA
+RECOMBINATION
+IONIZATION POTENTIAL

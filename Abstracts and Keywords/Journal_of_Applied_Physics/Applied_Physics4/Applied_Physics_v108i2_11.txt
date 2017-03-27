@@ -1,0 +1,9 @@
+For the aim of wide-band noise absorbers with a special design for low frequency performance, this study proposes conductive indium-tin oxide (ITO) thin films as the absorbent materials in microstrip line. ITO thin films were deposited on the polyimide film substrates by rf magnetron cosputtering of In2O3 and Sn targets. The deposited ITO films show a typical value of electrical resistivity ( < 104©	m) and sheet resistance can be controlled in the range of 20230© by variation in film thickness. Microstrip line with characteristic impedance of 50© was used for determining their noise absorbing properties. It is found that there is an optimum sheet resistance of ITO films for the maximum power absorption. Reflection parameter (S11) is increased with decrease in sheet resistance due to impedance mismatch. On the while, transmission parameter (S21) is decreased with decrease in sheet resistance due to larger Ohmic loss of the ITO films. Experimental results and computational prediction show that the optimum sheet resistance is about 100©. For this film, greater power absorption is predicted in the lower frequency region than ferrite thin films of high magnetic loss, which indicates that Ohmic loss is the predominant loss parameter for power absorption in the low frequency range.
+
+electrical conductivity
+electrical resistivity
+indium compounds
+microstrip lines
+noise
+sputter deposition
+thin films

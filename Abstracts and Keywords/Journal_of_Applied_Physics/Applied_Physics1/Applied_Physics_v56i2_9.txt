@@ -1,0 +1,11 @@
+The lattice parameter of highpurity silicon is measured as a function of temperature between 300 and 1500 K, and the linear thermal expansion coefficient is accurately determined. Precise measurements are made by the hightemperature attachment for Bonds xray method to a few parts per million. It is found that the temperature dependence of the linear thermal expansion coefficient ±(t) is empirically given by ±(t)=(3.725{1exp[5.88×103{(t124)} +5.548×104t)×106 (K1), where t is the absolute temperature ranging from 120 to 1500 K. It is shown that the lattice parameter in the above temperature range can be calculated using ±(t) and the lattice parameter at 273.2 K (0.5430741 nm). Measured values of the lattice parameter and the thermal expansion coefficient for highpurity floatzoned (100 k©	cm) and Czochralskigrown (30 ©	cm) single crystals are uniformly distributed within ±1×105 nm and ±2×107 K1 with respect to the values obtained from the above empirical formula.
+
+silicon
+lattice parameters
+thermal expansion
+xray diffraction
+temperature dependence
+medium temperature
+high temperature
+very high temperature
+czochralski method

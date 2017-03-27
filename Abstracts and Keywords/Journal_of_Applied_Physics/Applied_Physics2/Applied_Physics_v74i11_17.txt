@@ -1,0 +1,16 @@
+Large area field effect structures with thin catalytic metal gates can be used to generate two dimensional images of the response of the metal to gas mixtures. This is done by using a scanning light pulse technique to determine polarization changes occurring in the thin metal film due to chemical reactions on the metal. Such images appear to be a new concept in chemical sensing. The present contribution is a first attempt to predict the shape of these images. We show that the occurrence of maxima in the response at certain points on the surface is most likely due to temperature dependent chemical rate constants and to the consumption of molecules on the catalytic metal surface. Experimental results of the detection of methanol, ethanol, and hydrogen on palladium and platinum, with a temperature gradient along the metals, are used to support the theoretical arguments.
+
+SEMICONDUCTOR DEVICES
+METALS
+SURFACE REACTIONS
+MOS JUNCTIONS
+CATALYTIC EFFECTS
+THIN FILMS
+IMAGE FORMING
+OPTICAL TESTING
+METHANOL
+POLARIZATION
+PLATINUM
+PALLADIUM
+ETHANOL
+HYDROGEN

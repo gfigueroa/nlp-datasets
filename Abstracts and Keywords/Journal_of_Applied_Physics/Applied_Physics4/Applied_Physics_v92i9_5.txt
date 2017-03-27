@@ -1,0 +1,12 @@
+A shock-release model is proposed to calculate shock temperatures along the principal Hugoniot, and to relate initial shock (Hugoniot) to release melting (off-Hugoniot). Thus a melting point crossing the Hugoniot can be defined. For the shock-release model, an assumed configuration of baseplate(metal-sample)/window is modeled to formulate the initial shock and interfacial release processes, the Lindemann law is used to describe the melting behavior of metals at high pressure, and the Grüneisen equation of state is applied to express the relation between pressure and specific internal energy. The effect of melting on the Hugoniot temperature is considered in this model, so the pressuretemperature regime of solidliquid mixed phase region can be outlined. Aluminum, lead, copper, molybdenum, iron, and uranium were chosen for modeling calculations. It was found from the comparison of calculated results with their high-pressure melting data from experimental measurements that for most investigated metals ³=³0(Á0/Á) (where ³ and Á are Grüneisen parameter and density, respectively, and subscript 0 denotes ambient conditions) is a good approximation to ³ at high pressure, and the melting latent heat (”HM) at high pressure is better estimated using ”HM=RTM (where TM is the melting temperature, and R is the gas constant) than using ”HM=TMÅ”SM0 (where ”SM0 is the melting entropy at ambient pressure). © 2002 American Institute of Physics. 
+
+aluminium
+lead
+copper
+molybdenum
+iron
+uranium
+equations of state
+melting point
+shock wave effects
+Gruneisen coefficient

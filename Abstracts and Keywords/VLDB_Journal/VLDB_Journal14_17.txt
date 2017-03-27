@@ -1,0 +1,5 @@
+The introduction of the Semantic Web vision and the shift toward machine understandable Web resources has unearthed the importance of automatic semantic reconciliation. Consequently, new tools for automating the process were proposed. In this work we present a formal model of semantic reconciliation and analyze in a systematic manner the properties of the process outcome, primarily the inherent uncertainty of the matching process and how it reflects on the resulting mappings. An important feature of this research is the identification and analysis of factors that impact the effectiveness of algorithms for automatic semantic reconciliation, leading, it is hoped, to the design of better algorithms by reducing the uncertainty of existing algorithms. Against this background we empirically study the aptitude of two algorithms to correctly match concepts. This research is both timely and practical in light of recent attempts to develop and utilize methods for automatic semantic reconciliation.
+
+Mapping
+Ontology versioning
+Semantic interoperability

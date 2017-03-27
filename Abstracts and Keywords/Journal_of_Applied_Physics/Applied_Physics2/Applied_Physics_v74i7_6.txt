@@ -1,0 +1,12 @@
+The experimental measurements of nonlinear modulated photoreflectance (MPR) phenomena in Si and GaAs wafers, in which the obvious secondharmonic (2	f) MPR signals are detected in addition to the fundamental frequency (f) MPR signals when the pumping laser power is sufficiently strong, are reported. Meanwhile, a lineartoquadratic transition in the curve of the f MPR signal versus the pumping laser power is observed in Si samples but not in GaAs samples. It is also found that the 2	f MPR signals are more sensitive to the ionimplantation doses than the f MPR signals which are traditionally applied to monitor the ion implantation in semiconductors. It is found that the contribution of the photoinduced modulation of the surface electric field is the main source of the nonlinear MPR signals and the contribution is theoretically discussed in detail. A onedimensional theoretical model is established, and the theoretical results are in good agreement with the experimental data. The dependencies of the f and the 2	f MPR signals on the thirdorder optical nonlinear susceptibility Ç(3) and the surfacestate density Ns are also discussed, and a method for measuring Ç(3) and N4 of semiconductors is introduced.
+
+SILICON
+GALLIUM ARSENIDES
+REFLECTION SPECTROSCOPY
+SECOND HARMONIC GENERATION
+MODULATION
+MEASURING METHODS
+SURFACE STATES
+OPTICAL SUSCEPTIBILITY
+NONLINEAR OPTICS
+ION IMPLANTATION

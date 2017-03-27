@@ -1,0 +1,14 @@
+We have studied by angle resolved x-ray photoemission spectroscopy (XPS) the interface between Ga0.5In0.5P and GaAs grown by gas source molecular beam epitaxy. For cations, we show that the interface is abrupt for a growth temperature of 400
+°C and that indium segregation is effective at 500
+°C but less than that in GaInAs at the same temperature. For anions, growth of the two layers in rapid succession results in the incorporation of an excess of arsenic in the GaInP epilayers and a diffuse interface. As soon as these predominant experimental effects are suppressed, the abruptness of the interface is limited by a weak arsenic surface segregation. For this quasi-abrupt interface, we report a valence band offset of H0.3 eV as determined by XPS. © 1998 American Institute of Physics. 
+
+gallium compounds
+indium compounds
+III-V semiconductors
+semiconductor epitaxial layers
+chemical beam epitaxial growth
+semiconductor growth
+X-ray photoelectron spectra
+surface segregation
+interface structure
+valence bands

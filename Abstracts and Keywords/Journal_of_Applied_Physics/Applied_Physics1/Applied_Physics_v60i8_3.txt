@@ -1,0 +1,14 @@
+The rapid thermal annealing (RTA) behavior of Be+ionimplanted AlxGa1xAs is investigated by means of Halleffect and photoluminescence (PL) measurements. The electrical activation in GaAs occurs from 400	°C and saturates at about 450	°C, while in AlxGa1xAs alloys, the activation fractions increase gradually with increase in the annealing temperature. These fractions are evidently smaller in the AlxGa1xAs alloys than in the GaAs, and larger x alloys give smaller activation fractions at any fixed temperature. PL intensity measurements indicate that annealing at 900	°C results in the maximum optical activation and lattice recovery both for GaAs and AlxGa1xAs alloys. Secondary ion mass spectrometry (SIMS) analysis reveals Be accumulation at the AlxGa1xAs (0dxd0.3) / SiO2 encapsulant interface caused by Be outdiffusion during RTA. SIMS and differential Halleffect measurements also suggest significant Be indiffusion in AlxGa1xAs alloys especially for larger x values.
+
+SIMS
+ACTIVATION ENERGY
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+ION IMPLANTATION
+HALL EFFECT
+PHOTOLUMINESCENCE
+BERYLLIUM IONS
+VERY HIGH TEMPERATURE
+INTERFACES
+DIFFUSION
+ANNEALING

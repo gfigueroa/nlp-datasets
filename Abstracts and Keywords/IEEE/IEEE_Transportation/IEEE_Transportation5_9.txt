@@ -1,0 +1,6 @@
+Transmission system is the heart of any automobile. An efficient transmission system always leads to better fuel economy. As we know, parallel hybrid vehicles use electric as well as fuel power simultaneously to drive the vehicle. For specific power developed, since (Power) = (Torque)middot(Speed), for a specific speed, optimum torque will be well defined. If we use conventional gearbox in the transmission train, we get stepped speeds. It is not possible to tap any intermediate speed from conventional drive. Concept of 'Proportional Loss of Speed' says that if we want a specific speed, which is not available in the conventional gear train for a particular instant, the higher or lower speed chosen, causes loss of power. Since electrical as well as mechanical efficiencies are both defining the total efficiency of the drive, it is not desirable to allow loss of power at any instant. That means we must use such a drive in which any particular speed in the given range can be tapped. This is possible using continuously variable transmission (CVT). This paper will discuss mechanical transmission system design and CVT control philosophy to optimize energy efficiency of the system.
+
+Continuously Variable Transmission
+Fuel Efficiency
+Mechanical System Design
+Parallel Hybrid Vehicles

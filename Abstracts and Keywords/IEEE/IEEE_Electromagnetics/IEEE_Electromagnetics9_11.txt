@@ -1,0 +1,5 @@
+This paper presents the investigation of performance of a quarter car nonlinear active suspension system with a backstepping control strategy. Dynamic model of a suspension system is highly nonlinear. This paper presented a suspension system that admits the rotational motion of control arm. Backstepping control is a recursive control procedure which breaks a design problem for the full system into a sequence of design problems for lower order systems. Therefore the advantage of backstepping controller is that it can be applied in nonlinear system easily without considering the matching condition. Performance of a suspension system is determined by the ride quality and the car handling. These two criteria is examined and presented.
+
+avtive suspension system
+backstepping controller
+passive suspension system

@@ -1,0 +1,13 @@
+The oxidation characteristics of TiAlN films integrated in the bottom electrode (BE) stack of three-dimensional SrBi2Ta2O9-based (SBT) ferroelectric capacitors are investigated in the range of 650800	°C. The patterned TiAlN\Ir\IrO2\Pt BE is encapsulated by a thin ferroelectric SBT film deposited by metal organic chemical vapor deposition and then crystallized ex situ at temperatures higher than 650	°C in oxygen. During this annealing step the TiAlN film oxidizes from the lateral side of the patterned BE mesas. Compared to the vertical oxidation in blanket TiAlN layers, the lateral oxidation rate in our capped patterned films is much larger for similar oxidation conditions. This lateral oxidation of the TiAlN is strongly correlated with the in-film SBT stress that depends upon the deposition temperature and the thickness of the SBT film: the higher the tensile stress in the SBT, the larger the TiAlN oxidation length induced. From a kinetic study, the lateral oxygen diffusion was found to be a self-limited process with activation energy of about 2.2eV and a preexponential factor D0 of 7×103cm2/s. This factor, one to two orders of magnitude higher than the one obtained in blanket TiAlN layers, is indicative of interfacial diffusion. The mechanism of the increased lateral oxidation can be understood by the high tensile stress of the SBT film at the sidewall of the ferroelectric capacitors that tends to tear apart the Ir/TiAlN interface and causes enlarged interfacial oxygen diffusion. The limiting step of the oxidation mechanism is identified as oxygen diffusion in the Al-depletedTi-rich TiAlN layer that lies beyond the Al-rich film found at the very edge of the capacitors, whereas on blanket films the oxygen diffusion is limited in the Al-rich surface layer region.
+
+oxidation
+titanium compounds
+aluminium compounds
+ferroelectric capacitors
+ferroelectric thin films
+annealing
+MOCVD coatings
+surface diffusion
+strontium compounds
+bismuth compounds
+diffusion barriers

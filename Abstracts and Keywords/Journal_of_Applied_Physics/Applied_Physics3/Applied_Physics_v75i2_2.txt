@@ -1,0 +1,12 @@
+Electron collision cross sections for silane in the energy range 05 eV are presented. We show that the conventional twoterm solution of the Boltzmann equation is not correct for unfolding the cross sections from swarm data in pure silane, silaneAr, and silaneKr mixtures. A Monte Carlo method is used to derive the cross sections for the these systems and the twoterm solution is used in silaneHe mixtures. It is shown that experimental drift velocity data for the silaneHe system is a valuable adjunct for unfolding the silane cross sections from existing swarm data.
+
+SILANES
+ELECTRON COLLISIONS
+CROSS SECTIONS
+ARGON
+KRYPTON
+MIXTURES
+EV RANGE 0110
+MONTE CARLO METHOD
+BOLTZMANN EQUATION
+DATA ANALYSIS

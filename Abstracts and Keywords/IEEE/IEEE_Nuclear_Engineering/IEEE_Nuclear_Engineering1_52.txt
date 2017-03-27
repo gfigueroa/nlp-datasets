@@ -1,0 +1,6 @@
+Estimation of pollutant concentration in agricultural drainage is the key point of quantitative research on agricultural non-point source pollution load. Synthesis of fertilization and irrigation is used as an impulse input to the farmland, meanwhile, the pollutant concentration in agricultural drainage is looked as the response process corresponding to the impulse input,the migration and transformation of pollutant in soil is expressed impliedly by Inverse Gaussian Probability Density Function, the law of pollutants migration and transformation in soil at crop different growth periods is reflected by adjusting parameters of Inverse Gaussian Distribution. Based on above, the estimation model for pollutant concentration in agricultural drainage at field scale was constructed. Taking the typical experimentation area of Qing Tong Xia Irrigation District at the Yellow River upstream as an example, the concentration of nitrate nitrogen and total phosphorus in paddy field drainage was simulated by this model. The results show that the simulated results accorded with measured data approximately and Nash-Suttcliffe coefficients was 0.972 and 0.964 respectively, get a good simulation effect.
+
+Agricultural drainage
+Agricultural non-point source pollution
+Mathematical model
+Pollutant concentration

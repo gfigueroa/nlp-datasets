@@ -1,0 +1,12 @@
+The time dependence of catastrophic optical mirror damage (COMD) is investigated for cw operation of AlGaAsGaAs quantum well lasers. The apparent Arrhenius parameters (i.e., the activation energy and preexponential factor) for the rate process leading to COMD are determined. In particular, we compare the rate process for various cleaved facets with and without a subsequent plasma oxidation step. Analysis of the experimental Arrhenius parameters indicates that surface reactions on the corroded facets are responsible for facet degradation accompanied by heating. A tentative model of the facet heating that ultimately leads to COMD is presented.
+
+SEMICONDUCTOR LASERS
+DAMAGE
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+QUANTUM WELL STRUCTURES
+CRYSTAL DEFECTS
+LASER MIRRORS
+ARRHENIUS EQUATION
+SURFACE REACTIONS

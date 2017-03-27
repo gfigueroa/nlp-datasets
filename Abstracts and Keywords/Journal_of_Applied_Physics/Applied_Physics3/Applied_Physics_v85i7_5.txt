@@ -1,0 +1,10 @@
+Color detectors based on multilayers of amorphoussilicon alloys facilitate the detection of the three fundamental components of visible light in one single pixel of a sensor array. In order to achieve sensitivity for the blue, green, and red components of light, three different bias voltages are applied to the device. By switching them sequentially the detector is read out. n-i-p-i-i-n structures with a controlled band gap and mobilitylifetime product exhibit excellent stationary properties, namely: good color separation and have dynamic behaviors above 95 dB. Besides the stationary behavior the transient response of a color detector is a further optimization criterion. The experimentally found transient photocurrent response after switching on monochromatic light at different applied bias voltages showed reasonable delay times in the range of tens of milliseconds before reaching steady state. Numerical simulations have been carried out which reproduce this characteristic behavior and facilitate a study of time dependent processes within the device, such as charge transport and storage in localized states. The delay times can be explained by the recharging of electrical defect states in the amorphous material. Consequently, the electrical potential within the device changes, which remarkably affects the carrier transport. Based on these results optimization criteria for the transient behavior of the color detectors are discussed. © 1999 American Institute of Physics.
+
+silicon
+elemental semiconductors
+amorphous semiconductors
+photoconductivity
+photodetectors
+localised states
+energy gap
+transient response

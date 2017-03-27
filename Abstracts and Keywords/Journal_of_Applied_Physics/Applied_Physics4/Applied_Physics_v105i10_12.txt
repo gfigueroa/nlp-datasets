@@ -1,0 +1,5 @@
+We propose the design of arbitrary waveguide bends using the theory of geometrical optics. The designed electromagnetic wave bending structures are filled with inhomogeneous and isotropic materials, whose parameters can be linearly tuned for easy implementation. Dielectric materials can be used if reflection does not pose a problem. Full-wave simulation results validate the correctness of the design. Compared with the counterparts realized by the optical transformation, the proposed arbitrary bends are much easier for experimental verification and practical implementation.
+
+geometrical optics
+inhomogeneous media
+optical waveguides

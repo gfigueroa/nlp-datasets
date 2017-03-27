@@ -1,0 +1,21 @@
+Morphology and crystallography of the formation of small segregates in Czochralski grown calcium gallium germanium garnet are studied using TEM and STEM. Based on the observations, the following model has been developed for the formation of these defects. Evaporative loss of Ge from the melt during the crystal growth and the resulting local deviations from stoichiometry lead to random nucleation of small platelike precipitates, rich in Ga. As these precipitates grow, strain field interaction leads first to the formation of threedimensional segregates, and later to their alignment along the elastically soft 100	 directions. Isolated segregates are also observed. Some of the segregates contain a central void filled with oxygen gas, while some others with or without a void have one or more dislocation loops around them. These segregates have the same garnet structure but a different chemical composition; they are rich in Ga and depleted in Ge. The model suggests that segregatefree crystals can be grown by suppressing the evaporative loss of Ge from the melt during crystal growth.
+
+CRYSTAL GROWTH
+SEGREGATION
+CZOCHRALSKI METHOD
+FERRITE GARNETS
+CALCIUM OXIDES
+GALLIUM OXIDES
+GERMANIUM OXIDES
+MONOCRYSTALS
+MORPHOLOGY
+CRYSTALLOGRAPHY
+SYNTHESIS
+DATA
+TRANSMISSION ELECTRON MICROSCOPY
+ELECTRON SCANNING
+CRYSTAL DEFECTS
+EVAPORATION
+STOICHIOMETRY
+NUCLEATION
+VARIATIONS

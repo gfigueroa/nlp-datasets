@@ -1,0 +1,13 @@
+N
+1s core-level shifts from x-ray photoelectron spectra (XPS) are reported for the adsorption products of nitromethane (CH3NO2) on Si(100). Three spectral peaks are identified and these are associated with specific bonding environments for nitrogen by comparison to predicted core-level shifts from density functional calculations on a range of energetically feasible chemical structures. These species can be classified according to the number of NýO bonds (zero, one, or two) that they contain and, in this sense, they are comparable to the species believed to exist in oxynitride films on Si. Since the energetically feasible products of room-temperature CH3NO2 adsorption can be identified with more confidence than those resulting from ion bombardment and high-temperature processing in oxynitride films, nitromethane provides a model system that can aid in correlating spectral features with specific atomic-scale structures. This work supports an earlier proposal that the XPS peak of weakest binding energy is due to species with a dangling bond on nitrogen, while the most intense peak is due to the energetically preferred NSi3 species. © 2004 American Institute of Physics. 
+
+carbon compounds
+hydrogen compounds
+nitrogen compounds
+oxygen compounds
+silicon
+adsorption
+X-ray photoelectron spectra
+bonds (chemical)
+binding energy
+core levels

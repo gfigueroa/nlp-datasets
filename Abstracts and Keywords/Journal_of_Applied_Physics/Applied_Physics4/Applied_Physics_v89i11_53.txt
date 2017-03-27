@@ -1,0 +1,8 @@
+We have investigated the magnetic properties of La0.7Sr0.3MnO3(LSMO)/SrTiO3(STO) superlattices on a number of samples with the thickness dLSMO~dSTO in order to understand the interface magnetism and the possible interlayer magnetic coupling. A series of multilayers with several thickness combinations of dLSMO and dSTO, varying from 1.9 to 10 nm was fabricated on SrTiO3(100) substrates by pulsed laser deposition. A ferromagnetic transition was observed for all studied films and the transition temperature decreased with dLSMO, without showing a clear dependence on dSTO. The spontaneous magnetization was found to decrease with dLSMO though the decrease is not as strong as expected for a magnetically disordered surface of the LSMO layers. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+interface magnetism
+pulsed laser deposition
+ferromagnetic materials
+magnetisation

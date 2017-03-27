@@ -1,0 +1,7 @@
+New substructures of H4 and H5 hole traps have been revealed using Laplace deep-level transient spectroscopy. Our measurements show that the hole traps H4 and H5 can have at least three components for each. Moreover, the activation energies are deduced and the microscopic nature of these substructures is discussed.
+
+deep level transient spectroscopy
+electron beam effects
+hole traps
+III-V semiconductors
+indium compounds

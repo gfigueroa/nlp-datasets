@@ -1,0 +1,6 @@
+During the last few years, the search result clustering has attracted a substantial amount of research. In this paper, we present a comparative study of the performance of fuzzy clustering algorithms, namely Fuzzy C-Means (FCM), and Gustafson-Kessel (GK) algorithms with clustering search results. Therefore, there is a need to reduce the information, help filtering out irrelevant items, and favors exploration of unknown or dynamic domains in a better way by clustering the search results.
+
+Fuzzy C-Mean
+Gustafon kessel
+cluster analysis
+search engine

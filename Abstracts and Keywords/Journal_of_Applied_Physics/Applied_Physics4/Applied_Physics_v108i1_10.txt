@@ -1,0 +1,14 @@
+We report on Ga-doped 3CSiC epitaxial layers grown on on-axis (0001) 6HSiC substrates using the vapor-liquid-solid technique and different Si1xGax melts. The resulting samples have been investigated using secondary ion mass spectroscopy (SIMS), micro-Raman spectroscopy (¼-R) and, finally, low temperature photoluminescence (LTPL) spectroscopy. From SIMS measurements we find Ga concentrations in the range of 1018cm3, systematically accompanied by high nitrogen content. In good agreement with these findings, the ¼-R spectra show that the Ga-doped samples are n-type, with electron concentrations close to 2×1018cm3. As expected, the LTPL spectra are dominated by strong NGa donor-acceptor pair (DAP) transitions. In one sample, a weak additional NAl DAP recombination spectrum is also observed, showing the possibility to have accidental codoping with Ga and Al simultaneously. This was confirmed on a non-intentionally doped 3CSiC (witness) sample on which, apart of the usual N and Al bound exciton lines, a small feature resolved at 2.35 eV comings from neutral Ga bound excitons. Quantitative analyses of the DAP transition energies in the Ga-doped and witness sample gave 346 meV for the optical binding energy of Ga acceptors in 3CSiC against 251 meV for the Al one. The conditions for the relative observa-tion of Ga and Al related LTPL features are discussed and the demonstration of room temperature luminescence using Ga doping is done.
+
+aluminium
+binding energy
+gallium
+nitrogen
+photoluminescence
+Raman spectra
+secondary ion mass spectra
+semiconductor doping
+semiconductor epitaxial layers
+semiconductor growth
+silicon compounds
+wide band gap semiconductors

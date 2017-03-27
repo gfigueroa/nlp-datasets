@@ -1,0 +1,10 @@
+The optical model to incorporate the effect of scattering is improved by using the energy dependent optical potential that is determined by experimental data on hot electrons. Using this model, the IV characteristic of a resonant tunneling diode is calculated, and the calculated result explains experiments well. From this analysis it turns out that the valley current of the resonant tunneling diode is intimately related to the scattering rate of hot electrons in the well. As this model is easy to use and simple to interpret, it is quite suitable for simulation of device characteristics.
+
+TUNNEL DIODES
+OPTICAL MODELS
+RESONANCE
+SCATTERING
+IV CHARACTERISTIC
+HOT ELECTRONS
+QUANTUM WELLS
+ENERGY DEPENDENCE

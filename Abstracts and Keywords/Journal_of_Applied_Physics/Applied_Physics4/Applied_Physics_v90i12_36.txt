@@ -1,0 +1,10 @@
+Pure hydroxyapatite (HAP) and HAP doped with 800 ppm of zinc were implanted in cortical bone of femur diaphysis of ovines [J. L. Irigaray et al., Mater. Clin. Appl. 28, 399 (1999)]. We observed that the doped HAP was better resorbed than pure HAP. The first hypothesis is that zinc acts as a stimulator on macrophage cells and improves quantity and quality of osteoblast cells. The second hypothesis is that zinc yields HAP structure that is better resorbed in biological field. For our experiment we used HAP doped with 3000 ppm of zinc in order to have a good sensitivity. In the present work, chemical studies by inductively coupled plasma absorption emission spectrometry, x ray diffraction, and infrared were carried out to determine the composition of major and trace elements in the doped hydroxyapatite, and the crystallographic structure. These studies can indicate possible modifications induced by the insertion of zinc. We used the extended x-ray absorption fine structure experimental station of LURE (Orsay, France) to try to clarify the atomic surroundings of zinc in doped HAP structure and transformations induced in initial lattice. Despite the low zinc concentration, we got good quality fluorescence mode spectra. These spectra showed medium range order of the material that is consistent with its crystalline form. To perform the analysis, we compared the result obtained with another models like ² tricalcium phosphate and we created theoretical models of zinc in substitution of calcium in order to reproduce as well as possible the experimental spectrum. After this study, only two models are coherent with experimental spectrum, zinc in substitution of calcium in site I and zinc in the interstice between the two hydroxydes. © 2001 American Institute of Physics. 
+
+organic compounds
+molecular biophysics
+zinc
+infrared spectra
+EXAFS
+X-ray diffraction
+crystal structure
+molecular configurations

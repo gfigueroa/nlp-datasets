@@ -1,0 +1,6 @@
+In the present study, low-temperature electronic transport in Pb<sub>1-x</sub>Sn<sub>x</sub>Te:In films with prevailing contact injection of charge carriers was examined. Data concerning the influence of magnetic field on the injection currents, and also on the transient currents observed following turn-on and turn-off of the field are reported. Possible mechanisms of observed phenomena are discussed.
+
+contact injection
+magnetoresistance
+narrow-band semiconductor
+traps

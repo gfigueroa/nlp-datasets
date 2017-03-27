@@ -1,0 +1,15 @@
+In atomic layer deposition (ALD), film thickness control by counting the number of deposition sequences is poor in the initial, nonlinear growth region. We studied the growth of TiN films formed by sequentially controlled reaction of TiCl4 and NH3 on thermal SiO2 during the transient, nonlinear period. Using low-energy ion scattering and Rutherford backscattering spectroscopy analysis, we have found that a three-dimensional growth of islands characterizes the ALD TiN growth on SiO2. Growth at different temperatures (350
+°C and 400
+°C) affects the extent of the transient region and the rapid closure of the film. At 400
+°C, a reduced growth inhibition and an earlier start of three-dimensional growth of islands results in film closure at about 100 cycles, corresponding to a TiN thickness of 24±3	Å. At 350
+°C the minimum thickness at which the TiN layer becomes continuous is 34±3	Å, deposited with 150 cycles. © 2002 American Institute of Physics. 
+
+titanium compounds
+diffusion barriers
+chemical vapour deposition
+CVD coatings
+Rutherford backscattering
+ion-surface impact
+transmission electron microscopy
+island structure
+ellipsometry

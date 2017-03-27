@@ -1,0 +1,16 @@
+Silicon on insulator layers doped with 8×1020	As
+cm3 and thermally equilibrated at 1100
+°C, have been irradiated with 2 MeV Si+ ions. Rutherford backscatteringchanneling analysis shows an increase in As disorder upon irradiation significantly larger than the increase in Si disorder, while electrical measurements show a large decrease in electrical activation. Monte Carlo simulation of channeling angular scans suggests that the enhanced As disorder effect is due to the preferential relocation of dopant atoms slightly displaced from lattice sites, which appear the main reason responsible for the electrical deactivation in the unirradiated sample and are believed to be in the form of Asvacancy clusters. Upon 600
+°C 15 s annealing, the As atoms randomly relocated by ion irradiation almost completely recover their original configuration, probably capturing vacancies and forming, again, the complexes dissociated by ion irradiation. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+arsenic
+channelling
+heavily doped semiconductors
+silicon-on-insulator
+ion beam effects
+Rutherford backscattering
+Monte Carlo methods
+vacancies (crystal)
+annealing

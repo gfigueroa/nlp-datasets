@@ -1,0 +1,6 @@
+Software testing is an important step to help ensure that the software is behaving correctly. An important component of the test process is a test oracle, which determines if the software behavior is correct or not. In this paper, we present tools that enhance an integrated development environment to give the user the ability to write the formal specifications in a readable manner and generate test oracles automatically. The generated test oracles integrate smoothly with test frameworks (e.g., JUnit) and hence they can be directly used to test the behavior of the program. This approach for testing has the advantage that the quality of testing can be high and very efficient.
+
+Automated testing
+Open Mathematical Documents
+Test Oracle
+Test-Driven Development

@@ -1,0 +1,12 @@
+We report the first growth and characterization of fcc Co epitaxial films (t=10130 nm) on diamond. Growth was carried out under UHV conditions in a commercial MBE machine and monitored during growth using RHEED which showed single crystal growth oriented with 100	Co%100	C. Xray diffraction studies of the 130 nm sample demonstrated the single crystal fcc growth throughout the entire sample. Separate studies to determine growth mode and structure were carried out using angleresolved Auger forward scattering. Vibrating sample and SQUID magnetometry yields a magnetic moment of (1.05±0.1) 103 emu/cm3. Ferromagnetic resonance measurements carried out at 35 GHz yield a large cubic anisotropy K1/MS=(480±30)Oe and linewidth of only ”H=100 Oe. Spin waves were observed in the thicker samples and the exchange constant determined to be ACo=1.09×106 erg/cm. This work has been supported by the Office of Naval Research.
+
+DIAMONDS
+COBALT
+THIN FILMS
+MOLECULAR BEAM EPITAXY
+FCC LATTICES
+MAGNETIZATION
+FERROMAGNETIC RESONANCE
+SPIN WAVES
+XRD
+AUGER EFFECT

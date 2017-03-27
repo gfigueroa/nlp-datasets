@@ -1,0 +1,11 @@
+Deep-level defect-related optical properties of undoped n-type GaN grown by metalorganic chemical vapor deposition are investigated using photoluminescence (PL), optical absorption (OA), photoconductivity (PC), and persistent photoconductivity (PPC) measurements. From the temperature dependence of the PL and OA, we find that the yellow luminescence (YL) is due to shallow-to-deep donor recombination. PL, PC, and PPC results manifest a strong correlation in properties related to deep levels. Samples which emit YL exhibit a PC peak at 1.9 eV due to the photoionization of deep levels as well as to the persistent photoconductivity effect, whereas samples with no YL have no PC peak in the forbidden gap and no PPC at any photon energy, suggesting a common origin. Furthermore, two types of PPC behavior were observed depending on the sample quality: typical stretched exponential decay in relatively thick samples and photocurrent quenching and a subsequent reduction of the dark current in thin samples. An explanation of the latter phenomenon based on photoinduced metastable electron traps in a highly defective layer near the interface is suggested from the temporal behavior of the PC. These traps seem to disappear slowly after the illuminating light is turned off. © 2001 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+photoluminescence
+photoconductivity
+MOCVD
+deep levels
+electron traps
+semiconductor thin films

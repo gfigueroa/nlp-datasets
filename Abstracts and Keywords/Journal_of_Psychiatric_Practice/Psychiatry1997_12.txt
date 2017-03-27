@@ -1,0 +1,5 @@
+This article uses agitated behaviors in dementia patients as an example of applying decision trees to clinical decision making. The current scientific and clinical knowledge base of what works for these patients remains limited. Applying principles of decision analysis may help clinicians better prioritize their treatment options by systematically weighing efficacy data and utility or value assessments for different treatments in a manner that maximizes expected benefits for the patient. As treatment efficacy and quality of life data in dementia care become more available, decision analysis may help steer physicians to make the "best" treatment choices for their patients. 
+
+agitated dementia patients
+decision analysis
+pharmacotherapy

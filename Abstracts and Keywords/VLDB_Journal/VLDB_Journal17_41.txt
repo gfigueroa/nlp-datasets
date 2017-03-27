@@ -1,0 +1,6 @@
+Sensor devices produce data that are unreliable, low-level, and seldom able to be used directly by applications. In this paper, we propose metaphysical data independence (MDI), a layer of independence that shields applications from the challenges that arise when interacting directly with sensor devices. The key philosophy behind MDI is that applications do not deal with any aspect of physical device data, but rather interface with a high-level reconstruction of the physical world created by a sensor infrastructure. As a concrete instantiation of MDI in such a sensor infrastructure, we detail MDI-SMURF, a Radio Frequency Identification (RFID) middleware system that alleviates issues associated with using RFID data through adaptive techniques based on a novel statistical framework.
+
+Data cleaning
+RFID technology
+Sensor-based applications
+Statistical sampling

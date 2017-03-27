@@ -1,0 +1,11 @@
+A quantitative theory of the nonspecular scattering of x rays from multilayer structures having rough interfaces is presented. The results are valid for arbitrary polarization and angles of incidence (measured from the normal) less than the critical angle for total external reflection. A structural model is adopted wherein each interface is assumed to be described by a surface having statistically random roughness with a wellbehaved power spectrum. In addition, the model accounts for arbitrary correlation of the roughness between different interfaces. Calculations are presented for a variety of roughness configurations to investigate the dependence of the nonspecular scattering on the fundamental structural parameters. In particular, it is shown that the scattering from correlated roughness exhibits characteristic resonance behavior (quasiBragg diffraction).
+
+MULTILAYERS
+SCATTERING THEORY
+INTERFACES
+XRAY DIFFRACTION
+ROUGHNESS
+POLARIZATION
+THIN FILMS
+INCIDENCE ANGLE
+STRUCTURAL MODELS

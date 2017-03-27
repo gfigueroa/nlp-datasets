@@ -1,0 +1,9 @@
+We perform numerical studies of the effect of sidewall imperfections on the resonant state broadening of the optical microdisk cavities for lasing applications. We demonstrate that even small edge roughness (r»/30) causes a drastic degradation of high-Q whispering gallery (WG)-mode resonances reducing their Q values by many orders of magnitude. At the same time, low-Q WG resonances are rather insensitive to the surface roughness. The results of numerical simulation obtained using the scattering matrix technique, are analyzed and explained in terms of wave reflection at a curved dielectric interface combined with the examination of Poincaré surface of sections in the classical ray picture. © 2003 American Institute of Physics. 
+
+microdisc lasers
+microcavity lasers
+laser modes
+rough surfaces
+Q-factor
+S-matrix theory
+light reflection

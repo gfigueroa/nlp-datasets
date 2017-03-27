@@ -1,0 +1,8 @@
+Evanescent modes in complete sonic crystals (SCs) and SC with point defects are reported both theoretically and experimentally in this paper. Plane wave expansion (PWE) and in general, É(k) methods have been used to calculate band structures showing gaps that have been interpreted as ranges of frequencies where no real k exists. In this work, we extend PWE to solve the complex k(É) problem applied to SC, introducing the supercell approximation for studying one vacancy. Explicit matrix formulation of the equations is given. This k(É) method enables the calculation of complex band structures, as well as enabling an analysis of the propagating modes related with real values of the function k(É), and the evanescent modes related with imaginary values of k(É). This paper shows theoretical results and experimental evidences of the evanescent behavior of modes inside the SC band gap. Experimental data and numerical results using the finite elements method are in very good agreement with the predictions obtained using the k(É) method.
+
+acoustic materials
+acoustic wave production
+finite element analysis
+lattice dynamics
+phononic crystals
+point defects

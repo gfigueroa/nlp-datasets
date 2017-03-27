@@ -1,0 +1,11 @@
+The boundary element method is applied to determine the effective elastic moduli of continuum models of composite materials. In this paper, we specialize to the idealized model of hexagonal arrays of infinitely long, aligned cylinders in a matrix (a model of a fiberreinforced material) or a thinplate composite consisting of hexagonal arrays of disks in a matrix. Thus, one need only consider twodimensional elasticity, i.e., either planestrain or planestress elasticity. This paper examines a variety of cases in which the inclusions are either stiffer or weaker than the matrix for a wide range of inclusion volume fractions Õ2. Our comprehensive set of simulation data for the elastic moduli are tabulated. Using the boundary element method, a key microstructural parameter ·2 that arises in rigorous threepoint bounds on the effective shear modulus is also computed. Our numerical simulations of the elastic moduli for the hexagonal array are compared to rigorous twopoint and threepoint bounds on the respective effective properties. In the extreme instances of either superrigid particles or voids, we compare analytical relations for the elastic moduli near dilute and close packing limits to our simulation results.
+
+COMPOSITE MATERIALS
+ELASTIC CONSTANTS
+COMPUTERIZED SIMULATION
+THEORETICAL DATA
+BOUNDARY ELEMENT METHOD
+REINFORCED MATERIALS
+FIBERS
+ARRAYS
+DISKS

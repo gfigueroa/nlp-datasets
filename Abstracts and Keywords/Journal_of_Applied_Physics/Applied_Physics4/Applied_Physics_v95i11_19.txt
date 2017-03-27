@@ -1,0 +1,14 @@
+The molecular nanomagnet [LiFe6(OCH3)12(dbm)6]B(C6H5)4Å5CH2Cl2 (Fe6:Li in short) is formed by six Fe(III) s=5/2 spins arranged in an almost coplanar ring with antiferromagnetic (AFM) nearest-neighbor coupling constant J/kB<20
+K. We report 7Li nuclear magnetic resonance (NMR) spectra and nuclear spin-lattice relaxation rate (NSLR) measurements as a function of temperature from 1.5 to 50 K with applied field H=1.5
+T. No evidence of quadrupole effects was found on the 7Li NMR spectrum within the linewidth resolution (<25 kHz) ruling against a molecular distortion. The 7Li NSLR is compared with the 1H NSLR results in Fe6:Li and in other AFM rings. © 2004 American Institute of Physics. 
+
+organic compounds
+antiferromagnetic materials
+molecular magnetism
+nanostructured materials
+nuclear magnetic resonance
+magnetic structure
+exchange interactions (electron)
+nuclear spin-lattice relaxation
+spectral line shift
+spin dynamics

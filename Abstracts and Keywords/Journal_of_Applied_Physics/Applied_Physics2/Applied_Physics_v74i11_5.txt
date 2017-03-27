@@ -1,0 +1,10 @@
+A Ga2Te3 interfacial phase has been observed in a ZnTe/(001)GaSb heterostructure by high resolution electron microscopy under special imaging conditions. This phase exists in domains 510 nm in size on the ZnTe side of, and usually 24 nm away from, the interface. A structural model has been proposed for this phase that is derived from the sphalerite cell with cation sites occupied either fully (occupancy 1) or partially (occupancy 5/9) by Ga atoms. The fully occupied Ga sites form a regular array of uninterrupted chains along the [110] direction of the sphalerite unit cell. The partially occupied Ga sites can also be considered as forming chains containing both Ga atoms and vacancies along the [110] direction. Within these chains vacancies are highly mobile, resulting in an average Ga occupancy of 5/9. The unit cell of Ga2Te3 is orthorhombic with the space group Amm2. The lattice parameters of the unit cell have been derived from electron diffraction data.
+
+ZINC TELLURIDES
+GALLIUM ANTIMONIDES
+HETEROSTRUCTURES
+INTERFACE STRUCTURE
+STRAINS
+TEM
+GALLIUM TELLURIDES
+PHASE STUDIES

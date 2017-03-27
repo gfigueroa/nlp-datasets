@@ -1,0 +1,16 @@
+This article presents a predominantly numerical investigation of the transient transport phenomena occurring during the pileup (deposition one upon another) of molten, picoliter-size liquid metal droplets relevant to a host of novel micromanufacturing processes. The investigated phenomena last fractions of a millisecond in severely deforming domains of typical size of a small fraction of a millimeter. The prevailing physical mechanisms of the pileup process (occurring simultaneously) are identified and quantified numerically. These are the fluid mechanics of the bulk liquid, capillarity effects at the liquidsolid interface, heat transfer, solidification, and thermal contact resistance effects at all interfaces. In terms of values of the Reynolds, Weber, and Stefan number the following ranges are covered: Re=281453, We=2.395.99, and Ste=0.1870.895. This corresponds to molten solder droplets impinging at velocities ranging between 1.12 and 1.74 m/s having an average diameter of H78 ¼m. The initial substrate temperature ranges between 25 and 150
+°C. The initial droplet temperature is 210
+°C. The numerical model presented is based on a Lagrangian formulation of the NavierStokes equations accounting for surface tension, thermal contact resistance, solidification, and a Navier slip condition at the dynamic contact line. Results of simulations are presented showing the effect of thermal contact resistance and slip at the dynamic contact line on the transients and the outcome of a pileup. Comparisons of the simulated pileup with experimental visualizations are shown, demonstrating good agreement in cases where inertia dominates over capillary effects. For decreasing Stefan number (i.e., higher substrate temperatures) an increasing importance of wetting is observed. For these cases the limitations of the employed popular boundary condition at the dynamic contact line is demonstrated and the need for experimental data (currently nonexistent in the literature) that would yield an improved condition at the contact line accounting for the temperature dependence of wetting phenomena is underpinned. © 2002 American Institute of Physics. 
+
+liquid metals
+drops
+solidification
+soldering
+micromachining
+microfluidics
+capillarity
+heat transfer
+thermal resistance
+Navier-Stokes equations
+surface tension
+wetting

@@ -1,0 +1,7 @@
+At present, how to select a limited but representative sample dataset from the existing land information database to guide the new round of land survey and assessment sampling is a critical issue for land sampling strategy study. As a case study to determine and analyze the sample capacity and sample spatial location of land survey sampling for the study area, Panyu District in Guangzhou, the paper developed the strategy based on the combination of classical sampling technique and geographical model under a certain confidence level and estimation accuracy requirement, and the performance of the sampling strategy was then evaluated by the Global Geary's C and the Quick-BP neural network model respectively. The test result showed that, compared with traditional c-means clustering sampling method, the accuracy of the sampling prediction based on local Moran index spatial clustering sampling method was increased by 13.57% which abstracted better the land information in the database.
+
+Moran's I
+Quick-BP neural network
+land survey
+sample capacity
+sampling technique

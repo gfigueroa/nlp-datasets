@@ -1,0 +1,8 @@
+A low-energy (550 eV) argon beam is used to bombard the backsurfaces of 6 kinds of metaloxidesemiconductor capacitors, and the resulting effects on their interface characteristics are then investigated. The gate oxide of these capacitors includes thermal oxide, trichloroethyene (TCE) oxide, NH3-nitrided oxide, reoxidized-nitrided oxide, rapid-thermal-nitrided oxide, and N2O-nitrided oxide. Measurements show that for bombardment times up to 45 min the interface-state density of all the devices, in general, decreases with increasing bombardment time/dose, and the midgap energy at the silicon surface tends to rise. Moreover, the bombardment is more effective in reducing acceptor-type than donor-type interface states. On the other hand, the change of fixed-charge density is more complex. For TCE, N2O-nitrided and reoxidized-nitrided oxides, fixed-charge density decreases initially with increasing bombardment time, but then increases, while the trend is reversed for the other gate oxides. A model with stress compensation and weak bond breaking is suggested to explain the results. © 1999 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+MOS capacitors
+interface states
+particle backscattering
+electronic density of states

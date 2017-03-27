@@ -1,0 +1,10 @@
+Understanding and fully characterizing highly dynamic and rapidly streaming laser ablation plasmas requires multiple techniques for monitoring effects at different stages. By combining multiple diagnostic methods, it is possible to analyze the broad time window over which these ablation plasmas develop and to learn more about the related physical processes that occur. Two laser sources, an 80 fs Ti:Sapphire laser (780 nm) and a 6 ns Nd:YAG laser (1.06 ¼m), are used in this work in order to compare pulse duration effects at similar wavelengths. Characteristics of the plasma produced by these two lasers are compared under conditions of comparable ablation flux. Results are presented involving correlation of time-resolved Langmuir probe data and electrostatic energy analysis for aluminum plasmas as a representative investigation for metallic systems. In addition, continuous-wave refractive index laser beam deflection is used to characterize the plasma and hot gas generated from boron nitride targets in terms of their ion and neutral atom densities. A self-similarity plasma expansion model is used to analyze the plumes under various conditions. Fundamental data obtained in this way can be relevant to laser micro-machining, laser induced breakdown spectroscopy, and pulsed laser deposition. © 2002 American Institute of Physics. 
+
+aluminium
+plasma production by laser
+plasma diagnostics
+laser ablation
+Langmuir probes
+electrostatics
+refractive index
+plasma density

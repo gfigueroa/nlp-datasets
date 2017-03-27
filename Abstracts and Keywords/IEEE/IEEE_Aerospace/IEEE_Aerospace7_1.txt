@@ -1,0 +1,10 @@
+This paper was prompted by an effort to develop vector network analysis calibration kits for the WR-08 through WR-03 waveguide bands. A lack of repeatability (instability) of vector network analyzer (VNA) calibrations above 90 GHz was encountered which led to the investigation of not only the calibration kit artifacts but into the Â¿MIL SPECS MIL.-F-3922/67B-xxxÂ¿ defined tolerances and actual properties of commonly available components for these waveguide bands. The following frequent sources of errors were identified: 1) The common tendency of waveguide at these frequencies to be oversize causing the incorrect entry of the waveguideÂ¿s cutoff frequency during VNA calibration. 2) Significant waveguide flange misalignment possible with current MIL SPECS specified tolerances with no widely accepted technique for precise alignment. 3) Common waveguide component irregularities that occur due to inadequately developed manufacturing and assembly processes and that are so small that they can only be discovered with microscopic examination.
+
+MIL-F-3922/67B-xxx (67B)
+MIL-W-85/3-xxx
+Specifications
+flange alignment
+forward reflection
+oversize waveguide
+time domain
+vector network analyzer (VNA)

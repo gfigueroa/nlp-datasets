@@ -1,0 +1,7 @@
+Piezoelectric micro machined ultrasonic transducers (pMUT) are piezoelectric laminated plates operating at flexural modes. The pMUT's fabricated in this work contained a 4 ¿m thick lead zirconate titanate (PZT) thin film deposited by a sol-gel technique, and exhibiting a permittivity of ¿<inf>r</inf>= 1200, and an effective transverse piezoelectric coefficient e<inf>31,f</inf> of 12 C/m<sup>2</sup>. A further optimization of the sol-gel process yielded larger grain diameters and consequently improved properties: ¿<inf>r</inf>=1600, e<inf>31,f</inf> of 16 C/m<sup>2</sup>. A design and micromachining concpet for easy scaling in frequency has been developed. The electromechanical coupling coefficient (k<sup>2</sup>) and the quality factor (Q) of rectangular clamped elements (with former PZT process) were measured as k<sup>2</sup>=4.4% and Q=145 in air for a low frequency transducer (@240 kHz). The 16.9 MHz transducer yielded values of Q=25 and k<sup>2</sup>=3% in air. The effect of DC bias voltage on frequency and k<sup>2</sup> has been studied.
+
+PZT
+micromachining
+piezoelectric
+thin film
+transducer

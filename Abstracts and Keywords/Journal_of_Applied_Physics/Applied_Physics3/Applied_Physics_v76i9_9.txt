@@ -1,0 +1,14 @@
+A new model is presented which quantitatively describes the reversible magnetization process and its contribution to the magnetization curve in soft amorphous ribbons. It takes into account the role of the coherent moment rotations, through analysis of the orientation distribution of the magnetization vector Is in the sample cross section and its evolution with the applied field. Such analysis relies on the assumption, dictated by magnetic domains observations, of a spatial distribution of local anisotropies, whose intensity and direction are mainly determined by the longrange random stresses quenched in during the process of rapid solidification. The reversible I(H) curve is obtained by integrating the local magnetization contributions with respect to their angular distribution, according to a minimum energy condition involving the Zeeman, the local anisotropy, and the macroscopic anisotropy terms. It is shown that a relatively simple analytical expression for I(H) can be worked out. The model is applied to experimental I(H) recoil curves, which have been determined as a function of the stressinduced anisotropy in positive magnetostriction (Fe81B14Si3C2) and negative magnetostriction (Co80B10Si10) amorphous ribbons. It is shown that the shape of I(H) and its evolution with the applied tensile/compressive stress are correctly predicted by the theory.
+
+MAGNETIC MATERIALS
+AMORPHOUS STATE
+MAGNETIZATION
+REVERSIBLE PROCESSES
+RIBBONS
+IRON BASE ALLOYS
+BORON ALLOYS
+SILICON ALLOYS
+CARBON ALLOYS
+COBALT ALLOYS
+QUATERNARY ALLOYS
+MAGNETOSTRICTION

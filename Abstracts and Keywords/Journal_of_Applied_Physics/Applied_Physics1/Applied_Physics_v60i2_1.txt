@@ -1,0 +1,15 @@
+Closedform solutions for the transient conductivity and the electric field in optically controlled semiconductors have been obtained. The onedimensional calculations include important effects such as fieldindependent electrode injection efficiency, displacement current, space charge, carrier trapping, and the influence of trapped charge on the field. The model is restricted to linear phenomena so that, for example, the carriervelocity dependence upon electric field is neglected. Despite such limitations, the model provides much insight into the operation of the semiconductor switch and is particularly applicable under conditions of low carrier generation rate and velocity saturation. A significant result of the model reveals that even for small departures of the electrode injection efficiency from unity, nonuniform and very intense electric fields will develop, particularly near the electrodes. These large fields may be exaggerated, however, since the onset of a fielddependent injection efficiency will tend to limit such fields. A preliminary comparison of the theory and experiment for the current pulse was conducted for the case of a GaAs target, under conditions of low carrier generation rate. The comparison shows that the linear model is capable of explaining the observed current waveform under such conditions.
+
+MATHEMATICAL MODELS
+GALLIUM ARSENIDES
+SWITCHES
+SWITCHING
+OPTOELECTRONIC DEVICES
+SEMICONDUCTOR DEVICES
+ANALYTICAL SOLUTION
+ELECTRIC FIELDS
+PHOTOCONDUCTIVITY
+OPERATION
+CHARGEDPARTICLE TRANSPORT
+TRAPPING
+ELECTRIC CONDUCTIVITY

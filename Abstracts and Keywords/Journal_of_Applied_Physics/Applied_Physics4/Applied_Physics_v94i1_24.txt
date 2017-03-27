@@ -1,0 +1,10 @@
+Superradiance from photon-assisted tunneling electrons is analyzed quantum mechanically, and an amplifier device utilizing this phenomenon is discussed. In this device, electrons which are transported with the photon-assisted tunneling at the input port generate the amplified output due to the superradiance at the output port. Superradiance takes place from the two groups of the beat of electron waves, and the output power is proportional to the difference between these two beats. These two beats have almost the same amplitude and phase just after the photon-assisted tunneling, and their phase difference and the output power increase as the distance between the input and output ports increases. However, since the amplitude of the beat decays due to electron scattering, the increase of output power with the inputoutput distance is limited. An energy filtering structure, by which either of the two beat groups can be eliminated and high gain can be obtained, is also analyzed. It is shown from the analysis that the gain up to a few terahertz is possible by optimizing the device structure and the impedances at the input and output ports. © 2003 American Institute of Physics. 
+
+tunnelling
+photoelectricity
+superradiance
+quantum beat spectra
+quantum interference devices
+tunnel diode amplifiers
+radiofrequency amplifiers
+semiconductor device models

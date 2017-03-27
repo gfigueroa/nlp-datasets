@@ -1,0 +1,12 @@
+Recently W. Kissinger, M. Weidner, H. J. Osten, and M. Eichler [Appl. Phys. Lett. 65, 3356 (1994)] reported ellipsometry and electroreflectance measurements on the E0, E1, and E2 critical point energies in strained Si1yCy alloys grown pseudomorphically on Si (001) using molecularbeam epitaxy. We present a theory explaining these energies using established deformationpotential theory and interpret the results and their implications for the band structure of these alloys. © 1995 American Institute of Physics.
+
+INTERBAND TRANSITIONS
+ELECTRONIC STRUCTURE
+ENERGY GAP
+ENERGYLEVEL TRANSITIONS
+MOLECULAR BEAM EPITAXY
+OPTICAL PROPERTIES
+SILICON CARBIDES
+STRAINS
+THIN FILMS
+SILICON ALLOYS

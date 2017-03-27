@@ -1,0 +1,7 @@
+Tracking multiple objects is an essential task for many video applications. One of the key technical issues for effectively tracking the objects is to deal with the shadows and occlusions in video scenes. In this paper, an adaptive shadow suppression method, which combines chrominance and texture features, is proposed. Moreover, in order to handle the occlusions effectively, the relationship between the bounding boxes of object at previous and present time has been taken into account, so that the color distributions of objects are recorded when they merge and the identity of each object is certified by the Bhattacharyya distance when they separate. Experimental results on tracking objects in various video sequences demonstrate the robustness and efficiency of the proposed algorithm.
+
+Bhattacharyya distance
+Data association
+Multiple objects tracking
+Occlusion handling
+Shadow suppression

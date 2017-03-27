@@ -1,0 +1,12 @@
+The magnetic structures which occur in (Co/Ni81Fe19/Co)/Cu multilayer films showing giant magnetoresistance have been investigated using electron microscopy. Rather similar fine domains, with sub¼m dimensions, were found in films comprising 14 and 6 magnetic layers. Whilst the observed structure depended greatly on the magnetic history of the sample, a combination of differential phase contrast imaging and low angle diffraction allowed an estimate to be made of the extent to which neighboring magnetic layers were aligned antiparallel to each other. For both samples typically two layers were found to have parallel alignment leading to the possibility that departures from the expected antiferromagnetic behavior are more prevalent at the surfaces rather than in the bulk of the multilayer.
+
+MULTILAYERS
+COPPER
+COBALT
+BINARY ALLOYS
+IRON ALLOYS
+NICKEL BASE ALLOYS
+ELECTRON MICROSCOPY
+MAGNETORESISTANCE
+MAGNETIC STRUCTURE
+DOMAIN STRUCTURE

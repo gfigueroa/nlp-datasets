@@ -1,0 +1,7 @@
+With the periodic spatial domain Hamiltonian being expressed as a Fourier series, a simple and neat Hamiltonian in a Fourier domain is formulated. The Fourier transform-based k≈p approach is developed to calculate electronic structures of semiconductor heterostructures. Calculation of electronic structures is investigated with several quantum well examples and comparison is made between this approach and the finite difference approach. The formulation of the Fourier domain Hamiltonian for quantum dots is presented as well.
+
+electronic structure
+Fourier transforms
+k.p calculations
+semiconductor quantum wells
+semiconductor superlattices

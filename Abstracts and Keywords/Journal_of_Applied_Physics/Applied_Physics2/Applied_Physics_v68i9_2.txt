@@ -1,0 +1,8 @@
+Examination with xray photoelectron spectroscopy (XPS) of CF4 plasma etched GaAs(100) wafers unveils a residual surface reaction layer composed of Gafluoride and Gaoxide. Efficient removal of this contamination layer by a brief immersion in a dilute NH4OH wet etch is demonstrated. The formation of a thin native oxide upon exposure to atmosphere of the clean substrate surface cannot be avoided, however. Prospective replacement of this wet etch processing by in situ thermal annealing in hydrogen was investigated. The recorded XPS spectra show almost complete desorption of fluorine after annealing at 200	°C, whereas a temperature of <600	°C is required for entire removal of residual surface Gaoxide. Heat treatment in H2 also compares favorably with vacuum annealing, for which a noticeable reduction of the surface contamination layer was found only after annealing at 600	°C. The cleaning efficiency of hydrogen processing may be attributed to the reactive nature of this ambient.
+
+GALLIUM ARSENIDES
+ANNEALING
+SURFACE CLEANING
+ETCHING
+PHOTOELECTRON SPECTROSCOPY
+SAMPLE PREPARATION

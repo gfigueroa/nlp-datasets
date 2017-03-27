@@ -1,0 +1,5 @@
+This paper presents the design of Fractal Microstrip Yagi Uda Antenna. This antenna has been modeled by incorporating fractal geometry in microstrip technology applying the conventional Yagi-Uda principle. The antenna has been designed on substrate epsiv<sub>r</sub> =4.3 and h=1.53 mm using Sierpinski gasket. The Sierpinski gasket as Driver, Reflector and Director of height 80 mm, 83 mm, 77 mm respectively are used. This antenna has been simulated using FDTD code. It has been observed that Yagi - Uda antenna resonant at three frequencies i..e. 0.370 GHz, 1.795 GHz and 3.665 GHz. The radiation pattern of antenna at all frequency are as similar. The experimental resonant frequencies are in good agreement with simulated resonant frequencies.
+
+Microstrip Antenna
+Microstrip Fractal Yagi Uda Antenna
+Resonant Frequency and Multi-band

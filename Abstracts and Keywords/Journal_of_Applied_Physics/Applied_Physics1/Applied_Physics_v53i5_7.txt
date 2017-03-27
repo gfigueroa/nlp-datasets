@@ -1,0 +1,15 @@
+The presence and the location of a band of acceptor levels at the surface of the highresistivity GaAs (Cr doped) and the GaAs/oxide interface is studied, using twobeam Transverse Acousticoelectric Voltage (TAV) spectroscopy. This study is not feasible by conventional CV methods due to the high resistivity of GaAs samples. The band of acceptor levels, centered around 1 eV above the valence band is detected nondestructively. The anodic oxides are grown electrochemically using different current densities (0.13 mA/cm2) under constant current regime. The interfacial characteristics of the GaAs/oxide is compared by the twobeam TAV spectroscopy. The results show a lower density of interface states for the oxides grown at lower current densities. To explain the presence of the acceptor band above the midgap in all of the tested samples, the physical models proposed by different authors are presented and compared.
+
+ELECTRIC CONDUCTIVITY
+SURFACES
+GALLIUM ARSENIDES
+OXIDES
+SPECTROSCOPY
+INTERFACES
+ENERGY LEVELS
+VALENCE
+DATA
+CURRENT DENSITY
+DOPED MATERIALS
+CHROMIUM
+ACOUSTOELECTRIC EFFECTS

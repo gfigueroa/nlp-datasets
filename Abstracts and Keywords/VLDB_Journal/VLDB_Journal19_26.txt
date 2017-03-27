@@ -1,0 +1,5 @@
+Recently, due to intrinsic characteristics in many underlying data sets, a number of probabilistic queries on uncertain data have been investigated. Top-k dominating queries are very important in many applications including decision making in a multidimensional space. In this paper, we study the problem of efficiently computing top-k dominating queries on uncertain data. We first formally define the problem. Then, we develop an efficient, threshold-based algorithm to compute the exact solution. To overcome some inherent computational deficiency in an exact computation, we develop an efficient randomized algorithm with an accuracy guarantee. Our extensive experiments demonstrate that both algorithms are quite efficient, while the randomized algorithm is quite scalable against data set sizes, object areas, k values, etc. The randomized algorithm is also highly accurate in practice.
+
+Uncertain objects
+Top k
+Dominating relation

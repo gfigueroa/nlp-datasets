@@ -1,0 +1,10 @@
+The use of a new highly luminescent conjugated polymer as an emissive layer in single and multilayer electroluminescence devices is reported. Poly(m-phenylenevinylene-co-2,5 -dioctyloxy-p-phenylenevinylene) [PmPV-co-DOctOPV] was prepared via a Wittig synthesis reaction. The resulting polymer has a high photoluminescence quantum efficiency in the solid state with an emission spectrum peaked at 506 nm (2.45 eV) in the green. Electroluminescence devices were fabricated with an ITO anode and a MgAg cathode. Three different structures were studied: (i) single layer devices containing only PmPV-co-DOctOPV; (ii) double layer devices with PmPV-co-DOctOPV and an evaporated film of 1,3-bis(4-tert-butylphenyl-1,3,4-oxadiazoyl) phenylene [OXD-7] as an electron transport layer; (iii) triple layer devices containing PmPV-co-DOctOPV, OXD-7 and in addition a polyvinylcarbazole hole transport layer. Electroluminescence external quantum efficiencies for these devices were found to be up to 0.08%, 0.55%, and 1%, respectively, corresponding to luminous efficiencies of H 0.5, H 3, and H 6
+lm/W and power efficiencies of 8.5×105, 5.9×104, and 6.0×104
+W/W. © 1997 American Institute of Physics. 
+
+conducting polymers
+polymer films
+electroluminescent devices
+photoluminescence
+electron mobility
+hole mobility

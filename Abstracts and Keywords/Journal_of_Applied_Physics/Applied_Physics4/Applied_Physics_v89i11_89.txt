@@ -1,0 +1,11 @@
+Due to the collective nature of the electronic interactions responsible for the appearance of ferromagnetic ordering, a strong influence of reduced dimensionality is to be expected in ultrathin magnetic films and heterostructures. In this article we review a number of experimental results covering several of those effects. For instance, the coercivity of ultrathin Co/Cu(111) films increases continuously up to <6 monolayer Co thickness. We show that this behavior is related to the thickness dependence of the Curie temperature of these low-dimensional samples. Moreover, magnetic anisotropy and interlayer exchange coupling are also strongly affected by the structural features. Because of their smaller interfacial roughness, films grown with the aid of a surfactant Pb layer exhibit perpendicular magnetization up to larger thicknesses than those grown without Pb. With respect to the exchange coupling, the first ones show oscillatory magnetic coupling and complete antiferromagnetic coupling for both perpendicular and parallel magnetization between Co layers, while for films grown without Pb there is always some amount of ferromagnetic coupling between Co layers. © 2001 American Institute of Physics. 
+
+cobalt
+copper
+magnetic thin films
+coercive force
+magnetic anisotropy
+Curie temperature
+ferromagnetic materials
+exchange interactions (electron)
+interface roughness

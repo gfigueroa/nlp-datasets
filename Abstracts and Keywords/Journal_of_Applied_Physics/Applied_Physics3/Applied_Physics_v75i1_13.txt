@@ -1,0 +1,14 @@
+Backscattering and ion channeling measurements have been carried out on 100	 silicon wafers implanted with a dose of 3×1016 As+/cm2. These samples have been submitted to laser annealing and then to various thermal annealings in the 3501000	°C temperature range. Three different crystallographic directions, 100	, 110	, and 111	, have been explored. The deactivated As atom displacement with respect to the lattice sites has occurred already by the first stage of electrical deactivation at 350	°C. The average displacement is constant in the considered temperature range and has been found equal to 0.23±0.06 Å making an angle of 23±8° with the [100] direction. By comparing this finding with the local atomic As arrangement, deduced from previously reported extended xray absorption fine structure measurements performed on the same samples, new cluster models are presented. These models consist of As2V and As4V clusters during the very early stage of deactivation, and of several As4V clusters grouped together giving rise to larger AsmVn agglomerates (m up to 12 and n up to 5). In this context, the average As displacement mainly results from the combined displacements of As atoms inside the clusters. The thermal evolution of the As agglomerates at higher temperatures is also discussed. 	
+
+SILICON
+ION IMPLANTATION
+RBS
+ION CHANNELING
+ARSENIC ADDITIONS
+ANNEALING
+LASER RADIATION
+DISPLACEMENTS
+TEMPERATURE DEPENDENCE
+PRECIPITATION
+TEMPERATURE RANGE 04001000 K
+CLUSTER MODEL

@@ -1,0 +1,7 @@
+In this article, we propose a method for three-dimensional optical trapping of metallic Mie particles using an obstructed laser beam. It is found from the ray-optics model that Mie gold, silver, and copper particles can be trapped against gravity in the focal region of a high numerical-aperture objective illuminated by a centrally obstructed Gaussian (TEM00-mode) beam. The axial trapping force of the three types of metallic particles is maximized in the near-infrared wavelength region. The maximum axial trapping efficiency increases with the size of the center obstruction and the aperture angle of an objective. Axial trapping force on Mie metallic particles is enhanced by a factor of two if an obstructed doughnut (TEM01-mode) beam is employed. The experimental condition for achieving three-dimensional trapping is also discussed. © 2002 American Institute of Physics. 
+
+gold
+silver
+copper
+radiation pressure
+laser beam effects

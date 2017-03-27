@@ -1,0 +1,9 @@
+Objective. To elucidate the relationships between insight and perceived expressed emotion (EE) in a sample of adult outpatients with obsessive-compulsive disorder (OCD). Methods. The study involved 75 subjects with OCD. Subjects were assessed with the Yale-Brown Obsessive Compulsive Scale (Y-BOCS), with the score on item 11 used as a measure of insight level. Perceived EE was evaluated using the Family Emotional Involvement and Criticism Scale (FEICS). The Montgomery Åsberg Depression Rating Scale (MADRS) was used to evaluate depressive symptoms. Results. Poor or absent insight was found to be associated with higher perceived EE and significantly higher OCD severity, as well higher familial perceived criticism and more compulsions and depressive symptoms. 
+
+insight
+expressed emotion
+obsessive-compulsive disorder
+depressive symptoms
+perceived criticism
+obsessions
+compulsions

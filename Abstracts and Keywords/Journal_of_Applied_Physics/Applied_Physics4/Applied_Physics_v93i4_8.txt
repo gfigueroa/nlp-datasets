@@ -1,0 +1,5 @@
+Layer thickness can be reliably determined from x-ray reflectivity data using an improved Fourier method presented here. Before performing the Fourier transform the logarithm of the intensity corresponding to the incoherent superposition of x rays reflected from samples interfaces is subtracted from the experimental reflectivity curve. The subtracted curve is found by simple local average of the data. The connection between the Fourier methods and the dynamic and kinematic approaches is discussed. © 2003 American Institute of Physics. 
+
+thickness measurement
+X-ray reflection
+fast Fourier transforms

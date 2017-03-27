@@ -1,0 +1,6 @@
+Investigations of the polarization versus electric field (P-E) and strain versus electric field (µ-E) responses for hard Pb(Zr1xTix)O3 piezoelectric ceramics have been performed under various uniaxial stresses (Ã) and ac electrical drive fields. Investigations revealed a significant decrease in the remanent polarization of specimens with increasing Ã. Subsequent calculations of the longitudinal electromechanical coupling coefficient (k33) and acoustic power density revealed significant enhancements with increasing Ã. © 2001 American Institute of Physics. 
+
+lead compounds
+piezoceramics
+dielectric polarisation
+electromechanical effects

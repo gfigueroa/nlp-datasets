@@ -1,0 +1,8 @@
+Self-aligned silicidation is a well-known process to reduce the source, drain, and gate parasitic resistances of submicron metal-oxide-semiconductor devices. This process is particularly useful for devices built on very thin Si layer ( < 1000
+Å or less) on insulators. Since the amount of Si available for silicidation is limited by the thickness of the Si layer, once the Si in the source and drain region is fully consumed during silicidation, excessive silicide formation could lead to void formation near the silicide/silicon interface beneath the oxide edge. In this article, we study the effects of different metals (Ti, Ni, Co, and Co/Ti bilayer) with varying thickness on the formation of voids. A change in the moving species during lateral silicide formation was found to be the likely cause for the voids, even if the metals are the moving species during silicidation in the thin film case. © 1997 American Institute of Physics. 
+
+VLSI
+SIMOX
+voids (solid)
+CMOS integrated circuits
+integrated circuit interconnections

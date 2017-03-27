@@ -1,0 +1,9 @@
+Experimental results of magnetocaloric effect for several polycrystalline and nanocrystalline manganites La1xM0.xMnO3 (M = Ca and Sr) are analyzed. Influence of magnetic field is accounted for by the exponent N. The relatively deep N(T) minimum located close to the Curie temperature is found in the polycrystalline manganites. Temperature dependence of N(T) exponent is comparable with those of the soft magnetic and rare earth containing alloys. The slightly higher sensitivity of magnetocaloric effect in nanocrystalline manganites to magnetic fields is revealed by the N exponent.
+
+calcium compounds
+Curie temperature
+entropy
+lanthanum compounds
+magnetocaloric effects
+nanostructured materials
+strontium compounds

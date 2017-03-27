@@ -1,0 +1,10 @@
+The motion of oxygen vacancy as a defect complex and the effects of Mn addition on the dielectric relaxation in the Ba(Ti1xyMgxMny)O3´ system have been studied in the frequency range of 25106Hz at various temperatures. The dielectric constants (k) of 0.5mol	% Mg-doped BaTiO3 rapidly decreased with increasing frequency at &lt;1kHz and 200	°C. There was a slight decrease in k observed for the BaTiO3 codoped with Mg and Mn and no change in k for singly Mn-doped BaTiO3. Loss peaks (tan	´) shifted to lower frequencies as the Mn content was increased, and the peak moved to higher frequencies with increasing temperature. Activation energies for the relaxation process of the Ba(Ti0.995yMg0.005Mny)O3´ system for y = 0, 0.005, and 0.01 at 150300	°C were 0.47, 0.69, and 0.62eV, respectively, and at higher temperatures of 400500	°C were 1.08, 1.28, and 1.47eV for each corresponding composition.
+
+manganese
+magnesium
+barium compounds
+ferroelectric materials
+vacancies (crystal)
+dielectric relaxation
+permittivity
+dielectric losses

@@ -1,0 +1,7 @@
+One of the challenging problems that Web service technology faces is the ability to effectively discover services based on their capabilities. We present an approach to tackling this problem in the context of description logics (DLs). We formalize service discovery as a new instance of the problem of rewriting concepts using terminologies. We call this new instance the best covering problem. We provide a formalization of the best covering problem in the framework of DL-based ontologies and propose a hypergraph-based algorithm to effectively compute best covers of a given request. We propose a novel matchmaking algorithm that takes as input a service request (or query) Q and an ontology $mathcal{T}$ of services and finds a set of services called a &#x201c;best cover&#x201d; of Q whose descriptions contain as much common information with Q as possible and as little extra information with respect to Q as possible. We have implemented the proposed discovery technique and used the developed prototype in the context of the Multilingual Knowledge Based European Electronic Marketplace (MKBEEM) project.
+
+Description logics
+Discovery
+Hypergraphs
+Semantic matchmaking
+Web services

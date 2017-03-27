@@ -1,0 +1,11 @@
+The neutral and charged species emitted by pulsedlaser irradiation of polytetrafluoroethylene (PTFE) at 248 nm in vacuum have been examined. In particular, the species and properties of the emission products produced at typical fluence regimes used in the pulsedlaser deposition of PTFE thin films have been characterized. The relative intensities of the major products as well as their dependence on laser fluence are presented, and a simple model is used to fit the observed fluence dependence. Evidence that the major neutral component, the monomer (C2F4), is formed from a thermally activated unzipping reaction is presented. The ionic species are derived from the neutral decomposition products, apparently ionized by electron collisions in the weak plasma generated at the target surface.
+
+POLYMERS
+LASERRADIATION HEATING
+THIN FILMS
+ABLATION
+LASERPRODUCED PLASMA
+ION EMISSION
+NEUTRAL PARTICLES
+MONOMERS
+ULTRAVIOLET RADIATION

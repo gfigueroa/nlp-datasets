@@ -1,0 +1,7 @@
+Torsional resonance (TR) mode and lateral excitation (LE) mode of atomic force microscopy (AFM) have been increasingly used in atomic and nanoscale surface imaging. In TR and LE modes, it is the changes of the cantilever dynamic characteristics caused by tip-sample interaction that reveal surface properties. For quantitative explanation of measured results, researchers have established dynamic models of TR and LE modes in which the AFM cantilever was modeled as a shaft in pure torsional vibration. However, the cantilever in TR and LE modes actually undergoes both torsion and lateral bending since due to lateral tip-sample interaction, not only a torque but also a lateral force are exerted on the cantilever. In this paper, a dynamic analysis is performed for TR and LE modes with the coupling between the cantilever torsion and lateral bending taken into account. Analytical solutions of cantilever responses are obtained considering linear viscoelastic tip-sample interaction. Through parametric analyses, we demonstrate that in TR and LE modes, the pure torsional approximation can provide accurate cantilever responses if the lateral tip-sample interaction is relatively weak compared to the cantilever torsional (or lateral bending) stiffness. Otherwise, lateral bending of the cantilever has to be considered in any endeavors for quantitative extraction of surface properties. The differences between the two modes due to the different excitation mechanisms are also discussed.
+
+torsion
+atomic force microscopy
+bending
+cantilevers
+elastic constants

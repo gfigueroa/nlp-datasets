@@ -1,0 +1,7 @@
+A rigorous analysis of pulse propagation in planar photonic crystal (PhC) coupled cavity waveguides (CCWs) of finite length is reported. Conventional PhC waveguides, formed by a single line defect, are used at both interfaces of the CCW. An adiabatic taper based on progressively varying the radii of the spacing defects between cavities is used to achieve flat transmission bands with respect to the butt coupling case. The influence on the main parameters of the propagated pulse such as group delay, full width at half maximum and pulse attenuation are investigated for both the adiabatic and butt coupling cases. Furthermore, the Fabry-Perot formula has been used for modeling the pulse propagation along the CCW of finite length, which permits to analyze a large range of parameters avoiding the huge computation time requirements of finite-difference time-domain simulations.
+
+optical planar waveguides
+cavity resonators
+photonic crystals
+Fabry-Perot resonators
+finite difference time-domain analysis

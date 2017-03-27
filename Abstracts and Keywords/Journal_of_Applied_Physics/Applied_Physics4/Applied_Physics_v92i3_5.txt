@@ -1,0 +1,15 @@
+We have studied the influence of the carrier gas (hydrogen versus nitrogen) on the morphology and defect characteristics of GaN grown by epitaxial lateral overgrowth (ELO) using hydride vapor phase epitaxy (HVPE). Growth was carried out on metalorganic vapor phase epitaxy GaN/sapphire patterned with SiO2 stripes, aligned along the 100	 GaN direction. The cross sections of the ELO-grown stripes change from trapezoidal to triangular with an increase in hydrogen content in the carrier gas due to a change of the ratio of the growth velocities on the {112} and (0001) facets. Transmission electron microscopy observations show that while in stripes with trapezoidal morphology, dislocations from the window region still reach the sample surface, for triangular stripes they are bent in the horizontal direction away from the top surface. Cross-sectional cathodoluminescence (CL) microscopy shows basically two distinct regions of luminescence intensity and nature, one showing near-band gap excitonic emission, the other a high intensity blueshifted emission band which we attribute to eh plasma recombination, indicating a high local free carrier concentration due to intrinsic defects or impurities. These two regions are correlated with different growth facets and not with the dislocation distribution. An original two-step growth method was developed which exploits this dependence of the morphology on the gas phase composition. In the first step the formation of triangular facets is preferential. This is done to bend the dislocations which have propagated vertically from the seed layer into the horizontal direction. In the second step the layers are planarized using conditions which favor lateral growth. Very good control of the faceting and high reproducibility of the selectively grown structures and layers could be obtained. By using spatially resolved CL measurements carried out on cleaved cross sections of the layers, different domains could be identified and correlated with the growth mode. The ELO layers obtained by two-step growth have significantly reduced dislocation densities of around 23×107	cm2 at the surface, which is comparable to the best values of HVPE ELO GaN reported in the literature. The full width half maximum of the x-ray rocking curve gives values below 200 arcsec. © 2002 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+semiconductor growth
+semiconductor epitaxial layers
+wide band gap semiconductors
+vapour phase epitaxial growth
+dislocation density
+cathodoluminescence
+transmission electron microscopy
+solid-state plasma
+electron-hole recombination
+carrier density
+X-ray diffraction

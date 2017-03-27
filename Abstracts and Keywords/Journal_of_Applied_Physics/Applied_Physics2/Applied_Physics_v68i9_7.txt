@@ -1,0 +1,12 @@
+Superconducting YBa2Cu3O7 films with Tc=84 K were deposited on polished polycrystalline BeO substrate by reactive evaporation and in situ annealing in a lowpressure oxygen atmosphere. By this process the surface quality of the films is the very same as the substrate. At low annealing temperature (TR=650	°C) the film is not textured but shows good superconducting properties. The caxis orientation perpendicular to the plane of the substrate is observed for TR=780	°C.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+FILMS
+HIGHTC SUPERCONDUCTORS
+BERYLLIUM OXIDES
+SUBSTRATES
+CHEMICAL VAPOR DEPOSITION
+ANNEALING
+TRANSITION TEMPERATURE

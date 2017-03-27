@@ -1,0 +1,8 @@
+QuickStore is a memory-mapped storage system for persistent C++, built on top of the EXODUS Storage Manager. QuickStore provides fast access to in-memory objects by allowing application programs to access objects via normal virtual memory pointers. This article presents the results of a detailed performance study using the OO7 benchmark. The study compares the performance of QuickStore with the latest implementation of the E programming language. The QuickStore and E systems exemplify the two basic approaches (hardware and soft-ware) that have been used to implement persistence in object-oriented database systems. In addition, both systems use the same underlying storage manager and compiler, allowing us to make a truly apples-to-apples comparison of the hardware and software techniques.
+
+benchmark
+client-server
+memory-mapped
+object-oriented
+performance
+pointer swizzling

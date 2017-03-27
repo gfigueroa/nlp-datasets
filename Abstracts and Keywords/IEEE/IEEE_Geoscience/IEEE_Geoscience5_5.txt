@@ -1,0 +1,5 @@
+We propose a method for combining humanitarian mine detection sensors based on possibility theory. Firstly, different features are extracted from the sensor data. Possibility distributions are then derived from the features based on prior information. After that, the combination of possibility degrees is performed in two steps, on separate sensor level and between the sensors. Combination operators are chosen to account for the different characteristics of the sensors. The final decision is obtained by thresholding the fusion result. Promising results have been obtained on a set of real mines and non-dangerous objects. In particular a 100% mine recognition rate was achieved, with a limited number of false alarms.
+
+humanitarian mine detection
+information modeling
+possibilistic fusion

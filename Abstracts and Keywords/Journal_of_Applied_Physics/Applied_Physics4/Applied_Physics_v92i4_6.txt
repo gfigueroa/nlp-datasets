@@ -1,0 +1,14 @@
+We present the frequency dependence of microwave magnetoabsorption in glass-coated amorphous microwires of (Co100xFex)72.5Si12.5B15. The data were taken at room temperature in the frequency range of 160 GHz for fields up to 15 kOe by either a cavity perturbation technique or a coaxial transmission line. The resulting spectra strongly depend upon the local microwave magnetic and electric fields. We have found that we can simulate the spectra using an analytic solution to the problem of electromagnetic scattering from a cylinder. We demonstrate that these unusual spectra can be interpreted in terms of ferromagnetic resonance and antiferromagnetic resonance. However, because the electromagnetic skin depth is comparable to the radius, the resonance and antiresonance fields do not follow the conventional equations. © 2002 American Institute of Physics. 
+
+cobalt alloys
+iron alloys
+silicon alloys
+boron alloys
+metallic glasses
+ferromagnetic materials
+amorphous magnetic materials
+magnetoabsorption
+microwave spectra
+skin effect
+ferromagnetic resonance
+antiferromagnetic resonance

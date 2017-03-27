@@ -1,0 +1,7 @@
+A video watermarking algorithm is developed here to embed a binary image inside the uncoded video stream acting as a logo. A mid-band discrete wavelet transform coefficients of the selected frames are chosen to be the hosted region in the frequency domain. An inverse transformation should be taken in order to get the desired watermarked video shot. In extraction process the watermark is extracted from the marked video directly without access to the original video. The experiment results showed that the proposed scheme provides better quality watermarked videos in term of watermark invisibility to human eyes. In conclusion, modifying the wavelet coefficients depending only on the logo object's pixels will highly improve the invisibility and at the same time providing a good robustness level.
+
+BER
+Copyright protection
+PSNR
+Video watermarking
+Wavelet transform

@@ -1,0 +1,7 @@
+ In this paper, the main directions followed in current and future work in the area of risk management and risk assessment at ENISA is presented. The efforts in this area range from an initial inventory of risk management/risk assessment methods and tools up to the elaboration of interoperability, comparability and scalability issues. The technical issues of risk management/risk assessment that are on the agenda of the agency for 2006 and beyond is presented. Further, lessons learned within the ENISA ad hoc Working Group "Risk Management and Risk Assessment" as well as the essentials of the ENISA Work Programme 2006 in this area is addressed.
+
+ Comparability of methods
+ Emerging Risks
+ Interoperability of methods
+ Risk Assessment
+ Risk Management

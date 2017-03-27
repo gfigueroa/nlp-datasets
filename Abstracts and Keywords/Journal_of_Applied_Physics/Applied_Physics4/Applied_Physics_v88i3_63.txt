@@ -1,0 +1,11 @@
+Effects of ion irradiation on oxidation of silicon at a temperature as low as 130
+°C in an argon and oxygen mixed plasma excited by electron cyclotron resonance interaction have been investigated. The growth rate of the oxide films increases with increasing incident energy and flux of argon ions, and the thickness increases proportionally to the root square of the oxidation time, which suggests that the growth rate is limited by diffusion of oxidants enhanced by irradiation with argon ions. Effects of substrate bias on the oxidation characteristics have been also investigated. The growth rate increases with increasing positive bias, and the growth kinetics deviate from diffusion limited with increasing thickness. The bias dependence of the growth rate is caused by drift of negative oxidants enhanced by the electric field established in the oxide films. Moreover, it is shown that the electrical properties of the oxide films are improved by applying positive substrate bias. The improvement is due to a reduction of irradiation-damage in the initial oxidation stage. On the basis of the experimental results, it is concluded that the reduction of the incident energy and the flux of argon ions in the initial oxidation stage is essential to improve electrical properties of the oxide films. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+oxidation
+plasma materials processing
+ion beam effects
+reaction rate constants
+surface chemistry
+plasma chemistry

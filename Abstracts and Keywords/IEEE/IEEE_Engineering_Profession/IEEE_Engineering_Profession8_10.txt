@@ -1,0 +1,6 @@
+This paper discusses implementation issues related to using relational databases as storage when implementing privacy preserving secure logs. In these types of logs it is important to keep the unlinkability properties of log entries intact when the entries are stored. We briefly describe the concept of privacy preserving secure logging and give the rational for it. The problems of using relational database systems as storage is discussed and we suggest three solutions to the problem. Two of the solutions are analyzed and compared and we show that at least one of the solutions is feasible in a real live setting and that the added overhead of the solution is very small.
+
+privacy
+privacy preserving secure logging
+transparency
+unlinkability

@@ -1,0 +1,16 @@
+Laserinduced damage and ablation thresholds of bulk superconducting samples of Bi2(SrCa)xCu3Oy(x=2, 2.2, 2.6, 2.8, 3) and Bi1.6 (Pb)xSr2Ca2Cu3 Oy (x=0, 0.1, 0.2, 0.3, 0.4) for irradiation with a 1.06 ¼m beam from a NdYAG laser have been determined as a function of x by the pulsed photothermal deflection technique. The threshold values of power density for ablation as well as damage are found to increase with increasing values of x in both systems while in the Pbdoped system the threshold values decrease above a specific value of x, coinciding with the point at which the Tc also begins to fall. 	
+
+HIGHTC SUPERCONDUCTORS
+CUPRATES
+ABLATION
+LASER RADIATION
+POWER DENSITY
+THRESHOLD ENERGY
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+LEAD OXIDES
+MULTIELEMENT COMPOUNDS
+SUPERCONDUCTING FILMS
+TRANSITION TEMPERATURE

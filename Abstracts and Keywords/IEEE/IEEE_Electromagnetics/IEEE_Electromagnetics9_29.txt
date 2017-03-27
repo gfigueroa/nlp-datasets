@@ -1,0 +1,7 @@
+A high temperature superconducting (HTS) linear synchronous motor (LSM) using HTS bulk magnets as secondary has lots of advantages than conventional permanent magnet (PM) LSM, such as smaller volume, less weight, bigger propulsion and so on. In this paper, the numerical model and equivalent magnetic-circuit of a HTS-LSM are built with results are presented. The magnetic field distribution and thrust force characteristics of the HTS-LSM are studied based on finite element method, and the analysis results are compared for different sizes of HTS bulk. The control strategy of Voltage Space Vector PWM (SVPWM) is applied to the running of the HTS-LSM, and the speed-adjusted system simulation model is also built by Matlab/Simulink lied on the mathematical model of HTS-LSM. This work has important meanings for the further studying of the HTS-LSM technology.
+
+HTS bulk magnet linear synchronous motor
+SVPWM
+electromagnetic characteristic
+equivalent magnetic circuit
+high temprature superconductor (HTS)

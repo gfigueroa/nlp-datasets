@@ -1,0 +1,12 @@
+The compensation of Mg-doped GaN is systematically studied by low-temperature photoluminescence and Raman spectroscopy using a series of samples with different Mg concentrations. Strongly doped samples are found to be highly compensated in electrical measurements. The compensation mechanism is directly related to the incorporation of Mg. Three different deep donor levels are found at 240±30, 350±30, and 850±30
+meV from the conduction band, each giving rise to deep unstructured donor-acceptor pair emission. © 1998 American Institute of Physics. 
+
+gallium compounds
+magnesium
+III-V semiconductors
+semiconductor epitaxial layers
+photoluminescence
+Raman spectra
+impurity states
+spectral line shift
+doping profiles

@@ -1,0 +1,10 @@
+Energy transfer and exciton population dynamics in a two-quantum dot system coupled with a phonon heat-bath system are examined using the density matrix formalism. In such a system, optical near-field interactions induce energy transfer between quantum dots, and excitonphonon interactions guarantee the unidirectional excitation energy transfer. Our theoretical investigation shows that the population dynamics change drastically depending on the coupling strengths due to optical near-field interactions and excitonphonon heat-bath interactions. The temperature effect promotes frequent energy back-transfer from the heat-bath to the quantum dot system. Applying our theoretical formulation, we numerically calculate the time evolution of populations, and estimate energy transfer time or state-filling time for a CuCl quantum dot system. The estimated time is suitable for the elements in our proposed optical nano-switch and nano-photonic devices. © 2003 American Institute of Physics. 
+
+copper compounds
+semiconductor materials
+semiconductor quantum dots
+excitons
+interface states
+nanoparticles
+photonic crystals
+phonon-exciton interactions

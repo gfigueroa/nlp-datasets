@@ -1,0 +1,8 @@
+We report on the current fluctuations of random telegraph signal experimentally observed at cryogenic temperatures in ordinary submicron Si/SiO2 metal-oxide-semiconductor field-effect transistors (MOSFETs). A giant drain current fluctuation ”I/I up to 55% is observed at sub-Kelvin temperature in samples with a large channel width. The current variation is compatible with predictions for decanano MOSFETs at room temperature. The similarity suggests the formation of a quasi-one-dimensional conduction channel at gate voltages sufficiently close to the threshold voltage.
+
+current fluctuations
+elemental semiconductors
+MOSFET
+silicon
+silicon compounds
+telegraphy

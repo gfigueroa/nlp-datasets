@@ -1,0 +1,5 @@
+Electrical breakdown of short ( < 50nm) multiwalled carbon nanotubes (MWNTs) is studied utilizing mechanically controllable break junction technique with gold electrodes. Measurements of the conductance-bias characteristics near the breakdown point revealed two different types of breakdown behavior for the short MWNTs. In one type designated as type I, the conductance increases nearly linearly with the bias and, over the breakdown point, decreases stepwise. On the other hand, in the type-II breakdown, the conductance shows a transient and irreversible increase right before the breakdown and subsequently jumps to zero. We consider that the type-II breakdown in vacuum is contact related, whereas the type-I breakdown occurs through the usual MWNT heating.
+
+carbon nanotubes
+electric breakdown
+electrical conductivity

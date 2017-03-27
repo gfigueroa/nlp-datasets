@@ -1,0 +1,6 @@
+Due to rapid developments in limits and possibilities of communications and information transmissions, there is a growing demand of cryptographic techniques, which has spurred a great deal of intensive research activities in the study of cryptography. This paper describes a public key encryption based on Chebyshev polynomials. We discuss the algorithm for textual data and present the cryptanalysis which can be performed on this algorithm for the recovery of encrypted data. We also describe a simple hashing algorithm for making this algorithm more secure, and which can also be used for digital signature. The main scope of this paper is to propose an extension of this algorithm to images and videos and making it secure using multilevel scrambling and hash. Software implementations and experimental results are also discussed in detail.
+
+Chaos
+chebyshev map
+hash
+public key

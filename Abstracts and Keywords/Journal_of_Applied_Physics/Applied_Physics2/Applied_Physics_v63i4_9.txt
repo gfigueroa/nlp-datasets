@@ -1,0 +1,7 @@
+In a previous paper [D. Schechter, J. Appl. Phys. 61, 591 (1987)] the LeeMcGill model for computing the populations and carrier concentrations in heavily doped ntype silicon was systematically explored. In this addendum, the carrier concentration calculated using the LeeMcGill model is calculated as the doping density is decreased, and is compared with that calculated using the usual dilute doping model. In particular, the extent to which the predictions of the two models agree is explored. It is found that at room temperature the two models agree very closely for doping concentrations below 1×1017 cm3, but at reduced temperatures the coincidence is not so close.
+
+SILICON
+CARRIER DENSITY
+CRYSTAL DOPING
+ACTIVATION ENERGY
+DONORS

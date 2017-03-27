@@ -1,0 +1,12 @@
+The effects of rapid thermal processing (RTP) on the electrical properties of thin gate oxides in metaloxidesemiconductor (MOS) devices have been studied. MOS capacitors have been analyzed by currentvoltage (IV) and constant current stress techniques. MOS fieldeffect transistors (MOSFETs) have been fabricated using RTP for the postimplant anneal, and the transistor degradation due to hot carrier injection has also been investigated. No significant RTPinduced degradation was detected in any category of the device properties considered here. An abnormal trapping behavior was observed on the wafer annealed at high temperature and/or long duration.
+
+MOSFET
+MOS JUNCTIONS
+IV CHARACTERISTIC
+HEAT TREATMENTS
+ELECTRICAL PROPERTIES
+CAPACITORS
+ANNEALING
+SILICON
+SILICA
+FABRICATION

@@ -1,0 +1,6 @@
+Caching is a proven remedy to enhance scalability and availability of software systems as well as to reduce latency of user requests. In contrast to Web caching where single Web objects are accessed and kept ready somewhere in caches in the user-to-server path, database caching uses full-fledged database management systems as caches, close to application servers at the edge of the Web, to adaptively maintain sets of records from a remote database and to evaluate queries on them. We analyze a new class of approaches to database caching where the extensions of query predicates that are to be evaluated are constructed by constraints in the cache. Starting from the key concept of value completeness, we explore the application of cache constraints and their implications on query evaluation correctness and on controllable cache loading called cache safeness. Furthermore, we identify simple rules for the design of cache groups and their optimization before discussing the use of single cache groups and cache group federations. Finally, we argue that predicate completeness can be used to develop new variants of constraint-based database caching.
+
+Database caching
+Query processing
+Cache constraints
+Predicate completeness

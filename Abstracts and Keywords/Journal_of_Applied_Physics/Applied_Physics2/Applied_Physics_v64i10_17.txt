@@ -1,0 +1,12 @@
+The effect of annealing and magnetic annealing on the magnetic and structural properties of NiFe/FeMn has been assessed by, respectively, ferromagnetic resonance (FMR) and transmission electron microscopy (TEM). A straight anneal, at 350	°C for 1 h, led to the disappearance of the interfacial exchange anisotropy, HE, and to the appearance of FMR spinwave resonance (SWR) modes. Interdiffusion takes place at the interface and the originally columnar NiFe and FeMn grains tend to become equiaxed. In crosssection view, [011] zone axes are prominent in both layers. Although magnetic annealing did not seem to affect the structural properties of the system, features of the SWR spectra and the HE effect were sensitive to the orientation of the magnetic field during anneal.
+
+ANNEALING
+THIN FILMS
+BILAYERS
+INTERFACE PHENOMENA
+IRON ALLOYS
+NICKEL ALLOYS
+MANGANESE ALLOYS
+FERROMAGNETIC RESONANCE
+TRANSMISSION ELECTRON MICROSCOPY
+MAGNETIC PROPERTIES

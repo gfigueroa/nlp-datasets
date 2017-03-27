@@ -1,0 +1,11 @@
+Spectroscopic ellipsometry has been used for determining optical direct interband transitions in a set of AlxIn1xAs and AlxGa1xP alloys. From these experimental results, the dependence of the E0 and E1 transitions is established as a function of the Al composition and the bowing parameters are obtained.
+
+ELLIPSOMETRY
+ALUMINIUM ARSENIDES
+INDIUM ARSENIDES
+ALUMINIUM PHOSPHIDES
+GALLIUM PHOSPHIDES
+E1TRANSITIONS
+E0TRANSITIONS
+XRAY DIFFRACTION
+SEMICONDUCTOR ALLOYS

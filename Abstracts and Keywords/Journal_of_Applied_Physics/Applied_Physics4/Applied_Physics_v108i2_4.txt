@@ -1,0 +1,9 @@
+It was numerically demonstrated that current-in-plane (CIP) and current-perpendicular-to-plane (CPP) Ir20Mn80 based giant magnetoresistance spin valve read sensors operating at an extremely high current density (J e 1×108A/cm2) show completely different electrical and magnetic failure mechanisms: (1) CIP read sensors, electromigration-induced Cu spacer diffusion and correspondingly degraded interlayer coupling were primarily responsible for the failures; while, (2) CPP read sensors, the deterioration of exchange bias due to thermomigration-induced Mn interdiffusion at the Co80Fe20/Ir20Mn80 interface was found to be dominant. The different temperature and current distribution resulting in different mass-transport mechanisms are the main physical reasons for the failure.
+
+current density
+electromigration
+giant magnetoresistance
+iridium alloys
+magnetic sensors
+manganese alloys
+spin valves

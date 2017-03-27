@@ -1,0 +1,6 @@
+In the derivation of two-dimensional equations for the vibration of piezoelectric plates from variational equations, expansions of the mechanical and electrical variables in the thickness coordinate are employed. If the major surfaces of the plate are electroded and the electric potential is expanded in functions of the thickness coordinate which do not vanish at the electrodes, the variations of the different orders of the expansion potentials are not independent because the electric potential must satisfy constraint conditions at the electrodes where it is independent of position. In this work, the electric potential is expanded in functions of the thickness coordinate which do not vanish at the surface electrodes and the constraint conditions are included by means of the method of Lagrange multipliers. The resulting piezoelectric plate equations are obtained along with an integral condition on the Lagrange multipliers over the electrodes, which results in the equation for the current through the electrodes. It is shown that the elimination of the Lagrange multipliers results in a reduced system of electrostatic plate equations and associated edge conditions, which is easier to use. © 2002 American Institute of Physics. 
+
+piezoelectricity
+electrodes
+electric potential
+electrostatics

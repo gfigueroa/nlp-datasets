@@ -1,0 +1,9 @@
+In this paper, we introduce a free viewpoint image generation method with an optimization method for a view dependent depth map. Image based rendering (IBR) can render photo-realistic images from natural images, and ray space or light field is IBR method for 3D representation. To generate a free viewpoint image from light filed data which are captured by a camera array, a disparity map on the virtual view is required. To improve the quality of the generated image, the accurate disparity map is required; however, the computational cost of the disparity map for some optimization is usually huge. For real-time rendering, we have used a disparity optimization method called multi-pass dynamic programming (MPDP), which applies the dynamic programming method to the disparity map multi-directionally. In this paper, we improve the MPDP method to speed up optimization process and add occlusion detection process. The experimental results show that fast MPDP can interpolate virtual view with high quality, and the PSNR of this synthesized image to the actual image is 29.2 dB. On the contrary, a synthesized image from belief propagation, which is one of the best optimization algorism, has 29.4 dB. In addition, the MPDP computational time is almost real-time, and that time is 51.5 ms, meanwhile belief propagation takes 397.7 ms.
+
+free viewpoint image
+free viewpoint television
+light field
+multi-pass dynamic programming
+occlusion detection
+ray space
+stereo matching

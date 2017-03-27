@@ -1,0 +1,7 @@
+This paper describes the design and implementation of an obstacle detection, obstacle avoidance and anti-collision system using a COTS multi-beam forward looking sonar. The purpose is to equip our in-house built MEREDITH autonomous underwater vehicle the capability to navigate around obstacles that arise in its programmed path. This is important for operating near the littorals, where potential hazards are prevalent. For such a system, the ability to identify unknown obstacles and discards false returns and noise is an important issue and extremely challenging. The crux of the problem is to correctly pick-up potential obstacles from the sonar image. To address this problem, image processing technique is employed to extract potential obstacles from the sonar image. This is follow by the employment of a real-time multi-frame filter to confirm the presence of obstacles. Subsequently, confirmed obstacles are put in a 2D grid map, which serves as a workspace representation for MEREDITH to perform real-time path planning. Simulation studies and sea trials were conducted to verify the implementation.
+
+Anti-Collision
+Autonomous underwater vehicle
+Forward looking sonar
+Obstacle avoidance
+Obstacle detection

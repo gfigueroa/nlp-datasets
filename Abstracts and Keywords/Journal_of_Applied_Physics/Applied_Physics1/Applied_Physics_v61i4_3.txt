@@ -1,0 +1,15 @@
+Formation conditions, optical properties, and lasing behavior of F2 color centers in LiF crystals are investigated. The optical pumping cycle of the threeelectron defect is found to involve intermediate transitions of small efficiency into some metastable energy levels (having a lifetime of several seconds). This process could either be intrinsic to the F2 defects (e.g., intersystem crossing into quartet states) or it could be caused by (low efficiency) optical ionization of F2 centers and electron capture in unstable traps. While cw laser oscillation is prevented by a resulting bottleneck, efficient tunable pulsed laser operation in the 1.11.2¼m range is possible at room temperature.
+
+SOLID STATE LASERS
+OPERATION
+FABRICATION
+OPTICAL PROPERTIES
+F CENTERS
+LITHIUM FLUORIDES
+STIMULATED EMISSION
+METASTABLE STATES
+TRAPS
+OPTICAL PUMPING
+TUNING
+EFFICIENCY
+IONIZATION

@@ -1,0 +1,7 @@
+The electroluminescence characteristics of various n-type matrix materials with various orders of electron mobility doped with the phosphorescent green emitter fac-tris(2-phenylpyridine) iridium(III) [Ir(ppy)3] and the phosphorescent red emitter bis(2-(22-benzo [4,5-a] thienyl)pyridinato-N,C32)iridium(acetyl-acetonate) [btp2Ir(acac)] were evaluated and compared to those of the p-type 4,43-N,N2-dicarbazole-biphenyl (CBP) reference matrix. For Ir(ppy)3, the device with the n-type matrix 1,3,5-tris(N-phenylbenzimidazol-2-yl)benzene was found to have the highest efficiency and operational lifetime, whereas for btp2Ir(acac) the device with the p-type matrix CBP was found to have the highest efficiency. Our study of hole- and electron-dominant devices and analyses of electroluminescence spectra show that the main recombination zone position and the electron-hole balance change as the matrix material changes, resulting in changes in the characteristics of the organic light emitting diodes.
+
+doping
+electroluminescence
+electron mobility
+organic compounds
+organic light emitting diodes

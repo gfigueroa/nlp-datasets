@@ -1,0 +1,10 @@
+We report on the impact of quantum confinement and strain effects on the optical properties of state-of-the-art, densely stacked, In0.15Ga0.85As/GaAs V-groove quantum wires. High uniformity and efficient carrier capture lead to narrow (6 meV) and intense emission from the wires. Large optical polarization anisotropy is obtained thanks to the combined effects of lateral quantum confinement and triaxial strain. Band filling in the fundamental subband occurs at a modest carrier density (<9×105
+cm1), and is accompanied by a small spectral blueshift of the emission. Several sharp excitonic resonances associated with two dimensionally confined subbands of dominant heavy-hole character are observed in photoluminescence excitation spectroscopy, together with a remarkably small Stokes shift (3 meV). The subband separations (<24 meV) are nearly independent of the wire thickness, as the nonuniform Indium composition across the structure is found to dominate the lateral confinement for thick wires. Such strained quantum wires are promising for the realization of advanced nanostructure devices. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wires
+carrier mobility
+quantum interference phenomena
+photoluminescence

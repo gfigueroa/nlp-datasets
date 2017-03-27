@@ -1,0 +1,9 @@
+Doped semiconductors with one-dimensional surface gratings are studied theoretically for application to terahertz emission. The presence of free carriers supports thermally excited surface plasmon polaritons at the semiconductor-vacuum interface whose resonance frequency can be controlled by doping. The calculation based on the fluctuational electrodynamics shows that the near-field spectral energy density of this surface excitation can be many orders of magnitude larger than those in the blackbody radiation. At the same time, a rigorous coupled-wave analysis with a properly designed surface microstructure clearly indicates narrow angular lobes in the directional emissivity at the targeted frequencies, illustrating strong coupling between surface plasmon polaritons and propagating waves. Thus, doped semiconductors with engineered radiation may provide an efficient terahertz source with spatial and spectral control.
+
+diffraction gratings
+fluctuations
+polaritons
+semiconductor devices
+semiconductor doping
+submillimetre wave generation
+surface plasmons

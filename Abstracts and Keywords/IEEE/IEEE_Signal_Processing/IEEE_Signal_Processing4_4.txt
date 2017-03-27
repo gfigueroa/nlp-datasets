@@ -1,0 +1,7 @@
+Semantic computing aims to connect the intention of humans with computational content. We present a study of a problem of this type: extract information from large number of similar linguistic Web resources to compute various aggregations (sum, average,...). In our motivating example we calculate the sum of injured people in traffic accidents in a certain period in a certain region. We restrict ourselves to pages written in Czech language. Our solution exploits existing linguistic tools created originally for a syntactically annotated corpus, Prague Dependency Treebank (PDT 2.0). We propose a solutions which learns tree queries to extract data from PDT2.0 annotations and transforms the data in an ontology. This method is not limited to Czech language and can be used with any structured linguistic representation. We present a proof of concept of our method. This enables to compute various aggregations over linguistic Web resources.
+
+Semantic computing
+linguistic extraction
+natural language processing
+semantic annotation
+semantic web services

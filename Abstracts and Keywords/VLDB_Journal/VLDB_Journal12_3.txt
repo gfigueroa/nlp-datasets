@@ -1,0 +1,8 @@
+The requirements for effective search and management of the WWW are stronger than ever. Currently Web documents are classified based on their content not taking into account the fact that these documents are connected to each other by links. We claim that a page&rsquo;s classification is enriched by the detection of its incoming links&rsquo; semantics. This would enable effective browsing and enhance the validity of search results in the WWW context. Another aspect that is underaddressed and strictly related to the tasks of browsing and searching is the similarity of documents at the semantic level. The above observations lead us to the adoption of a hierarchy of concepts (ontology) and a thesaurus to exploit links and provide a better characterization of Web documents. The enhancement of document characterization makes operations such as clustering and labeling very interesting. To this end, we devised a system called THESUS. The system deals with an initial sets of Web documents, extracts keywords from all pages&rsquo; incoming links, and converts them to semantics by mapping them to a domain&rsquo;s ontology. Then a clustering algorithm is applied to discover groups of Web documents. The effectiveness of the clustering process is based on the use of a novel similarity measure between documents characterized by sets of terms. Web documents are organized into thematic subsets based on their semantics. The subsets are then labeled, thereby enabling easier management (browsing, searching, querying) of the Web. In this article, we detail the process of this system and give an experimental analysis of its results.
+
+Document clustering
+Link analysis
+Link management
+Semantics
+Similarity measure
+World Wide Web

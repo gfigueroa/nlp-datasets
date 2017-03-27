@@ -1,0 +1,7 @@
+We are interested in defining and querying views in a huge and highly heterogeneous XML repository (Web scale). In this context, view definitions are very large, involving lots of sources, and there is no apparent limitation to their size. This raises interesting problems that we address in the paper: (i) how to distribute views over several machines without having a negative impact on the query translation process; (ii) how to quickly select the relevant part of a view given a query; (iii) how to minimize the cost of communicating potentially large queries to the machines where they will be evaluated. The solution that we propose is based on a simple view definition language that allows for automatic generation of views. The language maps paths in the view abstract DTD to paths in the concrete source DTDs. It enables a distributed implementation of the view system that is scalable both in terms of data and load. In particular, the query translation algorithm is shown to have a good (linear) complexity.
+
+Query evaluation
+Semantic integration
+Views
+Warehouse
+XML

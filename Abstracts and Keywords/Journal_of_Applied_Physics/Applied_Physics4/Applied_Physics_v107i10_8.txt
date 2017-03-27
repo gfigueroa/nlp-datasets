@@ -1,0 +1,9 @@
+We present the first small and ultrasmall angle neutron scattering (SANS/USANS) measurements of the internal void morphology of the high explosive RDX on length scales from 10 Å to 20¼m. Measurements were taken on a range of RDX samples with similar densities and particle size distributions but which have significantly different sensitivities to shock initiation as measured by large-scale gap tests of the samples when formulated in standard polymer blends. Scattering measurements were performed using a contrast match technique to eliminate all features apart from internal void structures. The dominant feature in all samples is a surface fractal scattering that extends from < 50nm to above 20¼m, with no observable upper bound for the fractal correlation length. These features are interpreted in terms of scattering from rough surfaces of interior air-filled voids with fractal dimensionality between 2.4 and 2.9. The fractal pattern is proposed to arise from complex growth patterns on void surfaces as internal solvent diffuses out of the crystallites. No evidence of distinct nanometer-scale voids is observed in any of our RDX samples. The neutron scattering invariant calculated over the measured SANS and USANS range, a gauge of the volume fraction of voids smaller than 20¼m, tracks well with sensitivity testing of the materials.
+
+crystal morphology
+crystallites
+neutron diffraction
+particle size
+polymer blends
+shock wave effects
+voids (solid)

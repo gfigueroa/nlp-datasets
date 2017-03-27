@@ -1,0 +1,10 @@
+Two groups of infrared (IR) localized vibrational bands in the regions 9751015 and 724748 cm1 have been correlated with the wellknown IR electronic bands due to the thermal double donors (TDs) and with the TD concentration from resistivity measurements. The two groups are suggested to be due to two different vibrational modes of oxygen atoms in a TD core. The vibrational bands at 975, 988, 999, and 1006 cm1 are correlated to TD1, TD2, TD3, and TDseTD4, respectively, while the band at 1012 cm1 correlates to the NL10 center. A calibration coefficient for the TDrelated vibrational bands was determined. This calibration coefficient can be used to estimate the sizes of the TDrelated centers, assuming that the calibration coefficient for interstitial oxygen is applicable on the oxygen atoms of these centers. This results in that all of the TDrelated bands originates from centers of 12 oxygen atoms, suggesting these bands to be due to the vibrations of oxygen atoms in a TD core. The different positions of the TDrelated bands could be explained by differently strained environments caused by different oxygen clusters. It is suggested that these clusters will develop into larger oxygen precipitates, which at the end of TD formation appear in the spectrum with a broad IR band at about 1060 cm1. The early stages of the TD formation at temperatures below about 450	°C are closely related to a transformation process of preexisting clusters related to the 1012 cm1 band. This explains the formation of the early TDs at low temperatures, when the interstitial oxygen concentration is nearly constant. © 1996 American Institute of Physics. 
+
+SILICON
+DONORS
+VIBRATIONAL STATES
+INFRARED SPECTRA
+CRYSTAL DEFECTS
+IMPURITIES
+OXYGEN
+PRECIPITATES

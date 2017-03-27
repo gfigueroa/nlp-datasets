@@ -1,0 +1,12 @@
+The tunneling magnetoresistance value of a Co100xFex (4nm)/AlOx 1.7nm/Co100xFex (4nm) magnetic tunnel junction has been demonstrated to depend on the composition of the Co100xFex electrodes. The interface roughness, crystal structure, and tunneling spin polarization versus the composition of the Co100xFex electrode were studied to address the origin of this compositional dependence. Ab initio calculations of s-like electron spin polarization predict a composition dependence similar to that observed experimentally. The combined experimental and computational results show that the trends in Co100xFex tunneling magnetoresistance are modified slightly by the interface roughness but mainly determined by the s-like electron spin polarization values associated with different compositions and crystal structures.
+
+ab initio calculations
+aluminium compounds
+cobalt alloys
+crystal structure
+electrodes
+ferromagnetic materials
+interface roughness
+iron alloys
+spin polarised transport
+tunnelling magnetoresistance

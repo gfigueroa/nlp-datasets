@@ -1,0 +1,6 @@
+This paper deals with a neural network based direct torque control (DTC) of an induction motor (IM) for electric vehicle (EV) propulsion system. In this scheme the traditional switching lookup table is replaced with a multi-layer neural network. The complete neural network (NN) based DTC scheme of IM drive is simulated using MATLAB. The obtained results demonstrate the effectiveness of the NN based DTC scheme of IM drive. The proposed NN based DTC scheme reduces torque and current ripples to a great extent in IM drive.
+
+DTC
+Electric vehicle
+Induction motor
+Neural network

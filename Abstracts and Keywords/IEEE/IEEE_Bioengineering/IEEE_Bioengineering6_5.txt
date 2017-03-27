@@ -1,0 +1,6 @@
+The need to identify people is as old as human kind. Biometric devices automate the personal recognition process. Each of us is unique from every other human being. We have unique physical characteristics, such as fingerprints, blood vessel patterns and hand shape. Biometric devices measure and record these characteristics for automated comparison and verification. The aim of this study is accurately identifying people using their retinal image. A new algorithm is proposed for the extraction of the retinal characteristic features based on image analysis and image statistics. These features are extracted from the plane of the fundus image captured by a fundus camera. These features can be used for either the verification or identification process. The algorithm was tested with sixty fundus images. Success rate of 94.5% is reached.
+
+Retinal identification
+image analysis
+image statistics
+retinal image

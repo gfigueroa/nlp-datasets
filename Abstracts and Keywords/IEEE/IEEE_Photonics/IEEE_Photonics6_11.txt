@@ -1,0 +1,5 @@
+In this work packaging options for very low noise amplifiers (VLNA) with a single on-chip output-choke inductor are investigated. For very low noise amplifiers package parasitics can add significant noise, degrading LNA performance. Flip-chip bonding is a newer approach to attaching integrated circuits onto printed circuit boards with reduced parasitics. In this work, it was found that choice of packaging depends on the available gain of the amplifier. As an example, for bond wires and flip-chip process used in this work for LNA available gains above ~10 dB, flip-chip bonding is preferred.
+
+Low noise amplifier
+flip-chip bonding
+packaging parasitics

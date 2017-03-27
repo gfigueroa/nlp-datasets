@@ -1,0 +1,9 @@
+A photoreceptor charging method by rubbing with magnetic conductive particles has been reported. In this paper, the charging mechanism of particle charging is further discussed. The different mechanisms involved in particle charging and corona charging are investigated in aSe. It is shown that captured charges for particle charging exist near the surface from a comparison of the relative sensitivities between the two charging methods. The trap depth of trapped charges (holes) is roughly to be estimated between 0.8 and 0.9 eV. It is also verified that the particle charging method can be used to charge insulative film. As an application of the described particle charging method, a novel electrophotographic printing technology is proposed.
+
+PHOTOCOPYING
+SELENIUM
+CHARGE COLLECTION
+CORONA DISCHARGES
+MAGNETIC PROPERTIES
+TRAPPING
+EXPERIMENTAL DATA

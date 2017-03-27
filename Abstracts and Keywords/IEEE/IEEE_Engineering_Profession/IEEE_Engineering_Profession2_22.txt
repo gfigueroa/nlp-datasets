@@ -1,0 +1,9 @@
+A classical problem in the field of filter theory is the construction of continuous-time filters which simultaneously possess constant group delay in the passband and steep amplitude selectivity. Such a kind of problem is usually solved using allpass filters which are able to compensate the group delay response without destroying the magnitude response. However, this compensation process implies also an increase of the duration of the transient response of the resulting filtering system. This paper presents a theoretical description of the method for the minimization of the settling time of a 5-th order delay-compensated elliptic filter. Results verifying the effectiveness of the proposed approach are presented and compared to traditional time-invariant filters.
+
+continuous-time filters
+elliptic filters
+group delay compensation
+linear time-varying systems
+lowpass filters
+parameter-varying technique
+transient behavior

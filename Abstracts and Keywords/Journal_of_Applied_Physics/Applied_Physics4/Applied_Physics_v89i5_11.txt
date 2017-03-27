@@ -1,0 +1,18 @@
+Using very high Ar-dilution to the SiH4 plasma, good quality amorphous Si:H films could be obtained at very low rf power. The a-Si:H film, prepared at a very low deposition rate of <10 Å/min, exhibited a ÃPh<1×104
+S
+cm1, ÃPh/ÃD<105, a notably wide optical gap of 2.10 eV and a very good stability against thermal annealing effects with reasonable light induced degradation. At higher rf power undoped ¼c-Si:H films were prepared with a high ÃD<1×104
+S
+cm1, at a deposition rate of 30 Å/min from &lt;1 sccm of SiH4. Micrograins were identified with several well-defined crystallographic orientations. However, porosity in the grain boundary zone contributed a significant amount of adsorbed effects on the electrical properties. At very high powers, the growth of a columnar network structure was demonstrated. Long-range structural relaxation permitted by the non-rigid and heterogeneous network structure associated with the physical vapor deposition-like growth at the microcrystalline-transition state, has been identified as the origin of nucleation to the Si network and microcrystallization at higher power. It is proposed that Ar in the Ar-diluted plasma provides the energy required for nucleation and grain growth during microcrystallization, and plays an analogous role as atomic H does during chemical annealing in H2-diluted plasma. © 2001 American Institute of Physics.
+
+silicon
+hydrogen
+elemental semiconductors
+semiconductor thin films
+plasma CVD
+semiconductor growth
+crystallisation
+energy gap
+optical constants
+annealing
+nucleation
+grain growth

@@ -1,0 +1,15 @@
+The interactions occurring in a TiSi bilayer have been investigated by in situ resistance measurements and the reaction products have been analyzed by complementary techniques, such as x-ray diffraction, Auger electron spectroscopy, and MeV 4He+ Rutherford backscattering. The measurements were performed by heating the samples at a constant rate in the 5425	°C/min range. The samples are 60 nm of titanium sputter deposited on 250 nm of a silicon film deposited by chemical vapor technique; the bilayers were placed on 650 nm of SiO2, thermally grown on p-type 100	 silicon wafers. Samples were also prepared by reactively depositing 25 nm of TiN on the Ti film. The TiN cap, deposited without breaking the vacuum, protects the metal films from contaminants, namely oxygen, during handling and heat treatments. It has been shown that, at temperatures around 400	°C and before any massive TiSi interaction, the resistance increases. This effect, attributed in the literature to the silicon diffusion in the metal film, is due to oxygen, generally contained in the annealing ambient, which diffuses in the Ti film. The TiSi reaction produces a decrease in the value of resistance; the first decrease, generally attributed to the formation of a C49TiSi2 phase, is due to the growth of an amorphous compound having a graded in-depth composition between Ti5Si3 and TiSi. The activation energy for such formation is 2.8±0.1 eV. At higher temperatures C49TiSi2 starts to form, more likely between the silicon and the amorphous layer. The formation of silicide induces a segregation of oxygen in the unreacted Ti film, thus slowing down the growth of silicide. © 2001 American Institute of Physics. 
+
+titanium
+silicon
+elemental semiconductors
+semiconductor-metal boundaries
+X-ray diffraction
+Auger electron spectra
+Rutherford backscattering
+chemical interdiffusion
+heat treatment
+surface segregation
+electrical resistivity
+annealing
+surface chemistry

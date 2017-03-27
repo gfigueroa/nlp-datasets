@@ -1,0 +1,7 @@
+Copperalkali ion exchange is used for doping superficial layers of different silicate glasses (commercial soda-lime and BK7) with copper ions. Spectroscopic and time-resolved photoluminescence properties of the obtained systems are studied in the range of 80294 K. Analysis indicates the presence of Cu+ ions located in distorted octahedral sites, and a different position of the triplet electronic levels for the two glass matrices. The luminescence decay-time signal is simulated by a biexponential behavior, interpreted on the basis of a four-level scheme. © 2002 American Institute of Physics. 
+
+glass
+copper
+photoluminescence
+ion exchange
+time resolved spectra

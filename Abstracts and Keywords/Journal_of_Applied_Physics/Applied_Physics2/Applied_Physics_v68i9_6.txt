@@ -1,0 +1,11 @@
+The selfdeveloping mechanism of nitrocellulose is studied by means of lowtemperature infrared spectroscopy. It is found that 150keV A+ beams with fluences ranging from 1013 ions	cm2 to 6×1013 ions	cm2 induce atomic bond breaks leading to absorption bands at 2344, 2138, 1868, 1750, and 1590 cm1, corresponding, respectively, to CO2, CNH, CO, CHO, and NO vibrations. At low temperature and under vacuum, intensity measurements of the CO2 absorption band versus ion fluences are performed. Carbylamine formation, cyclic anhydride of five carbon atom formation, and denitration are observed. A theoretical model, based upon those three mechanisms is presented which partially explains the selfdevelopment of the ion irradiated nitrocellulose.
+
+NITROCELLULOSE
+ARGON IONS
+ION COLLISIONS
+KEV RANGE 1001000
+INFRARED SPECTRA
+FOURIER TRANSFORM SPECTROMETERS
+ABSORPTION SPECTROSCOPY
+MATHEMATICAL MODELS
+LITHOGRAPHY

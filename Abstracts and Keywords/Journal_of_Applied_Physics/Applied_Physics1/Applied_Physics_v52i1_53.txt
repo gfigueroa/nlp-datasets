@@ -1,0 +1,19 @@
+A lowtemperature photoluminescence study of bulk polycrystalline InP is presented. The dominant acceptor feature common to all samples at 6 K is a pair band at 1.382 and 1.387 eV, possibly associated with carbon impurity. The temperature dependence of intensity, linewidth, and spectral position of a vacancyimpurity band at 1.078 eV is reported for the first time and compared with predictions of the configurationcoordinate model. In addition, an unusual band at 1.209 eV which is formed over long periods of time at temperatures below 30 K is described.
+
+INDIUM PHOSPHIDES
+PHOTOLUMINESCENCE
+LIQUIDS
+CRYSTAL GROWTH
+MELTING
+DATA
+POLYCRYSTALS
+ULTRALOW TEMPERATURE
+CARBON
+IMPURITIES
+TEMPERATURE DEPENDENCE
+LINE WIDTHS
+SPECTRA
+VACANCIES
+COMPARATIVE EVALUATIONS
+MATHEMATICAL MODELS
+THEORETICAL DATA

@@ -1,0 +1,17 @@
+Anomalous lattice relaxation mechanics in ZnO epitaxy deposited on 6H-SiC substrates has been addressed. Thickness-dependent ZnO epitaxy showed that the lattice/strain relaxes into two steps for the layer thicknesses of (i) 1020 nm, after overcoming the critical thickness of &lt;6nm and (ii) 4801000 nm, after the complete strain relaxation. This lattice relaxation contrast has been represented with a schematic model by emphasizing on the tensile and compressive strains associated with the lattice mismatches in ZnO/SiC heterostructure of &lt;5%. These asymmetric consequences were found also in the optical and structural properties of ZnO layers by squeezing the bandgap energy and disordering the x-ray spectral broadening and reciprocal maps. These anomalous behaviors and the consequences have been attributed to the presence of local mosaics and competition of elastic and plastic deformation kinetics in ZnO epitaxy that finally released by inducing misfit and threading dislocations diffracted in transmission electron microscopy.
+
+dislocations
+elastic deformation
+energy gap
+II-VI semiconductors
+optical constants
+plastic deformation
+semiconductor epitaxial layers
+semiconductor heterojunctions
+silicon compounds
+spectral line broadening
+stress relaxation
+transmission electron microscopy
+wide band gap semiconductors
+X-ray spectra
+zinc compounds

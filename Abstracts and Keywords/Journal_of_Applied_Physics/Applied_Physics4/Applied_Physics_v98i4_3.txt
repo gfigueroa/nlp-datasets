@@ -1,0 +1,15 @@
+Bulk amorphous PdCuNiP alloys have been prepared from the liquid state by means of solidification under an argon atmosphere. The addition of a small amount of Fe ( < 5at.	%) results in the formation of nanocrystalline inclusions inside the residual amorphous matrix. Element-specific near-edge x-ray absorption fine-structure spectroscopy provides information on the electronic structure and symmetry properties of the samples. In combination with conventional ¸2¸ x-ray diffraction mesurements, it allows for the investigation of the modifications in structure after the addition of Fe, as well as for the determination of the most probable crystalline phases. The results are discussed in terms of thermodynamics.
+
+palladium alloys
+copper alloys
+nickel alloys
+phosphorus alloys
+iron alloys
+amorphous state
+nanostructured materials
+XANES
+solidification
+inclusions
+band structure
+X-ray diffraction
+enthalpy

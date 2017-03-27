@@ -1,0 +1,11 @@
+The dynamic behavior of magnetomechanical bimorph microresonators is analyzed. These resonators are composed of a sputter-deposited TbDy(CoFe)2 thin film on silicon cantilevers. This film has giant magnetostrictive properties. It is made anisotropic by postdeposition annealing under magnetic field. We prepared two samples with different orientations of the easy axis: along the cantilever width axis and with an orientation of 22°, respectively. Both bending and torsion modes of vibration can be excited by proper combination of external magnetic field and the direction of the easy axis. Vibration amplitudes and resonance frequencies are studied in those modes. Several experimental conditions are investigated. The dependence of vibration amplitudes on a magnetic dc bias field applied either along the hard axis or along the easy axis is studied. The bending/torsion vibration amplitude ratio was shown to be tunable over a very wide range, offering interesting practical applications. In addition, the dependence of the resonance frequencies on both dc and ac fields applied along the hard axis is studied. For both vibration amplitudes and resonance frequencies, the experimental data are compared with a theoretical model and good agreement is found. The magnetomechanical resonator may be considered as a building block for more complex microelectromechanical systems using magnetostrictive actuation and as an alternative to more classical solutions based on electrostatic or electrothermal actuation. © 2002 American Institute of Physics. 
+
+micromechanical resonators
+magnetostrictive devices
+vibrational modes
+terbium alloys
+dysprosium alloys
+cobalt alloys
+iron alloys
+sputtered coatings
+magnetic thin film devices

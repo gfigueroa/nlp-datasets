@@ -1,0 +1,15 @@
+In this article, we report about complexes in silicon investigated by electron paramagnetic resonance (EPR). In silicon doped with C and Pt we detected two different complexes: cr-1Pt (cr: carbon-related, 1Pt: one Pt atom) and cr-3Pt. The complexes have similar EPR properties. They show a trigonal symmetry with effective g-values geff,¥ = 2g¥ H 4 and geff, = g H 2 (g¥, g true g-values). The g-values can be explained by a spin Hamiltonian with large fine-structure energy (electron spin S = 3/2) and smaller Zeeman interaction. The participation of platinum in the complexes is proved by the hyperfine interaction. From experiments with varying carbon concentration we conclude that the complexes contain carbon. Atomistic models based on the Watkins vacancy-model for substitutional Pt were developed. © 1997 American Institute of Physics. 
+
+paramagnetic resonance
+carbon
+platinum
+elemental semiconductors
+silicon
+impurity states
+g-factor
+defect states
+spin Hamiltonians
+fine structure
+Zeeman effect
+hyperfine interactions
+vacancies (crystal)

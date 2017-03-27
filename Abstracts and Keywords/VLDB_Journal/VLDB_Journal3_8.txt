@@ -1,0 +1,7 @@
+Deductive databases generalize relational databases by providing support for recursive views and non-atomic data. Aditi is a deductive system based on the client-server model; it is inherently multi-user and capable of exploiting parallelism on shared-memory multiprocessors. The back-end uses relational technology for efficiency in the management of disk-based data and uses optimization algorithms especially developed for the bottom-up evaluation of logical queries involving recursion. The front-end interacts with the user in a logical language that has more expressive power than relational query languages. We present the structure of Aditi, discuss its components in some detail, and present performance figures.
+
+implementation
+logic
+multi-user
+parallelism
+relational database

@@ -1,0 +1,6 @@
+This paper discusses the analysis and design of a very thin slotless permanent-magnet (PM) brushless motor whose stator laminations are manufactured from a single strip of steel that is edge wound into a spiral (like a ldquoslinkyrdquo) and then fitted over the windings that are preformed on the outside surface of a nonconducting former. Analytical and finite-element analysis (FEA) were used to determine the constrained optimum dimensions of a motor used to drive a rim-driven thruster in which the motor rotor is fitted onto the rim of the propeller and the stator is encapsulated in the thin Kort nozzle of the thruster. This paper describes the fabrication of a demonstrator motor and presents experimental results to validate the theoretical calculations. Experimental motor performance results are also reported and compared with those of a slotted motor that fits within the same active radial dimensions as the slotless motor. The slotless motor, which has longer active length and endwindings, and thicker magnets than the slotted motor, was found to be less efficient and more expensive (prototype cost) than the slotted machine.
+
+Edge-wound laminations
+rim-driven thruster
+slinky laminations
+slotless brushless PM motor

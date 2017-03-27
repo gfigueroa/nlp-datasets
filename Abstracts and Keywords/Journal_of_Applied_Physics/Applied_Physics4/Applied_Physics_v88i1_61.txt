@@ -1,0 +1,8 @@
+The effective properties of 03- and 13-type piezoelectric composites of lead zirconate titanate and vinylidene fluoridetrifluoroethylene with different polarization status in both phases are calculated using an effective-medium theory. The effects of volume fraction and polarization orientation on the effective behavior are presented in detail. The theory gives results in reasonable agreement with recent experimental ones. The theoretical predictions demonstrate the interesting behavior of the composites and provide a general guideline for optimizing the microstructural scale of the composites for piezoelectric transducers and pyroelectric sensors. © 2000 American Institute of Physics. 
+
+dielectric polarisation
+piezoelectric materials
+lead compounds
+filled polymers
+permittivity
+elastic moduli

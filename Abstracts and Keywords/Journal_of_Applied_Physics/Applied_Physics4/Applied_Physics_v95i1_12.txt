@@ -1,0 +1,7 @@
+We consider theoretically the use of a room-temperature silicon quantum dot based device for electrometer applications. The low power device includes two split gates that quantize the electronic energy levels in the emitter and collector regions. The base consists of a silicon quantum dot buried in silicon dioxide. The small size of the dot and quantization of the states in the leads combined to allow the device to operate at room temperature. The nonlinear currentvoltage characteristics can be significantly altered by small changes to the potential of the split gates. Power dissipation in the device therefore changes with the split gate voltage, and this can be exploited in electrometer applications. A simple model of the power dissipated when the device is part of a microwave resonant inductor-resistor-capacitor tank circuit suggests that large changes in device power can be achieved by changing the gate voltage, thereby forming a measurable signal. We also demonstrate that the power dissipation in the device changes as the base width is varied, and that the current through the device increases exponentially with a decrease in base width. © 2004 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor quantum dots
+electrometers
+semiconductor device models

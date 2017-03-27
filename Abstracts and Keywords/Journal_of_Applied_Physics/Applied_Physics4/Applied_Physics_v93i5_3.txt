@@ -1,0 +1,10 @@
+This article presents a theoretical analysis of the dependence of the exciton binding energy and excitonLO-phonon coupling on the cylindrical quantum dot (QD) size. The effect of the temperature on the integrated photoluminescence line intensity is also investigated. Calculations were performed within the effective-mass approximation by using a variational method. Specific applications of these results are given for CdTe QDs embedded in a Cd1xZnxTe matrix. The excitonic confinement is described by a finite, deep potential well. We observe, on the one hand, an enhancement of the exciton binding energy and the excitonLO-phonon coupling energy with decreasing dot size. On the other hand, at high temperature, the LO phonon has a noticeable effect on the photoluminescence intensity. This last physical parameter also shows a great dependence on QD size and on the potential level induced by the barrier material. © 2003 American Institute of Physics. 
+
+semiconductor quantum dots
+phonon-exciton interactions
+II-VI semiconductors
+cadmium compounds
+zinc compounds
+effective mass
+variational techniques
+photoluminescence

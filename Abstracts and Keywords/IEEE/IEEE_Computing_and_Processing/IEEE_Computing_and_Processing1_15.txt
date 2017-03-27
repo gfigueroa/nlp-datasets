@@ -1,0 +1,5 @@
+We propose an interface for creating a depth map for a 2D picture. The image and depth map can be used for 3D display on an autostereoscopic photo frame. Our new interface does not require the user to draw on the picture or point at an object in the picture. Instead, semantic questions are asked about a given indicated position in the picture. This semantic information is then translated automatically into a depth map.
+
+autostereoscopic display
+digital photo frame
+still picture conversion

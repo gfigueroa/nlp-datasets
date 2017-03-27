@@ -1,0 +1,7 @@
+This paper presents a new Interferometric Fiber Optic Gyroscope (IFOG) optimized for Line of Sight (LoS) stabilization being developed by IFOS and its prime subcontractors InFiber Technology and Optiphase under sponsorship of AFRL as a Phase II SBIR program. To date IFOS designed, built and tested five prototypes. Four gyros were delivered to Lockheed Martin (LM) for further testing.
+
+FOG
+Fiber Optics Gyro
+Gyro
+Line of Sight
+stabilization

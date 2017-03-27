@@ -1,0 +1,11 @@
+The effects of reabsorption and bandgap narrowing (BGN) on experimental photoluminescence (PL) spectra of nInP grown by metalorganic chemical vapor deposition are analyzed. PL spectra show a pronounced widening of the main PL peak and a shift of that peak to higher photon energy with increasing doping due to band filling. However, the magnitude of these effects, both here and in earlier studies of ntype IIIV semiconductors, is smaller than expected based upon band filling calculations and electrical measurements. Various explanations for these discrepancies between PL spectra and band filling calculations have been proposed, but little experimental support is currently available. In this article we demonstrate unambiguously that both the nInP PL peak width and the peak position are significantly reduced by reabsorption, and that reabsorption completely explains the observed discrepancy between the measured PL peak width and the calculated band filling based on electrical measurements. In particular, we show that reabsorption must be accounted for when extracting the Fermi level from experimental nInP PL spectra, otherwise the Fermi level value is severely underestimated. Since previous studies of the nInP PL line shape have neglected reabsorption and instead attributed the unexpectedly low extracted Fermi level value to bandgap narrowing effects, we reinvestigate BGN in nInP by considering only the lowenergy tail of the PL spectra. The extent of the lowenergy band tail below the intrinsic bandgap energy is observed to be only about half as large as nInP BGN predicted theoretically. Very similar results have been reported in the literature for nGaAs and is either due to an overestimation of the BGN by theory or a failure of PL to reflect the full extent of a highly nonrigid BGN shift. In regard to the latter, we demonstrate that a highly nonrigid BGN shift does indeed exist for nInP, with the BGN shift near zone center being at least three times larger than the energy shift of states near the Fermi surface for n=4×1018 cm3. © 1996 American Institute of Physics. 
+
+INDIUM PHOSPHIDES
+NTYPE CONDUCTORS
+PHOTOLUMINESCENCE
+EPITAXIAL LAYERS
+ABSORPTION
+ENERGY GAP
+CVD
+FERMI LEVEL
+LINE SHAPE

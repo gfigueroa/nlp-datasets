@@ -1,0 +1,15 @@
+A treatment that lowers the threshold field for field emission and increases the emission site density from a nominally n-type diamondlike carbon film is described. The film was deposited using an rf plasma of methane and nitrogen gases. The treatment involved deposition of cesium followed by a low temperature anneal. Field emission measurements were used to characterize the threshold field and emission site density before and after cesium treatment. Ultraviolet photoemission was used to study the effect of cesium on the work function. Dramatic improvements to field emission by cesiation cannot be generalized to all diamondlike samples, as similar treatment of a type IIb single-crystal (p-type) diamond did not produce as pronounced an improvement in turn-on field or emission site density. © 1997 American Institute of Physics.
+
+caesium
+electron field emission
+ultraviolet photoelectron spectra
+plasma deposited coatings
+work function
+CARBON
+THIN FILMS
+FIELD EMISSION
+CESIUM ADDITIONS
+DIAMONDS
+CHEMICAL VAPOR DEPOSITION
+PHOTOEMISSION
+WORK FUNCTIONS

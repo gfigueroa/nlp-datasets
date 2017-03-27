@@ -1,0 +1,7 @@
+The method of successive approximations is applied to reckon the differential phase shift characteristics of the coaxial waveguide, completely filled with azimuthally magnetized ferrite, for normal TE<sub>0n</sub> modes. It uses the positive purely imaginary roots of the characteristic equation of configuration, derived by complex confluent hypergeometric functions, to compute the guide radius and phase constant of the waves in normalized form at a selected value of the off-diagonal ferrite permeability tensor element. The roots are determined for a fixed central conductor to waveguide radius ratio and varying imaginary part of the first complex parameter of wave functions. The procedure goes on, until the counted numerical equivalent of the radius coincides with a chosen one of the same with a prescribed accuracy. The relevant value of the phase constant is accepted as the one, searched for. Calculations are performed for both signs of the imaginary part (of the magnetization), yielding the phase shift. The boundaries of the area in which the latter is produced, are traced, as well. An analysis is made of the impact of the parameters of the structure on the graphically presented normalized characteristics in case of TE<sub>01</sub> mode.
+
+Boundary value problems
+circular waveguides
+ferrite phase shifters
+nonreciprocal wave propagation
+numerical analysis

@@ -1,0 +1,9 @@
+Triggered breakdown in hollow cathode discharges in geometries similar to those used for pseudospark switches and pseudospark pulsed electron beams has been investigated experimentally and with a twodimensional model previously developed. A systematic study of the influence of the discharge conditions (applied voltage and pressure), geometry, and trigger conditions (trigger intensity and position) on the time to breakdown in helium is presented, and some data are also shown for argon. Excellent qualitative agreement is found between the model predictions and the experimental results. The relation between the time to breakdown and the geometrical distribution of injected charge is discussed, and the understanding gained from these model results is used to suggest guidelines for trigger optimization. Conditions wherein significant oscillations in the currenta current quenching effectare observed in the prebreakdown current wave form are discussed. © 1995 American Institute of Physics.
+
+GLOW DISCHARGES
+HOLLOW CATHODES
+BREAKDOWN
+PLASMA SWITCHES
+PRESSURE DEPENDENCE
+VOLTAGE DEPENDENCE
+SPACE CHARGE

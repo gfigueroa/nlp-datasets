@@ -1,0 +1,6 @@
+A theoretical model for the calculation of the anisotropy in the electron Hall mobility is reported for n-type bulk single crystals of 4H and 6HSiC for the three distinct Hall measurement configurations: (a) [B%c, j¥c], (b) [B¥c, j¥c], and (c) [B¥c, j%c], where B, j, and c are the directions of the magnetic field, current flow, and c axis of the hexagonal unit cell, respectively. Comparison with experimental results shows that the anisotropy of the electron transport in both 4H and 6HSiC can be explained solely by the anisotropy in the effective electron mass tensors. © 2000 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+Hall mobility
+effective mass

@@ -1,0 +1,8 @@
+Replication is useful in multidatabase systems (MDBSs) because, as in traditional distributed database systems, it increases data availability in the presence of failures and decreases data retrieval costs by reading local or close copies of data. Concurrency control, however, is more difficult in replicated MDBSs than in ordinary distributed database systems. This is the case not only because local concurrency controllers may schedule global transactions inconsistently, but also because local transactions (at different sites) may access the same replicated data. In this article, we propose a decentralized concurrency control protocol for a replicated MDBS. The proposed strategy supports prompt and consistent updates of replicated data by both local and global applications without a central coordinator.
+
+concurrency control
+multidatabases
+replica control
+replicated data management
+resolvable conflicts
+serializability

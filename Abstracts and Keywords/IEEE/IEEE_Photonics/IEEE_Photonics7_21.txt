@@ -1,0 +1,11 @@
+Three innovations responsible for an explosive growth in available information bandwidth over the last 30 years are highlighted. These include the invention of the bipolar and MOS transistors, development of information theory and the invention of solid-state lasers. Although demonstrated 13 years later than the bipolar transistors, fundamental contributions that led to rapid adoption of MOS as the technology of choice in meeting the needs of wireless and lightwave communication systems is explained. Continued research in understanding and improving MOSFET noise performance is elucidated. Theoretical basis of ultra-low-noise optical signal detection using finite medium and non-instantaneous multiplication are presented.
+
+BJT
+Lightwave communication
+MOSFET
+finite-medium avalanching
+laser
+noise
+non-instantaneous multiplication
+photodetector
+wireless communication

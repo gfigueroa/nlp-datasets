@@ -1,0 +1,5 @@
+Electric arc furnaces (EAFs) are prevalent in the steel industry to melt iron and scrap steel. EAFs frequently cause large amplitude fluctuations of active and reactive power and are the source of significant power-quality (PQ) disturbances. Static synchronous compensators (STATCOMs) provide a power-electronic-based means of embedded control for reactive power support and PQ improvement. This paper introduces a new nonlinear control for the STATCOM that provides significant reduction in EAF-induced aperiodic oscillations on the power system. This method is compared with traditional PI controls and has shown to have improved performance.
+
+Arc furnace flicker
+nonlinear control
+static synchronous compensator (STATCOM)

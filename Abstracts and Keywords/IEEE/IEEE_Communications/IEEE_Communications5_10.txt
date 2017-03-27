@@ -1,0 +1,6 @@
+As one of the promising applications of IEEE 802.16 (WiMAX) WMANs is to provide backhaul (infrastructure) support for IEEE 802.11 (WiFi) WLANs based mobile hotspots, integrating IEEE 802.16 and IEEE 802.11 is definitely an attractive and inevitable challenge. In this paper we present a novel architecture for integrating IEEE 802.16-mesh with IEEE 802.11. Indeed this architecture adds the mesh capability to the already existing integrated WMAN-WLAN networks. Integrated WiFi-WiMAX and WiFi-WiMAX-mesh networks are simulated and their performance is compared and discussed in terms of not only throughput and delay but also packet loss. We show that the mesh architecture has indeed superior performance due to the inherent properties of mesh networking paradigm.
+
+WiFi
+WiMAX
+Wireless Access Networks
+Wireless Mesh Networks

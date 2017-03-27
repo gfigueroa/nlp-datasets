@@ -1,0 +1,20 @@
+Acoustic mode lattice scattering plays an important role in determining the carrier mobility in elemental semiconductors over a wide range of temperature. For germanium and silicon, over the temperature range of interest, these longitudinal acoustic phonons are primarily scattered by isotopes and chemical impurities. The relaxation time is directly proportional to the fourth power of the phonon wavelength. Hence, for a relatively small phonon wavelength spread of three decades, the phonon relaxation time spans full 12 decades. The number of phonons for a given acoustic mode fluctuates at random. Hence, the phonon population for each mode exhibits a gr noise spectrum characterized by its relaxation time. Through electronphonon interaction (assuming elastic scattering), this gr noise spectrum is transferred to electron mean free path (same holds for hole), where after superposition, it leads to 1/f spectrum. The theoretical results support the experimental findings of several authors.
+
+SEMICONDUCTOR MATERIALS
+NOISE
+MATHEMATICAL MODELS
+ELEMENTS
+VARIATIONS
+PHONONS
+ACOUSTICS
+OSCILLATION MODES
+CRYSTAL LATTICES
+SCATTERING
+CARRIER MOBILITY
+TEMPERATURE DEPENDENCE
+GERMAINIUM
+SILICON
+ISOTOPES
+IMPURITIES
+WAVELENGTHS
+RELAXATION

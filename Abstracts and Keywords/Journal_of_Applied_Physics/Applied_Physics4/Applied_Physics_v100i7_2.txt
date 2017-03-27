@@ -1,0 +1,7 @@
+The fine structure of the complex low temperature dielectric relaxation process in biaxially stretched semicrystalline polyethylene terephthalate was investigated by the final thermally stimulated discharge current technique. By this technique, the apparent peaks that are mainly related to space charge detrapping from shallow traps are discriminated from the actual peaks related to the movement of dipoles attached to polymer chain or the peaks related to the detrapped charge from traps associated with specific polymer chain segments. Five relaxations around 100, 150, 210, 240, and 290K have been clearly identified. While the first three relaxations are of dipolar origin and are assigned to the motions of end hydroxyl groups and carbonyl groups, the last two relaxations are related to space charge detrapping and are assigned to phenyl group motions in the amorphous and crystalline phases. The very good agreement between the data determined by the final thermally stimulated discharge current technique and by other electrical and mechanical methods confirms the high potentiality of the final thermally stimulated discharge current technique to study the fine structure of the complex relaxation processes such as the low temperature relaxation of polyethylene terephthalate.
+
+space charge
+polymers
+dielectric relaxation
+thermally stimulated currents
+fine structure

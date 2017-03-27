@@ -1,0 +1,9 @@
+This study employs a facile method to selectively fabricate a pair of ZnO films on glass slide with controllable transparency and conductivity. The resultant surfaces both show static superhydrophobicity with alike contact angles of 155° and 158° but exhibit a significant difference under dynamic conditions. The sliding angle of the clustered ZnO film is 31° smaller than that of the one randomly covered with nanorods, due to its more discrete wetting structure of multiscaled hierachical architecture of the clusters. The kinetic mechanism is briefly discussed and a further modification for nanorod film to achieve real superhydrophobicity is suggested.
+
+contact angle
+II-VI semiconductors
+semiconductor thin films
+transparency
+wetting
+wide band gap semiconductors
+zinc compounds

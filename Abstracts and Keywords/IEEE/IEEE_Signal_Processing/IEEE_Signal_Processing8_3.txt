@@ -1,0 +1,6 @@
+Direction-of-arrival (DOA) estimation of coherent signals is considered of great importance in signal processing. To estimate both azimuth and elevation angle with the same accuracy, 3-dimensional (3-D) array must be used. Spherical arrays have the advantage of spherical symmetry, facilitating 3-D DOA estimation. To apply high resolution subspace DOA estimation algorithms, such as MUSIC, in a coherent environment, a smoothing technique is required. This paper presents the development of a smoothing technique in the frequency domain for spherical microphone arrays. We show that frequency smoothing can be efficiently performed using spherical arrays due to the decoupling of frequency and angular components. Experimental comparison of DOA estimation between beamforming and MUSIC with frequency smoothing is performed with data measured in a real auditorium.
+
+Direction-of-arrival estimation
+multipath
+spherical microphone array
+wideband sources

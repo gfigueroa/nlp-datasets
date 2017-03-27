@@ -1,0 +1,5 @@
+User interactivity and customisation are key features that must be promoted to help distinguish IPTV from satellite/aerial/cable TV alternatives. Furthermore, IPTV providers also have to compete with Internet TV by providing extra features to justify the cost. In this paper, we present a number of scenarios whereby IPTV providers can achieve this through the use of synchronised time. Integrating and tightly synchronising multiple user-selected media streams in Real-Time that are logically and temporally related potentially adds significant extra value to any IPTV platform. It also raises significant research challenges. We outline the prototype developed for a TV/Text Feed scenario and present some details of ongoing and future work.
+
+IPTV
+Media Synchronisation
+RSS

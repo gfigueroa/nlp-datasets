@@ -1,0 +1,5 @@
+A theoretical analysis of single-barrier thermionic emission cooling in semiconducting materials is performed using FermiDirac statistics. Both maximum cooling and coefficient of performance are evaluated. It is shown that the performance of a thermionic refrigerator is governed by the same materials factor as thermoelectric devices. For all known materials, single-barrier thermionic refrigeration is less effective and less efficient than thermoelectric refrigeration. © 2001 American Institute of Physics. 
+
+refrigeration
+thermionic emission
+thermoelectric devices

@@ -1,0 +1,10 @@
+We reported the observation of the saturation of interband three-photon absorption (3PA) in wide-gap semiconductors under intense femtosecond laser excitation. Theoretically, we developed a 3PA saturation model that is in agreement with the Z-scan experimental results. The characteristic saturation intensities were determined to be 44 and 210GW/cm2 for ZnO and ZnS crystals, respectively. The 3PA saturation model is also consistent with the ultrafast dynamics of 3PA-generated charge carriers in ZnO and ZnS crystals, obtained from the femtosecond transient absorption measurements.
+
+carrier density
+high-speed optical techniques
+II-VI semiconductors
+multiphoton processes
+optical saturation
+photoexcitation
+wide band gap semiconductors
+zinc compounds

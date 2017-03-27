@@ -1,0 +1,4 @@
+Passive filters have been a very effective solution for power system harmonic mitigation. These filters have several topologies that give different frequency response characteristics. The current industry practice is to combine filters of different topologies to achieve a certain harmonic filtering goal. However, there is a lack of information on how to select different filter topologies. This decision is based on the experience of present filter designers. The goal of this paper is to investigate the filter topology selection issue. It presents our research results on the effectiveness and costs of various filter topologies for harmonic mitigation. The research results show that the association of three single-tuned filters is a very appropriate solution for most typical harmonic problems.
+
+Passive filters
+power system harmonics

@@ -1,0 +1,10 @@
+Negative and positive charge trapping in a constant current regime under high-field electron injection both from Al electrode and Si substrate in high-dose Ge+ ion implanted and then rapid thermal annealed thin-film dioxide has been studied. Negatively charged traps as well as generated positive charges with effective capture cross sections of Ã1()&gt;1014	cm2, Ã2()H1.8×1015, Ã3()H2×1016, and Ã4()H3×1018	cm2, as well as Ã1(+)H(57)×1015 and Ã2(+)H3.3×1016	cm2, respectively, are shown to be introduced into the oxide layer. A good correlation of the electron trap concentration with a cross section of Ã1()&gt;1014	cm2 and the concentration of the implanted Ge atoms, determined by Rutherford backscattering spectrometry inside the oxide, is observed. The decrease of Ge concentration within the oxide layer with increasing duration of rapid thermal annealing is associated with Ge atom outdiffusion from the oxide at high-temperature annealing. The generated positive charge is shown to be collected near the SiO2/Si interface during the high field electron injection, both from the Al and Si side. A correlation of the generated positive charge with the Ge atoms embedded in the SiO2/Si interface is observed. The anode hole injection mechanism is suggested to be responsible for the observed generation of the positive charge. © 2003 American Institute of Physics. 
+
+germanium
+silicon compounds
+electron traps
+carrier lifetime
+charge injection
+MIS structures
+rapid thermal annealing
+diffusion

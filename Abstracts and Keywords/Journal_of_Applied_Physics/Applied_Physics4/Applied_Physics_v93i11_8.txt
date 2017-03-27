@@ -1,0 +1,12 @@
+This work studies the spectroscopic behavior of Eu3+-doped and Yb3+/Er3+-codoped single crystals of orthorhombic LaBO3 and rhombohedral GdBO3. Emissions from Er3+ at <1535 nm are shown to exhibit multiple narrow linewidth emissions. Luminescence from the 5D0’7F1, 7F2 transitions of Eu3+ is found to depend on the choice of LaBO3 or GdBO3 as a parent phase in a well-defined manner. Phonon sideband spectroscopy of the Eu3+ 5D2 excitation, corroborated using Raman spectroscopy, indicates that the highest energy phonon is less than 1400 cm1 for the LaBO3 and less than 1010 cm1 for the GdBO3. Further, absorption spectrum to 190 nm is provided for the GdBO3 clearly showing the 6I manifold, and the rarely seen 6D levels. Excitation of the 6D7/2 state at 250 nm in GdBO3 is shown to yield a strong ultraviolet emission centered at 314 nm. This work marks the lanthanide borates as candidate single crystals for active and nonlinear materials for UV, visible, and telecommunication band applications. © 2003 American Institute of Physics. 
+
+optical materials
+erbium
+ytterbium
+europium
+lanthanum compounds
+gadolinium compounds
+fluorescence
+spectral line breadth
+phonon spectra
+Raman spectra

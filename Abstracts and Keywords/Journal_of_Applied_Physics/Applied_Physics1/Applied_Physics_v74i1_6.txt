@@ -1,0 +1,11 @@
+An interfacial layer (IL), about a nanometer thick, is produced by Sm deposition onto (001) CdTe grown by molecularbeam epitaxy. This IL is studied by reflection highenergy electron diffraction (RHEED), ion channeling, and xray diffraction. A correlation between the (1×2) RHEED pattern and the {111} CdTe stacking sequence is demonstrated, and is in favor of the surface Te dimerization hypothesis. Lattice location by ion channeling has revealed that incorporated Sm mainly occupies the octahedral site in the Te sublattice. A CdTe overlayer grown onto IL presents a remarkable feature, that is, a 90° rotation around the [001] direction with respect to the CdTe buffer. It was checked by ion channeling that the overlayer exhibited a bulklike crystallinity. Superlattices composed of many of these IL/CdTe basic periods have been grown at a temperature of 270	°C. The different experimental features are tentatively interpreted assuming the formation of an IL with the spinel structure.
+
+CADMIUM TELLURIDES
+MOLECULAR BEAM EPITAXY
+SAMARIUM
+INTERFACE STRUCTURE
+RHEED
+ION CHANNELING
+XRD
+STACKING FAULTS
+SUPERLATTICES

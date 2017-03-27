@@ -1,0 +1,19 @@
+The effects of particle size, structure, microstrain, and cation distribution on magnetic property of nanosized Ni0.35Zn0.65Fe2O4 prepared through high-energy ball milling have been explored by a wide variety of experimental technique namely, x-ray diffraction, high-resolution transmission electron microscopy, dc magnetization measurement, and Mössbauer spectroscopy. The sample exhibits mixed magnetic behavior with a collective magnetic state between 300 and 60 K while spin glasslike freezing of magnetic moments has taken place below 60 K. The sample has displayed enhancement in magnetization, magnetic hyperfine field, coercivity, and anisotropy energy. The inherent superparamagnetic relaxation of ferrite nanoparticles has significantly reduced and it shows evidence of magnetic hysterisis at room temperature. These properties could be profitably used to overcome the inherent instability of magnetic nanoparticles. The intersublattice interaction (JAB) in the sample has strengthened due to migration of Fe3+ ions from octahedral (B) site to tetrahedral (A) site and this accounts for the genesis of counterintuitive magnetic enhancement in the sample.
+
+ball milling
+coercive force
+ferrites
+hyperfine interactions
+magnetic hysteresis
+magnetic moments
+magnetic particles
+magnetisation
+Mossbauer effect
+nanoparticles
+nickel compounds
+particle size
+spin glasses
+superparamagnetism
+transmission electron microscopy
+X-ray diffraction
+zinc compounds

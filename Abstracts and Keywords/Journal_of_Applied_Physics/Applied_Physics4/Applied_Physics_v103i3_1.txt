@@ -1,0 +1,14 @@
+Smooth N-polar GaN/AlxGa1xN/GaN heterostructures with a different Al mole fraction were grown by metalorganic chemical vapor deposition on (0001) sapphire substrates with a misorientation angle of 4° toward the a-sapphire plane. The sheet electron density of the two-dimensional electron gas (2DEG), which formed at the upper GaN/AlxGa1xN interface increased with an increasing Al-mole fraction in the AlxGa1xN layer and increasing silicon modulation doping, similar to the observations for Ga-polar heterostructures. The transport properties of the 2DEG, however, were anisotropic. The growth on vicinal substrates led to the formation of well ordered multiatomic steps during AlxGa1xN growth and the sheet resistance of the 2DEG parallel to the steps was about 25% lower than the resistance measured in the perpendicular direction. The fabricated devices exhibited a drain-source current, IDS, of 0.9 A/mm at a gate-source voltage +1V. At a drain-source voltage of 10 V and IDS = 300mA/mm, current-gain and maximum oscillation frequencies of 15 and 38 GHz, respectively, were measured.
+
+aluminium compounds
+doping
+electron mobility
+elemental semiconductors
+field effect transistors
+gallium compounds
+III-V semiconductors
+MOCVD
+semiconductor heterojunctions
+silicon
+two-dimensional electron gas
+wide band gap semiconductors

@@ -1,0 +1,18 @@
+We have investigated the microstructure of (Ba,
+Sr)TiO3 films fabricated from BaF2/SrF2/TiO2 amorphous multilayers. Rutherford backscattering spectroscopy and x-ray diffraction studies show that a controlled thermal treatment can interdiffuse the multilayers so as to create predominantly single-phase epitaxial (Ba,
+Sr)TiO3 films. A high resolution cross-sectional transmission electron microscopy investigation of the processed films shows that they consist of large epitaxial grains of (Ba,
+Sr)TiO3 with atomically sharp interfaces with the LaAlO3 substrates. In addition, we have identified regions where polycrystalline and transient phases exist in small pockets in the film matrix. The results here indicate that the combinatorial thin-film synthesis using precursors can produce (Ba,
+Sr)TiO3 films in combinatorial libraries which exhibit properties similar to those films made by conventional techniques. © 2001 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+ferroelectric thin films
+solid phase epitaxial growth
+Rutherford backscattering
+X-ray diffraction
+transmission electron microscopy
+crystal microstructure
+chemical interdiffusion
+interface structure
+heat treatment
+epitaxial layers

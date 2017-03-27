@@ -1,0 +1,9 @@
+The characteristics and reliability of laser-activated polycrystalline silicon thin-film transistors (poly-Si TFTs) under the stress condition of drain voltage (Vd)=12
+V and gate voltage (Vg)=15
+V have been investigated. In spite of reducing the source/drain resistivity by using laser activation method, the leakage current (Vg&lt;0) is larger for laser-activated poly-Si TFTs in comparison with traditional furnace-activated counterparts. It is also found that the post-stress leakage and on/off current ratio degrade much faster for laser-activated poly-Si TFTs, while the degradation rates of threshold voltage and subthreshold swing are comparable to those of traditional furnace-activated TFTs. The laser activation modifies the grain structure between drain and channel region and causes grain discontinuity extending from the drain side to the channel region. The grain discontinuity near drain side in the polysilicon film has been investigated by transmission electron microscopy analysis. The effective trap state density calculated from typical IV curve has been compared for laser-activated and furnace-activated TFTs. As a result, an inferior reliability with extra trap state density and larger leakage current was observed in the laser-activated poly-Si TFTs. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+thin film transistors
+laser beam annealing
+leakage currents

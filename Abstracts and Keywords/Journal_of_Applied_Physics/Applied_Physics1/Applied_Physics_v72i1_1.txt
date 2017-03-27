@@ -1,0 +1,11 @@
+A fine grain diamond film has been developed by microwave plasma assisted chemical vapor deposition. Various analytical techniques, including Rutherford backscattering, proton recoil analysis, Raman spectroscopy, and Xray diffraction, were utilized to characterize the diamond films. The grain size of the film was determined from bright and dark field electron micrographs, and found to be 2001000 Å. The films exhibited good optical transmission between 2.5 and 10 ¼m, with a calculated absorption coefficient of 490 cm1. The friction coefficients of this film were found to be 0.035 and 0.030 at dry nitrogen and humid air environments, respectively, and the films had low wear rates.
+
+DIAMONDS
+THIN FILMS
+CHEMICAL VAPOR DEPOSITION
+PLASMA
+RBS
+RAMAN SPECTRA
+XRAY DIFFRACTION
+FRICTION
+GRAIN SIZE

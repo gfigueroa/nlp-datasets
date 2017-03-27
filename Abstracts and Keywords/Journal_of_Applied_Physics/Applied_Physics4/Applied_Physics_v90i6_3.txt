@@ -1,0 +1,13 @@
+CoNi films were grown on thin Gd layers at room temperature using dc magnetron sputtering. A large increase in the coercivity of CoNi/Gd bilayer, compared to the coercivity of CoNi film, was observed. The increase in coercivity was not significant when the order of film growth was reversed for the same thicknesses and identical deposition conditions. The large increase in coercivity is attributed to the pinning of the CoNi layer by the magnetically compensated ferrimagnetic alloy forming at the CoNi (top)/Gd (bottom) interface due to the diffusion of Co and Ni into Gd. Due to the large coercivity in this system, it can be used to pin soft ferromagnetic layers in spin valve structures. © 2001 American Institute of Physics.
+
+cobalt alloys
+nickel alloys
+gadolinium
+sputtered coatings
+coercive force
+magnetic multilayers
+ferrimagnetic materials
+chemical interdiffusion
+soft magnetic materials
+ferromagnetic materials
+spin valves

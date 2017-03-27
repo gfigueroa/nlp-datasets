@@ -1,0 +1,8 @@
+The National Institute of Standards and Technology has begun a program to develop standards and calibration services for microwave wafer-level probing systems. The standards will be based on planar transmission lines and are designed to support measurements between 1 and 40 GHz. The program objectives, organization, and plans are discussed.
+
+MMIC
+calibration
+microwave
+scattering parameter
+standards
+wafer probe

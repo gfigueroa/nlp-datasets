@@ -1,0 +1,12 @@
+The interdiffusion of Si/Si0.85Ge0.15/Si single quantum well (SQW) structures subjected to inert- and oxidizing-ambient annealing was investigated as a function of temperature (9001200
+°C) and time. Point defect injection allowed modification of the vacancy and interstitial mediated components of interdiffusion, DV and DI. Diffusion profiles of samples processed in inert and oxidizing ambients were similar, which indicates a vacancy-dominated mechanism. Activation energies of diffusion in inert and oxidizing ambients were found to be 5.8 and 5.0 eV, respectively. A fractional interstitial component fI of <0.10 was estimated for the lower temperatures, while a significantly smaller fI of <0.02 was estimated for the higher temperatures. Experiments using SQWs with buried boron marker layers showed that dislocations in the Si1-xGex trap point defects and affect interdiffusion behavior. © 2000 American Institute of Physics. 
+
+semiconductor quantum wells
+silicon
+elemental semiconductors
+Ge-Si alloys
+semiconductor materials
+chemical interdiffusion
+annealing
+interstitials
+vacancies (crystal)

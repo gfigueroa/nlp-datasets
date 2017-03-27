@@ -1,0 +1,11 @@
+A simplified model of the gassurface chemistry occurring during chemicalvapor deposition of diamond thin films is presented. The model results in simple scaling relations, useful for process scaleup and optimization, for growth rate and defect density in terms of the local chemical environment at the substrate. A simple twoparameter expression for growth rate is obtained, which with suitable parameter choices reproduces the results of more detailed mechanisms and experiment over two orders of magnitude in growth rate. The defect formation model suggests that the achievable growth rate at specified defect density scales approximately quadratically with the atomic hydrogen concentration at the substrate. 	
+
+DIAMONDS
+CVD
+SURFACE REACTIONS
+CHEMICAL REACTIONS
+SCALING LAWS
+GROWTH RATE
+THIN FILMS
+DEFECTS
+HYDROGEN

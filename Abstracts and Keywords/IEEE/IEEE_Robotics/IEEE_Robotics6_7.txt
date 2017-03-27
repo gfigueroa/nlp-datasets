@@ -1,0 +1,7 @@
+Bicycle robots are such a kind of mobile robots subjected to nonholonomic constraints and under-actuated degree of freedom (DOF) simultaneously, and it is a common scenario for these robots to climb a slope. The research in this paper is focused on dynamic modeling and dynamic characteristics analysis of a front-wheel drive bicycle robot under the state of slope-climbing. The concepts of critical angle and critical driving torque were proposed to estimate the slope-climbing capability. Kinematics of the robot was derived under the assumption of rolling without slipping of the two road wheels on a slope plane. Recursion dynamic model of the bicycle robot was constructed by using Kane equation and energy and work analysis is introduced to validate the model. Numerical simulations of the running behavior on different gradients were implemented in MATLAB to analyze the dynamical characteristics of the bicycle robot. Simulations results show the model is basically in agreement with the real working condition of the bicycle robot.
+
+Bicycle robot
+Climbing capability
+Dynamic characteristics
+Dynamic modeling
+Slope-climbing

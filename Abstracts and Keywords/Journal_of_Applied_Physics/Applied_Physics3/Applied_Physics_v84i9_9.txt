@@ -1,0 +1,9 @@
+We propose a simple model for the device characteristics of organic single layer molecular or polymeric light-emitting diodes. The model is based on Poissons equation and the conservation law of charges. A bimolecular recombination process is incorporated phenomenologically, and boundary conditions are given by carrier injection functions. Equations for the electric field and carrier concentrations are formulated for single-carrier and double-carrier injection cases. The equations are solved for different parameters including carrier mobility and energy barrier height at the electrodes. Currentvoltage characteristics, relative quantum efficiency, and emission distribution are obtained. The results show that (1) at least one barrier height should be low for device operation at low voltage, (2) high mobility is essential for devices with high brightness, (3) low electron mobility confines the emission region near the cathode and should be avoided to prevent electrode quenching. We also discuss the effects from persistent charged traps. The calculation was compared with experimental results obtained by single layer conjugated polymer and dye-doped polymer devices. Fairly good agreement between experiments and calculations on the currentvoltage characteristics and relative quantum efficiency were obtained using reasonable physical parameters. © 1998 American Institute of Physics. 
+
+carrier density
+carrier mobility
+electron traps
+semiconductor device models
+organic semiconductors
+conducting polymers
+light emitting diodes

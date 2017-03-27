@@ -1,0 +1,16 @@
+We report an investigation of the electrical activation of aluminum implanted at high dose in 4HSiC. We show that at reasonably high temperature implantation and annealing conditions, one activates about 37.5% of the implanted species. Of course, the final (concentration-dependent) activation ratio differs slightly from this average value but varies only between 0.5 and 0.25 when the targeted concentration increases from 3.33×1018 to 1021
+cm3. Provided a standard mobility can be maintained, this results in fairly low sheet resistance. The best (lowest) value obtained in this work is 15 m©
+cm at 700 K (95 m©
+cm at room temperature) for a 190-nm-thick layer implanted with 1021
+atoms
+cm3. In MESA-etched pn junctions with a 100 ¼m diameter, this resulted in a typical on-resistance of 1.5 m©
+cm2, mainly limited by the substrate and n epitaxial layer. © 2000 American Institute of Physics. 
+
+aluminium
+annealing
+silicon compounds
+wide band gap semiconductors
+ion implantation
+semiconductor doping
+p-n junctions
+semiconductor epitaxial layers

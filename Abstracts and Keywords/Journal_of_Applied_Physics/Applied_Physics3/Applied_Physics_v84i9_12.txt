@@ -1,0 +1,12 @@
+Hole capture at DX centers is evidenced in Schottky diodes made on Te-doped AlGaSb under forward bias conditions. Capacitance versus voltage measurements performed at low temperatures show that the occupancy of the DX centers is affected by sufficiently large forward biases. The current densities required to achieve such modifications are at least one order of magnitude smaller than those needed in Si-doped AlGaAs. Positive deep level transient spectroscopy signals are systematically detected in all the samples studied when forward-bias filling pulses are used. These observations are discussed in terms of minority carrier (hole) injection and subsequent capture by the DX centers. © 1998 American Institute of Physics.
+
+aluminium compounds
+gallium compounds
+tellurium
+III-V semiconductors
+hole traps
+deep levels
+deep level transient spectroscopy
+current density
+Schottky barriers
+minority carriers

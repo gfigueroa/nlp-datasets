@@ -1,0 +1,6 @@
+This paper describes the Electronics curriculum in the Telecommunication Engineer degree at Rey Juan Carlos University (URJC) in Spain. Telecommunication Engineering started in the 2003-2004 academic year. In these years, all the electronic courses have been set up with a main practical orientation and with Project Based Learning (PBL) activities, both compulsory and voluntary. Once these courses have been successfully implemented we have reoriented some of the practical activities to be more interlaced. In this sense, projects involving students of different courses have been developed, as well as projects involving students from different years. All these activities fit in the principles promulgated by the Declaration of Bologna, which results in the actual updating of the university degree structure in Spain.
+
+Bologna process
+Electronics
+integral curriculum
+project-oriented

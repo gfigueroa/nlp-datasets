@@ -1,0 +1,6 @@
+We propose a magnetoresistive tunnel device that takes advantage of the spin filter effect. Two magnetic tunnel barriers are contacted by normal metal electrodes. The resistance of the device is lower (higher) when the magnetic moments of the two barriers are parallel (antiparallel). We present a theoretical calculation of the magnetoresistance. This device has the potential to work above room temperature, in very small fields, and to give a sensitivity orders of magnitude larger than what is possible with standard magnetic tunnel junctions. © 2000 American Institute of Physics. 
+
+spin valves
+tunnelling
+magnetic moments
+magnetoresistance

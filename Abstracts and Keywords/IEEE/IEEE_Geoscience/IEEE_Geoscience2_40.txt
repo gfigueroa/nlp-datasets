@@ -1,0 +1,7 @@
+The densities and refractive indices of two binary systems (water + MEA and water + MDEA) and three ternary systems (water + MEA + CO<sub>2</sub>, water + MDEA + CO<sub>2</sub> and water + MEA + MDEA) used for carbon dioxide (CO<sub>2</sub>) capture were measured over the range of compositions of the aqueous alkanolamine(s) used for CO<sub>2</sub> absorption at temperatures from 295 to 338 K. Experimental densities were modeled empirically while the experimental refractive indices were modeled using well- established models from knowledge of their pure component densities and refractive indices. The density and Gladstone-Dale refractive index models were then used to obtain the compositions of unknown samples of the binary and ternary systems by simultaneous solution of the density and refractive index equations. The results from this technique have been compared with HPLC (high performance liquid chromatography) results, while a third independent technique (acid-base titration) was used to verify the results. The results show that the systems' compositions obtained from the simple and easy to use refractive index/density technique were very comparable to the expensive and laborious HPLC/titration techniques, implying that the refractive index/density technique can be used to replace existing methods for analysis of fresh or non degraded, CO2 loaded, single and mixed alkanolamine solutions.
+
+Amines
+Analytical technique
+Carbon dioxide capture
+Density
+Refractive index

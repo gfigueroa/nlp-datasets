@@ -1,0 +1,6 @@
+This paper proposes a model-based iterative learning control (MB-ILC) for industrial robot manipulators. The proposed MB-ILC modifies the desired trajectory but not the control input signals, and thus it is possible to keep the existing controllers unchanged that are designed to make the manipulator stable. To achieve stability of the MB-ILC algorithm in the iteration domain, two filters are used. One is the inverse of the transfer function of an estimated control system and the other is a causal filter to compensate the inversed transfer function of a non-causal filter. However the control system is non-causal system, we used causalizing technique in order to avoid non-causal problem. Experimentations with a 6 DOF industrial robot manipulator moving in a straight line show that a good convergency of lateral errors as well as steady state error. Moreover, vibrations that were observed in using some of other ILC algorithms were not observed in the experiments.
+
+Iterative learning control
+control
+manipulator
+model-based iterative learning control

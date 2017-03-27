@@ -1,0 +1,13 @@
+Extended defects created in Si by ion implantation to doses below the amorphization threshold have been studied after annealing at 800
+°C for 15 min. The implant species were the group IV elements Si, Ge, and Sn, and structural defects created by similar damage distribution were compared. The mass of the implanted ion influences the type of defect observed. For all three implant species, rod-like {311} planar defects were observed. Additionally, in Ge and Sn implanted samples, small {111} interstitial faulted dislocation loops were observed. © 2000 American Institute of Physics. 
+
+transmission electron microscopy
+extended defects
+ion implantation
+amorphisation
+annealing
+elemental semiconductors
+germanium
+silicon
+tin
+semiconductor doping

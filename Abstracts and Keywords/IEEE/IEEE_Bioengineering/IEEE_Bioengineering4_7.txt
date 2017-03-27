@@ -1,0 +1,7 @@
+The designed measuring system is a low cost, flexible, portable Holter which can be used for long time Continuous Monitoring. Here in this paper, the designed system is implemented for impedance measurement and is based upon the principle that when the fixed input current is fed to the cross section of object, corresponding output voltage can be obtained which further leads to determine the conductivity of the region of that object. These measured impedance changes are especially utilized in biomedical field viz Electrical Impedance Tomography, Respiratory measurement, Brain Activity analysis, Pneumography etc. Further data acquisition software is also developed in VB to capture data points in PC. The designed system is tested on various conducting models under different current patterns and frequency. The observed values are found suitable according to the experiment.
+
+Current pattern
+Data Acquisition System
+EIT
+Impedance
+Microcontroller

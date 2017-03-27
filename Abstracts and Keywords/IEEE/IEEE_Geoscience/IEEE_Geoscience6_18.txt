@@ -1,0 +1,7 @@
+Is the dramatic increase in Internet use associated with a commensurate rise in democracy? Few previous studies have drawn on multiple perception-based measures of governance to assess the Internets effects on the process of democratization. This paper uses perception-based time series data on Â¿Voice &amp; Accountability,Â¿ Â¿Political Stability,Â¿ and Â¿Rule of LawÂ¿ to provide insights into democratic tendency. The results of regression analysis suggest that the level of Â¿Voice &amp; AccountabilityÂ¿ in a country increases with Internet use, while the level of Â¿Political StabilityÂ¿ decreases with increasing Internet use. Additionally, Internet use was found to increase significantly for countries with increasing levels of Â¿Voice &amp; AccountabilityÂ¿ In contrast, Â¿Rule of LawÂ¿ was not significantly affected by a countrys level of Internet use. Increasing cell phone use did not seem to affect either Â¿Voice &amp; AccountabilityÂ¿, Â¿Political StabilityÂ¿ or Â¿Rule of Law.Â¿ In turn, cell phone use was not affected by any of these three measures of democratic tendency. When limiting our analysis to autocratic regimes, we noted a significant negative effect of Internet and cell phone use on Â¿Political StabilityÂ¿ and found that the Â¿Rule of LawÂ¿ and Â¿Political StabilityÂ¿ metrics drove ICT adoption.
+
+ICT
+cell phone
+democracy
+fixed effects model
+internet

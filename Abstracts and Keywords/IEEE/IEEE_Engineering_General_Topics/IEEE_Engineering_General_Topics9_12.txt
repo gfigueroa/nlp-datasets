@@ -1,0 +1,6 @@
+In this paper, a modification of the standard learning algorithm Q-learning is presented: Object Q-learning (OQ-learning). An autonomous agent should be able to decide its own goals and behaviours in order to fulfil these goals. When the agent has no previous knowledge, it must learn what to do in every state (policy of behaviour). If the agent uses Q-learning, this implies that it learns the utility value Q of each action-state pair. Typically, an autonomous agent living in a complex environment has to interact with different objects present in that world. In this case, the number of states of the agent in relation to those objects may increase as the number of objects increases, making the learning process difficult to deal with. The proposed modification appears as a solution in order to cope with this problem. The experimental results prove the usefulness of the OQ-learning in this situation, in comparison with the standard Q-learning algorithm.
+
+Q-Learning
+autonomous agents
+decision making
+objects

@@ -1,0 +1,8 @@
+Porous silicon showing a twolayer structure is studied by stepwise peeling the surface layer to clarify the nonuniformity in photoluminescence (PL) emission as a function of depth. The upper layer is amorphous and luminesces at higher energy and efficiency. The deeper the depth or the lower the excitation energy Eex, the lower the PL peak Ep; but, at a low Eex, Ep is not sensitive to the depth. Both intrinsic PL emission and the variation of penetration depth with Eex contribute to the linear dependence of Ep on Eex, which is in contrast to the cases of aSi:H and siloxene exhibiting thermalization gaps. The total PL excitation spectrum, the integrated PL intensities versus Eex, saturates rather than exhibiting a peak. Its leading edge profile is similar to that for the absorption spectrum, unchanged by the depth, and described by an Urbach tail with energy of 0.26 eV, which is 45 times larger than that of aSi:H. The results can be understood based on silicon clusters embedded in amorphous silicon incorporating oxygen and/or hydrogen.
+
+POROUS MATERIALS
+SILICON
+PHOTOLUMINESCENCE
+PENETRATION DEPTH
+SATURATION
+SOLID CLUSTERS

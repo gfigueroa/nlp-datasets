@@ -1,0 +1,7 @@
+Pump-probe shadowgraphic imaging of single pulse femtosecond laser ablation was performed to investigate the dynamics of material removal during femtosecond laser machining of the intermetallic superalloy CMSX-4. Time-resolved shadowgraphic images were collected, which showed the presence of an expanding shock wave in the air in front of the target, following the onset of laser ablation. The dimensions of the shock wave were measured as a function of time (010.3ns), following the onset of ablation. The energy release associated with the observed shock wave and the pressure at the shock wave front versus time as a function of incident laser fluence (1.2762.8J/cm2) were inferred from the shock dynamics. The measured shock wave dynamics and inferred shock energy release are discussed in light of the evolving ablation morphology and ablated crater depth as a function of incident laser fluence.
+
+laser ablation
+laser beam machining
+nickel alloys
+shock waves
+superalloys

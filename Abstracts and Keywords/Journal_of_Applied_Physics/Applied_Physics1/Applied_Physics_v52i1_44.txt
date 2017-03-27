@@ -1,0 +1,18 @@
+The dark conductivity and photoconductivity have been measured for a series of hydrogenated amorphous Si1xGex alloy films prepared by cathodic sputtering. The primary aim of the work has been to explore to what extent the addition of Ge in aSi:H could change the gap state distribution, the recombination process, and the lifetime for photogenerated carriers. Whereas the composition dependence of the mobility gap is expected to be linear, we show evidence for the existence of a critical concentration of Ge xc, between 0.25 and 0.30 above which the electronic properties of the films change profoundly. At xc the photoconductivity decreases significantly and there occurs a transition from monomolecular to bimolecular recombination. Experimental data also suggest that above xc the range of tail states below Ec is gradually broadened with increasing the Ge amount. Films with xc are found to be highly photosensitive. In this group of samples, slight phosphorus doping leads to considerable increase in photoconductivity by more than one order of magnitude.
+
+PHOTOCONDUCTIVITY
+SEMICONDUCTOR MATERIALS
+SILICON ALLOYS
+GERMANIUM ALLOYS
+AMORPHOUS STATE
+HYDROGENATION
+ELECTRIC CONDUCTIVITY
+DATA
+FILMS
+CATHODE SPUTTERING
+ENERGY GAP
+RECOMBINATION
+LIFETIME
+CHARGE CARRIERS
+MOBILITY
+QUANTITY RATIO

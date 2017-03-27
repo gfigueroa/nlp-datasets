@@ -1,0 +1,12 @@
+Fictive temperature (Tf) and fluorine (F)-doping concentration dependences of self-trapped holes (STHs) in silica glasses created by UV irradiation at low temperatures have been studied by the electron-paramagnetic-resonance method. It was found that the yield of STH decreases with decreasing Tf and increasing F-doping concentration. In combination with infrared spectra measurements, the correlation among Tf, F-doping concentration, SiO bond length, and SiOSi bond angle was elucidated. We conclude that the change in both Tf and F doping can modify the network of SiO2 glass, leading to the suppression of the formation of STHs.
+
+fluorine
+silicon compounds
+glass
+doping profiles
+hole traps
+ultraviolet radiation effects
+paramagnetic resonance
+infrared spectra
+bond angles
+bond lengths

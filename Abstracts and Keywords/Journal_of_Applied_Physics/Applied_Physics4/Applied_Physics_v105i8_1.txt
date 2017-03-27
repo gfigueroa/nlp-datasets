@@ -1,0 +1,16 @@
+The thermal evolution of the microstructure created by irradiation of a GaN single crystal with 2 MeV Au2+ ions at 150 K is characterized following annealing at 973 K using transmission electron microscopy. In the as-irradiated sample characterized at 300 K, Ga nanocrystals with the diamond structure, which is an unstable configuration for Ga, are directly observed together with nitrogen bubbles in the irradiation-induced amorphous layer. A simple model is proposed to explain Ga nanocrystal formation. Upon thermal annealing, the thickness of the amorphous layer decreases by < 13.1% and nanobeam electron diffraction analysis indicates no evidence for residual Ga nanocrystals, but instead reveals a mixture of hexagonal and cubic GaN phases in the annealed sample. Nitrogen molecules, captured in the as-irradiated bubbles, appear to disassociate and react with Ga nanocrystals during the thermal annealing to form crystalline GaN. In addition, electron energy loss spectroscopy measurements reveal an volume change of 18.9% for the as-irradiated amorphous layer relative to the virgin single crystal GaN. This relative swelling of the damaged layer reduces to 7.7% after thermal annealing. Partial recrystallization and structural relaxation of the GaN amorphous state are believed responsible for the volume change.
+
+amorphous semiconductors
+annealing
+crystal microstructure
+electron diffraction
+electron energy loss spectra
+gallium compounds
+III-V semiconductors
+ion beam effects
+nanofabrication
+nanostructured materials
+recrystallisation
+semiconductor thin films
+transmission electron microscopy
+wide band gap semiconductors

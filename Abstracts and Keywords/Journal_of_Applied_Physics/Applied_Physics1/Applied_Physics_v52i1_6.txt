@@ -1,0 +1,14 @@
+The characteristics of the magnetic waves guided by a planar film of ferrimagnet in free space are investigated by the rayoptical techniques for the case of the magnetization direction lying in a plane normal to the surfaces of the film and containing the propagation direction. The dispersion relation is deduced using the zigzagging wavenormal directions within the film and analyzed to obtain the main features of the guided magnetic waves. The time delay produced when the wave packet of a magnetic wave is totally reflected at an interface between a ferrimagnetic medium and free space is included and a rayoptical description of the group delay of the guided magnetic wave is developed. The group delay is caused partly in the bulk of the ferrimagnet and partly at the surfaces of the film, and the relative importance of these two contributions are examined. The important features of the direct and the reflected rays within the film are brought out. The optimum directions of magnetization for the devices based on the forward and the backward guided magnetic waves are obtained.
+
+THIN FILMS
+OPTICAL PROPERTIES
+WAVEGUIDES
+MATHEMATICAL MODELS
+FERRIMAGNETIC MATERIALS
+MAGNETIZATION
+WAVE PROPAGATION
+DISPERSION RELATIONS
+THEORETICAL DATA
+REFLECTION
+INTERFACES
+OPTIMIZATION

@@ -1,0 +1,7 @@
+This paper analyzes a rarely addressed issue: the long time lag between scientific advances and the commercialization of them. Using the history of computers, it shows that the long time lag between advances in science (in the form of the concepts and architectures) and the implementation of them in the form of technological discontinuities was primarily due to inadequate components.
+
+advances in science
+components
+computers
+systems
+technological discontinuities

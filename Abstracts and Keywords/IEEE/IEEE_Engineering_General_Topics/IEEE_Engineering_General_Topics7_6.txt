@@ -1,0 +1,14 @@
+Wide Area Measurements using Phasor Measurement Units have become an important component of modern power system monitoring. Several applications of this technology have been reported in the literature. What is lacking at this time is an assessment of communication requirements of those applications. This paper summarizes the various applications of Wide Area Measurements that have been proposed, and then examines the communication needs of each application. These needs are categorized as data volume, tolerable end-to-end delays for successful implementation of these applications, and some consideration of communication architecture appropriate for these applications.
+
+Channel Capacity
+Communications
+Latency
+PMU
+Phasor Measurements
+Power System Control
+Power System Monitoring
+Power System Protection
+Synchronization
+WAMS
+WAMS Architecture
+Wide Area Measurements

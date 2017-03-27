@@ -1,0 +1,12 @@
+Magnetoresistance and magnetic hysteresis loop measurements have been used to investigate the strong interfacial coupling in cobalt oxide/ferromagnet bilayers at low temperatures. For the biased state, an asymmetry in the magnetization reversal processes has been found. It is characterized by domain wall motion as the dominant mechanism for the decreasing field branch and an appreciable amount of magnetization rotation for the increasing field branch. The observed behavior is different from other exchange bias systems. © 2004 American Institute of Physics. 
+
+cobalt compounds
+cobalt
+iron
+magnetic multilayers
+ferromagnetic materials
+magnetisation reversal
+magnetic domain walls
+magnetic hysteresis
+magnetoresistance
+magnetic anisotropy

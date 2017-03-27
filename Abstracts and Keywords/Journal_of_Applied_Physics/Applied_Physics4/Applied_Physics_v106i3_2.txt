@@ -1,0 +1,10 @@
+The magnetic coupling at the interface of Co and Cr has been investigated using ultrathin Co film on Cr2O3(0001) film, which is expected to be a promising system to show the magnetoelectronic effect. We mainly examined the temperature dependence of magnetization, the exchange bias at different field directions relative to the Cr spin direction, and the temperature dependence of exchange bias. The temperature dependence of magnetization under 50 Oe indicates the collinear coupling of Co spin and Cr spin at the interface. Furthermore, the exchange bias effect is observed in the coupled direction of Co and Cr, namely, parallel to the Cr spin direction. However, the changes in the magnetic behavior with changing field directions and Co thicknesses imply the existence of biquadratic coupling of Co spin and Cr spin, as well. In agreement with the numerical calculation under the coexistence of collinear and biquadratic couplings, the exchange bias field decreases nonmonotonically with increasing temperature.
+
+antiferromagnetic materials
+chromium compounds
+cobalt
+exchange interactions (electron)
+interface magnetism
+magnetic thin films
+magnetisation
+magnetoelectronics

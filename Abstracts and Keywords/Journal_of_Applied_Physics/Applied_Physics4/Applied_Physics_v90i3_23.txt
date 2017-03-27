@@ -1,0 +1,12 @@
+Using a metal vapor vacuum arc ion source with high current, a study has been made of the modification of copper thin films by implantation. It was found that a shallow implantation of Cr, Al, and Mg could effectively enhance the oxidation resistance of copper films, but not have significant influence on their conductivity since the implanted species just concentrate on the surfacial layer of the films. By x-ray diffraction, Rutherford back-scattering, and scanning electron microscopy, the effects of Cr ion implantation on the evolution of structures and morphologies of copper oxides on the copper films were presented. © 2001 American Institute of Physics.
+
+copper
+chromium
+aluminium
+magnesium
+metallic thin films
+oxidation
+scanning electron microscopy
+ion implantation
+X-ray diffraction
+Rutherford backscattering

@@ -1,0 +1,4 @@
+Si nanowhiskers (NW) morphology was studied by Monte Carlo simulation. It was found out that different substrate-seed wetting conditions can lead to growth of straight, curved or tube-like NWs. Initial substrate-seed interface orientation and orientation of growing NW sidewall facets determine growth directions of model NWs.
+
+Monte Carlo
+nanowhisker

@@ -1,0 +1,11 @@
+Bulk donoracceptor heterojunctions between conjugated polymers and fullerene derivatives have been utilized successfully for photovoltaic devices showing monochromatic energy conversion efficiencies above 1%. The photovoltaic response of these devices is based on the ultrafast, photoinduced electron transfer from the conjugated polymer to the fullerene [N. S. Sariciftci and A. J. Heeger, Handbook of Organic Conductive Molecules and Polymers, (Wiley, New York, 1997), pp. 413455]. In this work we present efficiency data of solar cells based on a soluble derivative of p-phenylene vinylene (PPV), poly [2-methoxy,
+5-(32,72-dimethyl-octyloxy)]-p-phenylene vinylene (MDMO-PPV), and a highly soluble methanofullerene, [6,6]-phenyl C61-butyric acid methyl ester (PCBM), embedded into a conventional polymer, polystyrene (PS). By the blending of the optimized donoracceptor components into the conventional polymer matrix, the percolation threshold for photovoltaic response of the three component systems is found to be determined by percolation of the methanofullerene in the polymer matrix. We present current/voltage data of PSMDMO-PPVPCBM devices with various PS concentrations as well as photoinduced absorption studies in the infrared [(PIA) Fourier transform infrared] and light induced electron spin resonance studies on the electron transfer in these composites. At low light intensities, the monochromatic power conversion efficiency ·e and the photon carrier collection efficiency ·c of the PS free device are calculated with 1.5% and 18%, respectively. © 1999 American Institute of Physics. 
+
+conducting polymers
+fullerene compounds
+solar cells
+photovoltaic effects
+percolation
+infrared spectra
+Fourier transform spectra
+paramagnetic resonance

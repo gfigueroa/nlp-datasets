@@ -1,0 +1,10 @@
+We present full ab initio calculations of giant magnetoresistance (GMR) in Co/Cu (001) multilayers including self-consistent impurity scattering potentials. Starting from density functional theory the electronic structure of the multilayer and the scattering at impurities are described by means of a new Green function method. It will be demonstrated that impurity scattering in magnetic multilayers is strongly anisotropic in comparison to impurity scattering in bulk systems. Concerning transport the anisotropy of scattering leads to a formation of highly conducting channels which give rise to short circuits and cause strong variation of GMR as a function of the impurity position in the multilayer. © 2001 American Institute of Physics. 
+
+cobalt
+copper
+magnetic multilayers
+impurity scattering
+giant magnetoresistance
+ab initio calculations
+density functional theory
+Green's function methods

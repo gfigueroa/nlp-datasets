@@ -1,0 +1,9 @@
+We have measured the epitaxial growth rate of Si in the disilane/hydrogen system for different experimental conditions in a rapid thermal processinglowpressure chemical vapor deposition reactor. The measured activation energy is about 43 kcal/mol for temperatures below 700	°C. The growth rate dependence on disilane or hydrogen partial pressures is measured in order to verify the reliability of a proposed model for the decomposition of the disilane molecule in the torr pressure regime. The obtained crystal quality is comparable to that obtained with silane gas except for higher growth rate in the disilane system.
+
+SILICON
+CHEMICAL VAPOR DEPOSITION
+VAPOR PHASE EPITAXY
+CHEMICAL REACTION KINETICS
+ACTIVATION ENERGY
+DECOMPOSITION
+SILANES

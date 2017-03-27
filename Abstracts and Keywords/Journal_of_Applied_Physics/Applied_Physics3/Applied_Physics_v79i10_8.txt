@@ -1,0 +1,10 @@
+The WannierStark localization of miniband states has been investigated in an asymmetric doublewell superlattice. The period consists of 3.4 and 2.0 nm GaAs quantum wells separated by 1.4 nm Al0.15Ga0.85As barriers. Photocurrent spectra at 6 K reveal that the lowest excitonic peak near flat band splits up into eight peaks at moderate electric fields. At very high fields only one peak remains. The observed transitions are attributed to the Stark ladder splitting of the widewell miniband only. This type of superlattice introduces a new degree of freedom for the tailoring of electrooptic devices. © 1996 American Institute of Physics. 
+
+SUPERLATTICES
+EXCITONS
+PHOTOCONDUCTIVITY
+LOCALIZED STATES
+STARK EFFECT
+ENERGYLEVEL SPLITTING
+GALLIUM ARSENIDES
+QUANTUM WELLS

@@ -1,0 +1,11 @@
+Ion irradiation induced grain growth in Pd polycrystalline thin films was studied by transmission electron microscopy for 100keV Ne+, 185keV Ar+, and 560keV Xe++ irradiations over a wide range of doses. Grain growth from 9 to 60 nm was observed after ion irradiations. Initially, the amount of growth is approximately linear with the irradiation dose; the growth saturates in the high dose region. The saturated grain size scales with the dimension of the individual collision cascade and increases with the mass of the irradiating ion. In the proposed physical picture of ion irradiation induced grain growth, a heavily damaged region created by an individual collision cascade is surrounded by relatively undamaged grains. The growth of those surrounding grains into the heavily damaged region leads to the grain growth in the irradiated Pd film.
+
+PALLADIUM
+GRAIN GROWTH
+PHYSICAL RADIATION EFFECTS
+COLLISIONS
+ION COLLISIONS
+ARGON IONS
+DAMAGE
+KEV RANGE 1001000
+NEON IONS

@@ -1,0 +1,10 @@
+Gassource molecularbeam epitaxy (MBE) has been used to grow SiGe alloys with Si2H6 and GeH4 as sources on (100) Si substrates. Singlecrystalline epilayers with Ge composition as high as 33% have been produced at 610	°C, the lowest temperature hitherto used for gassource SiGe MBE. Growth parameters, growth modes, and the structural characteristics have been studied by a variety of in situ and ex situ techniques. Doublecrystal xray diffraction data for the alloys have been obtained for the first time in thin mismatched layers.
+
+GERMANIUM SILICIDES
+MOLECULAR BEAM EPITAXY
+SILANES
+XRAY DIFFRACTION ANALYSIS
+FILM GROWTH
+CRYSTAL STRUCTURE
+GROWTH RATE
+CHEMICAL COMPOSITION

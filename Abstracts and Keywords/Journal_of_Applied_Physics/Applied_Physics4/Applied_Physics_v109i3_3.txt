@@ -1,0 +1,9 @@
+Recent years, there has been an increased interest in the conception of micro/nanostructures with unusual radiative properties, far away from those of blackbody, especially thermal sources with temporal and/or spatial coherent emission. Such structures are indeed extremely interesting for energy conversion systems, radiative cooling devices, etc. The present study numerically investigates temporal coherent emission from a very simple structure composed of one layer of germanium and one of silicon carbide. Our investigation shows that, for well-defined thicknesses, this two-layer structure is able to emit in narrow spectral peak.
+
+elemental semiconductors
+emissivity
+field emission
+germanium
+reflectivity
+silicon compounds
+wide band gap semiconductors

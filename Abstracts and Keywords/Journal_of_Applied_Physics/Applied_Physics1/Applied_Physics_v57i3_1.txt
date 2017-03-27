@@ -1,0 +1,13 @@
+In this paper we investigate the dependence of the mode suppression in coupledcavity semiconductor lasers on coupling junction parameters and cavity lengths. An effective mirror formalism is developed and combined with exact numerical analysis to explore the mode behavior across the entire relative cavity gain operating range of coupledcavity resonators. A gap coupling model is also presented which permits one to deduce the optimum gap spacing for best mode suppression, as well as the dependence of this optimum gap spacing on relative cavity lengths. Finally, the exact numerical analysis is combined with spectral gain rolloff to explore the mode suppression of all modes of the system versus cavity lengths. Longlong and longshort geometries are shown to be desirable as well as some interesting new intermediate cavity length ratios. Calculations indicate that coupledcavity 1.55¼m lasers with mode suppression in excess of 10 cm1 to both near in and repeat modes are realizable.
+
+INTEGRATED OPTICS
+OPTICAL COUPLERS
+OPTICAL COMMUNICATION SYSTEMS
+COUPLING
+OPTIMIZATION
+OSCILLATION MODES
+GAIN
+SEMICONDUCTOR LASERS
+LASER CAVITIES
+INFRARED RADIATION
+ONEDIMENSIONAL CALCULATIONS

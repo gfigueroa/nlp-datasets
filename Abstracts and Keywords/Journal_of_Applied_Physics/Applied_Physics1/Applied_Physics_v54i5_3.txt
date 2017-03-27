@@ -1,0 +1,10 @@
+In some photoacoustic experiments, thermoelastic bendings of solid samples produce strong signals which cannot be analyzed by usual photoacoustic calculations. We propose a model that, using the thermoelastic equations, analytically explains the effect of this bending. It is found that the model agrees well with data obtained from an experiment sensitive to thermoelastic deformations only. Furthermore, the model is also consistent with previous piezoelectricphotoacoustic calculations. This experiment also leads to measurements of thermal diffusivities.
+
+metals
+thermal diffusivity
+thermoelasticity
+bending
+photoacoustic effect
+solids
+mathematical models
+equations

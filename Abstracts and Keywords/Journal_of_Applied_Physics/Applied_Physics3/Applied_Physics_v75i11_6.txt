@@ -1,0 +1,10 @@
+The generation and relaxation of stress in polycrystalline silicon (polySi) by oxidation were studied based on laser Raman spectra. The rapid generation of compressive stress and saturation of its value with oxidation period were observed at temperatures between 650 and 850	°C. The saturated value of the stress was independent of the oxidation temperature. The generation and saturation of stress during oxidation at 850	°C can be explained by taking into account preferential oxidation at the grain boundary, expansion of volume at grain boundaries, and retardation of oxidation rate due to stress. The relaxation of compressive stress during oxidation at 900	°C was also found. The relaxation can be explained by taking into account the viscous flow of silicon oxide at grain boundaries.
+
+SILICON
+OXIDATION
+RAMAN SPECTRA
+STRESS RELAXATION
+HEAT TREATMENTS
+POLYCRYSTALS
+TEMPERATURE RANGE 04001000 K
+GRAIN BOUNDARIES

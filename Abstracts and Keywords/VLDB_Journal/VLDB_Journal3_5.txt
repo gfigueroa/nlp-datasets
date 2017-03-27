@@ -1,0 +1,5 @@
+In relational databases, an attribute of a relation can have only a single primitive value, making it cumbersome to model complex objects. The object-oriented paradigm removes this difficulty by introducing the notion of nested objects, which allows the value of an object attribute to be another object or a set of other objects. This means that a class consists of a set of attributes, and the values of the attributes are objects that belong to other classes; that is, the definition of a class forms a hierarchy of classes. All attributes of the nested classes are nested attributes of the root of the hierarchy. A branch of such hierarchy is called a path. In this article, we address the problem of index configuration for a given path. We first summarize some basic concepts, and introduce the concept of index configuration for a path. Then we present cost formulas to evaluate the costs of the various configurations. Finally, we present the algorithm that determines the optimal configuration, and show its correctness.
+
+index selection
+physical database design
+query optimization

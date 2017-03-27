@@ -1,0 +1,17 @@
+We have measured electrical resistance R(T), magnetization M(T), and for the first time impedance spectroscopy Z(T,É) of polycrystalline samples of La0.3Pr0.4Ca0.3MnO3 compounds. The combined results suggest the coexistence of two metallic ferromagnetic phases below the Curie temperature of the system. The R(T) data exhibit two important features: the occurrence of a metalinsulator (MI) transition at temperatures close to TMIH170
+K and a large thermal hysteresis below TMI. The first feature was found to be associated with the development of ferromagnetism and takes place when the magnetization of the samples becomes about 15% of its saturated value at low temperatures. The second feature suggests two contributions to R(T) below the Curie temperature TC. The Z(T,É) data taken from 77 to 300 K and frequency varying from 5 to 107
+Hz are much more valuable. These results reveal two well defined bulk contributions to the transport properties of these manganites below <170 K: one occurring at high frequencies <4×106
+Hz and a second one at low frequencies, typically on the order of 1.5×105
+Hz. An analysis of the Z(T,É) data suggests that these contributions are related to the spin lattice relaxation rate of the two distinct phases. Such a result suggests a phase separation below TC in the compound in complete agreement with recent muon spin relaxation and neutron spin echo measurements performed on manganites. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+praseodymium compounds
+calcium compounds
+phase separation
+magnetisation
+Curie temperature
+electron spin-lattice relaxation
+electric impedance
+electrical resistivity
+ferromagnetic materials
+metal-insulator transition

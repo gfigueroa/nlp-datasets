@@ -1,0 +1,5 @@
+A scheme for integration of stand-alone INS and GPS sensors is presented, with data interchange over an external bus. This ensures modularity and sensor interchangeability. Use of a medium-coupled scheme reduces data flow and computation, facilitating use in surface vehicles. Results show that the hybrid navigation system is capable of delivering high positioning accuracy.
+
+Hybrid navigation
+INS-GPS integration
+sensor fusion

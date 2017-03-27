@@ -1,0 +1,9 @@
+No standard side-effect measure currently available can be easily used in clinical practice for patients receiving treatment for depression. The Frequency, Intensity, and Burden of Side Effects Rating (FIBSER) Scale was developed to document these three domains of side effects in patients treated in the Sequenced Treatment Alternatives to Relieve Depression (STAR*D) project. This article presents data on the reliability and validity of the FIBSER. The STAR*D prospectively enrolled 4,041 outpatients with nonpsychotic major depressive disorder (MDD) who were seeking medical care (as opposed to symptomatic volunteers recruited via advertisements). The patients were treated with citalopram. Clinical assessments, including the FIBSER, were completed at 2, 4, 6, 9, 12, and, if necessary, 14 weeks after enrollment. The FIBSER was shown to be reliable, with high correlations between observations taken a short time apart, and correlations decreasing as time between observations increased. There were also consistent relationships between items over time. The FIBSER has both face and construct validity. Thus, the FIBSER is a reliable and valid self-report measure of side effects in a population receiving treatment for depression. Although it does not measure the impact of specific side effects, it does measure three domains of impact: frequency, intensity, and burden of the side effects. Its brevity makes it a useful tool for routine clinical practice. These advantages are not available in other side-effect measures. 
+
+side effects
+frequency
+intensity
+burden
+measurement tools
+rating scales
+Sequenced Treatment Alternatives to Relieve Depression (STAR*D)

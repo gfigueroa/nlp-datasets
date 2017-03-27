@@ -1,0 +1,12 @@
+The structure, magnetization, and electrical transport of perovskite cobaltites La0.7Sr0.3Co1yNiyO3 have been studied. It is found that the substitution of Ni for Co induces no apparent changes in bond length and angle in the Co(Ni)O network, and only moderately suppresses the ferromagnetism. Moreover, a retention of the metallic conduction has been observed from y=0 to 0.2, which is in strong contrast to the reported insulating state of the other Co site doped La0.7Sr0.3CoO3. A double-exchange-like interaction between Ni ion and its neighboring Co ion is suggested to explain the experimental results. © 2002 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+ferromagnetic materials
+crystal structure
+magnetisation
+electrical resistivity
+bond lengths
+bond angles
+exchange interactions (electron)
+synthetic metals

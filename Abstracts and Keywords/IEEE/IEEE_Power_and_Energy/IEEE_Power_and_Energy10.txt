@@ -1,0 +1,7 @@
+In present practice, the most effective way to solve the large electromagnetic (EM) boundary value problems typical in electromechanical device analysis has been with the finite element method (FEM). The sparse, symmetric, and banded structure of FEM system matrices reduces the memory requirements and facilitates several fast and efficient solution algorithms. An alternative, boundary element methods (BEM), is more computationally intensive. Recently, however, fast and efficient solver codes have been developed for BEM solutions of EM scattering problems. These, if effectively implemented in electromechanical device models, can make BEM a more feasible alternative for this purpose than previously. To generate a deeper understanding of this alternative formulation in the context of electromechanics problems, a time-harmonic 3-D vector BEM model for electromechanical devices is presented that is formulated in terms of the field variables and is capable of modeling multiple separated homogeneous regions with or without eddy currents. Extensions to electric machine modeling are given, and the model is assessed using experimental data.
+
+Boundary element method (BEM)
+Rao&#x2013;Wilton&#x2013;Glisson (RWG)
+electric machines
+electromechanical devices
+vector elements

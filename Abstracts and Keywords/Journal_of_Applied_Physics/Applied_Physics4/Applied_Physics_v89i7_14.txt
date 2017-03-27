@@ -1,0 +1,8 @@
+We calculate the dependence of the electron temperature T and the drift velocity vd on the applied electric field E for a two-dimensional electron gas in elementary semiconductors. We consider the case of high electron concentrations when the energy dependence of the electron distribution function is governed by electronelectron collisions. We show that, in the one-valley approximation, T should tend to infinity at a certain value of the electric field E=Ec. This result is linked to the runaway effect, which takes place in the two-dimensional case, even for the deformational phonon scattering. Transitions of hot electrons into the upper valleys with larger densities of states limit the growth of T. As a result, a two-dimensional electron gas should exhibit a negative differential mobility, just as in the previously discussed case of noninteracting electrons. © 2001 American Institute of Physics. 
+
+two-dimensional electron gas
+high field effects
+elemental semiconductors
+hot carriers
+carrier mobility
+electron-phonon interactions

@@ -1,0 +1,14 @@
+Fourfold anisotropy was observed in NiFe films deposited on epitaxial antiferromagnet ±-Fe2O3. The anisotropy was preserved despite off-axis magnetic field annealing (MFA) below the Néel temperature (TN). The cumulative effect of this fourfold anisotropy and exchange coupling due to MFA determined the exchange bias (Hex) distribution. Physically, this indicated the existence of two types of antiferromagnet domainsthose that were frozen in below TN and contributed to the fourfold anisotropy and those that coupled with the annealing magnetic field and contributed to the conventional Hex distribution.
+
+antiferromagnetic materials
+exchange interactions (electron)
+ferromagnetic materials
+iron compounds
+magnetic anisotropy
+magnetic annealing
+magnetic domains
+magnetic epitaxial layers
+magnetic multilayers
+metallic thin films
+Neel temperature
+Permalloy

@@ -1,0 +1,10 @@
+Materials currently used for detection in the infrared spectral region have notoriously poor structural properties. In search of a better narrowgap material, we have addressed the structural properties of bismuthbearing IIIV semiconductor alloys theoretically. Because the Bi compounds are not known to form zincblende structures, only the anionsubstituted alloys InPBi, InAsBi, and InSbBi are considered candidates as narrowgap semiconductors. We calculate the bond energies and lengths for the zincblende Bi compounds and their diluted and concentrated alloys. Strain coefficients for the compounds are calculated, and predictions for the mixing enthalpies, miscibility gaps, and critical temperatures are made. Miscibility calculations indicate that InSbBi will be the most miscible, and because of the large lattice mismatch of the constituents, InPBi will be the most difficult to mix. Tendencies toward cluster formation and deviations from randomness in the alloys are considered. Calculations of the hardness of the Bi compounds indicate that, once formed, the InPBi alloy will be harder than the other Bi alloys and substantially harder than the currently favored narrowgap semiconductor HgCdTe. Thus, although InSbBi may be an easier material to prepare, InPBi promises to be a harder material. Vacancy formation energies are calculated and compared with those of the constituent compounds of narrowgap IIVI alloys.
+
+CRYSTAL STRUCTURE
+SEMICONDUCTOR ALLOYS
+IIIV SEMICONDUCTORS
+BISMUTH COMPOUNDS
+BOND LENGTHS
+STRAINS
+MIXING
+ELECTRONIC STRUCTURE

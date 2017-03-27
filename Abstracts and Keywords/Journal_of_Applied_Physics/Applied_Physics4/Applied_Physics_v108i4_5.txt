@@ -1,0 +1,13 @@
+We demonstrate white light luminescence from ZnO-organic hybrid light emitting diodes grown at 90	°C on flexible plastic substrate by aqueous chemical growth. The configuration used for the ZnO-organic hybrid white light emitting diodes (WLEDs) consists of a layer of poly (9, 9-dioctylfluorene) (PFO) on poly (3, 4-ethylenedioxythiophene) poly (styrenesulfonate) coated plastic with top ZnO nanorods. Structural, electrical, and optical properties of these WLEDs were measured and analyzed. Room temperature electroluminescence spectrum reveals a broad emission band covering the range from 420 to 750 nm. In order to distinguish the white light components and contribution of the PFO layer we used a Gaussian function to simulate the experimental data. Color coordinates measurement of the WLED reveals that the emitted light has a white impression. The color rendering index and correlated color temperature of the WLED were calculated to be 68 and 5800 K, respectively.
+
+electroluminescence
+Gaussian processes
+II-VI semiconductors
+infrared spectra
+nanorods
+organic light emitting diodes
+polymers
+semiconductor growth
+semiconductor thin films
+visible spectra
+zinc compounds

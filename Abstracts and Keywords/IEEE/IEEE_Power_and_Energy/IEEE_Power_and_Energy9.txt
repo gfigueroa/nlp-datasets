@@ -1,0 +1,6 @@
+In this paper, a new switched reluctance machine with a double-stator configuration (DSSRM) is introduced. The proposed design is based on optimization of the motional forces, which leads to a high-grade electromechanical energy conversion process. A local examination of the force densities within and throughout a conventional switched reluctance machine (SRM) shows that the majority of the force produced is in the radial direction and does not contribute to motion. If the normal forces happen to be in the direction of motion, a larger motional force profile for SRM is yield. Based on these guidelines, a new SRM (DSSRM) is proposed. To compare energy conversion efficiency of DSSRM with that of the conventional SRM, a finite element model is constructed. An experimental prototype of the proposed machine is developed, and the phase inductance is measured. The results of our investigations indicate that the proposed geometry offers superior performance in terms of higher power density and higher percentage of the motional forces.
+
+Electromagnetic field analysis
+energy conversion
+finite element methods
+reluctance machines

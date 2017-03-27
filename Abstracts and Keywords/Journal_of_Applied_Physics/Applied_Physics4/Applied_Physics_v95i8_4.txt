@@ -1,0 +1,10 @@
+C60 crystals containing C70 at various dopant levels from 0% to 10% have been grown via a method of solvent dilution. Their crystallographic structures as revealed by x-ray diffraction exhibit an extra hcp lattice, and this stacking fault character increases with C70 concentration. The same trend applies to the shift of transition temperature in dielectric spectra, and in 13C nuclear magnetic resonance spectra, an additional resonance appeared besides the primary resonance in doped samples. We explain such phenomena as follows. The additional resonance arises from a diamagnetic ring-current effect in C70. C60 and C70 molecules in an hcp phase undergo a cylindrical motion around their threefold axis, which is parallel to the crystallographic sixfold axis, instead of spherical motion in fcc C60 crystal. The lower molecular rotations correspond to lower free energy of the high-temperature phase. The free energy barrier between the high- and the low-temperature phases thus decreases, accounting for the suppression of orientational orderdisorder transition temperature. © 2004 American Institute of Physics.
+
+fullerenes
+order-disorder transformations
+nuclear magnetic resonance
+crystal structure
+lattice constants
+stacking faults
+free energy
+X-ray diffraction

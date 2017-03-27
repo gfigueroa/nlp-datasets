@@ -1,0 +1,12 @@
+Minor addition of Cu to Nd4.5Fe77B18.5 melt-spun alloy is effective on reducing the grain size of the Fe3B/Nd2Fe14B nanocomposite permanent magnet produced via the crystallization route from the amorphous phase, thereby improving hard magnetic properties. Three-dimensional atom probe and transmission electron microscopy observations have shown that Cu clusters with a number density of < 1024m3 is formed prior to the nucleation event of the Fe3B primary crystal. In the nucleation and growth stage of the Fe3B primary crystals, Cu clusters are in direct contact with the primary particles, suggesting that Cu clusters serve as heterogeneous nucleation sites for the Fe3B primary particles, thereby increasing the number density of the particles.© 1999 American Institute of Physics. 
+
+iron alloys
+boron alloys
+neodymium alloys
+copper alloys
+permanent magnets
+composite materials
+nanostructured materials
+grain size
+transmission electron microscopy
+atom probe field ion microscopy

@@ -1,0 +1,10 @@
+We report on the lattice location of Pr in thin film, single-crystalline hexagonal GaN using the emission channeling technique. The angular distribution of ² particles emitted by the radioactive isotope 143Pr was monitored by a position-sensitive electron detector following 60 keV room temperature implantation of the precursor isotope 143Cs at a dose of 1×1013 cm2 and annealing up to 900
+°C. Our experiments provide direct evidence that Pr is thermally stable at substitutional Ga sites. © 2000 American Institute of Physics. 
+
+channelling
+wide band gap semiconductors
+III-V semiconductors
+gallium compounds
+praseodymium
+doping profiles
+annealing

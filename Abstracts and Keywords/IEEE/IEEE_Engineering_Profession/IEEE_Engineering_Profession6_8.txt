@@ -1,0 +1,7 @@
+To achieve the success and growth in today's competitive marketplace, companies must continuously develop and market new products. Planning and design (P&amp;D) phase in an enterprise is critical to project success in the front-end process of new product development (NPD). In real world, when selecting an appropriate P&amp;D alternative which involves a variety of different considerations such as corporate strategy, finance, marketing, technology, production, customer needs, product aesthetics, and so forth. If company's upper-level management lacks the ability to effectively evaluate the candidates which are proposed by the product design team, substandard NPD projects caused by inadequate decision-maker selection are often happened. In this paper, we suggest an improved product design selection methodology which reflects interdependencies among evaluation criteria and candidate alternatives using the novel concurrent SMART (planning) times SMART (design) (SMART<sup>2</sup>) evaluation model by means of the bi-directional analytic network process (ANP) approach. Subsequently, a zero-one goal programming (ZOGP) model is formulated to consider the limited resources and some inevitable constraints for reaching an optimal solution. An empirical NPD design case was presented to illustrate the overall decision procedure and to examine the effectiveness of our proposed methodology
+
+New product development
+SMART2 evaluation model
+analytic network process
+planning and design
+zero-one goal programming

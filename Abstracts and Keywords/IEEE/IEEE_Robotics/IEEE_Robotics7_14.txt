@@ -1,0 +1,7 @@
+X-by-Wire systems are expected to enhance vehicle driving performance and safety. Regarding the dependable and cost-effective electronic platform for X-by-Wire systems, the network centric architecture is proposed based on a concept of autonomous decentralized systems. This architecture enables that, if one node fails, the remaining normal nodes autonomously execute a backup control to maintain the system function. This mechanism is served by a membership functionality implemented in a middleware that is independent from applications so that this mechanism can be applied to any applications. Following the concept proposal, the node status monitoring algorithm is designed because it is essential to identify the failed node accurately to execute the autonomous backup control. In this paper, to obtain a stability of a system throughout a driving, a sequence for autonomous start up and stop of the system is newly designed applying the node status monitoring function.
+
+FlexRay
+X-by-Wire
+dependable
+membership
+middleware

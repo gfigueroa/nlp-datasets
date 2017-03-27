@@ -1,0 +1,19 @@
+We show that strained type II superlattices made of InAsGa1xInxSb x<0.4 have favorable optical properties for infrared detection. By adjusting the layer thicknesses and the alloy composition, a wide range of wavelengths can be reached. Optical absorption calculations for a case where »c<10 ¼m show that near threshold the absorption is as good as for the HgCdTe alloy with the same band gap. The electron effective mass is nearly isotropic and equal to 0.04 m. This effective mass should give favorable electrical properties, such as small diode tunneling currents and good mobilities and diffusion lengths.
+
+INFRARED RADIATION
+PHOTODETECTORS
+EFFECTIVE MASS
+TUNNEL EFFECT
+SUPERLATTICES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+OPTICAL PROPERTIES
+THICKNESS
+CHEMICAL COMPOSITION
+ANTIMONY COMPOUNDS
+INDIUM COMPOUNDS
+EXPERIMENTAL DATA
+MATERIALS
+FABRICATION
+STRAINS
+DESIGN

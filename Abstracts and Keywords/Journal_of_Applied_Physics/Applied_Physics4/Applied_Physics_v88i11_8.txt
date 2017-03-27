@@ -1,0 +1,8 @@
+Bariumlanthanummanganite (La0.7Ba0.3MnO3) thin films that exhibit a colossal magnetoresistance (CMR) effect have been prepared by spray pyrolysis of solutions of aqueous nitrates. Structural, optical, and magnetotransport properties of the films were studied as a function of growth conditions and postgrowth treatments. In a magnetic field of 600 mT, the maximum CMR effect amounted to a 15% decrease in resistivity relative to zero field value. Instead of decreasing at lower temperature, the value of the CMR continued to increase as the temperature decreased to 100 K. This behavior is attractive for practical applications. © 2000 American Institute of Physics. 
+
+lanthanum compounds
+barium compounds
+spray coatings
+colossal magnetoresistance
+magnetic thin films
+electrical resistivity

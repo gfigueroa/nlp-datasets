@@ -1,0 +1,9 @@
+A simple technique for measuring the interfacestate density of a Schottky barrier diode fabricated on the moderately doped semiconductor is presented. It requires the IV characteristics and substrate doping concentration as inputs which can be easily measured by existing techniques. Checked by the Schottky capacitance spectroscopy method, the proposed technique is proved to be highly accurate for various metalSi and metal silicideSi Schottky barrier diodes.
+
+SCHOTTKY BARRIER DIODES
+INTERFACE STATES
+IV CHARACTERISTIC
+CAPACITANCE
+CRYSTAL DOPING
+SILICON
+METALSEMICONDUCTOR CONTACTS

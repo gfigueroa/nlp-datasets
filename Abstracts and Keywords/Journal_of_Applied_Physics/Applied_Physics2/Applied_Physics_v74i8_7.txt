@@ -1,0 +1,11 @@
+The reversebiased performance of a molecularbeamepitaxygrown highpower optothyristor has been systematically characterized for pulsed powerswitching applications. The device has a P+NSIPN+ thyristorlike structure with the bipolar junctions formed by AlGaAs. The semiinsulating (SI) GaAs used is liquidencapsulatedCzochralski grown, undoped, and 650 ¼m in thickness. It is found that the reversebiased optothyristor can be triggered by a lightemitting diode operated at 105 W, and miniature semiconductor lasers can trigger the switch with 132 A current using only a 1mmdiam optical aperture. The reverse switching di/dt and the maximum peak current are reported as a function of blocking voltage. The effects of bipolar junctions on both sides of the SIGaAs are also reported by comparing the bulk photoconductive current with the optothyristor switched current. It is shown that a laser beam of 0.05 ¼J can be used to trigger on and switch about the same current as a 0.3 ¼J laser beam, suggesting the possibility of integrating miniature semiconductor lasers and the optothyristors on the same chip to form a portable, compact, highpower solidstate pulser.
+
+OPTOELECTRONIC DEVICES
+THYRISTORS
+MOLECULAR BEAM EPITAXY
+PERFORMANCE
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY ALLOYS
+SWITCHING
+PHOTOCONDUCTIVITY

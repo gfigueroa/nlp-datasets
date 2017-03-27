@@ -1,0 +1,8 @@
+The results of recent micromagnetic simulations of deep submicron supermalloy disks are presented. A recent experimental measurement of the hysteresis and magnetic domain structure in supermalloy disks with diameters ranging from 55 to 500 nm and thickness ranging from 6 to 15 nm has been reported. Our micromagnetic simulations show remarkable agreement with the experimental hysteresis loops. The simulation results show that for thin or small diameter disks a single magnetic domain exists with all spins aligned. The hysteresis loop represents free rotation of these spins. For larger diameter disks or as the thickness increases the hysteresis loops change shape due to the appearance of a single vortex state appearing at low applied fields. © 2001 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+molybdenum alloys
+ferromagnetic materials
+magnetic hysteresis
+magnetic domains

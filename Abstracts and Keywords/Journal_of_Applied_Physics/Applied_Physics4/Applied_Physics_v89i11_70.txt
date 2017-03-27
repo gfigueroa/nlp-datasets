@@ -1,0 +1,13 @@
+Nano-size ferromagnetic dots, wires, and stripes are of great interest for future high speed magnetic sensors and ultrahigh density magnetic storage. High frequency dynamic excitation is one way to investigate the time scale of the magnetization reversal in submicron particles with lateral nanometer dimension. Macroscopic models like the LandauLifshitz (LL) model are often used to describe the switching process. However, these models do not take into account the nonuniformity of the magnetization structure. In this article dynamic micromagnetic calculations are used in determining the high frequency susceptibility of a 1
+¼m×50
+nm×5
+nm Permalloy stripe. The studied structure exhibits two resonance modes. The higher, primary peak is around 10 GHz and can be identified with the uniform resonance mode predicted by the macroscopic LL model. The low frequency peak is attributed to the splay of the magnetization distribution near the end of the stripe. © 2001 American Institute of Physics. 
+
+Permalloy
+ferromagnetic materials
+nanostructured materials
+spin dynamics
+high-frequency effects
+magnetic switching
+magnetisation reversal
+magnetic susceptibility

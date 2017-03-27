@@ -1,0 +1,13 @@
+Magnetoimpedance in ascast, nonmagnetostrictive CoFeBSi amorphous ferromagnetic wires, submitted to an ac electric current of 5 mA in the frequency range 100 Hz100 kHz, is analyzed in terms of equivalent circuits. It is shown that the equivalent circuit representing the wire frequency behavior can be approximated by a parallel LpRp arrangement with elements Rs and Ls in series; Lp and Rp are associated with circumferential domain wall permeability and wall damping, respectively; Ls is related to the circumferential rotational permeability of the wire, and Rs accounts for the dc resistance in the circuit. When the wire is submitted to a longitudinal dc field high enough to approach saturation (Hdc=3600 A/m), the circuit becomes simply a series RsLs circuit. The various contributions from basic magnetization processes to magnetoimpedance are discussed, as well as deviations from this idealized model. © 1995 American Institute of Physics.
+
+AMORPHOUS STATE
+BORIDES
+COBALT SILICIDES
+ELECTRIC CURRENTS
+ELECTRIC IMPEDANCE
+EQUIVALENT CIRCUITS
+FERROMAGNETIC MATERIALS
+FREQUENCY DEPENDENCE
+IRON SILICIDES
+MAGNETORESISTANCE
+WIRES

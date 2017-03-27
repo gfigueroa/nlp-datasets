@@ -1,0 +1,13 @@
+The radiative transitions of (100) and (311)Aoriented threestep asymmetric coupled quantum wells in an electric field are studied by photoluminescence. Four distinct transitions are observed in the spectra which exhibit remarkably complex energy shifts with the applied field. It is shown that these transitions originate from the two pairs of spatially direct and indirect heavyhole excitons in the threestep quantum well and that their electricfield dependence is dominated by the conversion of the direct into the indirect excitons and vice versa. Furthermore, we discuss the effects of the nonconventional crystal orientation and show that substantial modifications of the basic electrooptical properties can be achieved from internal piezoelectric fields incorporated within the structure.
+
+QUANTUM WELLS
+EXCITONS
+RECOMBINATION
+STRAINS
+PHOTOLUMINESCENCE
+ENERGYLEVEL TRANSITIONS
+ELECTRIC FIELD EFFECTS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY ALLOYS
+MOLECULAR BEAM EPITAXY

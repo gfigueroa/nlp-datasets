@@ -1,0 +1,16 @@
+Electrical and magnetic properties of the superconducting oxides with nominal composition (Bi0.7 Pb0.3 )2Sr2Ca2 Cu3 Ox prepared from polymeric precursors have been investigated. Superconducting transition with zeroresistance temperature at T=108 K was achieved for a sample sintered at 840	°C under a low oxygen pressure. The critical current density at 77 K in a zero magnetic field is <400 A/cm2 , which is much higher than that of the Pbfree sample. Variations of the superconducting transition temperature, the critical current density, and magnetic properties with heat treatment time are discussed in connection with the structural properties.
+
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+DOPED MATERIALS
+LEAD OXIDES
+ELECTRICAL PROPERTIES
+MAGNETIC PROPERTIES
+POLYMERS
+SUPERCONDUCTIVITY
+TRANSITION TEMPERATURE
+SINTERING
+CRITICAL CURRENT
+HEAT TREATMENTS

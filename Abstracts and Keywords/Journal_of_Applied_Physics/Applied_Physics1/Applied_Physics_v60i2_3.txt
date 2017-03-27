@@ -1,0 +1,13 @@
+The response characteristics of palladiumgate metalinsulatorsilicon fieldeffect transistor (MISFET) structures to hydrogen are shown to be logarithmically related to the partial pressure of the gas. It is proposed that these palladiumgate MIS structures should be considered as electrochemical devices where the metal/insulator structure behaves as a gas electrode. The results presented were obtained for hydrogen in air and therefore relate directly to the use of these devices as sensors for use in the ambient environment.
+
+MISFET
+PALLADIUM
+ADSORPTION
+THRESHOLD VOLTAGE
+SENSORS
+HYDROGEN
+GAS ANALYSIS
+QUANTITY RATIO
+AIR
+HYDROGEN MOLECULES
+RESPONSE FUNCTIONS

@@ -1,0 +1,13 @@
+Indiumtinoxide (ITO)/silicon oxide/mattextured nSi junction solar cells having an energy conversion efficiency of 15% are fabricated by the spray pyrolysis method. Their characteristics and the junction properties are compared with the same junction solar cells having a flat Si surface. In cases where the ITO film is deposited on a hydrofluoric acidetched mattextured Si surface, the open circuit photovoltage (Voc) is low (405 mV). Scanning electron microscopy observation shows that highdensity dislocations are formed near the Si surface, and the temperature dependence of the currentvoltage characteristics suggests that the trapassisted multistep tunneling through the Si depletion layer is a dominant current flow mechanism. In cases where the ITO film is deposited on a thermal silicon oxidecovered mattextured Si surface, the formation of the dislocations is suppressed, and consequently Voc is increased to 485 mV. For this solar cell, a surface recombination current takes the dominant part of the dark current in the bias region below <250 mV, and a thermionicassisted tunneling current is dominant in the higher bias region. For a cell where the thermal silicon oxidecovered mattextured Si surface is annealed at 800	°C under nitrogen before the deposition of the ITO film, Voc is further increased to 540 mV, and the energy conversion efficiency of 15% is achieved. In this case, the thermionicassisted tunneling current density is decreased by an increase in the barrier height due probably to a reduction in the density of the positive charge in the silicon oxide layer. The surface recombination current density is also reduced by the removal of interface states, leading to the improvement of the fill factor.
+
+SILICON SOLAR CELLS
+ANNEALING
+OXIDATION
+PHOTOVOLTAIC EFFECT
+ITO LAYERS
+DEPOSITION
+DISLOCATIONS
+CV CHARACTERISTIC
+SURFACE PROPERTIES
+RECOMBINATION
+EFFICIENCY

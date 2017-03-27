@@ -1,0 +1,17 @@
+A first-principle investigation of the effects of multiple SiýO bonds at the surface of silicon-based clusters with different sizes has been carried out. Total-energy pseudopotential calculations within density functional theory have been applied varying systematically the number of SiýO bonds at the clusters surface. A nonlinear reduction of the energy gap with the SiýO bond number is found. A sort of saturation limit is displayed, providing a consistent interpretation of the photoluminescence redshift observed in oxidized porous silicon samples. Moreover, our results help to clarify the very recent findings on the single silicon quantum dot photoluminescence bandwidth. © 2003 American Institute of Physics. 
+
+bonds (chemical)
+red shift
+spectral line breadth
+atomic clusters
+nanoparticles
+particle size
+total energy
+pseudopotential methods
+density functional theory
+energy gap
+photoluminescence
+silicon
+hydrogen
+oxygen
+elemental semiconductors

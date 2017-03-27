@@ -1,0 +1,6 @@
+It is very important for an effective machine translation system to transform the multi-sentential discourses, of a source language, into simple and cohesion free discourses. Anaphora resolution is the predicament in computational linguistics that is responsible for the alleged problem. This paper is about the lexical (reciprocal) anaphora resolution in Pashto language and presents an algorithm that is based on the rules to resolve the reciprocal pronouns (RecipPro) of Pashto language. The algorithm has been tested on real world text taken from Pashto stories, novels, newspapers, Web-pages and showed an accuracy of 94.45%.
+
+Algorithm
+Anaphora Resolution
+Pashto Pronoun
+Reciprocal Anaphora

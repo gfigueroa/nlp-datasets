@@ -1,0 +1,16 @@
+We report on the experimental results of magnetization reversal in ultrathin perpendicularly magnetized cobalt films in Au/Co/Au(111) trilayers. We have first studied the static magnetic properties of the samples. Interestingly, the results show the possibility of controlling the coercivity and magnetic anisotropy by changing the Co deposition rate. Second, the magnetization reversal dynamics have been investigated by relaxation measurements and Kerr microscopy. Two magnetization reversal processes are distinguished according to the deposition rate; the dominant magnetization reversal process changes from domain wall motion for cobalt deposited at a rate of 0.2 nm/min to domain nucleation for cobalt deposited at a rate of 0.4 nm/min. The pinning domain wall plays an important role in the observed reversal processes. Analysis shows that in both cases the reversal dynamics is not suitably described by the FatuzzoLabrune model.
+
+cobalt
+coercive force
+electron beam deposition
+gold
+Kerr magneto-optical effect
+magnetic domain walls
+magnetic multilayers
+magnetic relaxation
+magnetic thin films
+magnetisation reversal
+nanomagnetics
+nanostructured materials
+nucleation
+perpendicular magnetic anisotropy

@@ -1,0 +1,6 @@
+In e-Learning domain there has been observed an important effort towards designing and integrating support system software. These software systems may be fully integrated or run as services along e-Learning platforms and have as main goal increasing the effectiveness of the e-Learning processes. This paper proposes a novel structure of a support system for e-Learning infrastructure that is based on data representing learner's activities and processes. Data relevance is based on well discipline structuring based on concept maps. Markov chain modeling and classification is used as main intelligent procedure for data analysis.
+
+Markov chain modeling
+concept maps
+e-Learning
+support system

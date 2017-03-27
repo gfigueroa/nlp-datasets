@@ -1,0 +1,13 @@
+High-resolution transmission electron microscopy and electron energy loss spectroscopy (EELS) were used to study the interfacial layers formed in Gd2O3 films on Si(001) during rapid thermal annealing at 780
+°C in an O2 ambient. Oxygen diffuses through the films and reacts with the substrate to form a SiO2 layer and an intermediate layer containing Gd2O3 and SiO2. Singular value decomposition was used to profile the Si, SiO2, and Gd2O3 components through the film from the characteristic spectra observed in the Si L2,3, Gd N4,5 and O K-edge EELS. The profiling results support the results of x-ray photoelectron spectroscopy sputter profiling measurements and contribute to a complete picture of the chemical bonding within the films. The ab initio multiple scattering method was used to simulate the observed EELS spectra at the Si L2,3 and O K edges and provide further insight into the chemical bonding of the film and the origin of spectral features. For SiO2, the Si L2,3 EELS is due only to the first-neighbor oxygen atoms. The O K-edge EELS for Gd2O3 is also due only to Gd first neighbors, while the SiO2 EELS is very sensitive to the number of O second neighbors as well as the Si first neighbors. © 2002 American Institute of Physics. 
+
+gadolinium compounds
+silicon
+elemental semiconductors
+semiconductor-insulator boundaries
+transmission electron microscopy
+electron energy loss spectra
+rapid thermal annealing
+bonds (chemical)
+X-ray photoelectron spectra
+sputtering

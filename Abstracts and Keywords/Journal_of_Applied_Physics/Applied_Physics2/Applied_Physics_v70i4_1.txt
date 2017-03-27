@@ -1,0 +1,19 @@
+We investigate the effect of unmonochromatized synchrotron radiation (USR) on the roomtemperature reaction between a Si(111)2×1 surface and adsorbed NO. After exposition to NO of the Si(111) surface, an oxynitride/silicon interface is formed. The evolution with irradiation time of the oxynitridation of silicon and of the oxynitride/silicon interface formation is examined in situ by means of corelevel and valenceband photoemission spectroscopy, Auger electron spectroscopy, and workfunction measurements. The analysis of the valence band and Si 2p, O 2s, and N 2s photoelectron spectra, together with the Auger Si transition, clearly exhibits additional oxynitride formation under USR. The oxygentonitrogen ratio, O/N, from the thin oxynitride layer increased after a long time (s10 min) of exposure to USR. Hence, USR appears to have the opposite effect to the one produced by thermal activation in which the nitridation is favored.
+
+SILICON
+SURFACES
+NITRIC OXIDE
+ADSORBATES
+ADSORBATES
+SYNCHROTRON RADIATION
+MEDIUM TEMPERATURE
+OXYNITRIDES
+SYNTHESIS
+PHOTOELECTRON SPECTROSCOPY
+CORE LEVELS
+VALENCE BANDS
+AUGER ELECTRON SPECTROSCOPY
+WORK FUNCTIONS
+SI JUNCTIONS
+PHOTOCHEMICAL REACTIONS
+NITRIDATION

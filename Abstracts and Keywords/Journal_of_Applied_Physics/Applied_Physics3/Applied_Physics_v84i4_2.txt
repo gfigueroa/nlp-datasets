@@ -1,0 +1,8 @@
+The temperature dependence of the currentvoltage characteristics of NiGaN Schottky barriers have been measured and analyzed. It was found that the enhanced tunneling component in the transport current of metal-GaN Schottky barrier contacts is a likely explanation for the large scatter in the measured Richardson constant. © 1998 American Institute of Physics. 
+
+nickel
+gallium compounds
+III-V semiconductors
+semiconductor-metal boundaries
+Schottky barriers
+tunnelling

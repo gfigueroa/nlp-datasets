@@ -1,0 +1,16 @@
+Activation of implanted dopant in Si is investigated as a function of ion energy during rapid thermal annealing (RTA). It is shown that the fraction of dopant incorporated on the lattice site by RTA decreases as the implant energy increases. This is attributed to clustering or precipitation of the dopant during RTA as a result of fast diffusion of the dopant in the amorphous layer produced by implantation. The increased thickness of the amorphous layer at higher implant energies allows sufficient time for clustering before the amorphous layer recrystallizes. Similar behavior is observed for electrically inactive impurities. In this work, the diffusion of Ge was investigated to gain insight into the transient, greatly enhanced diffusion of certain dopants during RTA that has been reported. No enhancement in the diffusion of Ge was observed which is shown to be consistent with a model proposed to explain the enhanced diffusion for dopants.
+
+SILICON
+ION IMPLANTATION
+GERMANIUM
+DIFFUSION
+CRYSTAL DOPING
+DOPING PROFILES
+ANNEALING
+AMORPHOUS STATE
+THICKNESS
+ATOM TRANSPORT
+SEGREGATION
+DAMAGE
+SELFDIFFUSION
+ARSENIC

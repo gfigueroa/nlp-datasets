@@ -1,0 +1,13 @@
+A synthesis theory for majoritycarrier transports across the Schottky barrier diode has been developed by including the transport mechanisms across the interfacial layer and the effects of both thermionic emission and diffusion in the spacecharge region of the semiconductor. This theory incorporates the thermionic emission theory, diffusion theory, thermionicdiffusion theory, and interfacial layer theory into a single theory: the interfacial layerthermionicdiffusion theory. The major improvement of the proposed theory over the thermionicdiffusion theory is that the applied voltage drop and transmission coefficient across the interfacial layer are included, thus enabling us to interpret the characteristics observed from the Schottky barrier diodes fabricated with different metals and substrate materials by means of different fabrication conditions. Moreover, based on the developed interfacial layerthermionicdiffusion theory, the characteristic parameters of the Schottky barrier diode, such as the barrier height, ideality factor, and the reverse current, have also been derived and discussed.
+
+SCHOTTKY BARRIER DIODES
+MATHEMATICAL MODELS
+INTERFACES
+LAYERS
+THERMIONIC EMISSION
+DIFFUSION
+THEORETICAL DATA
+CHARGE CARRIERS
+CHARGE TRANSPORT
+SPACE CHARGE
+ELECTRICAL PROPERTIES

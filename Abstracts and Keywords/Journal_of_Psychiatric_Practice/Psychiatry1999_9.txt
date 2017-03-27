@@ -1,0 +1,9 @@
+The goal of the Texas Medication Algorithm Project (TMAP) is to develop and prospectively evaluate the clinical and economic impact of medication treatment algorithms in the treatment of patients with severe and persistent mental illness (schizophrenia and bipolar and major depressive disorders) in the public sector. The project has four phases: 1) the development based on scientific evidence and clinical consensus of specific, step-wise sequences of when and how to use various psychotropic medications for each condition; 2) a feasibility trial to evaluate the suitability, applicability, and resources needed to implement these algorithms and to provide preliminary estimates of effectiveness; 3) a prospective comparison of the clinical and economic costs and benefits of the medication algorithms against treatment-as-usual; and 4) the implementation of the algorithms on a system-wide basis. We report our experience to date in developing and implementing these algorithms in the first two phases of TMAP. 
+
+consensus guidelines
+algorithms
+public sector patients
+systems of care
+severe and persistent mental illnesses
+patient education
+Texas Medication Algorithm Project

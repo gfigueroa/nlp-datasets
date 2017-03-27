@@ -1,0 +1,11 @@
+Even when a material is in thermal equilibrium with its surroundings, the thermal radiation that it emits can be made evident by detecting a difference between its radiation power and that of some reference material, such as a black chopper wheel. Such a way of revealing thermal radiation from a material provides us with a possibility of characterizing radiant properties of that material without requiring any special radiant standard. In this work I develop a semiquantitative analysis of such a difference signal, which provides us with a simple relationship between the emissivity of a material and measurable quantities. Using this result, I propose a method for determining the spectral dependence of emissivity of a material. The validity and usefulness of the method are confirmed by applying it to the SiH stretching band in two amorphous films of undoped hydrogenated amorphous silicon and of its alloy with nitrogen. © 2002 American Institute of Physics. 
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+emissivity
+infrared spectra
+vibrational modes
+plasma deposited coatings
+localised modes

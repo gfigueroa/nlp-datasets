@@ -1,0 +1,17 @@
+The role of oxygen atoms in the growth of magnetron sputter-deposited ZnO films was studied by alternating the deposition of a several-nanometer-thick ZnO layer and the O2/Ar mixture plasma exposure, i.e., layer-by-layer technique. The film crystallization promoted with suppressing the oxygen vacancy and interstitial defects by adjusting the exposure condition of O2/Ar plasma. These findings suggest that the chemical potential of oxygen atom determine the film crystallization as well as the electronic state. The diffusion and effusion of oxygen atoms at the growing surface play a role of thermal annealing, promoted the film crystallization as well as the creation and the annihilation of oxygen and zinc related defects. The role of oxygen atoms reaching at the film-growing surface is discussed in term of chemical annealing. The possible oxygen diffusion mechanism is proposed.
+
+annealing
+chemical potential
+crystallisation
+II-VI semiconductors
+interstitials
+nanofabrication
+nanostructured materials
+plasma deposition
+semiconductor growth
+semiconductor thin films
+sputter deposition
+surface diffusion
+vacancies (crystal)
+wide band gap semiconductors
+zinc compounds

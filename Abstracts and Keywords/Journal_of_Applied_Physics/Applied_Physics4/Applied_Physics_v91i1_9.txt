@@ -1,0 +1,14 @@
+Polycrystalline silicon germanium (Si1xGex) films deposited by the rf sputtering technique were characterized using a combination of transmission electron microscopy (TEM), atomic force microscopy (AFM), x-ray diffraction (XRD), and Raman spectroscopy techniques. The TEM results showed small grains (1020 nm) with microtwins, and AFM showed islands of 100200 nm in the films. The XRD results show that our films consist of Si1xGex alloy with no cluster of Ge or a Ge-rich material embedded in a Si matrix. The smaller grains in our films could be a result of an abundance of nucleating sites or impurities in the films. Raman spectroscopy results indicate that our films were strain free. © 2002 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor materials
+semiconductor thin films
+grain size
+sputtered coatings
+transmission electron microscopy
+atomic force microscopy
+X-ray diffraction
+Raman spectra
+twin boundaries
+island structure
+internal stresses

@@ -1,0 +1,9 @@
+Soil roughness is known to be one important factor affecting the observations of the microwave emission from land surfaces. Natural surfaces show a random roughness profile but many agricultural fields show a tilled row structure with a predominant row direction. To quantify the significance of tillage direction on the emission from soils a series of measurements were carried out with an L-band radiometer over three bare fields with different tillage. These activities are part of the GRAJO (GPS and RAdiometric Joint Observations) experiment which is being conducted at the REMEDHUS site in Zamora, Spain, in preparation for SMOS cal/val. Preliminary results show that tillage orientation affects the emission. The increase in emissivity due to roughness was found to be higher for transverse than for longitudinal orientation (approximately 0.1 in emissivity).
+
+Bare soil
+L-band
+Radiometry
+SMOS
+Soil moisture
+Soil roughness
+Tillage

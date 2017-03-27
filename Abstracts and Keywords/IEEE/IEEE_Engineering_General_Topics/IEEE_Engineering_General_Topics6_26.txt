@@ -1,0 +1,6 @@
+Main subjects discussed in this dissertation focus on the tension control. The tension control accuracy has very big influence to the quantity of the finished product. As a result, the tension control in unwinding and winding processes become very important. Because of the scale that the tension request in fiber winding system is small, this paper use magnetic particle brake and magnetic particle clutch as executor of tension control. According to analysis of the work theory, the static and dynamic characteristics of the magnetic particle brake is mentioned. This paper also analyzes the control algorithm and the vary circumstance of PID parameter. On the basis of dynamic analysis of the tension control and combination the characteristic of the magnetic particle brake, this paper design a hardware control circuit and some software. The signal from tension sensor is handled by the DSP 56F807, then the PWM waveform is output to control the magnetic particle brake. The software make use of defending integral saturation PI algorithm, the tension signal will be contact to the duty ratio of PWM waveform, and accurate control is realized.
+
+Constant tension
+DSP
+auto-adapted
+coiling control Introduction

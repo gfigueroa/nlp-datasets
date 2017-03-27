@@ -1,0 +1,12 @@
+Using a novel ultrahigh vacuum transmission electron microscope (TEM) with in situ reactive molecular beam epitaxy system, we report the successful synthesis of epitaxial AlN on the (0001) sapphire surface upon exposure to ammonia. The substrate, an electron transparent sapphire foil, was annealed in oxygen at high temperature to eliminate damage induced during preparation and to create large atomically flat regions. The sample was then held at 950	°C in flowing ammonia inside the microscope for 2 h during which periodic observations of microstructural development were made. We report direct observation of the formation of epitaxial AlN with the orientation relationship (0001)AlN//(0001)sub, [010]AlN//[20]sub and present both TEM and atomic force microscope images of the sample before and after nitridation. The results are consistent with a diffusion-limited reaction model involving transport of oxygen and nitrogen ions through the growing AlN epilayer between the free surface and the unreacted ±-Al2O3. © 1998 American Institute of Physics. 
+
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+molecular beam epitaxial growth
+semiconductor growth
+transmission electron microscopy
+nitridation
+crystal microstructure
+atomic force microscopy

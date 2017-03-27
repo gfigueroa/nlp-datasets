@@ -1,0 +1,9 @@
+  Business-driven IT management (BDIM) is a new, evolutionary and comprehensive IT management approach that aims to improve IT infrastructure, service quality and business results at the same time. To that end, it needs to model and numerically estimate IT-business linkage. BDIM concepts are finding ways into ITIL-based management processes as well as into new IT infrastructure product offerings such as autonomic computing in order to add increased value to the business. In the hope of contributing to define and characterize this new approach, this paper presents an introductory overview of BDIM, discusses its main concepts, illustrates gains over conventional IT management approaches and offers a survey of some recent work on the topic in the literature. 
+
+  Business-Driven IT Management (BDIM) 
+  IT governance 
+  Information Technology Infrastructure Library (ITIL) 
+  automation
+  business metrics 
+  modeling 
+  performance evaluation 

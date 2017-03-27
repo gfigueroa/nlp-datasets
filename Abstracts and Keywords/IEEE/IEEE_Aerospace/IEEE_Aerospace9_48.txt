@@ -1,0 +1,6 @@
+This paper presents design and simulation of aperture coupled microstrip antenna for circular polarization and maximum coupling. The glass epoxy (&#x03B5;<sub>r</sub> = 4.3) is selected as the dielectric substrate for the patch as well as the quadrature hybrid coupler feed. The antenna is designed for a center frequency of 915 MHz with a bandwidth of 26 MHz in the unlicensed ISM band of (902-928) MHz for RFID applications. The antenna is modeled using ADS 2002C from Agilent Technologies. Antenna performance characteristics like VSWR, return loss, impedance bandwidth, gain, 3 dB beam width and radiated power are determined.
+
+Hybrid feed
+ISM band
+RFID
+Stacked antenna

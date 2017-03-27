@@ -1,0 +1,6 @@
+An obstacle detection approach based on contour view synthesis for inspection robot on transmission line is presented in this paper. When the robot is offline, the virtual contour images for multiple view of obstacles are reconstructed, in which the contours of obstacles are extracted by means of gradient magnitude based contour extraction algorithm, and the corresponding points on the left and right image can be found by using region matching algorithm, then view synthesis technique is adopted to reconstruct multi-view of obstacles and a virtual contour image library built; When the robot is online, the obstacle can be recognized by matching the extracted contour of obstacle on transmission line and the virtual contours in the image library built beforehand. The experiment results show that ideal recognition can be achieved ground on the contour view synthesis approach for obstacle detection; the effectiveness of this method can be demonstrated by the comparing experiments as well.
+
+Inspection robot
+obstacle detection
+template matching
+view synthesis

@@ -1,0 +1,5 @@
+Heat assisted magnetic recording (HAMR) technique requires an optical head that can efficiently generate a subwavelength optical spot. The results of finite difference time domain simulation shows that two subwavelength rectangular holes adjacent to a metallic slit aperture make an optical spot from the slit smaller and its peak intensity higher. A subwavelength spot of 82×46nm2 (full width at half maximum) in the recording medium is obtainable when a pair of rectangular holes is flanked adjacent to the slit aperture with a much smaller distance than the optical wavelength. This configuration provides a high transmittance of the slit aperture and a high expectation for a high controllability of both a thickness of the slit and a distance between the slit and the rectangular hole by the use of the planar process. By using a plasmon waveguide to guide light into the metallic slit aperture, a thin and efficient optical head for HAMR is achieved.
+
+finite difference time-domain analysis
+magnetic heads
+magnetic recording

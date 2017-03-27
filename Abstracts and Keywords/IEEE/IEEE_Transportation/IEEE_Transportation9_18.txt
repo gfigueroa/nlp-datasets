@@ -1,0 +1,5 @@
+This paper describes a high gain cavity-backed slot(CBS) antenna. A superstrate of thin metal is placed at a certain distance above the substrate to enhance the gain of the slot antenna. The cavity-backed slot antenna is fed by a microstrip line printed on the top of the substrate. In order to reduce the size of antenna, We use the ferrite as the substrate, and the optimized antenna size is 40*30(mm). The cavity thickness of this slot antenna is about 10 times smaller than conventional cavities, which would allow constructing this antenna even with standard multilayer planar technology. The simulation results and show that this metal superstrate-covered cavity-backed slot antenna can attain the gain of 7.16dBi. The antenna can meet the needs of particular RFID application.
+
+CBS antenna
+RFID
+high gain

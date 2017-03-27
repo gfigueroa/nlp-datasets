@@ -1,0 +1,12 @@
+Buried ridge structure GaInAsP/InP lasers with stripes parallel to 011	 and 011	 directions (designated type A and B, respectively) were fabricated by MOVPE regrowth. Type A lasers exhibit considerably lower threshold current, higher maximum output power, and higher yield than typeB devices. Secondary ion mass spectroscopy depth profiles taken with high spatial resolution using the checkerboard matrix gate technique reveal elemental distributions as expected for typeA lasers, but the following unexpected results were observed for type B structures: A considerable amount of phosphorus is found in the GaInAs above the laser stripes, which is correlated with a reduced gallium concentration and a higher proportion of indium. Zinc, diffused into the GaInAs to make ohmic contacts, has a reduced concentration above the laser stripes, but occasionally exhibits exceptionally high concentrations with strong localization. The sputter rate in a region extending up to 15 ¼m on both sides of the laser stripe is significantly enhanced after zinc diffusion into the top GaInAs layer of type B structures. The observed anomalies are attributed to reduced crystalline perfection of the InP regrown above 011	 oriented laser stripes. The lower crystallinity favors efficient phosphorus outdiffusion from the InP during growth of the GaInAs and it also enhances zinc diffusion. The experiments emphasize the need to optimize the growth parameters for MOVPE regrowth above 011	 and 011	 oriented structures separately.
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+GALLIUM PHOSPHIDES
+LASERS
+VPE
+SIMS
+PERFORMANCE
+PHOSPHORUS
+DIFFUSION

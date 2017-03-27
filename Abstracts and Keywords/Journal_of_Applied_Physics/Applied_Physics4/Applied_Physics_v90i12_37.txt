@@ -1,0 +1,8 @@
+Ablation of cubic-boron nitride (c-BN) ceramic irradiated by Ti:sapphire laser (110 fs, 790 nm) and Nd:YAG laser (100 ps, 1.064 ¼m) pulses is comparatively studied. In the case of Ti:sapphire laser ablation, it is observed that the ablation depth per pulse has two different ablation regimes, being similar to the fs laser ablation of metals. The ablation threshold fluence for the 110 fs Ti:sapphire laser is estimated to be 15 mJ/cm2 for low fluence ablation, and 180 mJ/cm2 for high fluence ablation. With x-ray photoelectron spectroscopy signal and scanning electron microscope observation it is evident that the surface ablated with the 110 fs Ti:sapphire laser pulses remains as the BN layer itself and is not melted. With the 100 ps Nd:YAG laser ablation, the boron semiconductor layer is formed on the ablated surface. © 2001 American Institute of Physics. 
+
+boron compounds
+III-V semiconductors
+laser ablation
+X-ray photoelectron spectra
+scanning electron microscopy
+ceramics

@@ -1,0 +1,10 @@
+An analytical, semiempirical model is presented for the optical properties of AlxGa1xAs for photon energies from 1.2 to 6 eV. For GaAs, the discrepancy between the calculated refractive index and the experimental data is about 0.003 at 1.8 eV, and is about 0.012 at 1.2 eV. For all the other AlxGa1xAs alloys, the calculated optical properties are in satisfactory agreement with the experimental data for photon energies from 1.2 to 6 eV.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+OPTICAL PROPERTIES
+TERNARY ALLOYS
+ABSORPTION
+REFRACTIVE INDEX
+MATHEMATICAL MODELS
+REFLECTION

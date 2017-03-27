@@ -1,0 +1,7 @@
+The measure of similarity between objects is a very useful tool in many areas of computer science, including information retrieval. SimRank is a simple and intuitive measure of this kind, based on a graph-theoretic model. SimRank is typically computed iteratively, in the spirit of PageRank. However, existing work on SimRank lacks accuracy estimation of iterative computation and has discouraging time complexity. In this paper, we present a technique to estimate the accuracy of computing SimRank iteratively. This technique provides a way to find out the number of iterations required to achieve a desired accuracy when computing SimRank. We also present optimization techniques that improve the computational complexity of the iterative algorithm from O(n 4) in the worst case to min(O(nl), O(n 3/ log2 n)), with n denoting the number of objects, and l denoting the number object-to-object relationships. We also introduce a threshold sieving heuristic and its accuracy estimation that further improves the efficiency of the method. As a practical illustration of our techniques, we computed SimRank scores on a subset of English Wikipedia corpus, consisting of the complete set of articles and category links.
+
+Similarity measure
+Graph theory
+SimRank
+Algorithm
+Computational complexity

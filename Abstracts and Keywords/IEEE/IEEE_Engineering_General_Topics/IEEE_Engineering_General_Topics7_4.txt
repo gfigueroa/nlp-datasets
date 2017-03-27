@@ -1,0 +1,6 @@
+A new transformer protection theory based on spectral entropy characteristics is put forward in this paper. First, the algorithm of empirical mode decomposition (EMD) and entropy are developed, and variation trends of spectral entropy characteristics are analyzed in the case of inrush currents and internal fault currents. EMD algorithm is used to conduct the accurate location of current breaks and the spectral entropy is calculated for all of the states. The advantages of the method are little computation, reliable and quick operation. The results of dynamic analog testing confirmed that the method is able to clear the internal fault reliably and quickly. Moreover, compared with the second harmonic restraint principle, the proposed algorithm has better performance.
+
+EMD
+inrush current
+power transformer
+spectral entropy

@@ -1,0 +1,5 @@
+At the application level, it is important to be able to define around the measurement result an interval which will contain an important part of the distribution of the measured values, that is, a coverage interval. This practice acknowledged by the ISO Guide is a major shift from the probabilistic representation. It can be viewed as a probability-possibility transformations by viewing possibility distribution as encoding coverage intervals. In this paper, we extend previous works by proposing approximate closed form possibility expressions of optimum coverage intervals associated to well known underlying continuous symmetrical unimodal probability densities.
+
+coverage intervals
+measurement uncertainty
+possibility theory

@@ -1,0 +1,6 @@
+This paper examines the performance and adaptability of evolutionary, learning and memetic strategies to different environment settings in the iterated prisoner's dilemma (IPD). A memetic adaptation framework is devised for IPD strategies to exploit the complementary features of evolution and learning. In the paradigm, learning serves as a form of directed search to guide evolutionary strategies to attain good strategy traits while evolution helps to minimize disparity in performance between learning strategies. A cognitive double-loop incremental learning scheme (ILS) that encompasses a perception component, probabilistic revision of strategies and a feedback learning mechanism is also proposed and incorporated into evolution. Simulation results verify that the two techniques, when employed together, are able to complement each other's strengths and compensate each other's weaknesses, leading to the formation of good strategies that adapt and thrive well in complex, dynamic environments
+
+Evolution
+Incremental Learning
+Iterated Prisoner's Dilemma
+Memetic Algorithm

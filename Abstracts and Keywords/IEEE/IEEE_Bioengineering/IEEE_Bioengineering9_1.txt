@@ -1,0 +1,6 @@
+Three-dimensional simulations based on a multi-physics model are performed to examine the thermofluidic and electrochemical characteristics of a tubular, anode-supported solid oxide fuel cell (SOFC). The simulations focus on the local transport characteristics of the cathode and anode gases and the distribution of the temperature field within the fuel cell. In addition, the electrochemical properties of the SOFC are systematically examined for a representative range of inlet gas temperatures and pressures. The validity of the numerical model is confirmed by comparing the results obtained for the correlation between the power density and the current density with the experimental results presented in the literature. Overall, the present results show that the performance of the tubular SOFC is significantly improved under pressurized conditions and a higher operating temperature.
+
+current density
+electrochemical
+solid oxide fuel cele
+thermofluidic

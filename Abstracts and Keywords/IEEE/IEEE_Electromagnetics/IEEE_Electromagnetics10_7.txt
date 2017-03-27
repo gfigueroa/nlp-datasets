@@ -1,0 +1,4 @@
+In this paper we describe a measurement technique to identify a nonlinear system in the presence of nonlinear source pull. Models identified with CW measurement data are not generalisable when nonlinear source pull is present. This is demonstrated on measured data and compared with the performance of the proposed technique. The method is based on two tone signals with very close frequencies that excite the system at the fundamental and harmonic frequencies. By varying the phase relation between the beat components, the systemÂ¿s nonlinear behaviour is separated from the nonlinear source pull. Note that such excitations can be generated using commercially available synthesizers with SSB IQ modulation options.
+
+nonlinear distortions
+nonlinear source pull

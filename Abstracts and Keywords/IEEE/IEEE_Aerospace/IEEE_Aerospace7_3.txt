@@ -1,0 +1,6 @@
+The frequency selectivity and time variation of wireless channels will strongly influence signal waveform and receiver design for broadband wireless systems such as wireless local area networks. This paper describes the development and deployment of instrumentation to determine the frequency response of 2.4 GHz indoor wireless channels. The instrumentation is developed around a HP 87146 vector network analyzer and includes the required amplification for measurement of responses at a transmit-receive separation of up to 33 meters. While designed primarily to gather data for development of accurate small-scale multipath models, the setup is calibrated to also provide the absolute signal levels necessary for shadowing and path loss characterization. The system design and link power budget are presented along with the criteria for selecting the individual components. In addition, the methodology for correction of magnitude and phase responses of the components is detailed. Finally, the measurement campaign is described, and sample results are presented that exhibit the frequency- and time-selectivity of these channels.
+
+Channel measurements
+Frequency-domain measurements
+Multipath channels
+RF propagation

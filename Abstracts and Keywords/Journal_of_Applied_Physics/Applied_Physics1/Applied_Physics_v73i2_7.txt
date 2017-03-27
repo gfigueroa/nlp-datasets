@@ -1,0 +1,11 @@
+Annealing of defects introduced by neutron transmutation doping of floatzone silicon has been investigated by positron lifetime spectroscopy and Dopplerbroadening measurements. It is shown that the main defects anneal out at about 150 and 500	°C. During annealing, the formation of bigger defect complexes can be seen.
+
+SILICON
+CRYSTAL DEFECTS
+POSITRON PROBES
+ANNIHILATION
+DOPED MATERIALS
+ANNEALING
+NEUTRONS
+DOPPLER BROADENING
+TEMPERATURE RANGE 04001000 K

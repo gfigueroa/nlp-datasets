@@ -1,0 +1,6 @@
+A novel topic based document clustering technique is presented in the paper for situations, where there is no need to assign all the documents to the clusters. Under such conditions the clustering system can provide a much cleaner result by rejecting the classification of documents with ambiguous topic. This is achieved by applying a confidence measurement for every classification result and by discarding documents with a confidence value less than a predefined lower limit. This means that our system returns the classification for a document only if it feels sure about it If not, the document is marked as "unsure". Beside this ability the confidence measurement allows the use of a much stronger term filtering, performed by a novel, supervised term cluster creation and term filtering algorithm, which is presented in this paper as well.
+
+confidence
+document clustering
+supervised learning
+term cluster creation

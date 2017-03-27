@@ -1,0 +1,6 @@
+For a viscous rubber sliding onto a self-affine rough surface, the friction coefficient increases monotonically with decreasing roughness exponent H and at a rapid rate for H&lt;0.5. This is because the surface becomes rougher (with decreasing H) at short roughness wavelengths (&lt;¾) leading therefore to increased friction. Similar is also the behavior with decreasing the in-plane roughness correlation length ¾ (for fixed roughness amplitude w). Nevertheless, the roughness exponent H appears to influence more the friction coefficient than the in-plane correlation length ¾. For relatively low sliding speeds, analytic calculations of the coefficient friction were also feasible for the limiting roughness exponents H=0 and H=1. Finally, under conditions of incomplete contact the friction coefficient was shown to decrease below its value of complete contact for contact lengths »con&lt;¾ and relatively high sliding velocities. © 2003 American Institute of Physics. 
+
+sliding friction
+rubber
+fractals
+surface topography

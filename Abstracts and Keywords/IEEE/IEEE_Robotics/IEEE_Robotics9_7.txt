@@ -1,0 +1,5 @@
+In this study, a fuzzy sliding mode controller for a rotary inverted pendulum is designed. Sliding mode controllers are high performance nonlinear controllers. Not only Sliding mode controller stabilizes the system under control effectively but also it robustly compensates the effect of bounded uncertainties and shows invariance properties in the presence of bounded disturbance. In this study, a fuzzy system is added to the classical sliding mode controller to adaptively estimate the equivalent signal of the sliding mode controller. In addition, using Lyapunov theory the stability of the controller and the adaptation law is guaranteed.
+
+Fuzzy Controller
+Rotary Inverted Pendulum
+Sliding Mode Control

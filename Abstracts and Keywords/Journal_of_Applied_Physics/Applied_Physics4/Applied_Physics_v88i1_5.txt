@@ -1,0 +1,7 @@
+Surface wave induced plasma (SWP) is a particular class of microwave induced plasma. It is used in atomic emission and mass spectrometry as a source of excitation for the elemental analysis of samples in analytical chemistry. This discharge is mainly used at powers less than 300 W. At such low power, an efficient process of desolvation, atomization, excitation and ionization of the analyte can only be reached provided the density of power absorbed in the discharge is large. This requires a plasma whose volume increases very little with increasing absorbed power. At atmospheric pressure in the SWP, such a volume limitation can be achieved by having the plasma extending into ambient air in the form of a flame (open air discharge). This article presents the results of the experimental characterization and study of the degree of thermodynamic equilibrium of an argon plasma flame produced by a surfatron. The values of the plasma parameters and b(p) (departure from equilibrium) parameter for the ArI levels show that the discharge is a two-temperature plasma. By comparing the results with those obtained for a classical surface-wave plasma column, it can be concluded that the plasma in flame is more suited to be used as a source of excitation in analytical chemistry, due to its higher electronic density and temperatures values. © 2000 American Institute of Physics. 
+
+plasma production
+plasma diagnostics
+flames
+plasma temperature
+plasma density

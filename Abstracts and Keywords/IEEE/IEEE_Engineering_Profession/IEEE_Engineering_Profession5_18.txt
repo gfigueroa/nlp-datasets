@@ -1,0 +1,6 @@
+Monolithically integrated InP-based photoreceivers, either comprising pin-diodes with travelling-wave amplifiers for electrical post amplification or 90&#x00B0; hybrids integrated with a pair of balanced detectors forming coherent QPSK photoreceivers, are presented for 100 GbE transmission concepts.
+
+DP-QPSK
+Optical 90&#x00B0;hybrid
+fiber optic links
+pinTWA RX

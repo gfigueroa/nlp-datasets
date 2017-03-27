@@ -1,0 +1,9 @@
+The electrical field effect (EFE) was used to investigate and to characterize the electrical properties of Bi films. The samples were prepared in a capacitor configuration with Al as the gate electrode, Al2O3 as the dielectric and the thin (<1300 Å) thermal-evaporation deposited Bi film sample serving as the other electrode. The dependence of EFE on the electrical field (up to electrical displacements < 107
+V/cm or H 1013[e]/cm2 surface charge) and on temperature (15300 K), and also the temperature dependence of Hall constant, were determined. The experimental results are shown to be consistent with the EFE theory of a semimetal film, assuming that: (1) the film has an interface dead layer (<600 Å) that does not contribute markedly to EFE due to its extremely low carrier mobilities. Only in the rest, good part of the film, the electroconductivity is modulated and leads to a measurable EFE; (2) the temperature behavior of EFE follows the temperature dependence of the electron and hole mobilities and its sign is determined by their relative magnitudes. © 1997 American Institute of Physics.
+
+bismuth
+semimetallic thin films
+Hall effect
+electron mobility
+hole mobility
+high field effects

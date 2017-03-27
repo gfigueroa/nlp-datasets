@@ -1,0 +1,12 @@
+The temperature distribution during meltingrecrystallization processing of thin silicon films for electronic devices was calculated numerically and is presented in graphical form. Two methods of highquality recrystallization are analyzed: the antireflective coating method and the stepwise thickness variation of the silicon dioxide. The controlling parameters were determined and their effects on temperature distributions are presented.
+
+TEMPERATURE DISTRIBUTION
+MELTING
+RECRYSTALLIZATION
+SILICON
+SILICA
+CONTROL SYSTEMS
+THICKNESS
+ANTIREFLECTION COATINGS
+THIN FILMS
+CRYSTAL GROWTH

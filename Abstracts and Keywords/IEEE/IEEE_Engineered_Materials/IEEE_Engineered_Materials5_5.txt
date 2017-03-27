@@ -1,0 +1,8 @@
+In recent years chemical mechanical polishing has become the most relevant planarization technique that is applied for technologies with structures below 0.35 mum. During the CMP process slurry ingredients like abrasive particles, additives and the polishing pad are continuously in direct contact with the wafer. Therefore CMP is also known as a source of critical defects like microscratches, slurry particles and other surface contaminations on the wafer. This paper describes CMP process and hardware improvements that were implemented in a continuous defect reduction project focussing on oxide CMP processes in the BEOL.
+
+CMP
+chemical mechanical polishing
+continuous improvement
+defect density reduction
+slurry particles
+wafer bevel

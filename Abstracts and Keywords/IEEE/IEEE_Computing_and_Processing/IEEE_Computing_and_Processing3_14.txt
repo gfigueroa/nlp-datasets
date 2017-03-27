@@ -1,0 +1,6 @@
+Determining the number of clusters present in a data set automatically is a very important problem. Conventional clustering techniques assume a certain number of clusters, and then try to find out the possible cluster structure associated to the above number. For very large and complex data sets it is not easy to guess this number of clusters. There exists validity based clustering techniques, which measure a certain cluster validity measure of a certain clustering result by varying the number of clusters. After doing this for a broad range of possible number of clusters, this method selects the number for which the validity measure is optimum. This method is, however, awkward and may not always be applicable for very large data sets. Recently an interesting visual technique for determining clustering tendency has been developed. This new technique is called VAT in abbreviation. The original VAT and its different versions are found to determine the number of clusters, before actually applying any clustering algorithm, very satisfactorily. In this paper, we have proposed an out-of-core VAT algorithm (o-VAT) for very large data sets.
+
+Clustering
+Number of clusters
+VAT algorithm
+Visual assessment

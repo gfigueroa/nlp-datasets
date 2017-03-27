@@ -1,0 +1,12 @@
+Plate-impact experiments were performed to examine the influence of grain size on the dynamic tensile (or spall) behavior of shocked polycrystalline aluminum. Ultrapure and commercially pure 1050 aluminum plates were cold rolled to 80% strain and heat treated under predetermined conditions to produce recrystallized samples with average grain sizes varying between 49 and 453¼m. Well-characterized samples were subjected to plane wave loading at peak compressive stresses of 4 and 21GPa, and free-surface velocity profiles were obtained using velocity interferometry. At 4GPa, the observed pullback velocity, a characteristic feature of the spall response, was similar for different grain sizes of 1050 and ultrapure Al, suggesting that the preferential failure mode is intragranular. At 21GPa, the spall response (i.e., the pullback velocity and the signal structure) depended on the alloy content; the pullback velocity of ultrapure Al increased with increase in grain size, while it remained constant for 1050 Al. In addition, the structure of pullback signals showed a well-defined change in slope for different grain size samples in ultrapure Al, while no such feature was observed for 1050 Al. For the grain sizes examined, the ÃHEL was nearly independent of the grain size for 1050 Al and beyond a certain grain size for ultrapure Al.
+
+aluminium
+cold rolling
+fracture
+grain size
+heat treatment
+impact (mechanical)
+plates (structures)
+recrystallisation
+shock wave effects
+tensile strength

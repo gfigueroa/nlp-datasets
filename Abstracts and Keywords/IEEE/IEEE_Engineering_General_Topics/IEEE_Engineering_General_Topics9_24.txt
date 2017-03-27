@@ -1,0 +1,6 @@
+In this paper we present a comparison between JPEG 2000-based motion compensated temporal filtering (MCTF) and H.264 fidelity range extension (FRExt) high profile (HP) codecs, used for the compression of video streams for digital cinema (DC) applications. Existing MCTF techniques have been extended and adapted to the particular characteristics of DC images, and they have been compared with state-of-the-art compression methods. The results show that H.264 generally achieves the best objective results, with MCTF very close or better at low bit rates: in this case, the existing JPEG 2000 decompression hardware may profitably exploit MCTF.
+
+Digital Cinema
+H.264 FRExt
+JPEG 2000
+Motion compensated temporal filtering

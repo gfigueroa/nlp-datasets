@@ -1,0 +1,9 @@
+Electronic structures and magnetic properties of CaN and CaC in the zinc-blende (ZB) phase are systematically explored by using an accurate density-functional method. From the analysis of the spin-dependent density of states, band structure and magnetic moments, we predict that ZB-structure CaN and CaC at their respective equilibrium lattice constant are half-metallic (HM) ferromagnets with a magnetic moment of 1.00¼B/f.u. and 2.00¼B/f.u., respectively. Magnetism comes from spin-polarization of electrons in Ca d-orbitals and N (C) p-orbitals. We also find that their half-metallicity can be maintained within a wide range of lattice constants, which is helpful for applications in the field of spintronics.
+
+calcium compounds
+density functional theory
+electronic structure
+ferromagnetic materials
+lattice constants
+magnetic moments
+magnetoelectronics

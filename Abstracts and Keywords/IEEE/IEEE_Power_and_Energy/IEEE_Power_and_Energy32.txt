@@ -1,0 +1,7 @@
+We present a multi-period stochastic mixed integer programming model for power generation scheduling in a day-ahead electricity market. The model considers various scenarios and integrates the idea of reserve shortage pricing in real time. Instead of including all the possible scenarios, we parsimoniously select a certain number of scenarios to limit the size of the model. As realistic size models are still intractable for exact methods, we propose a heuristic solution methodology based on scenario-rolling that is capable of finding good quality feasible solutions within reasonable computation time.
+
+Day-ahead market
+decision tree
+heuristics
+reserve shortage pricing
+stochastic programming

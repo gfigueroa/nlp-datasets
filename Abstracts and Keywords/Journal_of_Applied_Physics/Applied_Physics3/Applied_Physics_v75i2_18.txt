@@ -1,0 +1,14 @@
+GaAs samples with a 100nmCo overlayer that had been subjected to rapid thermal annealing for 60 s at temperatures of 400650	°C were analyzed using mass and energy dispersive recoil spectrometry. Separate characterizations of C, O, Co, Ga, and As depth distributions were performed. Both Ga and As had migrated to the surface at anneal temperatures higher than 450	°C. In a sample annealed at 650	°C, a clear enrichment of Ga in the outer 35 nm was observed. The composition for various depth intervals was determined for different temperatures. From Arrhenius plots, apparent activation energies were estimated to be about 0.6 eV for phase formation and 1.3 eV for diffusion. Xray diffraction indicated that CoGa and CoAs phases were present in all the annealed samples. Scanning electron microscopy showed the surface to be reticulated after heat treatment, with grain growth at higher temperatures.
+
+COBALT
+THIN FILMS
+GALLIUM ARSENIDES
+ANNEALING
+DIFFUSION
+DEPTH PROFILES
+INTERFACES
+TEMPERATURE RANGE 04001000 K
+XRD
+MASS SPECTROSCOPY
+PHASE STUDIES
+CHEMICAL REACTIONS

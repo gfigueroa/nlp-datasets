@@ -1,0 +1,7 @@
+This paper proposes a novel fuzzy mode-based adaptive approach to synchronize two different discrete-time chaotic systems. In order to handle the linguistic and numerical uncertainties associated with the inputs and outputs of the fuzzy logic system (FLS), the chaotic drive and response systems are represented by interval type-2 Takagi-Segeno (T-S) fuzzy model. Based on the recursive weighted least squares algorithm, the adaptive laws can be derived to estimate the unknown system parameters. The output of master system is chosen as the reference trajectory and the control input of salve system is designed to achieve asymptotic synchronization with different initial conditions, different parameters and/or different type of model. The simulation example is included to confirm validity and performance of the advocated design methodology.
+
+Adaptive fuzzy
+chaotic systems
+discrete-time
+interval type-2 FLC
+synchronization

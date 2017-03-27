@@ -1,0 +1,12 @@
+The extended harmonic domain (EHD) method is used to obtain the harmonics in the dynamic and steady state response to disturbances for four common FACTS devices. The versatility of this method is demonstrated by applying it to a thyristor-controlled series compensator (TCSC), static reactive power compensator (SVC), static synchronous series compensator (SSSC), and unified power flow controller (UPFC). The derivation of the state-space equations that describe the dynamics of the above devices and their transformation into linear, time-invariant (LTI) systems using EHD is presented. The LTI systems are simulated in the presence of disturbances using MATLAB<sup>Â®</sup>, and graphical depictions are used to illustrate the evolution in time of the harmonic coefficients and power quality indices such as RMS voltage and current, apparent power, active power, reactive power, and distortion power. This study shows the usefulness of this methodology in highlighting the sensitivity of the harmonic response of these devices to disturbances.
+
+Extended harmonic domain
+Fourier series
+SSSC
+SVC
+TCSC
+UPFC
+VSC
+harmonic domain
+switching functions
+transient analysis

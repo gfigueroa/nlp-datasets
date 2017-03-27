@@ -1,0 +1,7 @@
+Electricity generation is one of the major sources of airborne pollutants which can cause public health degradation. However, evidences for using the health damage costs cannot be found in the literature in order to include the effects in its production costs. In this study, the health damage costs due to Thai electricity generation produced from fossil fuels which operated during the period from 2006 to 2008 were evaluated. Based on the impact pathway approach (IPA), the main airborne pollutants (SO<inf>2</inf>, NO<inf>X</inf>, and PM<inf>10</inf>) were formed in fossil fuel burning stage and emitted directly from stack to the atmosphere. The advections of the pollutants including secondary particulates (sulfate and nitrate aerosols) were simulated using the CALMET/CALPUFF modeling system. Damages to human health resulting from the increment in pollutant concentrations were associated with the exposure-response functions (ERFs) of mortality and morbidity. Finally, costs of such impacts were then estimated. The results showed that more than 300 deaths were annually caused by all considered sources which taken more than 90% of the total damage cost. The largest problem was influenced by oil/gas-fired power plants. As a result, the health damage costs were relatively significant to electricity market price. Taking the damage costs into account will be beneficial to energy and environmental policy implications.
+
+Air pollution
+dispersion modeling
+electricity generation
+external cost
+health impact

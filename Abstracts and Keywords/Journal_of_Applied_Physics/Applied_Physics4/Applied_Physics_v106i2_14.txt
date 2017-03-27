@@ -1,0 +1,10 @@
+Barium stannate titanate Ba(Sn0.15Ti0.85)O3 (BTS) thin films with different thicknesses were grown by sol-gel process on single crystal LaAlO3 (LAO) and Pt/Ti/SiO2/Si substrates, respectively. Coplanar capacitance and parallel plate capacitance structure configurations were formed by preparing interdigital electrodes and parallel plate electrodes on BTS thin films. Both of the films exhibited an enhanced dielectric constant and tunability as the film thickness increases but these two cases are actually based on different mechanisms. The thickness dependent dielectric properties of the films deposited on Pt/Ti/SiO2/Si substrates were mainly attributed to the dead layer effect while those of the films grown on LAO substrates were due to strain and grain size of the films.
+
+barium compounds
+capacitance
+electrodes
+ferroelectric materials
+ferroelectric thin films
+grain size
+permittivity
+sol-gel processing

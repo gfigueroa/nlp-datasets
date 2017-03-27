@@ -1,0 +1,9 @@
+In this work Ag underlayers, with a slightly larger unit cell than FePt, were found not only to induce epitaxial growth of the FePt films but also to reduce the FePt ordering temperature. Without using the Ag underlayer, the FePt film deposited onto the Si substrate was fcc disordered. By the use of the Ag underlayer, it was observed that the FePt unit cells were expanded in the film plane. This has caused the shrinkage of the FePt unit cells along the film normal direction and resulted in the in situ ordering of the FePt thin film at reduced temperatures. The microstructural and magnetic properties of the FePt/Ag films at varied substrate temperature and FePt thickness were studied to investigate the L10 FePt ordering. © 2001 American Institute of Physics.
+
+iron alloys
+platinum alloys
+magnetic epitaxial layers
+substrates
+crystal microstructure
+silver
+magnetic hysteresis

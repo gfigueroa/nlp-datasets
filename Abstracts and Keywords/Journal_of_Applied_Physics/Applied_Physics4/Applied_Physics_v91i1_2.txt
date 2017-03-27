@@ -1,0 +1,8 @@
+The device physics of bilayer polymer light-emitting diodes that utilize energy transfer to various porphyrin derivatives were investigated. The emissive host, ±,É-bis[N,N-di(4-methylphenyl) aminophenyl]-poly(9,9-bis(2-ethylhexyl)fluoren-2,7-diyl) (PF2/6am4), was doped to a variety of concentrations between 0.5 and 4 wt.
+% with 2,3,7,8,12,13,17,18-octaethyl-21H,23H-porphyrin zinc(II) (ZnOEP), 2,3,7,8,12,13,17,18-octaethyl-21H,23H-porphyrin palladium(II) (PdOEP), and 2,3,7,8,12,13,17,18-octaethyl-21H,23H-porphyrin platinum(II) (PtOEP). The electroluminescent devices showed a maximum external quantum efficiency (EQE) of 1.19%, 0.22%, 1.08%, and 2.75% for undoped APFO, PF2/6am4:ZnOEP, PF2/6am4:PdOEP, and PF2/6am4:PtOEP blends, respectively. We attribute this variation in performance of the blends to be a product of both the luminescence quantum yield of the dopant molecules, which we take from the literature as 0.065, 0.2, and 0.5 for ZnOEP, PdOEP, and PtOEP, respectively, and the dopant excited state lifetime. We observe that at high brightness the EQE of the doped devices falls below that of the undoped device and we attribute this high-end falloff in performance to the excited state lifetimes of the dopant molecules, which determine at which current density devices exhibit peak efficiency. Past this peak in efficiency, we propose that saturation of the dopant sites is the major factor in detrimental device performance, which has wide reaching consequences for any future design that utilizes energy transfer of dopant molecules. © 2002 American Institute of Physics. 
+
+optical polymers
+light emitting diodes
+organic compounds
+polymer blends
+radiative lifetimes

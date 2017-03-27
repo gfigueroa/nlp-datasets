@@ -1,0 +1,11 @@
+Raman spectra of a large variety of amorphous siliconcarbon films prepared by magnetron sputtering at different technological conditions are studied. Great emphasis is given to the bands in the region 200450 cm1. The position of the welldefined dip between the bending mode band and the bands in the central region is used as a quantitative measure of the position of the bands in the central region. The relative carbon content in the films is estimated by infrared spectroscopy. It is shown that the changes in the central region of the Raman spectrum with the carbon atoms incorporation are due to the formation of a new bond type, but not due to increased disorder. It was found that the position of the abovedefined dip could be used for comparison of the alloying atom content of nonhydrogenated amorphous silicon alloys. This is also applicable for hydrogenated samples having approximately one and the same hydrogen content.
+
+AMORPHOUS SEMICONDUCTORS
+SILICON
+CARBON
+RAMAN SPECTRA
+ALLOYING
+THIN FILMS
+SPUTTERED MATERIALS
+VIBRATIONAL STATES
+SILICON CARBIDES

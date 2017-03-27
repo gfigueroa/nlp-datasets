@@ -1,0 +1,21 @@
+Interface states induced in silicon by reactive ion beam etching (RIBE) have been investigated using a metal oxide semiconductor capacitancevoltage (MOSCV) technique, secondary ion mass spectrometry (SIMS), and Rutherford backscattering spectrometry (RBS). RIBE using an ion beam extracted from a C2F6 plasma was used to selectively remove a layer of SiO2 from the surface of single crystal silicon. MOS capacitors formed after the regrowth of a thin SiO2 layer on the silicon showed the presence of a substantial interface state density (Nss =10121013 eV1	cm2) near the middle of the energy gap of Si. RBS experiments on the Si surfaces exposed to the reactive ion beam showed the presence of tungsten (presumably from the tungsten filaments used to ignite the plasma and neutralize the ion beam). SIMS depth profiles of these samples after reoxidation to form capacitors showed tungsten contamination which was at a maximum at the SiO2Si interface. The interface state density determined from CV measurements scaled linearly with the tungsten concentration at the interface as determined by SIMS. Interface states were formed only in the case where the Si surface was exposed to the reactive ion beam. As little as 10 nm of SiO2 remaining on the Si surface after RIBE was sufficient to prevent interface states formation.
+
+silicon
+energy levels
+tungsten
+interfaces
+carbon fluorides
+chemical reactions
+ion beams
+etching
+electrical properties
+spectroscopy
+plasma
+surfaces
+monocrystals
+capacitors
+energy gap
+sims
+spatial distribution
+mos junctions
+rutherford scattering

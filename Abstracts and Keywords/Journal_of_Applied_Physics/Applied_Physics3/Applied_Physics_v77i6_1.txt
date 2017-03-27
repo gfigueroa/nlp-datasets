@@ -1,0 +1,11 @@
+In this article, we describe a method based on mirage effect in rear configuration, i.e., a modulated pump beam illuminates one side of the sample and the temperature gradient is probed on the opposite side. We show that a detailed investigation of the amplitude and phase of the photothermal deflection angle, versus the modulation frequency, connected with a numerical analysis, provides a determination of the thermal conductivity coefficient in the normal direction to the sample surface. The method, suitable for thin slabs of low thermal diffusivity materials, is calibrated with a series of known samples and then applied to a polydiacetylene single crystal. © 1995 American Institute of Physics. 	
+
+PHOTOTHERMAL SPECTROSCOPY
+ANISOTROPY
+THERMAL CONDUCTIVITY
+FREQUENCY MODULATION
+NUMERICAL ANALYSIS
+DIFFUSIVITY
+SLABS
+POLYACETYLENES
+MONOCRYSTALS

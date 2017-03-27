@@ -1,0 +1,11 @@
+The formation of a vitreous silica surface in the presence of water vapor is investigated through the molecular dynamics simulation technique. Threebody potentials are employed to describe the interatomic interactions. The structure of the reconstructed surface is analyzed with respect to the concentration and type of defects. Comparison between surfaces created in the presence of water and those created in a vacuum indicate that H2Osurface reactions substantially reduce the number of topological (two , three , and fourmembered rings) and bonding defects (under and overcoordinated species) incurred during the relaxation process. Due to the dissociation of water molecules, the wet surface contains excess oxygen with a concentration of 3.1±0.6 silanols per 100 Å2, involving approximately 13% geminal sites.
+
+SILICA
+VITREOUS STATE
+SURFACE RECONSTRUCTION
+WATER
+SIMULATION
+MOLECULAR DYNAMICS CALCULATIONS
+POTENTIALS
+THREEBODY PROBLEM
+CRYSTAL DEFECTS

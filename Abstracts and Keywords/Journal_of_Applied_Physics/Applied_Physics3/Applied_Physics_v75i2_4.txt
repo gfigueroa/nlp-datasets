@@ -1,0 +1,13 @@
+Experimental results on protonexchanged waveguides in lithium tantalate are reported. Protonexchanged zcut samples are characterized optically and using secondaryionmass spectroscopy (SIMS). The SIMS profiles are used to obtain the temperaturedependent diffusion coefficient. The increase of the extraordinary index is obtained using the prismcoupling technique and the decrease of the ordinary index is deduced from the spectral modulation of the transmission at normal incidence. A series of protonexchanged samples are annealed and the postannealing changes are followed over time. It is found that for certain parameters the refractive index decreases rapidly the first days after the annealing. There is also a smaller longterm change. Further, on repeated heat treatment this aging process will recommence. A second series of samples are fabricated by proton exchange in sulphatesalt melts. It is found that above a certain proton concentration in the melt, the refractive index decreases when the proton concentration is increased. This has the impact that certain samples with a monotonously decreasing proton concentration will have their maximum refractive index below the surface. This increases the difficulty in accurately reconstructing the index profile from measured effective indices.
+
+LITHIUM TANTALATES
+WAVEGUIDES
+ION EXCHANGE MATERIALS
+FABRICATION
+INTEGRATED OPTICS
+SIMS
+DEPTH PROFILES
+DIFFUSION
+REFRACTIVE INDEX
+HYDROGEN
+PROTONS

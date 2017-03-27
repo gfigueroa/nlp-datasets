@@ -1,0 +1,13 @@
+Hall and photoHall measurements have been performed on GaAsAlAs shortperiod superlattices selectively doped with silicon. The dopant was introduced selectively in either the GaAs or AlAs layers or at the interface. A superlattice doped uniformly in both layers was investigated for comparison. The electrical properties were controlled by DX deep donors lying in the gap of the superlattice. Hall data are interpreted with a model taking into account the existence of two DX deep donors and a shallow donor both related to the silicon impurity. It is found that the silicon donor state in AlAs lies 60 meV below the silicon donor state in GaAs. The ionization energies of the DX states in GaAs and AlAs are computed to account for the experimental results. Interpretation of Hall data in selectively doped samples needs to assume segregation of silicon atoms during epitaxy. 	 	
+
+SUPERLATTICES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+DOPED MATERIALS
+SILICON ADDITIONS
+DIFFUSION
+ELECTRICAL PROPERTIES
+DEEP ENERGY LEVELS
+MOLECULAR BEAM EPITAXY
+SEGREGATION
+IMPURITIES

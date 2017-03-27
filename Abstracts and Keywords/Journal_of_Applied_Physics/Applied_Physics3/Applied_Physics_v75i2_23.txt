@@ -1,0 +1,13 @@
+The rate of resistivity decay in Al2Cu1Si thinfilm conductors was studied as a function of temperature and grain size distribution. The decay kinetics were assumed to be governed by the rate of precipitate reconfiguration to grain boundaries. This assumption was confirmed by transmission electron microscopy (TEM) observations of the microstructure during resistance decay, and by studies of lines of two different widths. The results can be explained qualitatively from the microstructure of the lines. In particular, increasing the mean grain size slows the rate of resistivity decay, and establishing a bimodal distribution with a significant population of relatively large grains has the same effect. A simple model was developed to treat these effects quantitatively. The model assumes a cylindrical grain geometry and a uniform initial distribution of Cu and ignores the effect of intragranular precipitation. The model yields reasonable values for the activation energy for Cu diffusion in thin films, and predicts the correct dependence of the decay rate on grain size and grain distribution; however, it appears to overestimate the value of the preexponential factor D0.
+
+ALUMINIUM ALLOYS
+COPPER ALLOYS
+SILICON ALLOYS
+THIN FILMS
+MICROSTRUCTURE
+ELECTRIC CONDUCTIVITY
+CONNECTORS
+GRAIN SIZE
+PRECIPITATION
+DECAY
+DIFFUSION

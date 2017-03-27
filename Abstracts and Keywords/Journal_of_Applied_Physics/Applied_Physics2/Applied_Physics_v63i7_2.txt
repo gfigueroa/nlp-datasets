@@ -1,0 +1,8 @@
+Niobiumstress influence on Nb/Aloxide/Nb trilayer Josephsonjunction characteristics is studied. Different junction fabrication techniques are examined such as conventional etching and new liftoff processes. Nbfilm stress, relaxed during trilayer etching, can deteriorate junction quality in etchingprocessed junctions smaller than a few micrometers square. Such deterioration does not occur in liftoff processed junctions even when they are 1 ¼m square because stress relaxation occurs during trilayer deposition through liftoff stencils. This new allNb Josephsonjunction fabrication technique produces highquality junctions with Rsg/Rnn =24 (Rsg and Rnn are tunnel resistances at 2 and 4 mV, respectively) and a current uniformity of 1.5% for 100 1¼msquare junctions connected in series.
+
+JOSEPHSON JUNCTIONS
+FABRICATION
+ELECTRICAL PROPERTIES
+ETCHING
+NIOBIUM
+STRESSES

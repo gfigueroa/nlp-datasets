@@ -1,0 +1,13 @@
+Shocked porous ball powders have been investigated by means of microwave interferometric techniques. Equations developed for interferometric measurements on inert materials apply for energetic materials until reaction at the shock front begins. As reaction begins, the microwave interferometer (MI) output exhibits characteristic changes in both the absorption and reflection of the microwave signal. These changes have been related to hot spot development at the shock front. The hot spots in a reacting bed have been experimentally approximated to a first order by including metallic particles in unreacting beds and measuring their effects on the propagation of microwaves. With the aid of dielectric measurements of the metallized beds, hot spot concentrations as a function of time were predicted from the MI output of reacting beds.
+
+POROUS MATERIALS
+DIELECTRIC MATERIALS
+SHOCK WAVES
+INTERFEROMETRY
+CHEMICAL REACTIONS
+REFLECTION
+MICROWAVE RADIATION
+WAVE FRONT
+DETONATION WAVES
+POWDERS
+EXPLOSIVES

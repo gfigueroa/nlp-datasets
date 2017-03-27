@@ -1,0 +1,10 @@
+Microcantilever-based techniques can be used to explore the autonomy and property of biomolecules (e.g., DNA and single actin filaments) which, in measurement, are adsorbed on the cantilever surface. Here, an energy method is presented to predict the cantilever deflection induced by adsorbed atoms/molecules. The cantilever is modeled as a sandwich beam containing two surface layers of a finite thickness and a bulk layer between them. The adsorptions of O atoms on Si(100) and Hg atoms on Au(100) are taken as two representative examples. We demonstrate that physisorption can induce distinctly different deformation behaviors of cantilevers, which depend not only on the adatoms but also on the substrate material. These results are consistent with relevant experimental observations. This study is helpful for optimal design of microcantilever-based measurement techniques.
+
+adsorption
+bending
+cantilevers
+elemental semiconductors
+mercury (metal)
+micromechanical devices
+oxygen
+silicon

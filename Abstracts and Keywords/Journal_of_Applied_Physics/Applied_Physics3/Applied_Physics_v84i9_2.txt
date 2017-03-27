@@ -1,0 +1,12 @@
+Selective growth of arrays of silicon-doped GaN (Si:GaN) pyramids for field emitter applications has been achieved. The electron emission characteristics of these arrays has been measured using techniques such as field emission, field emission energy distribution analysis (FEED), photoemission electron microscopy (PEEM), and field emission electron microscopy (FEEM). The field emission currentvoltage (IV) results indicate an average threshold field as low as 7 V/¼m for an emission current of 10 nA. It is suggested that the low threshold field value is a consequence of both the low work function of Si:GaN and the field enhancement of the pyramids. The results of the FEEM and FEED measurements indicate agreement with the field emission IV characteristics. The FEED results indicate that the Si:GaN pyramids are conducting, and that no significant ohmic losses are present between the top contact to the array and the field emitting pyramids. The PEEM and FEEM images show that the emission from the arrays is uniform over a 150 ¼m field of view. © 1998 American Institute of Physics.
+
+gallium compounds
+III-V semiconductors
+vapour phase epitaxial growth
+semiconductor epitaxial layers
+semiconductor growth
+field emission
+field emission electron microscopy
+photoemission
+work function
+silicon

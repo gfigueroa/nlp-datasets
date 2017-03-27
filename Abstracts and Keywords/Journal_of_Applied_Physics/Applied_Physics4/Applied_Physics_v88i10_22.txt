@@ -1,0 +1,7 @@
+Millimeter-wave microscopy is investigated with the aid of a simplified model. The model consists of a parallel plate waveguide opening into a ground plane and radiating in the presence of a perfectly conducting strip. The method of moments is used together with a quasi-static approximation to solve for the reflection coefficient. Numerical results included indicate that high resolutions are feasible with this apparatus. © 2000 American Institute of Physics. 
+
+method of moments
+scanning probe microscopy
+parallel plate waveguides
+electromagnetic wave reflection
+millimetre wave measurement

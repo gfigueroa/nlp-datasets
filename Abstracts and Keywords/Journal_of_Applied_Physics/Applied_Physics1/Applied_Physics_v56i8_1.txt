@@ -1,0 +1,13 @@
+Gold diffused CdTe crystals have been studied by electrical and optical measurements, involving admittance spectroscopy, low temperature photoluminescence excited with a tunable dye laser, absorption, and magnetooptical measurements. It has been shown that Au introduces an acceptor level at 263 meV above the valence band. Its properties can be understood in terms of classical deep acceptorlike states with a d10 impurity core. Substitutional acceptor Au concentrations up to <5×1016 cm3 could be obtained with a twostep diffusion process. Otherwise, simple diffusions at temperatures higher than 600	°C lead to the formation of complex centers. Some complexbound exciton lines have been identified. They have been tentatively attributed to neutral substitutionalinterstitial associates. Magnetooptical studies have shown that the acceptor Au bound exciton ground state was a J=1/2 state, and have confirmed that Au acceptor was indeed on Cd site in a Td symmetry. The diamagnetic shift of the neutral acceptor bound exciton complex is well explained in terms of the pseudodonor model. Also the cubic crystal field effects have been found to be very important.
+
+ACCEPTORS
+OPTICAL PROPERTIES
+ELECTRICAL PROPERTIES
+EXCITONS
+MAGNETOOPTICAL EFFECTS
+CADMIUM TELLURIDES
+DIFFUSION
+VALENCE BANDS
+IMPURITIES
+INTERSTITIALS
+PHOTOLUMINESCENCE

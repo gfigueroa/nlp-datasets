@@ -1,0 +1,7 @@
+In order to take full advantage of MCM technology, it is desirable to push clock rates to the highest rate achievable. It is extremely important to accurately characterize parameters such as timing margins and undershoot conditions to pursue this goal. Probing internal nodes of MCMs is essential to optimizing their performance. This paper investigates the accuracy of signal acquisition under varying probe conditions. The effect of probe parasitic capacitance and inductance on timing measurements is measured and modeled.
+
+Accuracy
+High speed
+MCM
+Measurement
+Probe

@@ -1,0 +1,5 @@
+Higher integration density of nanoscale CMOS causes two major design challenges in SRAM-based Field Programmable Gate Array (FPGA) designs: large power dissipation (contributed by both leakage and dynamic power) and reduced reliability of operation. In this paper, we propose a hybrid design approach for SRAM-based FPGA that can leverage on non-volatile carbon nanotube based nano electro-mechanical systems (NEMS) switches for low static and dynamic power. Simulations show that the proposed CMOS-NEMS lookup table (LUT) based circuits can achieve a reduction of up to 91% in total power at iso-performance, compared to the conventional CMOS-based LUT circuits.
+
+FPGA design
+hybrid CMOS-NEMS
+low power

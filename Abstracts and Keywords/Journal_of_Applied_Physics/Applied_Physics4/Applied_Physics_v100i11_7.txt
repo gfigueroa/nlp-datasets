@@ -1,0 +1,10 @@
+In electron-phase-separated Pr0.7Pb0.3MnO3 single crystals, nonlinear current effects have been observed above a critical current (Ic), beyond which a metal-insulator transition could be induced by the applied electrical current. We found that the square of Ic was linearly related to the external temperature, which can be well understood based on a local heating-cooling model. Furthermore, the surface area and mass of the current paths in the phase-separated systems were obtained by fitting our experimental data to the model, and a temperature-dependent topology of the current paths was found. In addition, interesting oscillatory behaviors in differential resistance (dV/dI) were observed at temperatures slightly above the metal-insulator transition temperature, which can be attributed to electron tunneling between isolated ferromagnetic clusters embedded in the insulating paramagnetic matrix.
+
+praseodymium compounds
+lead compounds
+phase separation
+colossal magnetoresistance
+critical currents
+metal-insulator transition
+tunnelling
+electric resistance

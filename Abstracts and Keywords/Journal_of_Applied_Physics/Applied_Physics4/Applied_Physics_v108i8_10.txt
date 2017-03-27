@@ -1,0 +1,10 @@
+In situ ultrahigh vacuum transmission electron microscopy was employed to observe the dynamics of both the coalescence and decay of two-dimensional Fe13Ge8 islands on an atomically smooth Ge(001) surface. Quasi-one-dimensional (1D) island decay behavior was observed on the isotropic Ge(001) surface where annealing caused the islands to shrink significantly faster in one direction. The shrinkage in the perpendicular direction was minimal in comparison. This is contrary to Ostwald ripening for isotropic surfaces, as well as for the quasi-1D island decay model for anisotropic surfaces. During annealing, this island decay behavior occurred by the attachment/detachment limiting mechanism, which is based on an analysis of adatom concentration differences. Therefore, this quasi-1D island decay process is driven by adatom concentration differences between coalescing and decaying islands. Island decay occurs along the large diffusive flux channel between islands and is affected by the local environment.
+
+annealing
+germanium alloys
+iron alloys
+island structure
+shrinkage
+surface diffusion
+surface structure
+transmission electron microscopy

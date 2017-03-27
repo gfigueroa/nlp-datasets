@@ -1,0 +1,7 @@
+This document presents a method to design scalable and representative moving object data (MOD) and two sets of queries for benchmarking spatio-temporal DBMS. Instead of programming a dedicated generator software, we use the existing Secondo DBMS to create benchmark data. The benchmark is based on a simulation scenario, where the positions of a sample of vehicles are observed for an arbitrary period of time within the street network of Berlin. We demonstrate the data generators extensibility by showing how to achieve more natural movement generation patterns, and how to disturb the vehicles positions to create noisy data. As an application and for reference, we also present first benchmarking results for the Secondo DBMS. Whereas the benchmark focuses on range queries, we demonstrate its ability to incorporate new future classes of queries by presenting a preliminary extension handling various nearest neighbour queries. Such a benchmark is useful in several ways: It provides well-defined data sets and queries for experimental evaluations; it simplifies experimental repeatability; it emphasizes the development of complete systems; it points out weaknesses in existing systems motivating further research. Moreover, the BerlinMOD benchmark allows one to compare different representations of the same moving objects.
+
+Benchmark
+Moving object database
+Data generator
+Spatio-temporal database
+Trajectory

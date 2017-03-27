@@ -1,0 +1,14 @@
+Real-time measurements of stress evolution during the deposition of VolmerWeber thin films reveal a complex interplay between mechanisms for stress generation and stress relaxation. We observed a generic stress evolution from compressive to tensile, then back to compressive stress as the film thickened, in amorphous and polycrystalline Ge and Si, as well as in polycrystalline Ag, Al, and Ti. Direct measurements of stress relaxation during growth interrupts demonstrate that the generic behavior occurs even in the absence of stress relaxation. When relaxation did occur, the mechanism depended sensitively on whether the film was continuous or discontinuous, on the process conditions, and on the film/substrate interfacial strength. For Ag films, interfacial shear dominated the early relaxation behavior, whereas this mechanism was negligible in Al films due to the much stronger bonding at the Al/SiO2 interface. For amorphous Ge, selective relaxation of tensile stress was observed only at elevated temperatures, consistent with surface-diffusion-based mechanisms. In all the films studied here, stress relaxation was suppressed after the films became continuous. © 2001 American Institute of Physics.
+
+semiconductor thin films
+metallic thin films
+internal stresses
+stress relaxation
+crystal growth
+silver
+aluminium
+titanium
+silicon
+germanium
+elemental semiconductors
+amorphous semiconductors

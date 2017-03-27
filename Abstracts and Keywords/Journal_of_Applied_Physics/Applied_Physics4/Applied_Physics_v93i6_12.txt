@@ -1,0 +1,9 @@
+In addition to locally stressed rhombohedral phase, evidence for trapped metastable phases in (001)-cut single-crystal wafers of Pb(Zn1/3Nb2/3)O3(89)%PbTiO3 has been obtained by means of the x-ray diffraction technique. The rhombohedral phase is stressed predominantly in compression in the plane of the wafer, both in unpoled and poled conditions, giving rise to the broad shoulder at the lower 2¸ end of the rhombohedral peak. Trapped tetragonal phase, with its c axis lying both in the plane and perpendicular to the plane of the wafer, can also be detected in as-sliced, unpoled wafers. Upon poling along the [001] thickness direction, the tetragonal phase with its c axis lying in the plane of the wafer is transformed readily to the rhombohedral phase. In contrast, a minute amount of tetragonal phase with its c axis perpendicular to the plane of the wafer can be stabilized by the stressed rhombohedral matrix in poled state. At sufficiently high poling fields (i.e., ~1.2	kV/mm), a trapped pseudomonoclinic phase may be formed among the locally stressed rhombohedral lattice. © 2003 American Institute of Physics. 
+
+lead compounds
+X-ray diffraction
+phase equilibrium
+solid-state phase transformations
+crystal structure
+dielectric polarisation
+ferroelectric materials

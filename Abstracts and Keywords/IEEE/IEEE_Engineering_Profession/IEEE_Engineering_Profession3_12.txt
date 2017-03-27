@@ -1,0 +1,5 @@
+A mobile ad-hoc network (MANET) is a kind of wireless ad-hoc network, and is a self-configuring network of mobile routers (and associated hosts) connected by wireless links. Destination Sequenced Distance Vector (DSDV) is a table driven routing protocol for mobile ad-hoc networks. Using Bluetooth as a communication mechanism between the nodes, DSDV has been implemented using JAVA. Basically the idea of implementation is simply the communication between server and a client, spreading this concept throughout the nodes of the network gives the real time implementation of the routing protocol under consideration.
+
+Bluetooth Technology
+Mobile Ad Hoc Network
+Table Driven Approach

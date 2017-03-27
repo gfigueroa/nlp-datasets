@@ -1,0 +1,14 @@
+It is well known that magnetic exchange coupling across the ferromagnetantiferromagnet interface results in an unidirectional magnetic anisotropy of the ferromagnetic layer, called exchange bias. Despite large experimental and theoretical efforts, the origin of exchange bias is still controversial, mainly because detection of the interfacial magnetic structure is difficult. We have applied photoelectron emission microscopy (PEEM) on several ferromagnetantiferromagnet thin-film structures and microscopically imaged the ferromagnetic and the antiferromagnetic structure with high spatial resolution. Taking advantage of the surface sensitivity and elemental specificity of PEEM, the magnetic configuration and critical properties such as the Néel temperature were determined on LaFeO3 and NiO thin films and single crystals. On samples coated with a ferromagnetic layer, we microscopically observe exchange coupling across the interface, causing a clear correspondence of the domain structures in the adjacent ferromagnet and antiferromagnet. Field dependent measurements reveal a strong uniaxial anisotropy in individual ferromagnetic domains. A local exchange bias was observed even in not explicitly field-annealed samples, caused by interfacial uncompensated magnetic spins. These experiments provide highly desired information on the relative orientation of electron spins at the interface between ferromagnets and antiferromagnets. © 2001 American Institute of Physics. 
+
+magnetic anisotropy
+magnetic structure
+interface magnetism
+exchange interactions (electron)
+photoelectron spectra
+electron microscopy
+ferromagnetic materials
+antiferromagnetic materials
+magnetic thin films
+Neel temperature
+lanthanum compounds
+nickel compounds

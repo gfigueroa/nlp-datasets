@@ -1,0 +1,11 @@
+Sidoped GaAs layers were grown by the migrationenhanced epitaxy (MEE) method and by the conventional molecularbeam epitaxy (MBE) method, for the substrate temperatures between 220 and 670	°C. For the layers grown below 400	°C, the Si activation and mobility of the MEE layers are significantly higher than those of the MBE layers. For substrate temperatures above 400	°C, the MEE and MBE layers have roughly similar Si activation and mobility. The Raman and 4K photoluminescence spectra of the layers are consistent with the measured electron concentrations. This work suggests that for Si doping in GaAs at low substrate temperatures (below 400	°C), the MEE method is a very desirable alternative to the conventional MBE method.
+
+GALLIUM ARSENIDES
+DOPED MATERIALS
+SILICON ADDITIONS
+EPITAXY
+ELECTRICAL PROPERTIES
+ELECTRON MOBILITY
+RAMAN SPECTRA
+PHOTOLUMINESCENCE
+ULTRALOW TEMPERATURE

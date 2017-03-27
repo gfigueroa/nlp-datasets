@@ -1,0 +1,11 @@
+Piezoreflectance is used to identify allowed and forbidden transitions in the spectra of asgrown 100 and 50 Å GaAs/AlxGa1xAs multiple quantum well samples from which no photoreflectance spectra suitable for characterization could be obtained. Features in the piezoreflectance spectra are shown to result from excitonic transition by direct comparison with the absorbance measurements made on semitransparent regions of these samples. Transition energies are extracted from the piezoreflectance spectra using a form of the Aspnes equation appropriate for the first derivative of a Lorentzian.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+PIEZOOPTICAL PROPERTIES
+SPECTRAL REFLECTANCE
+QUANTUM WELL STRUCTURES
+FORBIDDEN TRANSITIONS
+OPTICAL TESTING
+LEAST SQUARE FIT
+DATA ANALYSIS

@@ -1,0 +1,8 @@
+The proliferation of the digitized media introduces an exigent problem of security in multimedia data transmission in the network surroundings. Consequently, digital watermark technique needs to be incorporated in a digital rights management framework to address different aspects of the content supervision. The objective is to develop low power, real time, reliable and secure data hiding system that can be achieved all the way through hardware implementation. As an attempt towards the power efficient system, here we present an oblivious, spatial domain watermarking based authentication algorithm and its FPGA implementation. It is shown that the low cost data embedding algorithm can conceal watermark into original cover image coming from a sensor much faster than software implementation and the embedded image is easily transmitted to PC by using proper interface. The quality of the transmitted image is also comparable to that obtained by software algorithm.
+
+Binary Image
+FPGA
+Image Watermarking
+Robust
+Spatial Domain
+proliferation

@@ -1,0 +1,4 @@
+Inverted frustums are an important class of fabricated nanostructures and their effective spring constants play an important role in applications. We use an inverted frustum model of particles interacting with springs to probe a recent EulerBernoulli theory (EBT) prediction for the length dependence of the effective spring constant. Inverted frustums used in applications have cross sections b(h) that increase as < h0.3 and EBT predicts keff will scale as keff < h1.8. This is very different from that of a straight-rod with keff < h3. In this paper, we have tested this prediction with a model of particles interacting with springs. The scaling exponents from the simulations are consistent with the continuum mechanics EBT predictions.
+
+elasticity
+nanoparticles

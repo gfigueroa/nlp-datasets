@@ -1,0 +1,9 @@
+The refractive indices, birefringence, and linear electro-optic (EO) effect of 0.62Pb(Mg1/3Nb2/3)O30.38PbTiO3 single crystals have been characterized as a function of wavelength. The dispersions of refractive indices for both ordinary and extraordinary rays were accurately described by a two-term Sellmeier dispersion equation, in which the parameters connected to the energy band structure were determined. A strong dispersion was found for birefringence and EO coefficient ³c = ³33(no/ne)3³13. With the increasing wavelengths, both of them decrease fast. The two-term Sellmeier dispersion model, in which one oscillator frequency is polarization dependent, was shown to represent closely all the results. The polarization potential, which specifies the magnitude of the oscillator frequency shift, was 0.40eV	m4	C2.
+
+lead compounds
+ferroelectric materials
+electro-optical effects
+refractive index
+birefringence
+band structure
+dielectric polarisation

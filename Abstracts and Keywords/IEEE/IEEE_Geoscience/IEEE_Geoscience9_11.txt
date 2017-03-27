@@ -1,0 +1,6 @@
+A new class code structure for Spectral Amplitude Coding Optical Code Division Multiple Access (OCDMA) with zero cross-correlation is been proposed in this paper. The proposed code called Modified Zero Cross Correlation Code (MZCC) which evaluation from the existing Zero Cross Correlation Code. MZCC code provides much easier code construction, minimum code length with K number of users given any weight. MZCC code will be demonstrated in simulation using OptiSys. version 7.0. The results indicated that MZCC code is truly performs better in term of performance Bit Error Rate (BER) due to non-existence of Phase Induced Intensity (PIIN).
+
+Bit Error Rate
+Modified Zero Cross Correlation
+Phase Induced Intensity Noise
+Zero Cross Correlation

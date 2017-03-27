@@ -1,0 +1,6 @@
+This paper introduces a new design for the Bulk Built-In Current Sensor (BICS) capable of detecting the single-event transients (SET) due to a particle strike in the integrated circuits. An 4-bit multiplier is used as a case study. The simulation results indicate that efficiency and applicability of the Bulk-BICS of this work improves while the power consumption and area overhead reduce greatly.
+
+area overhead
+built-in current sensor
+power consumption
+single-event transient (SET)

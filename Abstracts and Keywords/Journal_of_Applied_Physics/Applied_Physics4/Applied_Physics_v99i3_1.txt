@@ -1,0 +1,7 @@
+Wafer bonding with intermediate polymer adhesives is an important fabrication technique for advanced microelectronic and microelectromechanical systems, such as three-dimensional integrated circuits, advanced packaging, and microfluidics. In adhesive wafer bonding, the polymer adhesive bears the forces involved to hold the surfaces together. The main advantages of adhesive wafer bonding include the insensitivity to surface topography, the low bonding temperatures, the compatibility with standard integrated circuit wafer processing, and the ability to join different types of wafers. Compared to alternative wafer bonding techniques, adhesive wafer bonding is simple, robust, and low cost. This article reviews the state-of-the-art polymer adhesive wafer bonding technologies, materials, and applications.
+
+wafer bonding
+adhesive bonding
+polymers
+reviews
+micromechanical devices

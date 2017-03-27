@@ -1,0 +1,11 @@
+The control of the magnetization in ferromagnetic layers via electric fields is a hot topic in view of applications to the next generation of spintronic devices, where writing the magnetic information through current lines could be replaced by electric writing. Mixed valence manganites are good candidates for such a purpose because they present an intriguing coupling between ferromagnetism and charge ordering/doping which can be tuned by the application of an electric field. Here we present results on the near-room temperature control of the magnetization of optimally doped La0.67Sr0.33MnO3 ultrathin films in vertical field effect devices, where they act as top or bottom electrodes. In the latter case a slight decrease in the Curie temperature ( < 5K) is observed after application of 5×107V/m, i.e., the maximum field preventing electric breakdown, compatible with the induced variation in the charge density and mixed valence within the Thomas Fermi screening length. These results indicate that electric fields achievable in vertical field effect devices, of the same entity of interfacial fields originating from differences in the work function in heterostructures, have only minor influence on the magnetic properties of optimally doped ultrathin La0.67Sr0.33MnO3 films.
+
+Curie temperature
+field effect devices
+lanthanum compounds
+magnetic thin films
+magnetisation
+magnetoelectronics
+strontium compounds
+Thomas-Fermi model
+work function

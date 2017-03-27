@@ -1,0 +1,11 @@
+We introduce a new technique to modify the coherence properties and the farfield intensity distributions of optical fields. Use is made of a combination of Bragg diffraction and RamanNath diffraction in an acoustooptic deflector. The highfrequency Bragg grating in the deflector is phase modulated by a synthetic lowfrequency RamanNath regime grating that has a structure of an optimized phaseonly computergenerated hologram. We demonstrate, e.g., electronic control of the state of spatial coherence of light, Gaussian to flattop conversion, and the generation of arrays of equally intense but mutually incoherent light spots.
+
+LASER RADIATION
+COHERENT RADIATION
+MODULATION
+AMPLITUDES
+SPACE DEPENDENCE
+DIFFRACTION
+HOLOGRAPHY
+GRATINGS
+ACOUSTOOPTICAL EFFECTS

@@ -1,0 +1,9 @@
+Flexoelectric effect in cholesteric liquid crystals can be used to produce optical switching on a microsecond time scale. In a simple geometry, this effect produces a light modulation the amplitude of which is linear in field. The switching time from one optical state to the other is predicted to be independent of the magnitude of the electric field. We confirm this prediction experimentally in a roomtemperature cholesteric liquid crystal.
+
+CHOLESTERIC CRYSTALS
+LIQUID CRYSTALS
+ELECTROOPTICAL EFFECTS
+SWITCHING
+MEDIUM TEMPERATURE
+ELECTRIC FIELDS
+FLEXOELECTRICITY

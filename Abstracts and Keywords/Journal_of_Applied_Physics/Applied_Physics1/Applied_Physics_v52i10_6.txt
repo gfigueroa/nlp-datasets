@@ -1,0 +1,20 @@
+A kinematical model for general Bragg case xray diffraction in nonuniform films is presented. The model incorporates depthdependent strain and spherically symmetric Gaussian distribution of randomly displaced atoms. The model is applicable to ionimplanted, diffused, and other single crystals. Layer thickness is arbitrary, provided maximum reflecting power is less than <6%. Strain and random displacement (damage) distributions in He+implanted Gd, Tm, Ga:YIG, and Ne+implanted Gd3Ga5O12 are obtained by fitting the model to experimental rocking curves. In the former crystal the layer thickness was 0.89 ¼m with strain varying between 0.09 and 0.91%. In the latter crystal a wide range of strain and damage was obtained using successively higher doses. In each case layer thickness was 1900 Å, with 2.49% strain corresponding to 0.40Å standard deviation of random displacements. The strain distributions were strictly linear with dose. The same, closely linear relationship between damage and implantationinduced strain was determined for both crystals.
+
+GARNETS
+FILMS
+STRAINS
+SPATIAL DISTRIBUTION
+XRAY DIFFRACTION
+CRYSTALS
+DAMAGE
+ION IMPLANTATION
+MATHEMATICAL MODELS
+BRAGG REFLECTION
+GAUSSIAN FUNCTION
+MONOCRYSTALS
+THICKNESS
+HELIUM IONS
+NEON IONS
+COMPARATIVE EVALUATIONS
+THICKNESS
+RARE EARTHS

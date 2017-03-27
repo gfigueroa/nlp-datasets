@@ -1,0 +1,7 @@
+The fully leaky guided-mode optical-waveguide technique has been used to characterize the tilt profiles in two E7-filled hybrid-aligned nematic cells. The director distortion was measured with ac and dc voltages applied perpendicular to the substrates. By comparing the tilt profiles with model profiles produced using a free-energy minimization program, the flexoelectric coefficient of E7 at 20
+°C has been measured as +1.5±0.2×1011	C
+m. The effect of surface polarization in the cells has also been observed. This surface polarization is attributed to the influence of the homeotropic surface. The dipole alignment imbalance of the liquid crystal at the homeotropic surface has then been estimated. © 2002 American Institute of Physics. 
+
+nematic liquid crystals
+molecular reorientation
+flexoelectricity

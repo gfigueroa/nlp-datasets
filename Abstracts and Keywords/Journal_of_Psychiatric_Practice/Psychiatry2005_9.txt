@@ -1,0 +1,17 @@
+Sleep and wakefulness are fundamental behavioral and neurobiological states that characterize all higher animals, including human beings. This article presents an overview of the current state of our knowledge concerning the function of sleep and sleep-wake rhythms, the neurobiology of circadian rhythms, how wakefulness and sleep are studied, and the clinical assessment and diagnosis of sleep and circadian rhythm disorders. Major theories of the function of sleep and sleep-wake rhythms are reviewed, including ecological or environmental advantage, physical restoration, optimizing waking function, learning and integration of experience, and survival. The author then reviews what is known about the neurobiology of endogenous circadian rhythms and how they are affected by environmental time cues. How sleep is studied using polysomnography (PSG) is explained, and the PSG characteristics of the three major neurobehavioral states, wakefulness, rapid eye movement (REM) sleep, and non-rapid eye movement (NREM) sleep, are described. Systems of classifying sleep disorders are reviewed, including those of the DSM-IV-TR, the International Classification of Sleep Disorders, and the ICD-10. Methods of assessing sleep complaints are then described, including taking an accurate history from the patient and bed partner, use of sleep history questionnaires and sleep-wake diaries, use of actigraphy, and use of PSG. 
+
+sleep
+wakefulness
+sleep-wake cycles
+circadian rhythms
+polysomnography
+rapid eye movement (REM) sleep
+non-rapid eye movement (NREM) sleep
+Epworth Sleepiness Scale
+Pittsburgh Sleep Quality Index
+sleep-wake diaries
+actigraphy
+insomnia
+parasomnias
+circadian rhythm sleep disorders
+restless leg syndrome

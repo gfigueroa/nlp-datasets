@@ -1,0 +1,15 @@
+CdTe films grown by molecular beam epitaxy on (001) InSb from a congruently subliming CdTe compound source were studied by photoluminescence for the presence of chemical impurities and native defects. Photoluminescence data taken at 77 K indicates that the optimum substrate growth temperature for a growth rate of 0.4 ¼m/h is about 170	°C. Negligible selfactivated emission was observed at 77 and 6.5 K. The 6.5K photoluminescence spectrum is dominated by edge emission at about 797 nm (<1.55 eV) and this is attributed to recombination through acceptor impurity levels. Bandtoband recombination observed at room temperature and the presence of wellresolved free excitons as well as acceptor and donorbound excitons suggest the films are of high quality, but contain significant concentrations of donor and acceptor impurities.
+
+PHOTOLUMINESCENCE
+IMPURITIES
+CRYSTAL DEFECTS
+LOW TEMPERATURE
+BAND STRUCTURE
+EXCITONS
+DONORS
+ACCEPTORS
+FILMS
+MOLECULAR BEAM EPITAXY
+CADMIUM TELLURIDES
+INDIUM ANTIMONIDES
+ULTRALOW TEMPERATURE

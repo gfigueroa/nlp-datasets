@@ -1,0 +1,5 @@
+An intrinsic characteristic of the colossal magnetoresistance manganite compounds is that the resistance and the magnetoresistance vary strongly with temperature over the small temperature regime in which the magnetoresistance is exceptionally large. We propose a heterostructure constructed of layers of varying composition manganites which extends the regime of large magnetoresistance and greatly broadens the sharp peak in resistance. Data from a prototype heterostructure are presented that demonstrate the effectiveness of this method. © 1997 American Institute of Physics. 
+
+giant magnetoresistance
+manganese compounds
+rare earth compounds

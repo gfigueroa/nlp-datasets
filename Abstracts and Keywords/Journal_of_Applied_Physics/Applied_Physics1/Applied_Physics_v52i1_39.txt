@@ -1,0 +1,16 @@
+The addition of a thin, high bandgap P(N)type AlxGa1xAs layer into a conventional AlyGa1yAsGaAs Np (Pn) heterojunction is found to significantly reduce the 2kT recombination current, thereby permitting the bulk diffusion current to dominate at current densities as low as <105 A/cm2. Experiment indicates that the 2kT current is due to surfacerecombination processes and originates in a very narrow region near the pn junction, presumably due to the small minoritycarrier surfacediffusion length.
+
+SEMICONDUCTOR DIODES
+ELECTRIC CURRENTS
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+ENERGY GAP
+LAYERS
+RECOMBINATION
+DATA
+DIFFUSION
+CURRENT DENSITY
+SURFACES
+PN JUNCTIONS
+CHARGE CARRIERS
+DIFFUSION LENGTH

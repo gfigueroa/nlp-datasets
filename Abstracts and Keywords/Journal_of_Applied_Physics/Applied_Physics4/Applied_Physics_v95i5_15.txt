@@ -1,0 +1,13 @@
+(Ba,Sr)TiO3(BST) thin films were deposited by ion sputtering on both bare and oxidized Si. Spectroscopic ellipsometry results have shown that a SiO2 underlayer of nearly the same thickness (2.6 nm in average) is found at the Si interface for BST sputter depositions onto nominally bare Si, 1 nm SiO2 on Si or 3.5 nm SiO2 on Si. This result was confirmed by high-resolution electron microscopy analysis of the films, and it is believed to be due to simultaneous subcutaneous oxidation of Si and reaction of the BST layer with SiO2. Using the conductance method, capacitancevoltage measurements show a decrease in the interface trap density Dit of an order of magnitude for oxidized Si substrates with a thicker SiO2 underlayer. Further reduction of Dit was achieved for the capacitors grown on oxidized Si and annealed in forming gas after metallization. © 2004 American Institute of Physics. 
+
+barium compounds
+dielectric thin films
+sputter deposition
+interface structure
+ellipsometry
+oxidation
+electric admittance
+interface states
+annealing
+metallisation
+transmission electron microscopy

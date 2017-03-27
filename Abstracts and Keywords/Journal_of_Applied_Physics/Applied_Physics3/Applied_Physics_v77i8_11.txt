@@ -1,0 +1,12 @@
+Control of the orientation of (Ca,Sr)CuO2 films with (001) and (101) texture on glass substrates, and (110) and (101) texture on (001) MgO substrates was obtained by changing the sputtering conditions. Although (110) and (101) films on (001) MgO substrates were epitaxial, they showed a double positioning and fourfold rotation symmetry structure. Calculations using the cohesive energy between the film and the MgO single crystal substrate were used to confirm the epitaxial relationships between the film and the MgO substrate. The reason for the change in the texture of the films as a function of the substrate is also discussed. © 1995 American Institute of Physics.
+
+CALCIUM OXIDES
+STRONTIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+THIN FILMS
+SPUTTERING
+TEXTURE
+ORIENTATION
+EPITAXY
+COHESIVE ENERGY

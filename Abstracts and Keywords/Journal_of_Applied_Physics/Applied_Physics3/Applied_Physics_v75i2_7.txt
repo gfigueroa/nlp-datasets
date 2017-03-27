@@ -1,0 +1,10 @@
+The effects of spontaneous emission on the threshold characteristics of multimode laser oscillators with mixed line broadening are considered in detail. Most previous studies of multimode laser operation have emphasized the two limits of homogeneous and inhomogeneous broadening. With homogeneous broadening there is a tendency for oscillation in a single longitudinal mode, while in the inhomogeneous limit oscillation over much of the gain spectrum is expected. All practical lasers are somewhere between these limits, and this study explores the mode characteristics of lasers with mixed line broadening. Special attention is given to the important practical case of semiconductor diode lasers, and bandtoband absorption is fully included.
+
+SEMICONDUCTOR LASERS
+SPONTANEOUS EMISSION
+POWER
+OSCILLATIONS
+LINE BROADENING
+LASER DIODES
+NOISE
+SPECTRAL ANALYSIS

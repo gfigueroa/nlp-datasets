@@ -1,0 +1,15 @@
+A model for the nanosize double-gate silicon-on-insulator metal-oxide-semiconductor field-effect transistors is developed, which enables both physical accuracy and flexibility. The quantum Liouville equation in the Wigner function representation has been used to deal with the quantum transport problem. Accounting for electron scattering due to ionized impurities, acoustic phonons, and surface roughness at the SiSiO2 interface, device characteristics are obtained as a function of structure parameters. From the analysis of the Wigner function, the coexistence of diffusive and ballistic transport naturally emerges. The obtained I-V characteristics show that the double-gate device is a potential structure for ultimate complementary metal-oxide-semiconductor scaling.
+
+MOSFET
+nanostructured materials
+Liouville equation
+Wigner distribution
+electron diffraction
+surface roughness
+surface phonons
+silicon
+elemental semiconductors
+silicon compounds
+ballistic transport
+phonon-impurity interactions
+semiconductor device models

@@ -1,0 +1,11 @@
+We have used x-ray reflectivity to measure the morphological profiles of thin Au layers of three different average thicknesses sandwiched between two polystyrene layers with different molecular weights. The results showed that the equilibrium structures of the samples with the layers less than 4 nm thick, where discontinuous islands are expected, were very close to those of the nonannealed samples. However, the morphologies of samples with layers more than 4 nm thick, where a continuous layer structure was formed, were influenced by annealing. Comparison of transmission electron micrographs from unannealed and annealed samples showed that annealing promotes spherical shapes for the Au particles and breakup of an elongated, randomly connected structure visible prior to the annealing. The fractional area covered with Au obtained from transmission electron microscopy images is in good agreement with x-ray reflectivity results. These results were interpreted in terms of capillarity induced spheroidization of the ultrathin Au layers. © 2003 American Institute of Physics. 
+
+gold
+annealing
+X-ray reflection
+transmission electron microscopy
+spheroidizing
+discontinuous metallic thin films
+polymers
+deformation
+nanoparticles

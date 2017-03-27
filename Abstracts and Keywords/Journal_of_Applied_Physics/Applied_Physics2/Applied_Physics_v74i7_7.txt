@@ -1,0 +1,12 @@
+The problem of saturation of intersubband absorption and optical rectification in asymmetric quantum wells is discussed theoretically using the density matrix formalism. The effects of the electronelectron interaction are taken into account. It is shown that near the resonance the spectral shapes of the nonlinear optical absorption coefficient and the nonlinear optical rectification coefficient are very similar. In the absence of the electronelectron interaction the spectral responses are nearly Lorentzian. The electronelectron interaction plays an important role in heavy doped systems. In structures with large spatial separation of the ground and the excited states wave functions, the depolarization effect is small and the absorption spectrum is affected mainly by the electrostatic Coulomb interaction. This interaction shifts the absorption peak to higher energy by an amount depending on the intensity of the incident light and leads to the significant distortion (asymmetry) of the line. 	
+
+QUANTUM WELLS
+OPTICAL PROPERTIES
+ABSORPTION
+INTERBAND TRANSITIONS
+ASYMMETRY
+DENSITY MATRIX
+NONLINEAR OPTICS
+ELECTRONELECTRON INTERACTIONS
+LINE SHAPE
+SPECTRAL SHIFT

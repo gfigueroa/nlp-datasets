@@ -1,0 +1,7 @@
+Radio frequency magnetron sputtering deposited calcium phosphate (CaP) coatings can be applied to improve the biological performance of medical implants. However, the deposition process is rather complex. Particle ejection from the sputtering target, particle collisions with the background gas, charge state of the sputtered particles, and resputtering of the deposited film all influence the composition and structure of the film. In this work we study the deposition process of the coatings by performing depositions through an aperture. Thus an image of the sputtering target is obtained. In order to interpret these images, the deposition process is simulated using a Monte Carlo computer simulation. We found that the experimental images obtained at different gas pressures are well predicted by the simulations. The calcium and phosphorus are proven to be ejected as neutrals from the target. The particle ejection distribution could not unambiguously be derived. This was partially because the image is distorted due to resputtering of the deposited film. The resputtering is the result of bombardment by energetic argon from the plasma, or energetic negative oxygen from the target. Phosphorus is preferentially resputtered from the film. In conclusion, we found that depositions with an aperture in combination with Monte Carlo simulations are a powerful combination to study and better understand the deposition process. © 2003 American Institute of Physics. 
+
+calcium compounds
+sputter deposition
+Monte Carlo methods
+thin films
+biomedical materials

@@ -1,0 +1,5 @@
+The paper presents the design and implementation of a hierarchical structure embedding a complex family of experts for process control. Each member of the expert system solves one of the control problems: from operator assistance to control algorithms synthesis. At the first level the structure of the system integrates four classes of experts. In each class a pyramidal organization of experts establishing cammunications and cooperating solves the corresponding control problem. A general expert system is provided for each class. This allows the system and the user to dynamically create new knowledge and expertise. An example illustrating the structure of the class of the expert systems for process control design is given at the end.
+
+CAD for process control
+Computer process control
+expert systems for process control

@@ -1,0 +1,6 @@
+In order to seek the key targets of apoptosis and proliferation, a 140-node topology of signal transduction network of small cell lung cancer is built by Pajek software. Afterward, we analyze node degree and betweenness of the constructed network; compare the key targets which control tumor cell proliferation and apoptosis. According to the signal transduction mechanisms, we get the key targets of tumor apoptosis are P53, CytC, CASP3, Fas, CASP8,the key targets control tumor proliferation are PIP3, IKK.
+
+betweenness
+node degrees
+signal transduction network
+small cell lung cancer

@@ -1,0 +1,5 @@
+We have calculated the dc Josephson current through double barrier superconducting junctions. Using a formula derived by Furusaki and Tsukada [Solid State Commun. 78, 299 (1991)], we have numerically estimated the currentphase relationship from the probability amplitude of the Andreev reflections in the junctions, and also discussed the resonant phenomena of quasiparticles. Moreover, using the obtained currentphase relationship, we have analyzed the characteristics of superconducting quantum interference devices containing double barrier superconducting junctions. © 2000 American Institute of Physics. 
+
+SQUIDs
+Josephson effect
+quasiparticles

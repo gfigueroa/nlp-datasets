@@ -1,0 +1,10 @@
+The effects of substrate temperature on magnetoresistive (MR) ratio of the NiFeCo mutilayer thin films were investigated. Films were fabricated by rf sputtering with substrate temperature elevated to 200 and 300	°C prior to deposition. MR ratios increased by an average of 5% at 200	°C and 7.7% at 300	°C, as compared with the films deposited on unheated substrate.
+
+NICKEL ALLOYS
+IRON ALLOYS
+COBALT ALLOYS
+MAGNETORESISTANCE
+TEMPERATURE DEPENDENCE
+SUBSTRATES
+MULTILAYERS
+THIN FILMS

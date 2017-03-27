@@ -1,0 +1,5 @@
+An analytical theory is given for the space-charge-limited (SCL) current of an electron diode in the presence of collisions. It extends the improved SCL current formula, which already takes into account the effect of nonzero electron injection velocities v0, by treating collisions within a simple model, with a friction parameter ½. The general currentvoltage characteristic is obtained numerically. Within the ChildLangmuir limit v0’0, however, our model not only recovers analytically both the ballistic ChildLangmuir law (as ½j1) and the nonballistic drift MottGurney law (as ½k1), but also provides SCL for any ½. Based on the present analysis, the nonreflective nature of SCL is emphasized. Extensive use is made of the Lagrangian description of the cold-fluid equations and from proper knowledge about the correct definition of the SCL. © 2002 American Institute of Physics. 
+
+semiconductor diodes
+semiconductor device models
+space-charge-limited conduction

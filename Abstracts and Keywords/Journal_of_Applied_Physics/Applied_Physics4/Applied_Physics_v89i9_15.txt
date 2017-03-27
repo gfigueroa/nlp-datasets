@@ -1,0 +1,7 @@
+Diamond-like carbon films were deposited using electron cyclotron resonance (ECR) chemical vapor deposition incorporated with a screen grid under different dc bias voltages to compare the effect of ion density and ion energy on the film properties. Langmuir probe measurements and optical emission spectroscopy were used to characterize the ECR plasma, while the films were characterized using Raman and infrared (IR) spectroscopies, hardness, and optical gap measurements. The plasma measurements showed that the ion density, hydrogen atom density, and CH density decreased monotonously following increase in the dc bias voltage. Raman spectra and optical gap measurements indicate the films became more graphitic with lower content of sp3-hybridized carbon atoms as the dc bias voltage was increased. An increase in hydrogen content was found in films prepared at relatively high dc bias voltage, as indicated by IR measurements. Films deposited at 150 V exhibit maximum hardness. The results show the ion density has a stronger effect on the film deposition rate and hydrogen content, while the ion energy affects the film properties more predominantly by changing the bonding structure. © 2001 American Institute of Physics.
+
+carbon
+plasma CVD coatings
+Raman spectra
+infrared spectra
+plasma diagnostics

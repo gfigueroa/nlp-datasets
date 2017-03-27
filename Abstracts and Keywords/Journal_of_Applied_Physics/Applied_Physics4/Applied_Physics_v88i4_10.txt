@@ -1,0 +1,14 @@
+Sheet resistivity and Hall measurements have been performed on a series of p-type modulation-doped Si/Si1xGex heterostructures. The structures were grown by a production-compatible atmospheric-pressure chemical-vapor deposition technique and all the epitaxial layers were lattice matched to the silicon substrates. A depleted-doping technique was used to supply the quantum well with holes, and this approach has enabled the transport properties of the SiGe layers to be characterized between 4.2 and 295 K. Measurements of the Hall scattering factor and drift mobility are reported for ultrathin, high-Ge content layers (0.3&lt;x&lt;0.4) with a range of hole densities up to 4×1012
+cm2. The drift mobilities are shown to be substantially and consistently higher than comparable mobilities reported for holes in Si/SiO2 inversion layers. A drift mobility of 460±20 cm2/V
+s was measured at 295 K for a 6 nm-thick Si0.65Ge0.35 layer. This is more than a factor of 2 greater than the equivalent Si inversion layer mobility and is comparable to the highest room-temperature mobilities reported for holes in fully strained Si/SiGe heterostructures. The Hall scattering factor is shown to be very dependent upon temperature and, at 295 K, very dependent upon the hole density. At 295 K the Hall scattering factor does not exhibit a strong dependence upon Ge content. The variation of the hole drift mobility with temperature has been shown to fit a power dependence ¼<T³ in the range 120300 K. The ³ values are consistent with simple acoustic phonon scattering theory, although a variation in ³ with hole density is also observed, suggesting that a more rigorous theoretical treatment is required. © 2000 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor materials
+silicon
+elemental semiconductors
+semiconductor heterojunctions
+hole mobility
+Hall effect
+hole density
+CVD coatings
+electrical resistivity

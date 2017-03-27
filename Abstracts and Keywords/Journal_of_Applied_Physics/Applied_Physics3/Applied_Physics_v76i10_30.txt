@@ -1,0 +1,10 @@
+The magnetization of ultrathin bcc Fe films (two and three monolayers) on MgO was measured and compared with the behavior predicted for a twodimensional ferromagnet. The experiment indicated that no hysteresis was present in the magnetization. Instead, the magnetization at low temperature was affected by a marked field cooling effect. These observations lead to the conclusion that films of Fe on MgO of such thickness exhibit superparamagnetic behavior as if they were not entirely continuous. In contrast, films thicker than five monolayers exhibit a magnetic response close to that of bulk iron.
+
+MAGNESIUM OXIDES
+IRON
+THIN FILMS
+MAGNETIC PROPERTIES
+SUPERPARAMAGNETISM
+TEMPERATURE EFFECTS
+REFLECTIVITY
+NEUTRON BEAMS

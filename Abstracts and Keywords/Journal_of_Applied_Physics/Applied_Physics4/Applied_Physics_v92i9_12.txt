@@ -1,0 +1,8 @@
+In this paper, the kinematics of mechanical and adhesional micromanipulation using a needle-shaped tool under a scanning electron microscope is analyzed. A mode diagram is derived to indicate the possible micro-object behavior for the specified operational conditions. Based on the diagram, a reasonable method for pick and place operation is proposed. The keys to successful analysis are to introduce adhesional and rolling-resistance factors into the kinematic system consisting of a sphere, a needle-shaped tool, and a substrate, and to consider the time dependence of these factors due to the electron-beam (EB) irradiation. Adhesional force and the lower limit of maximum rolling resistance are evaluated quantitatively in theoretical and experimental ways. This analysis shows that it is possible to control the fracture of either the tool-sphere or substrate-sphere interface of the system selectively by the tool-loading angle and that such a selective fracture of the interfaces enables reliable pick or place operation even under EB irradiation. Although the conventional micromanipulation was not repeatable because the technique was based on an empirically effective method, this analysis should provide us with a guideline to reliable micromanipulation. © 2002 American Institute of Physics. 
+
+scanning electron microscopes
+adhesion
+micromanipulators
+manipulator kinematics
+electron beam effects
+microassembling

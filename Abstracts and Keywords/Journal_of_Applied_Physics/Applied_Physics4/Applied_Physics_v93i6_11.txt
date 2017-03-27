@@ -1,0 +1,15 @@
+A high crystalline quality Si0.75Ge0.25 alloy layer grown by chemical vapor deposition was implanted with 70
+keV	Er+ ions to a fluence of 1015
+cm2 at temperature of 550 °C. The implantation was found to result in an Er depth distribution with 1 at. % maximum concentration 30 nm beneath the surface. The location of the erbium atoms in the host matrix lattice is derived through computer simulation of experimental axial channeling angular scans measured by in situ Rutherford backscattering/channeling spectrometry. Using computer code FLUX 7.7 it is shown that 60% of the implanted erbium atoms are located at ytterbium sites, 10% at tetrahedral sites, and the remainder are associated with random locations in the host matrix. © 2003 American Institute of Physics. 
+
+Ge-Si alloys
+erbium
+semiconductor materials
+ion implantation
+semiconductor doping
+doping profiles
+Rutherford backscattering
+channelling
+CVD coatings
+semiconductor thin films
+digital simulation

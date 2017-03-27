@@ -1,0 +1,6 @@
+Achieving effective coordination has become a pertinent research issue in supply chain management. The problem of capital shortage seems to be bottleneck especially for small and medium enterprises. This paper proposes a two-level supply chain model with delay in payments according to cases of the retailer's different order cycle time respectively, and inventory impawn financing to coordinate the supply chain with material flow and capital flow integrated and to minimize the total cost. Analytical and experimental results are presented and discussed to demonstrate the effectiveness of the proposed model.
+
+Capital Flow
+Delay in Payments
+Inventory Impawn Financing
+Material Flow

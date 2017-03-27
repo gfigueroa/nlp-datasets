@@ -1,0 +1,14 @@
+We investigate the effect of repeated thermal cycles in some of the Pr0.5Ca0.5Mn1xMxO3 (M=Cr, Co, and Ni and x=0.020.05) compounds which undergo a spontaneous (H=0
+T) insulator to metal transition below the temperature Tp driven by percolation of ferromagnetic clusters in a charge ordered background. The zero field resistivity (Á) shows an anomalous behavior upon thermal cycling between a high-(TS)- and a low (TF)- temperature limit: While Á for TkTp is unaffected, it increases significantly for T}Tp and Tp shifts down each time upon thermal cycling. In contrast, Á at a given temperature decreases slowly with time. The anomalous increase of resistivity depends upon the ratio of the charge ordered to ferromagnetic phase fraction and decreases with increasing x and the applied magnetic field (H). We also show that a similar effect can be obtained for Pr0.5Ca0.5Mn0.97Al0.03O3 and Pr0.55Ca0.45MnO3 under H=5
+T although these compounds do not exhibit insulatormetal transition in zero field. The low field magnetization study on Pr0.5Ca0.5Mn0.98Cr0.02O3 suggests that the ferromagnetic Curie temperature remains unaffected, whereas the ferromagnetic phase fraction decreases with repeated cycles. We suggest that the observed anomaly is caused by an increase of interfacial strain between charge ordered and ferromagnetic phases. © 2001 American Institute of Physics. 
+
+praseodymium compounds
+calcium compounds
+electrical resistivity
+metal-insulator transition
+heat treatment
+phase separation
+percolation
+Curie temperature
+ferromagnetic materials
+charge-ordered states

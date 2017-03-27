@@ -1,0 +1,13 @@
+Excimer UV-assisted rapid thermal annealing (UV-RTA) process has been employed to fabricate sol-gel derived ferroelectric Pb0.97La0.03(Zr0.53Ti0.47)O3 (PLZT) thin films on Pt/Ti/SiO2/Si substrates. X-ray diffraction analysis showed that the single phase PLZT thin film can be achieved at a relatively low processing temperature of 580	°C. The films appeared to have improved dielectric properties with dielectric constant (µ) and loss (tan	´) values of 3300 and 0.03 at 1kHz, respectively. Comparatively good remnant polarization (Pr) value of 36¼C	cm2 and coercive field (Ec) value of 60kV	cm1 along with a good fatigue resistance up to 1010 switching cycles have been observed. This method of fabrication of the Pb-based material with the aid of UV-RTA at a comparatively lower temperature opens the door for their better employability in the Si integrated circuit technology.
+
+lead compounds
+lanthanum compounds
+ferroelectric thin films
+rapid thermal annealing
+sol-gel processing
+X-ray diffraction
+permittivity
+dielectric losses
+dielectric polarisation
+fatigue
+ferroelectric switching

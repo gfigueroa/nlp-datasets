@@ -1,0 +1,6 @@
+Inspired by the work on sensory substitution which shows the technical and practical possibilities for perceptual learning, we have carried out a global longitudinal study of the learning capacities for reading digital graphical objects by four blind high-school students. We report here the results obtained with the Tactos system during certain phases of this study, in particular the acquisition of reading strategies and the possibility of deploying these strategies in the case of a geometry exercise.
+
+Embodied Cognition
+Perceptual Development
+Sensory Aids
+Tactile Systems and Their Development

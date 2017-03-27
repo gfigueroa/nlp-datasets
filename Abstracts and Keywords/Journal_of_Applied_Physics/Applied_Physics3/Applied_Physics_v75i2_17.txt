@@ -1,0 +1,16 @@
+YBa2Cu3O7x/insulator/YBa2Cu3O7x trilayers with a single PrGaO3 (PGO) layer or a SrTiO3 (STO)/PGO multilayer as the insulator were prepared by laser deposition. The PGO layers contained pinholes extending down to the bottom layer, causing superconducting microshorts. The pinholes were eliminated by introducing thin STO films, both as buffer layers and in the PGO itself. Insulation resistivity values of 2×109 ©	cm were measured at 77 K for areas up to 1500 ¼m2 in these trilayers. For larger areas the insulation decreased by orders of magnitude. This was caused by local disruption of the insulator layer, possibly induced by contaminations or defects in the substrate. The particles observed on the bottom layer were in general continuously covered by the multilayer insulator, and did not affect the insulation. The highquality insulator layer was found to limit the oxidation of the bottom layer, due to a slower rate of oxygen diffusion. The structure of the STO/PGO layers depended on the thickness of the individual films. Voids started to form in the PGO above a critical thickness of 40 nm. The voids lowered the dielectric constant of the insulator, and a value of 18.5±4.5 was measured at room temperature for a STO/PGO multilayer insulator. The voids could be eliminated by decreasing the thickness of the individual PGO films.
+
+SUPERCONDUCTING FILMS
+FILM GROWTH
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+TERNARY COMPOUNDS
+MULTILAYERS
+STRONTIUM TITANATES
+PRASEODYMIUM OXIDES
+GALLIUM OXIDES
+ABLATION
+LASER RADIATION
+ELECTRIC CONDUCTIVITY
+HIGHTC SUPERCONDUCTORS

@@ -1,0 +1,7 @@
+Using low-resistance indium contacts, we measured some transport properties of undoped vapor-liquid-solid grown tin oxide monocrystals with a belt shape. From the transport measurements, the two following conduction mechanisms were investigated: thermal activation and variable range hopping. An energy gap of 3.8 eV was found. The energy gap was confirmed by thermally activated measurements in the range between 10 and 300 K. For high temperatures (T&gt;300K), the influence of the disorder caused by the superficial ions layer is measurable. The electron transport in this case was found to be governed by the well known variable range hopping mechanism and the spatial extension of carriers wavelength was calculated to be 4 nm.
+
+energy gap
+hopping conduction
+semiconductor materials
+tin compounds
+wide band gap semiconductors

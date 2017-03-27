@@ -1,0 +1,10 @@
+This investigation studies the effects of the direction of electron flow on the activation energy and current exponent of electromigration failure of copper interconnects using conductors terminated by vias at both ends. The activation energy of a downstream case (0.91 eV) was found to be similar to that of an upstream case (0.86 eV), suggesting that failure was primarily caused by diffusion along the Cu/SiNx interface for both cases. Mean time to fail with the upstream flow condition exceeded that with the downstream condition by a factor of <2 at 300
+°C and 1(106)	A/cm2. The current exponent (with a link current density in the range of 1×106 to <5×106	A/cm2) of a 0.22 ¼m via/link structure was determined to be 1.44 and 1.87 with upstream and downstream electron flow, respectively. These differences have been correlated to the locations of void nucleation and their physical size for the two electron flow conditions. Furthermore, increasing the via/link size resulted in a slight increase in the current exponent, consistent with the model proposed by Lloyd [J. R. Lloyd, J. Appl. Phys. 69, 7601 (1991).] © 2003 American Institute of Physics. 
+
+copper
+integrated circuit interconnections
+electromigration
+voids (solid)
+nucleation
+current density
+integrated circuit reliability

@@ -1,0 +1,12 @@
+Cavity ring down absorption spectroscopy is applied for the detection of Si and SiH radicals in a remote Ar-H2-SiH4 plasma used for high rate deposition of device quality hydrogenated amorphous silicon (a-Si:H). The formation and loss mechanisms of SiH in the plasma are investigated and the relevant plasma chemistry is discussed using a simple one-dimensional model. From the rotational temperature of SiH typical gas temperatures of <1500 K are deduced for the plasma, whereas total ground state densities in the range of 10151016
+m3 for Si and 10161017
+m3 for SiH are observed. It is demonstrated that both Si and SiH have only a minor contribution to a-Si:H film growth of <0.2% and <2%, respectively. From the reaction mechanisms in combination with optical emission spectroscopy data, it is concluded that Si and SiH radicals initiate the formation of hydrogen deficient polysilane radicals. In this respect, Si and SiH can still have an important effect on the a-Si:H film quality under certain circumstances. © 2001 American Institute of Physics. 
+
+argon
+hydrogen
+silicon compounds
+plasma density
+plasma chemistry
+plasma deposition
+plasma diagnostics
+plasma temperature

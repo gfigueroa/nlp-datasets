@@ -1,0 +1,7 @@
+We consider an electricity market cleared by merit- order in which generating companies (Gencos) own any number of units and submit offers consisting of multiple blocks of finite generating capacity and constant incremental cost (IC). It has been shown that if the IC block offers can vary continuously, the market outcomes supported by pure strategy Nash equilibria (NE) are fewer than or equal to the number of Gencos and can all be computed through a mixed-integer linear programming (MILP) scheme. Knowledge of these NE then serves to study how an oligopolistic market of this type behaves under a variety of demand and market power conditions.
+
+Continuous incremental cost offers
+electricity markets
+fast computation of all Nash equilibria
+merit order
+pure strategy Nash equilibria

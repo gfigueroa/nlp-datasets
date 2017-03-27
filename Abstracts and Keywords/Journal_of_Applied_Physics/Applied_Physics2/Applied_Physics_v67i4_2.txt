@@ -1,0 +1,15 @@
+The interaction of amorphous MoNix alloys with silicon has been investigated by glancingangle xray diffraction, Augerelectron spectroscopy, and sheetresistance measurements in the temperature range 500700	°C. Morich alloys (Mo80Ni20 and Mo65Ni35) were found to react with silicon at <550	°C while nickelrich alloys (Mo32Ni68) react at <500	°C to form silicides. In Morich alloys, the initial reaction occurs due to outdiffusion of nickel from the alloy and indiffusion of silicon into the alloy, while in nickelrich alloys the initial reaction occurs due to outdiffusion of nickel only. In the initial phase of the reaction, a mixture of several crystalline phases of molybdenum and molybdenum and nickel silicides is observed. At higher temperature, however, a twolayer structure MoSi2 +NiSi(NiSi2)/ NiSi(NiSi2)/ Si(100) is formed in both cases.
+
+MOLYBDENUM ALLOYS
+NICKEL ALLOYS
+SILICON
+AMORPHOUS STATE
+XRAY DIFFRACTION
+AUGER ELECTRON SPECTROSCOPY
+ELECTRIC CONDUCTIVITY
+HIGH TEMPERATURE
+NICKEL
+DIFFUSION
+CRYSTALLIZATION
+LAYERS
+ATOM TRANSPORT

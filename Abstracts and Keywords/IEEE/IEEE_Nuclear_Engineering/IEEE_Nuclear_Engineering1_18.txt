@@ -1,0 +1,9 @@
+Using the method of Green functions we found the four-vector potential and electromagnetic field components for a charge moving along an arbitrary path in a perfectly conducting cylindrical waveguide. Solutions are expressed analytically through the Green functions of the d'Alembert operator with Dirichlet and Neumann boundary conditions. Boundary conditions for a four-vector potential in cylindrical coordinates are obtained via analysis of those for corresponding fields on the perfectly conducting surface and the Lorentz gauge condition. We also propose a method, which enables one to reduce the problem for the vector potential to a system of scalar d'Alambert equations in cylindrical coordinate system.
+
+Cylindrical symmetry
+Green function
+Lorentz gauge condition
+four-vector potential
+time domain analysis
+wave equations
+waveguide excitation

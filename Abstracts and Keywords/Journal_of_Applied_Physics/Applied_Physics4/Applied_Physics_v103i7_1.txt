@@ -1,0 +1,11 @@
+The lateral mode profile of pulsed broad ridge 405nm (Al, In)GaN laser diodes grown on GaN and SiC substrates, respectively, is investigated by temporal and spectral resolved scanning near-field optical microscopy. During the first microsecond of the pulse, we observe changes both in the spatial mode profile and in the spectral regime caused by thermal and carrier induced modification of the waveguide refractive index, before stable filaments build up. In quasi-cw operation, a correlation between the lateral mode profile and the corresponding spatial resolved longitudinal mode pattern can be found. The results show that different filaments have different effective refractive indices and thus build up separate longitudinal mode combs.
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+indium compounds
+near-field scanning optical microscopy
+optical waveguides
+refractive index
+ridge waveguides
+semiconductor lasers

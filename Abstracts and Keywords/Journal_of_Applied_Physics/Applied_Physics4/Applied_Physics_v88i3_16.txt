@@ -1,0 +1,10 @@
+Defect characterization of as-grown Zn1xMgxSe mixed crystals (0}x&lt;0.6) and the effect of Zn vapor annealing has been studied by positron lifetime and photoluminescence measurements. We obtain both experimental and theoretical evidence that the bulk lifetime of free positrons increases linearly with Mg alloying. The average positron lifetime increases with temperature indicating that both vacancies and negative ions trap positrons. The decompositions of the lifetime spectra show that the vacancy has the characteristic positron lifetime of 325 ps. The comparison with theoretical calculations indicate that the lifetime 325 ps corresponds either to divacancies relaxed inwards or to monovacancies strongly relaxed outwards. We consider the latter identification more likely and attribute the positron lifetime 325 ps to Zn vacancy or a complex involving VZn. The vacancy concentration is almost independent of Mg content above x=0.2 but decreases strongly at x=0.56. The Zn vapor annealing decreases the concentration of Zn vacancies. The intensity of the green photoluminescence correlates with the concentration of VZn both as a function of Mg alloying and Zn vapor annealing. We thus conclude that the electron levels of the Zn vacancy are involved in the optical transition leading to the green photoluminescence. © 2000 American Institute of Physics. 
+
+positron annihilation
+photoluminescence
+annealing
+vacancies (crystal)
+defect states
+zinc compounds
+magnesium compounds
+semiconductor materials

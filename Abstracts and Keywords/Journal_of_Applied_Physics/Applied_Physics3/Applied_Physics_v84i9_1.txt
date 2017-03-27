@@ -1,0 +1,11 @@
+The complex dielectric functions, õ(E) = õ1(E)+iõ2(E), of chalcopyrite semiconductors CuGaSe2 and CuInSe2 have been measured by spectroscopic ellipsometry in the photon energy range between 1.2 and 5.3 eV at room temperature. The measurements are carried out on the surface parallel to the optic axis c, which allow the determination of the optical properties for light polarized perpendicular (E¥c) and parallel to the c axis (E%c). The measured õ(E) spectra reveal distinct structures at the lowest direct gap (E0) and higher energy critical points. These spectra are analyzed on the basis of a simplified model of the interband transitions. Results are in satisfactory agreement with the experimental data over the entire range of photon energies. Dielectric-function-related optical constants, such as the complex refractive index n(E) = n(E)+ik(E), absorption coefficient ±(E), and normal-incidence reflectivity R(E), of these semiconductors are also presented. © 1998 American Institute of Physics. 
+
+copper compounds
+ternary semiconductors
+optical constants
+dielectric function
+ellipsometry
+visible spectra
+refractive index measurement
+reflectivity
+energy gap

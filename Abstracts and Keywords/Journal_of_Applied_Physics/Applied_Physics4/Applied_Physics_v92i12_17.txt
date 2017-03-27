@@ -1,0 +1,9 @@
+Thermal oxidation of Si produces SiO2 films which are compressively strained after cooling to room temperature. Pulsed laser irradiation of the oxidized surface melts the silicon substrate while maintaining the rigidity of the oxide film. Residual compressive stresses in the film lead to deformation of the film surface through elastic buckling. We study this buckling using atomic force microscopy. For irradiation of diameters smaller than 3 ¼m, the film buckles through a downward deflection of the center with a magnitude that depends on the oxide thicknessthicker films behave more rigidly and undergo a smaller central deflection. Large area irradiation produces rings of upward and downward deflections with a periodicity that varies with the diameter of the melt. The measured wavelength of the buckling of 0.8 ¼m for 25 nm films and 1.6 ¼m for 50 nm films is in good agreement with theory. © 2002 American Institute of Physics. 
+
+silicon compounds
+insulating thin films
+laser beam effects
+internal stresses
+buckling
+atomic force microscopy
+oxidation

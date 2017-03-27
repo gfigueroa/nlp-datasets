@@ -1,0 +1,7 @@
+In an electricity market, congestion occurs for various reasons. However, one can observe that the congestion, via binding electrical facilities, is caused by two main agents - offer/bid by generators/load and the transmission system (i.e. network) itself. In this paper, we attempt to formulate to understand the congestion, if it is solely caused by the network alone, ignoring the effect of offer/bid. In this regard, we apply the novel null space method to a well-known PJM day-ahead network model. The key feature of null space method is that a basis vector, associated with a specific line constraint is computed just once for the marginal congestion component (MCC) of LMP variable for a particular system network topology. Then, we do the same computation for each additional constraint. The combined effect of multiple line constraints is the linear combination of the effect of each line constraint. We compare the results of nodal prices calculated by the null space method with the actual market prices for a specific period from PJM day-ahead market. We conclude the paper with insightful comments and propose for future work.
+
+Congestion cost
+day-ahead market
+locational marginal price (LMP)
+null space
+transmission network

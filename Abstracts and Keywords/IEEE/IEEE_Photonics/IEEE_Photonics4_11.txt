@@ -1,0 +1,5 @@
+A stability result of the wireless communication is given by Liapunov's second method.
+
+model
+stability
+wireless communication

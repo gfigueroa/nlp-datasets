@@ -1,0 +1,13 @@
+[NiFe/AlO/CoFe] films with tunneling magnetoresistance (TMR) were deposited by the dual ion beam sputtering method. An interfacial modulation technique using Kr ion bombardment on the initial growth region of each layer in TMR devices changed the crystallographic structures and interfacial conditions of the films. Kr was used as the sputtering gas in order to reduce the damage to growing films by recoiled particles. The effect of Kr ion bombardment on the initial growth region seemed to be effective in decreasing the film resistivity of NiFe and CoFe films, especially at the optimized bombarding energy of 100 eV. In addition, stoichiometric Al2O3 films could be attained by reactive ion beam sputtering with O2 concurrently flow to the substrate. These optimized films were applicable as the ferromagnetic and insulation layers in TMR devices. © 2001 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+alumina
+cobalt alloys
+ferromagnetic materials
+magnetoresistance
+tunnelling
+magnetic multilayers
+sputter deposition
+ion beam effects
+magnetoresistive devices

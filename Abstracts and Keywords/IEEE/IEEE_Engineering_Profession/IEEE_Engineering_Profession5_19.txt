@@ -1,0 +1,6 @@
+An InP-based 90&#x00B0; hybrid OEIC with integrated pin-photodiodes is presented. It operates unaffected in the temperature range of 15&#x00B0;-35&#x00B0; C, offering low PDL &lt;;1 dB, and stable performance in the wavelengths of 1530 nm to 1565 nm.
+
+100 GbE transmission
+Optical 90&#x00B0;hybrid
+monolithic QPSK receiver
+waveguide-integrated photodiode

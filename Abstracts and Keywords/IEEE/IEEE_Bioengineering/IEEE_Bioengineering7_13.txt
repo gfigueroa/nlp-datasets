@@ -1,0 +1,6 @@
+Fuzzy sketches, introduced as a link between biometry and cryptography, are a way of handling biometric data matching as an error correction issue. We focus here on iris biometrics and look for the best error-correcting code in that respect. We show that two-dimensional iterative min-sum decoding leads to results near the theoretical limits. In particular, we experiment our techniques on the iris challenge evaluation (ICE) database and validate our findings.
+
+Iris
+biometry
+fuzzy sketches
+min-sum decoding

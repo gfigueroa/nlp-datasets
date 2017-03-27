@@ -1,0 +1,11 @@
+Carrier injection and radiative recombination processes in InGaN/GaN blue light emitting diodes are investigated by bias-dependent cathodoluminescence. The samples are designed with a single-quantum-well (SQW) light emitter and an adjacent multi-quantum-well (MQW) carrier injector of lower In content. In unbiased samples, the MQW emission dominates over the SQW at high temperatures (T&gt;160K) or low beam currents (IB&lt;5nA). This is ascribed to changes in the device energy band diagram, dependent on the field in the p-n junction and on the level of electron beam induced excitation of excess carriers. A field screening, resulting in a forward biasing of the devices, is highlighted. A maximum value of +2.65V is reached at T = 100K for a carrier generation rate G0 < 5.4×1013s1. At a fixed electron beam power, the effects of an external applied field on the emitter efficiency are considered. The SQW emission is promoted in the forward-current regime, while in the reverse-current regime (1 } V&lt;2.65 at T = 100K) it undergoes a quenching of at least one order of magnitude and a blueshift (60meV at T = 100K) due to a partial compensation between the junction field and the internal piezoelectric field (minimum residual field of about 1.9MV/cm at T = 100K). The observed blueshift is in a fairly good agreement with the voltage dependence predicted by calculating the energy band profiles and SQW confined states with a self-consistent SchrödingerPoisson solver.
+
+cathodoluminescence
+charge injection
+gallium compounds
+III-V semiconductors
+indium compounds
+light emitting diodes
+p-n junctions
+semiconductor quantum wells
+wide band gap semiconductors

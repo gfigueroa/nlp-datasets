@@ -1,0 +1,10 @@
+In the EU funded Integrated Project APROSYS, a side pre-crash sensing system will be set up consisting of a stereo video rig and a radar network. A second goal of APROSYS is to provide tools for the efficient development of future products based on such a sensing system. If a stereo rig points to the side of a moving road vehicle, then maximum angular velocities in azimuth are typically very large. Synchronous operation of the stereo video cameras therefore becomes highly important for correct depth estimation, and hence crucial for pre-crash sensing. This paper proposes a tool for automated verification of the synchronicity of a stereo rig. It consists of a running light clock and automatic image analysis. An error model relates synchronization errors to depth estimation errors. For a given pair of cameras, the tool is applied to give an upper bound to the resulting depth estimation error for the APROSYS application scenario. The tool can be used as a standard for quality control of future product developments
+
+APROSYS
+Automatic evaluation
+Image analysis
+Intelligent Safety Systems
+Side Pre-Crash
+Side sensing
+Stereo Camera
+Synchronization

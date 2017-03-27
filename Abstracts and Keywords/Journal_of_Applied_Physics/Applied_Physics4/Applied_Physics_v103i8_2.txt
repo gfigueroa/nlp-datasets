@@ -1,0 +1,10 @@
+Laser ablation of aluminum metal with 1ns, 800nm pulse at low radiant exposures was investigated in air (dry) and water (wet) environments. Compared to dry ablation, an approximately eight times increase in material removal rate was associated with wet ablation. Based on optical reflectance and scanning electron microscope images, bubble formation/collapse was responsible for augmented acoustic pressure and ablation performance. Numerically simulated temperature distributions during wet ablation were consistent with the occurrence of explosive water vaporization near the critical temperature of water. Strong pressure emission during liquid vaporization and jet formation can account for enhanced ablation process. Radial expansion of bubbles minimized the redeposition of debris, leading to improvements in energy coupling to the target and ablation performance.
+
+acoustic wave effects
+aluminium
+bubbles
+jets
+laser ablation
+reflectivity
+scanning electron microscopy
+water

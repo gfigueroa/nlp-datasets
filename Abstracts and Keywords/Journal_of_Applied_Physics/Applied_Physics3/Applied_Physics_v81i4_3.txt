@@ -1,0 +1,16 @@
+Alloy films of Co0.70Mn0.30 were grown on GaAs (001) substrates by molecular beam epitaxy at room temperature. The metastable tetragonally distorted single crystal structure was confirmed by reflection high energy electron diffraction and x-ray diffraction measurement, which exhibited a 2.87 Å in-plane lattice parameter. Ferromagnetic resonance measurements and theoretical fitting were performed and showed that, with a Mn capping layer, a uni-directional anisotropy existed. In addition, a fourfold tetragonal magnetocrystalline anisotropy as well as a uniaxial term in the film plane was also confirmed. The hysteresis loops recorded by longitudinal magneto-optical Kerr-effect also demonstrated the existence of different kinds of in-plane magnetic anisotropy. The origins of the anisotropy are explained tentatively. © 1997 American Institute of Physics. 
+
+cobalt alloys
+manganese alloys
+magnetic epitaxial layers
+metallic epitaxial layers
+magnetic anisotropy
+metamagnetism
+molecular beam epitaxial growth
+crystal structure
+reflection high energy electron diffraction
+X-ray diffraction
+magnetic structure
+ferromagnetic resonance
+Kerr magneto-optical effect
+magnetic hysteresis

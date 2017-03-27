@@ -1,0 +1,11 @@
+A new technique using a copper detector in a scanning electron microscope is introduced for the investigation of charging in insulators, and pure singlecrystalline ±quartz samples are studied. The curve of charging rate varying with time is obtained, and the total charge trapped in the sample is accurately determined. Furthermore, the effects of electronbeam energy and current on charging are also examined. Our results suggest that electronradiationinduced defects in the sample play major roles in the charge trapping. Details of the experimental setup are given.
+
+DIELECTRIC MATERIALS
+TRAPPING
+CHARGE DISTRIBUTION
+SCANNING ELECTRON MICROSCOPY
+QUARTZ
+TIME DEPENDENCE
+PHYSICAL RADIATION EFFECTS
+ELECTRON BEAMS
+MEASURING METHODS

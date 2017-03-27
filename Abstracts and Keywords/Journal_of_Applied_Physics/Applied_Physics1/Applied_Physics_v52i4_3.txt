@@ -1,0 +1,18 @@
+The MurphyGood tunneling theory, modified with a Franztype twoband dispersion relation, accurately represents emission of electrons from metals into SiO2 using parameters that are invariant with temperature and that agree with independent measurements. Parameters related to properties of the SiO2 do not change when different metal electrodes are used. Deviations of the measured IV characteristic from the model calculation which occur at low field can be explained in terms of interfacial inhomogeneities in the effective barrier height. For thin dry SiO2 grown on borondope silicon, the effective size of the inhomogeneities increases with decreasing oxidation temperature.
+
+INTERFACES
+TUNNEL EFFECT
+ELECTRONS
+SILICON OXIDES
+ALUMINIUM
+MATHEMATICAL MODELS
+DISPERSION RELATIONS
+ELECTRON EMISSION
+METALS
+PARAMETRIC ANALYSIS
+TEMPERATURE DEPENDENCE
+COMPARATIVE EVALUATIONS
+VARIATIONS
+ELECTRODES
+BORON
+DOPED MATERIALS

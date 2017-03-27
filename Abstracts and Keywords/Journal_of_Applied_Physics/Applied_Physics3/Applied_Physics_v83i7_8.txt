@@ -1,0 +1,11 @@
+We present the results of an investigation into ferrimagnetic resonance at room temperature in superlattice heterostructures with alternating layers of Y3Fe5O12 and EuBi2Fe5O12 grown by pulsed-laser deposition. We find that in the Y3Fe5O12 layer, the spins always prefer to lie in the plane. In the EuBi2Fe5O12 layer, on the other hand, the spin direction switches from normal to the film plane to in-plane as its thickness falls below that of the Y3Fe5O12 layer. © 1998 American Institute of Physics. 
+
+europium compounds
+bismuth compounds
+yttrium compounds
+garnets
+magnetic multilayers
+ferrimagnetic resonance
+spin dynamics
+magnetic transitions
+pulsed laser deposition

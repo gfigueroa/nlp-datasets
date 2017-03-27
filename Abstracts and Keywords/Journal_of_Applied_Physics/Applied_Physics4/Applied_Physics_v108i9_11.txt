@@ -1,0 +1,12 @@
+We report on magnetic properties and X-band electron spin resonance (ESR) study (80430 K) of diluted magnetic semiconductors Ge1xMnxTe (x = 0.070.44) revealing ferromagnetism with the Curie temperature achieving 90 K. Effective magnetic moment peff per Mn2+ ion estimated from the Curie constant in the range 0.15 d x d 0.26 increases from 2.27 to 2.95¼B. The temperature evolution of ESR spectra was found to have a complicated character. We observed the presence of two distinct absorption lines of Dysonian type, associated with two resonance centers in these diluted magnetic semiconductors. Possible origin of these two lines has been analyzed and clustering effect was proposed to be most likely responsible for anomalous behavior. Anomalies in temperature dependencies of the linewidths and g-factors were observed at temperatures lower than 160 K. We connect these anomalies with magnetic fluctuations in the vicinity of transition to ferromagnetic phases. The anomalous broadening of the linewidth in paramagnetic region occurs with decreasing of the temperature similarly to ESR behavior of related A	2MnB6 diluted magnetic semiconductors. This broadening is satisfactorily described in the framework of modified Hubers theory. At the same time, the g-factor is essentially independent on both temperature and alloy composition. Average values of effective g-factor for two resolved spectral components at room temperature were found to be g1 = 2.022.07 and g2 H 1.99.
+
+Curie temperature
+ferromagnetic materials
+fluctuations
+germanium compounds
+g-factor
+magnetic moments
+magnetic transitions
+manganese compounds
+paramagnetic resonance
+semimagnetic semiconductors

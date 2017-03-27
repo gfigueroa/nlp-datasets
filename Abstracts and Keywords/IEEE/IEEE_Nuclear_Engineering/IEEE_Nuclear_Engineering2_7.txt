@@ -1,0 +1,6 @@
+The National Compact Stellarator Experiment (NCSX) is being constructed at the Princeton Plasma Physics Laboratory (PPPL) in partnership with the Oak Ridge National Laboratory (ORNL). The stellarator core is designed to produce a compact 3-D plasma that combines stellarator and tokamak physics advantages. The complex geometry and tight fabrication tolerances of NCSX create some unique engineering and assembly challenges. This paper will describe a few of the challenges of the machine's Modular Coils and vacuum vessel field period assembly and how they are being solved. Coil assembly began in November 2005 and to date 3 Modular Coils have been completed. One vacuum vessel 120deg section has been delivered and field period assembly work began in May 2006. Machine sector sub-assembly, machine assembly, and testing will follow, leading to First Plasma in 2011.
+
+Chill Plates
+Coils
+Fabrication
+NCSX

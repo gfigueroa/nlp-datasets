@@ -1,0 +1,8 @@
+Semiconductor devices have intrinsic mechanical stress due to two separate sources, silicon wafer processing and packaging. This intrinsic stress induces band gap narrowing and consequent degradation of device reliability. In this work, a silicon die that included shallow trench isolation structures was used with additional external compression to clarify the interaction effects on band gap narrowing between stresses induced by different factors. It was observed that the pressure coefficient due to the additional external compression is linearly dependent on the intrinsic tensile region/total region ratio of a p-n diode.
+
+elemental semiconductors
+isolation technology
+semiconductor device packaging
+semiconductor device reliability
+semiconductor diodes
+silicon

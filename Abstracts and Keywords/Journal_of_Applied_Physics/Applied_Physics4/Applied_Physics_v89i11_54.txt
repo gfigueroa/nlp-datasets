@@ -1,0 +1,13 @@
+A magnetoplumbite type of Ba ferrite (BaM) thin layer was deposited on a 9 nm thick Pt underlayer, and excellent c-axis orientation was observed even for an 8 nm thick BaM layer, which corresponds to only three or four BaM unit cells. The grain size was almost in the same range of 6085 nm even when the BaM layer thickness tBaM decreased from 60 to 17 nm, and tBaM should be reduced below 10 nm to make a grain size smaller than 50 nm. However, the perpendicular coercivity Hc¥ and squareness S¥ decreased drastically from 2.6 to 0.5 kOe and from 0.6 to 0.2, respectively, with the decrease of tBaM from 60 to 8 nm because of higher demagnetizing field and susceptibility to thermal fluctuation. On the other hand, the [BaM(524
+nm)/Pt(9
+nm)]3 multilayer exhibited higher Hc¥ and larger S¥ than the BaM/Pt bilayer for the same BaM layer thickness and Hc¥ and S¥ of the [BaM(8
+nm)/Pt(9
+nm)]3 multilayer was 2.0 kOe and 0.6, respectively. It was clarified that the deposition of the BaM/Pt multilayer was very effective for achieving a high perpendicular magnetic anisotropy constant even for the ultrathin BaM layer. © 2001 American Institute of Physics. 
+
+barium compounds
+ferrites
+perpendicular magnetic anisotropy
+magnetic thin films
+grain size
+coercive force
+perpendicular magnetic recording

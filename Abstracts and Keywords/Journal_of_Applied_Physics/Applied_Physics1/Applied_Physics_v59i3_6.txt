@@ -1,0 +1,9 @@
+We report experimental results of an oxygen precipitation study carried out using Czochralski silicon wafers. A twostep anneal scheme was employed: a lowertemperature step (at 650 or 750	°C for 0128 h) for SiO2 precipitate nucleation and a higher temperature step (at 1050	°C for 064 h) for growth. The oxygen precipitation rate is monitored by measuring the interstitial oxygen (Oi) concentration in the silicon lattice. We have found that (i) a precipitation retardation phenomenon exists for wafers that received prolonged nucleation annealing treatment (from 2 to 16 h), and (ii) this retardation phenomenon gives way to a precipitation recovery phenomenon for wafers that received still longer nucleation annealing treatment (for 8128 h). We also describe a nuclei dissolution model to explain the retardation/recovery phenomena. The dissolution proceeds against an Oi supersaturation which would normally drive the nuclei into growth.
+
+SILICON
+PRECIPITATION
+OXYGEN
+SILICA
+NUCLEATION
+CZOCHRALSKI METHOD
+SATURATION

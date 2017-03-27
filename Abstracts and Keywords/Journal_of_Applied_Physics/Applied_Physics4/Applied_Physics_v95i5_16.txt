@@ -1,0 +1,7 @@
+On the basis of the mechanism of surface enhanced Raman scattering, it is shown that coherent anti-Stokes Raman scattering (CARS) of molecules attached to isolated gold nanoparticles are strongly enhanced and the signal from each particle is well localized. In addition to well-known advantages of CARS, the surface enhanced CARS combined with a scanning system of metallic nanoprobe tip can realize high spatial resolution CARS microscopy beyond the diffraction limit of light by locally enhancing the weak signals from the small sample volume. This concept is realized by tip-enhanced coherent anti-Stokes Raman spectroscopy using a metallic nanoprobe of near-field scanning optical microscope. © 2004 American Institute of Physics.
+
+gold
+nanoparticles
+coherent antiStokes Raman scattering
+surface enhanced Raman scattering
+near-field scanning optical microscopy

@@ -1,0 +1,7 @@
+Our goal is to enhance multidimensional database systems with a suite of advanced operators to automate data analysis tasks that are currently handled through manual exploration. In this paper, we present a key component of our system that characterizes the information content of a cell based on a user's prior familiarity with the cube and provides a context-sensitive exploration of the cube. There are three main modules of this component. A Tracker, that continuously tracks the parts of the cube that a user has visited. A Modeler, that pieces together the information in the visited parts to model the user's expected values in the unvisited parts. An Informer, that processes user's queries about the most informative unvisited parts of the cube. The mathematical basis for the expected value modeling is provided by the classical maximum entropy principle. Accordingly, the expected values are computed so as to agree with every value that is already visited while reducing assumptions about unvisited values to the minimum by maximizing their entropy. The most informative values are defined as those that bring the new expected values closest to the actual values. We believe and prove through experiments that such a user-in-the-loop exploration will enable much faster assimilation of all significant information in the data compared to existing manual explorations.
+
+Maximum entropy
+Multidimensional data exploration
+OLAP
+Personalized mining
+User-sensitive interest measure

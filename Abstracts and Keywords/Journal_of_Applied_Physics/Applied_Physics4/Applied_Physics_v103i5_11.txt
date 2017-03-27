@@ -1,0 +1,8 @@
+Single-electron charging effects are observed at room temperature in single Si nanochains. The nanochains, grown by thermal evaporation of SiO solid sources, consist of a series of Si nanocrystals < 10nm in diameter, separated by SiO2 regions. Multiple step Coulomb staircase current-voltage characteristics are observed at 300K in devices using single, selected, nanochains. The characteristics are investigated using a model where the nanochain forms a multiple tunnel junction. The single-electron charging energy for a nanocrystal within the multiple-tunnel junction is EC = e2/2Ceff < 0.32eV, < 12kBT at 300K.
+
+elemental semiconductors
+nanostructured materials
+silicon
+single electron transistors
+tunnelling
+vacuum deposition

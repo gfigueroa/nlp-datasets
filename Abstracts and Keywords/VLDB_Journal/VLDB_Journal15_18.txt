@@ -1,0 +1,7 @@
+Moving objects databases have become an important research issue in recent years. For modeling and querying moving objects, there exists a comprehensive framework of abstract data types to describe objects moving freely in the 2D plane, providing data types such as moving point or moving region. However, in many applications people or vehicles move along transportation networks. It makes a lot of sense to model the network explicitly and to describe movements relative to the network rather than unconstrained space, because then it is much easier to formulate in queries relationships between moving objects and the network. Moreover, such models can be better supported in indexing and query processing. In this paper, we extend the ADT approach by modeling networks explicitly and providing data types for static and moving network positions and regions. In a highway network, example entities corresponding to these data types are motels, construction areas, cars, and traffic jams. The network model is not too simplistic; it allows one to distinguish simple roads and divided highways and to describe the possible traversals of junctions precisely. The new types and operations are integrated seamlessly into the ADT framework to achieve a relatively simple, consistent and powerful overall model and query language for constrained and unconstrained movement.
+
+ADT
+Data type
+Moving object
+Network
+Spatio-temporal

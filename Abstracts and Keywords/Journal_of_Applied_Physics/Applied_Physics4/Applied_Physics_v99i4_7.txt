@@ -1,0 +1,12 @@
+Generation of surface states and bulk traps in the bottom oxide of the silicon-oxide-nitride-oxide-silicon memory cells with thick bottom oxide programed by hot electron injection and erased by hot hole injection is investigated by using charge-pumping technique. It is shown that the degradation of the bottom oxide under the hot hole stress is the responsible mechanism for the shift of the programed state threshold voltage in retention bake. A physical model of the memory cell degradation is proposed that supposes trap generation by breaking the SiH bonds in the vicinity of Si-bottom oxide interface and explains the observed trap generation kinetics.
+
+hot carriers
+charge injection
+silicon compounds
+semiconductor storage
+surface states
+electron traps
+hole traps
+bonds (chemical)
+flash memories
+random-access storage

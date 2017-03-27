@@ -1,0 +1,7 @@
+The electrical ageing of the low voltage rotating machine insulation involves complex phenomena since a large amount of parameters related to both operating conditions and material design are acting together. Accelerated ageing tests are usually undertaken in order to develop a theory to describe the electrical ageing process and to determine the lifetime of these materials. To the best of our knowledge, yet there is no complete model allowing the prediction of an insulation lifetime from accelerated ageing tests, since there are many possible failure mechanisms and various synergetic effects between them. Indeed, if one intends to perform a complete ageing test taking into account the various parameters for different samples, the operation becomes financially intolerable and extremely time consuming. In the present work, we propose the use of the design of experiments (DoE) method, which is a useful statistical approach that would lead to a reliable and significant interpretation of the different ordering parameters of the insulation ageing process. Moreover, this method will help to reduce the number of required experimental or numerical trials. Using the (DoE) method, a preliminary model of the insulation &#x201C;lifetime&#x201D; is presented with respect to the most important parameters at play and interactions between them.
+
+ageing model
+design of experiments
+electrical ageing
+polymeric insulation
+rotating machines

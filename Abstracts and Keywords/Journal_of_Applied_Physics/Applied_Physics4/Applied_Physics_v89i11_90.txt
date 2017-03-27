@@ -1,0 +1,13 @@
+The magnetization reversal of an array of 1 ¼m squared FeGd dots has been studied by magnetic transmission x-ray microscopy (MTXM). A (4
+Å
+Fe/4Å
+Gd)×75 multilayered FeGd system has been prepared on a 30 nm thin Si3N4 membrane by sputtering and structured by optical lithography and ion beam etching techniques. Both the domain structure within each single dot and the collective switching behavior could be observed with MTXM. A large variation in the nucleation field of the dots was found and can be attributed to the shape of the dots. A correlation between the nucleation field and the perimeter of each dot could be deduced. Hysteresis loops of individual dots are derived, taking into account the proportionality of the dichroic contrast to the magnetization of the sample. The stepped profile of the magnetization loop of a single dot is found to be clearly distinct from a continuous film. The high lateral resolution and the possibility to record the images in varying external magnetic fields proves that MTXM is a highly adapted tool to investigate nanostructured magnetic systems. © 2001 American Institute of Physics.
+
+iron alloys
+gadolinium alloys
+quantum dots
+magnetisation reversal
+ferromagnetic materials
+X-ray microscopy
+sputtered coatings
+nanostructured materials

@@ -1,0 +1,11 @@
+The logarithmic electrical resistivities of pentacene (PEN) thin films doped with iodine in the direction parallel to the substrate plane fit the T1/3 dependence well. This indicates that the lateral transport of the film was governed by twodimensional variable range hopping. In contrast, the logarithmic resistivities of the films perpendicular to the substrate were observed to be almost independent of temperature and to be weakly T1/2 dependent. This shows that the tunneling mechanism is predominant in perpendicular transport. Twodimensional conduction of the film was confirmed by these transport properties, which was expected from the intercalated structure of PEN film doped with iodine.
+
+ORGANIC SEMICONDUCTORS
+PENTACENE
+THIN FILMS
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+HOPPING
+TWODIMENSIONAL SYSTEMS
+DOPED MATERIALS
+IODINE ADDITIONS

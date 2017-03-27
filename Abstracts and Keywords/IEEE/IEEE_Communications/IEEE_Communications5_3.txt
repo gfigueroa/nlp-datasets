@@ -1,0 +1,8 @@
+Fast response to userspsila query and update requests continues to be one of the key requirements for OLAP systems. We outline the generalization of a space-efficient data structure, which makes it particularly suited for cubes with hierarchically structured dimensions. For a large class of range-sum queries - roll-up and drill-down along dimension hierarchies - the structure requires only a constant number of cell accesses per query on average, while offering an expected poly-logarithmic update performance.
+
+OLAP
+average-case analysis
+data cube
+pre-aggregation
+range-sum query
+updates

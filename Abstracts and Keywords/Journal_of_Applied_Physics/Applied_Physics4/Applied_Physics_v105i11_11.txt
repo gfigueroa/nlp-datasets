@@ -1,0 +1,11 @@
+GaN based materials are believed to be very stable materials, in particular, under irradiation by high energy photons such as x rays. We have studied x-ray detectors based on GaN Schottky diodes. Vertical Schottky diodes were fabricated based on a 20¼m thick undoped GaN layer grown on a conductive GaN substrate. Their photoresponse to near UV light and to x rays was measured. While the response to near UV light was fast and linear as expected, anomalous behaviors were observed under x-ray illumination. The photocurrent increases as the third power of the incident x-ray flux. The photocurrent transient when the x rays is turned on are long and nonexponential (S shape) and strongly differs from the off transient which is fast and exponential. Also, a very strong quenching of the x-ray photoresponse is observed when the detector is simultaneously illuminated with visible light. All of these anomalous behaviors are explained in the frame of a complete model involving traps and tunnel currents. A reasonable quantitative agreement between the model and the experimental data is obtained.
+
+gallium compounds
+III-V semiconductors
+photoconductivity
+radiation quenching
+Schottky diodes
+semiconductor counters
+wide band gap semiconductors
+X-ray detection
+X-ray effects

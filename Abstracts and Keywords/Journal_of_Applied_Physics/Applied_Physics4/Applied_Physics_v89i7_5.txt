@@ -1,0 +1,11 @@
+Photoluminescence and cathodoluminescence spectra are recorded on epitaxial GaN laterally overgrown on (0001) sapphire. Photon recycling, which influences the position of the near band edge transition, is evidenced in cathodoluminescence (CL) spectra by changing the accelerating voltage. CL monochromatic images recorded at different wavelengths show that dislocations act as efficient nonradiative recombination centers, and that they are not responsible for the yellow band. © 2001 American Institute of Physics.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+photoluminescence
+cathodoluminescence
+dislocations
+defect states
+nonradiative transitions

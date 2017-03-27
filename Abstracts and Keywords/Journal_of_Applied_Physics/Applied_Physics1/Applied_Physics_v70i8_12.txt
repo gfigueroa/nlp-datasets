@@ -1,0 +1,9 @@
+We consider a resonance formalism to obtain an expression for the transit time in doublebarrier resonant structures in terms of the partial decay widths “0n and “Ln as Ätr = (/“0n + /“Ln)/4. We demonstrate that the time scale associated to the tunneling current density integrated across a sharp resonance is inversely proportional to Ätr. We also show that the dwell time, the transmission phase time, and the Larmor traversal time are not appropriate notions for the transit time except when the partial decay widths are equal as is the case for a symmetric potential profile.
+
+TUNNEL EFFECT
+CURRENT DENSITY
+RESONANCE
+EIGENFUNCTIONS
+DECAY
+HETEROSTRUCTURES
+LARMOR PRECESSION

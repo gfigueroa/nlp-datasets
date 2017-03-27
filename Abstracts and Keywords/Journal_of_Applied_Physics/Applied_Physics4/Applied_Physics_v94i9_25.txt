@@ -1,0 +1,11 @@
+Gallium phosphide(001) surfaces have been prepared by metalorganic vapor-phase epitaxy, and characterized in situ by low-energy electron diffraction, x-ray photoemission spectroscopy, and reflectance difference spectroscopy. Three stable phases were observed: (2×1), (1×1), and (2×4) with phosphorus coverages of 1.00, 0.67, and 0.13 ML, respectively. Reflectance difference spectra obtained at coverages intermediate between these three values were found to be linear combinations of the spectra of the pure phases. In particular, ”R/R(mixed)=m”R/R(1×1)+(1m)”R/R(2×1)	or	(2×4), where m is a weighting factor. The weighting factors were used to estimate the phosphorus coverage, and these results agreed to within 5.0% of the values measured by x-ray photoelectron spectroscopy. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+surface reconstruction
+low energy electron diffraction
+X-ray photoelectron spectra
+photoreflectance
+vapour phase epitaxial growth
+semiconductor growth
+semiconductor epitaxial layers

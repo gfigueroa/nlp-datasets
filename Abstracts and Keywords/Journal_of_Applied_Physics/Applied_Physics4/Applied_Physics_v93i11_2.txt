@@ -1,0 +1,7 @@
+A series of time-dependent one-dimensional simulations has been carried out on the hydrodynamic behavior of argon and air plasmas in an explosively driven magnetohydrodynamic power generator. The thermodynamic properties of plasma gases are computed using equation-of-state data obtained from a detailed theoretical model. The plasma conductivities are given by a mixture rule, which comprises the fully and weakly ionized plasma approximations. The effects of the initial pressure and the magnetic field strength on the plasma behavior in the flow channel are examined over a moderate range of operating conditions, and then the computed results are compared with the experimental measurements, showing good agreement for the case of low magnetic Reynolds number. © 2003 American Institute of Physics.
+
+plasma magnetohydrodynamics
+plasma simulation
+pulse generators
+plasma devices
+magnetohydrodynamic convertors

@@ -1,0 +1,7 @@
+This paper presents a design procedure for an adaptive power management control strategy based on a driving cycle recognition algorithm. The design goal of the control strategy is to minimize fuel consumption and engine-out NO<sub>x</sub>, HC and CD emissions on a set of diversified driving schedules. Seven facility-specific drive cycles are considered to represent different driving scenarios. For each facility-specific drive cycle, the fuel economy and emission are optimized and obtained proper split between the two energy sources (engine and electric motor). A driving pattern recognition algorithm is subsequently developed and used to classify the current driving cycle in to one of the facility-specific drive cycles; thus, the most appropriate control algorithm is adaptively selected. This control scheme was tested on a typical driving cycle and was found to work satisfactorily.
+
+Hybrid vehicle
+drive cycle
+fuzzy rule base
+neural network
+torque distribution

@@ -1,0 +1,16 @@
+Using ultraviolet photoemission spectroscopy and x-ray photoemission spectroscopy, we have investigated the electronic properties of interfaces between copper phthalocyanine (CuPc) films and gallium-polar (Ga-polar) and nitrogen-polar (N-polar) GaN surfaces, respectively. Prior to the deposition of CuPc films, the clean Ga-polar and N-polar surfaces exhibited about 0.6 and 0.13 eV upward band bendings, respectively, showing the influence of electronic states on the surface termination and growth direction. With the deposition of ultrathin layers of CuPc, no additional band bending or charge displacement was observed for the Ga-polar heterointerface. In contrast, the N-polar interface exhibited an additional 0.54 eV band bending upon deposition of only a CuPc monolayer, attributed to a partial electron displacement from GaN to CuPc. The difference between the two cases is interpreted in terms of the difference between the electron affinity of the N-polar and Ga-polar GaN surfaces. With potential device use in mind, GaN/CuPc hybrid photodetector devices were fabricated and their photocurrent responses were investigated for possible applications as photosensors.
+
+copper compounds
+electron affinity
+gallium compounds
+III-V semiconductors
+interface states
+monolayers
+organic semiconductors
+organic-inorganic hybrid materials
+photoconductivity
+photodetectors
+semiconductor thin films
+surface states
+wide band gap semiconductors
+X-ray photoelectron spectra

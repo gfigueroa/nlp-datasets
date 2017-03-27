@@ -1,0 +1,7 @@
+In this paper we describe a technique for the automatic detection of ST segment deviations for the diagnosis of coronary heart disease (CHD) using ambulatory ECG recordings through the application of lead-dependent Karhunen-Loeve Transform (KLT) bases for dimensionality reduction of ST segment data. Preprocessing is carried out prior to the extraction of the ST Segment which involves noise and artifact filtering using a digital band-pass filter, baseline removal and application of a discrete wavelet transform (DWT) based technique for detection and delineation of the QRS complex in the ECG. ST deviation episodes are detected by a classifier ensemble comprising of Back Propagation Neural Networks. The results obtained through the use of this method, (sensitivity/positive predictive value) of (90.75%/89.2%) compare well with those given in existing research and exhibit the potential of this method to be adopted in the design of a practical ischemia detection system.
+
+Classifier Ensemble
+ECG
+Karhunen-LoÃ¨ve Transform (KLT)
+Myocardial Ischemia
+Neural Networks

@@ -1,0 +1,14 @@
+The York multispectral Auger microscope has been used to study unpassivated AlCu interconnects on silicon, which have undergone electromigration stressing. Auger, energy dispersive xray, and backscattered electron images have been obtained simultaneously from a sample which has been bevelled using Xe+ ions. The exposed surface on the bevel makes an angle of about 103 rad with the virgin surface so exposing laterally the depth distribution of the elements in the material. Curich precipitates are observed in the tracks. The combination of Auger, energy dispersive xray, and backscattered electron imaging allows the determination of the location of both surface and subsurface AlCu precipitates. The faceted character of the particles can lead to an apparent excess of oxygen in their surfaces. The backscattered electron images are used to correct the Auger images for these topographical artifacts. © 1995 American Institute of Physics.
+
+ALUMINIUM ALLOYS
+COPPER ALLOYS
+BINARY ALLOYS
+CONNECTORS
+PRECIPITATION
+MIGRATION
+SCANNING AUGER MICROSCOPY
+STRESSES
+SILICON
+BACKSCATTERING
+ELECTRON BEAMS
+X RADIATION

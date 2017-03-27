@@ -1,0 +1,5 @@
+Remote sensing of marine life and ecosystems may be supported by underwater acoustic sensor networks. However due to the nature of deployment of such networks a knowledge of the sensor locations is in most cases not possible in advance. Therefore a distributed positioning algorithm is needed for localization of the sensors which form the network. Additionally due to the influences of water parameters on the transmission characteristics such as depth, temperature and salinity, should be considered when designing the positioning algorithm in order to achieve a good system performance. We propose a distributed positioning algorithm for sensor localization adapted to underwater acoustic networks and we present the results of a performance study under different environments.
+
+adapted underwater positioning
+ocean observing sensors
+underwater acoustic networks

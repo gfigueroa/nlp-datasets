@@ -1,0 +1,7 @@
+Spin dynamics of antivortices excited by sudden action of a spin-polarized dc is reported. Two main excitation modes are found with increased current density, involving a translational (gyrotropic) mode and a core reversal mode. The former mode can be described by Thieles equation, which accounts for the orbital distortion in view of the modified restoring force by nontrivial structures nucleated at sample edges. The final states of the system in the translational mode are obtained, being either a domain wall state or a vortex state, depending on the current density. The frequency of gyromotion is dependent on dot sizes. Within a threshold radius, the off-centered antivortex can freely relax back to the dot center.
+
+current density
+magnetic domain walls
+micromagnetics
+spin dynamics
+spin polarised transport

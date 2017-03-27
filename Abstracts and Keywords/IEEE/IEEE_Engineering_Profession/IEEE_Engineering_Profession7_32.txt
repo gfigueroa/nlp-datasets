@@ -1,0 +1,7 @@
+This paper discusses path-loss characteristics as a function of tree effect to the signal during the rain in an urban line-of-sight link optimization for intelligent traffic light management system. Measurements were made in metropolitan Bangi area covered by high density of building and trees, using spectrum analyzer at an antenna height of 18 m for data collection. Dependence of path-loss on the distance between antenna transmit and antenna connected to spectrum analyzer was analyzed. This observable fact can be interpreted by the existence of an effective environment. The attenuation coefficient of the rain and trees, tend to be larger at lower antenna height.
+
+5.8 GHz
+Bangi Area
+GPS device
+Spectrum analyzer
+point to point (PTP)

@@ -1,0 +1,5 @@
+In the IPv4 wireless network, the quality of the communications between the wearable computers or the mobile nodes is slow and the wearable computers cannot achieve in the sub-seamless switching between LANs. According to the three function entities of mobile IPv6 the protocol stack software is divided into three major modules, and proposed design program and the division of sub-module based on the wireless net which is consist of wearable computers.
+
+IPv6
+mobile wireless
+wearable computer

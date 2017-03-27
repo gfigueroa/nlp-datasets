@@ -1,0 +1,9 @@
+Optical absorption, fluorescence, excitation and time-resolved spectra, and fluorescence dynamics were studied in Eu2+- and Eu3+-codoped aluminosilicate glasses. The results indicated that the energy transfer occurred between Eu2+ and Eu3+ ions, in which the energy corresponding to the 4f65d to 8S7/2 transition of Eu2+ ions caused excitation of the Eu3+ ions to the 5DJ level. Some of the electrons in the ground state 7F0 were thermally excited into the 7F1 state at room temperature, and thermal populations of the 7F1 level had great effects on the spectral shape of the 5D07F2 emission. The effect of light irradiation at different wavelengths on fluorescence was systemically studied. The visible, ultraviolet and x-ray irradiation caused a decrease in the fluorescence of Eu2+ and/or Eu3+ ions. Frequency selective excitation experiments were performed at 10 K and room temperature. Instead of forming a spectral hole, the intensity of the 7F05D0 transition decreased as a whole. This was attributed to the interaction of Eu3+ ions with the two-level systems existing in the glass network. © 2002 American Institute of Physics. 
+
+aluminosilicate glasses
+europium
+fluorescence
+impurity absorption spectra
+time resolved spectra
+ground states
+impurity states

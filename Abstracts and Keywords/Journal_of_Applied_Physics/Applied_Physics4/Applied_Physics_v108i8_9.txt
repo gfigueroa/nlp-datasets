@@ -1,0 +1,10 @@
+In this work we propose a new method to decrease the heating time of droplets. Our model considers the heating process of magnetic nanofluid droplet, which was taken to an ambient atmosphere at high temperature and with an alternating magnetic field. Analytical solutions were obtained in systems governed by Brownian and/or low-barrier Néel relaxation (superparamagnetic regime). The droplet heating time was shown to scale with the reciprocal of the square of frequency (1/f2) at the low frequency regime. The droplet heating time was calculated as function of frequency for different particle sizes, coating layers, and relaxation mechanisms.
+
+Brownian motion
+drops
+heating
+magnetic fluids
+magnetic relaxation
+Neel temperature
+particle size
+superparamagnetism

@@ -1,0 +1,8 @@
+Dependence of the electron multiplication factor on the bias voltage was considered for the blocked impurity band (BIB) detector. We found that in high gain BIB detectors multiplication factor selfstabilization can be achieved. When bias voltage VB increases, the multiplication factor curve flattens, starting at a certain value VB. This can be explained by the presence of an electric field and electron current in the neutral region of the BIB detector infraredactive layer. The influence of this behavior on the performance characteristics of BIB detectors is briefly discussed.
+
+PHOTODETECTORS
+PERFORMANCE
+IMPURITY BANDS
+MULTIPLICATION FACTORS
+STABILIZATION
+INFRARED RADIATION

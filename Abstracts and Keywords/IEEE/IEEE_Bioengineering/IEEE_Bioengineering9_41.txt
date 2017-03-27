@@ -1,0 +1,6 @@
+An increasingly important requirement for software system is the capability to evolve dynamically at runtime according to the users' requirements and computing environments. From the angle of software architecture, in this paper, a framework of supporting dynamic evolution based on reflective aspect-oriented software architecture-RAOSA is proposed and software architecture is reified as an explicit entity. Notably, the concept of aspect of AOP is introduced into the traditional software architecture and a core model of aspect-oriented software architecture is established. Evolution rules and strategies are formalized to support deduction of the system evolutionary behaviors; by using reflection mechanism, RAOSA, which is causal-connected to software specification and implementation, monitors the contextual information of runtime system to guide the evolution and update the software specification, ensuring system consistency and integrity. Furthermore, a simple application case illustrates the feasibility of proposed framework.
+
+AOP
+AOSA
+Dynamic Evolution
+Reflection

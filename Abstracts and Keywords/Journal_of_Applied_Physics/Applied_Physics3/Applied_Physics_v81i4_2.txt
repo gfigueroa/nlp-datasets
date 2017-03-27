@@ -1,0 +1,11 @@
+Analyzing the photocurrent spectra and the IV characteristics of weakly coupled GaAs/AlGaAs multiquantum well structures, different transport regimes are distinguished. At low temperatures (below <50 K), due to the electron coherence over a few periods of the superlattice, electron transport is dominated by sequential resonant tunneling. At higher temperatures, evidences for the increased contribution of nonresonant transport processes, and the subsequent modification in the electric field distribution in the device, are presented. © 1997 American Institute of Physics.
+
+gallium arsenide
+aluminium compounds
+semiconductor quantum wells
+semiconductor superlattices
+quantum interference phenomena
+tunnelling
+photoconductivity
+electric domains
+III-V semiconductors

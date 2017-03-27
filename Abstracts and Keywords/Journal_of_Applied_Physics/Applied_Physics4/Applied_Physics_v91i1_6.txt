@@ -1,0 +1,7 @@
+Transition metal silicides can be formed by a solid phase reaction of metal films on silicon. During that thermally activated process, the system runs through chemically and crystallographically distinguishable phases with different properties concerning lattice vibrational modes and electronic transport. We demonstrate that in situ infrared transmission spectroscopy gives quantitative information on the development of both these properties during formation of the thin-film solid phases. We deposited a 12-nm-thick Fe film on Si(111) and then annealed this system at increasing temperatures. After each step of annealing we measured infrared spectra in normal transmission geometry. The changes in the broadband infrared transmission and the development of vibrational modes allow one to identify the subsequent formation of µ-FeSi and polycrystalline ²-FeSi2 and to monitor the interplay of crystalline and electronic structure during formation of these phases. © 2002 American Institute of Physics.
+
+iron compounds
+semiconductor thin films
+vibrational modes
+infrared spectra
+annealing

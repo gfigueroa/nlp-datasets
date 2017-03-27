@@ -1,0 +1,11 @@
+By using pulsed driving currents with a small duty cycle, the high-energy wing of the electroluminescence band in AlGaInP and InGaN high-power light-emitting diodes (LEDs) was calibrated to measure the junction temperature in the range of 223358K. In a red AlGaInP LED with a thick active layer, an accuracy of 2% was achieved for the junction temperature derived from the high-energy slope in the spectral range free from parasitic absorption by taking into account the three-dimensional density of band states. Meanwhile, the far high-energy region of the slope distorted by parasitic absorption can be used for the extraction of the junction temperature by using only an appropriate linear correction procedure ( < 7% accuracy). In a blue InGaN LED with multiple-quantum-well active layers, the junction temperature can be determined with an accuracy of 2% from the inverse derivative of the spectra in a narrow spectral region < 150meV above the peak energy by using a linear correction.
+
+aluminium compounds
+electroluminescence
+electronic density of states
+gallium compounds
+III-V semiconductors
+indium compounds
+light emitting diodes
+semiconductor quantum wells
+wide band gap semiconductors

@@ -1,0 +1,12 @@
+Interface and defect structures of ZnZnO coreshell nanobelts have been investigated using high-resolution transmission electron microscopy. Most of the nanobelts can be classified into two types from their growth directions: [20] and [0001], with the top/bottom surfaces being (0001) and (20), respectively. The Zn core and ZnO shell overlapped areas display a two-dimensional moiré pattern resulting from the lattice mismatch. In the 20	 growth nanobelts, a network of three sets of misfit dislocations relaxes the mismatch strain in the top/bottom interfaces, and every set rotates 60° with respect to the other; there are two types of grains oriented in specific orientations that compose the side wall of the ZnO shell. In the [0001] growth nanobelts, a network containing a set of stacking faults in (0001) planes and a set of misfit dislocations in (010) planes takes the main role in the misfit relaxation. Threading dislocations indicated by terminating moiré fringes are present in both of them, which are located at the small angle rotated boundary between adjacent misoriented ZnO grains. © 2004 American Institute of Physics. 
+
+zinc
+zinc compounds
+II-VI semiconductors
+nanostructured materials
+semiconductor-metal boundaries
+interface structure
+dislocation structure
+transmission electron microscopy
+moire fringes
+stacking faults

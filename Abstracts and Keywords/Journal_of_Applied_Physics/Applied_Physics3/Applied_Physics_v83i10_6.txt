@@ -1,0 +1,10 @@
+We have used optical second-harmonic generation to study surface molecular order in a liquid-crystal (42-n-octyl-4-cyano-biphenyl, or 8CB) on shear-deposited polymer films. The films are highly oriented layers of polytetrafluoroethylene (PTFE) or high-density polyethylene (HDPE), with a surface topology of uniaxially aligned nanoscale ridges and grooves, which are used as versatile substrates for oriented growth and alignment of other materials. In nematic 8CB cells made with either polymer, the surface monolayers of 8CB were aligned along the polymer orientation axis, and showed C2½ symmetry. In the isotropic phase, the surface monolayer alignment in these cells was lost. Monolayers of 8CB evaporated onto either polymer showed little or no alignment. These data indicate that the PTFE and HDPE films do not produce the strong epitaxylike alignment seen on some cloth-rubbed polymer surfaces. Instead, alignment appears to be primarily caused by surface ridges through an elastic, bulk-mediated mechanism. © 1998 American Institute of Physics. 
+
+organic compounds
+nematic liquid crystals
+molecular orientation
+monolayers
+liquid films
+optical harmonic generation
+polymer films
+surface topography

@@ -1,0 +1,5 @@
+By integrating environmental traffic capacity (ETC) with traffic structure optimization (TSO) on urban road, influencing factors of ETC were analyzed, and the concept of TSO was introduced. Based on functional relationship between emission factors and vehicular speed, and the regression model of vehicular speed and traffic volume, a relation between traffic volume and traffic pollutants diffusion concentration was set up. A multi-objective optimization model, whose objectives were the maximum of traffic volume and traffic efficiency, was developed and its main constraints were the traffic capacity and the control concentration of pollutants in air quality standard, and then its solving algorithm was designed. The practical example study shows that there are different ETC values according to different environment air quality evaluation factors and the reasonable traffic structure is not only beneficial to improving road traffic efficiency, and also favorable to protecting environment air quality.
+
+Environmental traffic capacity
+Traffic efficiency
+Traffic structure optimization

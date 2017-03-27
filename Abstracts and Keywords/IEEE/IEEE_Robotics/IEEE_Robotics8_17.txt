@@ -1,0 +1,6 @@
+Generally, in an electricity market, congestion is caused by two main agents - offer/bid by generator/load and the transmission system (i.e. network) itself. In this paper, we focus on the interdependency between congestion and the network, while keeping the effect of offer/bid constant. Network-based dynamic congestion can occur when congestion changes due to the changes in the network. We analyze this network-driven dynamic congestion for particular periods of PJM day-ahead market using a kernel-based (null-space) method. The key feature of null space method is that a basis vector, associated with a specific line constraint is computed just once for the marginal congestion component (MCC) of LMP variable for a specific network topology. Then, we do the same for each additional constraint if occurred. The net effect of multiple line constraints, occurring at the same period, is the linear combination of the effect of individual line constraint(s). We present the basis vectors associated with each constraint and LMPs using null space method, which are compared with actual LMPs from day-ahead market.
+
+Nodal pricing
+congestion cost
+locational marginal price (LMP)
+orthogonality

@@ -1,0 +1,7 @@
+Advanced e-services require efficient, flexible, and easy-to-use workflow technology that integrates well with mainstream Internet technologies such as XML and Web servers. This paper discusses an XML-enabled architecture for distributed workflow management that is implemented in the latest version of our Mentor-lite prototype system. The key asset of this architecture is an XML mediator that handles the exchange of business and flow control data between workflow and business-object servers on the one hand and client activities on the other via XML messages over http. Our implementation of the mediator has made use of Oracle's XSQL servlet. The major benefit of the advocated architecture is that it provides seamless integration of client applications into e-service workflows with scalable efficiency and very little explicit coding, in contrast to an earlier, Java-based, version of our Mentor-lite prototype that required much more code and exhibited potential performance problems.
+
+Business processes
+Information system interoperability
+Internet e-services
+Workflow management
+XML/XSL

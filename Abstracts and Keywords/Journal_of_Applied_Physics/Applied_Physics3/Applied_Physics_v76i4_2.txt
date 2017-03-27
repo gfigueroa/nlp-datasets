@@ -1,0 +1,14 @@
+The temperature dependence of the conductivity of composite polymeric electrolytes based on a poly (ethylene oxide) matrix is described by a model based on effective medium theory. The influence of grain size distribution of the powder used as well as grain concentration on the conductivity of the electrolytes studied is analyzed. It will be shown that increases in the concentration of inorganic fillers influence the conductivity of the interface layer covering the filler. This layer is assumed to be responsible for an increase in the conductivity of composite polymeric electrolytes in comparison to pristine poly (ethylene oxide)based systems. Utilization of effective medium models to study the temperature dependence of the conductivity of composite electrolytes enables us to predict the applicability of the compensation law for studies of the entropy effect in the electrolytes studied. The characteristic orderdisorder temperature found from calculations based on effective medium theory is equal to that experimentally found and corresponds to the melting temperature of the crystalline polymer phase.
+
+SOLID ELECTROLYTES
+POLYMERS
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+GRAIN SIZE
+MATHEMATICAL MODELS
+ELECTRIC IMPEDANCE
+LAYERS
+COMPOSITE MATERIALS
+ARRHENIUS EQUATION
+XRD
+FREQUENCY DEPENDENCE

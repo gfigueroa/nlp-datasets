@@ -1,0 +1,14 @@
+The effect of deposition temperature, deposition pressure, or input gas ratio (SiH2Cl2:NH3) on film stress was determined for low-pressure chemical vapor deposited silicon nitride films. Wafer curvature measurements were performed for films deposited on single crystal silicon and amorphous silica wafer substrates to determine film stress Ãdep, biaxial modulus Ef+, and coefficient of thermal expansion ±f. Apparent plane strain film modulus f2 and hardness H were measured using depth-sensing indentation. Ellipsometry was used to measure film thickness tf and refractive index n. Infrared spectroscopy, x-ray photoelectron spectroscopy (XPS), forward recoil energy spectroscopy (FReS), and Rutherford backscattering spectroscopy (RBS) experiments were performed to determine film composition. Although film deposition stress varied from 135 MPa (compressive) to 235 MPa (tensile) Ef+, f2, H, and ±f remained nearly constant. Infrared spectroscopy resolved only Si-N species for all films, and results from FReS on three films confirmed that the hydrogen content was negligible. RBS and XPS indicated that Si/N increased with increased compressive Ãdep. Ellipsometry and RBS indicated that all films were silicon-rich, to a greater extent with increased compressive Ãdep. As RBS indicated that atomic density decreased with increased compressive deposition stress, it was concluded that the deposition conditions changed both thermal and intrinsic deposition stress for all films. In particular, intrinsic stress was tensile, and became increasingly tensile for increased Si/N and decreased atomic density. Assuming thermal stress was similar for all films examined here, the intrinsic stress must have varied from changes dependent on the deposition conditions. © 2003 American Institute of Physics. 
+
+silicon compounds
+insulating thin films
+plasma CVD coatings
+stress analysis
+elastic moduli
+thermal expansion
+ellipsometry
+indentation
+refractive index
+infrared spectra
+X-ray photoelectron spectra
+Rutherford backscattering

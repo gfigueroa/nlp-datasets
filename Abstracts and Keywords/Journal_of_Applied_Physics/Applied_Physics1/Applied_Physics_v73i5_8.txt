@@ -1,0 +1,9 @@
+The mechanism of target poisoning in reactive sputtering is analyzed. The methods used to reduce the target poisoning are discussed. According to the transport mechanism of the particles of reactive gas in a chamber, a criterion for nonpoisoning of the target is given and two mathematical expressions are respectively derived for absolute nonpoisoning and experimental nonpoisoning.
+
+REACTIVE SPUTTERING
+CHEMICAL REACTIONS
+SURFACES
+FILM GROWTH
+PASSIVATION
+PUMPING
+GAS FLOW

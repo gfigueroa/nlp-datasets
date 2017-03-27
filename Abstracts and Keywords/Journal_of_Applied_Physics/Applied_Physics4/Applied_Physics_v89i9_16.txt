@@ -1,0 +1,12 @@
+We have studied the interface morphology of SiGe/Si multilayers by means of specular and nonspecular x-ray reflectivity under grazing incidence. The samples were grown by molecular beam epitaxy on silicon substrates with (001) surface orientation and with different directions of the surface misorientation. X-ray reflectivity measurements in different azimuths are compared to data from atomic force microscopy, which are used to simulate the x-ray experiments. With this combination of experimental techniques we have determined the structural properties, in particular the ordering of different features present at the sample surface and inside the multilayer at the SiGe/Si layer interfaces. © 2001 American Institute of Physics. 
+
+Ge-Si alloys
+silicon
+semiconductor epitaxial layers
+semiconductor superlattices
+molecular beam epitaxial growth
+semiconductor growth
+self-assembly
+X-ray reflection
+atomic force microscopy
+interface structure

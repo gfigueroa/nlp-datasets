@@ -1,0 +1,14 @@
+A systematic electrical and physical characterization of gate oxides on 4H-SiC, grown in diluted N2O at 1300
+°C, has been performed. Electrical characterization by the high-frequency C-V technique, conductance technique, and slow trap profiling method reveals that the densities of interface and near-interface traps, and the effective oxide charge for gate oxides grown in 10% N2O are the lowest, compared to gate oxides grown in 100% and 0.5% N2O. These results are supported by physical characterizations using x-ray photoelectron spectroscopy, secondary ion mass spectroscopy, and atomic force microscopy. It has been shown that carbon clusters, accumulated at the SiC-SiO2 interface, directly influence the roughness of the interface and the densities of the interface and near-interface traps. © 2003 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+oxidation
+capacitance
+semiconductor-insulator boundaries
+MOS capacitors
+interface states
+X-ray photoelectron spectra
+secondary ion mass spectra
+atomic force microscopy
+interface roughness

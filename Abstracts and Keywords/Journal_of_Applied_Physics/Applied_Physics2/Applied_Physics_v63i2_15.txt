@@ -1,0 +1,11 @@
+Photoinduced transient spectroscopy (PITS) and photoluminescence spectroscopy measurements were carried out on samples of liquidencapsulated Czochralskigrown semiinsulating GaAs which have been diffused with copper at 550	°C. The PITS curves, taken at different depths from the surface, confirm that the copperrelated acceptor level at 0.51 eV is due to a complex, which we assign to CuGaVAs. The PITS results show that an acceptor level at 0.51 eV in GaAs, previously assigned to iron impurity, can also be caused by copper. Photoluminescence studies show that the emission peak at 1.36 eV, commonly attributed to CuGa, also varies with depth. This variation is explained by the predominance of copper in the form Cu+i near the coppercovered surface. We have shown, from both PITS and photoluminesence results, the significance of the capping effect of a copper film during annealing, and this effect must be taken into account in the analysis of copper diffusion data in GaAs.
+
+COPPER
+DIFFUSION
+IMPURITY STATES
+GALLIUM ARSENIDES
+CZOCHRALSKI METHOD
+PHOTOLUMINESCENCE
+DLTS
+ACCEPTORS
+ATOM TRANSPORT

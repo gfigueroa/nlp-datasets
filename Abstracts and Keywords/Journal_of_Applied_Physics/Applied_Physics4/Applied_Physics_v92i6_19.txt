@@ -1,0 +1,15 @@
+Microcrystalline diamond and nanocrystalline carbon thin films prepared by microwave plasma assisted chemical vapor deposition were submitted to gamma radiation in order to study the radiation-induced structural transformation and the corresponding changes in the electron field emission properties. Electron field emission measurements and microstructural characterizations, which included Raman spectroscopy, scanning electron microscopy, atomic force microscopy, and x-ray photoelectron spectroscopy, were performed before and after gamma radiation doses of 1, 5, and 20 Mrads. Microcrystalline diamond showed a dramatic improvement in the emission properties only after a cumulative dose of 26 Mrad, while nanocrystalline carbon showed a relatively small but systematic decrease in turn-on field from 9 to 4 V/¼m with increasing gamma radiation dose. The enhancement in emission characteristics associated with the radiation-induced microstructural transformation shows the critical role of defects with their associated electronic defect states, and of sp2-bonded carbon channels in the electron field emission mechanism of nanocomposite carbon materials. The results also indicate that nanocrystalline carbon tends to reach a state of damage saturation when submitted to Mrad doses of gamma radiation, suggesting the possibility of fabricating radiation buffer materials that would undergo internal sp3sp2 interconversions while absorbing ionizing radiation without changing their average microstructure, which can be employed for preventing radiation from reaching sensitive materials. © 2002 American Institute of Physics. 
+
+carbon
+diamond
+elemental semiconductors
+plasma CVD coatings
+electron field emission
+nanostructured materials
+crystal microstructure
+Raman spectra
+scanning electron microscopy
+atomic force microscopy
+X-ray photoelectron spectra
+defect states
+gamma-ray effects

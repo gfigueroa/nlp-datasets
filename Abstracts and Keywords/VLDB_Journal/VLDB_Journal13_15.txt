@@ -1,0 +1,5 @@
+Ranked queries return the top objects of a database according to a preference function. We present and evaluate (experimentally and theoretically) a core algorithm that answers ranked queries in an efficient pipelined manner using materialized ranked views. We use and extend the core algorithm in the described PREFER and MERGE systems. PREFER precomputes a set of materialized views that provide guaranteed query performance. We present an algorithm that selects a near optimal set of views under space constraints. We also describe multiple optimizations and implementation aspects of the downloadable version of PREFER. Then we discuss MERGE, which operates at a metabroker and answers ranked queries by retrieving a minimal number of objects from sources that offer ranked queries. A speculative version of the pipelining algorithm is described.
+
+Materialization
+Merge ranked views
+Ranked queries

@@ -1,0 +1,12 @@
+In the present work we study the growth of diamond in a dualmode microwave/radio frequency plasma. We investigate the effect of the thickness of predeposited hydrogenated amorphous carbon (aC:H) films and of ion bombardment on the nucleation process and on the crystal quality. The deposits are characterized by xray photoelectron spectroscopy (XPS) and by scanning electron microscopy. The XPS spectra of the C(1s) carbon peak and of the plasmon features confirm the presence of an amorphous, carbonaceous phase and of silicon carbide on the surface. Radio frequency biasing during the initial stage of diamond growth leads to a lower crystal quality, but to a higher nucleation density (ND). Without biasing, good quality, predominantly (100) oriented diamond crystals are obtained on a Si(100) surface. The ND values are found to increase with the thickness of the predeposited aC:H layer. Evolution of the nucleus size distributions indicates that the aC:H film contributes to the carbon supply, enhancing the nucleation efficiency and shortening the incubation time of seed crystals. Before a continuous layer is formed, the growth of crystals is determined by the interaction with the gas phase as well as by the amount of carbon available on the surface. 	
+
+DIAMONDS
+FILM GROWTH
+CVD
+PLASMA
+CARBON
+HYDROGENATION
+NUCLEATION
+PHOTOELECTRON SPECTROSCOPY
+SEM
+POLYCRYSTALS

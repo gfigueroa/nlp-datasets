@@ -1,0 +1,24 @@
+The phonon component of thermal diffusivity (D) for eleven compounds (synthetic SrTiO3, SrTiO3:Fe3+, BaTiO3, KTaO3, KNbO3, NdGaO3, YAlO3, YAlO3:Tm, LaAlO3, La0.29Sr0.66Al0.65Ta0.35O3, and natural Ca1.01Mn0.001Fe0.007Ti0.99O3) with various perovskite structures was measured from ambient temperature (T) up to < 2000K using contact-free, laser-flash analysis, from which effects of ballistic radiative transfer were removed. Structural transitions (e.g., orthorhombic to tetragonal) below 800 K were manifest as sharp steps in 1/D. Above 800 K, structural transitions occur over intervals of < 150K. Similarly broad peaks accompany changes from colorless to black, attributable to partial reduction in Ti, Nb, or Ta from contact with graphite coatings. Otherwise, D decreases with increasing T and, if substitutional disorder exists, approaches a constant (Dsat) near 1600 K. Our data are best described as D1 following a low order polynomial in T. Ordered, cubic perovskites occupy a single trend for D(T)1, defining the contribution of the ideal lattice. Distortion, disorder, and polymorphism affect D1 in a manner that is consistent with the damped harmonic oscillator-phonon gas model which relates phonon lifetimes to infrared peak widths. Calculated D-values at ambient and high T agree with measurements. The behavior of D is simple compared to that of thermal conductivity, k = ÁCPD, where Á is density and CP is heat capacity. Combining our data with cryogenic measurements of YAlO3 and LaAlO3 shows that D1 depends on T similarly to CP, consistent with phonon lifetime depending on the density of states but, the best description for D1(T) is a proportionality to ±T from < 0K up to the limit of measurements, where ± is thermal expansivity, a strongly anharmonic property. At low T, D1 due to phonon scattering follows that of CP, generallyT3, so klat = k0+k1T. Defects being present preclude scattering at sample walls, adding a small constant D01 < 0.0001mm2	s as T’0, and an additional contribution of kdfctT3. Forms previously inferred for thermal insulators include systematic errors stemming from ballistic radiative transfer and/or interface resistance. Our results show that optical phonons largely govern heat transport of complex insulators.
+
+aluminium compounds
+ballistic transport
+barium compounds
+calcium compounds
+coatings
+electronic density of states
+graphite
+iron
+iron compounds
+lanthanum compounds
+laser materials processing
+manganese compounds
+phonons
+polymorphism
+potassium compounds
+radiative transfer
+solid-state phase transformations
+specific heat
+strontium compounds
+thermal diffusivity
+thulium
+yttrium compounds

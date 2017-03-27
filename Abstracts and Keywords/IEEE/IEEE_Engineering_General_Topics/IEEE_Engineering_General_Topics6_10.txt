@@ -1,0 +1,10 @@
+The increasing complexity in the design of protocol based sequential digital systems such as USB3.0 and PCI express (PCIe), is leading to an increased time to market constraint. This paper introduces a UML based visual design approach to address this increased complexity in the design of IP as well as System-on-Chips (SoC). A hardware development method for USB3.0 device using the Unified Modeling Language is explored. It focuses on the conversion of UML structure diagrams and hierarchical state machines into synthesizable hardware description language. A Model Driven Development (MDD) method using UML state diagrams and hierarchical design breakdown approach is used for the development the synthesizable HDL for USB3.0 device IP with more than 20 sequential states.
+
+Hardware Development Language (HDL)
+Intellectual Property(IP)
+Link Training and Status State Machine (LTSSM)
+Model Driven Development (MDD)
+State machine based design
+USB3.0
+Unified Modelling Language (UML)
+Verilog

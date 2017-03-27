@@ -1,0 +1,9 @@
+The Mössbauer spectra of Ho2Fe17 and Ho2Fe17D3.8 have been measured between 4.2 and 295 K and analyzed with a model which takes into account both the disordered nonstoichiometric hexagonal Th2Ni17-like structure and the basal orientation of the iron magnetic moments. The isomer shifts of the five crystallographically inequivalent iron sites in both Ho2Fe17 and Ho2Fe17D3.8 follow the sequence of WignerSeitz cell volumes and their temperature dependence follows the typical second-order Doppler shift. An increase in the weighted average isomer shift upon deuterium insertion results from the lattice expansion. The sequence of the site-averaged hyperfine fields is in agreement with the increasing number of iron near neighbors. The five quadrupole interactions agree with those observed in the paramagnetic spectra of other R2Fe17 compounds. For the dumbbell 4e and 4f sites, the asymmetry parameter and the ¸ angle are zero and 90° in agreement with the site point symmetry and the basal orientation of the iron magnetic moment. For the 6g site, the asymmetry parameter is zero in agreement with the site point symmetry. In both compounds the 12j site asymmetry parameter is 0.9 and for the 12k site this parameter increases from 0.0 in Ho2Fe17 to 0.8 in Ho2Fe17D3.8 as a result of the insertion of an additional deuterium near neighbor. The ¸ angles for the magnetically inequivalent 12j and 12k sites differ by 60° as expected in the hexagonal symmetry. The variations with rare-earth of the weighted average isomer shifts and hyperfine fields in R2Fe17, R2Fe17Hx, and R2Fe17N3, are discussed in terms of the lanthanide contraction and lattice expansion upon insertion of hydrogen, or deuterium, or nitrogen and the axial and basal magnetic anisotropy. © 2002 American Institute of Physics. 
+
+iron alloys
+holmium alloys
+hyperfine interactions
+isomer shift
+Mossbauer effect
+magnetic moments
+magnetic anisotropy

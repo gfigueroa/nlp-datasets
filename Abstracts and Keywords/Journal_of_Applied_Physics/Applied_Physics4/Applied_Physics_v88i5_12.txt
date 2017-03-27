@@ -1,0 +1,14 @@
+La0.5Sr0.5MnO3 thin films deposited on (001) SrTiO3 substrates at different temperatures are prepared using pulsed laser deposition, and their electro- and magnetotransport properties are experimentally evaluated. The structure analysis reveals that the thin films show amorphous, mixed amorphous/nanocrystalline as well as epitaxial microstructures, respectively, depending on the deposition temperature. While the amorphous thin film exhibits variable range hopping conduction, the epitaxial sample is metal like and ferromagnetic. Enhanced low-field magnetoresistance at low temperature for the microstructure in which the nanocrystalline phase and amorphous phase coexist is demonstrated. It is argued that the amorphous layer separating the neighboring nanocrystals behaves as barrier for the spin-dependent tunneling, resulting in enhanced magnetoresistance at low magnetic field. The modified two-channel model where the insulating conduction channel and the spin-ordered and metallic conduction channel coexist in parallel is employed to explain the magnetotransport phenomena. © 2000 American Institute of Physics. 
+
+pulsed laser deposition
+hopping conduction
+colossal magnetoresistance
+ferromagnetic materials
+magnetic thin films
+lanthanum compounds
+strontium compounds
+amorphous state
+nanostructured materials
+metallic epitaxial layers
+crystal microstructure
+tunnelling

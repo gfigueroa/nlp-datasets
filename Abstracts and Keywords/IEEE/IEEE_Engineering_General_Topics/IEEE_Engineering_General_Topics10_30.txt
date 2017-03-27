@@ -1,0 +1,5 @@
+A major research field in physics education is focused on the study of constructing various types of teaching to help students comprehend physics conception and law. Computer simulations are applications of special interest in physics teaching because they can support powerful modeling environments involving physics concepts and processes. In this study, we design a computer simulation laboratory to simulate the diffraction grating pattern by C++ program. Using this computer simulation laboratory, the students can adjust experiment parameter and explore the law of diffraction grating. In the study of physics learning, 64 college students were studied to determine the role of computer simulations in exploratory learning. The results presented here show that students working with simulations exhibited significantly higher scores in the research tasks. Our findings strongly support that computer simulations may be used as an alternative instructional tool, in order to help students comprehend physics processes and improve exploratory ability.
+
+College Physics learning
+Interactive learning environments.
+Simulation laboratory

@@ -1,0 +1,6 @@
+Optical Orthogonal Frequency Division Multiplexing (O-OFDM) is now used by a number of researchers because it provides major advantages in mitigating Group-Velocity Dispersion (GVD) in Single Mode Fiber (SMF). Unfortunately, when the uncompensated long-haul transmission ranges become very large, substantial dispersion is accumulated. Due to the large accumulated dispersion, the Cyclic Prefix (CP) duration will occupy a substantial fraction of the OFDM frame. This effect sets some limitations on the overall throughput and the spectral efficiency. Moreover, the transmission is inefficient because of the energy wastage contained within the CP. In the case where the Channel Impulse Response (CIR) is larger than the CP, the system performance is limited by the Inter Symbol Interference (ISI) and Inter Carrier Interference (ICI). In this paper, we propose a Least Mean Square Time Domain Equalizer (LMS-TEQ) immediately after the channel. It can cancel the residual ISI and ICI caused by both the GVD and the CP length being shorter than the CIR.
+
+Optical communications
+equalizer
+long haul
+optical OFDM

@@ -1,0 +1,15 @@
+An overview of the state of art in ferroelectric thin films is presented. First, we review applications: microsystems applications, applications in high frequency electronics, and memories based on ferroelectric materials. The second section deals with materials, structure (domains, in particular), and size effects. Properties of thin films that are important for applications are then addressed: polarization reversal and properties related to the reliability of ferroelectric memories, piezoelectric nonlinearity of ferroelectric films which is relevant to microsystems applications, and permittivity and loss in ferroelectric filmsimportant in all applications and essential in high frequency devices. In the context of properties we also discuss nanoscale probing of ferroelectrics. Finally, we comment on two important emerging topics: multiferroic materials and ferroelectric one-dimensional nanostructures.
+
+ferroelectric thin films
+reviews
+micromechanical devices
+electric domains
+size effect
+dielectric polarisation
+dielectric losses
+ferroelectric storage
+piezoelectric materials
+piezoelectricity
+permittivity
+multiferroics
+nanostructured materials

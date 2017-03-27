@@ -1,0 +1,11 @@
+The magneto-optical Kerr effect in longitudinal configuration is used to study hysteresis loops of ferromagnetic gratings patterned by electron beam lithography. We study the Kerr effect not only in specular reflection but also off-specular at the intensity maxima of the grating at different orders of diffraction n. The Kerr rotation in saturation increases linearly with the order of diffraction n if the incoming beam is at normal incidence. The shape of the hysteresis curves changes for special orders of diffraction, indicating an enhanced sensitivity for the formation of magnetic domains close to remanence. The nth order of diffraction is sensitive to the nth order Fourier component of the magnetization distribution. © 2002 American Institute of Physics. 
+
+Kerr magneto-optical effect
+iron
+diffraction gratings
+magnetic hysteresis
+magnetic domains
+remanence
+ferromagnetic materials
+magnetisation
+electron beam lithography

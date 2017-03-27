@@ -1,0 +1,13 @@
+Thin epitaxial FexCo1x alloy films sputtered on MgO(001) substrates were studied by xray scattering and by the magnetooptical Kerr effect in order to investigate the structural phase stability induced by the substrate and to relate the magnetic properties to the alloy film structure. Alloy films with a thickness of about 20 nm and concentrations from x=1 to x=0.3 exhibit a bcc (001) growth with the inplane [100] axis parallel to the MgO[110] axis. For pure Co (x=0) a fcc (001) structure with the Co[100] axis parallel to the MgO[100] axis was obtained. For x=0.15 no outofplane or inplane Bragg peak could be observed, possibly due to the bccfcc structural phase transition. Kerr rotation angles in saturation as a function of x reveal a shape similar to the SlaterPauling curve. Magnetic hysteresis measurements reveal a fourfold anisotropy with easy axes parallel to the FexCo1x[100] crystal axis for 1exe0.8, and parallel to the FexCo1x[110] crystal axis for 0.7exe0.3. In pure Co the easy axis lies parallel to the fccCo[110] crystal axis. Finally, for x=0.28 a step in the magnetic hysteresis in the FexCo1x[110] direction indicates an overlap of a fourfold and twofold magnetic anisotropy. © 1995 American Institute of Physics.
+
+IRON ALLOYS
+COBALT ALLOYS
+BINARY ALLOYS
+THIN FILMS
+SPUTTERED MATERIALS
+STRUCTURAL STABILITY
+MAGNETOOPTICAL EFFECTS
+PHASE STABILITY
+PHASE TRANSFORMATIONS
+HYSTERESIS
+MAGNETIC ANISOTROPY

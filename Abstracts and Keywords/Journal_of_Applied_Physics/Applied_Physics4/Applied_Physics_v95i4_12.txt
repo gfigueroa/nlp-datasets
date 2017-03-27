@@ -1,0 +1,10 @@
+A combination of vertical and lateral piezoresponse force microscopy (VPFM and LPFM, respectively) has been used to map the out-of-plane and in-plane polarization distribution, respectively, of (111)-oriented Pb(Zr,Ti)O3-based (PZT) ferroelectric patterned and reactively-ion-etched capacitors. While VPFM and LPFM have previously been used to determine the orientation of the polarization vector in ferroelectric crystals and thin films, this is the first time the technique has been applied to determine the three-dimensional polarization distribution in thin-film capacitors and, as such, is of importance to the implementation of nonvolatile ferroelectric random access memory. Sequential VPFM and LPFM imaging have been performed in poled 1×1.5	¼m2 PZT capacitors. Subsequent quantitative analysis of the obtained piezoresponse images allowed the three-dimensional reconstruction of the domain arrangement in the PZT layers of the capacitors. It has been found that the poled capacitors, which appear as uniformly polarized in VPFM, are in fact in a polydomain state as is detected by LPFM and contain 90° domain walls. Despite the polycrystallinity of the PZT layer, regions larger than the average PZT grain size are found to have the same polarization orientation. This technique has potential for clarifying the switching behavior and imprint mechanism in micro- and nanoscale ferroelectric capacitors. © 2004 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+ferroelectric thin films
+thin film capacitors
+ferroelectric capacitors
+dielectric polarisation
+electric domain walls
+grain size

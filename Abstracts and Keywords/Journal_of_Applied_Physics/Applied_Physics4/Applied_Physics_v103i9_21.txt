@@ -1,0 +1,9 @@
+We present the cluster-model ab initio study of the optical phonons in the one-dimensional antiferromagnet Ca2CuO3 based on the HartreeFock self-consistent field calculation with the 3-21G basis set. The obtained results showed very good agreement with the observed data. The CuO bands generally showed lower shifts in Ca2CuO3 than in pure CuO and were primarily composed of the vibrations of the oxygen in static host lattice, whereas the Cu movements only happened in the collective lattice vibrations. An almost complete classification of the forbidden phonons is presented.
+
+ab initio calculations
+antiferromagnetic materials
+band structure
+calcium compounds
+HF calculations
+phonons
+SCF calculations

@@ -1,0 +1,19 @@
+Nitrogen incorporation in HfO2/SiO2 films utilized as high-k gate dielectric layers in advanced metal-oxide-semiconductor field effect transistors has been investigated. Thin HfO2 blanket films deposited by atomic layer deposition on either SiO2 or NH3 treated Si (100) substrates have been subjected to NH3 and N2 anneal processing. Several high resolution techniques including electron microscopy with electron energy loss spectra, grazing incidence x-ray diffraction, and synchrotron x-ray photoelectron spectroscopy have been utilized to elucidate chemical composition and crystalline structure differences between samples annealed in NH3 and N2 ambients as a function of temperature. Depth profiling of core level binding energy spectra has been obtained by using variable kinetic energy x-ray photoelectron spectroscopy with tunable photon energy. An interface effect characterized by a shift of the Si4+ feature to lower binding energy at the HfO2/SiO2 interface has been detected in the Si 1s spectra; however, no corresponding chemical state change has been observed in the Hf 4f spectra acquired over a broad range of electron take-off angles and surface sensitivities. The Si 2p spectra indicate SiN bond formation beneath the HfO2 layer in the samples exposed to NH3 anneal. The NH3 anneal ambient is shown to produce a metastable HfN bond component corresponding to temperature driven dissociation kinetics. These findings are consistent with elemental profiles across the HfO2/Si(100) interface determined by electron energy loss spectroscopy measurements. X-ray diffraction measurements on similarly treated films identify the structural changes resulting from N incorporation into the HfO2 films.
+
+hafnium compounds
+silicon
+elemental semiconductors
+silicon compounds
+high-k dielectric thin films
+MOSFET
+atomic layer deposition
+annealing
+electron energy loss spectra
+X-ray diffraction
+X-ray photoelectron spectra
+chemical analysis
+crystal structure
+core levels
+binding energy
+bonds (chemical)
+dissociation

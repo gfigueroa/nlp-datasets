@@ -1,0 +1,7 @@
+The idea of a hybrid TEM-reverberation chamber for electromagnetic immunity testing holds some appeal, because of the potential to make efficient use of RF power in producing the test electromagnetic fields. In this paper, the proposed hybrid chamber consists of an asymmetric TEM cell with a C-section stirrer fitted between the septum and the shell. Method of Moments modelling is applied to determining the field characteristics in the chamber as the stirrer rotates. This demands analysis of many data sets that represent the field parameters of the system for many discrete stirrer positions. A novel technique for analysis and visualisation of the data is described and its application to the system under investigation is demonstrated.
+
+TEM
+hybrid TEM cell
+hybrid reverberation chamber
+hyrbid TEM
+reverberation

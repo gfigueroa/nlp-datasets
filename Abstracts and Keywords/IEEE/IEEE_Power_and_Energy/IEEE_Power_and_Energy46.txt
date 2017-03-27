@@ -1,0 +1,8 @@
+Although the multilevel current reinjection concept has been presented as a possible self-commutating alternative to line-commutated conversion for large power HVDC transmission, in its present form, the lack of independent reactive power control at the two converter terminals constitutes a severe limitation to its eventual acceptability. For very large power ratings, the use of double-group converter terminals has been shown theoretically to overcome the reactive power interdependence; however, the high nonlinearities involved make it difficult to design a practical control system, which is the main purpose of this paper. Comprehensive PSCAD/EMTDC simulation is used to verify that the dynamic and steady-state response of the proposed control system design are perfectly satisfactory.
+
+CSC&#x2013;HVDC
+Converter control
+HVDC
+four-quadrant power control
+multilevel conversion
+multilevel reinjection conversion

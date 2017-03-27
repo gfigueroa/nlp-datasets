@@ -1,0 +1,8 @@
+An Attempt to obtain an expression of the nonlinear polarization induced by static stress as a function of the electroelastic coefficients implies the knowledge of the relations between piezoelectric strain and stress coefficients. Such relations themselves depend on all linear and nonlinear coefficients of quartz which are not all known today.
+
+POLARIZATION
+PIEZOELECTRICITY
+QUARTZ
+STRAINS
+STRESSES
+NONLINEAR PROBLEMS

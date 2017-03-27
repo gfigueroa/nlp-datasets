@@ -1,0 +1,8 @@
+Accurate switching is necessary to get reproducible pulses with minimal jitter from pulse power equipment. On a 10 MV pulse power machine, Aurora, we have improved the triggering of the oil closing switch in various ways. These include suppressing fast current oscillations during capacitive charging of the switch electrodes, using a faster trigger pulse that acts only during a fraction of the switch closure time, and localization of the arc. With additional use of the machines symmetry the output pulses are now reproducible to better than 2% over the entire pulse shape, and the jitter is reduced about twofold, to 5 ns. © 1996 American Institute of Physics. 
+
+ACCELERATORS
+ELECTRIC ARCS
+OILS
+POWER RANGE 110 MW
+PULSES
+SWITCHES

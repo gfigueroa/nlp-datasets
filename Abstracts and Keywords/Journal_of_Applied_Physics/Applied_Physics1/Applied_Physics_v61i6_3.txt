@@ -1,0 +1,10 @@
+We have measured the Hall carrier concentration nH(T) and the Hall mobility ¼H(T) for some ntype, Sidoped GaAs/AlxGa1xAs heterostructures (x=0.2 and 0.3) in the range 4.2320 K for different levels of continuous illumination by a red light emitting diode. We interpret these data with the model of the interface carrier density described in the following paper [W. R. McKinnon and C. M. Hurd, J. Appl. Phys. 61, 2250 (1987)], which explains qualitatively the gross features in the temperature dependencies. The interpretation shows the effects of both deep and shallow donors, and of the magnetic field dependence arising from parallel conduction.
+
+PHOTOCONDUCTIVITY
+CARRIER DENSITY
+CARRIER MOBILITY
+IMPURITY STATES
+HETEROJUNCTIONS
+HETEROSTRUCTURES
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES

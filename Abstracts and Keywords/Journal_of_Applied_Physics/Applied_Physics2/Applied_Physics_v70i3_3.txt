@@ -1,0 +1,11 @@
+An electron cyclotron resonanceexcited Ar plasma completely removes CFx residue on Si resulting in a clean surface that is free of native Si oxide. In situ xray photoelectron spectroscopy verifies the absence of C and F on the surface, and the presence of what is thought to be a small amount of adsorbed or interstitially implanted O. Mechanistically, the Ar ion bombardment affects a nearly instantaneous ablation of F from the CFx surface followed in succession by a low average energy (100 eV) sputtering of the Crich remnant, the native Si oxide, and the Si substrate. The etching rate of thick CFx residue is approximately 15 nm/min without any heat applied to the substrate.
+
+SILICON
+CARBON FLUORIDES
+CLEANING
+PLASMA
+ELECTRON CYCLOTRONRESONANCE
+ION COLLISIONS
+ARGON IONS
+PHOTOELECTRON SPECTROSCOPY
+X RADIATION

@@ -1,0 +1,21 @@
+Liquidphase epitaxial growth with higher supersaturated InP growth melt could be successfully used in fabricating InGaAsP/InP double heterostructure (DH) lasers emitting in the 1.501.55¼m wavelength region. InPInGaAsP interface characterization has been carried out with scanning electron microscope (SEM), transmission electron microscope, photoluminescence (PL) measurements, and Auger spectroscopy. From the dissolution depth measurements, it was found that there is a slight dissolution on the surface of the InGaAsP layer, even in the 1.3¼m wavelength region during an InP layer growth with 16° supersaturated melt. Although the amount of dissolution increases as the composition of the quaternary active layer becomes a longer wavelength, as a result of this dissolution, the transition region does not catastrophically affect the laser performances at a wavelength shorter than 1.55 ¼m. It was found that the InPInGaAsP interface at 1.59¼m wavelength shows rugged configuration under highresolution SEM observation and the halfwidth of PL spectrum becomes wider than that for DH wafers at a wavelength shorter than 1.55 ¼m. This was confirmed by Auger line profile measurements.
+
+SEMICONDUCTOR LASERS
+CRYSTAL GROWTH
+INDIUM PHOSPHIDES
+INDIUM ARSENIDES
+GALLIUM PHOSPHIDES
+GALLIUM ARSENIDES
+INTERFACES
+LIQUIDS
+EPITAXY
+FABRICATION
+WAVELENGTHS
+SCANNING ELECTRON MICROSCOPY
+TRANSMISSION ELECTRON MICROSCOPY
+DATA
+PHOTOLUMINESCENCE
+AUGER ELECTRON SPECTROSCOPY
+QUANTITY RATIO
+DISSOLUTION
+LAYERS

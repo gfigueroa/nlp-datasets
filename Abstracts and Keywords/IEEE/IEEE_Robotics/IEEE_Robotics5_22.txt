@@ -1,0 +1,4 @@
+We designed simulated and optimized laterally diffused Si-MOSFET (LDMOS) transistors in Sentaurus TCAD software. By introducing excess interface charge density at the RESURF (reduced surface field) region, a power density 1.5 W/mm with a PAE (power added efficiency) of 45% at 3 GHz were obtained. The gain was 20.3 dB. These results show the enhancement in RF performance by introducing excess interface charge density at the RESURF region.
+
+Power MOSFET
+Power amplifiers

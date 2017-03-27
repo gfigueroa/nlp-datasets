@@ -1,0 +1,15 @@
+Hall measurements on highOhmic ntype float zone and Czochralski silicon which had received various heat treatments have been carried out as a function of temperature. An anomalous decrease in the Hall coefficient upon cooling was observed for all asgrown crystals in case the measurements were performed in low magnetic fields (B=0.5 T). In order to investigate the origin of this behavior, both the influence of oxygen and the possibility of a change in the Hall scattering factor were studied. To this end Hall measurements were performed as a function of magnetic field strength up to B=14 T. From the ratio of the low and high magnetic induction limits of the Hall coefficient the Hall scattering factor r has been obtained. In addition, from the high magnetic induction limit for the Hall coefficient the charge carrier density has been obtained without interference from scattering effects. On the basis of these results the anomalous transport phenomena reported in the literature could be attributed to a change in the Hall scattering factor.
+
+HALL EFFECT
+CHARGE CARRIERS
+SCATTERING
+DATA
+NTYPE CONDUCTORS
+ZONE REFINING
+CZOCHRALSKI METHOD
+SILICON
+HEAT TREATMENTS
+TEMPERATURE DEPENDENCE
+CRYSTALS
+MAGNETIC FIELDS
+CARRIER DENSITY

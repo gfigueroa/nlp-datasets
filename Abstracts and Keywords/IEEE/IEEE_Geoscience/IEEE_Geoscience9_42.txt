@@ -1,0 +1,7 @@
+This paper presents a global tuning procedure for FACTS power oscillation damping (POD) and power system stabilizers (PSSs) in a multi-machine power system using real coded genetic algorithm. The stabilizer's gains are obtained through the minimization of an objective function based on the damping ratio. The proposed controllers were simultaneously designed and they have provided a coordinated control action and a satisfactory performance for the power system, as shown in the results.
+
+FACTS
+Genetic algorithm
+Optimization
+Power oscillation damping(POD)
+Power system stabilizer(PSS)

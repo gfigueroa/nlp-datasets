@@ -1,0 +1,8 @@
+This paper presents an experimental study of a control moment gyroscope with reference to controller design strategy based on linear matrix inequalities. The LMI presents a framework for the design of controllers with multiple conflicting objectives. The controller designed with LMI includes better robustness features in addition to plant stabilization, thereby depicting reasonably accurate performance in comparison to nominal plant controllers.
+
+Affine parameterization
+H<inf>&#x221E;</inf> -norm
+H<inf>2</inf> -norm
+linear matrix inequalities
+polytopic form
+quadratic stability

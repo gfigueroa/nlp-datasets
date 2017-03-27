@@ -1,0 +1,5 @@
+This article presents a novel 3-D image acquisition technique using color fringe projection with encoded triangular fringes for high-speed 3-D machine vision. In the developed method, three-step phase shifting operation can be performed simultaneously by encoding and analyzing RGB color components on single structured fringe patterns. The greatest advantage for using the proposed structured color fringe having triangular intensity is on its significant time reduction required in phase retrieving. A high-speed 3-D prototype robot vision system was successfully developed and some experiments were conducted to verify the feasibility and accuracy of the method. From the preliminary experimental result analysis, it was demonstrated that the speed of the 3D image acquisition can be achieved up to 60 frames per second (fps) or higher. The maximum measurement errors can be controlled within 2.8% of the overall depth detection range.
+
+3-D robot vision
+color encoded pattern
+simultaneous phase-shifting

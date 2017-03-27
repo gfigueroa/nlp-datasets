@@ -1,0 +1,18 @@
+Radiative cooling occurs because the atmospheric emittance is low in the wavelength interval 813 ¼m particularly if the air is dry. We derive expressions which specify the optical properties demanded for a surface capable of being cooled to low temperatures. The key factor is infrared selectivity with low reflectance in the 813 ¼m window but high reflectance elsewhere. Considering only radiation balance, ideal surfaces of this type can yield temperature differences of <50	°C while the cooling power at nearambient temperatures is <100 W/m2. However, nonradiative exchange limits the practically achievable temperature difference. SiO films on Al were investigated as an example of an infraredselective surface. The infrared optical properties of SiO were determined by a novel and accurate technique. These data were used to compute the spectral radiative properties of Al coated with SiO films of different thicknesses. The spectral selectivity was largest for 1.0¼mthick films. This kind of surface was produced by evaporation of SiO onto smooth Al. The measured reflectance agreed with computations. Practical tests of radiative cooling were performed using a SiOcoated Al plate placed under transparent polyethylene films in a polystyrene box. An identical panel containing a blackbody radiator was used for comparison. The performance of the panels was tested during clear nights. It was in good qualitative agreement with theoretical expectations.
+
+RADIATIVE COOLING
+FILMS
+SILICON OXIDES
+MEDIUM TEMPERATURES
+EMISSION
+MATHEMATICAL MODELS
+THEORETICAL DATA
+WAVELENGTHS
+OPTICAL PROPERTIES
+SURFACES
+INFRARED RADIATION
+REFLECTIVITY
+ALUMINIUM
+DATA
+COMPARATIVE EVALUATIONS
+THICKNESS

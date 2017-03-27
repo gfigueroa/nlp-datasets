@@ -1,0 +1,11 @@
+An experimental method has been developed for obtaining timeresolved reflection measurements on shockcompressed materials in the 300500 nm spectral range. The sample, contained between transparent windows, is shocked and broadband light from a xenon flashlamp is reflected off the sample and collected by optical fibers. One fiber guides the reflected light to a system consisting of a spectrograph, a streak camera, a vidicon detector, and an optical multichannel analyzer. This system records spectra with 50 ns time resolution and 6 nm wavelength resolution. With a more sensitive detector, higher time and spectral resolution can be obtained. Additional fibers transport reflected light through narrow bandpass filters to photomultiplier tubes to provide higher time resolution (&lt;5 ns). Results of an experiment on carbon disulfide are presented which indicate an increase in reflectivity at 300 nm from less than 0.33% at ambient pressure to <10% at 105 kbar; at longer wavelengths the changes are smaller. These results are consistent with existing absorption measurements which indicate large increases in the absorption strengths and bandwidths of absorption bands located near 320 nm.
+
+CARBON SULFIDES
+COMPRESSION
+SHOCK WAVES
+REFLECTIVITY
+SPECTROSCOPY
+TIME RESOLUTION
+OPTICAL FIBERS
+NS RANGE
+PHOTOMULTIPLIERS

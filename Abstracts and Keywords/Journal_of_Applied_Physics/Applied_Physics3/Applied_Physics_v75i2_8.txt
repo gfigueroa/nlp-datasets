@@ -1,0 +1,13 @@
+A rigorous analytical series solution is presented for the problem of temperature distributions in a heat dissipation system consisting of a cylindrical heat spreader on a semiinfinite heat sink. It is believed that this solution has not been published in the literature before. The method uses the Dini series and the Hankel transform and results in two intrinsic sets of infinite integrals, which are independent of geometric dimensions and thermal properties of the heat dissipation system. By transforming the infinite integrals into definite integrals, an efficient way to evaluate these integrals for the determination of the temperature distributions has been formulated. With diamond as the heat spreader and copper as the heat sink, the method using 40 expansion terms has been checked against the surface element method with ten matching nodes given by Beck et al. [J. Heat Transfer 115, 51 (1993)]. The calculations of radial distributions of temperature and the average temperature over the heating area for various values of normalized thickness of the heat spreader show the existence of a thickness of the heat spreader to achieve a minimum temperature. The dependence of the average temperature on the ratio of the radius of the heat spreaders to the radius of the heating aperture clearly shows that increasing the ratio beyond 20 will not reduce the average temperature significantly, indicating the existence of an effective radius for the heat spreader. Finally, a sensitivity study of the average temperature as a function of the spreader thickness, the radius, and its thermal conductivity reveals that the radius of the heat spreader is the most effective design parameter for lowering the surface temperature. This analytical study provides both some physical insights into the thermal behavior and a mathematical basis for optimal design of such a heat dissipation system.
+
+THIN FILMS
+HEAT TRANSFER
+DISSIPATION FACTOR
+TEMPERATURE DISTRIBUTION
+DIAMONDS
+COPPER
+HEAT SINKS
+CYLINDRICAL CONFIGURATION
+ANALYTICAL SOLUTION
+THICKNESS
+THERMAL CONDUCTIVITY

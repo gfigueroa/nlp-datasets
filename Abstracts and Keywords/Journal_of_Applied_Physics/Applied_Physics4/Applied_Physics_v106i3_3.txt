@@ -1,0 +1,14 @@
+The high field magnetization and magnetotransport measurements are carried out to determine the critical superconducting parameters of MgB2xCx system. The synthesized samples are pure phase and the lattice parameter evaluation is carried out using the Rietveld refinement. The RT(H) measurements are done up to a field of 140 kOe. The upper critical field values, Hc2, are obtained from these data based on the criterion of 90% of normal resistivity, i.e., Hc2 = H at which Á = 90%ÁN, where ÁN is the normal resistivity, i.e., resistivity of about 40K in our case. The WerthamerHelfandHohenberg prediction of Hc2(0) underestimates the critical field value even below the field up to which measurement is carried out. After this model, the GinzburgLandau theory is applied to the RT(H) data which not only calculate the Hc2(0) value but also determine the dependence of Hc2 on temperature in the low temperature high field region. The estimated Hc2(0) = 157.2kOe for pure MgB2 is profoundly enhanced to 297.5 kOe for the x = 0.15 sample in MgB2xCx series. Magnetization measurements are done up to 120 kOe at different temperatures and the other parameters such as irreversibility field Hirr and critical current density Jc(H) are also calculated. The nano carbon doping results in substantial enhancement of critical parameters such as Hc2, Hirr, and Jc(H) in comparison to the pure MgB2 sample.
+
+carbon
+critical current density (superconductivity)
+doping profiles
+flux pinning
+giant magnetoresistance
+Ginzburg-Landau theory
+lattice constants
+magnesium compounds
+magnetisation
+nanostructured materials
+superconducting critical field
+superconducting transition temperature

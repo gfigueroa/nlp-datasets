@@ -1,0 +1,8 @@
+A thermodynamic model of hydrogen-induced silicon surface layer splitting with the help of a bonded silicon wafer is proposed in this article. Wafer splitting is the result of lateral growth of hydrogen blisters in the entire hydrogen-implanted region during annealing. The blister growth rate depends on the effective activation energies of both hydrogen complex dissociation and hydrogen diffusion. The hydrogen blister radius was studied as a function of annealing time, annealing temperature, and implantation dose. The critical radius was obtained according to the Griffith energy condition. The time required for wafer splitting at the cut temperature was calculated in accordance with the growth of hydrogen blisters. © 2001 American Institute of Physics.
+
+silicon
+hydrogen
+elemental semiconductors
+ion implantation
+semiconductor doping
+annealing

@@ -1,0 +1,14 @@
+This paper investigates the conditions which lead to softmagnetic properties of Fe/SiO2 multilayer film from the viewpoint of perpendicular magnetic anisotropy. For very thin Fe layers, perpendicular magnetization is explained by considering interface anisotropy. On the other hand, perpendicular magnetization, which is thought to relate to Fe columnar crystal structure, is observed when the Fe layer is thick. It is interpreted that the minimum coercivity, at an Fe layer thickness of 7 nm, is realized where the sum of the perpendicular anisotropies becomes minimum and the magnetization orients almost completely in the plane.
+
+IRON
+SILICON OXIDES
+FILMS
+MULTILAYERS
+MAGNETIC PROPERTIES
+ANISOTROPY
+INTERFACES
+COERCIVE FORCE
+ION BEAMS
+SPUTTERING
+MOESSBAUER EFFECT
+XRAY DIFFRACTION

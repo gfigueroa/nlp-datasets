@@ -1,0 +1,10 @@
+Device characteristics and analyses are reported for strained silicon n- and p-channel, metal-oxide-semiconductor field-effect transistors at five temperatures ranging from 296 to 367 K. Both partially depleted and bulk architectures were investigated. The devices were fabricated commercially on homogeneous silicon-based substrates and strain was applied mechanically after fabrication. Tensile uniaxial strain was applied within the elastic region using a back-end process. It was applied either parallel to or perpendicular to the carrier transport direction. Tensile biaxial strain was also induced in selected samples by using high thermal expansion Al substrates. Samples mounted on Al substrates experienced increasing strain as the temperature was raised. The structures were relaxed and characterized under steady-state conditions at each temperature level. No degradation of strain-induced mobility enhancement was observed due to increased temperature. We conclude that a reduction in average effective mass may be the greatest contribution to strain-enhanced mobility. © 2004 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+tensile strength
+internal stresses
+MOSFET
+thermal expansion
+effective mass
+carrier mobility

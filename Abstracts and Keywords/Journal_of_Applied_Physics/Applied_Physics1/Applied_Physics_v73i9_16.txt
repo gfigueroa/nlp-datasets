@@ -1,0 +1,11 @@
+The influence of the rfpower density and the silane mass flow rate on the properties and growth rate of glowdischarge amorphous silicon has been investigated. The silane deposition efficiency during the preparation process has been deduced using mass spectrometry. It has been found that this deposition efficiency is correlated with film quality and growth rate. Such a correlation and its dependence on the preparation parameters has allowed to find out a way to make films at increasing growth rates while keeping their properties essentially unchanged. The results are interpreted in terms of selective etching of weakly bonded radicals owing to ion bombardment. The research work undertaken has allowed to obtain intrinsic amorphous silicon of excellent photovoltaic properties with growth rates up to 10 Å	s1.
+
+AMORPHOUS SEMICONDUCTORS
+SILICON
+CVD
+FILM GROWTH
+MASS SPECTROSCOPY
+GROWTH RATE
+ETCHING
+PHYSICAL RADIATION EFFECTS
+PHOTOVOLTAIC EFFECT

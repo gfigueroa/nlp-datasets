@@ -1,0 +1,9 @@
+Quantum calculations of leakage current through ultrathin dielectric heterostructures are used to propose design criteria for the next generation of metal-oxide-semiconductor devices in a deep submicron technology. By using as input parameters both the dielectric constant and the barrier height of different dielectrics, including at first stage SiO2, Si3N4, TiO2, and Ta2O5, but also such emerging materials as HfO2 and ZrO2, we show that, depending on the voltage range investigated, the hierarchy between those dielectrics is not simply given by the increase of their permittivity. Deeper considerations based on resonant tunneling mechanisms, of prime importance when dielectric heterostructures are used for fabrication purposes, must be taken into account especially for the future low-consumption nanotransistors with operating voltages below 1 V. © 2003 American Institute of Physics. 
+
+MOSFET
+nanoelectronics
+dielectric thin films
+leakage currents
+permittivity
+resonant tunnelling
+insulating thin films

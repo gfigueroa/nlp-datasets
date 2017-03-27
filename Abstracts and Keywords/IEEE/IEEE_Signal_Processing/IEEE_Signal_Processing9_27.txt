@@ -1,0 +1,7 @@
+Determination of cup orientation is important for navigation system of total hip arthroplasty. The cup orientation is determined reference points pointed by an examiner. The pointing error can cause to mislead setting the cup. It has possibilities to induce a clinical symptom for the subject. Therefore the estimation system of affection due to the pointing error in navigation system is meaningful to execute THA surgery more safety. The aim of this study was to develop the estimation system and simulate the pointing error about the affection of the cup orientation. Firstly, we describe principle of the system and the analytical methodology in detail. Secondly, the cup orientation was examined in MDCT image. Thirdly, the pointing error was simulated. As a result, the proposed system could indicate that an examiner should point the reference points carefully along the anterior direction more than the distal direction in the navigation system.
+
+Computer-Assisted Surgery
+Cup Alignment
+MDCT Image
+Navigation System
+Total Hip Arthroplasty

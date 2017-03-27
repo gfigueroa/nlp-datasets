@@ -1,0 +1,16 @@
+The fabrication of SrBi2Ta2O9 (SBT) films using plasma-assisted metalorganic chemical vapor deposition (P-MOCVD) has been investigated. Optimizing the process conditions under plasma environment, amorphous SBT films were successfully deposited at a substrate temperature below 300
+°C, suggesting that the P-MOCVD process effectively utilizes plasma energy to promote the reaction and decomposition of metal organic source molecules. The amorphous SBT films were crystallized to the bilayered perovskite SBT films by a postannealing at 725
+°C. Thin SBT capacitors fabricated using P-MOCVD showed a good step coverage and the excellent ferroelectric properties including endurance. Low voltage operation below 1.5 V was successfully achieved using a 75 nm SBT capacitor, in which the signal level derived from the hysteresis curve suggests the feasibility of application to a 64 Mbit ferroelectric random access memories. © 2001 American Institute of Physics.
+
+strontium compounds
+bismuth compounds
+plasma CVD
+MOCVD
+ferroelectric thin films
+ferroelectric capacitors
+ferroelectric ceramics
+dielectric hysteresis
+MOCVD coatings
+plasma CVD coatings
+ferroelectric storage
+random-access storage

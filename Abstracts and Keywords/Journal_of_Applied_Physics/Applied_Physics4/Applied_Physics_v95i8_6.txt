@@ -1,0 +1,15 @@
+Effects of thermal annealing on optical and structural properties of GaInNAs/GaAs quantum well (QW) heterostructures, which were coated with dielectric films, were studied using photoluminescence, x-ray diffraction (XRD), and secondary-ion mass spectrometry (SIMS). A sample having no dielectric coating exhibited a rapid saturable blueshift in the beginning of annealing. A Si3N4 cap layer prevented the line shift, while a SiO2 cap enhanced the shift. The XRD and SIMS spectra provided evidence that the large blueshift for the SiO2-capped sample originated from Ga/In interdiffusion across the QW walls, and from a local reorganization of N-bonding configuration within the QW. The inhibition of blueshift for the Si3N4-capped sample was likely due to an improved stability of GaN bonds during annealing. © 2004 American Institute of Physics. 
+
+gallium compounds
+indium compounds
+silicon compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+semiconductor heterojunctions
+rapid thermal annealing
+chemical interdiffusion
+spectral line shift
+photoluminescence
+secondary ion mass spectra
+X-ray diffraction

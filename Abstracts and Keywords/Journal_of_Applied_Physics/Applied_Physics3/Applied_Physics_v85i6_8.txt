@@ -1,0 +1,10 @@
+PbZr0.2Ti0.8O3(PZT) thin films with and without La0.5Sr0.5CoO3(LSCO) electrodes were grown epitaxially on (001) SrTiO3 at 650
+°C by pulsed laser deposition. The domain structure of the 400 nm thick PZT films with different electrode layer configurations was investigated by x-ray diffraction and transmission electron microscopy. The c-domain fractions of the PZT films with no electrode layer, with a 50 nm electrode layer between the film and the substrate, and with 50 nm electrode layers on top and bottom of the PZT film were found to be equal. Theoretical estimation of the c-domain fraction based on the minimization of the energy of internal stresses in films is in good agreement with experimental results. This means that depolarizing fields do not affect the polydomain structure of the film. Calculations of the in-plane strains based on the lattice parameters of the LSCO layer in the above configurations led to the conclusion that the bottom electrode layer is coherently strained to match the substrate. © 1999 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+ferroelectric thin films
+pulsed laser deposition
+transmission electron microscopy
+X-ray diffraction
+electric domains

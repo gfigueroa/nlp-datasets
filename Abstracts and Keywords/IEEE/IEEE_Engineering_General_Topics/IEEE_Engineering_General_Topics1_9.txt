@@ -1,0 +1,8 @@
+Many building designers believe that thermal mass can significantly enhance the thermal performance of buildings in cold climate. This paper presents the technical details of a computational simulation study, showing that thermal mass distribution do not generate significant energy saving for a high-rise apartment buildings in cold climate. Six configurations, each with different level of thermal mass and distribution schemes, are studied. The results indicate that, for a high-rise apartment with Toronto's cold climatic condition, the optimal design option is capable of achieving a thermal lag up to 9 hours and maintaining indoor surface temperature to within 1 degree Celsius of difference. Consequently, the peak loads of heating and cooling systems are reduced, resulting in better indoor temperature control. However, the simulation results show that the distribution of thermal mass does not significantly influence the building's energy efficiency. This paper also discusses ongoing and future research.
+
+energy simulation
+green technology
+high-rise apartment
+integrated design process
+sustainable buildings
+thermal mass

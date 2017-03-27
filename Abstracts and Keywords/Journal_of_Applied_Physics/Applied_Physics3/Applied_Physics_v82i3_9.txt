@@ -1,0 +1,11 @@
+The dielectric function of SiO2 films deposited by electron-beam evaporation on silicon substrates is determined by infrared ellipsometry between 700 and 5000 cm1 one month after venting. Analysis of the absorption band associated with the SiOSi stretching mode at about 1075 cm1 and of the water absorption band at about 3300 cm1 enables the complex structure of the films, modeled as a densified silica matrix with pores partially or fully filled by water, to be characterized. The film density and visible refractive index values, which are estimated from the infrared parameters, are compared with the measured ones. A quantitative analysis of the wide water band, in which the contributions of three vibration modes (HOH bonds, isolated SiOH bonds, and neighboring SiOH bonds) are clearly identified, shows that the SiOH bond contribution is equal to 50% of the HOH bond. This value is independent of the deposition parameters and seems to be representative of a particular type of porosity present in porous dielectric thin films. © 1997 American Institute of Physics. 	 
+
+silicon compounds
+insulating thin films
+ellipsometry
+infrared spectra
+densification
+dielectric function
+porosity
+sorption
+electron beam deposition

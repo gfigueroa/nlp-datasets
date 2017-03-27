@@ -1,0 +1,9 @@
+When two coherent green beams offset from each other by a small angle are coupled in bacteriorhodopsin film, the diffraction intensity rises from zero to a maximum, and then decreases along with the writing time. Based on the change of the diffraction intensity with the writing time, we proposed and demonstrated a time-dependent all-optical exclusive not or (XNOR) operation and a time-dependent all-optical logical inverter (NOT) operation. Based on the relation between the self-diffraction intensity and the polarization states of the input beams, the time-dependent all-optical XNOR logic gate was achieved, and based on the relation between the polarization states of the diffraction beams and that of the recording beams, the time-dependent all-optical NOT logic gate was obtained.
+
+optical logic
+optical films
+logic gates
+proteins
+light coherence
+light diffraction
+light polarisation

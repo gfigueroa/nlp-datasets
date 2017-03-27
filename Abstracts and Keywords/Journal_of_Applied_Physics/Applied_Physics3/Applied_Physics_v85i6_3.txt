@@ -1,0 +1,9 @@
+We propose a new type of three-terminal tunneling device with gating action provided by the external field inducing the changes in the symmetry of electron wave functions. We evaluate the currentvoltage characteristics, transconductance, and speed of the proposed device. © 1999 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor quantum wires
+resonant tunnelling transistors
+wave functions
+semiconductor device models

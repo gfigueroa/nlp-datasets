@@ -1,0 +1,11 @@
+The electronic structure and the optical properties of Y3Fe5O12 crystal are calculated using the local spin density approximation+U approach. The intra-atomic correlation effect of the Fe 3d electrons is shown to be important in describing the insulating nature of the crystal. With a choice of the parameters U=3.5
+eV and J=0.8
+eV in the model Hamiltonian, a gap of 2.66 eV is obtained and a significant lowering of the occupied potion of the Fe 3d states is observed. The calculated optical absorption in the range 36 eV is from the bulk O 2p to the Fe 3d band states. The calculated spin magnetic moments are in good agreement with experiment. © 2001 American Institute of Physics. 
+
+yttrium compounds
+magnetic moments
+garnets
+density functional theory
+visible spectra
+electronic density of states
+dielectric function

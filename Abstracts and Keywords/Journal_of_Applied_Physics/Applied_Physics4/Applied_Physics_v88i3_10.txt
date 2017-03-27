@@ -1,0 +1,8 @@
+The dust charging and levitating in a collisionless cathode sheath of dc glow discharges with energetic electron beam released from a plane cathode are investigated with a self-consistent theoretical model. The dust charging associated with the electron beam including secondary emission of dust can dominate the dust surface potential in the close cathode region. In this case, dusts of the same size can levitate at two different positions in the cathode sheath. © 2000 American Institute of Physics. 
+
+dusty plasmas
+glow discharges
+surface potential
+plasma sheaths
+plasma density
+plasma transport processes

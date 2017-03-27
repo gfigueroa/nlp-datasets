@@ -1,0 +1,5 @@
+This paper discusses the control of a naturally unstable bicycle at stand still based on local linearization of a nonlinear model which results in a 2times2 multiple input multiple output system. It is shown through simulation plus new insights on stabilizing non-minimum phase systems and f-domain design techniques that it is possible to keep the bicycle vertical outside the self stability speed domain where theory in the literature has predicted that it's not possible. In reality the stabilization goal is a skill which can be acquired through practice.
+
+Non-minimum phase
+bicycle
+stability

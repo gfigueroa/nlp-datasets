@@ -1,0 +1,15 @@
+Lowtemperature (10300 K) dielectric and pyroelectric properties of morphotropicphaseboundary leadbariumniobate tungstenbronze ferroelectric single crystals have been investigated. Strong Debyelike dielectric dispersion, along a nonpolar direction (perpendicular to the polarization direction), has been observed and characterized by dielectric spectrum techniques. A direct charge measurement method has been used to study the lowtemperature pyroelectric properties in polar and nonpolar directions. A frozenin polarization component in a nonpolar direction is also reported. The lowtemperature relaxation effects are explained by the internal reorientation polarization perturbation and a thermally agitated local dipole fluctuation model.
+
+LEAD COMPOUNDS
+BARIUM NIOBATES
+MONOCRYSTALS
+ULTRALOW TEMPERATURE
+VERY LOW TEMPERATURE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+DIELECTRIC PROPERTIES
+PYROELECTRIC EFFECT
+FERROELECTRIC MATERIALS
+DISPERSION RELATIONS
+POLARIZATION
+FLUCTUATIONS

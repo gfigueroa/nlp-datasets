@@ -1,0 +1,7 @@
+This paper presents a comparative theoretical study of the performance of a set of controllers for improving the speed of actuators based on shape memory alloys (SMAs), especially on Nitinol (NiTi). To prevent overheating and thermal fatigue, these controllers take into account the maximum heating current at which a NiTi element can safely be heated. The thermal behavior of NiTi is first modeled for calculating the time response and, based on the suggested model, we show that hysteresis due to phase transformation can be neglected for rapid heating, thus simplifying the model to a linear problem. We present then the design and performance of a set of linear controllers. Simulation results show a substantial increase in actuation speed.
+
+Actuation speed
+NiTi wire
+modeling
+shape memory alloys (SMAs)
+temperature control

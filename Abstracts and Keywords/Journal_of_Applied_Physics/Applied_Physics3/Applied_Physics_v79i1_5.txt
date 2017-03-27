@@ -1,0 +1,10 @@
+The molecularbeamepitaxial growth of InxGa1xAs on GaAs or AlyGa1yAs leads to a variation of In content with depth, due to In segregation. However, by predepositing In at the beginning of InxGa1xAs growth, and also thermally removing the excess In at the end, we can produce a layer with the ideal square In profile. We find that the performance of AlyGa1yAs/InxGa1xAs/GaAs high electron mobility transistors is most enhanced by the predeposition step alone. © 1996 American Institute of Physics. 
+
+ALUMINIUM ARSENIDES
+DEPTH PROFILES
+ELECTRON MOBILITY
+FIELD EFFECT TRANSISTORS
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+MOLECULAR BEAM EPITAXY
+PERFORMANCE

@@ -1,0 +1,17 @@
+We develop a nonlinear thermodynamic model to predict the phase stability of ultrathin epitaxial (001)-oriented ferroelectric PbZr1xTixO3 (PZT) films with x = 1.0, 0.9, 0.8, and 0.7 on substrates which induce anisotropic in-plane strains. The theoretical formalism incorporates the relaxation by misfit dislocations at the film deposition temperature, the possibility of formation of ferroelectric polydomain structures, and the effect of the internal electric field that is generated due to incomplete charge screening at the film-electrode interfaces and the termination of the ferroelectric layer. This analysis allows the development of misfit strain phase diagrams that provide the regions of stability of monodomain and polydomain structures at a given temperature, film thickness, and composition. It is shown that the range of stability for rotational monodomain phase is markedly increased in comparison to the same ferroelectric films on isotropic substrates. Furthermore, the model finds a strong similarity between ultrathin PbTiO3 and relatively thicker PZT films in terms of phase stability. The combinations of the in-plane misfit strains that yield a phase transition sequence that results in a polarization rotation from the c-phase (polarization parallel to the [001] direction in the film) to the r-phase, and eventually to an in-plane polarization parallel to the [110] direction (the aa-phase) is determined to be the path with the most attractive dielectric and piezoelectric coefficients resulting in enhancements of 10 to 100 times in the dielectric permittivity and piezoresponse compared to bulk tetragonal ferroelectrics of the same PZT composition.
+
+dielectric polarisation
+dislocations
+electric domains
+electrodes
+epitaxial layers
+ferroelectric thin films
+ferroelectric transitions
+lead compounds
+permittivity
+phase diagrams
+piezoelectric materials
+piezoelectric thin films
+piezoelectricity
+thermodynamics
+zirconium compounds

@@ -1,0 +1,5 @@
+The asynchronous network (Asynch-NET) provided by mobile access point (MAP) in the community of rural areas of developing countries has proved success in many regions of the developing countries. This asynchronous network is the footstep for e-services implementation in the communities with low-income and low population density. Basically, the cost of implementing a conventional "always-on" link in the rural areas of developing countries is very high that does not attract investors to put effort on. The paper presents a technique that is applied to the Asynch-NET framework so as to provide "the always-on" e-services at the similar operating cost of Asynch-NET
+
+Asynch-NET
+MAP
+WiFi. Always-on

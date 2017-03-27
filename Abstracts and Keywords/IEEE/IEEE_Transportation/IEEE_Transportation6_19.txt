@@ -1,0 +1,5 @@
+Surprisingly, published work on the development of series hybrid electric vehicles (SHEVs) has always been directed towards volume and weight reduction for the battery and the electric drive with little attention into the generator set. This paper presents an investigation in rectifier circuits commonly used in generator sets to determine which rectifier topology demonstrates both: high power factor (PF) and high output voltage. The investigation is based on analytic calculations and Matlab/Simulink simulations. It is shown that none of the common rectifier circuits fulfil both requirements. An explanation for this statement is presented.
+
+Power factor
+SHEV
+rectifiers

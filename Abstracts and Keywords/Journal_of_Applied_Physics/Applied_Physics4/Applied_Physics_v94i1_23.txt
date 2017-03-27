@@ -1,0 +1,14 @@
+The inter-grain exchange-coupling interactions, effective anisotropy, and coercivity in nanocomposite Nd2Fe14B/±Fe magnets were investigated. The effective anisotropy of nanocomposite magnets has been calculated starting from the statistics of boundaries between magnetically hard-hard, hard-soft, and soft-soft grains. The result shows that the effective anisotropy decreases with reduction in grain size and/or increase in soft phase components. When grain sizes reduce to 45 nm, Keff decreases to 1/31/4 of the ordinary value of K. The coercivity in nanocomposite magnets demonstrates a similar behavior. The decrement of coercivity is mainly due to the reduction of effective anisotropy. Considering the opposite varying trend the remanence demonstrates with respect to the effective anisotropy and the coercivity, we conclude that the mean grain size should be in the range of 1015 nm and the volume fraction of soft phase should be less than 50% in order to achieve high energy product magnets. © 2003 American Institute of Physics. 
+
+neodymium alloys
+iron alloys
+boron alloys
+iron
+grain size
+coercive force
+remanence
+nanocomposites
+permanent magnets
+magnetic anisotropy
+ferromagnetic materials
+exchange interactions (electron)

@@ -1,0 +1,16 @@
+Timeresolved photoconductivity and decay measurements in optoelectronic switches made from silicononsapphire films of different thicknesses have been used to obtain the distributions of carrier drift mobility and lifetime as functions of the distance x from the substrate. It is shown that the evaluation of the true lifetime Ä is complicated by the carrier diffusion in the case of thick samples (k3 ¼m) and by back surface recombination in the case of thin samples (d0.3 ¼m). For the lifetime, we have found the relation Ä(ns)=0.4+0.4x (¼m), and the rear surface recombination velocity has been determined to be of the magnitude sB104 cm/s.
+
+time resolution
+photoconductivity
+silicon
+thin films
+optoelectronic devices
+switches
+ps range
+lifetime
+carrier mobility
+thickness
+sapphire
+surface properties
+relaxation
+recombination

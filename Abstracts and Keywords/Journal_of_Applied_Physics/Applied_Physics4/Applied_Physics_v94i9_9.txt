@@ -1,0 +1,11 @@
+First principles total energy calculations were performed to characterize oxygen vacancy defects in tantalum pentoxide (Ta2O5). A simplified version of the crystalline orthorhombic phase of Ta2O5 was used in this study. Results indicate that O vacancies in Ta2O5 can be broadly classified based on their location in the lattice. One type of vacancy that occupies the in-plane sites displays deep or midgap occupied states and shallow unoccupied states, while a second type occupying cap sites results in shallow occupied states. For a wide range of Fermi levels or chemical potentials, the neutral and +2 charged states of the in-plane type vacancy and the +2 charge state of the cap type vacancy are found to be most stable. © 2003 American Institute of Physics. 
+
+tantalum compounds
+dielectric materials
+ab initio calculations
+total energy
+vacancies (crystal)
+defect states
+deep levels
+Fermi level
+chemical potential

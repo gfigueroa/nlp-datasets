@@ -1,0 +1,12 @@
+We report on the effect roughness has on the magnetic properties of Co/Ni multilayers with perpendicular anisotropy. We can systematically vary the surface roughness and grain size by the variation in the Cu seed layer thickness. The roughness has a significant effect on the lateral anisotropy variation across the material, which was studied through the size dependence of the switching field and switching field distribution in nanostructures. Ferromagnetic resonance measurements show a large dependence of the linewidth on the topography. However, only the inhomogeneous linewidth broadening varied significantly with roughness with little to no effect on the intrinsic damping parameter of ± = 0.0150.018.
+
+cobalt
+damping
+ferromagnetic resonance
+grain size
+magnetic multilayers
+magnetic switching
+nanomagnetics
+nickel
+perpendicular magnetic anisotropy
+surface roughness

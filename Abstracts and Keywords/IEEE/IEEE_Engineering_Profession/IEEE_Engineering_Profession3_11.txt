@@ -1,0 +1,7 @@
+Various energy and computational constraints for sensor nodes in wireless sensor networks have led to the development of many protocols with emphasis on medium access control (MAC) layer protocols. Several applications have already been envisioned for wireless sensor networks. This paper classifies the existing MAC protocols &amp; the applications/ scenarios for wireless sensor networks. In addition the paper analyses and compares the application specific-ness of the existing Hybrid-MAC protocols depicting the effect of the inefficient behavior of these protocols if imposed on some other applications/ scenarios. Simulation results also verify their application dependency which highlights the need for a generalized, standardized &amp; adaptive MAC protocol suitable for a wider range of applications. The paper concludes with some recommendations for such protocols.
+
+Application Patterns
+Energy Efficiency
+Latency
+Medium Access Control Protocols
+Wireless Sensor Networks

@@ -1,0 +1,9 @@
+The mechanism of laser-induced backside wet etching (LIBWE) is important for the optimization of application processes but is still ambiguous. Extremely high surface absorption coefficients of more than 40×104cm1 at » = 248nm that decay exponentially within less than 25 nm were measured for LIBWE-etched fused silica surface. Therefore, the resulting laser-induced temperatures quickly exceed the boiling point and result in surface erosion of the modified material. Numerical calculations of the temperature considering the measured absorption and phase transitions have been used to evaluate the etching depth of fused silica with a pyrene/toluene solution that agrees well with the measured rates well. A model of LIBWE is proposed that bases on the laser ablation of the high-absorbing modified fused silica as the dominating erosion process.
+
+absorption coefficients
+boiling point
+erosion
+laser ablation
+laser beam etching
+phase transformations
+silicon compounds

@@ -1,0 +1,9 @@
+Amorphoussilicon (aSi:H) solar cells have the structure of short pin diodes, with an electric field extending through the i layer. The photocurrent is voltage dependent. Primary and secondary photocurrents occur. We modify the diode structure by lowlevel doping of the i layer in order to obtain psn diodes. The s layer has the type ½ or À, i.e., is slightly n or p doped. The transition pin’psn deforms the associated spectral photocurrentvoltage characteristics. Certain asymmetries build up. A type transfer of À’½ inverts the symmetry pattern. The reversal of the illumination direction has almost the same effect. Electrons and holes therefore play equivalent roles in psn diodes and pin solar cells. An elementary photocarriercollection model provides a basic understanding of all the observed phenomena.
+
+SILICON SOLAR CELLS
+PHOTODIODES
+PN JUNCTIONS
+PHOTOCURRENTS
+EXPERIMENTAL DATA
+CHARGE CARRIERS
+AMORPHOUS STATE

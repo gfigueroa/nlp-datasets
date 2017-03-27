@@ -1,0 +1,5 @@
+Intelligent Topic Map we proposed extends the conventional topic map in structure and enhances the reasoning functions. It embodies the multi-level, multi-granularity and inherent relevant characteristics of knowledge, and establishes corresponding logical reasoning rules and grammar, then realizes knowledge representation and knowledge reasoning. With the Intelligent Topic Map as infrastructure, we present a new model of knowledge logical organization. It lays the foundation for high-quality knowledge value added services in the field of education. Furthermore, we introduce the working mechanism of knowledge logical organization based on Intelligent Topic Map, and give a demonstration in the end.
+
+intelligent topic map
+knowledge logical organization
+topic map

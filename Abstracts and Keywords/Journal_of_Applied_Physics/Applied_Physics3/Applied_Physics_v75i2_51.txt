@@ -1,0 +1,13 @@
+It is demonstrated mathematically that in quantum efficiency measurement in the presence of a constant bias illumination, one of three possible phenomena occurs: (1) monochromaticlightproduced field redistribution has negligible impact and almost all photocarriers in the quantum efficiency measurement are from the probe monochromatic light; (2) the monochromatic light causes appreciable improvement in the electric field in some part of the device, causing a channeling of biaslightproduced photocarriers into the modulated current response. This creates the possibility of apparent quantum efficiencies greater than unity; and (3) the monochromatic light has a significant detrimental influence on the electric field in some part of the device. This may result in negative values of quantum efficiency, although the lockin measurement must be suitably modified to detect the effect. Using our detailed computeranalysis model, two conditions are identified in which quantum efficiencies greater than unity can be achieved in a hydrogenated amorphous silicon Schottky barrier photovoltaic device.
+
+OPTOELECTRONIC DEVICES
+PHOTOCURRENTS
+QUANTUM EFFICIENCY
+ELECTRIC FIELD EFFECTS
+MONOCHROMATIC RADIATION
+RESPONSE FUNCTIONS
+MODULATION
+COMPUTERIZED SIMULATION
+SOLAR CELLS
+PHOTOVOLTAIC EFFECT
+AMORPHOUS SEMICONDUCTORS

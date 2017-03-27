@@ -1,0 +1,6 @@
+Main memory cache performance continues to play an important role in determining the overall performance of object-oriented, object-relational and XML databases. An effective method of improving main memory cache performance is to prefetch or pre-load pages in advance to their usage, in anticipation of main memory cache misses. In this paper we describe a framework for creating prefetching algorithms with the novel features of path and cache consciousness. Path consciousness refers to the use of short sequences of object references at key points in the reference trace to identify paths of navigation. Cache consciousness refers to the use of historical page access knowledge to guess which pages are likely to be main memory cache resident most of the time and then assumes these pages do not exist in the context of prefetching. We have conducted a number of experiments comparing our approach against four highly competitive prefetching algorithms. The results shows our approach outperforms existing prefetching techniques in some situations while performing worse in others. We provide guidelines as to when our algorithm should be used and when others maybe more desirable.
+
+Caching
+Clustering
+Databases
+Prefetching

@@ -1,0 +1,12 @@
+The influence of hydrostatic pressure on magnetization, electrical conductivity and magnetoresistance of FeCr2S4 single crystals has been studied. Significant pressure influence on the temperature of a spin-glass like magnetization anomaly, dTm/dpH2.7 K/kbar, on the Curie temperature, dTC/dpH0.9 K/kbar, as well as on the resistivity and magnetoresistance, was found. The negative magnetoresistance maximum at the Curie temperature is shifted under pressure towards higher temperatures. Pressure induced changes of the low field magnetoresistance and of the conductivity anomalies at Tm are correlated well with the changes in the magnetization. In the low temperature region the appearance of low symmetry anisotropy has been observed. This effect is distinctly enhanced by the hydrostatic pressure. The low symmetry component of magnetic anisotropy was suggested to be due to the static JahnTeller effect. © 2001 American Institute of Physics. 
+
+iron compounds
+chromium compounds
+magnetic semiconductors
+ferrimagnetic materials
+electrical conductivity
+magnetoresistance
+Curie temperature
+magnetic anisotropy
+Jahn-Teller effect
+high-pressure effects

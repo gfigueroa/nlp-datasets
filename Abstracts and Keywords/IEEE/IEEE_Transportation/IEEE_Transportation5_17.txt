@@ -1,0 +1,6 @@
+A new class of colloidal dielectric fluids is formulated with the objective of enhancing the dielectric performance of mineral oil for application in power system. TiO<sub>2</sub> nanoparticles modified by different organic reagents are suspended by means of sonication. Dielectric strength measurements are carried out under AC for a number of different colloidal systems with varying particle mass fraction. It was found that breakdown voltages under power frequency condition have been improved at the optimum composition. The enhancement of breakdown strength (50Hz) of transformer oil-based nanofluid is mainly attributed to dielectric property of TiO<sub>2</sub> nanoparticles, which may act as electron traps in the process of electron transfer in electrically stressed nanofluids. Furthermore, the high specific surface area of nanoparticles also increases the probability of electron scattering in the nanofluids, which reduces the impact energy of electrons and prevents the oil from ionizing. All these results confirmed that transformer oil modified with TiO<sub>2</sub> nanoparticles hold a promise to improve its insulating properties.
+
+TiO<inf>2</inf> nanoparticle
+breakdown strength
+nanofluid
+transformer oil

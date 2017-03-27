@@ -1,0 +1,6 @@
+This article considers the electrostrictive response of an ideal polar rubber in which each random link carries a dipole which is constrained to remain perpendicular to the link but is free to rotate about it. It thus mimics typical polar polymers with dipoles essentially perpendicular to the chain backbone and which rotate preferentially about the local chain axis (Stockmayer type B). In such materials, there is a genuine interplay between mechanical deformation and the electrical permittivity since an applied strain can produce preferential segmental orientation, align dipole rotation axes, and thus cause a change in permittivity. Though this is a plausible mechanism of electrostriction in polar rubbers, the quantitative analysis presented in this article suggests that the effect makes only a small contribution to the observed deformation of actuators based on typical polar rubber films with compliant electrodes. © 2002 American Institute of Physics. 
+
+rubber
+electrostriction
+deformation
+permittivity

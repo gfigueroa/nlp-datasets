@@ -1,0 +1,7 @@
+Aiming at the problem of traditional teaching method in human machine interface design course, this paper proposed a new teaching method, which according to the students characteristics of seniors, uses interaction teaching and team development to arouse the interest of students, pays great attention to practice ability as well as theory learning, promotes the students to put into practice, therefore solves the problem in traditional education method.
+
+CDIO
+human machine interface teaching
+interaction teaching
+practice education
+team development

@@ -1,0 +1,12 @@
+Photoluminescence and cathodoluminescence studies, performed at room temperature, on Sr1xErxF2+x/InP(100) layers exhibit strong light emissions in both the visible range and in the infrared domain. It is shown that in the visible range the highest intensities were found for x=0.02, while for the 4I13/2’4I15/2 infrared emission (1.53 ¼m) the maximum of luminescence was found for x close to 0.2. For a 4I15/2’4I11/2 (980 nm) excitation, up conversion leads to visible light emissions (red and green). A photoluminescence study at low temperature (2 K) shows that, due to the low growth temperature of the layers, the Er3+ environment is more simple than in bulk crystals. For x=0.03 a single charge compensated Er3+ ion site was evidenced. Up to x=0,15 this site predominates but a clustering process is evidenced. © 1995 American Institute of Physics.
+
+STRONTIUM FLUORIDES
+ERBIUM FLUORIDES
+SOLID SOLUTIONS
+THIN FILMS
+PHOTOLUMINESCENCE
+CATHODOLUMINESCENCE
+VISIBLE RADIATION
+INFRARED RADIATION
+TEMPERATURE DEPENDENCE
+CRYSTAL FIELD

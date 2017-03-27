@@ -1,0 +1,15 @@
+The down scaling of complementary metal oxide semiconductor transistors requires materials such as porous low-k dielectrics for advanced interconnects to reduce resistance-capacitance delay. After the deposition of the matrix and a sacrificial organic phase (porogen), postcuring treatments may be used to create porosity by evaporation of the porogen. In this paper, Auger electron spectroscopy is performed to simultaneously modify the material (e-beam cure) and measure the corresponding changes in structure and chemical composition. X-ray photoelectron spectroscopy and Fourier transform infrared spectroscopy measurements in attenuated total reflection mode confirm the Auger results. The porogen removal and matrix cross-linking result in the formation of a SiOSi network under e-beam or ultra violet cure. The possible degradation of these materials, even after cure, is mainly due the presence of SiC bonds.
+
+silicon compounds
+hydrogen
+low-k dielectric thin films
+porous materials
+electron beam effects
+ultraviolet radiation effects
+chemical analysis
+Auger electron spectra
+X-ray photoelectron spectra
+Fourier transform spectra
+infrared spectra
+attenuated total reflection
+bonds (chemical)

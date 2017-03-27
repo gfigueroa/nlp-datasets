@@ -1,0 +1,6 @@
+The perpendicular ferromagnetic resonance spectra for four Co/ Nb multilayered films have been studied. Three of these multilayers had the same thickness of Co (210 Å) with Nb layer thicknesses varying between 18 and 135 Å. The fourth film was a trilayer sandwich film. A multimode spectrum was observed for all the films. The results indicated that the Co films are magnetically coupled even when the Nb film thickness was 135 Å. A new approach to understand the multimode ferromagnetic resonance in magnetic/nonmagnetic multilayer thin film structures was worked out. In this approach, the equation of motion is solved in the magnetic layers, which are assumed to be coupled through a boundary condition. The theoretical calculations gave a good agreement with the experimentally observed field positions when it was assumed that the magnetic properties of the top and the bottom Co layers are slightly different from the intermediate ones. © 2002 American Institute of Physics. 
+
+magnetic multilayers
+ferromagnetic resonance
+cobalt
+niobium

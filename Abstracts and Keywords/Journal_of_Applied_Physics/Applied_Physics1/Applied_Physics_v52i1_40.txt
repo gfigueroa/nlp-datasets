@@ -1,0 +1,19 @@
+Utilizing changes in the carrier distribution function by magnitude and momentum scaling of scattering rates, the author a number of interesting results concerning ionization coefficients and transient drift and diffusion. Starting with a general definition of the ionization coefficient which includes nonlocal effects, the behavior of this coefficient under scaling is determined and used to find a simple analytical expression in terms of physical parameters valid for all field strengths. When fit to data for silicon, surprisingly large but consistent highfield, effective ionization energies are found for electrons (3.6 eV) and holes (5.0 eV). This expression can also relate ionization near an interface to that in the bulk. Rate scaling is also used to predict changes in velocity overshoot and diffusionlimited rise times between bulk and interface behavior. These comparisons are facilitated by a novel relationship between the time dependence of the spacial diffusion of a carrier pulse and it spacial displacement in an applied field. A classification of scattering rates suggested by momentum scaling as well as alternative scaling procedures applicable in special cases are briefly included. The former provides information on the behavior under momentum scaling of the positionaldisplacement correlation factor of surfaceroughness scattering. The latter shows how scatteringrate scaling and momentum scaling can be made to transform into each another.
+
+SEMICONDUCTOR MATERIALS
+SCALING LAWS
+CHARGEDPARTICLE TRANSPORT
+ELECTRONS
+ELECTRIC FIELDS
+MATHEMATICAL MODELS
+CHARGE CARRIERS
+SPATIAL DISTRIBUTION
+SCATTERING
+THEORETICAL DATA
+TRANSIENTS
+DIFFUSION
+ANALYTICAL SOLUTION
+SILICON
+COMPARATIVE EVALUATIONS
+IONIZATION POTENTIAL
+TIME DEPENDENCE

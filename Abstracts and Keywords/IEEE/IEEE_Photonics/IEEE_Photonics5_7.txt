@@ -1,0 +1,5 @@
+Data replication is an effective way to improve data accessibility in ad hoc networks because of the movement of hosts and the changing of network topology. A new data replication method called Hierarchical Replication Model (HRM) is proposed in this paper. This method selects mobile hosts as data replicas holders taking into account not only data access frequencies and network topology, but also link bandwidth and remaining amount of batteries of hosts. This method groups the network into three hierarchies to improve the data accessibility, and it speeds up the data transmission and increase the data accessing efficiency at the same time. Furthermore, simulation results verify the effectiveness of this method.
+
+Ad hoc network
+data replication
+hierarchical

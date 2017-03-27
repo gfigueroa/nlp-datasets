@@ -1,0 +1,5 @@
+Anomalous strong nonlinear optical behavior of a heterogeneous two-component system is experimentally demonstrated and briefly discussed. The material is a three component microemulsion of water microspheres coated by a monomolecular layer of sodium-bis-di-ethylsulfosuccinate (AOT) immersed in an aliphatic oil (Decane): the three-component Water/AOT/Decane. Traditional nonlinear optics mechanisms, like thermal blooming, thermal diffusion, and electrostriction are shown to be insufficient to account for this nonlinearity. Both its amount and its dynamic require the consideration of a new effect. We retain anisotropic cluster formation and consequent rotational and diffusive dynamic as the main reasons for the new phenomenon. © 2000 American Institute of Physics. 
+
+nonlinear optics
+microemulsions
+percolation

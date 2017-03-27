@@ -1,0 +1,18 @@
+Small water soluble CdS nanocrystals (NCs) with excellent colloidal stability were prepared by femtosecond laser ablation of a bulk CdS target without using any surfactant. CdS NCs of different sizes ranging from 2.0 to 8.6 nm can be produced by simply adjusting the laser fluence at low values, which are just above the ablation threshold. The obtained CdS NCs show a relatively narrow size distribution, which gradually narrows as the laser fluence decreases, as can be seen in the transmission electronic microscopic images. UV-vis optical absorption, photoluminescence, and fluorescence lifetime were also used to characterize the NCs. These as-prepared small crystals show excellent water solubility and have good colloidal stability. Their size is easily controlled as well. Together, the above-mentioned properties make these NCs of interest for luminescence labeling and sensing applications.
+
+biomedical materials
+cadmium compounds
+colloids
+fluorescence
+II-VI semiconductors
+nanobiotechnology
+nanoparticles
+particle size
+photoluminescence
+pulsed laser deposition
+semiconductor growth
+solubility
+transmission electron microscopy
+ultraviolet spectra
+visible spectra
+wide band gap semiconductors

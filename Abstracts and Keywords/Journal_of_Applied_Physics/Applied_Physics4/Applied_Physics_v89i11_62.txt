@@ -1,0 +1,13 @@
+Tunneling giant magnetoresistance (MR) of the FeAl2O3 nanogranular films has been observed over a wide range of Fe volume fraction x and it took a maximum of 4.4% at room temperature for the film with x=0.45 at H=10
+kOe. Furthermore, the field dependence of MR of the samples is well described by the form proportional to the square of the magnetization. Moreover, an estimate of the magnetic anisotropy energy density Ku increases with the decrease of x, yielding a value 2 orders of magnitude greater than the value for bulk Fe when x=0.23. The Blochs law, MS(T)=MS0(1BTb), can also hold for all the samples but with nonbulk parameters dependent on the Fe volume fraction. These results reveal a percolation effect on the magnetic properties, as well as the conductance, in such nanogranular films. © 2001 American Institute of Physics. 
+
+iron
+giant magnetoresistance
+tunnelling
+granular materials
+nanostructured materials
+magnetic anisotropy
+alumina
+magnetisation
+percolation
+magnetic thin films

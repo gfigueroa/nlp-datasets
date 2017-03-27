@@ -1,0 +1,11 @@
+The structural, magnetic, and electronic properties of the polycrystalline La1xNaxMnO3 (x=0.10, 0.15, 0.20, and 0.30) are investigated. The result of the Rietveld refinement of x-ray powder diffraction shows that these compounds crystallize in a rhombohedrally distorted structure with space group RC. The magnetic measurement shows that Curie temperature TC of the studied samples is near or above room temperature. The temperature dependence of resistivity shows that all samples undergo a sharp transition accompanying a paramagnetic to ferromagnetic with the decrease of temperature, however, for x~0.15 samples, double transition peaks with a single ferromagnetic transition is observed. In the meanwhile, a large room-temperature magnetoresistance with low applied magnetic field is observed. The co-existing ferromagnetic metallic phases and ferromagnetic insulating (FMI) phases induced by the electronic inhomogeneity as well as the additional FMI phases caused by the presence of vacancies at the A sites, are presented to account for the transport properties and large magnetoresistance in these compounds. © 2001 American Institute of Physics.
+
+lanthanum compounds
+sodium compounds
+colossal magnetoresistance
+crystal structure
+Curie temperature
+ferromagnetic-paramagnetic transitions
+metal-insulator transition
+vacancies (crystal)
+phase separation

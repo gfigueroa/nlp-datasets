@@ -1,0 +1,10 @@
+An analysis is presented which has application to the magnetic brush method of development in an electrophotographic process. In this analysis, the stability of a collection of beadchains in a nonuniform magnetic field is examined from the point of view of minimizing the potential energy of the collection. The most stable chain length is determined. Then the mechanism of individual chain breakage is examined. A magnetomechanical stability analysis of the beadchain structure is carried out using small perturbations to investigate the stability of a single chain and to determine the onset of instability as the chain is rotated with respect to the applied field direction. We find that the length of the most stable chain does not depend on the strength of the applied field, but depends on its rate of falloff. We also find that chain breakage occurs at a definite angle between the applied field and the chain.
+
+XEROGRAPHY
+CHAINS
+ELECTROOPTICAL EFFECTS
+MAGNETOMECHANICAL EFFECTS
+INSTABILITY
+STABILITY
+MAGNETIC FIELD EFFECTS
+SPHERES

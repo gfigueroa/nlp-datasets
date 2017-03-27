@@ -1,0 +1,13 @@
+A new universality has been recently proposed by Lee, Liu, and Nowick [Phys. Rev. Lett. 67, 1559 (1991)] for dispersion in highresistivity crystalline and disordered solids which posits that the real part of the conductivity Ã2 exhibits É³ frequency response, with ³=1 over an appreciable temperature range. To investigate this surprising conclusion in further detail, several powerful analysis methods were applied to Lee and coworkers ac relaxation data for singlecrystal NaCl doped with Zn2+. In the past, no significant information has been obtained from the Ã3 data. Complex nonlinear leastsquares fitting was used to analyze simultaneously both parts of the admittance data, Y(É)=Y2(É)+iY3(É), with several conductivesystem response models. The dispersive part of the response is here generally very small compared to the lowfrequencylimiting conductance, G0 and capacitance. New forms of the Barton, Nakajima, and Namikawa relation were derived and shown to be applicable for the data and the most appropriate model. Contrary to previous work, analysis and interpretation in terms of conductivesystem dispersion, rather than dielectric dispersion, led to new results which vitiate the new universality assumption. Arrhenius plotting of G0(T) yielded a curved line, but a split of R0aG10aR+”R, into the undispersed highfrequencylimiting part R and the strength of the dispersed part ”R, showed that while both quantities were separately thermally activated, R exhibited a large, abrupt entropy transition near 363 K. From these results the vacancy migration activation energy was estimated to be 0.695 eV, and the R vacancyassociation activation energy changed from about 0.66 eV below the transition to about 0.56 above it, suggesting a transition from nearestneighbor association to nextnearestneighbor association.
+
+SODIUM CHLORIDES
+ELECTRIC CONDUCTIVITY
+DISPERSION RELATIONS
+FREQUENCY DEPENDENCE
+TEMPERATURE DEPENDENCE
+RELAXATION
+DOPED MATERIALS
+ZINC ADDITIONS
+LEAST SQUARE FIT
+ARRHENIUS EQUATION
+VACANCIES

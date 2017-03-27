@@ -1,0 +1,10 @@
+We present a critical theoretical study of electronic properties of silicon nanoclusters, in particular the roles played by symmetry, relaxation, and hydrogen passivation on the stability, the gap states and the energy gap of the system using the order N [O(N)] nonorthogonal tight-binding molecular dynamics and the local analysis of electronic structure. We find that for an unrelaxed cluster with its atoms occupying the regular tetrahedral network, the presence of undistorted local bonding configuration is sufficient for the appearance of a small clean energy gap. However, the energy gap of the unrelaxed cluster does not start at the highest occupied molecular orbital (HOMO). In fact, between the HOMO and the lower edge of the energy gap, localized dangling bond states are found. With hydrogen passivation, the localized dangling bond states are eliminated, resulting in a wider and clean energy gap. Relaxation of these hydrogen passivated clusters does not alter either the structure or the energy gap appreciably. However, if the silicon clusters are allowed to relax first, the majority of the dangling bonds are eliminated but additional defect states due to bond distortion appear, making the energy gap dirty. Hydrogen passivation of these relaxed clusters will further eliminate most of the remnant dangling bonds but no appreciable effect on the defect states associated with bond distortions will take place, thus still resulting in a dirty gap. For the hydrogen-passivated SiN nanoclusters with no bond distortion and no overall symmetry, we have studied the variation of the energy gap as a function of size of the cluster for N in the range of 80&lt;N&lt;6000. The dependence of the energy gap on the size shows similar behavior to that for silicon nanoclusters with no bond distortion but possessing overall symmetry. © 2001 American Institute of Physics. 
+
+energy gap
+silicon
+nanostructured materials
+passivation
+atomic clusters
+dangling bonds
+defect states
+elemental semiconductors

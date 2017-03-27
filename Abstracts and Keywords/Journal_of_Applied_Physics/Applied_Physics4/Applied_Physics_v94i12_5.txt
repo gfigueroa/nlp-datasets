@@ -1,0 +1,12 @@
+Low temperature calorimetric measurements have been made on a series of binary aluminum alloys containing 110 at.
+% lithium. The heat capacity data are analyzed in terms of an electronic and a lattice contribution. Accordingly, the low level of lithium addition yields appreciable changes in the electronic density-of-states at Fermi level and the characteristic Debye temperature of lattice. These results reflect certain degrees of electron localization between aluminum and lithium atoms, providing a fundamental basis for solid solution strengthening in the lightweight materials with great potential in aerospace applications. © 2003 American Institute of Physics. 
+
+aluminium alloys
+lithium alloys
+calorimetry
+specific heat
+alloying additions
+electronic density of states
+Fermi level
+Debye temperature
+solid solution hardening

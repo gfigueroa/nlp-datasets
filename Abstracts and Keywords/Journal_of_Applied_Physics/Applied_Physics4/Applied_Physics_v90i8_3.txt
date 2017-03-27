@@ -1,0 +1,14 @@
+Micrometric, irregularly shaped Fe particles with a nanocrystalline structure have been prepared by mechanical attrition through ball-milling. Electron holography has been employed to visualize the stray field emerging from isolated Fe particles, both at 300 K and at selected temperatures T}1200
+K, from which indirect information on the magnetic domain configuration has been inferred. By complementary x-ray diffraction and transmission electron microscopy investigations a relationship has been established between the changes of the leakage field and of the microstructure upon annealing: it indicates that the structural evolution is accompanied by strong modifications in the interior magnetization pattern. This relationship finds explanation in the framework of the random anisotropy model, including temperature-induced reversible variations in the exchange correlation length and saturation magnetization. Moreover, the role played by the overall geometrical features of the particles in the determination of the actual domain configuration has been investigated. © 2001 American Institute of Physics. 
+
+iron
+magnetic particles
+nanostructured materials
+magnetisation
+transmission electron microscopy
+electron holography
+X-ray diffraction
+magnetic domains
+annealing
+magnetic anisotropy
+exchange interactions (electron)

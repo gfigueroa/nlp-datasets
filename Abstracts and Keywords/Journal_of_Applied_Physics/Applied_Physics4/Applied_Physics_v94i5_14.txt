@@ -1,0 +1,12 @@
+La0.5Sr0.5Co1xNixO3´
+(0}x}0.6) ceramics were prepared using a conventional solid-state ceramic route. The thermal propertiesthermal conductivity and heat capacityof these ceramics were measured by the photopyroelectric technique. The thermal conductivity was found to increase with increasing Ni content. These materials were also found to exhibit a metallic-type variation of thermal conductivity with temperature, and no metal-insulator (M-I) transition was found to occur in any of the samples prepared by this route. However, a M-I transition was found to occur in La0.5Sr0.5CoO3´ samples prepared by hot pressing. The difference is attributed to variations in oxygen content in the samples. © 2003 American Institute of Physics. 
+
+thermal conductivity
+thermal diffusivity
+lanthanum compounds
+strontium compounds
+pyroelectricity
+ceramics
+stoichiometry
+metal-insulator transition
+specific heat

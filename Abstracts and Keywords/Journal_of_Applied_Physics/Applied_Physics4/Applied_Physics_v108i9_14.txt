@@ -1,0 +1,7 @@
+The field evaporation of deuterated titanium films is being investigated as a deuterium ion source for deuterium-tritium neutron generators. It has been found that titanium and deuterated titanium films having thicknesses of up to at least 70 layers assume a body-centered-cubic crystal structure when grown on 110	 oriented tungsten substrates. Deuterated titanium films having thicknesses exceeding 50 atomic layers have been controllably field evaporated from the surface of tungsten tips in less than 20 ns. At ion current densities exceeding < 106A/cm2 and film thicknesses greater than < 20 layers, space charge effects decrease the ratio of D to TiDx ions to less than 1. Decreasing the evaporation rate such that ion current densities are of the order of 105A/cm2 increases the D to TiDx ratio for the evaporation of a film thickness of greater than < 20 layers by the reduction in space charge effects that can inhibit the dissociation of titanium-deuterium complexes. Atomic deuterium ion yields of < 107¼C of D+/tip have been observed and yields of &gt;106¼C of D+/tip should be possible using larger tip radii. The field evaporation of titanium from an array of microfabricated tips has been demonstrated for the first time.
+
+current density
+field evaporation
+hydrogenation
+space charge
+titanium

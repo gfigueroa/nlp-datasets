@@ -1,0 +1,5 @@
+Many types of fuzzy truth values have been proposed, such as numerical truth values, interval truth values, triangular truth values, trapezoid truth values and so on. Recently, a new type of fuzzy truth values (which we call multi-interval truth values) have been proposed and studied. The characteristic feature of multi-interval truth values is that not all of them are convex fuzzy truth values. This fact makes their algebraic structures complex to be clarified. By this reason, this paper clarifies some of the properties on functions defined over multi-interval truth values, when the number of variables and the number of non-convex multi-interval truth values are restricted.
+
+Fuzzy Logic
+Fuzzy Truth Values
+Sum-of-products Forms

@@ -1,0 +1,7 @@
+In this paper a full-space conformal mapping technique is used to extract the parameters of buried multiconductor cables. The quasi-electric and quasi-magnetic approximations of Helmholtz equation are employed and necessary scaling factors are applied to the governing equations and post processing energy relations. The modified equations are numerically solved using a finite-element-based method. The calculated results for typical buried circular cable geometries are compared with those obtained from bounded-space cases and with analytic formulation. Comparison shows very a good agreement between analytical and the mapping technique results in a wide frequency range.
+
+Buried Cable
+Conformal Mapping
+Finite Element Method
+Parameter Extraction
+Transmission Line

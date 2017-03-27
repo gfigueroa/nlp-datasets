@@ -1,0 +1,12 @@
+Light trapping is essential to the performance of thin-layer polycrystalline silicon solar cells. One relatively new method of light trapping is the use of textured or pigmented dielectric layers on the rear surface which diffuse and reflect light reaching the rear surface. This article presents a one-dimensional optical model of thin silicon solar cells with such rear diffuse dielectric reflectors. Experimental front reflectance measurements and ray tracing simulations of thin, planar silicon layers with rear diffuse dielectric rear reflectors are presented and compared to the model with good agreement. Finally, an expression for the upper limit of the optical enhancement factor is developed for this type of light trapping. © 1998 American Institute of Physics.
+
+silicon
+brightness
+light reflection
+radiation pressure
+solar cells
+reflectivity
+ray tracing
+elemental semiconductors
+antireflection coatings
+optical films

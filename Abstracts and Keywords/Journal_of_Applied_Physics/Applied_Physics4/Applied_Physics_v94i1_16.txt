@@ -1,0 +1,11 @@
+We report the size effect on the ferroelectric phase transition in SrBi2Ta2O9 nanoparticles. Samples with particle sizes between 11 and 71 nm were prepared by a room-temperature mechanical activation process followed by postannealing at different temperatures. The size of the particles was determined by x-ray diffraction with the aid of Scherrers equation. The ferroelectric phase transition in both SrBi2Ta2O9 nanoparticles and bulk sample were investigated by in situ Raman scattering. The results show that the transition temperature (Tc) decreases from its bulk value (605 K) as the size decreases. The size dependence of Tc can be described as Tc=6051150/(D2.1) (K), where D (nm) is the particle size. A critical size of 2.6 nm, below which ferroelectricity disappears, was obtained from this empirical expression. © 2003 American Institute of Physics. 
+
+strontium compounds
+bismuth compounds
+nanoparticles
+particle size
+ferroelectric ceramics
+ferroelectric transitions
+annealing
+X-ray diffraction
+Raman spectra

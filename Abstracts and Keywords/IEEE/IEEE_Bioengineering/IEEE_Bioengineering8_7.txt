@@ -1,0 +1,6 @@
+In this paper, Delphi Method which takes advantage of experts' wisdom and experience is introduced to standardize and quantify The Party member's criterion in the Constitution of the Communist Party of China. With the real situation in colleges, a new framework about evaluation new students who want to take part in the Party is proposed. Then the information management system for the evaluation is designed for the staffers, with this system, it is easy to evaluate the students whether match the condition as a new party member. In practice, this information management seems be helpful for staffs and students.
+
+Admitting party member
+Delphi Method
+Evaluation system
+Information Management Systems

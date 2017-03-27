@@ -1,0 +1,11 @@
+We describe resonant refractive index lithography (RRIL), a new technique to enhance the resolution of optical lithography. RRIL utilizes a highly refractive layer between the mask and the photosensitive layer to increase optical resolution. The refractive index of this layer is enhanced by a resonant absorption near the wavelength of the exposing radiation. In this work GaAs, which has a large resonant refractive index increase conveniently centered around the mercury spectral g line, is used as the refractive layer. It is shown that the large reduction in wavelength, which is more than a factor of 5 at 431 nm, enables this technique to increase resolution by as much as 226%. In addition, the absorption associated with the increased refractive index significantly attenuates the diffracted light and virtually eliminates standing waves that would be produced by reflections between the mask and the substrate. Furthermore, the refractive medium enhances the collimation of the exposing radiation. We demonstrate the RRIL technique by fabricating an opposed gatesource transistor with a subquartermicrometer source electrode. The dimensions and alignment precision achieved were less than onehalf the wavelength of the incident radiation. In this paper RRIL is introduced, experimental results are presented and compared with a model of the diffraction effects, and finally the RRIL technique is applied to planar lithography and microscopy.
+
+LITHOGRAPHY
+REFRACTIVITY
+HIGHRESOLUTION METHODS
+RESONANCE
+ABSORPTION
+GALLIUM ARSENIDES
+DIFFRACTION
+MATHEMATICAL MODELS
+USES

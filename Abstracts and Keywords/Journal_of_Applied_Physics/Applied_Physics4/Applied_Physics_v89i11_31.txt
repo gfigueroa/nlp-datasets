@@ -1,0 +1,14 @@
+The correlation between the exchange field of NiFe/NiMn and the phase transformation of NiMn was investigated. Transmission electron microscopy (TEM) dark-field images, contributed by the order phase of NiMn, were used to identify the location and volume fraction of the order phase. TEM selected area diffraction patterns showed the (110) superlattice diffraction rings of NiMn, verifying the existence of the order phase in the annealed samples. The order volume fraction can be calculated by the dark field image contributed by the (110) diffraction. The exchange field increased almost linearly with increasing order volume fraction. Energy dispersive x-ray spectroscopy attached to TEM indicated that Mn diffused into NiFe for annealing at 280
+°C, leading to a larger coercivity and small coercivity squareness. Part of the NiMn still maintains the paramagnetic phase even after annealing at 280
+°C. © 2001 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+manganese alloys
+surface diffusion
+chemical interdiffusion
+exchange interactions (electron)
+transmission electron microscopy
+coercive force
+ferromagnetic materials
+magnetic transitions

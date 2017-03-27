@@ -1,0 +1,12 @@
+Solid solutions of xBiFeO3yPrFeO3zPbTiO3 (x+y+z=1) and (1w)BiFeO3wPbTiO3 have been explored for finding ferroelectromagnetic bulk material, in which ferroelectricity and ferromagnetism coexist simultaneously. The coexistence has been observed only in some ternary composition samples, that is, 0.2BiFeO30.2PrFeO30.6PbTiO3 and 0.4BiFeO30.2PrFeO30.4PbTiO3. In the ternary solid solutions, spontaneous magnetic moments disappear with the decrease of PrFeO3 content to y&lt;0.2 independently of BiFeO3 content. When PrFeO3 content remains constant at y=0.2, the ternary solid solutions become paraelectric with the decrease of PbTiO3 content to z}0.2. The ferroelectromagnetic solid solutions have the noncentrosymmetric and doubled perovskite unit cell with a space group I4cm (a=bH5.4 Å, cH7.9 Å). Addition of Ta2O5 dopant substantially changes the polarizationelectric-field and magnetizationmagnetic field curves of the 0.2BiFeO30.2PrFeO30.6PbTiO3. The binary solid solutions of (1w)BiFeO3wPbTiO3 do not exhibit spontaneous magnetic moments down to 10 K over the entire composition range. © 2003 American Institute of Physics. 
+
+bismuth compounds
+praseodymium compounds
+lead compounds
+solid solutions
+magnetic moments
+ferroelectric materials
+ferromagnetic materials
+space groups
+lattice constants
+phase diagrams

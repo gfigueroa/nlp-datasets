@@ -1,0 +1,18 @@
+Systematic investigations of trapping centers parameters have been carried out on InSe single crystals grown from nonstoichiometric melt, by using a thermally stimulated current (TSC) technique. TSC measurements have been performed between 50 and 300 K, and the results have been analyzed according to different methods. The trap characteristics have been determined. In particular, two levels located at 60 and 160 meV below the conduction band have been investigated in detail. Their capture cross sections have been found to be 1.5×1023 and 9.2×1021 cm2, respectively, and their concentrations are 1.9×1017 and 2.3×1016 cm3, respectively. It is concluded that in these centers retrapping is negligible. One additional level has been found at 340 meV with concentration NT =4.2×1016 cm3 and capture cross section Ã=3.5×1019 cm2.
+
+indium selenides
+traps
+monocrystals
+parametric analysis
+temperature effects
+electric currents
+experimental data
+stoichiometry
+melts
+very low temperature
+low temperature
+medium temperature
+mathematical models
+energy levels
+cross sections
+energylevel density

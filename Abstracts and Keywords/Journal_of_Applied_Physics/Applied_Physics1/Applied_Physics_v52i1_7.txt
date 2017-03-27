@@ -1,0 +1,15 @@
+The resonance theory of scattering, recently developed for the diffraction of acoustic and elastic waves, is applied here to radar scattering from penetrable targets, with a view toward solving the inverse scattering problem. For the example of a dielectrically coated conducting sphere, it is shown that the thickness and the dielectric constant of the target can be obtained from a determination of the spacing and of the widths of the scattering resonances in the radar echo returns.
+
+SCATTERING
+ELECTRIC CONDUCTORS
+RESONANCE
+SPHERICAL CONFIGURATION
+SURFACE COATINGS
+DIELECTRIC MATERIALS
+MATHEMATICAL MODELS
+DIFFRACTION
+RADAR
+TARGETS
+THICKNESS
+DIELECTRIC PROPERTIES
+THEORETICAL DATA

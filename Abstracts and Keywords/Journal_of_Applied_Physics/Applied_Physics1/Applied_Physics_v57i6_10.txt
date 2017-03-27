@@ -1,0 +1,16 @@
+Hysteresis free capacitancevoltage (CV) characteristics of SiO2/InSb metalinsulatorsemiconductor (MIS) diodes are attained by introducing an in situ Br vapor etching technique into the fabrication process. Interface state density is also reduced by using this technique. It is found that following vapor etching, MIS CV characteristics are strongly dependent on both the SiO2 film deposition temperature and oxygen flow rate. The optimum condition for SiO2 film deposition to obtain hysteresis free CV curves and an interface state density of d1×1011 cm2	eV1 is determined for InSb MIS diodes. The area of the typical optimum conditions for MIS diodes is located in the oxygen flow rate range of 56 cc/min and the deposition temperature range of 200210	°C. The refractive indices of SiO2 films are 1.441.45, the breakdown field strengths are more than 2×106 V/cm, and the dielectric constants for 1 MHz are typically 4.7 at 77 K, respectively.
+
+CV CHARACTERISTIC
+MIS JUNCTIONS
+HYSTERESIS
+ETCHING
+CHEMICAL VAPOR DEPOSITION
+INTERFACE STATES
+SILICA
+INDIUM ANTIMONIDES
+BREAKDOWN
+DIELECTRIC FUNCTION
+BROMINE
+SEMICONDUCTOR DIODES
+FABRICATION
+VAPOR DEPOSITED COATINGS

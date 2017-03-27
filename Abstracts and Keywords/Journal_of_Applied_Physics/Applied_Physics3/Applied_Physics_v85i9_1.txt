@@ -1,0 +1,16 @@
+A three-dimensional numerical model has been developed to simulate the motion of electrons inside the duct of a vacuum arc metal source. It is found that electrons will travel back and forth along the center axis inside the duct tube. This phenomenon of electron oscillation can be explained by the combined effects of the electric and magnetic fields. The electron oscillation will increase the charge state of the positive ions and the ions will gain more energy. Due to the influence of electron oscillation, the plasma throughput of the duct will be different from that of a duct under the influence of only the magnetic field. This finding should be taken into account when designing metal arc sources and optimizing their performance. © 1999 American Institute of Physics. 
+
+plasma transport processes
+vacuum arcs
+plasma oscillations
+ELECTRIC ARCS
+ELECTRIC DISCHARGES
+PLASMA
+ELECTRON SOURCES
+TRAJECTORIES
+OSCILLATIONS
+SIMULATION
+EQUATIONS OF MOTION
+ELECTRIC FIELDS
+MAGNETIC FIELDS
+METALS

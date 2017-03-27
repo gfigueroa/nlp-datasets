@@ -1,0 +1,6 @@
+High lattice temperature effects on the electron transport transient in the 4HSiC c-parallel direction are studied within a single equivalent isotropic valley picture in the momentum and energy relaxation time approximation. The ultrafast transport regime occurs in a subpicosecond scale (&lt;0.2ps), during which an overshoot in the electron drift velocity starts to be evident for high electric fields (s60kV/cm), depending on the lattice temperature. An increase of the electric field strength shifts the overshoot peak of the electron drift velocity to an earlier time. For a strong enough electric field, a higher lattice temperature cannot eliminate the electron drift overshoot effect, but can reduce it considerably due to a stronger electron-phonon scattering.
+
+electron-phonon interactions
+high field effects
+silicon compounds
+wide band gap semiconductors

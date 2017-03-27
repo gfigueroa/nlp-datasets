@@ -1,0 +1,5 @@
+The outlier detection problem has important applications in the field of fraud detection, network robustness analysis, and intrusion detection. Most such applications are most important for high-dimensional domains in which the data can contain hundreds of dimensions. Many recent algorithms have been proposed for outlier detection that use several concepts of proximity in order to find the outliers based on their relationship to the other points in the data. However, in high-dimensional space, the data are sparse and concepts using the notion of proximity fail to retain their effectiveness. In fact, the sparsity of high-dimensional data can be understood in a different way so as to imply that every point is an equally good outlier from the perspective of distance-based definitions. Consequently, for high-dimensional data, the notion of finding meaningful outliers becomes substantially more complex and nonobvious. In this paper, we discuss new techniques for outlier detection that find the outliers by studying the behavior of projections from the data set.
+
+Data mining
+High-dimensional spaces
+Outlier detection

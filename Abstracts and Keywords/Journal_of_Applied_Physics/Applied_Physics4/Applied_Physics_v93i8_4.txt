@@ -1,0 +1,13 @@
+In this article, we show the structural and electrical characterization results on aluminum gate/zirconium dioxide/n-type silicon (Al/ZrO2/n-Si) metalinsulatorsemiconductor (MIS) devices with equivalent-oxide thickness (EOT) of <2.5 nm. About 60% of the devices fabricated with the optimized process conditions showed leakage current density of less than 2 x 105 A/cm2 at 1 V accumulation bias, which is lower than devices with silicon dioxide as a gate dielectric of similar EOT. Transmission electron microscopy images showed a <1.7-nm-thick interfacial layer (possibly zirconium silicate) and a <13-nm-thick bulk ZrO2 layer for the sputter-deposited high-k film. The difference in the dc leakage current of individual devices is due to the varying degrees of crystallization of the bulk ZrO2 layer, and not related to the interface state density. It was found that the interfacial layer between the bulk ZrO2 and the silicon substrate plays an important role in determining the conduction mechanism through the high-k MIS structure. The FrenkelPoole emission mechanism was found to fit the measured JgVg data between electric fields of 2.0 and 3.2 MV/cm in the interfacial layer (corresponding to 0.7&lt;Vg&lt;2	V). The electric field in the interfacial layer is generally larger than that in the bulk ZrO2. The injecting field at the cathode, or the n-type silicon substrate in this case, depends on the electric field in the interfacial layer as this is directly in contact with the silicon substrate. © 2003 American Institute of Physics. 
+
+aluminium
+zirconium compounds
+silicon
+elemental semiconductors
+dielectric materials
+MIS structures
+leakage currents
+transmission electron microscopy
+chemical interdiffusion
+sputtered coatings
+Poole-Frenkel effect

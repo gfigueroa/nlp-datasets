@@ -1,0 +1,9 @@
+The mechanosynthesis process has been applied in the LaFe11.4Si1.6 compound to reduce the undesirable segregated rich-Fe phases that impair its application as a solid magnetic refrigerant. The influence of La substitution (5at.	%) by Y or Gd atoms on the magnetic and magnetocaloric properties has been also studied. Y- and Gd-substituted compounds have a magnetic ordering temperature higher than the pure La compound. While the Y-substituted compound keeps a first-order-like magnetic transition feature, the Gd-substituted one seems to suppress it. The maximum value of the magnetic entropy change of the Y compound is roughly the same as the La compound (18J/kg	K) but with a magnetic entropy change peak significantly broader. For the Gd-compound case a drastic reduction of the magnetic entropy change (7J/kg	K) is found.
+
+entropy
+gadolinium compounds
+lanthanum compounds
+magnetic transition temperature
+magnetocaloric effects
+refrigerants
+yttrium compounds

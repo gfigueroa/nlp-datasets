@@ -1,0 +1,6 @@
+Forecasting emerging technologies as well the rate of diffusion of resultant products are complex in the context of management of technology usually because of a lack of relevant data. Techniques such as bibliometric analysis and the Bass diffusion model are utilized in this paper to assess the growth rate and market penetration of Computational Fluid Dynamics (CFD) as a technology. The penetration and growth rate of user acceptance of two CFD codes (not identified) are simulated. Furthermore a technology forecasting model of research and innovation in the field of application of CFD in the assessment of greenhouses is presented.
+
+Bass diffusion model
+CFD
+bibliometric analysis
+management of technology

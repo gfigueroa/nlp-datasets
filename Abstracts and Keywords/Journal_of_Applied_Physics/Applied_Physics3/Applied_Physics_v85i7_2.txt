@@ -1,0 +1,9 @@
+We cooled down the electrons of a 3 ¼m3 copper strip by using an on-chip electronic microcooler made by a superconductor-insulator-normal-insulator-superconductor (SINIS) structure. We obtained an electron temperature drop ”T C 10
+mK at a temperature of the bath slightly above Tb = 500
+mK and we estimated a cooling power slightly larger than 20 pW at this temperature. In contrast to previous experiments, we obtained this result operating with a simple 3He refrigerator. The copper strip temperature change was sensed by measuring the voltage change across a current-biased SINIS junction, with a temperature responsivity ”V/”T C 500
+¼V/K. On-chip microcooler and thermometer have been fabricated by two-angle shadow mask evaporation and e-beam lithography. © 1999 American Institute of Physics.
+
+electron theory
+electron mobility
+carrier lifetime
+superconductive tunnelling

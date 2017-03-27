@@ -1,0 +1,9 @@
+Traditionally the mixture of fluids at the wellhead is separated into its various phases. Proper separation and accurate measurement of each of the component phases is critical in determining production capabilities. Gas is separated from the liquid by passing the emitted well fluids through a separator. The phases are then further separated and measured independently. Using a flowmeter rather than separators to determine the gas and liquid phases gives a very significant reduction in CAPEX in the evaluation of new wells. This paper covers the key benefits that wet gas meters provide in comparison with expensive separators, multiphase metering, and traditional single phase DP producing devices such as orifice plates.
+
+ISO 5167
+Wet gas flowmetering
+gas phase
+gas volume fraction
+liquid phase
+liquid volume fraction
+oil and gas

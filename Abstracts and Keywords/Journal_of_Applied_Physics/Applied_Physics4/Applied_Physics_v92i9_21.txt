@@ -1,0 +1,11 @@
+Microcathodolumunescence (MCL) spectra measurements, MCL and electron beam induced current (EBIC) imaging of the freestanding n-GaN samples grown by hydride vapor phase epitaxy were made. Dark-spot defects in plan-view EBIC and MCL images and dark line defects in MCL images taken on the cleaved surface of the samples could be associated with dislocations. MCL spectra measurements in the vicinity of dislocations and in the matrix do not reveal specific luminescence bands that could be attributed to dislocations but rather suggest that dislocation regions have higher density of deep nonradiative traps. © 2002 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+cathodoluminescence
+EBIC
+dislocations
+vapour phase epitaxial growth
+semiconductor epitaxial layers
+nonradiative transitions

@@ -1,0 +1,9 @@
+The possible application of amorphous carbon nitride thin films to prevent the multipactor effect is discussed. The main difficulty lies in the increase of the secondary electron emission coefficient after air exposure. Adsorption processes on amorphous carbon nitride surfaces due to air exposure and subsequent changes due to thermal annealing have been studied by means of x-ray photoemission spectroscopy with the purpose of understanding the changes of secondary electron emission characteristics. © 2002 American Institute of Physics. 
+
+carbon compounds
+secondary electron emission
+surface contamination
+adsorption
+annealing
+X-ray photoelectron spectra
+microwave switches

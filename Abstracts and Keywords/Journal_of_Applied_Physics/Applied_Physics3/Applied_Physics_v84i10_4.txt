@@ -1,0 +1,16 @@
+We have fabricated high-quality planar Nb/AlOx/Nb Josephson junctions on-chip adjacent to quantum dots in a near surface two-dimensional electron gas in a GaAs/AlGaAs heterostructure. When used as a voltage-tunable oscillator coupled capacitively to a quantum dot, the Josephson junction can produce a localized time-dependent potential of 200 ¼V across the dot at frequencies in excess of 300 GHz. The fabrication process involves five separate patterning and processing steps to define the multilayer integrated device. © 1998 American Institute of Physics. 
+
+niobium
+alumina
+type II superconductors
+Josephson effect
+superconducting junction devices
+voltage-controlled oscillators
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+semiconductor heterojunctions
+semiconductor quantum dots
+interface states
+two-dimensional electron gas
+superconductor-semiconductor boundaries

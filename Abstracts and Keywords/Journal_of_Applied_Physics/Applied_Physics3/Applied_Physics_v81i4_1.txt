@@ -1,0 +1,6 @@
+We have developed a quantum mechanical model for understanding and explaining the capacitancevoltage (CV) carrier profiles observed in quantum wells (QW). The external field imposed on the QW during CV profiling changes the carrier distribution of the system. This model considers the effects of field and quantum confinement of the carriers in the well. The results obtained by iterative solutions of Schrodingers and Poissons equations give a better understanding of the experiments than the previous models where quantum confinement is ignored. © 1997 American Institute of Physics. 
+
+semiconductor quantum wells
+Schrodinger equation
+quantum theory
+iterative methods

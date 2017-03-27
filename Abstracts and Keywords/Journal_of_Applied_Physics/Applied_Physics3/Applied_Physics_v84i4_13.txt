@@ -1,0 +1,16 @@
+A Chevrel phase monofilamentary wire was hot isostatically pressed (HIPed) under 2 kbar of argon pressure at 940
+°C for 1.5 h. Transport critical current densities (Jc) were measured from 2.7 to 11 K, in magnetic fields up to 15.5 T. Compared to previous results for a sample HIPed at 900
+°C for 0.5 h, the irreversibility field [Birr(T)] has been improved by 3 T to 34.5 T at 4.2 K. The Jc has also been enhanced at 14 T and 4.2 K to the highest reported value of 6.7×108
+A/m2. The reduced pinning force data show excellent temperature scaling. Resistivity measurements in high magnetic fields confirm an improvement in Birr(T) and provide evidence that the improved properties are due to better superconducting properties at the grain boundaries. © 1998 American Institute of Physics. 
+
+lead compounds
+tin compounds
+molybdenum compounds
+granular materials
+superconducting materials
+hot pressing
+critical current density (superconductivity)
+flux pinning
+electrical resistivity
+high-pressure effects
+grain boundaries

@@ -1,0 +1,7 @@
+Various temporal extensions to the relational model have been proposed. All of these, however, deviate significantly from the original relational model. This paper presents a temporal extension of the relational algebra that is not significantly different from the original relational model, yet is at least as expressive as any of the previous approaches. This algebra employs multidimensional tuple time-stamping to capture the complete temporal behavior of data. The basic relational operations are redefined as consistent extensions of the existing operations in a manner that preserves the basic algebraic equivalences of the snapshot (i.e., conventional static) algebra. A new operation, namely temporal projection, is introduced. The complete update semantics are formally specified and aggregate functions are defined. The algebra is closed, and reduces to the snapshot algebra. It is also shown to be at least as expressive as the calculus-based temporal query language TQuel. In order to assess the algebra, it is evaluated using a set of twenty-six criteria proposed in the literature, and compared to existing temporal relational algebras. The proposed algebra appears to satisfy more criteria than any other existing algebra.
+
+Historical databases
+Relational algebra
+Temporal databases
+Transaction time
+Valid time

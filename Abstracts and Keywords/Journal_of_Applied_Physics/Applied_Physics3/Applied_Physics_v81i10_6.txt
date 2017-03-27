@@ -1,0 +1,18 @@
+Amorphous FeCoTb films with perpendicular anisotropy have been sputtered from FeCo, Tb, and Nd targets onto glass substrates, mounted on a rotating substrate holder. The composition of the films, the magnetic properties, and the Kerr rotation depend as well on the distance between the substrates and the rotation axis as on the angular velocity of the substrate holder. A model of anisotropic short range order is given, which results from a layered structure due to the sequential sputtering from the different targets. © 1997 American Institute of Physics. 
+
+ferromagnetic materials
+amorphous magnetic materials
+magnetic thin films
+sputtered coatings
+perpendicular magnetic anisotropy
+magnetisation
+optical Kerr effect
+short-range order
+TERBIUM ALLOYS
+NEODYMIUM ALLOYS
+COBALT ALLOYS
+IRON ALLOYS
+MAGNETIC PROPERTIES
+AMORPHOUS STATE
+KERR EFFECT
+THIN FILMS

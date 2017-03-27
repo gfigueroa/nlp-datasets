@@ -1,0 +1,7 @@
+Charges of pentaerythritol tetranitrate (PETN) were impacted by laser-driven flyer plates launched from substrate backed aluminum films. The flyers were produced by single pulses from a Q-switched Nd:YAG laser. The aluminum flyers were between 3 and 5 ¼m thick, had diameters of 1 mm, and achieved velocities up to 8 km
+s1. The stresses were intense but of only nanosecond duration. This falls into an interesting regime since the shock thickness of a few microns is of the order of typical hot-spot sizes and less than the grain size of conventional explosive powders. Ultrafine PETN (<1 ¼m grain size) was readily initiated, whereas conventional, 135 sieve PETN with a grain size of 106 ¼m was not, although limited reaction was observed in some cases. Environmental scanning electron microscopy was carried out to help elucidate the differences in behavior. © 2000 American Institute of Physics. 
+
+organic compounds
+explosions
+grain size
+shock wave effects

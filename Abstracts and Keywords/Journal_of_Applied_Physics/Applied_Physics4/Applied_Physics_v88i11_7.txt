@@ -1,0 +1,18 @@
+Sputter-deposited amorphous carbon was applied as an underlayer for a Co73Cr18Pt6Ta3 single layer perpendicular magnetic recording medium. It is shown that the amorphous carbon underlayer can control the Co [001] preferred orientation of the Co73Cr18Pt6Ta3 magnetic recording layer and that the microcrystalline structure, magnetic properties, and readwrite characteristics of Co73Cr18Pt6Ta3 media are greatly dependent on the carbon underlayer thickness. By x-ray diffraction experiments and transmission electron microscopy observations, it was confirmed that the distribution of the c-axis orientation of Co grains becomes broader in the direction perpendicular to the film surface with increasing carbon underlayer thickness. Furthermore, the Co73Cr18Pt6Ta3 medium with a thick carbon underlayer indicated a relatively high perpendicular coercivity of 2800 Oe and an excellent signal to noise ratio in readwrite characteristics. © 2000 American Institute of Physics. 
+
+cobalt alloys
+chromium alloys
+platinum alloys
+tantalum alloys
+perpendicular magnetic recording
+magnetic recording noise
+sputtered coatings
+ferromagnetic materials
+magnetic thin films
+texture
+transmission electron microscopy
+X-ray diffraction
+crystal microstructure
+carbon
+coercive force
+magnetic hysteresis

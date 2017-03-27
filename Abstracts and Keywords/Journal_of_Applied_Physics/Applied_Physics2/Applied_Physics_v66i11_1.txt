@@ -1,0 +1,13 @@
+The dynamic behavior of continuous wave (cw) laserinduced crystallization in the aSi:H film on a quartz substrate is studied by light scattering. Microcrystals of dimensions less than 30 Å could be grown in a stable state and it is demonstrated that the surfacetovolume correction is essential for estimating the frequency of the crystallinelike mode. It is suggested that bulkinduced crystallization may be responsible for the formation of very small crystallites.
+
+SILANES
+AMORPHOUS STATE
+FILMS
+QUARTZ
+SUBSTRATES
+CRYSTALLIZATION
+LASER RADIATION
+RAMAN EFFECT
+PHONONS
+SOFT MODES
+GLOW DISCHARGES

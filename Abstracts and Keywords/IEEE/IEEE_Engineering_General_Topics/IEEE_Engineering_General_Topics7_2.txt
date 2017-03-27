@@ -1,0 +1,6 @@
+The value setting of the traditional distance protection has become very difficult for the distribution system with distributed generators (DGs) owing to the randomness of the DG output power. This paper proposes a new adaptive distance protection scheme to solve this problem. Firstly, on the basis of the connected point of DGs, the protected feeders are divided into different zones, with adaptive distance protection configured at the upstream side of DG. Then, based on a fault characteristic analysis of the distribution system with DG, the adaptive distance protection scheme for the distribution system with DG is studied to solve this problem. The results show that this scheme can automatically calculate the settings according to the operation mode and the output power of DG with no need for communication. Compared with the traditional adaptive protection scheme, the performance of this method is greatly improved. Simulation results on a 10 kV distribution system have verified the validity of the scheme proposed.
+
+Adaptive distance protection
+Distributed generation (DG)
+Distribution network
+Power system

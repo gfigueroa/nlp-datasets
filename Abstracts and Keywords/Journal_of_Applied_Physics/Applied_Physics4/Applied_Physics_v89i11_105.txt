@@ -1,0 +1,11 @@
+We have studied the effect of the Cu overlayer thickness tCu on the coercive field Hc of epitaxial ultrathin fcc Co/Cu(001) and Ni/Cu(001) films by magneto-optic Kerr effect magnetometry. The Cu/40 Å Ni/Cu(001) system shows perpendicular magnetic anisotropy (PMA) for the whole tCu range studied (20180 Å) with Hc showing a large, linear increase with tCu (from <280 to <360 Oe). On the other hand, the Cu/36 Å Co/Cu(001) structure has dominant in-plane anisotropy and in contradistinction with the Ni case the coercive field decreases rapidly with tCu (from 140 Oe for tCu=20
+Å to <90 Oe at tCu<180
+Å). The variation in coercivity is described in terms of the magnetoelastic energy contribution to the magnetic anisotropy induced by the Cu overlayers (via strain). In particular, the increase in the Hc of Ni is attributed to an increase in the PMA while the relation between the magnetic anisotropy and coercivity in the case of Co remains unclear. © 2001 American Institute of Physics.
+
+cobalt
+nickel
+copper
+magnetic epitaxial layers
+perpendicular magnetic anisotropy
+coercive force
+Kerr magneto-optical effect

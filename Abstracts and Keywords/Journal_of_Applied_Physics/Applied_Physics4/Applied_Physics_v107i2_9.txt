@@ -1,0 +1,13 @@
+The Cu2O nanoparticles having average crystallite diameters < 816nm were synthesized by a simple solvothermal method. The Mn was doped in the Cu2O sample of crystallite size < 8nm. The effects of the size and doping concentration on the crystal structures of the nanoparticles were investigated. The x-ray photoelectron spectroscopy studies clearly showed that the Mn was incorporated into the Cu2O lattice as Mn2+ due to the substitution of the Cu+ ions by Mn2+ ions. The quantum confinement effects were observed in the nanoparticles. The multiple emissions from the Cu2O were quenched in the Mn doped nanoparticles and only blue light emitting Cu2O nanoparticles were obtained due to the transition 2’1 of Mn. The effects of the doping concentration and the particle size on the relaxations dynamics of the Cu2O nanoparticles were mainly investigated using photoluminescence decay.
+
+copper compounds
+crystal structure
+crystallites
+doping profiles
+manganese
+nanofabrication
+nanoparticles
+particle size
+photoluminescence
+radiation quenching
+X-ray photoelectron spectra

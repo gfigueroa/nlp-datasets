@@ -1,0 +1,14 @@
+Five compositions of K62x[FeII2 (FeII42xFeIII4+2x)]F30 with 0dxd0.20 have been investigated. The Curie temperature Tc decreases from 490 K for x=0 to 230 K for x=0.20. The spontaneous strain es=45×104 for x=0 at 300 K, and decreases with increasing x to es=0 for xe0.075. The entropy change at the transition from the ferroelectricferroelastic to the paraelectricparaelastic phase is 5.5 J	mol1	K1 for x=0, decreasing to 1.5 J	mol1	K1 for x=0.20. Calorimetric and dielectric measurements show that the phase transition broadens as x increases. The composition dependence of the phase transition is a function of the Fe2+/Fe3+ distribution. The presence of one Fe3+ ion on the Fe2+ sites of ten unit cells reduces Tc by 150 K. The entropy change at Tc for xB0.2 corresponds to significant remaining displacements, from the tetragonal unitcell positions, being associated only with two of the three independent Fe atoms and with not more than two of the eight independent F atoms in each unit cell. UFAIPXR
+
+POTASSIUM FLUORIDES
+IRON FLUORIDES
+FERROELECTRIC PHASE TRANSFORMATIONS
+FERROELASTICITY
+QUANTITY RATIO
+CURIE POINT
+PARAELECTRICITY
+ENTROPY
+CALORIMETRY
+DIELECTRIC PROPERTIES
+POLYCRYSTALS
+XRAY DIFFRACTION

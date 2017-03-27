@@ -1,0 +1,9 @@
+Calculated photothermal contrast functions arising from lateral scanning of buried stripe and diskshaped deviations in thermal conductivity k are presented. From the theoretical findings the measuring conditions are derived in terms of the modulation frequency for which optimal photothermal discrimination of subsurface thermal inhomogeneities can be achieved. The theoretical results have been verified experimentally be measuring model samples, in which localized inhomogeneities were embedded.
+
+PHOTOTHERMAL SPECTROSCOPY
+MICROSCOPY
+INHOMOGENEITY
+THERMAL CONDUCTIVITY
+DEFECTS
+SOLIDS
+IMAGE FORMING

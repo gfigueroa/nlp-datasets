@@ -1,0 +1,6 @@
+Several flaviviruses are important human pathogens, including dengue virus, a disease against which neither a vaccine nor specific antiviral therapies currently exist. QSAR study was carried out with the purpose of searching new competitive dengue inhibitors with similar properties to the existence inhibitors (i.e. data set). The approach began with the development of rigorously validated QSAR model obtained using multiple linear regression analysis (MLRA) with conventional correlation coefficient (r2) value of 0.82 and cross-validated correlation coefficient (r2CV) value of 0.65 and partial least squares (PLS) technique with r2 value of 0.82 and r2CV value of 0.74. The model showed a good correlative and predictive ability having a predictive correlation coefficient (r2pred) of 0.80. The validated QSAR models were then employed in mining the database which consisted of 45,917 compounds. The degree of similarity (based on Euclidean distance and Tanimoto coefficient) between the compounds probed from the data set and those in the database were calculated using the same set of descriptors in the QSAR model. A total of 7 compounds were short-listed and finally the inhibition constant of these compounds were calculated and predicted to be competitive dengue inhibitors.
+
+Euclidean distance
+QSAR
+Tanimoto coefficient
+dengue DEN2 NS2B/NS

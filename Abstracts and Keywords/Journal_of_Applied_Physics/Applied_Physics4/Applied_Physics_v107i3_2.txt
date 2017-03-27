@@ -1,0 +1,15 @@
+The ultraviolet (UV) electroluminescence (EL) from the TiO2/ZnO coaxial nanowires (NWs)/poly(3,4-ethylenedioxythiophene)-poly(styrene-sulfonate) inorganic/organic heterostructure devices is greatly enhanced and the defect emission is significantly suppressed compared with the uncoated ZnO NW device at room temperature. The origins of the great changes in EL of ZnO NW devices are attributed to the surface modification of the sputtered TiO2 coating and the reduction in the pinhole traps on the surface of ZnO NWs. It is found that for the optimized device, the EL intensity ratio between the band gap and defect emission can be greatly enhanced by up to about 250 times its prior level. Such ZnO NW devices with enhanced UV emission have potential applications in the highly efficient solid state emitters.
+
+conducting polymers
+electroluminescence
+electroluminescent devices
+energy gap
+II-VI semiconductors
+nanowires
+organic semiconductors
+semiconductor heterojunctions
+semiconductor quantum wires
+sputtered coatings
+titanium compounds
+wide band gap semiconductors
+zinc compounds

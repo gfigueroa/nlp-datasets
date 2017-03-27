@@ -1,0 +1,6 @@
+In this article, a ferroelectric capacitor is characterized by an experimental Preisach density (PD), determined by first order reversal curves (FORC) method. It is experimentally shown that this density, defined under the usual Preisach assumptions, does not allow a complete model of the ferroelectric behavior. Considering the domain walls phenomenon, an extension of the Preisach assumptions is suggested, leading to the complete switching density (CSD) defined on the whole Preisach plane. It is theoretically shown that the experimental PD determined by the FORC method is an exact image of the CSD truncated outside of the so-called Preisach triangle. It is finally verified that the CSD improves the ferroelectric modeling on a wide range of electric field strength, including the Rayleigh zone. © 2004 American Institute of Physics. 
+
+ferroelectric thin films
+ferroelectric capacitors
+electric domains
+ferroelectric switching

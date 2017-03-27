@@ -1,0 +1,7 @@
+Now-a-days, it is important to find out solutions of Multi-Objective Optimization Problems (MOPs). Evolutionary Strategy helps to solve such real world problems efficiently and quickly. But sequential Evolutionary Algorithms (EAs) require an enormous computation power to solve such problems and it takes much time to solve large problems. To enhance the performance for solving this type of problems, this paper presents a new Distributed Novel Evolutionary Strategy Algorithm (DNESA) for Multi-Objective Optimization. The proposed DNESA applies the divide-and-conquer approach to decompose population into smaller sub-population and involves multiple solutions in the form of cooperative sub-populations. In DNESA, the server distributes the total computation load to all associate clients and simulation results show that the time for solving large problems is much less than sequential EAs. Also DNESA shows better performance in convergence test when compared with other three well-known EAs.
+
+Distributed computing
+MOPs
+Novel evolutionary algorithm
+subpopulation
+time variant mutation

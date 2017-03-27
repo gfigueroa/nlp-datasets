@@ -1,0 +1,10 @@
+We made a direct comparison between amorphous and crystalline Ge surfaces exposed to equal amounts of activated oxygen. On amorphous Ge we found a larger average number of oxygen atoms around each oxidized substrate atom than on crystalline Ge. Similar conclutions were reached for the oxidation of crystalline and amorphous Si.
+
+photoemission
+oxidation
+germanium
+silicon
+amorphous state
+amorphous semiconductors
+hydrogenation
+electronic structure

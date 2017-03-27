@@ -1,0 +1,8 @@
+The electrode-tissues interface (ETI) is one of the key issues for the safety, reliability and efficiency of implantable devices such as stimulators and sensors. The aim of this paper is to report an implantable telemetry device, based on a full custom integrated circuit (IC) to monitor the ETI. The proposed system performs various types of measurements, such as impedance spectroscopy, cyclic voltammetry, and galvanostatic double pulse method. Hence, the evolution of various electrochemical parameters of the ETI such as complex impedance, faradic resistance, double layer capacity, rheobase current, and chronaxy time, could be monitored long time after implantation. The full custom IC has been designed and fabricated with the CMOS 0.18 mum technology. The circuit occupies a silicon area of 2 mm<sup>2</sup>, and consumes less than 3 mW. Characterisation and in-vitro experimental results validate the full functionalities of the implantable monitoring system including the custom IC.
+
+Data acquisition
+Electrochemical parameters
+Electrode-tissues contact
+Implantable devices
+Wireless monitoring
+mixed-signal CMOS IC

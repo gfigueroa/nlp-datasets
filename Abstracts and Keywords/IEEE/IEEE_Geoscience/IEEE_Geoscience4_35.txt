@@ -1,0 +1,6 @@
+This article first established the new mode. The new mode is based on the components and the virtual reality simulation engine is the kernel of it. As the same time, it gives the frame construction of the virtual reality simulation engine and illustrates the functions of components in the frame construction. The aim is to improve the development efficiency of the virtual reality substation simulation. The results show that the virtual reality simulation engine can greatly shorten the development-cycle of the virtual reality substation simulation and can reduce its cost. Therefore, it is necessary to establish the virtual reality substation simulation.
+
+frame construction
+functional module
+power system
+virtual reality

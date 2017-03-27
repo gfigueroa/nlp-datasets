@@ -1,0 +1,5 @@
+We describe a data-centric software architecture for bioinformatics workflows and a rule-based workflow enactment system that uses declarative specifications of data dependences between steps to automatically order the execution of those steps. A data-centric view allows researchers to develop abstract descriptions of workflow products and provides mechanisms for describing workflow steps as objects. The rule-based approach supports an iterative design methodology for creating new workflows, where steps can be developed in small, incremental updates, and the object orientation allows workflow steps developed for one project to be reused in other projects.
+
+Bioinformatics
+Rule-based system
+Workflow

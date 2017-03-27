@@ -1,0 +1,15 @@
+Fe2O3 film (<110 Å) on crystalline Al2O3 substrate is treated by ruby laser pulses at different energy densities up to a maximum of <7.5 J/cm2, and the transformations are examined by conversion electron Mössbauer spectroscopy and smallangle xray diffraction measurements. It is observed that transformations begin to appear in the sample at an energy density of <3.0 J/cm2 although significant modifications are observed only at energy densities higher than about 7.0 J/cm2. The values of hyperfine interaction parameters reveal that the laser treated samples contain FeAlO3 and FeAl2O4 phases, along with the residual ±Fe2O3 phase. The lasermixed state undergoes structural modifications upon thermal annealing, leading to formation of the Fe3O4 phase and complete disappearance of the FeAlO3 phase.
+
+IRON OXIDES
+FILMS
+ALUMINIUM OXIDES
+SUBSTRATES
+LASER RADIATION
+PULSES
+MOESSBAUER EFFECT
+XRAY DIFFRACTION
+SMALL ANGLE SCATTERING
+HFS INTERACTIONS
+ANNEALING
+CONVERSION
+ELECTRONS

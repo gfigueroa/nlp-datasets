@@ -1,0 +1,16 @@
+Plasma-enhanced atomic layer deposition (PEALD) is a promising technique to produce high quality metal and nitride thin films at low growth temperature. In this study, very thin (&lt;10 nm) low resistivity (350 ¼©
+cm) cubic TaN Cu diffusion barrier were deposited by PEALD from TaCl5 and a plasma of both hydrogen and nitrogen. The physical properties of TaN thin films including microstructure, conformality, roughness, and thermal stability were investigated by various analytical techniques including x-ray diffraction, medium energy ion scattering, and transmission electron microscopy. The Cu diffusion barrier properties of PEALD TaN thin films were studied using synchrotron x-ray diffraction, optical scattering, and sheet resistance measurements during thermal annealing of the test structures. The barrier failure temperatures were obtained as a function of film thickness and compared with those of PEALD Ta, physical vapor deposition (PVD) Ta, and PVD TaN. A diffusion kinetics analysis showed that the microstructure of the barrier materials is one of the most critical factors for Cu diffusion barrier performance. © 2004 American Institute of Physics. 
+
+tantalum compounds
+thin films
+annealing
+plasma materials processing
+atomic layer deposition
+crystal microstructure
+electrical resistivity
+chemical interdiffusion
+surface roughness
+X-ray diffraction
+transmission electron microscopy
+light scattering
+diffusion barriers

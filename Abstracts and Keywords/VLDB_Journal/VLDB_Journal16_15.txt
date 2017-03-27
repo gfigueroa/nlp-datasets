@@ -1,0 +1,6 @@
+Due to recent advances in semiconductor manufacturing, the gap between main memory and disks is constantly increasing. This leads to a significant performance bottleneck for Relational Database Management Systems. Recent advances in nanotechnology have led to the invention of MicroElectroMechanical Systems (MEMS) based storage technology to replace disks. In this paper, we exploit the physical characteristics of MEMS-based storage devices to develop a placement scheme for relational data that enables retrieval in both row-wise and column-wise manner. We develop algorithms for different relational operations based on this data layout. Our experimental results and analysis demonstrate that this data layout not only improves I/O utilization, but results in better cache performance for a variety of different relational operations.
+
+Data placement
+MEMS
+Relational databases
+Storage

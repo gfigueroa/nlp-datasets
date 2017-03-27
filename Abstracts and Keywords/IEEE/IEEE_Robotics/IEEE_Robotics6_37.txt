@@ -1,0 +1,6 @@
+In this paper, we propose a new method for detecting and extracting moving objects from moving stereo camera. Our purpose is not only detecting objects but also extracting shapes and colors of detected moving objects from stereo video streams. First, we estimate the camera motion from three-dimensional optical flow based on RANSAC. Secondly we detect moving objects from the scene by inter-frame subtraction. Then we extract the contour of the moving object based on intensity edge, disparity map and inter-frame subtraction. Finally we carry out some experiments and show some results. From results, we can detect and extract the moving object.
+
+Computer Vision
+Object Detection
+Object Extraction
+Stereo Camera

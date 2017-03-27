@@ -1,0 +1,6 @@
+IEEE 802.16e standard is considered to be one of the most promising solutions for next generation broadband wireless networks. Still, handover latency in IEEE 802.16e networks is an important issue that affects real-time applications. In this paper, a cross-layer fast hierarchical handover mechanism (CLFH) for IEEE 802.16e networks is introduced. The handover procedure of IEEE 802.16e is integrated with fast and hierarchical MIPv6 handover to achieve performance improvements. Moreover, the 802.16e network re-entry procedures are optimized to reduce the link layer handover delay. The proposed mechanism is discussed in detail and compared with a mechanism proposed in IETF draft. The simulation results illustrate that the proposed mechanism achieves better performance in the handover latency and the service disruption time.
+
+802.16e
+HMIPv6
+cross-layer
+handover

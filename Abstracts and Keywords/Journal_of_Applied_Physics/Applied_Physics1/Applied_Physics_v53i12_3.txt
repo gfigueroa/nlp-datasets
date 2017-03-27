@@ -1,0 +1,19 @@
+The emission intensity of the 535nm line of a thalliumiodide photodissociation laser excited with 193nm ultraviolet radiation is measured as a function of pump energy and vapor pressure. Pressure was varied between 4×105 and 0.13 Torr. No threshold for positive gain has been found experimentally. The measurements and computer simulation indicate a possibility of constructing lasers with extremely low excitation energy.
+
+dissociation
+radiation effects
+thallium iodides
+gas lasers
+experimental data
+wavelengths
+emission spectra
+excitation
+ultraviolet radiation
+energy dependence
+vapor pressure
+pressure dependence
+medium vacuum
+high vacuum
+gain
+computerized simulation
+mathematical models

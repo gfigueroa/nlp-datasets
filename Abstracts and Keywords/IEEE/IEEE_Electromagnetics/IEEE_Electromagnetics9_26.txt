@@ -1,0 +1,6 @@
+This paper investigates practical cost-effective DC/DC converter, DC/AC inverter and AC/DC rectifier for an uninterruptible power supply (UPS) system with backup proton exchange membrane fuel cell (PEMFC). The developed power converters can supply high quality power with flexible conversion functions, leading to the establishment of reliable power management for UPS applications. A comprehensive control strategy of the PEMFC is implemented for energy management of the UPS hybrid system. The performances of the proposed power converters and their controllers are evaluated by experimental results, showing that the developed UPS system with backup PEMFC and battery power sources is suitable for industry application.
+
+comprehensive controller component
+power converters
+proton exchange membrane fuel cell (PEMFC)
+uninterruptible power supply (UPS)

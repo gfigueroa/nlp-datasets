@@ -1,0 +1,9 @@
+The absolute intensity of nearultraviolet emission from a neon Zpinch plasma is measured with a timegated, twodimensional optical multichannel analyzer (OMA). The OMA provides spatial and spectral resolution with a 100 ns gate duration. Spatially resolved continuum emission, Ne	viii line emission, and Ne	viii lineprofile measurements are used to determine the pinch diameter, the density of the neon plasma, and the Ne	viii 3p level population.
+
+PINCH EFFECT
+PLASMA DIAGNOSTICS
+NEON
+PLASMA DENSITY
+ULTRAVIOLET RADIATION
+EMISSION SPECTRA
+LINE SHAPE

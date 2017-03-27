@@ -1,0 +1,11 @@
+A study of the growth of thin (2030 Å) silicon overlayers on erbium silicide films epitaxially grown on Si(111), using the solid phase epitaxy technique under ultrahigh vacuum conditions was made. The silicon overlayers were characterized in situ by photoemission spectroscopy and lowenergy electron diffraction for each annealing temperature. The structure of the films was analyzed (ex situ) by means of high resolution transmission microscopy. The Si overlayers are found to be essentially continuous and epitaxial after annealing at 600	°C. Electron microscopy reveals that defects are present in both the silicide and in the silicon films. The stability of thin silicon films has also been investigated.
+
+SILICON
+FILM GROWTH
+SOLIDPHASE EPITAXY
+PHOTOEMISSION
+LEED
+ANNEALING
+TEM
+STABILITY
+CRYSTAL DEFECTS

@@ -1,0 +1,7 @@
+Facing large amount of diverse Web information, collaborative filtering is an effective way to improve the efficiency of user's information seeking. It provides useful information specifically for a user by taking the information that has been interested by collaborative users which have similar interests to the specific user. How to discover the collaborative user is a key issue in collaborative filtering. This paper presents a novel method which discovers collaborative users with computation based on query context and user context. First, query context is proposed as the semantic background of user's information seeking behavior. It is built based on not only concepts but also the relation between concepts, which provides more accurate description for user's search background. Secondly, collaboration degree not only comprises the similarity between user contexts, but also takes the relatedness of user's search background into account, which ensures the accuracy of finding collaborative user. Thirdly, information entropy is introduced to computing the relatedness between relations from query contexts, which provides accurate value of relatedness between users' search background. Experimental results demonstrate the validity of the method proposed in this paper. It can be seen that the proposed method has a brilliant perspective in the applications of Web personalized information seeking.
+
+collaborative user
+information entropy
+information seeking
+query context
+user context

@@ -1,0 +1,7 @@
+The electronic structures of several magnetic semiconductors were calculated using first-principles based electronic structure techniques. Calculations were performed both for periodic supercells and for disordered systems which were treated within the coherent potential approximation. Our results differ from the conventional atomic model for the Mn impurity. We find strong hybridization between the majority Mn d states and the majority valence band. We find that substitutional Mn impurities add states and electrons to the majority valence band but not to the minority. We find relatively strong carrier induced magnetic interactions between impurities. The sign of these interactions may however, change sign as a function of the distance between the impurities. © 2001 American Institute of Physics. 
+
+magnetic semiconductors
+manganese compounds
+valence bands
+CPA calculations
+ferromagnetic materials

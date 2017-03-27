@@ -1,0 +1,12 @@
+An infrared optical fiber made of As2S3 glass has been applied for remote sensing of hydrocarbon gases. The fiber has enabled a transmission of the radiation at 3.39¼m wavelength, where hydrocarbon molecules have strong absorption bands. Using a 3.39¼m HeNe laser as a light source, an effective remote sensing system has been established. A detection limit of the gas concentration is <300 ppm for CH4 gas, which is <0.6% of the lower explosion limit. The system is also expected as a pressure monitor since it is highly sensitive to the gas pressure.
+
+HYDROCARBONS
+SENSORS
+REMOTE SENSING
+OPTICAL FIBERS
+FIBER OPTICS
+OPACITY
+PRESSURE GAGES
+FABRICATION
+OPTICAL SYSTEMS
+METHANE

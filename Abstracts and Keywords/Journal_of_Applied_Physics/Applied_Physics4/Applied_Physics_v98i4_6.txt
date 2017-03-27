@@ -1,0 +1,17 @@
+In situ x-ray diffraction has been used to characterize the growth and microstructure of wear protective Ti1xAlxN thin films. The films were deposited onto oxidized Si(100) wafers in a sputter chamber mounted onto a six-circle goniometer located at a synchrotron-radiation beam line. Off-plane and in-plane x-ray diffraction data were recorded in situ during growth, in order to follow the development of microstructure and preferred orientation as a function of film thickness. The measurements were supplemented by ex situ cross-sectional transmission electron microscopy analyses. The films were deposited by reactive cosputtering from metallic Ti and Al targets in Ar/N2 gas mixtures at substrate temperatures of 150 and 300	°C, substrate bias voltages of 30 and +10V, and deposition rates between 0.9 and 0.3Å/s. The film composition was changed between pure TiN and Ti0.91Al0.09N. Films deposited at higher deposition rates show columnar structure with competitive growth between (001) and (111) crystalline orientation, which slowly evolves into a (111) preferred orientation containing inter- and intracolumn porosities. Reducing the deposition rate to 0.3Å/s leads to an almost complete (001) preferred orientation with reduced surface roughness, practically independent of the deposition temperature. As the stress state of the films remains low for both deposition rates, it is suggested that the ion-to-neutral arrival rate (JI/JTi+Al) determines the texture development rather than the stress. This is corroborated by applying a positive substrate bias, which, by suppressing ion impingement, leads back to an evolving (111) preferred orientation.
+
+titanium compounds
+aluminium compounds
+thin films
+sputtered coatings
+wear resistant coatings
+sputter deposition
+X-ray diffraction
+transmission electron microscopy
+crystal orientation
+crystal microstructure
+porosity
+surface roughness
+internal stresses
+surface texture
+wear resistance

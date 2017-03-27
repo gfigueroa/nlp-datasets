@@ -1,0 +1,9 @@
+In a recent article [S. Z. Karazhanov, J. Appl. Phys. 89, 332 (2001)], Karazhanov proposed a single-level recombination model as an explanation for the anomalous dependence of the carrier lifetime on injection level observed in cast multicrystalline silicon. This approach contrasts with previous models which involved the use of two distinct levels, one causing recombination and the other only trapping. The purpose of this Comment is to outline some critical considerations which suggest that only a two-level (or indeed a multilevel) model can satisfactorily explain the experimental observations. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+carrier lifetime
+electron traps
+photoconductivity
+electron-hole recombination
+charge injection

@@ -1,0 +1,13 @@
+We report the energy band structures of strained Si1xCx alloys on Si (001) substrates. All calculations are based on a 20×20 Hamiltonian matrix constructed from the linear combination of atomic orbital approximation with spinorbit interaction, strain effect, and lattice disorder effect taken into account. The lattice disorder parameter is obtained from fittings with the experimental band gap of strained Si1xCx alloy with small carbon concentration and reflects the initial reduction of band gap of relaxed Si1xCx alloy, while simple virtual crystal approximation does not. The effect of strain on band structure is incorporated in terms of the interatomic interaction parameters, which are functions of bond length and bond angle. The strained Si1xCx alloy becomes metallic when x=28%. All the directional effective masses are affected by the strain. Overall agreements are found between our theoretical calculations and recent experimental results. © 2002 American Institute of Physics. 
+
+silicon compounds
+silicon
+elemental semiconductors
+wide band gap semiconductors
+LCAO calculations
+spin-orbit interactions
+bond lengths
+bond angles
+effective mass
+interface states
+energy gap

@@ -1,0 +1,6 @@
+Programmable AC power sources may be widely applied to developing, testing and inspecting electronic products. High precision and rapid dynamic response are required in terms of the output of inverter - the kernel component of a programmable AC power source. Thus the control strategy of inverter has always been a research focus for programmable AC power source. In this paper, a hybrid control scheme combining digital PID control with repetitive control is proposed for dual buck half bridge inverter with hysteresis current control. The theoretical analysis and simulation results demonstrate that the proposed scheme can help the inverter maintain a higher level of steady state precision and good dynamic characteristics.
+
+digital PID control
+dual buck half bridge inverter
+hysteresis current control
+repetitive control

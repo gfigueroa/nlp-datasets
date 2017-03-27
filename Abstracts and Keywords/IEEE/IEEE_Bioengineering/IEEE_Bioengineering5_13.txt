@@ -1,0 +1,6 @@
+In this paper, a segmentation algorithm for MR Head image has been proposed based on Girth-Location information. In the new algorithm, the brain structure is segmented by counting the girth of boundary for connective areas with location information. Then the algorithm of region growing has been used to separate the white matter (WM) from gray matter (GM). Experimental results indicated that this new approach has made full usage of the location information and boundary information of MR images. Compared with other algorithms, the new algorithm is characterized by faster, robustness and accurateness.
+
+Girth-Location
+Image Segmentation
+MR Head Image
+connective areas

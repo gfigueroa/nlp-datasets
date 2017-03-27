@@ -1,0 +1,7 @@
+  A hybrid Computational Intelligence-based Knowledge Discovery system is presented in this paper. The system works in three phases. In phase 1, many feature selection algorithms are utilized to select informative cancer-related genes from microarray expression data. Compared with other algorithms, our GSVM-RFE algorithm demonstrates superior performance on the microarray expression dataset for AML/ALL classification. Specifically, a compact &#8220; perfect&#8221; gene subset is reported. In phase 2, many intelligent computation models are implemented to extract useful knowledge about functions of selected genes to regulate the cancer being studied. Knowledge can ease further biomedical study because of reliable information sources, high prediction accuracy, and easiness to interpret. Currently, knowledge is represented in two formats, Web-based and Rule-based. As a future work, we plan to implement knowledge fusion algorithms in phase 3 to synthesize and consolidate hybrid knowledge into a single knowledge base to provide effective and efficient decision support for cancer diagnosis and drug discovery. 
+
+  Biomedical Informatics 
+  Computational Intelligence 
+  Knowledge Discovery 
+  Microarray Expression Data Analysis 
+  Web-Based Biomedical Literature Search

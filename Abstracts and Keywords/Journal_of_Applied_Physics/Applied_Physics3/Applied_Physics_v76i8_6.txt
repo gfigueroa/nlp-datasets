@@ -1,0 +1,14 @@
+Nanometer size crystalline particles of ±Fe, ³Fe, Ni, ²Co, and Co3C encapsulated in multiwalled carbon cages are synthesized by a standard dc arc evaporation of composite anodes containing 1015 wt.	% each of the metals or their compounds. The typical particle size is <10 nm. Elemental analysis is made by xray energy dispersive spectroscopy. The spectra show only the peaks associated with the respective metal and carbon. The stoichiometry and phase of the crystals are assigned from the characteristic lattice spacings obtained by highresolution transmission electron microscopy and xray diffractometry. Particle size distribution is obtained from a statistical survey of electron micrographs. A statistical growth model is adequate for explaining the crystalline particle size distribution of the encapsulated crystals consisting of ±Fe and ³Fe smaller than 15 nm. Significant deviation from the model is found for the encapsulated crystals consisting of ±Fe and ³Fe larger than 15 nm, those of Ni larger than 4 nm, and those consisting of ²Co and Co3C larger than 6 nm. The deviation is discussed in terms of encapsulation effect on the particle growth mechanism.
+
+IRON
+NICKEL
+COBALT
+NANOSTRUCTURES
+CRYSTAL GROWTH
+CARBON
+SYNTHESIS
+PARTICLE SIZE
+XRAY SPECTROSCOPY
+EVAPORATION
+ENCAPSULATION
+TEM

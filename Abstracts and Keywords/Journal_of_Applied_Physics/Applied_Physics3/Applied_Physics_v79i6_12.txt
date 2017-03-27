@@ -1,0 +1,12 @@
+Dielectric properties of potassium titanyl phosphate have been investigated as a function of thickness and frequency, as well as annealing treatment under various atmospheres. The low frequency dielectric constant of KTP crystals is shown to depend upon the sample thickness, and this feature is attributed to the existence of surface layers. The frequencydependent dielectric response of KTP exhibits a nonDebye type relaxation, with a distribution of relaxation times. The dielectric behavior of KTP samples annealed in various atmospheres shows that the low frequency dielectric constant is influenced by the contribution from the space charge layers. Prolonged annealing of the samples leads to a surface degradation, resulting in the formation of a surface layer of lower dielectric constant. This surface degradation is least when annealed in the presence of dry oxygen. From the analysis of the dielectric data using complex electric modulus, ±m has been evaluated for the virgin and annealed samples. © 1996 American Institute of Physics. 
+
+ANNEALING
+DIELECTRIC FUNCTION
+ELASTIC CONSTANTS
+FREQUENCY DEPENDENCE
+POTASSIUM PHOSPHATES
+RELAXATION TIME
+SPACE CHARGES
+SURFACE LAYERS
+THICKNESS
+TITANIUM COMPOUNDS

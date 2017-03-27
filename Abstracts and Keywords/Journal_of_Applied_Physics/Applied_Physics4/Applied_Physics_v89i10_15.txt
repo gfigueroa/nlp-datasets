@@ -1,0 +1,10 @@
+The capacitance of AlAl2O3-metal capacitors with Al2O3 of different thicknesses, formed by anodizing evaporated Al films in ethylene glycol-based or H2O-based electrolytes to different voltages, has been measured between 10 kHz and 1 MHz for ten metal electrodes. The linear dependence of inverse capacitance on anodizing voltage, and thus on Al2O3 thickness, shows that there is an interface capacitance in series with the bulk capacitance due to the dielectric properties of anodized Al2O3. The interface capacitance, CI, is not a characteristic of the Al2O3-metal combination; it depends on the vacuum deposition conditions for the metal electrodes. CI is associated with interface states at the Al2O3-metal interface, not with field penetration into metal electrodes. © 2001 American Institute of Physics.
+
+aluminium
+alumina
+MIM devices
+thin film capacitors
+capacitance
+interface states
+vacuum deposition
+permittivity

@@ -1,0 +1,6 @@
+This paper presents a unique method to determine the weakest branch or the overstressed branch in a distribution network. This radial feature of the network has been fully exploited to establish the concept of local voltage stability indicator in terms of reactive power. The effectiveness of the proposed method has been successfully tested in 12 bus radial distribution system and the results are found to be in very good agreement.
+
+Local voltage stability indicator
+radial distribution system
+voltage collapse
+weakest branch

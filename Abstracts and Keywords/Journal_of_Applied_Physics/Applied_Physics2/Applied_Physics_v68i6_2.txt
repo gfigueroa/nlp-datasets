@@ -1,0 +1,10 @@
+Experimental results for a highbrightness electronbeam source are compared to results of numerical and analytic calculations. The 4MV, 5kA beam is generated from a velvet cathode and focused by a solenoidal magnet. Data for the diode impedance and the beam focusing length and spot size agree well with numerical simulations. The minimum spot size is consistent with a normalized Lapostolle emittance of 0.12 cm	rad, yielding a brightness of 3.5×108 A/m2 	rad2 . Transverse beam oscillations are observed in streak photographs and are thought to be caused by electromagnetic dipole modes in the diode cavity. The oscillation amplitude is significantly reduced by making the current rise more slowly.
+
+ELECTRON BEAMS
+BRIGHTNESS
+SYNTHESIS
+TRANSPORT THEORY
+NUMERICAL SOLUTION
+ANALYTICAL SOLUTION
+KILO AMP BEAM CURRENTS
+BEAM OPTICS

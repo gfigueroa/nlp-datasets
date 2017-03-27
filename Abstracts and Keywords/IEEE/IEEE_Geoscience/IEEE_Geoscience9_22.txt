@@ -1,0 +1,7 @@
+There is a steady increase in the importance placed on location based systems, particularly in the field of elder care. The focus of this paper is on the development of a single access point indoor location tracking system. It is believed that with a single access point localisation system, room-level location accuracy can be reliably achieved. This paper will introduce such a localisation method and provide the basis for its functioning.
+
+Bluetooth
+Healthcare
+Location Tracking
+Medication Prompting
+Single Access Point

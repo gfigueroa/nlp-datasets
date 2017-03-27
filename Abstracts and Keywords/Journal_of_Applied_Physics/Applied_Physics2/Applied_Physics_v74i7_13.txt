@@ -1,0 +1,12 @@
+A transition from Ge segregation to trapping during highpressure oxidation of GexSi1x alloys has been observed. The atomic fraction x of Ge was varied from 0.4% to 26%, and oxidations were performed at 740	°C under 102 atm of dry O2. It was observed that the effect of oxidation on the Ge distribution could be divided into three stages. In the initial stage of the oxidation, Ge was segregated from the growing oxide and accumulated in a Gerich layer at the oxide/alloy interface. For alloys with high Ge content this initial stage was very short. In the second stage of oxidation, after a critical quantity of Ge had accumulated at the interface, there was a transition from segregation to trapping of Ge in the oxide. In the third stage, the critical amount of Ge remained segregated at the interface, and the final oxide layer was Ge free. A kinetic model based on a steadystate equilibrium between the diffusive flux of Si across the Gerich layer and the rate of Si consumption by the oxidation reaction predicts, with reasonable agreement, the critical quantity of segregated Ge for the onset of trapping.
+
+GERMANIUM SILICIDES
+OXIDATION
+PRESSURE EFFECTS
+FILM GROWTH
+THICKNESS
+SEGREGATION
+INTERFACE PHENOMENA
+TRAPPING
+CHEMICAL REACTIONS
+RBS

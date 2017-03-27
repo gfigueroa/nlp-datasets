@@ -1,0 +1,14 @@
+The effect of a dc current on the crystallization of Vit1A (Zr42.6Ti12.4Cu11.25Ni10Be23.75) and PCNP (Pd40Cu30Ni10P20) metallic glasses was investigated. Samples were isothermally annealed with and without the current, at 623 and 577 K for the two glasses, respectively. Small-angle neutron scattering analyses showed that in the absence of a current, the annealed Vit1A samples were amorphous, but the imposition of a current enhanced the crystallization process, increasing both the size and volume fraction of the crystallites. Similar general observations were seen for the PCNP glass. Differential scanning calorimetry patterns of Vit1A samples indicate a lower thermal stability of samples annealed with a current. © 2004 American Institute of Physics. 
+
+zirconium alloys
+titanium alloys
+copper alloys
+nickel alloys
+beryllium alloys
+palladium alloys
+phosphorus alloys
+metallic glasses
+annealing
+crystallisation
+differential scanning calorimetry
+thermal stability

@@ -1,0 +1,6 @@
+Urban Elevated Road ramp merge area is usually become a bottleneck of capacity, affecting the use of whole roads resources. Through the traffic characteristics and road structure analysis of merge area, and then adjust the vehicle lane, you can effectively improve the traffic capacity of merge area. Base on elevated road survey data of shanghai, from the relationship analysis between lane width and speed and capacity to proceed, fitting the data using mathematical software to obtain the outer lane headway distribution, and based on gap - accepted theoretical calculation of the ramp capacity, establishing the urban elevated road ramp merge area analysis model about lane adjust, the example analysis of Shanghai proved the feasibility of the model.
+
+elevated road
+gap-accepted model
+lane adjust model
+ramp merge area

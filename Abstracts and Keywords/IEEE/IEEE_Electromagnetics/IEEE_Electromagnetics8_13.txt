@@ -1,0 +1,7 @@
+A dumbbell shaped defected ground structure (DGS) RF choke is proposed for UWB broadband RF choke design. The special feature of the design is to use Chebyshev modulated DGS elements to adjust the frequency bandwidth of rejection band of a designed low pass filter. It fits very well to cover the 3.1 to 10.6 GHz UWB band with 15 dB rejection throughout the band. It is suitable for MMIC active module test board bias circuit usage and possibly for further MMIC internal broadband bias circuit implementation.
+
+Broadband RF choke
+Chebyshev modulation
+defected ground structure (DGS)
+dumbbell element
+rejection bandwidth

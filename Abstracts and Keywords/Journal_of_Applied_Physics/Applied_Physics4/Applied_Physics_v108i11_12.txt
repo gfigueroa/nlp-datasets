@@ -1,0 +1,7 @@
+Classical analogs of the quantum mechanical concepts of the Loschmidt Echo and quantum fidelity are developed with the goal of detecting small perturbations in a closed wave chaotic region. Sensing techniques that employ a one-recording-channel time-reversal-mirror, which in turn relies on time reversal invariance and spatial reciprocity of the classical wave equation, are introduced. In analogy with quantum fidelity, we employ scattering fidelity techniques which work by comparing response signals of the scattering region, by means of cross correlation and mutual information of signals. The performance of the sensing techniques is compared for various perturbations induced experimentally in an acoustic resonant cavity. The acoustic signals are parametrically processed to mitigate the effect of dissipation and to vary the spatial diversity of the sensing schemes. In addition to static boundary condition perturbations at specified locations, perturbations to the medium of wave propagation are shown to be detectable, opening up various real world sensing applications in which a false negative cannot be tolerated.
+
+chaos
+cooling
+sensors
+wave equations
+wave propagation

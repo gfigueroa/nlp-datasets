@@ -1,0 +1,9 @@
+The shortcircuit current in a polycrystalline semiconductor may be distorted by the local defects or by the local interface defects (variation of the effective recombination velocity at the grain boundary). These defects can be determined from the steadystate electronbeaminduced current. The expression for the contrast coefficient C for the above defects are given. In the analysis, the generation of the excess carriers is assumed to be uniform in a sphere tangent to the semiconductor surface. The pn junction is placed on the surface of the semiconductor.
+
+CHARGE CARRIERS
+EBIC
+ELECTRICAL FAULTS
+POLYCRYSTALS
+SEMICONDUCTOR MATERIALS
+RECOMBINATION
+CRYSTAL DEFECTS

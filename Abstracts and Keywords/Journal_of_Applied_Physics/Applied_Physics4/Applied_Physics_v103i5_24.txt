@@ -1,0 +1,10 @@
+We report the formation of negatively charged helium ions upon scattering of neutral helium atoms from silicon wafers coated with diamondlike carbon (DLC). The energy of the primary He atoms ranges from 101500eV. The negative ion fraction in the scattered He beam ranges from 7×105 down to 105 with increasing energy. The decreasing negative ion fraction with increasing energy we find for the DLC surfaces is in contrast with earlier results obtained for low work function metallic surfaces. The observed energy dependence cannot be explained by theory because at present there is no theory available that explains the electron transfer between diamond surfaces and scattered atoms. Although the negative ion fraction is low, this ionization technique allows the direct detection of interstellar neutral He with species identification for the first time. This measurement will be performed with the IBEX-Lo sensor on the Interstellar Boundary Explorer mission of NASA.
+
+atom-surface impact
+charge exchange
+diamond-like carbon
+elemental semiconductors
+helium
+interstellar matter
+silicon
+surface scattering

@@ -1,0 +1,14 @@
+Zr-substituted ²-FeSi2 thermoelectric materials, Fe1xZrxSi2, were synthesized by mechanical alloying (MA) and subsequent hot pressing, and the effects of Zr substitution on phase transformation and thermoelectric properties were investigated. The samples with x up to 0.06 were mostly composed of the Zr-doped ² phase with small amounts of the µ phase and the ZrSi phase. In the case of the samples with an x value over 0.10, formation of a large amount of the ± phase was observed in the x-ray diffraction patterns, and the ² phase completely disappeared for the sample with x=0.30. The Seebeck coefficient below 900 K was markedly reduced by Zr substitution. However, Zr substitution was effective for enhancing the Seebeck coefficient above 900 K and for reducing the electrical resistivity over the entire temperature range. The temperature dependence of the Seebeck coefficient and electrical resistivity of the samples with high Zr content showed a metallic behavior, which was well consistent with the formation of a large amount of the metallic ± phase. Although the thermal conductivity of the sample with high Zr content increased at high temperature range, the influence of Zr substitution was quite small as compared to that on the electrical resistivity. The figure of merit was significantly improved by Zr substitution, indicating that Zr substitution is quite effective for enhancing the thermoelectric performance of the ²-FeSi2. The maximum figure of merit, 3.38×105/K, was obtained for the sample with x=0.24 at 1070 K, which is about 44 times larger than that of the sample without Zr. © 2002 American Institute of Physics. 
+
+iron alloys
+zirconium alloys
+silicon alloys
+solid-state phase transformations
+thermoelectricity
+mechanical alloying
+hot pressing
+powder metallurgy
+X-ray diffraction
+Seebeck effect
+electrical resistivity
+thermal conductivity

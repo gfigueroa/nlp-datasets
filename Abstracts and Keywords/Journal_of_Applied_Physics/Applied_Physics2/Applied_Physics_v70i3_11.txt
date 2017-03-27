@@ -1,0 +1,9 @@
+For an explanation of the nonDebye response (NDR) several models have been developed during the last years. Some of these models use differential equations with timedependent coefficients for the polarization or for the dielectric decay function. In this article it is investigated whether these differential equations may be used for an explanation of NDR. The conclusion is that they are not suitable.
+
+DIELECTRIC PROPERTIES
+MATHEMATICAL MODELS
+POLARIZATION
+DIFFERENTIAL EQUATIONS
+RESPONSE FUNCTIONS
+PERMITTIVITY
+RELAXATION

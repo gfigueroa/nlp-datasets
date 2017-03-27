@@ -1,0 +1,12 @@
+Microchannel based systems have emerged as a critical design trend in development of precise control and maneuvering of small devices. In microelectronics, space propulsion and biomedical areas, these systems are especially useful. Nanoscale pores are recently becoming of great interest due to their beneficial drag and heat transfer properties. However it is difficult to predict the flow performance of these microsystems and nanosystems numerically since the standard assumptions of using NavierStokes equations break down at micrometer scales, while the computational times of applicable molecular-dynamics codes become exorbitant. A two-dimensional finite-element based microscale flow model is developed to efficiently predict the overall flow characteristics up to the transition regime for reasonably high Knudsen number flow inside microchannels and nanopores. Presented two-dimensional numerical results for Poiseuille flow of a simple fluid through the microchannel are comparable to the numerical and experimental data published in the literature. The nanopore solutions are also validated with presented experimental data. © 2003 American Institute of Physics. 
+
+flow through porous media
+channel flow
+finite element analysis
+drag
+heat transfer
+Navier-Stokes equations
+molecular dynamics method
+Knudsen flow
+Poiseuille flow
+nanoporous materials

@@ -1,0 +1,6 @@
+Subthreshold circuit design has become a popular approach for building energy efficient digital circuits. One drawback is performance degradation due to the exponentially reduced driving current. This had limited subthreshold circuits to relatively low performance applications such as sensor networks. To retain the excellent energy efficiency while reducing performance loss, we propose to apply subthreshold and near-threshold techniques to chip multi-processors. We show that an architecture where several slower cores are clustered together with a shared faster L1 cache is optimal for energy efficiency, because processor cores and memory operate best at different supply and threshold voltages. In particular, SPLASH2 benchmarks show about a 53% energy improvement over the traditional CMP approach (about 70% over a single core machine).
+
+CMP
+energy efficient
+near-threshold
+subthreshold

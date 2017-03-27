@@ -1,0 +1,14 @@
+We describe investigations of the effects of inserting a thin, lowdoped layer into the emitter of an InP/In0.53Ga0.47As heterojunction phototransistor (HPT). This highlow emitter structure has improved sensitivity and bandwidth over conventional structures at low input optical power by decreasing the bulk recombination current at the heterointerface. Experimental data show that the photocurrent gain is independent of the incident optical power at high input powers, corresponding to a heterojunction ideality factor of 1. At low input power, the gain is found to have a small power dependence, with an ideality factor of 1.25. A current gain as high as 260 is obtained at an input power of only 40 nW. These results, which are consistent with numerical simulations of the HPTs, give direct evidence that bulk recombination in the space charge region at the emitter/base junction is the major source of recombination current for an InP/In0.53Ga0.47As HPT. A second structure is also proposed to improve the sensitivity by inserting a heavily doped layer into the base.
+
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+INDIUM PHOSPHIDES
+HETEROJUNCTIONS
+PHOTOTRANSISTORS
+DESIGN
+PERFORMANCE
+GAIN
+BANDWIDTH
+RECOMBINATION
+PHOTOCURRENTS
+OPTICAL COMMUNICATION SYSTEMS

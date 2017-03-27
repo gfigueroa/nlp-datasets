@@ -1,0 +1,7 @@
+An integral sliding-mode direct torque control (ISM-DTC) scheme with space-vector modulation for wind-energy conversion systems based on doubly-fed induction generators (DFIGs) under unbalanced grid voltage is proposed. The torque and power pulsations at twice the grid frequency caused by unbalanced grid voltage can be minimized by the proposed ISM-DTC scheme. Compared with existing control schemes of DFIGs under unbalanced grid voltage, the parametric uncertainties are included into the design procedure of sliding-mode controller, which guarantees the robustness of the controller. Because the torque and reactive power are directly controlled by the rotor voltage, the measurement, coordinate transformation, and symmetrical component extraction of rotor current are eliminated, which simplifies the structure of the controller. Simulation and hardware implementation results validate the effect and parametric robustness of the proposed ISM-DTC scheme.
+
+Direct torque control (DTC)
+doubly-fed induction generator (DFIG)
+integral sliding-mode control
+unbalanced grid voltage
+wind-energy generation

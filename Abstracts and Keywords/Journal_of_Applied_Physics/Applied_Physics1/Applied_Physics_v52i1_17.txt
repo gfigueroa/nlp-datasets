@@ -1,0 +1,15 @@
+The ultrasonic harmonic generation technique has been used to extend measurement of the nonlinearity parameters of copper to 3	°K. Comparison of these data and combinations of truly adiabatic thirdorder elastic (TOE) constants with predictions of simplified models show that a central force, nearest neighbor model accounts reasonably well for the behavior of copper in the regions of 45 and 200	°K and less well at other regions. The central force, nearest neighbor model also gives a good qualitative explanation for the temperature dependence of the combinations of TOE constants that are measured in this investigation.
+
+ULTRASONIC WAVES
+ELASTICITY
+COPPER
+MEDIUM TEMPERATURE
+LOW TEMPERATURE
+VERY LOW TEMPERATURE
+ULTRALOW TEMPERATURE
+HARMONICS
+NONLINEAR PROBLEMS
+COMPARATIVE EVALUATIONS
+ADIABATIC PROCESSES
+MATHEMATICAL MODELS
+TEMPERATURE DEPENDENCE

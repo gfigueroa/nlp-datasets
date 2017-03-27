@@ -1,0 +1,10 @@
+Systematic reviews have become a common method of synthesizing literature to examine the comparative effectiveness of medical interventions. Groups such as the Cochrane Collaboration and the U.S. Agency for Healthcare Research and Quality (AHRQ) conduct dozens of such reviews each year. However, these documents are often hundreds of pages long and the intended audiences, including medical providers and payers, may have difficulty interpreting the often technical terminology used in these reports. In this article, we describe the derivation of "key concepts" on the efficacy of antiepileptic drugs (AEDs) in the treatment of bipolar disorder from a pre- viously published systematic review of the use of AEDs (AED Review) for multiple indications, including mood disorders and chronic pain. With the aid of a multidisciplinary science panel, we derived the key concepts from the source report and subsequent updates of that report. Because we found that the key concepts were still quite technical, we subsequently derived four less technical "key messages" and revised these through multiple additional iterations. The concepts and messages were then tested with key informants and focus groups. At all stages of the process, we found that it was critical to maintain fidelity to the initial systematic review. The structured approach used in the derivation process described here proved to be very helpful in developing key messages and concepts. 
+
+bipolar disorder
+antiepileptic drugs
+carbamazepine
+gabapentin
+lamotrigine
+valproate
+off-label use
+systematic reviews

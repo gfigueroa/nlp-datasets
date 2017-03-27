@@ -1,0 +1,19 @@
+This paper reports the fabrication and lasing characteristics of 1.3¼m InGaAsP multiquantumwell (MQW) buried heterostructure (BH) lasers grown by liquidphase epitaxy (LPE) technique. The MQW active region consists of five InGaAsP well layers (»g=1.3¼m, Lz<200 Å and InGaAsP barrier layers (»g=1.1 ¼m, d<400600 Å). These lasers have threshold currents of 1520 mA at 25	°C, external quantum efficiencies of 50% at 25	°C, and T0 values of 130145	°K in the temperature range of less than 300	°K. The beam divergences perpendicular and parallel to the junction plane were in the narrow range of 1013°. Furthermore, the polarizationdependent gaincurrent relationship between the TE and TM mode of InGaAsP MQW lasers has been investigated in detail for the first time.
+
+QUANTUM WELL STRUCTURES
+BURIED HETEROSTRUCTURES
+FABRICATION
+SEMICONDUCTOR LASERS
+PERFORMANCE
+QUANTUM EFFICIENCY
+THRESHOLD CURRENT
+TEMPERATURE EFFECTS
+GAIN
+LAYERS
+GALLIUM ARSENIDES
+GALLIUM PHOSPHIDES
+LIQUID PHASE EPITAXY
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+INFRARED RADIATION
+EXPERIMENTAL DATA

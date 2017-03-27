@@ -1,0 +1,9 @@
+A quartermicronwidth Greekcross Hall device was fabricated by focused ionbeam implantation with a practical product sensitivity of 85 V/AT. The Hooges noise parameter ±H [Phys. Lett. A 29, 139 (1969)] was evaluated from the exact carrier number and the 1/f 	noise level to be 4.5×106, in good agreement with the quantum theory for 1/f 	noise.
+
+ION IMPLANTATION
+GALLIUM ARSENIDES
+HALL EFFECT
+SEMICONDUCTOR DEVICES
+FABRICATION
+NOISE
+CARRIER DENSITY

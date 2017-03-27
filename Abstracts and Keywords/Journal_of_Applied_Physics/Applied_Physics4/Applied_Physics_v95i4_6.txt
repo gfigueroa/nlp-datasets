@@ -1,0 +1,8 @@
+The influence of incident electron current on surface charging and electron emission of hydrogenated diamond films subjected to low energy electron irradiation was investigated. For incident electron energies Ei in the 520 eV range, it was found that for sufficiently low incident currents (&lt;<8 nA) the secondary electron emission (SEE) decays in intensity under continuous irradiation, albeit a constant onset of SEE is maintained. For higher incident currents the surface charges negatively. The SEE decay rate and surface charging were found to depend on incident electron energies, obtaining maximum values for incident electron energies of <9 eV. Increase of the substrate temperature resulted in an enhanced electron emission and less efficient surface charging. These effects are explained on the basis of electron trapping in the near-surface region, which results in the formation of a depletion layer and upward surface band bending. It is suggested that the main mechanism of electron trapping is by resonant electron attachment of incident electrons onto C-H bonds present within the hydrogenated diamond film surfaces. © 2004 American Institute of Physics. 
+
+electron-surface impact
+surface charging
+electron emission
+diamond
+hydrogenation
+secondary emission

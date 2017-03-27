@@ -1,0 +1,6 @@
+This paper presents a systematic analytical approach for the well-being assessment of small autonomous power systems (SAPSs) with wind and solar energy sources. The proposed technique accounts for the uncertainties associated with solar irradiance, wind speed, demand, and outages of various generating units. The impact of wind power fluctuation on the system stability is also assessed by limiting the wind power dispatch to a certain percentage of system load. Well-being assessment and production costing simulation for SAPS are performed using proposed analytical approach and Monte Carlo simulation (MCS) method, and then, obtained results are compared in terms of accuracy and computational time. The comparison shows that the developed technique requires less computational time than MCS method, with reasonable accuracy, and thus, validates the usefulness of proposed analytical method. The impact of renewable energy penetration on a SAPS is also analyzed using the proposed method.
+
+Production costing
+renewable energy resources
+small autonomous power systems (SAPSs)
+well-being assessment

@@ -1,0 +1,4 @@
+A noncontact measurement of electric field is proposed based on the Kerr effect in gases. With the Kerr sensing technique, the electric field can be measured without causing any field disturbance. Kerr constants of gases are, however, very small compared with those of liquids, and this ideal technique has not been applied to electric field measurement in gas. In this study, a system is developed for a highly sensitive measurement of the small phase retardation caused by the Kerr electro-optic effect in gases. An optical phase modulation technique is effectively adopted to improve the sensitivity of the system. With this optical system, (i) dc stressed uniform electric fields in sulfur hexafluoride, nitrogen, and carbon dioxide gases at the pressure of 0.20.5 MPa and (ii) ac stressed uniform electric fields in atmospheric air are measured. © 2002 American Institute of Physics. 
+
+Kerr electro-optical effect
+electric field measurement

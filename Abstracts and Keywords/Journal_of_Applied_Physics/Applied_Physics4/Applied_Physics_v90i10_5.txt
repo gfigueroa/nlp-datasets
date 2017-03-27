@@ -1,0 +1,8 @@
+Images of a thin film permalloy element taken with Lorentz and magnetic force microscopies are compared with those from a simulation of the expected magnetic structure of the element. Measurements taken from the domain walls present in the element allow a quantitative comparison to be made. In the case of magnetic force microscopy, quantification is made possible by using a nonperturbative approach based on an extended charge model for the magnetic probe. Excellent agreement between experiment and simulation is observed for both imaging techniques. © 2001 American Institute of Physics.
+
+magnetic domain walls
+Permalloy
+magnetic force microscopy
+ferromagnetic materials
+magnetic thin films
+magnetisation

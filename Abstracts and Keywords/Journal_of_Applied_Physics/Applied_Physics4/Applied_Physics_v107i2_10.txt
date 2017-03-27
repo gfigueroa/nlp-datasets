@@ -1,0 +1,10 @@
+There is considerable current interest in using molecular materials to influence the surface potential of semiconductor devices for nanoelectronic and sensing applications. We present experimental capacitance-voltage results showing that systematic Schottky barrier height modulation can be achieved using dipolar molecular layers in gold-molecule-silicon devices. A computational methodology that combines quantum chemistry and traditional electrostatic calculations is used to explore various physical effects that can influence barrier heights in such systems. Nonidealities such as silicon surface states can influence both the potential profile within the device and the validity of the extracted barrier height. Our devices exhibit low surface state densities, but the magnitude of surface potential modulation is modest due to molecular depolarization from the gold contact.
+
+elemental semiconductors
+gold
+MIS devices
+molecular electronics
+Schottky diodes
+silicon
+surface potential
+surface states

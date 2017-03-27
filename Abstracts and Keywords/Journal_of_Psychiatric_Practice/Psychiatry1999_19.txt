@@ -1,0 +1,16 @@
+The selective serotonin reuptake inhibitors (SSRIs) have become the standard first-line treatment for all forms of clinical depression. However, approximately 30% of patients do not have an adequate or satisfactory response to SSRI treatment. In this article, the authors discuss strategies for treating SSRI nonresponders. The first and most important step is to optimize treatment with the current SSRI by titrating the dose to the maximum tolerable level and treating for an adequate period of time before deciding that the patient is not responding. A variety of augmentation strategies are then described, including augmentation with lithium, thyroid, buspirone, pindolol, stimulant and dopamine agonists, and other antidepressants. The use of lithium to augment SSRIs has the most support, but the other approaches are relatively safe and well-tolerated. The authors then discuss switching to another antidepressant and review the data concerning switching to another SSRI, a TCA, bupropion, an MAOI, venlafaxine, and mirtazapine. Switching to an antidepressant of another class is generally preferred, although about 50% of patients who fail to respond to one SSRI may respond to another SSRI. The authors then briefly discuss issues related to relapse while on an SSRI and the use of psychotherapy in SSRI nonresponders. 
+
+selective serotonin reuptake inhibitors
+depression
+nonresponse
+optimization
+augmentation strategies
+lithium
+thyroid
+pindolol
+tricyclic antidepressants
+bupropion
+monoamine oxidase inhibitors
+venlafaxine
+mirtazapine
+psychotherapy

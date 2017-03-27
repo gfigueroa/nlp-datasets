@@ -1,0 +1,16 @@
+Aluminumdoped ZnO thin films were prepared by ionized deposition on glass substrates. The crystallinity and electrical properties of Aldoped ZnO films prepared by ionized evaporation depend on the deposition conditions. The clattice constant of ZnO films increases with ionization current and acceleration voltage. The spacing distribution of clattice planes varies inversely with the orientation distribution of the c axis, when deposition conditions such as ionization current, acceleration voltage, and substrate temperature are changed; the line width B002 of a (002) diffraction peak increases while the FWHM of rocking curve ”˜50 decreases. These changes of crystallographic characteristics cause a decrease in Hall mobility, and defects in the film resulting from ion bombardment cause a decrease in carrier concentration. Therefore, an increase in resistivity is observed in Aldoped ZnO films grown by ionized deposition. Ion bombardment during deposition must be minimized to avoid degradation of Aldoped ZnO films, because the properties of Aldoped ZnO films are significantly changed by ion bombardment of the film surface.
+
+ZINC OXIDES
+THIN FILMS
+DOPED MATERIALS
+ALUMINIUM ADDITIONS
+VAPOR DEPOSITED COATINGS
+IONIZATION
+CRYSTALLOGRAPHY
+ELECTRICAL PROPERTIES
+XRAY DIFFRACTION
+HALL EFFECT
+MOBILITY
+ION COLLISIONS
+GLASS
+SUBSTRATES

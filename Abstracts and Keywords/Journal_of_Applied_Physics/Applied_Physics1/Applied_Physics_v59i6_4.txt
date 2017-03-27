@@ -1,0 +1,18 @@
+A transmission electron microscopy study of sintered NdFeB magnets after annealing above 650	°C shows the formation of a thin intergranular Ndrich layer extending to pockets of polycrystalline fcc Nd crystals. The grain boundary phase acts as a pinning site for the magnetic domain walls and is necessary for good magnetic hardening. On the other hand, the Nd1+õFe4B4 phase is an unavoidable product of the sintering process but need not be present for good coercivity.
+
+MAGNETS
+IRON ALLOYS
+BORON ALLOYS
+NEODYMIUM ALLOYS
+COERCIVE FORCE
+SINTERING
+ANNEALING
+TRANSMISSION ELECTRON MICROSCOPY
+GRAIN BOUNDARIES
+DOMAIN STRUCTURE
+POLYCRYSTALS
+MAGNETIC FLUX
+VERY HIGH TEMPERATURE
+FCC LATTICES
+MICROSTRUCTURE
+CRYSTALPHASE TRANSFORMATIONS

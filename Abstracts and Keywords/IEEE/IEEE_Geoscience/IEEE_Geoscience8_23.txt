@@ -1,0 +1,6 @@
+Paper presents results of modelling gas engine thermal cycle using AVL FIRE and KIVA 3V software. There are described three combustion models used in above mentioned software. Comparison of modelling results of thermal cycle of IC engine is presented in the paper.
+
+combustion
+internal combustion engine
+modelling
+thermal cycle

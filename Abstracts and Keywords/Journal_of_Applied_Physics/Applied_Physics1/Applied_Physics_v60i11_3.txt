@@ -1,0 +1,13 @@
+Optical and electronic properties of polycrystalline bulk and thinfilm CuInSe2based photoelectrochemical solar cells have been evaluated. The minoritycarrier diffusion length was measured using the surface photovoltage technique and polyiodide electrolyte yielding 1 and 0.8 microns for ntype bulk and thinfilm material, respectively. The first bulk optical absorption data have been obtained from transmission, using thinned samples and Fourier transform infrared spectroscopy techniques. These confirm high opticalabsorption coefficients (4×105 cm1) away from threshold.
+
+PHOTOELECTROCHEMICAL CELLS
+CHARGE CARRIERS
+DIFFUSION
+CHARGEDPARTICLE TRANSPORT
+INFRARED SPECTRA
+OPTICAL PROPERTIES
+ELECTRICAL PROPERTIES
+COPPER SELENIDE SOLAR CELLS
+INDIUM SELENIDE SOLAR CELLS
+ELECTROLYTES
+ABSORPTIVITY

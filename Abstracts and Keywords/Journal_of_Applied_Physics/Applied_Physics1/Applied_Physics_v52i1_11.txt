@@ -1,0 +1,17 @@
+A simplified analytical model of the CO2 cw gasdynamic laser operating on the Q branch of the 0310?1000 radiative transition is presented in this paper. The population inversion, gain, and maximum available vibrational energy to be converted into the 18.4¼m wavelength radiation field are calculated together with corresponding values of the temperature(s), pressure(s), nozzle crosssection area(s), and laser output per unit mass flow in an ideal adiabatic approximation. The influence of the relaxation of the coupled ½1 and ½2 vibrational modes and of the cavity losses on the laser output power are considered.
+
+CARBON DIOZIDE LASER
+MATHEMATICAL MODELS
+GAS LASERS
+INFRARED RADIATION
+POPULATION INVERSION
+ENERGYLEVEL TRANSITIONS
+GAIN
+NOZZLES
+CONFIGURATION
+ADIABATIC APPROXIMATION
+RELAXATION
+COUPLING
+OSCILLATION MODES
+LASER CAVITIES
+LOSSES

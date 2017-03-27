@@ -1,0 +1,11 @@
+Polymerization of a mixture of C60/C70 in rf plasma is reported. The electric darkcurrent conductivity of the plasmapolymerized mixture of C60/C70, which is approximately 107 S/cm in the atmosphere, does not depend on the applied voltage at least in the range of 25 to 25 V. A semiconductortype temperature dependence of the conductivity in the highertemperature domain was observed, and the bandgap energy was estimated to be 2.1 eV. The conductivity increased with increasing temperature from 25 to 230	°C in vacuum, whereas in the atmosphere the conductivity increased upon decreasing the temperature below 80	°C. It is supposed that in this temperature domain the electric conductivity is enhanced by the existence of water molecules on the film, the surface of which is characterized by a high hydrophilicity. The surface morphology of the polymerized film was characterized by the presence of aggregates with diameters of about 300 Å and the surface was highly hydrophilic, polar, and heterogeneous. The surface has a completely amorphous molecular structure. When the C60 molecules polymerize each other, it has been shown that the polymerization of C60 molecules proceeds, at least primarily, by the formation of 1,2cyclobutane structures between the cyclohexatrienyl parts of neighboring C60 molecules. The addition of hydrogens, hydroxyl groups, carbonyl groups, and aryl peroxide groups to the radical sites occurs but the free radicals of the order of magnitude 1017 spins/g were found to remain without quenching.
+
+FULLERENES
+CARBON
+FILMS
+POLYMERIZATION
+PLASMA
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 273400 K
+SURFACE STRUCTURE

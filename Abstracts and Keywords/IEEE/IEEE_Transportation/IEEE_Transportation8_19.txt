@@ -1,0 +1,7 @@
+This paper addresses the cascading failure problem in a supply chain network, where all the nodes are interconnected and interdependent in this network. Therefore, a Node Importance Evaluation Method (NIEM) is proposed to analyze cascading failure characteristics in the supply chain network firstly, and then the critical nodes which may cause cascading failure in the whole network are identified. Subsequently, the NIEM is employed to analysis a food supply chain network as a case study. Finally, a computational results and date analysis is presented to show the damage degree of cascading failure using the largest workload tolerance parameter. The simulation results demonstrate that the proposed methods can identify cascading failure for a supply chain network efficiently.
+
+Cascading Failure
+Complex Network
+Identify
+Node Importance Evaluation Method
+Supply Chain Network

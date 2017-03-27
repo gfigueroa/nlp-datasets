@@ -1,0 +1,16 @@
+Three different thermal carbonization processes of porous silicon (PS) surface by acetylene occurring between 400 and 950
+°C were observed by in situ measurements. The peak temperature of oxidation shifts from 300 to 600
+°C and the activation energy from 130 to 500 kJ/mole in the samples treated at 900
+°C compared to untreated PS. Using Fourier transform infrared spectroscopy (FTIR), the bonding configurations associated with the temperature dependent processes were found. In the samples treated at or below 600
+°C, traces of CHx bonds were clearly seen, but above 600
+°C the FTIR spectra started resemble those of the SiC. The graphitization process was found to take place on the surface of PS samples treated above 800
+°C. By changing the time between the C2H2 flush and thermal treatment, the graphitization can be controlled and even avoided. The weight increase was observed to be nearly proportional to the reduction of the surface area while the decrease in the surface area due to the thermal carbonization was found to be small. The origin of this phenomenon and the effects of other preparation parameters have been discussed. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+porous semiconductors
+surface treatment
+oxidation
+Fourier transform spectra
+infrared spectra
+heat treatment

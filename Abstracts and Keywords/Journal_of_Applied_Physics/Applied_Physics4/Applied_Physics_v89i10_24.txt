@@ -1,0 +1,9 @@
+In situ monitoring of catalyst nickel atoms by laser induced fluorescence during carbon nanotube formation in a laser-produced plume was performed at the Johnson Space Center nanotube production laboratory. The results indicate that ablation of nickel and plume dynamics are strongly related to the oven temperature. Nickel atoms have a long lifetime of several milliseconds and have an electronic temperature of at least 1500 K during carbon nanotube formation. © 2001 American Institute of Physics. 
+
+carbon nanotubes
+materials preparation
+laser ablation
+fluorescence
+nickel
+laser beam effects
+catalysts

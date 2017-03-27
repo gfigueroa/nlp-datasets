@@ -1,0 +1,13 @@
+The adsorption of nalkanes on graphite has been studied by scanning tunneling microscopy. These molecules can form very well ordered layers on the graphite surface. The results suggest that a transition from an ordered to a disordered state of the molecules occurs as a function of temperature. A model for the structure of the adsorbed layer and a possible explanation for the temperature effects are given.
+
+GRAPHITE
+SORPTIVE PROPERTIES
+ALKANES
+ADSORPTION
+STM
+MOLECULES
+LAYERS
+ORDERDISORDER TRANSFORMATIONS
+TEMPERATURE DEPENDENCE
+STRUCTURAL MODELS
+PYROLYTIC CARBON

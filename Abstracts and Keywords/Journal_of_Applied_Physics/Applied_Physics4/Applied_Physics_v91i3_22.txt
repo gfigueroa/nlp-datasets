@@ -1,0 +1,8 @@
+The electron saturation velocity in Ga0.52In0.48P has been measured as a function of temperature, utilizing the Kirk effect in double heterojunction bipolar transistors. An AlGaAs base was used to eliminate the conduction band spike, and measurements were carefully performed using pulse biasing to minimize self-heating. Voltage drops across the base and collector series resistances were also taken into account. The measured room temperature saturation velocity of 5.0×106	cm/s decreased rapidly to 2.9×106	cm/s at 200
+°C. These results provide useful data for modeling and design, and are particularly important for the prediction of frequency performance of Ga0.52In0.48P/(Al)GaAs/Ga0.52In0.48P double heterojunction bipolar transistors when operating at typical elevated temperatures in power applications. © 2002 American Institute of Physics.
+
+gallium compounds
+indium compounds
+heterojunction bipolar transistors
+current density
+III-V semiconductors

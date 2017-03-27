@@ -1,0 +1,6 @@
+In multi-instance learning, the training set comprises labeled bags which are composed of unlabeled instances, and the task is to predict the labels of unseen bags. In this paper, a text mining problem, i.e. text representation, is investigated from a multi-instance view. In detail, each text is regarded as a bag while each of its sentences is regarded as an instance. Bag can be labeled by its class label and its similarity is defined by sentence similarity. The text classification problem is translated into multi-instance learning problem. In order to solve this problem, a Chinese text classifier focusing on bag has been built by KNN algorithm and good average precision 92.12% and recall 92.01% have been achieved in the experiments.
+
+bag of sentences
+multi-instance learning
+text classification
+text representation

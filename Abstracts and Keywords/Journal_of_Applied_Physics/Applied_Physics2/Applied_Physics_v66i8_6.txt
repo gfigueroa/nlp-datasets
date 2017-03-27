@@ -1,0 +1,12 @@
+The radiation hardness of fluorinated SiO2/Si interface in metaloxidesemiconductor fieldeffect transistors has been found to depend strongly on the amount of fluorine introduced. In this study, the fluorine was introduced by lowenergy F implantation onto the surface of the polycrystalline silicon gate electrode, followed by annealing at 950	°C to diffuse F into the gate SiO2 toward the SiO2/Si interface. The improved radiation hardness is attributed to the strain relaxation near the SiO2/Si interface by fluorine incorporation.
+
+MOSFET
+SILICON OXIDES
+SILICON
+INTERFACE PHENOMENA
+FLUORINATION
+PHYSICAL RADIATION EFFECTS
+STRAINS
+RELAXATION
+SIMS
+X RADIATION

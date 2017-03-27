@@ -1,0 +1,10 @@
+We report on the contribution of effects at the organic semiconductor-metal interfaces to dark current and to transient and continuous wave (cw) photocurrent in high-performance functionalized anthradithiophene (ADT) films deposited from solution on glass substrates with gold (Au) and aluminum (Al) electrodes. In all samples, fast sub-30 ps charge carrier photogeneration was observed under photoexcitation with 100 fs, 400 nm laser pulses. Amplitudes of the transient photocurrent measured in samples with Au and Al electrodes were similar within a factor of 24, depending on the sample and on the applied voltage. Compared to transient photocurrents, dark currents, and cw photocurrents exhibited pronounced differences between ADT films on Au and Al electrodes, with considerably higher currents in samples with Au electrodes. Measurements of photoresponse under uniform illumination were complemented by scanning photocurrent microscopy performed on the same samples. Photocurrent profiles were obtained by scanning the gap between coplanar electrodes with a tightly focused beam, either pulsed or cw, and measuring photocurrent, either transient or steady-state at every point. While samples with Au and Al electrodes exhibited similar distributions of the transient photocurrent amplitudes in the gap, those of the cw photocurrents exhibited dramatic differences, in agreement with results obtained under uniform illumination.
+
+aluminium
+dark conductivity
+electrodes
+gold
+organic semiconductors
+photoconductivity
+semiconductor thin films
+semiconductor-metal boundaries

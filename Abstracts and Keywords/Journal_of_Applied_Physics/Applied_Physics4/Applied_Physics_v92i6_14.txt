@@ -1,0 +1,8 @@
+A surface plasmon resonance spectroscopy (SPRS) measurement was carried out to determine dielectric properties, oxidation states, and optimum thickness of AlOx insulating barrier in magnetic tunnel junctions. The insulating barriers were prepared as a function of oxidation time by using a remote rf plasma oxidation process. The experimental results revealed that the dielectric value and optimum thickness of the AlOx insulating barrier in our junctions were found to be 1.79+i1.77 and 11.26 Å, respectively. For comparison, the magnetic tunneling junction was also fabricated using the same oxidation condition. The best magneto-resistance ratio of about 34% was observed at an optimum oxidation time of 70 s, as expected by the SPRS measurement. © 2002 American Institute of Physics. 
+
+aluminium compounds
+surface plasmon resonance
+oxidation
+plasma deposited coatings
+tunnelling
+magnetic multilayers

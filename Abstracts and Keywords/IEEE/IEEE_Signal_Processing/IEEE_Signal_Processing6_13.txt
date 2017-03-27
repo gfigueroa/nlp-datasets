@@ -1,0 +1,6 @@
+Parkinson's disease is a neurodegenerative disorder which results from the loss of dopaminergic neurons in parts of the basal ganglia of the brain. One of the most debilitating symptoms of this disease is poor balance. The vestibular system is responsible for reporting on the position and movement of the head, in order to maintain the body's balance. Pathways between the basal ganglia and the vestibular nuclei are known to exist. In this project, electrovestibulography (EvestG), a technique used to measure neuronal activity of the vestibular apparatus and nuclei, has been used as a window to the function of the basal ganglia of the brain. We hypothesise that a novel wavelet based signal processing technique, a Neural Event Extraction Routine, can be used to extract diagnostically meaningful biomarkers from EVestG recordings obtained from Parkinson's patients. As a preliminary study, recordings were carried out on ten healthy subjects and five who were suffering from Parkinson's disease. Vestibular neural events were detected and plotted using the Neural Event Extraction Routine. Biomarkers from these waveforms seem to show consistent differences between healthy subjects and those suffering from Parkinson's disease.
+
+Electrovestibulography
+Parkinson's disease
+basal ganglia
+vestibular system

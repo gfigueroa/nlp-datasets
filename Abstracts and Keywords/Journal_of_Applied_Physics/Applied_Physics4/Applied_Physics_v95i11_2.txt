@@ -1,0 +1,13 @@
+Electronic structure calculations have been performed for the disordered alloy series Fe1xCuxPt using the layer KorringaKohnRostoker method. Total energies as a function of x have been calculated in order to yield the Gibbs free energy of mixing. From these data a pseudobinary phase diagram has been constructed predicting temperature dependent phase separation occuring below 450 K and alloying above this temperature. Ordering and alloying processes are discussed. The magnetocrystalline anisotropy has been calculated as a function of x to elucidate the effect of Cu additives on the magnetic properties of L10 FePt. These calculations show that the anisotropy falls smoothly with increasing Cu content. Results of these calculations are compared to available experimental data. © 2004 American Institute of Physics. 
+
+iron alloys
+copper alloys
+platinum alloys
+magnetic anisotropy
+KKR calculations
+ab initio calculations
+total energy
+free energy
+phase separation
+phase diagrams
+electronic structure

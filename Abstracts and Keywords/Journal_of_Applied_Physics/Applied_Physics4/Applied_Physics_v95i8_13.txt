@@ -1,0 +1,9 @@
+The properties of nonsteady-state surface plasmon modes are analyzed for general grating structures and in particular for short pitch, high aspect ratio gratings and lamellar gratings. Numerical simulations of grating structures are described including a transformed coordinate, coupled plane wave approach known as the Chandezon method. A model of radiating light-surface plasmon coupling is then developed that allows for the extension of steady-state calculations involving time independent incident and reflected intensities to nonsteady-state situations involving no incident light but exponentially time dependent decaying emission intensity. Properties such as surface plasmon dispersion curves, electromagnetic field profiles, incident light-surface plasmon coupling efficiency, surface plasmon-radiating light coupling efficiency, overall radiation efficiency, and lifetime or decay constant are analyzed. It is seen that the surface plasmon modes of several structures couple strongly to incident and radiating light producing high surface plasmon-radiating light conversion and short lifetimes. © 2004 American Institute of Physics. 
+
+silver
+aluminium
+periodic structures
+diffraction gratings
+surface plasmons
+radiative lifetimes
+numerical analysis

@@ -1,0 +1,5 @@
+This short document describes the evaluation of an indoor navigation system for pedestrians based on a small Low-cost inertial navigation system. The system components are explained and first investigations made on the campus of the Hafen City University (HCU) are shown. The focus of the investigation was the transition from outdoor to indoor scenarios. The aim of the project is the optimal integration of the sensor data from the small INS /GPS with other sensors e.g. cameras and GIS in a own Kalman Filter. The research is accomplished in the established Research Group dasiaDigital Citypsila of the HCU. The interdisciplinary team will focus on the development of valued added information and innovative services for the needs of citizens, employees, businesses and tourists.
+
+indoor navigation
+low-cost INS
+pedestrian navigation

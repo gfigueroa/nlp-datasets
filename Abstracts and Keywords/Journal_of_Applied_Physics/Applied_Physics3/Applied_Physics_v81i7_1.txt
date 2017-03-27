@@ -1,0 +1,11 @@
+Quantitative simulation of an InGaAs/InAlAs resonant tunneling diode is obtained by relaxing three of the most widely employed assumptions in the simulation of quantum devices. These are the single band effective mass model (parabolic bands), Thomas-Fermi charge screening, and the Esaki-Tsu 1D integral approximation for current density. The breakdown of each of these assumptions is examined by comparing to the full quantum mechanical calculations of self-consistent quantum charge in a multiband basis explicitly including the transverse momentum. © 1997 American Institute of Physics.
+
+effective mass
+indium compounds
+aluminium compounds
+gallium arsenide
+resonant tunnelling diodes
+semiconductor device models
+Thomas-Fermi model
+quantum interference devices
+III-V semiconductors

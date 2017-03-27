@@ -1,0 +1,14 @@
+Garnet films of composition Lu3xBixFe5yGayO12 are grown by liquidphase epitaxy on [111]oriented substrates of gadolinium gallium garnet. Faraday rotation and saturation magnetization are measured as a function of substitution levels, which range up to x=1.4 and y=1.8, respectively. Nonreciprocal propagation of the TM0 is studied at a wavelength of 1.3 ¼m. It is shown that the difference between forward and backward propagation constants can be optimized using double layers with opposite sign of the Faraday rotation. Agreement between experiments and calculations is excellent. © 1995 American Institute of Physics.
+
+FERRITE GARNETS
+OPTICAL MATERIALS
+MAGNETOOPTICAL EFFECTS
+DOUBLE LAYERS
+FARADAY EFFECT
+LUTETIUM OXIDES
+BISMUTH OXIDES
+GALLIUM OXIDES
+MULTIELEMENT COMPOUNDS
+FILMS
+MAGNETIZATION
+LIGHT TRANSMISSION

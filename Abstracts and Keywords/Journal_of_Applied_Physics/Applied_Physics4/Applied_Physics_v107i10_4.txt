@@ -1,0 +1,6 @@
+The graphene morphology regulated by nanowires patterned in parallel on a substrate surface is quantitatively determined using energy minimization. The regulated graphene morphology is shown to be governed by the nanowire diameter, the nanowire spacing, and the interfacial bonding energies between the graphene and the underlying nanowires and substrate. We demonstrate two representative regulated graphene morphologies and determine critical values of the nanowire spacing, nanowire diameter, and interfacial bonding energies at which graphene switches between the two representative morphologies. Interestingly, we identify a rule-of-thumb formula that correlates the critical nanowire spacing, the critical interfacial bonding energies and the nanowire diameter in quite well agreement with the full-scale simulation results. Results from the present study offer guidelines in nanostructural design to achieve desired graphene morphology via regulation with a resolution approaching the atomic feature size of graphene.
+
+graphene
+ionisation potential
+nanowires
+surface energy

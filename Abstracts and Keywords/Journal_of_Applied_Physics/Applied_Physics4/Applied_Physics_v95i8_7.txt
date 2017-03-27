@@ -1,0 +1,10 @@
+We report a simultaneous formation process of textured surfaces for hydrogen-free amorphous carbon (a-C) induced by an ion beam. By adjusting surface reactions via controlling temperature together with ion beams, several kinds of textured surfaces of a-C on mirror-polished Si (111) can be produced during ion-beam assisted deposition. In high-temperature regimes, submicron-sized pyramidlike a-C particles and ripples structures form. The sizes and separations of a-C particles change with substrate temperature significantly. An intrinsic model based on a natural self-organization mechanism is proposed for the production of textured surfaces, where the surface diffusion is shown to play a decisive role. In a low-temperature regime, the films commonly present mounding roughening. Likewise, self-organized nanodots appear at a very low ion flux. These nanodots are about 5±0.5 nm high with a diameter to height ratio close to 15:1 and a density of approximately 290 ¼m2. The nanodot production is correlated with ion-induced nucleation. The demonstration of the textured surface formations may open a way to fabricate and tune desirable surface structures on the technically important functional materials. © 2004 American Institute of Physics. 
+
+carbon
+amorphous state
+ion beam assisted deposition
+nanoparticles
+surface chemistry
+surface diffusion
+surface texture
+surface roughness

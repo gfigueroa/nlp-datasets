@@ -1,0 +1,10 @@
+The modification of the defect mode in a one-dimensional (1D) photonic crystal (PC) in terahertz (THz) spectral region was systematically investigated by using THz time-domain spectroscopy (THz-TDS). The 1D PC was constructed by periodically arranging glass slides into an ordered structure. A defect was created by intentionally increasing the separation (i.e., the air gap) between two neighboring glass slides located in the middle of the PC. The tuning of the defect mode in the band gap was demonstrated by changing the thickness of the air gap. Modification of the defect mode was realized by inserting a silicon wafer into the defect. It was found that the appearance of the defect mode in the band gap depends not only on the relative position of the inserted silicon wafer with respect to the beam center but also on the resistivity of the silicon wafer. For the silicon wafer with a high resistivity, a transition of the defect mode from one frequency to the other was observed. When the front end of the silicon wafer was located exactly at the beam center, two defect modes with lower transmittance are observed. For one of the defect modes, the electromagnetic energy stored in the defect can be effectively coupled to the silicon wafer and eventually extracted out of the cavity. When the silicon wafer with a low resistivity was inserted into the defect, only the attenuation of the defect mode was observed. The defect mode disappeared when the beam was completely blocked by the silicon wafer. The large feature size of THz PCs offers us the opportunity of systematically investigating the modification of defect modes in PCs and its applications in the construction of functional devices. The experimental observations obtained by THz-TDS are in good agreement with the numerical simulation results calculated by finite-difference time-domain technique.
+
+electrical resistivity
+electromagnetic waves
+elemental semiconductors
+energy gap
+finite difference time-domain analysis
+photonic crystals
+silicon
+terahertz waves

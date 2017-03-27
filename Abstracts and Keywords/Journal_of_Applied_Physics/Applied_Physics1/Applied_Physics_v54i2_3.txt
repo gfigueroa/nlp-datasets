@@ -1,0 +1,21 @@
+Electrical conductivity mechanisms in single crystal rutile (TiO2) between 6 and 40 K have been studied in Nbdoped and Nb+Hdoped material by means of electrical resistance and Hall effect measurements. In this range, three scattering mechanisms were found to be important: neutral and ionized impurities and acoustic phonons. In the region from approximately 12 to 25 K the electrical conductivity was found to be strictly exponential in 1/T, indicating acoustic phonon limited scattering, and yielding the donor trapping energies for Nb and H (20.0±0.1 and 4.4±0.1 meV, respectively). With the acoustic phonon limited mobility written as ¼=¼0/T3/2, ¼0 was found to be (1.2±0.1)×104 and (3.9±0.4)×104 cm2(K)3/2/V	s in the a and c directions, respectively. Although qualitative agreement with existing theories on neutral and ionized impurity scattering is obtained, quantitative agreement requires an improved theory taking anisotropy into account. It was also found that the ratio of c to a mobility is a function of temperature and doping. The electron effective mass was estimated to be <12.5 m0.
+
+rutile
+charge transport
+electrons
+ultralow temperature
+very low temperature
+electric conductivity
+experimental data
+hall effect
+monocrystals
+niobium
+hydrogen
+doped materials
+scattering
+impurities
+phonons
+equations
+mobility
+temperature dependence
+effective mass

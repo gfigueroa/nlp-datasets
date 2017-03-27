@@ -1,0 +1,10 @@
+A method for the analysis of deep level spectra in semiconductors has been developed, which enables the determination of different trap signatures even when a large number of spectral peaks overalp. This procedure invokes the simultaneous analysis of thermally stimulated currents and deep level transient spectroscopy spectra by the numerical solution of the integral equations linking the full deep level populations to the measured signals. The method has been tested for a set of neutron irradiated silicon samples, giving very satisfactory results. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+neutron effects
+defect states
+deep level transient spectroscopy
+thermally stimulated currents
+electron traps
+integral equations

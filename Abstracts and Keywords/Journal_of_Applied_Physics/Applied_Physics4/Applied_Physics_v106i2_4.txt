@@ -1,0 +1,9 @@
+Highly (100)-oriented Pb(Zr0.52,Ti0.48)O3 (PZT) films of up to < 2.4¼m are deposited on the (Pb0.86,La0.14)TiO3 (PLT)-coated amorphous substrate by one cycle of sputtering and annealing. The films possess fibrous columnar nanostructures and vertically grow on the PLT/glass substrate. Microstructure analysis and property characterization indicate that the films possess very promising optical, waveguiding, and electro-optic (EO) properties, as well as low propagation loss. The transparency of &gt;80% in the range of » = 4001200nm and the linear EO coefficient of 341.4 pm/V have been measured in the films. Due to the large EO coefficient and the micrometric thickness, a giant phase retardation of 2.93 rad has been measured under an electric field of 50 kV/mm.
+
+annealing
+crystal microstructure
+dielectric thin films
+electro-optical effects
+lead compounds
+sputter deposition
+transparency

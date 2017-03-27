@@ -1,0 +1,13 @@
+The influence of electronic states of the semiconductor matrix on the precipitation of metallic As clusters in GaAs epilayers grown by molecular beam epitaxy at low temperatures were studied. From x-ray diffraction and Hall effect measurements, the presence of free carriers was found to occur in a certain time after the start of the coarsening stage of the precipitation. Transmission electron microscope observations indicate that redistributions of As clusters between the doped and undoped regions starts at the same time with the appearance of free carriers. Redistributions of As clusters occurs in pn junction structures in such a way that depletion zones of the pn junctions become free from As clusters, leading to close correlation of widths of precipitate free zones with those of the depletion zones of the pn junctions for various dopant concentrations. These observations are explained with a tendency of As metal clusters of reducing free carriers in the surrounding semiconductor matrix and hence keeping it as an intrinsic semiconductor. © 2000 American Institute of Physics. 
+
+precipitation
+gallium arsenide
+III-V semiconductors
+semiconductor epitaxial layers
+metal clusters
+X-ray diffraction
+Hall effect
+transmission electron microscopy
+p-n junctions
+interface states
+arsenic

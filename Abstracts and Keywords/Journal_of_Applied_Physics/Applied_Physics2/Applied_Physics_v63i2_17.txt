@@ -1,0 +1,13 @@
+Silicon vaporphase epitaxial growth with SiH2Cl2 is theoretically studied. The optimized geometries and total energies of the species, generated from SiH2Cl2, are calculated by using an ab initio molecular orbital method. The charge transfer of the interaction between a silicon surface and SiCl2 is considered. Based on the computational result that SiCl2 has the lower total energy that SiCl2, a new adsorption mechanism, named charge transfer adsorption, is proposed. By using this charge transfer adsorption followed by the surface reaction at the hollow bridge site, the epitaxial growths on the silicon (001), (111), and (110) surfaces are discussed. The epitaxial growths take place in different ways for these three surfaces because of the specific locations of the hollow bridge sites.
+
+ADSORPTION
+VAPOR PHASE EPITAXY
+SILICON
+CHEMICAL VAPOR DEPOSITION
+SILANES
+SILICON CHLORIDES
+SURFACE STATES
+SURFACE REACTIONS
+SORPTIVE PROPERTIES
+EPITAXIAL LAYERS
+IMPURITY STATES

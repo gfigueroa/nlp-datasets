@@ -1,0 +1,9 @@
+Carbon nitride (CNx) thin films were prepared by dc magnetron sputtering of a graphite target in a nitrogen ambient onto Si(100) substrates held at ambient temperatures. The films are amorphous with a small volume fraction of nanocrystallites. All CNx coatings grown to a thickness of 1.5 ¼m are adherent and smooth. Nanoindentation studies showed clear dependence of hardness and effective modulus on deposition process parameters (nitrogen pressure, target power, and substrate bias). Most striking is the observation that CNx films can be synthesized with yield strength exceeding 5 GPa. 	
+
+CARBON NITRIDES
+THIN FILMS
+INDENTATION
+SPUTTERING
+AMORPHOUS STATE
+HARDNESS
+YIELD STRENGTH

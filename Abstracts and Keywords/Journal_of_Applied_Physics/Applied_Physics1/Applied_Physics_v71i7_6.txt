@@ -1,0 +1,14 @@
+This work investigates the formation of preferred crystallographic orientation (PO) in Cr underlayer as well as CoCrTa and CoCrPtTa thin films and its effects on the recording performance of longitudinal media. The results show that the thinfilm media with comparable coercivity but different crystalline PO as measured by xray diffraction exhibit significant difference in highfrequency signal amplitude, pulse width, and signaltonoise ratio. To illustrate the effect of PO on parametric performance, CoCrTa/Cr and CoCrPtTa/Cr media were sputtered on different substrates and/or using special sputtering processes to achieve comparable coercivity but different PO in the films. A PO of Cr(200), which normally occurs on the NiP/Al substrates under adequate sputtering conditions, is found to be the key to obtaining a PO of Co(11.0) in Coalloy media. The consequence of preferred inplane caxis orientation is a higher coercivity and better parametric performance of the medium. The formation of PO in the Cr underlayer is found to be related to the substrate material and the oxygen content in the sputtered films. The nonmetallic canasite substrates tend to promote PO of more stable Cr(110) rather than Cr(200). Consequently, this leads to a PO of outofplane c axis on the following Co films. The PO of magnetic layer appears to be an important factor in determining the parametric performance of the media.
+
+MAGNETIC STORAGE DEVICES
+READOUT SYSTEMS
+THIN FILMS
+CHROMIUM BASE ALLOYS
+COBALT BASE ALLOYS
+TANTALATES
+PLATINUM ALLOYS
+TEXTURE
+SPUTTERED MATERIALS
+COERCIVE FORCE
+QUATERNARY ALLOYS
+MULTIELEMENT ALLOYS

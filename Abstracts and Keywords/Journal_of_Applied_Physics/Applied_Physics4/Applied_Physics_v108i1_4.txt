@@ -1,0 +1,9 @@
+The emission energy dependence of the photoluminescence (PL) decay rate at room temperature has been studied in Si nanoclusters (Si-ncl) embedded in Si oxide matrices obtained by thermal annealing of substoichiometric Si oxide layers SiyO1y, y = (0.36,0.39,0.42), at various annealing temperatures (Ta) and gas atmospheres. Raman scattering measurements give evidence for the formation of amorphous Si-ncl at Ta = 900	°C and of crystalline Si-ncl for Ta = 1000	°C and 1100	°C. For Ta = 1100	°C, the energy dispersion of the PL decay rate does not depend on sample fabrication conditions and follows previously reported behavior. For lower Ta, the rate becomes dependent on fabrication conditions and less energy dispersive. The effects are attributed to exciton localization and decoherence leading to the suppression of quantum confinement and the enhancement of nonradiative recombination in disordered and amorphous Si-ncl.
+
+annealing
+elemental semiconductors
+excitons
+nanostructured materials
+photoluminescence
+Raman spectra
+silicon

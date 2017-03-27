@@ -1,0 +1,9 @@
+Electrical properties of Schottky diodes fabricated by vacuum evaporation of Al on the surface of semi-insulating p-like CdTe single crystals have been investigated. The current-voltage characteristics (CVCs) of the diodes have an unconventional pattern which is manifested in the absence of rectification at both low forward bias voltages (&lt;5V) and reverse bias in a wide range of voltages. The linear behavior of CVC is shown to be caused by a very high resistance of the CdTe substrate. In order to exclude an influence of the substrate and obtain the real CVC of the Al/CdTe contacts, the samples were illuminated with low absorption light. A sharp increase in the forward current at higher voltages (&gt;5V) is associated with the injection of minority carriers into the bulk of the crystals.
+
+aluminium
+wide band gap semiconductors
+cadmium compounds
+II-VI semiconductors
+Schottky diodes
+electrical resistivity
+rectification

@@ -1,0 +1,9 @@
+We have measured the photoreflectance spectrum at 300 K from an AlInAs/GaInAs (lattice matched to InP) heterojunction bipolar transistor structure with a chirped superlattice (ChSl) grown by molecular-beam epitaxy. From the observed FranzKeldysh oscillations we have evaluated the built-in dc electric fields and associated doping levels in the n-GaInAs collector and n-AlInAs emitter regions. The oscillatory signal originating from the ChSl is caused both by the uniform quasielectric and nonuniform space-charge fields in this region. © 2001 American Institute of Physics. 
+
+aluminium compounds
+indium compounds
+gallium arsenide
+III-V semiconductors
+heterojunction bipolar transistors
+photoreflectance
+space charge

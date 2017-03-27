@@ -1,0 +1,10 @@
+Observations on kink bands in lamellar diblock copolymers (SEP 4070), caused by unidirectional or oscillatory shear strain, are interpreted in terms of the low-energy structure (LES) hypothesis, to wit: In a material subject to mechanical stresses, that structure will be approached which has the lowest free energy among all structures which are in equilibrium with the tractions and are accessible to the system. This is the generalization of the low-energy dislocation structure (LEDS) hypothesis applicable to dislocation structures in crystalline materials. In agreement with the LES hypothesis, moderate fatigue cycling of initially disordered material establishes an order such that the plane of the lamellae is parallel to the plane of shear stress application, being the orientation of lowest shear modulus and, hence, for fixed fatigue amplitude, of lowest strain energy. At fatigue strain amplitudes above about 40% the material develops kink bands on account of the compressive stress along the body diagonal of the samples. The geometry of these kink bands shows that the plane parallel to the lamellae serves as preferred slip plane with the lowest resistance against sliding among all possible directions. Also the kink band morphology conforms with the LES hypothesis. Specifically, on average the ratio of kink band length (L) to the square of kink band width (W), i.e., L/W2, is nearly constant as expected from the minimization of kink band boundary energy and the elastic strain energy on account of the strain discontinuity at the ends of the bands. Subsequent experiments on a different copolymer in a range of temperatures additionally verify the LES hypothesis through establishing that, throughout, large-amplitude cycling causes the lamella orientation of lowest shear modulus. © 1999 American Institute of Physics.
+
+plastic deformation
+kink bands
+polymer blends
+polymer structure
+shear modulus
+fatigue
+dislocation structure
+free energy

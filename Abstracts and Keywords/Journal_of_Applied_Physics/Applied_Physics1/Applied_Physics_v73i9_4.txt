@@ -1,0 +1,12 @@
+The phosphors of alkaliearth sulfides SrS:Eux (x=0.05 and 0.10 mole per mole of SrS), SrSO:Eux (x=0.05), and CaS:Eux (x=0.0005, 0.05, and 0.10) were studied by xray photoelectron spectroscopy. The CaS:Eu phosphors were found to be stabilized against atmospheric water vapor and carbon dioxide by annealing at high temperature for several hours. The S 2p core level shows that the chemical state of sulfur changes abruptly from 2 to +6 between the annealing temperature of 900 and 1100	°C. The Ca core level, on the other hand, does not show much change depending on the annealing temperature. From the Eu 3d corelevel spectra of SrS:Eux and CaS:Eux (x=0.10) phosphors, we confirm that the valence state of Eu in these phosphors is Eu3+.
+
+CALCIUM SULFIDES
+STRONTIUM SULFIDES
+EUROPIUM ADDITIONS
+PHOTOELECTRON SPECTROSCOPY
+X RADIATION
+PHOSPHORS
+CORE LEVELS
+ANNEALING
+TEMPERATURE RANGE 10004000 K
+DOPED MATERIALS

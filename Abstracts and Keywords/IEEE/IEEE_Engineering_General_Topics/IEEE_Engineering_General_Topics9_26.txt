@@ -1,0 +1,13 @@
+This paper presents Amrita Learning, a web-based, multimedia-enabled, Adaptive Assessment and Learning System for schools. Computer-based adaptive assessments aim to use an optimal and individualized assessment path to determine the knowledge level of students. The new goal for adaptive assessment is based on educational outcomes, which describe what learners must be able to do as a result of items studied. Assessment based on outcomes creates the initial roadmap for the educational model, ensuring that students are not learning items that are already mastered. Learners and instructors can accurately determine their areas of strengths and weaknesses, and use this to determine future instruction. This paper explains the underlying principles used in the initial adaptive assessment followed by evaluation that is closely interwoven with learning. An expert module continuously adjusts the content and method of presentation based on the sequence of learner's recent responses and prior knowledge. The system maintains and updates both the individual learner profile and group profiles. Amrita Learning, targeted to school students, is built upon the principles of spiral learning with mixed presentation from multiple skill areas, thus providing continuous reinforcement in all skill-areas. The proposed competency model has been pilot tested in both city and rural area schools. In the majority of cases where students used it consistently, there were quantifiable improvements in learning levels and performance in schools. Summaries of the results and recommendations are included in this paper.
+
+Adaptive Learning
+Assessment
+Continuous Evaluation
+Flash Animations
+ICT
+Intelligent Tutoring Systems Spiral Learning
+Interactive
+Mastery Learning
+Mixed Presentation
+individualised instruction
+special needs

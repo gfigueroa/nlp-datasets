@@ -1,0 +1,13 @@
+The initial growth of GaAs films on a Si/porous Si/Si (SPS) substrate has been investigated using reflection high-energy electron diffraction. The morphology and the thickness have been examined by a Nomarski optical microscope and scanning electron microscope, respectively. The results of the low temperature photoluminescence studies have shown that a significant reduction in the residual thermal tensile stress can be achieved with reduced growth temperature. The 77 K photoluminescence spectra for GaAs/Si show a strain-induced splitting between the heavy and light hole valence bands which corresponds to a biaxial tensile stress of 2.45 kbar acting on the GaAs layer where the same for GaAs/SPS grown at 450
+°C is 1.69 kbar. The results have shown that a SPS substrate with the combination of low temperature growth is a promising candidate for obtaining GaAs films with low stress. © 2001 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+semiconductor epitaxial layers
+semiconductor growth
+chemical beam epitaxial growth
+reflection high energy electron diffraction
+photoluminescence
+valence bands
+optical microscopy
+scanning electron microscopy

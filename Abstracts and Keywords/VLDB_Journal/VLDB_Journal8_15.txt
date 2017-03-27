@@ -1,0 +1,7 @@
+To provide high accessibility of continuous-media (CM) data, CM servers generally stripe data across multiple disks. Currently, the most widely used striping scheme for CM data is round-robin permutation (RRP). Unfortunately, when RRP is applied to variable-bit-rate (VBR) CM data, load imbalance across multiple disks occurs, thereby reducing overall system performance. In this paper, the performance of a VBR CM server with RRP is analyzed. In addition, we propose an efficient striping scheme called constant time permutation (CTP), which takes the VBR characteristic into account and obtains a more balanced load than RRP. Analytic models of both RRP and CTP are presented, and the models are verified via trace-driven simulations. Analysis and simulation results show that CTP can substantially increase the number of clients supported, though it might introduce a few seconds/minutes of initial delay.
+
+Continuous-media server
+Data placement
+Load balancing
+Striping
+Video-on-demand (VOD)

@@ -1,0 +1,13 @@
+The effects of the Si/(Si+C) ratio in the reaction gas stream on the growth and properties of monocrystalline ²SiC films grown on Si(100) substrates via chemical vapor deposition have been theoretically and experimentally studied. The amounts of condensed phases of ²SiC and Si, and the partial pressures of the remaining Si and Ccontaining gases as a function of the Si/(Si+C) ratio in the source gases have been initially obtained from thermodynamic calculations using the solgasmixpv computer program. Complementary and comparative experimental growth studies have shown that inclusionfree films having maximum values in growth rate and carrier concentration and a minimum value of resistivity were obtained near Si/(Si+C)=0.5.
+
+SILICON CARBIDES
+CHEMICAL VAPOR DEPOSITION
+FILM GROWTH
+CARRIER DENSITY
+ELECTRIC CONDUCTIVITY
+S CODES
+THERMODYNAMICS
+CHEMICAL COMPOSITION
+VAPOR DEPOSITED COATINGS
+SILICON
+ELECTRICAL PROPERTIES

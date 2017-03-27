@@ -1,0 +1,6 @@
+Rock fracturing using electrically produced shocks in water is emerging as an environment-friendly substitute for fracturing by explosives. This involves producing underwater pressure waves or shocks of the desired intensity in a water-filled cavity drilled in the rock. We have numerically studied different options in an attempt to minimize the electrical energy consumption in this process, given a desired final pressure in the cavity. The first option is to follow different thermodynamic paths, e.g., isentropic and single shock, from the initial to the final pressure of water. It is found that isentropic compression allows a reduction of 23 times in energy input as compared to compression by a single shock. The second option is to replace water by other fluids. It has been found that the use of aqueous solutions at high electrolyte concentrations can reduce the energy consumption by over 30%. © 2001 American Institute of Physics. 
+
+shock wave effects
+mining
+water
+rocks

@@ -1,0 +1,10 @@
+The continuum theory, previously developed to quantitatively account for the large deformations observed in gels endowed with electric properties, is extended to magnetic field sensitive gels (ferromagnetic or diamagnetic in origin). The derived analytical formula for the dependence of the gel displacement on the magnetic field can be applied either to control recently developed biomimetic valves and possible artificial muscles constructions or to interpret similar phenomena in biophysics. © 2003 American Institute of Physics. 
+
+gels
+magnetic fluids
+magnetoelastic effects
+elastic deformation
+biomimetics
+biomedical materials
+Young's modulus
+biomagnetism

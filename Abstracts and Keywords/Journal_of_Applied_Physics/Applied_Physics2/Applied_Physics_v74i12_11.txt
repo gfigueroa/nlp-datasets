@@ -1,0 +1,11 @@
+Onedimensionalimaging laserinduced fluorescence spectroscopy (1DLIF) has been applied to investigate the dynamics of the nonemissive neutral particles (YO molecules) during the ArF excimer laser ablation of YBa2Cu3O7´ in an ambient oxygen gas. Investigating the 1DLIF observation, the propagation of particles through the ambient gas at appropriately high pressures is categorized into two phases, the propagation phase and the diffusion phase. In the propagation phase, the point source blast wave model (shock model) describes well the dynamics at high background gas pressures. Particles propagate according to the shock model over a finite distance from the pellet surface after the ablation, and almost stop there. The propagation distance depends on the ambient gas pressure and the ablation fluence. After the propagation ceases, the particles start to diffuse through the background gas; that is the diffusion phase. Rotational temperature variations of YO molecules in the different phases are also measured. Rotational temperatures as high as 1000 K are observed even in the diffusion phase.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+LASER RADIATION
+ABLATION
+PARTICLE FLUX
+FLUORESCENCE SPECTROSCOPY
+HIGHTC SUPERCONDUCTORS

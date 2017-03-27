@@ -1,0 +1,5 @@
+In this paper, repetitive control is employed to design the current controller of active power filter for reducing the steady-state error due to periodic command. Zero steady-state error for current control is realized. Discussions on the design of the current and voltage control loops are given. Simulation results verified the feasibility of the proposed method.
+
+Photovoltaic generation
+Zero steady-state error
+repetitive controller

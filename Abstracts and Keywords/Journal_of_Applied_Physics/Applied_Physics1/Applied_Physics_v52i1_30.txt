@@ -1,0 +1,17 @@
+A new technique for doping GaAs with Sn from a spinon SnO2/SiO2 source is described. Sn is first introduced in the GaAs substrate by a slow thermal ramp. Subsequent diffusion and activation of Sn is accomplished with a cw scanning laser. Results for laser power below and above the melting power of the substrate are presented. Transmission electron microscopy and electron diffraction patterns indicate that a chemical reaction involving the formation of a tinarsenide compound occurs during the diffusion process.
+
+SEMICONDUCTOR MATERIALS
+DIFFUSION
+ACTIVATION
+TIN
+TIN OXIDES
+SILICON OXIDES
+LASERS
+DOPED MATERIALS
+SUBSTRATES
+OPTICAL SCANNERS
+MELTING
+TRANSMISSION ELECTRON MICROSCOPY
+ELECTRON DIFFRACTION
+CHEMICAL REACTIONS
+TIN ARSENIDES

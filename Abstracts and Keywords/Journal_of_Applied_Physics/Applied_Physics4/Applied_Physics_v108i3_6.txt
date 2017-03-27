@@ -1,0 +1,14 @@
+Predicting the domain structures and properties in both bulk single crystal and thin film ferroelectrics using the phase-field approach requires the knowledge of fundamental mechanical, electrical, and electromechanical coupling properties of a single-domain state. In this work, the elastic properties and structural parameters of cubic single crystals as well as tetragonal, orthorhombic, and rhombohedral BaTiO3 single domain states are obtained using first-principles calculations under the local density approximation. The calculated lattice constants, bulk modulus, and elastic constants are in good agreement with experiments for both the cubic paraelectric phase and the low-temperature ferroelectric phases. Spontaneous polarizations for all three ferroelectric phases and the electrostrictive coefficients of cubic BaTiO3 are also computed using the Berrys phase approach, and the results agree well with existing experimentally measured values.
+
+ab initio calculations
+barium compounds
+Berry phase
+density functional theory
+dielectric polarisation
+elastic constants
+elastic moduli
+elasticity
+electric domains
+electrostriction
+ferroelectric materials
+lattice constants

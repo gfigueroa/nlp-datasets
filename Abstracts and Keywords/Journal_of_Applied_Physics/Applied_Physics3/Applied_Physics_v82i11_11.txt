@@ -1,0 +1,14 @@
+The aging phenomena of porous silicon (PS) over a 192 day time span have been studied using photoluminescence (PL) spectroscopy, Fourier transform infrared spectroscopy, and transmission electron microscopy. As-prepared PS exhibits red PL peaking near 650 nm. The PL intensity increases with time to some equilibrium value. The PL peak shows no blueshift during aging. Infrared analysis reveals that the SiO bond content in PS increases with time and correlates to the PL intensity. The PL lifetime increases with aging and its values range from 3 to 37 ¼s. Transmission electron microscopic observations indicate the presence of Si nanoparticles and amorphous substances in the PS layer. These results suggest that the PL from aged PS might be attributed to the combined effects of quantum confinement in Si nanoparticles and some defect in Si oxide covering the nanoparticles. © 1997 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+porous materials
+ageing
+photoluminescence
+Fourier transform spectra
+infrared spectra
+transmission electron microscopy
+radiative lifetimes
+bonds (chemical)
+nanostructured materials
+quantum interference phenomena

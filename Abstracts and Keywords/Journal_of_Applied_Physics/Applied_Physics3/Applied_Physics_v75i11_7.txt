@@ -1,0 +1,11 @@
+Electroluminescence was observed in sandwich structures composed of a thick layer of plasmadeposited hydrogenated carbon and two statistically rough aluminum and indium tin oxide (ITO) electrodes. An indication of the presence of surface plasmons in the emission process is proved by the temperature dependence of the emission efficiency and of the light spectra. Visible light from surface plasmon decay at the ITO surface is due to the formation of a metalenriched layer at the very surface of the ITO film that occurs during the early phase of hydrogenated carbon deposition. The light output was dominated by the radiative decay of surface plasmons excited at the outer metalglass interface of a semitransparent aluminum electrode. Each interface behaved like a probe, sensitive to the low or high energy tail of the electron energy distribution function. 	
+
+SANDWICH STRUCTURES
+ELECTROLUMINESCENCE
+MIM JUNCTIONS
+SURFACE PLASMONS
+ALUMINIUM
+ITO LAYERS
+CARBON
+HYDROGEN ADDITIONS
+VISIBLE RADIATION

@@ -1,0 +1,6 @@
+Nonlinear control strategies of variable speed constant frequency(VSCF) wind power generator systems, especially passivity-based control(PBC) methods, have been a focus in the literature. The main purpose of this paper is to develop a control algorithm that forces the wind driven doubly fed induction generator(DFIG) to track reference flux and speed trajectories with time-varying load torque. To achieve this, an adaptive PBC method based on Euler-Lagrange(EL) system is developed. PBC combined with adaptive control scheme not only reserves the advantages of PBC such as nonexistence of singularity, but also repressed the harmonic current tracking error caused by resistance and inductance variation. This leads to a simple control structure and enhances the robustness of the control system. The reasonability and validity is testified by the experimental results based on dSPACE.
+
+Current estimator
+Doubly fed induction generator(DFIG)
+Euler-Lagrange(EL) system
+Passivity-based control(PBC)

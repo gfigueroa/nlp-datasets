@@ -1,0 +1,8 @@
+A method for measuring the effective birefringence of polymer lightguides is shown to be a useful tool for chemical sensors. It is demonstrated that the method can be either the nonlinear response of an initially anisotropic lightguide on a linear effect of an in-diffusing compound or a stress induced birefringence in an initially isotropic polymer film. The samples used were polyimide for the anisotropic case and the allyl polymer poly(diallylic terephtalic acid) for the isotropic material. © 1997 American Institute of Physics.
+
+optical polymers
+chemical sensors
+mechanical birefringence
+fibre optic sensors
+light interferometers
+nonlinear optics

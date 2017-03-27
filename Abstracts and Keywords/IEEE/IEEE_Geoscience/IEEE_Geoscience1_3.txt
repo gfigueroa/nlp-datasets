@@ -1,0 +1,6 @@
+WebGIS provides key decision support capabilities for disaster and emergency management community. Perspective visualization and simultaneous access to emergency management data are among those capabilities that WebGIS provide in support of informed disaster management decisions-making process. This paper presents a WebGIS application for flood modeling for a section of the Don Valley watershed in Toronto, Canada. Different flooding scenarios under different hypothetical water surface elevations were predicted and a visual model has been published and visualized in a WebGIS environment using GeoServNet (GSN). This paper introduces an interdisciplinary flood modeling approach and investigates its interdisciplinary utility for protecting life and property.
+
+Disaster Management
+Emergency Management
+Flood
+WebGIS

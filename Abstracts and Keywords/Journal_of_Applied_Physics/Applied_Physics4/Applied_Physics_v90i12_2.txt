@@ -1,0 +1,7 @@
+The response of a commercial-grade, single-mode vertical-cavity surface-emitting laser to very strong optical feedback is investigated. With increasing feedback magnitude, the lasing spectrum broadens dramatically, eventually resulting in coherence collapse, and the lasing peak shifts to longer wavelengths. These effects became less severe with the onset of higher-order modes. A theoretical model is provided to explain the redshifting of the lasing spectrum with feedback. © 2001 American Institute of Physics. 
+
+surface emitting lasers
+laser feedback
+laser modes
+red shift
+light coherence

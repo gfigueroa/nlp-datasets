@@ -1,0 +1,6 @@
+This paper presents the analysis of leakage current characteristics of outdoor polymer insulator due to pollution under wet conditions. In this work, laboratory based pollution performance tests were carried out on 11kv silicon rubber polymer insulator under AC voltage at different pollution levels with sodium chloride as a contaminant. Leakage current waveforms during the experimental studies were measured. Normally FFT spectrum estimation method used to find the harmonic spectrum in the leakage currents. But this method suffers from the major problem of resolution. So in this paper a higher order spectrum estimation method (Min-Norm) employed to understand the frequency domain characteristics of the leakage current signal. The results of the harmonic spectrum shows that has a good resolution than FFT spectrum and Reported results of this preliminary study on 11kv silicon rubber insulator shows that development of flashover due to pollution could be easily identified from the analysis of harmonic contents of leakage current signal.
+
+Leakage current
+Min-Norm method
+Silicon-rubber insulator
+wet pollution

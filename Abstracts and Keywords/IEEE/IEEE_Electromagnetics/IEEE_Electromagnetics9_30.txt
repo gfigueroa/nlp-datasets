@@ -1,0 +1,6 @@
+High temperature superconducting (HTS) inductive energy charging and discharging characteristics have been theoretically analyzed, with detailed calculation and Matlab-based simulation models presented. Simulation results show the feasibility of the UPS applications using superconducting magnetic energy storage (SMES) technology with substantial advantages.
+
+HTS
+SMES
+UPS
+energy release

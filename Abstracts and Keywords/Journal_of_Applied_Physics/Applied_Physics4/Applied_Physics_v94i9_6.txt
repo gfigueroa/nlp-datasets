@@ -1,0 +1,10 @@
+The electrical and optical properties of luminescent films from poly(p-phenylene vinylene) (PPV) and poly(o-methoxyaniline) (POMA) produced via the layer-by-layer technique are reported. POMA layers were obtained in a nonself-limiting process from its emeraldine salt. PPV was thermally converted from the precursor poly(xylylidene tetrahydrothiophenium chloride) with sodium dodecylbenzenesulfonate (DBS) at low temperatures of <110
+°C and short times (<30	min). The line shape of absorbance and photoluminescence (PL) is not affected with the PPV conversion reaction. High thermal stability of PPV was observed, with the integrated PL decreasing only 10% when the temperature was increased from 10 to 300 K. This decrease was accompanied by a small blue shift of 5 nm in the zero-phonon peak and a low electronphonon coupling with a HuangRhys factor S&lt;1 in the vibration spectral region. The combination of POMA and indiumtinoxide (ITO) as transparent electrode and PPV+DBS as active layer (ITO/POMA/PPV+DBS/Al) leads to a decrease of 70% in the operating voltage compared with the conventional polymer light emitting-diode ITO/PPV/Al, which means that the POMA layer plays a protective role for the ITO electrode. Furthermore, the POMA layer has its electrical characteristics preserved at high temperatures, with the assistance of a codoping process from acid diffusion from the PPV/DBS layers. © 2003 American Institute of Physics. 
+
+polymer films
+photoluminescence
+electrical resistivity
+spectral line breadth
+thermal stability
+electron-phonon interactions
+organic semiconductors

@@ -1,0 +1,11 @@
+Light-emitting devices based on ruthenium(II)(4,7-diphenyl-1,10-phenanthroline)3 ([Ru(dphphen)3]2+) as emitter have been fabricated. The effect of an electron transport layer of tris-(8-hydroxyquinoline) aluminum (Alq3) on device performance has been investigated. The emission, peaking at 630 nm, for the indiumtinoxide (ITO)glass/[Ru(dphphen)3]2+/Ag device reaches maximum luminance after about 15 min at a turn on voltage of 2.5 V. The use of an ITO/[Ru(dphphen)3]2+/Alq3/Ag device reduces this response time to about 120 s at a turn on voltage of 7 V. A maximum brightness of 1300 cd/m2 can be obtained at 15 V within 2 s, with a luminous efficiency of 0.27 cd/A. Based on the charge transporting characteristics of [Ru(dphphen)3]2+ and Alq3 films determined by surface photovoltage spectroscopy, the improved device response time and efficiency are attributed to the enhanced electron injection at [Ru(dphphen)3]2+/Alq3 interface. © 2003 American Institute of Physics. 
+
+ruthenium compounds
+organic semiconductors
+light emitting devices
+aluminium compounds
+indium compounds
+tin compounds
+photoconductivity
+electroluminescence
+photoluminescence

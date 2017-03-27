@@ -1,0 +1,8 @@
+Superconducting three-Josephson-junction flux qubits (3JFQB) are possible candidates for the basic elements of a (future) scalable quantum computer. An important design parameter is the capacitance of their Josephson junctions. We estimate the capacitance per junction area (specific capacitance) of junctions typically used in 3JFQBs, i.e., of Al/AlOx/Al junctions with 510 Å thick oxide layers. The capacitance is obtained by analyzing resonant voltage steps in the currentvoltage characteristics of specifically designed dc superconducting quantum interference devices (SQUIDs). The junction area is deduced from scanning electron microscope images. We find that the specific capacitance of our junctions is Cs=100±25	fF/¼m2. Finally we compare this result to capacitance estimates obtained with 3JFQB microwave spectroscopy and find that the SQUID resonance method provides a much higher accuracy. © 2004 American Institute of Physics. 
+
+aluminium
+aluminium compounds
+SQUIDs
+Josephson effect
+scanning electron microscopy
+capacitance

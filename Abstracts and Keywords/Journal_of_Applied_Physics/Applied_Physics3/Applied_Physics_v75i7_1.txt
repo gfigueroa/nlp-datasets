@@ -1,0 +1,10 @@
+Resonant polaron effects on donor metastable states in nGaAs have been studied using far infrared Fourier transform magnetospectroscopy in the 100 350 cm1 region. From the observed splitting and pinning effects, absolute values for the matrix elements of the electronphonon interaction between the 3,1,0	0	 and 4,1,0	0	 states on the one hand, and the 1s0	1	 and 2p1	1	 states on the other hand are deduced. The energy splitting at resonance appear to be about a factor of two smaller than those for the corresponding Landau levels, and to depend less strongly on the quantum number N.
+
+GALLIUM ARSENIDES
+IMPURITIES
+METASTABLE STATES
+POLARONS
+INFRARED SPECTRA
+ELECTRONPHONON COUPLING
+ENERGYLEVEL SPLITTING
+LANDAU LEVELS

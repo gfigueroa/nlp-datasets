@@ -1,0 +1,11 @@
+Using the scanning electron microscope we have investigated the physical parameters determining the size effect of various dielectric samples submitted to a surface electric field. It is shown that the size effect is a function of the static permittivity and of the space charge distribution. The results are explained by the consideration of charge diffusion and polarization relaxation processes resulting from the space charge formation. A onedimensional mathematical model has also been used to describe space charge distribution. The findings were consistent with the experimental observations.
+
+DIELECTRIC MATERIALS
+SIZE EFFECT
+SEM
+ELECTRIC FIELD EFFECTS
+PERMITTIVITY
+SPACE CHARGE
+RELAXATION
+POLARIZATION
+MATHEMATICAL MODELS

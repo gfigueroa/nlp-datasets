@@ -1,0 +1,11 @@
+Temporal developments of the photoluminescence (PL) intensity at temperatures of 7, 100, and 294 K are analyzed using the rate equations including the exciton dissociation and association terms for an Al0.53In0.47P/Ga0.52In0.48P/Al0.53In0.47P-quantum well structure. At 7 K, the nonexponential time dependence of the PL intensity is caused by the exciton dissociation process. At 7 and 100 K, PL intensity is dominated by the exciton recombination even if the exciton density is smaller than the dissociated carrier density. The thermally excited background carriers affect the recombination processes at 100 and 294 K. At 294 K, the rise part of the PL intensity is dominated by the exciton recombination, though the dissociated carrier density dominates. © 2001 American Institute of Physics. 
+
+aluminium compounds
+indium compounds
+gallium compounds
+III-V semiconductors
+semiconductor quantum wells
+semiconductor epitaxial layers
+photoluminescence
+time resolved spectra
+excitons

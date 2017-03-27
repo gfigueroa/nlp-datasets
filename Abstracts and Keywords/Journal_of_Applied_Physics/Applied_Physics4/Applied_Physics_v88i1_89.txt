@@ -1,0 +1,11 @@
+The strain distribution and strain-induced confinement of carriers in Si/SiO2 quantum wires (QWRs) and quantum point contacts (QPCs) have been analyzed by elastic continuum and envelope wave function models. Recently, a compressive strain up to 1% has been predicted to exist in the thermally oxidized SiO2 surrounding the Si waveguide. We show that 1% radial strain in the thermal oxide leads to lowering of the band edge inside the Si wire and to confinement of electrons in a quantum-dot-like potential having a depth of <40 meV. The binding energy of the lowest electron level is 34 meV in a 240 nm long and 60 nm high QWR. The lowest energy level rises above the band edge in the contact pads when the QWR is made narrower than 12 nm. For the QPC, no bound states exist according to our calculations. © 2000 American Institute of Physics. 
+
+semiconductor quantum wires
+quantum point contacts
+silicon-on-insulator
+binding energy
+oxidation
+buried layers
+effective mass
+finite element analysis
+conduction bands

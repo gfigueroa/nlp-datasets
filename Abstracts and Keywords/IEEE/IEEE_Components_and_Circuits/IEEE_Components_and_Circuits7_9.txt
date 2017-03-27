@@ -1,0 +1,6 @@
+In this paper, we demonstrate novel type of free-space optical links. It is a contrived idea but has a great potential for realization. The links may be exploited to exchange information in free-space.
+
+Free-space optical links
+optical communication
+phase singularity
+spectral switching

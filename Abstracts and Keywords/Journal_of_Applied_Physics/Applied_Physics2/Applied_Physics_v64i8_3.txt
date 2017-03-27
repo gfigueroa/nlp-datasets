@@ -1,0 +1,11 @@
+Farinfrared absorption coefficients of silicon crystals grown by the Czochralski method (CZ) and by the floatingzone method (FZ) in the range of 20200 cm1 were obtained from transmission measurements at two different thicknesses, allowing for the effect of the multiple internal reflection. The CZ and FZ specimens used were not intentionally doped and had dc resistivities of 9.4±0.3 ©	cm and (5±2)×104 ©	cm, respectively. The impurityinduced absorption of the CZ crystal is well explained by the Drude model, while the FZ crystal showed only a weak absorption which is attributed to a wing of the intrinsic lattice band of silicon.
+
+SILICON
+ABSORPTIVITY
+IMPURITIES
+CZOCHRALSKI METHOD
+OPACITY
+INFRARED SPECTRA
+THICKNESS
+INTERNAL REFLECTION
+FAR INFRARED RADIATION

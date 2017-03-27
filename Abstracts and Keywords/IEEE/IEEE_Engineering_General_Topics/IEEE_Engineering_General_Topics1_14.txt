@@ -1,0 +1,5 @@
+The problem of uncertainty representation and propagation in the context of statistically correlated variables is commonly addressed by means of Monte Carlo simulation as recommended in IEC-ISO Guide. Moreover, in a recent literature, fuzzy sets have proved to be a valid alternative in the case of independent variables. Unfortunately, the problem of modelling statistically correlated variables, by means of fuzzy sets, is still an open problem. Since it is well known that T-norms are the natural way of combining fuzzy variables into a nonfuzzy function f, in this paper, we investigate how to generalize the class of T-norms, making it dependent from correlation coefficient in order to emulate different statistical correlation degree among variables. In order to validate the model a comparison with central limit theorem will be accomplished in the case of zero correlation while a practical example will be provided in order to compare the proposed method with Montecarlo simulation and with that obtained by uncertainty propagation described in IEC-ISO Guide.
+
+T-norm
+Uncertainty representation
+fuzzy variables

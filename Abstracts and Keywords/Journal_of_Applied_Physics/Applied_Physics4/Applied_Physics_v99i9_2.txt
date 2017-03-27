@@ -1,0 +1,6 @@
+The linear and nonlinear changes in the refractive index of a Pöschl-Teller quantum well are studied. The Pöschl-Teller potential can easily become asymmetric by a correct choice of its parameter set. We use this feature to investigate the intensity-dependent refractive index of a GaAs quantum well within the density matrix formalism. Numerical results reveal large values of linear and nonlinear changes in the refractive index.
+
+refractive index
+semiconductor quantum wells
+gallium arsenide
+III-V semiconductors

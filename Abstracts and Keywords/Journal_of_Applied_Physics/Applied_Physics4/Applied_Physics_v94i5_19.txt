@@ -1,0 +1,14 @@
+We have studied the contact formation on CdTe surfaces following the technologically applied procedure. The electronic properties of wet chemically etched CdTe surfaces has been investigated with photoelectron spectroscopy. For the characterization of the morphology, structure, and elemental distribution in the etched layer atomic force microscopy, scanning electron microscopy, grazing incidence x-ray diffraction, and secondary ion mass spectroscopy have been used. Etching of the samples has been performed in air and in an electrochemistry chamber directly attached to the UHV system. In both cases the formation of an elemental polycrystalline Te layer with a thickness of about 80
+Å is detected. For comparison, a thin Te layer has been deposited by physical vapor deposition onto a CdTe substrate. We determine a valence-band offset of ”EVB=0.5±0.1
+eV, independent of the preparation of the interface. © 2003 American Institute of Physics. 
+
+II-VI semiconductors
+cadmium compounds
+etching
+photoelectron spectra
+atomic force microscopy
+scanning electron microscopy
+X-ray diffraction
+secondary ion mass spectra
+valence bands
+surface morphology

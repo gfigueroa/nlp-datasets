@@ -1,0 +1,10 @@
+The magneto-Seebeck coefficient and magnetoresistivity of a polycrystalline bismuth microwire array were measured under magnetic fields of 02T and at temperatures of 50300K. To avoid the influence of contact resistance between the wire array and the electrodes, bulk bismuth was used for the electrodes. In the absence of a magnetic field, the Seebeck coefficient and resistivity were 76¼V/K and 1.8¼©	m at 300K, respectively. The magneto-Seebeck coefficient for the wire array increased with the application of an external magnetic field, attributable to the precise control of impurities and carrier scattering process in the fabrication of the wire array. The phonon drag effect was observed below 100K, with a corresponding increase in the magneto-Seebeck coefficient under high magnetic fields. However, the magnetoresistivity was also raised under higher magnetic fields, detracting from the thermoelectric properties. Through analysis of the power factor, the optimum magnetic field was determined for each temperature, revealing a trend for the optimum magnetic field to increase with temperature. The power factor was improved by a maximum factor of 1.12, achieved at 200K and 0.25T. Further improvements appear to be possible by eliminating the bulk bismuth employed for the electrodes.
+
+bismuth
+Seebeck effect
+magnetoresistance
+magnetocaloric effects
+electrodes
+impurity scattering
+power factor
+phonon drag

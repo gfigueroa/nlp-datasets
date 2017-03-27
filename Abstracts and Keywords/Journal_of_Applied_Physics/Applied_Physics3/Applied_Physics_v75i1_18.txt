@@ -1,0 +1,12 @@
+A direct comparison between ion implantation and ionbeammixing experiments for the formation of an amorphous phase in metals is provided. The system investigated is NiZr and the technique used to monitor amorphization is Rutherford backscattering and channeling. It is demonstrated that the crystallinetoamorphous phase transformation results from the introduction of a threshold concentration of foreign atoms into the surface layer of the bombarded target in both cases. However the onset and spatial development of the amorphization process are shown to strongly depend on the type of experiments performed.
+
+ION IMPLANTATION
+AMORPHIZATION
+METALS
+COMPARATIVE EVALUATIONS
+NICKEL ALLOYS
+ZIRCONIUM ALLOYS
+BINARY ALLOYS
+RBS
+ION CHANNELING
+MIXING

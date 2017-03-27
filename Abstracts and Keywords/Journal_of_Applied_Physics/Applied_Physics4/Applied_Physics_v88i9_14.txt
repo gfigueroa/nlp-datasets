@@ -1,0 +1,22 @@
+We have recently shown [P. N. K. Deenapanray et al., Appl. Phys. Lett. 77, 626 (2000)] that four electron traps S1(Ec0.23
+eV), S2(Ec0.46
+eV), S3(Ec0.72
+eV), and S4(Ec0.74
+eV) are introduced in rapid thermally-annealed (RTA) SiO2-capped n-type GaAs epitaxial layers. In the present study, we have used deep level transient spectroscopy to investigate the electronic and annealing properties of these deep levels. The electron emission kinetics of S1 is enhanced by an electric field, and the activation energy of S1 decreases linearly from <233 to <199 meV when the field is increased from 7.5×104 to 13.4×104
+V
+cm1. The intensities of S1, S2, and S4 show Arrhenius-like dependencies on the RTA temperature, which relate to the outdiffusion of Ga atoms into the SiO2 layer. The intensity of S2(VGaSiGa) also increases exponentially with the square of the annealing time for RTA at 800
+°C. Isochronal annealing experiments show that S1 and S2 are thermally stable below 500 and 400
+°C, respectively. S4, which is a member of the EL2 family, is stable up to 600
+°C. Secondary defects are introduced during isochronal annealing above 400
+°C, and some of these defects are thermally stable at 600
+°C. © 2000 American Institute of Physics. 
+
+silicon compounds
+gallium arsenide
+III-V semiconductors
+semiconductor-insulator boundaries
+electron traps
+semiconductor epitaxial layers
+deep level transient spectroscopy
+rapid thermal annealing
+insulating thin films

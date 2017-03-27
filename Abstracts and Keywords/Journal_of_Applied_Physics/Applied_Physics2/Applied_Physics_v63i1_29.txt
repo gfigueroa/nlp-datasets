@@ -1,0 +1,16 @@
+The formation of PtSi is studied in the presence of W and Al using the Al/W/Pt/Si structure, with 1000Å W acting as the barrier layer. The PtSi layer formed stays intact at 400	°C, starts to react with Al around 450	°C, and is completely converted to PtAl2 at 500	°C, with the released Si migrating to the surface. In contrast, using the W/Pt/Si structure without an Al layer, the PtSi formed remains little changed up to about 600	°C. The WPt interface of the binary W/Pt structure shows no interaction up to at least 600	°C. The results are compared with those using the Al/Pt/Si structure, and their relation to contact metallurgies is discussed.
+
+PLATINUM SILICIDES
+TUNGSTEN
+ALUMINIUM
+SILICON
+DIFFUSION BARRIERS
+PLATINUM
+SURFACE REACTIONS
+SYNTHESIS
+DIFFUSION
+ATOM TRANSPORT
+FILM GROWTH
+PLATINUM COMPOUNDS
+ALUMINIUM COMPOUNDS
+VERY HIGH TEMPERATURE

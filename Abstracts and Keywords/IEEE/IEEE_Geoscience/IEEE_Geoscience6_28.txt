@@ -1,0 +1,5 @@
+This paper based on the results of the data, which are selected from villa topographic data and pre-processed. The paper includes the cluster of spatial location and the calculation of villa area parameters. The idea of cluster in data mining is adopted to analyze the results of pre-process. The cluster finished the transform from continuous region to continuous area through discretization. Small grids discretized and scattered are polymerized to big area in accordance with the relationship of spatial location based on spatial location of matrix.
+
+cluster
+data mining
+spatial location of matrix

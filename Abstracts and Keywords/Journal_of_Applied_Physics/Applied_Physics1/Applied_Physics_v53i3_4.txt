@@ -1,0 +1,15 @@
+Groundstate dissociative attachment rates in HCl and Cl2 are obtained in the electron energy ranges from 0.7 to 5 eV. The results are compared with previous crosssection data convoluted with Boltzmanncode calculations for the electron energy distribution.
+
+HYDROCHLORIC ACID
+CHLORINE
+DISSOCIATION
+GROUND STATES
+GAS LASERS
+ELECTRON TEMPERATURE
+EV RANGE
+COMPARATIVE EVALUATIONS
+CROSS SECTIONS
+BOLTZMANN EQUATION
+COMPUTER CODES
+ENERGY SPECTRA
+MATHEMATICAL MODELS

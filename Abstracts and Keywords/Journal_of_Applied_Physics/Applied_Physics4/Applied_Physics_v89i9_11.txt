@@ -1,0 +1,10 @@
+Atomic force microscope observations have revealed the presence of permanent lattice and molecular distortions in molecular crystals that had undergone plastic deformation by shock or impact. These distortions have led to the suggestion of a deformed lattice potential. Here, the deformed lattice potential is extended to the case of severe plastic deformation in which the lattice softens and may eventually fail. This generalized lattice potential has been incorporated into descriptions of plastic flow and the associated energy dissipation due to dislocation motion by quantum tunneling. The resultant predictions are compared with experiments in which molecular crystals were subjected to severe plastic deformation during impact. © 2001 American Institute of Physics.
+
+plastic deformation
+plastic flow
+dislocation motion
+failure (mechanical)
+atomic force microscopy
+shock wave effects
+impact (mechanical)
+potential energy functions

@@ -1,0 +1,6 @@
+The light pulsing technique was used for detecting the pyroelectricity of poled nonlinear optical polymer. We provided a simple experiment setup and an analytical model for theoretical analysis. Based on the results of our experiment, according to a model that was given in this study, we have calculated the temperature field distribution in the sample caused by the flash lamp irradiation in the polymer by means of numerical analysis, and further, the pyroelectric signal response was obtained. The model could be used for precisely investigating the response from a finite duration of light pulse. This numerical analytical method applied to the thermal pulse method yields unique relations between the time-dependent pyroelectric response and time-dependent temperature distribution for a thin nonlinear optical polymer film. The experimental results compared quite favorably with theoretical analysis. © 2000 American Institute of Physics. 
+
+optical polymers
+nonlinear optics
+pyroelectricity
+dielectric polarisation

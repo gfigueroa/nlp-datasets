@@ -1,0 +1,16 @@
+The electroabsorption (EA) of CdS0.1Se0.9 nanocrystals was measured under pulse-like modulated fields and recovered both with similar frequency (1f
+) and with double frequency (2
+f
+) of the applied field. The EA properties and the effects of applied field form and recovered frequency on the EA properties were studied. Electric field induced strong change of absorption (103) was observed in resonant and nonresonant regions. The EA signal in the resonant region was due to the quantum confined Stark effects and the signal in the nonresonant region was due to the change of local field that resulted in the change of refractive index, the change of absorption. The quadratic dependence of EA signal intensity on the electric fields indicated that the nanocrystals had third nonlinear optical susceptibility. The EA signal intensity measured with 1f mode was about ten times of that measured with 2
+f mode. Perhaps the lower response measured with 2
+f mode was due to the measured mode and the different response coefficient in different frequency regions. © 2000 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+nanostructured materials
+electroabsorption
+quantum confined Stark effect
+refractive index
+nonlinear optical susceptibility
+spectral line intensity
+electro-optical modulation

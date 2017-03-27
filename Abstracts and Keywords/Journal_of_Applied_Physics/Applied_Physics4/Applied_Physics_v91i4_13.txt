@@ -1,0 +1,13 @@
+BaTiO3 (BTO)/SrTiO3 (STO), and BaTiO3/BaZrO3 (BZO) artificial superlattices were fabricated by the molecular beam epitaxy process and their dielectric properties and refractive indices were measured. Superlattices formed on Nb-doped STO substrates showed large leakage currents in comparison with those on pure STO substrates. This indicated that Nb-doped substrates were not suitable for bottom electrodes in dielectric measurements. Dielectric properties were therefore measured for films on pure STO substrates using planar interdigital electrodes. Superlattice films were so thin (32 nm) that fine planer electrodes were necessary to reduce the penetration of electric flux into the substrate. Interdigital electrodes with the interdigital width of 5 ¼m were formed by electron beam lithography. Dielectric permittivity of superlattices was determined from admittance data using an electromagnetic field analysis. It was found that the dielectric permittivities of [(BTO)10/(STO)10]4 and [(BTO)10/(BZO)10]4 were µr=720
+000 and µr=330
+000, respectively. A large Debye type dielectric dispersion was observed in the [(BTO)10/(BZO)10]4 superlattice. The refractive index of the superlattices was measured by spectroscopic ellipsometry. It was found that the refractive index of the superlattices changed with their structures and those of [(BTO)10/(STO)10]4 and [(BTO)10/(BZO)10]4 superlattices were larger than other superlattices. This indicated that the superlattice structure affected not only on the ionic polarization but also the electronic structure or chemical bonding nature of the superlattices. © 2002 American Institute of Physics. 
+
+strontium compounds
+barium compounds
+superlattices
+epitaxial layers
+permittivity
+refractive index
+ellipsometry
+leakage currents
+dielectric thin films

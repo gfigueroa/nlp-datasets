@@ -1,0 +1,8 @@
+Reliability of distribution systems is an important issue in power engineering for both utilities and customers. Power distribution reliability is closely related to individual component reliability. In this paper, the reliability as measured by certain count indices, mainly the System Average Interruption Duration Index (SAIDI) and the System Average Interruption Frequency Index (SAIFI), is quantified in terms of individual distribution component reliability. This is an extension of previously reported results. The value of the approach lies in distribution expansion planning in which a radial system may be networked with a view to improve reliability. The effect of inserting Distributed Generation (DG) in the distribution system is studied in this paper. The result of this insertion may be that the number of outages increases because of the possible failure of the DG hardware. Two new indices for this application are proposed: the ratio of DG energy to interrupted energy and the ratio of DG operating duration to outage duration.
+
+SAIDI
+SAIFI
+distributed generation resources
+distribution engineering
+reliability
+repair time

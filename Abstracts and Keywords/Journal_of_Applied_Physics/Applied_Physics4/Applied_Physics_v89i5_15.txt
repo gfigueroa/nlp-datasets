@@ -1,0 +1,8 @@
+Epitaxial NiO hillocks on the {111} and {001} facets of truncated octahedral nanoparticles of Ni have been directly observed by high-resolution transmission electron microscopy. These nanometer hillocks form a rough shell enclosing the Ni nanoparticle. The epitaxial relationships of NiO on nanoparticles of Ni are the same as those of NiO on bulk Ni {111} and {001} surfaces. The formation of hillocks is related to the relaxation of the compressive stress in NiO arising from the very large lattice mismatch between NiO and Ni. The compressively stressed epitaxial NiO shell provides effective protection to the nanoparticles of Ni against further oxidation. © 2001 American Institute of Physics.
+
+nickel
+nanostructured materials
+transmission electron microscopy
+epitaxial layers
+stress relaxation
+oxidation

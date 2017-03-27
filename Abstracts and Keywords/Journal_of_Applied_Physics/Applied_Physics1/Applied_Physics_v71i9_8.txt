@@ -1,0 +1,14 @@
+Relations are presented for calculating electron and lighthole energy levels in quantum wells on the basis of knowledge of the electron and lighthole effective masses, the lattice constant, and the width of the well. The electron and lighthole band nonparabolicity of semiconductors forming the well is accounted for. The nonparabolicity of the heavyhole band is neglected. The calculated values of En  LHn and En  HHn transition energies are in good agreement with recently published experimental data for various AlxGa1xAsGaAs, Ga0.51In0.49PGaAs, and In0.53Ga0.47AsInP quantum wells.
+
+QUANTUM WELL STRUCTURES
+ENERGY LEVELS
+ELECTRONS
+HOLES
+ENERGYLEVEL TRANSITIONS
+EFFECTIVE MASS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+GALLIUM PHOSPHIDES
+INDIUM PHOSPHIDES
+INDIUM PHOSPHIDES
+QUASIBINARY ALLOYS

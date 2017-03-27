@@ -1,0 +1,6 @@
+The modeling of the microelectromechanical cantilever is governed by the Navierpsilas equation for elasticity and the Maxwellpsilas equation for electrostatic. The computational analysis comprised of the electrostatic analysis and the mechanical analysis [1]. The electric field is derived from the potential difference between the cantilever and the ground (reference plate). The surface force due to the potential difference is then fed to the mechanical analysis module to compute the deformation of the micromechanical structure. The analysis is done iteratively until an equilibrium state is reached. The deformation of the micromechanical structure as gives rise to the redistribution of the electric charges on the surface of the structure, hence a change in the electric field. Deformation of the microelectromechanical structure as well as the redistribution of the electric charges requires a re-meshing of the domains after each iterative step. The proposed model adopts an uncoupled quasi-static approach together with a dasiamoving meshpsila algorithm. The model is used to simulate the reaction of the cantilever due to the change in the electric field.
+
+cantilever
+electrostatic
+microelectromechanical
+quasi-static model

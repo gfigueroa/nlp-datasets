@@ -1,0 +1,9 @@
+Saturated red light emission from organic light emitting diodes is less common than emission in the green or the blue. Most organic red light emitting devices are based on rare earth complexes, mainly europium, which are known to exhibit stability problems. The present article describes new diodes made of indium tin oxide-coated glass/triphenylene hexaether/perylene tetraester/aluminum. The band diagram was determined by ultraviolet photoemission spectroscopy, cyclic voltammetry, scanning tunneling microscopy, and absorbance measurements. The interfaces between electrodes and organic layers were investigated by x-ray photoelectron spectroscopy. The currentvoltage and luminancevoltage characteristics are very reproducible from device to device, with an emission peak at 620 nm and a full width at half maximum of 80 nm, a current rectification ratio of about 30, I<V2 at low voltages and I<Lum<V6 at higher voltages. © 2001 American Institute of Physics. 
+
+light emitting diodes
+organic compounds
+ultraviolet photoelectron spectra
+voltammetry (chemical analysis)
+scanning tunnelling microscopy
+X-ray photoelectron spectra
+rectification

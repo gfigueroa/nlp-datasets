@@ -1,0 +1,7 @@
+Aim of this paper is to present an intelligent distributed monitoring system designed to monitor the air quality in specific indoor environments. The proposed architecture is very flexible and the used design principles can be applied to various indoor and outdoor environments. In this work the authors describe the features of this system tuned for monitoring the air quality in a healthcare center. The system is based on a set of low cost sensors equipped with a communication module. These transponders are able to: measure various environmental parameters, compute various algorithms and communicate with a central server or other transponders. A multi agent system is used to handle various aspects of the monitoring system such as: data integration, data analysis, user centered interfaces, etc.
+
+air quality monitoring
+component
+monitoring system
+multi agent system
+transponder

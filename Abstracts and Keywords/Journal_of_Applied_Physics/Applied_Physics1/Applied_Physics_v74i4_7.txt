@@ -1,0 +1,13 @@
+Roomtemperature photoluminescence (PL) has been used to characterize modulationdoped AlGaAs/InGaAs/superlattice strained layer quantum wells. A phenomenological lineshape model has been developed which can be fitted to PL spectra in order to obtain key parameters such as the subband energies, Fermi energy, and transition amplitudes. Quantum well sheet densities calculated from fits to the PL spectra (taken at both room temperature and 77 K) have been compared to sheet densities obtained from lowtemperature Hall measurements. It has also been shown how variations in quantum well composition, width, and symmetry can be characterized by shifts in values of the relevant fitting parameters.
+
+QUANTUM WELLS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY ALLOYS
+SUPERLATTICES
+PHOTOLUMINESCENCE
+DOPED MATERIALS
+STRAINS
+MODULATION
+LINE SHAPE
+TEMPERATURE RANGE 273400 K

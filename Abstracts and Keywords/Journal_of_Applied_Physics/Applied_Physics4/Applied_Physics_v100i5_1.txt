@@ -1,0 +1,6 @@
+A thermodynamic theory is developed for equilibrium 180° stripe domains in ferroelectric thin films on insulating substrates. Such stripe domains form to minimize the energy of the depolarizing field, and lead to a suppression of TC in thin films. Expressions including depolarizing field and domain wall energy are developed and applied to coherently strained PbTiO3 films on SrTiO3 substrates, with an upper boundary condition of either a dielectric (SrTiO3), a conductor, or vacuum. An elastic solution appropriate for epitaxially strained stripe domains and 180° domain walls is presented. We minimize the full nonlinear free energy using a numerical technique to obtain equilibrium polarization and field distributions, and determine the equilibrium stripe period as a function of temperature and film thickness for each upper boundary condition. While the stripe periods found agree reasonably well with the existing analytical solution using a linearized free energy, the suppression of TC as film thickness decreases is as much as a factor of 10 smaller than that given by the linear solution.
+
+lead compounds
+ferroelectric thin films
+electric domain walls
+free energy

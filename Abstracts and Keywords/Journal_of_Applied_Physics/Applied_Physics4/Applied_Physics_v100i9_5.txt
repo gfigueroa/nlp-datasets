@@ -1,0 +1,11 @@
+A comparative study of the structure and magnetic properties of Ni nanoparticles (2080nm) prepared by the chemical reduction of NiCl2 solution of four different concentrations is reported. The concentration of the NiCl2 solution has a profound influence on the room temperature (300K) magnetic state of the resulting Ni nanoparticles, even though all four samples show the same x-ray diffraction (XRD) pattern, i.e., have the same crystal structure (tetragonal, as proposed by us). It is found that samples obtained from lower concentration solutions (0.1 and 0.5M) show a linear response with magnetic field while those obtained from higher concentration ones (1 and 2M) have a ferromagnetic component at 300K. This difference in magnetic behavior has been attributed to the possible presence of fcc (face centered cubic) Ni cores in the particles of higher molarity samples, which therefore leads to strong interparticle dipolar interactions in them. The strong interactions, together with the magnetocrystalline anisotropy of the cores, present a significant barrier to the relaxation of core moments in these samples, giving rise to their blocked state even above 300K, as evident from the irreversibility in the field cooled (FC) and zero field cooled (ZFC) curves, which starts right from the measuring temperature of 390K. Intriguing features in the form of a sharp peak at 20K and a hump at 12K are observed in the ZFC curve of all samples, signaling magnetic transitions at these temperatures. Appreciably high magnetization values are also seen in the M-H plots at 5K. The presence of these low temperature features irrespective of sample molarity indicates that the low temperature magnetic states of the samples, in contrast to their room temperature states, are independent of the concentration of the NiCl2 solution.
+
+nickel
+nanoparticles
+ferromagnetic materials
+magnetic particles
+X-ray diffraction
+crystal structure
+magnetic moments
+ferromagnetic-paramagnetic transitions
+magnetic anisotropy

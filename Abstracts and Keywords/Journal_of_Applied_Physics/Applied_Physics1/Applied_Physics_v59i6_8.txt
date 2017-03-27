@@ -1,0 +1,18 @@
+Ga0.47In0.53AsInP multiquantum wells grown by lowpressure metalorganic chemical vapor deposition on garnet (GGG=Gd3Ga5O12 with a=12.383 Å) substrates are presented for the first time. The xray diffraction pattern shows that the orientation of the epitaxial layer is (111) while the underlying substrate orientation is (100). The photoluminescence at 77 K is due to the GaInAs layers.
+
+QUANTUM WELL STRUCTURES
+CHEMICAL VAPOR DEPOSITION
+FABRICATION
+CRYSTAL ORIENTATION
+PHOTOLUMINESCENCE
+XRAY DIFFRACTION
+GARNETS
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+ORGANOMETALLIC COMPOUNDS
+GADOLINIUM COMPOUNDS
+GALLIUM OXIDES
+GADOLINIUM OXIDES
+CRYSTAL GROWTH
+VAPOR DEPOSITED COATINGS

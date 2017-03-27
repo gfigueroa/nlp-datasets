@@ -1,0 +1,15 @@
+We report transient effects in amorphous silicon thinfilm transistors occurring upon switchon and switchoff, which are controlled by trapping and emission from the deep states in the amorphous silicon. We develop a unifying theoretical description which is applicable to both switchon and switchoff. The model is based on carrier thermalization to the deep states and includes the spatial dependence of the thermalization process in the bandbending region. The model is able to explain the experimentally observed switchon and switchoff behavior. In the case of switchon, electrons are progressively trapped into the deep states in the bulk aSi:H throughout the entire thickness of the layer. The range of trapping times is large and this leads to a dynamic threshold votage shift and a time dependence of the sourcedrain current extending between 1 ¼s and 1 s. In the case of switchoff, two processes occur sequentially. First, there is emission of electrons from the bulk aSi:H deep states, which leads to a uniform space charge throughout the thickness of the layer. After that, a redistribution of the space charge occurs, leading to the eventual thermal equilibrium spacecharge distribution. These processes give rise to two different time constants in the measured decay of the total charge stored in the transistor. Full thermal equilibrium can take several hours to reach.
+
+SILICON
+THIN FILMS
+AMORPHOUS STATE
+TRANSISTORS
+SWITCHING
+TRANSIENTS
+TRAPS
+DEEP ENERGY LEVELS
+MATHEMATICAL MODELS
+THERMALIZATION
+CHARGE CARRIERS
+SPACE CHARGE
+DISTRIBUTION

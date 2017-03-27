@@ -1,0 +1,8 @@
+This paper provides an image-based localization method based on tilt photographing of a single CCD camera. Image captured by the CCD camera is pre-processing to locate the target object in the picture in terms of pixel count deviation from the CCD camera. By using an established formula based on relationship between tilt angle of the CCD camera and distance, coordinate of the target object can be calculated. Experiment results have demonstrated that the feasibility of the proposed approach with satisfactory accuracy in determining the position of the target object.
+
+CCD camera
+Image-based measuremeent
+distance measurement
+localization
+pixel
+tilt photographing

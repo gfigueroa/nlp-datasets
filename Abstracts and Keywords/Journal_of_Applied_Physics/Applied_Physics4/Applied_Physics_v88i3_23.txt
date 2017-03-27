@@ -1,0 +1,19 @@
+Thin tungsten nitride (WNx) films were produced by reactive dc magnetron sputtering of tungsten in an ArN2 gas mixture. The effects of the variation of nitrogen partial pressure on the composition, residual stress, and structural properties of these films as well as the influence of postdeposition annealing have been studied. The films were analyzed in situ by a cantilever beam technique, and ex situ by x-ray photoelectron spectroscopy, electron energy-loss spectroscopy, x-ray diffraction, and transmission electron microscopy (TEM). It was found that at N concentrations below 8 at.
+%, the films (typical 150 nm in thickness) were essentially bcc ±-W. An amorphous phase was observed in the range of about 1228 at.
+% N. When N concentrations reached <32 at.
+% or above, a single-phase structure of W2N was formed. Annealing of the as-deposited films resulted in crystallization of the amorphous or an improved crystallinity of the W2N structure, which was related to the N concentration. Stresses of all W and WNx films were compressive. As the N concentration was increased, the stress decreased and reached its lowest value for amorphous samples near 20 at.
+% N. Past this point, the compression of films rose again. These results can be ascribed to structural changes induced by the pressure-dependent variation in the average energy of particles bombarding the film during deposition. Cross-sectional TEM studies showed that all crystalline WNx films had columnar microstructures. The average column width near stoichiometry of W2N was <20±5 nm near the film surface. © 2000 American Institute of Physics. 
+
+tungsten compounds
+sputtered coatings
+internal stresses
+sputter deposition
+annealing
+transmission electron microscopy
+stoichiometry
+crystallisation
+amorphous state
+X-ray photoelectron spectra
+electron energy loss spectra
+X-ray diffraction
+crystal microstructure

@@ -1,0 +1,6 @@
+This paper proposes a closed-loop control strategy to operate an off-the-shelf single-phase induction motor (IM) as a symmetrical two-phase IM. The proposed control strategy employs the SFC technique to independently control the stator currents of both the main and auxiliary windings, and make them follow a predefined sinusoidal waveform. Simulation and experimental results show that the proposed scheme is successful in operating the conventional single-phase IM as a symmetrical two-phase IM with fast dynamic and transient responses. In addition, the proposed control system achieves cost-effectiveness in both initial and running costs.
+
+Electric motor drive
+single-phase induction motor (IM)
+slip-frequency control (SFC)
+unsymmetrical two-phase IM

@@ -1,0 +1,23 @@
+Singlephase Tl2Ba2CaCu2O8 thin films have been deposited on singlecrystal sapphire substrates, (1102) orientation, via a twostep chemical deposition process. BaCaCuO precursor films were prepared by spin coating a (BaCaCu)2ethylhexanoate solution followed by a firing in oxygen at 850	°C. Thallium was incorporated by heating the film in a confined surface configuration with an unfired pellet of Tl2Ba2CaCu2Ox composition at 870	°C for 0.1 h. The resultant films (1 ¼m thick) were oriented with the c axis normal to the substrate. The structural and chemical composition of the films was monitored by xray diffraction, electron microprobe, and energy dispersive xray analysis. The superconducting properties were characterized by resistance and mutual inductance versus temperature measurements. Zero resistance temperatures as high as 95 K have been observed.
+
+THALLIUM OXIDES
+BARIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+DEPOSITION
+SAPPHIRE
+MONOCRYSTALS
+PRECURSOR
+SYNTHESIS
+SPINON COATING
+CHEMICAL REACTIONS
+SUPERCONDUCTIVITY
+TRANSITION TEMPERATURE
+HIGHTC SUPERCONDUCTORS
+XRAY DIFFRACTION
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+ELECTRON MICROPROBE ANALYSIS
+SUPERCONDUCTING FILMS
+CHEMICAL COMPOSITION
+TEMPERATURE MEASUREMENT

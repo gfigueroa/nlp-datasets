@@ -1,0 +1,11 @@
+Under the influence of a direct current (dc), phase transformation could take place at the interface between platinum anode and holmium-doped ceria (HDC) electrolyte at temperature e 600	°C. This transformation is insensitive to the doping concentration and the sintering temperature, but strongly depends on the testing temperature. As a result of the dc-induced transformation, products with a size up to hundreds of microns were separated from the anode-side surface and, correspondingly, circular holes with diameters varied from tens to hundreds of microns remained on the surface. Compared with original HDC samples, a high degree of local ordering of oxygen vacancies was found in most of the products. Based on structural and compositional studies, it is suggested that the dc-induced transformation could be attributed to the electrochemical reaction at the anode/electrolyte interface and the mobility of Ho cations promoted by the current.
+
+cerium compounds
+doping profiles
+electrochemistry
+electrolytes
+holmium
+platinum
+sintering
+solid-state phase transformations
+vacancies (crystal)

@@ -1,0 +1,6 @@
+All of wavelet functions are designed for a particular form of dynamics, therefore, a choice of one particular function may not be appropriate to capture heart rate variability (HRV) dynamics. The aim of this paper is to examine a set of wavelet functions (wavelets) for implementation in HRV analysis and to highlight the benefit of this transform relating to today's methods. The basis functions of the wavelet transforms should be able to represent HRV signal feature locally and adapt to slow and fast variations of the signal. This paper discusses the important features of wavelet transform in heart rate variability analysis, including the extent to which the limitations of nonparametric methods like data stationarity and detection of transient episodes can be do away with. The effects of different wavelet functions and their order are assessed and the Daubechies (DW-3) has been proposed as most suitable basis on the basis of performance of various basis and their orders under supine resting and deep-breathing test.
+
+Heart rate variability
+autonomic nervous system
+time-frequency analysis
+wavelet transforms

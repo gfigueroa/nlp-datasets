@@ -1,0 +1,5 @@
+One of the biggest news in Taiwan semiconductor industry between 2006 and 2007 is the proposed acquisition of Advanced Semiconductor Engineering (ASE) by private equity fund. Although the price-to-earnings ratio is probably the most widely known yardstick, Businessweek used a price-to-cash flow ratio as another valuation tool to measure the attractive under-valuated companies. However, among those under-valuated companies, ASE is the only company got the attention of private equity fund. We propose another value model, enterprise value and earnings before interest, taxes, depreciation and amortization, to measure the attractiveness of those companies to the private equity fund. This model was used on ASE case first to set the standard. The rest of the companies are also examined by the same model to check the validity of this model.
+
+Fonts
+formatting
+margins

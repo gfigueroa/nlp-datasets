@@ -1,0 +1,6 @@
+Vertically well-aligned multiwall carbon nanotubes (MWNTs) were grown on nickel-coated glass substrates by plasma-enhanced chemical vapor deposition at low temperatures, below 600
+°C, with and without hot filament. Acetylene and ammonia gas were used as the carbon source and a catalyst. Effects of growth parameters, such as plasma intensity, filament current, and substrate temperature, on the growth characteristics of MWNTs were investigated. Plasma intensity was found to be the most critical parameter controlling the growth of MWNTs. Field emission from the MWNTs was obtained using a phosphor anode with an onset electric field of 1.5 V/¼m. © 2000 American Institute of Physics. 
+
+carbon nanotubes
+plasma CVD
+field emission

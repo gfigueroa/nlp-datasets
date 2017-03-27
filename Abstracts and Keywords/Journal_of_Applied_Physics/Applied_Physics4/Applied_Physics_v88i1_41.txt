@@ -1,0 +1,12 @@
+The frequency dependence of the electrical properties of the Bi12TiO20 single crystal was investigated by impedance spectroscopy. The data were presented in the Nyquist diagram form, from which electrical resistivity was determined. Values ranged from 1.93×105 and 1.07×103
+©
+cm in the temperature range of 400700
+°C. The electrical conductivity followed the Arrhenius law, with an activation energy of 0.99 eV. The dielectric behavior was investigated from room temperature to 700
+°C. Permittivity was calculated based on the relaxation frequency, using an alternative approach based on the variation of the imaginary impedance component as a function of reciprocal angular frequency. The permittivity values obtained by means of these two methods showed good agreement up to 600
+°C. The frequency dependence of real and imaginary permittivities from room temperature to 700
+°C was also investigated. © 2000 American Institute of Physics. 
+
+bismuth compounds
+electrical resistivity
+permittivity
+dielectric relaxation

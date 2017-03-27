@@ -1,0 +1,10 @@
+In this paper we present results on how the plasma oxidation of a thin (1.5 nm) Al layer proceeds. Transmission electron microscopy of a Co/Aloxide multilayer was used to determine the thickness of the oxides and Rutherford backscattering spectrometry and elastic recoil detection were utilized in order to determine the oxygen content. The oxide was also characterized via ac impedance measurements. These measurements indicated that the oxidation of Al on Co occurs in three discrete steps. © 2000 American Institute of Physics. 
+
+aluminium
+metallic thin films
+oxidation
+transmission electron microscopy
+Rutherford backscattering
+metal-insulator boundaries
+tunnelling
+sputtered coatings

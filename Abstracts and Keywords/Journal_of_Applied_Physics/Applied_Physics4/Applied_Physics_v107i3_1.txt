@@ -1,0 +1,7 @@
+The magnetic properties of La1xCaxMnO3 (x = 0.50, 0.67, and 0.75) nanoparticles have been systemically investigated in this work. It is found that although their bulk counterparts have different magnetic and charge ordered states, the nanoparticles show no long-range charge ordered transition but very similar magnetic behaviors, i.e., a Griffiths phase appearing below < 300K and a ferromagnetic ordered state present below < 270K. The similarity suggests that the enhanced ferromagnetic behavior at low temperatures in the nanoparticles may originate from the development of the ferromagnetic correlations already present at high temperature upon cooling due to the suppression of the charge ordered state. Moreover, the field-cooling magnetic hysteresis loops reveal that exchange bias phenomena are present in the nanoparticles, which is of special interest for potential applications.
+
+calcium compounds
+exchange interactions (electron)
+ferromagnetic materials
+lanthanum compounds
+nanoparticles

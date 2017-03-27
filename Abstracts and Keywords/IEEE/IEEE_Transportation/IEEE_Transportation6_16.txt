@@ -1,0 +1,7 @@
+A common by-product of vehicle hybridisation is increased drive torque and maximum acceleration. This allows the internal combustion engine (ICE) to be downsized, thus reducing fuel consumption. As a result, the public perceive hybrid vehicles to trade power and speed against fuel economy. The objective of the project is to investigate how a hybrid drivetrain can be primarily designed to aid acceleration and performance in lightweight sports cars. This paper documents the simulation and development of such a hybrid electric drivetrain for circuit racing purposes.
+
+Electric
+Hybrid
+Motor
+Simulation
+Vehicle

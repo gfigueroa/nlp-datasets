@@ -1,0 +1,11 @@
+Magnetization experiments were performed on a series of single crystals of the bilayer manganites La22xSr1+2xMn2O7. The magnetic anisotropy constants were determined by fitting expressions based on the tetragonal anisotropy energy to the magnetization curves. It is shown that there is a significant dipolar contribution to the first order anisotropy constant arising from the layered crystal structure. This contribution determines the magnetization direction in the doping range x=0.320.33 where the anisotropy due to the electronic structure is small. With increasing doping the magnetic anisotropy changes from strong uniaxial anong the c axis (KH2.5×106
+erg/cm3) at x=0.3 to strong easy plane (KH3.7×106
+erg/cm3) at x=0.4 in an almost linear fashion. This evolution is explained through the change of the orbital nature of the eg electrons from predominantly d3z2r2 to predominantly dx2y2. On the samples displaying easy-plane anisotropy a small anisotropy in the basal plane of about 7×104
+erg/cm3 was determined with (110) being the easy axis. An estimate of the spin-wave gap based on these results is in reasonable agreement with experimental determinations. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+ferromagnetic materials
+colossal magnetoresistance
+magnetic anisotropy
+magnetisation

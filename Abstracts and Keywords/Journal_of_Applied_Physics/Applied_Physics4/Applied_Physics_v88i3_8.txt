@@ -1,0 +1,10 @@
+An x-ray emitting diode of impedance 2.3 © with a knife-edge cathode energized by a 90 kV, 30 J, solid dielectric Blumlein driver of pulse length 10 ns is studied. X-ray emission from titanium, copper, molybdenum, tin, tantalum, and lead anodes was investigated. The radiation yield from titanium and copper is low. Molybdenum and tin emit a significant part as K± line radiation, whereas the emission with tantalum and lead anode is essentially continuum radiation. The ratio of line to continuum with molybdenum target is estimated 17%±10%. © 2000 American Institute of Physics. 
+
+titanium
+copper
+molybdenum
+tantalum
+lead
+tin
+plasma diodes
+X-ray production

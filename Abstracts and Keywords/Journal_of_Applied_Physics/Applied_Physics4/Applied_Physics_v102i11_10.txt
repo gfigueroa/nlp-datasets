@@ -1,0 +1,10 @@
+Germanium nanoparticle deposition kinetics were investigated on extended HfO2 surfaces and HfO2 confined within features etched into a 12.5nm SiO2 film. Electron beam lithography was used to pattern square features from 200nmto100¼m in width. Hot wire chemical vapor deposition produced Ge nanoparticles on exposed HfO2 surfaces at 0.064.2ML/min fluxes and 700775K surface temperatures. Using mean-field nucleation descriptions of particle density versus flux and temperature, a noninteger critical cluster nuclei size between 0.27 and 0.4 was found, while the critical cluster formation activation energy of 0.40.6eV was estimated assuming a critical cluster size of zero for studies on extended, unpatterned HfO2. Restricting the HfO2 deposition area decreases nanoparticle density compared to the density found on extended surfaces. The density decrease is due to Ge desorption through adatom contact with the silica perimeter, which depletes the system of Ge adatoms that can undergo nucleation. Comparable activation energies for Ge desorption, surface diffusion, and cluster formation obscure the change with temperature an individual process rate has on nanoparticle growth characteristics as the feature size changes.
+
+chemical vapour deposition
+electron beam lithography
+elemental semiconductors
+germanium
+nanolithography
+nanoparticles
+nucleation
+semiconductor growth

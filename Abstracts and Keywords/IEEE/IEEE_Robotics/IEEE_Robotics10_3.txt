@@ -1,0 +1,5 @@
+This paper discusses an algorithm to realize the autonomous organization of a transportation network system inspired by social insects. As social insects, a group of ants show advanced performance in their activity by using a chemical substance called pheromone. Although the pheromone shows some interesting characteristics, it is difficult to use it in real applications. By introducing artificial pheromone system composed of data carriers and autonomous robots, the robotic system creates a potential field to navigate their group. We have developed a pheromone density model to realize the function of pheromones with the help of data carriers. We intend to show the effectiveness of the proposed system by performing simulations. The pheromone potential field system can be used in a transportation network system.
+
+Autonomous configuration
+network
+pheromone

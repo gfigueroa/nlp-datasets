@@ -1,0 +1,17 @@
+CdxHg1xTe with 0.17&lt;x&lt;0.31 has been annealed using closedtube and opentube methods. In both methods the mercury vapor pressure during an anneal was controlled by a mercury reservoir held at a temperature either the same as the CdxHg1xTe (isothermal anneal), or lower than the CdxHg1xTe (twotemperature anneal). Isothermal anneals carried out in closedtube and opentube systems convert material which is initially p type by native defects to n type. Twotemperature, closedtube anneals can be used to convert n type to p type, the acceptor concentration being controlled by the CdxHg1xTe temperature and the mercury vapor pressure. Twotemperature, opentube anneals also result in conversion from n to p, however, the mercury vapor pressure (over the range studied) does not influence the final acceptor concentration but does affect the time required to reach equilibrium. The results are discussed in terms of the pressuretemperature diagram and the defect/impurity balance in CdxHg1xTe .
+
+cadmium tellurides
+mercury tellurides
+electrical properties
+annealing
+experimental data
+mercury
+vapor pressure
+pressure control
+isothermal processes
+ptype conductors
+ntype conductors
+energylevel density
+crystal defects
+impurities
+mathematical models

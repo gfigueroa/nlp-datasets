@@ -1,0 +1,13 @@
+Uniformly dispersed zinc ferrite nanoparticles were successfully synthesized in a silica matrix with both the magnetic properties and optical transparency designed in the visible wavelength region. The phases and morphologies of these zinc ferrite particles were examined using x-ray diffraction, Raman spectroscopy and transmission electron microscopy. A much lower formation temperature of ZnFe2O4 in nanocomposites was observed in this study compared to in conventional ceramic processing. The particle size of zinc ferrite was found to vary with the initial drying temperature, suggesting that a well-established silica network provides more confinement to the growth of ZnFe2O4 particles. The magnetic properties, measured at both 78 K and room temperature, exhibit strong dependence on the particle size, and are related to the unusual cation distribution and the surface effect of nanoparticles. The optical properties of the nanocomposites can be adjusted by varying the concentration of the zinc ferrite nanoparticles. Their absorption coefficient remains below 400 cm1 in the red visible light region. © 2001 American Institute of Physics.
+
+zinc compounds
+ferrites
+particle reinforced composites
+nanostructured materials
+transparency
+X-ray diffraction
+Raman spectra
+transmission electron microscopy
+particle size
+absorption coefficients
+magnetic particles

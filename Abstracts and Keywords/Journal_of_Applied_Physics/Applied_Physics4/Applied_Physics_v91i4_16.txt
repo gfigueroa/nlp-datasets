@@ -1,0 +1,9 @@
+We present a theory of local optical spectroscopy in quantum wires taking into account structural disorder. The calculated spatially resolved spectra show the individual spectral lines due to the exciton states localized by the disordered potential in agreement with experimental findings. We investigate systematically the influence of the potential profile and of the spatial resolution on the local optical spectra. Several line scans along the wire axis are obtained for different spatial correlations and strength of the disorder potential and for different spatial resolutions ranging from the subwavelength to the diffraction limit. Lowering the spatial resolution causes the disappearance of many spectral lines due to destructive spatial interference. However, our results show that information on the individual eigenstates of this quasi one-dimensional quantum system can be obtained at also resolutions significantly lower than the correlation length of interface fluctuations. © 2002 American Institute of Physics. 
+
+semiconductor quantum wires
+interface structure
+fluctuations
+excitons
+interface states
+light interference
+eigenvalues and eigenfunctions

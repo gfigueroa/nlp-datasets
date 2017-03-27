@@ -1,0 +1,5 @@
+This paper presents the investigation and application on Shanghai Metro TV system. Firstly, we introduce the key techniques and main points of coverage system design. Then we describe the trial and field testing based on metro TV on line 2, which confirms the feasibility and effectiveness of the proposed coverage system. Shanghai metro TV system has been applied to line 1 to line 9 and shows satisfactory operation results.
+
+Metro TV
+coverage system
+field testing

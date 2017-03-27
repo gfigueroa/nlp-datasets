@@ -1,0 +1,7 @@
+Generalization of a previously given expression dealing with processes in which temperature and electric field are simultaneously varied is proposed in order to include also susceptibility changes.
+
+DIELECTRIC MATERIALS
+POLARIZATION
+THERMALLY STIMULATED CURRENTS
+ELECTRIC FIELD EFFECTS
+TEMPERATURE DEPENDENCE

@@ -1,0 +1,10 @@
+The critical thickness for misfit dislocation formation in a heteroepitaxial film on a twist-bonded compliant substrate is calculated. The boundary between the twist-bonded compliant substrate and the supporting bulk substrate with a low twist angle is assumed to be represented by a cross grid of straight dislocations. The critical thickness is determined by the zero of that formation energy of a misfit dislocation which consists of the self-energy of the dislocation, the interaction energy between the dislocation and the dislocation arrays in the twist boundary, and the interaction energy between the dislocation and the mismatch strain. Numerical results for the InxGa1xP film on a twist-bonded GaAs compliant substrate show that the critical thickness of the film on a twist-bonded compliant substrate is considerably larger than that of the film on a free-standing compliant substrate. This difference in critical thicknesses for the twist-bonded compliant substrate and the free-standing substrate is due to the interaction of the misfit dislocation with the dislocation arrays in the twist boundary. From the comparison with the experimental observations in the literature, it is shown that the approximation in the present analysis is valid for the compliant substrates with low twist angles. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+semiconductor epitaxial layers
+dislocation arrays
+dislocation interactions
+dislocation energy
+twist boundaries
+III-V semiconductors

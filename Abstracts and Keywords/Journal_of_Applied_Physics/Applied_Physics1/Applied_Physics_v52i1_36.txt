@@ -1,0 +1,17 @@
+A natural, submicronsize periodic structure was fabricated by directional solidification of PbSn eutectic thin films. Eutectic alloy films between 1 and 8 ¼m thick were deposited on glass and directionally solidified at rates between 0.5 and 12.6 mm/min that yielded faultfree lamellar structures. A mechanism that involves the propagation of bent plates was observed to adjust the spacing without forming faults. Below a critical thickness comparable to the periodic spacing, the structure was observed to become irregular. The spacing control and stability of the lamellar eutectic thin films are discussed.
+
+FILMS
+EUTECTICS
+ALLOYS
+SOLIDIFICATION
+DATA
+FABRICATION
+LEAD ALLOYS
+TIN ALLOYS
+DEPOSITION
+GLASS
+THICKNESS
+CRYSTAL STRUCTURE
+CONTROL
+STABILITY
+LAMELLAE

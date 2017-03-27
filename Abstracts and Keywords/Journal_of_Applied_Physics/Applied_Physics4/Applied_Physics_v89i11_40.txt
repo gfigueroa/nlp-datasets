@@ -1,0 +1,11 @@
+The dynamic response of La1xSrxMnO3 perovskites has been studied in the low doped regime (x}0.14). The frequency dependence of the ac susceptibility gives clear indications in favor of the existence of electronic phase separation not only in the O3 phase but also at temperatures between the ferromagnetic transition temperature TC, and the O2O3 structural transition occurring at TFI. The influence of the JahnTeller distortion on the magnetic susceptibility is also detected as a drop in the magnetic susceptibility on crossing down the OO2 structural transition, while a jump occurs at O2O3 transition. A close similarity, both structural and magnetic, between the O and O3 phase is strongly suggested by the experimental results. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+magnetic susceptibility
+phase separation
+dynamic response
+solid-state phase transformations
+magnetic transitions
+Jahn-Teller effect
+antiferromagnetic materials

@@ -1,0 +1,7 @@
+This paper deals with a problem which is basic to mobile robot navigation in dynamic environments: the perception of dynamic objects. This required as a first step the extraction of mobile objects present in the environment tacking into account the effect of the embedded sensor motion. In the proposed algorithm, the laser data are used in the development of a clustering-based approach. The second step deals with dynamic objects tracking. This is achieved by a set of Extended Kalman Filters (EKF) where an EKF is initialized for each mobile object and evaluated for the prediction and update phases. The results of several experiments are illustrated, confirming the effectiveness of the proposed system.
+
+EKF
+data association
+laser range finder
+mobile objects detection
+tracking

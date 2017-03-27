@@ -1,0 +1,10 @@
+Acoustic emission monitoring has become a wellrecognized technique for the nondestructive evaluation of materials and structures. The usual procedure is to count the number of acoustic emission bursts and record either the total count or the burst rate. A rough measure of the burst amplitude or of the burst duration is obtained by ringdown counting or by peak or threshold detection. In this paper we demonstrate that further information is obtainable from accurate waveform determinations, which can be obtained by our optical method. We find that there is good agreement between at least some natural acoustic emission waveforms and theoretical seismic pulse waveforms.
+
+STEEL
+ACOUSTIC EMISSION TESTING
+WAVE FORMS
+MATHEMATICAL MODELS
+DATA
+ACOUSTIC MONITORING
+NONDESTRUCTIVE TESTING
+THEORETICAL DATA

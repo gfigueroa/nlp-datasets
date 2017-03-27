@@ -1,0 +1,6 @@
+Here we propose a growth mechanism for the vertically growing conical nanopillars in progressive annealed samples grown using Hot Wire CVD process. Paramagnetic defects are present in a-Si:H films grown at low temperatures (Ts&lt;300Â°C). During progressive annealing, at around 500Â°C, dehydrogenation of a-Si takes place; but at higher temperatures rehydrogenation alongwith crystallization of a-Si facilitates the vertical growth of nanopillars.
+
+Dangling Bonds
+HWCVD
+Paramagnetic Defects
+Silicon Nanostructure

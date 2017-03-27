@@ -1,0 +1,12 @@
+Thinfilm growth and compositional effects of caxis oriented YBa2Cu3O7x (YBCO) thin films synthesized by metalorganic chemical vapor deposition have been investigated. The formation of single cation films using tetramethylheptanedionate precursors was shown to be mass controlled, exhibiting a ratio of deposited to evaporated species in the increasing order Ba, Y, and Cu. The physical properties of offstoichiometric YBCO films deposited on MgO substrates were measured in the compositional range 1.1dBa/Yd2.3 and 1.5dCu/Bad4.6. While structural properties such as caxis values and rocking curves appeared unaffected to variations in cation stoichiometry, morphology was observed to be extremely sensitive even to slight changes in composition. Offstoichiometric layers with Cu/Bas1.5 were observed to exhibit Curich precipitates embedded in a 1:2:3 YBCO film matrix. The zeroresistivity temperatures were above 77 K for all cation film compositions measured. However, sharp acsusceptibility transitions were restricted to a more narrow compositional range (1.9&lt;Cu/Ba&lt;3.6). The best superconducting properties [Tc=85 K, Jc (77 K)s106 A/cm2] were observed for films with relatively rough surface morphologies (Ba/Y=1.6 and Cu/Ba=3.5). An optimum tradeoff between smooth surfaces and superconducting properties was found for Ba/Y=1.5 and Cu/Ba=1.9, yielding Tc=81 K and Jc (77 K)=3×105 A/cm2.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+QUATERNARY COMPOUNDS
+FILM GROWTH
+CHEMICAL VAPOR DEPOSITION
+CHEMICAL COMPOSITION
+STOICHIOMETRY
+TRANSITION TEMPERATURE

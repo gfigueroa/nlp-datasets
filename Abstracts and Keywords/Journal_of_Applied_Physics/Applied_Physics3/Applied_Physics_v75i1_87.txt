@@ -1,0 +1,12 @@
+A quantummechanical calculation of the carrier densities and electronhole recombination lifetimes in GaAs(Ga,Al)As quantum wells is performed, under steadystate optical excitation conditions and in the hightemperature regime. The variables are the continuouswave (cw) laser intensity, well widths, and acceptor distribution in the well. Radiative recombination of electrons with free holes and holes bound at neutral acceptors are considered. Our calculations for the dependence of the electron density on laser intensity are in quantitative agreement with recent experimental results for multiple asymmetric coupled quantum wells at T=300 K and for intermediate excitation. Also, results for the carrierdensitydependent eh recombination decay time at T=155 K are in good agreement with recent experimental data in semiconductor quantum wells.
+
+QUANTUM WELLS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+PHOTOLUMINESCENCE
+CARRIER DENSITY
+RECOMBINATION
+LIFETIME
+ACCEPTORS
+ELECTRONHOLE COUPLING
+TEMPERATURE RANGE 65273 K

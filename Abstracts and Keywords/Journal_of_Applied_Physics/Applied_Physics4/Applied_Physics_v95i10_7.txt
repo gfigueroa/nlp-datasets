@@ -1,0 +1,9 @@
+An energy deposition model for electrons in air that can be useful in microdosimetric applications is presented in this study. The model is based on a Monte Carlo simulation of the single electron scattering processes that can take place with the molecular constituents of the air in the energy range 1010
+000 eV. The input parameters for this procedure have been the electron scattering cross sections, both differential and integral. These parameters were calculated using a model potential method which describes the electron scattering with the molecular constituent of air. The reliability of the calculated integral cross section values has been evaluated by comparison with direct total electron scattering cross-section measurements performed by us in a transmission beam experiment. Experimental energy loss spectra for electrons in air have been used as probability distribution functions to define the electron energy loss in single collision events. The resulting model has been applied to simulate the electron transport through a gas cell containing air at different pressures and the results have been compared with those observed in the experiments. Finally, as an example of its applicability to dosimetric issues, the energy deposition of 10
+000 eV by means of successive collisions in a free air chamber has been simulated. © 2004 American Institute of Physics. 
+
+air
+electron collisions
+Monte Carlo methods
+dosimetry
+electron energy loss spectra

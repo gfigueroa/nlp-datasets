@@ -1,0 +1,12 @@
+In-plane magnetic anisotropy was studied in Co films epitaxially grown on NiMn (001) films. The hysteresis loops measured in-plane perpendicular to the exchange field show double shifted loops, and the magnetization of Co to rotate coherently. Magnetic anisotropy constants can be determined from these double shifted loops. Exchange coupling in NiMn/Co not only induces a unidirectional anisotropy but also a uniaxial anisotropy. This induced uniaxial anisotropy may contribute to the enhancement of Co coercivity. © 2001 American Institute of Physics.
+
+nickel alloys
+manganese alloys
+cobalt
+magnetic thin films
+induced anisotropy (magnetic)
+magnetic annealing
+electron beam deposition
+exchange interactions (electron)
+ferromagnetic materials
+antiferromagnetic materials

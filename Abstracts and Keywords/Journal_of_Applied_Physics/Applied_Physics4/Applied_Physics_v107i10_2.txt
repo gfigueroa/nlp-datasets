@@ -1,0 +1,11 @@
+Any kind of processing of materials like thin film deposition, ion beam treatment or polishing often creates structures, which have lateral length scales of 20200 nm. For many applications an efficient smoothing of such roughened surfaces is needed. To study smoothing on this length-scale, in this work periodic rippled structures with wavelengths of 55 nm and an average height of 4.5 nm were systematically covered by thin films of different material classes by pulsed laser deposition. All materials used possess a low intrinsic roughness on smooth substrates. As studied by atomic force microscopy, the surface roughness is continuously smoothed out with increasing layer thickness. In all cases, the whole process is strongly frequency dependent as expected from theoretical predictions. The dominant smoothing mechanisms have been identified as surface diffusion for small structures below a critical lateral size and sputter erosion or downhill currents for larger structures.
+
+atomic force microscopy
+carbon
+polymer films
+polymers
+pulsed laser deposition
+surface diffusion
+surface roughness
+thin films
+zirconium compounds

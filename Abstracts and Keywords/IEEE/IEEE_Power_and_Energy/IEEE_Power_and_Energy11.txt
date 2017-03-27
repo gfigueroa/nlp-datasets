@@ -1,0 +1,7 @@
+This paper evaluates the influence of the unbalance factors in calculating total copper losses, efficiency, power factor, input power, output torque, peak currents, and derating factor of the motor operating under unbalanced voltage system. The complete definition for the voltage unbalance is using complex voltage-unbalance factor that consists of its magnitude and angle. A coefficient to determine either under- or over-unbalance conditions is inserted. The analysis of the motor is performed using the method of symmetrical component, and MATLAB software is used to investigate the performance of the induction motor. The simulation results show that the International Electrotechnical Commission definition of the voltage unbalance combined with the coefficient of unbalance condition can be applied to evaluate total copper losses, input power, power factor, and total output torque precisely. However, the phase angle of the unbalance factor must be included for accurate prediction of peak current and peak copper losses of the phase windings and derating factor of the motor.
+
+Complex voltage-unbalance factor (CVUF)
+overvoltage
+three-phase induction motor
+undervoltage
+voltage unbalance

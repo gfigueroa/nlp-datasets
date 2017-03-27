@@ -1,0 +1,7 @@
+Directional luminescence from coupled quantum states of individual ZnSe quantum dots (QDs) in ultrathin single quantum well structure, ZnS/(ZnSe)1/ZnS has been observed. The cause of the formation of the states is the Coulomb interaction between holes in the ZnSe QDs. Despite the random distribution of the sizes and positions of the QDs, the coherent length of the coupled quantum states reaches about 360 nm, which can be estimated directly through the emission angle dependence of the directional luminescence. © 2003 American Institute of Physics. 
+
+semiconductor quantum dots
+semiconductor quantum wells
+photoluminescence
+zinc compounds
+II-VI semiconductors

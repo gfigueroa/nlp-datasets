@@ -1,0 +1,6 @@
+Burn scar identification is usually made in order to appraise injury degree of the forest after obtaining the fire spots. The most effective remote sensing methods for burn scar identification rely upon analysis of two MODIS near-infrared (NIR) channels centered near 1.24 and 2.13 um data. Due to burned-unburned separability and apparent reflectance of the two channels, the Global Environment Monitoring Index (GEMI) calculated by these two bands data was extensively used to burn scar detection. In this paper, using this parameter we establish burn scar identification algorithm flowchart on the assumption of burn scar identification model based on forest fire spread rules. Through the verification of the algorithm, the results show that the algorithm is consistent with the spread laws of forest fire and meet our needs of assessment of forest affected.
+
+GEMI-B
+MODIS data
+burn scar identification
+fire spot

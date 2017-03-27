@@ -1,0 +1,13 @@
+Mixing molten salts with luminescent conjugated polymers provides the ability to lower the current threshold of organic electroluminescence (EL) devices. However, this process generally results in unwanted premature electrical aging. We used dynamic atomic force microscopy (AFM) in the electric force detection regime to study the phase microseparation occurring in the salt-polymer blend. We found that in the spin-coated layers, the molten salt most often forms discotic, roughly self-organized sub-microdomains. Their size and density strongly depend on the polymer side chains and overall molecular weight, on the molten salt nature, and on their respective concentrations in solution. We show that the diode current is injected into the vicinity of the interface between the salt and polymer domains, since it is proportional to the perimeter of the salt domains per surface unit, as estimated from the AFM images. The electrical aging is attributed to the degradation of the interface between the polymer and salt domains. This is further corroborated by a number of electrical data.
+
+polymer blends
+ageing
+photoelectrochemical cells
+electroluminescent devices
+electroluminescence
+atomic force microscopy
+phase separation
+environmental degradation
+conducting polymers
+surface morphology
+polymer films

@@ -1,0 +1,8 @@
+This paper details two recently developed related imaging techniques which, like Schlieren imaging, are based on optical diffraction caused by acousto-optic interaction. They can be used to provide a line-of-sight transmission representation of a high intensity ultrasound field. The techniques allow for either the whole field to be visualised or any small region to be examined in more detail. Unlike Schlieren, they are easy and inexpensive to implement, and hence can be readily used in research, transducer development, or clinical environments. Results are presented spanning the range from 70 Wcm<sup>-2</sup> to 1400 Wcm<sup>-2</sup> from which it is evident that the focal location and changes in output level can be easily identified by eye or with simple digital image analysis techniques. Distortions, for instance caused by air bubbles or reflecting objects in the beam, can also clearly be seen.
+
+HIFU
+HITU
+field visualization
+imaging
+synthetic Schlieren
+ultrasonic

@@ -1,0 +1,14 @@
+Sol-gel derived (Pb,La)(Zr,Sn,Ti)O3 powders and sintered ceramics were prepared; their crystallization kinetics and dielectric properties were studied as a function of temperature. X-ray powder diffraction showed that the pyrochlore phase formed initially from an amorphous gel during low-temperature heat treatment around 200300 °C. Further heat treatment to 600 °C resulted in the development of the perovskite phase with no significant growth of pyrochlore crystallites. At intermediate temperatures the sol-gel derived powders yielded a mixture of pyrochlore and perovskite phases. The crystallization kinetics of the perovskite phase was analyzed following the Avrami approach, which indicated that the process is diffusion limited. Those fine powders were utilized to prepare compact ceramics after sintering at various temperatures; their dielectric properties were analyzed. The electric field induced transformation from the antiferroelectric to the ferroelectric phase was clearly observed through the polarization reversal experiments. This material holds great promise for high energy density capacitors and microelectromechanical devices. © 2003 American Institute of Physics. 
+
+lead compounds
+lanthanum compounds
+ferroelectric ceramics
+sol-gel processing
+powder technology
+crystallisation
+sintering
+X-ray diffraction
+dielectric polarisation
+heat treatment
+crystallites
+ferroelectric transitions

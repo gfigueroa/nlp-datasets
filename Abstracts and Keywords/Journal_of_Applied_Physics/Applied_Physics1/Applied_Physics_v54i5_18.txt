@@ -1,0 +1,15 @@
+Analysis of the potential and field profiles in spacecharge layers near semiconductor interfaces is extended to consider cases in which the thickness of the semiconductor layer is less than the conventional width of the spacecharge region that would exist if the semiconductor were very thick. It is shown that both electrostatic effects and possible Fermilevel changes are important in these cases. The apparent deficiency of charge that such thin layers present is found to be illusory; adequate charge is always available. However, the process which provides this charge may alter the work function of the semiconductor and therefore change the potential distribution.
+
+semiconductor devices
+space charge
+layers
+electric potential
+electric fields
+spatial distribution
+mathematical models
+interfaces
+thickness
+width
+electrostatics
+fermi level
+work functions

@@ -1,0 +1,12 @@
+We propose and theoretically investigate a superlattice consisting of alternating normal-metal and ferromagnetic layers as a low-loss conductor for realization of planar-integrated radio-frequency devices. At sufficiently high frequencies, the negative permeability of the ferromagnetic films effectively compensates the positive permeability of the nonmagnetic metal layers, leading to an overall suppression of the skin effect. Simulations based on realistic material parameters demonstrate the effectiveness of this approach regardless of intrinsic relaxation losses in the magnetic films.
+
+aluminium
+Permalloy
+ferromagnetic materials
+magnetic multilayers
+skin effect
+magnetic permeability
+ferromagnetic relaxation
+eddy current losses
+magnetic anisotropy
+surface impedance

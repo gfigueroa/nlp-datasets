@@ -1,0 +1,12 @@
+The electron mobility in a double-gate silicon-on-insulator (DGSOI) device is studied as a function of the transverse effective field and silicon layer thickness. The contributions of the main scattering mechanisms (phonon scattering, surface roughness scattering due to both SiSiO2 interfaces, and Coulomb interaction with the interface traps of both interfaces) are taken into account and carefully analyzed. We demonstrate that the contribution of surface scattering mechanisms is by no means negligible; on the contrary, it plays a very important role which must be taken into account when calculating the mobility in these structures. The electron mobility in DGSOI devices as Tw decreases is compared with the mobility in single-gate silicon-on-insulator structures (i) when only phonon scattering is considered, (ii) when the effect of surface-roughness scattering is taken into account, and (iii) when the contribution of Coulomb interaction with charges trapped at both interfaces is taken into consideration (in addition to phonon and surface roughness scattering). From this comparison we determined (in the three cases above) the existence of the following three regions: (i) A first region for thick silicon layers (Tw&gt;2030
+nm), where mobility for both structures tends to coincide, approaching the bulk value. (ii) As Tw decreases we show that volume inversion modifies the electron transport properties by reducing the effect of all scattering mechanisms. Accordingly, the electron mobility in DGSOI inversion layers increases by an important factor which depends on the silicon thickness and the transverse effective field. (iii) Finally, for very small thicknesses, the limitations to electron transport are due to geometrical effects, and therefore the two mobility curves, which again coincide, fall abruptly. We show the existence of a range of thicknesses of a silicon layer (between 5 and 20 nm in which electron mobility is improved by 25% or more. © 2001 American Institute of Physics. 
+
+silicon-on-insulator
+inversion layers
+electron mobility
+surface scattering
+interface states
+surface topography
+MOSFET
+Monte Carlo methods
+semiconductor device models

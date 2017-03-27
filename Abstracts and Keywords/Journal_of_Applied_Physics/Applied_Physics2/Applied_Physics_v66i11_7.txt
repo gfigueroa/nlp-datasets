@@ -1,0 +1,17 @@
+The effect of reactiveion etching (RIE) and plasma etching (PE) using deuterium on the electrical properties of borondoped ptype silicon has been studied employing junction capacitance measurements on Schottky diodes. Deeplevel transient spectroscopy (DLTS) measurements on the treated samples revealed the presence of a number of previously unreported nearsurface traps. These comprise hole traps H(0.44) and H(0.54) at 0.44 and 0.54 eV above the valence band, respectively, and an electron trap E(0.46) at 0.46 eV below the conduction band. The H(0.44) observed directly after the RIE treatment increases in concentration as the sample is annealed to 200	°C, whereas the E(0.46) and H(0.54) are detected in the PE samples directly after etching and annealing at 100	°C, respectively. The depth profiles of the observed traps have been determined, and their annealing behavior is studied up to 200	°C. E(0.46) and H(0.54) are tentatively associated with straininduced defects resulting from hydrogen platelet formation, whereas H(0.44) is attributed to a vacancyrelated defect complex. Other broader DLTS signals following annealing e200	°C are explained in terms of additional trap levels closely positioned in the band gap and/or extended defect clusters. Also, the capacitancevoltage (CV) data on the diodes were modeled to extract the boron deactivation depth profile of the samples after plasma exposures and upon annealing at 200	°C. For both RIE and PE, annealing at 200	°C for 60 min caused the shallow boron acceptor concentration in the samples to almost recover to its preetched value.
+
+SILICON
+DOPED MATERIALS
+BORON ADDITIONS
+ETCHING
+PLASMA
+ION BEAMS
+DEUTERIUM
+ELECTRICAL PROPERTIES
+SCHOTTKY BARRIER DIODES
+CAPACITANCE
+DLTS
+TRAPS
+ANNEALING
+HIGH TEMPERATURE
+CV CHARACTERISTIC

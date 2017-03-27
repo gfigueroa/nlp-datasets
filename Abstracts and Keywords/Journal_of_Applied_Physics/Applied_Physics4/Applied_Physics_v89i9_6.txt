@@ -1,0 +1,12 @@
+Ion implantation of silicon introduces excess point defects that quickly recombine during annealing leaving net interstitial and vacancy populations. For higher energy implants, the separation between interstitials and vacancies is larger, leading to a vacancy rich region towards the surface and an interstitial rich region deeper in the bulk. The high supersaturation of vacancies in the near surface region can lead to their aggregation into vacancy clusters or voids. In this work we have developed a continuum model for vacancy clusters using discrete cluster sizes. Results from atomistic calculations [Bongiorno et al., Europhys. Lett. 43, 695 (1998)] are used for the energetics of the cluster growth/dissolution. The model is compared to data from Venezia et al. [Appl. Phys. Lett. 73, 2980 (1998)] for Au indiffusion subsequent to Si high energy implants. We found good agreement with experimental data using this model without any tuning of the parameters. However, this model is too complex and computationally expensive to be effectively incorporated into continuum process simulation tools. Hence we reduced this system of discrete rate equations into a two-moment model by carefully considering the behavior of the full model under a range of conditions. The parameters of the moment-based model follows from the full model, which in turn is based on atomistic calculations. The resulting simple and computationally efficient model is found to accurately reproduce the Au labeling experiments. © 2001 American Institute of Physics.
+
+silicon
+elemental semiconductors
+semiconductor process modelling
+ion implantation
+annealing
+interstitials
+vacancies (crystal)
+aggregation
+voids (solid)
+digital simulation

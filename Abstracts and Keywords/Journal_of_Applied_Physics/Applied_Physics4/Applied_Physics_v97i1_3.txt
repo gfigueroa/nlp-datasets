@@ -1,0 +1,6 @@
+The effective nondegenerate four-wave mixing (NDFM) susceptibility of graded metallic films with weak nonlinearity is exactly derived by invoking the local-field effects. It is found that the presence of gradation in metallic films can yield a broad resonant plasmon band in the optical region, which results in a large enhancement in the NDFM response and thus a large figure of merit.
+
+metallic thin films
+multiwave mixing
+nonlinear optical susceptibility
+surface plasmon resonance

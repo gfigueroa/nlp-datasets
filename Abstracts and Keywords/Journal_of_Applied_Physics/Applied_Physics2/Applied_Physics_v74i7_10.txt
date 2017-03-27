@@ -1,0 +1,12 @@
+Impurity doping in InP layer grown by metalorganic vaporphase epitaxy using tertiarybutylphosphine and organic doping sources is presented. Diethylzinc and diethylselenide were used as the ptype and ntype doping sources, respectively. Electrical properties and surface morphology of the impuritydoped layers together with their growth condition dependence were investigated. Good controllability and reproducibility of the doping level were confirmed. The maximum doping levels of 1.8×1018 and 1×1019 cm3 were successfully attained for pInP and nInP, respectively. These results promise further safe metalorganic vaporphase epitaxy by using organic compounds for all precursors.
+
+INDIUM PHOSPHIDES
+VAPOR PHASE EPITAXY
+CRYSTAL DOPING
+IMPURITIES
+NTYPE CONDUCTORS
+ORGANIC COMPOUNDS
+ELECTRICAL PROPERTIES
+EPITAXIAL LAYERS
+PRECURSOR
+SURFACE STRUCTURE

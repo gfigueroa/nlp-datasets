@@ -1,0 +1,8 @@
+Quasistatic capacitance-voltage characteristics of plane-parallel structures of the semi-insulating GaAs with two metal contacts are calculated numerically. The model of residual shallow acceptors compensated for by an excess of deep donors is used for the semi-insulating GaAs. Under consideration is the relaxation regime for the charge transport in the semi-insulator. We analyze metal/semi-insulator/metal structures for various parameters of the metal contacts and of the semi-insulator. It is shown that a negative capacitance can be obtained in some cases. A more detailed analysis is performed for the following structure: p-type like metal contact/n-type semi-insulator/n-type like metal contact. © 2000 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+semiconductor-metal boundaries
+interface states
+Fermi level
+deep levels

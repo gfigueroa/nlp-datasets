@@ -1,0 +1,13 @@
+The focalization of surface acoustic wave on piezoelectric substrates has been largely studied. It is of great interest, in the nondestructive testing area, to use focused surface acoustic waves to monitor defects like cracks which are hardly detected by acoustic bulk waves. In this paper, a new method for nondestructive testing is reported, which uses cylindrically focused surface acoustic beams. This allows for an increase in sensitivity in the detection mode and in spatial resolution in the imaging mode. Using a very simple geometrical model, the resolution and conversion efficiency of the system are estimated.
+
+nondestructive testing
+surface cracks
+focusing
+spatial resolution
+sensitivity
+acoustic imaging
+acoustic surface waves
+acoustic testing
+ultrasonic waves
+ceramics
+piezoelectric materials

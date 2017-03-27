@@ -1,0 +1,12 @@
+The thermodynamic and kinetic background of the stability of ultrathin (&lt;3nm) amorphous Al2O3 overgrowths on Al{111}, Al{100}, and Al{110} substrates was investigated by thermal oxidation of the bare substrates in pure oxygen gas for oxidation times up to 6000s in the temperature range of T = 350650K. The microstructural evolutions of the developing oxide films were analyzed by angle-resolved x-ray photoelectron spectroscopy, low energy electron diffraction, and high-resolution transmission electron microscopy. For sufficiently small thicknesses, stable amorphous Al2O3 films form on all substrates. The critical thickness values beyond which a crystalline state for the Al2O3 film is thermodynamically preferred can be reliably calculated provided that a layer-by-layer mode of oxide-film growth occurs. With increasing temperature, a transition from a layer by layer to an island-by-layer type of oxide growth mode occurs and, consequently (tensile), growth strain in a crystalline Al2O3 overgrowth can be more relaxed by lateral extension of the oxide islands, which results in a reduction of the critical thickness for the amorphous-to-crystalline transition. Oxygen incorporation in the metal substrate at the onset of oxidation, in particular, at higher temperatures and for the less densely packed surfaces of the metal substrate, can provide a mechanism for easy nucleation of crystallization at the metal/oxide interface of the amorphous oxide film of thickness larger than the critical thickness.
+
+alumina
+crystallisation
+island structure
+low energy electron diffraction
+metal-insulator boundaries
+nucleation
+oxidation
+thin films
+transmission electron microscopy
+X-ray photoelectron spectra

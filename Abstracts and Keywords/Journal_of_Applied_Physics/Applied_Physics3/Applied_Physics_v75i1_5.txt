@@ -1,0 +1,11 @@
+A large gain and a wide tunability have been achieved over the Ce3+ (5d4f) transition in a LiYF4 crystal. A gain coefficient in excess of 180 cm1 and a superradiant beam of 2.5 mrad divergence are observed at the laser transition, 325.2 nm, when the crystal is optically excited either at 193 or at 248 nm. Gain measurements indicate that the laser is tunable over a wavelength range of more than 10 nm.
+
+SOLID STATE LASERS
+TUNABLE LASERS
+LITHIUM FLUORIDES
+YTTRIUM FLUORIDES
+TERNARY COMPOUNDS
+CERIUM IONS
+DOPED MATERIALS
+GAIN
+ULTRAVIOLET RADIATION

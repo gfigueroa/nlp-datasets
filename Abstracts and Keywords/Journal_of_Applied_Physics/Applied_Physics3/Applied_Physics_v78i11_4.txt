@@ -1,0 +1,10 @@
+The inclusion method is developed to examine coupled electroelastic fields in an infinitely extended orthotropic piezoelectric material containing an ellipsoidal inclusion. By utilizing this method, unified expressions for both the coupled electroelastic fields within the inclusion and a set of four electroelastic tensors analogous to the Eshelby tensor for elastic inclusion problems are presented. In particular, the tensors for some practical inclusions, such as elliptical cylinder, circular cylinder, and penny shape, are derived analytically. Furthermore, by taking the electroelastic moduli of the inclusion as zero, the resulting expressions are applied to study crack problems. Three loading cases, a simple tension, a pure shear, and a normal electric displacement, are considered to examine the behavior of flat ellipsoidal cracking. Then, the critical loads of the Griffith criterion for fracture are expressed in closed forms for the electromechanical loading cases. These results could provide us with insight into how the orthotropic piezoelectric material consisting of inclusions will perform and would be helpful in understanding the damage behavior. © 1995 American Institute of Physics.
+
+CRACKS
+ELASTICITY
+ELECTRIC FIELDS
+FRACTURES
+INCLUSIONS
+LOADING
+PIEZOELECTRIC MATERIALS
+TENSORS

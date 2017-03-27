@@ -1,0 +1,13 @@
+Cobalt silicide formation has been studied in the presence of a thin, chemically grown interfacial SiO2 and a Ti capping layer. It is found that for ex situ annealing without a capping layer (Co/SiO2/Si system), no silicide is formed. In the presence of a Ti capping layer (Ti/Co/SiO2/Si system), CoSi is formed, followed by CoSi2 at higher temperature. The CoSi formation temperature is dependent on the capping layer thickness. The reaction mechanism has been studied in detail. It is found that the function of the Ti capping layer is twofold: first of all the capping layer protects the silicidation reaction from oxygen contamination. Second, Ti from the cap is able to diffuse through the unreacted Co and to transform the interfacial SiO2 diffusion barrier into a CoxTiyOz diffusion membrane. The CoSi2 layer has a preferential epitaxial orientation with the (100) silicon substrate. The epitaxial quality is dependent on the annealing temperature and the thickness of the Co and Ti layers. It is shown that CoSi2 layers formed from a Ti/Co/SiO2/Si system have a better thermal stability and more ideal electrical characteristics than the polycrystalline CoSi2 formed in the standard Co/Si reaction. © 2000 American Institute of Physics. 
+
+titanium
+cobalt
+silicon compounds
+silicon
+elemental semiconductors
+MIS structures
+annealing
+diffusion barriers
+chemical interdiffusion
+epitaxial layers
+thermal stability

@@ -1,0 +1,6 @@
+In this paper, the theories related to supply chain, supply chain management and supply chain partners are comprehensively analyzed, and based on the overview of several existing supplier selection models a partner selection model on the basis of AHP is established. This model provides an effective decision support for the objective and comprehensive evaluation of partners in the supply chain construction process.
+
+AHP
+evaluation selection
+partner
+supply chain

@@ -1,0 +1,6 @@
+Service robots generally aim to achieve various tasks in order to improve human daily life. Thus the interaction between human and robot is necessary. While robot performs the interaction, monitoring and tracking human by the robot are essential technologies in such applications. In this paper, we address our researches on human face detection, tracking and recognition by a color camera mounted in our security robot. First, multiple human faces can be simultaneously detected and tracked by our proposed method which is a scheme based on the modified AdaBoost algorithm. Each extracted face is used to obtain its corresponding relative affine structure. Then the face is recognized by comparing the relative affine structure within the database which is created in advance. In the experiment, we verify our proposed methods for human tracking and recognition under the scenario of human-robot interaction. The motion command is obtained by using the Jacobian transformation. It guides the robot to move in order to focus the tracked face in the center of the acquired image. The experimental results show that the proposed method is successfully implemented for human tracking and recognition.
+
+Face detection and tracking
+face recognition
+intelligent mobile robot
+motion planning

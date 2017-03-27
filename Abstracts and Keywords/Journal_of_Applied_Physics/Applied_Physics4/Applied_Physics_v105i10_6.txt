@@ -1,0 +1,10 @@
+We report on the electronic structure and optical properties of conducting ternary transition metal nitrides consisting of metals of different groups of the periodic table of elements. For the study of the bonding, electronic structure, and optical properties of conducting TixTa1xN film growth, optical spectroscopy and ab initio calculations were used. Despite the different valence electron configuration of the constituent elements, Ta(d3s2) and Ti(d2s2), we show that TiN and TaN are completely soluble due to the hybridization of the d and sp electrons of the metals and N, respectively, that stabilizes the ternary TixTa1xN systems to the rocksalt structure. The optical properties of TixTa1xN have been studied using spectroscopic methods and detailed electronic structure calculations, revealing that the plasma energy of the fully dense TixTa1xN is varying between 7.8 and 9.45 eV. Additional optical absorption bands are manifested due to the Np’Ti/Tad interband transition the t2g’eg transition due to splitting of the metals d band, with the major exception of the Ti0.50Ta0.50N, where the eg unoccupied states are not manifested due to the local structure of the ternary system; this finding is observed for the first time and proves previous assignments of optical transitions in TaN.
+
+ab initio calculations
+density functional theory
+electron correlations
+pulsed laser deposition
+tantalum compounds
+thin films
+titanium compounds
+valence bands

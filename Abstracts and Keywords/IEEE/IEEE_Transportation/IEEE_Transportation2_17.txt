@@ -1,0 +1,7 @@
+Remote access to vehicle operational data is a central feature in leveraging next generation telematics services. A challenge with vehicles utilizing complicated computer systems is how to extract the vehicle diagnostic data, evaluate it to expose possible problems and determine how to fix any problems. This paper describes a Cellular based Remote Vehicle Data Access System that provides In-vehicle data access including the diagnostic data on to mobile cellular phones using GPRS technology.
+
+Cellular Networks
+Data Access
+GPRS
+In-Vehicle Networks
+Remote Diagnostics

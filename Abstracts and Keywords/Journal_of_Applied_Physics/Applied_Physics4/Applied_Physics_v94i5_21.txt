@@ -1,0 +1,7 @@
+Brillouin light scattering was used to measure the elastic properties of a set of LangmuirBlodgett films with varying thickness. Samples are constituted of stacks from 3 to 75 monolayers of a octabutoxyphthalocyanine copper derivative, deposited on Si substrates by the LangmuirBlodgett (LB) technique. Due to the strong contrast in the elastic properties of the organic films and the substrate, it is shown that an elastic anomaly, if any, should be revealed by the Rayleigh mode and the first Sezawa mode which both strongly depend on the value of C44. Rayleigh and Sezawa dispersion curves are computed assuming that the elastic constants do not depend on the number of individual monolayers in the LB film. Within the accuracy of the experimental data, the theory well reproduces the trend of the effective velocities, showing so that the elastic properties of the material do not depend on the number of molecular monolayers in the stack. © 2003 American Institute of Physics. 
+
+organic compounds
+Langmuir-Blodgett films
+Brillouin spectra
+elastic moduli
+elastic constants

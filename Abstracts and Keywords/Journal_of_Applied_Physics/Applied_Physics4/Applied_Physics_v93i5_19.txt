@@ -1,0 +1,8 @@
+The evolution of temperature and velocity fields during gas tungsten arc spot welding of AISI 1005 steel was studied using a transient numerical model. The calculated geometry of the weld fusion zone and heat affected zone and the weld thermal cycles were in good agreement with the corresponding experimental results. Dimensional analysis was used to understand the importance of heat transfer by conduction and convection at various stages of the evolution of the weld pool and the role of various driving forces for convection in the liquid pool. The calculated cooling rates are found to be almost independent of position between the 1073 and 773 K (800 and 500
+°C) temperature range, but vary significantly at the onset of solidification at different portions of the weld pool. During solidification, the mushy zone grew significantly with time until the pure liquid region vanished. The solidification rate of the mushy zone/solid interface was shown to increase while the temperature gradient in the mushy zone at this interface was shown to decrease as solidification of the weld pool progressed. Tracking these solidification parameters with time shows that the weld pool solidifies with decreasing interface stability, i.e., with a higher tendency to form dendrites towards the center of the weld. © 2003 American Institute of Physics. 
+
+arc welding
+heat transfer
+carbon steel
+convection
+solidification

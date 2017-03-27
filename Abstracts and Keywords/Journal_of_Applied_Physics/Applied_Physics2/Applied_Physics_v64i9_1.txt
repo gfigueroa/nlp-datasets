@@ -1,0 +1,14 @@
+Upper critical fields Bc2(0) have been measured in dc fields up to 12 T for YBa2Cu3O7´ samples with 60 and 90 K superconductivity. The data yield (dBc2/dT)T=Tc =1.49 T/K for the 90 K sample and 0.35 T/K for the 60 K sample. The estimated Bc2(0) values are 98 and 15 T for the 90 and 60 K samples, respectively. The weak link effect is associated with the low Tc phase regions in the sample which are caused by shear transformation in the system.
+
+HIGHTC SUPERCONDUCTORS
+WEAK LINKS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+NUCLEATION
+TRANSITION TEMPERATURE
+CRITICAL FIELD
+SINTERING
+SAMPLE PREPARATION
+SUPERCONDUCTIVITY
+SUPERCONDUCTING JUNCTIONS

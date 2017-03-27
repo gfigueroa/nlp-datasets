@@ -1,0 +1,11 @@
+Spectroscopic characterization of the 5 at.	% Tm3+:YVO4 crystal has been performed. The peak absorption cross section of the pumping band at 797.5 nm and the peak emission cross section of the laser transition at 1800 nm were determined to be 2.5×1020 and 1.6×1020	cm2, respectively. More than 150 nm tunability range is expected for this material. In addition, a possible extension of the tunability range under highpower pulsed excitation is discussed.
+
+SOLID STATE LASERS
+LASER MATERIALS
+YTTRIUM OXIDES
+VANADIUM OXIDES
+TERNARY COMPOUNDS
+THULIUM IONS
+EMISSION SPECTRA
+ABSORPTION SPECTRA
+INFRARED RADIATION

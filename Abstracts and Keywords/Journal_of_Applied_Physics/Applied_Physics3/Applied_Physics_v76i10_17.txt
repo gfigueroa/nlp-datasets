@@ -1,0 +1,10 @@
+A method is presented for calculating the ff ion interaction in systems where a delectron species also hybridizes with the same Fermi sea. For the physical systems of interest, typically the f species is a light rare earth (e.g., Ce or Pr) or a light actinide (U) involving a partially filled f shell and the d species is a transitionmetal ion; and there may be experimental evidence of competition between magnetic ordering of the f and d electron systems (e.g., when f is U and d is Mn). The method treats first the strong hybridization between the d and the conduction electrons to obtain a new ground state with delocalized d electrons. Then it calculates the ff ion interaction by perturbation theory. The mechanisms by which the d electrons modify the ff ion interaction are identified.
+
+INTERMETALLIC COMPOUNDS
+MAGNETIC PROPERTIES
+ELECTRONIC STRUCTURE
+ELECTRON CORRELATION
+F STATES
+HYBRIDIZATION
+PERTURBATION THEORY
+GROUND STATES

@@ -1,0 +1,6 @@
+We report the first observation of ultraviolet superfluorescence (SF) from oxygen vacancies in WO3x nanowires at room temperature, and of picosecond-scale energy transfer between emission centers (oxygen vacancies) in a plane. A theoretical development from Dickes model leads to general formulation for a two-dimensional system, and is applied to explain the energy transfer process. The results demonstrate a possibility to generate ultrafast pulse of ultraviolet light through SF from a localized ensemble of defect states.
+
+nanowires
+superradiance
+tungsten compounds
+vacancies (crystal)

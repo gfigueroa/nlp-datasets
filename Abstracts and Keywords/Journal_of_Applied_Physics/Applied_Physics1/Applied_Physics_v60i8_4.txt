@@ -1,0 +1,11 @@
+Nucleation kinetics and spatial distribution of spherulitic clusters can be determined from growth rate and cluster size measures. This method presented here was applied to the nucleation of diskshaped PtSi clusters which grow in solid phase on nitridized Si substrates. It shows that the nucleation occurs in three modes corresponding to three kinetic regimes. A first nucleation phenomenon occurs at the beginning of the annealing on lowdensity (<102 cm2) preferred sites which are not randomly distributed in the plane and probably linked to defects. Then a steady state of nucleation on preferred sites, which are randomly distributed with a density of about 104 cm2, is observed. A third phenomenon of nucleation is distinguished by a nucleation rate which exponentially increases with time. This avalanche state is linked to the presence of microclusters, the density of which can reach 107 cm2. It depends on temperature and on the ratio of platinum layer thickness to silicon nitride thickness.
+
+PLATINUM
+THIN FILMS
+NUCLEATION
+PLATINUM SILICIDES
+SYNTHESIS
+GROWTH RATE
+SURFACE REACTIONS
+SILICON
+SOLID CLUSTERS

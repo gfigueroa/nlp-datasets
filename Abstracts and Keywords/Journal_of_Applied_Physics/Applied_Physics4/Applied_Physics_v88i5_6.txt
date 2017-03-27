@@ -1,0 +1,10 @@
+Electron beam lithography and reactive ion etching have been used to pattern micron-size magnetic elements in the free layer of spintunnel junctions. The magnetization reversal processes of elements with dimensions in the range from 15×1
+¼m2 to 1×1
+¼m2 have been studied using Lorentz microscopy in the transmission electron microscope. Under the application of a field parallel to the bias direction, elongated elements reverse by the growth and subsequent annihilation of a quasiperiodic domain structure which evolves from the ends of the elements. Similar processes occur in both halves of a magnetization cycle. By contrast, the reversal of square elements involves the formation of more complex domain structures which differ significantly according to the direction in which the field in applied. © 2000 American Institute of Physics. 
+
+magnetic multilayers
+magnetisation reversal
+transmission electron microscopy
+electron beam lithography
+sputter etching
+magnetic domains

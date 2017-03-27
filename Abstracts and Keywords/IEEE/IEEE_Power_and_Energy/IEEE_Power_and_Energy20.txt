@@ -1,0 +1,7 @@
+This paper deals with modelling and analyzing specific transient states of voltages (i.e., of lightning surges in electric power systems of high voltages). The lightning surges arriving in a substation are impacted by more complicated wave effects. Those effects result from a complex spatial structure of each substation, and are determined by all equipment units mounted on it. A model of an electric power line and substation developed for computer software Electromagnetic Transients Program-Alternative Transients Program is presented in this paper. This model includes wave effects and nonlinear effects. It is based on a set of appropriately connected elements (i.e., distributed parameter elements and lumped parameter elements). Furthermore, the analysis results of lightning surges as well as the optimization results of a surge protection system installed in a 110-kV substation are presented in this paper.
+
+Electromagnetic Transients Program&#x2013;Alternative Transients Program (EMTP&#x2013;ATP)
+high-voltage substations
+lightning surges
+modelling
+overvoltage protection

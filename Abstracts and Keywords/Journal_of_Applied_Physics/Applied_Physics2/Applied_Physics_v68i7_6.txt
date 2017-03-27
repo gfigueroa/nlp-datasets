@@ -1,0 +1,13 @@
+The firstorder Raman spectra of individual 8¼mdiam PANderived carbon fibers which had been annealed at five temperatures from 1700 to 2800	°C are measured as a function of incident laser power from 1 to 140 mW. In all fibers studied, the Raman frequencies of the graphite G band at ca. 1580 cm1 and the disorderedinduced D band at ca. 1360 cm1 shift to lower frequency with increasing laser power. The largest shifts observed before the fiber is physically damaged are about 13 cm1 at a laser power of 30 mW. The band positions decrease further at higher laser power, up to a maximum of about 20 cm1 at 40 mW, and at powers above 30 mW the linewidths and the ID/IG intensity ratio change irreversibly as the fiber begins to erode. The irreversible changes extend several hundred ¼m away from the 2¼m spot illuminated by the laser. The effects are attributed to laser heating. To quantify the degree of laser heating the temperature dependence of the Raman shift (G band) in pure bulk, highly oriented pyrolytic graphite (HOPG) is measured. To study the heating effect in more detail, a Raman imaging experiment is carried out in which a 0.1mm spot on a fiber is heated by a focused laser while the fiber is illuminated for Raman characterization along a 1.6 mm length by a low power probe laser. The spatially resolved Raman shifts obtained in this way are combined with the HOPG frequencytemperature calibration to obtain the in situ temperature profile of the laser heated fiber. The measured temperature profile along the fiber is in excellent agreement with a simple convective heattransfer model. Assuming that the temperature dependence of the Gband position is the same in the fibers as in bulk graphite, the present experiments show that a laser power of 30 mW heats an 8 ¼m fiber to 330	°C and that above 330	°C irreversible changes are produced by erosion of the fiber. Unperturbed roomtemperature Raman frequencies for the five groups of fibers are obtained by extrapolating to zero laser power.
+
+CARBON
+FIBERS
+LASER RADIATION
+HEATING
+RAMAN SPECTRA
+ANNEALING
+SPECTRAL SHIFT
+TEMPERATURE DEPENDENCE
+CONVECTION
+HEAT TRANSFER
+STRESSES

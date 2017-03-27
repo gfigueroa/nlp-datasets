@@ -1,0 +1,9 @@
+The two-dimensional electron gas in ´-doped double quantum wells has been studied by using the Shubnikovde Haas measurement. It was discovered that the ´-doping layer at the central barrier is able to prevent the electron coupling in the two wells and that the persistent photoconductivity can be reduced due to the thinner barrier. A ´-doped multiple quantum well structure for photodetector application was also proposed. © 1997 American Institute of Physics.
+
+semiconductor quantum wells
+two-dimensional electron gas
+semiconductor doping
+photoconductivity
+Shubnikov-de Haas effect
+photodetectors
+interface states

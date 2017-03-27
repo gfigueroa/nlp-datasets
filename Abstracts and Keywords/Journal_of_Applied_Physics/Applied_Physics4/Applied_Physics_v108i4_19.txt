@@ -1,0 +1,20 @@
+We prepared Zn1xMnxO nanorods by thermal diffusion. These samples were then studied the structural, optical, and magnetic properties. The structural analyses basing on x-ray diffraction and transmission electron microscope revealed the absence of Mn-related secondary phases. The study of photoluminescence spectra revealed the blueshift in the UV emission when the Mn doping concentration was increased, as a consequence of the extension of the band gap energy. Besides this situation, the increase in emission intensity associated with extrinsic defects at about 680 nm also took place. Concerning the Raman scattering spectra, apart from conventional phonon modes related to the ZnO wurtize-type structure, there were some additional modes introduced by the doping. Their origin was assessed carefully. Particularly, the shift in peak position of E2(high) toward low frequencies due to the increase in the Mn doping concentration could be explained well by means of the spatial correlation model. Magnetic measurements proved the samples with Mn concentrations above 1.15at.	% exhibiting the weak-ferromagnetic order at low temperatures. The nature of the ferromagnetism was discussed by means of the results of the structural and optical investigations.
+
+energy gap
+ferromagnetic materials
+II-VI semiconductors
+magnetic semiconductors
+manganese compounds
+nanofabrication
+nanorods
+phonons
+photoluminescence
+Raman spectra
+semiconductor doping
+spectral line shift
+thermal diffusion
+transmission electron microscopy
+ultraviolet spectra
+wide band gap semiconductors
+X-ray diffraction
+zinc compounds

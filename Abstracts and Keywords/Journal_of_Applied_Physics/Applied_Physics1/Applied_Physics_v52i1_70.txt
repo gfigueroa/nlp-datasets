@@ -1,0 +1,13 @@
+A new monolithic ZnO on Si, narrowwaveguide storage correlator has been demonstrated. A 100¼mwide topplate electrode served as a ”v/v waveguide for the 100¼mwide acoustic beam. The surface acoustic wave itself was excited by interdigital transducers that were the same width as the waveguide electrode. Operation of this device resulted in a correlation efficiency of FcorrT =53 dB	m, which is 13 dB better than that reported for any other ZnO on Si storage correlator.
+
+MEMORY DEVICES
+CORRELATIONS
+BEAM PROFILES
+EFFICIENCY
+ZINC OXIDES
+SILICON
+DATA
+WAVEGUIDES
+PLATES
+ELECTRODES
+TRANSDUCERS

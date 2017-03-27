@@ -1,0 +1,9 @@
+Temporal laser pulse distortion during amplification in the presence of nonsaturable absorbers is analyzed. The laser pulse duration ranges between the inverse of the laser bandwidth and the lasing state lifetime. It is found that nonsaturable absorption in the amplifying medium has two effects: (i) it limits the maximum pulse fluence and (ii) it reduces the pulsewidth growth.
+
+LASER RADIATION
+PULSES
+DISTORTION
+AMPLIFIERS
+ABSORPTION
+MASTER EQUATIONS
+DIFFERENTIAL EQUATIONS

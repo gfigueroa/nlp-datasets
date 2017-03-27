@@ -1,0 +1,16 @@
+The goal of this work was to understand the correlation between microscopic material parameters and the dielectric function of candidate materials for applications in the microwave frequency range. The structure and dielectric properties of Ba2+(Y3+1/2Ta5+1/2)O3 (BYT), a typical representative of the Ba(B3+1/2B5+1/2)O3 complex perovskite family, has been investigated from 102 to 1014 Hz and from 20 to 600 K. At Tc=253±1 K, BYT undergoes an equitranslational improper ferroelastic, secondorder phase transition, characterized by the tilting of the oxygen octahedra. The space group symmetry changes from Fm3m, in the high temperature phase, to I4/m below Tc. The existence of an intermediate temperature region (Tc40&lt;T&lt;Tc) has been observed, where the compound exhibits structural and dielectric properties different from those in the welldefined high (TsTc) and low (T&lt;Tc40 K) temperature phases. Infrared reflectivity (10121014 Hz) and submillimeter transmission (10113×1012 Hz) measurements yield dielectric losses which are believed to be mainly of intrinsic origin (one and twophonon absorption). Comparing a theory of twophonon difference absorption processes, due to thermally activated polar branches, with the loss measured at 4001400 GHz, the intrinsic loss can be extrapolated to lower frequencies. At 10 GHz the extrapolated value is about 1/4 of the loss actually measured in a BYT resonator. Nonpolar phonons, including the soft branch, which have not been considered for the extrapolation procedure, are partially responsible. The temperature dependencies indicate the soft branch to be of considerable importance for intrinsic losses. Oxygen vacancies can be excluded as an extrinsic loss source, as sintering and annealing in N2, air, and O2 had no measurable influence on the loss at 10 GHz.
+
+BARIUM OXIDES
+YTTRIUM OXIDES
+THALLIUM OXIDES
+QUATERNARY COMPOUNDS
+CRYSTAL STRUCTURE
+PEROVSKITES
+DIELECTRIC PROPERTIES
+FREQUENCY DEPENDENCE
+PHASE TRANSFORMATIONS
+TEMPERATURE DEPENDENCE
+INFRARED SPECTRA
+ENERGY LOSSES
+XRD
+NEUTRON DIFFRACTION

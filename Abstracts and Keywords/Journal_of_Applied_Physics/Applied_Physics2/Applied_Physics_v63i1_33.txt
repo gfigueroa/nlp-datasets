@@ -1,0 +1,13 @@
+Rh4Si5 formation occurs by two different mechanisms, depending on the film geometry. Thermal annealing of a Rh film on a silicon substrate results in the formation of Rh4Si5 at about 850	°C by a process described as nucleation controlled. Alternatively, when the film consists of thin Rh/Si multilayers, Rh4Si5 can form at room temperature in a very rapid, selfsustaining fashion that is the chemicalreaction analog of the explosive crystallization process. This mechanism of explosive silicide formation, reported recently for the first time [J. A. Floro, J. Vac. Sci. Technol. A 4, 631 (1986)], apparently occurs in the multilayer geometry due to the large driving forces and reduced diffusion lengths associated with this configuration.
+
+RHODIUM
+SILICON
+CRYSTALLIZATION
+NUCLEATION
+FILM GROWTH
+SURFACE REACTIONS
+LAYERS
+MULTILAYERS
+RHODIUM SILICIDES
+VERY HIGH TEMPERATURE
+ANNEALING

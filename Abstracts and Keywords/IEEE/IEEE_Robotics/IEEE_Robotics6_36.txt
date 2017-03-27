@@ -1,0 +1,7 @@
+Lifecycle management of product information relies upon modeling and simulation of high number of highly interrelated engineering objects. Two primary actual problems in creation of large and very complex product models in the industry are handling of high number of relationships amongst engineering objects and tracking the consequences of a changed engineering object on other engineering objects. These problems are emerged from poor capability of current product modeling in representation of background and content of product model information. In other words, the way to interrelated decisions on hundreds of product details and other engineering objects cannot be represented in current product models. The authors recognized and analyzed this situation and developed a new methodology for information content based product modeling for information content based assistance of decisions on engineering objects at product modeling activities.
+
+Change management at product development
+Human-computer interaction
+Information content based product model
+Model based automation in engineering
+Product Lifecycle Management

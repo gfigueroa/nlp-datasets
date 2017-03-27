@@ -1,0 +1,5 @@
+Quantum cellular automata (QCA) represents an emerging technology at the nanotechnology level. There are various faults which may occur in QCA cells. One of these faults is the single electron fault (SEF) that can happen during manufacturing or operation of QCA circuits. A detailed simulation based logic level modeling of single electron fault for QCA binary wire is represented in this paper.
+
+Binary Wire
+QCA
+Single Electron Fault

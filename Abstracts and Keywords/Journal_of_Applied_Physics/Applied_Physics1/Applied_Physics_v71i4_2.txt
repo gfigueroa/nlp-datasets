@@ -1,0 +1,12 @@
+The effective thermal conductivity of binary dispersed composites prepared from mixed and compacted powders of NaCl and lowdensity polyethylene (LDPE) was measured over the entire range of volume fraction at temperatures in the range 120320 K together with pressures up to 1.73 GPa. Measurements were made using the transient hotwire method. The ratio of thermal conductivities of NaCl and LDPE varied over the range 1050 at the temperatures and pressures employed. Using our results (together with previous data for AgClLDPE composites), we tested theoretical predictions from both the effectivemedium approximation and the realspace renormalization group approximation. The two approximations exhibited a comparable overall level of agreement with experiment and neither was successful in describing our data within experimental inaccuracy over the entire range of volume fraction. For both approximations, the extent to which agreement with experiment was achieved depended significantly on the volume fraction being considered.
+
+COMPOSITE MATERIALS
+THERMAL CONDUCTIVITY
+DISPERSIONS
+SODIUM CHLORIDES
+POLYETHYLENES
+TEMPERATURE DEPENDENCE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+PRESSURE EFFECTS
+VERY HIGH PRESSURE

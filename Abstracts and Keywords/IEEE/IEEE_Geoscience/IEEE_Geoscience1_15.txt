@@ -1,0 +1,7 @@
+This work proposes architecture of an inspection robot's navigation system, aiming at monitoring underground energy lines. This architecture is composed of two modules: i. feature extraction from environment; ii navigation approach. The feature extraction module is based on the use of the edge detector by Canny algorithm and Hough transform for identification of lines from images of environment to monitoring. The lines identified correspond to cable conformation inside the duct. This information will serve to help the navigation system. For the implementation of the navigation system two approaches were proposed: navigation based on artificial neural network and navigation based on PID control. The navigation architecture can be used in real or simulated scenarios, and it was tested in a simulated environment.
+
+Autonomous vehicles
+Hough transforms
+Mobile robot navigation
+Mobile robot vision systems
+Underground power distribution lines

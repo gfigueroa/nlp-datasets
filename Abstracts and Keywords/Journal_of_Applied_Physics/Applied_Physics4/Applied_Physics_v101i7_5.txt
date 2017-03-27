@@ -1,0 +1,11 @@
+Tomography of a plasma enables the distribution of electron density to be visualized. We report on the design of two tomographic interferometer systems used to measure plasma electron density distributions in a high-current pulsed cathodic vacuum arc. The method is shown to be capable of microsecond time resolution. The spatial resolution of the quasioptical interferometer operating at 2 mm wavelength is 20 mm and the spatial resolution of the waveguide-based interferometer operating at 8 mm wavelength is 50 mm. In both cases the resolution achieved depends on the launching and receiving geometries. We developed criteria for assessing the tomogram for artifacts arising from limited sampling. First results of the spatial and temporal history of plasma in a high-current vacuum arc guided by a curved magnetic filter are presented and indicate poloidal field fluctuations reminiscent of magnetohydrodynamic instabilities in pinches. The applicability of the tomographic interferometry method to optimize plasma transport through the filter is also demonstrated.
+
+plasma diagnostics
+vacuum arcs
+plasma sources
+plasma density
+plasma fluctuations
+plasma instability
+plasma magnetohydrodynamics
+pinch effect
+plasma transport processes

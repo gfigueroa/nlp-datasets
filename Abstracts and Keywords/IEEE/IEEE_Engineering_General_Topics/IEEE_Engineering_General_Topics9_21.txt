@@ -1,0 +1,7 @@
+This paper discusses the optimization of the H.264/AVC video encoder in the context of a modified software implementation on a Texas Instruments TMS320DM642 digital signal processor. Several algorithmic optimizations are proposed to improve time critical parts of the codec like the quantization step and the pixel interpolation. The algorithms proposed in this paper invoke the enhanced direct memory access (EDMA) controller, intrinsics and look-up tables to accelerate the encoding and do not affect the image peak signal-to-noise ratio (PSNR) or compression performance. The computational acceleration gain of these algorithms are the foundation of our real time 30 CIF frames/second baseline implementation.
+
+DSP
+EDMA
+H.264
+Optimization
+Real-time

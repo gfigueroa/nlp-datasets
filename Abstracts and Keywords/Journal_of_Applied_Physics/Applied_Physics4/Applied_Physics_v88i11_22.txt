@@ -1,0 +1,8 @@
+The transient behavior of tunnel metaloxidesemiconductor structures, pulsed into inversion, is quantitatively described. A simple model for the measured transient currents is proposed, based on the integral form of the continuity equation, leading to an uncoupled solution of the Continuity and Poisson equations. Experimental results for structures with p-type or n-type substrates and different oxide thicknesses are fitted. A map showing the different behavior patterns in terms of surface generation velocity and oxide thickness is given. © 2000 American Institute of Physics. 
+
+tunnel diodes
+tunnelling
+MIS devices
+transients
+semiconductor device models
+Poisson equation

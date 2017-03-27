@@ -1,0 +1,5 @@
+Operational degradation of blue electrophosphorescent organic light emitting devices (OLEDs) is studied by examining the luminance loss, voltage rise, and emissive layer photoluminescence quenching that occur in electrically aged devices. Using a model where defect sites act as deep charge traps, nonradiative recombination centers, and luminescence quenchers, we show that the luminance loss and voltage rise dependence on time and current density are consistent with defect formation due primarily to exciton-polaron annihilation reactions. Defect densities < 1018cm3 result in &gt;50% luminance loss. Implications for the design of electrophosphorescent OLEDs with improved lifetime are discussed.
+
+current density
+organic light emitting diodes
+radiation quenching

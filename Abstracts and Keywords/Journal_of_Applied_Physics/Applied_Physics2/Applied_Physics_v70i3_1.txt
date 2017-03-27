@@ -1,0 +1,10 @@
+A steadystate model for ablation of materials by strongly absorbed longpulse lasers is developed. Material is removed by a combination of evaporation and ejection of liquid due to evaporationinduced pressure gradients at the bottom of the ablation crater. The relative strength of the two processes depends on the details of the liquid flow. An explicit expression for the drilling velocity is derived. The model explains experimental drillingdepth and recoil data. It is applicable to materials that melt and vaporize.
+
+ABLATION
+MATHEMATICAL MODELS
+EVAPORATION
+PRESSURE GRADIENTS
+LASER BEAM MELTING
+SOLIDS
+HEAT TRANSFER
+LASER BEAM APPLICATIONS

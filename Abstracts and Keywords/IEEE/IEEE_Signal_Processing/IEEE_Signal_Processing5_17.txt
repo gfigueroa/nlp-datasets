@@ -1,0 +1,6 @@
+This paper considers the possibility to exploit external altitude measurements to improve the performance of a Kalman based GNSS receiver. The altitude measurements are provided by means of a peer to peer network, that is supposed to be based on the evolution of the 802.11 standard for the vehicular environment, namely the WAVE (802.11p). The performance of such a system are investigated for different characteristics of the aiding measurement and for a different number and disposals of the aiding peers. The aiding measurement is obtained starting from the altitude measurements that the other peers in the network send to the aided user. The experiments highlight the need for a parameter that points out the effectiveness and the consistency of the computed aiding measurement, taking into account many parameters such as the number of peers, their distribution in the user cluster and the number of satellites available for the solution computation. To this purpose, a reliability index is defined and the performance of a system that relies on this index are shown.
+
+GNSS
+Kalman filtering
+P2P localization
+WAVE

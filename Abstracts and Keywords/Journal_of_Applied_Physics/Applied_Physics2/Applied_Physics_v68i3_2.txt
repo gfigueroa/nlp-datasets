@@ -1,0 +1,12 @@
+The dislocation pileup avalanche model is used to explain the crystal size dependence for hot spotcontrolled initiation of chemical decomposition in cyclotrimethylenetrinitramine crystals subjected to dropweight impact testing. Deformationinduced temperature rises, hot spot sizes, and lifetimes are related to previously reported values for direct thermal decomposition. A reasonable chemical reaction yield is estimated from available kinetic data.
+
+EXPLOSIVES
+ORGANIC NITROGEN COMPOUNDS
+IMPACT PHENOMENA
+EXPLOSIONS
+DISLOCATIONS
+CRYSTALS
+SIZE EFFECT
+CHEMICAL REACTIONS
+METHYL COMPOUNDS
+DECOMPOSITION

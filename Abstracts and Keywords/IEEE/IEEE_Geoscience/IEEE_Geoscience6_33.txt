@@ -1,0 +1,7 @@
+With the rapid development of RFID technology in logistics industry, the integration of RFID and business process becomes an important factor for RFID projects. In this paper, we study the issues of RFID application in third-party logistics and propose a component-based solution by integrating OSGi (Open Service Gateway initiatives) and jBPM (Java Business Process Management) technology. The paper begins with discussion on the problems and challenges of integrating OSGi and jBPM, and puts forward an approach using Eclipse extension point mechanism to resolve the problems of loading resources and Java classes. It also gives in details the development of business components. Finally it demonstrates a test for a pilot RFID application in warehousing of third-party logistics. The solution put forward is suitable for integrating RFID and business process which performs well in component development of RFID applications.
+
+OSGi
+RFID
+component development
+jBPM
+logistics

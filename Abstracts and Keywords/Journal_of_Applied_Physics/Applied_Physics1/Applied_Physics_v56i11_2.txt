@@ -1,0 +1,11 @@
+Radiofrequency discharges fed with 20% COHe have been studied in a reactor with liquidnitrogencooled walls, at 2 Torr of pressure, using various diagnostics techniques (infrared and visible emission spectroscopy and mass spectrometry). Highlyextended vibrational distributions of CO have been observed even at long residence times. The importance of the various energy exchange processes and dissociation channels, together with the vibrational deactivating action of some species, have been examined.
+
+RADIOWAVE RADIATION
+ELECTRIC DISCHARGES
+HELIUM
+CARBON MONOXIDE
+INFRARED SPECTRA
+EMISSION SPECTRA
+VISIBLE SPECTRA
+DISSOCIATION
+EMISSION SPECTROSCOPY

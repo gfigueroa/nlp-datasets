@@ -1,0 +1,9 @@
+The NRL developed tight-binding method has been very successful in describing the properties of nonmagnetic elemental metals and semiconductors with accuracy comparable to first-principles methods. In this article we discuss extensions of the method to magnetic systems. We first show that the method correctly predicts equilibrium ground state structures, elastic constants, and phonon frequencies in ferromagnetic iron. We also show how the magnetic calculations can be extended to noncollinear systems, focusing on the electronic behavior of iron. © 2001 American Institute of Physics. 
+
+elastic constants
+iron
+ferromagnetic materials
+tight-binding calculations
+ground states
+phonons
+total energy

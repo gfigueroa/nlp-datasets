@@ -1,0 +1,4 @@
+As the baby boom generation ages towards retirement we are set to see a change in population demographics, this change will put increased pressure on the healthcare system unless an alternative is implemented. This paper outlines a survey of assistive technology devices to suit an older person in an aging in place situation, in doing so we will be investigating a number of assistive technology devices, both currently available and proposed. This paper also aims to classify assistive technology devices to facilitate future research and development in this area.
+
+aging in place
+assistive technology

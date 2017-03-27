@@ -1,0 +1,6 @@
+GIS bas lot's of advantages, such as location, query, visualization, etc. So it has wide application in petroleum industry. Because petroleum exploration and development data bu specialty and different GIS corporation has own characteristic, there are also some problems in the applications of this field. Aimed at the problems of GIS in domestic oilfield companies, a solution that establishing an open spatial data model in E&amp;P was brought forward. The model complies with international standards and accords with actual circs in domestic oilfield. It hopes to realize spatial entity normative visualization and information sharing.
+
+GIS
+POSC
+PPDM
+exploration and development

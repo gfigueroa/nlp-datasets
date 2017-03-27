@@ -1,0 +1,15 @@
+The ”M method is based on the difference of field-induced magnetization M(H) curves starting from different initial states. It is widely used to determine the magnetic interactions in recording media made of granular or self-organized nanoparticles. It is applied here to a two-dimensional Ising model system of interacting magnetic dots fabricated by focused ion-beam patterning. This allowed us to vary the sign and the strength of the interparticle coupling in a controlled way. By high-resolution magneto-optical microscopy, the local switching processes have been investigated for these dot arrays, giving insight into the understanding of the ”M method. Numerical simulations, using realistic values of the interactions, allowed us to reproduce well the observed field-induced magnetic domain patterns and to fit the M(H) and ”M(H) curves. © 2004 American Institute of Physics. 
+
+platinum
+cobalt
+magnetic thin films
+perpendicular magnetic anisotropy
+magnetisation reversal
+magnetic domains
+Ising model
+focused ion beam technology
+ferromagnetic materials
+quantum dots
+magnetic switching
+nanoparticles
+magnetic particles

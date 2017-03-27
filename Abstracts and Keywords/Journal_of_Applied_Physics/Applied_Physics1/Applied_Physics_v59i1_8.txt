@@ -1,0 +1,15 @@
+Crossfield injection of an intense ion beam has been proposed and tested as a method of creating rotating ion layers. Approximately 7% of a proton beam injected (90 keV, 300 A) is found to be trapped in a magnetic field of 5 kG through collective processes and to stay there in the form of a rotating, dilute ion layer for a time several times as long as the ion gyroperiod. The maximum azimuthal current density of trapped ions is 0.3 A/cm2. The trapped ions have a rather wide distribution along the magnetic field because of fieldaligned expansion of the injected beam.
+
+ION BEAMS
+ION RINGS
+PLASMA RINGS
+BEAM INJECTION
+ROTATION
+TRAPPING
+FABRICATION
+MAGNETIC MIRRORS
+PROTON BEAMS
+EXPERIMENTAL DATA
+CURRENT DENSITY
+MAGNETIC FIELDS
+KEV RANGE 10100

@@ -1,0 +1,10 @@
+The impact of reactiveionetching (RIE) on the nearsurface crystal quality of Czochralski silicon has been studied by photoluminescence spectroscopy. The presence of carbonrelated defects is investigated as a function of the pressure during CF4 RIE. The effects of adding hydrogen to the plasma as well as the time of treatment are studied and discussed in terms of defect formation and etch rate. Photoluminescence spectra of samples recorded after a magnetically enhanced reactiveionetching process are also presented. The introduction of defects depending on the selfbias voltage and the etch rate are investigated for different magnetic fields.
+
+SILICON
+ETCHING
+PHOTOLUMINESCENCE
+PLASMA
+CRYSTAL DEFECTS
+PRESSURE EFFECTS
+IONS
+MAGNETIC FIELD EFFECTS

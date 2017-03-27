@@ -1,0 +1,17 @@
+In our recent report, [Xu et al., Appl. Phys. Lett. 76, 152 (2000)], profile distributions of five elements in the GaN/sapphire system have been obtained using secondary ion-mass spectroscopy. The results suggested that a thin degenerate n+ layer at the interface is the main source of the n-type conductivity for the whole film. The further studies in this article show that this n+ conductivity is not only from the contribution of nitride-site oxygen (ON), but also from the gallium-site silicon (SiGa) donors, with activation energies 2 meV (for ON) and 42 meV (for SiGa), respectively. On the other hand, Al incorporated on the Ga sublattice reduces the concentration of compensating Ga-vacancy acceptors. The two-donor two-layer conduction, including Hall carrier concentration and mobility, has been modeled by separating the GaN film into a thin interface layer and a main bulk layer of the GaN film. The bulk layer conductivity is to be found mainly from a near-surface thin layer and is temperature dependent. SiGa and ON should also be shallow donors and VGaO or VGaAl should be compensation sites in the bulk layer. The best fits for the Hall mobility and the Hall concentration in the bulk layer were obtained by taking the acceptor concentration NA=1.8×1017
+cm3, the second donor concentration ND2=1.0×1018
+cm3, and the compensation ratio C=NA/ND1=0.6, which is consistent with Rodes theory. Saturation of carriers and the low value of carrier mobility at low temperature can also be well explained. © 2001 American Institute of Physics. 
+
+oxygen
+silicon
+aluminium
+gallium compounds
+III-V semiconductors
+doping profiles
+secondary ion mass spectra
+impurity states
+impurity-vacancy interactions
+MOCVD coatings
+charge compensation
+Hall mobility
+carrier density

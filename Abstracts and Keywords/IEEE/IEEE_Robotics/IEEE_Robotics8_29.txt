@@ -1,0 +1,5 @@
+Integral-controller particle swarm optimization (ICPSO), influenced by inertia weight w and coefficient phi is a new swarm technology by adding accelerator information. Based on stability analysis, the convergence conditions imply the negative selection principles of inertia weight w, and the relationship between w and phi. To improve the computational efficiency, an adaptive strategy for tuning the parameters of ICPSO is described using a new statistical variable reflecting computational efficiency index-average accelerator information. The optimization computing of some examples is made to show that the ICPSO has better global search capacity and rapid convergence speed
+
+Average Accelerator Information
+Integral-controller
+Particle swarm optimization

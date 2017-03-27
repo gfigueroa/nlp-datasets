@@ -1,0 +1,8 @@
+Outage probability of a selection combiner (SC) receiver is analyzed over exponentially correlated composite Weibull-gamma fading channels. An expression for the joint probability density function (PDF) of multivariate, exponentially correlated Weibull-gamma distributed random variable is obtained. Using this joint PDF, we derive an expression for the outage probability of a SC receiver with arbitrary number of input branches. Obtained expressions are numerically evaluated and the effect of fading parameters, correlation coefficient and diversity order on the outage are studied.
+
+Weibull-gamma distribution
+exponential correlation
+joint moments
+multivariate random variable
+outage probability
+selection combiner receiver

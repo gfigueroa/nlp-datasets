@@ -1,0 +1,6 @@
+The effects of distinct signaling over the 82 reserved symbols in Data Field Sync segment per transmitter on legacy ATSC receivers were observed by conducting lab tests. Five legacy ATSC receivers, manufactured between 2003 and 2008, were used under two-transmitter SFN environment. Distinct signaling over the reserved symbols in DFS per transmitter was observed to have severe impact on the legacy ATSC receivers under SFN environment. The results showed that the Data Field Sync segment should be identical for all adjacent transmitters in SFN.
+
+binary sequences
+broadcasting
+digital TV
+testing

@@ -1,0 +1,8 @@
+Millimeter wave (mmWave) antennas designed for package integration are significantly more challenging than antenna designs for frequencies below 10 GHz. In addition to wide impedance bandwidth, high efficiency and small size, one has to consider material selection, manufacturing precision, antenna feed line and connections, and electromagnetic interference to the active RF circuits nearby.
+
+EMI
+flip-attachment
+integrated antenna
+interconnect
+manufacturing precision
+package

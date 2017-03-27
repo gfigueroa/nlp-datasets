@@ -1,0 +1,11 @@
+The temperature dependence of a capacitance of a planar capacitor based on Ba1xSr1xTiO3 (BSTO) films was investigated and some anomalies were observed. It was experimentally found that the barium concentration decreased across the film thickness in the direction from film/substrate interface to the film surface. The barium concentration, x, of BSTO films grown on sapphire (r-cut) substrates changed from x=0.52 on the film/substrate interface to x=0.3 on the film surface. The investigated films should be considered as a multiphase composition with different phase transition temperatures. The phenomenological model of dielectric response of the film structure has been suggested, which served as a basis for introducing an effective dielectric permittivity of the layered film. © 2002 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+ferroelectric capacitors
+ferroelectric thin films
+ferroelectric materials
+capacitance
+permittivity
+X-ray diffraction
+ferroelectric transitions

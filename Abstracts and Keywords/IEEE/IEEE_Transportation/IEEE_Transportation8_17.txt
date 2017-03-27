@@ -1,0 +1,5 @@
+The thesis briefly introduced data mining and clustering theories. Also through K-Means, ADSL voice multiplex customers are clustered, which caused over 240,000 customers divided into 8 clusters. Further analysis showed that the 8 clusters had distinct differences in basic characters and surfing the net. However, these differences could help X telecom Co. to design pointed sales strategies respectively, so as to improve customer's value, using perception and satisfaction and to reduce customer dropout.
+
+Clustering
+Marketing
+Telecom

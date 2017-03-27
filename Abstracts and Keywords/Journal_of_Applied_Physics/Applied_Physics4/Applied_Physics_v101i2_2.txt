@@ -1,0 +1,8 @@
+The electroluminescence intensity from Si cells under the forward bias was found to have one to one quantitative agreement with the minority carrier diffusion length. Based on the diffusion equation and simple p-n diode model, the electroluminescence intensity was analyzed relative to the cell performance. Electroluminescence intensity is proportional to the product of the injected minority carrier density and the effective diffusion length. The diode ideality factor n can be deduced by measuring the electroluminescence intensity as a function of the forward injection current. Among various crystalline silicon cells including single and polycrystalline types, the measured electroluminescence intensity at a fixed forward current has a tight relationship with the open circuit voltage of each cell, which gives a very convenient way to evaluate cell performance.
+
+silicon
+elemental semiconductors
+solar cells
+electroluminescence
+carrier lifetime
+carrier density

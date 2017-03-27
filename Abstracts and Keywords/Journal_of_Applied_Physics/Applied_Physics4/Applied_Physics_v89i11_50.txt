@@ -1,0 +1,13 @@
+CoNi/Gd/CoNi transition metal-rare earth trilayers were deposited by dc magnetron sputtering at 3 mTorr Ar pressure at room temperature. The interlayer coupling strength was measured by minor hysteresis loop shifts and calculated from major hysteresis loops. The strong ferromagnetic coupling up to 3 nm Gd film thickness can be explained by the development of ferrimagnetism in the Gd layer caused by the diffusion of CoNi into the Gd film or by pinholes. For other interlayer thicknesses, the coupling strength decreases rapidly and cannot be explained by Néels orange-peel coupling and domain wall coupling. An exchange type coupling needs to be considered. The ee exchange interaction among d electrons may be the reason for the exponentially decaying coupling. © 2001 American Institute of Physics. 
+
+cobalt alloys
+nickel alloys
+gadolinium
+magnetic multilayers
+sputtered coatings
+coercive force
+exchange interactions (electron)
+ferromagnetic materials
+magnetic hysteresis
+ferrimagnetic materials
+magnetic domain walls

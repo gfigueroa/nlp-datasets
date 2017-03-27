@@ -1,0 +1,16 @@
+A comparative investigation has been made of the microstructure and magnetization reversal behavior of nanocomposite SmCo5/Sm2Co17 powders prepared by intensive milling and subsequent annealing. It was found that the saturation magnetization increases monotonically with the increase of the volume fraction of Sm2Co17 at the expense of the coercivity. However, the remanence and the energy product first increase and then decrease with further increase of the fraction of Sm2Co17. The highest remanence of 0.72 T and energy product of 78 kJ/m3 are obtained in the powders with 80% and 60% Sm2Co17, respectively. All the hysteresis loops exhibit a magnetically single-phase behavior. X-ray diffraction results reveal that the coexistence of two phases is found in the mixture of SmCo5/Sm2Co17 powders. The demagnetization processes of the SmCo5/Sm2Co17 powders are similar to those of nanocomposites consisting of hard and soft phases, in which the exchange-spring magnet behavior was observed. Positive as well as negative deviations in Wohlfarths remanence analysis (´M-plot) have been observed, indicating complex magnetic interactions in these materials. © 2002 American Institute of Physics. 
+
+samarium alloys
+cobalt alloys
+permanent magnets
+ferromagnetic materials
+crystal microstructure
+magnetisation reversal
+materials preparation
+coercive force
+remanence
+magnetic hysteresis
+X-ray diffraction
+nanostructured materials
+composite materials
+demagnetisation

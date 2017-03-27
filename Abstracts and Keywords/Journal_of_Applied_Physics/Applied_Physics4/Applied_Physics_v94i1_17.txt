@@ -1,0 +1,16 @@
+Electrical transport characteristics for epitaxially grown Ag/Fe/Ag multilayers on GaAs(100) and GaAs(110) have been studied under various growth conditions. The surfaces and structure of the multilayer were characterized by low energy electron diffraction and angle-resolved Auger electron spectroscopy/diffraction at all stages of the growth. In situ conductance spectroscopy performed between growth steps indicates a strong dependence of the transport characteristics on the morphology at the metal/semiconductor interface. A nanoclustered silver overlayer exhibits a reverse leakage current due to defect states in the discontinuous film; however, annealed continuous Ag overlayers on GaAs behave as a uniform rectifying diode. After completion of the magnetic multilayer growth, currentvoltage characteristics indicate a sharp turn on in the reverse current at <0.6 V with nonlinear behavior. This is characteristic of electron tunneling through the Schottky barrier from the multilayer contact into the semiconductor. The implementation of these magnetic multilayer contacts for electrical spin injection is discussed. 
+
+silver
+iron
+gallium arsenide
+magnetic multilayers
+spin polarised transport
+electric admittance
+metallic epitaxial layers
+low energy electron diffraction
+Auger electron spectra
+semiconductor-metal boundaries
+leakage currents
+defect states
+tunnelling
+Schottky barriers

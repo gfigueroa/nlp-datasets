@@ -1,0 +1,16 @@
+The spin pinning in the oxide surface layer has been observed directly, and it is considered a possible reason why the oxide layer leads to the decrease of the specific saturation magnetization for fine iron particles. The pinning depth has been estimated by means of a Mössbauer effect under an applied field of 6 T in a thermalcycle process. The Debye temperature of the oxide layer and the temperature dependence of f2/f1 have been obtained, where f1 and f2 are the Mössbauer recoilless fractions for the inner ±Fe core and the oxide layer, respectively. Furthermore, the estimation for the thickness of an oxide layer has been improved.
+
+IRON
+MICROPARTICLES
+IRON OXIDES
+SURFACE LAYERS
+SPINON COATINGS
+MAGNETIZATION
+PHOTOELECTRON SPECTROSCOPY
+MOESSBAUER EFFECT
+DEBYE TEMPERATURE
+TEMPERATURE RANGE 013 K
+TEMPERATURE RANGE 1365 K
+TEMPERATURE RANGE 65273 K
+AES
+TEM

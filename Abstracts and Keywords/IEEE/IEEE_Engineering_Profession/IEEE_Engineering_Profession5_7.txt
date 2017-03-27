@@ -1,0 +1,8 @@
+This keynote paper discusses the problem of outdoor mobility of the visually impaired and reviews key assistive technologies aiding the blind in independent travel. Space perception abilities important for mobility of the visually impaired are discussed first and related definitions and basic concepts such as: cognitive mapping, wayfinding and navigation are explained. The main mobility barriers the visually impaired encounter in every day life are pointed out. In this respect special attention is given to the information the blind traveller needs to be safer and more skilful in mobility. Also sensory substitution methods and interfaces for nonvisual presentation of the obstacles and communicating navigational data are addressed. Finally, the current projects under way and available technologies aiding the blind in key mobility tasks such as: obstacle avoidance, orientation, navigation and travel in urban environments are reviewed and discussed.
+
+Blindness
+electronic travel aids
+remote navigation
+spatial perception
+teleassistance
+visual impairment

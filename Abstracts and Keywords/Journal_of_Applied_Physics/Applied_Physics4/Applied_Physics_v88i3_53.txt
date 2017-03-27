@@ -1,0 +1,21 @@
+Microstructural effects on the magnetic behavior of rf-sputtered CoFeAgCu granular alloys are examined through the study of the in-plane remanence-to-saturation magnetization ratio, Mr/Ms, as a function of temperature, ferromagnetic volume content, xv, and annealing temperature. At low ferromagnetic contents (xv}0.25), the MrMs ratio in as-deposited samples tends towards 0.5 at low temperature, as expected from the uniaxial perpendicular anisotropy displayed by all samples, which is magnetoelastic in nature and arises from the axial distortion of the CoFe face-centered-cubic cells. In as-deposited samples with xv&gt;0.25 (well below the volume percolation threshold, xp<0.50.55), a collective magnetic behavior develops due to magnetic correlations among particles. Consequently, a domain structure perpendicular to the film plane appears, which results in a remanence breakdown: Mr/Ms is about 0.2. Besides, magnetic correlations prevents the thermal decay of Mr/Ms, which is almost constant between 5 and 300 K, even for ferromagnetic particles no more than 3 nm in size. The axial distortion disappears with annealing, the cubic symmetry is recovered, the out-of-plane magnetic structure is lost and, therefore, the Mr/Ms ratio at low temperature tends towards 0.8 for highly annealed samples. Consequently, the magnetic properties of granular alloys depend on the interplay between anisotropy, exchange, and dipolar interactions, which in turn depend crucially on the microstructure. © 2000 American Institute of Physics. 
+
+cobalt alloys
+iron alloys
+silver alloys
+copper alloys
+discontinuous metallic thin films
+magnetic thin films
+remanence
+magnetisation
+annealing
+magnetic particles
+percolation
+magnetic structure
+crystal microstructure
+particle size
+ferromagnetic materials
+perpendicular magnetic anisotropy
+magnetic domains
+exchange interactions (electron)
+sputtered coatings

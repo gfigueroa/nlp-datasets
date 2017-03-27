@@ -1,0 +1,14 @@
+A randomly disordered quantum wire superlattice (d-QWR-SL) structure was fabricated by means of metalorganic vapor phase epitaxy. Photoluminescence (PL) and the carrier lifetime properties were investigated systematically. The PL intensity was found to be independent of temperatures below 170 K. This thermally stable feature was due to dramatic suppression of the nonradiative recombination in the wire region. The carrier lifetime measurement confirmed the high thermal PL stability in the d-QWR-SL structure. This high thermal PL stability may be due to the state localization in the d-QWR-SL structures. © 2001 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+thermal stability
+photoluminescence
+semiconductor quantum wires
+carrier lifetime
+semiconductor superlattices
+MOCVD
+vapour phase epitaxial growth
+semiconductor growth
+nonradiative transitions

@@ -1,0 +1,11 @@
+The mosaicity of GaN layers grown by metalorganic vapor phase epitaxy, on (0001) sapphire and exhibiting different grain diameters is studied using high-resolution x-ray diffraction. The coherence lengths, the tilt, and the twist of the mosaic structure are determined utilizing data taken in different x-ray scattering geometries. The results of different models, which were applied, are then compared and discussed. The dislocation densities, obtained from the x-ray data, are compared with the results of plan-view transmission electron microscopy and atomic force microscopy. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+mosaic structure
+transmission electron microscopy
+X-ray diffraction
+atomic force microscopy
+dislocation density

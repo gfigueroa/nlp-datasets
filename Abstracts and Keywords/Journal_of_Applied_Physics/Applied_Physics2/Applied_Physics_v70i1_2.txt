@@ -1,0 +1,12 @@
+Using a theoretical description of potentials in radiofrequency (rf) discharges reported elsewhere [Song, Field, and Klemperer, J. Phys. D: Appl. Phys. 23, 673 (1990)] we derive the equations of motion for ions from the plasma region striking the cathode and anode in the absence of collisions in the sheath. We compute ion energy distributions (IEDs) which we find to be in excellent agreement with recent experimental data for Ar, Ar/H2 mixtures, O2, and CF4 parent gases. We also present a method of estimating IEDs which does not involve extensive computation, a development of particular value in the design of reactive ion etching processes.
+
+HIGHFREQUENCY DISCHARGES
+IONS
+ENERGY SPECTRA
+POTENTIALS
+EQUATIONS OF MOTION
+ARGON
+HYDROGEN
+OXYGEN
+CARBON TETRAFLUORIDE
+MIXTURES

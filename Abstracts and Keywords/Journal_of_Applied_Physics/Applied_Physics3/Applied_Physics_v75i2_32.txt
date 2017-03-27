@@ -1,0 +1,14 @@
+The electron and hole currentdensity relations, valid to first order in the deviation from thermal equilibrium, are derived under general conditions. These conditions are: positiondependent band structure, FermiDirac statistics, several nonequivalent conductionband minima, spinorbit splitted valence bands, band nonparabolicity, and nonconstant temperature. Electrical boundary conditions at ohmic contacts are also derived and the effects of nonisothermal conditions on these boundary conditions are specified.
+
+SEMICONDUCTOR DEVICES
+HETEROSTRUCTURES
+CURRENT DENSITY
+MATHEMATICAL MODELS
+ELECTRONS
+HOLES
+BAND STRUCTURE
+CONDUCTION BANDS
+VALENCE BANDS
+ENERGYLEVEL SPLITTING
+BOUNDARY CONDITIONS
+OHMIC CONTACTS

@@ -1,0 +1,12 @@
+Films with modulated composition 8Å Cu/8Å Ni show an increase in the Youngs and torsional moduli of a factor of 2, relative to bulk or longerwavelength samples. The film structure is found to be highly textured with coherent lamella for the shortwavelengthenhanced moduli samples, but becomes more random with the probable introduction of misfit dislocations at longer wavelengths. The moduli results support the previous findings of Tsakalakos and Hilliard.	
+
+FILMS
+ELASTICITY
+VARIATIONS
+QUANTITY RATIO
+DATA
+THICKNESS
+YOUNG MODULUS
+TORSION
+LAMELLAE
+DISLOCATIONS

@@ -1,0 +1,11 @@
+Structure and elastic properties of boron suboxide at high pressure have been investigated using generalized gradient approximation within the plane-wave pseudopotential density functional theory. The elastic constants are calculated using the finite strain method. The pressure dependences of lattice parameters, elastic constants, aggregate elastic moduli, and sound velocities of boron suboxide are predicted. It is found that the most stable structure of hcp boron suboxide at zero pressure corresponds to the ratio c/a of about 2.274 and the equilibrium lattice parameters a0 and c0 are about 5.331 and 12.124 Å, respectively. The high-pressure elastic constants indicate that boron suboxide is mechanically stable up to 368 GPa. The pressure dependence of the calculated normalized volume and the aggregate elastic moduli agree well with the recent experimental results. The sound velocities along different directions for the structure of boron suboxide are obtained. It shows that the velocities of the shear wave decrease as pressure increases but those of all the longitudinal waves increase with pressure. Moreover, the azimuthal anisotropy of the compression and shear aggregate wave velocities for different pressures are predicted. They change behavior with increasing pressure around 87 GPa because of an electronic topological transition. A refined analysis has been made to reveal the high pressure elastic anisotropy in boron suboxide.
+
+boron compounds
+density functional theory
+elastic constants
+elastic moduli
+elastic waves
+gradient methods
+high-pressure effects
+lattice constants
+pseudopotential methods

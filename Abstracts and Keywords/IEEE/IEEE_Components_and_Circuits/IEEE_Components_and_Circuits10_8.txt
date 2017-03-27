@@ -1,0 +1,4 @@
+This paper introduces a real development of a wireless network based on Bluetooth 2.0 technology. This development extends the work of a prior Bluetooth networking implementation. It is an evolution that will be useful for the study of wireless sensor network protocols in the real world, going a step beyond the world of simulators. It will be the testbed where these protocols will be analyzed. Thus, the first step of this process is to measure some metric, as latency, in a first case of topological arrangement. The results for the measures in the prior implementation are included in this paper as well.
+
+Bluetooth
+wireless network

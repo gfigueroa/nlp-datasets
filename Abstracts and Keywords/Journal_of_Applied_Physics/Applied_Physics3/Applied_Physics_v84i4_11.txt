@@ -1,0 +1,10 @@
+We present a theoretical study of the minimum band gap of the pseudomorphic Si1xyGexCy ([C] } 9%) alloy layers grown on Si(001). We also investigate the valence-band offset and conduction-band offset at the strained Si1xyGexCy/Si(001) heterointerfaces, in the framework of the average bond energy theory in conjunction with the deformation potential method. Self-consistent calculations are based on the local density functional theory, ab initio pseudopotentials and the virtual-crystal approximation. Our results show the correct tendency and order of magnitude compared with most of the theoretical and experimental data. It is encouraging to find that the tendencies of the minimum band gap and band offsets with the alloy composition and lattice mismatch are changed suddenly at the critical point due to the difference of the strain properties at the two sides of zero lattice mismatch. Our results also indicate that it is possible to obtain a larger conduction-band offset of the Si1xyGexCy/Si(001) heterostructure than that of the Si1xGex/Si(001) heterostructure which offers a new prospect for the development of heterostructure devices compatible with Si integrated circuit technology. © 1998 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor epitaxial layers
+energy gap
+density functional theory
+pseudopotential methods
+valence bands
+conduction bands
+interface states

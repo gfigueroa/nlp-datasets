@@ -1,0 +1,13 @@
+An investigation was made of the magnetic properties of NdFeCoV bulk exchange-spring magnets fabricated by spark plasma sintering and consisting of a hard Nd2Fe14B phase and a soft ±-Fe phase and having a low rare-earth content of Nd=27 at.
+%. The high saturation magnetization of the bulk exchange-spring magnets was confirmed experimentally, and the measured data agreed well with the saturation magnetization values estimated from their respective rare-earth content. The saturation magnetization values were nearly uniform and were not dependent on changes in the grain size. Additionally, the specific resistance of the samples nearly coincided with the values interpolated from the specific resistances of an ordinary sintered pure Fe bulk compact and a sintered NdFeB magnet. These results suggest that the ±-Fe/Nd2Fe14B bulk exchange-spring magnets did not contain any appreciable grain boundary phase between the fine nanoscale-size grains or tertiary phase. © 2003 American Institute of Physics. 
+
+neodymium alloys
+iron alloys
+cobalt alloys
+vanadium alloys
+magnets
+magnetisation
+grain size
+exchange interactions (electron)
+electric resistance
+ferromagnetic materials

@@ -1,0 +1,5 @@
+There are several studies in the literature regarding the equation of state of alumina-epoxy composites. Although these single component systems interact in a complex manner with shock waves, the addition of a second metal or ceramic particulate can result in even more complex interactions. This paper presents the shock equation of state results on a multi-phase composite AlMnO2-epoxy. Equation of state experiments were conducted using three different loading techniquessingle stage light gas gun, two stage light gas gun, and explosive loadingwith multiple diagnostic techniques. The Usup relationship is shown to be linear, with deviations from linearity at low, and possibly high, pressures due to the behavior of the epoxy binder. The experimental equation of state data is compared to volume averaged and mesoscale mixture models.
+
+equations of state
+filled polymers
+shock wave effects

@@ -1,0 +1,6 @@
+The THz-radiation power from bulk InAs irradiated with femtosecond optical pulses is significantly enhanced and reaches 650 ¼W in a 1.7-T magnetic field with 1.5-W excitation power. The THz-radiation power is related almost quadratically both to the magnetic field and excitation laser power. We have also found that the power of the THz-radiation from an InAs sample in a magnetic field is over one order of magnitude higher than that from GaAs. Additionally, a dramatic change of ellipticity is observed, and the spectra of the horizontal and vertical polarization components are found to differ. © 1998 American Institute of Physics.
+
+indium compounds
+III-V semiconductors
+microwave spectra
+stimulated emission

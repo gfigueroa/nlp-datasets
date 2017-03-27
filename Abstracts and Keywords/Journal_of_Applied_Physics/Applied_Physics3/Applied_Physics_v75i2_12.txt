@@ -1,0 +1,15 @@
+The surface structure of the top and bottom sides of floatglass are investigated by xray absorption, reflection, and fluorescence at grazing incidence. The data analysis includes the determination of the thickness, density, and interface roughness of surface layers and the depth profiling of different atomic species. Expressions for the reflectivity and the fluorescence from a substrate and from layers on a substrate are given and discussed in detail, with special emphasis on the influence of interface roughness on these quantities. It turns out that iron and tin are enriched on the bottom side of the floatglass. In addition, iron changes its valence with depth. Leaching the glass for 48 days in NaOH has a strong influence on the iron concentration, on the surface density, and on the surface roughness of the glass.
+
+GLASS
+SURFACE STRUCTURE
+XRAY ABSORPTION ANALYSIS
+FLUORESCENCE
+REFLECTION
+THICKNESS
+DENSITY
+DEPTH PROFILES
+LAYERS
+IRON
+TIN
+ROUGHNESS
+MATRIX MATERIALS

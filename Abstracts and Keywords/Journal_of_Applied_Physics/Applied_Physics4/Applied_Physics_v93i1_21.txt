@@ -1,0 +1,8 @@
+This article addresses the development of a free energy model for magnetostrictive transducers operating in hysteretic and nonlinear regimes. Such models are required both for material and system characterization and for model-based control design. The model is constructed in two steps. In the first, Helmholtz and Gibbs free energy relations are constructed for homogeneous materials with constant internal fields. In the second step, the effects of material nonhomogeneities and nonconstant effective fields are incorporated through the construction of appropriate stochastic distributions. Properties of the model are illustrated through comparison and prediction of data collected from a typical Terfenol-D transducer. © 2003 American Institute of Physics. 
+
+magnetic hysteresis
+free energy
+transducers
+magnetostrictive devices
+stochastic processes
+magnetoelastic effects

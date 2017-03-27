@@ -1,0 +1,16 @@
+The radiative transfer theory with a Rayleigh scattering model is used to study the effect of volume scattering for active microwave remote sensing of lowloss and scattering dominant areas by obtaining backscattering cross sections through iterative and numerical approaches. The iterative approach gives closed form solutions which are valid when the effect of scattering is small. The depolarization of the backscattered power is shown to be a secondorder effect. For the general cases, we use a numerical approach to solve the radiative transfer equations. The theoretical results are compared and illustrated for the various cases.
+
+REMOTE SENSING
+MATHEMATICAL MODELS
+ELECTROMAGNETIC RADIATION
+WAVE PROPAGATION
+LAYERS
+SPHERES
+RAYLEIGH SCATTERING
+VOLUME
+BACKSCATTERING
+CROSS SECTIONS
+NUMERICAL ANALYSIS
+THEORETICAL DATA
+DEPOLARIZATION
+COMPARATIVE EVALUATIONS

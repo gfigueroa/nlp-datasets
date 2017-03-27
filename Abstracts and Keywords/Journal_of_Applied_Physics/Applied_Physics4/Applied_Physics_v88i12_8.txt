@@ -1,0 +1,9 @@
+We report on the pulsed laser ablation of aluminum in the presence of nitrogen gas using a 1.06 ¼m wavelength of Nd:YAG laser. A prominent band of aluminum nitride corresponding to the (0-0) band of the system belonging to a 3À3À transition was observed at 507.8 nm. An attempt is made to identify the ionized states of aluminum and nitrogen contributing to formation of the AlN band. AlN films were deposited at room temperature and characterized using x-ray diffraction. A direct correlation between the laser ablated aluminum plasma and the deposited AlN film is reported. © 2000 American Institute of Physics. 
+
+aluminium
+laser ablation
+aluminium compounds
+III-V semiconductors
+semiconductor thin films
+pulsed laser deposition
+X-ray diffraction

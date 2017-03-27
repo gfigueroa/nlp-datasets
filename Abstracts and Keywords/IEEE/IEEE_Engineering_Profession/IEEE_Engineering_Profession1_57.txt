@@ -1,0 +1,7 @@
+A growing literature suggests that generating and evaluating explanations is a key mechanism for learning and development, but little is known about how children evaluate explanations, especially in the absence of probability information or robust prior beliefs. Previous findings demonstrate that adults balance several explanatory virtues in evaluating competing explanations, including simplicity and probability. Specifically, adults treat simplicity as a probabilistic cue that trades-off with frequency information. However, no work has investigated whether children are similarly sensitive to simplicity and probability. We report an experiment investigating how preschoolers evaluate causal explanations, and in particular whether they employ a principle of parsimony like Ockhampsilas razor as an inductive constraint. Results suggest that even preschoolers are sensitive to the simplicity of explanations, and require disproportionate probabilistic evidence before a complex explanation will be favored over a simpler alternative.
+
+Causal Reasoning
+Development
+Explanation
+Probability
+Simplicity

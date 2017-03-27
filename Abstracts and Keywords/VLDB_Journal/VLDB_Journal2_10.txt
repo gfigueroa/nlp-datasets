@@ -1,0 +1,6 @@
+With the existence of many autonomous databases widely accessible through computer networks, users will require the capability to jointly manipulate data in different databases. A multidatabase system provides such a capability through a multidatabase manipulation language, such as MSQL. We propose a theoretical foundation for such languages by presenting a multirelational algebra and calculus based on the relational algebra and calculus. The proposal is illustrated by various queries on an example multidatabase. It is shown that properties of the multirelational algebra may be used for optimization and that every multirelational algebra query can be expressed as a multirelational calculus query. The connection between the multirelational languages and MSQL, the multidatabase version of SQL, is also investigated.
+
+multidatabase
+multirelational algebra
+multirelational calculus
+query optimization

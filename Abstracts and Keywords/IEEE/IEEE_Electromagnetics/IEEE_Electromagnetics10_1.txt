@@ -1,0 +1,9 @@
+This paper proposes a quasi-coherent equivalent-time sampling method to acquire repetitive wideband waveform signals with high throughput. We have already proposed a new sampling system which incorporates the pretrigger ability and the time jitter reduction function for a fluctuated input signal while maintaining the waveform recording efficiency. The quasi-coherent sampling method proposed in this paper can be adopted to it in order to improve its data acquisition throughput significantly. Numerical simulation results show effectiveness of our proposed method.
+
+Brocot space
+Equivalent-time sampling
+coherent sampling
+convergent
+data recording time
+high time-resolution
+random sampling

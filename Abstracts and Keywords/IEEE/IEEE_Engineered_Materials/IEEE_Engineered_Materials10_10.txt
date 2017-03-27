@@ -1,0 +1,5 @@
+A group of (1&#x2212;x)Bi(Zn<inf>1/2</inf>Ti<inf>1/2</inf>)O<inf>3</inf>-&#x03C7;ABO<inf>3</inf> (ABO<inf>3</inf>=BaTiO<inf>3</inf>, NaNbO<inf>3</inf>, BiScO<inf>3</inf> and Bi<inf>1/2</inf>K<inf>1/2</inf>TiO<inf>3</inf>) polycrystalline ceramics were prepared by solid-state processing techniques. Based on x-ray diffraction results, the presence of Bi(Zn<inf>1/2</inf>Ti<inf>1/2</inf>)O<inf>3</inf> in the solid solution decreases the structure stability of perovskite phase. The dielectric characterization revealed that the trends of transition temperature T<inf>m</inf> as a function of composition of Bi(Zn<inf>1/2</inf>Ti<inf>1/2</inf>)O<inf>3</inf>-ABO<inf>3</inf> could be described into two groups. The first one is T<inf>m</inf> decreased until second phase appeared and the second one is T<inf>m</inf> decreased and then increased as Bi(Zn<inf>1/2</inf>Ti<inf>1/2</inf>)O<inf>3</inf> content increased. In addition, with substitution of Li for Na of NaNbO<inf>3</inf>-Bi(Zn<inf>1/2</inf>Ti<inf>1/2</inf>)O<inf>3</inf> the diffuseness of the transition peak decreased and transition temperature increased.
+
+Ferroelectric
+Pervoskites
+Piezoelectricity

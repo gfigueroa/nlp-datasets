@@ -1,0 +1,19 @@
+Microcrystalline silicon (¼c-Si:H) of superior quality can be prepared using the hot-wire chemical-vapor deposition method (HWCVD). At a low substrate temperature (TS) of 185	°C excellent material properties and solar cell performance were obtained with spin densities of 6×1015cm3 and solar cell efficiencies up to 9.4%, respectively. In this study we have systematically investigated the influence of various deposition parameters on the deposition rate and the material properties. For this purpose, thin films and solar cells were prepared at specific substrate and filament temperatures and deposition pressures (pD), covering the complete range from amorphous to highly crystalline material by adjusting the silane concentration. The influence of these deposition parameters on the chemical reactions at the filament and in the gas phase qualitatively explains the behavior of the structural composition and the formation of defects. In particular, we propose that the deposition rate is determined by the production of reactive species at the filament and a particular atomic-hydrogen-to-silicon ratio is found at the microcrystalline/amorphous transition. The structural, optical, and electronic properties were studied using Raman and infrared spectroscopies, optical-absorption measurements, electron-spin resonance, and dark and photoconductivities. These experiments show that higher TS and pD lead to a deterioration of the material quality, i.e., much higher defect densities, oxygen contaminations, and SiH absorption at 2100cm1. Similar to plasma enhanced chemical-vapor deposition material, ¼c-Si:H solar cells prepared with HW i layers show increasing open circuit voltages (Voc) with increasing silane concentration and best performance is achieved near the transition to amorphous growth. Such solar cells prepared at low TS exhibit very high Voc up to 600 mV and fill factors above 70% with i layers prepared by HWCVD.
+
+silicon
+hydrogen
+elemental semiconductors
+semiconductor thin films
+solar cells
+semiconductor growth
+chemical vapour deposition
+crystallisation
+Raman spectra
+infrared spectra
+paramagnetic resonance
+chemical reactions
+crystal defects
+amorphous state
+dark conductivity
+photoconductivity
+contamination

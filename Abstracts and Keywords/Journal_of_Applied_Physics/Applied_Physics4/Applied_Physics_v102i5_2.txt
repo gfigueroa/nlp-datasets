@@ -1,0 +1,10 @@
+The ground state of a negatively charged donor (D) in a parabolic GaAs quantum-well wire in the presence of a magnetic field is investigated using the finite difference method within the quasi-one-dimensional effective potential model. The magnetic effects on the binding energies of the ground state of a D center are calculated for various parabolic potentials. The distance between the electrons and the donor ion and the distance between the two electrons are also calculated, respectively, as a function of the strength of the parabolic potential and the magnetic field. We find that the interplay of the spatial confinement and the magnetic confinement of electrons in quantum-well wires leads to complicated behavior of the binding energies of the D center and that the increase of the electron-donor ion attraction dominates the increase of the electron-electron repulsion as the spatial and magnetic confinement increases for the ground state of a D center in a parabolic quantum-well wire.
+
+binding energy
+finite difference methods
+gallium arsenide
+ground states
+III-V semiconductors
+impurity states
+semiconductor quantum wells
+semiconductor quantum wires

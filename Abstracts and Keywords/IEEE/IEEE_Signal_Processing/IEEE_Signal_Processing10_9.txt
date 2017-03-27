@@ -1,0 +1,6 @@
+The optic disc (OD) and fovea are important anatomical features in retinal images. Its detections are crucial for developing an automated screening program. This paper proposes a method to automatically detect the OD and fovea in fundus images in three stages: OD vessel candidate detection, OD vessel candidate matching, and fovea detection. The first stage is achieved with multi-scale Gaussian filtering, scale production, and double thresholding to initially extract the vessels' directional map. The map is then thinned before another threshold is applied to remove pixels with low intensities. This result forms the OD vessel candidates. In the second stage, a Vessels' Directional Matched Filter (VDMF) of various dimensions is applied to the candidates to be matched, and the pixel with the smallest difference designated the OD center. Finally, the fovea is detected as the pixel with lowest intensity in a window either to the left or right of the OD center. We tested the proposed method on a subset of a new database consisting of 139 images from a diabetic retinopathy (DR) screening programme. The OD center and fovea were successfully detected with accuracies of 96.4% (134/139) and 98.1% (105/107) respectively.
+
+diabetic retinopathy
+fovea
+matched filter
+optic disc

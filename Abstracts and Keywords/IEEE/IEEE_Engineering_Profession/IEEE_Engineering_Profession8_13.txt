@@ -1,0 +1,6 @@
+ In this paper we describe a methodology to model a use case using sequence diagrams quantification. Our methodology consists in a set of metrics to define the amount of scenarios, and it determines the use case goal accomplishment based on the occurrence, sequence order, and the flow of data involved in. It also helps to obtain a robust design because all possible flows are considered; by this way, software quality could be achieved in quantitative terms. This approach can be used in two ways: to define a complete set of scenarios before entering in the design phase, and to measure design quality in terms of completeness and functionality attributes. Our methodology follows the main recommendations to apply a solid mathematical basis for engineering careers, and informatics and computing programs.
+
+ design completeness.
+ scenarios
+ sequences quantification
+ tree diagram

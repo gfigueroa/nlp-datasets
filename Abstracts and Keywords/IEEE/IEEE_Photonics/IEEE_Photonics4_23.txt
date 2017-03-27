@@ -1,0 +1,7 @@
+In this paper, because the induction machines are described as the plants of highly nonlinear and parameters time-varying, to obtain excellent control performances and the self-learning of fuzzy inference system (FIS), based on a support vector machine (SVM), a fuzzy self-learning control strategy for induction motors is presented based on the rotor field oriented motion model of induction machines. The fuzzy self-learning controller incorporated into the SVM-FIS, and a fast modified variable metric optimal learning algorithm (MDFP) and a support vector machine identifier (SVMI) for induction motors (IM) adjustable speed system are designed. Simulation results show that the proposed control strategy is of the feasibility, correctness and effectiveness.
+
+fuzzy inference system (FIS)
+induction machine (IM)
+modified variable metric optimal learning algorithm (MDFP)
+motor dynamic model
+support vector machine (SVM)

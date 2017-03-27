@@ -1,0 +1,14 @@
+Mnactivated Zn2SiO4 and Ceactivated Y2SiO5 multilayer thin film electroluminescent (EL) devices were prepared by rf magnetron sputtering. The EL response of the devices under different voltages, frequencies, and pulse widths, as well as the transferred charge and decay characteristics were studied. The EL device using Zn2SiO4:Mn as the phosphor layer is shown to achieve a brightness of over 200 cd/m2 at 400 Hz and a field of 3×106 V/cm (twice the threshold field) and a maximum efficiency of 0.78 lm/W, with a decay time of 0.6 ms. The main characteristics of the oxide phosphors include (a) strong trailing edge excitation in nonsymmetrical EL devices, (b) a narrow transferred charge loop, and (c) a time response sensitive to device structures. Compared with the nonsymmetrical structure, the more symmetrical doubleinsulated structure is shown to increase the efficiency of the EL device by generating strong EL excitation from both positive and negative voltage pulses. © 1996 American Institute of Physics. 
+
+HOT ELECTRONS
+BRIGHTNESS
+CERIUM ADDITIONS
+ELECTROLUMINESCENCE
+MANGANESE ADDITIONS
+OPTOELECTRONIC DEVICES
+PHOSPHORS
+SILICON OXIDES
+SPUTTERED MATERIALS
+THIN FILMS
+YTTRIUM OXIDES
+ZINC OXIDES

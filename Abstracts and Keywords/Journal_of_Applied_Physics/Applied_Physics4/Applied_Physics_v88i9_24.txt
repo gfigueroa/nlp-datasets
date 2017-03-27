@@ -1,0 +1,17 @@
+The influence of quasihydrostatic pressure on the electrical transport in epitaxial La0.7Ca0.3MnO3/MgO(100) thin films prepared by pulsed laser deposition (PLD) and metalorganic aerosol deposition (MAD) was studied for temperatures T=4.2300
+K and magnetic fields B=012
+T. Usual or intrinsic pressure effect, characterized by a decrease of the resistance in the region of the metalinsulator transition TMI was observed in PLD film for p=016
+kbar and also in MAD films for p}8
+kbar. An anomalous, or extrinsic pressure effect, characterized by a 23 order of magnitude increase of the resistance at low temperatures, persisting after the pressure release, was found for p&gt;8
+kbar in films with extraordinarily high values of the pressure coefficient d(TMI)/dp=2.703.85
+K/kbar. The lattice strain originated from the substrate due to epitaxy was found to control the TMI values and intrinsic pressure behavior in the films. The extrinsic pressure effect in MAD films is caused by a plastic deformation of the film, yielding irreversible changes of the microstructure accompanied by a magnetoresistance, ”R(B)/R(B), more than 103% at 4.2
+K&lt;T&lt;TMI. © 2000 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+magnesium compounds
+magnetic epitaxial layers
+high-pressure effects
+colossal magnetoresistance
+metal-insulator transition
+plastic deformation

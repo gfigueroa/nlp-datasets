@@ -1,0 +1,6 @@
+Since Dervan first verifies the forming of three chains of DNA can be lain between and led to the peculiar cut of the target DNA in 1987, the research of three chains of DNA is developed quickly. Triple-stranded DNA can be formed readily at any location in double-stranded DNA with a homologous deoxyoligonucleotide in the presence of RecA-protein, it can utilize triple-stranded of DNA chain to solve the special -1-0-1 planning problems, and finally establish the foundation for solving the general integer planning problem.
+
+DNA computing
+optimal solution
+the special integer programming
+triple-stranded DNA

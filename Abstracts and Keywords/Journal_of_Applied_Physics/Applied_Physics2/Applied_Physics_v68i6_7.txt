@@ -1,0 +1,7 @@
+We present the results of JANAF and Livermore thermochemical ablation models to demonstrate that the theoretical heat of ablation for solid carbon is 30 kJ/g with a minimum uncertainty of ±3 kJ/g across the temperature range of 25004000 K. Proper theoretical computations presented here illustrate that JANAF and Livermore data predict the same heat of ablation for carbon compared to the inherent uncertainties in the theoretical models. Previous heat of ablation calculations by Klein, Berry, and Miles [J. Appl. Phys. 65, 3425 (1989)] purportedly attributing significant differences between JANAF and Livermore data for carbon are shown to be incorrect. Experimental data indicating a heat of ablation of 31.0±1.6 kJ/g for carbon are shown to be consistent with our theoretical calculations provided uncertainties in the above thermochemical models are considered.
+
+CARBON
+SOLIDS
+ABLATION
+THERMOCHEMICAL PROCESSES
+MATHEMATICAL MODELS

@@ -1,0 +1,5 @@
+This work addresses two aspects of dynamic measurements. The first is the evaluation of dynamic uncertainty which is calculated using the Polynomial Chaos Theory. The second aspect is the design of digital FIR filters implementing an inverse model, based on uncertainty considerations. Assuming that the filter is designed based on the dynamic model of the measurand, it can be said that the filter is affected by the parametric uncertainty with which the model is known. Furthermore, the digital implementation itself affects the propagation of uncertainty. In particular, since in this work the inverse model filter is assumed to be built as the combination of differentiator FIRs, the effect of these digital differentiators versus the ideal differentiation process can be assessed and its impact on uncertainty estimated. This analysis provides guidelines in finding a trade-off between filter size, thus computational effort, and uncertainty
+
+dynamic response
+measurement
+uncertainty

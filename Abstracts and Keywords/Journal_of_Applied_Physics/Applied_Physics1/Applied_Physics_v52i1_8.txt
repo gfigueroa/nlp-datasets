@@ -1,0 +1,14 @@
+The spatial photon intensity distribution is calculated for geometries pertinent to taperedwiggler freeelectron lasers. A largeradius incident photon field interacts with a smallradius ebeam gain medium, and the diffraction of extracted energy from the gain medium to larger radii is analyzed in the limit of small gain. The results are compared with a simple fillfactor approximation.
+
+FREE ELECTRON LASERS
+DIFFRACTION
+CONFIGURATION
+MATHEMATICAL MODELS
+THEORETICAL DATA
+SPATIAL DISTRIBUTION
+PHOTONS
+WIGGLER MAGNETS
+ELECTRON BEAMS
+GAIN
+ENERGY RECOVERY
+COMPARATIVE EVALUATIONS

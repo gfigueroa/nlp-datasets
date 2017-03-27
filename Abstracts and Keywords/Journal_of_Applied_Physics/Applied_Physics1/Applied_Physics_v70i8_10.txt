@@ -1,0 +1,14 @@
+A new composition of Bisubstituted terbium iron garnet (Tb3xBixFe5O12) for a wideband optical isolator was investigated. The Faraday rotation of Tb3xBixFe5O12 (x=0.25) at 1.5 ¼m band proved to be independent of wavelength ». The value of the Faraday rotation of the crystal with x=0.25 was about 205 deg/cm at »=1.5 ¼m. We have also found empirically that there is a simple relationship between the Faraday rotation coefficient ¸F(x) and Bi content x, given by ¸F(x)=1540x+180 deg/cm. By using these crystals as a Faraday rotator, we have developed wideband optical isolators for a 1.5 ¼m band. Forward loss of 0.4 dB and backward loss of 34 dB were obtained in the wavelength region from 1.5 to 1.7 ¼m. The size of the isolator is 5 mm diameter×5 mm long and its weight is 0.4 g. Through an optical fiber transmission system with the isolator, we could transmit a stable and clear picture for the lights of 1.53 and 1.57 ¼m wavelength.
+
+MAGNETOOPTICAL EFFECTS
+OPTICAL FIBERS
+NOISE
+REFLECTION
+XRAY FLUORESCENCE ANALYSIS
+TERBIUM OXIDES
+BISMUTH OXIDES
+IRON OXIDES
+QUATERNARY COMPOUNDS
+FABRICATION
+OPTICAL COMMUNICATION SYSTEMS
+LIGHT TRANSMISSION

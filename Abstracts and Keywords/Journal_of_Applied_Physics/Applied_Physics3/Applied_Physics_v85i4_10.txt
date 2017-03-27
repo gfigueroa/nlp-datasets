@@ -1,0 +1,14 @@
+Titania is a material with structural flexibility, and as a result, readily forms both crystalline polymorphs and an amorphous structure in thin films grown near room temperature. The goal of this study is to correlate fundamental optical absorption edge characteristics with the phase constituency of titania films. To that end, films with coexistent rutile, anatase, and amorphous constituents were sputter deposited onto fused silica and 111	-Si substrates. The films were then subjected to cyclic annealing in air at moderate temperature (700 and 1000
+°C) to affect phase changes. BraggBrentano x-ray diffraction was used for phase identification and near ultraviolet-visible transmission and reflection spectrophotometry was used to determine the optical absorption coefficient at the onset of interband transitions. The optical absorption coefficient was modeled within the framework of the coherent potential approximation (CPA), with Gaussian site disorder introduced into the valence and conduction bands of a perfect virtual crystal. Two parameters of the disordered crystal were defined: the optical band gap, Ex, and the slope of absorption edge, Eo. The results are discussed in terms of two extreme cases: (1) film states containing a large rutile volume fraction (0.701) share a rutile virtual crystal, with Eg = 3.22
+eV. Data for these states was combined with single crystal data to develop an expression interrelating Eg, Ex, and Eo. This expression is applicable to any structure with a rutile virtual crystal. The relationship between structural disorder (i.e., the volume fraction of amorphous material) and electronic disorder (i.e., Eo), is quantitatively consistent with the CPA model. (2) Film states containing a small rutile volume fraction (0.020.17), and hence a large anatase+amorphous component, share a nonrutile virtual crystal, with Eg = 3.41
+eV. The effect of increasing the structural disorder (i.e., the rutile volume fraction), in these states is to shift Ex to lower values, which is qualitatively consistent with the CPA model. Furthermore, anatase and amorphous components can be modeled using the same nonrutile virtual crystal, indicating these structures have a common short-range order in the sputter deposited films of this study. © 1999 American Institute of Physics.
+
+titanium compounds
+insulating thin films
+absorption coefficients
+visible spectra
+X-ray diffraction
+conduction bands
+valence bands
+energy gap
+ultraviolet spectra

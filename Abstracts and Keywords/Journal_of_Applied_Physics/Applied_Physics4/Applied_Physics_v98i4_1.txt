@@ -1,0 +1,8 @@
+We present measurements of in situ nanometric-resolution topographical modifications of thin niobium layers subjected to strong electric fields. The Nb layers, deposited on a fused silica substrate, are interferometrically flash probed using soft x-ray laser (XRL) at the wavelength of 21.2nm. Its pulses are reflected by the probed sample under grazing incidence angle, and the information about surface deformation is obtained by a Fresnel wave-front-division interferometer. It was experimentally established that the probing pulses at the soft x-ray wavelength do neither produce any measurable photoelectric-field emission, nor alter the topographical features of the probed surface. The examined Nb electrodes were periodically probed while the electric field was increased up to 80MV/m, and alterations of their topographical characteristics with a resolution of < 2nm in the relief elevation were obtained. It was found that behavior of the Nb layer strongly depends on the polarity of the applied voltage. Only small modifications are observed with the Nb surface at the positive potential, whereas the negative potential induces significant transient surface perturbations, with peak-to-valley elevation differences < 50nm. The qualitative nature of these modifications was observed to be unrelated to intermittent parasitic breakdowns.
+
+niobium
+type II superconductors
+deformation
+light interferometry
+nanostructured materials
+electron field emission

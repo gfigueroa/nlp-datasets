@@ -1,0 +1,9 @@
+Phonon fluctuation model for flicker noise in elemental semiconductors is consistent with then existing data. New experimental results may necessitate a reinterpretation of some of the axioms of the model. A further improvement in the model can result by reviewing some of the assumptions involved.
+
+SEMICONDUCTOR MATERIALS
+FLUCTUATIONS
+CHARGEDPARTICLE TRANSPORT
+CHARGEDPARTICLE TRANSPORT THEORY
+PHONONS
+SCATTERING
+NOISE

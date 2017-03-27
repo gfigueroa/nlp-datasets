@@ -1,0 +1,12 @@
+Radio frequency magnetron sputtering has been used for the synthesis of aligned carbon nanotubes (CNTs) on a SiO2/Si substrate, with simultaneous in situ catalyst deposition. This method allows the use of substrates without the need of a surface predeposition of catalytic particles. In particular, among the metals considered, we observed the formation of CNTs using W or Ni as catalysts. Only in the case of Ni did we find that the CNTs are aligned along the target-substrate direction, unlike the randomly oriented CNTs observed when W was used as catalyst. Scanning and transmission electron microscopies show that the catalytic Ni nanoparticle is found mostly on the tip of the obtained bamboolike CNTs, while W nanoparticles are encapsulated inside hollow nanotubes, at different points along their length. We ascribe not only the observed structural differences to the size of the W and Ni particles but also to a different diffusion behavior of C in the two kinds of metallic clusters.
+
+carbon nanotubes
+catalysis
+catalysts
+diffusion
+nanotechnology
+nickel
+scanning electron microscopy
+sputter deposition
+transmission electron microscopy
+tungsten

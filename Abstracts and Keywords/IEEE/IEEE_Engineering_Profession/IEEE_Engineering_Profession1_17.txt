@@ -1,0 +1,10 @@
+Causal inference is one of the central capabilities of the natural intelligence that plays a crucial role in thought, perception, reasoning, and problem solving. This paper presents a set of cognitive models for causation analyses and causal inferences. The taxonomy and mathematical models of causations are created. The framework and properties of causal inferences are elaborated. Methodologies for uncertain causal inferences are discussed. The formalization of causal inference methodologies enables machines to mimic complex human reasoning mechanisms in cognitive informatics, cognitive computing, and computational intelligence.
+
+Formal inference
+causal analysis
+causation network
+cognitive computing
+cognitive informatics
+computational intelligence
+denotational mathematics
+reasoning

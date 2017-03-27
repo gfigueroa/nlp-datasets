@@ -1,0 +1,9 @@
+The contribution provides a short overview of levels of creativity achieved in different computational systems, and sketches a proposal of two different possibilities how to cope with the problem of creativity of artificial systems.
+
+Artificial Intelligence
+Cognitive Science
+Computer Art
+Computers
+Creativity
+Problem Solving
+Societies of Agents

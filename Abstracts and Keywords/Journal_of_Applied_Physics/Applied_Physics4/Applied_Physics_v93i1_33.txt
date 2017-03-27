@@ -1,0 +1,13 @@
+The in-plane angular variation of hysteretic ferromagnetic resonance (HFMR) at 9.57 GHz, in increasing and decreasing field sweeps, is used to determine both coercivity HC and exchange bias HE in a ferromagnetic/antiferromagnetic Co/MnPt bilayer. The angular dependence of HC and HE is in excellent agreement with micromagnetic models in which the interfacial exchange energy is approximately equal to the domain-wall energy in the antiferromagnet. The HFMR linewidths show a systematic angular variation, indicating that domain formation is important. © 2003 American Institute of Physics. 
+
+cobalt
+ferromagnetic materials
+manganese alloys
+platinum alloys
+antiferromagnetic materials
+interface magnetism
+ferromagnetic resonance
+coercive force
+exchange interactions (electron)
+magnetic hysteresis
+magnetic domain walls

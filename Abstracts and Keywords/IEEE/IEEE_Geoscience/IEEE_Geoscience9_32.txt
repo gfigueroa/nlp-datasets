@@ -1,0 +1,6 @@
+The integration of wind resources into power systems entails new challenges at all levels of the electricity industry. In this paper, we discuss critical issues emerging due to the incorporation of wind power suppliers in existing electricity market designs. We discuss the impacts of wind power intermittency and uncertainty on the planning and operation of the system and markets. In particular, we demonstrate how wind resource integration induces higher degrees of variability in the net load served by the conventional generators and may result in loss of load situations. Our findings provide supportive evidence for the need to rethink, upgrade and redesign the current electricity markets structures to accommodate deep penetration of wind power.
+
+Power system economics
+electricity market design
+renewable energy integration
+uncertainty management

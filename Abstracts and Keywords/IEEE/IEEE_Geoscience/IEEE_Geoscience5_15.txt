@@ -1,0 +1,7 @@
+One of the most important challenges in a densely wireless sensor network (WSN) with potential congestions and packet loss is dissemination of distrusted packets. In this paper we present FCCTF: Fairness Congestion Control for a disTrustful WSN using Fuzzy logic. FCCTF increases each node capability for detecting and isolating malicious nodes in order to improve packet delivery while some important packets endanger dropping due to overflowing. Indeed, FCCTF attempts to improve our previous scheme Fuzzy based trust estimation for Congestion Control in WSNs (FCC). Simulation results show that FCCTF improves packet delivery up to 18.5% more and it reduces the related packet drop of legitimate nodes 20% less than FCC.
+
+Fuzzy Inference System
+WSN
+fuzzy logic
+malicious node
+threshold trust value

@@ -1,0 +1,11 @@
+The theory of freecarrier absorption in nondegenerate semiconductors in the presence of quantizing magnetic fields is used to calculate the absorption of electromagnetic radiation polarized perpendicular to the magnetic field direction. We find that using the Born approximation, the absorption coefficient diverges logarithmically for radiation polarized transverse to the magnetic field whenever the photon frequency is an integral multiple of the carrier cyclotron frequency, i.e., when ©=n…c. The magnetic field dependence of the absorption for the transverse configuration, like that for the longitudinal configuration, can be explained in terms of phononassisted transitions between the various Landau levels of the carriers.
+
+SEMICONDUCTOR MATERIALS
+CHARGE CARRIERS
+ABSORPTION
+MAGNETIC FIELDS
+CONFIGURATION
+MATHEMATICAL MODELS
+ELECTROMAGNETIC RADIATION
+POLARIZATION
+BORN APPROXIMATION

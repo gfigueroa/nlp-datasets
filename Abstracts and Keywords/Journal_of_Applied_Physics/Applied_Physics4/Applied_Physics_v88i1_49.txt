@@ -1,0 +1,16 @@
+In this work, the magnetization dynamics of soft magnetic materials is studied with the aid of transverse differential permeability ¼(Iac,f,Hdc) spectra. Contributions to the magnetization processes from domain wall motion and rotation of the magnetization can be extracted from the transverse differential permeability data which are in turn obtained from impedance Z(Iac,f,Hdc) spectra. In particular, an iteration method is used to extract ¼(Iac,f,Hdc) from Z(Iac,f,Hdc) data. The approach is tested in samples with a very well known domain structure, namely (110)[001]FeSi3%. Permeability spectra ¼(Iac,f,Hdc) were obtained in the frequency range (100
+Hz}f}100
+kHz), probe current range (0.1}Iac}50
+mA) and dc magnetizing field range (0}Hdc}500
+Oe). It is shown that the method developed in this article can be efficiently used to identify and study different dynamic processes driven by the probe current and controlled by the external dc field. In particular, it is shown that the method provides the tools to separate the reversible and irreversible parts of these processes. © 2000 American Institute of Physics. 
+
+magnetisation
+soft magnetic materials
+galvanomagnetic effects
+electric impedance
+magnetic permeability
+magnetic domain walls
+iterative methods
+iron alloys
+silicon alloys
+ferromagnetic materials

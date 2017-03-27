@@ -1,0 +1,8 @@
+Experiments were performed that examined the behavior of overlapping populations of two triplet combinations of implanted dopants in silicon: arsenicargonboron and boronargonphosphorus. It was found that the chemical profile and electrical activity of arsenic could be adjusted practically at will. Anomalous behavior was observed with boron. Similar control was displayed with boron and phosphorus when argon was present. The experimental results are both consistent with and supportive of calculations on a model silicon lattice that predict complex formation; arrangements of these triplets in close proximity are more stable energetically than when they are sufficiently separated that interactions are minimal.
+
+INTERSTITIALS
+SILICON
+BORON
+ARGON
+ARSENIC
+PHOSPHORUS

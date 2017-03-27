@@ -1,0 +1,12 @@
+We fabricated pn and pin a-SiC:H/c-Si heterojunction solar cells following two different processes. In the first approach, wafers were subjected to an extra atomic hydrogen (produced by hot wire chemical vapor deposition) prior to the deposition of the amorphous layer. A reduction in the open-circuit voltage was observed for the passivated cells due to their higher leakage current. In the second process, pin solar cells with two different quality intrinsic a-Si:H buffer layers were fabricated using plasma enhanced chemical vapor deposition. The cells with a device quality buffer layer (deposited at higher temperature) showed better performance than those with a buffer layer with high hydrogen content and higher defect density (deposited at lower temperatures). © 2000 American Institute of Physics. 
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+solar cells
+semiconductor heterojunctions
+CVD coatings
+semiconductor epitaxial layers
+vapour phase epitaxial growth
+silicon compounds

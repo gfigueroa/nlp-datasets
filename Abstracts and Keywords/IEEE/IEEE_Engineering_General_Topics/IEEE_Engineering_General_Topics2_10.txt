@@ -1,0 +1,5 @@
+Delicate variations of the facial emotions can dramatically spiritualize the humanoid robot with passionate scenarios. Most facial mechanisms are driven by the stepping motor, the RC-servomotor, and the pneumatic or hydraulic cylinders. However, the traditional issues on the reduction gear, the braking mechanism, and the complexity the pneumatic or hydraulic power sources are also arisen when the light-weight, mechanical simplicity, and power management problems become dominant in the dynamic analysis on the humanoid robot. This paper is dedicated to discuss the facial dynamics driven by the non-traditional mini-size ultrasonic motors (USM) on the humanoid robot. Finally, simulations and the experiments of the facial dynamics with the mini-size USM on the neural network are carefully examined and successfully justified the advantages of the proposed innovation on the issues of the light-weight, the mechanical simplicity, and the power management.
+
+Humanoid Robot
+Ryodoraku Craftsmanship
+Ultrasonic Motors

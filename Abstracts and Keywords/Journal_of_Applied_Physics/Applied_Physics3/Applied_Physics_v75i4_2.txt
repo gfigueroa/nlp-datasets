@@ -1,0 +1,12 @@
+Effect of ion implantation on the conductivity of zinc oxide was examined by using highly resistive zinc oxide thin films deposited by rf magnetron sputtering at room temperature to reduce the effect of oxygen vacancies. With the doping by 1×1017 atoms/cm2 gallium the conductivity is 1.0×103/© cm for asimplanted film and it increases up to 3.7×103/© cm, the highest conductivity reported for zinc oxide films, with raising the annealing temperature in either a nitrogen or oxygen atmosphere. The conductivity of aluminumdoped films is slightly lower than those of galliumdoped films. Among the elements gallium, aluminum, and boron, gallium is the most effective in enhancing the conductivity and boron is the least. The order of the effectiveness is explained by the electronegativity of the dopants.
+
+ZINC OXIDES
+THIN FILMS
+ELECTRIC CONDUCTIVITY
+ION IMPLANTATION
+GALLIUM IONS
+BORON IONS
+ALUMINIUM IONS
+DOPED MATERIALS
+ENHANCEMENT
+SPUTTERED MATERIALS

@@ -1,0 +1,12 @@
+The effects of the grain growth and residual stress of Cu thin films on reflow were investigated. Agglomeration and grain growth of Cu films occurred during annealing in an oxygen ambient, while they were not observed in inert ambients. In the case of chemical vapor deposited Cu films, trench patterns of 0.5 ¼m with an aspect ratio of 2 were completely filled at annealing temperatures higher than 400
+°C in oxygen ambient, due to the preferential agglomeration inside the patterns. Upon annealing at 400
+°C in an oxygen ambient, the agglomeration terminated within 10 min, while the thickness of Cu oxide increased to 18.3 nm, and normal grain growth, resulting in increased capillary instability of Cu films, was observed. Because of a larger volume of Cu oxide than Cu, the formation of Cu oxide led to compressive stress in the films. By calculation, it was shown that compressive stress could decrease through grain growth. It is considered that the agglomeration and reflow in an oxygen ambient resulted from the relaxation of compressive stresses via grain growth. © 2000 American Institute of Physics. 
+
+copper
+metallic thin films
+CVD coatings
+grain growth
+internal stresses
+stress relaxation
+annealing
+aggregation

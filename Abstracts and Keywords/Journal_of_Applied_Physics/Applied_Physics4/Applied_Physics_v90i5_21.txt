@@ -1,0 +1,13 @@
+The role of the bias pretreatment for the enhanced nucleation of the diamond nuclei in the chemical vapor deposition of diamond is theoretically investigated. We obtain the kinetic energy of ions impinging on the surface of the substrate as a function of bias voltage. The experimentally obtained optimum bias voltage of 100
+V for the enhanced nucleation of diamond nuclei corresponds to the C ion energy of <5
+eV at the surface of the substrate. The reduction of the ion energy is caused by the scattering in the ion sheath region of the plasma. The ion sheath width and the ion energy on the surface of the substrate are given as functions of the gas pressure and the bias voltage. The results are compared with the experimental results. © 2001 American Institute of Physics. 
+
+diamond
+elemental semiconductors
+semiconductor thin films
+plasma CVD
+semiconductor growth
+plasma simulation
+plasma sheaths
+plasma transport processes
+nucleation

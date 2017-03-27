@@ -1,0 +1,10 @@
+Gasphase OH radical reactions with H2 and CO were studied using pulse radiolysis absorption spectroscopy in ArH2OH2 and ArH2OCO systems. Computer simulation was used to examine the contribution of various reactions involved in OH decay and to confirm the experimentally measured bimolecular rate constants of OH+H2 and OH+CO reactions. In the hydrogenargonwater system, it was found that the OH+H reaction makes a substantial contribution to OH decay in competition with the process OH+H2. The value of the OH+H2 abstraction rate constant, (3.2±0.7)×1015 cm3	molecules1	s1, obtained empirically from a plot of the pseudofirstorder rate constant for OH consumption versus H2 pressure was about 50% lower than most literature values, but proved to be acceptable in the dynamic simulations. Although some 30 reactions are needed to describe the ArH2OCO system, the OH concentration decreases almost exponentially, mostly by the OH+CO addition reaction, with small contributions by other processes. The empirically determined OH+CO bimolecular rate constant of (1.55±0.13)×1013 cm3	molecule1	s1 agreed well with literature values determined in the presence of Ar buffer gas and also led to consistent predictions in the computer simulation work.
+
+HYDROGEN MOLECULES
+REACTION RATES
+CARBON MONOXIDE
+HYDROXYL RADICALS
+COMPUTERIZED SIMULATION
+CHEMICAL REACTION KINETICS
+RADIOLYSIS
+ABSORPTION SPECTROSCOPY

@@ -1,0 +1,13 @@
+A new method to measure the nucleation rate of solidification I(T) in undercooled liquids is described. The method is based on the phase sensitivity of the x-ray absorption coefficient above coreelectron absorption edges. By tuning the photon energy to a high-contrast value, the liquid and solid sample fractions can be accurately measured as a function of temperature and time, during the crystallization phase of suitable sample temperature scans. The method can be applied to emulsions of liquid droplets or powder mixtures at high temperatures. The samples are composed of a large number (104109) of independent micrometric droplets which guarantee excellent statistics. A theoretical treatment of the nucleation statistics, suitable for the interpretation of the experimental data, is developed. The method is applied to the crystallization of undercooled liquid palladium droplets dispersed in sintered Al2O3 powder. The Pd nucleation rate I(T) has been determined in the interval 1560
+K&lt;T&lt;1610
+K covering a range of 6 orders of magnitude. The data indicate the occurrence of a time independent volume nucleation phenomenon. The results of this fundamental measurement are discussed in light of much interest from both thermodynamical and metallurgical points of view. A fit of our data with a model from the classical theory of nucleation gives a value of the exponential factor compatible with known thermodynamic quantities such as the solidliquid interfacial energy Ã and a preexponential factor Kv on the order of 3.4×1031
+m3
+s1, suggesting the occurrence of a heterogeneous nucleation process. © 2000 American Institute of Physics. 
+
+nucleation
+solidification
+X-ray absorption
+undercooling
+liquid metals
+crystallisation
+drops

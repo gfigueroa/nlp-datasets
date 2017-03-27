@@ -1,0 +1,9 @@
+EVs are the promise of future transportation in urban as well as rural areas. Ideal EVs of the future will have no engine, no chemical batteries and will derive the required energy from conventional power grid or from non-conventional generating stations ranging from solar, nuclear, microhydel, wind generators, biomass/biogas plants or wave generators. The problem at that time will be an economically viable storage medium. Such a medium is on the horizon for some time. Typical contestants are flywheel, Li-ion, ultra caps and Zn-air. The present technology available does not support economic use of the above storage mediums. However in special circumstances such as remote or hilly area transportation or defence, Li-ion and flywheel can be considered.
+
+AC motor drives
+Batteries
+Battery chargers
+DC motor drives
+Digital control
+Motor protection
+Road vehicle electric propulsion

@@ -1,0 +1,6 @@
+Using a common Pierce LC oscillator circuit it is demonstrated that by using the technique referred to as a load- line match, commonly used in the design of class A power amplifiers, it is possible to extract the maximum available power from an RF transistor for delivery to a specified load impedance. This results in the transistor being used to its full capacity resulting in the oscillator efficiency approaching the theoretical limit of 50%.
+
+LC resonator
+Pierce oscillator
+Q factor
+load line match

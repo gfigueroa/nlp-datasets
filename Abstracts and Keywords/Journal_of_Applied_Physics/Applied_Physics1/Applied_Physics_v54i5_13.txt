@@ -1,0 +1,16 @@
+A singlecrystalline silicononinsulator structure has been fabricated with solidphase lateral epitaxy. Chemicalvapordeposited amorphous silicon (CVD aSi) deposited on a SiO2 stripe is crystallized by furnace annealing. A new CVD technique (clean CVD) has met the conditions required for solidphase epitaxy; clean interface and reduction of impurities and microcrystallites in the aSi film. In the case of a 4¼mwide SiO2 stripe parallel to the 100	 direction, the entire deposited layer grows epitaxially by lowtemperature furnace annealing (550<650	°C). In the case of a 10¼mwide SiO2 stripe, the whole surface region also grows epitaxially, although the deep region partially becomes polycrystalline in areas distant from the open substrate surface. The grownlayer crystallinity is improved by subsequent hightemperature annealing.
+
+silicon
+chemical vapor deposition
+solids
+epitaxy
+amorphous state
+annealing
+furnaces
+monocrystals
+electrical insulators
+crystallization
+impurities
+size
+high temperature
+polycrystals

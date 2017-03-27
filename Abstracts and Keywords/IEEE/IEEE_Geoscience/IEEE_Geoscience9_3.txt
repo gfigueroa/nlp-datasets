@@ -1,0 +1,10 @@
+This paper discusses the conceptual design and operation of an isolated power system, recognizing the reality that generator or turbine trips will occur. The level of reserve generating capacity must be set with proper balancing of capital expenditures and operating costs against revenue lost in a production shutdown. The way that reserve capacity is provided is as important as the amount of reserve; seemingly adequate reserve can turn out to be badly insufficient if it is not well distributed across the available reserve sources.
+
+dynamic stability
+incremental reserve margin
+islanded power generation
+load shedding
+model validation
+single-shaft gas turbine
+spinning reserve
+transient stability

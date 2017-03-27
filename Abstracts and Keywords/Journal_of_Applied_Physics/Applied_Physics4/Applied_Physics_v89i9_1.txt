@@ -1,0 +1,8 @@
+We have investigated the behavior of the absolute density of hydrogen (H) atoms in ultrahigh-frequency (UHF), (500 MHz) silane (SiH4) plasma by using a vacuum ultraviolet absorption spectroscopy technique with a microdischarge hollow cathode lamp. In the UHF plasma using SiH4 highly diluted with hydrogen molecule (H2) at a pressure of 20 Pa, an UHF power of 1000 W, and a total flow rate of 200 sccm, the absolute density of H atoms slightly increased from 7.4×1011 to 7.9×1011
+cm3 with increasing the SiH4 flow rate ratios from 0% to 2.5% and then the H atom density decreased at the ratio of 5%. The decrease of the density is due to the increase of the reaction between the H atom and the SiH4 molecule. The behavior of the absolute density of H atoms was compared with that of the Balmer ±(H±) emission intensity. It was found that the behaviors of the absolute H atom density and the H± emission intensity were quite different. Moreover, the kinetics of H atom density in SiH4 plasmas have been clarified on the basis of measured results. © 2001 American Institute of Physics.
+
+silicon compounds
+plasma density
+plasma chemistry
+ultraviolet spectra
+plasma diagnostics

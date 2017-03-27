@@ -1,0 +1,4 @@
+One limitation on organic light emitting diode (OLED) performance is the optical extraction efficiency ·ex, which is defined as the ratio of light generated within the device to light emitted into the ambient. Typical estimates for ·ex, in OLEDs range between 0.17 and 0.5. We develop a simple radiative transport model that quantifies the effect of volumetric light scattering on light output in OLEDs in terms of a small set of readily measured parameters. The methodology is sufficiently general to parametrize and describe many of the light extraction schemes found in the literature. A set of model calculations is presented using typical OLED parameters; these calculations show that the introduction of light scattering sites within the otherwise transparent substrate can increase light extraction efficiencies to values between 0.55 and 1. © 2004 American Institute of Physics. 
+
+organic light emitting diodes
+light scattering

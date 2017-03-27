@@ -1,0 +1,10 @@
+We studied the influence of band structure on the Seebeck coefficient of bismuth under a magnetic field. In this study, the magneto-Seebeck coefficient was calculated by solving the Boltzmann equation with an energy-dependent relaxation-time approximation and by assuming the Lax model of the bismuth band structure, which contains the anisotropy of bismuth. The influence of the scattering factor on the magneto-Seebeck effect was also investigated in the anisotropic band structure. The magneto-Seebeck coefficient varies with the magnetic field direction. Improvement of the Seebeck coefficient under a transverse magnetic field is higher than that under a longitudinal magnetic field. For the acoustic deformation potential scattering, the Seebeck coefficient is improved in a low magnetic field. For other types of scattering, the absolute values of the Seebeck coefficient are decreased in the low magnetic field. Moreover, for scattering factor r of 0, the magneto-Seebeck coefficient for a parabolic band does not vary, while the magneto-Seebeck coefficient for a nonparabolic band decreases. The sign of the Seebeck coefficient was changed under a high magnetic field because of the increase in magnetoresistivity due to high electron mobility. The effect of impurity addition was also investigated by changing the Fermi energy. With increasing Fermi energy, the Seebeck coefficient is more easily affected by an applied magnetic field, because the electron density is increased.
+
+acoustics
+band structure
+bismuth
+Boltzmann equation
+electron mobility
+Fermi level
+magnetoresistance
+Seebeck effect

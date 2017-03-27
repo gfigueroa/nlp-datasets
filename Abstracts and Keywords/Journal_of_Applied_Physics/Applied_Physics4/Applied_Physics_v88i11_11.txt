@@ -1,0 +1,14 @@
+The results of electrical and dielectric studies in semicrystalline nylon 11 (degree of crystallinity 62%) by means of dielectric relaxation spectroscopy (DRS) in the frequency range 102106
+Hz at temperatures between the glass transition temperature of about 40
+°C and the melting temperature of about 190
+°C are reported. Emphasis is put on the investigation of electrical conductivity and conductivity effects. Additional information on dc conductivity is obtained from triangular voltage measurements. The results of DRS were analyzed within the formalism of permittivity (ac conductivity), impedance, and electric modulus. At temperatures higher than about 100
+°C the spectra are dominated by dc conductivity and conductivity current relaxation. Despite high values of dc conductivity (Ãdc=106105
+S/m at 170
+°C), electrode effects and space charge polarization, giving rise to high values of µ2 at low frequencies, are negligible in the whole temperature range of measurements. This feature, as well as the rather small temperature dependence of static dielectric permittivity, are important with respect to technological applications of nylon 11 as a high-temperature electroactive material. © 2000 American Institute of Physics. 
+
+conducting polymers
+electrical conductivity
+dielectric relaxation
+permittivity
+dielectric polarisation
+space charge

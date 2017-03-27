@@ -1,0 +1,7 @@
+Two-level, three-factor full factorial design of experiments was applied in this study to elucidate a relationship between operating variables and lactic acid conversion in esterification with ethanol and n-butanol. The variables of interest are reaction temperature (65-85&#x00B0;C), initial alcohol-to-lactic-acid molar ratio (1:1-5:1), and catalyst loading (1-5 %w/v). Conversion of lactic acid in esterification reaction was found to be enhanced by independently increase of all the parameters and simultaneously increase of reaction temperature and reactant molar ratio, as well as reactant molar ratio and catalyst loading. However, raising the reaction temperature and using larger catalyst loading in the system where the initial reactant molar ratio was low did not lead o any enhancement of the acid conversion. It was showed statistically that, with all the variables in the range studied here, the initial alcohol-to-lactic-acid molar ratio was the most significant variable of the process. A linear model to predict conversion as function of operating variables was also constructed, and the conversion calculated from the model was in excellent agreement with those obtained experimentally.
+
+esterification
+ethanol
+full factorial design
+lactic acid
+n-butanol

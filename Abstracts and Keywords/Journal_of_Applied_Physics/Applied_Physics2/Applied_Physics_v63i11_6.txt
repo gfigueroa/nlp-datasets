@@ -1,0 +1,10 @@
+The composition and bonding configuration of amorphous germaniumtin (aGe1xSnx) thin films are reported (0dx&lt;0.3). Mössbauer spectroscopy analyses show that under the reported deposition conditions all tin atoms enter the aGe network in a perfect substitutional way, i.e., in a covalent tetrahedral configuration. The absence of defect structures in the tin sites is discussed and compared with results on films prepared under different conditions.
+
+CRYSTAL STRUCTURE
+GERMANIUM ALLOYS
+TIN ALLOYS
+CHEMICAL COMPOSITION
+AMORPHOUS STATE
+THIN FILMS
+MOESSBAUER EFFECT
+CRYSTAL DEFECTS

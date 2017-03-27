@@ -1,0 +1,6 @@
+Quasilongitudinal optical phonons in wurtzite GaN have been studied by Raman spectroscopy in the forward scattering geometry with annular apertures. It is demonstrated that the geometry is simple and powerful for determining frequency variation of quasilongitudinal optical phonons in a relatively wide range of their propagation directions, over which the quasilongitudinal optical phonon frequency changes remarkably. Good agreement is obtained between experimental and theoretical results. Discussion is also given on selection rules for quasilongitudinal optical phonons, which are used to interpret polarized Raman signals. © 2000 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+Raman spectra
+phonons

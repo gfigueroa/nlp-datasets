@@ -1,0 +1,12 @@
+An approximate procedure for estimation of the power requirements for the melting and recrystallization of thin silicon films for electronic devices is described. The two heat sources investigated are the laser beam and the graphite strip. The study includes various substrate geometries. The results cover a range of practical interest and are presented in a graphical form for convenient use. The method is verified with existing experimental data.
+
+LASERRADIATION HEATING
+MELTING
+LASER BEAM MELTING
+RECRYSTALLIZATION
+SILICON
+THIN FILMS
+GRAPHITE
+HEAT SOURCES
+POWER
+HEATERS

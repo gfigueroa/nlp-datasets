@@ -1,0 +1,11 @@
+The domain wall pinning model used previously by the authors to explain magnetic hysteresis and stress effects on magnetic hysteresis is used in conjunction with the Callen and Callen expression for magnetostriction » to qualitatively explain magnetostriction hysteresis both with respect to magnetic intensity H and flux density B. The Callen and Callen form for the magnetostriction is used because it depends functionally on effective field He rather than M, and this produces hysteresis in » vs B whereas »=»(M) does not. To our knowledge, this is the first time that magnetic hysteresis and magnetostriction hysteresis have been modeled simultaneously.
+
+MAGNETOSTRICTION
+HYSTERESIS
+MATHEMATICAL MODELS
+DOMAIN STRUCTURE
+MAGNETIC FIELDS
+MAGNETIC FLUX
+FLUX DENSITY
+BESSEL FUNCTIONS
+LANGEVIN EQUATION

@@ -1,0 +1,9 @@
+Integrating circuits into organic light emitting diode displays require fabrication of polycrystalline silicon (poly-Si) based thin-film transistors (TFTs) on glass substrates. In this work we evaluated the use of high pressure annealing (HPA) process of poly-Si films in H2O atmosphere to improve TFT characteristics via reducing defect density in poly-Si films. We attempted to develop a HPA process at temperatures below 600	°C without causing any glass distortion and reducing the throughput. The HPA-treated poly-Si film was analyzed using various spectroscopic methods such as Raman, x-ray photoelectron spectroscopy, and transmission electron microscope, and the evaluation of the characteristics of TFTs fabricated by such poly-Si films was made. The heating at 550	°C with 1MPa H2O vapor increased the carrier mobility from 8.5to20cm2/V	s and reduced the absolute value of the threshold voltage from 9.6to6.5V, as compared with the conventional solid phase crystallization (SPC) process. The sub-threshold swings also decreased from 1.2to0.8V/decade. Since the realization of good performance in poly-Si depends on the defect density, the poly-Si formed by a combined process of SPC and HPA may be well suited for fabrication of poly-Si TFTs for flat panel displays such as liquid crystal display and active matrix organic light emitting diode that require circuit integration on panels.
+
+annealing
+elemental semiconductors
+Raman spectra
+silicon
+thin film transistors
+transmission electron microscopy
+X-ray photoelectron spectra

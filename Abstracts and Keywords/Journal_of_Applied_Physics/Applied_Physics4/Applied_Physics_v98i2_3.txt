@@ -1,0 +1,15 @@
+We have used the melt-quenching technique to prepare the bulk material and vapor-quenching technique to prepare the thin films of Bi93Sb7 alloy. The Bi93Sb7 alloy thin films of different thicknesses were grown onto well-cleaned glass and silicon substrates. The films were annealed at 150	° C for 4 h in a vacuum of the order of 106torr in order to remove the defects and to increase the grain size. The bulk and thin-film x-ray diffraction results agree with the transmission electron microscopy results and the compositional analysis of bulk by particle-induced x-ray emission and of thin films by Rutherford backscattering. The thickness and temperature dependences of thermoelectric power and electrical resistivity have been analyzed. The negative temperature coefficient of resistivity confirmed that the material is semiconducting in nature. The negative thermoelectric power confirmed that the present bismuth-rich material is a n type. In this paper we have made an attempt to study the thermoelectric properties of bulk as well as thin films of Bi93Sb7, maintaining the same composition. The scattering index parameter was calculated from the experimental data and was compared with the theoretical predictions of the size effect theory.
+
+bismuth alloys
+antimony alloys
+metallic thin films
+semiconductor thin films
+thermoelectric power
+melt processing
+quenching (thermal)
+annealing
+grain size
+X-ray diffraction
+transmission electron microscopy
+Rutherford backscattering
+electrical resistivity

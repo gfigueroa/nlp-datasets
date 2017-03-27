@@ -1,0 +1,6 @@
+An analytical approximation for the FermiDirac integral F	j(·) for real j is proposed. This approximation works for &lt;	·	&lt;	, with an error of 1.2% for 1/2&lt;	j	&lt;	1/2 and 0.7% for 1/2	&lt;	j	&lt;	5/2. The error increases with j for higher j values.
+
+integrals
+analytical solution
+errors
+mathematical models

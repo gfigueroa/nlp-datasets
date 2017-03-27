@@ -1,0 +1,11 @@
+Novel spin transport behavior is theoretically shown to result from replacing the usual metal (or polysilicon) gate in a silicon field-effect transistor with a ferromagnet, separated from the semiconductor by an ultrathin oxide. The spin-dependent interplay between the drift current (due to a source-drain bias) and the diffusion current (due to carrier leakage into the ferromagnetic gate) results in a rich variety of spin dependence in the current that flows through such a device. We examine two cases of particular interest: (1) creating a 100% spin-polarized electrical current and (2) creating a pure spin current without a net electrical current. A spin valve consisting of two sequential ferromagnetic gates is shown to exhibit magnetoresistance dependent upon the relative orientations of the magnetization of the two ferromagnets. The magnetoresistance ratio grows to arbitrarily large values in the regime of low source-drain bias, and is limited only by the spin-flip time in the channel. © 2004 American Institute of Physics. 
+
+silicon
+inversion layers
+elemental semiconductors
+insulated gate field effect transistors
+ferromagnetic materials
+spin polarised transport
+magnetoresistance
+spin valves
+magnetoelectronics

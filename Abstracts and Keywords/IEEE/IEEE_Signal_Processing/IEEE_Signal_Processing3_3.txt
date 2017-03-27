@@ -1,0 +1,9 @@
+A simple technique is proposed to adjust coefficients of transfer functions in switched-capacitor circuits. Transfer-function-coefficients are defined by capacitor-values considering full-charge transfer among capacitors. The proposed tuning technique in this paper is based on adjusting the amount of charge transferred from one capacitor to next capacitor. By all means, the net charge transferred in switched-capacitor circuits will effectively modify transfer function of a particular block without modifying individual capacitor values
+
+Switched capacitor
+charge
+on-resistance
+settling
+switch
+transfer function
+tuning

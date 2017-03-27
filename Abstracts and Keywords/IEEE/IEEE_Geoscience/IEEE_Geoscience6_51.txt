@@ -1,0 +1,6 @@
+Interacting technologies are the result of innovation and can be considered as complex systems. Technology is then the result of innovation. These interactions between technologies are typically time dependant and are modeled here using systems dynamics. The effect of uncertain market conditions in the case of competing laser optical storage technology systems is specifically discussed as part of a systems dynamics case study using triangular distributions. The Lotka-Volterra approach is used to model the interaction between the two technology systems. This work is based on previous work on the substitution of red laser diode technology by blue laser technology in optical storage systems.
+
+Technology systems
+laser
+optical storage systems
+systems dynamics

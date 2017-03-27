@@ -1,0 +1,12 @@
+This Comment attempts to clarify issues relating to the determination of the energy separation between the valence band maximum and the Fermi level in surface-sensitive photoemission experiments on wurtzite GaN. Such considerations are relevant to the measurement of band bending at the surface of wide-band gap materials. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+surface states
+energy gap
+valence bands
+Fermi level
+surface cleaning
+palladium
+Schottky barriers

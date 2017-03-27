@@ -1,0 +1,7 @@
+The ionic liquid 1-ethyl-3-methyl imidazolium tetrafluoroborate (EMI+BF4) is electrosprayed in a vacuum from positively charged Taylor cones, and the full sprays are analyzed by time of flight mass spectrometry (TOFMS). They contain predominantly the ions (EMI-BF4)nEMI+ (n=0,1,2), at current levels of several ¼A. Current versus arrival time distributions I(t,L) are measured in a planar disk collector at varying sources to collector distances L, yielding ion-resolved angular current distribution in the polar angle range 21°&lt;¸&lt;37°. Comparison of experimental TOF curves to those expected for the measured angular distribution for a plane collector and a point source shows that the ions are essentially monoenergetic. Hence the present ion source is similar in quality to liquid metal ion sources, while offering a much richer range of chemical composition and mass, including large molecular positive and negative ions. Reinterpretation of the TOF curves as angular distributions shows (indirectly and provisionally) that most ions are at about 20°, with few passing below 10°. © 2004 American Institute of Physics. 
+
+organic compounds
+liquid metal ion sources
+current distribution
+current density
+time of flight mass spectra

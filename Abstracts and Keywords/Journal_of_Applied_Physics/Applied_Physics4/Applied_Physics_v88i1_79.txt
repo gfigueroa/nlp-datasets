@@ -1,0 +1,14 @@
+Arsenic doped CdTe layers have been successfully exposed to a hydrogen or deuterium plasma to study the diffusion of these species and their interactions with arsenic. It is shown that hydrogen behaves similarly when unintentionally (during growth) or intentionally (plasma exposure) introduced. Infrared absorption measurements show that in both cases, identical AsH complexes are formed. The IR absorption line of deuteriumarsenic complexes has also been detected. The concentration of active arsenic acceptors decreases after intentional hydrogen or deuterium diffusion, as a consequence of the formation of these AsH or AsD complexes. But, the diffusion profiles of deuterium show that deuterium in the semiconductor binds also to other As-related centers which have not been identified unambiguously. © 2000 American Institute of Physics. 
+
+cadmium compounds
+arsenic
+II-VI semiconductors
+semiconductor epitaxial layers
+MOCVD
+vapour phase epitaxial growth
+semiconductor growth
+plasma materials processing
+infrared spectra
+impurity absorption spectra
+hydrogen
+diffusion

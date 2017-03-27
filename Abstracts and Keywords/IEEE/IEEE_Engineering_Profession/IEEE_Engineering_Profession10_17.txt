@@ -1,0 +1,9 @@
+The thickness of the individual piezoelectric ceramics should be one of the most fundamental decisions made by designers of ultrasonic transducers. The overall piezoelectric stack length is normally determined by pragmatic guidelines based on the wavelength at the resonating frequency (e.g., &#x00BC; wave). However, the thickness and number of the individual ceramics are often determined by the capability of the drive electronics (e.g., maximum voltage), rather than by fundamental transducer design principles. This research quantifies the performance of ultrasonic transducers based on the thickness and number of the piezoelectric ceramics for a given overall stack length. The motivation for thinner ceramics includes a higher and more uniform electric field for the same voltage and lower impedance, but this results in more joint interfaces-increasing impedance and manufacturing costs-and a four-fold capacitance increase with thickness (e.g., halving the thickness doubles the capacitance and the number of elements); these drawbacks are precisely the motivation for thicker ceramics. This investigation focuses solely on the common Navy Type III, PZT8 piezoelectric material. Several metrics are investigated such as impedance, tool displacement gain, capacitance, quality factors, and electromechanical coupling factor. The experimental and theoretical research methods include Bode plots, admittance loops, equivalent circuits, scanning laser vibrometry, finite element analysis and use of a materials testing machine.
+
+PZT8
+ceramic
+optimizing
+piezoelectric
+thickness
+transducer
+ultrasonic

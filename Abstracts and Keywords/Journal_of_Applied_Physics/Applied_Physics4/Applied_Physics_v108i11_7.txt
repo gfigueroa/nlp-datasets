@@ -1,0 +1,17 @@
+Interesting low temperature memory phenomena have been observed from equilibrium and out of equilibrium magnetic measurements on the La0.7Ca0.3MnO3 nanomanganite system. The observed phenomenon were screened for atomic spin glass (SG), super spin glass (SSG), cluster glass (CG), and superparamagnetic behavior. The results evidences of SG like behavior at low temperature (&lt;40K) in this manganite system consisting of ferromagnetic nanoparticles. In the temperature region between 40 K and the ferromagnetic Curie point TC < 217K, a ferromagnetic CG state develops with a relatively weaker interparticle interaction than that of the low temperature SG phase. The dynamic magnetization shows aging, chaos and memory effects. Moreover, we have also noticed asymmetric response in magnetic relaxation in response to positive and negative temperature cycling protocols. The origin and nature of the low-temperature SG state in this system is discussed within the framework of hierarchical organization of metastable states. The results show existence of various time and length scales in the system, which can be explained by considering the nanoparticles with grain boundary spin disorder and the presence of noncompact ferromagnetic clusters.
+
+ageing
+calcium compounds
+Curie temperature
+ferromagnetic materials
+ferromagnetic relaxation
+grain boundaries
+lanthanum compounds
+magnetic particles
+magnetic structure
+magnetisation
+metastable states
+nanomagnetics
+nanoparticles
+spin glasses
+superparamagnetism

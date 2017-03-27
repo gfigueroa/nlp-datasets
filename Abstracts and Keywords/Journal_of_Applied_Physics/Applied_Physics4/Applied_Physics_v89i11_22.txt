@@ -1,0 +1,9 @@
+A solgel method was employed to produce a zinc oxide (ZnO) colloid consisting of ZnO nanocrystalline particles with an average diameter of <3 nm, and subsequently mixed with a silica (SiO2) colloid. The mixture was finally spray dried to form a powder nanocomposite. It was found that the green photoluminescence (PL) exhibited by the composite was very stable: the intensity, position, and shape do not change even after being aged over 30 days. Thus, the ZnO/SiO2 nanocomposite has a much improved PL stability over ZnO colloids, which is often found to undergo a significant redshift even after aging over a few days. Our results are expected to have significant technological implications. © 2001 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+semiconductor quantum dots
+silicon compounds
+nanostructured materials
+photoluminescence
+sol-gel processing

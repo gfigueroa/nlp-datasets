@@ -1,0 +1,14 @@
+The growth of Sr on n-type Si(001) was studied in detail for coverages between 0 and 1 monolayer (ML) using core level photoemission spectroscopy. In a similar manner, the Sr saturation coverage was studied in the 600925
+°C temperature range. Data analysis was carried out by a method that allows accurate determination of the band-bending shifts. Using this method it is possible to pinpoint the formation and destruction of chemical species from bungled core level photoemission data without needing to know details of the chemical composition of the spectra. Through this analysis it was established that the interaction between Sr and Si breaks down the binding energy difference between upward and downward Si dimer atoms. In addition, it was found that the saturation coverage exhibits a clear plateau at 1 ML around 650
+°C, and a slope change at 1/3 ML around 850
+°C. The surface band bending suffers a discontinuous increase as the Sr coverage surpasses ½ ML and as the low energy electron diffraction symmetry changes from [2×3] to [2×1]. © 2001 American Institute of Physics. 
+
+strontium
+monolayers
+silicon
+elemental semiconductors
+photoelectron spectra
+core levels
+semiconductor-metal boundaries
+band structure
+high-temperature effects

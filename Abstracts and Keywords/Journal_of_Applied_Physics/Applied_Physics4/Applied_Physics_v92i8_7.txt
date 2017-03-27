@@ -1,0 +1,6 @@
+The field and temperature dependence of the attempt frequency is important for the analysis of dynamic-thermal reversal of magnetic grains, especially at relatively short times. Here we present a general approach by which the attempt frequency can be easily evaluated for interacting magnetic grains or subsystems. For the case of large energy barriers relative to thermal energy, a general asymptotic solution to the FokkerPlanck equation is developed. The stochastic equations are based upon a dynamic-thermal reversal model. Dynamic coercivity versus pulse time for the whole time range, from purely dynamic reversal to purely thermal reversal, is calculated. Our approach is illustrated by specific examples of an independent grain, two ferromagnetic coupled grains, and two antiferromagnetic coupled grains. The effect of the exchange interaction is emphasized. © 2002 American Institute of Physics. 
+
+magnetisation reversal
+coercive force
+exchange interactions (electron)
+Fokker-Planck equation

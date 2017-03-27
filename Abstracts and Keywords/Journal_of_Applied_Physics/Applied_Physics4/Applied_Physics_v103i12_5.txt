@@ -1,0 +1,10 @@
+The photocarrier radiometry (PCR) responses of heavily implanted silicon wafers (As+ ion 1×10131×1016cm2) were reported. The experimental dependence of the PCR amplitude on the implant dose was in good agreement with the theoretical prediction calculated with a three-layer PCR model, in which the implanted silicon wafer was assumed to be consisted of an amorphous, a polycrystalline, and a single-crystalline Si layer. The structural, optical, and transport properties of all layers used in the calculations were determined experimentally with spectroscopic ellipsometry (SE), spectrophotometry, and laterally resolved modulated free-carrier absorption to minimize the uncertainties of the theoretical calculations. The dose dependence of the PCR amplitude showed a nonmonotonicity at high dose implantation, as confirmed by the SE measurements.
+
+absorption coefficients
+arsenic
+carrier lifetime
+elemental semiconductors
+ion implantation
+semiconductor doping
+silicon
+surface recombination

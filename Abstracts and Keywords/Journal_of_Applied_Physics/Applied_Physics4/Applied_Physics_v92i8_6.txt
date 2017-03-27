@@ -1,0 +1,9 @@
+An experimental survey of the angular dependence of the remanent switching fields for longitudinal and perpendicular magnetic recording media is presented and compared to the StonerWohlfarth and Kondorsky models of magnetic switching. An experimental procedure is used where the remanence measured in the easy-axis direction is used to define the switching field for all angles of the applied field. Clear differences between different types of media are found. CoPtCrB alloy longitudinal recording media are found primarily to have a StonerWohlfarth switching character. In contrast, the switching of perpendicular Co/Pd multilayer media is a mixture of StonerWohlfarth rotation and domain-wall motion. © 2002 American Institute of Physics. 
+
+perpendicular magnetic recording
+magnetic recording
+magnetic thin films
+magnetic switching
+remanence
+magnetic domains
+magnetic multilayers

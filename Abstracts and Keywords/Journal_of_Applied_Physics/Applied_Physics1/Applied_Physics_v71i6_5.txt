@@ -1,0 +1,10 @@
+The theory for interband tunnelling has been reviewed and modified to describe more effectively bipolar tunnel currents between states of either one, two or three dimensions. In particular a joint density of states is introduced for those cases where the densities of states on either side of the barrier are so widely disparate that the smaller of the two may lead to current limitation. Theory is compared with experiment which appears to vindicate the procedure.
+
+TUNNEL DIODES
+QUANTUM WELL STRUCTURES
+INTERBAND TRANSITIONS
+RESONANCE
+TWODIMENSIONAL CALCULATIONS
+ONEDIMENSIONAL CALCULATIONS
+THREEDIMENSIONAL CALCULATIONS
+ENERGYLEVEL DENSITY

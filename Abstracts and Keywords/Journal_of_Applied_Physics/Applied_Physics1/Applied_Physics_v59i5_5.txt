@@ -1,0 +1,13 @@
+Timedependent nonlinear laserheating calculations have been applied to the laser chemical vapor deposition of reflective metallic coatings on absorptive low thermal conductivity substrates such as fused quartz. The surface temperature profile is modified by the changing optical properties of the substrate as the film is deposited, leading to a decrease in the surface temperature and flattening of the temperature profile with increasing irradiation time and film deposition. The results of the theoretical calculations are compared with realtime optical measurements of the deposition rate of Ni from Ni(CO)4 on SiO2 using a CO2 laser as a function of irradiation time, yielding excellent agreement.
+
+CHEMICAL VAPOR DEPOSITION
+LASERRADIATION HEATING
+MATHEMATICAL MODELS
+NICKEL
+SILICA
+VAPOR DEPOSITED COATINGS
+OPTICAL PROPERTIES
+DEPOSITION
+SURFACE COATING
+TRANSIENTS
+ABSORPTIVITY

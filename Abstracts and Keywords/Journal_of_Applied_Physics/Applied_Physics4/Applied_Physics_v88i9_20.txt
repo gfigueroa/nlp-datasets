@@ -1,0 +1,13 @@
+A finite element program was used to calculate current distributions in superconductors, assuming a nonlinear (power-law or percolation-type) local dependence of the electrical field on current density. A bicrystal geometry, which forms the basic building block of (Bi,Pb)2Sr2Ca2Cu3Ox powder-in-tube tapes and other polycrystalline conductors, was studied. Currentvoltage curves and critical currents were calculated for different geometrical and electromagnetic parameters. Bicrystals of brick-wall and railway-switch geometry were compared, and it was found that in both cases anisotropy is the dominating factor determining the overall critical current. Strong anisotropy leads to current concentration around grain boundaries, thereby reducing the critical current. Addition of a grain boundary with finite resistance does not significantly change the current distribution within the grains. © 2000 American Institute of Physics. 
+
+bismuth compounds
+lead compounds
+strontium compounds
+calcium compounds
+high-temperature superconductors
+superconducting tapes
+critical currents
+critical current density (superconductivity)
+bicrystals
+finite element analysis
+grain boundaries

@@ -1,0 +1,17 @@
+The solid state reaction of Co,Ti with an epitaxially grown Si1xGex strained layer is investigated in this article. The reaction was performed in a rapid thermal annealing system. The resulting films were characterized by Rutherford backscattering, Auger electron spectroscopy, xray photoelectron spectroscopy, xray diffractometry, and scanning electron microscopy. The electrical resistivity and Hall effect were measured in the temperature range of 77300 K. Rapid thermal annealing of Co/Si0.8Ge0.2 at 650	°C results in a Co(Si0.9Ge0.1) film with cubic crystalline structure. At higher temperature CoSi2 is formed with Ge segregation towards the surface. After a multistep annealing, a highly oriented CoSi2 layer can be grown. For TiN/Ti/SiGe, the ternary phase of Ti(Si1yGey)2 is formed, with a smooth surface and with resistivity comparable to the lowest value exhibited by TiSi2. The Co/Ti/SiGe/Si reaction is studied for the first time, demonstrating that the uniformity of Co/SiGe reaction is improved by applying the Co/Ti bilayer. A TiN(O)/CoSi2(Ge)/Si multilayer structure is formed, and the CoSi2(Ge) layer exhibits a strongly textured structure. Low temperature measurement reveals that the CoSi2(Ge) layer has a re?istivity slightly higher than that of CoSi2. © 1995 American Institute of Physics.
+
+COBALT
+TITANIUM
+GERMANIUM SILICIDES
+SURFACE REACTIONS
+EPITAXIAL LAYERS
+STRAINS
+ANNEALING
+PHASE STUDIES
+RBS
+AES
+PHOTOELECTRON SPECTROSCOPY
+SEM
+ELECTRIC CONDUCTIVITY
+HALL EFFECT
+TEMPERATURE RANGE

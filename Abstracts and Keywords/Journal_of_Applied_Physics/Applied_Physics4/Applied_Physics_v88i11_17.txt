@@ -1,0 +1,11 @@
+The effect of the gate leakage current fluctuations on noise properties of AlGaN/GaN heterostructure field effect transistors (HFETs) has been studied in conventional HFET structures and in AlGaN/GaN metal-oxide-semiconductor heterostructure field effect transistors (MOS-HFETs). The comparison of the noise properties of conventional AlGaN/GaN HFETs and AlGaN/GaN MOS-HFETs fabricated on the same wafer, allowed us to estimate the contribution of the gate current noise to the HFETs output noise. The effect of the gate current fluctuations on output noise properties of HFETs depends on the level of noise in the AlGaN/GaN HFETs. For the transistors with a relatively high magnitude of the Hooge parameter ±<103, even a relatively large leakage current Ig (Ig/Id<103102, where Id is the drain current) does not contribute much to the output noise. In HFETs with a relatively small values of ± (±<105104), the contribution of the leakage current to output noise can be significant even at Ig/Id<104103. For such transistors, a very rapid increase of the 1/f noise with gate bias was observed. The differences in the noise behavior can be linked to the material quality of the AlGaN and GaN layers in different types of HFETs. © 2000 American Institute of Physics. 
+
+current fluctuations
+semiconductor device noise
+III-V semiconductors
+aluminium compounds
+gallium compounds
+wide band gap semiconductors
+leakage currents
+power field effect transistors
+power MOSFET

@@ -1,0 +1,8 @@
+Self-organized anisotropic strain engineering guided on shallow- and deep-patterned GaAs (311)B substrates is exploited for formation of complex laterally ordered architectures of connected InGaAs quantum dot (QD) arrays and isolated InAs QD groups by molecular beam epitaxy. The combination of strain and step engineerings on shallow stripe-patterned substrates transforms the periodic spotlike arrangement of the InGaAs QD arrays and InAs QD groups (on planar substrates) into a zigzag arrangement of periodic stripes which are well ordered over macroscopic areas on zigzag mesa-patterned substrates. In contrast, the formation of slow-growing facets on deep-patterned substrates produces QD-free mesa sidewalls, while InGaAs QD arrays and InAs QD groups form on the GaAs (311)B top and bottom planes with arrangements modified only close to the sidewalls depending on the sidewall orientation. The QDs on the shallow- and deep-patterned substrates exhibit excellent optical properties up to room temperature. Therefore, the concept of guided self-organization demonstrated on shallow-patterned (due to steps) and deep-patterned (due to facets) substrates is highlighted for creation of complex architectures of laterally ordered QDs for future quantum functional devices.
+
+gallium arsenide
+III-V semiconductors
+indium compounds
+molecular beam epitaxial growth
+self-assembly
+semiconductor quantum dots

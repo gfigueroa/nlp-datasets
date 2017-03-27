@@ -1,0 +1,5 @@
+Mobility universality, confirmed for long-channel metaloxidesemiconductor field-effect transistors (MOSFETs), is demonstrated to be preserved for scaled MOSFET technologies down to 100 nm gate length, although phenomena such as quantum-mechanical and poly-silicon depletion effects play important roles. This result was obtained by applying a compact model based on the drift-diffusion approximation and relying only on IdsVgs measurements instead of using a conventional method with supplemental CgateVgs measurements. It is confirmed that the carrier mobility is still governed by the electric field applied, and that the drift-diffusion approximation remains valid down to channel length of 100 nm. Consequently, the carrier behavior of such scaled small-size MOSFETs can be precisely described by simple analytical equations, which is important for the development of efficient circuit-simulation models. © 2002 American Institute of Physics. 
+
+MOSFET
+carrier mobility
+semiconductor device models

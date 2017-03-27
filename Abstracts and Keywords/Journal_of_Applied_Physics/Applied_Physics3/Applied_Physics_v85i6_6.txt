@@ -1,0 +1,8 @@
+The scaling of the volume pinning forces, Fp = jc×Ba, is performed versus the reduced fields bf = Ba/Bfp (where Ba is the applied field, and Bfp denotes the peak position of Fp,max) and h = Ha/Hirr (where Hirr denotes the irreversibility field) for two different NdBa2Cu3O7´ superconductors, a single crystal and a melt-processed sample. In both cases, an excellent natural scaling is found to hold. Based on these good scaling results, we extend the scaling analysis towards lower temperatures. There, the scaling parameters are no longer directly accessible within our experimental field range, but can be deduced from the Fp(Ba) curves normalized using fitting values of Bfp and Fp,max so that these overlap with the high temperature curves. It is shown that such a procedure allows to obtain reasonably good estimates of Fp,max and Hirr, which leads in turn to an estimation of the irreversibility line well down to 0 temperature. At low temperatures, deviations from the analytical dependencies appear which are due to interference with the central and intermediate peak in the magnetization loops. The shape of the irreversibility line is discussed. © 1999 American Institute of Physics.
+
+neodymium compounds
+barium compounds
+high-temperature superconductors
+flux pinning
+magnetisation
+magnetic hysteresis

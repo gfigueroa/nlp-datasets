@@ -1,0 +1,8 @@
+Tb3+ and Eu3+ were codoped in zeolite-Y. Their photoluminescence and photostimulated luminescence were investigated. Due to the dissipation of excitation energy by OH vibrations, the luminescence from the hydrated zeolite containing Tb3+ and Eu3+ prepared at room temperature is very weak. However, the luminescence is enhanced greatly when the sample was treated at 800
+°C. Strong photostimulated luminescence of both Tb3+ and Eu3+ was detected in the sample prepared at 800
+°C. The photostimulated luminescence of Tb3+ is due to the recombination of electrons with Tb4+ ions, while the photostimulated luminescence of Eu3+ is caused by energy transfer from Tb3+ to Eu3+. The existence of Tb4+ and Eu2+ ions is due to charge transfer from Eu3+ to Tb3+. The occurrence of photostimulated luminescence and discrete emission lines in blue (434 nm), green (543 nm), and red (611 nm) colors indicate that this material has potential applications in white light-emitting devices and erasable optical storage. © 2000 American Institute of Physics. 
+
+zeolites
+terbium
+europium
+photoluminescence

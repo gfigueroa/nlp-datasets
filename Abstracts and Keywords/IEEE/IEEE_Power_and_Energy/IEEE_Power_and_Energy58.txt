@@ -1,0 +1,10 @@
+The proliferation of power-electronic loads in the distribution system has raised concerns about their impact on the neutral-to-earth voltage [(NEV) or stray voltage]. It is desirable to analyze the effect of topology unbalance and harmonic distortion acting simultaneously to assess their influence on elevated NEV. A multiphase harmonic load-flow algorithm for radial distribution systems is presented for NEV analysis. A transmission-line model is developed that includes the neutral branch such that the NEV is available directly. Harmonic interaction is introduced by using a model for a single-phase rectifier. A well-documented IEEE radial feeder is used to demonstrate the algorithm. Results from several tests on different combinations of linear and nonlinear loads are presented and discussed. These tests show that triplen harmonics can have more effect on elevated NEV than unbalance acting alone.
+
+Earth return path
+grounding
+harmonic analysis
+multiphase load flow
+neutral-to-earth voltage (NEV)
+radial distribution systems
+stray voltage
+transmission-line model

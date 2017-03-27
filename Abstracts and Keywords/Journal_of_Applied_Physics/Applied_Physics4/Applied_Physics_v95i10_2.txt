@@ -1,0 +1,13 @@
+The effect of the concentration of 4-(dicyanomethylene)-2-t-butyl-6-(1,1,7, 7-tetramethyljulolidyl-9-enyl)-4H-pyran (DCJTB) as dopant in tris(8-quinolinolato) aluminum (Alq3) on the charge carrier transport in Alq3:DCJTB was investigated by measuring the steady current-voltage characteristics and the transient electroluminescence. The dopant concentration dependence of the current-voltage relationship clearly indicates the carrier trapping by the DCJTB molecule. The DCJTB concentration significantly affects the electron mobility in Alq3:DCJTB. The mobility has a nontrivial dependence on the doping level. For relatively low doping levels, less than 1%, the electron mobility of Alq3:DCJTB decreases with the doping level. An increasing mobility is then observed if the dopant concentration is further increased, followed by a decrease for doping levels larger than <2%. The change of the electron mobility with the DCJTB concentration in Alq3 is attributed to the additional energetic disorder due to potential fluctuations caused by the dipoledipole interaction of random distribution dopant at the relatively low doping concentration, and to the phase separation at the high doping concentration. © 2004 American Institute of Physics. 
+
+indium compounds
+lithium compounds
+aluminium
+organic light emitting diodes
+dyes
+doping profiles
+electrical conductivity
+electroluminescence
+electron traps
+electron mobility
+phase separation

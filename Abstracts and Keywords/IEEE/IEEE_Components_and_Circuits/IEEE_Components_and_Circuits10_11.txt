@@ -1,0 +1,5 @@
+The Elder Care solution has two primary goals: monitoring vital signs, sending alerts to family and specialized help and provide a social network in order to wrap all older population to avoid social isolation. In this paper we will show the methodology used to obtain Elder Care's architecture and point some guidelines to our present work: Elder Care's implementation.
+
+body area network
+health monitoring
+wireless sensors networks

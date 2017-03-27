@@ -1,0 +1,12 @@
+We have studied the boron (B) diffusion in MgO/CoFeB bilayer by x-ray photoelectron spectroscopy depth analysis. A large concentration of B (B/Mg = 0.16) was found to diffuse into the MgO barrier after 350	°C annealing. The boron in MgO is in a highly oxidized B3+ state and is homogenously distributed in the whole barrier. The important B diffusion in MgO could be related to the CoFeB crystallization process which begins from the under CoFeB/Ru interface and pushes boron atoms to diffuse into the MgO barrier during annealing.
+
+annealing
+boron alloys
+cobalt alloys
+crystallisation
+diffusion
+iron alloys
+magnesium compounds
+multilayers
+oxidation
+X-ray photoelectron spectra

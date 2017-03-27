@@ -1,0 +1,9 @@
+This study provides a model for analyzing the new perspectives for investors in the broadband business field. It integrates real options, SWOT analysis and fuzzy logic into a decision analysis framework for formulating and evaluating such business opportunities. Finally, we discuss a real case study in the specific business field showing how the model can be formulated and solved.
+
+Broadband communications
+Business model
+Fiber optics networks
+Fuzzy logic
+Real options
+SWOT analysis
+Telecommunications

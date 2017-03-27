@@ -1,0 +1,11 @@
+Thermal stresses in selectively etched and selectively grown GaAs/Si (100) stripes of different widthtothickness ratios are investigated by lowtemperature cathodoluminescence (CL) spectroscopy and elastic finite element (FE) analysis. A qualitative description of the expected stress state based on FE results is followed by experimental stress measurement by lowtemperature (10 K) CL spectroscopy. Precise determination of the heavyhole (HH; mj=± 3/2) and lighthole (LH; mj=± 1/2) excitonic peak energies through deconvolution of the CL spectra allows for measurement of the longitudinal and transverse stress components (parallel and perpendicular to the long stripe dimension, respectively). The CL results show that the longitudinal stress remains fairly constant (tensile) as a function of position, whereas the transverse stress decreases monotonically with decreasing distance from stripe edges, assuming small negative (compressive) values in the immediate vicinity of the latter. No significant differences were found between selectively etched and selectively grown stripes. The experimental results are compared with finite element elastic calculations and discussed in view of the experimental and computational parameters.
+
+GALLIUM ARSENIDES
+EPITAXIAL LAYERS
+CATHODOLUMINESCENCE
+THERMAL STRESSES
+FINITE ELEMENT METHOD
+ELASTICITY
+HOLES
+EXCITONS
+TEMPERATURE RANGE 013 K

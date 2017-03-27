@@ -1,0 +1,8 @@
+A common problem in biology is to partition a set of experimental data into clusters in such a way that the data points within the same cluster are highly similar while data points in different clusters are very different. In this direction, clustering microarray time-series data via pairwise alignment of piece-wise linear profiles has been recently introduced. We propose a EM clustering approach based on a multiple alignment of natural cubic spline representations of gene expression profiles. The multiple alignment is achieved by minimizing the sum of integrated squared errors over a time-interval, defined on a set of profiles. Preliminary experiments on a well-known data set of 221 pre-clustered Saccharomyces cerevisiae gene expression profiles yield encouraging results with 83.26% accuracy.
+
+Clustering
+Cubic Spline
+Gene Expression Profiles
+Microarrays
+Profile Alignment
+Time-Series Data

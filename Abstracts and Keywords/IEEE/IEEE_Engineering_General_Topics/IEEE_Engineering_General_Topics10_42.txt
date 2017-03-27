@@ -1,0 +1,6 @@
+With the specific analysis of the structure and working mode of the fresh air conditioning system, the experiment platform of solar fresh air measurement and control system is established. Basing on the thermodynamic features of solar fresh air measurement and is control system and experimental data, a mathematical model is designed. Then, the simulation is completed on the basis of the mathematical model. Ultimately, the intelligent control purpose of solar fresh air measurement and control system is achieved.
+
+fresh air
+intelligent control
+measurement and control system
+solar energy

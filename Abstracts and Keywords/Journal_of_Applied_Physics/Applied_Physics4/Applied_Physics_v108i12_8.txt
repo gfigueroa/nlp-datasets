@@ -1,0 +1,7 @@
+With the help of the nonequilibrium Greens function method, we have investigated the Josephson current properties of a triple quantum dot molecule. It is found that the sign of the Josephson current can be changed from positive to negative with increasing the spin-flip scattering, which leads to the À-junction transition. By tuning the system parameters, such as the gate voltage, the interdot coupling, and spin-flip strength, it is manifested that the À-junction not only can be controlled, but also the oscillation of the Josephson current versus magnetic flux can be changed. The À-junction is explained in terms of the picture of the current carrying density of states. These results provide the ways of manipulating the Josephson current.
+
+electronic density of states
+Green's function methods
+Josephson effect
+magnetic flux
+quantum dots

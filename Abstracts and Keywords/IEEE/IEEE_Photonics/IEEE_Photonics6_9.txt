@@ -1,0 +1,6 @@
+This paper presents a new blind channel estimation technique for maximum-ratio combining systems where the relative speed of the transmit/receive terminals may change. This changing speed is called maneuvering. The proposed blind system has a hard decision switching block which selects between different speed modes of a maneuvering terminal. The speed can be therefore tracked in a mobile data communication link. This is accomplished based on only the received data information signal, i.e., no other information (for example from a speed sensor or radar, etc.) is required. The performance of the proposed technique is evaluated by simulation and comparison is made with optimal coherent detection. The importance of introducing the switching block can be demonstrated by disabling it in the algorithm, and this results in a large degradation in performance. To assess the direct impact of the proposed blind channel estimation on the error performance, a fair comparison with a known, blind technique based on Kalman filtering is also made, with the assumption of non-maneuvering terminals. Here, improved performance is observed.
+
+blind channel estimation
+maximal-ratio receiver combining
+switching model
+target tracking

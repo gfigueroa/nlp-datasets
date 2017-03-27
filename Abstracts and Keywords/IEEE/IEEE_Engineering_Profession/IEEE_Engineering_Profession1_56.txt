@@ -1,0 +1,8 @@
+It is common experience that, through practice, tools disappear from our awareness. This form of perceptual learning occurs at all stages of life. In this paper we outline a model of "tool-body assimilation" and tool use inspired by recent findings in neuropsychology and neurophysiology. Our model is based on three assumptions: 1) the body schema is plastic and alterable and can extend to incorporate tools; 2) objects can be adapted in-situ to act as tools; and 3) tools are used on the base of their functionality. We evaluate our model by instantiating it in a simulated tool-using robot which learns to handle tools of various shapes to retrieve an object placed out of sight and out of reach. We discuss the model's plausibility to explain tool-body assimilation in humans and other tool-using primates.
+
+Tool-use
+adaptive robotics
+body image/schema extension
+contingency
+embodied intelligence
+sensor fusion

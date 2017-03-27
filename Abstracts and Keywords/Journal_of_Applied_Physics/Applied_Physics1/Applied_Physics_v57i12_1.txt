@@ -1,0 +1,8 @@
+More accurate expressions for the evaluations of the trap depth E and the capture cross section S related to the thermally stimulated current process are developed. The different T1, T2, T3, and T4 dependencies of S on the temperature T have been considered for the slow retrapping case. In the fast retrapping case, the energy E and the product ÄNT have been expressed independently, where Ä is the lifetime of the free electron and NT the total trap density. The calculations depend on the temperatures Tm and T1 that correspond to the peak and the halfheight of the current, respectively. A new experimental method providing the determination of Tm and T1 with high precision has been developed that allows extensive experimental examination of thermally stimulated current curves in highresistivity CdTe crystals. Application to defect parameters of fourteen levels in CdTe has been carried out in the slow and fast retrapping limits. In the slow retrapping case, the results differ from those obtained by the widely used Grossweiner formula. For the fast retrapping limit the values of E corresponding to different sets of Tm and T1 are calculated independently of ÄNT. This again has not been the case published by the different authors.
+
+TRAPPING
+THERMALLY STIMULATED CURRENTS
+CADMIUM TELLURIDES
+ELECTRON DENSITY
+TRAPS
+ELECTRIC CONDUCTIVITY

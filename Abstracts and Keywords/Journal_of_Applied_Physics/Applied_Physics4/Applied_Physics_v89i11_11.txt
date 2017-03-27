@@ -1,0 +1,11 @@
+A combined experimental and theoretical study of the surface evolution of sputtered aluminum coatings deposited on amorphous glass substrates (roughness &lt;2 nm) at two different substrate temperatures (160	°C and 280	°C) is presented. The substrate temperature is a key parameter in thin film deposition controlling the surface morphology as well as the internal structure of the coating. In the intermediate substrate temperature regime (0.3&lt;T/TM&lt;0.6) the morphological evolution of the growth surface determines the overall film structure to a high degree. Several mechanisms compete in the development of surface features: island formation in the precoalescence phase, kinetic roughening by fluctuations in the incoming particle beam, surface diffusion, and two- or three-dimensional grain growth. Their respective dominance may shift in dependence on the deposition time and therefore on the film thickness. The morphology of the film surface is quantitatively characterized by atomic force microscopy. The dependence of the root-mean-square roughness on the film thickness shows a power-law behavior for thicknesses below 100 nm for both deposition temperatures. Above this thickness only a slight increase in roughness is observed. The presence of lateral correlations is studied by the one-dimensional power spectral densities (1DPSDs) of the film surfaces. The 1DPSDs are evaluated in the framework of two point autocorrelation functions, of Mullins and Herrings model of surface diffusion, and by the q-state Potts model describing grain growth. This allows the identification of the dominant mechanisms for feature formation during different phases of film growth. The range of applicability of the growth models as well as their connection to the experimental observations are discussed. © 2001 American Institute of Physics. 
+
+aluminium
+surface diffusion
+grain growth
+atomic force microscopy
+sputter deposition
+substrates
+discontinuous metallic thin films
+Potts model
+surface structure

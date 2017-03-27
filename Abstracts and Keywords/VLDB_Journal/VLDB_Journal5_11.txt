@@ -1,0 +1,7 @@
+The OSAM*.KBMS is a knowledge-base management system, or the so-called next-generation database management system, for non-traditional data/knowledge-intensive applications. In order to define, query, and manipulate a knowledge base, as well as to write codes to implement any application system, we have developed an object-oriented knowledge-base programming language called K to serve as the high-level interface of OSAM*.KBMS. This paper presents the design of K, its implementation, and its supporting KBMS developed at the Database Systems Research and Development Center of the University of Florida.
+
+Abstractions
+Association patterns
+Knowledge-base programming language
+Object-oriented knowledge model
+Structural associations

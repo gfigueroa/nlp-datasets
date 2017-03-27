@@ -1,0 +1,10 @@
+The functional form of the time decay of the remanent polarization under high-electrical drives, known as fatigue, has been derived for relaxor piezoelectric materials based on the hierarchical relaxation process, typical of disordered systems such as random-field and glassy states and is given in terms of normalized remanent polarization (r) as r(t)=otx
+exp[c(t/Ä)²]. This function was verified by fitting the dynamics of the fatigue behavior in 0.92Pb(Zn1/3Nb2/3)O30.08	PbTiO3 (PZNPT) relaxor-based piezoelectric system. Mn modification of a PZNPT single crystal improved the fatigue behavior by slowing down the relaxation processes and pinning the domain wall motion. © 2002 American Institute of Physics. 
+
+lead compounds
+zinc compounds
+fatigue
+dielectric relaxation
+dielectric polarisation
+electric domain walls
+piezoceramics

@@ -1,0 +1,5 @@
+This paper presents a comparison of two methods for measuring the electrical loss for transmission lines on printed circuit boards (PCBs). The two methods are (i) the root impulse energy (RIE) method which is a time-domain reflectometry (TDR)-based method using a pulse generator and a sampling oscilloscope and (ii) a method based on the use of a vector network analyzer (VNA) to measure the S-parameters of the line in the frequency domain. Results and uncertainties obtained by the two methods for connectorized microstrip lines on flexible FR4 are presented and compared.
+
+Printed circuit testing
+Scattering parameters
+Time domain reflectometry

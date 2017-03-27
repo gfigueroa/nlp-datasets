@@ -1,0 +1,11 @@
+High-order perturbation formulas for the electron paramagnetic resonance g factor for a 3d7 ion in cubic tetrahedral MX4 clusters are established from a cluster approach. In the formulas, not only the conventional contribution from the crystal-field (CF) mechanism, but also the contribution from charge-transfer (CT) (which is often omitted) are considered. Based on the formulas, the g-shifts ”g (=ggs, where gs=2.0023) of Co2+ ions in IIIV semiconductors GaP, InP, and GaAs are reasonably explained. It is found that the relative importance of the CT mechanism (characterized by ”gCT/”gCF) increases with increasing covalency and hence with increasing atomic number of the ligand. Therefore, for 3dn ions in a strongly covalent crystal, the contributions to the g factor from both CF and CT mechanisms should be taken into account. © 2004 American Institute of Physics. 
+
+gallium compounds
+indium compounds
+gallium arsenide
+III-V semiconductors
+charge exchange
+paramagnetic resonance
+perturbation theory
+crystal field interactions
+cobalt

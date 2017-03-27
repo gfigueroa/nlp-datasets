@@ -1,0 +1,7 @@
+The Behavior and Symptom Identification Scale (BASIS-32) is a survey used to collect clients' reported perceptions of their symptoms and functioning. This article assesses the usefulness of the BASIS-32 for evaluating program outcomes in California's statewide performance outcome system for adults with serious mental illnesses. The authors found that, while the instrument could be useful at the clinical level, it did not work well when data were aggregated at the program or system level. Not only did clients drastically under-report their symptoms, but improvements over time, although statistically significant, were negligible and of little practical use for assessing system-level outcomes. In addition, the costs and logistical complexities associated with site licensing became increasingly difficult to justify when compared to obtaining similar information from other sources. 
+
+rating scales
+self-report scales
+performance outcomes
+schizophrenia
+serious mental illness

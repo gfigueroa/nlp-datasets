@@ -1,0 +1,7 @@
+Strain fields on the facet and along the cavity for both ridge waveguide and oxide stripe geometry lasers were measured. The strain fields were found to be structure dependent across the stripe and essentially uniform along the stripe. A correlation between the strain in the plane of the facet and the strain along the cavity was found. This means that the strain field observed on the facet is representative of the average strain along the device and that facet measurements provide useful information on material properties along the length of the device. © 1995 American Institute of Physics.
+
+SEMICONDUCTOR LASERS
+LASER DIODES
+STRAINS
+LASER CAVITIES
+PHOTOLUMINESCENCE

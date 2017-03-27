@@ -1,0 +1,6 @@
+In this article, we perform a theoretical study to understand morphological differences in femtosecond laser induced periodic surface structures on noble metals. Our numerical study thoroughly examines the role of two competing ultrafast processes, electron-phonon energy coupling and hot electron diffusion, following femtosecond laser heating of metals. The calculation results confirm our previous experimental work on femtosecond laser induced periodic surface structures on noble metals, where electron-phonon coupling strength is believed to play the dominant role.
+
+electron-phonon interactions
+high-speed optical techniques
+laser beam effects
+surface morphology

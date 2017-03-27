@@ -1,0 +1,13 @@
+Heterostructure Si/Ge/Si p-metaloxidesemiconductor field effect transistors (MOSFETs) with 1-nm-thick pure Ge channels grown pseudomorphically on Si substrates have been fabricated and characterized. Simultaneous solution of Schrodinger and Poissons equations reveals that the 1-nm-thick Ge region can effectively confine holes in a subsurface channel. This result is confirmed through the fabrication of test MOS capacitors and MOSFETs using a process with plasma enhanced chemical vapor deposition gate oxide and a peak thermal budget of just 5 s at 600	°C. (Raman spectroscopy shows that this thermal treatment does not significantly relax the strain in the Ge layer). However, transconductance measurements on the MOSFETs indicate that the mobility of holes in the buried channel is substantially less than at the Si surface. It is speculated that this poor mobility may result from hole scattering at the abrupt Si/Ge interface. © 1997 American Institute of Physics. 
+
+silicon
+germanium
+elemental semiconductors
+MOSFET
+MOS capacitors
+hole mobility
+Schrodinger equation
+plasma CVD
+Raman spectra
+heat treatment
+surface scattering

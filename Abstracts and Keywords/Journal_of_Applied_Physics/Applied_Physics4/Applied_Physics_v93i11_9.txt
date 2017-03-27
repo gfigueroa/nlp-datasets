@@ -1,0 +1,12 @@
+We report Fe3+-related emission in ion-implanted ZnO single crystals. Iron ions were implanted at room temperature with 100 keV and a fluence of 1×1016	Fe+/cm2, and were submitted to annealing treatments in vacuum and in air. After implantation, the damage raises the minimum yield (Çmin) from 2% to 50%. Annealing in an oxidizing atmosphere leads to a reduction of the implantation damage, which is fully recovered after annealing at 1050
+°C with a Çmin<3% in the implanted region. With extrinsic excitation, red Fe-related emission is observed at low temperatures. The intensity is dependent on the annealing conditions. For samples annealed in air, the luminescence can be detected up to 120 K. When a comparison is made between unimplanted and post-implanted annealed samples, noticeable changes on near-band-edge and deep-level photoluminescence spectra are observed. A thermally populated structured green emission could be observed in the sample annealed in air, as shown by the temperature-dependent photoluminescence excitation studies. © 2003 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+iron
+ion implantation
+photoluminescence
+annealing
+spectral line intensity
+deep levels
+wide band gap semiconductors

@@ -1,0 +1,14 @@
+We show that dramatically different in-plane textures can be produced in body centered cubic (bcc) metal thin films deposited on amorphous substrates under different deposition conditions. The crystallographic orientation distribution of polycrystalline bcc metal thin films on amorphous substrates often has a strong 110	 fiber texture, indicating that {110} planes are parallel to the substrate plane. When deposition takes place under bombardment by energetic ions or atoms at an off-normal angle of incidence, the 110	 fiber texture develops an in-plane texture, indicating nonrandom azimuthal orientations of the crystallites. Three orientations in Nb films have been observed under different deposition geometries, in which the energetic particle flux coincides with channeling directions in the bcc crystal structure. In-plane orientations in Mo films have also been obtained in magnetron sputtering systems with various configurations. These are described, and an example is given in which the in-plane orientation of Mo films deposited in two different in-line magnetron sputtering systems differs by a 90° rotation. In these two cases, there is a strong 110	 fiber texture, but the in-plane 100	 direction is oriented parallel to the scan direction in one system, and perpendicular to the scan direction in the other system. The conditions which produce such different in-plane textures in two apparently similar sputtering systems are discussed. © 1997 American Institute of Physics. 
+
+metallic thin films
+sputtered coatings
+crystal orientation
+crystallites
+NIOBIUM
+MOLYBDENUM
+TEXTURE
+ENERGY BEAM DEPOSITION FILMS
+POLYCRYSTALS
+BCC LATTICES
+ION BEAMS
+SPUTTERING

@@ -1,0 +1,10 @@
+Mercuryphotosensitized photochemical vapor deposition of hydrogenated amorphous silicon films was carried out for H2diluted SiH4 source material using 2537Å light excitation. The deposition rate of the amorphous silicon film increased with increasing H2 volume in the source and exhibited a maximum for a 30% SiH4 source. Substrate temperature dependence in the deposition rate increased for a large amount of H2 in the source as compared with a pure SiH4 source. This result was applied to prevent transparency loss in a quartz window used to introduce the excitation light into the reaction zone.
+
+CHEMICAL VAPOR DEPOSITION
+PHOTOCHEMISTRY
+SILANES
+PHOTODISSOCIATION
+MERCURY
+DECOMPOSITION
+SILICON
+AMORPHOUS SEMICONDUCTORS

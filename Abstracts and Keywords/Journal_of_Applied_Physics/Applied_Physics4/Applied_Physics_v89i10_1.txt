@@ -1,0 +1,16 @@
+An epitaxial structure, 011	-oriented SrTiO3 film on Si001	 substrate, is developed by inserting an epitaxial Ce0.12Zr0.88O2 buffer layer. Films are prepared by pulsed-laser deposition and evaluated by x-ray diffraction. Origin of this epitaxial growth is considered as a result of the ionic bonding at the interface of perovskite (SrTiO3) and fluorite (Ce0.12Zr0.88O2) structures. SrTiO3(011) surface of this epitaxial structure leads to a non-c-axis-oriented epitaxial growth of bismuth-layerstructured-ferroelectric Bi4Ti3O12 film on Si001	. Unique surface morphologies and superior electrical properties are presented. © 2001 American Institute of Physics.
+
+strontium compounds
+silicon
+elemental semiconductors
+epitaxial layers
+pulsed laser deposition
+vapour phase epitaxial growth
+X-ray diffraction
+interface structure
+cerium compounds
+zirconium compounds
+bismuth compounds
+ferroelectric materials
+ferroelectric thin films
+surface structure

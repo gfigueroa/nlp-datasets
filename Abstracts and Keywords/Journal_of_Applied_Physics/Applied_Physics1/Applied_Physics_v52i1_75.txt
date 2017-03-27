@@ -1,0 +1,15 @@
+The resistivity of amorphous alloys is sentitive to their atomic structure. It has been reported recently that there are significant differences in roomtemperature resistivities as a function of wheel speed (which determines ribbon thickness in the technique of rapid quenching from the melt). These results were interpreted as evidence for a variety of amorphous structures. We have found no differences in resistivities of samples of a similar composition as a function of wheel speed. The reasons for this disagreement are unknown.
+
+IRON ALLOYS
+BORON ALLOYS
+SILICON ALLOYS
+ELECTRIC CONDUCTIVITY
+AMORPHOUS STATE
+THICKNESS
+DATA
+ELECTRONIC STRUCTURE
+MEDIUM TEMPERATURE
+VELOCITY
+MELTING
+QUENCHING
+COMPARATIVE EVALUATIONS

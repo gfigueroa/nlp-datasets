@@ -1,0 +1,13 @@
+The optical plume emissions produced on excimer laser ablation of a YBa2Cu3O7 target are reported and identified with the various atomic, ionic, and molecular species present. The spatial and temporal distribution of these emissions were studied as a function of the laser fluence and oxygen pressure. At the laser fluences used (46 J/cm2) some target material is ablated or evaporated directly in molecular form. In addition efficient formation of molecular oxides is observed at the contact front of the expanding plume with the surrounding oxygen atmosphere. The intensity and spatial distribution of oxide emission in the visible plume therefore provides a sensitive diagnostic for optimization of substrate location and deposition conditions. 	
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+ABLATION
+LASERPRODUCED PLASMA
+PLASMA DIAGNOSTICS
+EMISSION SPECTRA
+SPATIAL DISTRIBUTION
+TIME DEPENDENCE
+THIN FILMS

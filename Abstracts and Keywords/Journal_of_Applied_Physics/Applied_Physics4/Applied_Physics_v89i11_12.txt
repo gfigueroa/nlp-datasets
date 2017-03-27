@@ -1,0 +1,11 @@
+The x-ray standing wave method (XSW) and high-resolution x-ray diffraction were used to study the structural perfection and polarity of GaN epitaxial thin film grown by hydride vapor phase epitaxy on the Si-face SiC substrate. The x-ray standing wave was generated inside the 300 nm thin film under the condition of Bragg diffraction from the film. Excellent crystalline quality of the GaN film was revealed by both x-ray techniques. The XSW analysis of the angular dependencies of the GaK fluorescence yield measured while scanning through the GaN(0002) diffraction peak unambiguously showed the Ga polarity of the film. Correlation between the mosaic structure and the static DebyeWaller factor of the GaN lattice was also studied. © 2001 American Institute of Physics.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+X-ray diffraction
+vapour phase epitaxial growth
+semiconductor growth
+mosaic structure
+Debye-Waller factors

@@ -1,0 +1,16 @@
+Hydrogen, deuterium, and helium were implanted at 5 K with energies from 0.25 to 3 keV into thin films of 80320 nm of gold and tungsten. The annealing of the implantationinduced resistivity was measured during isochronally heating of the specimens up to 400 K. The onset of resistivity annealing after implantation to low concentrations was used as indication that the implanted atoms become mobile. The corresponding temperatures were d5 K for helium in both metals, J18 K for H in Au, J50 K for D in Au, and 80 K for H and D in W. The increasing suppression of annealing with increasing concentration of implanted atoms shows that the incomplete annealing above the onset of mobility is mainly due to clustering of implanted atoms and only to a lesser extent due to trapping by impurities.
+
+DEPTH PROFILES
+HYDROGEN IONS
+DEUTERIUM IONS
+HELIUM IONS
+ION IMPLANTATION
+GOLD
+TUNGSTEN
+THIN FILMS
+ULTRALOW TEMPERATURE
+DIFFUSION
+VERY LOW TEMPERATURE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+ANNEALING

@@ -1,0 +1,7 @@
+Gene regulatory network is a set of genes which interact with each other indirectly and thereby rates of gene expression to mRNA are controlled. DNA microarrays can measure the expression levels of thousands of genes. Because of noise in microarray data and probabilistic nature of Bayesian networks (BN), we used them to model causal relations between genes. One difficulty with this technique is that learning the BN structure is an NP-hard problem, as the number of possible structures is superexponential in the number of genes. So in this paper, genes are clustered based on gene ontology and then BN is applied to model relationships between co-clustered genes. On the other hand since time delay information exists in a real regulatory network and BN is a static network, we proposed a novel method that uses cross-correlation between co-clustered genes to incorporate time information in BN. This method is applied to reconstruct the regulatory network of 84 yeast genes from Saccharomyces cerevisiae cell cycle dataset. Comparing the simulations results with the KEGG pathway map show that using cross-correlation increases accuracy from 66% to 72%. Sensitivity of model is improved too, as the number of inferred links is increased from 70 to 101.
+
+Bayesian networks
+cross-correlation
+gene ontology
+gene regulatory networks
+time series microarray data

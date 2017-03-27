@@ -1,0 +1,6 @@
+Depending on the length of the training sequence, data-aided parameter estimation requires some extra bandwidth. On the other hand, with non-data-aided solutions the payload symbols can be exploited as well, although the performance deviates significantly from the Cramer-Rao lower bound (CRLB) in the low signal-to-noise ratio (SNR) regime. In order to bridge this gap, recent activities concentrated more and more on code-aware (CA) algorithms so as to use the potential of error correction schemes, which usually form part of modern communication systems. In this context, methods for both carrier phase and SNR estimation have been published in the open literature. In the current paper, we extend this work by developing a CA algorithm for joint estimation of carrier phase and SNR; for comparison purposes, the CRLB of this joint approach is derived as the theoretical performance limit.
+
+Code-aware estimation
+Cramer-Rao lower bound
+carrier phase
+signal-to-noise ratio

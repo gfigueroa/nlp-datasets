@@ -1,0 +1,12 @@
+CoPt films grown on MgO(001) substrates by molecular-beam epitaxy are expected to develop a very large uniaxial magnetocrystalline anisotropy and a high coercivity when the [001] single variant L10 structure develops along the growth direction. The present study investigates the growth conditions that provide the best structural quality of the films and their related magnetic properties. The quality of the substrate surface, the thickness, and the texture of the Pt buffer layer, the presence or absence of a Cr seed layer, are found to be determinants for the fraction of well-oriented grains in the films, whereas the growth temperature mainly pilots the degree of L10 order ·. The uniaxial magnetocrystalline anisotropy energy of the [001] grains (Ku001) is maximum at the stoichiometric composition and shows a linear increase with ·. The coercive fields and the magnetic domain size are discussed in relation to the microstructure, the degree of L10 order and the magnetic microscopic constants of the films. © 2003 American Institute of Physics. 
+
+cobalt alloys
+platinum alloys
+magnetic epitaxial layers
+metallic epitaxial layers
+molecular beam epitaxial growth
+magnetic anisotropy
+coercive force
+crystal structure
+magnetic domains
+crystal microstructure

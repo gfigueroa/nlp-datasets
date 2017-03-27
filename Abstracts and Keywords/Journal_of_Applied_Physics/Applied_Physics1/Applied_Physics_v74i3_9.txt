@@ -1,0 +1,10 @@
+The visible photoluminescence of porous silicon layers has been attributed to energy confinement of carriers in the Si microcrystallites, but this hypothesis is currently challenged by models in which the photoluminescence originates in silicon based molecules, possibly formed during the etching process, such as siloxene, siloxene derivatives with fluorine substitution, hydride species. To study the possible relation between the photoluminescence phenomenon and such molecules we have performed quantitative analysis of hydrogen, oxygen, and fluorine and of carbon which is also present in porous silicon layers. Oxygen, fluorine, and carbon content have been measured by nuclear reaction analysis. To measure the hydrogen content we used elastic recoil proton detection analysis. We found similar impurity content in photoluminescent and in nonphotoluminescent layers, which seems to indicate that the photoluminescence does not originate in silicon based molecules present in porous silicon layers. In freshly prepared samples, the amount of hydrogen we found is higher than that expected from a monolayer of hydride species. The excess of hydrogen is probably due to the presence of carbon bearing species from the atmosphere, the quantity of which corresponds to about one monolayer. A small fraction of the Si surface (10%20%) is covered by SiO2 or/and OSiH species.
+
+POROUS MATERIALS
+SILICON
+NUCLEAR REACTION ANALYSIS
+IMPURITIES
+PHOTOLUMINESCENCE
+HYDROGEN
+MICROSTRUCTURE
+LAYERS

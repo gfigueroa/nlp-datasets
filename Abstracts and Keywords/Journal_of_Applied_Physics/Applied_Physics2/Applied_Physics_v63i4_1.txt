@@ -1,0 +1,9 @@
+A radiofrequency discharge characteristics model for the dc selfbias current density Jsb versus the dc selfbias voltage Vsb and the gas pressure p is developed. The model considers positive ions and electrons only and is consistent with a previously developed model for dc sputtering discharge characteristics. Two different concepts for the cathode fall distance are established: Li, for the ions, which is time independent, and Le, for the electrons, which is a timeaveraged length. A relationship between the cathode fall distance L and the discharge efficiency n is developed. The area ratio power law for the voltage distribution between the electrodes is theoretically analyzed and the resulting quadratic power law is experimentally confirmed. The predicted pressure dependence of Vsb is rather complicated, and its mathematical expression has been left with an adjustable exponential parameter to be determined by the best fit to experimental data.
+
+MATHEMATICAL MODELS
+HIGHFREQUENCY DISCHARGES
+ELECTRICAL PROPERTIES
+GLOW DISCHARGES
+CATHODES
+EFFICIENCY
+SPUTTERING

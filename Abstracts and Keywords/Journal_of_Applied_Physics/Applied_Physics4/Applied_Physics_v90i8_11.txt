@@ -1,0 +1,11 @@
+This work focuses on the microstructural characteristics of Y2O3 thin films and interfaces, which is related to their suitability as high-k replacement for SiO2 gate dielectrics in future transistor devices. The films were grown directly on silicon (001) substrates by electron-beam evaporation in a molecular beam epitaxy chamber under ultrahigh vacuum conditions. At an optimum growth temperature, <450
+°C, high crystalline quality films were obtained, albeit with a heteroepitaxial relationship Y2O3	(110)//Si	(001) and Y2O3[001]//Si	110	, which favors the formation of a potentially harmful complex microstructure. The latter consists of large (submicron-sized) domains containing smaller (1030 nm) inclusions with perpendicular crystal orientations. Despite predictions for thermodynamic stability and low O2 partial pressure in the chamber, the chemical reaction of Y2O3 with Si could not be avoided. Indeed, a nonuniform interfacial amorphous layer with thickness 515 Å was observed, while YSi2 was formed at a moderate growth temperature (610
+°C). © 2001 American Institute of Physics.
+
+yttrium compounds
+silicon
+molecular beam epitaxial growth
+epitaxial layers
+inclusions
+insulated gate field effect transistors
+chemical interdiffusion

@@ -1,0 +1,6 @@
+The aim of this paper is to present a nonintrusive and optical method based on the classical thermal radiation laws for the measurement of microscale surface temperature. To overcome the diffraction limit, measurements are performed in the ultraviolet-visible range. According to the Plancks law, emitting energy is low at these wavelengths and only a photonic flux can be measured through a cooled photomultiplier tube and a photon-counting card. The photonic flux exhibits a random character that can be described through well-known statistic laws such as Poisson or normal distributions. It is shown in this paper that the measured signal (photonic flux) agrees well with these statistics laws and that the surface temperature can be obtained either from the average or/and the standard deviation of the photonic flux. A multispectral technique is also introduced to get rid of the knowledge of the local surface emissivity, which is of particular interest for the measurement of temperature in microscale applications. Finally, temperature measurements carried out on a specific high temperature blackbody developed in our laboratory are compared with those obtained through an infrared camera and allow us to validate our facility and the proposed measurement technique.
+
+blackbody radiation
+photomultipliers
+Poisson distribution
+temperature measurement

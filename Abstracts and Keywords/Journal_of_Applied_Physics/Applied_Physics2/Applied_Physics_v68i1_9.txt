@@ -1,0 +1,12 @@
+Xray diffraction from the (110) thin edges is proposed to analyze the ZnTeZnSe strainedlayer superlattices grown on GaAs(001) substrates. Strained lattice spacings parallel to the interfaces and the critical layer thickness of coherent growth can be determined directly by this technique. In spite of the large (7%) lattice mismatch between ZnTe and ZnSe layers, the experimental results show that the ZnTeZnSe superlattices have been prepared coherently by hot wall epitaxy and the critical thickness is about 10 Å. The strained lattice spacings determined by xray [440] diffraction, together with those of Raman scattering measurement, agree very well with the theoretical results. The residual strain in ZnTe/GaAs(001) was also estimated to be about 5×104 (biaxial tensile) by xray diffraction, where the main cause is found to be the difference of thermal expansion between ZnTe films and GaAs substrates.
+
+ZINC TELLURIDES
+ZINC SELENIDES
+SUPERLATTICES
+GALLIUM ARSENIDES
+SUBSTRATES
+STRAINS
+XRAY DIFFRACTION
+SOLID STRUCTURE
+EPITAXY
+RAMAN EFFECT

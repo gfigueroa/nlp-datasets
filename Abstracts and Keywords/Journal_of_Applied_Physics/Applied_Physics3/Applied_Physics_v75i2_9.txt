@@ -1,0 +1,13 @@
+The authors have studied the etching of novolacbased photoresist, polyimide, and polymethylmethacrylate in oxygen and argon rf plasmas at pressures between 0.3 and 10 Pa in a reactiveionetching (RIE) reactor. Energyflux density measurements on the powered electrode were performed under experimental conditions identical to those used during the etch experiments. In both plasmas the etch rate of these polymers depends proportionally on the energyflux density of the impinging energetic particles, which are the ions and the energetic neutrals formed by elastic and chargeexchange collisions between ions and neutral gas particles in the sheath. In oxygen and argon plasmas under RIE conditions the etch mechanism of these polymers is ion induced. Average values of the overall carbon yield were determined as a function of the average energy of the impinging energetic particles between 50 and 650 eV and as a function of the angle of incidence. The results obtained in oxygen plasmas were compared with those obtained in argon plasmas and the chemical enhancement in the presence of oxygen is determined. By monitoring changes in gas pressure and energyflux density on the substrate due to polymer etching, details about the oxidation reaction and the identity of the oxidizing particles in the plasma have been obtained. It is shown that the oxidation reaction occurs mainly with molecular oxygen and for the larger part on the polymer surface.
+
+ORGANIC POLYMERS
+ETCHING
+PLASMA
+PHOTORESISTS
+REACTIVE SPUTTERING
+ION COLLISIONS
+FLUX DENSITY
+INCIDENCE ANGLE
+DISTRIBUTION FUNCTIONS
+OXIDATION
+HIGHFREQUENCY DISCHARGES

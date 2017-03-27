@@ -1,0 +1,5 @@
+The structure of Static Var Compensator (SVC) control system and compensation principle is briefly analyzed in this paper. Based on the control method of nonlinear norm transformation PID, a novel method for SVC using nonlinear slope reactance is presented. The simulation results show that the method can accelerate the stabilizing process and reduce rising time and overshoot obviously.
+
+Nonlinear PID
+Nonlinear Slope Reactance
+Static Var Compensator

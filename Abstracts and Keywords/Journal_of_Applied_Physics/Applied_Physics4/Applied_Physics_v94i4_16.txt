@@ -1,0 +1,10 @@
+We present the development of a Raman spectroscopy technique for the measurement of the tensorial nature of stress in silicon on a micrometric scale. After the detailed description of the theoretical bases of the experiment, we measure the stress tensor of a silicon surface close to a scratch. Then, we apply this method to discern which models are suitable for the description of the stress tensor in shallow trench isolations for microelectronics. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+tensors
+Raman spectroscopy
+Raman spectra
+stress measurement
+isolation technology
+crack-edge stress field analysis

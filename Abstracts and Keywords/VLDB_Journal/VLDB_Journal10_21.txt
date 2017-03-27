@@ -1,0 +1,9 @@
+Component-based approaches are becoming more and more popular to support Internet-based application development. Different component modeling approaches, however, can be adopted, obtaining different abstraction levels (either conceptual or operational). In this paper we present a component-based architecture for the design of e-applications, and discuss the concept of wrapper components as building blocks for the development of e-services, where these services are based on legacy systems. We discuss their characteristics and their applicability in Internet-based application development.
+
+Component
+Cooperation
+Integration
+Legacy system
+Wrapper
+e-application
+e-service

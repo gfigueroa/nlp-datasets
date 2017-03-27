@@ -1,0 +1,13 @@
+In this study, dc magnetron sputtered NiO (50 nm)/Co (2.5 nm)/Cu(1.5 nm)/Co (3.0 nm) bottom spin valves were studied with and without Ag as a surfactant. At Cu spacer thickness of 1.5 nm, a strong positive coupling &gt;13.92 kA/m (&gt;175 Oe) between NiO-pinned and free Co layers leads to a negligible giant magnetoresistance (GMR) effect (&lt;0.7%) in Ag-free samples. In contrast, spin valves deposited in the presence of H1 monolayer of surfactant Ag have sufficiently reduced coupling, 5.65 kA/m (71 Oe), which results in an order of magnitude increase in GMR (8.5%). Using transmission electron microscopy (TEM), the large positive coupling in Ag-free samples could directly be attributed to the presence of numerous pinholes. In situ x-ray photoelectron spectroscopy shows that, in Ag-containing samples, the large mobile Ag atoms float out to the surface during successive growth of Co and Cu layers. Detailed TEM studies show that surfactant Ag leaves behind smoother interfaces less prone to pinholes. The use of surfactants also illustrates their efficacy in favorably altering the magnetic characteristics of GMR spin valves, and their potential use in other magnetoelectronics devices and multilayer systems. © 2001 American Institute of Physics. 
+
+spin valves
+nickel compounds
+cobalt
+copper
+giant magnetoresistance
+magnetic multilayers
+surfactants
+silver
+sputtered coatings
+transmission electron microscopy
+X-ray photoelectron spectra

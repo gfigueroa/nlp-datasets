@@ -1,0 +1,19 @@
+Unipolar spacecharge distribution Á(t) drifting with constant ion mobility ¼ in gas under time and space dependent electric fields will evolve according to the unipolar charge drift formula [1/Á(t)][1/Á(t0)] = (¼/õ0)(tt0), neglecting diffusion effects. This general formula is especially useful as a starting point for approximate treatment of spacecharge effects, both in ion drift and diffusion experiments, and in electrical coronas. A first simple derivation of an equivalent of the Warburg cos5Ñ currentdensity distribution for pointtoplane coronas is given, together with a formula for the maximum possible unipolar ion current (the unipolar saturation current) Is J2¼õ0 V2/d, for a given corona voltage V and pointtoplane distance d. It is demonstrated that corona currents in excess of this limit always involve free electron or bipolar conduction phenomena, like streamers.
+
+CORONA DISCHARGE
+MATHEMATICAL MODELS
+SPACE CHARGE
+SATURATION
+ELECTRIC CURRENTS
+SPATIAL DISTRIBUTION
+ION MOBILITY
+GASES
+TIME DEPENDENCE
+SPATIAL DEPENDENCE
+ELECTRIC FIELDS
+EQUATIONS
+DIFFUSION
+CURRENT DENSITY
+GEOMETRY
+ION DENSITY
+THEORETICAL DATA

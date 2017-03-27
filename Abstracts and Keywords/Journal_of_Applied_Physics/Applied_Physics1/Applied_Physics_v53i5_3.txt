@@ -1,0 +1,16 @@
+The deposition of Te on an already deposited Ag film and of Ag on a Te film results in a homogeneous AgTe alloy as a result of fast Ag diffusion (4×105 Å2 sec1 at 300 K). In the case of AgTe, when the diffusion proceeds at 200 K, the resulting diffusion couple is amorphous. In situ resistance measurements suggest that the same Ag diffusion mechanism operates when Ag atoms or Ag films are in contact with Se (7.3×104 Å2 sec1 at 253 K), S, or I. The major difference with the AgTe case is that in the latter cases, even when the Ag diffusion proceeds at low temperatures (?200 K), the resulting diffusion couples are always crystalline Ag2Se, Ag2S, or AgI.
+
+SILVER COMPOUNDS
+ELECTRICAL PROPERTIES
+MECHANICAL PROPERTIES
+TELLURIUM COMPOUNDS
+SELENIUM COMPOUNDS
+SULFUR COMPOUNDS
+IODINE COMPOUNDS
+DIFFUSION
+MEDIUM TEMPERATURE
+LOW TEMPERATURE
+AMORPHOUS STATE
+ELECTRICAL CONDUCTIVITY
+EXPERIMENTAL DATA
+CRYSTALS

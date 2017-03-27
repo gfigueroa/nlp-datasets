@@ -1,0 +1,6 @@
+In this paper a simple structure of Ultra Wideband (UWB) antenna is proposed. The antenna offers excellent performance for UWB system, ranging from 3.7 GHz to 13.8 GHz. The antenna exhibits a 10 dB return loss bandwidth over the entire frequency band. The antenna is designed on FR4 substrate and fed with 50 ohms microstrip line. It is found that the frequency band depends on the width of the partial ground width, the width of the feedline and position of the feedline.
+
+Ultra wide band
+antenna
+microstrip
+partial ground plane

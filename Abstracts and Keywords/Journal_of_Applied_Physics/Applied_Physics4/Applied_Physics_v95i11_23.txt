@@ -1,0 +1,9 @@
+The temperature dependencies of the elastic constants of martensitic Ni0.50Mn0.284Ga0.216 were studied in the temperature range from 428 K down to 200 K. Measurements were conducted using the ultrasonic continuous-wave method in a 0.8 T magnetic field. At 220 K abrupt changes were found in the temperature dependences of the velocities of all 11 elastic wave modes, which indicates a structural phase change from the tetragonal (5M) martensite to a second, probably tetragonal, phase (nonlayered) at lower temperature. © 2004 American Institute of Physics. 
+
+nickel alloys
+manganese alloys
+gallium alloys
+martensitic transformations
+elastic constants
+elastic waves
+solid-state phase transformations

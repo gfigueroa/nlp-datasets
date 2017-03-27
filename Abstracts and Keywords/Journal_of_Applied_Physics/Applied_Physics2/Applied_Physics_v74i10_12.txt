@@ -1,0 +1,11 @@
+The temperature dependences of the spectral and total hemispherical emissivities of silicon have been experimentally determined, by using a technique which combines isothermal electron beam heating with in situ optical measurements. Emission spectra were used to deduce the absorption coefficient for phosphorusdoped silicon samples for wavelengths between 1.1 and 1.6 ¼m, in the temperature range from 330 to 800	°C. For lightly doped samples, the data show good agreement with a model which includes the effects of the various phononassisted processes involved in interband transitions in silicon, as well as the freecarrier absorption. For heavily doped samples the agreement was less satisfactory, possibly because of inadequacies in the model for freecarrier absorption. It was shown that reflection spectra can also be used to determine the absorption spectrum, for the range where the absorption coefficient lies between 1 and <70 cm1. By fitting the theoretical model to the absorption coefficients derived from the reflection spectrum, it is possible to deduce the temperature of a sample, which is especially useful for temperatures less than 300	°C, where the thermal emission is very weak. The total hemispherical emissivity of the specimens was determined from the input electronbeam power densities and the measured temperatures. The total emissivity of a 390¼mthick specimen of lightly doped silicon rises from 0.12 at 280	°C to a limiting value of 0.7 at 650	°C. This behavior is a consequence of the increase in the freecarrier concentration with the temperature. For heavily doped specimens the total emissivity remains approximately constant at <0.7 between 200 and 800	°C because the carrier concentration is high even at room temperature, and the additional thermal generation of carriers produces an insignificant change in the total emissivity.
+
+SILICON
+EMISSIVITY
+TEMPERATURE DEPENDENCE
+ELECTRON BEAMS
+HEATING
+DOPED MATERIALS
+TEMPERATURE RANGE 4001000 K
+INTERBAND TRANSITIONS
+ABSORPTION

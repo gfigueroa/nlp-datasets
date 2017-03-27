@@ -1,0 +1,8 @@
+A technique for evaluating secondorder nonlinear optical materials in powder form is described. The power of the secondharmonic wave generated with the evanescent wave (SHEW) loosely depends on the phase matchability of material. The largest element of the nonlinear optical coefficient can be estimated from the SHEW power, regardless of the phase matchability of the material in a bulk crystal, even when powder crystals are used as the sample. The sample setting condition that gives appropriate repeatability is obtained, and the accuracy of this measurement is also discussed. Several wellknown materials are measured using this technique, and the results are compared with other works. 	
+
+OPTICAL MATERIALS
+SECOND HARMONIC GENERATION
+MEASURING METHODS
+POWDERS
+PHASEMATCHING
+NONLINEAR OPTICS

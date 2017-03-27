@@ -1,0 +1,10 @@
+We have derived expressions for the origins of the FranzKeldysh oscillations (FKOs), observed in electromodulation, associated with the fields in the Ga1xAlxAs emitter and GaAs collector regions of graded band gap heterojunction bipolar transistor structures. We show that while the latter FKOs are a measure of the maximum collector space charge field at the collector/base junction the former FKOs are determined by both the space-charge field and the field due to the grading in the emitter region. The special case of the abrupt emitter/base junction also is considered. Our expressions are general and can easily be applied to any graded (or abrupt) emitter structure. The results will be compared with experiment, including the photovoltaic effect. © 1998 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+aluminium compounds
+heterojunction bipolar transistors
+energy gap
+space charge
+photoreflectance
+electroreflectance

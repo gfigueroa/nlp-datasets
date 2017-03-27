@@ -1,0 +1,5 @@
+Digital mammography brought many changes in the development of computer aided detection (CAD) algorithms. Many preprocessing steps on mammograms are made automatically before the detection and diagnosis process begins. One of the very important steps is mammogram registration, which helps in finding asymmetrical regions in left and right breast. Mammogram registration is done by determining some key points of the breast. Key points are generally coordinates of the nipple and the pectoral muscle position. Nipple position can be detected using the algorithm presented in this paper. There are two possible nipple locations, outside and inside the skin-air interface. Each of these two cases has different intensity properties that should be taken into consideration when detecting the exact position.
+
+Digital mammography
+Mammogram registration
+Nipple detection

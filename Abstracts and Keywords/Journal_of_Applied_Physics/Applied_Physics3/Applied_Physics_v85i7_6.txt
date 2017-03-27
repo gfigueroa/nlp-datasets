@@ -1,0 +1,7 @@
+The lattice vibrational modes of the chalcopyrite compound CuInTe2 have been obtained at several temperatures by the unpolarized Raman spectra. Lines observed at 48, 74, 129, 138, 155, and 185 cm1, identified with E modes, and at 60, 106, and 170 cm1, assigned to B2 modes, agree quite well with the peaks reported from infrared reflectivity data. On the other hand, using the available theoretical models, the peaks that appear at 123 cm1 and those observed around 65, 116, and 223 cm1, which are only Raman active, are assigned to the A1 and B1 modes, respectively. © 1999 American Institute of Physics. 
+
+copper compounds
+indium compounds
+ternary semiconductors
+Raman spectra
+vibrational modes

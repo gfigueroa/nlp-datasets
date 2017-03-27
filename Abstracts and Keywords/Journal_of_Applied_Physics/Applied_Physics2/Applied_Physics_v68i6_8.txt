@@ -1,0 +1,7 @@
+It is shown that a recent analysis by Flohr and Helbig [J. Appl. Phys. 66, 3060 (1989)] of beaminduced current has already appeared in the literature, and can be simplified by using the results of von Roos and Luke [J. Appl. Phys. 54, 3938 (1983)].
+
+PN JUNCTIONS
+PHOTOCURRENTS
+MINORITY CARRIERS
+LIFETIME
+RECOMBINATION

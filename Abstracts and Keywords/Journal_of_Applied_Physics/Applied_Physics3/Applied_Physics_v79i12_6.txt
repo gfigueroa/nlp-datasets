@@ -1,0 +1,11 @@
+We have observed two oscillations due to the first two subbands of the twodimensional electron gas in ´doped AlAs0.56Sb0.44/Ga0.47In0.53As and Al0.48In0.52As/Ga0.47In0.53As quantum well by Shubnikovde Haas measurements. From the electron densities of the two subbands we determined the energy difference between the first two subbands, ”E01, to be 72 meV for the AlAs0.56Sb0.44/Ga0.47In0.53As, and 54 meV for the Al0.48In0.52As/Ga0.47In0.53As quantum well. By comparing with the data from an Al0.24Ga0.76As/Ga0.78In0.22As quantum well, we found that the larger band offset sample gives the higher ”E01, but when the band offset is relatively small, the well width may determine the energy difference ”E01. © 1996 American Institute of Physics. 
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+QUANTUM WELLS
+ELECTRON GAS
+ALUMINIUM ANTIMONIDES
+SHUBNIKOVDE HAAS EFFECT
+MAGNETORESISTANCE
+BAND STRUCTURE
+ELECTRON DENSITY

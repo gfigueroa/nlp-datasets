@@ -1,0 +1,8 @@
+This paper describes a hybrid approach in which generation cost and demand uncertainties are represented by fuzzy numbers and the life cycle of system components is modeled by probabilistic models. The Monte Carlo simulation model is used to sample system states according to the failure rates of the system components and a Fuzzy DC OPF model is used to analyse each sampled state. This Fuzzy DC OPF model adopts multi-parametric optimization techniques and admits that loads, generation costs or both of them simultaneously are modeled using fuzzy numbers. At the end of this process, it is possible to compute estimates of the Power Not Supplied and also of the exposure and robustness indices that characterize the ability that the system has to accommodate the specified uncertainties. This information can then be used to characterize the ability each reinforcement has in increasing the robustness of the system. Finally, the paper includes results for two case studies. On of them is based on a 6 bus system and the second uses the IEEE 24 bus/38 branch test system to illustrate the developed approaches.
+
+Monte Carlo simulation
+Uncertainties
+fuzzy models
+multiparametric techniques
+reliability data
+risk indices

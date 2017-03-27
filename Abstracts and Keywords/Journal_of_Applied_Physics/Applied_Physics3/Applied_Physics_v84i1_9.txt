@@ -1,0 +1,8 @@
+Low-frequency infrared (IR) spectra of fullerene and metastable forms of C60 obtained at high pressures and temperatures have been investigated along with the spectra of natural diamond and graphite in the range from 8 to 170
+cm1. Several bands of C60 and the diamond-like phase exist in the reflection IR spectra of the low-temperature phase at comparatively low pressures. In the new solid phase, most bands shift with an increase in pressure. The bands corresponding to the diamond-like structures with sp3 hybridization were only observed in the high-pressure high-temperature phase. These low-frequency modes can be presumably attributed to zone- and space-folded phonons. © 1998 American Institute of Physics.
+
+fullerenes
+phonon spectra
+infrared spectra
+reflectivity
+high-pressure effects

@@ -1,0 +1,5 @@
+Copper-filled Through-Si Vias (TSV) with diameters from 2 mum to 5 mum have been integrated in a die-to-wafer stack combining direct bonding and a planarization technique. TSVs were processed on chip backside after oxide bonding and substrate thinning. The results were compared to the ones achieved with a wafer-to-wafer test vehicle. It was demonstrated that die-to-wafer process developed for this integration does not impact TSV electrical and morphological properties. Moreover, no damage was observed on the stack during TSV process performed at 400 degC. This demonstration is the first step to validate the industrial compatibility between high density TSV process and die-to-wafer direct bonding and planarization techniques. With a resistance close to 150 mohm and a capacitance of about 30 fF, 3 mum-diameter TSV provides excellent electrical performance to heterogeneous 3D ICs.
+
+3D integration
+TSV
+die to wafer stacking

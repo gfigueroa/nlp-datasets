@@ -1,0 +1,5 @@
+This paper presents a systematic approach to use time frequency representation (TFR) for the analysis of cyclostationary signals in multirate linear systems. We exploit the ability of blocking operation to perform the analysis in a simple yet efficient manner. We illustrate the strength of TFR for performing such analysis. The basic idea is - TFR of a cyclostationary signal is directly related to the rows of the power spectrum matrix of its blocked version. We present examples including nonuniform filter bank to highlight the capabilities of the analysis.
+
+Cyclostationary signals
+Multirate systems
+time frequency representation

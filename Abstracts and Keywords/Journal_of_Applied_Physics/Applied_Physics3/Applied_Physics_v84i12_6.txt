@@ -1,0 +1,8 @@
+Wavelength modulation spectroscopy is used to demonstrate that extremely weak absorption lines can be measured even when these lines suffer from interference from the wings of adjacent stronger lines. It is shown that the use of detection at several harmonics allows such interference to be examined clearly and conveniently. The results of experimental measurements on a weak magnetic dipole driven, spin-forbidden line in the oxygen A band, which experiences interference from the wings of a pair of adjacent lines towards the blue and red regions of line center, are presented. A comparison of the experimental results to theory is given. © 1998 American Institute of Physics. 
+
+modulation spectroscopy
+visible spectroscopy
+interference (signal)
+harmonics
+oxygen
+visible spectra

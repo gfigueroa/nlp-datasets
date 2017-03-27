@@ -1,0 +1,12 @@
+Epilepsy is a serious neurological disorder characterized by recurrent unprovoked seizures due to abnormal or excessive neuronal activity in the brain. An estimated 50 million people around the world suffer from this condition, and it is classified as the second most serious neurological disease known to humanity, after stroke. With early and accurate detection of seizures, doctors can gain valuable time to administer medications and other such anti-seizure countermeasures to help reduce the damaging effects of this crippling disorder. The time-varying dynamics and high inter-individual variability make early prediction of the seizure state a challenging task. Many studies have shown that EEG signals do have valuable information that, if correctly analyzed, could help in the prediction of seizures in epileptic patients before their occurrence. Several mathematical transforms have been analyzed for its correlation with seizure onset prediction, and a series of experiments were done to certify their strengths. New algorithms are presented to help clarify, monitor, and cross-validate the classification of EEG signals to predict the ictal (i.e. seizure) states, specifically the preictal, interictal, and postictal states in the brain. These new methods show promising results in detecting the presence of a preictal phase prior to the ictal state.
+
+Chaos
+Coherence
+EEG
+Entropy
+Epilepsy
+Ictal
+Prediction
+Seizure
+Synchronization
+Wavelet

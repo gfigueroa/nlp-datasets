@@ -1,0 +1,9 @@
+Estimates of the anticipated band alignments for pseudomorphic InP/InxGa1xAs heterostructures for growth on (001) InP are presented; wherein 0dxd1.0. Linearity and transitivity of the valenceband offset, ”Ev, are assumed for a given inplane lattice parameter, a%aa0(InP). Valenceband offsets for ternary heterojunctions are obtained via linear interpolation of the selfconsistent interface calculations of Van deWalle and Martin (unpublished), whereas ”Ev for the lattice matched (In, Ga) As/InP heterojunction is taken as an input parameter. It is found that ”Ec shows a rather gradual increase for 0dx&lt;0.53, with an abrupt change in slope for x&gt;0.53. The present estimates imply an increase in ”Ec by more than 0.2 eV as x’1.0 relative to the lattice matched value, and that the partitioning of ”Eg between conduction and valence band in strained heterostructures maintains its lattice matched value. Potential applications are reviewed in brief.
+
+HETEROSTRUCTURES
+ENERGY GAP
+BAND STRUCTURE
+VALENCE BANDS
+INDIUM PHOSPHIDES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES

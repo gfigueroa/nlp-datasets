@@ -1,0 +1,12 @@
+The leakage current mechanism of the electron beam evaporated SrS:Cu, Cl films was investigated as functions of electric field and temperature. The activation energy and interfacial barrier height of electronic conduction for AlSrS:Cu, ClIn2O3:Sn-glass structures were determined by analyzing direct currentvoltage characteristics of these structures. We observed in this study that postannealing of the SrS:Cu, Cl films in H2S atmosphere leads to a reduction of leakage current as well as an increase of interfacial barrier height for the leakage current flowing in these films, regardless of the polarity of applied voltage. On the basis of this observation, we suggest that surface modification induced by the postannealing in H2S atmosphere may improve the electrical properties of the SrS:Cu films. © 2000 American Institute of Physics. 
+
+copper
+chlorine
+strontium compounds
+leakage currents
+electron beam deposition
+electrical conductivity
+annealing
+phosphors
+electroluminescence
+metal-semiconductor-metal structures

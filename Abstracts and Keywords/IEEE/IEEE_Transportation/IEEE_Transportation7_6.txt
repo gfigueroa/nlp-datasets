@@ -1,0 +1,6 @@
+A self tuning adaptive approach is proposed for actuator failure compensation in aircraft systems. The control algorithm is designed so that under specific fault conditions, an estimation of the fault is obtained using a self tuning method, alleviating therefore the need for a fault detection and isolation algorithm (FDI) as required by active fault tolerant control (FTC) approaches. To demonstrate the effectiveness of the proposed approach, an F-16 aircraft system subject to a set of fault patterns in different actuators is considered. The self tuning adaptive approach recovers well from the induced faults in the actuators.
+
+actuator failure
+adaptive control
+aircraft systems
+fault tolerant control

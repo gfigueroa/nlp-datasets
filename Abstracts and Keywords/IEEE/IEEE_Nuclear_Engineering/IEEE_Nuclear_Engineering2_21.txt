@@ -1,0 +1,6 @@
+According to cluster supply chain for increasing risk, supply chain management more complex issue. In this paper, through the establishment of cluster supply chain risk evaluation indexes system, the use of ANP (The Analytic Network Process) amended based on entropy, through comprehensive indexes of non-linear evaluation model and its algorithm, effectively solve the general linear methods can not solve the non-independent relationships of same cluster indexes in the complex system, as well as the mutual feedback relationships of the indexes of the cluster between upper and lower, in order to achieve supply chain risks evaluation more rational and objective.
+
+ANP
+Cluster Supply Chain
+Entropy
+Risk Evaluation

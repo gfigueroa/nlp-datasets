@@ -1,0 +1,13 @@
+Turbulent premixed oxygenacetylene flames have been used to synthesize polycrystalline diamond films on molybdenum substrates at temperatures ranging from 500 to 1300	°C and facetted single crystals on mmsized natural diamond substrates at temperatures of 12001300	°C. Turbulence was achieved by increasing the torchs orifice diameter and/or the flow velocity; the presence of turbulence was confirmed by observations of changes in the flame shape, measurements of the flames noise spectrum, and calculations of the Reynolds number. The optical emission spectra of several diamondgrowing turbulent flames were also compared to the spectra of laminar flames. The variation in diamond quality with temperature and oxygen acetylene flow ratio was studied with one or more of the following techniques: Raman spectroscopy, scanning and transmission electron microscopy, infrared spectroscopy, and photoluminescence spectroscopy. Crystals grown on molybdenum at temperatures of 6001100	°C were observed to be transparent, and under the proper conditions the quality of diamond grown epitaxially in a turbulent flame equals that of natural typeIIa diamond. Although this enhanced quality has only been observed for fairly lean flames, the growth rate for typeIIa quality diamonds can still exceed 35 ¼m/h.
+
+DIAMONDS
+FILM GROWTH
+TURBULENCE
+OXYGEN
+ACETYLENE
+CVD
+FLAMES
+MICROSTRUCTURE
+RAMAN SPECTRA
+TEM
+PHOTOLUMINESCENCE

@@ -1,0 +1,10 @@
+It has generally been recognized that Mg gives rise to an interstitial donor level in Si although the possibility of the existence of a Mg substitutional acceptor in Si has been suggested. In this work, we explore the synthetic conditions required to obtain substitutional Mg acceptor in Si. We have diffused Mg into Si wafers under the Mg vapor environment created by the thermal decomposition of MgB2. The Mg vapor pressure is low enough to suppress the formation of the stable silicide phase, Mg2Si, but is high enough to induce Mg diffusion into Si. The resultant Mg-diffused Si exhibited degenerate p-type semiconducting behavior. It was proposed that the presence/absence of the Mg2Si phase plays a key role in determining the location and solubility of Mg in Si.
+
+diffusion
+elemental semiconductors
+impurity states
+interstitials
+magnesium compounds
+pyrolysis
+silicon
+solubility

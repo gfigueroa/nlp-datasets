@@ -1,0 +1,11 @@
+Threading dislocation glide relieves strain in strained-layer heterostructures by increasing the total length of interface misfit dislocations. The blocking theory proposed by Freund [J. Appl. Phys. 68, 2073 (1990)] predicts the thickness above which gliding threading dislocations are able to overcome the resistance force produced by existing orthogonal misfit dislocations. A set of wedge-shaped samples of InxGa1xAs/GaAs (x=0.04) strained-layer heterostructures was grown using molecular-beam epitaxy in order to test the theory of dislocation blocking over a range of thicknesses within one sample. Scanning cathodoluminescence microscopy techniques were used to image the misfit dislocations. The cathodoluminescence results confirm the model proposed by Freund. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+cathodoluminescence
+slip
+molecular beam epitaxial growth
+semiconductor heterojunctions
+scanning electron microscopy
+interface structure
+III-V semiconductors

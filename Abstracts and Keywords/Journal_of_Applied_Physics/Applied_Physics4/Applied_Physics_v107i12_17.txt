@@ -1,0 +1,7 @@
+We present a theoretical study of the spatially averaged in-plane magnetic field on square and rectangular magnetic field sensors from a single magnetic bead, a monolayer of magnetic beads, and a half-space filled with magnetic beads being magnetized by the magnetic self-field due to the applied bias current through the sensor. The analysis of the single bead response shows that beads always contribute positively to the average magnetic field as opposed to the case for an applied homogeneous magnetic field where the sign of the signal depends on the bead position. General expressions and analytical approximations are derived for the sensor response to beads as function of the bead distribution, the bias current, the geometry and size of the sensor, and the bead characteristics. Consequences for the sensor design are exemplified and it is described how the contribution from the self-field experimentally can be separated from that due to static magnetic fields.
+
+biosensors
+magnetic field measurement
+magnetic sensors
+magnetisation
+monolayers

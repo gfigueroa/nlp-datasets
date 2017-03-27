@@ -1,0 +1,9 @@
+Strontium bismuth niobate (SBN) is a ferroelectric material. This research reports the effects of the total replacement of bismuth in SBN by the rare-earth element, samarium. X-ray-diffraction measurement with Rietveld analysis shows that the tetragonal crystal structure of SBN is essentially retained but is distorted to an orthorhombic form. The new phase shows a ferromagnetic response in addition to its inherent ferroelectric property at room temperature.
+
+strontium compounds
+bismuth compounds
+ferroelectric materials
+X-ray diffraction
+crystal structure
+ferromagnetic materials
+samarium compounds

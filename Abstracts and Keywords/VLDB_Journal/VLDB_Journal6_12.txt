@@ -1,0 +1,6 @@
+In this paper, we explore an approach of interleaving a bushy execution tree with hash filters to improve the execution of multi-join queries. Similar to semi-joins in distributed query processing, hash filters can be applied to eliminate non-matching tuples from joining relations before the execution of a join, thus reducing the join cost. Note that hash filters built in different execution stages of a bushy tree can have different costs and effects. The effect of hash filters is evaluat ed first. Then, an efficient scheme to determine an effective sequence of hash filters for a bushy execution tree is developed, where hash filters are built and applied based on the join sequence specified in the bushy tree so that not only is the reduction effect optimized but also the cost associated is minimized. Various schemes using hash filters are implemented and evaluated via simulation. It is experimentally shown that the application of hash filters is in general a very powerful means to improve th e execution of multi-join queries, and the improvement becomes more prominent as the number of relations in a query increases.
+
+Bushy trees
+Hash filters
+Parallel query processing
+Sort-merge joins

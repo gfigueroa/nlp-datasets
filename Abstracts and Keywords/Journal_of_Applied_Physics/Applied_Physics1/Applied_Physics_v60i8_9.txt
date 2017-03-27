@@ -1,0 +1,11 @@
+The proper elastic equations for an epitaxial bilayer system are presented, amending an earlier paper published by other authors in this journal. The stress profile normal to the surface and the radius of curvature are given as functions of the epitaxial mismatch.
+
+BILAYERS
+ELASTICITY
+ELASTIC CONSTANTS
+STRESSES
+HETEROSTRUCTURES
+INDIUM PHOSPHIDES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+VAPOR PHASE EPITAXY

@@ -1,0 +1,8 @@
+A numerical model is developed to describe the transport and the combustion of firebrands lofted by a fire's buoyant plumes. A preliminary study of the thermal degradation and combustion of woody fuel particle is presented. The comparison with lab-scale experiments on cylinder-shaped limbwood samples of Ponderosa Pine (PP) shows a fairly good agreement. A three-dimensional physics-based is used to predict the steady-state flow and thermal fields induced by a crown fire. Trajectories and burning rates of disk-shaped firebrands lofted by the fire plume, and transported downwind are determined for a fire intensity of 20MW/m and various windspeeds from 10 to 20mi/h. Firebrands of different sizes and densities are launched from a specified location at the top of canopy. Results show that the spotting distance depends to the product rho<sub>wood0</sub> timestau (rho<sub>wood0</sub> : initial wood density, tau : thickness), and varies almost linearly with wind speed while it is independent of the initial particle diameter.
+
+fire
+firebrand
+lofting
+plume
+spotting
+trajectory

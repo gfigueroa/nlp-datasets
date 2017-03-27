@@ -1,0 +1,10 @@
+At a sufficiently large liquid undercooling, the solidification of fine Bi droplet samples at ambient pressure yields a metastable phase instead of the stable structure. The metastable Bi phase is observed to melt at 174	°C at ambient pressure. Thermal analysis measurements on droplet samples subjected to hydrostatic pressures ranging up to 400 MPa demonstrate that the melting temperature of the metastable Bi phase increases by 20.8 K/GPa with pressure, while that of the stable Bi phase decreases by 38.8 K/GPa. The trend of the measured melting temperature of the metastable Bi phase joins smoothly to the melting curve of the Bi(II) highpressure phase. Differential scanningcalorimetry measurements on a liquid Bi droplet sample at undercoolings up to 220	°C support the identification of the metastable Bi phase as the Bi(II) highpressure phase with a heat of fusion 5.98 kJ/gat. A shift of the nucleation temperature under pressure, which follows the trend of the melting temperature, characterizes the nucleation onset of both Bi(I) and Bi(II) phases and provides information on the kinetic competition controlling phase selection.
+
+NUCLEATION
+BISMUTH
+SOLIDIFICATION
+PRESSURE EFFECTS
+KINETICS
+CALORIMETRY
+PHASE SEPARATION
+METASTABLE PHASES

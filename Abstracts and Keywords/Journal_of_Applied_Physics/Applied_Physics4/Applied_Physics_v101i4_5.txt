@@ -1,0 +1,16 @@
+The crystallization kinetics of ultrathin aSi induced by Al under thermal annealing and pulsed laser irradiation has been studied. Under thermal annealing, the crystallization temperature and activation energy for crystallization of aSi with a thin Al metal layer was reduced to around 340	°C and 3.3eV, respectively. The reaction exponent was determined to vary from 1.5 to 1.8, corresponding to a crystallization process in which grain growth occurs with nucleation, and the nucleation rate decreases with the progress of grain growth. Under high power pulsed laser irradiation, the crystallization and reamorphization of aSi were found to take place sequentially in aSi/Al. The reamorphization of aSi in contact with a thin Al metal layer can be attributed to the melting of aSi/Al initiated at the interface, due to the low melting temperature of SiAl alloy and the rapid solidification that followed. Considering only the crystallization process, the activation energy for crystallization of aSi induced by Al, estimated to be about 0.22eV, was nearly an order of magnitude lower than that under thermal annealing. This may be explained by the explosive crystallization of aSi by mechanical impact with a high power pulsed laser. In the meantime, the reaction exponent, determined to range from 1.9 to 2.2, was slightly higher than that under thermal annealing, indicating that the decrease of nucleation rate with the progress of grain growth during crystallization was slower, and the crystallization process became more nucleation dominant.
+
+silicon
+elemental semiconductors
+amorphous semiconductors
+amorphisation
+crystallisation
+semiconductor thin films
+laser beam annealing
+grain growth
+nucleation
+aluminium
+semiconductor-metal boundaries
+melting
+rapid solidification
+impact (mechanical)

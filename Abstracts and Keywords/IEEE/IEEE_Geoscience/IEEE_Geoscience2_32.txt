@@ -1,0 +1,7 @@
+Molecular dynamics simulation has been used to study mechanical properties of gold nanowires. For this purpose, stress-strain behavior of Au nanowires under different loading conditions has been investigated. Nanowires were subjected to uniaxial strain at temperature of 50,300 and 400 K using embedded atom model potential. Moreover, the effect of temperature on Young's modulus of nanowire has been explored. Also, thermal expansion coefficients of a gold unit cell have been simulated too.
+
+Gold nanowires
+Molecular Dynamics Simulation
+Young modulus
+temperature dependency
+thermal expansion coefficient

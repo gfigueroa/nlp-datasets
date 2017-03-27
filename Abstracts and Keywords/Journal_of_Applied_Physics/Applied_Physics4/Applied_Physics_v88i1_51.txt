@@ -1,0 +1,12 @@
+Three series of polycrystalline spinel ferrite, NiZn ferrite, MgZn ferrite and NiZnCu ferrite, were prepared by the usual ceramic sintering method. The complex permeability spectra of each were measured. The low-frequency permeability increases with zinc content. However, the natural resonance frequency shifted down as the zinc content increased. The spectra were also numerically separated into spin rotational and domain wall resonance components. For the spin rotational contribution, which remained in the high frequency region, the static spin susceptibility increased and the spin resonance frequency shifted down with an increase in zinc content. Additionally, it was found that the product of the static spin susceptibility and the spin resonance frequency is proportional to the magnetization, irrespective of the kind of spinel ferrite. These relationships correspond to Snoeks limitation rule. From these results, it was clarified that polycrystalline ferrites having large magnetization are suitable for high-frequency applications. © 2000 American Institute of Physics. 
+
+magnesium compounds
+copper compounds
+nickel compounds
+zinc compounds
+magnetic permeability
+sintering
+ceramics
+ferrites
+magnetisation
+magnetic susceptibility

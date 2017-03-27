@@ -1,0 +1,5 @@
+We have developed an an efficient approach called the improved non-dominated sorting genetic algorithm II (INSGA-II) for designing the library of DNA codewords based on the physicochemical constraints. Sequences that satisfy these constraints can be utilized in computations, various engineering applications such as microarrays, and nano-fabrications. The novelty of our algorithm is that introduced the constraints to the non-dominated sorting process. Experiment results in silico showed that the INSGA-II have higher convergence speed and better population diversity than those of other algorithms, and can provide reliable and effective codewords for controllable DNA computing.
+
+DNA Codewords Design
+DNA Computing
+NSGA-II Algorithms

@@ -1,0 +1,17 @@
+Nanocrystalline two-phase NdFeB+±-Fe material was prepared by milling techniques and subsequent heat treatment. These isotropic exchange-coupled powders show excellent hard magnetic properties with enhanced remanences up to 1.20 T and energy densities (BH)max around 150
+kJ/m3. The performance is based on (i) the use of grain refining additions, (ii) partial substitution of Fe by Co and (iii) the use of pre-melted master alloys. The distribution of Co among the hard and soft magnetic phases upon milling and annealing is studied via Curie temperature measurements up to 10at.
+% Co substitution. The effect of Co on the intrinsic properties is estimated and clarifies the extrinsic magnetic behavior. An overview of samples prepared with different milling techniques and compositions is presented. It summarizes the above listed, three different approaches to improve the magnetic performance together with the influence of the phase ratio of hard and soft magnetic phases. © 2001 American Institute of Physics. 
+
+neodymium alloys
+iron alloys
+boron alloys
+annealing
+permanent magnets
+nanostructured materials
+grain refinement
+Curie temperature
+exchange interactions (electron)
+remanence
+alloying additions
+powder metallurgy
+magnetic particles

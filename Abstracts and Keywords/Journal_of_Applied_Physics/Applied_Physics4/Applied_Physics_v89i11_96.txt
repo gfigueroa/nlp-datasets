@@ -1,0 +1,11 @@
+Monte Carlo simulations of a system consisting of a ferromagnetic layer exchange coupled to a diluted antiferromagnetic layer described by a classical spin model show a strong dependence of the exchange bias on the degree of dilution in agreement with recent experimental observations on Co/CoO bilayers. These simulations reveal that diluting the antiferromagnet leads to the formation of domains in the volume of the antiferromagnet carrying a remanent surplus magnetization which causes and controls exchange bias. To further support this domain state model for exchange bias we study, in the present article, the dependence of the bias field on the thickness of the antiferromagnetic layer. It is shown that the bias field strongly increases with increasing film thickness and eventually goes over a maximum before it levels out for large thicknesses. These findings are in full agreement with experiments. © 2001 American Institute of Physics. 
+
+magnetic domains
+magnetisation
+hysteresis
+remanence
+dilute magnetic materials
+ferromagnetism
+antiferromagnetism
+exchange interactions (electron)
+Monte Carlo methods

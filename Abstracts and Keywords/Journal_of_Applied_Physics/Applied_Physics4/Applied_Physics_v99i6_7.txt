@@ -1,0 +1,8 @@
+We have performed ballistic and diffusive quantum simulations of resonant tunneling in nanoscale tunnel transistors. We have investigated three factors, temperature, interference, and diffusive scattering, which may affect the resonant tunneling effect in the devices. Our simulations indicate that if the channel length and depth are in the order of tens of nanometers and a few nanometers, respectively, and the electron mean free path in the channel region is in the order of tens of nanometers, the current oscillations and the negative differential resistance behavior due to resonant tunneling may be observed at room temperature.
+
+tunnel transistors
+resonant tunnelling
+nanoelectronics
+electron mean free path
+electrical resistivity
+ballistic transport

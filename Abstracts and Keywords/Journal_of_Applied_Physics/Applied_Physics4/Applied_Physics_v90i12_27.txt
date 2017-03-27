@@ -1,0 +1,14 @@
+Nanoparticles of cobalt and nickel embedded in AlN matrix have been prepared by ion implantation or sputter deposition with average diameters ranging from 0.8 to 9 nm. The average magnetic moment per atom versus the average cluster diameter was measured either by x-ray magnetic circular dichroism and/or by SQUID magnetometry. The resulting values are always smaller than the bulk ones. An interpretation is given in terms of an interaction between the atoms located at the cluster surface and the AlN matrix, leading to a magnetically dead layer about 0.1 nm thick. © 2001 American Institute of Physics. 
+
+nickel
+cobalt
+ferromagnetic materials
+magnetic particles
+aluminium compounds
+magnetic moments
+nanostructured materials
+ion implantation
+sputter deposition
+particle size
+magnetic circular dichroism
+X-ray absorption spectra

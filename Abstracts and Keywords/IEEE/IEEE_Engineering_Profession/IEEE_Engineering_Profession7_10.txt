@@ -1,0 +1,6 @@
+It is well known that voltage stability enhancement margin is interrelated with reactive power loss. To enhance voltage stability, location and placement of FACTS devices is a major task. In this paper, voltage stability assessment with appropriate representation of SVC and TCSC is investigated and compared in the IEEE 6-bus system. Continuation power flow analysis, with accurate model of these controllers, is used for this study. The effects of these controllers on voltage stability are examined. It is found that these controllers significantly increase the loading parameter of power systems.
+
+CPF analysis
+SVC
+TCSC
+Voltage Stability

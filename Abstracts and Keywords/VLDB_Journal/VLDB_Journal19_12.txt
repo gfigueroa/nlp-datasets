@@ -1,0 +1,8 @@
+The database community has devoted extensive amount of efforts to indexing and querying temporal data in the past decades. However, insufficient amount of attention has been paid to temporal ranking queries. More precisely, given any time instance t, the query asks for the top-k objects at time t with respect to some score attribute. Some generic indexing structures based on R-trees do support ranking queries on temporal data, but as they are not tailored for such queries, the performance is far from satisfactory. We present the Seb-tree, a simple indexing scheme that supports temporal ranking queries much more efficiently. The Seb-tree answers a top-k query for any time instance t in the optimal number of I/Os in expectation, namely, I/Os, where N is the size of the data set and B is the disk block size. The index has near-linear size (for constant and reasonable k max values, where k max is the maximum value for the possible values of the query parameter k), can be constructed in near-linear time, and also supports insertions and deletions without affecting its query performance guarantee. Most of all, the Seb-tree is especially appealing in practice due to its simplicity as it uses the B-tree as the only building block. Extensive experiments on a number of large data sets, show that the Seb-tree is more than an order of magnitude faster than the R-tree based indexes for temporal ranking queries.
+
+Ranking queries
+Indexing
+IO efficient algorithms
+Temporal data
+Piece-wise linearsegmentation
+Top-k

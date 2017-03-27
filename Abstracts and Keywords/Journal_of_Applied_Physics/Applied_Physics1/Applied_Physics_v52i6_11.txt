@@ -1,0 +1,19 @@
+The optical properties of polycrystalline CdTe films prepared using vacuum sublimation techniques are discussed. Refractive index measurements are reported for the wavelength region 4502000 nm and compared with singlecrystal values. Extinction and absorption coefficient measurements are reported for the strong absorption regime (450900 nm). uv reflectance measurements are also discussed. New structure in the uv reflectance of many of the film samples is attributed to stacking sequence changes which introduce elements of the hexagonal phase. Xray diffraction results support this conclusion. The reflectance data are analyzed using Birmans doublezone scheme and yield some information concerning the band structure of hexagonal CdTe.
+
+FILMS
+CADMIUM TELLURIDES
+OPTICAL PROPERTIES
+POLYCRYSTALS
+THEORETICAL DATA
+MATHEMATICAL MODELS
+SUBLIMATION
+REFRACTIVITY
+WAVELENGTHS
+MONOCRYSTALS
+COMPARATIVE EVALUATIONS
+ABSORPTION
+ABSORPTIVITY
+ULTRAVIOLET RADIATION
+REFLECTIVITY
+XRAY DIFFRACTION
+HEXAGONAL LATTICES

@@ -1,0 +1,18 @@
+The effect of laser power on the transient response of photoimpedance and the in situ sample temperature is studied for epitaxial YBa2Cu3O7´ (YBCO) films at a wavelength of 810 nm using 100 fs laser pulses. The temperature dependences of the dc resistance and the amplitudes of the fast and slow photoresponse signals were measured simultaneously. For laser energy density of 20
+¼J/cm2 per pulse (average power 22 mW), the average sample temperature is found to increase by about 1 K for 300 nm thick YBCO film with 0.5 mm thick LaAlO3 substrate as shown by the shift of resistance versus temperature curves. Calculations of time constant show that heat diffusion in LaAlO3 is the bottleneck for heat escape which causes the observed increase of the sample temperature. The amplitudes of both slow and fast signals show a peak in the temperature dependence curves near the superconducting transition temperature; and the peak temperature decreases, while the peak amplitude increases with laser power. At 82 K, the laser power dependence of the fast signal amplitude showed nonlinear behavior above 22 mW. These data were analyzed in terms of the kinetic inductance model and bolometric mechanism for the fast and slow signals, respectively. The temperature variation owing to laser pulse has been taken into consideration in this analysis. © 1998 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting epitaxial layers
+photoconductivity
+superconducting transition temperature
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+RESPONSE FUNCTIONS
+THIN FILMS
+LASER RADIATION
+TEMPERATURE DEPENDENCE
+ELECTRIC CONDUCTIVITY
+HIGH-TC SUPERCONDUCTORS

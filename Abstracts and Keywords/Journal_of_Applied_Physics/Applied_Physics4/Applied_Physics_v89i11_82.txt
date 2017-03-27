@@ -1,0 +1,10 @@
+Current pulses were injected into magnetic nanowires. Their effect on the magnetoresistance hysteresis loops was studied for three morphologies: homogeneous Ni wires, copper wires containing five cobalt/copper bilayers, and hybrid structures composed of a homogeneous Ni half wire and a multilayered Co/Cu half wire. The characteristic features of the action of the current on the magnetization are shown and discussed. © 2001 American Institute of Physics.
+
+nickel
+cobalt
+copper
+giant magnetoresistance
+magnetisation
+magnetic multilayers
+magnetic hysteresis
+nanostructured materials

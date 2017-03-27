@@ -1,0 +1,7 @@
+Two modeling methods (physical model, and artificial neural network model) are developed to predict the fiber diameter of spunbonding nonwovens. By analyzing the results of two models, the effects of process parameters on fiber diameter can be predicted. The results show the artificial neural network model can yield more accurate and stable predictions than the physical model, and it can yield reasonably good prediction results and provide insight into the relationship between process parameters and fiber diameter. At the same time, the experimental results and the corresponding analysis also show that the neural network is an efficient technique for the quality prediction.
+
+artificial neural network model
+fiber diameter
+physical model
+process parameter
+spunbonding nonwoven

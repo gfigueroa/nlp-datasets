@@ -1,0 +1,13 @@
+Herein we demonstrate that Eu2+ substitution of SrTi0.8Nb0.2O3 is effective in reducing the thermal conductivity, with no reduction in the thermoelectric power factor (S2Ã; S, Seebeck coefficient; Ã, electrical conductivity). We prepared cubic (Sr,Eu)Ti0.8Nb0.2O3 crystals having the same lattice parameter (a = 0.395nm) over the whole composition range. Although no dependence upon the Eu content was observed for the electron transport properties, including the density of states effective mass and carrier relaxation time for (Sr,Eu)Ti0.8Nb0.2O3, the mean free path of the phonon was reduced < 12% at room temperature when half of the Sr2+ was substituted by Eu2+.
+
+carrier mean free path
+carrier relaxation time
+effective mass
+electrical conductivity
+electronic density of states
+europium compounds
+lattice constants
+Seebeck effect
+strontium compounds
+thermal conductivity
+titanium compounds

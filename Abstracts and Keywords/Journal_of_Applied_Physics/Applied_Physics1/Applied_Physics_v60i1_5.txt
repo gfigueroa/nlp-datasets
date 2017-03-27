@@ -1,0 +1,14 @@
+Lightheavyhole mixing is analyzed using a scattering formalism. An effective potential is found which describes mixing, scattering, and bound states in an effective mass envelope wavefunction approximation. Two simple quantum well structures, a single barrier and a single well, are examined. A connection between mixing and strain in thin epitaxial layers is described. The hole tunneling work of E. E. Mendez, W. I. Wang, B. Ricco, and L. Esaki [Appl. Phys. Lett. 47, 415 (1985)] is discussed.
+
+QUANTUM WELL STRUCTURES
+HOLES
+SCATTERING
+CHARGEDPARTICLE TRANSPORT
+CHARGEDPARTICLE TRANSPORT THEORY
+BARRIER HEIGHT
+EPITAXIAL LAYERS
+THIN FILMS
+EFFECTIVE MASS
+WAVE FUNCTIONS
+MIXING
+POTENTIALS

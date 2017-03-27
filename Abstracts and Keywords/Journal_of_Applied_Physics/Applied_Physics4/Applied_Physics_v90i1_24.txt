@@ -1,0 +1,13 @@
+For SrS:Cu,Ag thin film phosphors, a postdeposition annealing step is imperative in order to obtain bright photo- or electroluminescence. However, it is not clear to date what is the most important effect of this treatment, a recrystallization of the host lattice or a redistribution of the activators. The present article discusses the microscopic emission characteristics of annealed photoluminescent layers SrS:Cu,Ag. Using cathodoluminescence measurements, it is shown that emission, originating from the grain boundaries, is very weak compared to the emission from the bulk of the grains. © 2001 American Institute of Physics. 
+
+strontium compounds
+copper
+silver
+phosphors
+optical films
+vacuum deposited coatings
+cathodoluminescence
+electroluminescence
+photoluminescence
+recrystallisation annealing
+rapid thermal annealing

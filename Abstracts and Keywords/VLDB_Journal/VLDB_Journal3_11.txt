@@ -1,0 +1,5 @@
+We describe the design and implementation of the Glue-Nail deductive database system. Nail is a purely declarative query language; Glue is a procedural language used for non-query activities. The two languages combined are sufficient to write a complete application. Nail and Glue code are both compiled into the target language IGlue. The Nail compiler uses variants of the magic sets algorithm and supports well-founded models. The Glue compiler's static optimizer uses peephole techniques and data flow analysis to improve code. The IGlue interpreter features a run-time adaptive optimizer that reoptimizes queries and automatically selects indexes. We also describe the Glue-Nail benchmark suite, a set of applications developed to evaluate the Glue-Nail language and to measure the performance of the system.
+
+language
+performance
+query optimization

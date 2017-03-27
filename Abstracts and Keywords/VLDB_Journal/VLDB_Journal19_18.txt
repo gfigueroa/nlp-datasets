@@ -1,0 +1,6 @@
+In automotive applications, movement-path prediction enables the delivery of predictive and relevant services to drivers, e.g., reporting traffic conditions and gas stations along the route ahead. Path prediction also enables better results of predictive range queries and reduces the location update frequency in vehicle tracking while preserving accuracy. Existing moving-object location prediction techniques in spatial-network settings largely target short-term prediction that does not extend beyond the next road junction. To go beyond short-term prediction, we formulate a network mobility model that offers a concise representation of mobility statistics extracted from massive collections of historical object trajectories. The model aims to capture the turning patterns at junctions and the travel speeds on road segments at the level of individual objects. Based on the mobility model, we present a maximum likelihood and a greedy algorithm for predicting the travel path of an object (for a time duration h into the future). We also present a novel and efficient server-side indexing scheme that supports predictive range queries on the mobility statistics of the objects. Empirical studies with real data suggest that our proposals are effective and efficient.
+
+Road network database
+Path prediction
+Predictive range query
+Mobility statistics

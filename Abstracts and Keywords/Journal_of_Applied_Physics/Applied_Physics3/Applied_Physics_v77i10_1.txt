@@ -1,0 +1,13 @@
+Shockwave measurement and shockcompression recovery experiments of yttria (Y2O3) doped (3.0 mol	%) tetragonal zirconia in the pressure range up to 125 GPa were performed to study the anomalous shock compression and release behaviors. The minute threewave structure with the transition points of 1517 and 3335 GPa was observed also by the inclinedmirror method, which is consistent with the VISAR (velocity interferometer system for any reflector) data. The shock velocities of the second wave were so fast that the first transition could not be identified as a normal elastoplastic transition. The shock velocity Us versus particle velocity Up relation of the final wave was given by Us=2.71+2.39Up km/s. The equation of state of the final phase was analyzed by using a program based on the Debye model, the MieGrüneisen equation, and the BirchMarnaghan equation. The volume change between the tetragonal phase and the final phase at zero pressure was estimated to be 18%, which was larger than that expected for the tetragonalorthorhombic II transition. The bulk moduli of the final phase at zero pressure was estimated to be 550 GPa. An instability was observed at release in the stress history of 28 GPa in peak stress. A certain amount of the monoclinic phase was observed at fractured surfaces of the recovered specimens from the shock compressions of below and above the first transition point (1517 GPa) by Raman spectrum and transmission electron microscope observations. This might be related to the observed anomalous shock compression and release behaviors. © 1995 American Institute of Physics.
+
+ZIRCONIUM OXIDES
+DOPED MATERIALS
+YTTRIUM OXIDES
+TETRAGONAL LATTICES
+PRESSURE EFFECTS
+VERY HIGH PRESSURE
+SHOCK WAVES
+EQUATIONS OF STATE
+PHASE TRANSFORMATIONS
+RAMAN SPECTRA
+TEM

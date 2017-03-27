@@ -1,0 +1,10 @@
+Impact ionization involving transport across a single heterojunction has been studied by measuring the electron and hole initiated multiplication, Me and Mh, in a series of p+in+ AlxGa1xAs(500
+Å)/GaAs(500
+Å) heterostructures with x ranging from 0.3 to 0.6. At low electric fields, because of dead space effects, Me and Mh in these devices are very different and are primarily determined by the ionization properties of the material in the latter half of the structure. As the electric field increases, feedback from the opposite carrier type causes Me and Mh to converge to the values measured in the equivalent alloy. The effects of the band-edge discontinuities at the heterojunction interface on Me and Mh in these heterostructures are compensated by the different energy-loss rates in AlxGa1xAs and GaAs. A simple Monte Carlo model using effective conduction and valence bands is used to interpret the experimental results. © 1998 American Institute of Physics. 
+
+impact ionisation
+Monte Carlo methods
+III-V semiconductors
+gallium arsenide
+aluminium compounds
+p-n heterojunctions

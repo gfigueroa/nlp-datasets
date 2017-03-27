@@ -1,0 +1,6 @@
+A modified equation of state is proposed, which allows the use of the Arrott plots at high magnetic fields. The equation is shown to fit rather well the experimental data of Potter on crystalline Fe, and those of Kaul and Rosenberg on amorphous Fe13Ni67B19Si alloy.
+
+EQUATIONS OF STATE
+MAGNETIC FIELD EFFECTS
+IRON
+CURIE POINT

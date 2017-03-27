@@ -1,0 +1,10 @@
+Magnetism of bulk La1/3Nd1/3Ca1/3MnO3 with a magnetoresistance ratio as high as 96% in a field of 0.67 T is investigated. Two shoulders are observed on both thermal magnetization curves and magnetization isotherms. A magnetic inhomogeneity model, i.e., simultaneous occurrence of ferromagnetic La-rich domains and nonferromagnetic Nd-rich domains in the compound, is proposed. The model gives a satisfactory explanation for the experimental results. It is argued that a field-induced magnetic transition occurs in the Nd-rich phase and the coexisting La-rich phase can promote the magnetic transition. © 1997 American Institute of Physics.
+
+lanthanum compounds
+neodymium compounds
+calcium compounds
+giant magnetoresistance
+magnetisation
+magnetic domains
+ferromagnetic materials
+magnetic transitions

@@ -1,0 +1,8 @@
+A correct and verifiable model of the dielectric loss factor of BaxSr1xTiO3 as a function of temperature, biasing field, barium concentration, and frequency has been developed in frequency range 0.1100 GHz. Contributions to the loss factor of fundamental, quasi-Debye, acoustic, and low frequency relaxation mechanisms have been modeled. The specified frequency dependence of the loss factor has been taken into account. The fitting parameters of the model provide a good agreement between experimental and simulated data. © 2002 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+dielectric losses
+dielectric relaxation
+permittivity
+ferroelectric materials

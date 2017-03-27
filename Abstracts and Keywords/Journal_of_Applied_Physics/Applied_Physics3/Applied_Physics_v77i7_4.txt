@@ -1,0 +1,11 @@
+The uniaxial bianisotropicferrite medium is a generalization of the wellstudied magnetically biased ferrite and uniaxial material. It can be manufactured either by immersing randomly oriented short helices and ©shaped particles in a magnetically biased ferrite, or by arranging short conductive helices in a magnetized ferrite in a certain manner. It has potential applications in microwave technology, antenna design, and antireflection shielding. In the present consideration, based on the concept of characteristic waves and the method of angular spectral expansion, field representations in uniaxial bianisotropicferrite medium are developed. The analysis reveals the solutions of sourcefree Maxwells equations for uniaxial bianisotropicferrite medium can be represented in sumintegral forms of the circular cylindrical vector wave functions. The addition theorem of vector wave functions for uniaxial bianisotropicferrite medium can be straightforwardly derived from that of vector wave functions for isotropic medium. An application of the proposed theory in scattering is presented to show how to use these formulations in a practical way. © 1995 American Institute of Physics.
+
+FERRITES
+MAXWELL EQUATIONS
+WAVE FUNCTIONS
+ELECTROMAGNETIC FIELDS
+WAVE PROPAGATION
+ANISOTROPY
+VECTORS
+COMPOSITE MATERIALS
+PARTICULATES

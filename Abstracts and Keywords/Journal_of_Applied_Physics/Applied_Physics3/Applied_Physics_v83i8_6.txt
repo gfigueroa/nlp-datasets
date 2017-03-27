@@ -1,0 +1,15 @@
+Photoluminescence (PL) spectroscopy has been used to study the silicon incorporation in polar GaAs on nonpolar Ge substrates. Shifts of PL spectra towards higher energy with growth temperature, trimethylgallium (TMGa) and arsine (AsH3) mole fractions were observed. The full width at half maximum increases with increasing growth temperature, AsH3 and TMGa mole fractions. The peak at 1.49 eV has been attributed to band-to-acceptor transition involving residual carbon. The PL peak energy shifts towards higher energy with increasing growth temperature due to the increase in electron concentration. A vacancy control model may explain the PL shift towards higher energy with increasing AsH3 mole fraction. The PL peak shifts towards higher energy with increasing TMGa mole fraction. The experimental results about the growth temperature, trimethylgallium, and arsine mole fractions on silicon-doped GaAs on GaAs were presented for comparison. The outdiffusion of Ge into the GaAs epitaxial layer was hardly to be seen from the secondary ion mass spectroscopy result. © 1998 American Institute of Physics.
+
+gallium arsenide
+silicon
+germanium
+III-V semiconductors
+elemental semiconductors
+polar semiconductors
+photoluminescence
+semiconductor heterojunctions
+semiconductor epitaxial layers
+electron density
+vacancies (crystal)
+secondary ion mass spectra
+diffusion

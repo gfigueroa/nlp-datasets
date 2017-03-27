@@ -1,0 +1,12 @@
+Threshold current densities and wavelengths of gain maximum and longitudinal modes have been determined as a function of temperature for various laser structures. The onset of intrapulse heating has been studied and interpreted. In Zn0.92Mg0.08S0.12Se0.88/ZnS0.06Se0.94 /Zn0.8Cd0.2Se lasers, thermal resistances have been measured, using substrateup and substratedown mounting. From these, continuouswave lasing regimes have been determined.
+
+SEMICONDUCTOR LASERS
+HEAT TRANSFER
+VISIBLE RADIATION
+THRESHOLD CURRENT
+GAIN
+TEMPERATURE DEPENDENCE
+ZINC SELENIDES
+MAGNESIUM SULFIDES
+CADMIUM SELENIDES
+QUATERNARY COMPOUNDS

@@ -1,0 +1,7 @@
+Neural network height fitting method was one of the best methods at present. Neural network parameter, especially the network training function was one of the most important factors to affect the network performance and accuracy. This paper analyzed the relationship between several important neural network algorithms and their characteristics; Anglicizing and comparing speed and accuracy of each algorithm training by an instance data, and finally obtained that LM algorithm was the most appropriate algorithm for GPS height conversion.
+
+BP neural network
+GPS
+LM algorithm
+height conversion
+network performance

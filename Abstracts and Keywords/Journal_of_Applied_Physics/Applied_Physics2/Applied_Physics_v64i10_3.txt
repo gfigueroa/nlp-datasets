@@ -1,0 +1,14 @@
+A low cost thermistor paste using manganite (Mn1.5CoN0.5O4) as functional material, prepared by sintering manganese, cobalt, and nickel oxides, is formulated for use as planar temperature sensors. The paste contains glass frit as binder and silver metal (0% to 60% by weight) as conducting phase instead of RuO32. Thermistors are fabricated by screen printing of these pastes on alumina substrates and effect of addition of various percentages of silver on electrical properties like sheet resistivity and temperature coefficient of resistance (TCR) are measured in the temperature range of 25200	°C. Up to 50% addition of silver the pastes show a negative TCR with thermistor constant in the range 30005000	K, and sheet resistivity of the order of 106 ©/, whereas the pastes with 55% and 60% silver show a drastic reduction in the value of sheet resistivity (20 ©/) and have positive TCR with thermistor constant of the order of 200300 K. NTC thermistors have high sensitivity of 5%7%/K and PTC thermistors have sensitivity of 1%2%/K. This interesting result of NTCPTC transformation in relation to silver concentration, along with the sudden change in the conductivity (of about 6 orders of magnitude) at a critical concentration of silver, is discussed in the paper. This has been explained on the basis of an effective medium theory (Springett model) and formation of some metallic silver complex.
+
+THERMISTORS
+FABRICATION
+ELECTRIC CONDUCTIVITY
+FILMS
+SILVER COMPOUNDS
+MANGANESE OXIDES
+COBALT OXIDES
+NICKEL OXIDES
+THERMOELECTRIC PROPERTIES
+CHEMICAL PREPARATION
+MATERIALS
+CHEMICAL COMPOSITION

@@ -1,0 +1,14 @@
+A thermal model of AlGaN/GaN high electron mobility transistors (HEMTs) has been developed based on a quasi-two-dimensional numerical solution of Schrödingers equation coupled with Poissons equation. The static current characteristics of HEMT devices have been obtained with the consideration of the self-heating effect on related parameters including polarization, electron mobility, saturation velocity, thermal conductivity, drain and source resistance, and conduction-band discontinuity at the interface between AlGaN and GaN. The simulation results agree well with our experimental data. It has also been demonstrated that the reduction of the saturation drain current at high power dissipation is primarily due to the decrease of electron mobility in the channel. The proposed model is valuable for predicting and evaluating the performance of different device structures and packages for various applications.
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+high electron mobility transistors
+Schrodinger equation
+Poisson equation
+thermal conductivity
+conduction bands
+electrical resistivity
+electron mobility
+semiconductor device models

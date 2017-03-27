@@ -1,0 +1,10 @@
+In order to assess the relative contributions of glide and climb processes in the relaxation of misfit strain in heteroepitaxial layers, the glide and climb velocities of dislocations are compared at several temperatures. It is shown that the glide velocity is much greater than the climb velocity under normal conditions. For copper and silicon, about four orders of magnitude can exist at 3/4 of the melting temperature with lower temperatures leading to larger differences. One therefore expects relaxation of misfit strain to proceed primarily by glide mechanisms. Two cases are addressed here in which climb processes can be important: (i) bypassing of an obstacle and (ii) redistribution of an irregular array of interfacial misfit dislocations into a regular array of lower energy.
+
+EPITAXIAL LAYERS
+HETEROSTRUCTURES
+MISFIT DISLOCATIONS
+STRAINS
+COPPER
+SILICON
+RELAXATION
+INTERFACES

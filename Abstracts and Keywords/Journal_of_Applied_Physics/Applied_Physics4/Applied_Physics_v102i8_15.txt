@@ -1,0 +1,15 @@
+PbZr0.52Ti0.48O3 (PZT) thick films are prepared by a polymer-assisted metallo-organic compound decomposition process. The addition of a polymer, poly(vinyl acetate) (PVAc), in PZT precursor solutions promotes the formation of the perovskite phase. Meanwhile, the crack formation is effectively suppressed. The single-layer thickness of PZT films increases from 0.07to0.22¼m. It is found that PZT recrystallizes after the PVAc-related organic compounds are decomposed. Nanosized pores are observed in the morphological surfaces of PZT thick films. The crack-free PZT thick films with thickness of 1.3¼m by the repeated deposition exhibit good electrical properties with dielectric constant of 996, dielectric loss around of 3%, remanent polarization of 36.3¼C/cm2, and coercive field of 78.5kV/cm, which are potential candidates for microelectromechanical system (MEMS) applications.
+
+decomposition
+dielectric losses
+dielectric polarisation
+ferroelectric thin films
+lead compounds
+micromechanical devices
+nanoporous materials
+permittivity
+polymer films
+recrystallisation
+surface cracks
+surface morphology
+zirconium compounds

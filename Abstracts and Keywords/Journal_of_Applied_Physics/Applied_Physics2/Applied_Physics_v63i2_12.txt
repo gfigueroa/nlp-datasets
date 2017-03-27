@@ -1,0 +1,11 @@
+Elastoplastic properties of Al2O3 single crystal (1438 GPa) and polycrystal (633 GPa) under shock compression were studied by the measurements of Hugoniot compression curves and stress histories. The Hugoniotelastic limit (HEL) stresses were determined to be 14.417.3 GPa for single crystals and 6.79.6 GPa for polycrystals with 2.7%3.2% porosity. In the plastic region, the singlecrystal Hugoniot stresses, at a given density, exceed the isothermal xray static data and its extrapolation by 6.58 GPa. And, the polycrystalline Hugoniot data exceeds, at a given density, the singlecrystal Hugoniot data by about 1 GPa. These Hugoniot offsets are not caused by temperature increase, but rather by the shear strength and the remaining porosity. The stress histories of a single crystal show very similar shapes to that of a perfect elastoplastic material. The apparent yield stresses of single crystal at the HEL and in the plastic region are estimated to be 9.512 GPa and 46 GPa, from the HEL data and the quasirarefaction shock in the stress histories, respectively. As a result, it is concluded that both Al2O3 single crystal and polycrystal behave as quasielastoplastic material with some loss of shear strength, unlike many other brittle materials (elastoisotropic material with large catastrophic loss) such as Si, SiO2, etc. Furthermore, the present results suggest that the packing state and bonding state of crystal should be also ranked among the factors deciding the heterogeneous shock yielding of brittle materials, in addition to the thermophysical properties, which are related to the shear banding phenomenon or the other yielding mechanism.
+
+ELASTICITY
+PLASTICITY
+HUGONIOTS
+SHOCK WAVES
+COMPRESSION
+ALUMINIUM OXIDES
+POROSITY
+PRESSURE EFFECTS
+POLYCRYSTALS

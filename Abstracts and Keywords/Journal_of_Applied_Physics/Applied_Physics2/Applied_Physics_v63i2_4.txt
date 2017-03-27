@@ -1,0 +1,8 @@
+Electromagnetic waves can discriminate between objects of different handedness due to their transverse nature, which implies that the origin of chirality necessarily need not be molecular as in the case of optically active media. By embedding chiral microstructures in a host medium, effectively chiral composites can be constructed. The simplest microstructures are polymer strands which conform to left or righthanded helices. Using a simple multiplescattering theory, the electromagnetic signature of a polymer model, consisting of tiny pointpolarizable spheres strung on helical strands, is examined. From the computed scattered field in the far zone, the equivalent electric and magnetic dipole moments of the helical ensemble are computed for different planewave incidence cases. Based on parametric studies of the equivalent moments, specific recommendations on the helical geometry are made for use in designing chiral composites.
+
+LIGHT SCATTERING
+CHIRALITY
+POLYMERS
+DIPOLE MOMENTS
+ELECTROMAGNETIC RADIATION
+MICROSTRUCTURE

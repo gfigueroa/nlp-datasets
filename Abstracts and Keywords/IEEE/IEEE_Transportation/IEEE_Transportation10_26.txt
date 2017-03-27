@@ -1,0 +1,6 @@
+A novel approach to investigate the changes in the temporal nature of impulse fault current in the transformer winding due to dynamic insulation failures has been proposed. Non-linear bilateral fault simulator circuit is developed and connected in analog model of 3 MVA transformer to simulate static and dynamic faults. The features extracted from cross-correlation of faulted and no-fault impulse currents shows that the features are following some defined patterns. The concepts of cross-correlation based feature extraction and simulation of static and dynamic faults are explained.
+
+cross-correlation
+dynamic fault simulator
+dynamic insulation failure
+impulse fault patterns

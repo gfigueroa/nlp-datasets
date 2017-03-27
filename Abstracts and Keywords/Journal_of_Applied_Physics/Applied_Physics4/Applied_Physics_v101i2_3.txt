@@ -1,0 +1,12 @@
+Aging phenomena were investigated in three different ferrofluids containing submicron sized magnetic beads consisting of a cluster of iron oxide nanoparticles embedded in a dextrane matrix with primary amine groups on the surface (one fresh sample and one sample aged during three months) and with a plain surface (only dextrane on the surface, aged for three months), suitable for magnetic biosensor applications. The main characterization technique used was measurement of the frequency dependent complex magnetization using a superconducting quantum interference device. The experimental factors considered were the effect of ultrasonication, temperature, dc bias magnetic field, and addition of sodium dodecyl sulphate surfactant. The stability against aging was found to depend strongly on the bead surface, and the reproducibility of a refreshing procedure involving addition of surfactant in combination with ultrasonication was shown to be low. Aggregation was shown to be strongly affected by the presence of even a small bias magnetic field. Applying a dc bias field caused the formation of more or less stable chainlike aggregates with various lengths.
+
+magnetic fluids
+ageing
+magnetic particles
+iron compounds
+nanoparticles
+magnetic sensors
+magnetisation
+surfactants
+aggregation
+nanobiotechnology

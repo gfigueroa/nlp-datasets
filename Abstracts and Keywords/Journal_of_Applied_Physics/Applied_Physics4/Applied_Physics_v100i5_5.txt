@@ -1,0 +1,9 @@
+This article reviews the existing theoretical models describing the interface-induced phenomena which affect the switching characteristics and dielectric properties of ferroelectric thin films. Three groups of interface-induced effects are addressednamely, passive-layer-type effects, ferroelectric-electrode contact potential effects, and the poling effect of the ferroelectric-electrode interface. The existing experimental data on dielectric and switching characteristics of ferroelectric thin film capacitors are discussed in the context of the reviewed theories. Special attention is paid to the case of internal bias field effects.
+
+dielectric polarisation
+ferroelectric thin films
+thin film capacitors
+ferroelectric capacitors
+reviews
+ferroelectric switching
+contact potential

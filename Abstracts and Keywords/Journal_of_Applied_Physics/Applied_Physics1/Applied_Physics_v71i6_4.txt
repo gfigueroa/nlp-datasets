@@ -1,0 +1,11 @@
+We present calculations of the k dependence of the impact ionization transition rate along the principal directions within the first Brillouin zone of bulk GaAs, Ge, and InAs. The calculations are performed using realistic energyband structures determined using the k≈p method. The impact ionization transition rate is determined from a twobody screened Coulomb interaction assuming energy and momentum conservation. The transition rate within the first two conduction bands of GaAs and Ge is calculated along with the rate within the first conduction band in InAs. It is found that the impact ionization transition rate depends strongly on the initiating electron k vector; the rate is greatest in all three materials at small values of k, i.e., within the gamma valley. This result implies that the k dependence of the ionization transition rate is important. The results also indicate that the rate is greatest for incident electrons at small k vector independent of whether the material is direct or indirect or of wide or narrow energy band gap. Nevertheless, the total impact ionization rate may prove to be relatively k independent since the total rate depends additionally on the nature of the nonequilibrium distribution function.
+
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+GERMANIUM
+ELECTRIC CONDUCTIVITY
+IMPACT PHENOMENA
+IONIZATION
+INTERBAND TRANSITIONS
+CONDUCTION BANDS
+ELECTRONS

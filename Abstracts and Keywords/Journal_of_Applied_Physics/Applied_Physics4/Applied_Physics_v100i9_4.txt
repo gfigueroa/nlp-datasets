@@ -1,0 +1,7 @@
+Single-walled carbon nanotubes (SWCNTs)were grown on Si/SiO2 substrates by catalytic chemical vapor deposition using ethanol as a carbon source. We found that a bimetallic catalyst, FeCo, worked efficiently in growing SWCNTs in contrast to Fe or Co catalyst only. The underlying mechanism was carefully studied by observing the catalyst-substrate interactions by transmission electron microscopy. It is shown that preferential diffusion of Fe into a SiO2 layer occurs in the bimetallic case, which suppresses aggregation of nanometer- sized Co particles that play key roles in growing SWCNTs.
+
+catalysis
+carbon nanotubes
+chemical vapour deposition
+transmission electron microscopy
+diffusion

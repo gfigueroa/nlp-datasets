@@ -1,0 +1,13 @@
+We report electrical measurements in different Pb[(Mg1/3Nb2/3)0.9Ti0.1]O3 ceramics exhibiting a spontaneous relaxor to ferroelectric transition. Both the relaxor behavior and the phase transition are found to depend strongly on the lead vacancies content. An explanation based on an increase of the ordered domains and lesser interactions between polar clusters accounts for the experimental observations. © 1997 American Institute of Physics.
+
+ferroelectric transitions
+electric domains
+CERAMICS
+PHASE TRANSFORMATIONS
+VACANCIES
+FERROELECTRIC MATERIALS
+LEAD OXIDES
+MAGNESIUM OXIDES
+NIOBIUM OXIDES
+TITANIUM OXIDES
+RELAXATION

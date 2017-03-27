@@ -1,0 +1,24 @@
+Mass removed from single crystal silicon samples by high irradiance (1×109 to 1×1011
+W/cm2) single pulse laser ablation was studied by measuring the resulting crater morphology with a white light interferometric microscope. The craters show a strong nonlinear change in both the volume and depth when the laser irradiance is less than or greater than H2.2×1010
+W/cm2. Time-resolved shadowgraph images of the ablated silicon plume were obtained over this irradiance range. The images show that the increase in crater volume and depth at the threshold of 2.2×1010
+W/cm2 is accompanied by large size droplets leaving the silicon surface, with a time delay <300 ns. A numerical model was used to estimate the thickness of the layer heated to approximately the critical temperature. The model includes transformation of liquid metal into liquid dielectric near the critical state (i.e., induced transparency). In this case, the estimated thickness of the superheated layer at a delay time of 200300 ns shows a close agreement with measured crater depths. Induced transparency is demonstrated to play an important role in the formation of a deep superheated liquid layer, with subsequent explosive boiling responsible for large-particulate ejection. © 2000 American Institute of Physics. 
+
+elemental semiconductors
+laser ablation
+surface topography
+optical microscopy
+light interferometry
+drops
+heat transfer
+boiling
+surface phase transformations
+SILICON
+ABLATION
+LASER RADIATION
+CRATERS
+MONOCRYSTALS
+RADIATION EFFECTS
+INTERFEROMETRY
+IMAGES
+SURFACES
+MASS TRANSFER

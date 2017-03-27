@@ -1,0 +1,9 @@
+A method previously developed for predicting the coupled magnetoelectric effect in a piezoelectricpiezomagnetic composite containing ellipsoidal inclusions is a general, explicit method and not as Huang and Kuo [J. Appl. Phys. 81, 1378 (1997)] reviewed. After correcting two obvious mistakes in Huang and Kuos numerical results for effective coupled magnetoelectric coefficients, their results appear to be the same as one type of previous results. © 1997 American Institute of Physics. 	
+
+reviews
+piezoelectric materials
+magnetomechanical effects
+composite materials
+magnetoelectric effects
+barium compounds
+cobalt compounds

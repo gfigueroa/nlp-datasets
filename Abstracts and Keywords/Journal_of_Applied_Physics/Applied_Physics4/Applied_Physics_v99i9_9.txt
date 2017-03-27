@@ -1,0 +1,12 @@
+We have investigated in situ the hybridization and denaturation of DNA in aqueous solution using infrared absorption spectroscopy (IRAS) in the multiple internal reflection (MIR) geometry. We demonstrate that conformational changes of DNA strands due to hybridization (binding of two complementary single-stranded DNAs) and denaturation (separation of double helix at elevated temperatures) are reflected in the infrared absorption spectra in the frequency region where vibrational modes of the bases of DNA appear. Comparison with results of ab initio cluster calculation shows that hybridization produces the specific CûO carbonyl stretching vibration modes in the hydrogen-bonded base pairs. The ratio of absorbance of the CûO stretching peak at 1690cm1 to the absorbance at 1660cm1 provides a definitive metric for determining DNA hybridization. We also reveal that the CûO stretching vibration modes of the bases of a single strand is strongly influenced by the surrounding water molecules that may interact with the CûO groups of the bases. The present results suggest that MIR-IRAS is applicable to label-free, high-sensitive biosensors that provide insight about the gene expression and a variety of biological interactions such as DNA-protein interactions.
+
+DNA
+molecular biophysics
+infrared spectra
+molecular configurations
+vibrational modes
+ab initio calculations
+hydrogen bonds
+biological techniques
+optical sensors
+proteins

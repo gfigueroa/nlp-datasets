@@ -1,0 +1,15 @@
+The composition of the reaction gases in a hotfilament reactor for chemical vapor deposition of diamond films was analyzed using a gas chromatograph coupled with a quartz microprobe. Concentrations of several hydrocarbons were determined as functions of filament temperature (FT) and the position of the probe relative to the filament for two feed gases, methane/hydrogen and acetylene/hydrogen. The diamond growth rate was measured as a function of FT in both feed gases. The major chemical process in these reaction systems is found to be conversion between methane and acetylene with ethane and ethylene as reaction intermediates. For FTd1800	°C, the chemical reactivity is low, and no diamond deposition is observed. For FTe1900	°C, nearly identical chemical composition near the filament is obtained from both feed gases (indicating possible attainment of thermodynamic equilibrium in the gas mixtures), and the measured diamond growth rates are similar. A substantial depletion of carbon in the reaction gases near the filament is observed and is shown to be due to thermal diffusion. Downstream of the filament, a nonequilibrium state is observed, possibly caused by slow methane/acetylene conversion and/or fast diffusion. The trend of the diamond growth rate, which increases with increasing FT from 1900 to 2200	°C, correlates well with the concentration profile of acetylene but not that of methane.
+
+DIAMONDS
+FILMS
+CHEMICAL VAPOR DEPOSITION
+GASES
+CHEMICAL COMPOSITION
+METHANE
+HYDROGEN
+POLYACETYLENES
+FILAMENTS
+TEMPERATURE DEPENDENCE
+VERY HIGH TEMPERATURE
+CARBON
+DIFFUSION

@@ -1,0 +1,8 @@
+The dependence of the efficacy of an alternating current surface-discharge plasma display panel on the gas pressure is investigated for several XeNe gas mixtures. In monochrome green 4 in. test panels the efficacy trends and emission spectra are examined for increasing gas pressure and/or Xe concentration. The measured panel efficacy and emission characteristics are compared with the results of a numerical discharge model. It is found that the discharge efficiency for the cell geometry used in present-day commercial products can be increased significantly by using a larger Xe partial pressure. An increase of the electron heating efficiency and of the Xe excitation efficiency contribute about equally to the efficacy increase. The contribution of the increasing Xe dimer radiation fraction to the efficacy improvement is relatively small. These findings are applied in a 4 in. color test display with a design that resembles the one used in present-day commercial products and contains a gas mixture of 13.5% Xe in Ne at 800 hPa. For realistic operating conditions an efficacy of 3.8 lm/W at a white luminance of 2010 cd/m2 is obtained. Furthermore, the panel chromaticity improves for increasing Xe partial pressure due to decreasing Ne emission. © 2002 American Institute of Physics. 
+
+xenon
+neon
+plasma displays
+surface discharges
+colour displays
+gas mixtures

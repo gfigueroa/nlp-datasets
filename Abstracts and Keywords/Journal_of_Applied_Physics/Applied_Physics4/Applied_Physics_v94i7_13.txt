@@ -1,0 +1,10 @@
+An expression for the average decay is determined by solving the the carrier continuity equations, which include terms for multiple defect recombination. This expression is the decay measured by techniques such as the contactless photoconductance decay method, which determines the average or volume integrated decay. Implicit in the above is the requirement for good surface passivation such that only bulk properties are observed. A proposed experimental configuration is given to achieve the intended goal of an assessment of the type of defect in an n-type Czochralski-grown silicon semiconductor with an unusually high relative lifetime. The high lifetime is explained in terms of a ground excited state multiple-level defect system. Also, minority carrier trapping is investigated. © 2003 American Institute of Physics. 
+
+carrier lifetime
+minority carriers
+carrier density
+electron-hole recombination
+photoconductivity
+passivation
+silicon
+elemental semiconductors

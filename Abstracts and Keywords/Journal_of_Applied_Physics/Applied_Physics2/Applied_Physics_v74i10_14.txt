@@ -1,0 +1,11 @@
+The optical constants (n,K) of vacuumevaporated polycrystalline CdSe thin films are determined over 9003100 nm photon wavelengths. Variation of band gap and optical constants with film thickness and substrate temperature is studied. Anomalous variation of refractive index near the band gap is explained by the volume and surface imperfections. Average spinorbit splitting of valence band (0.32) is estimated for the films deposited on mica substrates. A theoretical plot of refractive index near the band edge is done. The dispersion of refractive index in films is studied by considering a singleoscillator model. 	
+
+THIN FILMS
+CADMIUM SELENIDES
+OPTICAL CONSTANTS
+POLYCRYSTALS
+VAPOR DEPOSITED COATINGS
+REFRACTIVE INDEX
+ENERGY GAP
+LS COUPLING
+DISPERSION RELATIONS

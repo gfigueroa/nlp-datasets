@@ -1,0 +1,10 @@
+We have demonstrated the electron transport properties of an all-carbon molecular junction based on the C70 molecule connecting with two armchair single-wall carbon nanotubes using first principles transport calculations. It is shown that the Landauer conductance of this carbon hybrid system can be tuned within several orders of magnitude not only by changing the orientation of the C70 molecule but also by rotating one of the tubes around the symmetry axis of the system at fixed distances. This fact could make this pure-carbon molecular system a possible candidate for a nanoelectronic switching device. Moreover, we have also studied the nitrogen doping effect of such a molecular device. The results reveal that molecular configuration selection and nitrogen doping would play important roles in such switching devices.
+
+ab initio calculations
+carbon nanotubes
+elemental semiconductors
+fullerene compounds
+fullerene devices
+microswitches
+nanotube devices
+nitrogen

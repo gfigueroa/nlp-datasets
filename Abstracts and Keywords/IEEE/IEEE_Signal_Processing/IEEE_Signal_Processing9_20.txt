@@ -1,0 +1,8 @@
+We present a compact FPGA implementation of a modular exponentiation accelerator suited for cryptographic applications. The implementation efficiently exploits the properties of modern FPGAs. The accelerator consumes 341 logic elements, 1 DSP block, and 13604 memory bits in Altera Stratix EP1S40. It performs modular exponentiations with up to 2250-bit integers and scales easily to larger exponentiations. Excluding pre and post processing time, 1024-bit and 2048-bit exponentiations are performed in 28.03 ms and 212.09 ms, respectively. Due to its compactness, standard interface, and support for different clock domains, the accelerator can effortlessly be integrated into a larger system in the same FPGA.
+
+FPGA
+Modular exponentiation
+Montgomery multiplication
+compact
+cryptography
+hardware

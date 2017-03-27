@@ -1,0 +1,13 @@
+The use of Si based materials for optoelectronic applications is hampered by the indirect nature of the band gap. One possible solution by which to improve the radiative light emission is three-dimensional StranskiKrastanow growth of Si1xGex or pure Ge on top of Si. In this article we give a detailed overview about the growth kinetics observed for Ge growth in a standard production oriented chemical vapor deposition system. With increasing deposition time, we observed the usual changeover from monomodal to bimodal island distribution. The island morphology and density can be controlled by varying the growth conditions or by applying a thermal anneal after island growth. Island densities up to 2.3×1010
+cm2 have been obtained for depositions at 650
+°C. A Si cap layer is needed for photoluminescence measurements as well as for some device structures. However, Si capping at 700
+°C leads to nearly total dissolution of small islands and truncation of bigger dome-shaped islands. This can be prevented by reducing the deposition temperature and by changing the Si gas source. Photoluminescence measurements demonstrate the high layer quality of Si capped islands by the clear separation between the no-phonon line and the transversal optical (TO) replica and the high peak intensities. The spectral range of the island luminescence is between 1.35 (920 meV) and 1.50 ¼m (828 meV) and depends on the growth conditions. At 20 K, we found up to 70 times higher values for the integrated no-phonon and the TO luminescence from the islands, compared to the integrated intensity from the Si TO peak. Nevertheless, the high photoluminescence intensity can be further enhanced by a thermal treatment in a H2 plasma. Clear island luminescence up to 200 K has been observed after such thermal treatment, which shows the potential of this material system for optoelectronic device applications. © 2001 American Institute of Physics. 
+
+germanium
+elemental semiconductors
+semiconductor growth
+chemical vapour deposition
+island structure
+photoluminescence
+semiconductor thin films
+spectral line intensity

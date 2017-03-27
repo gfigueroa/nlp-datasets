@@ -1,0 +1,11 @@
+A full diffusion kinetic Monte Carlo algorithm is used to model nanocrystalline film deposition, and study the mechanisms of grain nucleation and microstructure formation in such films. The major finding of this work is that new grain nucleation occurs predominantly on surface peaks. Consequently, development of a nanocrystalline structure is promoted by a growth surface with nanoscale roughness, on which new grains can nucleate and grow separately from one another. The grain minor dimension (in the plane of the film) is primarily dictated by surface peak spacing, which in turn is reduced at low temperatures and high deposition rates. The grain major dimension (in the growth direction) is related to the probability of nucleating new grains on top of pre-existing ones, with finer grains being formed at low temperatures and low grain boundary energies. Because vacancies kinetically pin grain boundaries, high vacancy content, which is obtained at high deposition rate, also favors nanograins. Consistent with empirical observations common in the experimental literature, it is found that as grains shrink, they transition from elongated to equiaxed.
+
+crystal microstructure
+diffusion
+elongation
+grain boundaries
+Monte Carlo methods
+nanostructured materials
+nucleation
+probability
+thin films

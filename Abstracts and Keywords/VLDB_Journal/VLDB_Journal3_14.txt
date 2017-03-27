@@ -1,0 +1,6 @@
+We propose a new dynamic method for multidimensional selectivity estimation for range queries that works accurately independent of data distribution. Good estimation of selectivity is important for query optimization and physical database design. Our method employs the multilevel grid file (MLGF) for accurate estimation of multidimensional data distribution. The MLGF is a dynamic, hierarchical, balanced, multidimensional file structure that gracefully adapts to nonuniform and correlated distributions. We show that the MLGF directory naturally represents a multidimensional data distribution. We then extend it for further refinement and present the selectivity estimation method based on the MLGF. Extensive experiments have been performed to test the accuracy of selectivity estimation. The results show that estimation errors are very small independent of distributions, even with correlated and/or highly skewed ones. Finally, we analyze the cause of errors in estimation and investigate the effects of various parameters on the accuracy of estimation.
+
+multidimensional file structure
+multilevel grid files
+physical database design
+query optimization

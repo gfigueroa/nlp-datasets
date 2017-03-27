@@ -1,0 +1,4 @@
+In the United Kingdom, and in similar jurisdictions, it is a legal requirement that safety risk associated with a system be demonstrably As Low as is Reasonably Practicable (ALARP). Whilst a complete ALARP justification can be prepared in parallel with design activities, the operation of a system brings change and new information which can invalidate this justification. This paper presents a framework for addressing issues associated with operational ALARP, and examines some of the ALARP questions arising from in-service incidents.
+
+Safety Management Systems
+Temporal ALARP

@@ -1,0 +1,7 @@
+Effects of hydrostatic pressure on various ferroelectric phase transitions in Pb(Zr,
+Ti)O3 (PZT) have been investigated using the thermodynamic formalism based on the LandauDevonshire phenomenological theory. For these purposes, the rotostrictive coefficient related to the coupling between the tilting of oxygen octahedron and the stress was evaluated first. We have then simulated three-dimensional phase diagrams of the PZT system using composition, stress and temperature as the three independent thermodynamic variables. It has been shown that, with increasing tensile hydrostatic pressure, the paraferro transition temperature increases but the transition temperature between the two ferroelectric rhombohedral phases (FR(HT)FR(LT)) decreases, and the morphotropic phase boundary moves slightly toward the tetragonal-phase field. Contrary to these, opposite tendencies are predicted under a compressive stress. The thermodynamic computation of ferroelectric properties in the vicinity of the FR(HT)FR(LT) phase transition further suggests that a first-order phase transition gradually becomes a continuous second-order transition with increasing tensile stress. © 1999 American Institute of Physics.
+
+lead compounds
+ferroelectric materials
+ferroelectric transitions
+high-pressure effects

@@ -1,0 +1,8 @@
+Organic superlattices consisting of five alternating layers of 3,4,9,10-perylenetetracarboxylic dianhydride (PTCDA) and copper phthalocyanine (CuPc) were prepared by organic molecular-beam deposition in high vacuum on hydrogen-passivated, (111)-oriented silicon. The substrates were kept at room temperature during the deposition. The optical response of the multilayered structure was investigated by means of spectroscopic ellipsometry in the spectral range from 0.73 to 5eV. While the infrared spectra show that there is no chemical interaction between the two pigments, the ellipsometry evaluation suggests an electronic coupling between the À orbitals of the PTCDA and the À orbitals of the CuPc. This means that the modeling of the optical response requires a more sophisticated approach than simply superimposing the responses of the individual layers.
+
+organic semiconductors
+copper compounds
+semiconductor superlattices
+infrared spectra
+dielectric function
+Fourier transform spectra

@@ -1,0 +1,11 @@
+High-resolution x-ray photoelectron spectroscopy of strontium bismuth tantalate films revealed distinct chemical states of constituent atoms in fluorite and perovskite crystals. Reflecting the number of nearest-neighbor oxygen atoms coordinated with Bi3+ ions, the Bi4f peak could be deconvoluted into Bi2O3 (sixfold coordination), Bi2O2 (fourfold coordination), and (Bi2O2)2+ (intermediate between sixfold and fourfold coordination) components. We found that amorphous and fluorite phases could be expressed as a mixture of Bi2O3 and Bi2O2, whereas the (Bi2O2)2+ component representing the bismuth oxide layer, being adjacent to the (SrTa2O7)2 block, predominated in the perovskite phase. Similarly, the Sr3d peak could be deconvoluted into the components of Sr oxide (SrO) and Sr in (SrTa2O7)2. The volume fraction of the (SrTa2O7)2 component increased at higher annealing temperatures. The Ta4d peaks, in contrast, located at the same binding energy for all samples, indicated that an energetically stable TaO6 octahedron unit is preferentially created. The binding energies of the O1s state corresponding to OBi, OTa, and OSr bonds were identified at 531, 530, and 528.9 eV, respectively.
+
+amorphous state
+annealing
+binding energy
+bismuth compounds
+bonds (chemical)
+ferroelectric materials
+ferroelectric thin films
+strontium compounds
+X-ray photoelectron spectra

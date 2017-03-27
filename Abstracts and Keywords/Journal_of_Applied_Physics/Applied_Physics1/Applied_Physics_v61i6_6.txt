@@ -1,0 +1,13 @@
+Brillouin light scattering (BLS) has been used for the direct detection of magnetostatic wave (MSW) excitations in a MSW microwave device structure. The results are for a signaltonoise enhancer device which consists of a yttrium iron garnet (YIG) film on a gadolinium gallium garnet substrate. The YIG film is in contact with a 30¼mwide stripline and the static magnetic field is parallel to the stripline. MSW excitations were observed over the frequency range 2	4 GHz. At low power, magnetostatic surface waves (MSSW) were excited with propagation perpendicular to the stripline and field direction. At high power, parametric halffrequency magnons were also observed. The measured magnon dispersion for the MSSW excitations, determined using the wave vector selective capabilities of the BLS spectrometer, is in good agreement with theory. The measured intensity profiles for MSW excitations at lowpower levels show strong MSSW excitations over the entire surface wave band. At high power, the scattering intensity for surface MSW excitations saturates and is accompanied by a strong parametric magnon signal.
+
+MAGNONS
+YIG
+MAGNETOSTATIC WAVES
+BRILLOUIN EFFECT
+THIN FILMS
+MICROWAVE RADIATION
+GADOLINIUM COMPOUNDS
+GALLIUM COMPOUNDS
+FERRITE GARNETS
+SURFACE WAVES
+SIGNAL PROCESSING

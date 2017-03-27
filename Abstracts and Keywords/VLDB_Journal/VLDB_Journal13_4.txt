@@ -1,0 +1,7 @@
+This experience paper summarizes the key lessons we learned throughout the design and implementation of the Aurora stream-processing engine. For the past 2 years, we have built five stream-based applications using Aurora. We first describe in detail these applications and their implementation in Aurora. We then reflect on the design of Aurora based on this experience. Finally, we discuss our initial ideas on a follow-on project, called Borealis, whose goal is to eliminate the limitations of Aurora as well as to address new key challenges and applications in the stream-processing domain.
+
+Data stream management
+Distributed stream processing
+Monitoring applications
+Quality-of-service
+Stream-processing engines

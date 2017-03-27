@@ -1,0 +1,7 @@
+This paper describes the challenges and opportunities a group of Boeing Company bi-coastal employees experienced using collaboration tools to produce and test 60 training guides for the release of an enterprise-wide software application. The processes used to assign tasks, coordinate review cycles, control versioning, and instruct business analysts how to write software documentation in a virtual team environment were instrumental in the success of this project. More importantly, this virtual team evolved as a unique community of practice that accomplished its goals through dynamic, situated learning and highly effective communication processes.
+
+collaboration
+collaboration technologies
+communities of practice
+situated learning
+virtual teams

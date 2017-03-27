@@ -1,0 +1,6 @@
+In this paper, we present key findings from a literature review on the use of mobile phones in learning (m-learning). As mobile technologies have become more widely adopted, society's communication practices have morphed accordingly. The literature review presented here examines the benefits and challenges associated with m-learning. The benefits of m-learning include a blending of formal and informal learning environments that open up new avenues of self service through experiential learning, while facilitating teamwork and community. While these benefits are intriguing, it is important to recognize that m-learning also poses challenges for educators and students alike. We examine educator and student buy-in, interface issues, and cost and infrastructure issues tied to cultural differences that present hurdles to the adoption of m-learning. We close with conclusions and suggestions for future research on m-learning.
+
+benefits
+challenges
+literature
+m-learning

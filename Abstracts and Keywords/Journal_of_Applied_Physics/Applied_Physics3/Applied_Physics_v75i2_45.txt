@@ -1,0 +1,14 @@
+A fine structure in the parallel pumping spin wave instability absorption has been observed. The data were obtained at 9.4 GHz on a narrow linewidth inplane magnetized yttrium iron garnet film with a magnetic layer thickness of 15.9 ¼m. The standard butterfly curve of the spin wave instability threshold microwave field amplitude hcrit versus external static magnetic field Hext was constructed from hcrit determinations obtained by sweeping the static field at different microwave power levels and measuring the change in microwave loss. For values of Hext below the minimum, hcrit position, the loss versus Hext profiles showed a characteristic fine structure previously observed only in spheres. The fine structure spacing was on the order of 5 Oe and the square of the spacing decreased linearly with increasing static field. These fine structure results are in accord with predictions from theory for critical modes at onehalf the pump frequency, with the critical mode wave vectors aligned perpendicular to the film plane, and with the wave numbers for these modes quantized as standing spin wave modes for a thin film. Analysis of the fine structure data gives a spin wave exchange stiffness parameter Dfs=(6.0±0.9)×109 Oe	cm2, which agrees within experimental error with the value D=(5.4±0.2)×109 Oe	cm2 obtained from Brillouin light scattering measurements on YIG spheres. The standing wave critical modes are explained in terms of cooperative volume dipoledipole and shape demagnetizing induced ellipticity for the modes.
+
+YIG
+YTTRIUM OXIDES
+IRON OXIDES
+TERNARY COMPOUNDS
+SPIN WAVES
+INSTABILITY
+FINE STRUCTURE
+THIN FILMS
+GHZ RANGE 01100
+MICROWAVE RADIATION
+ABSORPTION
+MAGNETIC FIELDS

@@ -1,0 +1,12 @@
+Linear magnetization dynamics with relaxation and noise from a thermal bath is analyzed for two general classes of microscopic damping mechanisms. The resulting stochastic differential equations are always in the form of a damped harmonic oscillator driven by a thermal field. Backtransformation from the oscillator coordinates to the magnetization variables always results in a stochastic BlochBloembergen equation for the transverse magnetization components. Detailed evaluation of relaxation rates for the magnon-electron confluence process and the slow-relaxing impurity process is given. Using experimentally observed parameters, a combination of these two processes show good agreement for a set of ferromagnetic resonance linewidth measurements versus temperature, frequency, and film thickness in NiFe. © 2003 American Institute of Physics. 
+
+magnetisation
+magnetic relaxation
+harmonic oscillators
+stochastic processes
+magnons
+ferromagnetic resonance
+differential equations
+magnetic thin films
+nickel alloys
+iron alloys

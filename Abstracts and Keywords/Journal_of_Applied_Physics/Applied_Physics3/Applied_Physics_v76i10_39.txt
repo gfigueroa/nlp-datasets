@@ -1,0 +1,14 @@
+Nitrogen martensite was prepared by treating fine Fe powder with NH3/H2 gas mixtures at temperatures around 665	°C. Upon quenching to a temperature Tq, the ³ phase which had formed at the elevated temperature undergoes a martensitic transformation to form nitrogen martinsite (±2 FeN alloy), a tetragonal material. Heat treating this material for 12 h at 140±10	°C produced the ±3 phase Fe16N2. The ±2 phase occurred along with ³ FeN. From xray line intensities, the amount of ±2 phase was ascertained. The ±2 phase exhibits a roomtemperature moment of 250±10 emu/g. Fe16N2 is formed along with ± Fe and also there is retained Naustenite. Using XRD and conventional magnetic measurement procedures, one obtained 280±10 emu/g for the saturation moment of Fe16N2. The experimental Fe moment, 2.88 ¼B, is in excellent agreement with the most recent bandstructure calculations, 2.85 ¼B. The ternary systems (Fe,M)16N2 were studied with M=Mn or Ni. ³ FeMn nitride readily forms, but it does not undergo the ³’±2 transformation. The ±2 phase and possibly the ±3 phase form in the FeNi nitride.
+
+MARTENSITE
+IRON NITRIDES
+HEAT TREATMENTS
+TEMPERATURE RANGE 04001000 K
+CRYSTAL STRUCTURE
+XRD
+MAGNETIC MOMENTS
+TERNARY COMPOUNDS
+MANGANESE NITRIDES
+NICKEL NITRIDES
+SUBSTITUTION
+PHASE STUDIES

@@ -1,0 +1,6 @@
+The objective of this study is to test empirical relationships between export experience, export market information use, export knowledge, and export performance. In this respect we have developed a model that was presented previously by Toften (2005). To test the model we collected data from 158 top factory managers/owners in the Iranian dried fruit industry, mainly consisting of a number of small and medium-sized firms with a strong export dependency. Confirmatory factor analysis, LISREL 8.50 was used. The findings indicate that export experience positively affects both Â¿instrumental/conceptualÂ¿ use of information and export knowledge but doesn't affect export performance. Â¿Instrumental/conceptualÂ¿ use of information also is found to positively affect both export knowledge and export performance. Export knowledge is found to have direct influence on export performance in this study.
+
+Export experience
+export knowledge
+export market information use
+export performance

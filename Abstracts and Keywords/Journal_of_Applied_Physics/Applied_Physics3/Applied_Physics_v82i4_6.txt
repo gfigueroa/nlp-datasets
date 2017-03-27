@@ -1,0 +1,12 @@
+The temperature dependence of the optical excitation cross section of Er implanted n-type GaN was studied using photoluminescence excitation spectroscopy. Due to the large 3.4 eV band gap of GaN, it was possible to probe two Er absorption lines using a tunable Ti:sapphire laser in the 7701010 nm range. Photoluminescence excitation spectra exhibiting several Stark splittings revealed a complex dependence upon temperature. The largest excitation cross section in the third excited state was 1.65×1020
+cm2 at an excitation wavelength of 809.4 nm when measured at 77 K. This value is roughly three times larger than the cross section in the second excited state at 4.8×1021
+cm2 when pumping at 983.0 nm. The Er-related photoluminescence was reduced between 1.5 and 4.8 times when going from 77 K to room temperature, except when pumping around 998 nm. At this excitation wavelength the room temperature photoluminescence was stronger by a factor of 1.26 compared to that at 77 K. © 1997 American Institute of Physics.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+erbium
+photoluminescence
+impurity absorption spectra
+Stark effect
+impurity states

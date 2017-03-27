@@ -1,0 +1,7 @@
+This paper reports simulation results on microwave-assisted magnetization reversal in magnetic thin films with perpendicular anisotropy. In comparison with frequency-fixed microwaves, frequency-chirped microwaves have higher efficiency in pumping magnetization precession and, therefore, can lead to more significant reduction in switching fields. Through the use of chirped microwaves, switching with low fields is also possible for large damping films.
+
+magnetic recording
+magnetic switching
+magnetic thin films
+magnetisation reversal
+perpendicular magnetic anisotropy

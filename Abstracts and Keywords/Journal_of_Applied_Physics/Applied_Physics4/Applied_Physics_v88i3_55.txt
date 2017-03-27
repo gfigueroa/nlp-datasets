@@ -1,0 +1,10 @@
+A study of the electron paramagnetic resonance of Fe-based nanoparticles embedded in polyethylene matrix was performed as a function of temperature ranging from 3.5 to 500 K. Nanoparticles with a narrow size distribution were prepared by the high-velocity thermodestruction of iron-containing compounds. A temperature-driven transition from superparamagnetic to ferromagnetic resonance was observed for samples with different Fe content. The unusual behavior of the spectra at about 25 K is considered evidence of a spin-glass state in iron oxide nanoparticles. © 2000 American Institute of Physics. 
+
+iron
+nanostructured materials
+paramagnetic resonance
+magnetic particles
+ferromagnetic materials
+superparamagnetism
+spin glasses
+particle size

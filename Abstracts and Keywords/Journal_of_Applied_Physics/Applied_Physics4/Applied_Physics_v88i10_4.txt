@@ -1,0 +1,10 @@
+An analytical model that includes lateral drift of photocarriers is developed to explain the experimental resolution of photorefractive multiple quantum well (MQW) devices. The model is in excellent agreement with a phenomenological fit proposed earlier and it follows a small intensity modulation model closely. Charge distributions with and without lateral drift of carriers at the MQW interfaces are assumed in order to calculate the peak diffraction efficiency as a function of grating period. An effective mobility-lifetime product is used to account for the effect of lateral drift in the MQW region. It is shown that good agreement with experiment is obtained when lateral drift is taken into account. Moreover, the model is applied to the study of design tradeoff between resolution, sensitivity, and diffraction efficiency which are all of crucial importance in the performance of practical devices. © 2000 American Institute of Physics. 
+
+photorefractive effect
+spatial light modulators
+quantum well devices
+semiconductor device models
+semiconductor superlattices
+optical multilayers
+carrier mobility
+carrier lifetime

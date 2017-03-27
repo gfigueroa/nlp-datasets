@@ -1,0 +1,7 @@
+This paper describes the design of Transposed Form FIR filter implemented in the Spartan-II and Virtex-E family of FPGAs. The design is an 8-tap filter based on 16-bit input samples and 14-bit signed coefficients. The basic building blocks of the filter are KCMs, Adders, Registers, and a delay-locked loop. All the 14-bit coefficient factors are stored with an 18-bit word size in the ROM. The program is written in VHDL source code based on application Xilinx notes [1] that describe the design of an FIR filter. The software tools have been used are Xilinx ISE Webpack 8.1, ModelSim 6.1e and Matlab 7.0.
+
+FIR Filter
+FPGA
+Matlab
+VHDL
+Xilinx

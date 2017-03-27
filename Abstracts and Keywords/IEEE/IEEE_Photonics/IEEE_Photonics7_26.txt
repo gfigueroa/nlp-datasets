@@ -1,0 +1,7 @@
+We present a low power gas sensor system on CMOS platform consisting of micromachined polysilicon microheater, temperature controller circuit, resistance readout circuit and SnO<sub>2</sub> transducer film. The design criteria for different building blocks of the system is elaborated. The microheaters are optimized for temperature uniformity as well as static and dynamic response. The electrical equivalent model for the microheater is derived by extracting thermal and mechanical poles through extensive laser doppler vibrometer measurements. The temperature controller and readout circuit are realized on 130nm CMOS technology. The temperature controller re-uses the heater as a temperature sensor and controls the duty cycle of the waveform driving the gate of the power MOSFET which supplies heater current. The readout circuit, with subthreshold operation of the MOSFETs, is based on resistance to time period conversion followed by frequency to digital converter. Subthreshold operatin of MOSFETs coupled with sub-ranging technique, achieves ultra low power consumption with more than five orders of magnitude dynamic range. RF sputtered SnO<sub>2</sub> film is optimized for its microstructure to achive high sensitivity to sense LPG gas.
+
+CMOS Gas Sensors
+Polysilicon microheater
+SnO2
+Subthreshold read-out
+Temperature controller

@@ -1,0 +1,7 @@
+We demonstrate the scaling properties of the gate-bias-dependent transfer characteristics of In2O3 nanowire field effect transistors (FETs) studied using a conducting atomic force microscope. The contact resistance was extracted from the scaling of the resistance of an In2O3 nanowire FET with respect to its channel length. This contact resistance was found to be significant for short channel devices and decreased as the gate bias increased. We also investigated the apparent and intrinsic mobilities of the nanowire FET as a function of channel length and gate bias. It was determined that the intrinsic mobility could be corrected by considering the non-negligible contact resistance.
+
+atomic force microscopy
+contact resistance
+field effect transistors
+indium compounds
+nanowires

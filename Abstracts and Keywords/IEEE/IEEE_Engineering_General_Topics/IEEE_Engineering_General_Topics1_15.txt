@@ -1,0 +1,5 @@
+A measurement process has imperfections that give rise to uncertainty in each measurement result. Statistical tools give the assessment of uncertainties associated to the results only if all the relevant quantities involved in the process are interpreted or regarded as random variables. In other terms all the sources of uncertainty are characterized by probability distribution functions, the form of which is assumed to either be known from measurements or unknown and so conjectured. Entropy is an information measure associated with the probability distribution of any random variable, so that it plays an important role in the metrological activity. In this paper the author introduces two basic entropy optimization principles: the Jaynespsilas principle of maximum entropy and the Kulbackpsilas principle of minimum cross-entropy (minimum directed divergence) and discusses the methods to approach the optimal solution of those entropic forms in some specific measurements models.
+
+Bayesian Inference
+Entropy
+Measurement Uncertainty

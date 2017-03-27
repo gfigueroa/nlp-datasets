@@ -1,0 +1,10 @@
+The phenomenon of magnetization reversal in a hard magnet is studied analytically within a framework of a simplified energy minimization model for a two grain system. The transition region (a domain wall-like moment structure) is found to play a crucial role in nucleating a reversed domain and in the subsequent formation of a domain wall near the grain boundary. This is shown to result in a considerable reduction in coercivity. Temperature effects are taken into account by considering thermally activated jumps over energy barriers that hinder the motion of the transition region. We found that thermal fluctuations at room temperature can substantially reduce coercivity provided the grains are sufficiently small. © 2002 American Institute of Physics. 
+
+permanent magnets
+magnetisation reversal
+magnetic domain walls
+magnetic thin films
+domain boundaries
+grain boundaries
+coercive force
+grain size

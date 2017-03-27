@@ -1,0 +1,13 @@
+The crystallization speed (v) of the amorphous (InTe)x(GeTe) (x = 0.1, 0.3, and 0.5) films and their thermal, optical, and electrical behaviors were investigated by using a nanopulse scanner (wavelength = 658nm, laser beam diameter &lt;2¼m), x-ray diffraction, a four-point probe, and a UV-vis-IR spectrophotometer. These results were compared to the results for a Ge2Sb2Te5 (GST) film, which was comprehensively utilized for phase-change random access memory (PRAM). Both the vvalue and the thermal stability of the (InTe)0.1(GeTe) and (InTe)0.3(GeTe) films were enhanced in comparison to the GST film. Contrarily, the vvalue of the (InTe)0.5(GeTe) film was so drastically deteriorated that it could not be quantitatively evaluated. This deterioration occurred because the amorphous (InTe)0.5(GeTe) film had relatively high reflectance, resulting in the absorption being too low to cause the crystallization. Conclusively, proper compositional (InTe)x(GeTe) films (e.g., x&lt;0.3) could be good candidates for PRAM application with both high crystallization speed and thermal stability.
+
+chalcogenide glasses
+crystallisation
+germanium compounds
+indium compounds
+infrared spectra
+phase change materials
+reflectivity
+semiconductor thin films
+ultraviolet spectra
+visible spectra
+X-ray diffraction

@@ -1,0 +1,12 @@
+Various samples of the solid solution Gd2NixCu2xMg were synthesized from the elements in sealed tantalum ampoules in an induction furnace. All members crystallize with the tetragonal Mo2FeB2 type structure, space group P4/mbm, and they were characterized on the basis of Guinier powder patterns and energy dispersive X-rays analyses. The lattice parameters decrease with increasing nickel content in a Vegard-like manner. The Gd2NixCu2xMg samples show CurieWeiss behavior with slightly higher magnetic moment values than the theoretical one for a free Gd3+ ion. The substitution of copper by nickel has a drastic influence on the magnetism and magnetic ordering temperature. For Gd2Ni0.5Cu1.5Mg a temperature induced FM’AFM order-to-order transition was observed, whereas Gd2Ni1.0Cu1.0Mg is a metamagnet with HCr of about 8 kOe at 5 K. For both compounds, a large reversible magnetocaloric effect (MCE) near their ordering temperatures occurs. The values of the maximum magnetic entropy change ”SMmax reach 9.5 and 11.4J	kg1	K1 for the field change of 5 T with no obvious hysteresis loss around 65 K for Gd2Ni0.5Cu1.5Mg and Gd2Ni1.0Cu1.0Mg, respectively. The corresponding relative cooling power with 688 and 630J	kg1 is relatively high as compared to other MCE materials in that temperature range. These results indicate that Gd2NixCu2xMg could be a promising system for magnetic refrigeration at temperatures below liquid N2.
+
+chemical exchanges
+magnetic cooling
+magnetic hysteresis
+magnetic moments
+magnetic susceptibility
+metamagnetism
+paramagnetism
+solid solutions
+space groups
+X-ray chemical analysis

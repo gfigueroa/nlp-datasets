@@ -1,0 +1,9 @@
+As pointed out by the comment of J. Shi, there were several errors in our old communication [J. Appl. Phys. 40, 3992 (1975)]. Most of them were collected by other researchers in their own papers; however, this is a nice opportunity to point out all the errors in our paper.
+
+CRYSTALS
+NONLINEAR OPTICS
+POLARIZATION
+PHASEMATCHING
+ERRORS
+EQUATIONS
+ANGULAR DISTRIBUTION

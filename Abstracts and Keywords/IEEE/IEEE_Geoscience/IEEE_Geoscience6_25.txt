@@ -1,0 +1,5 @@
+This article mainly introduced the QoS and its three service models: Best-Effort, IntServ and DiffServ. This article put emphasis on discussing the MPLS traffic engineering with differentiated services. Its core concept is that map the DSCP zone of IP message to the label zone of MPLS message, then make the MPLS traffic engineering consider the DiffServ factor when the network computing and choosing paths, which not only fully utilizes the link path's bandwidth, but also realizes the QoS pledge to network traffic.
+
+DiffServ
+MPLS
+traffic engineering

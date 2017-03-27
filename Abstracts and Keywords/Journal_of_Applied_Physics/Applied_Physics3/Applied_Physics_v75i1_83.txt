@@ -1,0 +1,13 @@
+By means of deeplevel transient spectroscopy we have investigated defect states in floatzone, borondoped Si material subjected to electron irradiation. Attention was mainly focused on the Ev+0.34 eV peak, the emergence of which in the spectra shows a delay with temperature in relation to the beginning of the decay of the Ev+0.28 eV peak of the carbon interstitial defect. In addition, the concentration of the Ev+0.34 eV level was found to increase with the boron content of the Si material. Our results point to a carbonrelated, borondependent structure although the role of boron is not clear from the present data.
+
+SILICON
+DLTS
+DEEP ENERGY LEVELS
+DOPED MATERIALS
+BORON ADDITIONS
+PHYSICAL RADIATION EFFECTS
+ELECTRON BEAMS
+INTERSTITIALS
+MEV RANGE 0110
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 65273 K

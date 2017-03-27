@@ -1,0 +1,6 @@
+In this paper, we present development of a scheme enabling a commercially available hydraulic robot to work with a haptic device performing live-line maintenance tasks. Presently live line maintenance is done manually by operators working in locations high above the ground and near high voltage power lines. Ground-level teleoperation of a hydraulic manipulator using a haptic device can potentially increase safety and productivity. The proposed hapto-robotic system is built upon the concept of virtual fixtures. Impedance-type forbidden region virtual fixture is used to help the robot to perform tasks. The control system configures virtual fixtures in the workspace based on the required task. The effectiveness of the system is shown by emulating several live power line maintenance tasks in the laboratory. It is shown that many tasks can be done even by an unskilled operator using the proposed haptically-enabled teleoperation system, which uses intelligence of the human operator along with the accuracy of the manipulator.
+
+Haptic manipulation
+hydraulic manipulators
+transmission lines
+virtual fixtures

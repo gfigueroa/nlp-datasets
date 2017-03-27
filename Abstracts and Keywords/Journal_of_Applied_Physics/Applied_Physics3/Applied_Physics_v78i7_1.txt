@@ -1,0 +1,11 @@
+We have developed a novel grainboundary diffusion model using the transmissionline matrix method. In conjunction with a twodimensional Monte Carlo thinfilm growth simulator, this model can be employed for the analysis of impurity diffusion in thinfilm diffusion barriers with realistic microstructures. In the model, the impurity at the upper surface of the barrier layer may diffuse through rapid and irregularly shaped grainboundary diffusion paths to reach the bottom surface. Calculations of the impurity concentration and outdiffusion flux as a function of elapsed diffusion time and position enable the evaluation of the effectiveness of the barrier layer at a microstructure level. Consequently, the diffusion process is depicted with less assumptions and more precisely than previously available approaches. This paper details the grainboundary diffusion modeling method outlined above, with the emphasis on the treatment of various boundary conditions. A representative application to titanium nitride (TiN) thinfilm diffusion barriers is also demonstrated, as befits the high level of interest in this particular material for very large scale integrated devices. © 1995 American Institute of Physics.
+
+THIN FILMS
+MICROSTRUCTURE
+SIMULATION
+FILM GROWTH
+DIFFUSION BARRIERS
+GRAIN BOUNDARIES
+TITANIUM NITRIDES
+POLYCRYSTALS
+VLSI

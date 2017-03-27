@@ -1,0 +1,13 @@
+The polarization switching fatigue behaviors of tetragonal Pb(Zr0.1Ti0.9)O3(PZT0.1) thin films deposited on Pt-coated silicon wafers by the sol-gel method are investigated by testing the fatigue endurance at different temperatures and by measuring the small-signal dielectric loss associated with the fatigued samples. It is observed that the fatigue endurance can be significantly improved at low temperature, while the low-temperature fatigue becomes more serious with increasing magnitude of the electrical pulses for fatigue testing. The fatigued thin films exhibit much bigger dielectric loss than the fresh films over the whole temperature range, due to the domain pinning by the aggregated defects (oxygen vacancies). In addition, the temperature dependence of the fatigue resistance performance of the thin films can be well described by the exponential law. The long-range diffusion and aggregation of the defects and the consequent domain pinning as one of main origins for switching fatigue in the PZT0.1 thin films are demonstrated.
+
+lead compounds
+ferroelectric thin films
+ferroelectric switching
+dielectric polarisation
+fatigue
+sol-gel processing
+dielectric losses
+electric domains
+vacancies (crystal)
+diffusion
+aggregation

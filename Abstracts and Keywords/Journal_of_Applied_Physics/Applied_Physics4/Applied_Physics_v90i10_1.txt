@@ -1,0 +1,12 @@
+We report on an extensive study of the two-dimensional electron gas (2DEG) structures containing AlN layers. It is shown that the presence of large polarization fields in the AlN barrier layer in AlN/GaN heterostructures results in high values of the 2DEG sheet density of up to 3.6×1013cm2. Room-temperature sheet resistance of 180©/¡ is demonstrated in the AlN/GaN structure with a 35 Å AlN barrier. As a result of reduced alloy disorder scattering, low-temperature electron mobility is significantly enhanced in AlN/GaN heterostructures in comparison to AlGaN/GaN structures with similar values of the 2DEG sheet density. The growth of GaN cap layers on top of AlN/GaN structures with relatively thick (<35 Å) AlN barriers is found to lead to a significant decrease in the 2DEG sheet density. However, inserting a thin (<10 Å) AlN layer between AlxGa1xN and GaN in the AlxGa1xN/GaN (x<0.20.45) 2DEG structures does not affect the 2DEG sheet density and results in an increase of the low-temperature electron mobility in comparison to standard AlGaN/GaN structures. At room temperature, a combination of the high 2DEG sheet density of 2.15×1013 cm2 and high electron mobility of 1500 cm2/V
+s in Al0.37Ga0.63N/AlN/GaN yielded a low sheet resistance value of 194©/¡. © 2001 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+two-dimensional electron gas
+carrier mobility
+molecular beam epitaxial growth
+semiconductor growth
+semiconductor epitaxial layers
+electric resistance

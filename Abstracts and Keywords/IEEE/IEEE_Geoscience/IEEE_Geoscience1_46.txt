@@ -1,0 +1,5 @@
+This paper proposes a new selection algorithm for the generator polynomials of the component convolutional codes matched to an imposed interleaver. The algorithm leads to better performances than the existing ones for high SNR values. We illustrate this fact by simulation with polynomials for memory orders 3 with length of 40 and a QPP interleaver.
+
+Garello's algorithm
+QPP interleaver
+turbo code

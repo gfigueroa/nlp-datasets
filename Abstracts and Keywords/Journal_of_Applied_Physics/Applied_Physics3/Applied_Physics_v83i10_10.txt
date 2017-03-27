@@ -1,0 +1,17 @@
+This study is focused on the deposition and growth of amorphous silicon oxide optical thin films in a dual-mode (microwave/rf) reactor. The optical, chemical, and structural properties of a-SiOx:H films have been studied as a function of different parameters (substrate temperature, microwave power, gas flow, dilution, addition of rf plasma) by in situ UV-visible and in situ infrared (IR) ellipsometry, Fourier transform IR transmission spectroscopy, nuclear analysis, and VUV absorption spectroscopy. We have shown that it is possible to increase the density of the films and decrease their hydrogen content by depositing at higher temperature (T e 200
+°C) and/or using a helium dilution and/or using the ion bombardment effect of the rf plasma. In situ IR ellipsometry has revealed water absorption on the as-deposited silicon oxide films, just after exposing them to the ambient atmosphere. The lower is the film density and the higher is the water absorption. UV absorption spectroscopy has evidenced an absorption peak at 6.3 eV, with an amplitude dependent on the hydrogen content. Since the films are interesting for optical multilayers, we have also studied the effect of UV irradiation, showing the decrease of OH groups (reduction of the hydrogen content) and a reoxydation of the silicon oxide films. The thermal stability studies reveal an effusion of H2 and H2O molecules for temperatures above 300	°C. © 1998 American Institute of Physics.
+
+silicon compounds
+hydrogen
+optical films
+noncrystalline structure
+plasma CVD
+ultraviolet spectra
+visible spectra
+infrared spectra
+Fourier transform spectra
+nuclear chemical analysis
+effusion
+thermal stability
+ellipsometry
+plasma CVD coatings

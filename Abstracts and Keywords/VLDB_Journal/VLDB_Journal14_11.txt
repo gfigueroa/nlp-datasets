@@ -1,0 +1,7 @@
+We present a collaborative query processing protocol based on the principles of Contract Nets. The protocol is designed for pervasive computing environments where, in addition to operating on limited computing and battery resources, mobile devices cannot always rely on being able to access the wired infrastructure. Devices, therefore, need to collaborate with each other in order to obtain data otherwise inaccessible due to the nature of the environment. Furthermore, by intelligently using answers cached by peers, devices can reduce their computation cost. We show the effectiveness of our approach by evaluating performance of devices querying for data while moving in a citylike environment.
+
+Distributed join processing
+Mobile ad hoc networks
+Peer-to-peer computing
+Pervasive computing environments
+Query processing

@@ -1,0 +1,6 @@
+Calculations of the Si(001) surface reconstructions were carried out using the model based on the density functional theory. Comparison of energy characteristic of surfaces with various reconstructions was done. The reconstruction c(4times2) was demonstrated to be the most energy favorable. Parameters of buckling dimers, that are the elements of this reconstruction, were determined
+
+DFT
+Modeling
+Si(001)
+reconstruction

@@ -1,0 +1,8 @@
+In this paper, according to the developing history, we divide developing technologies of Website into three categories: classical HTML or XHTML technology, general dynamic Website technologies and Web 2.0. We address to solve what technology we need on developing a Website as a major objective. The history, characteristic details and related information about each developing technology will be described first in this paper. Then combining their characteristics, the comparative result and our suggestion will be given after comparative analysis.
+
+HTML
+XTHML
+gerneral dynamic website
+static website
+web 2.0
+website

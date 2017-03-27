@@ -1,0 +1,6 @@
+The effects of surface treatments in H2, N2, and O2 on electron emission have been investigated for a ferroelectric electron emitter with a unique porous electrode. The electron emission was markedly enhanced after surface treatment in H2 at 90 kPa. The electron emission density was about 500nC/cm2, 1.6 times higher than that of a nontreated emitter. On the other hand, electron emission after surface treatment in O2 at 90 kPa was decreased to about two-third of that of the nontreated emitter. These results indicate that electron emission can be significantly influenced by modification of the ferroelectric surface state.
+
+electron emission
+ferroelectric materials
+surface states
+surface treatment

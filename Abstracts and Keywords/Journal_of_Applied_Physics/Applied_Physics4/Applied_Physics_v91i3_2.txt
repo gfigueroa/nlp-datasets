@@ -1,0 +1,9 @@
+The ohmic transport of holes in p-type Al-doped 4HSiC samples is investigated using a Monte Carlo tool based on a full-potential band structure. The temperature and doping dependence of the hole mobility and its anisotropy are calculated and discussed from a physical point of view, where we stress the importance of considering two-band conduction. Acoustic and optical phonon scattering, as well as ionized and neutral impurity scattering, have been considered. The Monte Carlo program also considers incomplete ionization of impurity atoms compatible with an Al ionization energy of 0.2 eV. © 2002 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+hole mobility
+Monte Carlo methods
+aluminium
+impurity scattering
+electron-phonon interactions

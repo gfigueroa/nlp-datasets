@@ -1,0 +1,11 @@
+In situ Raman spectroscopy technique was employed to investigate the ion transport process and to determine the concomitant electrochemical tuning of Fermi level in single-wall carbon nanotube. The variation of structural bonding in single-wall carbon nanotube bundle dipped in aqueous alkaline earth halide electrolyte such as CaCl2 with electrochemical biasing was monitored. It is because Raman can detect changes in CC bond length through radial breathing mode at < 184cm1 that varies inversely with the nanotube diameter and the G band at < 1590cm1 that varies with the axial bond length. Consistent reversible and substantial variations in Raman intensity of both the modes induced by electrode potential point at the fine and continuous tuning (alternatively, emptying/depleting or filling) of the specific bonding and antibonding states. Qualitatively, the results were explained in terms of changes in the energy gaps between the one-dimensional van Hove singularities present in the electron density of states arising possibly due to the alterations in the overlap integral of À bonds between the p orbitals of the adjacent carbon atoms. We estimated the extent of variation of the absolute potential of the Fermi level and overlap integral (³0) between the nearest-neighbor carbon atoms from modeling the electrochemical potential dependence of Raman intensity. Observations also suggest that the work function of the tube is larger for the metallic nanotubes in contrast to the simultaneously present semiconducting nanotubes.
+
+electrochemistry
+Fermi level
+carbon nanotubes
+Raman spectra
+bond lengths
+energy gap
+electronic density of states
+work function
+ionic conductivity

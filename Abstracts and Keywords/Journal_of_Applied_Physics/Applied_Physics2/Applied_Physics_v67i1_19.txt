@@ -1,0 +1,10 @@
+The effect of interface roughness and island scattering on resonant tunneling time in doublebarrier structures is investigated theoretically. The scattering process degrades the resonant tunneling peak current, broadens the resonance, and hence shortens the resonant tunneling time. For thin barrier structures, the tunneling time enhancement due to the scattering is relatively small, while the resonance width is dominated by the scattering for thick barrier samples.
+
+SEMICONDUCTOR DEVICES
+QUANTUM WELL STRUCTURES
+TUNNEL EFFECT
+RESONANCE
+INTERFACES
+ROUGHNESS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES

@@ -1,0 +1,11 @@
+A quantum statistical formalism has been developed for the excitonic luminescence linewidths and line shapes in semiconductor binary alloys due to bandgap fluctuations caused by the random distributions of the alloy components in an applied magnetic field. The virtual crystal approximation is used to estimate the local bandgap variations. The shifts of the excitonic transition energy due to the bandgap fluctuations are obtained using the firstorder perturbation theory. A Gaussian line shape is obtained for the excitonic transition using standard statistical techniques. This formalism is applied to calculate the linewidths and line shapes associated with the groundstate excitonic transition as a function of alloy composition and magneticfield strength in AlxGa1xAs and InxGa1xP alloys. The resulting linewidths and line shapes are in good agreement with the available lowtemperature photoluminescence data; however, the calculated linewidths are consistently smaller than the measured values. The possible mechanisms responsible for this discrepancy are discussed. A comparison of excitonic linewidths obtained from the present theory with those calculated earlier is also presented.
+
+SEMICONDUCTOR MATERIALS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+GALLIUM PHOSPHIDES
+TERNARY ALLOYS
+EXCITONS
+PHOTOLUMINESCENCE
+LINE WIDTHS
+ENERGY GAP

@@ -1,0 +1,5 @@
+Contrasting with the data processing at the low frequency, the integrality of sampling signal must be thought at the high frequency. In this paper, some important amplitude extracted algorithms for the digital spectrometer, including peak-to-peak value, curve fitting and statistic algorithm, were researched on the LabVIEW platform. The results show that the resolution of the statistic algorithm is similar to others at the low frequency. However, at the high frequency such as the ringing phenomenon, the result with statistics algorithm is better than others, obviously. So, this algorithm has the excellent performance on the digital spectrometer.
+
+algorithm
+energy resolution
+high frequency

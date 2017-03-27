@@ -1,0 +1,10 @@
+We establish the role of oxygen atoms on the structural, chemical, and mechanical properties of SiOXNY films grown on Si and InP substrates by electroncyclotron resonance chemical-vapor deposition (ECR CVD) using a diluted SiH4 and N2 mixture in Ar, under controlled conditions. The mechanical and chemical properties of ECR-CVD SiNX films depend on the oxygen contamination even when this element is present in low concentrations. The compressive stress of SiNX films deposited with a low (and constant) content of oxygen (less than 12%) is shown to be in qualitative agreement with a model of repulsive Coulomb forces related mainly to polar NH+ units in the SiNX network. We observe a decrease of the film compressive stress when the N2/SiH4 flow ratio increases, which is due to the increase of SiN bonds in detriment of NH bonds. Films deposited with high oxygen content in the plasma show a decrease of nitrogen incorporation. Oxygen radicals species compete with those of nitrogen in their reaction with silicon dangling bonds, which has as a consequence a decrease in the incorporation of nitrogen. Additional creation of oxygen radicals, with no hydrogen dilution, is more effective in decreasing the number of NH bonds, or the compressive stress in the SiNX films, than the corresponding creation of nitrogen radicals. The mechanical properties of SiNX films contaminated with oxygen are controlled, in general, by the total number of both nitrogen plus oxygen atoms relative to silicon. The buffered HF (BHF) film etch rate is enhanced and thus is mainly controlled by the oxygen content. Low values of the compressive stress do not necessarily imply low values of BHF etch rate or a high N/Si ratio. We also present a discussion of the origin of the unintentional incorporation of oxygen in a ECR-CVD system designed for industrial production. © 2002 American Institute of Physics.
+
+silicon compounds
+oxygen
+chemical vapour deposition
+CVD coatings
+internal stresses
+compressibility
+etching
+cyclotron resonance

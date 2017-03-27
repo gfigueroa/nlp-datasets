@@ -1,0 +1,14 @@
+Density-functional theory has been used to investigate N vacancy (VN) diffusion in wurtzite GaN and VN complexes with a substitutional Mg acceptor (MgGaVN). Two VN diffusion paths were identified: a perpendicular path producing movement perpendicular to the c axis and a diagonal path producing movement both perpendicular and parallel to the c axis. The VN charge state was found to strongly influence the diffusion activation energies, which range from 2.49eV for VN+3 to 3.55eV for VN+1 along the perpendicular path and from 2.65eV for VN+3 to 3.96eV for VN+1 along the diagonal path. Two bound MgGaVN configurations were identified: a parallel configuration with VN located next to MgGa and along the c axis from it, and a perpendicular configuration with VN located next to MgGa and transverse to the c axis from it. The binding energies range from 0.29 to 0.58eV, depending on the MgGaVN configuration and charge state. The results were used to evaluate a recently proposed atomistic process [ S. Hautakangas, J. Oila, M. Alatalo, and K. Saarinen, Phys. Rev. Lett. 90, 137402 (2003) ], which involves MgGaVN dissociation and VN diffusion in wurtzite GaN.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+magnesium
+semiconductor doping
+vacancies (crystal)
+diffusion
+dissociation
+density functional theory
+Fermi level
+defect states
+self-diffusion

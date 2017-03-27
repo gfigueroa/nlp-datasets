@@ -1,0 +1,12 @@
+Effects of the substrate temperature and ion incident energy on silicon surface cleaning and hydrogen penetration caused by irradiation with a hydrogen plasma have been investigated using xray photoelectron spectroscopy and Fourier transform infrared spectroscopy. A silicon native oxide and a hydrocarboncontaminated layer were removed only on the condition that the silicon substrate was struck with hydrogen ions having proper kinetic energies of less than 40 eV at temperatures from room temperature to 400	°C. However, the silicon oxide grew either at temperatures below room temperature or at no ion incidence onto the substrate. This oxidation phenomenon was attributed to residual H2O in the vacuum system. On the other hand, hydrogen penetration occurred only on the condition of hydrogen ion bombardment. The amount of penetrated hydrogen increased with substrate temperature and ion incident energy. The amount of penetrated hydrogen was found to be drastically reduced under the condition of ion incident energy of less than 5 eV and a substrate temperature of about room temperature. It is concluded that an oxideless clean surface without hydrogen penetration into silicon bulk is obtained by means of irradiation with a hydrogen plasma having a low ion incident energy (d5 eV) at room temperature.
+
+SILICON
+SURFACE CLEANING
+HYDROGEN IONS
+PLASMA
+TEMPERATURE EFFECTS
+ELECTRON CYCLOTRONRESONANCE
+ENERGY DEPENDENCE
+PHOTOELECTRON SPECTROSCOPY
+EV RANGE
+SURFACE COLLISIONS

@@ -1,0 +1,6 @@
+Summary form only given. In this paper XML structures for data transfer between CAD subsystems in the process of the constraint satisfaction problem solution have been developed.
+
+CAD
+MEMS structure
+XML
+constraint satisfaction problem

@@ -1,0 +1,10 @@
+An evaluation is made of the curvature produced by epitaxial strain on a multilayer structure formed by repetition of a filmsubstrate pair n times. When the substrate has thickness comparable to the film thickness, the curvature is increased by many orders of magnitude over the usual ultrathin film epitaxial on a much thicker crystalline substrate. Although the curvature is also shown to be reduced by a factor of n2 in the multilayer compared to a single filmsubstrate pair, a large net increase is possible. Explicit formulas are obtained for the dependence of the curvature on n, on the misfit, on the ratio of film to substrate thickness, and on the ratio of a modified Youngs modulus for the film to that of the substrate. The curvature is calculated for a range of these parameters and asymptotic formulas for large n are given. © 1996 American Institute of Physics. 
+
+EPITAXIAL LAYERS
+MULTILAYERS
+CURVATURE
+STRAINS
+THICKNESS
+SUBSTRATES
+ANALYTICAL SOLUTION
+ELASTIC CONSTANTS

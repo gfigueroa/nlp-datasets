@@ -1,0 +1,7 @@
+This paper presents field tests results of High Definition Television (HDTV) mobile reception performance of an Integrated Services Digital Broadcasting-Terrestrial version B (ISDB-T<sub>B</sub>) receiver with space diversity. The diversity receiver hardware uses a commercial chip with a four branch maximal ratio combining (MRC) system. The tests were performed at the center of the UHF band using 64-QAM in urban, suburban, rural, and highway areas. During the tests the diversity receiver and a standard receiver performances were compared and the results showed that diversity reception would make HDTV mobile reception possible.
+
+BST-OFDM
+Integrated Services Digital Broadcasting-Terrestrial version B - ISDB-T<inf>B</inf>
+Maximal Ratio Combining - MRC
+Mobile Reception
+Space Diversity

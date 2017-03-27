@@ -1,0 +1,12 @@
+This reply provides a perspective on opencircuit voltage decay (OCVD) different from R. Muralidharan and S. C. Jain by emphasizing the connection between their work and our previous publication, and by indicating in what respects their work falls short of a complete solution.
+
+PN JUNCTIONS
+SEMICONDUCTOR JUNCTIONS
+NORMALMODE ANALYSIS
+PARAMETRIC ANALYSIS
+CHARGE CARRIERS
+ELECTRIC POTENTIAL
+DECAY
+MATHEMATICAL MODELS
+THEORETICAL DATA
+EQUATIONS

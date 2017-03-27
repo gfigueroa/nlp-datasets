@@ -1,0 +1,11 @@
+Reaction products contained in the exhaust gas of a dc plasma jet reactor system were detected using mass spectrometry. The major reaction products formed from a feed gas mixture of 96% H2, 3% CH4, and 1% O2 injected into an argon plasma jet were CH4, C2H2, C2H6, CO, and H2O. The products formed without O2 in the reactor feed were CH4, C2H2, and C2H6. Addition of O2 to the reactor gas feed increased the diamond deposition rate by <30% with no degradation in quality. A chemical kinetics model for flames was adapted to this reactor and accurately predicted the major reaction products formed for a reactor feed without O2, indicating the gas phase chemistry may be described by a reaction set developed for hydrocarbon combustion and the chemistry is thermally driven. When compared to experimental results, the model predicts: (1) a maximum temperature in the gas of 3000 K, (2) only 1.2% of the H2 in the reactor feed is dissociated, and (3) CH3 is the primary diamond growth precursor. 	
+
+DIAMONDS
+CVD
+CHEMICAL REACTIONS
+PLASMA JETS
+FILM GROWTH
+HYDROCARBONS
+PRECURSOR
+OXYGEN
+MASS SPECTRA

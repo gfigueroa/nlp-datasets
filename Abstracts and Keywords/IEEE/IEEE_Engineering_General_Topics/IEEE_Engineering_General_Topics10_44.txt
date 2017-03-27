@@ -1,0 +1,7 @@
+In this paper, a novel framework for 3D face reconstruction from a single 2D face image was proposed. We focus on generating 3D face model without expensive devices and complicated calculation. First, we preprocess 2D face image, including illumination compensation, face detection and feature point extraction. Then, the method is based on a 3D morphable face model that encodes shape and texture in terms of model parameters. The prior 3D face model is a linear combination of &#x201C;eigenheads&#x201D; obtained by applying PCA to a training set of laser-scanned 3D faces. To account for pose and illumination variations, the algorithm simulates the process of image formation in 3D face and it estimates 3D face and texture of faces from a single image. As opposed to previous literature, our method can locate facial feature points automatically in a 2D facial image. Moreover, we also show that our proposed method for pose estimation can be successfully applied to 3D face reconstruction. In our experiment results, the method proposed has a satisfied performance regarding calculating time and the reconstructing photorealistic 3D faces.
+
+3D face reconstruction
+3D morphable model
+feature point extraction
+illumination compensation
+pose estimation

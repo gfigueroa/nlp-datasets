@@ -1,0 +1,15 @@
+The formation of single C49-TiSi2 grains embedded in a polycrystalline Si matrix has been studied in detail by means of in-situ sheet resistance, x-ray diffraction measurements, and energy filtered transmission electron microscopy characterization. The C49 clusters were obtained by starting from a 3 nm-Ti/40 nm-Si multilayer structure. After the C49 clusters formation, increasing the temperature in the 8001100
+°C range, the first-order C49-C54 transition has been therefore investigated in a system without triple grains boundaries. At each temperature the C54 fraction initially increases with the annealing time until it reaches a maximum constant value within <80 s. The maximum value of the converted C54 fraction increases linearly with the annealing temperature in the studied range. The nucleation sites density in these samples is <2×1011
+cm2, several orders of magnitude higher than in continuous TiSi2 films, where this value is about 4×106
+cm2. © 2004 American Institute of Physics. 
+
+titanium compounds
+nanoparticles
+solid-state phase transformations
+grain size
+electrical resistivity
+X-ray diffraction
+transmission electron microscopy
+nucleation
+annealing
+grain boundaries

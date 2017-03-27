@@ -1,0 +1,9 @@
+Solid-phase crystallization of Si1xGex (x=01.0) alloy layers deposited on a Si (100) substrate was investigated by ellipsometric spectroscopy. From a dispersion analysis of dielectric spectra, we deduced a crystallinity corresponding to the degree of average lattice alignment of the composed polycrystalline Si1xGex layers and investigated the dynamical change in crystallinity during crystallization. We found that the crystallinity and crystallization temperature (TC) rapidly decreased with increasing Ge concentration (x). When x was small (=00.3), the highest crystallinity was <0.8 of that for single crystals while the lowest one was considerably below 0.6 when x&gt;0.8. Moreover, the crystallinity decreased with increasing temperature above TC. We investigated the nucleation rate during crystallization and found that the decrease in crystallinity at both large Ge concentration and high temperature can be explained by a trade-off between the nucleation and crystallization rates; nucleation was dominant under these conditions. An overview of the crystallinity of solid-phase crystallized Si1xGex alloy layers is provided. © 2001 American Institute of Physics. 
+
+Ge-Si alloys
+amorphous semiconductors
+crystallisation
+nucleation
+solid-state phase transformations
+ellipsometry
+semiconductor thin films

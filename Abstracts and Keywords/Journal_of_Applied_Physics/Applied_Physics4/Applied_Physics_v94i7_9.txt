@@ -1,0 +1,5 @@
+We present numerical results of an examination of the current mirror effect in a single-electron turnstile capacitively coupled to a one-dimensional (1D) array of small tunnel junctions. We deal with a 20-junction 1D array and 4-junction turnstile coupled at their center electrodes via a coupling capacitor. A coupling parameter, Qc, and a current mirror index are introduced to define the strength of coupling and to evaluate the quality of the current mirror effect, respectively. Numerical results show that a finite gate charge of e/2 to the center electrodes of both the 1D array and the turnstile enhances the current mirror effect, where e is the charge of an electron. To investigate the enhanced current mirror effect, charge propagation in the 1D array under a finite gate charge of e/2 is simulated. It is found that electrons temporarily trapped at the center electrode in the 1D array play an important role in the enhancement of the current mirror effect. © 2003 American Institute of Physics. 
+
+current mirrors
+single electron devices
+tunnelling

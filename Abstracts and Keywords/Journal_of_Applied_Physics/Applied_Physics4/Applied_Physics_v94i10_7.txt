@@ -1,0 +1,16 @@
+Submicron scale hybrid structures of diluted magnetic semiconductor (DMS) quantum wells (QWs) with ferromagnetic Co wires have been developed for the purpose of applying microscopic magnetic fields to the DMS quantum structures. The Zn1xyCdxMnySe QW was made into wires with the width down to 0.1 ¼m and each wire was sandwiched between the Co wires. The magneto-optical properties of the hybrid structures were studied by spinflip light scattering of paramagnetic Mn ions in the DMS QW in addition to ferromagnetic surface spin-wave scattering of the Co wires, where the spinflip energy is highly sensitive to the magnetic field HCo	flux applied from the Co wires. The application of uniform magnetic fields HCo	flux~0.25	T from the Co wires to the DMS QW has been attained with the Co-wire spacing of 0.2 ¼m. In addition, the distribution of HCo	flux in the DMS QW is quantitatively evaluated from the spectral shape of the spinflip scattering. Moreover, the application of HCo	flux to the DMS QW is switched on and off by weak external fields less than 0.02 T depending on the magnetic shape anisotropy of the collective Co wires, which can realize the switching behavior of the spin alignment of magnetic ions in the DMS QW. © 2003 American Institute of Physics. 
+
+cobalt
+quantum wires
+ferromagnetic materials
+semimagnetic semiconductors
+semiconductor quantum wells
+II-VI semiconductors
+zinc compounds
+cadmium compounds
+manganese compounds
+magneto-optical effects
+spin fluctuations
+spin waves
+magnetic anisotropy
+semiconductor-metal boundaries

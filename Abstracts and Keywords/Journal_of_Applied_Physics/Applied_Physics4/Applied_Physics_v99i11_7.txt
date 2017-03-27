@@ -1,0 +1,12 @@
+Electric properties of YBa2Cu3O7´ (YBCO) superconducting thin-film bridges with artificial 5-¼m-wide channels for easy motion of Abrikosov vortices have been investigated. Vortex channels have been laser written into the bridge constrictions by means of heat-induced, partial depletion of oxygen from the laser-illuminated areas. Insertion of the channel into a bridge structure increases its resistivity in the normal state, broadens the superconducting transition, and dramatically reduces the critical current density. Experimentally observed features have been ascribed to the vortex channeling mechanism, which reduces the pinning efficiency of the extended growth defects in YBCO.
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting thin films
+flux flow
+flux pinning
+electrical resistivity
+superconducting transitions
+critical current density (superconductivity)
+flux-line lattice

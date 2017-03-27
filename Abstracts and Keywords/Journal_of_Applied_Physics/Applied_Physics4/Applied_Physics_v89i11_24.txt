@@ -1,0 +1,12 @@
+We investigate a current gain degradation mechanism in self-aligned InP/InGaAs heterojunction bipolar transistors. We show that surface level pinning at the emitter sidewall gives rise to a peripheral emitter injection current into the base which increases the base current due to electrons recombining at the base contacts. The surface charge at the extrinsic base surface causes the formation of a conducting channel which further enhances the electron flow from the emitter to the base contacts. Two-dimensional numerical simulations of the emitter region combined with Monte-Carlo simulations of the injection process at the abrupt base-emitter heterojunction are in good agreement with the measurements. This effect will be especially severe for submicron emitter widths where the emitter perimeter to emitter area ratio is large. © 2001 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+heterojunction bipolar transistors
+semiconductor device models
+surface states
+interface states
+charge injection
+surface charging
+Monte Carlo methods

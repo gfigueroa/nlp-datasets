@@ -1,0 +1,15 @@
+The kinetics of nanocrystallization were studied in two amorphous FeCuNbSiB based alloys with different Fe/Si ratios. Differential scanning calorimetry and transmission Mössbauer spectroscopy data were collected in a range of time-temperature space. Nanocrystallization is preceded by a relaxation of the amorphous phase that appears to involve changes in its short range order (SRO) parameters [T. Pradell, N. Clavaguera, J. Zhu, and M. T. Clavaguera-Mora, J. Phys.: Condens. Matter 7, 4129 (1995)] which are consistent with Cu-clustering. This process is followed by formation of Fe(Si) embryos with <20 at.	% Si, regardless of alloy composition. Nanocrystals with DO3 structure grow, and change composition via a diffusion controlled process that is stopped by soft impingement [D. Crespo, T. Pradell, M. T. Clavaguera-Mora, and N. Clavaguera, Phys. Rev. B 55, 3435 (1997)]. The rate of this process depends on both temperature and alloy composition. Nanocrystallization is enhanced by prior annealing at conditions which induce SRO relaxation, however, prior annealing at an intermediate temperature (where crystal nucleation occurs) will retard nanocrystallization. © 1998 American Institute of Physics. 
+
+iron alloys
+copper alloys
+niobium alloys
+silicon alloys
+boron alloys
+amorphous magnetic materials
+metallic glasses
+nanostructured materials
+crystallisation
+thermal analysis
+Mossbauer effect
+short-range order
+annealing

@@ -1,0 +1,15 @@
+Deep levels have been measured in a molecular beam epitaxy grown Ga0.51In0.49P/GaAs heterostructure by double correlation deep level transient spectroscopy. Gold (Au) and aluminum (Al) metals were used for a Schottky contact. A contactrelated hole trap with an activation energy of 0.500.75 eV was observed at the Al/GaInP interface, but not at the Au/GaInP interface. To our knowledge, this contactrelated trap has not been reported before. We attribute this trap to oxygen contamination, or a vacancyrelated defect, VIn or VGa. A new electron trap at 0.28 eV was also observed in both Au and AlSchottky diodes. It depth profile showed that it is a bulk trap in a GaInP epilayer. The temperature dependent currentvoltage characteristics show a large interface recombination current at the GaInP surface due to the Al contact. The energy distribution of the interface state density showed a maximum at EV+0.85 eV within the band gap. Concentration of the interface trap and the magnitude of recombination current are both reduced by a rapid thermal annealing at/or above 450	°C after aluminum deposition. The Al Schottky barrier height also increased after a 450	°C annealing.
+
+GALLIUM ARSENIDES
+GALLIUM PHOSPHIDES
+INDIUM PHOSPHIDES
+TERNARY COMPOUNDS
+INTERFACE STATES
+DEEP ENERGY LEVELS
+HETEROSTRUCTURES
+DLTS
+SCHOTTKY BARRIER DIODES
+ALUMINIUM
+GOLD
+CV CHARACTERISTIC
+TRAPS

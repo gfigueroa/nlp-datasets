@@ -1,0 +1,7 @@
+Supporting the development of higher-order cognitive skills necessary for successful life-long learning, such as metacognition and communication skills presents a significant challenge in distance education. Current approaches to supporting a learner's cognition in distance learning tend to be developed as stand-alone systems that are often difficult to assess. This paper outlines how existing and validated psychometric tests may be used as a blueprint for structuring and organizing a cognitive user model to support the acquisition of such life-long learning skills. The aim of the approach presented is to create a general user model that can be applied to a range of psychometric tests. The paper presents how the model is structured, and a statistical analysis of the populations' metacognitive regulation. These results may be used to prime the values of the cognitive user model. Additionally, this paper outlines a set of considerations for realizing such cognitive models.
+
+educational technology
+factor analysis
+higher-order cognition
+psychometrics
+user modeling

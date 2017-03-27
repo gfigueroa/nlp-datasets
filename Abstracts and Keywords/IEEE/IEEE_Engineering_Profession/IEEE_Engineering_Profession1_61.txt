@@ -1,0 +1,7 @@
+Does attention have relevance for visual recognition and if so, under what circumstances? Is there a particular role (or roles) for attentive processes? These are not so simple to answer. Attention, if used at all in computer vision, has traditionally played one or both of the following roles: where to look next (or selection of region of interest), or top-down task influence on visual computation. In this paper, I argue that these are only two of the possible roles. Attention is also closely linked to binding and it is the triad of attention, binding and recognition that go hand in hand for non-trivial visual recognition tasks. This paper describes a set of four novel binding processes that employ a variety of attentive mechanisms to achieve recognition beyond the first feed-forward pass. The description is at a conceptual level with many pointers to papers where details may be found.
+
+attention
+human vision
+recognition
+selective tuning
+visual feature binding

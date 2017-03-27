@@ -1,0 +1,9 @@
+We present an exact treatment of magnetization reversal by coherent rotation in single-domain magnets with multiple crystal anisotropy axes. External switching field values can be determined for arbitrary relative orientations of crystal axes, external fields, and additional anisotropy axes (e.g., shape anisotropy) without any simplifying assumptions or approximations. The method is applied to analyze coherent rotation in particles with cubic crystal anisotropy. We find that the switching field is to first order determined by the closest crystal anisotropy axis, but influence from the next nearest axis leads to non-negligible corrections on the order of tens of percent of the switching field. We also demonstrate that during reversal the magnetization vector rotates predominantly in a single, well-defined plane with only minor deviations. The ramifications for control of the switching field values in single-domain nanomagnets are discussed. © 2003 American Institute of Physics. 
+
+magnetic domains
+magnetisation reversal
+magnetic switching
+magnetic anisotropy
+nickel
+nanostructured materials
+ferromagnetic materials

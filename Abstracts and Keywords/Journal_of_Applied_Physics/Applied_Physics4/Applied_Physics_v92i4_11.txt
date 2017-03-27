@@ -1,0 +1,7 @@
+The piezoelectric properties of Pb(Zr,Ti)O3Pb(Sb,Mn)O3 modified with the rare earth (RE) metal species Ce (1.03 Å), Eu (0.95 Å) and Yb (0.85 Å) have been investigated. For all rare earth substituents investigated in this system, regardless of the species ionic radii, the piezoelectric properties were observed to have combinatory hard and soft characteristics. Under high drive levels, the mechanical quality factor and the vibrational velocity were both significantly improved by RE substitution, resulting in a significant increase in ultrasonic power. Systematic polarizationelectric field measurements revealed significant relaxational polarization similar to a soft piezoelectric, in addition to an internal field similar to a hard piezoelectric. A possible explanation for the combinatory hardening and softening effects is the coexistence of randomly quenched and mobile defects. © 2002 American Institute of Physics. 
+
+lead compounds
+piezoceramics
+dielectric polarisation
+ultrasonic velocity
+dielectric relaxation

@@ -1,0 +1,16 @@
+A promising approach for reducing the operating wavelength of xray lasers is the generation of population inversions via recombination in rapidly cooling plasmas. We have examined the relative merits of radiative and hydrodynamic cooling in a freely expanding plasma. The specific lasing scheme studied is recombination in heliumlike silicon, but the general results apply to other elements and ionization stages which are capable of generating gain in the soft xray region. We find that the higher radiative cooling rates obtained by mixing the silicon lasant with a high atomic number coolant are more than offset by the reduced expansion cooling brought on by the higher mass density associated with the highZ elements. Specific results are presented for hydrogen, carbon, aluminum, and selenium coolants mixed with silicon lasant. The present results do not apply to magnetically confined lasant plasmas where highZ radiators might be valuable.
+
+XRAY LASERS
+RECOMBINATION
+POPULATION INVERSION
+COOLING
+RADIATIVE COOLING
+HYDRODYNAMICS
+SILICON
+HYDROGEN
+CARBON
+ALUMINIUM
+SELENIUM
+MATHEMATICAL MODELS
+CONTINUITY EQUATIONS
+CONSERVATION LAWS

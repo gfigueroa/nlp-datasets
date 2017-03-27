@@ -1,0 +1,12 @@
+The thermal behavior of Ta/Ge superlattices has been studied using Raman spectroscopy. The highfrequency Raman spectra, obtained as a function of annealing temperature, reveal no significant change in the superlattice structure up to an anneal temperature of 400	°C. The interlayer diffusion at the Ta/Ge interfaces occurs at 500	°C followed by complete crystallization of the superlattice at 600	°C. Raman scattering from the folded acoustic modes of the superlattices was also employed to study the thermal behavior of superlattices, and the results thus obtained corroborate the above findings.
+
+TANTALUM
+GERMANIUM
+SUPERLATTICES
+ANNEALING
+RAMAN SPECTRA
+DIFFUSION
+CRYSTALLIZATION
+LINE WIDTHS
+XRD
+TEM

@@ -1,0 +1,7 @@
+In recent years there has been considerable effort to translate the techniques used to achieve performance gains in the RF community into similar performance gains in the underwater acoustic field. Initially, developments focused on moving away from single side band signals towards direct sequence spread spectrum, resulting in improved tolerance to fading, noise and reverb. More recently, attempts to increase data rates have utilized complex techniques such as MIMO, resulting in a step improvement in the available data rate. However, a plethora of underwater communication approaches are now available, most of which are based on proprietary protocols, and this has resulted in interoperability issues. This problem also exists in the RF domain and is being resolved through the development of Software and Cognitive radio approaches. This paper describes the latest techniques and developments in Software Defined Radios and shows how they may be adapted to the underwater acoustic communication domain.
+
+Acomms
+Cognitive communications
+SCA
+SDR
+software define communications

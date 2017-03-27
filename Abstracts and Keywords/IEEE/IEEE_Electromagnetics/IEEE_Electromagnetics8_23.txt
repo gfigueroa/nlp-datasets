@@ -1,0 +1,6 @@
+In this paper a simple technique to develop a wide bandwidth, high gain circularly polarised planar microstrip patch antenna at X-band frequency has been presented. A two layer electromagnetically coupled stacked microstrip circular patch (EMCP) antenna has been designed, fabricated and tested. The design optimisation was carried out using commercial MoM based simulation software. The inter layer separation and size of the patches of the circularly polarised antenna were optimised by successive simulations using the commercial software. Measured gain flatness was better than 1dB and impedance bandwidth was better than 10% around the centre frequency at X-band. Measured results are also presented.
+
+Circularly polarised antenna
+EMCP antenna
+High gain antenna at X-band
+Wide bandwidth antenna

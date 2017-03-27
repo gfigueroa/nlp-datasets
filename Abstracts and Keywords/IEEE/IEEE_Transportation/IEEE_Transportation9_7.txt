@@ -1,0 +1,5 @@
+This paper presents analytical method for determining deflection of fully clamped thin circular plates. The essence of the model is to describe deformation profile with the aid of a zero order Bessel function and to perform upper bound analysis. It provides a way of studying and understanding the plastic response of impulsively loaded circular plate. It can be also regarded as an attempt to use energy method for different impulsive loading conditions. The solutions obtained are in very good agreement with different set of experimental results.
+
+Circular plate
+Deformation
+Impulsive load

@@ -1,0 +1,11 @@
+Time-of-flight neutron powder diffraction and specific heat measurements were used to study the nature of thermal expansion in rhenium trioxide, an electrically conducting oxide with cubic symmetry. The temperature evolution of the lattice parameters shows that ReO3 can exhibit negative thermal expansion below room temperature and that the transition from negative to positive thermal expansion depends on sample preparation; the single crystal sample demonstrated the highest transition temperature, 294(19) K, and largest negative value for the coefficient of thermal expansion, ± = 10(1)×107K1. For the oxygen atoms, the atomic displacement parameters are strongly anisotropic even at 15 K, indicative of a large contribution of static disorder to the displacement parameters. Further inspection of the temperature evolution of the oxygen displacement parameters for different samples reveals that the static disorder contribution is greater for the samples with diminished negative thermal expansion (NTE) behavior. In addition, specific heat measurements show that ReO3 lacks the low energy Einstein-type modes seen in other NTE oxides such as ZrW2O8. The thermal expansion behavior in other NTE materials such as ZrW2O8, cuprite-type oxides, and the Prussian blue cyanides are discussed and compared with that of our ReO3 samples.
+
+copper compounds
+lattice constants
+manganese compounds
+neutron diffraction
+platinum compounds
+rhenium compounds
+specific heat
+thermal expansion
+zirconium compounds

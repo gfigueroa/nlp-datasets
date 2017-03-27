@@ -1,0 +1,13 @@
+Background. Patients taking antidepressants are more likely to also be taking multiple medications, increasing the risk of adverse drug-drug interactions (DDIs). Because of substantial inhibition of one or more cytochrome P450 (CYP) enzymes at therapeutic doses, the selective serotonin reuptake inhibitors fluoxetine, fluvoxamine, and paroxetine have a higher risk of CYP-mediated DDIs than citalopram, escitalopram, and sertraline, which do not substantially inhibit any CYP enzyme. Methods. Prescribing patterns in 2,779 Veterans Affairs (VA) patients who had a prescription for an antidepressant in the preceding year and a current prescription for at least one systemically active drug were analyzed to determine 1) prevalence of drug combinations with potential to cause CYP-mediated DDIs, 2) frequency of combinations of fluoxetine, paroxetine, or sertraline with drugs whose metabolism is principally dependent on CYP 2D6, and 3) use of reduced doses of CYP 2D6 substrate/drugs with narrow therapeutic indices in patients on fluoxetine or paroxetine compared with sertraline. Results. In 2,779 patients, 55 pairs of drugs with the potential to cause CYP-mediated DDIs occurred in 300 patients (11%), but only 26 of the patients and 6 of the drug pairs were identified by the VA Drug Alert System. Of the 461 patients receiving fluoxetine and/or paroxetine, 39 (8%) were also receiving a CYP 2D6-model substrate/drug with a narrow therapeutic index, 14 (36%) of whom were receiving high enough doses to be at moderate to high risk of a serious DDI. Conclusions. VA patients on fluoxetine, paroxetine, and sertraline were equally likely to be on drugs whose metabolism is dependent on CYP 2D6, including drugs with narrow therapeutic indices. No differences were found in doses of tricyclic antidepressants (i.e., "victim" drugs), which have narrow therapeutic indices and serious dose-dependent toxicity, when co-prescribed with fluoxetine or paroxetine versus sertraline (i.e., "perpetrator" drugs), despite predictable differences in CYP 2D6-mediated clearance of these drugs. 
+
+multiple medication use
+antidepressants
+drug interactions
+cytochrome P450 enzymes
+medication errors
+polypharmacy
+Veterans Affairs
+prescribing practices
+fuoxetine
+paroxetine
+sertraline

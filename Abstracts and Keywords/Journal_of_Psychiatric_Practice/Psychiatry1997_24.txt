@@ -1,0 +1,10 @@
+The frequent alternation of depression, mania, hypomania, and/or euthymia portends relative treatment resistance in the short-term; however, follow-up studies suggest that this pattern is usually not permanent. The phenomenon of rapid cycling bipolar disorder overlaps with those of borderline personality disorder, somatization disorder, and stimulant abuse. Careful attention should therefore be given to the differential diagnosis and to whether a full hypomanic or manic syndrome has occurred. Treatment with mood stabilizers is usually warranted for patients with bipolar disorder. In the absence of convincing evidence that anticonvulsants provide better prophylaxis than lithium in rapid cycling bipolar disorder, recommendations that these agents be used preferentially are premature. If antidepressants are used for the acute treatment of depressive phases, evidence favors the use of selective serotonin reuptake inhibitors (SSRIs) and monoamine oxidase inhibitors (MAOIs) over the tricyclic antidepressants (TCAs). Promising alternative treatments under investigation include total sleep deprivation, the newer antipsychotics, and maintenance electroconvulsive therapy (ECT). 
+
+rapid cycling
+bipolar disorder
+mood stabilizers
+lithium
+carbamazepine
+valproate
+antidepressants
+electroconvulsive therapy

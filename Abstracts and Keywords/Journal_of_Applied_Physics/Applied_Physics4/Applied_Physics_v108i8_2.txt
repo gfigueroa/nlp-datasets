@@ -1,0 +1,7 @@
+A multimode photoacoustic method was developed for evaluating acoustically thick anisotropic layers, using surface acoustic waves. Such layers support multiple acoustic modes. This complicates the reverse problem, but on the other hand, makes it possible to extract more materials properties. Several mechanical properties of a layer-substrate system, consisting of a 110¼m thick heteroepitaxial chemical vapor deposited diamond layer on Ir/YSZ (yttria-stabilized zirconia)/Si(001), were evaluated, based on two surface acoustic modes. A dispersive and a nondispersive mode measured in two different crystallographic directions were employed to evaluate the three elastic stiffness coefficients C11, C12, C44, and the mass density of the diamond layer. It is demonstrated that accurate elastic moduli can be determined without special sample preparation, employing the layered system as obtained from the heteroepitaxial diamond growth process.
+
+chemical vapour deposition
+diamond
+elastic moduli
+photoacoustic effect
+surface acoustic waves

@@ -1,0 +1,10 @@
+The effect of oxide barrier shape change caused by stress-induced interface trap charges on the low-voltage tunneling current (LVTC) characteristics of ultrathin gate oxide (<2 nm) is studied in this work. It was found that for an ultrathin gate oxide working in the direct tunneling regime, the LVTC behavior is strongly dependent on the barrier shape of the oxide. After high-field stress, anomalous LVTC phenomenon is observed. There is an invariant point existing in currentvoltage curves. For a bias smaller than the value of the invariant point, the gate current decreases with stress time. However, for a bias larger than that, the gate current increases with stress time and then saturates. This phenomenon cannot be explained by conventional trap-assisted tunneling conduction, but by the change of tunneling probability due to barrier shape variation. An interface trap charge model is proposed to explain the observed invariant point mentioned above. From this, one can find the voltage corresponding to the midgap bias and, therefore, the initial effective oxide charge number density. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+silicon compounds
+aluminium
+MOS capacitors
+tunnelling
+high field effects
+interface states

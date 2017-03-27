@@ -1,0 +1,11 @@
+The electrical properties of Indium tin oxide(ITO)/pindium phosphide (InP) junctions prepared at different temperatures by reactive electron beam evaporation technique have been studied. A maximum of 10.0% photo conversion efficiency under 100 mW	cm2 illumination (without front metal grid and antireflection coating) has been observed. Analyses of the results indicate an interfacial oxide layer consisting of indium oxide and indium orthophosphate and the ITO/pInP junction correspond to the semiconductorinsulatorsemiconductor SIS model. An attempt has been made to understand the nature of the interfacial layer. 	
+
+ITO LAYERS
+INDIUM PHOSPHIDES
+JUNCTIONS
+ENERGY BEAM DEPOSITION FILMS
+PHOTOCONDUCTIVITY
+PHOTOELECTRON SPECTROSCOPY
+PHOTOVOLTAIC CELLS
+IV CHARACTERISTIC
+CV CHARACTERISTIC

@@ -1,0 +1,14 @@
+Synthetic diamond thin or thick films are suitable materials for many applications because of their weak friction coefficient and their large hardness, Young modulus, and thermal conductivity. A series of diamond thin films of variable quality obtained by plasma-assisted chemical vapor deposition lying on titanium alloy substrates has been studied by picosecond ultrasonics. Femtosecond laser pulses allow the generation and detection of picosecond acoustic pulses that can be used to study the elastic properties of thin micrometric and submicrometric films. Acoustic fields generated in the substrate and propagating in the transparent diamond film are detected by an interferometric technique; they give rise to oscillations and abrupt step-like changes in the transient reflectivity variations. An analysis of these different features allows the determination of various characteristics of these films, such as longitudinal elastic constant, thickness, and roughness in terms of the diamond quality. © 2004 American Institute of Physics. 
+
+diamond
+semiconductor thin films
+plasma CVD coatings
+ultrasonic materials testing
+acoustic wave interferometry
+friction
+hardness
+Young's modulus
+thermal conductivity
+reflectivity
+elastic constants
+surface roughness

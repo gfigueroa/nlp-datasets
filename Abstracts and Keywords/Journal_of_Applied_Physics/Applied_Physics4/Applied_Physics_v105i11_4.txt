@@ -1,0 +1,15 @@
+By employing first-principle total-energy calculations, a systematic study of the dopability of ZnS to be both n- and p-types compared with that of ZnO is carried out. We find that all the attempted acceptor dopants, group V substituting on the S lattice site and group I and IB on the Zn sites in ZnS, have lower ionization energies than the corresponding ones in ZnO. This can be accounted for by the fact that ZnS has relative higher valence band maximum than ZnO. Native ZnS is weak p-type under S-rich condition, as the abundant acceptor VZn has rather large ionization energy. Self-compensations by the formation of interstitial donors in group I and IB-doped p-type ZnS can be avoided when sample is prepared under S-rich condition. In terms of ionization energies, LiZn and NS are the preferred acceptors in ZnS. Native n-type doping of ZnS is limited by the spontaneous formation of intrinsic VZn2; high efficient n-type doping with dopants is harder to achieve than in ZnO because of the readiness of forming native compensating centers and higher ionization energy of donors in ZnS.
+
+copper
+density functional theory
+gold
+II-VI semiconductors
+impurities
+interstitials
+ionisation
+lithium
+semiconductor doping
+silver
+sodium
+wide band gap semiconductors
+zinc compounds

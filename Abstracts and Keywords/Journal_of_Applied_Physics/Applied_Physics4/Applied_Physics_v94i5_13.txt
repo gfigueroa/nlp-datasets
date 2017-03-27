@@ -1,0 +1,7 @@
+Coulomb blockade devices can circumvent some of the problems that arise from the continuing miniaturization of conventional circuits. However, device miniaturization and higher circuit integration aggravate cross-coupling phenomena in Coulomb blockade circuits. As an example, a silicon-based bidirectional electron pump was electrically characterized with emphasis on cross-coupling arising from the clock signal driving the pump. The cross-coupling alters profoundly the expected device characteristics, and the experimental data are confirmed by Monte Carlo simulations. © 2003 American Institute of Physics. 
+
+Coulomb blockade
+Monte Carlo methods
+single electron devices
+silicon
+elemental semiconductors

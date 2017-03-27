@@ -1,0 +1,9 @@
+This article presents a self-consistent PoissonSchrödinger calculation based on either the Hartree or the density functional theory for silicon quantum dots surrounded by silicon dioxide. These models can treat any shape of confining potential and take into account the different effective masses and permittivities of the materials. The energy states and the equivalent capacitance of a single dot are then determined as a function of dot radius and number of confined electrons. Finally, the Hartree approach and the density functional theory are compared. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor quantum dots
+SCF calculations
+density functional theory
+Schrodinger equation
+Poisson equation

@@ -1,0 +1,11 @@
+Using transient capacitance spectroscopy we have investigated the effect of growth by molecularbeam epitaxy (MBE) with dimeric As on the concentrations of deep traps in ntype AlGaAs with the Al mole fraction varying from x=0.04 to x=0.36. The substrate temperature dependence of E(0.77), which is the dominant trap in samples with x=0.25 grown at low substrate temperature, is similar for both As2 and As4 and is independent of Al mole fraction for the range investigated. For samples with Al mole fraction greater than 25% the dominant deep traps are the socalled DX centers. The effect of using As2 is negligible compared to the effects of temperature and Al mole fraction which control the concentrations of the dominant deep traps.
+
+DLTS
+CAPACITANCE
+MOLECULAR BEAM EPITAXY
+DEEP ENERGY LEVELS
+TRAPS
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+ARSENIC
+CV CHARACTERISTIC

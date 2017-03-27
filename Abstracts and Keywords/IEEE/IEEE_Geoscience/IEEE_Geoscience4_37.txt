@@ -1,0 +1,8 @@
+Nowadays, there is the trend to carry out decisions and analysis on geospatial data by a massive computational approach. The amount of geospatial information available is increasing exponentially as result of the increasing interoperability between informative systems. In a multiplicity of applications and services spatial decision is carried out to pursue business goals, often without involving experts in geography. The informative systems have an increasing autonomous decisional capability on information selection and analysis. The demand is to have systems that require only an input goal, and produces decisions that humans can understand and integrate with their own decisions. In this paper it is proposed an automatic method of feature ranking, which can sort a heterogeneous set of features by their importance in accomplishing an analytical goal. This method produces a rank model that helps to select the minimal set of features needed to pursue a goal with a wanted accuracy or resources involvement. This feature ranking is expected to supports fundamental decisional making in elaborating geospatial data. The method is based on data mining algorithms; the obtained rank model appears to be spatially scalable and fits well to human form of knowledge.
+
+Data Mining
+Decision Support
+Feature Selection
+Geospatial Data
+Rank Model
+Spatial Dependency

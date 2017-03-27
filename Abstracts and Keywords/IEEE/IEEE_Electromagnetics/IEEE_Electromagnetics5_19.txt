@@ -1,0 +1,7 @@
+Developments in radio astronomy instrumentation drive the need for lower cost front-ends due to the large number of antennas and low noise amplifiers needed. This paper describes cost reduction techniques for the realization of antennas and low noise amplifiers in combination with a noise budget calculation for array systems in the absence of cryogenic cooling.
+
+antenna
+low noise amplifier
+low noise temperature
+phased-array feed
+radio astronomy

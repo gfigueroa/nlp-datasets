@@ -1,0 +1,12 @@
+Microcrystalline silicon thin films were formed on quartz substrates by ultrahigh-frequency (UHF) plasma enhanced chemical vapor deposition from a mixture of silane (SiH4) and hydrogen (H2) gases at low substrate temperatures (Ts). The UHF plasma was excited at a frequency of 500 MHz. The deposition rate and the crystallinity of the films were investigated as a function of H2 dilution, total pressure, mixture ratio of SiH4 to H2 and Ts. A crystalline fraction of 63% with a high deposition rate of 7.7 Å/s was obtained even at a Ts of 100
+°C. At a temperature of 300
+°C, a crystalline fraction of approximately 86% was achieved at a deposition rate of 1.4 Å/s. Diagnostics of the UHF plasma have been carried out using a Langmuir probe, ultraviolet absorption spectroscopy, and optical emission spectroscopy. Good crystallinity was explained by the balance of the sheath voltage and atomic hydrogen densities in the UHF plasma. Namely, the UHF plasma source achieving a high density plasma with a low electron temperature enabled us to reduce the ion bombardment energy incident on the substrates while maintaining a high density of hydrogen atoms, and which improved the crystallinity at low Ts. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor thin films
+plasma CVD
+semiconductor growth
+Langmuir probes
+ultraviolet spectra
+plasma temperature

@@ -1,0 +1,10 @@
+High-resolution ultrasound imaging systems for inspection of defects and flaws in materials are of great demand in many industries. Among these systems, Vibro-acoustography (VA) has shown excellent capabilities as a noncontact method for nondestructive high-resolution imaging applications. This method consists of mixing two confocal ultrasound beams, slightly shifted in frequency, to produce a dynamic (oscillatory) radiation force in the region of their intersection. This force vibrates the object placed at the focus of the confocal transducer. As a result of the applied force, an acoustic emission field at the difference frequency of the primary incident ultrasound beams is produced. In addition to the difference frequency acoustic emission signal, there exists another signal at the sum frequency, formed in the intersection region of the two primary beams. The goal of this study is to investigate the formation of high-resolution images using the sum frequency of ultrasound waves in VA while concurrently forming the conventional difference-frequency VA image, thereby increasing the amount of information acquired during a single scan. A theoretical model describing the sum-frequency wave propagation, including beam forming and image formation in the confocal configuration, is developed and verified experimentally. Moreover, sample experiments are performed on a flawed fiber-reinforced ceramic composite plate. Images at both the difference and sum frequencies are compared and discussed. Results show that the sum-frequency image produces a high-resolution C scan of the plate by which the flaws and structural details of the plate can be detected.
+
+acoustic emission
+acoustic emission testing
+ceramics
+fibre reinforced composites
+flaw detection
+plates (structures)
+ultrasonic materials testing
+vibrations

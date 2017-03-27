@@ -1,0 +1,6 @@
+Several organizations have developed very large market basket databases for the maintenance of customer transactions. New applications, e.g., Web recommendation systems, present the requirement for processing similarity queries in market basket databases. In this paper, we propose a novel scheme for similarity search queries in basket data. We develop a new representation method, which, in contrast to existing approaches, is proven to provide correct results. New algorithms are proposed for the processing of similarity queries. Extensive experimental results, for a variety of factors, illustrate the superiority of the proposed scheme over the state-of-the-art method.
+
+Data mining
+Market basket data
+Nearest-neighbor
+Similarity search

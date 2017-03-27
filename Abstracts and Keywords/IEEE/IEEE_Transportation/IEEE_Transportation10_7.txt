@@ -1,0 +1,6 @@
+This paper addresses the non-strict hub-and-spoken airline network design problem in airline industry. Firstly, under the condition of the hub number not specified, an optimization model to minimize the sum of transportation cost and construct hub cost is established. Secondly, the classic algorithm can not solve the problem efficiently because the problem is NP-hard problem. An ant colony algorithm which combine with the specifically Floyd shortest path algorithm is put forward. Lastly, an example analysis base on the CAB benchmark data is demonstrated. The result report shows that the proposed algorithm has strong robustness, strong ability of finding optimization solution and quick convergence. It can be applied to solve large scale hub airline network design problem.
+
+airline network
+ant colony algorithm
+hub
+the shortest path algorithm

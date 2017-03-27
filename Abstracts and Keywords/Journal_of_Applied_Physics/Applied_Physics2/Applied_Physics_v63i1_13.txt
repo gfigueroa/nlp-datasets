@@ -1,0 +1,11 @@
+Radiative color temperatures were measured in singlecrystal sodium chloride under shock compression parallel to [100] over a pressure range from 20 to 35 GPa. Color temperatures from 2500 to 4500 K and emittances from 0.003 to 0.3 were determined by fitting observed spectra (450850 nm) to the Planck greybody radiation law. These data support a heterogeneous shock deformation model of shocked halite in this pressure range. A 2500K temperature rise, of unknown origin, is observed over the B1B2 mixed phase region from 25 to 30 GPa. Assuming that shock deformation occurs via yielding in localized planar zones which become melt and the melting temperature at high pressure controls the temperature, we infer that the temperature of the B2 fusion curve from 30 to 35 GPa rises from 3200 to 3300 K. The B1B2liquid triple point is predicted to be at a temperature of 2250 K and 23.5 GPa.
+
+SODIUM CHLORIDES
+MELTING
+CRYSTAL GROWTH FROM MELTS
+COMPRESSION
+DEFORMATION
+COLOR
+SHOCK WAVES
+TEMPERATURE DISTRIBUTION
+EQUATIONS OF STATE

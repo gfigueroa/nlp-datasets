@@ -1,0 +1,14 @@
+The structural properties of superconducting (Bi,Pb)2Sr2Ca2Cu3O10Ag (2223) tapes have been measured using synchrotron xray scattering techniques. The xray photon energy was tuned just below the silver K absorption edge so the penetration depth was large, which allowed the measurements to be performed in a transmission geometry without removing the silver cladding. Analysis of the peaks in 2¸ scans indicates that residual (Bi,Pb)2Sr2CaCu2O8 (2212) superconductor starting material is present in all samples studied. The amount of 2212 varied widely among the tapes, and was not homogeneous along the length of each individual tape. Residual 2212 content increased near the ends of most samples, suggesting that 2223 phase development is sensitive to whether the superconducting material is encased in silver or not. The bulk caxis alignment was measured in <100 mono and multifilament samples, and correlations between caxis alignment and current carrying capacity at 77 K were found. Multifilament samples generally had better alignment than monofilament samples. The caxis alignment along the length of the tapes was uniform, and the superconducting material within <1 ¼m of the Ag was better textured than the bulk of the sample. Intermediate pressings were directly shown to have an adverse affect on caxis alignment. Finally, the evolution of texture and phase development was examined in a series of samples annealed for varying times. The 2212 starting material acquired the final caxis alignment state after brief heating times, and only after much longer heating times did the 2212 transform into the 2223 phase. These results and their implications for improving processing procedures are discussed. © 1996 American Institute of Physics. 
+
+BISMUTH OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+CRYSTAL STRUCTURE
+HIGHTC SUPERCONDUCTORS
+LEAD OXIDES
+SILVER
+STRONTIUM OXIDES
+SUPERCONDUCTING WIRES
+SYNCHROTRON RADIATION
+TEXTURE
+XRAY DIFFRACTION

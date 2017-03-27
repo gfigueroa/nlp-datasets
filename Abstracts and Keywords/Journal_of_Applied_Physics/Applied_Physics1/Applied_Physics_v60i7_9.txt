@@ -1,0 +1,12 @@
+Organiconinorganic (OI) contact barrier devices have been applied to the study of InP and In0.53Ga0.47As surfaces. The characteristics of these devices differ from OI diodes fabricated using Si or Ge substrates in that the contact barriers for InPbased devices are relatively small (d0.55 eV), and the diode characteristics are governed by a high density of states at the organic/inorganic interface. We present currentvoltage and frequencydependent admittancevoltage characteristics for OI diodes employing 3,4,9,10 perylenetetracarboxylic dianhydride (PTCDA) and related compounds as the organic thinfilm material. Analysis of characteristics using a theory presented previously [S. R. Forrest and P. H. Schmidt, J. Appl. Phys. 59, 513 (1986)] indicates that the surface state density is (i) independent of the organic material employed, and (ii) sensitive to the exposure of the surface to chemical treatment prior to the organic thinfilm deposition. Using techniques derived previously, we determine the magnitude and energy distribution of the density of states at InP and In0.53Ga0.47As surfaces. It is found that the densities of states can vary between mid1011 and 1015 cm2	eV1, depending on the surface treatment employed. Furthermore, some surface treatments result in an organic/In0.53Ga0.47As barrier height that is strongly dependent on applied voltage due to the presence of a high density of interface states.
+
+BARRIER HEIGHT
+SI JUNCTIONS
+SEMICONDUCTOR DIODES
+SURFACE STATES
+INTERFACE STATES
+INDIUM PHOSPHIDES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+ENERGYLEVEL DENSITY
+FABRICATION

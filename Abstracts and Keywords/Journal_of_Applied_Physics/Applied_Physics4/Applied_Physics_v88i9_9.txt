@@ -1,0 +1,9 @@
+Electronic structure calculations predict Ag3AuTe2 to be a small-band-gap semiconductor. Polycrystalline samples of the pure and doped materials have been synthesized, and the physical properties are reported. Thermoelectric power measurements indicate that pure Ag3AuTe2 is a p-type material with a very large room-temperature Seebeck coefficient of 530 ¼V/K. The thermal conductivity is very low, and at room temperature, is lower than that of the best thermoelectrics. The transport properties were found to be very sensitive to chemical doping and nonstoichiometry. Although samples made with excess Ag resulted in improved thermoelectric performance at higher temperatures (&gt;500 K), the large resistivity of these materials makes them noncompetitive with state-of-the-art thermoelectrics. © 2000 American Institute of Physics. 
+
+thermoelectric power
+thermal conductivity
+silver compounds
+gold compounds
+band structure
+narrow band gap semiconductors
+Seebeck effect

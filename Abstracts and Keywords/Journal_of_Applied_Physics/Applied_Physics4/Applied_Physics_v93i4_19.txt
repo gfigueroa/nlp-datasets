@@ -1,0 +1,9 @@
+A spectroscopic JuddOfelt investigation has been performed on Er3+ in the doubly doped phosphate glass:Er3+, Yb3+ in order to assess its potential as a laser system. The standard JuddOfelt model was applied to the room-temperature absorption intensities of Er3+(4f11) transitions to determine the intensity parameters: ©2=6.28×1020 cm2, ©4=1.03×1020 cm2, and ©6=1.39×1020 cm2 in the phosphate glass host. The intensity parameters are used to determine the radiative decay rates (emission probabilities of transitions) and branching ratios of the Er3+ transitions from the excited-state J manifolds to the lower-lying J2 manifolds. The radiative lifetimes of these excited states are determined from the radiative decay rates. The predicted decay rates and radiative lifetimes are compared to those of Er3+ transitions in other glass hosts. The quantum efficiency of the eye-safe laser transition 4I13/2’4I15/2 (1.54 ¼m) of Er3+ is approximately 80% in the phosphate glass host. © 2003 American Institute of Physics. 
+
+phosphate glasses
+erbium
+ytterbium
+Judd-Ofelt theory
+visible spectra
+impurity absorption spectra
+solid lasers

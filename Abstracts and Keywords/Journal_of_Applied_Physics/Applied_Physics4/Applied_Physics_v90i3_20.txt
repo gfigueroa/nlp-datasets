@@ -1,0 +1,5 @@
+The common description of the electrostatic force, F(x)=qÕ(x), provides an incomplete description of the force on the charge q at a point x when the charge itself induces additional fields, e.g., image charges, polarizations, etc. The equation may be corrected through the introduction of a pseudopotential formalism. Exploration of some of the elementary properties of the pseudopotential demonstrates its essential simplicity. This simplicity allows it to be incorporated directly into dynamics calculations. We explicitly evaluate the pseudopotential in a number of simple but important cases including the sphere, parallel plates, the rectangular prism, and the cylindrical box. The pseudopotential formalism may be expanded to include extended charge distributions; in this latter form we are able to directly apply the results to experimental measurements. © 2001 American Institute of Physics. 
+
+electrostatics
+surface charging
+pseudopotential methods

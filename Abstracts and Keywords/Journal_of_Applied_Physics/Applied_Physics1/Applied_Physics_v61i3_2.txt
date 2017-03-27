@@ -1,0 +1,15 @@
+We present the first results of thermal energy He scattering by an heteroepitaxial system, namely Pb on Cu(100). The intensity of the specularly reflected He beam as a function of the coverage of Pb is sensitive to disordered adsorption, to the ordering of the overlayer, and to threedimensional cluster growth. Quantitative information, such as the number of random vacancies in the asdeposited monolayer, can be obtained. The large differences in the cross sections for diffuse scattering between Pb adatoms on the Cu terraces and on the steps have been used to determine the heat of twodimensional vaporization of Pb atoms from step to terrace sites.
+
+ATOM COLLISIONS
+COLLISIONS
+LAYERS
+LEAD
+CRYSTAL GROWTH
+SCATTERING
+COPPER
+ADSORPTION
+SORPTIVE PROPERTIES
+HELIUM
+EPITAXY
+CRYSTAL DEFECTS
+VACANCIES

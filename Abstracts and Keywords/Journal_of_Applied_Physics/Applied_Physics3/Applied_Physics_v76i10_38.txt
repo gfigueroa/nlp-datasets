@@ -1,0 +1,9 @@
+Our present understanding of the giant magnetoresistance observed in magnetic multilayered structures is based on the premise that the layers are either monodomains or that the sizes of the domains are much larger than all other length scales (mean free path, spindiffusion length, and layer thickness) relevant to the magnetoresistance. We extend our theory of magnetoresistance to include multilayers with small inplane domains where there is the possibility that their size may be limited by columnar growth. We study magnetoresistance in the presence of inplane domains both for the current parallel and perpendicular to the plane of layers. The domain boundaries introduce additional scattering and the direction of the internal current will be different from that of the driven current. In the presence of spindependent scattering, a transverse spin current develops so that the current in each of the spin channels is mixed even without spinflip processes. Analytical expressions will be given for limiting cases where the mean free path is either much larger or much smaller than the layer thickness and the domain size. We find that the domain size is a relevant length scale and contributes to the spin diffusion length »sdl in the equations that govern the spin diffusion attendant to charge transport in magnetic multilayers. If one does not know the domain structure, nor the amount of spinflip scattering, both mechanisms are equally plausible for producing spin diffusion which suppresses the magnetoresistance for the current perpendicular to the plane of the layers.
+
+MULTILAYERS
+MAGNETORESISTANCE
+DOMAIN STRUCTURE
+SPIN FLIP
+SIZE EFFECT
+MEAN FREE PATH
+ANALYTICAL SOLUTION

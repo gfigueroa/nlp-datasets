@@ -1,0 +1,6 @@
+Spatial relations are used in different fields of image understanding, spatial reasoning, linguistics description of scene and new fields like computing with words. These spatial relations could be used to detect change in a spatial scene, either it is a change in topological structure or a change in metric information. Three type of spatial relations can be described by fuzzy Allen histograms. As motion causes changes in a spatial scene, this change can be detected with the help of spatio-temporal relations. Different qualitative methods are used to detect changes in scene, for each type of relation a separate model is used. In this paper a new method for detecting the change in a spatial scene is proposed. This method becomes important for detecting change when directional and distance information becomes zero in qualitative methods. A histogram of fuzzy Allen relations are used to detect the change in a spatial scene and fuzzy histograms are compared by a similarity measure to detect the change in spatial scene.
+
+Fuzzy histogram of Allen relations
+Quantitative spatial change
+Similarity measure
+Spatio-temporal relations

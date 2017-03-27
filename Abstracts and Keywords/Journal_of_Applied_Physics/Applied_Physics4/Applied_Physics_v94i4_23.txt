@@ -1,0 +1,10 @@
+Passing electric currents through a single crystal of La0.77Ca0.23MnO3 causes a marked decrease in the temperature of the insulatormetal transition, TIM, the TIM decreasing with increasing current. The transition exhibits thermal hysteresis, the magnitude of which increases with an increase in applied current. Large negative electroresistance is observed close to room temperature while large positive electroresistance occurs at low temperatures. Similar results are observed with La0.9MnO3 as well. © 2003 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+ferromagnetic materials
+metal-insulator transition
+electrical conductivity transitions
+electrical resistivity
+hysteresis
+negative resistance

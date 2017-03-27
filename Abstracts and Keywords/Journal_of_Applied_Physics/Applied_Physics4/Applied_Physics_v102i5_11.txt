@@ -1,0 +1,9 @@
+Emission currents have been measured at elevated temperatures for a periodic copper knife-edge cathode. To model the emission process of the cathode, we have combined thermionic and field emission processes. Electron tunneling is calculated using a transfer matrix method. Using this model, we accurately reproduced the experimental deviation and minimum in the ln(J/Eg2) vs 1/Eg plot, where Eg is the gap electric field and J is the emitted current density. This phenomenon has been widely observed but no comprehensive explanation has been put forth. Unambiguous and realistic estimates of the cathode effective field enhancement factor beta averaged (²eff = Esurface/Egap) and effective work function ¦ are obtained from experimental measurements using this model.
+
+copper
+current density
+electron field emission
+thermionic cathodes
+thermionic electron emission
+tunnelling
+work function

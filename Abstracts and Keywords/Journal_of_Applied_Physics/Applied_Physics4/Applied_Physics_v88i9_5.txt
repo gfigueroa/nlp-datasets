@@ -1,0 +1,7 @@
+We have studied the blue-shifted and the red-shifted bands formed in mixed LangmuirBlodgett films of the merocyanine dye (MS)-arachidic acid (C20)-n-octadecane (AL18) ternary system with the molar mixing ratio [MS]:[C20]:[AL18]=1:2:x(0.5fxf5.0). The formation of the blue-shifted and the red-shifted bands depends on the AL18 content, and shows that the aggregation state can be modulated by changing the AL18 content. The observed overlapping spectra of the blue-shifted and the red-shifted bands are deconvoluted into two original bands. The extended dipole model has been applied to examine the aggregation state of MS referring to the deconvoluted spectra. Thus the estimated minimum aggregation number Nmin and the slip angle ± between the long axis of the aggregate and the transition dipole moment are Nmin=40 and ±=30° and Nmin=40 and ±=50° for fully-developed J- and H-aggregates, respectively, seen for xf1.5, and Nmin tends to decrease with increasing x. © 2000 American Institute of Physics. 
+
+Langmuir-Blodgett films
+dyes
+aggregation
+visible spectra
+spectral line shift

@@ -1,0 +1,19 @@
+The thickness dependence of electrical transport and magnetization of ultrathin La0.7Sr0.3MnO3 films has been investigated using epitaxial La0.7Sr0.3MnO3(LSMO)/SrTiO3 multilayers prepared by pulsed laser deposition. Layer thicknesses range from 1.9 to 10 nm for both constituents. Microstructural characterization by x-ray diffraction and transmission electron microscopy has confirmed a well-defined superlattice structure, coherent growth, and fairly smooth interfaces of the samples. Magnetization measurements show a pronounced drop of the ferromagnetic Curie temperature below a LSMO thickness of d=3
+nm, accompanied by a strong rise of the coercive field. The in-plane electrical transport changes from metallic (d¡/dT&gt;0) to insulating at d<2.3
+nm. Three different types of magnetoresistance (MR) have been observed for d&lt;3
+nm. In the sequence of decreasing d, the first resembles the grain boundary MR of polycrystalline LSMO, the second is positive, and the third is associated with a magnetic field-induced insulator-to-metal transition. Magnetic and transport results are discussed in the framework of a mixed-phase state of ferromagnetic metallic and less magnetically ordered insulating clusters in the ultrathin LSMO films. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+metal-insulator transition
+colossal magnetoresistance
+magnetic multilayers
+magnetisation
+pulsed laser deposition
+transmission electron microscopy
+ferromagnetic materials
+magnetic epitaxial layers
+X-ray diffraction
+Curie temperature
+coercive force
+grain boundaries

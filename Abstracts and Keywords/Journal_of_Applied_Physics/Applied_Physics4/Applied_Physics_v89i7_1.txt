@@ -1,0 +1,11 @@
+We report on a study of the morphological evolution of InAs layers grown on GaAs (001) substrates by molecular-beam epitaxy under In-rich conditions. The surface morphology of the InAs layers is characterized by a feature of islandpit combinations. We show that the vertical sizes of the islands and pits can grow simultaneously beyond the average layer thickness, up to several hundred nanometers. The composition of the islands is found to be ternary InxGa1xAs rather than the expected binary InAs due to intermixing of the layer and substrate materials. We determine that this intermixing is caused by dissociation of the exposed GaAs at the pits, followed by migration of excess Ga atoms and their incorporation into the islands. The density of the islandpit combinations keeps nearly constant for different layer thicknesses. Eventually, as the layer grows beyond a certain thickness, the pits are filled up by the expanding islands, forming a nearly pure island morphology at the growth front. © 2001 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+molecular beam epitaxial growth
+semiconductor growth
+surface topography
+island structure
+surface diffusion
+chemical interdiffusion

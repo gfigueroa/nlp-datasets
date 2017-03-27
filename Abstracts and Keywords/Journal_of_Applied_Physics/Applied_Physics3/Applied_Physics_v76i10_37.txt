@@ -1,0 +1,13 @@
+The structural changes that accompany the development of GMR (giant magnetoresistance) at low (r10 Oe) fields in annealed magnetic multilayers are of current interest because of potential applications of such structures in sensors. In this paper we report a study of the development of GMR in [111]oriented multilayers comprising ferromagnetic films of a mixture of Ag and permalloy (NixFe1x, x<0.8) alternating with Ag spacer films. The multilayers were grown by molecular beam epitaxy (MBE) on Pt(111) seed films on sapphire (0001) substrates at temperatures in the range 20 to 200	°C. The structure of the multilayers was investigated using xray diffraction and electron microscopy. For a series of multilayers grown with nominally identical ferromagnetic and spacer layer thicknesses, the magnetoresistance is found to be strongly dependent on both growth temperature and subsequent annealing temperature. The multilayers exhibited a negative magnetoresistance in the asgrown state which more than doubled when the growth temperature was increased from 20 to 100	°C. However, the highest magnetoresistance (peak 5.6%; maximum slope 0.4% per Oe) was obtained by annealing (at 400	°C) multilayers grown at 100	°C. Transmission electron microscopy studies of such multilayers showed no evidence for discontinuities or penetration of the ferromagnetic films by Ag along grain boundaries. Thus, we conclude that discontinuous or granular multilayers with complete phase separation are not necessary for GMR with low saturation fields.
+
+LAYERS
+MOLECULAR BEAM EPITAXY
+TERNARY ALLOY SYSTEMS
+NICKEL ALLOYS
+IRON ALLOYS
+SILVER ALLOYS
+SILVER
+ANNEALING
+PHASE STUDIES
+MICROSTRUCTURE
+MAGNETORESISTANCE

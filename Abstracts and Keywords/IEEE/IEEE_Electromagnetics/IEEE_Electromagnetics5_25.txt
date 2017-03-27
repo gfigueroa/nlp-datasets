@@ -1,0 +1,9 @@
+We address the source array synthesis problem in a random propagation channel under the different optimization criteria specified for the remote receiving array, namely, the criteria of (i) the output SNR and (ii) the array gain. For the first step, we discuss the optimal schemes for the source excitation and array beamforming by using a general technique of the eigenvalue-eigenvector expansion associated with the normal-mode model of long-range signal propagation in a channel. Then, we develop an adaptive approach to the source array synthesis which is shown to be an iterative correction of the sources excitation coefficients depending on the signal coherence, the receiving array arrangement in a channel, and also on the modal spectrum of the ambient noise interference. Computer simulation is performed for the vertical source and receiving arrays in random-inhomogeneous environments typical for sound propagation in shallow-water channels from the Barents Sea. The results exhibit distinctly a rather high efficiency of the adaptive synthesis algorithms for various sets of the source and environmental parameters including the signal frequency, distance, vertical locations of the sources and receivers.
+
+Source array synthesis
+adaptive techniques
+array gain
+coherence
+random multimode channel
+signal-to-noise ratio
+underwater sound channel

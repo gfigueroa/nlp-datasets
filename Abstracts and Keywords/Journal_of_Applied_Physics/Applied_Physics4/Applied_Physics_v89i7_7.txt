@@ -1,0 +1,13 @@
+We have measured the dependence of the indices of refraction n on alloy composition of Zn1xyMgxCdySe films grown by molecular beam epitaxy on InP substrates for a series of alloy compositions x and y. The compositions of the Zn1xyMgxCdySe thin films were determined by photoluminescence and x-ray diffraction experiments. A prism coupler technique, capable of measuring n with an accuracy of at least 0.1% at discrete wavelengths, was then used to measure n of each of the thin films. In all of the samples, at least three guided modes were observed in the spectrum obtained by the prism coupler method. The accurate values of n obtained by this method show an inverse relationship with respect to their band gaps. In addition, by comparing the n values obtained for the quaternary Zn1xyMgxCdySe alloys with the previously obtained values for the ternary Zn1xCdxSe and Zn1xMgxSe alloys, it is concluded that n of the quaternary system is almost completely dictated by the content of Mg. © 2001 American Institute of Physics.
+
+refractive index
+photoluminescence
+molecular beam epitaxial growth
+semiconductor epitaxial layers
+II-VI semiconductors
+optical dispersion
+X-ray diffraction
+energy gap
+zinc compounds
+magnesium compounds
+cadmium compounds

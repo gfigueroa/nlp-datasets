@@ -1,0 +1,10 @@
+a-b axis-oriented, lanthanum doped Bi4Ti3O12 (BLT) thin films with a TiO2 rutile buffer layer deposited on Pt/Ti/SiO2/Si substrates were grown by the soft chemical method. Butterfly dielectric behavior has been achieved and can be ascribed to the ferroelectric domain switching. The remanent polarization and the coercive voltage for the film deposited on TiO2 buffer layer were 22.2¼C/cm2 and 1.8V, respectively. Random-oriented BLT films showed a reduction in switching polarization when compared to the a-b axis-oriented films. Due to the excellent physical properties, these films are a promising candidate for use in lead-free applications in ferroelectric devices.
+
+bismuth compounds
+lanthanum compounds
+titanium compounds
+ferroelectric thin films
+buffer layers
+ferroelectric switching
+electric domains
+dielectric polarisation

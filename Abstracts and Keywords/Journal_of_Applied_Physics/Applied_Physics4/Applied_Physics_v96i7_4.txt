@@ -1,0 +1,18 @@
+The effect of Au (00.3 wt.	%) on the thermoelectric properties of Bi1Sb3Te6 alloy prepared by a mechanical alloying process has been investigated. The Seebeck coefficient decreased with the Au content. The Seebeck coefficient of a Au-free alloy at room temperature reaches a value of 250¼VK, which is the maximum. The figure of merit value increased with the Au content up to 0.03 wt.	%, because of the increased power factor. The figure of merit value of 0.03 wt.	% Au alloy at room temperature was about 2.8×103/K, the highest value among the prepared alloys. The Hall measurement shows that the carrier concentration increases with the Au content, which explains the reason why the power factor increased. The x-ray diffraction patterns show that the intensities of (1 0 10), (1 1 0), (2 0 5), (0 0 18), (0 2 10), (1 0 19), (1 2 5), and (2 1 10) planes increased with the Au content. The atomic distance of these complex planes is longer than that of the other main plane, and the chemical bonding strength of these complex planes between constitutional elements is weaker than that of other main planes. As a result, a portion of electrons as minor carriers was trapped into the accepted level of Au atoms andor clusters. The fact that Au behaves as an acceptor is confirmed by the x-ray photoelectron spectroscopy observation result; a portion of Au atoms is chemically shifted in contrast to Bi, Sb, and Te atoms, which are not.
+
+bismuth alloys
+antimony alloys
+tellurium alloys
+gold
+mechanical alloying
+sintering
+Seebeck effect
+electron density
+bonds (chemical)
+Hall mobility
+electron mobility
+impurity states
+X-ray diffraction
+X-ray photoelectron spectra
+thermal conductivity
+electrical conductivity

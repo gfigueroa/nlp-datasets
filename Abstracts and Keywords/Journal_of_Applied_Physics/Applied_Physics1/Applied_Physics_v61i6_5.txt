@@ -1,0 +1,17 @@
+The importance of the Nd2Fe14B tetragonal phase to permanent magnet technology has led to the study of systems with rareearth and transitionmetal substitutions. We report on alloys formed by replacing iron with manganese in the Er2Fe14B system. Samples were characterized by xray diffraction, thermal analysis, and magnetization measurements. The 2141 tetragonal lattice type forms for a large fraction of manganese substitution but not the entire range. The Curie temperature decreases rapidly from 560 K for Er2Fe14B to 20 K for alloys with high concentrations of manganese. The spin reorientation temperature also decreases, but not as rapidly. Compensation points were observed in the temperature dependence of the magnetization for intermediate manganese concentrations. The rapid decrease in the magnetization with Mn substitution indicates that, in addition to replacing a Fe moment, Mn lowers the average moment of the remaining Fe atoms. The linear response of the magnetization to the applied field arises from a noncollinear moment structure.
+
+MAGNETIC ANISOTROPY
+MAGNETICPHASE TRANSFORMATIONS
+MAGNETIC STRUCTURE
+ERBIUM ALLOYS
+IRON BASE ALLOYS
+BORON ALLOYS
+XRAY DIFFRACTION
+CURIE POINT
+MAGNETIZATION
+MAGNETIC PROPERTIES
+SPIN ORIENTATION
+CRYSTAL STRUCTURE
+EXPERIMENTAL DATA
+MAGNETIC MOMENTS
+CRYSTALPHASE TRANSFORMATIONS

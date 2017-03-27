@@ -1,0 +1,12 @@
+A survey of results on use of semiconductor-doped glass saturable absorbers for near-infrared passively mode-locked and Q-switched solid-state lasers is presented. Nanosized semiconductor particles (quantum dots) belong to quantum confined systems where motion of an electron and a hole is defined by the finite size of the nanoparticle. Dependence of the excitonic transition energy on the QDs size provides the possibility to tune the absorption of the glasses embedded with such particles to wavelength of specific light source. IV-VI semiconductor QDs (PbS, PbSe) are of interest for IR application due to their narrow band gap and large exciton Bohr radii. These allow for exciton absorption band at the wavelength through 13¼m. Nonlinear optical properties of PbS, PbSe, and CuxSe nanoparticles embedded in glass matrices necessary for saturable absorber applications are analyzed. It is shown that these materials can be efficiently used for passive mode locking and Q switching of solid-state lasers based on Nd3+, Yb3+, Cr4+, Tm3+, and Ho3+ ions emitting through 12.1¼m spectral range.
+
+copper compounds
+IV-VI semiconductors
+laser mode locking
+lead compounds
+nanoparticles
+optical glass
+optical saturable absorption
+Q-switching
+semiconductor quantum dots
+solid lasers

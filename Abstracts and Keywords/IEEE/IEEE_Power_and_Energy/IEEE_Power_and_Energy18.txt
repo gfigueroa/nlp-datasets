@@ -1,0 +1,13 @@
+Synchronized phasor measurements have become a mature technology with several international manufacturers offering commercial phasor measurement units (PMUs) which meet the prevailing industry standard for synchrophasors. With the occurrence of major blackouts in many power systems around the world, the value of data provided by PMUs has been recognized, and installation of PMUs on power transmission networks of most major power systems has become an important current activity. This paper provides a brief introduction to the PMU and wide-area measurement system (WAMS) technology and discusses the uses of these measurements for improved monitoring, protection, and control of power networks.
+
+Electrical transients
+global positioning system
+phasor
+phasor measurement unit
+power system
+power system control
+power system monitoring
+power system protection
+real-time measurements
+synchronized measurements
+synchrophasor

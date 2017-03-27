@@ -1,0 +1,12 @@
+Laser ablation of bulk hightemperature superconductor (HTS) material provides a useful means of producing highquality HTS thin films. Mass spectrometric probes of the ablation plume provide a microscopic understanding of the ablation event and plume development as well as providing a process monitor for the thinfilm production. Resonance ionization mass spectrometry (RIMS) detection of the ablated neutral species supplies valuable physical information about the ablation event necessary for developing models of the process. Timeofflight/RIMS detection of Cu, Y, and BaO ablated from YBa2Cu3O7x indicates the ablation involves postdesorption gas phase collisions, which influence the ablation chemistry and dynamics (e.g., angular and velocity distributions). Approximately equal velocities are observed for all neutral species at constant ablation laser fluence. In addition, BaO exhibits a rotational temperature far less than the directed translational temperature.
+
+ABLATION
+RESONANCE IONIZATION MASS SPECTROSCOPY
+LASER RADIATION
+SUPERCONDUCTING FILMS
+COPPER OXIDES
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER
+YTTRIUM
+HIGHTC SUPERCONDUCTORS

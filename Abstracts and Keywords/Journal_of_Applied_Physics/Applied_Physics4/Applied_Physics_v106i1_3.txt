@@ -1,0 +1,12 @@
+An analytical model for the pyroelectric (PY) effect under open circuit condition and 2-2 connectivity laminates of various pairs of PY and nonpyroelectric (NP)/elastic materials has been developed. It is evident from our analysis that there indeed is a substantial dissimilarity between the PY coefficients and figure of merit for efficiency for various PY-NP pairs under short circuit and open circuit conditions. We believe this implies that there should be a greater distinction made between the PY coefficients under these two electrical conditions than previously thought. The indicators for various PY-NP material pairs that can be utilized to determine their PY coefficient enhancement potential under open circuit condition have been identified. The investigated PY materials are lead zirconate titanate (PZT-5H and PZT-5A), barium titanate, lithium tantalate, lithium niobate, and polyvinylidene fluoride (PVDF), while the NP materials are stainless steel, polytetrafluoroethylene (PTFE or Teflon), chlorinated polyvinyl chloride thermoplastic (CPVC), aluminum, zinc, and Invar 36. Extraordinarily large PY coefficient of 97×104C	m2	K1 at minimum thickness ratio Rmin is expected for PZT-5H-CPVC pair while PVDF-CPVC could show increase in the secondary PY coefficient of up to 350%. In addition, where the figure of merit for efficiency is concerned, for the same volume of the composite PZT-5A-PTFE pair it reaches 24, a 24-fold increase in efficiency at Rmin. Our analysis techniques should provide a methodological way for appraising the potentials of particular PY material and its 2-2 laminates for applications under open circuit condition such as PY X-ray generation, electron accelerator, and nuclear fusion.
+
+aluminium
+barium compounds
+iron alloys
+lead compounds
+lithium compounds
+nickel alloys
+polymers
+pyroelectricity
+stainless steel
+zinc

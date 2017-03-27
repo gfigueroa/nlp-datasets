@@ -1,0 +1,15 @@
+Computer simulations of microwave coupling to a nitrogenbreakdown plasma have been performed at 25 Torr. Nonhydrodynamic ionization fronts are observed to propagate toward the radiation source under a variety of circumstances. Freenitrogenbreakdown simulations in a spherical system show the propagation velocity of the breakdown wave can be as high as 5×106 cm/sec. An elementary theory is used for estimating the speed of the breakdown wave in one dimension. The results are in reasonable agreement with breakdown experiments.
+
+nitrogen
+plasma
+breakdown
+microwave radiation
+coupling
+computerized simulation
+low pressure
+experimental data
+hydrodynamics
+ionization
+spherical configuration
+mathematical models
+theoretical data

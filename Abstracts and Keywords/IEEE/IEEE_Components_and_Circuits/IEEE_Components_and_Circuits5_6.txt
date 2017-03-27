@@ -1,0 +1,6 @@
+REconfigurable POlymorphic MOdule (REPOMO) will be a new reconfigurable chip intended for experimental applications of evolvable and polymorphic hardware. In this paper, we analyze various reconfiguration options for this platform with the aim of finding such a reconfiguration subsystem which maximizes the success rate of evolutionary circuit design conducted using REPOMO. An interesting outcome of this analysis is that a relatively high success rate of evolutionary design can be achieved using relatively simple reconfiguration options which have to be implemented in hardware. These results are also relevant for evolutionary circuit design which is performed using Cartesian Genetic Programming.
+
+cartesian genetic programming
+polymorphic hardware
+reconfigurable hardware
+reconfigurable polymorphic module

@@ -1,0 +1,7 @@
+Breast cancer is the most commonly diagnosed and the second leading cause of cancer death among women. In this paper we have proposed a multi stage system for detection of microcalcification using adaptive algorithms. Conventional image processing techniques do not perform well on mammographic images. The large variation in feature size and shape reduces the effectiveness of classical fixed neighborhood techniques, such as unsharp masking[1]. Thus a technique is used, which adapts to image features, and enhances these features with respect to their surroundings, regardless of the feature shape and size. The raw images are pre-processed followed by segmentation and classification based on their shape. The entire system resembles an Artificial Intelligence (AI) because each adaptive algorithm learns trains and performs on test images. For instance in this paper, for segmentation of images, Color Labeling Algorithm (CLA) is used, which comes under supervised learning type via a Graphical Programming Language technique. Calcified regions are classified more accurately by this system.
+
+Adaptive algorithm
+Artificial Intelligence
+Color Labeling Algorithm (CLB)
+Microcalcification
+Supervised Learning

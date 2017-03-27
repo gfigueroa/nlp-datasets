@@ -1,0 +1,14 @@
+Zinc phosphide (Zn3P2) thin films have been deposited by hotwall deposition technique on glass substrate, and the deposition behaviors as well as structural properties of deposited films are studied. The source temperature and the temperature difference between source and substrate mainly affect the growth rate. Scanning electron microscope observation indicates the growth of columnar structure perpendicular to the substrate, and highly oriented thin films along the c axis are confirmed by xray diffraction analyses. The resistivity of the films is strongly related to the phosphorus composition X in Zn(1X)PX, and the films having higher X show lower resistivity. The direct absorption edge is obtained as about 1.5 eV from the optical absorption data.
+
+ZINC PHOSPHIDES
+VAPOR DEPOSITED COATINGS
+VACUUM COATING
+SCANNING ELECTRON MICROSCOPY
+XRAY DIFFRACTION ANALYSIS
+FILM GROWTH
+THIN FILMS
+ELECTRIC CONDUCTIVITY
+ABSORPTION EDGE
+CRYSTAL STRUCTURE
+GLASS
+CHEMICAL COMPOSITION

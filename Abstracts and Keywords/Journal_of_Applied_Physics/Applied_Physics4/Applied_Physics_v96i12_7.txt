@@ -1,0 +1,10 @@
+The dark conductivity and Hall mobility of hydrogenated silicon films deposited varying the silane concentration f=SiH4(SiH4+H2) in a conventional plasma enhanced chemical vapor deposition system have been investigated as a function of temperature, taking into account their structural properties. The electrical properties have been studied in terms of a structural two-phase model. A clear transition from the electrical transport governed by a crystalline phase, in the range 1%}f}3%, to that controlled by an amorphous phase, for f&gt;3%, has been evidenced. Some metastable effects of the dark conductivity have been noticed.
+
+silicon
+elemental semiconductors
+amorphous semiconductors
+semiconductor thin films
+semiconductor growth
+plasma CVD
+Hall mobility
+dark conductivity

@@ -1,0 +1,14 @@
+Light ion diodes for producing 1100 TW ion beams are required for inertial confinement fusion. The theory, numerical simulations, and experiments on a selfmagnetically insulated ion diode are presented. The treatment is from the point of view of a selfmagnetically insulated transmission line with an ion loss current and differs from the usual treatment of the pinched electron beam diode. The simulations show that the ratio V/IZ0=0.25 in such a structure with voltage V, local total current I, and local vacuum wave impedance Z0. The ion current density is enhanced by a factor of approximately 2 over the simple spacecharge limited value. The simulation results are verified in an experiment. An analytical theory is then presented for scaling the results to produce a focused beam of protons with a power of up to 1013 W.
+
+DIODE TUBES
+MAGNETIC INSULATION
+IONS
+ION BEAMS
+INERTIAL CONFINEMENT
+FUSION REACTIONS
+MATHEMATICAL MODELS
+SIMULATION
+THEORETICAL DATA
+CURRENT DENSITY
+COMPARATIVE EVALUATIONS
+SCALING LAWS

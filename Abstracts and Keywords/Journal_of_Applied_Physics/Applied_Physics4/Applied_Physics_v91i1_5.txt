@@ -1,0 +1,12 @@
+The mechanical properties of InSe and GaSe single crystals have been studied by means of nanoindentation tests. Both bulk crystals are well ordered and present a predominant ³-type interlayer stacking sequence as determined by x-ray diffraction and transmission electron microscopy measurements. The course of plastic deformation induced in the crystals by application of a definite shear stress through the penetration of a Berkovich tip indicates that the deformation occurs predominantly by pop-in events along easy slip directions having a fairly elastic character between displacements. Hardness anisotropy along crystal axes is clearly seen and the measured elastic modulus presents a discrepancy smaller than 5% in comparison with theoretical calculations performed using previous experimental values of the elastic constants. © 2002 American Institute of Physics.
+
+indium compounds
+gallium compounds
+III-VI semiconductors
+transmission electron microscopy
+plastic deformation
+X-ray diffraction
+microhardness
+indentation
+elastic moduli
+slip

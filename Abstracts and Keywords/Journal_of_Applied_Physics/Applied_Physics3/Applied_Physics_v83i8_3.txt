@@ -1,0 +1,15 @@
+We present measurements of the optical transmission and reflection performed at room temperature in the range from 0.2 to 3.5 eV on highly oriented PrBa2Cu3Oy films for oxygen contents between y = 6.3 and 6.9. The spectra are discussed in terms of the absorption coefficient, determined directly from the measured transmission and reflection spectra. Three optical absorptions are resolved. For the oxygen content y = 6.3, the absorption spectrum shows a gap of 1.1 eV, in good correspondence with the charge transfer gap of 1.21 eV determined from the high temperature conductivity. This energy gap decreases with oxygen content, but still exists for the oxygen content y = 6.9. The electronic structure of the PrBa2Cu3Oy system is discussed within a semiconductor model in which the excess oxygen acts as an acceptor. © 1998 American Institute of Physics.
+
+praseodymium compounds
+barium compounds
+semiconductor materials
+infrared spectra
+visible spectra
+ultraviolet spectra
+band structure
+absorption coefficients
+energy gap
+light transmission
+reflectivity
+semiconductor thin films
+stoichiometry

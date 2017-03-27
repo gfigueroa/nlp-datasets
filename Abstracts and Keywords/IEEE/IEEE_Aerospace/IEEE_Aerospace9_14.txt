@@ -1,0 +1,7 @@
+While there has been a nominal effort to develop automatic target recognition (ATR) technologies for military systems for the last couple of decades, there have been relatively few significant breakthroughs. At the same time, the evolution of some of our missions has made it more desirable to achieve solutions from this technology to meet some of the escalating operational challenges. This paper is intended to identify and characterize some areas where ATR algorithms might materially improve our operational capability
+
+Automatic Target Recognition
+Reconnaissance
+Strike
+Surveillance
+Weapon Guidance

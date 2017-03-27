@@ -1,0 +1,13 @@
+Erbium (III) oxide nanocrystals prepared using the inverse microemulsion technique were dispersed in solgel TiO2/³-glycidoxypropyltrimethoxysilane (GLYMO) composite thin films at low temperature. X-ray diffraction analysis and transmission electron microscopy observation show that the erbium (III) oxide nanoparticles have a nanocrystalline structure and their size is in the range from 5 to 30 nm. A relatively strong room-temperature photoluminescence (PL) was observed at 1.531 ¼m with a full width at half-maximum (FWHM) of 22 nm. The shape, peak position, and FWHM of the PL curve from the composite thin films are quite comparable to those prepared by other methods. The PL peak of the composite thin film reached a maximum intensity after a heat treatment at 300
+°C. Fourier transform infrared results show that water and hydroxyl groups are present in the films and are responsible for the luminescence peak intensity reduction of the films heated at higher temperature. © 2001 American Institute of Physics. 
+
+erbium compounds
+nanostructured materials
+photoluminescence
+sol-gel processing
+composite materials
+X-ray diffraction
+transmission electron microscopy
+Fourier transform spectra
+infrared spectra
+heat treatment

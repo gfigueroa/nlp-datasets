@@ -1,0 +1,7 @@
+In situ uniaxial compression experiments on Pb(Zr,Ti)O3 or PZT-based polycrystalline electroceramics were conducted using time-of-flight neutron diffraction. Elastic lattice strain and texture evolution were observed in PZTs near the edge of the morphotropic phase boundary (with tetragonal and rhombohedral phases present). Multiphase Rietveld analysis yielded anisotropic lattice strain evolution curves in directions parallel and perpendicular to the loading axis for both phases. A quantitative analysis of the domain switching under applied stress was possible through application of a MarchDollase model for texture. © 2003 American Institute of Physics. 
+
+lead compounds
+ferroelasticity
+neutron diffraction
+ferroelectric ceramics
+texture

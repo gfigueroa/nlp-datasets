@@ -1,0 +1,8 @@
+Ge-doped ZrO2 thin films are prepared on SiON/Si substrates by atomic oxygen beam deposition. It is shown that, at low growth temperatures (225360	°C) and by using only a low amount of Ge (36.2 at.	%), it is possible to develop a pure tetragonal zirconia phase, which remains stable after 1050	°C annealing in N2. The dielectric permittivity (k) shows pronounced correlation with the structural details of the oxide film and is increasing with Ge content to a maximum value of 37.7, which is obtained for a 6.2 at.	% Ge-doped sample grown at 225	°C. The dielectric permittivity enhancement upon doping is attributed to the increase in the ZrO2 tetragonal distortion, as inferred from x-ray diffraction data. Obtaining tetragonal ZrO2 with very high k-values at low deposition temperatures and with excellent thermal stability could be beneficial for the integration of this dielectric in scaled devices requiring low equivalent oxide thickness.
+
+germanium
+high-k dielectric thin films
+permittivity
+thermal stability
+vacuum deposition
+zirconium compounds

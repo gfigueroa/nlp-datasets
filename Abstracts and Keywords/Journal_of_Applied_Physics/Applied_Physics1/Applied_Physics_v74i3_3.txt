@@ -1,0 +1,14 @@
+The highfield electrical properties of ferroelectric leadlanthanumtitanate (PLT) thin films deposited by multiionbeam reactive sputtering are presented. Spacechargelimited (SCL) conduction theory incorporating the effects of electron traps is used to explain the currentdensity dependence on applied voltage. Three conduction mechanisms, ohmic, SCL, and trapfilled limited (TFL), were observed with increasing applied potential. Increasing excess PbO content in PLT films increases the absolute current density measured in all three conduction regions and decreases the potential required for the transition between ohmic conduction and SCL conduction. Electron trap density is increased with the addition of La, resulting in increased voltages for the transition between SCL and TFL conduction. Permittivity and polarization hysteresis behavior is interpreted by considering the conduction contributions under linear lowfield conditions and nonlinear highfield conditions. Hysteresis loop frequency dependence, asymmetry, and offcenter shift from the zerofield and zeropolarization origin arise from conduction contributions and nonlinear internal fields, which are explained by applying SCL theory. Pulse switching results, which eliminate conduction contributions, are compared with normal SawyerTower hysteresis loop measurements of the remanent polarization.
+
+THIN FILMS
+LANTHANUM COMPOUNDS
+LEAD TITANATES
+QUATERNARY COMPOUNDS
+ELECTRICAL PROPERTIES
+REACTIVE SPUTTERING
+NONLINEAR PROBLEMS
+FERROELECTRIC MATERIALS
+TRAPS
+IV CHARACTERISTIC
+PERMITTIVITY
+HYSTERESIS

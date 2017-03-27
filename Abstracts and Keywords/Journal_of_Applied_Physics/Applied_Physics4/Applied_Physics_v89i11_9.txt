@@ -1,0 +1,18 @@
+Polycrystalline CdTe thin films, with oxygen concentrations (x) in the range of 0.0115 at.
+%, were grown at room temperature on 7059 Corning glass by means of the rf sputtering method. For low oxygen concentrations (x}0.3
+at.
+%) the CdTe develops compressive stress during growth, making the films mechanically unstable. The stress normally relaxes when films are exposed to air, making stable films. In some cases, in films with low oxygen concentration, the stress relaxes abruptly immediately after they are exposed to air, and this results in either some fractures or in a loud explosive cracking of the film. In the latter case, the film is reduced to small pieces and violently dispersed over a wide area. Surface images of the fractures, obtained by atomic force microscopy, show detachment and liftup of the films in the regions adjacent to fractures. This indicates that the films were originally under compressive stress. Values of x in the bulk of the films were measured by means of Auger mass spectroscopy. The functional dependence of the crystalline structure, interplanar distance, grain size and band gap of the films on the oxygen content is studied. © 2001 American Institute of Physics. 
+
+cadmium compounds
+oxygen
+II-VI semiconductors
+semiconductor thin films
+sputter deposition
+stress relaxation
+internal stresses
+crystal structure
+grain size
+energy gap
+Auger effect
+atomic force microscopy
+fracture

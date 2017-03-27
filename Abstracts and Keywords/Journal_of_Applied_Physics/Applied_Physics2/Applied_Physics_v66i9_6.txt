@@ -1,0 +1,10 @@
+Experiments were conducted in which a highpower CO2 TEA laser interacted with metallic cathode in a highvacuum (108 Torr) diode. For power densities lower than 5×107 W/cm2, no current was detected. For power densities in the range of 5×1075×108 W/cm2, the Cu cathode emitted a maximum current of 40 mA. At a higher power density level, a circuitlimited current of 8 A was detected. The jump of a few orders of magnitude in the current is attributed to breakdown of the diode gap. The experimental results are similar to those of a triggered vacuum gap, and a thorough comparison is presented in this paper. The influence of the pressure in the vacuum chamber on the current magnitude shows the active role that adsorbed gas molecules have in the initial breakdown. When the cathode material was changed from metal to metal oxide, much lower laser power densities were required to reach the breakdown current region.
+
+CARBON DIOXIDE LASERS
+METALS
+CATHODES
+INTERACTIONS
+DIODE TUBES
+ULTRAHIGH VACUUM
+ELECTRIC CURRENTS
+BREAKDOWN

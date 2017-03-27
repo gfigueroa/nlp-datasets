@@ -1,0 +1,7 @@
+Hugoniot measurements were performed on aluminum (6061-T6) in the stress range of 100500 GPa (15 Mbar) using a magnetically accelerated flyer plate technique. This method of flyer plate launch utilizes the high currents, and resulting magnetic fields produced at the Sandia Z Accelerator to accelerate macroscopic aluminum flyer plates (approximately 12×25	mm in lateral dimension and <300 ¼m in thickness) to velocities in excess of 20 km/s. This technique was used to perform plate-impact shock-wave experiments on aluminum to determine the high-stress equation of state (EOS). Using a near-symmetric impact method, Hugoniot measurements were obtained in the stress range of 100500 GPa. The results of these experiments are in excellent agreement with previously reported Hugoniot measurements of aluminum in this stress range. The agreement at lower stress, where highly accurate gas gun data exist, establishes the magnetically accelerated flyer plate technique as a suitable method for generating EOS data. Furthermore, the present results exhibit increased accuracy over the previous techniques used to obtain data in the higher-stress range. This improved accuracy enhances our understanding of the response of aluminum to 500 GPa, and lends increased confidence to the use of aluminum as a standard material in future impedance matching experiments. © 2003 American Institute of Physics. 
+
+aluminium
+equations of state
+shock wave effects
+impact (mechanical)
+railguns

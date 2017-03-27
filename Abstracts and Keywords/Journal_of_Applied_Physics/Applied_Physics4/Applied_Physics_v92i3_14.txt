@@ -1,0 +1,8 @@
+Clear evidence for ballistic transport has been observed at 5 K from silicon vertical transistors with wrap around gates. The effect of channel shape was investigated experimentally and accounted for theoretically by the anisotropy of the Si conduction band. A reduction in conductance and the appearance of multiple steps were observed when a magnetic field was applied perpendicular to the channel. These results were successfully modeled within the effective mass approximation by including the magnetic vector potential and effects due to series resistance and the spin and valley degeneracy. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+field effect transistors
+high field effects
+conduction bands
+effective mass

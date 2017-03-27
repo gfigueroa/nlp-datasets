@@ -1,0 +1,14 @@
+Highfrequency (350750 GHz) generation in submicrometer InP diodes is investigated by modified hydrodynamic and Monte Carlo particle (MCP) techniques. The noise power spectral density Pn in the diode loaded by resistor R and generation spectra Pg in a series resonant RL circuit are calculated using the MCP technique. It is shown that at the biases above the generation threshold the Pn has a peak at the frequency fmax which corresponds to the highest generation frequency at the given R. The excess noise arises in the frequency region where the real part of diode impedance Re	Z has negative values. At the bias below the generation threshold (i.e., when Re	Z is positive over entire frequency range) the Pn(f) has the usual Lorenzian shape. The MCP simulation of Pg for 0.25¼mlength diode shows the Gaussian shape of the spectra at frequencies 517 and 622 GHz. The Pg broadening at higher frequencies is the result of interaction between the selfoscillations at frequency fmax and circuitdriven oscillations.
+
+SEMICONDUCTOR DIODES
+MILLIMETER WAVE RADIATION
+NOISE
+RADIATION SOURCES
+GHZ RANGE
+INDIUM PHOSPHIDES
+MONTE CARLO METHOD
+HYDRODYNAMICS
+POWER SPECTRA
+LINE SHAPE
+SIMULATION
+LINE BROADENING

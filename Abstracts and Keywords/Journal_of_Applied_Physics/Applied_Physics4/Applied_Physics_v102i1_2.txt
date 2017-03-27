@@ -1,0 +1,8 @@
+We developed a rapid measurement system for Brillouin scattering spectroscopy, which requires the data acquisition time of only 100¼s. The optical beating detection system was improved to directly observe and accumulate the incoherent signal carrying the information of the power spectrum of the scattered light. The temporal evolution of the mechanical properties of material can be measured with high time resolution. It is also possible to apply it to the light absorbing sample, since the short time radiating of the laser beam does not cause serious temperature change in the sample. The performance was actually demonstrated for the light absorbing material.
+
+submillimetre wave spectroscopy
+Brillouin spectra
+submillimetre wave spectra
+high-speed optical techniques
+optical sensors
+optical materials

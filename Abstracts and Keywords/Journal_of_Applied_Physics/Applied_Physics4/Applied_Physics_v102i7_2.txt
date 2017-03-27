@@ -1,0 +1,9 @@
+Spall damage in solid materials has been one of the most widely studied shock-induced phenomena for several decades, for both applied and basic scientific motivations. Comparatively, very little data can be found yet about spallation in liquid metals. In a recent paper, we have reported an exploratory investigation of liquid spall in tin samples melted upon laser shocks of very high intensities. Here, we present further experimental results obtained over a lower pressure range, where we focus on the transition from the ductile fracture behavior of solid tin to the cavitating spall expected above melting. This transition is clearly evidenced from both time-resolved free surface velocity measurements and post-test examination of the recovered targets. The drop in tensile strength associated with melting is evaluated from the velocity profiles. Detailed views of the fracture surfaces in the spall craters provide an insight into the cavitation process. Experimental data are compared to preliminary computations to determine the loading pressures and to assess the overall consistency of our interpretation of the results.
+
+ductile fracture
+laser beam effects
+laser materials processing
+liquid metals
+melting
+tensile strength
+tin

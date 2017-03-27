@@ -1,0 +1,10 @@
+We studied the deep photoluminescence (PL) emission in polycrystalline chalcopyrite and orthorhombic AgInS2. In both phases several PL bands were detected at 8 K. On the energy scale these deep PL bands are positioned according to a regular pattern. This is explained as being due to electron-hole recombination within very close deep donor-deep acceptor pairs, with different distances between donor and acceptor defects. The deep donor defect is an interstitial silver Agi and the native deep acceptor defect appears to be situated at the Ag or In place. The two different crystal modifications also cause slightly different distances between donor and acceptor defects in the AgInS2 lattice and, as a result of this, different spectral positions of the deep PL bands. It is shown that these deep localized donoracceptor pairs can be reasonably efficient radiative recombination centers up to distances of 5.3 Å between the deep donor and the deep acceptor and, thus, up to six distinct deep PL bands are visible in AgInS2. The deep donor-deep acceptor pair model is confirmed also by the temperature quenching experiments and by the excitation power dependences. © 2000 American Institute of Physics. 
+
+silver compounds
+indium compounds
+ternary semiconductors
+photoluminescence
+deep levels
+defect states
+impurity states
+electron-hole recombination

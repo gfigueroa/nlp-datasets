@@ -1,0 +1,6 @@
+In this paper, we study the following problem. Given a database and a set of queries, we want to find a set of views that can compute the answers to the queries, such that the amount of space, in bytes, required to store the viewset is minimum on the given database. (We also handle problem instances where the input has a set of database instances, as described by an oracle that returns the sizes of view relations for given view definitions.) This problem is important for applications such as distributed databases, data warehousing, and data integration. We explore the decidability and complexity of the problem for workloads of conjunctive queries. We show that results differ significantly depending on whether the workload queries have self-joins. Further, for queries without self-joins we describe a very compact search space of views, which contains all views in at least one optimal viewset. We present techniques for finding a minimum-size viewset for a single query without self-joins by using the shape of the query and its constraints, and validate the approach by extensive experiments.
+
+Data warehouses
+Distributed systems
+Minimum-size viewsets
+Views

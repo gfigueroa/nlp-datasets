@@ -1,0 +1,19 @@
+We report the use of focused acoustic beams to eject discrete droplets of controlled diameter and velocity from a freeliquid surface. No nozzles are involved. Droplet formation has been experimentally demonstrated over the frequency range of 5300 MHz, with corresponding droplet diameters from 300 to 5 ¼m. The physics of droplet formation is essentially unchanged over this frequency range. For acoustic focusing elements having similar geometries, droplet diameter has been found to scale inversely with the acoustic frequency. A simple model is used to obtain analytical expressions for the key parameters of droplet formation and their scaling with acoustic frequency. Also reported is a more detailed theory which includes the linear propagation of the focused acoustic wave, the coupling of the acoustic fields to the initial surface velocity potential, and the subsequent dynamics of droplet formation. This latter phase is modeled numerically as an incompressible, irrotational process using a boundary integral vortex method. For simulations at 5 MHz, this numerical model is very successful in predicting the key features of droplet formation.
+
+droplets
+radii
+velocity
+liquids
+surfaces
+sound waves
+mhz range 01100
+mhz range 1001000
+focusing
+scaling laws
+analytical solution
+mathematical models
+transmission
+coupling
+numerical solution
+surface tension
+bursts

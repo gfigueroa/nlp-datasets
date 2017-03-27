@@ -1,0 +1,8 @@
+An improved boundary condition treatment for the timedependent Schrödinger equation applied to resonanttunneling diode simulation has been developed. This treatment is halfimplicit, or centered in time, and allows larger time steps than the previous explicit treatment. The method does not complicate the timedependent calculation since the resulting matrix is still tridiagonal.
+
+SCHROEDINGER EQUATION
+TIME DEPENDENCE
+BOUNDARY CONDITIONS
+DIODES
+TUNNEL EFFECT
+SIMULATION

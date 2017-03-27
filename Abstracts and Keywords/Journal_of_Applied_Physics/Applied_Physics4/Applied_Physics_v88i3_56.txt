@@ -1,0 +1,7 @@
+The curves depicting the temperature dependence of the global depolarization curves of poly(2-[naphthylacetyl)oxy]ethyl acrylate), poly(2-[naphthylacetyl)oxy]ethyl methacrylate), and the model compound of the side groups of these polymers, 2-(acetyloxy)-ethyl-(2-naphthylacetate), present ostensible glass-rubber relaxations located at 45, 34, and 53
+°C, respectively. These values are very close to the respective calorimetric glass transition temperatures of these materials. As these substances exhibit a weak dielectric activity in the glassy state, it was possible to determine the components of the complex dielectric permittivity at very low frequencies from partial depolarization curves obtained on these materials in this state. Possible mechanisms responsible for the subglass relaxations are suggested from the comparison of the relaxation behavior of the model compound and the polymers. © 2000 American Institute of Physics. 
+
+polymers
+glass transition
+glass structure
+permittivity

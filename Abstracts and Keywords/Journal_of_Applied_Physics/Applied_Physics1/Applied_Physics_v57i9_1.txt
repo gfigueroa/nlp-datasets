@@ -1,0 +1,16 @@
+A pulsed photothermal method is proposed for the detection of delaminations in layered materials. The surface of the material is heated by a focused laser pulse to a few degrees above the ambient temperature, and the induced thermoelastic displacement is detected by a laser interferometer. Unbonded areas are characterized by their thermoelastic bending behavior, in addition to their thermal expansion, because of the induced temperature gradients both in the radial and axial directions. A theoretical analysis and an experimental investigation of this behavior are described in order to point out the most significant parameters. An application of the nondestructive inspection of Alepoxy honeycomb panels is presented.
+
+LAYERS
+SURFACES
+LASERRADIATION HEATING
+NONDESTRUCTIVE TESTING
+THERMAL EXPANSION
+THERMOELASTICITY
+DISPLACEMENTS
+ALUMINIUM
+EPOXIDES
+LAYERED MATERIALS
+LASERS
+INTERFEROMETRY
+TEMPERATURE GRADIENTS
+BENDING

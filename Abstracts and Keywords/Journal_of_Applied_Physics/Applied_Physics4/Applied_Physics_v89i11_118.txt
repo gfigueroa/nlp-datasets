@@ -1,0 +1,13 @@
+We have investigated Co/Pd multilayers deposited on either Ta or indium tin oxide (ITO) seed layers as a potential perpendicular recording media. We have examined the microstructural evolution of the films deposited on the two different types of seed layers and related it to the magnetic properties of the films. Ta underlayer produces a strong 111	 fiber texture in the multilayer while ITO produces randomly oriented grains. Transmission electron microscopy reveals a microstructure of columnar grains separated by less dense material at the boundaries for the multilayers with an ITO underlayer. However, the less dense material is absent when using a Ta underlayer. The films exhibited strong perpendicular anisotropy and a higher coercivity of <6800 Oe and squareness of <0.99 are obtained for the films deposited on an ITO seed layer. The differences in the value of coercivity and squareness in the films can be correlated with the differences in the evolution of microstructures for different seed layers. © 2001 American Institute of Physics.
+
+cobalt
+ferromagnetic materials
+palladium
+magnetic multilayers
+interface structure
+crystal microstructure
+perpendicular magnetic recording
+texture
+transmission electron microscopy
+perpendicular magnetic anisotropy
+coercive force

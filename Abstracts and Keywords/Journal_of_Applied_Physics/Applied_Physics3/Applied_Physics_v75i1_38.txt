@@ -1,0 +1,14 @@
+Modulationdoped AlxGa1xAs/InyGa1yAs/GaAs singlequantumwell structures have been grown by lowpressure metal organic vapor phase epitaxy and characterized by Hall, CV measurements, and photoluminescence spectroscopy. The use of tellurium instead of silicon as an ntype dopant for AlxGa1xAs increases the electron concentration without decreasing the electron mobility. High freeelectron concentrations of ns=7.5×1012 cm2 (300 K) and ns=3.7×1012 cm2 (77 K), and Hall mobilities of ¼=5470 cm2 (V	s)1 (300 K) and ¼=24	600 cm2 (V	s)1 (77 K) were obtained. The high concentration and mobility product of the channel: ns¼=4.1×1016 (V	s)1 at 300 K and ns¼=9.1×1016 (V	s)1 at 77 K, makes it a preferred choice for highspeed applications.
+
+HETEROSTRUCTURES
+ELECTRON MOBILITY
+ELECTRIC CONDUCTIVITY
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+TERNARY ALLOYS
+VPE
+IV CHARACTERISTIC
+PHOTOLUMINESCENCE
+DOPED MATERIALS
+TELLURIUM ADDITIONS

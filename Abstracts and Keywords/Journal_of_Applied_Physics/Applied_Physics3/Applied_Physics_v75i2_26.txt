@@ -1,0 +1,11 @@
+The HartreeFock treatment of cyclotron resonance (CR) [see A. H. MacDonald, J. Phys. C 18, 1003 (1985)] is generalized by including the correlation contribution to the screening by the electrons. It is found that the CR effective mass m is an oscillatory function of the magnetic field, which is due to the fillingfactordependent dynamic screening of the electronimpurity scattering. It is demonstrated that as the Landau levels are depleted with increasing magnetic field, m has a maximum at halffilling. Similar behavior has also been found in CR absorption of the twodimensional electron gas in a highmobility heterostructure. 	
+
+HETEROSTRUCTURES
+EFFECTIVE MASS
+HARTREEFOCK METHOD
+ELECTRON CYCLOTRONRESONANCE
+SCREENING
+OSCILLATIONS
+MAGNETIC FIELD EFFECTS
+ELECTRONIMPURITY INTERACTIONS
+LANDAU LEVELS

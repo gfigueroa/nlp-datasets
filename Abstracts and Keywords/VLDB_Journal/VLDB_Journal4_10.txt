@@ -1,0 +1,5 @@
+Fibonacci is an object-oriented database programming language characterized by static and strong typing, and by new mechanisms for modeling databases in terms of objects with roles, classes, and associations. A brief introduction to the language is provided to present those features, which are particularly suited to modeling complex databases. Examples of the use of Fibonacci are given with reference to the prototype implementation of the language.
+
+data models
+database programming languages
+objects with roles

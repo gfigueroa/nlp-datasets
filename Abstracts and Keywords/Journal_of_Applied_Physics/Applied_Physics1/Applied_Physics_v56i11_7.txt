@@ -1,0 +1,8 @@
+An electronic analog simulation of two coupled superconducting microbridges is shown to give similar results to the numerical solution. For strongly coupled microbridges some new phenomena are revealed. Strongly coupled thinfilm microbridges were prepared by a new technique and their currentvoltage characteristics confirm some of the predictions that are indicated by the analog simulation.
+
+SUPERCONDUCTING JUNCTIONS
+SIMULATION
+THIN FILMS
+FABRICATION
+ELECTRIC CONDUCTIVITY
+COUPLING

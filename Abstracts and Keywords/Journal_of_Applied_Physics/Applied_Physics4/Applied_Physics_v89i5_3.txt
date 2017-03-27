@@ -1,0 +1,5 @@
+To evaluate the reported change in the physical and electronic properties of nanomaterials as compared to bulk material, we performed high-pressure Raman spectroscopy on nanocrystalline CeO2 at room temperature up to a pressure of 36 gigapascals (GPa) with and without pressure medium. We observed a linear dependence of the first order Raman signal on pressure. The compression and decompression follow the same path under hydrostatic conditions but show hysteresis (<20 R	cm1) under nonhydrostatic compression and decompression. We found that fluorite type CeO2 undergoes a phase transition to an orthorhombic PbCl2 type structure at a pressure around 26.5 GPa, which is less than that reported for bulk CeO2 (32 GPa). On decompression, we found that the high-pressure phase can exist down to a pressure of 1.8 GPa. The results obtained on compression of sample with CsCl as the pressure medium were compared to that compressed without any medium. © 2001 American Institute of Physics.
+
+cerium compounds
+high-pressure solid-state phase transformations
+Raman spectra

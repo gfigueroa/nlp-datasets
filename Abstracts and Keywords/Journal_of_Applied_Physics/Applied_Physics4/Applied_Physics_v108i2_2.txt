@@ -1,0 +1,12 @@
+Nonequilibrium carrier recombination in highly excited epitaxial layers of 4HSiC and free standing 3CSiC was analyzed numerically and studied experimentally by the time-resolved free carrier absorption (FCA) technique. The measurement setup combined interband carrier excitation by a picosecond laser pulse and probing of carrier dynamics at excess carrier densities in the ”N = 10171020cm3 range by optically or electronically delayed probe pulses, thus providing temporal resolution of 10 ps and 10 ns, respectively. FCA decay kinetics at different excitation levels and subsequent numerical modeling were used to determine the bulk lifetime, surface recombination velocity, and bimolecular (B) and Auger recombination (C) coefficients at 300 K. Bulk lifetimes of < 800ns and < 65ns were determined in 4H and 3C epitaxial layers, respectively. The numerical fitting of FCA kinetics in the 4H layer provided values of B = (1.2±0.4)×1012cm3/s and C = (7±4)×1031cm6/s at lower excitations while the Auger coefficient decreased to C = (0.8±0.2)×1031cm6/s at ”N < 1020cm3 due to screening of the Coulomb-enhanced Auger recombination. In 3C crystals, these values were measured to be B = (2.0±0.5)×1012cm3/s and C = (2.0±0.5)×1032cm6/s. The tendency for a strongly increased surface recombination rate in 3C at high excitation conditions was observed experimentally and associated with the screening of the surface potential by the high density carrier plasma.
+
+Auger effect
+carrier density
+excited states
+high-speed optical techniques
+semiconductor epitaxial layers
+silicon compounds
+surface potential
+surface recombination
+time resolved spectra
+wide band gap semiconductors

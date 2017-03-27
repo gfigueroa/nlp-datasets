@@ -1,0 +1,13 @@
+Enhanced magnetically isotropic properties are observed in meltspun flakes of the Nd2Fe14B(Si) type. The magnetic enhancement, referred to as HIREM, includes a remanent magnetization equal to 89.3 kG (with saturation magnetization measured between 15.2 and 15.7 kG), and an energy product up to 19 MGOe. Both of these properties are significantly above the conventional limits permissible for noninteracting magnetic grains. Microanalysis in an analytical electron microscope (AEM) indicates that there are two requirements for the HIREM phenomenon to arise: (1) a substantial absence of an intergranular phase between the 2141 crystallites, and (2) a specific grain size range. These results support a model for the enhancement resulting from intergrain magnetic exchange coupling.
+
+NEODYMIUM ALLOYS
+IRON ALLOYS
+BORON ALLOYS
+GRANULAR MATERIALS
+MAGNETIC PROPERTIES
+GRAIN SIZE
+ELECTRON MICROSCOPY
+MAGNETIZATION
+PERMANENT MAGNETS
+HYSTERESIS
+XRAY DIFFRACTION

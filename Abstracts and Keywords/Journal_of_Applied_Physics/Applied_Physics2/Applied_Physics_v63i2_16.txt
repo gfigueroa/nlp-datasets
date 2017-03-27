@@ -1,0 +1,18 @@
+Fast realtime ellipsometry is used to study in situ, as a function of the substrate, the growth of the first tens of monolayers of hydrogenated amorphous silicon (aSi:H) deposited by a rf glow discharge of SiH4. The high sensitivity of this technique is illustrated and the early stage of the growth is found to strongly depend upon the nature of the substrate. A nucleation mechanism followed by incomplete coalescence is observed on metal and hydrogenated amorphous germanium (aGe:H) substrates. On the contrary, fused silica (SiO2) and tin dioxide (SnO2) are superficially reduced:		this reduction creates at the interface a mixed layer of aSi:H and silicon oxide on the silica substrate, and produces elemental tin at the surface of the SnO2 substrate. In this last case, tin is found to diffuse in the further aSi:H growing film. On crystalline silicon (cSi), the aSi:H growth shows incomplete coalescence followed by homogeneous growth, probably together with the reduction of the native cSi oxide layer.
+
+INTERFACE STRUCTURE
+SILICA
+SUBSTRATES
+TIN OXIDES
+NUCLEATION
+KINETICS
+GLOW DISCHARGES
+SILANES
+SILICON
+FILM GROWTH
+HYDROGENATION
+GERMANIUM
+AMORPHOUS SEMICONDUCTORS
+SUBSTRATES
+ELLIPSOMETRY
+MONOLAYERS

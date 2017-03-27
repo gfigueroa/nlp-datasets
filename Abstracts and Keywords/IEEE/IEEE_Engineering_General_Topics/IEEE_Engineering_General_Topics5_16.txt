@@ -1,0 +1,7 @@
+RoboCup soccer simulation features the challenges of a fully distributed multi-agent domain with continuous state and action spaces, partial observability, as well as noisy perception and action execution. While the application of machine learning techniques in this domain represents a promising idea in itself, the competitive character of RoboCup also evokes the desire to head for the development of learning algorithms that are more than just a proof of concept. In this paper, we report on our experiences and achievements in applying reinforcement learning (RL) methods in the scope of our Brainstormers competition team within the Simulation League of RoboCup during the past years
+
+RoboCup
+neural networks
+reinforcement learning
+robotic soccer simulation
+single- and multi-agent learning

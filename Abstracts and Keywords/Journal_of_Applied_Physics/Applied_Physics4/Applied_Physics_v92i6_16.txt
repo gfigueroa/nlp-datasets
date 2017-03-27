@@ -1,0 +1,15 @@
+In this article, we observe the optically pumped lasing from the high-quality nanocrystalline ZnO thin films obtained by thermal oxidation of ZnS thin films, which were grown on SiO2 substrates by low-pressure-metalorganic chemical vapor deposition technique. The x-ray diffraction (XRD) patterns indicate that high-quality ZnS films possess a preferred (111) orientation. ZnS has a transformation to ZnO at an annealing temperature (Ta) of 500
+°C, and fully transforms into ZnO at Ta~700
+°C from the XRD patterns. The obtained ZnO films possess a polycrystalline hexagonal wurtzite structure. The fifth-order Raman scattering is observed in the films, which indicates that a large deformation energy exists in the lattice. In photoluminescence (PL), spectra, for all the samples with different annealing temperatures, the near-band-edge (NBE) PL peak has a pronounced blueshift with increasing annealing temperature, while the full width at half maximum (FWHM) decreases gradually. We think that emissions of the bound excitons play an important role in NBE PL. A strong PL with a FWHM of 62 meV at 3.30 eV from NBE has been obtained at room temperature for the samples annealed at 900
+°C. The PL intensity ratio of the ultraviolet emission to the deep-level emission is as high as 98 at room temperature, indicating the high-quality of the nanocrystalline ZnO films. © 2002 American Institute of Physics. 
+
+zinc compounds
+II-VI semiconductors
+semiconductor thin films
+nanostructured materials
+oxidation
+annealing
+photoluminescence
+Raman spectra
+excitons
+semiconductor lasers

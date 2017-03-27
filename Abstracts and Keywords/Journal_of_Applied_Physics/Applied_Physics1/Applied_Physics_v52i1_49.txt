@@ -1,0 +1,20 @@
+In the temperature range 200	+40	°C, polarization echo characteristics of Rochelle salt and LiNbO3 powder are measured. Measurements are carried out on the twopulse echo and the readout echo, which has a transient relaxation process with time constant T1. The results are discussed with consideration of the temperature coefficients of the materials. The study suggests a possible relation between the observed echo characteristics and the material constants. It is found that the origins of echo generation in Rochelle salt and LiNbO3 powder are dominantly the dielectricity and the piezoelectricity, respectively. Furthermore, the transient relaxation for the readout echo is considered to originate in a residual mechanical fluctuation induced in the twopulse sequence application.
+
+REFLECTION
+POWDERS
+SOUND WAVES
+POLARIZATION
+TEMPERATURE DEPENDENCE
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+DATA
+ROCHELLE SALT
+LITHIUM NIOBATES
+TRANSIENTS
+RELAXATION
+TEMPERATURE COEFFICENT
+DIELECTRIC PROPERTIES
+PIEZOELECTRICITY
+MECHANICAL PROPERTIES
+FLUCTUATIONS
+PULSES

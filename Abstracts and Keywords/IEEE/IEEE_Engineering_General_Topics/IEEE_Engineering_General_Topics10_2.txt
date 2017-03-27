@@ -1,0 +1,6 @@
+Since information security threats and their countermeasures change every day, an educational system must continuously be updated to reflect new threats and countermeasures. Therefore, to create scalable and flexible e-learning, Â¿ELSECÂ¿ was developed. ELSEC is an e-learning content-making system whose function is to use animation for information security education. In addition, phishing, which is defined as fraud designed to steal personal information through misleading emails and websites, has increased in recent years. This paper describes the development objectives, structure, and functions of ELSEC, as well as its application to anti-phishing education and evaluation.
+
+anti-phishing education
+e-learning
+information security
+web-learning

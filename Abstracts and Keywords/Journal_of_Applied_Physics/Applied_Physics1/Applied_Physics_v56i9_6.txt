@@ -1,0 +1,8 @@
+The recent formulation by Brittingham [J. Appl. Phys. 54, 1179 (1983)] of a solitary electromagnetic wave called a focus wave mode in terms of three regions with discontinuities is found not to satisfy Maxwells equations across the discontinuities.
+
+SOLITONS
+WAVE PROPAGATION
+MAXWELL EQUATIONS
+ELECTROMAGNETIC RADIATION
+ANALYTICAL SOLUTION
+INHOMOGENEOUS MATERIALS

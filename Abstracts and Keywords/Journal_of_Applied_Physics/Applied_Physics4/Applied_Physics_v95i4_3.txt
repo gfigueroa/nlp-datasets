@@ -1,0 +1,8 @@
+We present a model of tunneling magnetotransport across a ferromagnetic single electron transistor (FM-SET). The model applies the orthodox theory and the Master equation method to describe the stochastic nature of separate tunneling events. The coherent transport of an individual charge through a tunnel barrier is modeled by a free-electron Hamiltonian through a trapezoidal barrier, and a two-band model within the FM electrodes. Single electron charging effect is incorporated into both stochastic and coherent parts of the model. The calculated tunneling resistance Rt is dependent on the thickness and voltage-dependent profile of the tunnel barriers. A bias modulation of the tunneling magnetoresistance (TMR) is obtained with the same period as the Coulomb staircase pattern. This modulation is present even for homogeneous FM-SETs, where each junction is of the same material composition. By contrast, previous studies based on the Julliere model predict total suppression of TMR modulation for such FM-SETs. The TMR modulation is found to be highly dependent on barrier thickness and the material composition of the junctions, implying further adjustable parameters for optimal TMR ratio. Finally, the bias modulation of TMR persists at high temperatures, even though the Coulomb staircase steps have been virtually smeared out. © 2004 American Institute of Physics. 
+
+single electron transistors
+ferromagnetic materials
+tunnelling
+galvanomagnetic effects
+master equation
+stochastic processes

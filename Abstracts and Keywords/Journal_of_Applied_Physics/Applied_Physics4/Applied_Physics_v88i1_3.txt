@@ -1,0 +1,6 @@
+In this article, I describe a method for inverting diffusive photon density images of objects immersed in a turbid medium. A theoretical model for photon diffusion is presented, and an inversion method that uses only a single image, and which is accomplished with only one step, is proposed. The proposed method is applied to images of several objects immersed in milk. The resulting images show greatly increased contrast and resolution over the original uninverted images. © 2000 American Institute of Physics. 
+
+image resolution
+optical transfer function
+inverse problems
+light scattering

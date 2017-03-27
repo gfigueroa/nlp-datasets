@@ -1,0 +1,7 @@
+An apparatus was devised which permits measurement of the evaporative rate of small water drops maintained at constant volume. The surface temperature of the drop was measured with a small thermocouple. Evaporative rates were measured at drop radii ranging from 0.023 to 0.18 cm, with a total of 128 measurements. Mathematical analysis was performed using a multiple curve fitting program for 19 different curves. It was found that a plot of radius against evaporative rate (g/s/mm Hg) is best fit by a parabola with a correlation coefficient of 0.998.
+
+WATER
+DROPLETS
+EVAPORATION
+SURFACE TEMPERATURE
+VOLUME

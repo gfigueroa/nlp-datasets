@@ -1,0 +1,21 @@
+Approaches to the mathematical description of thin film deposition from the gas phase by beam induced polymerization are discussed and compared to experimental results. As an example, deposition from divinyl benzene has been studied using electron as well as ion beams. A suitable combination of experiments under continuous and pulsed irradiation was found to enable the determination of reaction cross sections and time constants. For divinyl benzene the cross section for the activation of polymerization by electrons was found to be 2×1014 cm2. The lifetime of the active centers was found to be about half a second. The charge necessary to deposit a 100nm layer can be lower than 0.15 C/cm2. Ion beam induced polymerization proceeds with much higher efficiency, promising some prospects for its application in microlithography.
+
+films
+deposition
+polymerization
+styrene
+thickness
+electron beams
+ion beams
+mathematical models
+gases
+theoretical data
+comparative evaluations
+experimental data
+irradiation
+pulses
+cross sections
+lifetime
+efficiency
+reaction kinetics
+lithography

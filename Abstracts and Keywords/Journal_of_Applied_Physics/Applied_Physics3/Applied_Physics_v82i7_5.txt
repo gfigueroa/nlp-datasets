@@ -1,0 +1,14 @@
+Using B-dot probes Meyer et al. [J. Appl. Phys. 79, 1298 (1996)] have described a method for calculating the azimuthal current, electric field, plasma permittivity, and electron density in a planar inductively coupled plasma source. They assume the phases associated with the time rate of change of the radial and axial field components to be the same. Furthermore, they restrict their analysis to the situation where the phase is independent of radius. We demonstrate that the phases for the two field directions are different. The subsequent modified forms for the plasma properties considered by Meyer et al. are presented. We also show that their procedure can be extended to cover phases which are an arbitrary function of position, and for completeness, give forms for the generalized plasma properties. © 1997 American Institute of Physics.
+
+plasma production
+plasma probes
+plasma density
+PLASMA
+PROBES
+MAGNETIC FIELDS
+INDUCTION
+ELECTRON DENSITY
+ELECTRIC FIELDS
+PERMITTIVITY
+FARADAY LAWS
+PHASE STUDIES

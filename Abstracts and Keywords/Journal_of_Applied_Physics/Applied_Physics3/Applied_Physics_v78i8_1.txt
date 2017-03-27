@@ -1,0 +1,7 @@
+We report on the drastic effect of a transverse high magnetic field on the lowfrequency current oscillations in semiinsulating GaAs at room temperature, related to the propagation of slow highelectricfield domains. At a critical magnetic field Bc, we find a sharp transition between two ranges of the domain drift velocity, indicating a substantial change in the behavior of the involved deep level. Bc depends linearly on the applied voltage. The amplitude of the current oscillations decreases with increasing magnetic field, which reflects the interaction between the latter and the contact region. © 1995 American Institute of Physics.
+
+DEEP ENERGY LEVELS
+DRIFT VELOCITY
+GALLIUM ARSENIDES
+GUNN OSCILLATORS
+MAGNETIC FIELD EFFECTS

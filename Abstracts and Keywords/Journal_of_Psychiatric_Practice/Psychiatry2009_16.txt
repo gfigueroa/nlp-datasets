@@ -1,0 +1,8 @@
+Objective: This analysis examined dosing patterns and safety of aripiprazole in elderly inpatients. Methods: A total of 52 elderly inpatients treated with aripiprazole over 3 years were retrospectively identified to examine dosing patterns and side effects associated with use of aripiprazole. Results: The most common psychiatric diagnoses in these patients were schizophrenia/schizoaf-fective disorder (29%), bipolar disorder (25%), and major depressive disorder (23%). The median starting and maximum daily doses were 5 mg and 10 mg, respectively. For patients whose dose was titrated upward during the hospitalization, the mean time to the first titration was 3.4 days and the mean time to achieve maximum dose was 5 days. Nine patients (17%) had documented side effects, with agitation/activation the most frequently reported effect (8%). Aripiprazole was continued after hospital discharge in 54% of patients, with most patients receiving 10 to 15 mg/day. Conclusion: Aripiprazole was generally well tolerated, with agitation/activation the most common side effect reported in elderly inpatients. (<em>Journal of Psychiatric Practice</em> 2009;15:150-153). 
+
+aripiprazole
+antipsychotic medications
+side effects
+elderly
+activation
+agitation

@@ -1,0 +1,10 @@
+This paper introduced the MusicPatterns, a musical tabletop application that enables both novice and musically trained users to compose and play music in a creative and intuitive way. We begin with exposing the demanding value to adopt human computer interaction (HCI) into music creation especially for less musically trained users, and then go into literature review to further explore the current approaches of tangible user interface (TUI) as well as live performance simulation and from where our design philosophy will be stated. Then we will introduce the game design and implementation to the Music Pattern. Lastly, an early user's study and discussion will also be included.
+
+intuitive
+melodies
+music
+patterns
+pitch
+tabletop
+tangible
+tempo

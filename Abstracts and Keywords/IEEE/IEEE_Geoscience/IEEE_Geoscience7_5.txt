@@ -1,0 +1,4 @@
+After the successful launching of the SMOS satellite, the first continuous streams of data are being processed and carefully analyzed in the frame of the SMOS In-Orbit Commissioning phase. Results regarding instrument calibration parameters retrieval, both internal and external, and brightness temperature imaging are presented. Images of ocean, ice and land are given as examples.
+
+SMOS
+interferometric synthetic aperture radiometry

@@ -1,0 +1,5 @@
+It has been theoretically predicted for the quasi-equilibrium conditions that at the first relaxation stage two dislocation arrays are formed in the vicinal (1 1 15macr) interface. The slip plane of these arrays is the same $(1 1 1) and Burgers vector directions are [0 2 2] and [2 0 2]. In this paper the investigation results of the stress relieving in GeSi/Si epitaxial heterosystem are presented, it was found that about 30% MDs have (a/2)<sub>[0 2 2]</sub> Burgers vector and 30% - (a/2) [2 0 2] one. The total amount of MDs with (a/2)[0 2 2] and (a/2)[2 0 2] Burgers vector is less than 40% of all registered MDs. This result confirms theoretical data
+
+Topography
+misfit dislocations
+vicinal orientations

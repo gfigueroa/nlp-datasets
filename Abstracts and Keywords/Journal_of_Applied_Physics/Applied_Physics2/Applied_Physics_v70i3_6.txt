@@ -1,0 +1,15 @@
+Effects of phosphorus doping level in the polycrystalline silicon (polysilicon) layer of unannealed as well as annealed WSi2.6polysilicon composite films on the growth kinetics of the tungsten silicide have been investigated by analyses of growth rate of the thermal oxide, depth profiles, and microstructures of the polycide cross section. The behaviors of excess silicon in the tungsten silicide layer during annealing and oxidation as well as the oxidation mechanisms of the siliconrich tungsten silicide have also been studied. For the unannealed tungsten polycides, the activation energy of the linear rate constant decreases with an increase in the phosphorus doping level while the parabolic rate constant is independent of the phosphorus concentration. For annealed tungsten polycides, however, both rate constants are doping level independent. Analysis of the microstructures of the cross section taken by scanning electron microscope clearly indicates that the excess silicon in the silicide layer is consumed first and then the silicon from the underlying polysilicon is consumed during oxidation.
+
+SILICON
+POLYCRYSTALS
+DOPED MATERIALS
+PHOSPHORUS
+TUNGSTEN SILICIDES
+FILMS
+COMPOSITE MATERIALS
+FILM GROWTH
+OXIDATION
+KINETICS
+ANNEALING
+MICROSTRUCTURE
+SCANNING ELECTRON MICROSCOPY

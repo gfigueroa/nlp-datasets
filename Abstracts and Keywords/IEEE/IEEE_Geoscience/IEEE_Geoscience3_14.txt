@@ -1,0 +1,5 @@
+An autoregressive integrated moving average (ARIMA) is one of the popular linear models in time series forecasting during the past three decades. Recently many environmental and socioeconomic time series data can be adequately modeled using the seasonal ARIMA model, also known as seasonal Box-Jenskins approach, and based on the fitted model. this paper presented a general expression of seasonal ARIMA models with periodicity and provide parameter estimation, diagnostic checking procedures to model, and predict PM2.5 data extracted from the California Air Resource Board using seasonal ARIMA models, we show experimental results with Los Angeles long beach PM 2.5 data sets indicate that the seasonal ARIMA model can be an effective way to forecast air pollution.
+
+Air Pollution
+Seasonal ARIMA
+pm2.5

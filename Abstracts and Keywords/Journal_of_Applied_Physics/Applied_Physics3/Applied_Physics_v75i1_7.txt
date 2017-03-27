@@ -1,0 +1,10 @@
+The pressure dependencies of the zerodispersion wavelength »0 for dispersionshifted fiber on the spool and in a submarine lightwave (SL) cabled sample were measured using pressures P up to 10 kpsi. The spool results showed a mean zerodispersion shift d»0/dP of close to +0.04 nm/kpsi. The corresponding shift for the SL cabled fiber was much smaller (less than 0.01 nm/kpsi) and the results were much less reproducible. This was believed to be due to the pressureshielding effect of the cable structure. A theoretical calculation of d»0/dP has been carried out for the unshielded fiber using a twoterm (electronic and lattice) Sellmeier formalism. Assuming the dominant effect to be of fiber material (rather than waveguide design) origin, we find that the electronic and lattice contributions are of opposite sign with a resultant that agrees with experiment to within the combined accuracy of the experiment and theory.
+
+OPTICAL FIBERS
+OPTICAL COMMUNICATION SYSTEMS
+WAVELENGTHS
+PRESSURE EFFECTS
+CABLES
+SUBMARINES
+HIGH PRESSURE
+DISPERSION RELATIONS

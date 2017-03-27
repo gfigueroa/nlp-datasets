@@ -1,0 +1,20 @@
+The piezoelectric properties of relaxor based ferroelectric single crystals, such as Pb(Zn1/3Nb2/3)O3PbTiO3 and Pb(Mg1/3Nb2/3)O3PbTiO3 were investigated for electromechanical actuators. In contrast to polycrystalline materials such as Pb(Zr,Ti)O3, morphotropic phase boundary compositions were not essential for high piezoelectric strain. Piezoelectric coefficients (d33s)&gt;2500	pC/N and subsequent strain levels up to &gt;0.6% with minimal hysteresis were observed. Crystallographically, high strains are achieved for 001	 oriented rhombohedral crystals, although 111	 is the polar direction. Ultrahigh strain levels up to 1.7%, an order of magnitude larger than those available from conventional piezoelectric and electrostrictive ceramics, could be achieved being related to an E-field induced phase transformation. High electromechanical coupling (k33)&gt;90% and low dielectric loss &lt;1%, along with large strain make these crystals promising candidates for high performance solid state actuators. © 1997 American Institute of Physics.
+
+lead compounds
+piezoelectric materials
+internal stresses
+ferroelectric transitions
+dielectric hysteresis
+dielectric losses
+piezoelectric actuators
+ferroelectric devices
+PZT
+NIOBIUM OXIDES
+PIEZOELECTRICITY
+ACTUATORS
+FERROELECTRIC MATERIALS
+STRAINS
+MONOCRYSTALS
+PHASE TRANSFORMATIONS
+HYSTERESIS
+DOMAIN STRUCTURE

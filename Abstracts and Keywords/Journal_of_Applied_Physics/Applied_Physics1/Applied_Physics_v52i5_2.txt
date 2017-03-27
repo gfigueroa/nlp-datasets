@@ -1,0 +1,17 @@
+The optical properties of Kapton type H polyimide film, obtained from reflectance measurements, are presented for photon energies from 0.5 to 70 eV. Equations for the energyloss function, with parameters fixed by the optical data, are employed to calculate mean free paths and stopping powers for lowenergy electrons (100 eV to 10 keV) in Kapton. The values obtained show good agreement with those predicted by recently proposed analytical formulae for electron mean free paths and stopping powers in solid organic insulators.
+
+IMIDES
+POLYMERS
+OPTICAL PORPERTIES
+DATA
+FILMS
+REFLECTIVITY
+EV RANGE
+EQUATIONS
+ENERGY LOSSES
+STOPPING POWER
+SOLIDS
+ELECTRICAL INSULATORS
+COMPARATIVE EVALUATIONS
+MATHEMATICAL MODELS
+THEORETICAL DATA

@@ -1,0 +1,11 @@
+Multilayered Al/CuO thermite was deposited by a dc reactive magnetron sputtering method. Pure Al and Cu targets were used in argonoxygen gas mixture plasma and with an oxygen partial pressure of 0.13 Pa. The process was designed to produce low stress (&lt;50MPa) multilayered nanoenergetic material, each layer being in the range of tens nanometer to one micron. The reaction temperature and heat of reaction were measured using differential scanning calorimetry and thermal analysis to compare nanostructured layered materials to microstructured materials. For the nanostructured multilayers, all the energy is released before the Al melting point. In the case of the microstructured samples at least 2/3 of the energy is released at higher temperatures, between 1036 and 1356 K.
+
+aluminium
+copper compounds
+crystal microstructure
+differential scanning calorimetry
+melting point
+multilayers
+nanofabrication
+nanostructured materials
+sputter deposition

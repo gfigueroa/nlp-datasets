@@ -1,0 +1,6 @@
+We develop a drift-diffusion equation that describes ballistic transport in a nanoscale metal-oxide-semiconductor field effect transistor (MOSFET). We treat injection from different contacts separately, and describe each injection with a set of extended McKelvey one-flux equations [Phys. Rev. 123, 51 (1961); 125, 1570 (1962)] that include hierarchy closure approximations appropriate for high-field ballistic transport and degenerate carrier statistics. We then reexpress the extended one-flux equations in a drift-diffusion form with a properly defined Einstein relationship. The results obtained for a nanoscale MOSFET show excellent agreement with the solution of the ballistic Boltzmann transport equation with no fitting parameters. These results show that a macroscopic transport model based on the moments of the Boltzmann transport equation can describe ballistic transport. © 2002 American Institute of Physics. 
+
+MOSFET
+semiconductor device models
+high field effects
+Boltzmann equation

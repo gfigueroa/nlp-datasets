@@ -1,0 +1,5 @@
+Currentvoltage characteristics of silicon diodes which were found to be ideal at room temperature have been investigated in the range 300400 K. The diodes remain ideal at higher temperatures, too.
+
+SILICON DIODES
+IV CHARACTERISTIC
+HIGH TEMPERATURE

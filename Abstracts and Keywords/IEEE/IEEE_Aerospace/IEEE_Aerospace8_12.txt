@@ -1,0 +1,5 @@
+Nowadays large populations worldwide are suffering from eye diseases such as astigmatism, myopia, and hyperopia which are caused by ophthalmologically refractive errors. This paper presents an effective approach to computer aided diagnosis of such eye diseases due to ophthalmologically refractive errors. The proposed system consists of two major steps: (1) image segmentation and geometrical feature extraction; (2) group sparse representation based classification. Although image segmentation seems relatively easy and straight forward, it is a challenge task to achieve high accuracy of segmentation for images at poor quality caused by distortion during image digitization. To avoid misclassifications by incomplete information, we propose group sparse representation-based classification scheme to classify low-dimensional data which are partially corrupted. The experimental results demonstrate the feasibility of the new classification scheme with good performance for potential medical applications.
+
+Eye disease
+feature extraction
+group sparse classification

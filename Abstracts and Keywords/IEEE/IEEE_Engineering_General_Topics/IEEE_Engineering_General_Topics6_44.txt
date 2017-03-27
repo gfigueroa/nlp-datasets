@@ -1,0 +1,7 @@
+Facial recognition is a form of biometric identification. In recent years there has been an enormous growth in the machine recognition of faces such as film processing, law enforcement, person identification, access control systems etc. In the two dimensional face recognition, one is to find features that are not affected by viewing conditions, angles, and postures are aimed invariant approach. Early face recognition algorithms suggested the invariant approach by finding fiducial points in the internal features such as eyes, nose, mouth and comparing their geometric relations. In the present investigation the mathematical concepts of invariance to transformation is applied. A registration point, tip of the nose is used for normalization. In this recognition procedure, eight points of interest are identified and the angle of incidence of these points make with the registration points are used to recognize the faces. Finally, all the information are combined together to form the feature vector.
+
+Euclidean distance
+Normalization
+feature extraction
+invariant point
+registers pair

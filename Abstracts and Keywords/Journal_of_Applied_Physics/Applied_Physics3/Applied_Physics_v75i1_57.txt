@@ -1,0 +1,12 @@
+The lightemitting properties of rapid thermally oxidized porous Si are studied by both photoluminescence and cathodoluminescence methods. The structure of the material is examined by transmission electron microscopy, while its oxygen content is determined by xray microanalysis. These investigations show that crystalline Si nanostructures remain in the heavily oxidized porous material and account for its <750 nm red photo and cathodoluminescence. The work demonstrates that the previously speculated possible importance of either Sibased amorphous phases or the interesting material, siloxene, in this regard is unrealistic. Furthermore, it is shown that the luminescence properties of silicon oxides are of paramount importance in interpreting the many additional (shorter wavelength) emission bands observed.
+
+SILICON
+POROSITY
+OPTICAL PROPERTIES
+MICROSTRUCTURE
+OXIDATION
+CATHODOLUMINESCENCE
+PHOTOLUMINESCENCE
+TEM
+MICROANALYSIS
+NANOSTRUCTURES

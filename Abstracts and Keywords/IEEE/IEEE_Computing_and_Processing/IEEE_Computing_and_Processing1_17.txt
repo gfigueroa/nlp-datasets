@@ -1,0 +1,7 @@
+We present a computer generated hologram (CGH) based setup for displaying 3D objects. An optically addressed spatial light modulator (OASLM) is used as a display device. By using the OASLM, the diffraction orders caused by the inter-pixel gap of an electrically addressed spatial light modulator (EASLM) can be eliminated. At the same time the viewing angle of reconstructed 3D objects can be enlarged by demagnifying the pixels of the EASLM from 36 mum to 9 mum through high resolution imaging optics. The holograms were computed based on a newly developed algorithm for the display.
+
+3D display
+Computer Generated Hologram
+Electrically Addressed Spatial Light Modulator
+Optically Addressed Spatial Light Modulator
+Viewing Angle

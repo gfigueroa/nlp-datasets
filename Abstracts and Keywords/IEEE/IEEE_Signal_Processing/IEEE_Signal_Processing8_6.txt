@@ -1,0 +1,7 @@
+The use of microphone arrays in speech enhancement applications offer additional features, like directivity, over the classical single-channel speech enhancement algorithms. An often used strategy for multi-microphone noise reduction is to apply the multi-channel Wiener filter, which is often claimed to be mean-squared error optimal. However, this is only true if the estimator is constrained to be linear, or, if the speech and noise process are assumed to be Gaussian. Based on histograms of speech DFT coefficients it can be argued that optimal multi-channel minimum mean-squared error (MMSE) estimators should be derived under super-Gaussian speech priors instead. In this paper we investigate the robustness of these estimators when the steering vector is affected by estimation errors. Further, we discuss the sensitivity of the estimators when the true underlying distribution of speech DFT coefficients deviates from the assumed distribution.
+
+MMSE
+multichannel
+noise reduction
+speech enhancement
+super-Gaussian

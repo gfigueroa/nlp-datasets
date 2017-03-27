@@ -1,0 +1,5 @@
+Video segmentation is a key step for the long videos recorded from Television channels to be represented in the hierarchical structure. In this paper, a novel approach based on acoustic cues for automatic segmenting television stream into individual programs is proposed. This presented method is composed of the following steps: Several sets of repetitions in the audio track is detected by using silence detection and robust audio hashing; The found repetitions are treated as advertisements if the range of their length is from 5 seconds to 120 seconds; Programs are segmented from the recorded TV streams using the detected advertisements. Experiments on real-world TV recordings show the effectiveness of the proposed approach.
+
+Video Segmentation
+audio hashing
+video retrieval

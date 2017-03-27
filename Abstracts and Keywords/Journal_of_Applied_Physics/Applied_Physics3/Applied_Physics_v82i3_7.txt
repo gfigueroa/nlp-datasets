@@ -1,0 +1,10 @@
+Triglycine sulfate-gelatin (TGS-gelatin) films were grown by evaporation of the water from a solution containing gelatin and TGS. The pyroelectric and dielectric properties of the films were highly dependent on their water content. Moist films had higher pyroelectric coefficients and lower coercive fields than dry films. The dielectric permittivity increased strongly with an increase of water content and had a fractional power frequency dependence. The results are explained using a model of the TGS-gelatin film structure in which the gelatin phase is a superionic conductor or solid electrolyte. Absorption of water causes the formation of electric double layers at the electrode film and TGS crystallite-gelatin phase interfaces.© 1997 American Institute of Physics.
+
+moisture
+organic compounds
+pyroelectricity
+permittivity
+sorption
+solid electrolytes
+crystallites
+dielectric thin films

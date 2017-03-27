@@ -1,0 +1,6 @@
+In magnetic relaxor ferroelectrics, for the coupling interaction between the relaxor ferroelectricity and magnetic order, the dielectric susceptibility exhibits a sharp increase around the magnetic phase transition temperature. By adding an appropriate coupling term between the electrical and magnetic subsystems, which is related to the interaction of the Heisenberg spin and the order parameter field, the replica theory based on the spherical random-bond-random-field model and the mean-field theory based on the Heisenberg model are successfully applied to the magnetic relaxor ferroelectrics. We find that the fluctuation of the spin-pair correlation plays an important role in the change of dielectric susceptibility around the magnetic phase transition temperature. The obtained static dielectric susceptibility and the magnetocapacitance are in good agreement with the experimental results.
+
+relaxor ferroelectrics
+optical susceptibility
+magnetic transition temperature
+Heisenberg model

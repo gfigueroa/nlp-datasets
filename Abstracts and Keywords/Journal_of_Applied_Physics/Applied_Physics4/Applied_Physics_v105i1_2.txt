@@ -1,0 +1,12 @@
+Lithium niobate (LN) crystals, in particular after strong oxidation, are of great relevance for applications in photorefraction and nonlinear optics. Crystals doped with 2 or 4 wt	% of iron are studied by extended x-ray absorption fine structure spectroscopy. The Fe atoms are observed to be sixfold coordinated by oxygen atoms and incorporated into the Li site. No evidence for formation of iron oxide clusters is found. In situ x-ray absorption spectroscopy measurements of the thermoelectric oxidation of a LN:Fe 2 wt	% crystal and the analyses of the partially site-selective x-ray absorption near edge structure spectra of a LN:Fe 4 wt	% crystal provide site-selective structural information. We found that the Fe2+ and Fe3+ sites have the same site symmetries and positions in the LN matrix, i.e., the Fe2+ and Fe3+ atoms are both octahedrally coordinated by six oxygen atoms and both occupy the Li site.
+
+doping profiles
+EXAFS
+iron
+lithium compounds
+nonlinear optics
+oxidation
+photorefractive materials
+refractive index
+thermoelectricity
+XANES

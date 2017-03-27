@@ -1,0 +1,8 @@
+This paper elucidates a current measurement method for wide range residual current measurement. The current sensor with this method includes a combination of AMR, GMR and Hall Effect magnetic sensors which have different magnetic field sensing ranges. So the current sensor with this combination can measure wider range of magnetic field than any one of the sensors. The combined current sensors are packaged into a plastic housing with proper arrangement according to their magnetic sensitivity directions, and fixed in an opening /air gap of annular magnetic core. This combined sensor can measure residual current from dozens of milliamperes to up to dozens of Amperes.
+
+AMR
+GMR
+Hall
+combination
+residual current
+sensor

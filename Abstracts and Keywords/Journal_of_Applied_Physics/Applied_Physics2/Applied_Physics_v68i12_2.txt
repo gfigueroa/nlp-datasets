@@ -1,0 +1,11 @@
+The rf residual surface resistance Rres is an important figure of merit for superconducting microwave devices and for establishing the homogeneity of superconducting surfaces. In granular superconductors not only are high residual rf surface resistance values Rres observed but also there is strong field dependence of Rres(T,É,Hrf) and the penetration depth »res(T,É,Hrf), even at very low field levels (of order 1 Oe). These observations can be explained in terms of weak links and insulating interfaces, which provide additional degrees of freedom due to fluxoid motion and electromagnetic stripline modes. These degrees of freedom cause additional interaction mechanisms with applied rf fields. These mechanisms allow a coherent description of the observed T, É, Hrf, and Hdc dependence of Rres and »res for the granular cuprates and for similar effects in Pb, Nb, Nb3Sn, and NbN. In addition, on the basis of such rf data, it is possible to quantify the density of weak links and their critical fields and currents.
+
+WEAK LINKS
+CUPRATES
+GRANULAR MATERIALS
+SUPERCONDUCTIVITY
+MICROWAVE RADIATION
+ELECTRIC CONDUCTIVITY
+MAGNETIC FIELDS
+PENETRATION DEPTH
+MAGNETIC FLUX

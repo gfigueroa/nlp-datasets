@@ -1,0 +1,8 @@
+Recent studies have shown that lithium nonstoichiometry has a tremendous influence on domain reversal characteristics in ferroelectric lithium tantalate. This work presents a systematic study of the domain reversal characteristics such as threshold coercive fields for domain reversal, domain stabilization times, backswitching phenomena, domain switching and wall pinning times, and sideways wall mobility in near-stoichiometric LiTaO3 with Li/(Li+Ta)<0.498. These properties are contrasted with those of congruent LiTaO3 [Li/(Li+Ta)<0.485]. A qualitative model is proposed based on nonstoichiometric dipolar defects to explain the dependence of threshold coercive field on defect density, and on repeated field cycling, the origin of domain backswitching, and domain stabilization times. © 2001 American Institute of Physics. 
+
+lithium compounds
+ferroelectric materials
+stoichiometry
+electric domains
+ferroelectric switching
+electric domain walls

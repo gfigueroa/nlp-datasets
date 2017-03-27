@@ -1,0 +1,6 @@
+In the past, minimal improvements have been predicted for efficiency enhancement of solar cells using the impurity photovoltaic (IPV) effect, where optical excitation through midgap defect levels allows the use of long wavelength photons to increase the conversion efficiency of sunlight to electricity. In the present work, the principle of detailed balance is used to calculate the limiting efficiency of solar cells with the inclusion of the impurity photovoltaic effect, in the idealized case when all transitions are assumed to be radiative. Based on these calculations, the limiting efficiency of the IPV device with a large number of different defect species is determined to be 77.2%. The terrestrial performance of the IPV device is also investigated by comparing its spectral sensitivity with that of tandem solar cell designs. © 2002 American Institute of Physics. 
+
+solar cells
+impurity states
+photovoltaic effects
+defect states

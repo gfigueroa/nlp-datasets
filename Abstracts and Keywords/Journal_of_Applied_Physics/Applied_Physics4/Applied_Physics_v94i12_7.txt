@@ -1,0 +1,10 @@
+Photonic crystal fibers are candidates for enhanced elasto-optical interactions. The acoustic properties of such structures are investigated theoretically by the finite-difference time-domain method, and a full acoustic band gap is found. The transmission spectrum of acoustic waves through a photonic crystal fiber containing one or two coupled cavities is found to be very sensitive to the geometrical and physical parameters of the structure, as well as to the relative position of the two defects. © 2003 American Institute of Physics. 
+
+photonic crystals
+optical fibre theory
+localised modes
+piezo-optical effects
+finite difference time-domain analysis
+acousto-optical effects
+acoustic wave transmission
+acoustic waveguides

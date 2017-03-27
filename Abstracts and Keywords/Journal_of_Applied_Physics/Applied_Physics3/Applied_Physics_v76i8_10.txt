@@ -1,0 +1,13 @@
+Experimental observations of dopant diffusion and defect formation are reported as a function of implant temperature in Si implanted GaAs. The diffusion of Si during postimplant annealing decreases by a factor of 2.5 as the implant temperature increases from 2 to 40	°C. In this same temperature range, the maximum depth and density of extrinsic dislocation loops increase by factors of 3 and 4, respectively. Rutherford backscattering channeling measurements indicate that Si implanted GaAs undergoes an amorphous to crystalline transition at Si implant temperatures between 51 and 40	°C. A unified explanation of the effects of implant temperature on both diffusion and dislocation formation is proposed based on the known differences in sputter yields between crystalline and amorphous semiconductors. The model assumes that the sputter yield is enhanced by amorphization in the lower temperatures, thus increasing the excess vacancy concentration. Estimates of excess vacancy concentration are obtained by simulations of the diffusion profiles and are quantitatively consistent with a realistic sputter yield enhancement.
+
+GALLIUM ARSENIDES
+ION IMPLANTATION
+SILICON ADDITIONS
+DIFFUSION
+CRYSTAL DEFECTS
+ANNEALING
+DISLOCATIONS
+ION CHANNELING
+AMORPHOUS STATE
+CRYSTALLIZATION
+VACANCIES

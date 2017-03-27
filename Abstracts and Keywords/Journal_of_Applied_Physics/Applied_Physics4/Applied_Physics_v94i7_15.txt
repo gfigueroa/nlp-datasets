@@ -1,0 +1,12 @@
+We report the most recent advance in the area of type II InAs/GaSb superlattices that have cutoff wavelength of <3.7 ¼m. With GaxIn1x type interface engineering techniques, the mismatch between the superlattices and the GaSb (001) substrate has been reduced to &lt;0.1%. There is no evidence of dislocations using the best examination tools of x-ray, atomic force microscopy, and transmission electron microscopy. The full width half maximum of the photoluminescence peak at 11 K was <4.5 meV using an Ar+ ion laser (514 nm) at fluent power of 140 mW. The integrated photoluminescence intensity was linearly dependent on the fluent laser power from 2.2 to 140 mW at 11 K. The temperature-dependent photoluminescence measurement revealed a characteristic temperature of one T1=245
+K at sample temperatures below 160 K with fluent power of 70 mW, and T1=203
+K for sample temperatures above 180 K with fluent power of 70 and 420 mW. © 2003 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+semiconductor superlattices
+photoluminescence
+X-ray diffraction
+transmission electron microscopy
+atomic force microscopy

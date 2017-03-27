@@ -1,0 +1,9 @@
+Features in the Raman and infrared (IR) spectra of highly sp3 bonded hydrogenated amorphous carbon nitride films are assigned. The Raman spectra show three main features all found in a-C itself, the G and D peaks at 1550 and 1350 cm1, respectively, and the L peak near 700 cm1. The intensity ratio of the D and G peaks, I(D)/I(G), is found to scale as (band gap)2, which confirms that nitrogen induces carbon to form sp2 graphitic clusters. The intensity of the L mode is found to scale with the D mode, supporting its identification as an in-plane rotational mode of sixfold rings in graphitic clusters. A small feature at 2200 cm1 due to CN modes is seen, but otherwise the Raman spectra resembles that of a-C and shows no specific features due to N atoms. The hydrogen content is found to have a strong effect on the IR spectra at 11001600 cm1 making this band asymmetric towards the 1600 cm1 region. © 2001 American Institute of Physics.
+
+Raman spectra
+infrared spectra
+carbon compounds
+amorphous state
+rotational states
+vibrational modes
+plasma deposited coatings

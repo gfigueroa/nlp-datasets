@@ -1,0 +1,6 @@
+The requirement for increased mobility of unmanned ground vehicles (UGVs) operating in urban settings must be addressed if robotic technology is to augment human efforts in military relevant roles and environments. In preparation for this role, Defence R&amp;D Canada - Suffield is exploring novel mobility platforms that use intelligent mobility algorithms to improve robot mobility in unknown highly complex terrain. Robotic platforms often appear conceptually simple. Despite this appearance, the demands on these systems remain extremely ambitious while retaining the need for control systems to handle the many actuator degrees-of-freedom and numerous sensor inputs. Linear control techniques applied to a nonlinear multi degree-of-freedom vehicles are effective in controlling system behaviours in limited conditions. However, in unrestricted conditions, the nonlinear nature of the control problem and impracticality of model-based control of such a complex system have required the investigation of alternative control methods. This paper discusses linear control techniques applied to a multi degree-of-freedom robot in simulation and alternative nonlinear techniques.
+
+Animation
+Multi-legged
+Robust/Adaptive Control
+Simulation

@@ -1,0 +1,10 @@
+We show how the magnetic properties of the Pt/Co ultrathin film structure can be modified and even controlled under uniform irradiation by Ga+ ions at low fluence in the 20100 keV range. A systematic magneto-optical study is presented for the Pt/Co(1.4 nm)/Pt(111) ultrathin-film structure. At ion fluences below D=1014Ga+/cm2, the coercive field is steadily reduced when increasing the fluence. At large fluences, in the range D=(510)×1014Ga+ions/cm2, the magnetization of the Co layer drops rapidly and the film finally becomes paramagnetic at room temperature for D&gt;2×1015Ga+ions/cm2. We demonstrate that these magnetic changes are related to the effect of ion-induced collisional intermixing of the Co/Pt interfaces, leading to the formation of stable CoPt alloys with varying composition across the interfaces. A simple model is derived to relate the ion beam-induced mixing to the changes in magnetic properties. The present work allows us to gain a quantitative understanding of previous experiments using a focused Ga+ ion beam to pattern magnetic properties of similar samples at a sub-100 nm scale. © 2002 American Institute of Physics.
+
+platinum
+cobalt
+magnetic multilayers
+ion beam effects
+focused ion beam technology
+chemical interdiffusion
+coercive force
+magneto-optical effects

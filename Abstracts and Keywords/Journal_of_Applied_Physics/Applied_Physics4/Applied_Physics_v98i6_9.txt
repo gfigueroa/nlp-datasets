@@ -1,0 +1,9 @@
+Three-dimensional topography of microscopic ion fluxes in the reactive hydrocarbon-based plasma-aided nanofabrication of ordered arrays of vertically aligned single-crystalline carbon nanotip microemitter structures is simulated by using a Monte Carlo technique. The individual ion trajectories are computed by integrating the ion equations of motion in the electrostatic field created by a biased nanostructured substrate. It is shown that the ion flux focusing onto carbon nanotips is more efficient under the conditions of low potential drop Us across the near-substrate plasma sheath. Under low-Us conditions, the ion current density onto the surface of individual nanotips is higher for higher-aspect-ratio nanotips and can exceed the mean ion current density onto the entire nanopattern in up to approximately five times. This effect becomes less pronounced with increasing the substrate bias, with the mean relative enhancement of the ion current density ¾i not exceeding < 1.7. The value of ¾i is higher in denser plasmas and behaves differently with the electron temperature Te depending on the substrate bias. When the substrate bias is low, ¾i decreases with Te, with the opposite tendency under higher-Us conditions. The results are relevant to the plasma-enhanced chemical-vapor deposition of ordered large-area nanopatterns of vertically aligned carbon nanotips, nanofibers, and nanopyramidal microemitter structures for flat-panel display applications.
+
+carbon
+nanostructured materials
+Monte Carlo methods
+nanopatterning
+plasma CVD
+plasma density
+ion density

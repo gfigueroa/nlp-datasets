@@ -1,0 +1,12 @@
+We report a study of the slow transient phenomena observed, under continuous illumination, in the response of the sandwich-type structure indiumtinoxide/poly(4,43-dipenthoxy-32-octyl2,22:52,23-terthiophene)/Al. The analysis of the transient component of the open-circuit voltage revealed that recombination processes are greatly enhanced under illumination, limiting the performance of this kind of devices. © 2001 American Institute of Physics. 
+
+indium compounds
+tin compounds
+aluminium
+conducting polymers
+organic semiconductors
+Schottky barriers
+photoconductivity
+transients
+electron-hole recombination
+Schottky diodes

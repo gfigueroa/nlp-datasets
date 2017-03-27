@@ -1,0 +1,7 @@
+This paper presents the radiation performance of a modified elliptical patch microstrip antenna (EPMA) simulated on glass epoxy FR4 substrate material. For modification in patch geometry, two parallel narrow slits in the EPMA geometry parallel to its minor axis are applied. In this way, patch is divided in three patches. The two outer patches are identical in shape and size. The central patch is excited through inset feed and the two outer patches are gap coupled to this center patch. The modified antenna resonates at two closely spaced frequencies with much improved bandwidth (&gt; 10%). The radiation patterns of antenna at four frequencies considered in the range where antenna displays broadband behaviour are almost identical in shape and nature. The gain and directivity of antenna displays variation of less than 1 dBi within considered frequency range. The simulation results suggest that this antenna with little more improvisations may be a suitable candidate for Wi-MAX applications.
+
+Microstrip antenna
+directivity
+gap coupled antenna
+impedance bandwidth
+radiation patterns

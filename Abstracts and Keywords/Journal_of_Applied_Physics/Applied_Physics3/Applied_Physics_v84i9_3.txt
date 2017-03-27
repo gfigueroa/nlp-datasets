@@ -1,0 +1,14 @@
+Successful ex situ and in situ cleaning procedures for AlN and GaN surfaces have been investigated and achieved. Exposure to HF and HCl solutions produced the lowest coverages of oxygen on AlN and GaN surfaces, respectively. However, significant amounts of residual F and Cl were detected. These halogens tie up dangling bonds at the nitride surfaces hindering reoxidation. The desorption of F required temperatures &gt;850
+°C. Remote H plasma exposure was effective for removing halogens and hydrocarbons from the surfaces of both nitrides at 450
+°C, but was not efficient for oxide removal. Annealing GaN in NH3 at 700800
+°C produced atomically clean as well as stoichiometric GaN surfaces. © 1998 American Institute of Physics.
+
+surface cleaning
+wide band gap semiconductors
+III-V semiconductors
+X-ray photoelectron spectra
+dangling bonds
+core levels
+thermally stimulated desorption
+aluminium compounds
+gallium compounds

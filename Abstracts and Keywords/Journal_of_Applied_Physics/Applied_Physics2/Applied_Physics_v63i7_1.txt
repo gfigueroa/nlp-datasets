@@ -1,0 +1,11 @@
+Different aspects of the metastable character of Sirelated localized states in modulationdoped heterostructures of GaAs/GaAlAs have been studied. Hydrostatic pressure was used to change the twodimensional electrongas concentration at the active interface of the system. The performed studies give evidence that below a critical temperature of Tc=135 K for a given sample, at the same temperature and pressure conditions, an arbitrary carrier concentration in the quantum well can be obtained depending on the pressure at which the sample was cooled.
+
+IMPURITY STATES
+HETEROJUNCTIONS
+HETEROSTRUCTURES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+METASTABLE STATES
+LOCALIZED STATES
+SILICON
+CARRIER DENSITY

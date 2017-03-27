@@ -1,0 +1,15 @@
+The integrodifferential equation governing the diffusion of minority carriers under the influence of both recombination by flaws and multiple photon absorption and emission via bandband transitions recently developed by the author is solved by means of a variational principle. It is shown that for bulk material the effect of the reabsorbed recombination radiation (RRR) on carrier diffusion is negligible when the average mean free path of photons is larger than the diffusion length of the carriers. In the opposite case, this is not true and the results previously obtained by a different method are recovered. Applied to GaAs, these findings signify that if the diffusion length L due to flaws or recombination centers possesses a magnitude less than 1 ¼m, the effect of the RRR may safely be ignored. But, on the other hand, if L is greater than 1 ¼m, there exists an effective diffusion length Leff always larger than L, which is engendered by the RRR and which enhances carrier transport. This enhancement becomes noticeable only at high doping levels.
+
+semiconductor materials
+charge carriers
+absorption
+recombination
+energy gap
+diffusion length
+mathematical models
+integral equations
+differential equations
+defects
+photons
+emission
+variational methods

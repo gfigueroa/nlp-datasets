@@ -1,0 +1,11 @@
+To answer the question 'Do we really need all these new antidepressants?' the author first reviews what is known about the pathophysiological mechanisms underlying the depressive disorders and then systematically reviews the strengths and limitations of the available classes of antidepressants. He considers mechanisms of action, side effect profiles, safety in overdose, potential for drug-drug interactions, and evidence of relative efficacy for each class discussed. The article covers tricyclic antidepressants, monoamine oxidase inhibitors (both older and newer agents), second generation antidepressants (trazodone, amoxapine, maprotiline, and nomifensine), the selective serotonin reuptake inhibitors, bupropion, venlafaxine, nefazodone, and mirtazapine. 
+
+antidepressants
+tricyclic antidepressants
+monoamine oxidase inhibitors
+trazodone
+selective serotonin reuptake inhibitors
+bupropion
+venlafaxine
+nefazodone
+mirtazapine

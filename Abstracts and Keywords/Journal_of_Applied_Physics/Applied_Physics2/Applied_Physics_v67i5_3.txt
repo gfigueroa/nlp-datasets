@@ -1,0 +1,18 @@
+Photoemission results from Al and Rb interfaces with single crystals of Bi2Sr2CaCu2O8 hightemperature superconductors are reported. The Al and Rb adsorbates are found to react quite differently with the Bi2Sr2CaCu2O8 substrate. While adatoms of Rb significantly affect only the Bi and O atoms in the top atomic layer, the Al adsorbate profoundly disrupts the bonding character of the whole Bi2Sr2CaCu2O8 material. For Al, the Bi and Cu states are strongly reduced, and the Sr and O states show evidence of oxidized components. In addition, Al causes a strong outdiffusion of oxygen from the bulk. The differences in the reactivity of Al and Rb are discussed in terms of the different mobility of the two atoms.
+
+ALUMINIUM
+RUBIDIUM
+LAYERS
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+MONOCRYSTALS
+HIGHTC SUPERCONDUCTORS
+PHOTOELECTRON SPECTROSCOPY
+ELECTRONIC STRUCTURE
+ULTRAVIOLET RADIATION
+ULTRAHIGH VACUUM
+ELECTRON DIFFRACTION
+SURFACE REACTIONS
+ADSORPTION

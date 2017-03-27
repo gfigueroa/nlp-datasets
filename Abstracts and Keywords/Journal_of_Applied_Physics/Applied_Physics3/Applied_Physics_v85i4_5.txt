@@ -1,0 +1,11 @@
+The quantum-confined Stark effect is studied in a single In.15Ga.85As quantum well embedded within the intrinsic region of a (111)B GaAs p-i-n diode structure. An expression for the density of quasibound quantum well states is derived and used to determine the optical transition energies in the structure. Satisfactory agreement between experimental results and theoretical predictions are obtained only when an In.15Ga.85As piezoelectric constant of e14 = 0.11(3)
+C/m2 is used in the analysis. This value for e14 is 79% of what one would obtain from a linear interpolation of the binary e14s and is significantly different from results obtained by others. Comparisons are made with other work, and speculations are made regarding the cause for the differences. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+quantum confined Stark effect
+piezoelectric semiconductors
+p-i-n diodes
+interface states

@@ -1,0 +1,8 @@
+have studied about assessment for ICT environmental impact and finally developed an assessment logic named SI-LCA1 (system integration LCA) that quantitatively evaluates whole life cycle environmental impact with CO<sub>2</sub> emission for ICT solutions. SI-LCA is not only compliant with "guideline for information and communication technology (ICT) Eco-Efficiency Evaluation" instituted by The Japan Forum on eco-efficiency in 2006 but also one of the most important basic logics for the guideline. In this paper, we show a case example of SI-LCA assessment and then show evaluation of ICT eco-efficiency and factor.
+
+C02 emission
+Eco-efficiency
+Environmental impact
+Factor
+ICT
+Life Cycle Assessment

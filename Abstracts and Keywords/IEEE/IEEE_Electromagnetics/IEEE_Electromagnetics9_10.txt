@@ -1,0 +1,7 @@
+The ionospheric TEC and scintillation measurements were investigated at ARAU, Malaysia station based on GPS measurements during major storm on 15-16 May 2005. The major storm was observed for the period from 12 to 17 May 2005 and was accompanied by a moderate solar activity with F10.7 &gt; 100 and SSN &gt; 100. The maximum readings of geomagnetic indices Dst, Kp and Ap recorded by the World Data Centre (WDC) are -263 nT, 9 and 105 respectively. The solar wind index, Bz showed a sharp incursion to the south with a peak reaching -37 nT. The 15-16 May 2005 storm has only one SSC and is the most intense storm recorded during the solar minimum 2005. The results show pronounced phase and amplitude scintillations and sudden increase in TEC is clearly observed during the storm. The peak phase scintillation recorded during the storm is 0.19 m and the measured amplitude scintillation and S4 index on both L1 and L2 bands are &gt; 13 dB-Hz and &gt; 0.7 respectively.
+
+GPS
+Scintillation
+TEC
+equatorial anomaly
+magnetic storm

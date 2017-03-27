@@ -1,0 +1,5 @@
+Countries around the world are deploying radiation detection instrumentation to interdict the illegal shipment of radioactive material crossing international borders at land, rail, air, and sea ports-of-entry. These efforts include deployments in the U.S. by the Department of Homeland Security and in a number of European and Asian countries by governments and international agencies, such as the International Atomic Energy Agency. Items of concern to be interdicted include radiation dispersal devices, special nuclear material, and nuclear warheads. Radiation portal monitors are used as the main screening tool for vehicles and cargo at borders, supplemented by handheld detectors, personal radiation detectors, and x-ray imaging systems. This paper focuses on the challenges of background radiation, radionuclide identification, and interference sources to interdiction.
+
+border security
+nuclear threats
+radiation detection

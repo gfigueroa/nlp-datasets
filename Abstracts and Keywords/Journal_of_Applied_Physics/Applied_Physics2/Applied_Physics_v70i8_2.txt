@@ -1,0 +1,14 @@
+Lanthanum and neodymium titanate A2Ti2O7 (A=La, Nd) singlecrystal fibers were grown via the laserheated pedestal growth technique. The singlecrystal fibers were 600 ¼m in diameter and 34 cm in length. The piezoelectric, k23 and d23, and elastic compliance, s33, coefficients were measured using the standard resonanceantiresonance technique. From a comparison of the measured coefficients to poled single crystal data in the literature, it is concluded that the La2Ti2O7 singlecrystal fiber grew in a single domain state.
+
+PEROVSKITE
+MONOCRYSTALS
+CRYSTAL GROWTH
+FIBERS
+DOMAIN STRUCTURE
+LASERRADIATION HEATING
+PIEZOELECTRICITY
+VERY HIGH TEMPERATURE
+TERNARY COMPOUNDS
+LANTHANUM OXIDES
+NEODYMIUM OXIDES
+TITANIUM OXIDES

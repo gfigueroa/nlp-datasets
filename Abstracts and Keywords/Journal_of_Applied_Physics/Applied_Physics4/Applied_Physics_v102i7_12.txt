@@ -1,0 +1,7 @@
+In view of its central role in many optical waveguide applications, the absolute measurement of the actual light intensity propagating within a planar waveguide has been critically revised. Using prism couplers and proton exchanged LiNbO3 waveguides, several approaches have been experimentally checked and compared. A method is proposed and demonstrated, which combines the measurements of the light power out coupled from the waveguide edge and from the output prism. Reliable power measurements are obtained within a 5% error. A simplified version consists in a previous calibration of the setup in order to measure only the power coming from output coupler. Although inaccuracy rises up to < 15%, it can be useful in many practical applications because of its simplicity. To assess and compare both methods, they have been applied to the measurement of light-intensity dependences of photovoltaic currents and optical damage thresholds in proton exchanged LiNbO3 guides.
+
+intensity measurement
+lithium compounds
+optical couplers
+optical prisms
+optical waveguides

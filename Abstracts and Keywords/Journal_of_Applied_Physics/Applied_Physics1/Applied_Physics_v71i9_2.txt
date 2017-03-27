@@ -1,0 +1,11 @@
+The two limits for modeling vibrating thin films, viz as a plate or as a membrane, are discussed. In terms of these limits the sources of experimental uncertanties are identified and the advantages of using films which can be modeled as membranes are explained. The mathematical formalism for treating films as vibrating membranes is developed and relations for selfconsistency checks are presented. The drive mechanisms used to generate vibrations in the films are also discussed.
+
+THIN FILMS
+MECHANICAL PROPERTIES
+MATHEMATICAL MODELS
+MEMBRANES
+PLATES
+VIBRATIONAL STATES
+DEFORMATION
+COMPARATIVE EVALUATIONS
+ELASTICITY

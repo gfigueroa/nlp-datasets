@@ -1,0 +1,14 @@
+In this work, we studied the leakage mechanism at different temperatures in Pt/SrTaO/Pt and Pt/BiTaO/Pt thin film capacitors. The dielectrics were deposited by metal-organic chemical vapor deposition at 360	°C as amorphous layers, and the complete process flow of the capacitors was kept below 500	°C. Conduction is governed by Poole-Frenkel emission down to < 15 and < 20nm for SrTaO and BiTaO, respectively. From the Poole-Frenkel plots, we extracted an index of refraction of < 2.1 for SrTaO and < 2.5 for BiTaO, and an energy of < 0.8eV from involved trap centers to the conduction band for both dielectrics.
+
+strontium compounds
+bismuth compounds
+platinum
+dielectric materials
+dielectric thin films
+thin film capacitors
+leakage currents
+MOCVD coatings
+amorphous state
+Poole-Frenkel effect
+refractive index
+conduction bands

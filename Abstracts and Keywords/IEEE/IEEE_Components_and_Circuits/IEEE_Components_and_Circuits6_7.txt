@@ -1,0 +1,5 @@
+In this study, three types of gait generation methods in Quadruped walking are compared using simulation software such as ADAMS and Matlab/Simulink. Stability and straight path following performance of these three types is simulated and third type of gait generation method (Trotting) is found considerably well suited for practical point of view.
+
+Gait generation
+Quadruped
+trotting

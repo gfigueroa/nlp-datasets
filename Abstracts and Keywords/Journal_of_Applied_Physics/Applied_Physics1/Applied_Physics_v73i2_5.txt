@@ -1,0 +1,10 @@
+We have used secondary ion mass spectrometry, local vibrational mode infrared absorption, and electrical characterization to study the incorporation of Si deltadoped planes in GaAs grown by molecular beam epitaxy at 400	°C, in the concentration range 0.010.5 monolayers. A correspondence is observed between the density of SiGa donors, the free electron concentration and the total Si coverage, up to a coverage of <1013 cm2; however, above this value, the electron density falls, while [SiGa] remains constant up to a coverage of <1014 cm2, and then falls below the detection limit at 0.5 monolayer coverage. These effects have been interpreted in terms of a model which takes account of Si migration and aggregation on the deltadoped plane during deposition. 	
+
+GALLIUM ARSENIDES
+IMPURITIES
+SILICON ADDITIONS
+DOPED MATERIALS
+SIMS
+ABSORPTION SPECTRA
+MOLECULAR BEAM EPITAXY
+VIBRATIONAL STATES

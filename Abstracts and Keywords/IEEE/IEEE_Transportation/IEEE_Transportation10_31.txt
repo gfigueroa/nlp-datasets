@@ -1,0 +1,6 @@
+For the vertically integrated monopolistic environment in the past, economic dispatch and Unit Commitment (UC) were defined as finding and scheduling generating units in order to minimize the total production cost of utility and constraints such as power demand and spinning reserve are met. These problems under deregulated environment, on the other hand, are more complex and more competitive than traditional problems. Generation Companies (GENCO's) solves economic dispatch and unit commitment problem not for minimizing total production cost as before but for maximizing their own profit. Hence, power prices become an important factor in decision making process. This paper presents a hybrid model between Lagrange relaxation and Genetic algorithm to schedule generators economically based on forecasted information such as power prices and demand, with an objective to maximize profit of Generation Company. Simulations are carried out to evaluate the performance of the proposed technique. Test results for 10 generating units 24 hours system are compared with those obtained from traditional unit commitment.
+
+Deregulated power markets
+Genetic algorithm
+Lagrange relaxation
+unit commitment

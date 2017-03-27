@@ -1,0 +1,9 @@
+Joins are arguably the most important relational operators. Poor implementations are tantamount to computing the Cartesian product of the input relations. In a temporal database, the problem is more acute for two reasons. First, conventional techniques are designed for the evaluation of joins with equality predicates rather than the inequality predicates prevalent in valid-time queries. Second, the presence of temporally varying data dramatically increases the size of a database. These factors indicate that specialized techniques are needed to efficiently evaluate temporal joins. We address this need for efficient join evaluation in temporal databases. Our purpose is twofold. We first survey all previously proposed temporal join operators. While many temporal join operators have been defined in previous work, this work has been done largely in isolation from competing proposals, with little, if any, comparison of the various operators. We then address evaluation algorithms, comparing the applicability of various algorithms to the temporal join operators and describing a performance study involving algorithms for one important operator, the temporal equijoin. Our focus, with respect to implementation, is on non-index-based join algorithms. Such algorithms do not rely on auxiliary access paths but may exploit sort orderings to achieve efficiency.
+
+Attribute skew
+Interval join
+Partition join
+Sort-merge join
+Temporal Cartesian product
+Temporal join
+Timestamp skew

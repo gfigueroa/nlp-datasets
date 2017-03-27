@@ -1,0 +1,8 @@
+The nucleation of semicircular misfit dislocations from the epitaxial surface in strainedlayer heterostructures is considered. It is shown that the model of J. W. Matthews, A. E. Blakeslee, and S. Mader [Thin Solid Films 33, 253 (1976)], which considered a semicircular dislocation loop expanding in a semiinfinite layer, needs modification when an epilayer/substrate interface is involved. © 1996 American Institute of Physics. 
+
+HETEROSTRUCTURES
+STRAINS
+MISFIT DISLOCATIONS
+THICKNESS
+EPITAXIAL LAYERS
+INTERFACES

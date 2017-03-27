@@ -1,0 +1,14 @@
+Modulation-doped two-dimensional hole gas structures consisting of a strained germanium channel on relaxed Ge0.7Si0.3 buffer layers were grown by molecular-beam epitaxy. Sample processing was optimized to substantially reduce the contribution from the parasitic conducting layers. Very high hall mobilities of 1700 cm2/V
+s for holes were observed at 295 K which are the highest reported to date for any kind of p-type silicon-based heterostructures. Hall measurements were carried out from 13 to 300 K to determine the temperature dependence of the mobility and carrier concentration. The carrier concentration at room temperature was 7.9×1011
+cm2 and decreased by only 26% at 13 K, indicating very little parallel conduction. The high-temperature mobility obeys a T± behavior with ±<2, which can be attributed to intraband optical phonon scattering. © 2001 American Institute of Physics. 
+
+hole mobility
+Hall mobility
+Ge-Si alloys
+germanium
+elemental semiconductors
+semiconductor materials
+two-dimensional electron gas
+semiconductor heterojunctions
+carrier density
+electron-phonon interactions

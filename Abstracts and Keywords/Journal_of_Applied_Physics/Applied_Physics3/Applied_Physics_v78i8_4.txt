@@ -1,0 +1,15 @@
+Measurements of the temperature dependence of the normal state resistivity, Án (T), for (R0.8Pr0.2)Ba2Cu3O7´ (R=Nd, Sm, Eu, Gd, Dy, Ho, Er, Tm, and Yb) are reported. We found that Án is linearly dependent on the temperature (except R=Nd). At a constant temperature, Án is linearly dependent on the ionic radius of R. The results are interpreted in terms of the hybridization between the local states of the Pr ion and the valenceband states of the CuO2 planes. © 1995 American Institute of Physics.
+
+DYSPROSIUM OXIDES
+ELECTRIC CONDUCTIVITY
+ERBIUM OXIDES
+EUROPIUM OXIDES
+GADOLINIUM OXIDES
+HIGHTC SUPERCONDUCTORS
+HOLMIUM OXIDES
+PRASEODYMIUM OXIDES
+SAMARIUM OXIDES
+SIZE EFFECT
+TEMPERATURE DEPENDENCE
+THULIUM OXIDES
+YTTERBIUM OXIDES

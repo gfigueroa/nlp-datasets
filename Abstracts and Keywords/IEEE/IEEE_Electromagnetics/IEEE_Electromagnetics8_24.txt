@@ -1,0 +1,5 @@
+In todaypsilas scenario higher integration and smaller layout size are the two major trends in RF and Microwave industry, lead to more prominent role in electromagnetic high order effects. Recent years the important in the development of numerical techniques has been the versatility of the method. In this paper, we have present the various numerical techniques to compute such effects in Microwave Integrated Circuit based designs, highlighting their specific features with comparison of numerical techniques for design of rectangular Microstrip Patch Antenna. Here we are compared few numerical techniques, in this Finite Element Method is a more powerful and versatile, more storage requirement, less CPU time.
+
+Finite Difference Time Domain Method and Method of Moments
+Finite Element Method
+Rectangular Patch antenna

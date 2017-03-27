@@ -1,0 +1,11 @@
+The comment by Baixeras et al. [J. Appl. Phys. 52, 4330 (1981)] on the recent paper by Migliori [J. Appl. Phys. 51, 3439 (1980)] utilizes counterexamples not consistent with Miglioris premise. Baixeras et al. also fail to support their contention that in two dimensions it is possible, if more difficult, to solve a general critical state model with boundary conditions.
+
+MATHEMATICAL MODELS
+TWODIMENSIONAL CALCULATIONS
+MAGNETIC FIELDS
+THEORETICAL DATA
+BOUNDARY LAYERS
+BOUNDARY CONDITIONS
+COMPARATIVE EVALUATIONS
+TYPEII SUPERCONDUCTORS
+CRITICAL CURRENT

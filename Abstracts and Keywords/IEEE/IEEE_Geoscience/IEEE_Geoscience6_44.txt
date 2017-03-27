@@ -1,0 +1,4 @@
+Fine-grained dynamic voltage/frequency scaling (DVFS) demonstrates great promise for improving the energy-efficiency of chip-multiprocessors (CMPs), which have emerged as a popular way for designers to exploit growing transistor budgets. We examine the tradeoffs involved in the choice of both DVFS control scheme and method by which the processor is partitioned into voltage/frequency islands (VFIs). We simulate real multithreaded commercial and scientific workloads, demonstrating the large real-world potential of DVFS for CMPs. Contrary to the conventional wisdom, we find that the benefits of per-core DVFS are not necessarily large enough to overcome the complexity of having many independent VFIs per chip.
+
+chip-multiprocessor
+dynamic voltage/frequency scaling

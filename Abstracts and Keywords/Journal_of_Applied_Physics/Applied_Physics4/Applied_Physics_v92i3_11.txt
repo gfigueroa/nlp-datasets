@@ -1,0 +1,17 @@
+The diffusion of indium in silicon has been investigated in the temperature range of 800 to 1000
+°C by using secondary ion mass spectroscopy and transmission electron microscopy. Our data indicate that, for implants at 150 keV through a thin oxide layer (19 nm), the amount of dopant that leaves the silicon is only controlled by the flow of indium that reaches the surface, being both the segregation coefficient at the interface SiO2/Si and the indium diffusion coefficient in the oxide favorable to the out-diffusion. Comparison between experimental and simulated profiles has evidenced that, besides the expected transient enhanced diffusion occurring in the early phases of the annealing, a heavy loss of dopant by out-diffusion was associated with a high In diffusivity near the surface. Measurements of the hole concentration in uniformly doped silicon on insulator samples performed in the temperature range of 700 to 1100
+°C indicate that indium solubility is equal or greater than 1.8×1018	cm3; this value is higher than those previously proposed in literature. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+indium
+diffusion
+secondary ion mass spectra
+doping profiles
+transmission electron microscopy
+surface segregation
+annealing
+solid solubility
+hole density
+silicon-on-insulator
+ion implantation

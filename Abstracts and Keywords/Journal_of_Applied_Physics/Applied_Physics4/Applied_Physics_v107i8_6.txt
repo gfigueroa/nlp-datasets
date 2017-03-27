@@ -1,0 +1,8 @@
+Free-fall regime maintenance of hydrogen discharges is analyzed based on numerical solutions of a set of equations involving the balance equations of the charged particles [electrons, the three types of the positive ions (H+, H2+, and H3+), and negative H ions] and of the neutral species (hydrogen atoms H and vibrationally excited molecules), the momentum equations of the positive ions, the electron energy balance equation, and the Poisson equation, all together 25 differential equations. The obtained results for varying discharge radius show strong accumulation of the negative ions in the on-axis region of the discharge when the discharge radius is small, which leads to a concept for a design of a volume-production based source as a matrix of small radius discharges. The variation in the negative ion density with changing gas pressure and electron density at the discharge axis is also analyzed.
+
+discharges (electric)
+hydrogen
+plasma collision processes
+plasma density
+plasma sources
+Poisson equation

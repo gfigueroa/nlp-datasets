@@ -1,0 +1,5 @@
+Investigate the potential of Random Forests in a multiclass setting and propose a new algorithm based on error-correct-coding (ECC) and loop-symmetrical division. It performs significantly better than the original RF and slightly better than the other two approach that usually used to handle multiclass problem. But our algorithm has lower computation cost which is very important especially in large classification problems. Experiments show its efficiency.
+
+ECC
+multiclass
+random forests

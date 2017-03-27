@@ -1,0 +1,7 @@
+We have generated shift and injection currents in unstrained, undoped (110)-grown GaAs/Al0.3Ga0.7As quantum wells with a single optical pulse and detected them via free-space terahertz experiments. By properly choosing the polarization state of the excitation pulse, it is possible to generate both currents alone along certain crystal directions or to simultaneously generate them along the same crystal direction. A comparison of injection and shift currents allows us to estimate the strength of the injection current. At an excitation energy of 1.53eV the injection current tensor element is H i2×107A/(V2	s). This corresponds to an injection of electrons with an average velocity of H 10km/s. Moreover, a comparison of the intensity dependence of shift and injection currents under identical experimental conditions demonstrates a stronger saturation of the shift current.
+
+aluminium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+high-speed optical techniques

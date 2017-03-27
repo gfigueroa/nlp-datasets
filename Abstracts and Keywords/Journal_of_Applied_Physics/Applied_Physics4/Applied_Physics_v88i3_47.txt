@@ -1,0 +1,14 @@
+We present an investigation of interface properties of the hole transport material N,N2-diphenyl-N,N2-bis (3-methylphenyl)(1,12)biphenyl-4,42diamine (TPD) on indiumtin oxide (ITO) and on GeS(001) using x-ray and ultraviolet photoelectron spectroscopy. On both the TPD/ITO interface and the TPD/GeS(001) heterojunction we found shifts of the vacuum level indicating a formation of an interfacial dipole barrier. We obtained a barrier for the hole injection for TPD on Ar ion sputter-cleaned ITO of 1.5 eV which is significantly higher than the commonly cited value of 0.5 eV for ozone-oxidized ITO, whereas the interface dipole barrier of 0.3 eV is in good agreement with reported data. At low coverages of TPD on ITO additional features in the C 1s core level spectra were found, which can be ascribed to a partially oxidized TPD species at the interface. © 2000 American Institute of Physics. 
+
+indium compounds
+tin compounds
+semiconductor materials
+germanium compounds
+IV-VI semiconductors
+organic compounds
+X-ray photoelectron spectra
+ultraviolet photoelectron spectra
+semiconductor heterojunctions
+interface states
+core levels
+surface chemistry

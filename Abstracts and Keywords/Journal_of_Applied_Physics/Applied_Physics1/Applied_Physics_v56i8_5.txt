@@ -1,0 +1,17 @@
+The epitaxial layers of GaN have been grown on (0001)oriented sapphire substrates using metalorganic chemical vapor deposition. The layers with good quality and relatively smooth surface morphology were obtained by enforcing growth in H2 after adherence of nuclei to the substrates in N2 atmosphere. Using this technique, GaN light emitting diodes with metalinsulating ntype structure were fabricated. Two kinds of blue electroluminescence were observed at room temperature with exciting voltage of 48 V with emission wavelength of 430 and 488 nm. The external efficiency is about 0.005%.
+
+CHEMICAL VAPOR DEPOSITION
+EPITAXIAL LAYERS
+ORGANOMETALLIC COMPOUNDS
+SAPPHIRE
+GALLIUM NITRIDES
+SURFACE STRUCTURE
+VAPOR DEPOSITED COATINGS
+ELECTROLUMINESCENCE
+LIGHT EMITTING DIODES
+FABRICATION
+NITROGEN MOLECULES
+HYDROGEN MOLECULES
+ROUGHNESS
+EFFICIENCY
+ELECTRIC POTENTIAL

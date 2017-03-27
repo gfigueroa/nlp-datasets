@@ -1,0 +1,13 @@
+It is shown that the amount of oxygen detected in backsurface damaged regions of silicon wafers after annealing in vacuum is too great to have originated from the bulk of the wafer. Calculations show that residual water vapor in the ambient can account for the amount observed.
+
+SILICON
+GETTERING
+OXYGEN
+CRYSTAL DEFECTS
+STABILITY
+SURFACES
+DAMAGE
+ANNEALING
+MATHEMATICAL MODELS
+THEORETICAL DATA
+WATER VAPOR

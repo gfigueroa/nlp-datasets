@@ -1,0 +1,11 @@
+Neutron and x-ray reflectivity studies of modulated heterostructures consisting of alternate layers of conjugated and nonconjugated polymers is described. Such heterostructures are currently being used to fabricate polymer-based light emitting diodes. The heterostructures were prepared by the layer-by-layer self-assembly technique using the precursor of the conjugated polymer, deuterated poly(phenylenevinylene) (D-PPV), and other polyelectrolyte spacers. Heat treatment after the layer assembly converted the pre-D-PPV to a conjugated semiconducting polymer. For the first time in such heterostructures, we were able to observe quasi-Bragg reflections (up to the third order) due to the formation of ordered modulated structures. Both the neutron and the x-ray data were analyzed using the same layer-by-layer model and the same fitting procedure with consistent results. Most importantly, the model and the fitting procedure yield the buried interlayer roughness at the D-PPV/spacer interface. This roughness parameter, of the order of 12±3
+Å, was found to be smaller than the thickness of the D-PPV and the spacer layers, suggesting that the length over which interdigitation between neighboring polymer layers occurs is significantly smaller than the spacer layer. We demonstrate that the conversion to conjugated polymer by the heat treatment leads to < 7% reduction of the repeat unit and the film thickness without significant changes of other structural properties; in fact, the interfacial roughness was somewhat improved. The fabrication of high quality modulated structures with controlled layer thickness and relatively small interfacial roughness may be a first step towards polymer-based multiquantum wells analogous to such devices in inorganic heterostructures. © 1998 American Institute of Physics.
+
+conducting polymers
+heat treatment
+semiconductor heterojunctions
+organic semiconductors
+X-ray reflection
+neutron reflection
+buried layers
+interface structure

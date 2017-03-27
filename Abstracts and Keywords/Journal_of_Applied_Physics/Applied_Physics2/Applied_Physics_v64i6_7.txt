@@ -1,0 +1,11 @@
+A model, based on energy considerations, to determine the critical thickness for pseudomorphic growth of Si/Ge alloys and superlattices is introduced. Comparison with experiments shows a good agreement between the theory and experiment. It is also shown that in films which are initially dislocationfree, the energy barrier for the nucleation of dislocation loops can be crossed by thermal activation if the film is thicker than the critical value provided by the model.
+
+THICKNESS
+FILM GROWTH
+DISLOCATIONS
+SUPERLATTICES
+SILICON
+GERMANIUM
+GERMANIUM SILICIDES
+NUCLEATION
+THIN FILMS

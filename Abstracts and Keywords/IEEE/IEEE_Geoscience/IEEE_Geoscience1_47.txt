@@ -1,0 +1,6 @@
+In this paper we present a new &#x201C;dynamical&#x201D; spectral encoding method for the optical code division multiple access (OCDMA) indoor wireless communication system. In contrast with the classical OCDMA systems, where one user transmits all the information bits using the same spreading code sequence, in the proposed &#x201C;dynamical&#x201D; case one user transmits a fixed number of bits using one code sequence, and thereafter the code sequence is changed. According to obtained results, the performances of the system are better because of multipath interference reduction.
+
+OCDMA
+indoor optical wireless communication
+interference reduction
+spreading code

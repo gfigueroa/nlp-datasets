@@ -1,0 +1,9 @@
+This communication outlines the theory for calculation of contact angle from the shape of a liquid drop adhering to a thin fiber. Particular attention is paid to a recent paper on this subject [H. D. Wagner, J. Appl. Phys. 67, 1352 (1990)], in which an alternative computational procedure is described. Comparison of this and the previously published procedure is made.
+
+LIQUIDS
+DROPLETS
+SURFACES
+CAPILLARY FLOW
+CONTACT ANGLE
+CYLINDRICAL CONFIGURATION
+ANALYTICAL SOLUTION

@@ -1,0 +1,10 @@
+We observed high and persistent spontaneous buildup of the surface potential (SP) upon vacuum deposition of tris(8-hydroxyquinolinato) aluminum(III) (Alq3) on an Au substrate under dark conditions. SP determined by the Kelvin probe method reached 28 V at a thickness of 560 nm and the surface of the Alq3 film was positively charged. We propose a model in which preferential orientation of the dipole moments of Alq3 molecules is the origin of this buildup of the SP. The intensity of second-harmonic generation was also dramatically increased by the deposition of Alq3 under dark conditions, which supports the notion of a buildup of dipole layers. This giant surface potential was almost completely removed by irradiation of Alq3 molecules with visible light, and irradiation during deposition also prevented the buildup of SP. © 2002 American Institute of Physics. 
+
+aluminium compounds
+organic compounds
+vacuum deposition
+surface potential
+radiation effects
+surface charging
+surface photovoltage
+optical harmonic generation

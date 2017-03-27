@@ -1,0 +1,15 @@
+Based on a method proposed by Reddy and Shanmugasundaram, similar solutions have been obtained for the steady inviscid quasionedimensional nonreacting flow in the supersonic nozzle of CO2N2H2O and CO2N2He gasdynamic laser systems. Instead of using the correlations of a nonsimilar function NS for pure N2 gas, as is done in previous publications, the NS correlations are computed here for the actual gas mixtures used in the gasdynamic lasers. Optimum smallsignal optical gain and the corresponding optimum values of the operating parameters like reservoir pressure and temperature and nozzle area ratio are computed using these correlations. The present results are compared with the previous results and the main differences are discussed.
+
+gas lasers
+gain
+optimization
+carbon dioxide lasers
+parametric analysis
+mathematical models
+gases
+mixtures
+nitrogen
+water
+helium
+signals
+optical properties

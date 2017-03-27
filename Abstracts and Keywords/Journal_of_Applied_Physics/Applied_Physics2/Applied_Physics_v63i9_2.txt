@@ -1,0 +1,12 @@
+We calculate the absorption at the bandgap edge due to excitons in InGaAsGaAs superlattice quantum wells. We use a finite square well model and investigate the dependence of the calculated exciton states on the parameters in the model. The behavior of the absorption coefficient as a function of the strength of an electric field applied perpendicular to the layers is investigated and we find that the results of the model give a good description of the measurements of the absorption coefficient on InGaAsGaAs quantum wells.
+
+SUPERLATTICES
+QUANTUM WELL STRUCTURES
+EXCITONS
+ENERGY GAP
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+ELECTRIC FIELD EFFECTS
+OPTICAL PROPERTIES
+ELECTROOPTICAL EFFECTS
+ABSORPTIVITY

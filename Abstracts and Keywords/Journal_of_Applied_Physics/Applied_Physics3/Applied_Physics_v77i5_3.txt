@@ -1,0 +1,15 @@
+The inter and intragrain critical current densities of melt processed YBa2Cu3O7 (YBCO) thick films have been measured as a function of temperature using vibrating sample magnetometry. The width of the MH hysteresis curve has been observed to scale with the cube of the sample width for temperatures up to <70 K and applied fields of greater than 1 T which implies that current flows on the length scale of the sample over this temperature and field regime. An exponential decrease of magnetic moment hysteresis with temperature up to <70 K and between <80 K and Tc has been observed and attributed to the dominance of inter and intragranular current, respectively. An empirical model is presented to account for the observed dependence of the critical current density on temperature, based upon weak link behavior within the Hub and Spoke like morphology characteristic of melt processed YBCO thick films. © 1995 American Institute of Physics.
+
+SUPERCONDUCTING FILMS
+HIGHTC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+CRITICAL CURRENT
+CURRENT DENSITY
+TEMPERATURE DEPENDENCE
+HYSTERESIS
+TEMPERATURE RANGE 65273 K
+WEAK LINKS
+GRAINS

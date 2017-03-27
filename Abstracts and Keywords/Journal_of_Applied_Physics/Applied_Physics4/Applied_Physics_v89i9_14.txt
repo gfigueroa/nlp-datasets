@@ -1,0 +1,4 @@
+The effective creep rate of fiber reinforced composites in an effective medium approximation is calculated analytically. The fibers are modeled by ellipsoids of a given aspect ratio. Both the case of aligned and randomly oriented ellipsoids are investigated. The elastic strains are calculated along the previous work of [J. D. Eshelby, Proc. R. Soc. London, Ser. A 241, 376 (1957)]. I find that different amounts of the reinforcement is to change the time scale of change. The functional form remains unchanged. © 2001 American Institute of Physics. 
+
+fibre reinforced composites
+creep

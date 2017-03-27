@@ -1,0 +1,14 @@
+We have calculated the spacechargeperturbed ion flow for the wireplane geometry using coordinate inversion and a finitedifference method to retain the boundary at infinity. The results agree in outline with earlier finite element work, but they show a smooth variation of charge density with angle close to the wire. This suggests that the earlier work [J. L. Davis and J. F. Hoburg, J. Electrostat. 18, 1 (1986)] contains an error. We also show that the commonly used Deutsch assumption that field lines preserve their shape is not particularly good. We note that all calculations, good and poor, reproduce the wellestablished Warburg (cosine power law) dependence of current density and field on the ground plane, but that careful work is needed to establish the conditions near the emitting wire.
+
+GALLIUM ARSENIDES
+SODIUM SULFIDES
+AMMONIUM SULFATES
+PASSIVATION
+PHOTOLUMINESCENCE
+SURFACES
+BAND STRUCTURE
+AUGER ELECTRON SPECTROSCOPY
+FILMS
+INTERFACES
+ELECTRIC CONDUCTIVITY
+MESFET

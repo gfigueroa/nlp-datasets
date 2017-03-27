@@ -1,0 +1,5 @@
+In this work we describe the application of the basic small BAseline subset (SBAS) technique, which exploits multilook interferograms, to a number of active volcanic areas. The use of such a technique reduces the amount of data to be processed and simplifies the analysis of geophysical phenomena occurring in extended areas (up to 100 km by 100 km). Moreover, it can be trivially extended in order to combine data acquired by different sensors with similar geometrical and electromagnetic characteristics, i.e., ERS and ENVISAT IS-2 mode, thus allowing an easy extension of the temporal observation window. The selected test sites for this study are Long Valley caldera, Mt. Etna and the Neapolitan Volcanic district (Mt. Vesuvio and Campi Flegrei caldera). Finally, we shortly analyze the implications of the use of forthcoming SAR sensors that operates in L-and X-bands.
+
+Differential SAR Interferometry
+SBAS
+Surface deformation

@@ -1,0 +1,10 @@
+A theory of giant magnetoimpedance (GMI) in anisotropic magnetic wires is presented. The theory is valid over a broad field and frequency range. The emphasis is put on the GMI response in the low field region, where the wire is not saturated. The behavior of the wire may be described using three magnetic modes of mixed electromagnetic and spin wave character and one nonmagnetic mode, which is uncoupled from the magnetic response of the material. The properties of these four modes are discussed, with particular attention to the exchange-conductivity effects, which play a decisive role at moderate frequency. Application of the theory to real material is examined, with an outline of its applicability and its limitations. Predictions of the model compare well with experimental data on CoFeSiB wire. © 2000 American Institute of Physics. 
+
+galvanomagnetic effects
+electric impedance
+spin waves
+ferromagnetic materials
+cobalt alloys
+iron alloys
+silicon alloys
+boron alloys

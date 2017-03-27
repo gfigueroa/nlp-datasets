@@ -1,0 +1,15 @@
+Thin film CdS/CdTe solar cell structures have been investigated by spatially resolved cathodoluminescence (CL) spectroscopy. A postgrowth CdCl2 treatment of the CdTe layer was found to homogenize the distribution of acceptor-like defects or impurities leading to optimized p-type conversion of the polycrystalline CdTe. For values of the growth temperature (TG) of about 600
+°C, the intermixed region between the CdS layer and CdTe grains is surprisingly thin. However, for TG as large as 630650
+°C, a gradual decrease of the CdTe band gap due to sulfur intermixing appears to be present up to 0.6 ¼m from the CdS/CdTe interface. The CL spectra of the CdS window layer exhibit two broad bands centered at 1.72 (red) and 2.04 eV (yellow). The yellow one is quenched by the CdCl2 treatment, indicating passivation or promoted outdiffusion of Cd interstitials. © 2001 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+solar cells
+cathodoluminescence
+impurity distribution
+semiconductor doping
+impurity states
+energy gap
+semiconductor heterojunctions
+chemical interdiffusion
+interface structure

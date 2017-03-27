@@ -1,0 +1,14 @@
+We have investigated the structural characteristics of IIVI separate confinement heterostructure lasers grown on GaAs substrates and containing Zn1xMgxSySe1y quaternary cladding layers, ZnSe or ZnSySe1y guiding layers and Zn1zCdzSe quantum well active layers. The study was performed with a combination of transmission electron microscopy and high resolution xray diffraction techniques. We found that the quaternary cladding layers remain pseudomorphic to the GaAs substrate although they can be lattice mismatched up to 0.1%. When the 0.5¼mthick optical guiding layer contains ZnSe, there is partial relaxation of the laser structure by misfit dislocations at the lower claddingguiding layer interface and the threading dislocation density in the Zn1zCdzSe quantum well active region is about 107 cm2. However, when lattice matched (to GaAs)ZnSySe1y is used as the guiding layer the entire laser structure is pseudomorphic and the threading dislocation density is &lt;106 cm2. The combination of low defect density and enhanced carrier and optical confinement by using Zn1xMgxSySe1y quaternary cladding layers has produced significant improvement in the room temperature threshold current (500 A/cm2) and maximum operating temperature (394 K).
+
+SEMICONDUCTOR LASERS
+HETEROSTRUCTURES
+CLADDING
+LAYERS
+ZINC SELENIDES
+MAGNESIUM SELENIDES
+ZINC SULFIDES
+QUATERNARY COMPOUNDS
+TEM
+XRD
+MISFIT DISLOCATIONS
+THRESHOLD CURRENT

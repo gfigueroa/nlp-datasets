@@ -1,0 +1,6 @@
+In recent years integrated full electric propulsion (IFEP) has become a popular power system concept within the marine community, both for the naval and the commercial community. In this paper the authors discuss the need for a detailed investigation into the impact of different IFEP power system architectures on the availability of power and hence on the survivability of the vessel. The power system architectures considered here could relate to either a commercial or a naval vessel and include radial, ring and hybrid AC/DC arrangements. Comparative fault studies of the architectures were carried out in an attempt to make valuable observations on the survivability of a vessel. Simulation results demonstrate that the ring and hybrid AC/DC architectural contribute to a higher survivability than the radial architecture. However, there are still challenges that need to be addressed and therefore potential solutions such as fault current limiters will be considered.
+
+Marine technology
+power distribution
+power system availability
+power system protection

@@ -1,0 +1,9 @@
+We have obtained atomicresolution images of NbSe2 single crystals in air. Constantheight images clearly show the expected atomic structure, and can distinguish the two inequivalent halves of the unit cell. Constantcurrent images show an anomalously high atomic corrugation, associated with elastic deformation of the sample. Surface contamination probably plays an important role in transmitting the tipsample forces. A largerscale apparent buckling of the surface with a period of several times the atomic spacing is sometimes observed.
+
+NIOBIUM SELENIDES
+SCANNING ELECTRON MICROSCOPY
+SURFACE STRUCTURE
+IMAGES
+AIR
+MONOCRYSTALS
+DEFORMATION

@@ -1,0 +1,14 @@
+The absorption coefficient (±) and fundamental transition energies of thinfilm CuInSe2 were determined by spectrophotometry in the nearinfrared (NIR) and visible wavelength regions from 500 to 2000 nm for a wide range of compositions. The results suggest a relationship between the constituent specie fluxes and substrate temperature, and the resulting polycrystalline nature of the film which dominates the optical properties. Nearstoichiometric and Curich films appear to crystallize in larger grain sizes in comparison with Cupoor films, with a Cu2´ Se secondary phase at grain boundaries and free surfaces. Correspondingly, significant variations in the absorption coefficient among different film compositions exist in the neighborhood of the band edge. At energies well above the gap, all films behave similarly with ±s of (12)×105 cm1 at 500 nm. Similarly, continuous dispersion curves for the index of refraction have only been derived for single phase Cupoor material by an iterative technique. The absorption data are substantiated through spectral response simulations that accurately reproduce measured device data. The range of primary and secondary transition energies, respectively, is 0.951.01 and 1.171.22 eV. These values indicate a valenceband splitting of 0.200.24 eV, in good agreement with singlecrystal values.
+
+COPPER SELENIDES
+INDIUM SELENIDES
+THIN FILMS
+OPTICAL PROPERTIES
+QUANTITY RATIO
+TEMPERATURE DEPENDENCE
+NEAR INFRARED RADIATION
+VISIBLE RADIATION
+SPECTROPHOTOMETRY
+POLYCRYSTALS
+REFRACTIVITY
+DISPERSION RELATIONS

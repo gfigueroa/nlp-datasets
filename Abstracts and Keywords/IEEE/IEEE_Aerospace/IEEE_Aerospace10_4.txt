@@ -1,0 +1,4 @@
+The paper outlines the status and plans for the implementation of automatic dependent surveillance-broadcast (ADS-B) in Europe. It presents the progress achieved in areas such as standardisation, validation (including the so-called CRISTAL trials in partnership with air navigation service providers, the pioneer airline scheme, the monitoring of ADS-B performance), certification, implementation planning and operations. Europe progresses fast towards ADS-B implementation. ADS-B operations will first happen at local sites from 2009 and will be followed by a more widespread implementation from around 2015 onwards, based on a European Commission Implementing Rule. The results from ADS-B performance analysis so far are very positive.
+
+ADS-B
+Surveillance

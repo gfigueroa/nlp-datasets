@@ -1,0 +1,9 @@
+Two-dimensional photonic crystals (2D PCs) were fabricated on a 1.18-¼m-thick polymer resist (DMI-150) by a double-exposure holographic method using a HeCd laser with a wavelength of 442nm. The 2D PC arrays exhibited various primitive lattice structures from triangle to square according to the change of the rotation angle (³) of the double-exposure beams. In addition, the period, filling factor, and form (dot or antidot) of the PCs could be controlled by the experimental conditions such as the incident interference angle (¸), the exposure power, and duration. The following exposure procedure was applied: first holographic exposure, followed by sample rotation, and finally, second holographic exposure. The first and second holographic exposures were carried out at a fixed angle (¸ = 11°) and the rotation was performed in the range of ³ = 45°90°. The variation of diffraction efficiency (·) during the exposure process and after the development was monitored using a HeNe laser in real time. The images of the prepared 2D PCs were observed by scanning electron microscopy and atomic force microscopy, and the data on their reciprocal lattices were obtained by the diffracted patterns. We believe that the double holographic method is a suitable tool to realize the dot- and antidot-type 2D PCs with a periodic array of a large area.
+
+atomic force microscopy
+holography
+laser materials processing
+optical fabrication
+optical polymers
+photonic crystals
+scanning electron microscopy

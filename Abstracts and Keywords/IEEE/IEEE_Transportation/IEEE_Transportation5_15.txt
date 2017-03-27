@@ -1,0 +1,7 @@
+This paper proposes a new diagnostic method for turn-to-turn short circuit faults in stator windings using two features of current flowing into the windings, i.e. its magnitude and phase. By using the magnitude and the phase of a target motor, fault probability is calculated based on their distributions of healthy motors obtained beforehand. Examination using motors with turn-to-turn short circuit faults proved that the method proposed is quite effective.
+
+diagnosis
+fault probability
+feature distribution
+motor winding
+short circuit fault

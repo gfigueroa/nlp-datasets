@@ -1,0 +1,5 @@
+Probabilistic latent semantic analysis (PLSA) is a method for computing term and document relationships from a document set. The probabilistic latent semantic index (PLSI) has been used to store PLSA information, but unfortunately the PLSI uses excessive storage space relative to a simple term frequency index, which causes lengthy query times. To overcome the storage and speed problems of PLSI, we introduce the probabilistic latent semantic thesaurus (PLST); an efficient and effective method of storing the PLSA information. We show that through methods such as document thresholding and term pruning, we are able to maintain the high precision results found using PLSA while using a very small percent (0.15%) of the storage space of PLSI.
+
+Probabilistic latent semantic analysis
+Query expansion
+Thesaurus

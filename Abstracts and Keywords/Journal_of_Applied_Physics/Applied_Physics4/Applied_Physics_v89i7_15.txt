@@ -1,0 +1,10 @@
+²-FeSi2 crystals were grown from high-purity starting materials by chemical vapor transport. The crystals were in situ n-type doped adding Co to the source material. Electrical properties have been investigated by temperature-dependent resistivity and Hall effect measurements. Above 100 K, we observed conventional conduction band transport. The Co doping was found to create a shallow donor level at Ec0.053 eV. Hall mobilities up to 50 cm2/Vs were observed. At lower temperatures defect band conduction dominates the electrical transport and negative magnetoresistance is observed. The main contribution to the Hall voltage observed at low temperatures arises from the anomalous Hall effect. © 2001 American Institute of Physics. 
+
+iron compounds
+cobalt
+crystal growth from vapour
+semiconductor materials
+electrical resistivity
+Hall mobility
+magnetoresistance
+defect states

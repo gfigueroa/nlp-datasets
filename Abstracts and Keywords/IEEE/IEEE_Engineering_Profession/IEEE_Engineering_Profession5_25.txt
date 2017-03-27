@@ -1,0 +1,5 @@
+The goal of this report is to characterize the small world phenomenon in the patent citations network by analyzing the data of TFT-LCDs patents. The empirical results suggest that the patent citation network can indeed be characterized as Â¿small worldÂ¿. Additionally, the patent citation network resembles the power-law connectivity distribution and exhibits preferential connectivity behavior. Furthermore, as a patent with high betweenness centrality is removed from the citation network, 50.6% of the patent knowledge communication will be limited. The result of this analysis will provide a specific way for managers to map their own patent networks and derive insight into the best ways to navigate within such networks.
+
+betweenness centrality
+patent citation
+small world network

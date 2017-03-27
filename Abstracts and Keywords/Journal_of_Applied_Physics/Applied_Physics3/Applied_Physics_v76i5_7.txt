@@ -1,0 +1,9 @@
+Results of electrical resistivity Á(T) measurements on (Cu3Pt)100xMnx alloys with 0.5, 1, 1.85, and 3 at.	% Mn in the temperature range of 1.8300 K are presented. For 0.5 and 1.0 at.	% Mn alloys, Á(T) shows a maximum at low temperature followed by a minimum at a higher temperature. For 1.85 and 3 at.	% Mn alloys, both the minimum and maximum in resistivity are washed out. The observed behavior seems to result from the weak indirect RudermanKittelKasuyaYosida interaction responsible for spin glass behavior in these alloys.
+
+SPIN GLASSES
+COPPER ALLOYS
+PLATINUM ALLOYS
+MANGANESE ALLOYS
+TERNARY ALLOYS
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE

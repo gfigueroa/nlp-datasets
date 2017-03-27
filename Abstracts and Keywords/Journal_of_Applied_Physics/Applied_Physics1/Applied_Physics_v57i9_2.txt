@@ -1,0 +1,8 @@
+Lasers are well suited to penetration welding as they can supply large amounts of power to a very small volume far from the surface of the workpiece. This paper reports the results of calculations performed with the aid of a mathematical model for the flow of heat and the motion of the molten metal surrounding the keyhole formed by the laser. The equations were solved with the aid of an approximate analytical solution for low welding speeds, and a computer program for higher speeds. A number of different materials are considered and graphs of the temperature distribution and the stream function describing the fluid motion are shown for a typical case. Relationships between the weld width, the power absorbed per unit thickness of the workpiece, and the speed of welding are investigated in detail. Over the range of welding speeds considered, the relationships given by the approximate analytical solution were found to be close to those obtained by numerical integration of the exact equations, even though the fine details of the solution, such as the ratio of the weld width to the total length of the weld pool at a given instant, or the details of the fluid motion, are substantially different.
+
+HEAT FLOW
+LASER WELDING
+MATHEMATICAL MODELS
+ANALYTICAL SOLUTION
+COMPUTERIZED SIMULATION
+MELTING

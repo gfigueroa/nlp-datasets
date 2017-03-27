@@ -1,0 +1,21 @@
+Infrared (IR) electroluminescent (EL) thin film phosphors were radio frequency magnetron sputter deposited by cosputtering of an undoped ZnS target together with ZnS: 1.5 mole
+% ErF3 or ZnS: 1.5 mole
+% NdF3 targets. The ZnS:ErF3 and ZnS:NdF3 thin film phosphors were annealed in a N2 ambient at temperatures ranging from 350 to 475
+°C for 1 h to increase radiance. The maximum EL radiance observed was 28 ¼W/cm2 at 1550 nm for ZnS:ErF3, and 26 ¼W/cm2 at 910 nm and 15 ¼W/cm2 at 1060 nm for ZnS:NdF3 (at 40 V above the threshold voltage) after a 425
+°C, 1 h anneal in nitrogen. For anneals above 425
+°C visible emission increased, while near infrared (NIR) emission from both ZnS:ErF3 and ZnS:NdF3 was either constant or decreased. For ZnS:ErF3, the 1550 nm NIR peak decreased, but the 990 nm peak remained constant in intensity. The crystallinity of ZnS was improved by annealing, and these results are consistent with the postulate that residual defects limit the acceleration of hot electrons for anneals at }425
+°C. Under these conditions, hot electrons only have sufficient energy to excite Er+3 into the lower lying 4I13/2 excited state which leads to 1550 nm NIR emission. With increasing annealing temperatures, hot electrons can excite from the 4I15/2 ground state into higher energy excited states (e.g., the 4F7/2 state for 990 nm emission). The NIR emissions from ZnS:NdF3 at 910 and 1060 nm originate from the same excited state and both peaks exhibited maximum NIR intensities after annealing at 425
+°C. While the emission spectra from Er were independent of annealing temperature, peak shifts were observed for Nd. These shifts were discussed in terms of the nephelauxetic effect and hybridization of the 5d4f orbitals. © 2003 American Institute of Physics. 
+
+zinc compounds
+erbium
+neodymium
+electroluminescence
+phosphors
+II-VI semiconductors
+semiconductor thin films
+sputtered coatings
+annealing
+excited states
+impurity states
+spectral line shift

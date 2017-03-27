@@ -1,0 +1,16 @@
+Specular 4H-SiC layers have been homoepitaxially grown on 4H-SiC(110), parallel to the c axis (0001	), by chemical vapor deposition at 1500
+°C. An x-ray diffraction analysis has revealed that a lattice-mismatch strain between n epilayers and n+ substrates could be minimized by introducing n-type buffer layers. The donor concentration of unintentionally doped epilayers could be reduced down to 1×1014
+cm3 under a C-rich growth condition. Through isothermal capacitance transient spectroscopy measurements, three acceptor-like traps with activation energies of 0.27, 0.32, and 0.66 eV have been detected with a total trap concentration as low as 3.8×1012
+cm3. The capture cross section of the deepest trap, the Z1 center, at high temperatures has been determined. © 2001 American Institute of Physics.
+
+silicon compounds
+wide band gap semiconductors
+chemical vapour deposition
+semiconductor growth
+deep levels
+vapour phase epitaxial growth
+semiconductor epitaxial layers
+X-ray diffraction
+electron traps
+hole traps
+deep level transient spectroscopy

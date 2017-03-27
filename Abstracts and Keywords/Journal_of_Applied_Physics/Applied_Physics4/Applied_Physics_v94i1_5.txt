@@ -1,0 +1,12 @@
+Ni80Fe20Mn alloy thin films were fabricated using magnetron sputtering in order to study the microstructural changes that develop in an exchange couple (Ni80Fe20 and Mn). In the process, we discovered that the alloy films phase separated into Ni80Fe20 and Mn when annealed at 400
+°C, although bulk Ni80Fe20 and Mn are miscible at room temperature. Moreover, a strong crystallographic texture developed during annealing, especially for films with high Mn content. The increase of texture was attributed to the volume expansion taking place in the phase separation. It was speculated that the as-deposited alloy films had a large coherent interfacial strain, possibly due to inhomogeneous alloying. In turn, this hindered the formation of intermetallic compounds, and instead forced a phase separation to reduce the interfacial energy. © 2003 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+manganese alloys
+magnetic thin films
+texture
+annealing
+exchange interactions (electron)
+phase separation
+sputtered coatings

@@ -1,0 +1,13 @@
+The growth mode of Ge clusters on a Si(100) surface was found to depend on whether the initial Si surface was hydrogenated or not. The Ge clusters, grown by ultrahigh vacuum chemical vapor deposition, were characterized by atomic force microscopy and cross-sectional transmission electron microscopy. Dome-shaped clusters were formed when the Si buffer layer had been exposed to atomic hydrogen. On the other hand, hut-shaped clusters were grown when there was no hydrogen exposure, and they were more than an order of magnitude smaller than the dome-shaped clusters. Thermal desorption spectroscopy measurements revealed that the Si surface exposed to atomic hydrogen was partially hydrogenated into the monohydride phase. It was concluded that hydrogen termination of the Si(100) surface plays an important role in the successive growth of Ge clusters. © 1998 American Institute of Physics.
+
+germanium
+elemental semiconductors
+atomic clusters
+silicon
+hydrogen
+semiconductor growth
+chemical vapour deposition
+atomic force microscopy
+transmission electron microscopy
+surface structure
+thermally stimulated desorption

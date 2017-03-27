@@ -1,0 +1,9 @@
+GeS2/metals thin film bilayered structures were examined for write-once-type optical recording materials. Decreases in the reflectance of GeS2/Ag and GeS2/Cu structures at a certain elevated temperature were observed. The phenomena were attributed to the formation of metal sulfides with high optical absorption coefficients by the interface reaction between transparent GeS2 and highly reflective metals. In contrast to GeS2/Ag or GeS2/Cu, an increase in the reflectance was observed in GeS2/Au, which was presumably due to the change of optical interference conditions caused by the decrease in the GeS2 film thickness and the improvements of the crystallinity of Au caused by the decrease of the lattice defects along the grain boundaries of Au. Examination of the GeS2/metals bilayered structures as optical disc memories revealed that the reactions occurred within submicrosecond during the recording laser irradiations. The recording sensitivities of GeS2/Ag or GeS2/Cu which corresponded to the reaction temperatures was able to be controlled by Al doping to Ag or Cu. The reflectance of the GeS2/metals samples except the GeS2/Cu kept enough value to be optically readable in the wider range from 500to800nm than the recording layer containing organic dye of the conventional compact disc recordable. The spectra after the heat treatments showed the smaller wavelength dependence than that before the heat treatment. These features indicate the promising properties of these structures in application to optical recording media that can be used in the wide wavelength range.
+
+germanium compounds
+silver
+copper
+gold
+optical storage
+metal-insulator boundaries
+grain boundaries

@@ -1,0 +1,12 @@
+A frequently used front contact in CdS/CdTe heterojunction solar cells is SnO2. We have performed a soft xray synchrotron radiation photoemission investigation of the formation and thermal stability of the SnO2/CdS interface in an attempt to understand how device processing influences this interface. The most important results are that (1) the CdS and SnO2 do not interact chemically, even after annealing to 400	°C, (3) the first <16 Å CdS deposited on polycrystalline SnO2 grows in a layerbylayer mode, (3) subsequent CdS layers agglomerate, forming a topologically rough surface, (4) diffusion of Sn, Cd, and S across the interface does not occur, (5) annealing a CdS thin film grown at room temperature on SnO2 to 400	°C enhances the agglomeration, and (6) the near coincidence of the conductionband minimum across the interface facilitates ohmic contact between ntype CdS and ntype SnO2.
+
+CADMIUM SULFIDE SOLAR CELLS
+CADMIUM TELLURIDE SOLAR CELLS
+INTERFACES
+PHOTOEMISSION
+SYNCHROTRON RADIATION
+X RADIATION
+TIN OXIDES
+ANNEALING
+DIFFUSION
+NTYPE CONDUCTORS

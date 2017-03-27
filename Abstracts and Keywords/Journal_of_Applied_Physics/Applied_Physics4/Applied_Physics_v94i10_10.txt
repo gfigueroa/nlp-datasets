@@ -1,0 +1,6 @@
+Electroluminescent (EL) properties of a low-molecular-weight liquid crystal (LC), which is composed of an oxadiazole moiety as an electron-transporting unit and an amine moiety as a hole-transporting unit, were investigated. The most significant characteristic of the LC is to possess bipolar carrier-transporting abilities. The bipolar LC makes it possible to fabricate a simple EL device. We fabricated an EL device (cell gap: 2 ¼m) with configuration of indium tin oxide (ITO)/LC/MgAg. The device emitted visible light at above 10 V. In particular, the values of luminance and current density of an EL device containing poly(3,4-ethylenedioxythiophene)/poly(styrenesulfonic acid) (PEDOT) as a hole-injecting layer were ten and six times higher than those of the ITO/LC/MgAg device without the PEDOT layer, respectively. Furthermore, surfaces of the glass substrate with an ITO electrode and a PEDOT layer were rubbed to align mesogens. Dichroic ratio of the emission from an ITO/rubbed PEDOT/LC/MgAg device was estimated to be 2.8. These results indicate that the origin of polarized emission in the LC phase is the anisotropic arrangement of the mesogenic units. © 2003 American Institute of Physics. 
+
+organic compounds
+liquid crystals
+organic light emitting diodes
+electroluminescence

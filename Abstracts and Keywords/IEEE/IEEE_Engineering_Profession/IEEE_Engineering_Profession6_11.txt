@@ -1,0 +1,6 @@
+Disruptive Innovation can be defined as developing technologies that are typically cheaper, simpler to use and target low-end or new customers. This paper suggests that disruptive innovation theory needs to be forecasted by studying Ideal Final Result (IFR) of product. According to IFR, two kinds of evolutionary technologies (i.e., mainstream evolutionary technologies and laggard evolutionary technologies) can be detected. Then the necessary and sufficient condition for forecasting innovation technologies is established. Based on an evolution route line of TRIZ, the potential disruptive innovation can be forecasted. As a case study, the video game console system is investigated. The study shows that the adoption of TRIZ evolution theory in forecasting disruptive technologies of product is feasible.
+
+disruptive innovation
+laggard evolutionary technology
+mainstream evolutionary technology
+technical systems evolution route

@@ -1,0 +1,6 @@
+Nowadays, population features differ from place to place in China. The differences between population and customer samples, which are called "spatial population drift", are caused by economic, social and cultural reasons. Prediction model adaptability of customer segmentation is weakened by spatial population drift. A Bayesian network can effectively combine prior knowledge and sample data information. This paper proposes a method of a Bayesian network to improve model adaptability for different samples while keeping its high accuracy. It sets model structure without parameters as general form on population or large samples with good data quality, and then trains model parameters by local sample. By this way, the prediction model for special customer instance is built. It can solve the uncertainty of customer segmentation based on customer data in China to some extent
+
+Customer segmentation
+Data mining
+Population drift
+Spatial drift

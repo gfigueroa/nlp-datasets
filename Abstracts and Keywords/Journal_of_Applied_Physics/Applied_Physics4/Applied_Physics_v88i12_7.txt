@@ -1,0 +1,7 @@
+Photoinduced liquid crystal alignment is achieved by irradiation of polyimide at 248 nm with polarized excimer laser light below the threshold fluence for significant material removal. The liquid crystal-surface anchoring conditions are found to depend nonlinearly on the incident pulse energy: saturated alignment is achieved with a total incident fluence of only 92 mJ cm2 when a pulse fluence of 18.4 mJ cm2 is used, but requires an exposure of 1350 mJ cm2 for pulses fluences of 2.8 mJ cm2. Spectroscopic measurements show that the photodegradation mechanism also depends on the pulse energy. When pulses of fluence 0.58 mJ cm2 are incident, photo-oxidation and deimidization occur and many photoproducts remain on the surface. At higher fluences there is more ablation with material removal from the surface. Saturated alignment is achieved with less photodegradation as well as shorter exposure times when higher pulse energies are used. © 2000 American Institute of Physics. 
+
+polymer films
+ultraviolet spectra
+laser beam effects
+oxidation
+nematic liquid crystals

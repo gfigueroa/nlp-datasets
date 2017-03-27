@@ -1,0 +1,10 @@
+We report on the synthesis, characterization, and physical properties of modified polymeric matrices incorporating silicon atoms in their structure and doped with laser dyes. When the silicon-modified organic matrices incorporated pyrromethene 567 (PM567) and pyrromethene 597 (PM597) dyes as actual solid solutions, highly photostable laser operation with reasonable, nonoptimized efficiencies was obtained under transversal pumping at 532nm. At a pump repetition rate of 10Hz, the intensity of the laser emission remained at the level or above the initial lasing intensity after 100	000 pump pulses in the same position of the sample, corresponding to an estimated accumulated pump energy absorbed by the system of 518 and 1295GJ/mol for PM567 and PM597, respectively. When the pump repetition rate was increased to 30Hz, the laser emission of dye PM567 decreased steadily and the output energy fell to one-half its initial value after an accumulated pump energy of 989 GJ/mol. Dye PM597 demonstrated a remarkable photostability, and under 30Hz pumping the laser emission from some samples remained stable after 700	000 pump pulses in the same position of the sample, corresponding to an accumulated pump energy of 17	300GJ/mol. Narrow linewidth operation with tuning ranges of up to 31nm was obtained with both pyrromethene dyes when some of the samples were incorporated into a grazing-incidence grating oscillator.
+
+solid lasers
+dyes
+silicon
+optical polymers
+optical pumping
+laser stability
+spectral line breadth
+laser tuning

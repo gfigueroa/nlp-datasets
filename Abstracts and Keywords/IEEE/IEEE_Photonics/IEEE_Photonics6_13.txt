@@ -1,0 +1,7 @@
+In this paper, a novel ultra-wideband six-port junction based on microstrip single-layer technique is presented and discussed. The proposed design circuit uses a single layer elliptic coupler which offer a wide bandwidth compared to the hybrid one. The coupler and six-port circuit were designed and simulated using ADS software of Agilent. Simulation results show a good performance, especially in terms of bandwidth (from 3 to 6 GHz). This novel architecture is useful for low cost ultra-wideband application.
+
+elliptic coupler
+phase shifters
+single layer
+six-port circuit
+ultra-wideband applications

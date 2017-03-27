@@ -1,0 +1,13 @@
+Ntype and ptype deltadoped GaAs grown by molecular beam epitaxy with rather significantly high doses of Si and Be have been investigated by transmission electron microscopy (TEM). The amount of doses ranged from half a monolayer to two monolayers. The microscopic structures of the deltadoped regions and the adjacent epilayers were directly observed by TEM. The effect of impurity spreading on the heterointerfaces and superlattices was also studied. Si atoms present in Si deltadoped samples were confined to within a few atomic layers. The Be atoms present in Be deltadoped samples, however, spread over a quite wide region and caused rough heterointerfaces and wavy superlattices to form. Spreading of Be was attributed to segregation and diffusion which occurred during growth. Stacking faults were found in the deltadoped samples when they were grown at low temperatures. They could be attributed to local strain caused by heavy doping.
+
+GALLIUM ARSENIDES
+TRANSMISSION ELECTRON MICROSCOPY
+MOLECULAR BEAM EPITAXY
+DOPED MATERIALS
+NTYPE CONDUCTORS
+PTYPE CONDUCTORS
+SILICON ADDITIONS
+BERYLLIUM ADDITIONS
+MICROSTRUCTURE
+HETEROJUNCTIONS
+SUPERLATTICES

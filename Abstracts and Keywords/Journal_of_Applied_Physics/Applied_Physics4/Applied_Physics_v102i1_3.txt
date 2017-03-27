@@ -1,0 +1,11 @@
+Interest in thin films of PZT (lead zirconium titanate PbZr0.47Ti0.53O3) has increased because of their potential applications. For instance, the insertion of PZT in asymmetric nematic liquid crystal cells induces a rectified electro-optical response similar to that observed in such cells because of the insertion of metal oxide layers with ionic conductivity. In the present work several PZT films have been investigated, obtained by different thermal treatments after sol-gel synthesis and spin coating deposition. The observed rectifying effect, due to the insertion of PZT films in asymmetric liquid crystal cells, has been attributed to the presence of an internal field made from the reorientation of nanodomains of PZT. The presence of such internal fields is demonstrated and an estimation of it is given. Moreover, asymmetric nematic liquid crystal cells made with PZT films show considerable improvements in both contrast and response time.
+
+lead compounds
+nematic liquid crystals
+piezoceramics
+ferroelectric ceramics
+ferroelectric thin films
+piezoelectric thin films
+electro-optical effects
+electric domains
+rectification

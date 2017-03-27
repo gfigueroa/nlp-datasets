@@ -1,0 +1,10 @@
+An investigation of amorphous, pyrolytic carbon for semiconductor applications is presented. We have deposited conductive carbon films on thin silicon oxide and aluminum oxide dielectrics and structured them into metal-insulator-silicon (MIS) capacitors in order to evaluate their electrical properties. The results show that the effective oxide thickness is comparable to metal electrodes, indicating that there is no depletion region between the dielectric and the carbon. The carbon electrodes exhibit very low leakage and FowlerNordheim tunneling on silicon oxide and Frenkel-Poole tunneling on aluminum oxide at high fields. The electrical parameters determined from the results are comparable to those for poly-silicon.
+
+aluminium compounds
+carbon
+dielectric materials
+electrodes
+MIS capacitors
+silicon compounds
+tunnelling
+wide band gap semiconductors

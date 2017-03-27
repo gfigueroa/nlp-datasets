@@ -1,0 +1,13 @@
+Two-dimensional (2D) titanium nanodots were formed in the subsurface layer of single crystal SiO2, i.e., a 2D Ti metal quantum dot composite, by subplantation of 9 keV Ti+ ions. Transmission electron microscopy images show that the Ti nanodots have a uniform size distribution of <2 nm with very little deviation, almost constant edge-to-edge spacing (<1 nm) between neighboring nanodots in the lateral direction, and a very narrow depth distribution. These nanodots exhibit no crystallinity and are smaller than our previously reported single crystalline Ti nanodots with body-centered-cubic ² phase, indicating that the size and crystallinity of metal nanodots can be controlled through subplantation. A preliminary mechanism for the formation of 2D nanodots during subplantation is discussed. © 2004 American Institute of Physics. 
+
+titanium
+silicon compounds
+composite materials
+quantum dots
+nanostructured materials
+ion implantation
+chemical analysis
+electron energy loss spectra
+X-ray photoelectron spectra
+transmission electron microscopy
+metal-insulator boundaries

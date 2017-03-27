@@ -1,0 +1,11 @@
+We propose two semiempirical expressions for representing condensedphase heat capacities over a wide temperature range. Both can be integrated analytically to give closedform expressions for entropies and enthalpies. As examples, we use the expressions to represent the molar heat capacities, entropies, and enthalpies of Si	 and Al	.
+
+SOLIDS
+LIQUIDS
+SPECIFIC HEAT
+TEMPERATURE DEPENDENCE
+ENTROPY
+ENTHALPY
+ANALYTICAL SOLUTION
+SILICON
+ALUMINIUM

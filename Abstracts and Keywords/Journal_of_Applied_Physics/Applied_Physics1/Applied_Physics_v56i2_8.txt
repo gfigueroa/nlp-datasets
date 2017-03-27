@@ -1,0 +1,9 @@
+Unitcell parameters of the sodium tungstate perovskites, NaxWO3(x=0.55, 0.62, and 0.70), have been determined at a number of pressures to 5.3 GPa with singlecrystal xray diffraction techniques. Pseudocubic Na0.55WO3 and Na0.62WO3 (probably tetragonal, C4/mmb, c&gt;a at room pressure) have compressibilities of 0.0095(1) and 0.0084(1) GPa1, respectively. The Na0.55WO3 perovskite compresses uniformly with pressure to 4.2 GPa, but Na0.62WO3 transforms reversibly at 1.8(1) GPa to a second single phase (presumably tetragonal, I4/mmm) with c&lt;a and compressibility 0.0094(3) GPa1. A volume change of 0.1% accompanies this reversible, firstorder transition. Crystals of Na0.70WO3 (probably tetragonal, I4/mmm, c&lt;a) have a roompressure compressibility of 0.0110 (3) GPa1; however, the compressibility of this phase decreases to less than 0.0070 GPa1 at pressures above 2.5 GPa.
+
+compressibility
+phase transformations
+very high pressure
+sodium tungstates
+perovskites
+xray diffraction analysis
+pressure dependence

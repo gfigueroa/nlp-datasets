@@ -1,0 +1,9 @@
+A transmission line model for electric surface flashovers is analyzed. The model features an empirical scaling of resistance with current: The local resistance per unit length is taken to be inversely proportional to the magnitude of the local current. This scaling results in thresholds for discharge current onset and local abrupt termination of discharge current, as well as other observed properties of transient electrical discharges. The model predicts secondary current propagation: The current may terminate in a portion of the current channel and be restarted there at a later time. This results from the wave dynamics of voltage gradients in the channel. Conditions for current reversal and current termination are derived, and the dynamics of the free boundary between currentcarrying and currentfree regions of the current channel is studied.
+
+ELECTRIC DISCHARGES
+PARAMETRIC ANALYSIS
+SURFACES
+ELECTRIC CONDUCTIVITY
+ELECTRIC CURRENTS
+MATHEMATICAL MODELS
+TRANSIENTS

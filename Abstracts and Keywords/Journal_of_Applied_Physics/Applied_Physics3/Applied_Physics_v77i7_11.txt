@@ -1,0 +1,10 @@
+The sheath zone near a plane probe inmersed in an electronegative plasma is analyzed. A theoretical model for the sheath zone was used to derive a new expression for the Bohm criterion. The new expression holds at any negative probe potential. Solving the model equations allows one to obtain a wealth of information including the spatial distribution of various quantities (electric field, potential, and particle densities), the sheath thickness, and the floating potential. © 1995 American Institute of Physics.
+
+PLASMA SHEATH
+MATHEMATICAL MODELS
+ELECTRONEGATIVITY
+PROBES
+BOHM CRITERION
+ELECTRIC FIELDS
+POTENTIALS
+SPATIAL DISTRIBUTION

@@ -1,0 +1,15 @@
+Formation of bulk metallic glass in quaternary TiZrCuNi alloys by relatively slow cooling from the melt is reported. Thick strips of metallic glass were obtained by the method of metal mold casting. The glass forming ability of the quaternary alloys exceeds that of binary or ternary alloys containing the same elements due to the complexity of the system. The best glass forming alloys such as Ti34Zr11Cu47Ni8 can be cast to at least 4mmthick amorphous strips. The critical cooling rate for glass formation is of the order of 250 K/s or less, at least two orders of magnitude lower than that of the best ternary alloys. The glass transition, crystallization, and melting behavior of the alloys were studied by differential scanning calorimetry. The amorphous alloys exhibit a significant undercooled liquid region between the glass transition and first crystallization event. The glass forming ability of these alloys, as determined by the critical cooling rate, exceeds what is expected based on the reduced glass transition temperature. It is also found that the glass forming ability for alloys of similar reduced glass transition temperature can differ by two orders of magnitude as defined by critical cooling rates. The origins of the difference in glass forming ability of the alloys are discussed. It is found that when large composition redistribution accompanies crystallization, glass formation is enhanced. The excellent glass forming ability of alloys such as Ti34Zr11Cu47Ni8 is a result of simultaneously minimizing the nucleation rate of the competing crystalline phases. The ternary/quaternary Laves phase (MgZn2 type) shows the greatest ease of nucleation and plays a key role in determining the optimum compositions for glass formation. © 1995 American Institute of Physics.
+
+COOLING RATE
+GLASS TRANSFORMATIONS
+AMORPHOUS STATE
+COOLING
+COPPER ALLOYS
+CRYSTALLIZATION
+HARDNESS
+METALLIC GLASSES
+NICKEL ALLOYS
+NUCLEATION
+PHASE TRANSFORMATIONS
+TITANIUM ALLOYS
+ZIRCONIUM ALLOYS

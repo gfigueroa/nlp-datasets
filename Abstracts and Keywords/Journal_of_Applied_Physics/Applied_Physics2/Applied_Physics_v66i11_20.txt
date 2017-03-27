@@ -1,0 +1,13 @@
+Measurements of the shielding effectiveness of yttrium barium cuprate have shown that at low signal amplitudes the insertion loss is significant over a wide frequency range. The performance, however, is extremely sensitive to the signal amplitude and to the presence of local static fields. The major contribution to the shielding arises from reflection at the sample surfaces due to the impedance mismatch. An absorption component also exists which is associated with energy loss processes involving the breaking of weaklink intergranular contacts which allow flux to move into and through the material. These effects are closely related to the nonlinear magnetic properties of these superconductors which also lead to the appearance of a rich harmonic content in the transmitted waveform. While these effects are not encouraging for the use of these materials as shields, the suggestion is made that they could form the basis of a new class of frequency upconverters and mixers for highfrequency communication.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+SUPERCONDUCTORS
+MAGNETIC SHIELDING
+MAGNETIC FIELDS
+REFLECTION
+IMPEDANCE
+MAGNETIC PROPERTIES
+NONLINEAR PROBLEMS
+EQUATIONS

@@ -1,0 +1,8 @@
+A number of methods for improvement of the efficiency of laser cooling in semiconductors are suggested and analyzed theoretically. It is shown that by combining band gap engineering in the electronic domain and photonic band gap engineering in the optical domain, one can attain an enhancement in refrigeration efficiency provided the nonradiative efficiency is not drastically affected.
+
+gallium arsenide
+III-V semiconductors
+laser cooling
+photonic band gap
+electron-hole recombination
+energy gap

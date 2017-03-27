@@ -1,0 +1,17 @@
+Giant magneto impedance (GMI) has been measured in Fe77.5Si13.5B9 wires and Co67Fe3Cr3Si15B12 ribbons. The samples were annealed in order to induce specific anisotropies. An hysteretic behavior of the GMI is observed in both cases. Results show that this hysteretic behavior is related to irreversible changes in the magnetization processes of the samples. © 1998 American Institute of Physics. 
+
+electric impedance
+galvanomagnetic effects
+magnetic hysteresis
+soft magnetic materials
+ferromagnetic materials
+annealing
+magnetic anisotropy
+magnetisation
+metallic glasses
+amorphous magnetic materials
+iron alloys
+silicon alloys
+boron alloys
+cobalt alloys
+chromium alloys

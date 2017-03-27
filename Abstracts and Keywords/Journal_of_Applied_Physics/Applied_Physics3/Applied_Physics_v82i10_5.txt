@@ -1,0 +1,10 @@
+The effects of structural and chemical disorder on electronic and optical properties of InGaAsP quaternary alloy are studied on the basis of a modified virtual crystal approximation calculated within a simple tight-binding sp3s theory, which incorporates compositional disorder as an effective potential. Using a minimal set of fitting parameters, we show that such an approach provides analytical results for calculating energy gaps and bowing parameters. We show that the calculated bowing parameter agrees reasonably well with experimental data. The essential features of structure and disorder-induced changes in electronic and optical structure are exhibited in the sp3s results by two characterization parameters: the subband energy spacings, and the density of states. The changes in each of them are found to depend on the interrelated trends of structure and disorder effects. © 1997 American Institute of Physics.
+
+indium compounds
+gallium arsenide
+gallium compounds
+III-V semiconductors
+energy gap
+tight-binding calculations
+electronic density of states
+optical constants

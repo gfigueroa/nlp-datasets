@@ -1,0 +1,9 @@
+The magnetic entropy changes and magnetoresistance were studied in Ni45Mn42Cr2Sn11 ferromagnetic shape memory alloy near the martensitic transition temperature. The substitution of Mn by Cr leads to the rapid decrease of the martensitic transition temperature. A large magnetic entropy change, ”SM, of 15J/kg	K in a magnetic field of 10 kOe and a large negative MR of 45% in a magnetic field up to 50 kOe were observed in this alloy. The temperature and magnetic field induced martensitic transition should be the origin of large ”SM and MR in Ni45Mn42Cr2Sn11 ferromagnetic shape memory alloy.
+
+chromium alloys
+ferromagnetic materials
+magnetoresistance
+manganese alloys
+martensitic transformations
+nickel alloys
+tin alloys

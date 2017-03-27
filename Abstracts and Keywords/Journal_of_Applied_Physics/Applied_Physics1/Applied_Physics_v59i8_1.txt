@@ -1,0 +1,15 @@
+Under ultrahigh vacuum conditions, molybdenum disilicide has been obtained by electron gun evaporation of molybdenum on heated monocrystalline silicon substrate. Depending on the deposition temperature, the resulting thin film is composed of tetragonal disilicide or of a mixture of hexagonal and tetragonal disilicide. Preferential orientations of MoSi2 have been observed for both phases grown on (100) silicon substrate heated at 550, 650, and 750	°C. Further annealing does not improve the crystallographic orientation of the materials.
+
+MOLYBDENUM
+ULTRAHIGH VACUUM
+SILICON
+MOLYBDENUM SILICIDES
+CRYSTAL ORIENTATION
+VAPOR PHASE EPITAXY
+VACUUM COATING
+VAPOR DEPOSITED COATINGS
+CRYSTAL GROWTH
+ELECTRON BEAM EVAPORATION
+VERY HIGH TEMPERATURE
+VLSI
+TEMPERATURE EFFECTS

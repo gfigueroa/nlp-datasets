@@ -1,0 +1,10 @@
+We present magnetization and resistivity data on polycrystalline samples of Pr1xSrxMnO3 (0.58}x}1.00). All the samples are antiferromagnetic insulators at low temperatures. For 0.78&lt;x&lt;0.90, and for x=0.58, both resistivity and magnetization show a clear hysteresis which indicates the first-order nature of the antiferromagnetic transition. Neutron diffraction data show that the paramagnetic-to-antiferromagnetic transition is accompanied by a cubic-to-tetragonal structural transition for 0.78&lt;x&lt;0.90, and tetragonal-to-orthorombic transition for x=0.58. The other samples exhibit continuous transitions to the antiferromagnetic state. Our results show that the structural transitions are the origin of the discontinuous magnetic and resistive transitions. A moderate magnetoresistance effect can be observed for a lower Sr content possibly due to ferromagnetic fluctuations. © 2001 American Institute of Physics.
+
+praseodymium compounds
+strontium compounds
+neutron diffraction
+magnetic hysteresis
+colossal magnetoresistance
+antiferromagnetic materials
+paramagnetic-antiferromagnetic transitions
+solid-state phase transformations

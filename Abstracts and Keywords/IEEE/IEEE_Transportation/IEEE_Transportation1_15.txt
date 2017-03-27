@@ -1,0 +1,7 @@
+In recent years, we assisted to the development of communication satellite systems with very powerful satellite and multibeam coverage. Instead of a solid continental coverage, these new satellite systems offer a ldquocellularrdquo coverage made of several tens of pencil spot beams or of few form-shaped spot beams. Multibeam or cellular coverage allows re-using several times the same allocated frequency band and lead to a significant increase of the satellite usable bandwidth. These techniques trigger the expectation and then the realization of multi-gigahertz band satellites. Furthermore, enthusiasts are already predicting the Terabit satellite within a 20-year term. What are exactly the limits and goals of the race for in-orbit capacity? The paper first reviews the theoretical bases of satellite communications enlightened by the Information Theory, then it analyses the practical and technological limitations of communication satellites and concludes with an assessment of the feasibility of Terabit Satellites for the geostationary broadcast and fixed satellite services.
+
+communication
+multibeam
+satellite
+shannon
+terabit

@@ -1,0 +1,6 @@
+We describe an algorithm for estimating the number of page fetches for a partial or complete scan of a B-tree index. The algorithm obtains estimates for the number of page fetches for an index scan when given the number of tuples selected and the number of LRU buffers currently available. The algorithm has an initial phase that is performed exactly once before any estimates are calculated. This initial phase, involving LRU buffer modeling, requires a scan of all the index entries and calculates the number of page fetches for different buffer sizes. An approximate empirical model is obtained from this data. Subsequently, an inexpensive estimation procedure is called by the query optimizer whenever it needs an estimate of the page fetches for the index scan. This procedure utilizes the empirical model obtained in the initial phase.
+
+LRU
+estimation
+index scan
+query optimization

@@ -1,0 +1,11 @@
+LiB3O5 crystals were irradiated with MeV He+ ions of different fluences and energies. The refractive index profiles, nx, ny, and nz in LiB3O5 waveguides are given. The results show that: (1) the thickness of the ion irradiated waveguides can be estimated by the mean projected range of irradiated ions, and the refractive index changes in ion irradiated waveguides are mainly caused by nuclear collisions; (2) after annealing at 200
+°C for 40 min., the height of the optical barrier in the LiB3O5 waveguide is decreased; (3) the attenuation measured is 0.87 dB/cm for m=0 in the LiB3O5 waveguide irradiated with 2.8 MeV He+ to 5×1016
+ions/cm2; and (4) it is possible to make double waveguides in LiB3O5 by MeV He+ ion irradiation. © 2002 American Institute of Physics. 
+
+lithium compounds
+helium
+ion beam effects
+refractive index
+optical waveguides
+energy loss of particles
+annealing

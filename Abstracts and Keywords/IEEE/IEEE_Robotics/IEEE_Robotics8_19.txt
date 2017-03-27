@@ -1,0 +1,9 @@
+The objective of this paper is to investigate the asymmetric approach for increasing the transfer capacity of a corridor affected by single-phase faults. The paper consists of a comparative study of symmetric and asymmetric operations for a corridor with N parallel lines. The basis of the comparison is the reactive compensation required to restore the initial power flow following one or several contingencies. An economic analysis is presented for each case analyzed. The paper also aims at determining the operating conditions and criteria of analysis favorable to the asymmetric operation.
+
+Asymmetric operation
+Conventional compensator
+N-1 Safety criterion
+Power transfer
+Reactive compensation
+Surge impedance loading
+Symmetric operation

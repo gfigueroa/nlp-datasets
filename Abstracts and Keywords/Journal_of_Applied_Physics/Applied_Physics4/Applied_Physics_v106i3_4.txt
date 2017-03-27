@@ -1,0 +1,6 @@
+Magnetic forces are increasingly used to compensate weight in multiphase matter (solids, liquids, or vapor), but compensation cannot be strictly uniform. In order to determine quantitatively the remaining forces, a magnetogravitational potential was constructed. The potential can be revealed by the shape of the liquid-vapor interfaces near the critical point, where the interfacial tension vanishes. Experiments near the critical point of H2 (33K) are reported which support this finding.
+
+critical points
+liquid-vapour transformations
+magnetic forces
+surface tension

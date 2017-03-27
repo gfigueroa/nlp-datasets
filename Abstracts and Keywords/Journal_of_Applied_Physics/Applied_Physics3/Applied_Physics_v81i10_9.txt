@@ -1,0 +1,6 @@
+Three errors in the equations for dark current in quantum well infrared photodetectors suggested in a recent paper by Levine [J. Appl. Phys. 74, R18 (1993)] are pointed out and corrected. 
+
+semiconductor quantum wells
+infrared detectors
+errors
+electronic density of states

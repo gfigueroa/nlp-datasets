@@ -1,0 +1,8 @@
+A limiting mean free path was considered in order to better understand the temperature and wire diameter dependence of the resistivity and Seebeck coefficient of bismuth microwire and nanowire samples. The mean free path limited mobility was numerically calculated from experimentally measured mobility in a bulk bismuth sample, and the electron and hole mobilities were dramatically decreased to a 10¼m mean free path. Therefore, the temperature dependence of resistivity in very thin wire was quite different from that of a bulk sample, which had a positive temperature coefficient. The calculations showed that the temperature coefficient decreased gradually with decreasing mean free path, and the coefficient became negative for a mean free path of less than 1¼m at about 150 K. The Seebeck coefficient was also calculated, but showed only a weak dependence on mean free path compared with the resistivity. Experimental comparisons were made to previous measurements of bismuth microwire or nanowire samples, and the temperature and wire diameter dependencies of the resistivity and Seebeck coefficient were qualitatively and quantitatively in very good agreement. Therefore, the temperature dependencies of nanowire samples over 850 nm in diameter were well described using the mean free path limitation.
+
+bismuth
+electron mean free path
+electron mobility
+hole mobility
+nanowires
+Seebeck effect

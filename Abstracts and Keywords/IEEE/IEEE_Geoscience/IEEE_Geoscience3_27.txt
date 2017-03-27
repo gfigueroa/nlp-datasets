@@ -1,0 +1,8 @@
+In this paper a valuation method for energy hubs containing storage devices is presented. An energy hub is an integrated system of units, e.g. a combined heat and power (CHP) plant and a battery, which allows the conversion and storage of multiple energy carriers. To determine the economic value of an energy hub, its operation is modeled as a series of call options. Taking into account the hub's flexibility to change its output power(s), this series of call options is valued with a Monte Carlo simulation method that calculates an optimal dispatch of the hub for a large amount of possible price paths of the input and output energy carriers. Using the nodal prices from an optimal power flow analysis (OPF) of a system of interconnected energy hubs, each hub can be valued depending on its location. By means of the proposed energy hub real options model, integrated systems of conversion and storage devices can be valued considering both their position in the network and their ability to flexibly adapt their operation to volatile market prices.
+
+Power generation investment
+energy storage
+multiple energy carriers
+nodal prices
+optimal power flow
+real options analysis

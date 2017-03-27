@@ -1,0 +1,12 @@
+The current blocking mechanism in InP buried heterostructure (BH) lasers is analyzed with a selfconsistent, twodimensional numerical analysis method. It has been clarified that quasiFermi potentials which are kept constant in the active region under lasing oscillation play a key role in determining the current blocking capability. Due to this potential pinning effect, the junction voltages at each constituent pn junction in the blocking regions are maintained lower than the electrical turnon voltage, which realizes an excellent current blocking in BH lasers.
+
+HETEROSTRUCTURES
+SEMICONDUCTOR LASERS
+TWODIMENSIONAL CALCULATIONS
+NUMERICAL ANALYSIS
+BURIED LAYERS
+OPTIMIZATION
+LEAKAGE CURRENT
+RECOMBINATION
+INDIUM PHOSPHIDES
+STIMULATED EMISSION

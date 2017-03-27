@@ -1,0 +1,11 @@
+Single crystals of Nd0.5Ca0.5MnO3 and Pr0.6Ca0.4MnO3 show current-induced insulatormetal (IM) transitions at low temperatures. In addition, the charge-ordering transition temperature, Tco, decreases with increasing current. The electroresistive ratio, defined as Á0.5/ÁI where Á0.5 is the resistivity at a current of 0.5 mA and ÁI the resistivity at a given applied current, I, varies markedly with temperature and the value of I. Thermal hysteresis observed in Nd0.5Ca0.5MnO3 and Pr0.6Ca0.4MnO3 at the IM transition indicates that the transition is first order. The current-induced changes are comparable to those induced by magnetic fields, and accordingly the IM transition in Pr0.6Ca0.4MnO3 is associated with a larger drop in resistivity. © 2004 American Institute of Physics. 
+
+neodymium compounds
+calcium compounds
+praseodymium compounds
+ferromagnetic materials
+charge-ordered states
+metal-insulator transition
+magnetic transition temperature
+electrical resistivity
+hysteresis

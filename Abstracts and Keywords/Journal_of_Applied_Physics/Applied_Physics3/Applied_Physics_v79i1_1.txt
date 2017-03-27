@@ -1,0 +1,12 @@
+We investigated the initial stage of native oxide growth on an atomically flat hydrogen terminated silicon (Si) (111) surface by immersion in pure water using Fourier transformed infrared attenuated total reflection spectroscopy and reflection absorption spectroscopy. There is a sharp absorption peak at 2083 cm1 arising from silicon monohydrides at surface terraces, this peak decreases and broadens with immersion time and seems to separate into two components. This broadening is considered to reflect the progress of very early native oxide growth. The experiment on a vicinal Si(111) surface showed that the absorption peaks arising from monohydrides at the terraces and at the steps on the surface decrease at approximately the same rate with immersion time. This indicates that the native oxide growth arises in spite of terraces and steps on the silicon surface. Furthermore, the large amount of siliconhydrogen (SiH) bonds not related with oxygen atoms suggests that the native oxide growth mechanism is not layerbylayer oxidation. © 1996 American Institute of Physics. 
+
+SILICON
+SURFACE TREATMENTS
+HYDROGENATION
+OXIDATION
+FILM GROWTH
+FOURIER TRANSFORM SPECTROSCOPY
+INFRARED SPECTRA
+LINE BROADENING
+ABSORPTION SPECTRA
+REFLECTION

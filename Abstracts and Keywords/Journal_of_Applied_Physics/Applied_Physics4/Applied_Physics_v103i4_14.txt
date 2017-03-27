@@ -1,0 +1,14 @@
+Epitaxial high-temperature superconducting YBa2Cu3O7x thin films grown on 2° miscut (001) (LaAlO3)0.3-(SrAl0.5Ta0.5O3)0.7 substrates by pulsed laser deposition show significant and systematic changes in flux pinning properties on changing the substrate temperature from 730to820	°C. The bulk pinning force is highest for the 760	°C growth, rising to a maximum of 4.4GN/m3 at 77K, though there are indications that vortex pinning strength is even higher for the 730	°C growth once allowance for the current-blocking effects of a-axis oriented grains is made. Cross-sectional transmission electron microscope images show that the density of antiphase boundaries, stacking faults, and edge dislocations increases strongly with decreasing growth temperature, and is highest at 730	°C. In spite of the enhanced density of the pinning defects mentioned above, their vortex pinning effect is still much smaller than for insulating nanoparticles of high density and optimum size, where pinning forces can be four to five times higher.
+
+aluminium compounds
+barium compounds
+edge dislocations
+flux pinning
+high-temperature superconductors
+lanthanum compounds
+pulsed laser deposition
+stacking faults
+strontium compounds
+superconducting epitaxial layers
+transmission electron microscopy
+ytterbium compounds

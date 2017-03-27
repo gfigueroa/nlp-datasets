@@ -1,0 +1,7 @@
+The performance and efficiency of molecularly doped organic light-emitting devices (OLEDs) using voltage pulses have been investigated. The maximum current density and peak luminance have been found to depend on the pulse duration and device size, which was attributed to the heat effect in device. The self-quenching of dye molecules, especially at a high current density of < A/cm2, can be effectively inhibited using a low concentration of acceptor in donor system as a light-emitting layer (EML). For an OLED using a 0.4-mol	% rubrene in Alq3 as an EML, a maximum peak luminance of 5.66×106cd/m2 at 52.8V can be sustained under the voltage pulses of duration of 5¼s. The current efficiency has been observed to decrease rapidly with the current density in device, which was believed to result from the annihilation of excitons. We have also investigated the performance of a pulsed OLED with an emitter layer of 4.0-mol	% 1,4-bis[2-[4-[N,N-di(p-tolyl)amino]phenyl]vinyl]benzene in 4,42-bis(9-carbazolyl)biphenyl, which has been known to exhibit low-amplified spontaneous emission under a pulsed nitrogen laser.
+
+brightness
+organic light emitting diodes
+dyes
+current density
+excitons

@@ -1,0 +1,8 @@
+The frequency-domain open photoacoustic cell (OPC) approach was used to determine room temperature thermal diffusivity of skins (pericarps) from the raw tomatoes (Lycopersicon esculetum Mill.) characterized by the three different stages of ripeness (from immature-green to a mature-red). Periodically interrupted 532 nm laser radiation was used to heat the dry tomato skins, typically 10 mm in diameter and up to 68¼m thick; the modulating frequency f varied from 8 to 150 Hz. Initially, a combined OPC-model that takes into account both, the thermoelastic bending and the effect of thermal diffusion (TD), has been applied. Preliminary results showed that until at least 40 Hz, the effect of TD dominates; above this value the combined model fits the experimental data only poorly. For this reason a less complex OPC-TD approach was applied to all investigated skins instead, which predicts an exponential decrease for the amplitude of measured photoacoustic signal S with increasing f. For a specimen that is simultaneously opaque and thermally thick, S depends on f as S < exp(bf1/2) where b is a fitting parameter. The S versus f plot enables one to deduce the numerical value for b which, on its turn allows for the assessment of skins thermal diffusivity ±. Thermal diffusivities obtained for the immature green, orange, and red skins (periderms) are 9.9×108m2	s1, 7.2×108m2	s1, and 4.6×108m2	s1, respectively; the uncertainty was typically 5% of the measured value.
+
+food technology
+frequency-domain analysis
+photoacoustic effect
+thermal diffusion
+thermal diffusivity
+thermoelasticity

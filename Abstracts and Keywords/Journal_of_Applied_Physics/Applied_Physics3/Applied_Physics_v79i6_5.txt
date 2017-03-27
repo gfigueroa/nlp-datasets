@@ -1,0 +1,10 @@
+The magnetic hysteresis loops of mechanically stressed 15nmthick Ni film, measured by the magnetooptical technique, were analyzed using the StonerWohlfarth model. The influence of external stress on the shape of the hysteresis loop is accurately described by stressinduced uniaxial anisotropy. The energy of the domain structure during magnetization reversal is equivalent to an additional uniaxial anisotropy. The processes of domain appearance and disappearance correspond to two different magnitudes of this anisotropy, while the moment of the change of anisotropy magnitude corresponds to the transformation of the Néel walls. © 1996 American Institute of Physics. 
+
+DOMAIN STRUCTURE
+DOMAIN WALLS
+HYSTERESIS
+MAGNETIC ANISOTROPY
+MAGNETIZATION
+NICKEL
+STRESSES
+THIN FILMS

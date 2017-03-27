@@ -1,0 +1,7 @@
+Air traffic control system is a complex system. It depends on experts' knowledge and experience to solve these uncertain factors and to evaluate the whole system according to safety standard of air traffic control system and its subsystems. From the human, machine, environment, organization point of view we divide the accident attributing factors of air traffic control system into four parts: human factor, machine factor, environment factor and management factor to analyse it. The risk assessment index system of air traffic control safety system is established. An analytical model and a specific algorithm based on evidence theory are also proposed, which makes a foundation for the future.
+
+air traffic control system
+analytic hierarchy process
+assessment index
+judgment matrix
+safety assessment

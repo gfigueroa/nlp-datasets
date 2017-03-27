@@ -1,0 +1,8 @@
+This article develops the theoretical foundation for the temperatureentropy (Ts) diagram for irreversible absorption chillers that employ either a volatile or nonvolatile working pair. The representation of a real absorption refrigeration cycle on a Ts diagram can directly depict the energetic superiority of one design over another. For practical usage, this diagrammatic approach only requires as inputs the inlet and outlet state points that can be computed based on the corresponding temperatures, pressures, and component concentrations of each of the heat-and-mass exchanger modules within a chiller system and can therefore also be employed as a useful tool for system analysis and diagnosis. The same method is also applicable to any continuously operating thermodynamic system that is wholly or partially driven by thermal power. © 2000 American Institute of Physics. 
+
+refrigeration
+entropy
+heat exchangers
+irreversible thermodynamics
+heat transfer
+mass transfer

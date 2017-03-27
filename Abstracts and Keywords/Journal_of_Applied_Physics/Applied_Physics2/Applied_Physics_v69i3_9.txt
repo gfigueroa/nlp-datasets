@@ -1,0 +1,12 @@
+Using different optical diagnostic methods, namely interferometric holography and shadowgraphy, and utilizing a piezoelectric transducer for precise velocity determination, the laws of reflection and transmission of laserdriven shock waves through an obstacle in water are studied. Experimental results on the velocity of transmitted and reflected shock waves from different materials are reported.
+
+WATER
+SHOCK WAVES
+HYDRODYNAMICS
+REFLECTION
+TRANSMISSION
+HOLOGRAPHY
+SCHLIEREN METHOD
+TRANSDUCERS
+MEASURING METHODS
+ACOUSTIC PROPERTIES

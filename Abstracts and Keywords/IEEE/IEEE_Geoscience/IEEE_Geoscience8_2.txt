@@ -1,0 +1,5 @@
+The paper presents a method of passive localization for an acoustic source in shallow water based on ray acoustic theory. Ray acoustic theory is used to establish underwater acoustic channel and to analyze physical quantities (arrival time and arrival angle) received by sensors and to determine mutual relationship of rays between sources and receivers by using artificial neural network for source localization. This ray-acoustic based method of passive localization features its simplicity, calculation efficiency and robust performance to environment variations. Hence, the method is more practicable and more valuable for source localization. In this study, the ray-acoustic based method of passive localization is not only used in shallow water, but it is also verified by using a non-trained source to prove its accuracy and reliability.
+
+Ray acoustic theory
+arrival time
+artificial neural network

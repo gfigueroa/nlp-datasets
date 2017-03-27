@@ -1,0 +1,9 @@
+We report experimental results on monolithic stableresonator semiconductor lasers. Curved end mirrors defining a nearconcentric stable resonator were fabricated on widestripe GaAs/AlGaAs GRINSCHSQW lasers using reactiveionetching. These lasers oscillate in close to the expected lowestorder Gaussian stableresonator modes at threshold, evolving into a coherent superposition of higherorder modes as the pump current is increased up to two to three times threshold. At higher pump currents nonlinear defocusing effects cause the resonators to become geometrically unstable so that the lateral modes are determined by both the resonator geometry and the saturated gain and index profile. © 1995 American Institute of Physics.
+
+ALUMINIUM ARSENIDES
+ETCHING
+FABRICATION
+GALLIUM ARSENIDES
+HETEROSTRUCTURES
+ION BEAMS
+SEMICONDUCTOR LASERS

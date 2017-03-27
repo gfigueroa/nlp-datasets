@@ -1,0 +1,9 @@
+Damage evolution on the Sm and O sublattices in Sm2Ti2O7 single crystals irradiated with 1 MeV Au2+ ions at 170, 300, and 700 K was studied by Rutherford backscattering spectroscopy and 16O(d,p)17O nuclear reaction analysis along the 001	 direction. The damage accumulation behavior at each irradiation temperature indicates that the relative disorder on the O sublattice is higher than that on the Sm sublattice, and the relative disorder, determined by ion channeling, on each sublattice follows a nonlinear dependence on dose that is well described by a disorder accumulation model. While there is little difference in damage accumulation behavior on the Sm sublattice at 170 and 300 K irradiation, the rate of damage accumulation decreases dramatically at 700 K due to dynamic recovery processes. The critical dose for amorphization at 170 and 300 K is 0.14 displacements per atom (dpa), and a higher dose of 0.22 dpa is observed under irradiation at 700 K. During thermal annealing in an 18O environment, a significant increase in the 18O exchange was observed between 800 and 900 K, which is just below the previously determined critical temperature, 950 K, for amorphization in Sm2Ti2O7, suggesting that the mobility of O vacancies may be important in defining the critical temperature. © 2004 American Institute of Physics. 
+
+samarium compounds
+gold
+ion beam effects
+Rutherford backscattering
+amorphisation
+annealing
+vacancies (crystal)

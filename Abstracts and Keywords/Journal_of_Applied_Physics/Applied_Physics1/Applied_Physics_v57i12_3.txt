@@ -1,0 +1,13 @@
+A formalism to study the effect of alloy disorder and interface roughness on the linewidths of excitonic emission spectra in quantumwell structures is developed. The study includes the cases where the alloy forms (a) the barrier region, (b) the well region, and (c) both the barrier and well regions of the quantumwell structures, and demonstrates the importance of alloy quality in all three cases. The relative importance of the effects of alloy disorder and interface roughness on the excitonic linewidths is discussed. As an illustration, the formalism is applied to AlGaAs/GaAs, InP/InGaAs, and InAlAs/InGaAs quantumwell structures and the results compared with the available experimental data.
+
+ROUGHNESS
+PHOTOLUMINESCENCE
+INTERFACE PHENOMENA
+EXCITONS
+LINE WIDTHS
+QUANTUM WELL STRUCTURES
+ORDERDISORDER TRANSFORMATIONS
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+INDIUM PHOSPHIDES

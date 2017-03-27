@@ -1,0 +1,10 @@
+The magnetic domain structure and microscopic magnetization reversal processes in epitaxial Fe/GaAs(001) films with cubic anisotropy and inplane easy axes have been investigated by a Lorentz microscope equipped with a magnetizing stage. For the films of a few hundred angstroms thickness we observe the single domain remanent state predicted for a twodimensional film but find that domains play a crucial role in the magnetic reversal process. For reversal along the inplane 110	 directions (hard axes), magnetization reversal proceeds via a combination of coherent rotation and displacements of weakly pinned 90° domain walls at critical fields. For magnetization reversal along the inplane 100	 directions (easy axes), an irregular checkerboard domain structure develops at the critical field and both 180° and 90° domain walls coexist. The reversal of the domains with magnetization vector opposite to the applied field direction takes place by a combination of two 90° reorientations. We discuss how these processes are related to the magnetic anisotropies present in the film and the macroscopic MH hysteresis curves.
+
+IRON
+GALLIUM ARSENIDES
+EPITAXIAL LAYERS
+MAGNETIZATION
+DOMAIN STRUCTURE
+MAGNETIC ANISOTROPY
+SWITCHING
+ELECTRON MICROSCOPY

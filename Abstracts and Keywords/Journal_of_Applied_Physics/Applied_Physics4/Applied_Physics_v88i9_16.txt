@@ -1,0 +1,7 @@
+We have observed the relaxation dynamics of coherent longitudinal optical phonons in CdSSe quantum dots embedded in a glass matrix by femtosecond time-resolved coherent anti-Stokes Raman scattering (CARS). The phase relaxation time is directly deduced from the exponential decay of the signal. Oscillations with frequency of the longitudinal optical (LO) phonon are superimposed on the CARS signal. We consider two possible mechanisms, which result in such oscillations. The excitation of a LO phonon wave packet of the fundamental and the overtone would produce quantum beats. The second possibility is displacive excitation of coherent phonons. This mechanism does not contribute to the CARS signal, but it could attenuate it periodically with the phonon frequency. © 2000 American Institute of Physics. 
+
+cadmium compounds
+semiconductor quantum dots
+II-VI semiconductors
+coherent antiStokes Raman scattering
+time resolved spectra

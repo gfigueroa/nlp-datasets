@@ -1,0 +1,7 @@
+The solubility of carbon dioxide in aqueous solutions of 2-amino-2-hydroxymethyl-1,3-propanediol (AHPD) was measured for AHPD concentration of 0.15 and 2.5 mass % at 283.15, 298.15 and 313.15 K and for CO<sub>2</sub> partial pressures ranging from approximately 5 to 75 kPa. Experimental conditions were chosen in direct connection to specific industrial conditions. The densities of the 0.15, 0.5, 1 and 2.5 mass % AHPD aqueous solutions were also measured for temperatures ranging from 283.15 to 313.15 K. The data will be used for modelling the gas-liquid equilibrium for this system.
+
+2-amino-2-hydroxymethyl-1
+3-propanediol
+AHPD
+Carbon dioxide solubility
+carbon dioxide absorption

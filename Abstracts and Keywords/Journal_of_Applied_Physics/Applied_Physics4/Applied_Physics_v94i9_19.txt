@@ -1,0 +1,18 @@
+Magnetic force microscope (MFM) was used to characterize the L10 ordered FePt(001) films sputter deposited directly on MgO(001) substrates at an elevated temperature. With the change of nominal thickness (tN), the morphology varied from isolated particles to continuous films. The coercivity showed a marked change at the percolation boundary of tNE45
+nm, where the film morphology changed from a discontinuous to a continuous state. Below tN=45
+nm, the coercivity did not change apparently, though the number of single-domain particles increased gradually with decreasing tN. At tN=20
+nm, a critical (maximum) size of single domain particles, d=180
+nm, was obtained from a size distribution, which was taken from the atomic force microscope/MFM measurement. The value calculated for this critical size was found to be d=155
+nm in the assumption that the particles had ellipsoidal shape. The slight difference between experimental and theoretical values is likely to be attributed to an axis ratio (c/a) distribution of particles. © 2003 American Institute of Physics. 
+
+iron alloys
+platinum alloys
+magnetic thin films
+magnetic domains
+magnetic force microscopy
+atomic force microscopy
+sputtered coatings
+coercive force
+percolation
+ferromagnetic materials
+magnetic particles

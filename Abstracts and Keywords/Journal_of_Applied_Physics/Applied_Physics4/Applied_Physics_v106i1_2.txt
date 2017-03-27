@@ -1,0 +1,14 @@
+The thermal stability and giant magnetoresistance (GMR) of pseudo- and FeMn-biased spin valves with perpendicular magnetic [Co/Ni]N multilayer as free and reference layers are investigated. The observed GMR ratio for the pseudo-spin-valve is as high as 7.7%, but it rapidly decreases below 1.0% after annealing in a perpendicular field at 200	°C. Such poor temperature stability is ascribed to simultaneous switching of the free and reference multilayers caused by loss of their coercivity difference. In contrast, an FeMn-biased sample with a similar structure has a slightly lower GMR signal of 6.5% but exhibits much better thermal stability, with the GMR reduction occurring at an elevated anneal temperature of over 300	°C. This GMR reduction is due to Mn diffusion and a reduction in perpendicular anisotropy.
+
+annealing
+cobalt
+coercive force
+diffusion
+giant magnetoresistance
+iron alloys
+magnetic multilayers
+manganese alloys
+nickel
+perpendicular magnetic anisotropy
+spin valves
+thermal stability

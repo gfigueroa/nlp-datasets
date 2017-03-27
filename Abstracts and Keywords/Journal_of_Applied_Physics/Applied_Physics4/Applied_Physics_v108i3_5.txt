@@ -1,0 +1,8 @@
+We have studied the thermoelectric properties of LaFeAsO1y in the temperature range 10300 K. The resistivity decreases with carrier doping induced by oxygen deficiency up to y = 0.16. On the other hand, the Seebeck coefficient shows a maximum absolute value at a finite doping level. The power factor (PF) and the dimensionless thermoelectric figure of merit (ZT) in y = 0.16 are PF = 4.1mW	m1	K2 at T = 75K and ZT = 0.061 at T = 125K. The results indicate that iron pnictides have potential as a good low temperature thermoelectric material.
+
+doping profiles
+high-temperature superconductors
+iron compounds
+lanthanum compounds
+Seebeck effect
+thermoelectric power

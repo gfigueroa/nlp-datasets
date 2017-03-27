@@ -1,0 +1,8 @@
+Fast parallel processing of the FDTD method is becoming very important, and its efficiency on different multiprocessor computer architectures should be carefully examined. Is it possible to have the same versatile parallel FDTD simulator working efficiently on a set of very different computer architectures? In contrast to distributed memory systems, shared memory systems can be built with a variety of memory configuration types (and subtypes) as well as combined with distributed memory systems. The paper focuses on viability of different shared memory architectures for parallel FDTD processing. Our analysis concerns the processing method suitable for both shared and distributed memory systems. The results of experiments comparing parallel processing efficiency on different shared memory machines are presented.
+
+Electromagnetic analysis
+FDTD methods
+distributed memory systems
+parallel algorithms
+parallel processing
+shared memory systems

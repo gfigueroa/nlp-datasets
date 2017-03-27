@@ -1,0 +1,5 @@
+Hype Cycle is a popular graphic representation of the level of maturity, adoption and business application of a technology, originally introduced by Gartner ResearchÂ¿s Jackie Fenn. Despite its popularity, the verification or relation to theoretical frameworks is to a large extent missing in current research literature. This paper presents some possible theoretically based conceptualizations and definitions regarding the Hype Cycle. In addition, a bibliometric study of the existence of the Hype Cycle in terms of technology life cycle indicators, specifically in applied research and application phases, was carried out.
+
+Hype Cycle
+Technology life cycle
+technological evolution

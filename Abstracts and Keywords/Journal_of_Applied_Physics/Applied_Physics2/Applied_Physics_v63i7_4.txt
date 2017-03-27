@@ -1,0 +1,13 @@
+The thermomagnetic switching process in amorphous TbFeCo alloys has been investigated theoretically for typical compositions with a Curie temperature of 500 K and compensation temperatures ranging from 360 to 420 K. The temperature and radial dependence of the relevant magnetic parameters such as the saturation magnetization, the exchange constant, the uniaxial anisotropy, and the domain wall energy have been calculated in terms of the respective sublattice magnetizations inferred from the mean field theory and data obtained experimentally. The condition for domain stability has been derived and the radial dependence of the forces controlling the domain wall position is calculated yielding domain diameters for writing and erasure as a function of the applied field, the wall energy, and the laserinduced temperature. Heating above the Curie temperature is shown to offer an alternative possibility to control the domain diameter and to achieve high domain regularity at low applied magnetic fields.
+
+MAGNETIC ANISOTROPY
+THERMOMAGNETISM
+MAGNETIZATION
+DOMAIN STRUCTURE
+CURIE POINT
+HIGH TEMPERATURE
+ANISOTROPY
+SATURATION
+IRON ALLOYS
+TERBIUM ALLOYS
+COBALT ALLOYS

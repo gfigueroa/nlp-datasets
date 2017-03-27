@@ -1,0 +1,6 @@
+Most psycho-acoustic models for coding applications use a uniform (equal bandwidth) spectral decomposition as a first step to approximate the frequency selectivity of the human auditory system. However, the equal filter properties of the uniform sub-bands do not match the non uniform characteristics of cochlear filters and reduce the precision of psycho-acoustic modelling. In this paper we present a new design of a psycho-acoustic model for audio coding following the model used in the standard MPEG-1 audio layer 3. This architecture is based on appropriate wavelet packet decomposition instead of a short term Fourier transformation. Its important characteristic is to propose an analysis of the frequency bands that come closer to the critical bands of the ear. This study shows the best performance of the Morlet Munich coder.
+
+FFT
+Munich and Cambridge models
+Psycho-acoustic model
+Wavelet Paquet Decomposition

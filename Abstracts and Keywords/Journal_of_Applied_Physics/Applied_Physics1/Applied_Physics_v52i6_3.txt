@@ -1,0 +1,16 @@
+Results of digital and analog simulations of the IV characteristics of small Josephson tunnel junctions are presented for a variety of cases, and are compared with the recent experimental results of Howard et al. [Appl. Phys. Lett. 35, 879 (1979)] on smallarea, highcurrentdensity junctions. The lumpedcircuitelement model of Stewart and McCumber with an adjustable nonlinear quasiparticle conductance and various capacitance values is employed. The value of junction capacitance inferred from the digital simulation for a 109cm2 junction is 9×1015 F. This represents a normalized capacitance ²c = 0.3 for the junction considered, which had a critical current density J105 A/cm2. The inferred capacitance is in agreement with the value extrapolated from previous experimental results. Both digital and analog simulations result in IV curves which show a previously unreported crossing of the quasiparticle and total current curves. This crossing is due to an averaging in time of the voltage across the nonlinear quasiparticleconductance channel. The crossing is not seen in the experimental results of Howard et al. Differences between the experimental and simulated IV curves are discussed.
+
+JOSEPHSON JUNCTIONS
+TUNNEL EFFECT
+COMPUTERIZED SIMULATION
+ELECTRIC POTENTIAL
+ELECTRIC CURRENTS
+CAPACITORS
+MATHEMATICAL MODELS
+DIGITAL COMPUTERS
+ANALOG COMPUTERS
+COMPARATIVE EVALUATIONS
+CURRENT DENSITY
+EQUIVALENT CIRCUITS
+NONLINEAR PROBLEMS
+ELECTRIC CONDUCTIVITY

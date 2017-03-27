@@ -1,0 +1,10 @@
+This work compares the dielectric relaxation properties of different crystalline quartz materials, according to their source (natural or synthetics). It is shown that these relaxation properties are due to a hopping process of alkaline (Li+, Na+, and K+) impurities located near [AlO4]5 tetrahedra. A detailed analysis, in terms of the distribution function of the dielectric loss peak, allowed us to perfectly distinguish the different types of as-grown quartz. We show that (i) the natural quartz has less stable M+ charge carriers than the synthetic materials and that (ii) the homogeneity of the M+ trapping sites, created by the [AlO4]5 tetrahedra, strongly depends on the crystal growth conditions. These features were then studied using quartz samples with different treatment conditions: as-grown, irradiated, or annealed at high temperature. We propose that the irradiation greatly facilitates the M+ relaxation, by creating additional low energy M+ hosting sites, whose number depends on the source of the quartz crystals. We also show that for 100krad irradiation, the saturation state of the defects is already reached for all the materials under consideration. Finally, we propose that the irradiation followed by annealing at 450	°C improves the M+ stability and homogeneity in quartz materials, compared with the as-grown materials, this trend being much more relevant for the natural than for the synthetic quartz.
+
+annealing
+dielectric losses
+dielectric relaxation
+gamma-ray effects
+hopping conduction
+impurities
+permittivity
+quartz

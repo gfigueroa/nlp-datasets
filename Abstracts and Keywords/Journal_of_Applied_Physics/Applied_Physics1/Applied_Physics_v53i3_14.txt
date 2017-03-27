@@ -1,0 +1,15 @@
+Two material selective etching solutions have been evaluated for the InGaAsP/InP system. One of these solutions etches the InGaAsPInGaAs alloys and stops at InP, while the other etches InP and stops on the ternary or quaternary alloys. Roomtemperature etch rates were measured for both etches on bulk and liquid phase epitaxial materials.
+
+INDIUM PHOSPHIDES
+GALLIUM PHOSPHIDES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+ETCHING
+TIME DEPENDENCE
+DATA
+COMPARATIVE EVALUATIONS
+SOLUTIONS
+MEDIUM TEMPERATURE
+LIQUIDS
+EPITAXY
+SOLIDS

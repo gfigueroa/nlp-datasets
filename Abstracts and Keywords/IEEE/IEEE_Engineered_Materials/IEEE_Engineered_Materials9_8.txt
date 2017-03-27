@@ -1,0 +1,7 @@
+This paper compares three different approaches currently used in recognizing contact calls made from the North Atlantic Right Whale (NRW), Eubalaena glacialis. We present two new approaches consisting of machine learning algorithms based on artificial neural networks (NET) and the classification and regression tree classifiers (CART), and compare their performance with earlier work that employs multi-Stage feature vector testing (FVT) approach. A combined total of over 100,000 noise and NRW up-call events were used in the study. Calls were primarily recorded from two areas, Cape Cod Bay and Great South Channel. Of the three classifiers, the CART had the highest assignment rates, overall 86.45% with highest false positive rates (&lt;;100 per hour). The FVT Method had exceptionally low false positive rates, with &lt;;50 per hour. However, it had an overall assignment rate less than the NET. The CART had statistically the same false positive rate as the NET with the highest assignment rates, 2.2% higher than the NET and 11.75% greater than the FVT Method. Details of the results are shown and extensions to the research are discussed.
+
+Acoustic Monitoring
+Artifical Neural Network
+Automated Detection
+Classfication Regression Tree
+Right Whale

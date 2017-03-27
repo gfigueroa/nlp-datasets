@@ -1,0 +1,9 @@
+Sputtergrown amorphous films using Ne, Ar, and Xe exhibit different Raman scattering spectra. The observed differences suggest that, as the mass of the sputtering gas increases, the disorder in the film increases. Related modifications occur if the ion bombardment of the film is achieved during film growth. Bombardment with a small light ion, i.e., Ne+, induces some crystallite formation but no additional disorder in the film structure, whereas large heavy ions, i.e., Ar+ and Xe+, induce considerable disorder in the material. Xray photoemission spectroscopy measurements suggest that gas atoms trapped in the carbon lattice are very likely the origin of the disorder. Finally, it is shown that laser annealing of our films gives rise to changes in the Raman spectra very similar to those produced by thermal annealing.
+
+RAMAN SPECTRA
+CARBON
+THIN FILMS
+ION COLLISIONS
+PHOTOELECTRON SPECTROSCOPY
+SPUTTERING
+FILM GROWTH

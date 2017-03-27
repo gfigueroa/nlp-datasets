@@ -1,0 +1,6 @@
+The USB interface has the advantages of plug and play, convenient installation, high-speed transmission and so on. An information monitoring device between the On Board Unit (OBU) and the Rode Side Unit (RSU) used in the Dedicated Short Range Communication (DSRC) in the Electronic Toll Collection (ETC) will be realized in this design. This article focuses on the design of the hardware circuit and the firmware for the USB interface chip, and the realization of the computer applications based on the USB interface will also be introduced briefly.
+
+USB2.0
+data transmission
+high-speed data acquisition
+logic analyzer

@@ -1,0 +1,8 @@
+A hysteretic dc-superconducting quantum interference device (SQUID) is used to trace the flux characteristic of a tunable rf-SQUID, the basic element for the realization of superconducting flux qubits. This allows important simplifications of circuitry and electronics in developing devices for quantum computing, by eliminating the necessity of more complex magnetometers. A hysteretic dc-SQUID is usually operated as a comparator, distinguishing only which one of two adjacent flux states is occupied by the rf-SQUID. The necessary sensitivity, moreover, is usually reached only at temperatures in the mK range. However, by exploiting the statistical properties of the currentvoltage curve in the region where the switching from the zero-voltage state occurs, it is possible to obtain an accurate tracing of the input flux, even at a relatively high temperature (a few Kelvin). In our case, the input signal is given by the internal flux of a tunable rf-SQUID, the building block of a flux qubit. © 2004 American Institute of Physics. 
+
+SQUID magnetometers
+quantum computing
+comparators (circuits)
+magnetic flux
+magnetic hysteresis
+critical currents

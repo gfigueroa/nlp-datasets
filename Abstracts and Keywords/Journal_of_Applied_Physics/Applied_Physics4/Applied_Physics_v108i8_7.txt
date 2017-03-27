@@ -1,0 +1,12 @@
+With a specific focus on defects formed from H atoms and oxygen vacancies (VO) in perovskite-type oxide, stability and stable valence states of complex defects formation processes within BaTiO3 are studied by using first-principle density-functional theory calculations. In our findings, H atoms diffuse as protons (H+) into interstitial sites in BaTiO3, whereas these atoms when trapped at centers of VO sites convert to negatively ionized states (H). We also find that H atom trapping at VO sites occurs only in n-type carrier-rich environments without carrier compensation of VO2+ and H+. If carrier electrons are compensated, H+ ions are excluded from VO2+ sites due to the repulsive Coulomb potential existing between the H+ ion and the positively charged VO2+ site. Difficulties in the calculation of the diffusion-energy diagram for H atoms, involving essential changes in the stable valence states during the diffusion process, are discussed and a practical solution is presented.
+
+ab initio calculations
+barium compounds
+defect states
+density functional theory
+diffusion
+hydrogen
+impurity states
+interstitials
+positive ions
+vacancies (crystal)

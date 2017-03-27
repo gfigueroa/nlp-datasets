@@ -1,0 +1,6 @@
+In this article, the domain wall densities calculated from simulated domain configurations are used to estimate the domain wall contributions to the dielectric permittivity of a ferroelectric material. The configurations were calculated using a Monte-Carlo model proposed by B. G. Potter et al. [J. Appl. Phys. 87, 4415 (2000)]. The temperature and frequency dependence of the contributions are analyzed and compared to experimental results obtained on PbZrxTi1xO3 thin films. © 2003 American Institute of Physics. 
+
+ferroelectric materials
+permittivity
+electric domain walls
+Monte Carlo methods

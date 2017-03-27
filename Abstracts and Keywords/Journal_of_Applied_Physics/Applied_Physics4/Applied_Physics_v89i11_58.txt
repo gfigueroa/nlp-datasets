@@ -1,0 +1,8 @@
+We study electron spin transport through carbon nanotubes contacted by ferromagnetic electrodes. The resistance of a ferromagnetically contacted multiwalled nanotube switches hysteretically as a function of applied magnetic field, with a maximum resistance change of 9% at 4.2 K. Magnetoresistance measurements of carbon nanotubes having one cobalt contact and one platinum/gold contact, however, show no switching. In addition, we present calculations of the magnetoresistance ratio for the ferromagnetic nanotube device, and predict that a resistance change of 25% is possible. © 2001 American Institute of Physics.
+
+electron spin polarisation
+carbon nanotubes
+magnetoresistance
+electrical conductivity transitions
+ferromagnetic materials
+fullerene devices

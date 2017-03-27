@@ -1,0 +1,11 @@
+We have demonstrated that electron energy-loss spectroscopy in transmission electron microscopy is a useful technique for analysis of the high-frequency dielectric properties on a microstructural level. Compositional variations and interfacial elastic strain of epitaxial (001) SrTiO3 thin films had a small effect on the imaginary part, õ2, of the complex dielectric function, õr(E). Changes in the low-frequency dielectric function, between Sr deficient and stoichiometric films, were much larger compared to the changes in the high-frequency function. Improved film stoichiometry and absence of strain caused the absolute value of õ2 to approach that of a stoichiometric single crystal bulk sample. Simultaneously, the low-frequency dielectric function of the films improved. The electronic polarizability, ±e, was also extracted from the dielectric function. Indications were found that strain and compositional deviations from the bulk value, resulted in decreased ability to withstand dielectric breakdown. © 1999 American Institute of Physics.
+
+strontium compounds
+dielectric function
+epitaxial layers
+dielectric thin films
+transmission electron microscopy
+electron energy loss spectra
+stoichiometry
+polarisability
+elastic deformation

@@ -1,0 +1,12 @@
+A sinusoidal wave solution is found for a superconducting asymmetrical parallelplate transmission line with a buffer layer, by using Maxwells and Londons equations, the twofluid model, and the classical skin effect for the normal component of the current. Expressions for phase velocity and attenuation coefficient of the wave are derived. Values for the attenuation coefficient are computed for various combinations of material properties, and losses in the buffer layer are discussed.
+
+SUPERCONDUCTING FILMS
+POWER TRANSMISSION LINES
+HIGHTC SUPERCONDUCTORS
+WAVE PROPAGATION
+MAXWELL EQUATIONS
+LONDON EQUATION
+SKIN EFFECT
+PHASE VELOCITY
+ATTENUATION
+ENERGY LOSSES

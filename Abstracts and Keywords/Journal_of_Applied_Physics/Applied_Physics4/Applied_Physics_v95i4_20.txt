@@ -1,0 +1,11 @@
+We have studied optical properties of V-shaped pits on Al0.16Ga0.84N. The microphotoluminescence spectrum from the pit center shows a broader and stronger emission at 350 nm than the near-band-edge emission at 336 nm from nonpit regions. The results indicated specific defect levels associated with the V-shaped pits. Furthermore, after using atomic force microscopy to probe the surface electrical potential with a conductive tip, the pits potential was <0.2 V lower than its surrounding region. A simplified energy diagram is tentatively proposed to interpret our observation. © 2004 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+semiconductor thin films
+photoluminescence
+surface potential
+atomic force microscopy
+surface topography
+wide band gap semiconductors

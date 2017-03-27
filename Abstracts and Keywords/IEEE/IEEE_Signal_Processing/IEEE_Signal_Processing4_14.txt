@@ -1,0 +1,6 @@
+This paper verifies the physical mechanisms of stable grasping and robust manipulation by means of soft-fingered robotic hand. First, we extend our previous one-dimensional fingertip model to a two-dimensional one, adding lateral deformation of the virtual spring placed within the soft fingertip. We mention the physical meaning of LMEE(local minimum of elastic potential energy) and LMEEwC (LMEE with Constraints) on the two-fingered hand. Second, we simulate the behavior of a grasped object by numerically solving static equilibrium relation. Finally, we show that the concept of LMEEwC is critical to the robust manipulation and for reducing the degrees-of-freedom of the robotic hand in the manipulation.
+
+Blind manipulation
+Grasping
+Manipulation
+Soft fingertip

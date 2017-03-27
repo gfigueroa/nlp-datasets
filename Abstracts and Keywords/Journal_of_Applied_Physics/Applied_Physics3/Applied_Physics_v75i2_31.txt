@@ -1,0 +1,13 @@
+A general and practical model for heat generation that can be used in the heat conduction equation for nonisothermal semiconductor device simulations is presented. The model is developed for cubic semiconductors with positiondependent, multivalley, and multiband band structures, FermiDirac statistics and an accurate treatment of electronhole scattering. Starting from the Boltzmann transport equations for electrons, holes, and phonons, an internal energy balance equation, consistent with basic thermodynamic principles, is derived. By applying the linear phenomenological equations of irreversible thermodynamics and Onsagers relations, the energy balance equation is reformulated into a heat conduction equation, and a heat generation source term is identified. The Peltier coefficients appearing in the model are analyzed, and thermal boundary conditions are given. The influence from optical effects, in particular photon reabsorption, is also discussed. Finally, physical insight into the mechanisms governing heat generation in semiconductor devices is obtained by an interpretation of the various contributions to the heat generation source term.
+
+SEMICONDUCTOR DEVICES
+MATHEMATICAL MODELS
+HEAT TRANSFER
+BOLTZMANN EQUATION
+ELECTRONS
+HOLES
+PHONONS
+ENERGY BALANCE
+THERMODYNAMIC PROPERTIES
+ONSAGER RELATIONS
+PELTIER EFFECT

@@ -1,0 +1,6 @@
+We investigate the feasibility of an adiabatic logic scheme for cellular automaton systems recently proposed by Tóth and Lent [J. Appl. Phys. 85, 2977 (1999)], based on structured arrays of six-dot cells and on the use of a four-phase trapezoidal clock. With respect to the original quantum cellular automaton (QCA) concept, focused on ground state computation, a clocked scheme would have the advantage of being immune to the presence of metastable states and would allow pipelined operation, at the expense of additional complexity, due to the clock distribution circuitry. Based on realistic cell geometries and material systems, we have evaluated the obtainable switching times of QCA cells, and have determined the region in the parameter space that allows operation at a reasonable clock speed. © 2001 American Institute of Physics.
+
+cellular automata
+logic simulation
+clocks
+quantum gates

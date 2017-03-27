@@ -1,0 +1,21 @@
+Ferroelectric SrBi2Ta2O9 (SBT) thin films were deposited on Pt/TiOx/SiO2/Si substrates using the off-axis radio frequency magnetron sputtering technique. X-ray diffraction and atomic force microscopy experiments showed that the crystallization of SBT thin films at &gt;700
+°C correlated with the formation of rod-like grains. Cross-sectional field emission scanning electron microscopy images revealed that the apparent thickness of SBT decreased while the thickness of Pt increased as the annealing temperature was increased. The apparent decrease in the thickness of SBT was attributed to crystallization and densification in the film whereas the apparent increase in Pt thickness was due to diffusion of Ti and Bi into the Pt layer. This diffusion at high annealing temperatures (800
+°C and above) alters the Pt purity and degrades the Pt as the bottom electrode for the ferroelectric capacitor. Good insulating properties were obtained when the SBT film was annealed at 700 and 750
+°C whereas higher leakage currents were observed at annealing temperatures &gt;800
+°C. A remnant polarization (Pr) of 4.35 ¼C/cm2 and coercive field (Ec) of 31.5 kV/cm were obtained for the SBT thin film annealed at 750
+°C with a leakage current density of &lt;107
+A/cm2. © 2000 American Institute of Physics. 
+
+annealing
+sputtered coatings
+atomic force microscopy
+crystallisation
+scanning electron microscopy
+densification
+leakage currents
+ferroelectric thin films
+strontium compounds
+X-ray diffraction
+field emission electron microscopy
+dielectric polarisation
+current density

@@ -1,0 +1,7 @@
+Germanium islands were grown on a sample surface by accumulating atoms from the surrounding area through directional surface diffusion initiated by the electric field of a scanning tunneling microscope (STM). The Ge islands grew with a constant rate determined by the tipsample bias voltage. The parameters of tipsample interaction were estimated from the kinetic data for island growth by using a scaling relationship among the growth rate, the dipole moment of atoms on surfaces, and the tipsample bias voltage. The results show that continuous atom transfer with a STM occurs with a rate significantly higher for Ge than for Si. © 2000 American Institute of Physics. 
+
+germanium
+elemental semiconductors
+scanning tunnelling microscopy
+surface diffusion
+nanostructured materials

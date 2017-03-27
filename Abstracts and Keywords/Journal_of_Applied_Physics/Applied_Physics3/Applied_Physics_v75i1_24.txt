@@ -1,0 +1,11 @@
+Variableenergy positron beams were utilized to study SiO2 films grown on Si substrates. Annihilation characteristics of positrons in the SiO2 films were found to be dominated by the formation probability of positronium (Ps). For the SiO2 film grown by wet oxidation, a high formation probability of Ps was found by measurements of Doppler broadening profiles of the annihilation radiation and those of lifetime spectra. For SiO2 films grown by an atmosphericpressure chemical vapor deposition technique using tetraethylorthosilicate and ozone, however, the formation probability of Ps drastically decreased. The inhibition of the Ps formation was attributed to interactions between positrons and OH bonds.
+
+SILICON OXIDES
+FILM GROWTH
+SILICON
+SUBSTRATES
+POSITRON PROBES
+ANNIHILATION
+POSITRONIUM
+CVD
+DEFECTS

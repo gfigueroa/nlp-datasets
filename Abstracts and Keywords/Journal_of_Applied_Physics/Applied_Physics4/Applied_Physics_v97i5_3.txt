@@ -1,0 +1,17 @@
+The crystal structure and morphology of the Nd-rich phase in postannealed sintered NdFeB hard magnets were investigated by transmission electron microscopy (TEM). The Nd-rich phase at grain boundaries thinner than about 2nm was found to be amorphous; as the boundary region broadened, it assumed a face-centered cubic (fcc) structure with a H 0.54nm; eventually, the selected area diffraction pattern exhibited systematically allowed superlattice spots, revealing that the Nd-rich phase belongs to the space group Ia with a H 1.1nm. The elemental analysis of the Nd-rich phase showed that it contains a considerable amount of oxygen. These findings indicate that the Nd-rich phase with a H 1.1nm is in fact isostructural to cubic Nd2O3 (Mn2O3 structure). We also found Nd-rich fcc precipitates (a H 0.54nm) of several ten to hundred nm inside the Nd2Fe14B grains. Both intergranular and intragrain Nd-rich phases possess simple orientation relationships with the matrix Nd2Fe14B phase, such as (111)Nd2Fe14B(111)Ndrich [11]Nd2Fe14B[11]Ndrich and (010)Nd2Fe14B(111)Ndrich [001]Nd2Fe14B[10]Ndrich. Our Lorentz TEM observation suggested that the intragrain Nd-rich precipitates frequently disrupt magnetic domain wall arrangements, and that the magnetic interactions across thin amorphous Nd-rich phase are dominated by a simple dipole interaction.
+
+neodymium alloys
+iron alloys
+boron alloys
+permanent magnets
+grain boundaries
+crystal morphology
+space groups
+annealing
+magnetic moments
+magnetic domain walls
+demagnetisation
+coercive force
+exchange interactions (electron)
+transmission electron microscopy
+electron backscattering

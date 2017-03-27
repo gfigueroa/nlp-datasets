@@ -1,0 +1,15 @@
+Microstructure and initial growth characteristics of the hydrogenated microcrystalline Si (¼c-Si:H) films grown on hydrogenated amorphous silicon nitride (a-SiNx:H) surface at low temperature were investigated using high resolution transmission electron microscope and micro-Raman spectroscopy. With increasing the Si and SiH contents in the SiNx:H surfaces, ¼c-Si crystallites, a few nanometers in size, were directly grown on amorphous nitride surfaces. It is believed that the crystallites were grown through the nucleation and phase transition from amorphous to crystal in a hydrogen-rich ambient of gas phase and growing surface. The crystallite growth characteristics on the dielectric surface were dependent on the stoichiometric (x=N/Si) ratio corresponding hydrogen bond configuration of the SiNx:H surface. Surface facetting and anisotropic growth of the Si crystallites resulted from the different growth rate on the different lattice planes of Si. No twins and stacking faults were observed in the (111) lattice planes of the Si crystallites surrounding the a-Si matrix. This atomic-scale structure was considered to be the characteristic of the low temperature crystallization of the ¼c-Si:H by the strain relaxation of crystallites in the a-Si:H matrix. © 2001 American Institute of Physics. 
+
+silicon
+hydrogen
+elemental semiconductors
+plasma CVD
+semiconductor thin films
+semiconductor growth
+crystallites
+nucleation
+transmission electron microscopy
+Raman spectra
+crystal microstructure
+crystallisation
+stress relaxation

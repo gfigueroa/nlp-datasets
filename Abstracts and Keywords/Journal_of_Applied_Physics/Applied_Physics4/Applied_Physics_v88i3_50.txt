@@ -1,0 +1,30 @@
+A series of Co30
+Å/Ru5
+Å/Co30
+Å sandwiches has been prepared by ion beam sputtering on a glass substrate using different buffer layers in order to optimize the antiferromagnetic (AF) coupling strength and the giant magnetoresistance (GMR) signal. The best GMR of about 1.7% is obtained for a Co/Ru/Co sandwich deposited on the Fe50
+Å/Co5
+Å/Cu30
+Å buffer. On the basis of the GMR and exchange coupling results, the two more interesting buffers have been chosen for a detailed analysis. Two additional series have been grown with varying Ru spacer layer thickness on these two buffers: 150 Å Ru and Fe50
+Å/Co5
+Å/Cu30
+Å buffer layers. For the two series, oscillations in magnetoresistance and AF indirect exchange coupling have been observed as a function of the Ru thickness with the same period of about 10 Å. The first AF peak is observed at a thickness of 6 Å Ru for the series grown on Ru150
+Å buffer and 4 Å for the series grown on a Fe50
+Å/Co5
+Å/Cu30
+Å buffer layer. At this first peak, both GMR and AF coupling are largely enhanced with values JAF=2.6
+erg/cm2 and a GMR of 1.34% for the Fe50
+Å/Co5
+Å/Cu30
+Å buffer compared to JAF=0.75
+erg/cm2 and a GMR of 0.08% for the Ru150
+Å buffer. Atomic force microscopy and x-ray diffraction studies have also been performed in order to understand the origin of the observed increase in GMR and AF exchange coupling between the two series. © 2000 American Institute of Physics. 
+
+giant magnetoresistance
+atomic force microscopy
+cobalt
+ruthenium
+metallic superlattices
+magnetic multilayers
+sputtered coatings
+exchange interactions (electron)
+X-ray diffraction

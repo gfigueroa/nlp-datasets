@@ -1,0 +1,23 @@
+A set of Fe-based amorphous alloys, Fe93xyZr7BxCuy, with x = 4, 6, 8, or 12, and y = 0 or 2 has been systematically characterized in their ability to form nanocrystalline, magnetically soft material via annealing in the range of 430600	°C. Conventional Mössbauer spectroscopy is used to follow the degree of bcc-Fe formation as well as changes in the hyperfine field distribution of the amorphous phase as a function of anneal temperature. Copper plays a strong role in the bcc-Fe formation for x = 12 but less of a role for x = 8 and 6. Unconventional Mössbauer studies utilizing radio frequency (rf) fields provide information on the soft magnetic nature of the alloys by observing the degree of rf-induced collapse of the hyperfine fields. The Mössbauer experiment in which the rf collapse and rf sideband effects are used allows the soft nanocrystalline bcc phase to be distinguished from magnetically harder microcrystalline ±-Fe. The rf Mössbauer technique, being particularly sensitive to the magnetic anisotropy, provides information on the anisotropy fields and hence on the grain size distribution. X-ray diffraction (XRD) is used to estimate the bcc-Fe grain size based on the diffraction peak linewidths. Average grain sizes of 514 nm are found for 500550	°C annealed specimens where smaller grain sizes are always observed for y = 2 compared to y = 0 for fixed x. Small-angle x-ray scattering is also used to study the grain size and this method yields sizes in the range from 3 to 7 nm, consistently almost a factor of 2 smaller than those from the XRD line broadening. This discrepancy is attributed to the difference in the regions of the 20-¼m-thick ribbons probed by the two methods. © 1997 American Institute of Physics.
+
+metallic glasses
+nanostructured materials
+ferromagnetic materials
+soft magnetic materials
+amorphous magnetic materials
+Mossbauer effect
+hyperfine interactions
+magnetic anisotropy
+X-ray diffraction
+X-ray scattering
+ZIRCONIUM ALLOYS
+BORON ALLOYS
+COPPER ALLOYS
+IRON ALLOYS
+MAGNETIC PROPERTIES
+MOESSBAUER EFFECT
+ANNEALING
+TEMPERATURE RANGE 0400-1000 K
+STRUCTURAL CHEMICAL ANALYSIS
+GRAIN SIZE
+AMORPHOUS STATE

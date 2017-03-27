@@ -1,0 +1,11 @@
+We report ultrafast nonlinear optical figures of merit for a highly processible guesthost blend of poly(2-methoxy,5-(22-(ethyl)hexyloxy)-p-phenylene vinylene) with poly(methyl methacrylate). Our experiments employ 120 fs pulses at 840 nm and are designed to eliminate slow thermal nonlinearity and focus exclusively on ultrafast electronic nonlinearity. We report a two-photon absorption coefficient ² of 1.5±0.2 cm/GW, a nonlinear refraction coefficient n2 of (2.1±0.2)×1013 cm2/W and a two-photon figure of merit T of 0.6. The blend hybridizes the desirable features of nonlinearity and processibility of its two constituents to provide (1) ultrafast response one to two orders of magnitude faster than achievable in electronic switching devices; (2) a two-photon figure of merit compatible with harnessing this nonlinearity in a practical optical device geometry; and (3) a materials system and processing methodology compatible with spin-coating and photopatterning in an ambient environment. © 2002 American Institute of Physics. 
+
+polymer blends
+filled polymers
+nonlinear optics
+optical polymers
+high-speed optical techniques
+two-photon processes
+absorption coefficients
+light refraction
+refractive index

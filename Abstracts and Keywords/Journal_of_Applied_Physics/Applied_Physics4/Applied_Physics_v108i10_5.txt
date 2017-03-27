@@ -1,0 +1,11 @@
+Unipolar nonvolatile resistive switching memory properties of pulse laser ablated nickel oxide films have been studied. Grazing incidence x-ray diffraction and electron diffraction spectra of the oxide films reveal polycrystalline nature of deposited NiO films. Cross-sectional transmission electron micrograph shows a fairly uniform oxide surface. The rms surface roughnesses of deposited oxides have been studied as a function of annealing temperature using atomic force microscopy. By applying a proper voltage bias and compliance, Pt/NiO/Pt structures exhibited unipolar resistive switching having a very low SET and RESET voltages. The OFF state resistance and SET voltage are found to increase with the increase in annealing temperature. The ratio between the two resistance states can be as high as 1000. The current conduction phenomena at two resistance states have been studied. The switching phenomena have been explained using the rupture and formation of conducting filaments. The effect of postdeposition annealing on the resistance switching properties is discussed.
+
+annealing
+atomic force microscopy
+electrical resistivity
+nickel compounds
+platinum
+pulsed laser deposition
+random-access storage
+transmission electron microscopy
+X-ray diffraction

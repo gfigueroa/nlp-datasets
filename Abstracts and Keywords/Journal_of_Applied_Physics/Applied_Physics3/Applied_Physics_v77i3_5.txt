@@ -1,0 +1,13 @@
+Study is devoted to a complete characterization of GaAs/CaSrF2/CaF2 heterostructures. Due to the transparency of CaF2 substrate to visible light, Raman spectra have been obtained at both interface and surface sides of the 2 ¼m GaAs layer. Moreover, penetration depth of light varying with wavelength allows one to perform a tomography of this layer. The crystalline quality at the vicinity of the surface is analyzed through Raman selection rules for both [001] and [111] growth directions. In the latter case, a stress profile has been realized in order to determine its relaxation into the GaAs layer: It occurs in the first 40 nm from the interface. Finally, this methodology is applied to optimize growth conditions in order to obtain stable highly strained systems. By comparison with photoluminescence data, the Raman probe is shown to be very efficient for this purpose. © 1995 American Institute of Physics.
+
+GALLIUM ARSENIDES
+CALCIUM FLUORIDES
+STRONTIUM FLUORIDES
+TERNARY COMPOUNDS
+HETEROSTRUCTURES
+STRESS RELAXATION
+RAMAN SPECTRA
+INTERFACE STATES
+SURFACE STATES
+VISIBLE RADIATION
+TOMOGRAPHY

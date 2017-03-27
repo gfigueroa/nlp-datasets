@@ -1,0 +1,8 @@
+The effect of deposition temperature and growth rate on the bond structure of hydrogen free carbon films has been investigated. A sharp transition temperature of the sp3 content of the carbon films as a function of deposition temperature has been reported several times. The value of this transition temperature has varied from 150 to about 300	°C depending on the growth mechanism. In this article, high values varying from 300 to 400	°C for the transition temperature are reported. High momentary growth rates of up to 2000 nm/s have been obtained by using pulsed vacuum arc deposition. The transition temperature has been observed to depend on the momentary growth rate of the carbon film. The transition has been explained to be a relaxation process which includes diffusion of carbon atoms at the near surface. The results have been analyzed by using a model which was originally developed for radiation enhanced diffusion. An activation energy of 0.65 eV was obtained. The model also predicts qualitatively the transition temperatures in the case of the lower deposition rates reported in literature. For the frequency factor of the diffusion coefficient a value of the order of 108
+cm2/s was obtained. © 1998 American Institute of Physics.
+
+carbon
+elemental semiconductors
+vacuum deposition
+bonds (chemical)
+surface diffusion

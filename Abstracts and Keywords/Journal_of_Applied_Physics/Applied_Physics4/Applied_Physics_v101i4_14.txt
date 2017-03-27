@@ -1,0 +1,6 @@
+A polarization switch is demonstrated in Bragg-spaced quantum wells at 80K that exhibits a 0.6THz optical bandwidth with a contrast ratio greater than 30dB, a throughput of < 4%, a switching fluence of 8¼J/cm2, and a pulse-width-limited picosecond response time. In this device, switching is achieved by using large spin-dependent nonlinearities induced by a circularly polarized control pulse to alter the polarization state of a linearly polarized signal pulse.
+
+optical switches
+high-speed optical techniques
+light polarisation
+semiconductor quantum wells

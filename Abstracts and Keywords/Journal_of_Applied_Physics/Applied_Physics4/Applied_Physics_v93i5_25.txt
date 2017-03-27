@@ -1,0 +1,7 @@
+Our transparency factor, Peff using the effective triangular approximation is shown to practically match PWKB given in the comment. It indicates that Peff can model the effect of image force lowering (if it exists) on the gate current (Ig) in the FowlerNordheim regime as accurately as the WentzelKramersBrillouin method. The experimentally extracted value of ±H0 indicates that PWKB incorporating the image potential still overestimates Ig. Additionally, physics underlying the image force lowering in metal-oxide-silicon systems is briefly discussed in light of the wave nature of electrons and other reported experimental data. © 2003 American Institute of Physics. 
+
+MIS structures
+tunnelling
+WKB calculations
+surface potential
+interface states

@@ -1,0 +1,6 @@
+In the range of nanosecond pulse lengths, the mechanisms of surface laser damage to dielectric materials are still unclear. A large amount of experimental and theoretical work has been performed over recent years. In order to test theoretical predictions and compare experimental results, reproducibility is essential whatever the beam parameters and experimental conditions. The rasterscan procedure, previously developed to test large components, is an efficient method that allows measuring extremely low surface damage site density (until 0.01site/cm2 for large optics). In this paper, we show that by suitable data reduction, error bar calculation, and attention paid to beam analysis, laser-induced surface damage density of fused silica optics can be measured with high accuracy and repeatability in the range of pulse durations from 2 to 16 ns. This procedure provides a straightforward means of comparing the experimental results obtained from several facilities using different lasers.
+
+high-speed optical techniques
+integrated optics
+laser beam effects
+silicon compounds

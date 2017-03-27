@@ -1,0 +1,11 @@
+A formalism is presented for determining the magnetoelastic (ME) coefficients of tetragonally distorted surfaces and thin films. The equation of motion of the magnetization is determined from freeenergydensity expressions containing terms for crystalline and shape anisotropy, ME anisotropy, and applied field. Canonical magnetization curves, described by simple equations of motion and recorded under different strains, are shown to differ by an area equal to the magnetoelastic energy density. Thus, division of this area by the applied strain allows determination of the ME coefficients. A more general method is proposed which allows ME coefficients to be determined from arbitrarily shaped MH curves taken at different strains by calculating the area between them over a conveniently chosen magnetization range. This reduces error in the ME coefficients by avoiding hysteretic effects at low fields and ambiguity about saturation at high fields. Examples are given that illustrate how the magnetic anisotropy and ME coefficients can be determined in three simple cases from Kerr or MH loops in ultrathin films subjected to various bending strains.
+
+THIN FILMS
+MAGNETOELASTIC EFFECTS
+CALCULATION METHODS
+EQUATIONS OF MOTION
+MAGNETIZATION
+MAGNETIC ANISOTROPY
+STRAINS
+KERR EFFECT
+SURFACE PROPERTIES

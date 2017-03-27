@@ -1,0 +1,11 @@
+A phase transition concerning BCN compound (g-B0.47C0.23N0.30 to w-B0.47C0.23N0.30) was observed. High pressure synchrotron x-ray diffraction was used to explore its structure in a diamond anvil cell to 30.03 GPa. We found the phase transition is incomplete even till the highest pressure in the experiments. The new phase has a wurtzite structure with space group C6V (P63mc). The lattice parameters of w-B0.47C0.23N0.30 at high-pressure are calculated. Different from the starting materials, the new phase shows much greater isotropy in compressibility with increasing pressure. Bulk modulus was estimated being 275(±26)GPa using a BrichMurnaghan equation of state, which is one of the highest bulk modulus but smaller than that of w-BN, c-BN, and hexagonal diamond and the value predicted from theory.
+
+boron compounds
+carbon compounds
+crystal structure
+elastic moduli
+equations of state
+high-pressure solid-state phase transformations
+lattice constants
+space groups
+X-ray diffraction

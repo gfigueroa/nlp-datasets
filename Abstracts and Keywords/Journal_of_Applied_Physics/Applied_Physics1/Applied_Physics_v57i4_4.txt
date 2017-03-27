@@ -1,0 +1,9 @@
+Using the switching characteristic of a metaltunnel oxidesemiconductor thyristor, a new method is developed to determine the tunneling transmission coefficient through a thin oxide layer and the aluminumsilicon dioxide and siliconsilicon dioxide potential barrier heights in the metaltunnel insulatorsilicon system. The effects of the surface state charge and large bias voltage on the tunneling transmission coefficient are discussed. It is found that the tunneling transmission coefficient and the aluminumsilicon dioxide and siliconsilicon dioxide potential barrier heights are very sensitive to the oxide thickness.
+
+SPACE CHARGE
+SILICA
+BARRIER HEIGHT
+SWITCHING
+MIS JUNCTIONS
+THYRISTORS
+TUNNEL EFFECT

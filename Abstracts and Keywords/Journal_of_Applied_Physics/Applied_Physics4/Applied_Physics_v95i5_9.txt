@@ -1,0 +1,10 @@
+Magnetostrictive and piezoelectric laminate composites of terfenol-D and Pb(Zr1xTix)O3 have been studied. The magnetoelectric (ME) coefficients have been characterized for the different operational modes: (i) a longitudinally magnetized and transversely polarized longitudinal transverse (LT) mode, and (ii) a transversely magnetized and transversely polarized transversetransverse (TT) mode. The results demonstrate that the (LT) magnetoelectric mode has dramatically higher ME coefficients than the TT one. The LT magnetoelectric coefficient is up to 57 times larger than the TT one, when operated in low magnetic bias ranges. © 2004 American Institute of Physics. 
+
+organic compounds
+lead compounds
+piezoceramics
+composite materials
+laminates
+magnetostriction
+magnetoelectric effects
+magnetoelastic effects

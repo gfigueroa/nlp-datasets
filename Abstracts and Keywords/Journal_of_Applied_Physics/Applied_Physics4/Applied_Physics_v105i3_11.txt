@@ -1,0 +1,10 @@
+Thin Y3Fe5O12 (YIG) films were pulsed laser deposited onto Gd3Ga5O12 (111) and (001) substrates. Processing conditions were optimized to obtain compressively strained films with a ferromagnetic resonance linewidth at 9 GHz as narrow as 0.9 Oe and high uniaxial magnetic anisotropy Hu = 880Oe. Several designs of magnetostatic surface wave (MSSW) bandpass filters were fabricated and tested: 0.45 and 0.22¼m thick YIG films lain on transducers alumina board and with microstripe transducers defined directly onto YIG film, with effective antenna areal sizes of 2 and 0.4mm2. The MSSW filter with 2mm2 antenna shows, at 7.5 GHz, insertion loss 9 dB and a resonant 3 dB bandwidth as narrow as 12.5 MHz.
+
+band-pass filters
+ferromagnetic resonance
+magnetic anisotropy
+magnetic thin films
+magnetostatic surface waves
+magnetostatic wave devices
+pulsed laser deposition
+yttrium compounds

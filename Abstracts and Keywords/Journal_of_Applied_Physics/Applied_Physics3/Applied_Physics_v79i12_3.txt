@@ -1,0 +1,9 @@
+Monte Carlo simulation results are presented for the angular distributions of electrons which have been transmitted ballistically through constrictions with a variety of geometries and specularity coefficients. The behaviors of parallel, convergent, and divergent constrictions and their combinations are discussed with reference to existing experimental results and previous theoretical studies. Maximum divergence angles are well described by the analytic adiabatic approximation only for very small taper angles (&lt;10°). Investigation of these simple geometries offers useful insights into the behavior of the more complex structures found experimentally. © 1996 American Institute of Physics. 
+
+POINT CONTACTS
+BALLISTICS
+ELECTRON GAS
+MONTE CARLO METHOD
+COMPUTERIZED SIMULATION
+ANGULAR DISTRIBUTION
+TWODIMENSIONAL CALCULATIONS

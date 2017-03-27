@@ -1,0 +1,13 @@
+Dielectric properties of CaNdAlO4 monocrystals, a prospective substrate material for the deposition of highTc superconductors, were measured with high accuracy at microwave frequencies from 8 to 40 GHz in the temperature range from 10 to 300 K by measuring the resonant frequencies of a completely filled resonant cavity. The material was found to be highly anisotropic. At 300 K it exhibits the dielectric constant along c axis õ2c = 17.68, while the dielectric constant in the ab plane is õ2=19.62, and loss tangent tan	´c B tan	´ B 5.1× 104. Both õ2c and õ2 depend strongly on temperature and their thermal coefficients have opposite signs, apparently a unique property of CaNdAlO4. Below 160 K microwave losses caused by electric field perpendicular to the optical c axis increase with decreasing temperature, exhibiting a maximum near 65 K followed by a minimum at 30 K. It is suggested that neodymium ions in CaNdAlO4 at lower temperatures become magnetically ordered, causing an increase of magnetic permeability ¼2c s 1 and a significant increase of magnetic losses at microwave frequencies. A crystallographic phase transition below 60 K cannot also be excluded.
+
+QUATERNARY COMPOUNDS
+CALCIUM OXIDES
+NEODYMIUM OXIDES
+ALUMINIUM OXIDES
+PERMITTIVITY
+MICROWAVE RADIATION
+ENERGY LOSSES
+DIELECTRIC PROPERTIES
+TEMPERATURE RANGE 00130065 K
+TEMPERATURE RANGE 00650273 K
+TEMPERATURE DEPENDENCE

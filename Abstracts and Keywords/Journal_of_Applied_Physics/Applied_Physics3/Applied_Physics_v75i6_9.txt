@@ -1,0 +1,8 @@
+The behavior of Rutherfordtype cables under a timedependent magnetic field is studied. Existing models are extended describing the currents flowing through the resistive contacts at the crossovers between the cable strands by considering crossover current distributions that are not uniform along the cable axis. The generalized system of equations is applied to a few cases of practical interest and shows that, if not uniform, the crossover current distribution is periodic, with a period equal to the cable pitch length.
+
+SUPERCONDUCTING CABLES
+CURRENTS
+MAGNETIC FIELD EFFECTS
+TIME DEPENDENCE
+PERIODIC VARIATIONS
+EQUATIONS

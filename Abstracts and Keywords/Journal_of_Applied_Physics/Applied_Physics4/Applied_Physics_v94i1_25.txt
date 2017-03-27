@@ -1,0 +1,6 @@
+Measurements of random telegraph signals (RTS) in the gate current of n-channel metaloxidesemiconductor field effect transistors (MOSFETs) after oxide breakdown are presented. Two types of behavior of the time constants and the relative amplitudes of the signals as a function of gate voltage are observed. A theory relating time constants and relative amplitudes of the fluctuations to the energetic and geometric trap location in the oxide is developed. This theory is also applicable to the commonly observed RTS in the drain current of undamaged MOSFETs. © 2003 American Institute of Physics. 
+
+MOSFET
+semiconductor device models
+semiconductor device breakdown
+semiconductor device measurement

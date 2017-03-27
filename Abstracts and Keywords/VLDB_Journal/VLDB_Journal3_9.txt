@@ -1,0 +1,8 @@
+The Smart Data System (SDS) and its declarative query language, Declarative Reasoning, represent the first large-scale effort to commercialize deductive database technology. SDS offers the functionality of deductive reasoning in a distributed, heterogeneous database environment. In this article we discuss several interesting aspects of the query compilation and optimization process. The emphasis is on the query execution plan data structure and its transformations by the optimizing rule compiler. Through detailed case studies we demonstrate that efficient and very compact runtime code can be generated. We also discuss our experiences gained from a large pilot application (MVV-expert) and report on several issues of practical interest in engineering such a complex system, including the migration from Lisp to C. We argue that heuristic knowledge and control should be made an integral part of deductive databases.
+
+declarative reasoning
+query optimizer
+multi-databases
+distributed query processing
+heuristic control
+productization

@@ -1,0 +1,11 @@
+Recent experimental results show a linear energy response in high quality NbAlAlOxNb superconducting tunnel junction detectors for photon energies between 1.5 and 6.4 keV. The experimental data are based on both direct xray illumination and on the escape and reabsorption of fluorescent photons created in the junction electrodes and in the silicon substrate. The observed linearity of the energy response raises questions on the validity of some theoretical models which describe the relaxation process occurring in a superconducting thin film after xray photoabsorption. Such models generally predict nonlinear effects due to large quasiparticle number densities and short recombination times.
+
+SUPERCONDUCTING JUNCTIONS
+RADIATION DETECTORS
+NIOBIUM
+ALUMINIUM OXIDES
+ALUMINIUM
+RESPONSE FUNCTIONS
+X RADIATION
+KEV RANGE 0110
+ABSORPTION

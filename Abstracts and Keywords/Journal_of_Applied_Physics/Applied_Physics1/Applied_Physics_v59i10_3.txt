@@ -1,0 +1,13 @@
+Experimental results of Auger profiles obtained on a chemical bevel of an InP/GaAs structure are reported. A theoretical procedure is established to convert the intensity profile into concentration profiles. It is applied to evaluate the concentration distribution of each speciesGa, In, As, Pindependently of each others with a precision of ±5%. It is verified that the composition of the interface is GaxIn1xAsyP1y (0dx, yd1). Owing to differences between the atomic diffusions of III and Vtype elements, the transition region can be subdivided into three regions having the following compositions: (i) GaAsyP1y with 0.87dyd1; (ii) GaxIn1xAsyP1y with 0dyd0.87 and 0.24dx&lt;1; (iii) PGaxIn1x with x&lt;0.24. The width of each region is also indicated.
+
+DIFFUSION
+ATOM TRANSPORT
+INTERFACE STRUCTURE
+CHEMICAL COMPOSITION
+INDIUM PHOSPHIDES
+GALLIUM ARSENIDES
+GALLIUM
+ARSENIC
+INDIUM
+PHOSPHORUS
+AUGER ELECTRON SPECTROSCOPY

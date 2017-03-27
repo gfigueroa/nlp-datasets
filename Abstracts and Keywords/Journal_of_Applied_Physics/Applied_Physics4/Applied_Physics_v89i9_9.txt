@@ -1,0 +1,4 @@
+A model for describing properties of a liquid crystal display which combines the concepts of in-plane switching and vertical alignment is proposed. There is good agreement between the results of this model and direct computer calculation of the director and the light transmittance. The usefulness of the model lies in the faster speed of calculations compared to direct computer solution of the EulerLagrange equations. © 2001 American Institute of Physics. 
+
+liquid crystal displays
+electro-optical effects

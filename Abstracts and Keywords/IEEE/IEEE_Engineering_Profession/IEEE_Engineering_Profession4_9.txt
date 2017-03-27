@@ -1,0 +1,8 @@
+In this paper, a novel and fast method for fault section identification in compensated series transmission lines based on the high frequency traveling wave has been proposed. The method uses the relation of magnitude and polarity between wavefronts of high frequency travelling waves induced by fault. For accurately and fast extracting polarity and magnitude of travelling wave, wavelet transform and modulus maxima are used. Validation of this method is carried out by PSCAD/EMTP and MATLAB simulations for typical 400 kV power system faults. Simulation results reveal high performance of the method.
+
+fault section identification
+modulus maxima
+series capacitor compensation
+transform
+traveling wave
+wavelet

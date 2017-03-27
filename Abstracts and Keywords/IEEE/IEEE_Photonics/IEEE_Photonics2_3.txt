@@ -1,0 +1,8 @@
+A prototype of a master-slave servo manipulator system has been developed for the use in the PRIDE (PyRoprocess Integrated inactive DEmonstration) facility. The PRIDE facility is designed to have an argon-atmosphere cell which prohibits direct access by human operators. Therefore, all the operation and maintenance of the process equipment is performed remotely through a master-slave manipulation. In this paper, we describe a motion-decoupled joint design of a cable-driven mechanism, a weight balancing analysis, and an interface system. The prototype manipulator system has been installed at a mock-up facility and the performance test of the manipulator system is currently carried out.
+
+Cable selection
+PRIDE
+interface system
+master-slave manipulator
+motion decoupling
+weight balancing

@@ -1,0 +1,11 @@
+Spatially indirect radiative recombinations (type II) have been studied in InAlAsInP heterostructures grown by gas source molecular beam epitaxy with emphasis on the direct (InAlAs grown on InP) or inverse (InP on InAlAs) interface composition profile. Based on the results of their injection-dependent energy, lifetime and polarization, a new transition scheme is proposed: type II transitions have a low injection limit between 1.27 and 1.28 eV, a long lifetime (Ä&gt;1
+¼s) and strongly shift towards higher energy when increasing the injection. The type II recombination is polarized, the direction of maximum intensity being correlated with the expected interface structure. Lower energy transitions (E } 1.2
+eV) indicate the presence of a well transition material at the interface: they should be better labeled as mixed type III. Previously published results are also reconsidered and seem to fit well within this model. © 1998 American Institute of Physics.
+
+indium compounds
+aluminium compounds
+III-V semiconductors
+interface structure
+photoluminescence
+semiconductor epitaxial layers
+semiconductor heterojunctions

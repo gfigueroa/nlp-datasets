@@ -1,0 +1,7 @@
+A remote lab for electrical engineering experiments has been designed and implemented. This has been intended as a platform that supports existing traditional labs by offering lab experiments that serve some of the student learning outcomes of the program. This offers fully interactive environment to the remote user. A dedicated architecture that meets network security and equipment safety requirements has been implemented. The remote control of the experiment is ensured through the powerful and flexible shared variables engine of LabVIEW. The remote lab has been successfully tested with two sample experiments. The infrastructure may accommodate many more concurrently-running experiments. Full details of the proposed platform are given.
+
+Booking System
+LabVIEW Technologies
+Network security
+Remote Control
+Shared Variables

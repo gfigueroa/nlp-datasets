@@ -1,0 +1,9 @@
+We have designed and built an experimental device, which we called a thermoelectric bridge. Its primary purpose is simultaneous measurement of the relative Peltier and Seebeck coefficients. The systematic errors for both coefficients are equal with this device and manipulation is not necessary between the measurement of one coefficient and the other. Thus, this device is especially suitable for verifying their linear relation postulated by Lord Kelvin. Also, simultaneous measurement of thermal conductivity is described in the text. A sample is made up of the couple nickelplatinum, taking measurements in the range of 2060	°C and establishing the dependence of each coefficient with temperature, with nearly equal random errors ±0.2%, and systematic errors estimated at 0.5%. The aforementioned Kelvin relation is verified in this range from these results, proving that the behavioral deviations are d0.3% contained in the uncertainty ±0.5% caused by the propagation of errors.
+
+MEASURING METHODS
+NICKEL
+PLATINUM
+PELTIER EFFECT
+SEEBECK EFFECT
+THERMOCOUPLES
+THERMAL CONDUCTIVITY

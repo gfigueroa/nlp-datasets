@@ -1,0 +1,6 @@
+Corporate and advanced information and database technologies make it possible to solve potential and hidden problems, such as uncertainty data interactions, disputable resolutions, unclear processes, etc. In this case, a rough set method can be used to grasp characteristics of the classified objects included in those problems. The rough set method is often used for classifying data while figuring out the distinctive features of the given objects in problem solutions. These given object problems that emerge, especially in database handling and resolving discernibility relations with the rough set method, are often computed by electronic computations. On the other hand, in this paper, we basically focus on taking advantage of biological molecular functions to create a novel biological computation method with which we proposed to derive and resolve all the discernibility relations.
+
+biological computation
+decision matrix
+decision table
+discernibility relation

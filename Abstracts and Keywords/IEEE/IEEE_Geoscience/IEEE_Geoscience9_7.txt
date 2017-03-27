@@ -1,0 +1,8 @@
+There are many industrial applications of dc power systems, but only a limited amount of scientific literature addresses the modeling of dc arcs. Since the early dc arc research focused on the arc as an illuminant, most of the early data was obtained from low current dc systems. More recent publications provide a better understanding of the high-current dc arc. The dc arc models reviewed in this paper cover a wide range of arcing situations and test conditions. Even with the test variations, a comparison of dc arc resistance equations shows a large degree of consistency in the formulations. A method for estimating incident energy for a dc arcing fault is developed based on a nonlinear arc resistance. Additional dc arc testing is needed so that accurate incident energy models can be developed for dc arcs.
+
+DC arc modeling
+DC arc resistance
+DC incident energy calculations
+DC system hazard risk category evaluation
+Free-burning arcs in open air
+Volt-ampere (VI) characteristics

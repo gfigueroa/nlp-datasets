@@ -1,0 +1,10 @@
+Computational predictions, based upon conventional onedimensional tunneling theory, are presented for charge and energy transport by electron tunneling thermoelectric effect. It is shown that a temperature difference across a tunnel junction connected in an open electrical circuit produces a thermopower S and a heat conductance HV. In a closed circuit, the temperature difference drives a tunnel current which is quantified by a current conductance Q = Jth/”TLim”T0 (where Jth is the current density) and a heat conductance HJ. The thermopower S is shown to be relatively insensitive to image potentials and barrier thickness, whereas the transport coefficients Q, HJ, and HV are highly sensitive to junction parameters. The calculations for a generic AlAl2O3Al junction with a 25 Å barrier thickness indicate that S and Q could be measurable, whereas HV and HJ are probably below the limits of detection. Although S might be measured by a scanning tunneling microscope, it is not clear at present how tip geometry would influence the measurement.
+
+MIM JUNCTIONS
+TUNNEL EFFECT
+THERMOELECTRIC PROPERTIES
+ENERGY TRANSFER
+ELECTRON TRANSFER
+THERMAL CONDUCTIVITY
+ALUMINIUM
+ALUMINIUM OXIDES

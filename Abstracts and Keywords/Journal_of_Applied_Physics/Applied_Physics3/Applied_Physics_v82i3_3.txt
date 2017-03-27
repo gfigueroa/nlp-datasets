@@ -1,0 +1,6 @@
+The tunneling current through the gate insulator of a poly SiSiO2Si structure with trapped charge within the oxide is described by a modified FowlerNordheim expression, in which the cathode electric field is substituted by the local electric field in the insulator corresponding to the Fermi energy at the injecting electrode. Trap creation in the oxide was induced by a high-field constant current injection, and the flatband voltage and the tunneling current were measured after reaching the steady states corresponding to different applied gate voltages. The trapped charge is considered to be uniformly distributed within the insulator and its value is calculated from the flatband voltage shift. The proposed model applies for positive gate injection regardless of the stress polarity used for sample degradation. © 1997 American Institute of Physics.
+
+Fermi level
+tunnelling
+MIS structures
+electron traps

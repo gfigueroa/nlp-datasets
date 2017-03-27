@@ -1,0 +1,7 @@
+The cumulative failure number of a repairable item increases with age and usage and represents the operational reliability of the item. In this paper, we use the cumulative failure number as a condition variable to represent the health level of an item, and use a general path model to represent the degradation process of items population. For a given time, the cumulative failure number is modeled by a discrete Weibull distribution. We carry out a case study for a fleet of 22 buses. Based on field failure data in duration of 122 weeks, a general path model is built, an optimal cumulative failure number before an overhaul is determined, and a graphical tool is developed to visualize the health level of a bus.
+
+Cumulative failure number
+bus fleet
+degradation trend analysis
+failure intensity
+general path model

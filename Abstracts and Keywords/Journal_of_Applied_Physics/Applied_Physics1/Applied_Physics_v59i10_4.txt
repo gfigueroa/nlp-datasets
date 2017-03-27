@@ -1,0 +1,15 @@
+Usually, an Ar gas adding hydrogen gas is used for the fabrication of hydrogenated amorphous silicon (aSi:H) films by reactive sputtering. The sputtered films contain Ar atoms of more than 5 at.	%. These implanted Ar+ ions degrade the film quality, and H atoms, which terminate dangling bonds, leave the film easily by heating to about 300	°C. A He atom has a lighter atomic mass and smaller atomic radius than an Ar atom. Therefore, the reactive sputtered films using the He gas will be less affected by the implanted He+ ions than they will by the implanted Ar+ ions of those sputtered by Ar gas. Infrared absorption (IR) and electron spin resonance (ESR) measurements of the films sputtered by He gas are made and compared with those sputtered by Ar gas.
+
+ION IMPLANTATION
+REACTIVE SPUTTERING
+INFRARED SPECTRA
+ABSORPTIVITY
+ELECTRON SPIN RESONANCE
+HELIUM IONS
+ARGON IONS
+SILICON
+AMORPHOUS STATE
+HYDROGENATION
+AMORPHOUS SEMICONDUCTORS
+HEAT TREATMENTS
+HEATING

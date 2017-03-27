@@ -1,0 +1,11 @@
+Using density-functional theory, we computed all the independent elastic constants of coesite, a high-pressure polymorph of silica, as functions of pressure up to 15 GPa. The results are in good agreement with experimental measurements under ambient conditions. Also, the predicted pressure-dependent elastic properties are consistent with x-ray data in the literature concerning lattice strains at high pressures. We find that coesite, like quartz, exhibits a gradual softening of a shear modulus B44 with increasing pressure, in contrast to the rising bulk modulus.
+
+density functional theory
+elastic constants
+high-pressure effects
+hydrostatics
+polymorphism
+shear modulus
+silicon compounds
+softening
+X-ray diffraction

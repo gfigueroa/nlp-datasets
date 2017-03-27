@@ -1,0 +1,6 @@
+Archives digitization refers to the transforming process of traditional archives to digital archives. Digital archives can, to a greater extent, meet the public demand for accessing to the file information, improve the utilization of archives and its society status, and strengthen its function of cultural institutions. So, It has important practical significance to quantitatively research on archives digitization level. The paper will eliminate the redundant data in index membership for object classification by defining distinguishable weight and extract valid values to compute object membership and apply the new algorithm in the fuzzy evaluation on the dynamic evaluation of archives digitization level. Evaluation results of examples showed the validity of the improved model and the model can achieve the dynamic evaluation of archives digitization level.
+
+M(1,2,3) model
+archives
+digitization level
+fuzzy evaluation

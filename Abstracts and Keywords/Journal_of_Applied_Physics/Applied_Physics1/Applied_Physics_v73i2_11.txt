@@ -1,0 +1,9 @@
+The results of Sato et al. [J. Appl. Phys. 69, 7933 (1991)] are extended based on Hopkins [J. Appl. Phys. 73, 1007 (1993)]. This is a report on a relation between the confinement time of ions and the Larmor radius of ions in a Penning source. 	
+
+PENNING ION SOURCES
+MULTICHARGED IONS
+CONFINEMENT
+LANGMUIR PROBE
+ION TEMPERATURE
+LARMOR RADIUS
+THEORETICAL DATA

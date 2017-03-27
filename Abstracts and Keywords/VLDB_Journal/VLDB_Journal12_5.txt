@@ -1,0 +1,7 @@
+This paper describes the POESIA approach to systematic composition of Web services. This pragmatic approach is strongly centered in the use of domain-specific multidimensional ontologies. Inspired by applications needs and founded on ontologies, workflows, and activity models, POESIA provides well-defined operations (aggregation, specialization, and instantiation) to support the composition of Web services. POESIA complements current proposals for Web services definition and composition by providing a higher degree of abstraction with verifiable consistency properties. We illustrate the POESIA approach using a concrete application scenario in agroenvironmental planning.
+
+Composition of Web services
+Data integration
+Ontologies
+Semantic Web
+Semantics of data and processes

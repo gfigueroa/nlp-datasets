@@ -1,0 +1,12 @@
+In this paper we study the dielectric response of materials which display a dc conductivity at low frequencies. A framework based on the generalized Master equation and time dependent transition rates is argued to be applicable to disordered materials and exhibits an interesting fractal dynamics. The relationship of this framework to the Distribution of transition rates theory and the models put forward by Ngai [Comments Solid State Phys. 9, 141 (1980] and by Dissado and Hill [J. Chem. Soc. Faraday Trans. 2, 80, 291 (1984)] is discussed. Model calculations of the dielectric response by means of the abovementioned three theories are carried out and are compared to experimental results on Al2O3 and SiOxNy thin films. The theories can be distinguished only when the exponent of the power law at high frequencies is close to unity. The DissadoHill model is in better agreement with experiments than the other theories, but important discrepancies can easily be seen.
+
+DIELECTRIC MATERIALS
+ELECTRIC CONDUCTORS
+RESPONSE FUNCTIONS
+MASTER EQUATIONS
+DISORDERED SYSTEMS
+FRACTALS
+ALUMINIUM OXIDES
+SILICON OXIDES
+SILICON NITRIDES
+THIN FILMS

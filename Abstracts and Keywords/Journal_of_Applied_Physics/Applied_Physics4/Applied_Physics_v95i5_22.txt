@@ -1,0 +1,13 @@
+Results are presented of cross-sectional transmission-electron microscopy and time-resolved optical reflectivity investigations into the excimer-laser annealing of low-pressure chemical-vapor-deposition amorphous Si films. It is found that, in the initial stages of the laser pulse, a thin surface layer melts. This is directly followed by explosive crystallization of the film into to small, columnar, and defect-rich grains. As more laser energy is consumed, the Si film melts in from the surface for a second time, eventually leading to complete melting of the film. It is argued that melting along grain boundaries and defects is a crucial step in obtaining large, single-crystalline grains in the super-lateral growth regime. © 2004 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+amorphous semiconductors
+chemical vapour deposition
+semiconductor growth
+semiconductor thin films
+grain boundaries
+melting
+laser beam annealing
+crystallisation
+transmission electron microscopy

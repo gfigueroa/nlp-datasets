@@ -1,0 +1,9 @@
+We present a phase-field methodology applied to the simulation of dopant redistribution in Si during an excimer laser annealing process. The kinetic model derived in the framework of the GinsburgLandau thermodynamic formalism is made up of three coupled equations that rule the concurrent evolution of the thermal, phase, and impurity fields. The model was solved numerically by considering, as the initial conditions, the generic material modification due to an ion implant process, i.e., the implanted impurity profile in a SiO2/aSi/cSi stack. The model is parametrized for the cases of As and B doping, considering the thermal properties of the materials in the stack and the impurity-dependent diffusivity in the solid, liquid, and interfacial regions (the latter is characterized by a finite dimension). Simulated profiles are compared with the experimental results that have been obtained by secondary ion mass spectrometry and spreading resistance profiling. These comparisons demonstrate the reliability of the theoretical methodology. The model features are discussed in detail, especially with a view to the extension of the method to other impurity atoms and to the two-dimensional case. © 2004 American Institute of Physics. 
+
+silicon
+silicon compounds
+semiconductor doping
+elemental semiconductors
+laser beam annealing
+ion implantation
+impurity distribution

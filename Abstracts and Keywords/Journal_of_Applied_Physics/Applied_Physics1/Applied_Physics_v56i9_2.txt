@@ -1,0 +1,14 @@
+Magneticflux trapping characteristics of thinfilm Pb alloys including Au and Bi are studied experimentally, which are used for Josephson junction integrated circuits. The amount of the magnetic flux trapped in thinfilm Pb alloys is estimated from the measurement of the quasiparticlecurrent increment of Josephson junctions, which are fabricated with Pb alloys as junction electrodes. An array of Josephson junctions is used in order to observe the spatial distribution of the magneticflux density in thin films. The observed magneticflux behavior in thin films was apparently similar to that in nonideal bulk typeII superconductors; magneticflux distribution was similar to that expected from the socalled pinning model, and surface barrier became large in weak magnetic fields. From the analysis of the observed data, the parameter characterizing the degree of flux trapping has been obtained, with which effects of Au and Bi on flux trapping are evaluated quantitatively. It was shown that the addition of Au increases flux trapping presumably due to strong pinning centers originated from normal precipitates of Au, and that the addition of Bi decreases flux trapping, which may be attributed to the enhancement of the London penetration depth of PbBi films.
+
+MAGNETIC FLUX
+TRAPPING
+JOSEPHSON JUNCTIONS
+INTEGRATED CIRCUITS
+LEAD
+TYPEII SUPERCONDUCTORS
+LEAD ALLOYS
+ELECTRODES
+GOLD ADDITIONS
+BISMUTH ADDITIONS
+FABRICATION
+TUNNEL EFFECT

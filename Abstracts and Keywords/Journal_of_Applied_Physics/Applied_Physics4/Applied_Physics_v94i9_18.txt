@@ -1,0 +1,15 @@
+Electromigration of eutectic SnPb flip chip solder joints and their mean-time-to-failure (MTTF) have been studied in the temperature range of 100 to 140
+°C with current densities of 1.9 to 2.75×104	A/cm2. In these joints, the under-bump-metallization (UBM) on the chip side is a multilayer thin film of Al/Ni(V)/Cu, and the metallic bond-pad on the substrate side is a very thick, electroless Ni layer covered with 30 nm of Au. When stressed at the higher current densities, the MTTF was found to decrease much faster than what is expected from the published Blacks equation. The failure occurred by interfacial void propagation at the cathode side, and it is due to current crowding near the contact interface between the solder bump and the thin-film UBM. The current crowding is confirmed by a simulation of current distribution in the solder joint. Besides the interfacial void formation, the intermetallic compounds formed on the UBM as well as the Ni(V) film in the UBM have been found to dissolve completely into the solder bump during electromigration. Therefore, the electromigation failure is a combination of the interfacial void formation and the loss of UBM. Similar findings in eutectic SnAgCu flip chip solder joints have also been obtained and compared. © 2003 American Institute of Physics. 
+
+soldering
+metallisation
+tin alloys
+lead alloys
+electromigration
+current distribution
+copper
+aluminium
+nickel alloys
+vanadium alloys
+voids (solid)
+dissolving

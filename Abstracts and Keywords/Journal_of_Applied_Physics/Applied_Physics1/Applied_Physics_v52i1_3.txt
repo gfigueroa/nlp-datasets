@@ -1,0 +1,18 @@
+A HgXe(30+) fluorescence efficiency of 12±2% was measured in an electronbeampreionized, volumestable discharge with an E/N value of 2×1017 V cm2. This efficiency was obtained for gas mixtures with mercury pressures in the range of 210 Torr and a constant xenon pressure of 3000 Torr. This efficiency was compared with Boltzmannkinetics code calculations. It was found that processes involving molecular mercury formation had to be included in the kinetics code in order to obtain agreement between the measured and calculated HgXe (30+) fluorescence efficiency.
+
+ELECTRIC DISCHARGES
+EFFICIENCY
+FLUORESCENCE
+MERCURY COMPOUNDS
+XENON COMPOUNDS
+ELECTRON BEAMS
+COMPARATIVE EVALUATIONS
+BOLTZMANN STATISTICS
+KINETICS
+COMPUTERIZED SIMULATION
+LOW PRESSURE
+MEDIUM PRESSURE
+MATHEMATICAL MODELS
+GASES
+MIXTURES
+THEORETICAL DATA

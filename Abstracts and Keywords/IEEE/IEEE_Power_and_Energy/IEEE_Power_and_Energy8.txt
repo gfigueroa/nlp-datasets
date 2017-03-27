@@ -1,0 +1,7 @@
+Energy sustainability of hybrid energy systems is essentially a multiobjective, multiconstraint problem, where the energy system requires the capability to make rapid and robust decisions regarding the dispatch of electrical power produced by generation assets. This process of control for energy system components is known as energy management. In this paper, the application of particle swarm optimization (PSO), which is a biologically inspired direct search method, to find real-time optimal energy management solutions for a stand-alone hybrid wind-microturbine (MT) energy system, is presented. Results demonstrate that the proposed PSO-based energy management algorithm can solve an extensive solution space while incorporating many objectives such as: minimizing the cost of generated electricity, maximizing MT operational efficiency, and reducing environmental emissions. Actual wind and end-use load data were used for simulation studies and the well-established sequential quadratic programming optimization technique was used to validate the results obtained from PSO. Promising simulation results indicate the suitability of PSO for real-time energy management of hybrid energy systems.
+
+Battery bank
+microturbine (MT)
+optimization methods
+real-time energy management
+wind power generation

@@ -1,0 +1,7 @@
+We evaluate the second moments of the fluctuations of the total longitudinal heat flux in cylindrical nanowires described by phonon hydrodynamics with boundary conditions accounting for phonon boundary collisions. It is found that the second moments exhibit an explicit dependence on the boundary conditions and, therefore, may provide a suitable tool for analyzing phonon boundary collisions. Furthermore, an analogous dependence is also manifested in the relative probability of forward and backward fluctuations of the heat flux in a nonequilibrium steady state, thus providing a complementary tool of research for phonon boundary collisions.
+
+heat transfer
+hydrodynamics
+nanowires
+phonons
+probability

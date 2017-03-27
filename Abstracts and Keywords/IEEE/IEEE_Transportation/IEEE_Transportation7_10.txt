@@ -1,0 +1,7 @@
+When the computation of project duration, the unascertained factor of project duration is leave out in traditional PERT network. And the computing result is a determine value. In this paper, the unascertained number algorithm is introduced in order to discuss the uncertainty in project network. And the project duration is contract with the credence. Firstly, the uncertainty of project duration is studied in the PERT network. Secondly, the unascertained algorithm is introduced, and the unascertained number of the project duration in the network is determined by using this method. Thirdly, both the finish credence and the accumulate credence can be worked out by the unascertained algorithm in the unascertained finish time of the network-planning. Forthly, the risk degree of project duration in U-PERT network is delimited. Finally, the scientific of risk degree of project duration in the U-PERT is proved by a case study.
+
+PERT
+project duration risk
+project management
+risk degree
+the unascertained number algorithm

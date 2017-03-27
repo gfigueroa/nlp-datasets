@@ -1,0 +1,14 @@
+This work extends the study of dopantenhanced epitaxial regrowth rate of amorphized Si from the 100	 to the 110	 and 111	 orientations of Si. Boron and phosphorus dopants are considered. The annealing temperatures are 500 and 550	°C. Phosphorus enhances the growth rates in all three orientations by a constant factor of 8.1±0.9. Boron produces a higher enhancement factor of 12.2±1.2, except in the case of 100	. Implications of the results on various growth models are considered. The crystalline quality of regrown 111	 layers is improved in the doped samples.
+
+orientation
+annealing
+recrystallization
+substrates
+silicon
+phosphorus ions
+boron ions
+high temperature
+epitaxy
+ion implantation
+doped materials
+crystal doping

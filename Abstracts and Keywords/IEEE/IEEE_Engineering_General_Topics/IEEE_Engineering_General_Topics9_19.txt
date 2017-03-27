@@ -1,0 +1,7 @@
+In image watermarking, many attacks will result in a synchronization problem between embedder and detector. A novel way to, partly, overcome this problem is embedding with feature points. In this paper we describe a synchronization system based on SIFT feature points. These points are characterized as being a localized feature containing semantic information of the image and can usually be retrieved after the image is attacked. We present an improvement on the work of Lee et al., by using a more robust SIFT algorithm for feature point detection which we called Global SIFT (GLOS) and an adaptation of the Circular Spatial watermarking algorithm using so called mean QIM (CSI). We experimentally show an increase in detection rate and robustness of the watermarks after geometric attacks.
+
+QIM
+SIFT
+Watermarking
+feature points
+synchronization

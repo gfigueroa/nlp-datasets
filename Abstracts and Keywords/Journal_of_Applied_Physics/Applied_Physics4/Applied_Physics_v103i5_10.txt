@@ -1,0 +1,7 @@
+We developed a full-band Monte Carlo simulator to investigate electron transport in a single layer of graphite (graphene). The electron and phonon dispersion curves of graphene are first obtained by applying the tight-binding method to the two inequivalent atoms of the graphene unit cell, considering their nearest four neighbors. The electron-phonon scattering rates for interactions that conserve momentum and energy are then determined using Fermis golden rule and the deformation potential approximation. Average electron velocities due to external fields applied in different directions are calculated using these electron-phonon scattering rates and a semiclassical electron and electric field interaction. Graphene transport simulations at room temperature indicate large low-field graphene electron mobilities of approximately 4.0×104, 6.0×104, and 8.0×104cm2/Vs along the ky (kx = 0), kx = ky, and kx (ky = 0) momentum directions, respectively. These low-field electron mobilities further suggest graphene field-effect mobilities of 1.32.6×104cm2/Vs, which agree with experiments. Also, a large peak electron velocity of roughly 4.6×107cm2/Vs at high fields is obtained.
+
+electron mobility
+electron-phonon interactions
+graphite
+Monte Carlo methods
+tight-binding calculations

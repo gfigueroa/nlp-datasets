@@ -1,0 +1,5 @@
+Research based on computer simulations, especially that conducted through agent-based experimentation, is often criticised for not being a reliable source of information - the simulation software can hide errors or flawed designs that inherently bias results. Consequently, the academic community shows both enthusiasm and lack of trust for such approaches. In order to gain confidence is using engineered systems, domains such as Safety Critical Systems employ structured argumentation techniques as means of explicitly relating claims to evidence - in other words, requirements to deliverables. We argue here that structured argumentation should be used in the development and validation process of simulation-driven research. Making use of the Goal Structuring Notation, we provide insights into how more trustworthy outcomes can be obtained through argumentation-driven validation.
+
+Modelling
+Simulation
+Software verification and validation

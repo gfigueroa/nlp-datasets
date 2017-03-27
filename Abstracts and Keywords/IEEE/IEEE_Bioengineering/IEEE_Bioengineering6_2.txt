@@ -1,0 +1,5 @@
+Several algorithms have been proposed to solve the problem of mining frequent inter-transaction item set. However, the low efficiency of support calculation for inter-transaction itemsets is still a challenging problem that eliminates the performance of mining algorithms. This paper provides inter-transaction association rule mining algorithm using effective technique for support calculations. The proposed technique is based on cross correlation and bitwise operations. The experimental results show a significant improvement of performance up to several orders of magnitude compared to First Intra Then Inter (FITI) algorithm.
+
+Cross Correlation
+Data Mining
+Inter-Transaction Association Rule Mining

@@ -1,0 +1,10 @@
+Interfilament contact in Nb3Sn wires made by the internaltindiffusion process causes excess hysteresis loss beyond the intrinsic magnetic hysteresis loss of the filaments. In analogy with eddycurrent and proximityeffect coupling losses, the excess contact loss can be reduced by decreasing the twistpitch length of the filaments in the wire. One consequence of interfilament contact is that volume magnetization measurements are strongly dependent on sample length below about one twist pitch. We define a characteristic length whose reciprocal is equal to the sum of the reciprocals of the sample length and the twist pitch. Hysteresis loss is a universal function of characteristic length for different sample lengths and twist pitches. We discuss several experimental parameters for the magnetic determination of hysteresis loss.
+
+BINARY COMPOUNDS
+CONTACT PROBLEMS
+NIOBIUM COMPOUNDS
+TIN COMPOUNDS
+SUPERCONDUCTING WIRES
+HYSTERESIS
+MAGNETIZATION
+ENERGY LOSSES

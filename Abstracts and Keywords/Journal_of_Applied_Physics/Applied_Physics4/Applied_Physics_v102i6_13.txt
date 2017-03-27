@@ -1,0 +1,10 @@
+CdS nanocomposites have been grown in a polymer (polyvinyl alcohol) matrix using a simple chemical bath deposition process. Transmission electron micrographs of nanocomposites grown at different solution temperatures revealed the formation of isolated as well as junctionlike structures. X-ray and selected area electron diffraction patterns show that the nanocomposites are polycrystalline with cubic CdS phase. Optical band gaps of nanocomposite films are found to decrease (3.262.86eV) with the increase in bath temperature from 70to90	°C. Photoluminescence spectra show strong green emission attributed to the Cd2+ or Cd+ ion-related recombination via moderately deep trap states. The nanocomposites show an enormous enhancement of dielectric constant in polyvinyl alcohol matrix over a frequency range of 40Hz10MHz.
+
+cadmium compounds
+dielectric properties
+electron diffraction
+II-VI semiconductors
+nanocomposites
+photoluminescence
+polymers
+X-ray diffraction

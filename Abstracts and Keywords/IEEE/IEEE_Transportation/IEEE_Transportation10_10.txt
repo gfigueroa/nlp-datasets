@@ -1,0 +1,6 @@
+Gray theory is one of method be used in longterm load forecasting, LabView is a graphical programming language, which provide a convenient and easy design environment, so it's normally accepted by industrial sector and research laboratory. In this paper, the improved Gray prediction model is introduced based on traditional Gray prediction model, the improved Gray through to adding parameters Ã to amend k, and through the gradient method to solve the best values of k, the revised prediction accuracy has been greatly improved. To enable the proposed algorithm for practical use, this article use LabView to achieve the algorithm, and describes a load forecasting design process of virtual instrument.
+
+Gray Model
+Improved Gray Model
+LabVIEW
+Load forecasting

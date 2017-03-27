@@ -1,0 +1,7 @@
+In molecular biology, Gene Ontology (GO) has often been used for annotation and as a data mining dimension. A frequently performed step in microarray analytics is the clustering of co-expressed genes by their GO bioprocesses. Biological deductions are then made from the visual representation of the cluster pattern. Thus far, the question of how different representations of GO-annotated clusters affect biological interpretation and usability has not been investigated. In this paper, we evaluated two representations of GO-annotated clusters of co-expressed genes. Using a published cDNA microarray dataset, we tested the effect of each representation on biological interpretation. We also reported the results of the user evaluation conducted with bench biologists from different areas of expertise. Our study suggests that the bipartite graph may be more suitable for microarray analytics.
+
+bioinformatics
+gene ontology
+microarray
+user evaluation
+visualization design

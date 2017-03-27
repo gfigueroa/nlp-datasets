@@ -1,0 +1,9 @@
+The fundamental band gap of InN films grown by molecular beam epitaxy have been measured by transmission and photoluminescence spectroscopy as a function of temperature. The band edge absorption energy and its temperature dependence depend on the doping level. The band gap variation and Varshni parameters of InN are compared with other group III nitrides. The energy of the photoluminescence peak is affected by the emission from localized states and cannot be used to determine the band gap energy. Based on the results obtained on two samples with distinctly different electron concentrations, the effect of degenerate doping on the optical properties of InN is discussed. © 2003 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+energy gap
+semiconductor epitaxial layers
+photoluminescence
+visible spectra
+semiconductor doping

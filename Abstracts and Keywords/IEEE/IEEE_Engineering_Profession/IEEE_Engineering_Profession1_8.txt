@@ -1,0 +1,8 @@
+In recent years, there has been a growing interest in wireless sensor network. In wireless sensor network, constrained energy is one of the most critical problems. In-network data aggregation is essential for the efficient operation of wireless sensor network. In this paper, we propose a novel energy saving topology control algorithm (ESTP). This scheme enable the node within a given distance cooperate with each other sending data selectively and then confused current data with subsequent data to achieve elimination of redundancy between data from continuous time spot. Simulation is conducted to evaluate the performance of this approach in term of system lifetime. Numerical results show that the proposed scheme reduced the amount of data transmission within the node cluster dramatically and thus prolong the network lifetime.
+
+LEACH
+data aggregation
+data timeliness
+energy efficient
+pair
+wireless sensor network

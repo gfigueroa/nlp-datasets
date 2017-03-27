@@ -1,0 +1,15 @@
+Amorphous siliconnitrogen (a-SiN) films independently doped with different rare-earth (RE) elements (Y, La, Pr, Nd, Sm, Gd, Tb, Dy, Ho, Er, Tm, Yb, and Lu) have been prepared by cosputtering. The films were investigated in detail by x-ray photoelectron spectroscopy employing 1486.6 eV photons. Additional information was also achieved by optical techniques and ion beam analyses. As a result of the deposition method and conditions, the films present similar contents of Si and N, and rare-earth concentrations below 1.0 at.
+%. In spite of this relatively low concentration, and taking advantage of the high photoionization cross section of the rare-earth elements at 1486.6 eV, the signal of several different core-levels and Auger transitions could be detected and analyzed. The electronic states at the top of the valence band of the RE-doped a-SiN films were also investigated with 1486.6 eV photons. Compared to the spectroscopic data of pure metals, the RE-related core levels of the present a-SiN films exhibit an energy shift typically in the 0.82.5 eV range, which is attributed to the presence of nitrogen atoms. According to the experimental data, most of the RE ions remain in the 3+ state. The only clear exception occurs in the Yb-doped a-SiN film, where a large fraction of Yb2+ coexisting with Yb3+ ions is evident. © 2003 American Institute of Physics. 
+
+silicon compounds
+rare earth metals
+semiconductor thin films
+amorphous semiconductors
+sputtered coatings
+X-ray photoelectron spectra
+core levels
+photoionisation
+Auger electron spectra
+valence bands
+impurity states
+binding energy

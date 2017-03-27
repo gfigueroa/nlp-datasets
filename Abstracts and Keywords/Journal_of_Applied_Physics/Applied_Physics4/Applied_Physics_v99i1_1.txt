@@ -1,0 +1,9 @@
+The effect of anode length and operating gas pressure on the x-ray emission from a nitrogen-filling modified plasma focus device has been investigated. The time-resolved investigation of x ray was carried out by using a five-channel photodiode x-ray spectrometer. The maximum x-ray yield is seen to increase with the increase in the anode length from 110 to 125 mm. Further increase in the anode length to 130 mm causes the x-ray yields to decrease. The highest x-ray yield of 4.5 J into 4Àsr was found for 125 mm anode length, which is 0.2% of the input energy. The average x-ray photon energy was estimated by using half-value thickness method and found to be 8.4 keV. The electron temperature of the plasma was estimated to be around 3 keV by x-ray intensity ratio method. The space-resolved x-ray-emitting zones for all the anodes were captured by a pinhole-based x-ray imaging camera and the images were scanned for different gray levels by using a MATLAB computing software. These gray level spectra show that the image for a 125 mm anode length is more intense than that for the other anode. In addition to this, the gray level spectrum shows some highly dense spot inside the image, which is the so-called hot spot, emitting relatively higher energy x rays. Our results indicate that the plasma focus device could be optimized to a great extent for optimal x-ray yield by using an appropriate anode length.
+
+nitrogen
+plasma X-ray sources
+plasma focus
+plasma diagnostics
+plasma temperature
+plasma sources
+pinch effect

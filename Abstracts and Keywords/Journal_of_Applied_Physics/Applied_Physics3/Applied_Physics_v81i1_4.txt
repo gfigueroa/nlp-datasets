@@ -1,0 +1,6 @@
+A very high silane dissociation rate (~95%) has been measured using mass spectrometric analysis of neutral species in a low pressure (a few mTorr) high density (~1011 cm3 for a radio frequency source power of 800 W) oxygen/silane (O2/SiH4) helicon deposition reactor. Energy selective mass spectrometric measurements of positive ions have been performed for O2/SiH4 flow rate ratios varying from 1 to 10 and for a constant power of 800 W. A simple model of the ion-induced deposition rate has been developed and the results have been compared to the measured deposition rate. It appears that 20%50% of the silicon atoms in the near-stoichiometric deposited oxides could result from the flux of silicon-containing ions (essentially Si+ and SiOH+) to the substrate during deposition. An oxidation process via O2+ ions and an etching process via H3+ ions could possibly be involved in the ion-induced deposition mechanism. © 1997 American Institute of Physics.
+
+silicon compounds
+plasma CVD
+insulating thin films
+dissociation

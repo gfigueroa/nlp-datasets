@@ -1,0 +1,4 @@
+A new approach to diffractive imaging using polychromatic diffraction data is described. The method is tested using simulated and experimental data and is shown to yield high-quality reconstructions. Diffraction data produced using a high-harmonic generation source are considered explicitly here. The formalism can be readily adapted, however, to any short-wavelength source producing a discrete spectrum and possessing sufficient spatial coherence.
+
+X-ray diffraction
+X-ray imaging

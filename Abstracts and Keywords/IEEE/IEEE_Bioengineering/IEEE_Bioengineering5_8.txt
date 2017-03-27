@@ -1,0 +1,6 @@
+With rapid progress in the miniaturization of biosensors, array microsystems utilizing impedance spectroscopy (IS) are of emerging interest. Focused on the electronics portion of such IS microsystems, this paper analyzes FFT-based and frequency response analyzer (FRA)-based approaches and compares them for hardware efficiency in array applications. For the chosen FRA-based approach, two possible systems are described and their circuit-level realizations are presented, one targeting high accuracy applications and the other prioritizing rapid interrogation.
+
+analog/mixed signal integrated circuit
+biosensor array
+impedance spectroscopy
+microsystem

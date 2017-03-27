@@ -1,0 +1,11 @@
+We present calculations of the two-dimensional (2D) electron mobility in III-nitride heterojunction structures in the presence of spontaneous and piezoelectrically induced polarization effects. The calculations are made using a self-consistent solution of the Schrödinger, Poisson, charge and potential balance equations. It is found that the polarization fields act to significantly increase the 2D sheet charge concentration while reducing the mobility. The mobility reduction results from the enhanced band bending and subsequent attraction of the electrons to the heterointerface where they experience increased surface roughness scattering. Good agreement is obtained between the theoretical calculations and experimental measurements over the full temperature range examined. Comparison of the mobility in InGaN/GaN to AlGaN/GaN heterostructures is made. It is found that the mobility is significantly higher in the InGaN/GaN structure than in the AlGaN/GaN structure. © 2001 American Institute of Physics.
+
+indium compounds
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor heterojunctions
+interface states
+two-dimensional electron gas
+electron mobility

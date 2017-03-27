@@ -1,0 +1,10 @@
+The results of ab initio calculations of the structural, elastic, electronic, and phonon properties of BeO in both zinc-blende and wurtzite structures are presented. Our calculations are based on the application of plane-wave basis, pseudopotentials, and the generalized gradient approximation of the density functional scheme. Our total energy calculations indicate that the wurtzite phase has lower energy (around 5.8 meV) than zinc-blende phase. It is found that for the two crystal phases the values of the equilibrium atomic volume and of the bulk modulus and its pressure derivative are almost identical. The zinc-blende and wurtzite phases are predicted to be characterized with indirect (and smaller) and direct band gaps, respectively. The maximum longitudinal optical and transverse optical phonon frequencies in the zinc-blende phase compare well to the average of the corresponding E1 and A1 modes in the wurtzite phase.
+
+ab initio calculations
+beryllium compounds
+Brillouin zones
+density functional theory
+elastic moduli
+energy gap
+phonons
+semiconductor materials

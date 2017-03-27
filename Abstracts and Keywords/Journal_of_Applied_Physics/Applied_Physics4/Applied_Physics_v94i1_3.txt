@@ -1,0 +1,10 @@
+The magnetization reversal in selected antiferromagnetically coupled multilayers has been studied by solving the LandauLifshitzGilbert equation. The multilayers are composed of 10	nmt1/3	nmt2/10	nmt3, where t1, t2, and t3 are soft magnetic material and are separated each other by thin nonmagnetic spacers. Our results suggest that the coupled ternary layers can possess good permanent magnet properties: A coercivity of 56 KOe and a hysteresis loop which can become approximately rectangular with an appropriate choice of parameters. The coercivity in such coupled layers originates from the interlayer coupling and the demagnetization field between layers. © 2003 American Institute of Physics. 
+
+antiferromagnetic materials
+soft magnetic materials
+magnetisation reversal
+magnetic multilayers
+permanent magnets
+coercive force
+magnetic hysteresis
+demagnetisation

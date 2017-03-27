@@ -1,0 +1,8 @@
+New luminescent thermally stable lanthanide-organic complexes, namely europium tris(4-methoxy benzoylbenzoate), Eu(MeOBB)3, and terbium tris(4-methoxy benzoylbenzoate), Tb(MeOBB)3, were synthesized and characterized. The UV absorption bands in these compounds are attributed to the ligand while the emission originates from the lanthanide ions electronic transitions. The quantum efficiency of photoluminescence, ¦, measured in 5×104 M methylene chloride solutions is relatively large in both compounds: ¦=0.27 for Tb(MeOBB)3 and ¦=0.16 for Eu(MeOBB)3. The narrow-band electroluminescence from these complexes is studied by fabricating and characterizing single- and multi-layer organic light emitting diodes. Energy transfer between the organic components of these devices is also discussed. © 1997 American Institute of Physics. 	 
+
+organic compounds
+photoluminescence
+electroluminescence
+rare earth compounds
+europium compounds
+terbium compounds

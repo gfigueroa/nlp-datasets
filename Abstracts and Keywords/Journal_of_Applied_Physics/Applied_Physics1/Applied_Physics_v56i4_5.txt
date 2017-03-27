@@ -1,0 +1,11 @@
+A simple model was put forward attempting to qualitatively explain features of currents and voltages observed during heating of dipolar dielectrics, not polarized earlier with external bias. It was assumed that temperature gradients, existing usually during the experiments, act as a driving force giving rise to a dipolar orientation. Analytical solutions for particular cases were given, and results of numerical calculations presented.
+
+thermally stimulated currents
+temperature gradients
+dipoles
+dielectric materials
+heating
+mathematical models
+orientation
+analytical solution
+numerical data

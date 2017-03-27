@@ -1,0 +1,6 @@
+GIS is a tool for spatial-related data processing and decision making. Handling decision making under high quality data is a further extension of GIS functions. Therefore, it is of vital importance to assess data quality in GIS and to decide the fitness of data to user's particular applications. We present a methodology to determine two data quality characteristics - accuracy and completeness - that are of critical importance to decision makers. We examine how the quality metrics of source data affect the quality for information outputs produced using the relational algebra operations Selection, Projection, and Cartesian product. Our methodology can help users deciding the fitness of spatial data to their GIS applications according to the quality levels much efficiently.
+
+data quality
+database management
+geographic information systems (GIS)
+quality

@@ -1,0 +1,14 @@
+Multilayered dielectric stack structures, with a layered or crested potential profile, have been proposed for use as the tunnel dielectric of nonvolatile memories for fast low-voltage programming and longer charge retention. In this work, self-consistent quantum mechanical (QM) numerical calculations, using an in-house developed charge quantization simulation program, were conducted to analyze the gate tunneling current and capacitance of metalinsulatorsemiconductor (MIS) devices with tunnel dielectric stack structures. The self-consistent QM simulator takes into account polysilicon depletion, quantization effects on the carrier density, and wave penetration effects. The gate current densitygate voltage (JgVg) simulation uses a recursive method for calculating the transmission probability through the dielectric stack structure. The physical model was used to fit with capacitancevoltage and JgVg measurements on MIS devices with different single-layer dielectric and multilayered dielectric stack structures. The simulation of the JgVg characteristics of a layered-barrier structure of HfO2/Al2O3/HfO2, which can be potentially applied as the tunnel dielectric of nonvolatile memory devices, is also presented and compared with results from metaloxidesemiconductor devices with a single layer of SiO2 or HfO2 as gate dielectric. It was found that the layered-barrier structure has the steepest JgVg characteristics of the three structures with identical equivalent-oxide thickness. This results in a small ratio of program voltage to retention voltage for the layered-barrier structure, which makes it attractive for nonvolatile memory application. © 2004 American Institute of Physics. 
+
+aluminium
+silicon compounds
+hafnium compounds
+silicon
+elemental semiconductors
+multilayers
+MIS devices
+carrier density
+dielectric thin films
+SCF calculations
+semiconductor device models
+permittivity

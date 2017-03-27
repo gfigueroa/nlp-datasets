@@ -1,0 +1,11 @@
+Metal based single electron transistors are fabricated by the step edge cut off process. Titanium metal lines with a width of 0.1 ¼m are deposited on prepatterned silicon substrates, that serve as the dielectric barriers for the tunnel junctions. In structures with multiple tunnel junctions, clear Coulomb blockade and Coulomb oscillation features can be observed at temperatures up to 77 K. © 1997 American Institute of Physics.
+
+silicon
+elemental semiconductors
+titanium
+single electron transistors
+quantum interference devices
+quantum interference phenomena
+electron beam lithography
+semiconductor device metallisation
+semiconductor-metal boundaries

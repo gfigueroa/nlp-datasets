@@ -1,0 +1,7 @@
+Dielectric measurements were carried out on specimens with compositions BaO.(6x)Fe2O3.xSb2O3 with x having values of 0.0, 0.025, 0.1, and 0.3. Sb2O3 doping increases the dielectric permittivity drastically. Two loss peaks of similar activation energies were observed. The analysis showed that these arose because of the presence of Fe2+Fe3+ and Sb3+Sb5+ pairs, respectively, in the system. The experimental data could be analyzed satisfactorily in terms of Cole-Cole relaxation formalism. The relaxation distribution parameter ± was found to be much larger in the case of Sb3+Sb5+ pair than that due to Fe2+Fe3+ pair.
+
+antimony compounds
+barium compounds
+ferrites
+permittivity
+dielectric relaxation

@@ -1,0 +1,11 @@
+Metaloxidesemiconductor capacitors have been fabricated on SF6 and SF6+Cl2 reactiveionetched silicon in order to study the resulting defects at the SiSiO2 interface and in the bulk of the silicon substrate. The reactiveionetching (RIE) induced damage reveals itself by the presence of positive charge in the oxide, by interfacial states, and by two deep levels in the silicon bulk located at 300 and 335 meV above the valence band and probably related to fluorine atoms. We have studied the effect of the chamber pressure and the plasma composition on the resulting damage. This damage is more important when the chamber pressure is low because of the higher freemean path of the plasma ions. On the other hand, when the Cl2 concentration in the plasma is raised the densities of interface states and of the deep levels decrease while the positive charge in the oxide increases. Finally, we have shown that a postRIE thermal annealing can be used to restore the electrical properties of the RIEdamaged silicon surfaces.
+
+MOS JUNCTIONS
+FABRICATION
+SILICON
+ETCHING
+SILICON OXIDES
+INTERFACE STATES
+CRYSTAL DEFECTS
+DEEP ENERGY LEVELS
+REACTIVE SPUTTERING

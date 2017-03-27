@@ -1,0 +1,10 @@
+The correlation between the Raman peak shift and the linewidth of porous silicon is studied. The experimental result does not fit with the relationship predicted by the phonon confinement model. By taking into account both the phonon confinement and the effect of strain, the calculated Raman line shape coincides fairly well with the measured spectrum. The builtin strain of porous silicon varies with the porosity of the sample and is on the order of 103.
+
+SILICON
+POROSITY
+RAMAN SPECTRA
+SPECTRAL SHIFT
+PHOTOLUMINESCENCE
+PHONONS
+LINE WIDTHS
+STRAINS

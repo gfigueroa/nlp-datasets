@@ -1,0 +1,7 @@
+Various models and languages for describing and manipulating hierarchically structured data have been proposed. Algebraic, calculus-based, and logic-programming oriented languages have all been considered. This article presents a general model for complex values (i.e., values with hierarchical structures), and languages for it based on the three paradigms. The algebraic language generalizes those presented in the literature; it is shown to be related to the functional style of programming advocated by Backus (1978). The notion of domain independence (from relational databases) is defined, and syntactic restrictions (referred to as safety conditions) on calculus queries are formulated to guarantee domain independence. The main results are: The domain-independent calculus, the safe calculus, the algebra, and the logic-programming oriented language have equivalent expressive power. In particular, recursive queries, such as the transitive closure, can be expressed in each of the languages. For this result, the algebra needs the powerset operation. A more restricted version of safety is presented, such that the restricted safe calculus is equivalent to the algebra without the powerset. The results are extended to the case where arbitrary functions and predicates are used in the languages.
+
+complex object
+complex value
+database
+database model
+query language

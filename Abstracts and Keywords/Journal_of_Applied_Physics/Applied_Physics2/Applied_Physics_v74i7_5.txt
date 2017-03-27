@@ -1,0 +1,13 @@
+Frequency upconversion characteristics in Er3+ or Tm3+ionactivated and Yb3+ion sensitized luminescent materials have been investigated. The principal goal was to obtain highbrightness, blue and green light sources under 980 nm emitting laser diode light excitation. Processes leading to the efficient upconversion have been investigated both by experimental and analytical methods. It has been shown that upconversion efficiencies are principally determined with Yb3+ ion excited state lifetime, which is highly influenced by device optical confinement as well as material characteristics. The effect of the optical confinement has been analyzed quantitatively on the basis of a rate equation model. Criteria for realizing efficient infrared upconversion devices have been presented. A strong tendency toward temperature quenching has been observed especially in blue emitting materials. This temperature dependence has been shown to be principally due to increase of nonradiative decay in the Yb3+ ion excited state.
+
+LIGHT EMITTING DIODES
+LUMINESCENCE
+THULIUM IONS
+ERBIUM IONS
+YTTERBIUM IONS
+LASER DIODES
+EFFICIENCY
+EXCITED STATES
+LIFETIME
+TEMPERATURE DEPENDENCE
+INFRARED RADIATION

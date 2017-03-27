@@ -1,0 +1,11 @@
+The electrical conductivity of Sr1xLaxTiO3 ceramics (xd0.4) and single crystals (xd0.1) was investigated in the temperature range between 19 and 1673 K. The mobility was calculated from the carrier concentration, n, which was determined by Hall measurements as well as by a chemical Ti3+ titration. The mobility of the single crystals agrees well with a model originally developed for undoped strontium titanate. At low T and high n scattering by ionized donor centers predominates. Above roomtemperature phonon scattering becomes predominant. Sr1xLaxTiO3 ceramics follow the same model, but only if they had been previously reduced in waterfree and oxygenfree hydrogen atmospheres. The behavior during the reducing and cooling process can be explained by a defect chemical model, using a set of constants developed in a former work. However, reduced in water saturated hydrogen the conductivity at low T decreases by decades compared to singlecrystal data and cannot be explained anymore by the abovementioned models. In conjunction with impedance spectroscopy experiments it was found, that in this case the electrical behavior of the ceramics is completely governed by grainboundary phenomena. These highohmic grain boundaries may be depletion layers, which are formed or annihilated depending on the conditions of the preceding hightemperature process. © 1996 American Institute of Physics. 
+
+STRONTIUM TITANATES
+LANTHANUM COMPOUNDS
+CERAMICS
+MONOCRYSTALS
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+CARRIER MOBILITY
+HALL EFFECT
+SCATTERING

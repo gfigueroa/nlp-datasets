@@ -1,0 +1,8 @@
+The design and optimization of three-terminal photovoltaic devices based on two InGaAs(P) and/or InP single homojunction cells are reported. Four different band gap combinations were simulated for the top (11.34eV) and bottom (0.741eV) cells lattice matched to InP. The device structure comprises two single-junction cells connected back to back and separated by an InP layer serving as the middle common contact. The device active layers were optimized by modeling, and the predictions led to devices with a total thickness of 4.3¼m or below, and showed that moderate doping concentrations in the range of 15×1017cm3 are optimal. The device performance was simulated for various illumination conditions and operating temperatures. Due to the split of the incident spectrum, the bottom cell response is found to be different from that expected for a single-junction cell having the same band gap. It was found that the optimal band gap combination that delivers the best total efficiency is achieved with 1.2 and 0.74eV for the top and bottom cells, respectively. In light of our findings, the potential applications of such devices in conventional (thermo)photovoltaics and concentrator solar cells are also discussed.
+
+gallium arsenide
+gallium compounds
+III-V semiconductors
+indium compounds
+photovoltaic cells
+semiconductor device models

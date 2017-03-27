@@ -1,0 +1,11 @@
+Roomtemperature pumpprobe transmission experiments have been performed on an arsenicrich InAs/InAs1xSbx strained layer superlattice (SLS) above the fundamental absorption edge near 10 ¼m, using a ps farinfrared freeelectron laser. Measurements show complete bleaching at the excitation frequency, with recovery times which are found to be strongly dependent on the pump photon energy. At high excited carrier densities, corresponding to high photon energy and interband absorption coefficient, the recombination is dominated by Auger processes. A direct comparison with identical measurements on epilayers of InSb, of comparable roomtemperature band gap, shows that the Auger processes have been substantially suppressed in the superlattice case as a result of both the quantum confinement and strain splittings in the SLS structure. In the nondegenerate regime, where the Auger lifetime scales as Ä1aug=C1N2e, a value of C1 some 100 times smaller is obtained for the SLS structure. The results have been interpreted in terms of an 8×8 kÅp SLS energy band calculation, including the full dispersion for both k in plane and k parallel to the growth direction. This is the strongest example of roomtemperature Auger suppression observed to date for these longwavelength SLS alloy compositions and implies that these SLS materials may be attractive for applications as roomtemperature midIR diode lasers. © 1996 American Institute of Physics. 
+
+SUPERLATTICES
+AUGER EFFECT
+RECOMBINATION
+STRAINS
+INDIUM ARSENIDES
+INDIUM ANTIMONIDES
+ABSORPTION EDGE
+OPTICAL PUMPING
+PROBES

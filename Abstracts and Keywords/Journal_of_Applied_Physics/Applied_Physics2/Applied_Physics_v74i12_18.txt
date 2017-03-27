@@ -1,0 +1,10 @@
+SiC diode operating at high avalanche breakdown current has been fabricated. The 6HSiC pn structure was grown by liquid phase epitaxy. The diodes displayed avalanche breakdown at <80 V. The breakdown current density of 60 kA/cm2 and the input power density of 9 MW/cm2 were achieved at a current pulse duration of 60 ns. For the first time, the temperature coefficient of avalanche breakdown voltage of SiC pn junction was studied at high current density. It was found that the avalanche breakdown voltage of the diodes decreases with temperature from 300 to 750 K and increases from 750 to 900 K.
+
+SILICON CARBIDES
+AVALANCHE DIODES
+CURRENT DENSITY
+BREAKDOWN
+PULSES
+TEMPERATURE COEFFICIENT
+PN JUNCTIONS
+TEMPERATURE RANGE 04001000 K

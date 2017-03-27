@@ -1,0 +1,9 @@
+A monocrystalline diamond detector was used for measurements of soft x-ray and ion emission from laser plasma obtained with the use of the PALS Asterix laser at intensities on the order of 1016W/cm2 and pulse duration of 300 ps. Measurements were performed by varying the laser intensity and the focal position of the laser beam with respect to the target position. The spectra were obtained with the use of a diamond detector, which was without a filter, and showed not only the photopeak due to UV and soft x rays but also the ions emitted from the plasma. The detector was employed with absorbers of different thicknesses to determine, as a first approximation, the energy distribution of soft x-ray emission from the plasma. The time-of-flight technique was employed to determine the ion kinetic energies.
+
+diamond
+ion emission
+particle detectors
+plasma diagnostics
+plasma production by laser
+plasma X-ray sources
+time of flight mass spectra

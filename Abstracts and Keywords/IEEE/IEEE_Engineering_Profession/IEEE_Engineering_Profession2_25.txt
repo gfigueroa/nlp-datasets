@@ -1,0 +1,7 @@
+In this paper, a fuzzy logic controller (FLC) is proposed to tune several inter-system handover (IS-HO) parameters in a heterogeneous scenario with changing traffic distribution. Performance assessment is carried out by implementing FLC and IS-HO algorithms in a dynamic network simulator including GSM and UMTS radio access technologies. Preliminary results show that, although the FLC is able to modify network parameters to re-distribute traffic between technologies, its speed of response is severely limited. A sensitivity analysis is then performed to quantify the effect of several internal parameters in the FLC on the speed of response. Experiments show that tuning ranges and steps for the controlled IS-HO parameters have a strong impact on performance. Results show that, by adjusting tuning ranges and steps, a significant reduction in blocked call rates (BCRs) can be obtained in some iterations when compared to the default settings.
+
+Auto-tuning
+fuzzy logic controller
+heterogeneous networks
+inter-system handover
+optimization

@@ -1,0 +1,6 @@
+Using the hydrodynamic model, we have derived a self-consistent model describing the dynamics of a collisional rf sheath driven by a sinusoidal current source. Numerical results have been obtained for the dependence of ion density, ion kinetic energy, sheath thickness, and sheath electric field, on the collision parameter and the current source parameter. © 2001 American Institute of Physics. 
+
+plasma sheaths
+plasma collision processes
+plasma theory
+plasma density

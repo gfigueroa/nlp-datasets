@@ -1,0 +1,11 @@
+Measurements of absorption losses in KNbO3 and MgOdoped KNbO3 were made in the blue and nearinfrared wavelength regions using laser calorimetry. In the doped samples, the absorption loss for blue light was found to be 40% lower than that of the undoped samples. An enhancement in the infrared loss, caused by the presence of blue light, was observed in doped and undoped samples, but found to be much greater in the MgOdoped crystals. The blueenhanced infrared absorption was characterized using twowavelength laser calorimetry. Temporal variations in the secondharmonic power, caused by nonuniform heating of the active volume by the absorbed infrared and secondharmonic power, are described.
+
+POTASSIUM NIOBATES
+ABSORPTION
+ENERGY LOSSES
+DOPED MATERIALS
+INFRARED RADIATION
+VISIBLE RADIATION
+MAGNESIUM OXIDES
+SECOND HARMONIC GENERATION
+OPTICAL MATERIALS

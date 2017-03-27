@@ -1,0 +1,12 @@
+Starting with the 6×6 valence band Burt Hamiltonian for semiconductor heterojunctions with wurtzite symmetry that was recently derived [F. Mireles and S. E. Ulloa, Phys. Rev. B 60, 13659 (1999)], we study the tunneling properties of holes across an AlxGa1xN/GaN heterojunction while including the effects of strain on the valence band edges. We analyze the amount of hole conversion between the heavy-, light-, and crystal-field split-off-valence bands during tunneling across the heterointerface. The results are compared with an approach based on a widely used symmetrized form of the LuttingerKohn effective-mass Hamiltonian and associated boundary conditions for wurtzite materials © 2000 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor heterojunctions
+tunnelling
+hole mobility
+valence bands
+effective mass
+interface states

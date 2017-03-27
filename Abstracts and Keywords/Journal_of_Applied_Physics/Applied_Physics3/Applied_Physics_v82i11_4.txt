@@ -1,0 +1,16 @@
+We have studied the dynamical motion of magnetic-flux lines penetrating into a melt-processed YBaCuO bulk superconductor during pulsed field magnetization. Subsequent flux creep was investigated by measuring signals from three Hall sensors mounted at the center, periphery, and the midpoint on the top surface of the sample at 77 K. The penetration of the magnetic flux into the sample is quite sluggish as long as the applied field is low. However, the magnetic flux penetrates suddenly and moves rapidly in response to the changing external field during the ascending stage of the pulsed field, when the intensity exceeds 1.52 T. Furthermore, when the rise time of the pulsed field is very short, the local magnetization measured at the midpoint is found to oscillate with time, as soon as the sudden penetration of the magnetic flux takes place. The fast motion of the magnetic flux generates heat and increases the temperature of the sample. This effect appears as a reduction of the trapped flux, already in the descending stage of the pulsed field and it contributes to the suppression of the flux creep after the pulse. The creep is suppressed more when the applied field is large, and it diminishes most in the center of the sample. © 1997 American Institute of Physics. 
+
+high-temperature superconductors
+yttrium compounds
+barium compounds
+flux creep
+magnetisation
+superconducting magnets
+HIGH-TC SUPERCONDUCTORS
+MAGNETIZATION
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+MAGNETIC FLUX
+PENETRATION DEPTH
+DYNAMICS

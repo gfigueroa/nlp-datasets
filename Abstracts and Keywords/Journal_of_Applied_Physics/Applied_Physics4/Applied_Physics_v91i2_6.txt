@@ -1,0 +1,10 @@
+Dense ceramic composites consisting of two phases, ferroelectric BaTiO3 and ferrite (Ni0.3Zn0.7)Fe2.1O4, were synthesized via the solid state reaction route. The results indicate that insulating BaTiO3 can be well compatible to the conductive phase (Ni0.3Zn0.7)Fe2.1O4. The electrical conduction and dielectric behavior of the materials vary with the ratio of the two phases. The dielectric behavior is greatly influenced by the conductive phase. At x=0.3, a very high apparent dielectric constant peak with frequency dispersion was observed, and attributed to MaxwellWagner polarization. The application of the MaxwellWagner polarization model in dielectric materials is briefly discussed. © 2002 American Institute of Physics. 
+
+barium compounds
+niobium compounds
+zinc compounds
+ferrites
+ferroelectric ceramics
+composite materials
+dielectric polarisation
+permittivity

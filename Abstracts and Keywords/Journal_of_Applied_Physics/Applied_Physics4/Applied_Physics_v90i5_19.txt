@@ -1,0 +1,19 @@
+In this work, the solid-phase crystallization kinetics of amorphous SiGe films deposited by low-pressure chemical-vapor deposition on oxidized Si wafers has been studied by x-ray diffraction, Raman spectroscopy, and ultraviolet reflectance. The microstructure of the fully crystallized films has also been analyzed using these techniques in combination with transmission electron microscopy. The Ge fraction of the films (x) was in the 00.38 interval. The samples were crystallized at temperatures ranging from 525 to 600
+°C. The crystallization monitored by all techniques was found to follow the Avrami model. Different crystallization behaviors are distinguished depending on the Ge content of the films and the crystallization temperature. The results are discussed in terms of the identification of the nucleation site location and the dimensionality of the grain growth, taking into account the probe depth of the different techniques and the values of the Avrami exponent derived from the crystallization curves. The preferred orientations of the grains, the grain morphology, the lateral grain size, the presence of inter- and intragrain defects, the surface roughness, and the overall crystallinity of the fully crystallized films have also been studied and related to the observations concerning the crystallization process. © 2001 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor materials
+semiconductor thin films
+crystallisation
+amorphous semiconductors
+nucleation
+Raman spectra
+transmission electron microscopy
+grain growth
+grain size
+texture
+surface topography
+X-ray diffraction
+ultraviolet spectra
+reflectivity
+CVD coatings

@@ -1,0 +1,8 @@
+Impulse responses of the piezoelectric photoacoustic (PA) signal have been measured by using the technique of cross correlation. Experimental impulse responses of aluminum model samples are in good agreement with theoretical prediction. It is shown that thermal diffusivities of opaque materials can be determined by measured zerocrossing times of PA impulse response. Cracks in aluminum samples are detected by measuring a onedimensional image of the impulse response of the PA signal.
+
+ALUMINIUM
+CRACKS
+PHOTOACOUSTIC EFFECT
+THERMAL DIFFUSIVITY
+THERMAL DIFFUSION
+NONDESTRUCTIVE TESTING

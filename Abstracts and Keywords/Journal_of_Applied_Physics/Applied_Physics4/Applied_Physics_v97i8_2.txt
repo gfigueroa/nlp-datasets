@@ -1,0 +1,9 @@
+We report the theoretical and experimental investigations on the magnetocaloric effect in the PrAl2 and NdAl2 compounds and a composite of these compounds for use as an active magnetic regenerator. The theoretical calculations were performed considering the crystalline electrical field anisotropy and the magnetocaloric potentials were calculated in the three main crystallographic directions. The experimental data, obtained for the polycrystalline samples, are in good agreement with the theoretical results. Also, an optimum molar fraction of the PrAl2 and NdAl2 composite was determined theoretically and experimentally and discussed in the framework of the optimum regeneration Ericsson cycle.
+
+praseodymium compounds
+neodymium compounds
+magnetic cooling
+composite materials
+magnetic materials
+magnetic anisotropy
+exchange interactions (electron)

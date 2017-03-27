@@ -1,0 +1,6 @@
+This paper proposes a hybrid real-coded quantum evolutionary algorithm (HRCQEA) for optimizing complex functions on the basis of the concept of quantum computing such as qubits and superposition of states and particle swarm optimization (PSO). It combines PSO with real-coded quantum evolutionary algorithm (RCQEA) to improve the performance of RCQEA. The main idea of HRCQEA is to embed the evolutionary equation of PSO in the evolutionary operator of RCQEA. In HRCQEA, each triploid chromosome represents a particle and the position of the particle is updated using complementary double mutation operator (CDMO) and quantum rotation gate (QRG), which can make the balance between exploration and exploitation. Discrete crossover (DC) is employed to expand the search space and Hill-climbing selection (HCS) helps to accelerate the convergence speed. Simulation results of four benchmark complex functions with high dimensions show that HRCQEA performs better than other algorithms in terms of ability to discover of global optimum.
+
+Evolutionary Algorithm
+Hybrid Algorithm
+Particle Swarm Algorithm
+Quantum Evolutionary Algorithm

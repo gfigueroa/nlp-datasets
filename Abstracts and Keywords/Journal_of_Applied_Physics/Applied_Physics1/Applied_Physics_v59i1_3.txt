@@ -1,0 +1,12 @@
+By using a kinetic model developed for a selfsustained discharge pumped XeCl laser (B’X, 308 nm) with the Ne/Xe/HCl mixture, we determined operational conditions of the XeCl laser with commonly used pulse width of about 100 ns for attaining efficient lasing. According to the analysis of electron kinetics in the laser discharge, the XeCl formation, the XeCl relaxation, and the absorption of the B’X laser radiation, it is found that the discharge and kinetic characteristics are affected predominantly by the electron number density which is determined mainly by the ratio of Xe to HCl concentrations. Although the XeCl formation, the XeCl collisional quenching, and the absorption of the laser radiation increase with increasing total gas pressure, the optimum Xe and HCl concentrations which are almost independent of the total gas pressure can be determined. Furthermore, since the laser output energy does not increase linearly with the excitation rate, the optimum excitation rate can be determined for a given total gas pressure as it shifts to a higher value with increasing total gas pressure. As a result of the analysis by using the most reliable rate constants and cross sections for the reactions published so far involved in the XeCl laser kinetics, the maximum intrinsic efficiency of 12.5% is found to be obtainable with a 3atm laser mixture of 0.2% HCl and 1% Xe in the Ne diluent pumped with an excitation rate of 3.5 MW/cm3.
+
+XENON CHLORIDES
+EXCIMER LASERS
+OPERATION
+EFFICIENCY
+KINETICS
+ELECTRIC DISCHARGES
+ELECTRICAL PUMPING
+SCALING LAWS
+MATHEMATICAL MODELS
+THEORETICAL DATA

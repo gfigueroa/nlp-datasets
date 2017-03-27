@@ -1,0 +1,9 @@
+Electromigration failure statistics and the origin of the log-normal standard deviation for copper interconnects were investigated by analyzing the statistics of electromigration lifetime and void size distributions at various stages during testing. Experiments were performed on 0.18¼m wide Cu interconnects with tests terminated after certain amounts of resistance increase, or after a specified test time. The lifetime and void size distributions were found to follow log-normal distribution functions. The sigma values of these distributions decrease with increasing test time. The statistics of resistance-based void size distributions can be simulated by considering geometrical variations of the void shape. In contrast, the characteristics of time-based void size distributions require consideration of kinetic aspects of the electromigration process. The sigma values of lifetime distributions can be adequately simulated by combining the statistics of both types of void size distributions. Thus, a statistical correlation between electromigration lifetimes and void evolution was established. Using simulation to fit the experimental data, the parameters influencing the electromigration lifetime statistics were identified as variations in void sizes, geometrical and experimental factors of the electromigration experiment, and kinetic aspects of the mass transport process, such as differences in interface diffusivity between the lines. The latter is the result of variations in the copper microstructure at the cathode ends of the interconnects.
+
+copper
+statistical analysis
+electromigration
+integrated circuit interconnections
+voids (solid)
+log normal distribution
+chemical interdiffusion

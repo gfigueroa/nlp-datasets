@@ -1,0 +1,5 @@
+Rayleigh scattering is presented as evidence for the presence of large argon clusters formed in a planar expansion. Based on the observed scattering signal, the dependence of mean cluster size on stagnation pressure is N	P03.38. This is in contrast to the dependence of the mean cluster size on stagnation pressure for a symmetric expansion of N	P02.29.
+
+argon
+atomic clusters
+Rayleigh scattering

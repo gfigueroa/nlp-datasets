@@ -1,0 +1,10 @@
+The magnetic properties and domain structure of amorphous TbFe thin films were studied by magnetic measurement and magnetic force microscope. Honeycomb domain structures were found in the as-deposited amorphous film. The domain structures were composed of many small white round dots embedded in the black matrix, which formed an irregular hexagonal pattern with some deformation. The average dot size was about 450 nm, with an average separation of 610 nm. The derived domain wall energy density ³ and the exchange constant A were 0.95×102 and 1.79×1011
+J/m, respectively. © 2001 American Institute of Physics.
+
+terbium alloys
+iron alloys
+magnetic domain walls
+magnetic force microscopy
+amorphous magnetic materials
+exchange interactions (electron)
+magnetisation

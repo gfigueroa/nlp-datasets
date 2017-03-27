@@ -1,0 +1,11 @@
+The previous derivations [R. S. Nelson, D. J. Mazey, and R. S. Barnes, Philos. Mag. 11, 91 (1965)], describing the equilibrium relation of thermally equilibrated bubbles bounded by (110) and (100) planes were invalid. The correct equations were derived and formulated in this article. The new equilibrium relation is demonstrated to be equivalent to Wulffs law. Based upon this new equilibrium relationship, the surface energy anisotropy between the (110) and (100) planes of a few materials, including the recently reported polyhedral N2 bubbles in TiN(100) films, is recalculated. It is noticed that the degrees of surface energy anisotropy between the {100} and {110} planes of these materials are smaller than those that were published previously.
+
+NITROGEN
+BUBBLES
+TITANIUM NITRIDES
+FILMS
+EPITAXY
+SPUTTERING
+SURFACE ENERGY
+ANISOTROPY
+EQUILIBRIUM

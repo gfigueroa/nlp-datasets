@@ -1,0 +1,8 @@
+Insomnia is one of the most common complaints faced in clinical practice. The limited pharmacological options available make the treatment of this complaint a challenge. All of the available benzodiazepines and non-benzodiazepine hypnotics have the potential to induce addiction, cause withdrawal symptoms, or trigger rebound insomnia. Further, the evidence supporting the utility of commonly prescribed options such as antidepressants and antipsychotics is limited. Melatonin is a hormone that has been associated with soporific effects. Based on this premise, a melatonin receptor agonist was created. Ramelteon was approved by the Food and Drug Administration in 2005 and is the only medication indicated for the long-term treatment of insomnia. A critical review with a clinical perspective of randomized, placebo-controlled clinical trials was conducted to determine the efficacy of melatonin and ramelteon for the treatment of insomnia. Based on this review, it appears that more placebo-controlled trials are indicated before valid judgments concerning the efficacy of both melatonin and ramelteon can be made. In the meantime, there is some support for the use of melatonin for the treatment of insomnia, and findings concerning ramelteon also appear promising. Nevertheless, clinicians who prescribe melatonin or ramelteon should be cautious and carefully monitor both potential benefits and adverse effects, since data on melatonin are based on studies with multiple limitations and only three controlled trials have been done with ramelteon. 
+
+melatonin
+ramelteon
+insomnia
+sleep
+circadian rhythms
+delayed sleep phase syndrome

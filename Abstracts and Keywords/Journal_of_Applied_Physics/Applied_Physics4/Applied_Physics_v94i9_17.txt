@@ -1,0 +1,18 @@
+The nitridation of c-plane sapphire within the hydride vapor phase epitaxy system was systematically studied as a function of time and ammonia partial pressure using ex situ x-ray photoelectron spectroscopy, reflection high-energy electron diffraction, and atomic force microscopy. During the nitridation process, nitrogen was incorporated into the sapphire surface. There were two different nitrogen chemical bonding states, which can be attributed to NAl bonds and nitrogen in oxygen-rich environment (NO). As the nitridation continued, the N
+1s intensity increased while the O
+1s intensity decreased indicating the growth of a nitrogen-rich layer. The sapphire nitridation process can be modeled as a diffusion couple of AlN and Al2O3, where N3 and O2 interdiffuse in the rigid Al3+ framework. Nitrogen diffuses into sapphire and substitutes for oxygen to bond with aluminum. The bond substitution is accompanied by structural changes where the AlN in-plane direction is rotated 30° with respect to the sapphire direction. The replaced oxygen diffuses out to the surface, combines with hydrogen and desorbs as H2O. The overall nitridation rate is determined by the slower of the two moving anions. From the x-ray photoelectron spectroscopy data, the chemical diffusion coefficient of nitrogen (N) and oxygen (O), were estimated. N was found to be higher than O, which suggested that the overall nitridation rate was controlled by the diffusion of oxygen to the surface. After nitridation, no protrusions were observed on the surface and no significant changes in the surface roughness were measured when compared to the as-received sapphire.© 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor growth
+vapour phase epitaxial growth
+nitridation
+sapphire
+aluminium compounds
+chemical interdiffusion
+X-ray photoelectron spectra
+reflection high energy electron diffraction
+bonds (chemical)
+atomic force microscopy
+surface chemistry

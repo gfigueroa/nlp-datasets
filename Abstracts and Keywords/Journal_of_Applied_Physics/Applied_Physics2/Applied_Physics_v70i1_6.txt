@@ -1,0 +1,12 @@
+Amorphous siliconcarbon hydrogen alloy was prepared by radio frequency glow discharge decomposition of silaneethylene mixture. The infrared absorption spectra were measured at various stages of thermal annealing. By observing the change of relative intensities between these peaks the molecular bonding responsible for the absorption peaks could be assigned. For example, in addition to the CH3 radical commonly found in films prepared by silanemethane mixture, other carbon hydrogen radicals such as CH2 and C2H5 were also unambiguously identified. At same gas phase flow ratio (Xg = 0.8), the CHx contents of ethylenebased film is about 6.6 times larger than that of the methanebased film. Hence, to grow aSiC:H with a larger optical gap, the ethylene will be a good choice as the deposition source.
+
+SILICON CARBIDES
+HYDROGEN ADDITIONS
+AMORPHOUS STATE
+GLOW DISCHARGES
+INFRARED SPECTRA
+ABSORPTION SPECTRA
+SILANES
+ETHYLENE
+MIXTURES
+DECOMPOSITION

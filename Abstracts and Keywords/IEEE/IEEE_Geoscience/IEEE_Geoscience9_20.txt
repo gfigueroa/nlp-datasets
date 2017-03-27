@@ -1,0 +1,6 @@
+In this paper, the applicability of advanced direct RF sampling receiver architecture is studied in the GNSS environment. The architecture is based on sampling the signal directly at RF, which in the GNSS case is in the 1.5 GHz range. The high-frequencies in the signal to be sampled pose then very high demands for the accuracy and quality of the sampling process, and thus quantization and especially the timing jitter aspects must be considered in detail. Both system calculations as well as computer simulations are used to assess the essential requirements for the sampling process. In summary, the study shows that the quantization and jitter requirements are in principle feasible when the pre-sampling filtering is done properly.
+
+Direct RF Sampling
+radio receiver design
+satellite navigation systems
+timing jitter

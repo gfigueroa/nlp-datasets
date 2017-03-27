@@ -1,0 +1,6 @@
+Rising fuel prices and CO<sub>2</sub> based legislation are incentivising commercial fleet managers to seek cost effective after market solutions to improve fuel economy and reduce emissions. The affordable add-on, zero emissions vehicle (ADDZEV) project demonstrates the feasibility of a plug-in, through-the- road hybrid system, which is designed for production line assembly. The energy storage solution is based on valve regulated lead acid (VRLA) battery technology. In order to demonstrate feasibility, the system is modelled in the SIMULINK environment, and simulated over legislative drive cycles, inclines and with varying load. A life-cycle cost-benefit analysis is presented.
+
+Battery
+Hybrid
+Lead
+Plug-in

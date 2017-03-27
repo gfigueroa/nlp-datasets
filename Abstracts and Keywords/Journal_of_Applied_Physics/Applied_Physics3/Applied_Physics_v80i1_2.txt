@@ -1,0 +1,14 @@
+Effects of oxygen partial pressure PO2 during low temperature postheat treatments on the superconducting properties of silversheathed Bi2Sr2CaCu2Oy tapes were investigated. The critical temperature Tc of the resulting tapes changes systematically with PO2. This variation of Tc is attributed to the change of electronic carrier (hole) concentration by the observation of oxygen Kedge absorption spectra. The intragranular critical current density Jc is essentially unaffected by the heat treatment, while deterioration in grain connectivity is observed in the specimens treated in reducedoxygen atmospheres. The change of anisotropy in Jc with respect to crystallographic orientations is also quite small for the variation of PO2. © 1996 American Institute of Physics. 
+
+HIGHTC SUPERCONDUCTORS
+HEAT TREATMENTS
+OXIDATION
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+SILVER
+PARTIAL PRESSURE
+TRANSITION TEMPERATURE
+GRAIN BOUNDARIES
+ABSORPTION SPECTRA

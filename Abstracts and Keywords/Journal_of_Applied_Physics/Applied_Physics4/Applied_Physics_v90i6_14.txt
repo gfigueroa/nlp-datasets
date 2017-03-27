@@ -1,0 +1,17 @@
+The microstructure and magnetic properties of nanocomposite CoPt/B films are investigated in view of their suitability as ultrahigh-density recording media. The as-made films have a disordered face-centered cubic structure and low coercivity (below 100 Oe). The granular structure is obtained after an aging heat treatment, which also leads to an increase of the coercivity due to the formation of the highly anisotropic face-centered tetragonal phase. The dynamics of the fct phase formation are found to depend on the boron content. For the sample with 50% vol boron concentration, annealing temperatures as low as 550
+°C are sufficient to obtain useful coercivities. Transmission electron microscopy studies and x-ray diffraction show that minimum grain size is obtained for the 20% vol boron concentration for all temperatures. The magnetic grain size is found to coincide with the structural only for this particular sample. © 2001 American Institute of Physics.
+
+cobalt alloys
+platinum alloys
+boron
+nanostructured materials
+composite materials
+granular structure
+coercive force
+ageing
+annealing
+transmission electron microscopy
+grain size
+magnetic recording
+magnetic thin films
+X-ray diffraction

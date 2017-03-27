@@ -1,0 +1,15 @@
+We have investigated local electronic states and atomic structures of a self-assembled Si nano-island on Si(111)-(7×7) dimer-adatom-stacking fault (DAS) substrate by using scanning tunneling microscopy (STM) and scanning tunneling spectroscopy. The normalized differential conductivity (dI/dV)/(I/V) spectra show several peaks, whose energies depend on each individual dangling bond site on the island, and these states are different from dangling bond states on the (7×7) DAS substrate. STM images at the edge of the island also show some interesting variations as a function of the sample bias voltage. The variations are explained by modifications of dangling bond states on T4 site atoms and on buckled dimer atoms in the vicinity of the edge. From these results, we find a detailed behavior of a redistribution of the electron charge to stabilize the atomic structure of the nano-island. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+surface reconstruction
+surface states
+island structure
+self-assembly
+stacking faults
+scanning tunnelling microscopy
+scanning tunnelling spectroscopy
+dangling bonds
+defect states
+surface morphology
+adsorbed layers

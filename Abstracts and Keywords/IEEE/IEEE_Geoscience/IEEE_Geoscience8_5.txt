@@ -1,0 +1,7 @@
+Thraustochytrids - lightly-pigmented estuarine and marine microheterotrophs, taxonomically aligned with heterokont algae - are of great biotechnological interest because they produce substantial amounts of polyunsaturated fatty acids (PUFAs) especially docosahexaenoic acid (DHA:6n3). In this study, twenty-seven strains, isolated from twenty mangrove areas in the Philippine archipelago, were mass-produced in axenic flask cultures using high-glucose medium with continuous agitation. Polymorphic loci of thraustochytrid genomes, determined using four arbitrary primers (OPC02, OPC05, OPC07 and OPC08) in PCR analysis, were randomly amplified as molecular markers for genetic fingerprinting. Electrophoretic banding patterns of DNA amplicons, recognized based on nucleic acid size, were scored on data matrix and analyzed using Jaccard's coefficient and single-linkage hierarchical clustering to characterize degree of genetic relatedness among thraustochytrids. Conclusively, nearest-neighbor dendrogram of randomly amplified polymorphic DNAs (RAPDs) markers classify the strains into two monophenetic clades, representing the two major genera: <i>Schizochytrium</i> and <i>Thraustochytrium</i>.
+
+RAPD fingerprinting
+arbitrary primers
+mangroves
+polymorphic loci
+thraustochytrids

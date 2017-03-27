@@ -1,0 +1,10 @@
+Secondary ion mass spectrometry has become the preferred tool for impurity profiling primarily due to its excellent depth resolution and high detection sensitivity. Prerequisite in obtaining high detection sensitivity for positive secondary ions is the use of oxygen as primary ions. This leads to a high degree of oxidation of the sample surface, which is essential for a high secondary ion ionization efficiency. Unfortunately, this oxygen bombardment not only leads to the transformation of the original target surface into an oxidized layer but, as the latter requires a certain fluence before stationary state is reached, inherently causes some nonlinearities and transients in the secondary ion signal and the fluence-eroded depth relation. In this work a computer code implantation, sputtering, replacement/relocation, and diffusion (ISRD) has been optimized to predict the compositional changes of the sample surface (or altered layer formation), the sputter yields and the surface regression as a result of the interaction of oxygen beams with Si-targets. This article describes a careful reevaluation of the previously used version of ISRD (and the parameters contained in the program) in order to obtain a systematic agreement with experimental data on sputter yields, altered layer formation, and surface recession, and with other theoretical predictions. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+oxidation
+secondary ion mass spectra
+sputtering
+diffusion
+ion implantation
+surface composition

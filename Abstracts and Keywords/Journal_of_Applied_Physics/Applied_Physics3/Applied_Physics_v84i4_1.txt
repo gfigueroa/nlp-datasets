@@ -1,0 +1,8 @@
+The Hall scattering coefficient rH determines the relationship between the measurable Hall coefficient RH and the free carrier concentration. Reliable knowledge of rH is necessary for the precise interpretation of Hall measurements and to validate theoretical transport calculations. We have measured the Hall scattering factor in nitrogen doped 4H and 6H epitaxial layers from 35 to 290 K in magnetic fields up to 9 T. The effective Hall scattering factor varies between 0.91 and 1.21 in 4H SiC and 0.84 and 1.02 in 6H SiC. The effect of the Hall scattering factor on dopant activation energies obtained from Hall measurements is not large enough to explain the difference between dopant activation energies obtained from Hall effect and infrared absorption measurements. © 1998 American Institute of Physics.
+
+silicon compounds
+nitrogen
+semiconductor materials
+semiconductor epitaxial layers
+Hall effect
+carrier density

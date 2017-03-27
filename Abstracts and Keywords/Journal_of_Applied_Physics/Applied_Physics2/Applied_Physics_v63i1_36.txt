@@ -1,0 +1,10 @@
+We propose the use of a simple electric network model to estimate electron temperature for Cd	i and Cd	ii by estimating the gain and population inversion for a recombination laser. The temperature estimated for a Cd	ii laser is in agreement with that of an experimentally observed value.
+
+CADMIUM
+CADMIUM IONS
+METAL VAPOR LASERS
+RECOMBINATION
+GAIN
+POPULATION INVERSION
+ELECTRON TEMPERATURE
+THEORETICAL DATA

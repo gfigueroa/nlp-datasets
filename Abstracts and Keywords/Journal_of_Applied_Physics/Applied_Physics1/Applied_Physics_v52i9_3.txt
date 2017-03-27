@@ -1,0 +1,10 @@
+Multiple scattering of acoustic waves by random distribution of discrete scatterers is treated within the framework of quantum mechanical potential scattering with the use of an acoustic potential operator. The effective field approximation (EFA) and quasicrystalline approximation (QCA) are imposed on the multiple scattering equations. The use of the operator technique facilitates the introduction of coherent potential (CP). Solutions are obtained for the complex effective propagation constant in the low frequency limit for spherical scatterers. Results from the three approximations, EFA, QCA, and QCACP (quasicrystalline approximation with coherent potential) are compared. Numerical results of the effective propagation velocities and the attenuation rates, as a function of the fractional volume occupied by the scatterers, are illustrated.
+
+SOUND WAVES
+SCATTERING
+RANDOMNESS
+SPATIAL DISTRIBUTION
+QUANTUM MECHANICS
+POTENTIALS
+MATHEMATICAL MODELS
+THEORETICAL DATA

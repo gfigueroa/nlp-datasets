@@ -1,0 +1,16 @@
+Thermal reactions of Re thin films in contact with single crystalline (001) ²SiC at temperatures between 700 and 1100	°C for 30 min are investigated by MeV He++ backscattering spectrometry, xray diffraction, secondary ion mass spectrometry, and transmission electron microscopy (planview and crosssectional). No reaction between Re and SiC is observed for any annealing conditions. The average grain size of the asdeposited Re film is 220 nm and increases to 280 nm after annealing at 1100	°C for 30 min. A strong {0001}Re fiber texture is also observed after annealing. The chemical stability of Re thin films on SiC is consistent with the earlier study of solidphase stability in the ternary ReSiC system which shows that Re and its silicides have tie lines with SiC at 1600	°C. It also coincides with calculations of the free energy of reaction from assessed thermodynamic data for rhenium silicides and SiC. The implications of this Re stability with SiC for applications of Re as a metal for electrical contact to SiCbased devices are discussed.
+
+RHENIUM
+THIN FILMS
+SILICON CARBIDES
+STRUCTURAL STABILITY
+CHEMICAL REACTIONS
+TEMPERATURE RANGE 10004000 K
+ANNEALING
+BACKSCATTERING
+HELIUM IONS
+XRD
+SIMS
+TEM
+GRAIN SIZE
+TEXTURE

@@ -1,0 +1,8 @@
+This article focuses on the interaction of water with solid polymers. A portion of the water adsorbed in hydrophilic materials is strongly bound to individual sites (bound water), while an additional amount is bound less firmly to the polymeric chain (free water). Both free and bound water have been the subject of many studies that have uncovered, in some cases, qualitative evidence of the presence of water directly bound. In this article, we report a method to determine the different fractions of water adsorbed in hydrophilic materials. One fraction corresponds to the first layer in contact with the adsorbing solid and the other corresponds to the remaining water absorbed layers. We were able to determine said quantification by means of measuring the change in the natural vibration frequency brought about by the interaction of water molecules with the solid. The measurement was done on films of methylcellulose exposed to humid environments using infrared spectroscopy and gravimetric static microclime sorption methods. Theoretical predictions for bound water were developed using multilayer adsorption models. The experimental concentration of bound water as a function of relative humidity was compared with these predictions, allowing us to judge the applicability of different adsorption models employed in the study of gas condensation. © 2001 American Institute of Physics. 
+
+polymers
+water
+sorption
+infrared spectra
+polymer structure
+humidity

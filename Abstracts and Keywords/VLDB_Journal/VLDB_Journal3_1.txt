@@ -1,0 +1,5 @@
+We propose a file structure to index high-dimensionality data, which are typically points in some feature space. The idea is to use only a few of the features, using additional features only when the additional discriminatory power is absolutely necessary. We present in detail the design of our tree structure and the associated algorithms that handle such "varying length" feature vectors. Finally, we report simulation results, comparing the proposed structure with the R*-tree, which is one of the most successful methods for low-dimensionality spaces. The results illustrate the superiority of our method, which saves up to 80% in disk accesses.
+
+query by content
+similarity retrieval
+spatial index

@@ -1,0 +1,12 @@
+The dielectric properties of inhomogeneous media constituted by a glassy semicrystalline polymer (polypropylene) impregnated by an aromatic fluid (monodibenzyltoluene) are studied. The measured permittivity is compared to various forms of mixture equations. The closest agreement is obtained with the Lichtenekers logarithmic mixing expression. The frequency dependence of ionic conductivity in these swollen materials has also been investigated at low electric fields. An attempt is made to interpret these measurements in terms of Niklassons [J. Appl. Phys. 62, R1 (1987)] fractal model taking into account the inner topology of the structure of the medium.
+
+COMPOSITE MATERIALS
+POLYMERS
+POLYPROPYLENE
+AROMATICS
+LIQUIDS
+DIELECTRIC PROPERTIES
+PERMITTIVITY
+IONIC CONDUCTIVITY
+FREQUENCY DEPENDENCE
+FRACTALS

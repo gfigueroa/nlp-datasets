@@ -1,0 +1,7 @@
+Concepts for a next generation Internet architecture quite often propose to decouple identifiers from locators. The so-called locator/identifier-split solves several problematic issues of today's Internet architecture. At the same time, however, a user's location is exposed within the whole network and any participant can be traced. Privacy considerations, therefore, need to be a key design element for any locator/identifier-split architecture. In this paper, we introduce a novel privacy service for locator/identifier-split architectures. The service is following Mobile IP's proxy idea and introduces mechanisms to overcome the unwanted side effects of such an approach. The concept decouples the privacy service from the network and leaves it open to the customer whether he wants to subscribe or not.
+
+Locator/Identifier-Split
+Next Generation Internet
+Privacy
+Security
+Service

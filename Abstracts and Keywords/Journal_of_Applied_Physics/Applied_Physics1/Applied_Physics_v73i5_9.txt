@@ -1,0 +1,11 @@
+Depth profiles and secondary ion mass spectrometry (SIMS) relative sensitivity factors (RSF) for quantification (inverse relative ion yields) are reported for oxygen ion bombardment and positive secondary ion mass spectrometry and for cesium bombardment and negative secondary ion mass spectrometry measured for implants of more than 40 elements in PMMA/polymethyl methacrylate/Lucite/AZ111, polypyromellitimide/polyimide/Kapton, and epoxy, using magnetic sector SIMS instruments (CAMECA IMS 3f or 4f). The RSFs are plotted versus ionization potential (positive secondary ions) and versus electron affinity (negative secondary ions), and the resulting patterns are compared among themselves and with those for semiconductors reported previously. Charge compensation using electron flooding was employed in most cases for both oxygen (oblique incidence flooding) and cesium (normal incidence flooding) primary beams. Profiles in these low atomic number materials are relatively deep. Crater depths are sometimes difficult to measure; some are distorted and some are not. More work in this area of SIMS quantification and depth profiling in organic polymers appears to be needed, but these results are promising. 	 	
+
+POLYMERS
+EPOXIDES
+SIMS
+DEPTH PROFILES
+ION IMPLANTATION
+PMMA
+KEV RANGE 1001000
+OXYGEN IONS
+CESIUM IONS

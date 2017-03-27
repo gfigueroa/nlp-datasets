@@ -1,0 +1,6 @@
+This paper presents the design of an ultra wide band (UWB) antenna with CPW-fed. The antenna has been designed on FR4 substrate Â¿<sub>r</sub> = 4.3 and thickness 1.53 mm. The antenna has been fabricated and tested using VNA. The experimental results of this antenna offer ultra wide bandwidth from 2.86 GHz to 14.38 GHz. This corresponds to the impedance bandwidth 11.42 GHz and 132.48 %. The experimental results also exhibits the first band from 0.62 GHz to 1.657 GHz corresponds to 1.037 GHz bandwidth. The radiation pattern of this antenna is nearly omni directional. This type of antenna can be used for ultra wide band system, positioning system, microwave imaging and Radar application.
+
+Antenna
+Fractal Geometry
+Resonant Frequency
+Ultra wideband (UWB)

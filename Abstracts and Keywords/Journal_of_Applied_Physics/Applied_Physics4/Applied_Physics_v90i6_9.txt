@@ -1,0 +1,10 @@
+Secondary electron emission spectroscopy (SEES) is used to investigate the low-energy electron emission characteristics of the C(111) surface. A negative electron affinity (NEA) is observed at hydrogenated and cesiated C(111) surfaces, and very high secondary electron yields are measured from these surfaces. The emission from both surfaces is sharply peaked at low energy, although the cesiated surface produces greater energy spread than the hydrogenated surface. Yield measurements are uniform across the hydrogenated and cesiated surfaces, but energy distribution curves (EDCs) contain emission features that depend on the measurement position on the surface. Specifically, an intense secondary emission peak centered above Ec is observed in EDCs measured at all positions while a weaker peak lying completely below Ec appears only at specific regions of the surface. The intense peak is well understood and has been observed in EDCs taken from NEA surfaces of C(100) and chemical vapor deposited diamond. However, the weaker peak has not been observed in previous SEES studies of diamond. This peak corresponds to electron emission from surface or defect electronic states in the energy gap, and it is manifested in the EDCs only when Ç is sufficiently lowered by the adsorption of H or Cs. Although the origin of the surface or defect states is not known, it appears to be associated with structural properties of the C(111) surface.
+
+carbon
+secondary electron emission
+electron affinity
+adsorbed layers
+hydrogen
+caesium
+surface states
+defect states

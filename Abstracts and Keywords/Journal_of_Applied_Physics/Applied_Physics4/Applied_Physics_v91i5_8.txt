@@ -1,0 +1,13 @@
+We have analyzed the cathodoluminescence spectra of Sm3+ ions implanted and annealed in GaN epilayers. High-resolution emission spectra were obtained at 11 K between 350 and 1050 nm, representing transitions from the 4G5/2 to the 6HJ and 6FJ manifolds of Sm3+(4f5). Emission lifetimes were determined at various temperatures between 7 and 320 K for transitions from 4G5/2 to 6H5/2, 6H7/2, and 6H9/2. Lattice-sum calculations were carried out to determine the crystal-field splitting of the multiplet manifolds. With individual Stark levels and corresponding wave functions identified, the matrix elements for both electricdipole and magneticdipole transitions were calculated between levels. Radiative lifetimes were calculated and compared with experimental lifetimes. High quantum efficiencies are reported. The calculated branching ratios for transitions from 4G5/2 to 6HJ and 6FJ manifolds indicate that transitions to 6H5/2, 6H7/2, and 6H9/2 account for 80% of the total observed emission. © 2002 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+samarium
+cathodoluminescence
+radiative lifetimes
+crystal field interactions
+Stark effect
+ion implantation
+annealing

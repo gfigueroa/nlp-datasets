@@ -1,0 +1,5 @@
+Fast mode decision for H.264/AVC encoding has been extensively studied in the literature. However, most of the existing algorithms are designed for generic video taken under stable lighting conditions. In this paper, we focus on H.264/AVC encoding of tunnel traffic surveillance video. In such an application, the fast moving vehicles and the reflections of different lighting sources pose some particular challenges to H.264 coding. By studying the statistical distribution of MB and sub-MB modes and their spatial correlations, we propose a fast mode decision algorithm that exploits the unique features presented in tunnel surveillance video. The experimental results show that compared to a rate-distortion optimized H.264 encoder with early SKIP detection and full search mode decision, our proposed algorithm is able to achieve comparable rate-distortion performance with a 50-60% reduction of computation time.
+
+H.264/AVC
+fast mode decision
+traffic surveillance

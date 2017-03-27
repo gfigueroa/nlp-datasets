@@ -1,0 +1,13 @@
+In CH4H2 mixture dc discharges, the CH2 radicals are identified from hot H atom laser-induced fluorescence Doppler spectral profiles. We examine the possible contributions of hydrocarbon species present in the discharge, which could be dissociated by the laser photons and produce the fast H atom fragments responsible for these profiles. The dissociation energy, 4.2±0.2 eV, experimentally determined indicates that we detect mainly CH2 radicals. At a pressure of 2 Torr and a discharge current intensity of 10 mA, we show that the CH2 radical density increases almost linearly with the percentageuntil 15%of CH4 in the gas mixture, while the population density of the H atoms created in the plasma remains quasiconstant, except in the cathode sheath. © 1997 American Institute of Physics. 
+
+organic compounds
+hydrogen
+gas mixtures
+discharges (electric)
+plasma diagnostics
+free radical reactions
+fluorescence
+Doppler broadening
+photodissociation
+plasma density
+plasma sheaths

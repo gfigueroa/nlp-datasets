@@ -1,0 +1,10 @@
+The mechanism of the formation of hydrogeninduced interface states at the Si/silicon oxide interface for metaloxidesemiconductor tunneling diodes has been investigated by conductance measurements as well as currentvoltage measurements. It is found that the diffusing species through the silicon oxide layer to form the interface states is protons, not hydrogen atoms. A conductance peak due to the interface states is present at the reverse bias voltage of 0.3 V. The density of the interface states increases nearly exponentially with time t after the introduction of hydrogen in the air. The time constant of the interface state density versus time curve increases with the hydrogen concentration, in contrast to usual chemical reactions in which the reaction time constant decreases with an increase in the concentration of reactants. This unusual result can be explained by the mechanism that the interfacial reaction sites located adjacent to the interface states react with protons more easily than the other sites, resulting in the formation of twodimensional aggregations of the interface states. The bias voltage at the constant forward current density is shifted slowly only when a forward bias is applied throughout the measurements, while such a shift does not occur when a reverse bias voltage is applied during the intervals of the currentvoltage measurements. The density of the interface states is high in the presence of hydrogen in the air, but the density decreases markedly after evacuating hydrogencontaining air, indicating that the interface states equilibrate with hydrogen in the air. © 1995 American Institute of Physics.
+
+CV CHARACTERISTIC
+HYDROGEN
+INTERFACE STATES
+IV CHARACTERISTIC
+MOS JUNCTIONS
+PALLADIUM
+SILICON
+TUNNEL DIODES

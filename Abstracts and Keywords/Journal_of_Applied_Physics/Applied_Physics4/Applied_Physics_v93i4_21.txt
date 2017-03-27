@@ -1,0 +1,10 @@
+We found that capping a spin valve with thin oxide can make the interlayer coupling oscillatory as a function of thickness of the Cu spacer. The coupling was antiferromagnetic and it allowed us to reduce the thickness of the Cu spacer down to 20 Å without sacrificing the good properties of the spin valve. In addition, the oxide layer enhanced specular reflection of conduction electrons at the interface. As a result, we could greatly increase the giant magnetoresistance (GMR) value of the spin valve. The fact that less current shunted through the thinned Cu spacer and the enhancement of specular reflection contributed to the large GMR value. We also report the observation of the oscillation of interlayer coupling as a function of thickness of the magnetic layer in a spin valve. © 2003 American Institute of Physics. 
+
+cobalt alloys
+iron alloys
+boron alloys
+copper
+ferromagnetic materials
+exchange interactions (electron)
+spin valves
+giant magnetoresistance

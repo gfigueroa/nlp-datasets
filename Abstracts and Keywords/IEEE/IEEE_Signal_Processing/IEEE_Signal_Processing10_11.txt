@@ -1,0 +1,6 @@
+This paper develops a particle filter locator for atmospheric thermal flows. The underlying thermal model is more detailed and general than the Gaussian models typically used. The implemented particle filter is a regularized and adaptive version. This filter handles thermals global localization and the underlying non-linear models, providing excellent results.
+
+Particle Filter
+Soaring
+Thermal localization
+Unmanned Aerial Vehicle

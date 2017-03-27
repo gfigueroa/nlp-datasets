@@ -1,0 +1,15 @@
+A simple quantummechanical model is presented for simulating transient electronic transport in disordered mesoscopic structures in the absence of phaserandomizing inelastic collisions. We have applied this model to study the timedependent decay of an electrons momentum in ultrasmall GaAs structures with various impurity concentrations. As expected, we find that the momentum decay rate (and hence effectively the mobility) depends sensitively on the exact locations of the impurities within the structure because of longrange phase coherence. We also find that the momentum relaxation rate, calculated quantum mechanically, is larger than the semiclassical rate calculated from Fermis Golden Rule possibly because of coherent backscattering that gives rise to the Anderson localization effect.
+
+DISORDERED SYSTEMS
+ELECTRONS
+TRANSPORT PROCESSES
+TRANSIENTS
+SIMULATION
+QUANTUM MECHANICS
+INTERFERENCE
+GALLIUM ARSENIDES
+HOMOJUNCTIONS
+IMPURITIES
+BACKSCATTERING
+LOCALIZED STATES
+SCHROEDINGER EQUATION

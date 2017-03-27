@@ -1,0 +1,6 @@
+The anisotropy of polarization and strain behavior in textured Bi<inf>0.5</inf>(Na<inf>0.85</inf>K<inf>0.15</inf>)<inf>0.5</inf>TiO<inf>3</inf> ceramics are investigated for lead-free piezoelectric ceramics actuators. The textured Bi<inf>0.5</inf>(Na<inf>0.85</inf>K<inf>0.15</inf>)<inf>0.5</inf>TiO<inf>3</inf> ceramics are fabricated by reactive templated grain growth (RTGG) using plate-like Bi<inf>4</inf>Ti<inf>3</inf>O<inf>12</inf> particles. RTGG[//] (sliced parallel to the casting direction) and RTGG[//] (sliced perpendicularly to the casting direction) specimens show preferred orientation to &#x226A;001&#x226B;<inf>pc</inf> and &#x226A;IIO&#x226B;<inf>pc</inf>, respectively. RTGG[//] specimen has relatively high piezoelectric coefficient of (d<inf>33</inf>)~335 pm/V and electric field induced strain levels of 0.067% at 20 kV/cm. This values were 86% higher than those of RTGG[¿] specimen. &#x226A;00l&#x226B;<inf>pc</inf> textured polycrystalline BNKT ceramics, prepared by RTGG, are a strong candidate for lead-free piezoelectric materials of actuators.
+
+bismuth sodium potassium titanate
+piezoelectric
+reactive templated grain growth
+texture

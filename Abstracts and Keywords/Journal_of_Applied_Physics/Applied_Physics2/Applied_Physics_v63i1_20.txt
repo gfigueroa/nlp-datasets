@@ -1,0 +1,14 @@
+The interaction of microwaves with superconductors was explored via extensive measurements of the surface resistance Rs and reactance Xs at 10 GHz of superconducting Sn. The measurements were carried out as functions of thickness d and temperature T for Sn films ranging in thickness from 190 Å to bulk. By varying the thickness with accompanied variation of mean free path, we were able to examine the wavevector dependence of the microwavesuperconductor interaction. An analysis, based on the BardeenCooperSchrieffer electrodynamical kernel, was developed for calculating Rs and Xs as functions of d, T, and frequency. Details of the measurement techniques and analysis are presented. Experiment and theory agree excellently, with no adjustable parameters. For films with d&lt;800 Å we find that the electrodynamics is local because of impurity scattering, while for thicker films nonlocal effects are important. The results imply that superconducting films with microwave response that agrees with theoretical expectations can be fabricated for potential applications in a variety of superconducting structures.
+
+SUPERCONDUCTORS
+SUPERCONDUCTING FILMS
+IMPURITIES
+TIN
+EXPERIMENTAL DATA
+MICROWAVE RADIATION
+ELECTRICAL PROPERTIES
+SCATTERING
+FABRICATION
+THIN FILMS
+SUPERCONDUCTIVITY
+ABSORPTIVITY

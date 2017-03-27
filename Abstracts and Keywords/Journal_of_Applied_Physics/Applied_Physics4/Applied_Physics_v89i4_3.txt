@@ -1,0 +1,7 @@
+A method to detect the parameters of electronegative plasmas with bi-Maxwellian electrons using a Langmuir probe is proposed by applying the test function. The radial model for the positive ion collection is extended and found to be more appropriate for density detection than the orbital motion limited model. The parameters of a diffused Ar/SF6 plasma are obtained by cylindrical and spherical probes for various Ar/SF6 ratios over a pressure range from 0.5 to 10 mTorr. The density ratio of bulk to hot electrons decreases from about 50 in Ar plasma to less than one for Ar/SF6, of which the SF6 flow is 0.05 standard cubic centimeters per minute. The hot electron group cannot be neglected for density ratios of negative ions to electrons lower than 100, though approximation of Maxwellian electrons is valid for larger density ratios. © 2001 American Institute of Physics. 
+
+argon
+sulphur compounds
+Langmuir probes
+plasma density
+plasma flow

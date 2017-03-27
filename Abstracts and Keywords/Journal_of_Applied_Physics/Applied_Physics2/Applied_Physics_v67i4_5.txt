@@ -1,0 +1,14 @@
+Hydrogen passivation of chalcogen impurities (S, Se, and Te) in n and ptype silicon was studied by deeplevel transient spectroscopy (DLTS). After exposure to monatomic hydrogen from a remote microwave plasma, the chalcogenrelated doubledonor defects were completely neutralized near the exposed surface of the silicon samples (at 150	°C). Vacuum anneals of hydrogenated specimens revealed that the two donor levels of each chalcogen complex recover simultaneously. Reactivation of the double donors was quantitatively examined with DLTS measurements of hydrogenated specimens after isothermal anneals. The activation energies for reactivation of the neutralized chalcogenimpurity complexes are as follows: For isolated substitutional sulfur, selenium, and tellurium, the energies are 1.61±0.21 eV, 1.39±0.17 eV, 1.39±0.18 eV, respectively, and for the pure pairs of sulfur and selenium, they are 1.56±0.2 eV and 1.41±0.18 eV, respectively. The experimental results are discussed with regard to available calculations for hydrogen passivation of the sulfur impurity in silicon.
+
+SILICON
+IMPURITIES
+SULFUR ADDITIONS
+SELENIUM ADDITIONS
+TELLURIUM ADDITIONS
+PASSIVATION
+HYDROGEN
+DLTS
+SURFACES
+DONORS
+ANNEALING
+ACTIVATION ENERGY

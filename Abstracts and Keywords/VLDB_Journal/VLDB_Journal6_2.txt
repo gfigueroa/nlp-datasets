@@ -1,0 +1,7 @@
+With respect to the specific requirements of advanced OODB applications, index data structures for type hierarchies in OODBMS have to provide efficient support for multiattribute queries and have to allow index optimization for a particular query profile. We describe the multikey type index and an efficient implementation of this indexing scheme. It meets both requirements: in addition to its multiattribute query capabilities it is designed as a mediator between two standard design alternatives, key-grouping and type-grouping. A prerequisite for the multikey type index is a linearization algorithm which maps type hierarchies to linearly ordered attribute domains in such a way that each subhierarchy is represented by an interval of this domain. The algorithm extends previous results with respect to multiple inheritance. The subsequent evaluation of our proposal focuses on storage space overhead as well as on the number of disk I/O operations needed for query execution. The analytical results for the multikey type index are compared to previously published figures for well-known single-key search structures. The comparison clearly shows the superiority of the multikey type index for a large class of query profiles.
+
+Access methods
+Indexing
+Multiple inheritance
+OODB
+Type hierarchies

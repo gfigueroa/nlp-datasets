@@ -1,0 +1,10 @@
+Atomic structure of Zr70Ni30 metallic glass (MG) was investigated by reverse Monte Carlo simulation combining with x-ray diffraction and Ni and Zr K-edge extended x-ray absorption of fine structure measurements. Distributions of coordination number (CN) and Voronoi clusters were analyzed by Voronoi tessellation method. The average CN of atoms was obtained to be 11.4 together with the average CN of Zr and Ni atoms of about 11.8 and 10.6, respectively. It is found that Z11 Kasper polyhedron and distorted icosahedra are mainly favored structural units in Zr70Ni30 MG. The discrepancy in atomic structure between Zr70Ni30 MG and its corresponding crystalline (or quasicrystalline) phases can explain the fact that Zr70Ni30 MG does not transform to neither icosahedral nor fcc Zr2Ni phase during crystallization process.
+
+crystallisation
+EXAFS
+glass structure
+metallic glasses
+Monte Carlo methods
+nickel alloys
+X-ray diffraction
+zirconium alloys

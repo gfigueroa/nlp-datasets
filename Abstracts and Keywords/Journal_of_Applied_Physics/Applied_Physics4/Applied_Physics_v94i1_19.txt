@@ -1,0 +1,11 @@
+Single-electron transistors operating at room temperature have been fabricated in 20-nm-thick nanocrystalline silicon thin films. These films contain crystalline silicon grains 4  8 nm in size, embedded in an amorphous silicon matrix. Our single-electron transistor consists of a side-gated 20
+nm×20
+nm point contact between source and drain electrodes. By selectively oxidizing the grain boundaries using a low-temperature oxidation and high-temperature argon annealing process, we are able to engineer tunnel barriers and increase the potential energy of these barriers. This forms a natural system of tunnel barriers consisting of silicon oxide tissues that encapsulate sub-10 nm size grains, which are small enough to observe room-temperature single-electron charging effects. The device characteristics are dominated by the grains at the point contact. The material growth and device fabrication process are compatible with silicon technology, raising the possibility of large-scale integrated nanoelectronic systems. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+nanostructured materials
+thin film transistors
+single electron transistors
+oxidation
+annealing

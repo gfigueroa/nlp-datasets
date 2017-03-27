@@ -1,0 +1,6 @@
+Hierarchical clustering, OLAP, CUBE File, Data cube - Physical data clustering
+
+Hierarchical clustering
+OLAP
+CUBE File
+Data cube - Physical data clustering

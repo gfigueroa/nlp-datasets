@@ -1,0 +1,11 @@
+Density functional theory calculations based on plane-wave expansion and a pseudopotential treatment have been carried out for atomic hydrogen adsorbed on Rh(111) at 0.25 and 1 monolayer (ML) coverages. The preferred binding site for hydrogen was found to be the fcc hollow site. The global three-dimension potential energy surfaces were obtained by spline interpolation. The calculated hydrogen diffusion barrier of 121meV at 0.25ML agrees well with the experimental result of 140meV at 0.3ML. The vibrational wave functions and the corresponding energies for atomic hydrogen on the calculated potentials were calculated by using the discrete variable representation and Lanczos method. The calculated results showed that the low-lying vibrational states exhibit strong localized characters, whereas the higher states show significant delocalized characters. The calculated vibrational frequencies agree well with the recent available experimental values. Particularly, the calculated blueshift of 10.6 (7.2)meV for the vibrational excitation parallel to the metal surface when the H(D) coverage is changed from 0.25ML to 1ML is in excellent agreement with the observed value of 11 (7)meV.
+
+hydrogen
+rhodium
+potential energy surfaces
+vibrational states
+monolayers
+ab initio calculations
+density functional theory
+diffusion barriers
+adsorbed layers

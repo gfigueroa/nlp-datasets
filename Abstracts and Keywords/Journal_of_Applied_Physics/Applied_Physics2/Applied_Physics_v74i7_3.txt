@@ -1,0 +1,10 @@
+We have investigated meltspun PrCo alloys with the objective of optimizing their permanent magnet characteristics. Among a variety of elemental additives studied, carbon was found capable of significantly improving the properties, the coercivity in particular. For binary PrCo systems optimum values of the remanence, Br=5.7 kG, intrinsic coercivity, Hci=5.8 kOe, and energy product, (BH)max=4.7 MG	Oe, were obtained from the Pr16Co84 composition. These values were enhanced to Br=5.8 kG, Hci=16.5 kOe, and (BH)max=7.4 MG	Oe for Pr18Co76C6. In both cases the meltspun ribbons were principally composed of PrCo5. The 16.5 kOe coercivity of the carboncontaining ribbons is the highest ever reported for a PrCo5based material. Two new rare earthcobalt phases were tentatively identified during the course of this work: PrCo7 (hexagonal TbCu7 structure) and PrCo2Cx (cubic MgCu2 structure). Survey results for other meltspun, RCo5based alloys are also described.
+
+PRASEODYMIUM ALLOYS
+COBALT ALLOYS
+BINARY ALLOYS
+CARBON ADDITIONS
+MAGNETIC MATERIALS
+MELT SPINNING
+COERCIVE FORCE
+RARE EARTH ALLOYS

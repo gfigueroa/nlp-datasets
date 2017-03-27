@@ -1,0 +1,8 @@
+This paper addresses the vulnerability analysis of the electric grid under terrorist threat. This problem is formulated as a mixed-integer nonlinear bilevel program. In the upper-level optimization, the terrorist agent maximizes the damage caused in the power system, which is measured in terms of the level of system load shed. On the other hand, in the lower-level optimization, the system operator minimizes the damage by means of an optimal operation of the power system. The distinctive modeling feature introduced in this paper is that, among the different corrective actions available, the system operator has the capability to modify the network topology. Due to its nonconvexity and nonlinearity, the resulting bilevel programming problem cannot be equivalently transformed into a standard one-level optimization problem. Therefore, this paper proposes a new approach based on Benders decomposition within a restart framework. Some numerical results obtained by the proposed algorithm are provided and compared with those published, based on the IEEE Reliability Test System.
+
+Benders decomposition
+bilevel programming
+deliberate outages
+line switching
+load shedding
+vulnerability

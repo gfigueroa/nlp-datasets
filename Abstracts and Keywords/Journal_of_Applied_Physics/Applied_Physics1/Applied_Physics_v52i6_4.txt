@@ -1,0 +1,20 @@
+Two pairs of resonance absorptions due to the lowestorder even 1e and odd 1o surface modes along two axially magnetized polycrystalline yttrium iron garnet YIG rods of several lengths from 3 to 25 mm have been observed in an experiment where the ferrite rods were placed in a TE10 rectangular waveguide and in a cavity coupled with a current loop. One pair is 10e and 10o resonances whose magnetization in each rod precesses in phase over the rod length. The other pair is 11e and 11o resonances due to the halfwavelength standing waves along the rods. The experimental results are compared with theory. Results of a rudimentary experiment on a magnetically variable directional coupler using these modes are also presented.
+
+WAVEGUIDES
+OSCILLATION MODES
+CAVITIES
+CONFIGURATION
+THEORETICAL DATA
+MAGNETIZATION
+RODS
+RESONANCE
+ABSORPTION
+POLYCRYSTALS
+FERRITE GARNETS
+YTTRIUM COMPOUNDS
+PRECESSION
+STANDING WAVES
+COUPLING
+MAGNETIC FIELDS
+COMPARATIVE EVALUATIONS
+MATHEMATICAL MODELS

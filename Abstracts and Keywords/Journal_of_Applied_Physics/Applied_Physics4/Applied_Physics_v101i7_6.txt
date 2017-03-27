@@ -1,0 +1,15 @@
+In order to observe the temperature dependence of the mechanical properties in a bulk metallic glass (BMG), sound velocity and attenuation in Zr-based BMG for longitudinal and transverse waves under linear heating and cooling with a peak temperature of 673K were measured by an ultrasonic pulse echo technique. The elastic property, Poissons ratio, and internal frictions were calculated from the sound velocities and attenuations. In the temperature range of 547619K, steep changes in the mechanical properties were observed. During the first heating cycle, the materials density and Youngs modulus increased; however, during subsequent heat treatments, the density and Youngs modulus decreased somewhat. This suggests that an initial reduction in free volume during the first temperature cycle was followed by increases in free volume during subsequent temperature cycling. The behavior of reduction and increase in the free volume under heat treatment in the vicinity of calorimetric glass transition temperature was discussed on the basis of the viscoelastic model with partial nanocluster formation.
+
+zirconium alloys
+aluminium alloys
+copper alloys
+nickel alloys
+metallic glasses
+heat treatment
+Poisson ratio
+internal friction
+Young's modulus
+density
+viscoelasticity
+acoustic wave velocity
+glass transition

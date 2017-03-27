@@ -1,0 +1,6 @@
+Management of data quality has become the bottleneck for enterprises to upgrade their application of information technology (IT). Based on the theory of total quality management, this paper presents five influencing factors of data quality from the perspective of organizational management, namely top management support, capability on regulation and process management, business-IT alignment, staff participation and integration of information systems (IS). At the same time, this paper establishes a process model of influencing factors, and conducts an empirical analysis through a field study of 185 enterprises. The results show that the influence of five factors presents transfer characteristics clearly. Top management support has an effect upon the capability on regulation and process management, and business-IT alignment directly, while indirectly on staff participation and integration of IS. Capability on regulation and process management, and business-IT alignment exert a direct impact on staff participation and integration of IS, while indirectly on data quality. Staff participation and integration of IS shows a direct impact on data quality. Finally, this paper presents some suggestions on improving data quality.
+
+data quality
+field study
+influencing factors
+information system

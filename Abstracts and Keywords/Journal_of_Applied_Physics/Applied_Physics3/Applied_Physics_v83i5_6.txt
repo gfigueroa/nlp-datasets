@@ -1,0 +1,13 @@
+All contributing magnetic anisotropies in (110)-oriented exchange biased Ni80Fe20/Fe50Mn50 double layers prepared by molecular beam epitaxy on Cu(110) single crystals have been determined by means of Brillouin light scattering. Upon covering the Ni80Fe20 films by Fe50Mn50, a unidirectional anisotropy contribution appears, which is consistent with the measured exchange bias field. The uniaxial and fourfold in-plane anisotropy contributions are largely modified by an amount, which scales with the Ni80Fe20 thickness, indicating an interface effect. The strong uniaxial anisotropy contribution shows an in-plane switching of the easy axis from [110] to [001] with increasing Ni80Fe20-layer thickness. The large mode width of the spin wave excitations, which exceeds the linewidth of uncovered Ni80Fe20 films by a factor of more than six, indicates large spatial variations of the exchange coupling constant. © 1998 American Institute of Physics.
+
+iron alloys
+nickel alloys
+manganese alloys
+magnetic epitaxial layers
+exchange interactions (electron)
+magnetic anisotropy
+interface magnetism
+Brillouin spectra
+spin waves
+ferromagnetic materials
+antiferromagnetic materials

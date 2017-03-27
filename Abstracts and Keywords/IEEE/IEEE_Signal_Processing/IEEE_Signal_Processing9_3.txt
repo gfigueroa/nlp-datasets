@@ -1,0 +1,10 @@
+In this paper I argue that high-fidelity acoustic models have important roles to play in robust speech recognition in face of a multitude of variability ailing many current systems. The discussion of high-fidelity acoustic modeling is posited in the context of general statistical pattern recognition, in which the probabilistic-modeling component that embeds partial, imperfect knowledge is the fundamental building block enabling all other components including recognition error measure, decision rule, and training criterion. Within the session&#x2019;s theme of acoustic modeling and robust speech recognition, I advance my argument using two concrete examples. First, an acoustic-modeling framework which embeds the knowledge of articulatory-like constraints is shown to be better able to account for the speech variability arising from varying speaking behavior (e.g., speaking rate and style) than without the use of the constraints. This higher-fidelity acoustic model is implemented in a multi-layer dynamic Bayesian network and computer simulation results are presented. Second, the variability in the acoustically distorted speech under adverse environments can be more precisely represented and more effectively handled using the information about phase asynchrony between the un-distorted speech and the mixing noise than without using such information. This high-fidelity, phase-sensitive acoustic distortion model is integrated into the same multi-layer Bayesian network but at separate, causally related layers from those representing the speaking-behavior variability. Related experimental results in the literature are reviewed, providing empirical support to the significant roles that the phase-sensitive model plays in environment-robust speech recognition.
+
+acoustic modeling
+dynamic Bayesian network
+generative modeling
+high fidelity
+noise robustness
+phase asynchrony
+speaking behavior
+variability

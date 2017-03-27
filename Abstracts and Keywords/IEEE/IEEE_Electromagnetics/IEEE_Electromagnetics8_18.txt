@@ -1,0 +1,4 @@
+The series and shunt inductivity introduced by the probe and shorting pin respectively in a single-feed shorted rectangular microstrip antenna has been evaluated theoretically using transmission line method. The proposed structure provides compact dual band operation using single feed mechanism. The input impedance, VSWR, and return loss are calculated theoretically. It is found that the ratio of the resonant frequencies highly depends on the position of shorting pin.
+
+Dual-band microstrip antenna
+shorting pins

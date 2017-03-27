@@ -1,0 +1,6 @@
+Subcritical crack growth in fused silica is treated as a stress assisted chemical reaction between water and strained bonds at the crack tip. In this work, the kinetics of the reaction is modeled by assuming the stress reduces the energy barrier of the activated complex by affecting both the activation enthalpy and entropy, where the stress dependence can take different forms. This theory is compared with dynamic fatigue data obtained for pristine fused silica optical fiber. The experiments were conducted in both distilled water and pH 7 buffer solution, and the results are found to be similar. The fatigue parameters were found by fitting to three different forms for the stress dependence; the activation enthalpy and entropy were then determined from the fatigue parameters. It is found that stress increases the activation entropy, whichever kinetic form is used, and thereby reduces the activation energy barrier height. The activation enthalpy is also stress dependent, but stress tends to increase the enthalpy contribution to the barrier height. The results show subcritical crack growth in high strength silica is dominated by entropy effects. © 2001 American Institute of Physics.
+
+silicon compounds
+optical fibres
+fatigue
+internal stresses

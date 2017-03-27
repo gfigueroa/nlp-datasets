@@ -1,0 +1,7 @@
+The importance of long wavelength natural birefringence in AgGaS2 is pointed out for nonlinear laser devices. Such an important aspect is absent in the model presented by Choi et al. [J. Appl. Phys. 82, 3100 (1997)]. Their model represents birefringence dispersion but locates the isotropic point at 0.52 ¼m instead of where actually found at 0.497 ¼m. © 1998 American Institute of Physics. 
+
+silver compounds
+copper compounds
+gallium compounds
+ternary semiconductors
+birefringence

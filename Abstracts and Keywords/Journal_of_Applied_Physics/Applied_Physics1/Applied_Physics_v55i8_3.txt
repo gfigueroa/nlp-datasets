@@ -1,0 +1,10 @@
+Device performance degradation due to hot carriers having energies that are below the SiSiO2 energy barrier are studied. For a test device with Leff =0.3 ¼m and Tox =5 nm, transconductance degradation and/or threshold voltage, Vth, shifts are detected at a drain voltage as low as 2.5 V, which is lower than the SiSiO2 energy barrier (3.2 eV) for electrons. It is also found that the time Ä that it takes for Vth to shift, e.g., 10 mV, can be expressed as Äexp(1/VD), in the VD range of greater than 2.5 V. Thus, hotcarrierrelated device degradation may be one of the most significant problems in submicron metaloxidesemiconductorfieldeffect transistors, even after power supply voltage reduction.
+
+charge carriers
+mosfet
+silica
+silicon
+threshold voltage
+hot electrons
+degradation
+performance

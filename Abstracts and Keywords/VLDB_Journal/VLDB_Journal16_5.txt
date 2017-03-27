@@ -1,0 +1,5 @@
+Given a multidimensional point q, a reverse k nearest neighbor (RkNN) query retrieves all the data points that have q as one of their k nearest neighbors. Existing methods for processing such queries have at least one of the following deficiencies: they (i) do not support arbitrary values of k, (ii) cannot deal efficiently with database updates, (iii) are applicable only to 2D data but not to higher dimensionality, and (iv) retrieve only approximate results. Motivated by these shortcomings, we develop algorithms for exact RkNN processing with arbitrary values of k on dynamic, multidimensional datasets. Our methods utilize a conventional data-partitioning index on the dataset and do not require any pre-computation. As a second step, we extend the proposed techniques to continuous RkNN search, which returns the RkNN results for every point on a line segment. We evaluate the effectiveness of our algorithms with extensive experiments using both real and synthetic datasets.
+
+Continuous search
+Reverse nearest neighbor
+Spatial database

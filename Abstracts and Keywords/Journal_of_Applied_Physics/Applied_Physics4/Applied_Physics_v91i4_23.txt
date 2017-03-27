@@ -1,0 +1,11 @@
+Largely tunable midinfrared (812 ¼m) generation is obtained in GaAs and ZnSe slabs by difference frequency mixing of optical parametric oscillator output waves (<2 ¼m). The coherence lengths determined in semiconductor wedges are in excellent agreement with estimates from known Sellmeir formulas. © 2002 American Institute of Physics. 
+
+optical frequency conversion
+optical parametric oscillators
+optical tuning
+optical materials
+infrared sources
+zinc compounds
+II-VI semiconductors
+gallium arsenide
+III-V semiconductors

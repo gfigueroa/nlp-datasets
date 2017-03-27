@@ -1,0 +1,7 @@
+Large-scale simulation and optimization are demanding applications that require high-performance computing platforms. Because their economic impact is fundamental to the industry, they also require robust, seamless and effective mechanisms to support dynamic user interactions, as well as fault-tolerance and resiliency on parallel computing platforms. Distributed workflows are considered here as a means to support large-scale dynamic and resilient multiphysics simulation and optimization applications, such as multiphysics aircraft simulation.
+
+distributed computing
+large-scale applications
+parallel computing
+resiliency
+workflows

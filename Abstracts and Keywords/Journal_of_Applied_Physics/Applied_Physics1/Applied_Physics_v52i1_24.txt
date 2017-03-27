@@ -1,0 +1,14 @@
+Experimental data are presented on the production of fieldreversed deuterium plasma by a modified coaxial plasma gun. The coaxial gun is constructed with solenoid coils along the inner and outer electrodes that, together with an external guide field solenoid, form a magnetic cusp at the gun muzzle. The net flux inside the inner electrode is arranged to be opposite the external guide field and is the source of fieldreversed flux trapped by the plasma. The electrode length is 145 cm, the diameter of the inner (outer) electrode is 15 cm (32 cm). The gun discharge is driven with a 232¼F 40kV capacitor bank. Acceleration of plasma through the magnetic cusp at the gun muzzle results in entrainment of fieldreversed flux that is detected by magnetic probes 75 cm from the gun muzzle. Fieldreversed plasma has been produced for a variety of experimental conditions. In one typical case, the guide magnetic field was B0=4.8 kG and the change in axial magnetic field ”Bz normalized to B0 was ”Bz /B0=3.1. Total fieldreversed flux (poloidal flux) obtained by integrating ”Bz profiles is in the range 2×103 kG	cm2. Measurement of the orthogonal field component indicates a sizable toroidal field peaked off axis at rC10 cm with a magnitude of roughly onehalf the poloidal field component that is measured on magnetic axis. Reconnection of the poloidal field lines has not been established for the data reported in the paper and will be addressed in future experiments which attempt to trap and confine the fieldreversed plasma in a magnetic mirror.
+
+PLASMA GUNS
+PLASMA
+MAGNETIZATION
+EXPERIMENTAL DATA
+DEUTERIUM
+SOLENOIDS
+ELECTRODES
+MAGNETIC FIELDS
+MAGNETIC FLUX
+ELECTRIC DISCHARGES
+CAPACITORS
+PROBES

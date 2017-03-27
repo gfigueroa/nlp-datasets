@@ -1,0 +1,10 @@
+Chemical and thermal reduction of copper oxide thin films (<20 Å) has been studied with x-ray photoelectron spectroscopy (XPS) and temperature programmed desorption (TPD) for application in microelectronic device interconnects. XPS showed that copper (I) oxide (Cu2O) and copper (II) oxide (CuO) were reduced to copper metal at 400 K within a 30 min exposure to deuterium atoms (D) and molecules at 1×104 Torr. Similarly, XPS showed that Cu2O was reduced to copper metal at 400 K within a 30 min exposure to methyl radicals (CH3) and acetone molecules at 1×104 Torr. After D exposure, TPD showed O leaves the Cu2O surface as D2O from 400 K to 700 K with a peak desorption temperature of 510 K. After CH3 exposure, TPD showed O leaves the Cu2O surface as CO2 over a range from 400 to 700 K with a peak temperature at 590 K. With carbon impurity below the XPS detection limit, thermal reduction of CuO to Cu2O was verified by XPS near 890 K. TPD experiments showed that O leaves the CuO surface as O2 at 890 K. Without surface C, thermal reduction of Cu2O was not observed up to 1073 K. Reduction of Cu2O without reactive radical species (D or CH3) was negligible. These results suggest that thin films of copper oxide can be reduced at 400 K with D and CH3. © 2001 American Institute of Physics.
+
+copper compounds
+vacuum deposited coatings
+reduction (chemical)
+X-ray photoelectron spectra
+integrated circuit interconnections
+thermally stimulated desorption
+X-ray chemical analysis
+thermal stability

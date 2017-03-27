@@ -1,0 +1,14 @@
+An overview is given on nucleation phenomena of Pb(Zr,Ti)O3 (PZT) thin films on Pt(111)-based substrates. Emphasis is given on in situ growth methods, particularly in situ reactive sputtering from three metallic targets. Growth of PZT thin films is discussed from the point of view of the PbOxTiO2 phase diagram, PbO vapor pressure, and classical nucleation theory. The role of thin TiO2 affinity layers and spots is explained in the frame of this theory. Activation energies for desorption and chemisorption are adapted to comply with the fact that nucleation rates on TiO2 are much larger than the ones on bare Pt(111). The model reproduces well the PbO surface flux from bare Pt(111) to the affinity spots in the case of PbTiO3 nucleation and the reversed tendency in the case of PZT 40/60 nucleation, explaining experimental observations. The critical size of nuclei was calculated to contain 810unit cells for PbTiO3/Pt nucleation and 1417 for PZT/Pt nucleation.
+
+lead compounds
+platinum
+ferroelectric materials
+ferroelectric thin films
+nucleation
+nanostructured materials
+sputter deposition
+phase diagrams
+vapour pressure
+desorption
+chemisorption
+chemical interdiffusion

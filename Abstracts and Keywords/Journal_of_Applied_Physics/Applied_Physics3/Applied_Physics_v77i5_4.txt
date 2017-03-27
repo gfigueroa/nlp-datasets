@@ -1,0 +1,11 @@
+The processes developed in the last years for the fabrication of high quality, reliable allrefractory Josephson tunnel junctions open a window in an insulating region, called the idle region, which provides the passivation of the base electrode all around the junction itself. We report experimental data showing that the phase velocity of electromagnetic waves in the junction barrier can be considerably modified by the presence of the insulating region surrounding the window Josephson tunnel junctions. We have investigated this phenomenon in unidimensional junctions, measuring the asymptotic voltage of the Fiske resonances in the presence of an externally applied magnetic field. We have considered the effect of an idle region: (i) along the long junction dimension and (ii) at the extremities of the junction. When comparing the behavior to that of a bare junction, in the first case the phase velocity has been found to increase and to be affected by dispersion, while in the latter case it decreased and was frequency independent. In order to interpret the main features of the phenomena observed experimentally in terms of basic mechanisms, we propose two simple models for the two different geometrical configurations. © 1995 American Institute of Physics.
+
+JOSEPHSON JUNCTIONS
+DYNAMICS
+WAVE PROPAGATION
+PHASE VELOCITY
+ELECTROMAGNETIC RADIATION
+MAGNETIC FIELDS
+DISPERSION RELATIONS
+TUNNEL EFFECT
+SUPERCONDUCTING FILMS

@@ -1,0 +1,14 @@
+Nonhydrogenated diamondlike carbon films have been prepared by dual ion beam sputtering and ionbeamassisted magnetron. The assistance parametersion energy, ion mass, ion flux/atom fluxhave been systematically varied, and the films have been characterized by Rutherford backscattering spectroscopy, highresolution transmission electron microscopy, electron energy loss spectroscopy, positron annihilation spectroscopy, Raman spectroscopy, and nanoindentation. It was found that the density and the degree of disorder of the films go through a maximum with ion energy, and the void concentration goes through a minimum. Microstructure analysis shows that the films are mostly sp2 bonded, with a maximum of about 16% concentration of sp3 bonding from the largest values of density. The evolution of density with ion flux and energy is consistent with a combined effect of atomic displacements in the film leading to densification, and damage buildup leading to progressive graphitization as the energy is increased. The large hardness/elastic modulus ratios obtained should lead to excellent friction properties.
+
+CARBON
+AMORPHOUS STATE
+MICROSTRUCTURE
+SPUTTERING
+THIN FILMS
+ION BEAMS
+RBS
+EEL SPECTROSCOPY
+TEM
+POSITRON PROBES
+INDENTATION
+DENSITY

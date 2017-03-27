@@ -1,0 +1,7 @@
+In this work we study properties of very thin insulating Al oxide films, used as barriers in magnetic tunnel junctions. For the small barrier thicknesses required for technological applications (<10 Å), the presence of pinholes (direct contact between the ferromagnetic metals through the barrier), or oxidation inhomogeneities, are the major factors for vanishing of the tunnel magnetoresistance effect. We have produced and characterized very thin, pinhole-free Al oxide layers, incorporated in magnetic tunnel junctions. The transport properties of the different barriers were analyzed by barrier impedance scanning microscopy and were correlated with the magnetotransport properties of the patterned microsized junctions. © 2001 American Institute of Physics.
+
+alumina
+insulating thin films
+magnetoresistance
+MIM structures
+tunnelling

@@ -1,0 +1,6 @@
+Monte Carlo (MC) simulation of thin oxide evaporation from silicon surface was carried out. Including in MC model chemical reactions of creation and dissociation of silicon monoxide during annealing makes it possible to simulate evaporation of a thin oxide layers. It was shown, that defects in the oxide matrix provoke starting of the layer dissociation processes.
+
+Monte Carlo
+Silicon dioxide
+evaporation
+modeling

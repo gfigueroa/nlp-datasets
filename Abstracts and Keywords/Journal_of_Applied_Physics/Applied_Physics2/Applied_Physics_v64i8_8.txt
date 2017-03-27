@@ -1,0 +1,17 @@
+The results of an investigation into the redistribution of dopantsAs, B, and Pduring the solidphase reaction of Cr with Si substrates to form CrSi2 are presented. Cr layers, 47 nm thick, were evaporated onto Bdoped Si substrates which had previously been implanted with one of the three dopants. Two implant doses were investigated for each dopant. Following heat treatment at 500	°C, doping profiles were determined by secondaryion mass spectrometery (SIMS) and, for arsenicdoped samples, by Rutherford backscattering spectroscopy (RBS). Both SIMS and RBS were also used to measure the extent of silicide formation. The results demonstrate that B and P are transported from the Si substrate to the surface of the growing CrSi2 layer while As accumulates at the CrSi2/Si interface. The silicide formation reaction is shown to be inhibited by large As concentrations. No other dopantconcentrationrelated effects were observed. A model, based on dopant segregation driven by the relative free energies of CrSi2 and Crdopant compounds, is proposed to explain the results.
+
+CHROMIUM
+SILICON
+SURFACE REACTIONS
+SURFACE LAYERS
+HIGH TEMPERATURE
+VERY HIGH TEMPERATURE
+DIFFUSION
+SIMS
+RBS
+CHROMIUM SILICIDES
+INTERFACE PHENOMENA
+SYNTHESIS
+FILM GROWTH
+IMPURITIES
+DOPING PROFILES

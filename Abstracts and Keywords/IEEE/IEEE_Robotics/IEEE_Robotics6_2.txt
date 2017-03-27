@@ -1,0 +1,6 @@
+Camera calibration is a necessary step in 3D computer vision in order to extract metric information from 2D images. In the camera calibration applying to multi-camera localization, it's prerequisite that all cameras, which mounted apart from each other, must observe the whole calibration object simultaneously. However, it's inconvenient to satisfy using traditional 3D or 2D calibration objects. In the paper, we propose a new calibration object contains five points placed in the shape of `+'. Meanwhile the calibration method based on the new object is also presented. Our calibration object is a midway between 1-D and 2-D calibration objects. Furthermore, in the procedure of calibration, the calibration object can be freely moved.
+
+Camera calibration
+Flexible setup
+Multi-Camera Localization
+Projective mapping

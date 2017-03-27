@@ -1,0 +1,13 @@
+A physically based two-dimensional simulation for a polycrystalline CdSe thin-film transistor with multi-energetic trapping states located 0.11, 0.33, and 0.67 eV below the conduction band in the semiconductor and localized at the grain boundaries was presented. It was shown that the experimentally observed gradual transition from the exponential (or subthreshold) to linear (or post-threshold) regime is due to the effect of the trappingdetrapping process at the shallower trapping level of 0.11 eV, whereas the subthreshold slope has a strong dependence on the density distribution of the deeper trap at 0.33 eV, and the traps at 0.67 eV have no experimentally observable effect on the shape of the transfer characteristics of TFTs. Furthermore, each trap energy level only affects the shape of the transfer characteristics in a range of gate voltages when #EF	ET#&lt;3kT. The fixed oxide charge density at the SiO2/CdSe interface was extracted from CV measurements on metal-oxide-semiconductor capacitors and shown to be 3×1011/cm2. © 2000 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+thin film transistors
+semiconductor device models
+digital simulation
+grain boundaries
+deep levels
+electron traps
+hole traps
+MOS capacitors
+defect states

@@ -1,0 +1,11 @@
+Polycrystalline silicon films were deposited at a substrate temperature of 300	°C by electron cyclotron resonance SiH4/H2 plasma-enhanced chemical vapor deposition. The effects of substrate dc bias during deposition on the crystallinity and the surface roughness of the deposited films were investigated in the range from 150 to +50 V by using x-ray diffraction, scanning electron microscopy, and atomic force microscopy. It was found that the positive biases applied to the substrate improved the crystallinity and the surface roughness. To clarify the substrate dc bias effects on the crystallinity and the surface roughness, the sheath potential, ion current, and temperature on the substrate surface were measured. It is determined that improvement of the crystallinity and the surface roughness is due to the decrease of ion flux to the substrate when positive bias is applied to the substrate. © 1997 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor thin films
+plasma CVD
+semiconductor growth
+surface topography
+scanning electron microscopy
+atomic force microscopy
+X-ray diffraction

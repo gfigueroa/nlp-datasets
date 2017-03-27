@@ -1,0 +1,5 @@
+We have investigated the temperature distribution in land/groove phase-change optical disks. The incident beam is linearly polarized either parallel to track (E% polarization) or tangential to track (E¥ polarization). Calculations have shown that temperature profiles in the medium are dependent on the wavelength of light, the state of polarization, the geometry of the grooved structure, and the multilayer stack. The temperature profiles are quite different between the land track and the groove track. Thermal cross-track cross talk from a land track to its neighboring groove tracks is higher than that from a groove track to its neighboring land tracks. The interaction between the E¥ electric field and the grooved structure is mainly responsible for thermal cross-track cross talk. © 2000 American Institute of Physics. 
+
+temperature distribution
+optical disc storage
+optical crosstalk

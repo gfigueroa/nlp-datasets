@@ -1,0 +1,10 @@
+The carbide forming nature of the substrate appears to be an important property when performing biasenhanced nucleation (BEN); therefore, various refractory metals were studied since they are known carbide formers. Nucleation densities approaching 1×1010/cm2 were observed on both hafnium and titanium. The nucleation density on tantalum, niobium, and tungsten was enhanced to a lesser extent in descending order of influence, respectively. An induction time prior to the onset of significant diamond nucleation was observed on the refractory metals as well as on silicon and may be reliant upon the formation of a critical carbide thickness. Shorter induction times were observed for silicon which may be explained since this material forms a carbide of typically only several nanometers in thickness as opposed to the refractory metals which may form carbides on the order of several microns in thickness. Also, a strong correlation was observed between the carbide heat of formation and the nucleation densities at 60 min of BEN. These findings verify the relevance of a carbide formation to diamond nucleation via BEN and also provides a clue as to the mechanism(s) by which diamond is nucleating. © 1995 American Institute of Physics.
+
+DIAMONDS
+NUCLEATION
+REFRACTORY METALS
+SUBSTRATES
+TIME DEPENDENCE
+CARBIDES
+CVD
+FORMATION HEAT

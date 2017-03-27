@@ -1,0 +1,9 @@
+In this work we theoretically investigate the effect of the strain on the conduction and valence bands of quantum wells of twodimensional (2D) strained semiconductor heterostructures with curved and parallel heterointerface profiles. InxGa1xAs/GaAs heterostructures with hyperbolic heterointerface profiles are considered. The discussed structures are geometrically similar to Vshaped quantum wires, with the only difference that the well thickness is constant (absence of the crescent shape). The variation of the crystallographic orientation along the curved heterointerface profiles leads to relevant nonuniform strain fields. The nonuniform lattice deformations induce: (i) large bandgap modulations up to several tens of meV; (ii) piezoelectric effects; and (iii) lateral electron and hole potential modulations of several tens of meV. These potential modulations may allow 1D electron and hole confinement in thin InxGa1xAs curve quantum wells (few nm thick), and should be taken into account in the calculation of the lateral confinement potentials obtained by geometrical constraints in strained Vgrooveshaped quantum wires. © 1996 American Institute of Physics. 
+
+HETEROSTRUCTURES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+STRAINS
+BAND STRUCTURE
+QUANTUM WIRES
+PIEZOELECTRICITY

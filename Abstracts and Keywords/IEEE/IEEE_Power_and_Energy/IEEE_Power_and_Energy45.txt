@@ -1,0 +1,8 @@
+The paper deals with the evaluation of the indirect-lightning performance of overhead distribution networks. The novelty of this contribution is that it takes into account the inherent complexity of distribution networks. These networks are indeed characterized by a plurality of lines (main feeder and laterals) and also by the presence of typical power components (e.g., transformers and surge arresters); they consequently differ considerably from the straight line configuration generally adopted in this type of studies. To accomplish such an evaluation we have extended the general procedure already presented in a previous paper based on the use of the LIOV code along with the Monte Carlo method. The extended procedure combines the advantage of the LIOV-EMTP computer code-that allows the calculation of lightning-induced voltages in complex distribution networks-with a heuristic technique specifically developed and integrated in the Monte Carlo routine in order to reduce the computational effort. The application of the proposed procedure to a set of distribution overhead networks characterized by different topologies, but all of the same length, shows that, in general, the usual single straight-line approach may result into a misestimation of the indirect-lightning performance. The paper also analyzes and discusses the influence of both the line terminations, and the position of the line poles.
+
+LIOV-EMTP
+distribution systems
+lightning performance
+lightning-induced overvoltages
+overhead power lines
+power quality

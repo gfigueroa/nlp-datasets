@@ -1,0 +1,12 @@
+We report on the growth and characterization of HgCdTe epilayers grown by metalorganic vaporphase epitaxy. The transport properties indicate that it is possible to grow epilayers with mobilities comparable to those of the best bulkgrown materials. Electrolyte electroreflectance studies have yielded depth profiles for the alloy composition, the strains, and the density of polarizable defects. These latter results indicate very clearly that the interface alloy/substrate is very sharp and does not extend over more than 2000 Å. Moreover, in the bulk of the epilayers the strains are low and comparable to those found in highquality bulk single crystals.
+
+VAPOR PHASE EPITAXY
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+ELECTRON MOBILITY
+CHARGEDPARTICLE TRANSPORT
+EPITAXIAL LAYERS
+ELECTROREFLECTANCE
+STRAINS
+DEPTH PROFILES
+ORGANOMETALLIC COMPOUNDS

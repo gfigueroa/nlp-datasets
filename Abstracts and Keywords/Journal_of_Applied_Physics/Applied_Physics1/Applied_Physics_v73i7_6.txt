@@ -1,0 +1,11 @@
+Mismatched epitaxial layers of InxGa1xAs and InyAl1yAs were grown on InP by molecular beam epitaxy. Samples were characterized by highresolution xray diffraction to assess layer quality as well as composition and strain. Measurement of epitaxial layer peak width is shown to be a sensitive, nondestructive means to judge the structural quality of a strained heterostructure. We find that for lattice mismatch of ±1% or less, the crystalline quality of epitaxial layers of InGaAs and InAlAs consistently remains high to thicknesses up to 39 times the MatthewsBlakeslee [J. Cryst. Growth 27, 118 (1974)] critical layer thickness. The findings are applied to the design and growth of highperformance mismatched InAlAs/InGaAs/InP heterostructure fieldeffect transistors.
+
+INDIUM ARSENIDES
+ALUMINIUM ARSENIDES
+INDIUM PHOSPHIDES
+TERNARY COMPOUNDS
+HETEROSTRUCTURES
+MOLECULAR BEAM EPITAXY
+STRAINS
+XRD
+CRYSTAL STRUCTURE

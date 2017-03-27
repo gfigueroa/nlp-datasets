@@ -1,0 +1,7 @@
+A nonlinearly optical method to induce the birefringence in azo liquid crystal polymers by the opticaloptical isomerization cycle (OO cycle) process is proposed in theory and implemented by experiments. In the OO cycle, the two isomerization steps of trans-cis and cis-trans are both induced by light. In the nonlinearly OO cycle, at least one step involves the nonlinearly optical absorption. It has been demonstrated that the permanent birefringence was induced in azo polymer PCN films with a visible light source at 532 nm wavelength by the nonlinearly OO cycle. The nonlinear nature of the photoisomerization process in PCN was verified and a high nonlinear absorption coefficient of 40 cm/W was measured by use of the Z-scan technique. © 2001 American Institute of Physics. 
+
+liquid crystal polymers
+nonlinear optics
+birefringence
+isomerisation
+absorption coefficients

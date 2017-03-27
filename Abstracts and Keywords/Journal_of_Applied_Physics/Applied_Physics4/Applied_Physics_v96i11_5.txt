@@ -1,0 +1,16 @@
+In this work we study Al-oxide-based tunnel junctions with amorphous Co60Fe20B20 and polycrystalline Co90Fe10 ferromagnetic (FM) electrodes. Focus is given on the evolution of the tunnel magnetoresistance and barrier characteristics (resistance-area product, effective thickness, height, and asymmetry) as a function of the annealing temperature up to 400°C. Junctions with two CoFeB electrodes show the largest thermal stability of the tunnel magnetoresistance. Substituting firstly one and then both CoFeB electrodes with CoFe leads to an increasingly faster degradation of the spin-dependent transport upon annealing. The observed differences suggest an improved interface quality between the amorphous FM and the Al oxide.
+
+cobalt alloys
+iron alloys
+boron alloys
+electrodes
+amorphous state
+magnetic annealing
+ferromagnetic materials
+tunnelling magnetoresistance
+thermal stability
+magnetic multilayers
+magnetic hysteresis
+coercive force
+ruthenium
+aluminium compounds

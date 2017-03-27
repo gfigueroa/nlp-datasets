@@ -1,0 +1,10 @@
+We demonstrate a new route to the synthesis of InAs monolayer structures in GaAs by bridging the fundamental gap between the requirement of the lowest possible substrate temperatures to suppress In segregation and the necessity to maintain sufficiently high temperatures for the growth of lowdefect density material. This mediation between opposing aspects of the molecular beam epitaxy of these InAs structures is achieved by a modulation of the substrate temperature and by a minimization of the amount of GaAs cap material grown at low temperature. Highresolution xray diffraction and highresolution electron microscopy combined with photoluminescence (PL) and PL excitation spectroscopies reveal excellent structural properties for our series of (311) and (100) oriented submonolayer and monolayer structures. A comparison of our PL results with already published data proves our In concentration profiles to be very sharp and from a numerical analysis we deduce an upper limit of 0.2 for the In segregation probability in these structures. In addition we obtain as upper limits for the conduction band offsets Q(100)cd0.4 and Q(311)cd0.55 for (100) and (311) orientations, respectively.
+
+INDIUM ARSENIDES
+MOLECULAR BEAM EPITAXY
+MONOLAYERS
+GALLIUM ARSENIDES
+XRD
+TEM
+PHOTOLUMINESCENCE
+HETEROSTRUCTURES

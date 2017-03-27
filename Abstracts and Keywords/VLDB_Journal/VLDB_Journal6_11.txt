@@ -1,0 +1,6 @@
+Over the past decade, significant research has been done towards developing transaction management algorithms for multidatabase systems. Most of this work assumes a monolithic architecture of the multidatabase system with a single software module that follows a single transaction management algorithm to ensure the consistency of data stored in the local databases. This monolithic architecture is not appropriate in a multidatabase environment where the system spans multiple different organizations that are distributed over various geographically distant locations. In this paper, we propose an alternative multidatabase transaction management architecture, where the system is hierarchical in nature. Hierarchical architecture has consequences on the design of transaction management algorithms. An implication of the architecture is that the transaction management algorithms followed by a multidatabase system must be composable&ndash; that is, it must be possible to incorporate individual multidatabase systems as elements in a larger multidatabase system. We present a hierarchical architecture for a multidatabase environment and develop techniques for concurrency control in such systems.
+
+Concurrency control
+Database management
+Distributed databases
+Multidatabase management

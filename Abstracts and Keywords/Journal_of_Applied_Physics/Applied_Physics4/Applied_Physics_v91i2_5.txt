@@ -1,0 +1,10 @@
+The influence of the structure-dependent electronic effects on the magnetic, magneto-optical (MO), and anisotropic properties of equiatomic CoPt alloy was modeled with the use of fully relativistic linear-muffin-tin-orbital calculations. We found large differences between the MO spectra of the alloy of the AuCu (L11) and CuPt (L10) superlattice type structures, as well as a strong sensitivity of the spectra on the degree of chemical order. Very good agreement between the experimental and theoretical spectra for both a partially ordered and a fully disordered alloy, modeled by a Monte Carlo simulation, is found, demonstrating the applicability of the theoretical approach. © 2002 American Institute of Physics. 
+
+cobalt alloys
+platinum alloys
+magnetic anisotropy
+magneto-optical effects
+relativistic band structure calculations
+linear muffin-tin orbital method
+Monte Carlo methods
+band structure

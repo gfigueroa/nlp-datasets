@@ -1,0 +1,5 @@
+Mapping composition is a fundamental operation in metadata driven applications. Given a mapping over schemas Ã1 and Ã2 and a mapping over schemas Ã2 and Ã3, the composition problem is to compute an equivalent mapping over Ã1 and Ã3. We describe a new composition algorithm that targets practical applications. It incorporates view unfolding. It eliminates as many Ã2 symbols as possible, even if not all can be eliminated. It covers constraints expressed using arbitrary monotone relational operators and, to a lesser extent, non-monotone operators. And it introduces the new technique of left composition. We describe our implementation, explain how to extend it to support user-defined operators, and present experimental results which validate its effectiveness.
+
+Mapping composition
+Model management
+Schema mappings

@@ -1,0 +1,7 @@
+The discharge current and the inception voltage of the surface discharge induced plasma chemical process (SPCP) element are measured to investigate the influence of surface charge on the surface discharge process in air at a dielectric surface. A ceramic-based surface discharge ozonizer is tested by applying a high frequency sinusoidal voltage. The results show that the inception voltage of the SPCP element is not constant but decreases linearly as the amplitude of applied voltage increases. An electrostatic equilibrium is reached along the surface when the microdischarge stops. The inception voltage and the current spikes are not symmetric for the two half cycles of the applied voltage. The microdischarges occur at a lower inception voltage in the negative half cycle than that in the positive one, while the current spikes have a larger amplitude in the negative half period. The microdischarge current is a short pulse with typical magnitude of 0.10.2 A and width of 1020 ns for the SPCP element. © 1998 American Institute of Physics.
+
+discharges (electric)
+surface charging
+plasma diagnostics
+plasma transport processes
+chemical reactions

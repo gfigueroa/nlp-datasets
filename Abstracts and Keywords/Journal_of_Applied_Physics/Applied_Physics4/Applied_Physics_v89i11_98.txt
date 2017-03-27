@@ -1,0 +1,11 @@
+A systematic study on the ground state electronic structure and magnetic properties of Nin (n=239 and 55) clusters are performed using the density functional calculation with the local spin-density approximation. The binding energy per atom increases monotonically. The occupation numbers do not change significantly for n&gt;8, which helps us to understand the experimental observation of the photoelectron spectroscopy. The obtained average magnetic moment per atom is larger than the bulk value, and the evolvement of these moments towards the bulk is in good agreement with the experimental trend. However, the average moments of core atoms are comparable to or even larger than that of surface atoms, which indicates that the usual conclusion of surface enhancement on magnetism in transition metal clusters may be improper for these Nin
+(n=1439) clusters. © 2001 American Institute of Physics. 
+
+nickel
+metal clusters
+band structure
+binding energy
+ferromagnetic materials
+ground states
+density functional theory
+spin dynamics

@@ -1,0 +1,14 @@
+Self-supported diamond sheets of the thickness ranging from 15 to 30 ¼m were prepared using hot filament chemical vapor deposition technique. The controlled variation of the deposition parameters resulted in the sheets with varying amount of nondiamond impurities. Routine characterization of the sheets was carried out using scanning electron microscopy, x-ray diffractometry, Raman spectroscopy, Fourier transform infrared spectroscopy, and Positron annihilation spectroscopy techniques. Detailed measurements of room temperature electrical conductivity (Ã300), currentvoltage (IV) characteristics, and annealing studies on the sheets deposited with various structural disorder have yielded useful information about the electrical conduction in this interesting material. Ã300 and IV characteristic measurements were done in sandwiched configuration taking care off the surface effects. The diamond sheets deposited at low deposition pressure (Pd&lt;60
+Torr) contain negligible nondiamond impurities and show Ã300E106107
+S.cm1. The IV characteristics in these sheets show space charge limited conduction behavior with IVn and n&gt;1, in high voltage range. In contrast the sheets deposited at higher pressure (60 Torr and higher), containing high concentration of nondiamond impurities, show a sharp reduction in the values of Ã300. Interestingly, the conduction in these sheets is ohmic with n values nearly equal to unity. Similarly the sheets deposited with nitrogen also show a sharp reduction in Ã300. Annealing of all types of diamond sheets results in a decrease in Ã300 values by several orders of magnitude. In the sheets deposited at low Pd, the n values increase sharply with annealing. On the other hand the values of n in the sheets deposited at higher pressure remain constant with annealing. The above results are explained in terms of hydrogen abstraction from the traps and compensation of donoracceptor pairs. © 2001 American Institute of Physics. 
+
+diamond
+electrical conductivity
+CVD coatings
+elemental semiconductors
+scanning electron microscopy
+X-ray diffraction
+Raman spectra
+Fourier transform spectra
+infrared spectra
+positron annihilation

@@ -1,0 +1,13 @@
+The characteristics of Cu precipitation on various types of defects associated with oxygen precipitation in Czochralskigrown silicon are investigated by transmission electron microscopy and the electronbeaminducedcurrent technique. Specimens containing dominantly either punchedout dislocations or bulk stacking faults were intentionally contaminated with Cu at various temperatures and cooled at three different rates. Colonies of Cu precipitates developed irrespective of cooling rate, apparently originating from punchedout dislocations developed around oxygen precipitates. In heavily contaminated specimens cooled fast from the contamination temperature, Cu also precipitates on Frank partial dislocations bounding stacking faults. During slow cooling, precipitation of Cu takes place on Frank partials only in lightly contaminated specimens but never in heavily contaminated specimens. Cu precipitates in colonies are thermally more stable than those formed on Frank partials. It is concluded that punchedout dislocations are more favorable precipitation sites for Cu than Frank partials.
+
+SILICON
+COPPER
+GETTERING
+STACKING FAULTS
+DISLOCATIONS
+CZOCHRALSKI METHOD
+TEM
+EBIC
+PRECIPITATES
+COOLING RATE
+IMPURITIES

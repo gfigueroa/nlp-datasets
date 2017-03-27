@@ -1,0 +1,7 @@
+A theoretical investigation is made of the dispersion characteristics of plasmons in a two-dimensional periodic system of semiconductor (dielectric) cylinders embedded in a dielectric (semiconductor) background. We consider both square and hexagonal arrangements and calculate extensive band structures for plasmons using a plane-wave method within the framework of a local theory. It is found that such a system of semiconductor-dielectric composite can give rise to huge full band gaps (with a gap to midgap ratio H2) within which plasmon propagation is forbidden. The most interesting aspect of this investigation is the huge lowest gap occurring below a threshold frequency and extending up to zero. The maximum magnitude of this gap is defined by the plasmon frequency of the inclusions or the background as the case may be. In general we find that the greater the dielectric (and plasmon frequency) mismatch, the larger this lowest band gap. Whether or not some higher energy gaps appear, the lowest gap is always seen to exist over the whole range of filling fraction in both geometries. Just like photonic and phononic band-gap crystals, semiconducting band-gap crystals should have important consequences for designing useful semiconductor devices in solid state plasmas. © 2000 American Institute of Physics. 
+
+semiconductors
+photonic band gap
+plasmons
+dispersion relations
+semiconductor plasma

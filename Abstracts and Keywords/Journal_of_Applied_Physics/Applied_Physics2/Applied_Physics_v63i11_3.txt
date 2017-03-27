@@ -1,0 +1,14 @@
+Photovoltaic properties of InP solar cells and defect behaviors of InP single crystals irradiated with 1MeV electrons have been studied in order to clarify the superior radiation resistance of InP solar cells compared to Si and GaAs solar cells. It is confirmed that the excellent radiation tolerance of the InP cells is originated from the roomtemperature annealing and minoritycarrier injectionenhanced annealing phenomena of major radiationinduced defects in InP. The main defects in InP induced by irradiation at room temperature are thought to be due to a Frenkel pair of phosphorus vacancy and interstitial. They are much more mobile than those in GaAs.
+
+MEV RANGE 0110
+MONOCRYSTALS
+INDIUM PHOSPHIDE SOLAR CELLS
+INDIUM PHOSPHIDES
+PHYSICAL RADIATION EFFECTS
+CRYSTAL DEFECTS
+PHOTOVOLTAIC EFFECT
+ANNEALING
+VACANCIES
+INTERSTITIALS
+CHARGE CARRIERS
+EXPERIMENTAL DATA

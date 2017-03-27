@@ -1,0 +1,7 @@
+The strong in-plane optical anisotropy of (001) semi-insulating GaAs, which comes from the submicron region under the surface, has been observed by reflectance difference spectroscopy. The optical anisotropy can be explained by the anisotropic strain that is introduced by the asymmetric distribution of 60° dislocations during surface polishing. The simulated spectra reproduce the line shape of the experimental ones. The simulations show that the anisotropic strain is typically about 2.3×104. © 2000 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+photoreflectance
+polishing
+dislocation structure

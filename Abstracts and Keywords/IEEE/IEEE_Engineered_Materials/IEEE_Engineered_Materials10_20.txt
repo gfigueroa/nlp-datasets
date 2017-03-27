@@ -1,0 +1,6 @@
+CEA LIST and AREVA have been developing remote operations devices, also called telerobotics for 15 years. These tools were designed for interventions in the AREVA nuclear spent fuel facilities hot cells. From these 15 years of joint research and development, several technological bricks have been industrialized and used at the AREVA La Hague facilities. This article presents some of these bricks and their industrial developments. The &#x201C;TAO2000&#x201D; CEA LIST telerobotics generic software controller will be first discussed. This controller has been used to teleoperate dedicated slave arms like the MT200 TAO (an evolution of the conventional wall-transmission mechanical telemanipulator (MSM) [3]) as well as industrial robotic arms like the St&#x00E4;ubli RX robots. Both the MT200 TAO and St&#x00E4;ubli RX TAO telerobotics systems provide force-feedback and are now ready to be used as telemaintenance tools at the AREVA La Hague facilities. Two recent maintenance operations using these tools will be detailed at the end of this paper.
+
+Force feedback
+Manipulators
+Radiation hardening
+Telerobotics

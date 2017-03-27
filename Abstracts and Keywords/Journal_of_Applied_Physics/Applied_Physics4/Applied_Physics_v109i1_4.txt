@@ -1,0 +1,6 @@
+In this paper Mie scattering of light by dust particles having Mathis, Rumpl, and Nordsieek power law distribution of size has been incorporated in the formulation of the kinetics of an illuminated complex plasma which takes into account the ionization of neutral atoms by an external agency, ion-electron recombination, photoemission of electrons by the dust particles, and accretion of electrons and ions on the surface of the particles; the number and energy balance of the constituent species has also been taken into account. An interesting conclusion is that unlike the usual case (when Mie scattering is neglected) the charge on a particle is not proportional to the radius and that for certain sets of parameters the smaller particles are negatively charged while the larger particles, carry positive charge.
+
+dusty plasmas
+Mie scattering
+plasma kinetic theory
+plasma light propagation

@@ -1,0 +1,9 @@
+We demonstrate that hole trap densities and hole trapping in SiO2 films on silicon can be predicted quantitatively using a physically based model of intrinsic oxide trapping centers. © 1997 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+silicon compounds
+semiconductor-insulator boundaries
+interface states
+hole traps
+insulating thin films

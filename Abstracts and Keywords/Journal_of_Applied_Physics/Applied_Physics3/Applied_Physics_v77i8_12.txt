@@ -1,0 +1,13 @@
+Our calculations of the relative performance of ideal superlattice and HgCdTe (MCT) photovoltaic long wave infrared detectors, criticized in the previous Comment, do include radiative lifetimes. They also find the Auger7 lifetime to be shorter than the radiative lifetime for p doping levels of 1017 cm3. This agrees with other calculations and with the majority of experiments. The issue of detector thickness raised in the comment is not relevant since neither MCT nor the superlattices has an intrinsic advantage in this respect. The superlattices are further favored relative to MCT by lower tunneling currents, higher uniformity, and materials processing advantages. We suggest the superlattice system to be promising for the eventual realization of highperformance detectors. © 1995 American Institute of Physics.
+
+INDIUM ARSENIDES
+INDIUM ANTIMONIDES
+GALLIUM ANTIMONIDES
+SUPERLATTICES
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+SUPERLATTICES
+PHOTODETECTORS
+INFRARED RADIATION
+PHOTOVOLTAIC EFFECT
+LIFETIME

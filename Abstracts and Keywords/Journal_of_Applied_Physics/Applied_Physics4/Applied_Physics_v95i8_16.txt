@@ -1,0 +1,9 @@
+This article considers a piezoelectric ceramic layer with a circular electrode attached to its surface. Exact solution is given for a piezoelectric medium whose thickness is considerably larger than the diameter of the electrode. Numerical solution for a piezoelectric layer of finite thickness is obtained. Field intensities near the edge of the electrode are established. Possible cracking initiation behavior is also discussed. Solutions are obtained for the maximum electric potential that the piezoelectric medium can be applied without catastrophic failure according to the criterion that the maximum stress intensity factor equals the fracture toughness of the ceramics. © 2004 American Institute of Physics. 
+
+lead compounds
+piezoceramics
+electrodes
+fracture toughness
+cracks
+internal stresses
+electric potential

@@ -1,0 +1,12 @@
+In this article, we present a straightforward procedure based on the cumulant expansion for computing the contribution of excitonphonon coupling to the exciton line-shape function and thus absorption in bulk and quantum well semiconductors. Using the functional integral technique we derive the effective equation of motion for the two-particle Greens function in the presence of interaction with phonons. We show that our many body formulation in the limit of linear coupling of carriers with polar longitudinal optical phonons in bulk semiconductors is equivalent to the model excitonphonon Hamiltonian approach. Our calculations for the hydrogenic model of excitons in three- and two-dimensional systems reproduce not only the correct polaron induced shift (renormalization) of the exciton energy but also the observed asymmetric spectral line shape and exponential Urbach absorption tail below the fundamental absorption edge. © 2001 American Institute of Physics. 
+
+semiconductors
+semiconductor quantum wells
+phonon-exciton interactions
+Green's function methods
+phonon-phonon interactions
+many-body problems
+spectral line breadth
+integration
+polarons
+renormalisation

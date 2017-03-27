@@ -1,0 +1,6 @@
+Error metric is the key problem for generating level of detail of terrain surface, which affects the deviation between the number of triangles and triangular mesh. After analyzing various present methods of calculating error metric, we present an improved algorithm based on roughness. This paper takes the roughness which expresses relief amplitude to be an factor, by which we calculate the error metric, form the sphere of error according to the position of viewpoint, choose appropriate LOD model for each frame. The improved error metrics is applied to the high-altitude terrain when flying high over the terrain. The experiment results show that our algorithm reduces the number of required triangles in terrain rendering, and ensures correct rendering of the entire outline of high steep terrain.
+
+Error metric
+High steep terrain
+LOD model
+Terrain rendering

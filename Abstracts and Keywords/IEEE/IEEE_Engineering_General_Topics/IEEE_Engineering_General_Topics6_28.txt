@@ -1,0 +1,5 @@
+Swarm-inspired optimization has become very popular in recent years. The multiple criteria nature of most real world problems has boosted research on multi-objective algorithms that can tackle such problems effectively, with the computational burden and colonies. Particle Swarm Optimization (PSO) and Ant colony Optimization (ACO) have attracted the interest of researchers due to its simplicity, effectiveness and efficiency in solving optimization problems. We use the notion of multi-objective Particle Swarm Optimization (MOPSO) for few methods; and we find in most of the results; more the number of the swarm increases more the accuracy of object is achieved with greater accuracy. Performance of the basic swarm for small problems with moderate dimensions and searching space is satisfactory.
+
+Multi-objective Optimization
+Particle swarm Optimization
+Swarm intelligence

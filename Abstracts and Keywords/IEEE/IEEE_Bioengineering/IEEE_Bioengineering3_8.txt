@@ -1,0 +1,7 @@
+In this paper we introduce a model for analyzing the spread of epidemics in a disconnected mobile network. The work is based on an extension to a dynamic setting, of the eigenvector centrality principle introduced by two of the authors for the case of static networks. The extension builds on a new definition of connectivity matrix for a highly partitioned mobile system, where the connectivity between a pair of nodes is defined as the number of contacts taking place over a finite time window. The connectivity matrix is then used to evaluate the eigenvector centrality of the various nodes. Numerical results from real-world traces are presented and discussed
+
+clustering
+eigenvector centrality
+epidemics spreading
+topography
+wireless mobile networks

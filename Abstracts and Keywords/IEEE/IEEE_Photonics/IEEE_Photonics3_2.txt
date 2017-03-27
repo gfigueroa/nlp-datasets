@@ -1,0 +1,4 @@
+Frequency domain processing of broadband signals that relies on decomposing the incident spectrum into multiple channels for digitization is an attractive alternative to time-domain processing. Channelized architectures can be utilized for several analog and RF signal processing tasks, such as data conversion, broadband radio receivers and spectrum analysis. A channelized front end based on cascaded image-reject stages which significantly simplifies the frequency synthesis requirement in such architectures is proposed in this paper. Analog non-idealities in such front ends are discussed.
+
+broadband radio receivers
+channelized radio front ends

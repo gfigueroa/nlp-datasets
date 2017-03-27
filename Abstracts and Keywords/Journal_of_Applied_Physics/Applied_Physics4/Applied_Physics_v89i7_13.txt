@@ -1,0 +1,13 @@
+The electronic structure of undoped and nitrogen-doped tetrahedral amorphous carbon (ta-C) has been studied using high-resolution electron energy-loss spectroscopy in transmission to determine the local bonding of the carbon and nitrogen atoms. We found that the carbon and nitrogen atoms are mainly sp3-bonded for nitrogen contents up to 10 at.
+%. However, the data analysis is also consistent with some N atoms occupying trivalent Ã or pyrrole configurations. The real (õ1) and imaginary parts (õ2) of the dielectric function were derived over a wide energy range carrying out a KramersKronig analysis of the loss spectra. The õ2 spectra show two features due to the excitation of the À and Ã valence states. The À feature is very small in ta-C deposited at 100 eV, consistent with its large sp3 content (<85%). We have determined the ratios of sp2/sp3-hybridized atoms in the samples by both the C
+1s edge and the optical sum rules. © 2001 American Institute of Physics. 
+
+carbon
+nitrogen
+elemental semiconductors
+amorphous semiconductors
+electron energy loss spectra
+impurity states
+bonds (chemical)
+dielectric function
+Kramers-Kronig relations

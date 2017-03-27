@@ -1,0 +1,21 @@
+Fully electromagnetic particleincell simulations of AppliedB ion diodes have been performed using the magic code. These calculations indicate that AppliedB diodes can be nearly 100% efficient. Furthermore, the simulations exhibit an impedance relaxation phenomenon due to the buildup of electron space charge near the anode which causes a timedependent enhancement of the ion emission above the ChildLangmuir value. This phenomenon may at least partially explain the rapidly decreasing impedance that has been observed in AppliedB ion diode experiments. The results of our numerical simulations will be compared to experimental data on AppliedB ion diodes and to analytic theories of their operation.
+
+INERTIAL CONFINEMENT
+OPERATION
+ION BEAMS
+COUPLING
+POWER
+BEAM OPTICS
+RELAXATION
+ION SOURCES
+COMPUTERIZED SIMULATION
+M CODES
+EXPERIMENTAL DATA
+ANODES
+CATHODES
+PROTONS
+THEORETICAL DATA
+PROTON BEAMS
+BEAM PRODUCTION
+EFFICIENCY
+ELECTROMAGNETIC RADIATION

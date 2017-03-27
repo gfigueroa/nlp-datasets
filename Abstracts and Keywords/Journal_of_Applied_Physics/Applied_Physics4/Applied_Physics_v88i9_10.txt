@@ -1,0 +1,14 @@
+As-cut semiconducting InP wafers were submitted to Fe diffusion at high temperature. The subsequent electrical characterization showed that the wafers became semi-insulating, with resistivities well above 107
+©
+cm and mobilities in the range of 30004000cm2/V
+s. In this article a study on the uniformity of Fe-diffused semi-insulating InP wafers is presented. The photoconductivity, photoluminescence and resistivity mapping showed that the short range uniformity is improved with respect to typical as-grown Fe-doped InP. However, sometimes the wafers exhibit long range gradients of resistivity and luminescence intensity which are believed to be associated to temperature gradients inside the annealing furnace. © 2000 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+photoconductivity
+photoluminescence
+electrical resistivity
+annealing
+carrier mobility
+iron
+diffusion

@@ -1,0 +1,9 @@
+We report the effects of annealing on the performance of hybrid photovoltaic (PV) cells containing poly(3-hexylthiophene) (P3HT) coated onto TiO2/Sn doped In2O3 (ITO) and ITO substrates. In the optimized device, which exhibits a higher efficiency, the backbone axes of the P3HT chains were found to lie within the substrate plane, their conjugated planes are slightly tilted, and their side chains are substantially tilted. The carboxylate group is attached via bidentate or bridging coordination to the TiO2 surface and enables photoinduced charge transfer between TiO2 and P3HT. The observed large quenching (with excitation at 488 nm) and enhanced emission (with excitation at 325 nm) indicates that efficient Förster resonance energy transfer occurs between TiO2 and P3HT. Thus, the main influences on the high efficiency of the hybrid PV cells are the photon-mediated electronic transition and the photoinduced charge transfer.
+
+annealing
+charge exchange
+polymers
+quenching (thermal)
+semiconductor materials
+solar cells
+titanium compounds

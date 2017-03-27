@@ -1,0 +1,7 @@
+In this paper, the performances of a short-circuited microstrip antenna and a proximity coupled microstrip antenna are compared at the frequency bands of wireless communications using global positioning system (GPS) and Bluetooth. Both the antennas are able to generate dual frequencies. Simulated results are verified by measurement.
+
+Bluetooth
+GPS
+Microstrip antenna
+proximity coupled
+short-circuited

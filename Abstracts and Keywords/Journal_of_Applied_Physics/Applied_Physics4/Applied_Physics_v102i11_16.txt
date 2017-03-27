@@ -1,0 +1,6 @@
+The benzene ring vibrational motion in poly(phenylenevinylene) has been studied by nuclear magnetic resonance (NMR) measurements. By employing a simple model of the out-of-plane phenylene oscillation giving rise to a change in the dipolar splitting of the NMR line shape, the oscillation angle of the benzene ring was obtained as a function of temperature.
+
+conducting polymers
+NMR line breadth
+photoluminescence
+vibrational states

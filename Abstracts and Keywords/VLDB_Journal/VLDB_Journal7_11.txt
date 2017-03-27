@@ -1,0 +1,7 @@
+Semantic integrity constraints are used for enforcing the integrity of the database as well as for improving the efficiency of the database utilization. Although semantic integrity constraints are usually much more static as compared to the data itself, changes in the data semantics may necessitate corresponding changes in the constraint base. In this paper we address the problems related with maintaining a consistent and non-redundant set of constraints satisfied by the database in the case of updates to the constraint base. We consider implication constraints as semantic integrity constraints. The constraints are represented as conjunctions of inequalities. We present a methodology to determine whether a constraint is redundant or contradictory with respect to a set of constraints. The methodology is based on the partitioning of the constraint base which improves the efficiency of algorithms that check whether a constraint is redundant or contradictory with respect to a constraint base.
+
+Implication integrity constraints
+Integrity constraints
+Partitioning
+Redundancy
+Satisfiability

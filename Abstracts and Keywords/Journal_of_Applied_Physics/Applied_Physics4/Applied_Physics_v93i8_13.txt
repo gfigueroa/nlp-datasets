@@ -1,0 +1,6 @@
+The standard nonequilibrium theory of noise in ideal bolometers and microcalorimeters fails to predict the performance of real devices due to additional effects that become important at low temperature. In this paper we extend the theory to include the most important of these effects and find that the performance of microcalorimeters operating at 60 mK can be quantitatively predicted. We give a simple method for doing the necessary calculations, borrowing the block diagram formalism from electronic control theory. © 2003 American Institute of Physics. 
+
+bolometers
+calorimeters
+noise
+control theory

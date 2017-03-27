@@ -1,0 +1,12 @@
+In this paper it is demonstrated that a modified coventional current density expression can be employed to model tunnel currents and to numerically fit observed characteristics. A derivation of the current density expression is presented along with numerical simulations. A detailed account is given of the numerical techniques used and an explicit comparison with previously published experimental characteristics presented. We point out that part of the experimental situation is not accounted for within the model. This gives rise to the only fitting parameter used, which physically represents a resistance in series with the resonant structure. The series resistance has important effects upon the observed characteristics, explaining the different types of published characteristics and the disappointing peaktovalley ratios. The effect upon the peaktovalley ratio of the series resistance means that extensive numerical calculations would be premature; therefore, a qualitative analysis is undertaken to identify the desired properties of a resonant tunneling potential in order to assist in the design of future resonant tunneling systems. Finally, the hot electron spectrometer is considered. The work indicates that this spectrometer will only yield meaningful results if extreme care is taken in its operation and interpreting the results obtained.
+
+TUNNEL EFFECT
+HETEROSTRUCTURES
+HOT ELECTRONS
+CURRENT DENSITY
+OPERATION
+ELECTRON SPECTROMETERS
+ELECTRIC CONDUCTIVITY
+MATHEMATICAL MODELS
+DESIGN
+SIMULATION

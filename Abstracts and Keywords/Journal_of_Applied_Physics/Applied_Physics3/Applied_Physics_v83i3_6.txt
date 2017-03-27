@@ -1,0 +1,8 @@
+In order to reveal the band structure of cubic boron phosphide a photo- and electroreflectance study has been undertaken. Towards this end, epitaxial thin films of this IIIV semiconductor are grown on silicon (100) by chemical vapor deposition. Both modulated reflectance techniques reveal a critical point at 4.25 eV. The value of this first direct transition is more than 1 eV lower than previous reports, which are based on transmission spectra. © 1998 American Institute of Physics.
+
+boron compounds
+III-V semiconductors
+semiconductor epitaxial layers
+electroreflectance
+photoreflectance
+band structure

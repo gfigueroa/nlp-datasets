@@ -1,0 +1,14 @@
+The mobility and the sheet electron density of two-dimensional electron gas in AlSbInAs quantum well structures optimized for device applications were measured in the temperature range 4.2K&lt;T&lt;90K. A maximum electron mobility ¼=3.24×105 was found at 4.2K at a sheet electron density n2D=1.1×1012cm2. Measurements of the integral quantum Hall and Shubnikov-de Haas oscillations in the temperature range 0.079K were also carried out to obtain additional information on the characteristics of the two-dimensional electron gas. The electron effective mass m* and the effective electron g-factor g* were determined from these measurements and found to be, respectively, 0.032m0 and 14.6. The latter is in good agreement with the recent experimental data obtained from cyclotron resonance and titled magnetic-field experiments.
+
+aluminium compounds
+indium compounds
+III-V semiconductors
+semiconductor quantum wells
+two-dimensional electron gas
+electron mobility
+electron density
+quantum Hall effect
+Shubnikov-de Haas effect
+effective mass
+g-factor
+Hall mobility

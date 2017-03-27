@@ -1,0 +1,6 @@
+Conditional Value-at-Risk is widely applied in finance, which can measure the expected profit that is below mean profit of quantile &#x03B7;(0 &lt;; &#x03B7; &#x2264; 1). The paper uses an extended newsvendor model in this framework to study the retailer's choice in the event of the retailer who charges underage loss or overage penalty cost, discusses the impact brought by overage penalty and examines how the degree of risk aversion affects retailer's order quantity under this situation.
+
+CVaR
+Newsvendor model
+overage penalty
+supply chain management

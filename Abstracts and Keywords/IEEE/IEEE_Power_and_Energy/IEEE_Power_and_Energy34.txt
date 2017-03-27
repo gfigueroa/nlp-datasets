@@ -1,0 +1,7 @@
+One of the costs associated with integrating wind generation into a power system is the cost of redispatching the system in real-time due to day-ahead wind resource forecast errors. One possible way of reducing these redispatch costs is to introduce demand response in the form of real-time pricing (RTP), which could allow electricity demand to respond to actual real-time wind resource availability using price signals. A day-ahead unit commitment model with day-ahead wind forecasts and a real-time dispatch model with actual wind resource availability is used to estimate system operations in a high wind penetration scenario. System operations are compared to a perfect foresight benchmark, in which actual wind resource availability is known day-ahead. The results show that wind integration costs with fixed demands can be high, both due to real-time redispatch costs and lost load. It is demonstrated that introducing RTP can reduce redispatch costs and eliminate loss of load events. Finally, social surplus with wind generation and RTP is compared to a system with neither and the results demonstrate that introducing wind and RTP into a market can result in superadditive surplus gains.
+
+Power system economics
+real-time pricing
+unit commitment
+wind forecast errors
+wind power generation

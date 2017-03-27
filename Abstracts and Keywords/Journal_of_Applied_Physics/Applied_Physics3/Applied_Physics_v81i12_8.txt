@@ -1,0 +1,6 @@
+In a recent article [J. Appl. Phys. 80, 1678 (1996)] Aksenov et al. reported on electron paramagnetic resonance (EPR) studies in ²-FeSi2 crystals grown by chemical vapor transport. They did not perform a rigorous measurement of the angular variation of the EPR line positions. Consequently, there has been a drastic loss of information and most of their conclusions turn out to be erroneous. It is shown that the anisotropic signals (Ai,Bi) do not arise from spin triplet states but from centers with S=1/2 and their origins are not Ni2+ ions but Ni+ (Ai) and Cr (Bi) ions substituting for Fe on one of its two inequivalent lattice sites. The analysis of the line structure of the isotropic signal (C) is incorrect and hence, the structure cannot be attributed to a ligand hyperfine interaction with four iron atoms. Finally, the determination of an acceptor activation energy from the temperature dependence of the C signal is not justified since no correction for the EPR intensity dependence due to the thermal population difference of the Zeeman levels was included. © 1997 American Institute of Physics. 
+
+iron compounds
+EPR line breadth
+triplet state
+Zeeman effect

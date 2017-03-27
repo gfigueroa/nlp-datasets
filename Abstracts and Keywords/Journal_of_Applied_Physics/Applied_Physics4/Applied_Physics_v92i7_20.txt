@@ -1,0 +1,7 @@
+A two-dimensional (2D) theory of thermal wave reconstruction is presented. By using a pulse spectrum technique and a Newton-like iteration method, the 2D inverse problem is expressed by a 2D Fredholm integral equation of the first kind. Further, the integral equation is approximated by a set of ill-posed linear algebraic equations, and a regularization method is introduced to overcome the singularity of the ill-posed linear algebraic equations. Finally, an error function is defined to choose the regularization parameter automatically to converge the iteration rapidly. The important developments in 2D inverse problem, compared with the one-dimensional problem, are that a line source is used instead of the source with a large cross section, and a finite difference method is adopted for numerical solution of the 2D heat equation. Numerical simulations demonstrate that this approach is effective and stable even with 5% random noise disturbance in the signal. © 2002 American Institute of Physics. 
+
+photothermal effects
+thermal conductivity measurement
+Newton method
+Fredholm integral equations
+finite difference methods

@@ -1,0 +1,17 @@
+ZnO films were synthesized on GaAs substrates at different growth conditions by pulse laser deposition. High-purity (99.999%) oxygen was used as the ambient gas. The pressure of the ambient oxygen gas for ZnO film growth was varied from 20 to 50 mTorr, and the growth temperature from 300 to 450 °C. ZnO films showed very strong bound exciton peaks located between 3.37 and 3.35 eV. The full width at half maximum of the bound exciton peak is less than 5 meV. These results indicate ZnO films on GaAs substrates can be used for optical devices such as light-emitting diodes. The other significant properties of textured ZnO films on GaAs substrates are described. © 2000 American Institute of Physics. 
+
+pulsed laser deposition
+semiconductor growth
+II-VI semiconductors
+zinc compounds
+spectral line breadth
+semiconductor thin films
+photoluminescence
+ZINC OXIDES
+THIN FILMS
+EXCITONS
+GALLIUM ARSENIDES
+LIGHT EMITTING DIODES
+TEXTURE
+X-RAY DIFFRACTION
+STRUCTURAL CHEMICAL ANALYSIS

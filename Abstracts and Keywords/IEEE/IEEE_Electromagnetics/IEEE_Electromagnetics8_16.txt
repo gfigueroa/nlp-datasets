@@ -1,0 +1,8 @@
+In this paper, the effects of 2-D photonic crystal substrate on the performance of a rectangular microstrip patch antenna at terahertz frequency (0.4-0.8THz) has been investigated. The photonic substrate has been used to enhance the gain and radiation efficiency of the proposed antenna. The gain and radiation efficiency of this antenna at 600 GHz is about 13dB and 83.02%, respectively. This antenna resonates at 575 and 741GHz. For the comparison of the gain in two principle planes at 600 GHz, the structure has been simulated by two different simulators CST Microwave Studio and Ansoft HFSS.
+
+Gain
+metamaterial
+microstrip patch antenna
+photonic crystal
+radiation efficiency
+terahertz spectrum

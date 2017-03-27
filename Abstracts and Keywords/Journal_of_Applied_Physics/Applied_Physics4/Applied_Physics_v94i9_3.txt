@@ -1,0 +1,14 @@
+The effect of high-energy electron irradiation on poly(vinylidene fluoride-trifluoroethylene) 80/20 mol
+% copolymers has been studied in a broad dose ranging from 0 to 120 Mrad. It was found that the copolymers transformed from a normal ferroelectric to a relaxor ferroelectric phase (RFE) at high electron doses. For copolymers irradiated at the dose above 90 Mrad, they exhibited typical dielectric behavior of RFE, e.g., whose dielectric constant peaks show strong frequency dispersion. X-ray diffraction patterns showed that the irradiation induced a coexistence of the polar and nonpolar phase in the crystalline regions, leading to nanosized coherent regions in the irradiated copolymer films. Differential scanning calorimetery and polarization hysteresis loops also revealed the reduction in the crystallinity and stability of the ferroelectric state, reflecting significant changes in the ferroelectric-to-paraelectric phase transition due to the effect of high-energy electron irradiation. © 2003 American Institute of Physics. 
+
+polymer blends
+polymer films
+relaxor ferroelectrics
+permittivity
+dielectric relaxation
+dielectric hysteresis
+differential scanning calorimetry
+X-ray diffraction
+ferroelectric transitions
+electron beam effects
+polymer structure

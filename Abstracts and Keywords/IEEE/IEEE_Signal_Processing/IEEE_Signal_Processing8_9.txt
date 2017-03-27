@@ -1,0 +1,7 @@
+This paper describes a new low-complexity full-band (20 kHz) audio coding algorithm which has been recently standardized by ITU-T as Recommendation G.719. The algorithm is designed to provide 20 Hz - 20 kHz audio bandwidth using a 48 kHz sample rate, operating at 32 - 128 kbps. This codec features very high audio quality and low computational complexity and is suitable for use in applications such as videoconferencing, teleconferencing, and streaming audio over the Internet. Subjective test results from the optimization/characterization phase of G.719 are also presented in the paper.
+
+Audio coding
+adaptive time-frequency transform
+fast lattice vector quantization
+full-band
+low complexity

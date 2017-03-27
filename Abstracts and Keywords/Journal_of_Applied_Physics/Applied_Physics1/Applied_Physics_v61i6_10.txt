@@ -1,0 +1,8 @@
+In this paper, additional data for the effective dipole moment of chains of conducting particles are presented. A more accurate linearregression analysis of the data is presented. The theoretical result for a chain of four particles is provided. In addition, an error in the theoretical expression for the moment of a chain of three conducting spheres is corrected.
+
+CHAINS
+PARTICULATES
+REGRESSION ANALYSIS
+ELECTRIC DIPOLE MOMENTS
+ONEDIMENSIONAL CALCULATIONS
+SPHERES

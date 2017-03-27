@@ -1,0 +1,12 @@
+Measurements of the dynamic tensile strength of aluminum and magnesium have been carried out by investigations of the spall phenomena over a wide range of temperatures, shockwave intensities, and load durations. Freesurface velocity profiles were recorded with VISAR and used to provide the spall strength measurements. The initial temperature of samples was varied from room temperature to near the melting point. The peak compressive pressure in the shock waves was varied from 5 to 50 GPa for aluminum and from 2 to 10 GPa for magnesium. The load duration was varied by more than one order of magnitude. The freesurface velocity measurements showed a precipitous drop in the spall strength of preheated samples as temperatures approached the melting point. No significant influence of the peak pressure on the spall strength was observed. The strainrate dependencies of the spall strength could be represented as power functions with a power index of 0.060 for aluminum and 0.072 for magnesium. Unexpectedly large amplitudes for the Hugoniot elastic limit of both aluminum and magnesium were observed at temperatures approaching the melting point. © 1996 American Institute of Physics. 
+
+HUGONIOTS
+ALUMINIUM
+MAGNESIUM
+TENSILE PROPERTIES
+SHOCK WAVES
+FRACTURE PROPERTIES
+TEMPERATURE DEPENDENCE
+VERY HIGH PRESSURE
+PRESSURE DEPENDENCE
+ELASTICITY

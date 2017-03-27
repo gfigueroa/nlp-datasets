@@ -1,0 +1,6 @@
+Reconstructing high resolution images from compressed low resolution video is a hot issue now. In many real applications, such as surveillance users often only get low quality videos which are hard to identify interested objects, super resolution restoration is a effective tool to enhance the quality of images. Quantization loss is the major cause for losing images details, this paper propose an new method to estimate the quantization noise in frequency domain using Laplace model for DCT coefficients, then the distribution parameter of Laplace is treated as variable simultaneously iterated with the object high resolution images. Experiments indicate that this algorithm in compressed video restoration details due to quantization noise have better performance than others.
+
+DCT domain
+Super resolution
+coefficients estimation
+compressed video

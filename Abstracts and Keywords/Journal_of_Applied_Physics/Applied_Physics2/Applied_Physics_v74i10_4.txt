@@ -1,0 +1,12 @@
+We studied the variation of the inplane lattice constant of Co layers as a function of layer thickness in Co/Au superlattices. The samples were grown at various temperatures by molecularbeam epitaxy and were investigated using reflection highenergy electron diffraction. It was found that the strains of Co layers are larger in a sample grown at a higher temperature. It might be thought that larger strains possibly introduce larger magnetoelastic anisotropy, contributing to the perpendicular magnetic anisotropy of the superlattices. However, magnetization measurements show that the magnetic anisotropy energy is smaller in the sample grown at a higher temperature. Possible causes of this discrepancy are discussed.
+
+COBALT
+GOLD
+SUPERLATTICES
+MOLECULAR BEAM EPITAXY
+MAGNETIC ANISOTROPY
+STRAINS
+RHEED
+MAGNETOELASTIC EFFECTS
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 273400 K

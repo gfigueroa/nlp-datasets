@@ -1,0 +1,10 @@
+An efficient algorithm for computing temperature profiles of pulsed laser heating of thin metal films was developed, based on a semianalytical approach when temperaturedependent absorptance and arbitrary laser pulse wave forms can be realistically modeled. Frequency doubled Nd:YAG laser heating of thin aluminum films on glass was used as a test case. For film thickness ranging from 35 to 300 nm, the present algorithm demonstrates far superior accuracy and speed than conventional finite difference approaches.
+
+THIN FILMS
+ALUMINIUM
+LASERRADIATION HEATING
+ALGORITHMS
+TEMPERATURE DISTRIBUTION
+PULSED LASERS
+THICKNESS
+HEAT TRANSFER

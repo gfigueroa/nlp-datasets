@@ -1,0 +1,6 @@
+The cruising scope of the humanoid robot is conspicuously restrained by the heavy weight and the discharge instability of the lithium cell structure. Generally speaking, most of the key performance indices (KPI) of the state of discharge (SOD) can be satisfied by the series-connected cells with traditional gas-gauge if the current is small enough. However, the reliable cycle-lifespan would be shortened and KPI are no longer assured whenever the cell-inbalance phenomenon occurs under the heavy-duty discharge conditions. This paper is aimed to develop an inexpensive, lightweight, durable, reliable, and predictable cell-balance algorithm (ICBA) with parallel-connected circuit to stabilize the respective cells and protect the battery management system (BMS). A PC-based graphic-user interface (GUI) will be implemented to detect the on-line SOD and evaluate KPI for the existed cell-group. Finally, computer simulations and the SOD experiment with data acquisition are carefully examined and successfully demonstrated the advantages of the proposed algorithm.
+
+Battery Management System
+Humanoid Robot
+Intelligent Cell-balance Algorithm
+State-of-discharge

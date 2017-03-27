@@ -1,0 +1,13 @@
+The low-density plasma flow in an axial magnetic field to a disk-shaped anode in a vacuum arc was studied theoretically using a two-dimensional model. The plasma expansion was modeled using the sourceless steady-state hydrodynamic equations, where the free boundary of the plasma was determined by a self-consistent solution of the gas-dynamic and electrical current equations. The anode was modeled as a current and plasma collector, which does not influence the plasma flow field. Magnetic forces from both the azimuthal self-magnetic field, and the imposed axial magnetic field were taken into account. It was found that the self-magnetic field does not substantially influence either the plasma jet shape, density, velocity, or the current density distribution for arc currents I } 200
+A. On the other hand, the plasma jet angle (±0) at the starting plane and the radial plasma density gradient force in the expansion region do have a strong influence on the plasma and current flow. The mass and current flow in a 500 A arc are compressed in the near axis region, leading to an increase in the plasma and axial current density by a factor of 1.5 at a distance of about two plasma jet radii from the starting plane. The calculated arc currentvoltage characteristics agree qualitatively with experiments on arc behavior in an axial magnetic field. © 1998 American Institute of Physics. 
+
+plasma flow
+plasma transport processes
+plasma simulation
+arcs (electric)
+PLASMA EXPANSION
+MAGNETIC FIELDS
+ELECTRIC ARCS
+HYDRODYNAMICS
+PLASMA JETS
+PLASMA DENSITY

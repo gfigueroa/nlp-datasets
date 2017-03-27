@@ -1,0 +1,10 @@
+Theoretically the choice of GRP/FRP (fiberglass reinforced polyester) for the application of a cable tray is the ideal material for an offshore application, but Aluminum alloys (Al. alloys) is cheaper at present, and stainless steel is part of the common habits... In reality each materials has its strengths and weaknesses and this may be helpful for operators and actors to have a broad overview of those for each materials. Moreover, writing a specification that will allow competition of materials to take place however the raw materials costs fluctuates, is another challenge : what could be the ideal way of securing fare competition without compromise for the quality of the installations?
+
+Cable trays in Oil &amp; Gas
+EMC protection
+corrosion resistance
+ease and costs of installation
+electric insulation
+fire
+prices
+weight savings

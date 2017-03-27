@@ -1,0 +1,10 @@
+The heterostructures Hg1xCdxTe/PbS (x=0.2) and their electrophysical and optical characteristics are investigated. Some electrophysical parameters are determined from IU and CV measurements. 	 	
+
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+TERNARY ALLOYS
+HETEROSTRUCTURES
+OPTICAL PROPERTIES
+IV CHARACTERISTIC
+CV CHARACTERISTIC
+TEMPERATURE RANGE 65273 K

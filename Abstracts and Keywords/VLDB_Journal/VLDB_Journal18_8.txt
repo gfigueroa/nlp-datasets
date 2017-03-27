@@ -1,0 +1,5 @@
+We present a decomposition-based approach to managing probabilistic information. We introduce world-set decompositions (WSDs), a space-efficient and complete representation system for finite sets of worlds. We study the problem of efficiently evaluating relational algebra queries on world-sets represented by WSDs. We also evaluate our technique experimentally in a large census data scenario and show that it is both scalable and efficient.
+
+Incomplete information
+Uncertain and probabilistic databases
+Query processing

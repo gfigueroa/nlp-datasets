@@ -1,0 +1,7 @@
+To avoid unexpected equipment failures and obtain higher accuracy in diagnostic for the predictive maintenance of induction motors, on-line health monitoring system plays an important role to improve the system reliability and availability. Among different techniques of fault detection, work on motor current signature analysis by using only stator current spectra has been well documented. In addition, the recent developments in MEMS technology shows increasing trend in integrating vibration analysis for fault diagnostic. Vibration-based detection by using the accelerometer is gaining popularity due to high reliability, low power consumption, and low cost. This paper presents the study of vibration due to the rotor imbalance. The technique of vibration detection and observation of vibration signal in the 3-phase induction machine is studied. A novel health monitoring system of electric machine based on wireless sensor network (ZigBee&#x2122;/IEEE802.15.4 Standard) is proposed and developed in this paper. Experimental results of the proposed severity detection technique of rotor vibration under different levels of imbalance conditions are investigated and discussed.
+
+ZigBee
+health monitoring system
+induction motors
+vibration detection
+wireless sensor network

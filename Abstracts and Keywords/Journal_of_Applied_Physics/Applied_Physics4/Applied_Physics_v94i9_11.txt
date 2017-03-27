@@ -1,0 +1,10 @@
+A comparative study was performed on the junction formation behavior of boron-doped p-type Czochralski (Cz) and float zone (Fz) Si wafers, which differed mainly in interstitial oxygen concentration, upon 3 MeV proton irradiation with fluences of up to 2×1015	cm2. The region around the projected range in both the Cz and Fz Si wafers converted its conduction type to n type at fluences between 1×1013 and 3×1013	cm2, which is most probably due to the formation of hydrogen-related donors. The main difference between the Cz and Fz Si wafers was in the susceptibility of the proton track region to type conversion. The proton track region of the Cz Si wafer converted to n type at fluence between 1×1013 and 3×1013	cm2, whereas that of the Fz Si wafer showed only an increase in resistivity without any type conversion as the fluence increased up to 2×1015	cm2, which was attributed to oxygen-related donor formation in the case of the Cz Si wafer. The present results are discussed with respect to the radiation-induced failure mechanisms of n+/p/p+-structured Si space solar cells based on boron-doped Cz and Fz Si. © 2003 American Institute of Physics.
+
+silicon
+elemental semiconductors
+boron
+proton effects
+zone melting
+crystal growth from melt
+interstitials
+electrical resistivity

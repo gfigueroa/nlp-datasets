@@ -1,0 +1,14 @@
+Pure Si(100) and Si1xGex (x&lt;0.20) layers, epitaxially grown on Si(100) substrates, were implanted at room temperature with Sb+ ions at an energy of 100 keV and a dose of 1013 cm2, which was found to be below the critical value for amorphization. Spreading resistance profiling and Halleffect measurements show that a ptype region was formed in the Si1xGex alloy layers upon annealing at 500	°C, in spite of the fact that the implanted ion (Sb) is a donor. Only highertemperature anneals transformed the implanted layer into the expected ntype doping. A ptype region was also formed following Xe implantation, indicating that these results can be attributed to the radiation damage without dependence on the electronic structure of the ion. This phenomenon does not exist at all in pure Si. Rutherford backscattering (channeling) measurements show that the amount of defects formed in the Si1xGex alloy layer during the implantation process increased with the Ge content, in good agreement with Monte Carlo simulations. These results can explain the observation that the level of the ptype doping increased with the Ge content in the alloys.
+
+GERMANIUM SILICIDES
+ION IMPLANTATION
+ANTIMONY IONS
+ELECTRIC CONDUCTIVITY
+EPITAXIAL LAYERS
+KEV RANGE 1001000
+HALL EFFECT
+ANNEALING
+CRYSTAL DOPING
+RBS
+MONTE CARLO METHOD
+CRYSTAL DEFECTS

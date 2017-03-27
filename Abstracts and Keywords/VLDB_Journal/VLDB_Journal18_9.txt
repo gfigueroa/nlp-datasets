@@ -1,0 +1,7 @@
+Various known models of probabilistic XML can be represented as instantiations of the abstract notion of p-documents. In addition to ordinary nodes, p-documents have distributional nodes that specify the possible worlds and their probabilistic distribution. Particular families of p-documents are determined by the types of distributional nodes that can be used as well as by the structural constraints on the placement of those nodes in a p-document. Some of the resulting families provide natural extensions and combinations of previously studied probabilistic XML models. The focus of the paper is on the expressive power of families of p-documents. In particular, two main issues are studied. The first is the ability to (efficiently) translate a given p-document of one family into another family. The second is closure under updates, namely, the ability to (efficiently) represent the result of updating the instances of a p-document of a given family as another p-document of that family. For both issues, we distinguish two variants corresponding to value-based and object-based semantics of p-documents.
+
+XML
+Probabilistic databases
+Probabilistic XML
+Expressiveness
+Updates

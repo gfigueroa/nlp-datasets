@@ -1,0 +1,7 @@
+We have studied the bias stressing voltage dependence of the negative bias temperature instability (NBTI) in p-channel field effect transistors with nominal SiON/HfSiON gate stacks. Measurements were made at the temperature of 448 K. Three different methods were used to extract device parameters such as the NBTI induced threshold voltage shifts ”Vth. One of the methods provided access to all of the NBTI induced trapped charge (both fast and slow relaxing) while the other two methods necessarily determined only the slow trap component. Assuming a model of the form ”Vth = At±, where t is the bias stressing time, we determine that both A and ± are bias voltage dependent for the data from all three extraction methods. Furthermore, slow and slow plus fast trap values were significantly different, suggesting that a unique set of A and ± values cannot be used to describe all the traps. This result raises concerns about protocols used with NBTI data to determine the reliability lifetime.
+
+hafnium compounds
+MOSFET
+semiconductor device reliability
+silicon compounds
+stability

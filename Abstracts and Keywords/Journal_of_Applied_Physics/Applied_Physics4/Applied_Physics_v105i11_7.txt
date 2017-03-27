@@ -1,0 +1,8 @@
+A fully coupled, nonlinear model is presented that characterizes the three-dimensional (3D) strain and magnetization response to magnetic field at constant stress in cubic magnetostrictive materials. A multiscale thermodynamic approach is taken which accounts for nonlinear anisotropy, material texture, and hysteresis effects. The model is validated with measurements of textured polycrystalline Galfenol. The model provides an efficient framework for characterization, design, and control of Galfenol (FeGa) devices with 3D functionality subjected to combined magnetic field and stress loading.
+
+gallium alloys
+iron alloys
+magnetic hysteresis
+magnetostriction
+texture
+thermodynamics

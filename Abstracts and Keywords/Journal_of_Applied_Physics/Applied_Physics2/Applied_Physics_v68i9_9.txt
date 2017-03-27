@@ -1,0 +1,16 @@
+Optically transparent, freestanding single crystals of the hightemperature superconductor Bi2Sr2CaCu2O8 have been prepared with a typical size of a×b×c=1 mm×1 mm×1500 Å. The thickness of the samples has been determined by xray transmission measurements and was found to be uniform to within a lattice spacing. Transmission electron microscopy and diffraction revealed a pseudotetragonal lattice with a twinning free, incommensurate superstructure. Xray microanalysis shows that the composition of the sample is homogeneous. Electrical resistivity and magnetic susceptibility measurements indicate that the crystals are good quality superconductors.
+
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+TRANSITION TEMPERATURE
+SUPERCONDUCTIVITY
+SUPERCONDUCTING FILMS
+SAMPLE PREPARATION
+MAGNETIC SUSCEPTIBILITY
+NSLS
+HEAT TREATMENTS
+DEPOSITION
+HIGHTC SUPERCONDUCTORS
+MONOCRYSTALS

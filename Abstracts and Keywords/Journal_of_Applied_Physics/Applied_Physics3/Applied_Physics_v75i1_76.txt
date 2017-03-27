@@ -1,0 +1,14 @@
+PbSrS/PbS doubleheterostructure and multiple quantum well lasers were prepared by hot wall epitaxy, and the dependence of the properties on the cladding layer band gap and active layer thickness was investigated. Output photon energy of the doubleheterostructure laser shifted to the high energy side owing to the strain between PbSrS cladding and the PbS active layers. The shift decreased by increasing the PbS active layer thickness. It was estimated that the lattice mismatch between cladding and the active layers is accommodated by the strain when the PbS active layer thickness is as thin as 0.5 ¼m.
+
+SEMICONDUCTOR LASERS
+FABRICATION
+LEAD SELENIDES
+STRONTIUM SELENIDES
+TERNARY COMPOUNDS
+EPITAXY
+HETEROSTRUCTURES
+QUANTUM WELLS
+PHOTON EMISSION
+STRAINS
+SPECTRAL SHIFT
+THICKNESS

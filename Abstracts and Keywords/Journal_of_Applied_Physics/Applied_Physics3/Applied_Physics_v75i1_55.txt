@@ -1,0 +1,13 @@
+The decrease in efficiency of ZnS:Ag,Al phosphor powders under high cathoderay excitation densities has been investigated in a wide range of Ag concentrations (181560 ppm) with the Al/Ag ratio fixed at 1.5. Two distinct regions have been observed in this saturation behavior. For low Ag concentrations up to some 100 ppm (mol) saturation is due to activator groundstate depletion, which manifests itself in a concentration dependence of saturation. For higher doping levels saturation becomes independent on the Ag concentration. Saturation was found to be temperature independent between 83 and 303 K. Diffuse reflectance measurements revealed an onset of optical absorption near 2.8 eV due to Ag incorporation, which continuously increased with Ag concentration giving no evidence for a change in activator incorporation around 100 ppm. Varying the Al/Ag ratio up to 56.2 had no influence on the saturation behavior, while the efficiency at low excitation densities showed a considerable decrease which could not be reconciled with opticalabsorption losses, only. The saturation at high Ag concentration is tentatively attributed to a nonradiative Auger process. The probability of different types of Auger processes is discussed.
+
+ZINC SULFIDES
+CATHODOLUMINESCENCE
+SILVER ADDITIONS
+ALUMINIUM ADDITIONS
+SATURATION
+POWDERS
+TEMPERATURE RANGE 65273 K
+TEMPERATURE RANGE 273400 K
+CONCENTRATION RATIO
+EFFICIENCY
+DOPED MATERIALS

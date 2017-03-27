@@ -1,0 +1,8 @@
+The magnetic field (05 T) and temperature (10300 K) dependence of terahertz radiation from InAs surfaces excited by femtosecond laser pulses has been studied in detail. The radiation intensity is strongly enhanced under the magnetic field and at low temperatures, which is explained based on simple classical motion of photoexcited electrons under a built-in surface electric field and Lorentz force undergoing scattering. The radiation spectra are broad even at low temperatures under high magnetic fields, which suggests that strong electron scattering mechanisms exist for photoexcited electrons at InAs surfaces. © 2001 American Institute of Physics. 
+
+indium compounds
+III-V semiconductors
+time resolved spectra
+photoconductivity
+surface conductivity
+magneto-optical effects

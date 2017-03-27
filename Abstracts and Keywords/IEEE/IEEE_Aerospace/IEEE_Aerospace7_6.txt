@@ -1,0 +1,9 @@
+In this paper, we report the results of a study characterizing the channel error environment provided by Lucent WaveLAN, a commercial product designed for 2Mbps inbuilding wireless networks. We evaluate the effects of signal strength attenuation due to distance and obstacles, on packet loss rate, burstiness of packet loss, and packet round trip time (RTT). The results show that the packet loss rate and burstiness of packet of this physical layer are comparable to those of wired links if we maintain good signal-to-noise ratio (SNR) (say, above 20dB). The packet RTT variations, however, show different values on the wireless network than those of wired network, which result from additional time taken by the retransmission based error control process in the physical layer. From the results of packet RTT variation, it is seen that the packet delay jitters should be taken into consideration in designing real time or interactive applications on the wireless network.
+
+Wireless LAN
+burstiness of packet loss
+indoor fading channel
+large scale path loss
+packet loss rate
+packet round-trip-time
+signal-to-noise ratio

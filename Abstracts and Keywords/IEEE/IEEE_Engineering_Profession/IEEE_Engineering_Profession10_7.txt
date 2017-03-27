@@ -1,0 +1,11 @@
+There is a growing demand in the telecom sector for economic models that allow stakeholders to calculate the value of radio spectrum. This increasing necessity is due to growth of both spectrum demand and offer. On the demand side, soaring mobile broadband has made mobile operators demand additional spectrum to improve their network efficiencies. Regarding the offer side, technology neutrality (refarming), better spectrum usage (digital dividend) and authorization of new bands (2,6 GHz) make available a significant spectrum bandwidth for mobile communications. In this article it will be shown how bottom-up long run incremental cost (LRIC) models may help to calculate the economic value of spectrum in terms of improvement of mobile network efficiency, either as a stand-alone tool or integrated in more complex economic models. Importance of short run effects of changes in spectrum allocation are remarked using a case study on 900 MHz band refarming in a typical mobile operator.
+
+Cost
+LRIC
+bottom-up
+digital dividend
+efficiency
+mobile broadband
+modeling
+refarming
+spectrum value

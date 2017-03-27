@@ -1,0 +1,11 @@
+We have examined experimentally and theoretically the resonance frequency of a lead zirconate titanate (PZT)/brass unimorph disk transducer with a water (ice) layer on the brass surface. We showed that the flexural resonance frequency decreased with the presence of a water layer and the decrease in resonance frequency increased with an increasing water amount. Upon lowering the temperature, the freezing transition of the deposited water layer was detected when the resonance frequency of the transducer increased abruptly at the freezing temperature. In contrast to water, an ice layer increased the resonance frequency and the increase in the resonance frequency increased with the ice layer thickness. Theoretically, an analytic expression for the flexural resonance frequency of a unimorph transducer in the presence of an ice (water) layer on the brass surface was obtained in terms of the Youngs moduli, densities, and thickness of the PZT, brass, and ice (water) layers. The theoretical predictions were shown to agree with the experimental results. © 2002 American Institute of Physics. 
+
+lead compounds
+brass
+piezoelectric transducers
+piezoelectric materials
+piezoelectric thin films
+ice
+freezing
+bending
+Young's modulus

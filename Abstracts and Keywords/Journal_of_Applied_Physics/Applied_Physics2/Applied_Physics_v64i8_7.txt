@@ -1,0 +1,9 @@
+A new method for determining quickly and nondestructively the complex dielectric constant at microwave frequencies was applied to poly(ethylene terephthalate) (PET) films. The dielectric loss õ3 at 4.0 GHz decreased with increasing degree of crystallinity, indicating that it affects molecular motions in the amorphous region. From the angular dependence of õ3 for the uniaxially stretched PET film dielectric anisotropy was detected, showing õ3 to be larger in the transverse direction (TD) than in the machine direction (MD) or draw direction. The ratio of õ3 in the TD to MD increased with increasing draw ratio. The PET molecules in the amorphous region are considered to be oriented mainly in the MD. This anisotropy was considered to result from a change in dipole moment due to torsional motions of the ethylene glycol unit around the main chain in the amorphous region. Values of õ3max/õ3min were found to be useful as a measure of the degree of orientation, where õ3max and õ3min denote the maximum and minimum dielectric losses in the angular dependence, respectively. The amorphous orientation function f obtained from the angular dependence of õ3 at 4.0 GHz increases from 0 to 0.04 with increasing draw ratio from 1.0 to 3.6. It was shown that the dielectric anisotropy at microwave frequencies gave a probe for studying the molecular orientation in the amorphous region.
+
+DIELECTRIC PROPERTIES
+NONDESTRUCTIVE TESTING
+MICROWAVE RADIATION
+CRYSTAL ORIENTATION
+POLYETHYLENES
+TEREPHTHALATES
+ANISOTROPY

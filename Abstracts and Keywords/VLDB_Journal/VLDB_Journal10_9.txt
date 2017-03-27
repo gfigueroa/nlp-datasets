@@ -1,0 +1,6 @@
+The correctness of the data managed by database systems is vital to any application that utilizes data for business, research, and decision-making purposes. To guard databases against erroneous data not reflecting real-world data or business rules, semantic integrity constraints can be specified during database design. Current commercial database management systems provide various means to implement mechanisms to enforce semantic integrity constraints at database run-time.In this paper, we give an overview of the semantic integrity support in the most recent SQL-standard SQL:1999, and we show to what extent the different concepts and language constructs proposed in this standard can be found in major commercial (object-)relational database management systems. In addition, we discuss general design guidelines that point out how the semantic integrity features provided by these systems should be utilized in order to implement an effective integrity enforcing subsystem for a database.
+
+Constraint enforcement
+Object-relational databases
+SQL:1999
+Semantic integrity constraints

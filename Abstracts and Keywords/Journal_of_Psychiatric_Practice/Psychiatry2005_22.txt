@@ -1,0 +1,13 @@
+Highly variable plasma concentrations are found in patients receiving the same dose of clozapine. Therefore, rational dose adjustment of clozapine that is guided by therapeutic drug monitoring (TDM) can improve efficacy while reducing risk of toxicity. As a background to the discussion of the use of TDM for clozapine, the pharmacodynamics and pathways of clozapine biotransformation are first reviewed, in particular the role of the primary enzymes involved. These are CYP1A2, the primary enzyme involved in converting clozapine to norclozapine, and CYP3A4, the primary enzyme involved in converting clozapine to clozapine-<em>N</em>-oxide. The factors that can influence plasma levels of clozapine are next reviewed; these include dose, gender, smoking, age, body weight, caffeine intake, and drug-drug interactions. The authors then examine the concentration-dependent toxicity of clozapine based on a review of published data. Finally, the authors present four cases illustrating the issues involved and how TMD can be used to improve clinical care of patients being treated with clozapine, both in terms of improving efficacy and minimizing potential toxicity. 
+
+clozapine
+dosing
+therapeutic drug monitoring
+plasma levels
+treatment resistance
+schizophrenia
+pharmacodynamics
+metabolism
+age
+gender
+drug-drug interactions

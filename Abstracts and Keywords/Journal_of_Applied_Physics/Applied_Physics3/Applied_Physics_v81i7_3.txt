@@ -1,0 +1,20 @@
+Ceramic composites of alumina and zirconia with ZrO2 contents up to 20 wt	% and negligible porosity were investigated at radio frequencies from 104 to 107 Hz, and in a temperature range from 20 to 550	°C. If unstabilized or partially stabilized ZrO2 is dispersed in pure alumina in order to improve the mechanical strength the dielectric properties are changed. The admixture of zirconia leads to enhanced dielectric losses and an increased temperature dependence of the permittivity. It is demonstrated that it is essential to distinguish between the contributions of the monoclinic and the tetragonal phase of zirconia. The presence of the tetragonal ZrO2 phase is correlated with the appearance of two peaks in the temperature dependence of the dielectric loss and two smoothed steps in the temperature dependence of the permittivity. This is well described by a Debye model for dipole relaxation. The presence of the monoclinic phase leads to a higher exponential temperature rise for the dielectric loss as well as for the permittivity, due to an increased ionic conductivity. At higher frequencies the influence of ionic conductivity is smaller and the dipole relaxation processes are shifted to higher temperatures. Therefore, for high-frequency applications low-loss composites with improved mechanical properties can be realized if monoclinic zirconia is kept at low levels. © 1997 American Institute of Physics.
+
+alumina
+zirconium compounds
+mechanical strength
+permittivity
+dielectric losses
+dielectric polarisation
+dielectric relaxation
+COMPOSITE MATERIALS
+ZIRCONIUM OXIDES
+MECHANICAL PROPERTIES
+CERAMICS
+DIELECTRIC PROPERTIES
+PHASE STUDIES
+IONIC CONDUCTIVITY
+FREQUENCY DEPENDENCE
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 0273-0400 K
+TEMPERATURE RANGE 0400-1000 K

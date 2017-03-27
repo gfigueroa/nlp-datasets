@@ -1,0 +1,6 @@
+We explore some of the characteristics of multimodal input interaction spaces for notification systems within a multi-tasking environment like a command and control center using two promising interaction methods: gestures and touch based input through a laboratory experiment comparing both techniques. Results of our study suggest that gestures are better suited for multi-tasking situations because they are less interruptive than touch interaction to users' primary tasks and are subjectively preferred by users in certain situations.
+
+gestures
+multitasking
+notification systems
+touch

@@ -1,0 +1,10 @@
+Strains in HgTe/Hg0.1Cd0.9Te superlattices grown on (211)B Cd0.96Zn0.04Te substrates have been investigated by high-resolution x-ray diffraction. The lattice mismatch, the tensile as well as the shear strain have been obtained by measuring symmetric and asymmetric diffraction profiles in different azimuths. These measured strain parameters are then used to extract from the diffraction profiles the chemical composition and thickness of individual layers constituting the superlattice period. The analysis is based on the theory of elasticity, in which the strain tensor components in partially relaxed epitaxial layers are calculated by minimizing the strain energy density. The method presented in this article is valid for the strain analysis of partially relaxed epitaxial layers grown on arbitrarily oriented surfaces. © 1997 American Institute of Physics. 	 
+
+mercury compounds
+cadmium compounds
+II-VI semiconductors
+semiconductor superlattices
+interface structure
+internal stresses
+X-ray diffraction
+stoichiometry

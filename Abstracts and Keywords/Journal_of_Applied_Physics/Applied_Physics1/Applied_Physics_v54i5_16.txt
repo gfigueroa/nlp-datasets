@@ -1,0 +1,21 @@
+The description of currentinduced failures in thin film metallizations used in microelectronic devices should not be limited to electron wind arguments. Several failure mechanisms such as grain boundary grooving, thermotransport and electrotransport, may contribute to matter transport under conditions normally encountered in service. Grain boundary grooving is accelerated by doping thin gold films with alkali ions. Pure thin gold stripes which are subjected to a direct current of high density fail near the cathode, whereas similar gold films doped with alkali ions fail near the anode. Experiments utilizing Auger electron spectroscopy show an enrichment of alkali metal near the anode after current stressing. The accumulation of alkali metal at the anode promotes grain boundary grooving and void formation there.
+
+gold
+films
+failures
+electrophoresis
+doped materials
+alkali metals
+electric currents
+experimental data
+integrated circuits
+grain boundaries
+auger electron spectroscopy
+stresses
+voids
+mathematical models
+configuration
+current density
+direct current
+cathodes
+anodes

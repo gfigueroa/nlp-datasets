@@ -1,0 +1,9 @@
+Objective: This study describes naturalistic 3-month follow-up after discharge from a 5-day partial hospitalization dialectical behavior therapy (DBT) program for women diagnosed with borderline personality disorder (BPD). We also examined individual BPD criteria as predictors of treatment response. Methods: Fifty women diagnosed with BPD were consecutively recruited from a partial hospital DBT program, 47 of whom (94%) completed all assessments including baseline (prior to discharge) and 3-months post-discharge assessments. Most continued with some combination of individual psychotherapy and pharmacotherapy, and all had the option of continuing with weekly DBT skills classes. Baseline scores were compared to 3-month scores using paired two-tailed non-parametric (sign) tests. Regression analyses were conducted to identify predictors of outcome. Results: Depression, hopelessness, anger expression, dissociation, and general psychopathology scores significantly decreased over the 3-month follow-up interval, although scores on several measures remained in the clinical range. Those who endorsed emptiness, impulsivity, and relationship disturbance demonstrated improvement on a number of outcomes, while those who endorsed identity disturbance and fear of abandonment had less improvement on some outcomes. Conclusion: These findings illustrate (1) that improvement occurred over a 3-month interval on a number of measures in patients receiving treatment as usual following discharge from a partial hospitalization program, and (2) that BPD is a complex, heterogeneous disorder for which there is no single pathognomonic criterion, so that each criterion should be considered individually in determining its potential effect on treatment outcomes. 
+
+borderline personality disorder
+partial hospital treatment
+dialectical behavior therapy
+impulsivity
+emptiness
+self-injury
+depression

@@ -1,0 +1,7 @@
+Ordinary planar waveguide cannot support electromagnetic (EM) wave propagating at frequency below the cut-off frequency of the waveguide, due to the evanescent wave nature of the EM wave in such waveguide. We have found by theoretical analysis that extraordinary EM wave transmission could occur for transverse-electric modes at frequency below the cut-off frequency of the hollow waveguide by inserting different kinds of anisotropic metamaterials (AMMs) in the hollow waveguide. Such transmission of EM energy has no lower cut-off frequency and is due to the conversion of the evanescent wave into propagating mode inside the AMMs, which is quite different from that in the case of waveguide loaded with an isotropic left-handed material slab. We have verified the extraordinary phenomenon by performing circuit analog of the planar waveguide loaded with different kinds of AMMs through realization with transmission line metamaterials.
+
+anisotropic media
+electromagnetic wave propagation
+metamaterials
+microwave materials
+planar waveguides

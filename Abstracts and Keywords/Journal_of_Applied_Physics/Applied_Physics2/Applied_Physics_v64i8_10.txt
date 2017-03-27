@@ -1,0 +1,11 @@
+Compliance to the low electric field regime necessary for application of the third derivative functional form formalism is demonstrated for ionimplanted samples used to determine the doping level by photoreflectance spectroscopy. Due to field and doping inhomogeneity, the proper line shape is speculated to be described by a superposition of FranzKeldysh oscillations.
+
+GALLIUM ARSENIDES
+SEMICONDUCTOR MATERIALS
+CARRIER DENSITY
+CRYSTAL DOPING
+OPTICAL REFLECTION
+DATA ANALYSIS
+ABSORPTION
+ENERGY SPECTRA
+PARAMETRIC ANALYSIS

@@ -1,0 +1,8 @@
+This paper presents the breadboard of the mechanical slit mask to be designed for the MOSFIRE instrument of the KECK Telescope. This mechanism is designed to function at a cryogenic temperature of 120 K, in vacuum. The reconfigurable mask will allow to form 41 optical slits in a 262 mm times 262 mm field of view. The slit length is fixed and their width can range from 50 mum to 260.5 mm. The slit positioning accuracy is plusmn 5 mum and the slit width accuracy is plusmn8 mum. The paper concentrates on the working principle of the mechanism which is based on an improved "inch-worm" stepping motion of 92 masking bars forming the optical curtain. Voice coil actuators are used to drive the various clutches and the principal mobile stage. Ratchets which engage in the teeth of a rack machined on the bars allow canceling the accumulation of motion errors as steps succeed one another. The design makes significant use flexure structures. Cryogenic performance and life tests have been performed successfully on subassemblies of the mechanism breadboard.
+
+Slit-mask
+cryogenic
+pole placement
+state machines
+state space
+voice-coil

@@ -1,0 +1,10 @@
+As the feature size of integrated circuit technology is shrinking continuously into submicron region, contacts in the circuit have become a major concern in terms of resistance and Joule heating. A high contact resistance not only increases the RC delay but also causes extra Joule heating. However, it is extremely difficult to measure the temperature at a tiny contact using conventional methods. This paper presents a method of direct measurement of contact temperature using four-terminal Kelvin test structures of metal in contact with Si. The temperature at the contact can be determined from the builtup Seebeck potential in the Kelvin circuit during electrical stressing once the relative Seebeck coefficient of the metallization with respect to Si is known. The Seebeck potential is extracted from the voltage measurement across the contacts. In the study, the Ti/Si contacts on both p+-Si and n+-Si with contact area ranging from 20×20 ¼m2 to 6×6 ¼m2 were examined using this method. When applying a current density of 2.8×104 A/cm2, the contact temperature is found to increase as much as by 48
+°C. © 2002 American Institute of Physics. 
+
+contact resistance
+Seebeck effect
+integrated circuit metallisation
+current density
+silicon
+elemental semiconductors
+semiconductor-metal boundaries

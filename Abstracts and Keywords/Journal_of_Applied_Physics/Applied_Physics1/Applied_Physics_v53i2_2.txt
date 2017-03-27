@@ -1,0 +1,19 @@
+Faraday collector and calorimeter measurements of the ion emission are obtained for short CO2 laser pulses irradiating planar polyethylene targets at intensities between 1012 and 2×1013 W	cm2. The fast ion angular distribution is more peaked towards target normal than the thermal ion distribution. The hot electron temperature inferred from both the slope of the fast ion velocity distribution and the maximum ion velocity scales as I0.25 and I0.9 for irradiances respectively above and below a critical value of Icr = 5×1012 W	cm2. The high irradiance scaling agrees with that of the hot electron temperature deduced from xray measurements. At low irradiance, the discrepancy between the ion and xray hot electron temperature scaling indicates that the expansion is nonisothermal resulting in a cooling of the hot electrons and in a colder fast ion velocity distribution.
+
+LASERPRODUCED PLASMA
+SCALING LAWS
+IRRADIATION
+EXPANSION
+CARBON DIOXIDE LASERS
+FARADAY CUPS
+CALORIMETRY
+ION EMISSION
+PULSES
+EXPERIMENTAL DATA
+POLYETHYLENES
+TARGETS
+ANGULAR DISTRIBUTION
+ELECTRON TEMPERATURE
+VELOCITY
+XRADIATION
+ISOTHERMAL PROCESSES

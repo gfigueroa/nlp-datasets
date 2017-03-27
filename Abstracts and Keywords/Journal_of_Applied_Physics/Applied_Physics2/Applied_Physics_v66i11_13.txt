@@ -1,0 +1,15 @@
+Poissons and Schrödingers equations have been simultaneously solved in cylindrical coordinates for the problem of a cylindrical modulationdoped quantum well, also referred to as a quantum wire. A transfer matrix method for the solution of Schrödingers equation has been implemented for cylindrical coordinates. For the case of a GaAs wire embedded in an AlGaAs host, a parametric investigation was undertaken to determine the effects of aluminum fraction, temperature, well radius, barrier doping, and spacer layer thickness upon the linear electron density within the quantum wire. Transferred electron densities in excess of 106 electrons per cm are easily achievable for a wide range of parameters.
+
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+QUANTUM WELL STRUCTURES
+CYLINDRICAL CONFIGURATION
+WIRES
+MODULATED MATERIALS
+ELECTRONIC STRUCTURE
+POISSON EQUATION
+SCHROEDINGER EQUATION
+TRANSFER MATRIX METHOD
+QUANTITY RATIO
+TEMPERATURE DEPENDENCE
+ELECTRON DENSITY

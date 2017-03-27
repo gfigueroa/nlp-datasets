@@ -1,0 +1,12 @@
+The low-frequency noise in GaN/AlGaN heterostructure field-effect transistors (HFETs) was studied in the temperature range from 8 to 300 K. A contribution of generation-recombination noise with extremely small activation energy Ea=(13)
+meV was observed at T&lt;50 K. At 70}T}150
+K, the temperature dependence of noise in HFETs with a doped channel exhibited a broad maximum. The position of the maximum was practically independent of the frequency of analysis. The model linking this maximum to the electron tunneling from the channel to the silicon donor level in GaN is discussed. © 2002 American Institute of Physics. 
+
+gallium compounds
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+junction gate field effect transistors
+cryogenic electronics
+semiconductor device noise
+tunnelling

@@ -1,0 +1,11 @@
+A systematic study comparing the growth of perylene films on an Au substrate and on an Au substrate coated additionally with a self-assembled monolayer (SAM) of 1-octadecanethiol is presented. The films have been characterized by atomic force microscopy and x-ray diffraction. Compared to the Au substrate, on the SAM substrate, smaller island sizes and a better c-axis texture result. Possible mechanisms for these changes in the perylene film growth are discussed. © 2003 American Institute of Physics. 
+
+organic semiconductors
+gold
+X-ray diffraction
+atomic force microscopy
+monolayers
+self-assembly
+texture
+vacuum deposition
+grain size

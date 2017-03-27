@@ -1,0 +1,12 @@
+Sidegating characteristics of molecularbeamepitaxially grown AlGaAs/GaAs heterostructure fieldeffect transistors were obtained from layer structures containing varied AlGaAs spacer layer thicknesses. It is demonstrated that the sidegating effects for these wafers can be related to the leakage currents measured at the sidegate electrodes. The leakage currents were determined primarily to be a function of the resistance created by the isolation implants between the sidegate electrode and the device. Additionally, the various AlGaAs spacer layer thicknesses permitted the influence of silicon diffusion on device properties to be observed. The experimental results are compared with theoretical calculations.
+
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+HETEROSTRUCTURES
+FIELD EFFECT TRANSISTORS
+MOLECULAR BEAM EPITAXY
+ELECTRICAL PROPERTIES
+GATES
+LEAKAGE CURRENT
+SILICON
+DIFFUSION

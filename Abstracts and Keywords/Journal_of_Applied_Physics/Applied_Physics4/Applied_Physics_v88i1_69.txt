@@ -1,0 +1,8 @@
+The secondary electron emission of dielectrics usually is measured by the pulse method, in which the dielectric is irradiated with short pulses of electrons. Attempts to use a dynamic method, in which the dielectric is irradiated continuously, have failed because the dielectric becomes charged and this charge interferes with the emission process. The dynamic method can, however, be applied to metals where volume charges are prevented. This article reports dynamic measurements of the total secondary emission yield from stainless steel, platinum, and aluminum and compares them with results from the current pulse method. In order to apply the dynamic method to metals a simple but important change in the setup was introduced: a dielectric slab was placed between the electrode and the metallic sample, which permitted the sample surface potential and therefore the energy of the incident electrons to change continuously. Unlike for dielectrics, the emission curves for metals are identical when obtained by the two methods. However, for a sample with deliberately oxidized surfaces the total secondary emission yield is smaller when measured with the dynamic method as compared with the pulse method, just as happens for dielectrics. © 2000 American Institute of Physics. 
+
+secondary electron emission
+surface potential
+surface charging
+stainless steel
+platinum
+aluminium

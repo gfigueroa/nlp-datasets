@@ -1,0 +1,7 @@
+Providing content-based video query, retrieval and browsing is the most important goal of a video database management system (VDBMS). Video data is unique not only in terms of its spatial and temporal characteristics, but also in the semantic associations manifested by the entities present in the video. This paper introduces a novel video data model called Logical Hypervideo Data Model. In addition to multilevel video abstractions, the model is capable of representing video entities that users are interested in (defined as hot objects) and their semantic associations with other logical video abstractions, including hot objects themselves. The semantic associations are modeled as video hyperlinks and video data with such property are called hypervideo. Video hyperlinks provide a flexible and effective way of browsing video data. Based on the proposed model, video queries can be specified with both temporal and spatial constraints, as well as with semantic descriptions of the video data. The characteristics of hot objects' spatial and temporal relations and efficient evaluation of them are also discussed. Some query examples are given to demonstrate the expressiveness of the video data model and query language. Finally, we describe a modular video database system architecture that our web-based prototype is based on.
+
+Ccontent-based query
+Hot object
+Hypervideo
+Spatial and temporal constraint
+Video database

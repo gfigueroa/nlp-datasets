@@ -1,0 +1,6 @@
+The present paper describes the development of a didactic platform designed to support theoretical and practical learning on Biomedical Engineering themes by Electrical Engineering undergraduate students. This platform provides integrated hardware and software tools for acquisition, processing, transmission, visualization e comprehension of bioelectric signals. It includes a micro-processed base module, that allows the coupling of bioelectric signals acquisition modules (EEG, ECG, EMG, EOG), wireless communication module and visualization software for the acquired signals. Tutorials and experimental procedures on electroencephalography and electrocardiography, associated to relevant aspects of the related electro-medical tools, are presented in connection with the above mentioned hardware, through a portal Sauacutede+EducacaoTM IEB/UFSC at http://www.saudeeducacao.ufsc.br/layout.php. These tutorials include applets and virtual 3D environment resources that were tested during regular disciplines and mini-courses on Biomedical Engineering techniques. Assessment of this system by the students (using Webmac 4.0) revealed high indexes of motivation, usability, significance and organization.
+
+Didactic Hardware
+Didactic Platform for Biomedical Signal Processing
+Teaching Laboratory
+Tutorial

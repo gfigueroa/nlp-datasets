@@ -1,0 +1,11 @@
+The use of a scanning tunneling microscope (STM) to pattern a hydrogen resist on the Si(001) surface has recently become a viable route for the fabrication of nanoscale planar doped devices in silicon. A crucial step in this fabrication process is the removal of the hydrogen resist after STM patterning before Si encapsulation of the dopants via molecular beam epitaxy. We compare thermal and STM-stimulated hydrogen desorptions in terms of surface morphology and integrity of dopant nanostructures embedded in the surface. We find that the boundaries of STM patterned P-in-Si nanostructures are maintained by STM-stimulated hydrogen desorption. In comparison, for an optimized thermal annealing at 470	°C for 15s to remove the hydrogen there is a lateral diffusion out of the nanostructured region of up to < 78nm. Our results demonstrate the advantages of nonthermal hydrogen desorption for the preservation of atomic scale dopant patterns in silicon.
+
+scanning tunnelling microscopy
+resists
+molecular beam epitaxial growth
+desorption
+surface morphology
+annealing
+diffusion
+nanolithography
+semiconductor doping

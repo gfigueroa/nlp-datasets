@@ -1,0 +1,16 @@
+Initial stages of InAs deposition on EuBa2Cu3O7y (EBCO) thinfilm superconductors with a SrF2 interlayer are investigated by using synchrotronradiation photoelectron spectroscopy. Corelevel and valenceband spectra can give imformation on both oxidation of InAs and reduction of the underlying EBCO with a very thin surface layer. These spectral evolutions demonstrate that SrF2 does not affect the underlying EBCO, and that the twostep growth procedure, comprising the initial InAs layer growth at room temperature and the top InAs layer growth at 200	°C, is effective in suppressing the interfacial redox reactions. Furthermore, crosssectional transmission electron microscopy and xraydiffraction studies comfirm that SrF2 forms a uniform layer on the EBCO surface, and that the twostep growth process can crystallize an InAs top layer, which is highly (111) oriented with a full width at halfmaximum of 0.25°.
+
+STRONTIUM FLUORIDES
+DEPOSITION
+FILM GROWTH
+SUPERCONDUCTING FILMS
+EUROPIUM OXIDES
+INTERFACES
+BARIUM OXIDES
+COPPER OXIDES
+QUATERNARY COMPOUNDS
+PHOTOELECTRON SPECTROSCOPY
+CORE LEVELS
+VALENCE BANDS
+XRD
+TEM

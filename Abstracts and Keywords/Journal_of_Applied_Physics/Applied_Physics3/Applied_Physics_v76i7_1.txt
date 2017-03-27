@@ -1,0 +1,13 @@
+The usefulness of particle beams for radiation therapy has been well and widely recognized. For the cure of cancer patients, many accelerator facilities have already been utilized, and some new facilities are now being put into operation, or are under construction. Considering the medical and biological requirements, light heavy ions with an energy of several hundred MeV/nucleon are regarded as being the most suitable species. A reasonable choice to this end is an accelerator complex, for an example, one comprising an ion source, an injector linac, and a synchrotron. The ion source is of great importance, since its characteristics strongly affect the overall performance of the accelerator system. A pulsed Penning source (PIGIS) has been successfully used at Lawrence Berkeley Laboratory. Recently, at the National Institute of Radiological Sciences a lowduty pulsed PIGIS for the heavyion medical accelerator in Chiba (HIMAC) has been developed; it has both a long lifetime and a high peak intensity. As other types of ion sources, an electronbeam ion source (EBIS) and an electroncyclotronresonance ion source (ECRIS) are being developed at several laboratories. An EBIS is basically a pulsed source, and is being successfully used at Saclay. By using an afterglow mode, two ECRISs have made remarkable progress at Grenoble and the Grand Accelerateur National dIons Lourds; similar tests are proceeding for the SchwerIonen Synchrotron at the Gesellschaft für SchwerIonenforschung, the booster at Centre dEuropeen de Recherche Nucleaire, and the HIMAC. These different types of heavyion sources are discussed from the viewpoint of their application to radiation therapy.
+
+ION SOURCES
+RADIOTHERAPY
+REVIEWS
+HEAVY IONS
+LINEAR ACCELERATORS
+SYNCHROTRONS
+PENNING DISCHARGES
+MEDICINE
+ELECTRON BEAM ION SOURCES
+ELECTRON CYCLOTRONRESONANCE
+DESIGN

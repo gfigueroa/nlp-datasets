@@ -1,0 +1,12 @@
+The use of chemical plasma etching for patterning thin films of superconducting YBaCuoxide thin films is reported. Etch rates as high as 10 ¼m/min were measured, and were found to be highly dependent on substrate temperature and annealing of the film. Energy dispersive spectroscopy measurements showed significant variations in film stoichiometry as substrate temperatures increased, with copper being the most volatile element, followed by barium and yttrium. Although the etching is isotropic, this study indicates that chemical plasma etching can be a viable technology for highTc superconducting thinfilm patterning.
+
+SUPERCONDUCTING FILMS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HIGHTC SUPERCONDUCTORS
+ETCHING
+PLASMA
+TEMPERATURE DEPENDENCE
+ANNEALING
+VERY HIGH TEMPERATURE

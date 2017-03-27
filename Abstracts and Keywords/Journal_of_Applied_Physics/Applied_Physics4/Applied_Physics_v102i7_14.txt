@@ -1,0 +1,12 @@
+Factors responsible for the undesirably high values of positive-channel (p-channel) threshold voltage (Vt) in high-º metal oxide semiconductor transistors are investigated. In silicon/silicon dioxide/hafnium dioxide/metal gate transistors an anomalous nonlinear relationship between the equivalent oxide thickness (EOT) and Vt occurs when the silicon dioxide (SiO2) interface layer is sufficiently thin (&lt;2.3nm). The deviation from the expected EOT versus Vt behavior is shown to be related to processing temperature, metal work-function, substrate doping type, and thickness of the high-º material. This result, coupled with charge trapping measurements on samples with different SiO2 interface layer thickness, suggests that the loss of negative fixed charge via the tunneling of trapped electrons to the substrate is a possible explanation for the elevated p-channel Vt.
+
+electron traps
+elemental semiconductors
+hafnium compounds
+high-k dielectric thin films
+MOSFET
+semiconductor doping
+silicon
+silicon compounds
+tunnelling
+work function

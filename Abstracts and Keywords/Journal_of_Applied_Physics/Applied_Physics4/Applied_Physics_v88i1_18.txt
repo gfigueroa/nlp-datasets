@@ -1,0 +1,9 @@
+We have investigated the pit formation and evolution in compositionally graded SiGe thick films heteroepitaxially grown on Si(001) surfaces. Besides the pits clearly related to impurities and interface defects, a class of pits intrinsic to the strained-layer growth was found. We demonstrate that a mechanism of self-organization drives the nucleation and the growth evolution of these intrinsic pits. Two stable and one metastable pit shapes have been identified that can be related to the alloy film thickness and pit dimension. © 2000 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor epitaxial layers
+stress relaxation
+crystal defects
+atomic force microscopy
+scanning electron microscopy
+semiconductor materials

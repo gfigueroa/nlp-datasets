@@ -1,0 +1,7 @@
+Explicit, analytical expressions have been derived for the dependence of electrical conductivity, chemical expansion, and elastic modulus on point defect concentration and oxygen partial pressure using a consistent approach. In developing the model, expressions were first derived for the functional dependence of defect concentration on the oxygen partial pressure for fluorite oxides. Expressions for the chemical expansion, elastic modulus, and electrical conductivity as functions of defect concentration are then derived and verified with experimental data for ceria (CeO2´) with consistently good fits. The same values for the material constants were used in all of the fits, further validating our approach.
+
+cerium compounds
+point defects
+electrical conductivity
+elastic moduli
+stoichiometry

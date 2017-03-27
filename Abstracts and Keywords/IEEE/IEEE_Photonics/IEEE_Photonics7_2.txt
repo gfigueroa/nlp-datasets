@@ -1,0 +1,6 @@
+Kinetic of porous layers transformation during annealing was investigated using Monte Carlo simulation. Model with primitive cubic lattice was used for calculations. Time dependence of film evolution rate at initial stage of annealing process was demonstrated to be power type: ~tÂ¿Â¿ (1/5 < Â¿ <1/3). At any porosity film thickness decreases in discrete steps during annealing. The discontinuous change of film thickness takes place when portion of pores simultaneously comes out from the bulk to the surface. Thickness change is about average pore size, and periods between sudden thickness changes far exceed duration of film thickness jumps.
+
+Monte Carlo
+porous layers
+simulation
+sintering

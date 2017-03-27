@@ -1,0 +1,8 @@
+We report the effects of dyes doped in the emitting layer on the electroluminescent characteristics of multilayer organic lightemitting diodes (LEDs) using a polysilane polymer, poly(methylphenylsilane) (PMPS), as the hole transporting material. We formed the emitting layer by dispersing in poly(styrene) (PS), one of four dyes whose fluorescence ranged from blue to orange. Two or threelayer LEDs were prepared by combining PMPS and dye doped PS layers with the indium tin oxide and aluminum used for the hole and electron injecting electrodes, respectively. The threelayer LEDs had an additional vacuumdeposited tris(8hydroxyquinoline) aluminum layer. The electroluminescent (EL) characteristics of these multilayer organic LEDs, such as the currentvoltageEL intensity curve, the relative EL efficiency, and the EL emitting species, exhibit a marked dependence on the emitting dye. The observed dependence can be described consistently in terms of the dependence of the charge carrier trapping efficiency on the emitting dyes. © 1996 American Institute of Physics. 
+
+LIGHT EMITTING DIODES
+ELECTROLUMINESCENCE
+DYES
+DOPED MATERIALS
+MULTILAYERS
+ORGANIC POLYMERS

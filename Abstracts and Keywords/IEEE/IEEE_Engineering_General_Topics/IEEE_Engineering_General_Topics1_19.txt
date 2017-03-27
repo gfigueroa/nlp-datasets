@@ -1,0 +1,5 @@
+In this paper, the authors propose a new method for the propagation of uncertainty through non linear algorithms that may contain conditional statements. The approach is based on bittors, that are bit vectors where bits are expressed in terms of their probability to take value 1 or 0. Provided the logic operations between bittors are defined, the system of bittor numbers is introduced together with the fundamental operations. The bittor numbers can be processed with any algorithm provided the fundamental operations are redefined for bittors. This approach is suitable for multithread algorithms, thus conditional statements, can be handled easily. The implementation of bittor numbers and their operations in the Matlab environment is presented together with the numerical results of an example of application. The entropy as a measure of the information content of the bittor number is defined and proposed as a metric of loss of information content due to the elaboration. The authors discuss strengths, weaknesses and challenges of the approach and provide an overview of the potential benefits of this method.
+
+decision-making
+nonlinear functions
+uncertainty

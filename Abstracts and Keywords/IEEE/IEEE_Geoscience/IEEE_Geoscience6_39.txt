@@ -1,0 +1,6 @@
+This paper presents a novel dynamic supply boosting technique for low voltage SRAMs at/beyond 65 nm PD/SOI technologies. For the first time the technique exploits the capacitive coupling effect in a floating-body PD/SOI device to dynamically boost the virtual array supply voltage during Read operation, thus improving the Read performance, Read/half-select stability, and Vmin. This enables significant reduction of the standby cell power and circuit active power in a single supply methodology. The performance and parametric yield improvements in the presence of variability are analyzed/validated using precise and fast Monte Carlo statistical circuit simulations with mixture importance sampling. Fabricated column-based 65nm PD/SOI SRAM circuits are confirmed with simulations and physical analysis and are shown to operate at 0.4 V. to 0.5V.
+
+SRAM
+booster circuit
+low power
+yield

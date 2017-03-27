@@ -1,0 +1,19 @@
+When crystalline InP is subjected to mechanical damage by scratching or cleaving in vacuum, a new luminescence transition near 1.3 eV results. The spectrum consists of a doublet split by <5 meV. Thermal quenching occurs above 100 K with an activation energy of 120 meV. Annealing to 300 K in the dark removes the luminescence centers, and the annealing temperature is reduced to about 200 K with illumination. We interpret the luminescence centers as native defects acting as electron traps of depth <100 meV. The defects are believed to be introduced by the process of plastic deformation of the crystal.
+
+MECHANICAL EFFECTS
+DAMAGE
+LUMINESCENCE
+INDIUM PHOSPHIDES
+CRYSTAL DEFECTS
+CRYSTALS
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+CLEAVAGE
+SPECTRA
+SCINTILLATION QUENCHING
+ACTIVATION ENERGY
+ANNEALING
+COLOR CENTERS
+ELECTRONS
+TRAPS
+DEFORMATIONS

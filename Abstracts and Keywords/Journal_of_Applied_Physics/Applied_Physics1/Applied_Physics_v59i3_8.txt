@@ -1,0 +1,10 @@
+We have grown highpurity GaAs on (100), (311)A, and (311)B orientations by molecularbeam epitaxy (MBE). While undoped GaAs grown on (100) and (311)A are typically p type, growth on (311)B orientation has yielded n type with a liquidnitrogen electron mobility of 1.3×105 cm2	V1	s1, which is among the highest mobilities reported for MBEgrown materials. Lowtemperature photoluminescence showed wellresolved impurity bound exciton peaks consistent with electrical results. The possible incorporations of impurities, especially carbon, are discussed. Our work demonstrates that the previously reported undoped ptype GaAs(100) are compensated.
+
+GALLIUM ARSENIDES
+IMPURITIES
+DOPING PROFILES
+ELECTRON MOBILITY
+PHOTOLUMINESCENCE
+EXCITONS
+CRYSTAL ORIENTATION
+MOLECULAR BEAM EPITAXY

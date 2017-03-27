@@ -1,0 +1,9 @@
+Singlecrystal alloys of diamond with Si and Ge are investigated theoretically. An indirect band gap “v252 ’ ”c1 is found for the new semiconductor Si1xyGexCy over most compositions x and y, with an indirect “v252 ’ Lc1 gap found for the remaining compositions. The estimated band gaps span the 0.625.5eVrange. Predictions are made for band gap versus lattice parameter in the new alloy semiconductors Si1xCx and Ge1xCx.
+
+SILICON CARBIDES
+GERMANIUM CARBIDES
+ENERGY GAP
+OPTICAL PROPERTIES
+DIAMONDS
+SEMICONDUCTOR ALLOYS
+TERNARY ALLOYS

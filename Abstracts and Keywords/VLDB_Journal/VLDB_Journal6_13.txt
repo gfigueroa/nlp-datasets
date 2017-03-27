@@ -1,0 +1,7 @@
+To effectively model complex applications in which constantly changing situations can be represented, a database system must be able to support the runtime specification of structural and behavioral nuances for objects on an individual or group basis. This paper introduces the role mechanism as an extension of object-oriented databases to support unanticipated behavioral oscillations for objects that may attain many types and share a single object identity. A role refers to the ability to represent object dynamics by seamlessly integrating idiosyncratic behavior, possibly in response to external events, with pre-existing object behavior specified at instance creation time. In this manner, the same object can simultaneously be an instance of different classes which symbolize the different roles that this object assumes. The role concept and its underlying linguistic scheme simplify the design requirements of complex applications that need to create and manipulate dynamic objects.
+
+Dynamic class hierarchy
+Dynamic object re-classification
+Object migration
+Object role model
+Object-oriented database systems

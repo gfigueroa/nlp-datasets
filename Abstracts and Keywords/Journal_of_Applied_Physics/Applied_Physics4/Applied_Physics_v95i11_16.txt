@@ -1,0 +1,9 @@
+In this paper, we report on a detailed study of reversal in the antiferromagnetic layer in IrMn-based exchange-biased systems. By a process of careful field cycling and heating with the antiferromagnet aligned in the opposite direction to the original set direction, we are able to study thermal activation over the energy barriers in the antiferromagnetic material. We find that the peak in the coercivity is observed, but in no way correlates to the blocking temperature. We conclude that the origin of the coercivity enhancement in exchange-biased systems lies in effects at the interface. © 2004 American Institute of Physics. 
+
+iridium alloys
+manganese alloys
+magnetic thin films
+antiferromagnetic materials
+coercive force
+magnetic hysteresis
+exchange interactions (electron)

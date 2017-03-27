@@ -1,0 +1,7 @@
+The author calculates precisely the induced currents in striated YBa2Cu3O7 coated conductors covered partially by segmented pieces of normal metal, connecting the individual superconducting stripes. It is shown that the induced current density is below the critical current density of the superconducting stripes and the coupling losses are acceptable low, ensuring in addition sufficient current sharing between the stripes. Thus, the proposed structure can be applicable at ac conditions without twisting procedure. The ratio of the current closed between the normal plates to the current flowing in the superconducting stripes and the losses in the substrate are also discussed. The total current flowing through the whole length of the superconductor, which has to be closed at the ends, is also acceptable low. In addition, the frequency range, in which the magnetic flux can fully penetrate both between the stripes and into the normal segments, is given.
+
+barium compounds
+critical current density (superconductivity)
+high-temperature superconductors
+magnetic flux
+yttrium compounds

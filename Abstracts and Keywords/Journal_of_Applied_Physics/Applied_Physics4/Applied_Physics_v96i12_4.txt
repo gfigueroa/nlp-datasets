@@ -1,0 +1,13 @@
+The correlation between grain size and intermixing in sputter-deposited bilayers of the form XAl and AlX (where X=Ta, W, Ir, and Os) has been investigated by in-plane grazing-incidence x-ray diffraction. We have found no correlation between grain size and intermixing at the interface and our data provide strong evidence against the postulate that the asymmetry in intermixing arises from the Harrison type-C mechanism of fast diffusion along grain boundaries or dislocations.
+
+aluminium
+iridium
+tantalum
+osmium
+tungsten
+metallic thin films
+chemical interdiffusion
+grain size
+interface structure
+sputter deposition
+X-ray diffraction

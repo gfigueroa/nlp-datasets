@@ -1,0 +1,13 @@
+The Stokes shift detected in PbS nanocrystals is analyzed by optical absorption (OA), photoluminescence (PL) and atomic force microscopy (AFM). The samples were synthesized by fusion method over two different glass substrates, and identical size PbS dot structures with radius 4.1 nm grown showed PL and OA peaks separated by 0.15 and 0.10 eV. The origin of these large Stokes shifts are analyzed whether they are attributed to the nonradiative recombination associated to impurity states in prepared doped samples or to radiative transitions between exciton states induced by electron-hole (e-h) exchange Coulomb interaction.
+
+atomic force microscopy
+exchange interactions (electron)
+excitons
+impurity states
+IV-VI semiconductors
+lead compounds
+nanofabrication
+nanostructured materials
+photoluminescence
+radiative shifts
+semiconductor growth

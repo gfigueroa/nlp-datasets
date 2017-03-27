@@ -1,0 +1,9 @@
+A scheme of photoabsorption spectroscopy (PAS) based on scanning tunneling microscopy (STM) applicable to semiconductors has been devised to circumvent experimental difficulties inherent in STM-PAS measurements so far conducted in the conventional lock-in detection scheme. The present scheme uses multiplexed lights from an interferometer for spectroscopic lights and the modulated current flowing through the STM tip for the signal from which the photoabsorption spectrum is deduced by Fourier transformation. The technique under an optimized condition has been applied to Si samples deposited with epitaxially grown Ge1xSnx nanodots, which proved the spatial resolution of a few nanometers.
+
+elemental semiconductors
+Fourier transform spectroscopy
+germanium alloys
+photoexcitation
+scanning tunnelling microscopy
+silicon
+tin alloys

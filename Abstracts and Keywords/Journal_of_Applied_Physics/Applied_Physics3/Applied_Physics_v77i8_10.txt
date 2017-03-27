@@ -1,0 +1,13 @@
+A highly oriented [111] texture is developed in ion beam sputtered Al films on metal underlayers of Ti, V, Cr, Co, Ni, Cu, or Y. The textured Al films show an extremely smooth surface. Deposition of highly textured Al films depends on the presence of this underlayer, the thickness of which must lie within a specific range that varies with the metal being used. We discuss here the mechanisms of texturing in terms of phenomenological surfaceinterface energy balance considerations. The great tolerance for highpower operations of Al films with a highly oriented [111] texture makes them particularly suitable for use as electrodes in surface acoustic wave devices. © 1995 American Institute of Physics.
+
+ALUMINIUM
+ENERGY BEAM DEPOSITION FILMS
+TEXTURE
+SPUTTERED MATERIALS
+TITANIUM
+CHROMIUM
+COBALT
+NICKEL
+COPPER
+YTTRIUM
+ACOUSTIC SURFACE WAVES

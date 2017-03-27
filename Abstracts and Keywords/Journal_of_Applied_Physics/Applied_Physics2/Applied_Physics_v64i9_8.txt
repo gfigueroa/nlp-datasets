@@ -1,0 +1,10 @@
+The sensitivity and selectivity of double modulation Fourier transform infrared reflection absorption spectroscopy for absorbing species on a reflecting surface has been employed for the in situ analysis of lowtemperature plasma enhanced chemical vapor deposition formed SiO2 films deposited on HgCdTe, silicon, and aluminum substrates. An oblique angle of incidence of <55° was chosen to yield maximum sensitivity for the longitudinal optical (LO) phonon mode of SiO2 on Si. The peak frequency and shape of the LO mode absorption band varied with the quality of the SiO2 films thus providing a means of in situ assessment of reaction conditions at any stage of film growth. This diagnostic technique can be readily applied to the in situ analysis of dielectric thin films formed under a variety of reaction conditions.
+
+SILICON OXIDES
+LASER SPECTROSCOPY
+CHEMICAL VAPOR DEPOSITION
+FOURIER TRANSFORM SPECTROSCOPY
+SILICA
+FILM GROWTH
+MONITORING
+INFRARED SPECTRA

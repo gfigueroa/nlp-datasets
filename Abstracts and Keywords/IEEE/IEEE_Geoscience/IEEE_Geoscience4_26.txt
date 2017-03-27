@@ -1,0 +1,8 @@
+Ancona Province includes an area that has been claimed ldquoHighly at risk of environmental crisisrdquo due to the presence of a multitude of anthropogenic pollution sources. Most of these sources emit an amount of airborne pollutants. In 2006, Local Authorities started to monitor vascular diseases within the risky area trying to assess their correlation with long-term exposure to Particulate Matter. Researchers found that monitored data were available only from 2001 and that several data sets were corrupted. They asked us how to deal with this lack of data and we suggested performing a complete dispersion analysis over the entire area and upon ten years of time spam, by applying a well-known state-of-the-art regulatory model such as AERMOD. Here we present the preliminary results of our study.
+
+Aermod
+Airborne Pollutant
+Dispersion Model
+Fine Particulate
+Long-term Exposure
+Vascular Disease

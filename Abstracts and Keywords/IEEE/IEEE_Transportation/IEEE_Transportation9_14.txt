@@ -1,0 +1,6 @@
+In this paper, we will use the method that shifts the positions of the exciters among the touchable nodes and measures as much as possible for each excitation. As the equations obtained by linearizing the question are underdetermined, the fast projected-Landweber algorithm is used. The first part of the scheme uses the preconditioning matrix to accelerate the iterative process, and the second part maintains the algorithm stable by projected-Landweber algorithm. The preconditioning matrix is calculated by an iterative algorithm for generalized inverse, and an optimized step length function is incorporated into the prior-iterative scheme. The convergence condition for grounding grid fault diagnosis problems is also discussed. It shows that it is easy to meet the convergence condition and convenient to choose the parameters of the preconditioning matrix. The results of the calculation, and the measurements in practical examples show that the proposed method is feasible.
+
+Accessible nodes
+Grounding grid
+fast
+projected-Landweber

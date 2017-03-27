@@ -1,0 +1,10 @@
+Transformation of sputter deposited A15 crystal structure tungsten thin films by rapid thermal annealing and in situ heat treatments in a transmission electron microscope was investigated. Phase transformation of A15 W into bodycenteredcubic (bcc) W did not occur at a specific annealing condition but over a range of annealing times and temperatures. However, complete A15 to bcc W transformation occurred in all samples rapid thermal annealed at 650	°C for 1 min. Variations in the transformation time and temperature for each sample were attributed to differences in the oxygen concentration in the films. The higher the oxygen concentration in the film, the higher the temperature or longer the time required to transform A15 W into bcc W. No measurable difference in the oxygen concentration before and after transformation was found and the O and W atoms binding energies were the same in both the A15 and bcc crystal structure. The resistivity of A15 crystal structure films decreased significantly after transformation into the bodycenteredcubic phase, on the order of 80%. The decrease in resistivity as a result of the transformation was attributed to the elimination of the A15 defect structure and an increase in particle size by coalescence during transformation, from <5 nm in diameter in the asdeposited A15 crystal structure to <2540 nm in diameter after transformation into bcc W. © 1996 American Institute of Physics. 
+
+TUNGSTEN
+SPUTTERED MATERIALS
+THIN FILMS
+TEM
+PHASE TRANSFORMATIONS
+HEAT TREATMENTS
+ELECTRIC CONDUCTIVITY
+METASTABLE PHASES

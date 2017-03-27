@@ -1,0 +1,16 @@
+The optical parameters (linear and nonlinear) and dispersion characteristics of a IIIV compound semiconductor plasma subjected to a strong transverse magnetic field have been investigated theoretically. The nonlinearity induced in the medium has been attributed to heating of the carriers by the pump that results in modification of the electron effective mass in a nonparabolic conduction band and the momentum transfer collision frequency of electrons. The external magnetic field is found to have two consequences: (a) increasing the nonlinearity of the medium and (b) modifying the dispersion characteristics and determining the direction of energy flow between the pump and the generated waves. The plasma frequency Ép is found to enhance the magnitude of the optical parameters as usual. For a typical n-InSb semiconductor, linear refractive index and nonlinear refractive index coefficients are found maximum (nl=5.3, nnl=2×1010
+m2
+V2) whereas absorption coefficients al (linear) and anl (nonlinear) are found to vanish when Éo resonates with Éc(=1.138×1014
+s1). The present study once again establishes the device potentials of n-InSb. © 2001 American Institute of Physics.
+
+indium compounds
+III-V semiconductors
+semiconductor plasma
+effective mass
+refractive index
+optical saturable absorption
+absorption coefficients
+magnetic semiconductors
+band structure
+optical dispersion
+conduction bands

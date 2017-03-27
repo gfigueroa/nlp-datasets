@@ -1,0 +1,9 @@
+The relation between critical current, critical field, and thermal stability of domain wall (DW) trapped at step pinning sites was studied using Co/Ni nanowires with perpendicular magnetic anisotropy (PMA). A sharp step structure was fabricated, which increased the critical field of DW motion, while the critical current was independent of the critical field. Also, the derived thermal stability (”E/kBT) for the step samples was much more than 60. These results indicate that the DW motion in PMA nanowires has potential for memory devices with both a small driving current and large thermal stability.
+
+cobalt
+critical currents
+magnetic domain walls
+nanowires
+nickel
+perpendicular magnetic anisotropy
+thermal stability

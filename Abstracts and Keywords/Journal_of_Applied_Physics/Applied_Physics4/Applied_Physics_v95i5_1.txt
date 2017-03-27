@@ -1,0 +1,22 @@
+The structure and magnetic properties of (Fe56Pt44)100xNx alloy films with x=015
+at.
+% prepared by rf magnetron sputtering were investigated. Compared to an Fe56Pt44 binary film, (Fe56Pt44)100xNx alloy films showed great enhancement in hard magnetic properties. A coercivity Hc of 1027 kA/m, a remanence Mr of 1.24 T, and a maximum energy product (BH)max of 260 kJ/m3 were obtained for an (Fe56Pt44)93N7 film annealed at 600
+°C for 10 min, whereas the Fe56Pt44 film annealed at the same conditions gave Hc=682
+kA/m, Mr=0.87
+T, and (BH)max=132
+kJ/m3. Structural analysis revealed that N addition influenced the phase structure and microstructure of FePt films. N atoms incorporated in the disordered FePt phase in as-deposited films, they released rapidly out of the FePt phase by vacuum annealing. It is suggested that the rapid release of N atoms from the FePt phase promotes the transformation to the ordered phase, results in a higher coercivity of the film. The high remanence of the (Fe56Pt44)93N7 film is attributed to enhanced exchange coupling of the soft iron nitride phase and the hard FePt phase. © 2004 American Institute of Physics. 
+
+iron alloys
+platinum alloys
+nitrogen
+permanent magnets
+magnetic thin films
+sputter deposition
+coercive force
+remanence
+magnetic hysteresis
+annealing
+crystal structure
+crystal microstructure
+grain boundary segregation
+exchange interactions (electron)

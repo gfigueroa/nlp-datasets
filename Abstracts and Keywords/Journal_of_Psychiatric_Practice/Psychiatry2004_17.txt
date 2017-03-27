@@ -1,0 +1,7 @@
+This study examined the effects of high-dose ziprasidone on the electrocardiograms (ECGs) of adult inpatients. This was done in an effort to assess the incremental risk of QTc interval prolongation when using ziprasidone in doses above the maximum dose of 160 mg/day approved by the Food and Drug Administration. We retrospectively examined pre- and post-treatment QTc intervals in 15 subjects at the James A. Haley Veterans Affairs Medical Center who had received high doses of ziprasidone, ranging from 240 to 320 mg/day, due to intractable psychotic symptoms. Pure baseline ECGs were not always attainable, since the majority of the subjects were taking concomitant medications at the time that ziprasidone was initiated. Analysis yielded an average increase of 3.4 msec from pre- to post-treatment, with a maximum post-treatment interval of 452 msec and no cases having a pre- to post- treatment QTc interval increase &gt; 20 msec. These findings are statistically insignificant and do not approach the 500 msec threshold of concern. This study suggests that high-dose ziprasidone does not have a significant incremental effect on QTc interval prolongation in certain subsets of patients. However, it does not rule out the possibility that ziprasidone could have deleterious effects in higher risk populations or that ziprasidone could have rare, idiosyncratic cardiogenic effects. Limitations of the study are identified and recommendations for future research are presented. 
+
+ziprasidone
+electrocardiogram
+torsades de pointes
+QTc interval
+cardiogenic effects

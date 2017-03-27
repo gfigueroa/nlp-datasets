@@ -1,0 +1,8 @@
+Using the analytic expressions given in the preceding article, S. T. Pai [J. Appl. Phys. 71, 5820 (1992)] the concerned physical quantities n, N, V, Ez, “, “+, and Jz and many others for dc glow discharges were calculated and systematically analyzed under various conditions. Several physically significant points have been brought forward via the analysis. Comparisons between the present results and the corresponding ones obtained by previous investigators showed similarities between them in many aspects. Such similarities signify the wide range applicability of the present model. The builtin feature of mode indexing in the model has been quantitatively demonstrated. Results yielded from such a demonstration are consistent with the corresponding physical situations.
+
+GLOW DISCHARGES
+ANALYTICAL SOLUTION
+FLUID MODELS
+DC SYSTEMS
+THREEDIMENSIONAL CALCULATIONS
+ELECTRON DENSITY

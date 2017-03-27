@@ -1,0 +1,11 @@
+The aim is to correlate the magnetoelastic resonance phenomena in Febased amorphous wires with physics of bifurcations and chaos. The simultaneous application of a dc axial HZ and ac circular HÕ magnetic fields, with respect to the wire axis, gives rise to the appearance of nonlinear phenomena. The pickup signal, related with the time derivative of axial magnetization, is analyzed through Fourier analysis. For exciting frequencies É much higher than the characteristic resonance value, it is possible to observe bifurcation behavior characterized by the appearance of signal contributions at a certain values of É: É/2, É/4, É/8, É/16, É/32,...	. Such behavior is also checked through the determination of the phase space of the system. © 1996 American Institute of Physics. 
+
+AMORPHOUS STATE
+BIFURCATION
+WIRES
+IRON BASE ALLOYS
+SILICON ALLOYS
+BORIDES
+MAGNETIZATION
+MAGNETOSTRICTION
+CHAOTIC SYSTEMS

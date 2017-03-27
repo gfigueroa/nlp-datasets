@@ -1,0 +1,15 @@
+Four types of gas sensors based on SnOx thin film with and without additives (Pt and Sb) were investigated by means of xray photoelectron spectroscopy and scanning Auger microscopy. The sensors were deposited on Si substrates by using reactive dc magnetron sputtering. The temperature dependencies of the electrical resistivity response to CO gas exposure were measured in order to characterize all types of fabricated sensors. The surface chemical composition before and after various treatments (Ar+ ion sputtering, thermal annealings in ultrahigh vacuum, and oxygen up to 400	°C) was determined from core level and valence band spectra. The three main types of oxygen species were found on the sensors surface: oxygen in SnOx, adsorbed hydroxyl groups and adsorbed water. An ultrathin Pt overlayer, which enhances the gas sensitivity in a low operating temperature range, was found to be very porous. The addition of a Pt overlayer was promoting a formation of hydroxyl groups, while the surface oxygen species was independent of the Sb doping. The obtained results support the assumption that the changes of the sensors resistivity under reducing gas exposure are caused more by the change of the surface defects density than by variation of excess surface charge induced by adsorbed oxygen species.
+
+THIN FILMS
+SURFACE PROPERTIES
+SENSORS
+TIN OXIDES
+CHEMISORPTION
+PHOTOELECTRON SPECTROSCOPY
+AES
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+GASES
+CHEMICAL COMPOSITION
+CORE LEVELS
+VALENCE BANDS

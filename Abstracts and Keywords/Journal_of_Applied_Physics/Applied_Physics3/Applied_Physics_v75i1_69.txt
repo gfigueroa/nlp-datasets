@@ -1,0 +1,9 @@
+A series of systematic studies have been made on both optimum design and preparation technology of high efficiency aSi/aSi/aSiGe triplejunction solar cells. It has been found that current matching is one of the key factors affecting the fill factor of twoterminal tandem solar cells, and excess carrier recombination at the pn interface acting as an internal electrode is dominated by the density of the minority carriers, interfacial states, and geometrical factor match of the materials at the pn interface. In this work, ¼cSi:H with wide band gap and high conductivity, which was prepared at low substrate temperature, was used as an n layer of aSi:H solar cells. In order to improve the ni interface property, a novel approach involving the insertion of an naSi:H buffer layer at the ni interface was developed. The experimental results show that the buffer layer of appropriate thickness could enhance the fill factor and open circuit voltage of aSi:H based solar cells. In addition, highly photosensitive aSiGe:H(F) films used for a bottom cell in aSi/aSi/aSiGe triple junction solar cells have been obtained by glow discharge of a gas mixture (SiH4GeF4H2) under conditions of high hydrogen dilution ratio and low deposition pressure. At present, the conversion efficiency of the aSi/aSi/aSiGe triplejunction solar cell of 11.5% with Voc=2.48 V, Jsc=6.58 mA/cm2, and FF=70.4% has been obtained under AM1(100 mW/cm2) illumination by optimization of the solar cell structure and preparation technology.
+
+SILICON SOLAR CELLS
+AMORPHOUS SEMICONDUCTORS
+DESIGN
+GERMANIUM SILICIDES
+HYDROGEN ADDITIONS
+EFFICIENCY
+PN JUNCTIONS

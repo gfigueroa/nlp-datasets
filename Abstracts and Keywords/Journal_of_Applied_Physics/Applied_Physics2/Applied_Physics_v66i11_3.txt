@@ -1,0 +1,13 @@
+The diffusion of Be from buried Bedoped layers in GaInAs has been studied for temperatures between 600 and 700	°C. An interstitialsubstitutional model is proposed for the diffusion mechanism, which is dependent on growth conditions and consistent with the data presented. Under growth conditions where Be transport is minimized GaInAs junction fieldeffect transistors have been produced with transconductances in excess of 200 mS mm1 for a 1¼m gate length.
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+DOPED MATERIALS
+BERYLLIUM
+DIFFUSION
+HIGH TEMPERATURE
+MATHEMATICAL MODELS
+INTERSTITIALS
+FIELD EFFECT TRANSISTORS
+MOLECULAR BEAM EPITAXY
+ATOM TRANSPORT

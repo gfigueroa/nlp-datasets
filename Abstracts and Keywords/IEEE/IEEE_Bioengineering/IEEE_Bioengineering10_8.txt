@@ -1,0 +1,8 @@
+As wireless sensor networks are equipped with sensor nodes which have a limited energy and sensing capabilities, a good routing protocol must be designed to make the network energy efficient. In this paper, we propose a centralized routing protocol called Central Base Station Controlled Density Aware Clustering Protocol (CBCDACP) where the base station centrally performs the cluster formation task. In this protocol, an optimum set of cluster heads are selected by using a new cluster head selection algorithm focusing on both the density of the sensor nodes and the minimum distances among the cluster head and its neighbor nodes. The performance of CBCDACP is then compared with some prevalent clustering-based schemes such as Low Energy Adaptive Clustering Hierarchy (LEACH), Centralized LEACH (LEACH-C). Simulation results show that CBCDACP can improve system life time and energy efficiency in terms of different simulation performance metrics over its comparatives.
+
+Wireless Sensor Networks
+cost function
+density factor
+sensor density
+setup phase
+steady-state phase

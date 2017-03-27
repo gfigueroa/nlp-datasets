@@ -1,0 +1,12 @@
+The photohole generation process in the smectic phases of a liquid crystalline photoconductor, 2-(42-octylpheny)-6-dodecyoxylnaphthalene (8-PNP-O12) with different illuminated contact electrodes was investigated through steady-state and transient photocurrent measurements. It was revealed that the photogeneration of holes was governed by two different processes according to the electrode materials: the Onsager type of photocarrier generation in the bulk and the electrode-enhanced hole photoinjection with a delay of ¼s when Al, and either Pt or In2O3SnO2 electrodes are applied, respectively. In the latter process, the photogeneration yield was one order of magnitude larger than that in the bulk generation process, but decreased as the molecular ordering degraded from the smectic B phase to the smectic A phase, then to the isotropic phase. According to the spectral response and the results of additional experiments on the effect of chemical doping with electron acceptors, the photohole injection was concluded to be attributed to the exciton decay at the interface of the electrode and liquid crystal, i.e., the charge transfer from photoexcited 8-PNP-O12 molecules to the electrode. The experimental results were analyzed according to a one-dimensional Onsager model and the diffusion length of excitons in the SmB phase was determined to be 30±10
+nm. © 2000 American Institute of Physics. 
+
+organic compounds
+smectic liquid crystals
+photoconductivity
+transients
+molecular orientation
+liquid crystal phase transformations
+excitons
+interface states
+charge transfer states

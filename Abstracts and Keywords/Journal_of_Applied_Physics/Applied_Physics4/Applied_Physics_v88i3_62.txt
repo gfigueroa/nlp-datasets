@@ -1,0 +1,13 @@
+A nonselective epitaxial growth process for heterojunction bipolar transistors has been studied. The difference in growth rates for epitaxial and polycrystalline films could be used to monitor the thickness of the intrinsic and extrinsic base layers. The films were grown using chemical vapor deposition on Si 100	 (epitaxy) and on silicon dioxide (polycrystalline) at reduced pressure (2080 Torr) for undoped and in situ B or As doping. The depositions were carried out using silane diluted in hydrogen. Diborane and arsine were used as the source gas for dopants. For the undoped Si films, the deposition of polycrystalline films had a substantially higher rate than that of epitaxial ones. The growth rate of both epitaxial and polycrystalline depositions decreased with increasing total pressure. It was, however, linearly proportional to the silane partial pressure, pSiH4. The dependence of the growth rate on the hydrogen partial pressure was proportional to pH20.82 for epitaxial and to pH20.60 for polycrystalline depositions. The apparent activation energy was 2.1 and 1.6 eV for the epitaxial and polycrystalline depositions, respectively. A growth mechanism assuming the dissociative adsorption of silane on the Si surface, in combination with first-order hydrogen desorption kinetics, was employed to describe the experimental observations, including the differences in deposition rates, dependency on the hydrogen partial pressure as well as apparent activation energy. In situ B doping influenced neither the epitaxial nor polycrystalline depositions. In situ As doping, on the other hand, largely reduced the growth rate compared to the undoped films to such an extent that there was no appreciable difference in growth rate between the epitaxial and polycrystalline Si. The doping concentration in the epitaxial B and As films were of the order of 1018 cm3, identical deposition conditions yielded a 5 and 20 times larger dopant incorporation in the B and As doped polycrystalline films, respectively. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+boron
+arsenic
+chemical vapour deposition
+vapour phase epitaxial growth
+semiconductor growth
+semiconductor epitaxial layers
+heterojunction bipolar transistors
+adsorption
+desorption

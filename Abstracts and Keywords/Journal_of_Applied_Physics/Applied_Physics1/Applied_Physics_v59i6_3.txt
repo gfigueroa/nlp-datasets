@@ -1,0 +1,17 @@
+In AlGaAs red lightemitting diodes fabricated by liquidphase epitaxy the presence and characteristics of deep centers located near the injectingactive junction boundaries have been studied. Transient capacitance, DLTS, photocapacitance, and photocurrent techniques have been applied. Besides the presence, in the ntype injecting layer, of centers related to the Te dopant (DX defects), deep hole traps have been detected at both sides of the np heterojunction. The physical origin of such hole traps, present in moderately large concentrations, is discussed in terms of Znrelated complexes. This defect pattern allows us to explain the thermal and photocapacitance, and the freezeout and photocurrent characteristics found in such devices.
+
+IMPURITY STATES
+FABRICATION
+HOLES
+TRAPS
+DEEP ENERGY LEVELS
+PHOTOCURRENTS
+HETEROJUNCTIONS
+LIGHT EMITTING DIODES
+ALUMINIUM ARSENIDES
+DLTS
+GALLIUM ARSENIDES
+CRYSTAL DOPING
+COLOR CENTERS
+ZINC
+TELLURIUM

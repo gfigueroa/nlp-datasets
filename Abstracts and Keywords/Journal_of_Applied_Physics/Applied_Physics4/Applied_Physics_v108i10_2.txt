@@ -1,0 +1,14 @@
+Based on semiempirical generalized embedded atom method (GEAM), we carried out molecular dynamics and Monte Carlo simulations to study the structural properties of FeCo and FeNi nanoparticles. It is found that these two kinds of nanoparticles possess a new stable quasicore-shell structure, no matter whether they are in molten or condensed state and whether they are prepared by annealing or quenching. In FeCo (FeNi) nanoparticles of various sizes and atom compositions, the quasicore-shell structure is always preferred, with the shell formed only by Fe atoms and the core formed by randomly distributed Co(Ni) and Fe atoms. We have also investigated the formation mechanism of the quasicore-shell structure by energy difference analysis of the pure and doped icosahedra structure of FeCo and FeNi nanoparticles.
+
+cobalt alloys
+doping
+iron alloys
+liquid metals
+magnetic annealing
+molecular dynamics method
+Monte Carlo methods
+nanomagnetics
+nanoparticles
+nickel alloys
+quenching (thermal)
+shells (structures)

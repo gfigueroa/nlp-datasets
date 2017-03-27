@@ -1,0 +1,9 @@
+We consider in this paper an arbitrary stack of dielectric plates with given voltage distributions at both lower and upper free surfaces of the stack. We address the problem of finding the potential distribution at any interface within the stack. This problem is of fundamental importance regarding a recently proposed electrooptical technique for testing printedcircuit boards. We have developed a simple and powerful matrix formalism relying on Fourier transformations of voltage distributions. The theory is verified against a particular kind of stack that is of practical importance in the already mentioned application. This stack is composed of three successive layers: an isotropic dielectric, a onedimensional elastomeric conductor, and an electrooptic crystal (Bi4Ge3O12). The last surface of the stack is grounded using a conductive (and transparent) electrode, whereas a given potential distribution is applied to the first surface. The potential distribution on the ungrounded face of the electrooptic plate (that side in contact with the elastomer) is measured using an optical reflective polarimetric technique. Our results demonstrate good agreement between theory and experiment.
+
+DIELECTRIC MATERIALS
+PLATES
+ELECTRIC POTENTIAL
+ELECTROSTATICS
+ELECTROOPTICAL EFFECTS
+TRANSFER MATRIX METHOD
+FOURIER TRANSFORMATION

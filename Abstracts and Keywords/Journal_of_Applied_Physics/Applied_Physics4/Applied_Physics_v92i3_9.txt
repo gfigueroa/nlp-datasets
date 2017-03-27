@@ -1,0 +1,9 @@
+In this article we report the role of excess interstitials in the end-of-range region in transient enhanced diffusion of boron during annealing of laser-processed samples. The results show that although the amorphous layer in preamorphized silicon can be completely annealed by laser irradiation, the end-of-range damages were not sufficiently annealed. The end-of-range region contains a supersaturation of interstitial defects that enhance the diffusion of boron during a post-laser processing anneal. It is found that the transient enhanced diffusion is significantly suppressed when the melt depth is extended beyond the amorphous layer such that the interstitial dose in the region adjacent to the laser-melted layer is minimized. In this way, the abruptness of laser-processed ultrashallow junctions can be maintained upon further annealing at moderately high temperatures. Cross-sectional transmission electron microscopy shows that a virtually defect-free regrown layer is obtained by overmelting beyond the amorphous layer into the substrate. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+boron
+diffusion
+interstitials
+annealing
+transmission electron microscopy

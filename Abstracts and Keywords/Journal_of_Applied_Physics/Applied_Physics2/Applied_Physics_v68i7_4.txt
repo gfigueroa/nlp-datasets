@@ -1,0 +1,12 @@
+The new family of GaInPSb quaternary alloys grown by organometallic vapor phase epitaxy was characterized by photoluminescence, transmission, photoluminescence excitation, and Raman spectroscopies. Transmission and photoluminescence excitation spectroscopic techniques were applied to determine the energy band gap of the alloys. It was found that the values of band gap obtained for the GaInPSb alloys were close to the theoretical values deduced from the data obtained for the end ternary alloys. The photoluminescence peak energies for all the samples were found to be about 80 to 150 meV below the band gap deduced from the transmission measurements. The large difference between the photoluminescence peak energy and band gap, together with other evidence, suggests that the photoluminescence is from recombination involving a deep center. The long wavelength lattice dynamics of the alloys were studied by Raman spectroscopy in the wavenumber range from 150 to 400 cm1. The long wavelength optical phonons displayed a three and fourmode behavior.
+
+GALLIUM ALLOYS
+INDIUM ALLOYS
+ANTIMONY ALLOYS
+OPTICAL PROPERTIES
+PHOTOLUMINESCENCE
+RAMAN SPECTRA
+ENERGY GAP
+RECOMBINATION
+ULTRALOW TEMPERATURE
+MEDIUM TEMPERATURE

@@ -1,0 +1,4 @@
+This paper deals with a new RF block model implementation dedicated to the design of complex systems on chip. The hierarchical library have been developed with simulators that can be used in a single design platform, which ensure a unique simulation environment and a full interoperability between the models. This is the first step in the development of a complete hierarchical models solution that can be compared to the SPICE MOS models ranging from level 1 to BSIM.
+
+RF system design
+hierarchical modeling

@@ -1,0 +1,10 @@
+The working efficiency and other properties of laserinduced surface plasmas have been compared for the case where two kinds of CO2 laser pulse interact with alumina substrates. Pulses of several times 10¼s duration are able to drill hole patterns while producing negligible mechanical stresses in the material. However, because of the formation of a laserinduced plasma which shields the material against the incoming laser beam, the drilling efficiency is rather low. A simple vaporization model shows that 30%100% of the laserpulse energy is used for material processing. There is in addition a threshold energy of about 50 mJ, below which no material processing occurs. Plasma diagnosis verifies characteristic times of absorptive modulation in the range of 510 ¼s. Therefore, laser pulses of high repetition rate (s10 kHz) and of a pulse duration below 5 ¼s have been used in order to overcome the abovementioned disadvantages. An important role with respect to the shielding effect is played by the electron density inside the laserinduced plasmas, because the absorption coefficient of the laser light in these surface plasmas is proportional to the square of the electron density. The spatial and temporal distribution of the electron density during material processing is therefore continuously monitored by a beamdeflection technique.
+
+ALUMINIUM OXIDES
+SURFACE PROPERTIES
+PLASMA
+LASER RADIATION
+ELECTRON DENSITY
+EFFICIENCY
+PHYSICAL RADIATION EFFECTS
+LASERPRODUCED PLASMA

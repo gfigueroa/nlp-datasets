@@ -1,0 +1,6 @@
+The paper presents the theory of wave probabilistic models together with their features that represent basic principles of quantum informatics. These features are mathematically described and the illustrative examples are shown to demonstrate the possible applications of the presented theory. The proposed methodology represents the original approach which comes from defined mathematical assumptions like single-valuedness, resonance principle, etc. From these simple assumptions a lot of principle of quantum informatics can be derived like quantization principle, spin, entanglement, etc.
+
+Quantum informatics
+quantum entanglement
+quantum spin
+wave probabilistic functions

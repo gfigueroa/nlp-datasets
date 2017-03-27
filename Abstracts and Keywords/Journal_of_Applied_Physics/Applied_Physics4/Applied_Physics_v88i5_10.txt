@@ -1,0 +1,20 @@
+FeTbDy/Finemet" and FeTbDy/Fe multilayers have been prepared by ion beam sputtering on room temperature sapphire substrates (Finemet is a nanocrystalline FeSiBNbCu magnetic alloy). After production, the FeTbDy and the Finemet layers are amorphous, whereas the Fe layers are polycrystalline. Subsequent annealing leads to relaxation of the amorphous FeTbDy layers in both cases and to crystallization of the Finemet layers for the FeTbDy/Finemet multilayers. In this regime, the properties of the multilayers can be well described by a mixture rule of the two perfectly coupled components. In an optimum thickness range for both layers, they show very soft magnetic properties and high magnetoelasticity. Furthermore, it has been observed that crystallization of the FeTbDy layers within the multilayer is hindered by interface stabilization as recently predicted in U. Herr, H. Geisler, H. Ippach, and K. Samwer, Phys. Rev. B 59, 13719 (1999). © 2000 American Institute of Physics. 
+
+iron alloys
+terbium alloys
+dysprosium alloys
+iron
+ferromagnetic materials
+nanostructured materials
+silicon alloys
+boron alloys
+niobium alloys
+copper alloys
+magnetic multilayers
+magnetoelastic effects
+crystallisation
+amorphous magnetic materials
+soft magnetic materials
+sputtered coatings
+annealing
+interface structure

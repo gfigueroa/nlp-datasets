@@ -1,0 +1,14 @@
+Lattice disorder and dopant distribution in silicon implanted at room temperature with In ions have been characterized by cross-sectional transmission electron microscopy (XTEM), Rutherford backscattering channeling, and secondary ion mass spectroscopy techniques. It is shown that full recoil Monte Carlo calculation in the binary collision approximation, including an empirical damage efficiency parameter varying with ion dose, can reasonably reproduce the disorder distributions extracted from ion-channeling spectra, under the assumption of defects as atoms randomly placed in a rigid lattice. The main features of the observed trend, such as, for instance, the threshold for amorphization and the width of the amorphized layer, are in good agreement with XTEM observations. Furthermore, the good agreement between calculated and experimental as-implanted In distributions shows that the dynamic evolution of dopant profiles is consistent with the simulated damage growth. The distributions of displaced atoms extracted from ion channeling spectra and the depth profiles of measured contrast on XTEM images show different trends as a function of ion dose, which are attributed to the different sensitivity of the two techniques to the structural properties of ion damage and to the evolution of defects with increasing dose. The approximations used for the damage model employed for the simulation of ion channeling measurements are strictly related to the interpretation of disorder. Such relationships are pointed out and discussed on the basis of some discrepancies observed in the fitting of backscattering spectra. © 2004 American Institute of Physics. 
+
+silicon
+indium
+elemental semiconductors
+ion implantation
+ion beam effects
+doping profiles
+transmission electron microscopy
+Rutherford backscattering
+channelling
+secondary ion mass spectra
+Monte Carlo methods
+amorphisation

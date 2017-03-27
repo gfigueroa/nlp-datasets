@@ -1,0 +1,7 @@
+A demonstration of the capability of the inhomogeneous wave theory to simulate backward displacement of ultrasonic-bounded beams [M. A. Breazeale and M. Torbett, Appl. Phys. Lett. 29, 456 (1976)] has been demonstrated recently [N. F. Declercq, J. Degrieck, R. Briers, and O. Leroy, Appl. Phys. Lett. 82, 2533 (2003)]. The current report applies the theory of the diffraction of inhomogeneous waves and shows how this theory is capable of simulating, explaining, and understanding the experiments mentioned above. The theory reveals the existence of leaky Scholte-Stoneley waves, a phenomenon suggested theoretically [N. F. Declercq, J. Degrieck, R. Briers, and O. Leroy, J. Acoust. Soc. Am. 112, 2414 (2002)] and observed experimentally [A. A. Teklu, M. A. Breazeale, J. Acoust. Soc. Am. 113, 2283 (2003)]. Moreover, the present paper shows that the classical Fourier decomposition of bounded beams is unable to simulate the backward beam displacement. This work also elucidates the nature of Wood anomalies in Diffraction spectra.
+
+ultrasonic diffraction
+surface acoustic waves
+Rayleigh waves
+Fourier transforms
+ultrasonic propagation

@@ -1,0 +1,6 @@
+The paper work investigates a flexible and integrated driver interface concept through the utilisation of wireless technology. The display of in-car sensor parameters and their control has been implemented using a bidirectional wireless system. The wireless system is based on the common Bluetooth standard, which permits a straightforward interface with numerous devices such as portable digital assistants, mobile hand-sets or navigation equipments. LCD displays provide a flexible driver interface for numerical and graphical information. Implemented as a wireless steering wheel, this interface allows control of in-car devices; and detachability permits their control outside the car, as well as providing safety, as removing the steering wheel or just its radio module renders the car inoperative. In addition to the in-car wireless system an 802.11g WLAN has been implemented which utilises its larger range to provide car-to-pit and potentially car-to-car voice and data transmission. For the realisation of both concepts the Cardiff Formula Student car has been used as a test-bed.
+
+Bluetooth
+Cockpit Telemetry
+Driver Interface
+WLAN

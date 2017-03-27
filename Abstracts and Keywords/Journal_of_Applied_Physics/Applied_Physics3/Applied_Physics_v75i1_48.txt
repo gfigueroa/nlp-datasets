@@ -1,0 +1,14 @@
+In order to determine which elements added to the Co layer in Co/Pt multilayers will reduce the Curie temperature with no significant decrease in the Kerr rotation angle, the magnetooptical (MO) properties of (Co1XMX)/Pt (M: additional elements) multilayers were studied, taking into account the change in MO properties brought about by varying Pt layer thickness while maintaining Co layer thickness. The addition of any element simultaneously decreases Curie temperature Tc and Kerr rotation angle almost proportionately to the reduction in saturation magnetization Ms	. The perpendicular magnetic anisotropy energy Ku also declines with the addition of another element, but for Ni, Fe, and Tb the change is small. The ratio Q of Ku to demagnetization energy, which represents the effective perpendicular magnetic anisotropy, degrades with X, due to the enlargement of Ms for Feadded films, while Ni and Tb preserve a large Q. Although the Tbadded films distinctly change their interfacial structure above X=0.2, Ni and Fe hardly change the structure even if added in large amounts. As a result, the addition of Ni can control MO properties, keeping large effective perpendicular magnetic anisotropy without influencing the structure. (Co,Ni)/Pt films possess lower Tc than Co/Pt films with the same Ms	, and the disks using (Co,Ni)/Pt films achieved higher write sensitivity and higher write/erase cyclability owing to the lower Tc than Co/Pt disks with the same carriertonoise ratio. It would seem, therefore, that (CoNi)/Pt multilayers are more promising for practical MO disks.
+
+COBALT
+PLATINUM
+MULTILAYERS
+CURIE POINT
+MAGNETOOPTICAL EFFECTS
+THICKNESS
+KERR EFFECT
+MAGNETIC ANISOTROPY
+MAGNETIC DISKS
+IRON ADDITIONS
+NICKEL ADDITIONS
+TERBIUM ADDITIONS

@@ -1,0 +1,6 @@
+Two-photon-excited fluorescence (TPEF) enhancement of a semiconductor quantum dot (SQD) adsorbed on a Au nanoparticle (NP) was investigated theoretically. Surface plasmon resonance (SPR) enhancement of the exciting light and radiative rate of the SQD, and nonradiative energy transfer (NRET) from SQD to Au NP were taken into account. Compared to the unitary enhancement factor obtained from considering SPR enhancement only, TPEF enhancement factor puts up dispersive property and greatly shrinks, even more than 90 percents in special conditions. It was indicated that the peak and the valley of the TPEF enhancement curve are not consistent with the peaks of positive SPR enhancement curve and negative NRET rate curve. By tuning SPR of the Au NP to the exciting light wavelength, larger enhancement of TPEF was observed. All these should be attributed to the effect of nonradiative energy transfer from SQDs to Au NPs.
+
+Metal nanoparticle
+Nonradiative energy transfer
+Surface plasmon resonance
+Two-photon-excited fluorescence

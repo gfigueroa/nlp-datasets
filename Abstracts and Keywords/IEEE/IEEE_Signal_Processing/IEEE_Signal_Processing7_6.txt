@@ -1,0 +1,6 @@
+We propose an innovative approach to enhance the color in image fusion. Previous work in color fusion has focused on the pseudo-color fusion. The color components are directly related to or linearly combined with the luminance images in different modalities. However, no work has been done to study the effects on the chrominance in the fused image when the luminance is significantly changed. For example, when objects in the visible image are dark but bright in the IR image, the fused objects become brighter. The color in the fused image looks pale. If the IR signal is strong enough such that the fused objects become saturated, the color is washed out. To solve these problems, we propose a gamma correction function to the normalized color components. The gamma function is a function of the difference between the fused result and the luminance of the visible image. In order to recover the chrominance in saturated region, we designed a damping function to drag the pixels in the saturated region closer to the visible image. We also discuss the orthogonalization of color bands in the correlated color space. The orthogonalization helps reduce the color skew during color enhancement.
+
+Image fusion
+color enhancement
+color fusion
+multisensor fusion

@@ -1,0 +1,6 @@
+An experimental technique is presented that allows determining the magnetization reversal and coercivity of magnetic-force microscopy (MFM) tips. An ©-shaped current carrying gold ring with a radius of 2400 nm fabricated by electron-beam lithography and a lift-off technique is charged with a constant current in order to produce a magnetic stray field in the z direction that is detected by MFM. While an oscillating MFM tip is continuously raster scanned across the center of the current ring, an external magnetic field is applied in the z direction and increased in magnitude in order to reverse the tip magnetization during imaging. Thus, the corresponding changes in the measured image contrast exclusively describe the magnetization reversal and coercivity of the particular part of the tip that is used for imaging. We have investigated commercially available thin-film tips and we find that the hysteresis loops measured with MFM may be significantly different as compared to hysteresis loops measured by means of superconducting quantum interference magnetometry on the respective magnetic tip coatings of the same tip. © 2001 American Institute of Physics.
+
+magnetic force microscopy
+magnetisation reversal
+coercive force
+magnetic hysteresis

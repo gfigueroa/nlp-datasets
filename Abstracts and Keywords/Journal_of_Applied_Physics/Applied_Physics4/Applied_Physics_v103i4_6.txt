@@ -1,0 +1,12 @@
+Systematic investigations were performed concerning the crystal structure and excitonic-related transitions of Zn1xCoxO layers. The substitution of Co atoms for Zn sites was initially identified from the intra-emissions originating from the 3d levels of the Co2+ ions. Microresonant Raman scattering (¼RRS) revealed that the local crystal structure of the host was disordered even at Co concentrations of a few percent, as determined by monitoring the A1(LO) mode and also supported by the É-rocking curves obtained from x-ray diffraction. A critical point (“-edge) derived from magnetic circular dichroism systematically shifted to higher energy with increasing x, representing clear evidence for a widening of the band gap, and that the photoluminescent peaks correlated closely with absorption peaks related to excitonic transitions. The obvious excitonic structures gradually became diffuse with the appearance of photoexcited charge-transfer levels of Co2+ ions when x exceeded 2%. This allowed for observations of excitonic luminescence of samples with a Co content not exceeding 0.8%. The excitonic luminescence for all Co-doped ZnO layers was superimposed distinctly with Stokes and anti-Stokes LO phonons. This was attributed to outgoing multiphonon resonance Raman scattering due to a Fröhlich interaction based on strong coupling between photoexcited carriers and LO phonons, and further supported by the results of ¼RRS.
+
+cobalt compounds
+crystal structure
+excitons
+II-VI semiconductors
+magnetic circular dichroism
+photoluminescence
+Raman spectra
+wide band gap semiconductors
+X-ray diffraction
+zinc compounds

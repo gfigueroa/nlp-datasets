@@ -1,0 +1,16 @@
+We report the observation of 29Si hyperfine spectra in a thin silicon dioxide film. The hyperfine observations allow us to establish with virtually absolute certainty that E2 centers reported earlier in plasmaenhanced chemicalvapor deposited oxides are silicon atoms bonded to three oxygen atoms with an unpaired electron residing in an sp hybridized orbital on the silicon. The hyperfine spectra additionally provide us with information regarding silicon bond angles, the amount of electron localization on the silicon site, and the relative amounts of s and p character of the electronwave function.
+
+SILICON OXIDES
+THIN FILMS
+CHEMICAL VAPOR DEPOSITION
+SILICON
+SUBSTRATES
+PLASMA
+ELECTRON SPIN RESONANCE
+DANGLING BONDS
+SILICON 29
+HYPERFINE STRUCTURE
+HYBRIDIZATION
+BOND ANGLE
+LOCALIZED STATES
+WAVE FUNCTIONS

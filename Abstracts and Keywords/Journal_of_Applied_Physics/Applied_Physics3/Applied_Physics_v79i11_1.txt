@@ -1,0 +1,13 @@
+A persistent spectral holeburning technique has been employed to investigate the impact of uniaxial stress on the defects created by neutron irradiation in natural Iatype diamond. Shifts of the spectral holes in the 649, 681, and 774 nm zerophonon lines (ZPLs) have been measured. The values of the shifts, 2.2, 1.2, and 0.65 cm1/kbar, obtained from these measurements have been compared with the stress shifts of the lines of defects with wellknown structure. It is suggested that vacancies are present in the defect responsible for the 681 nm ZPL. A combination of the results of polarized luminescence and uniaxial stress experiments leads to the conclusion of rhombic I symmetry of the defects that give rise to the 649 and 681 nm ZPLs. © 1996 American Institute of Physics. 
+
+DIAMONDS
+STRESSES
+HOLE BURNING
+ABSORPTION SPECTRA
+CRYSTAL DEFECTS
+RADIATION EFFECTS
+SPECTRAL SHIFT
+NEUTRON BEAMS
+VACANCIES
+PHOTOLUMINESCENCE
+VISIBLE SPECTRA

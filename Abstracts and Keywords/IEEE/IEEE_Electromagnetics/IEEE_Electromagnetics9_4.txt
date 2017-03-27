@@ -1,0 +1,6 @@
+The objective of this paper is to study the effect of earth resistance value toward radiated emission and conducted emission performance. The relation will be found if the noise of the equipment is dependent on the earth grounding of the system. The optimum earth resistance value will be identified in order to reduce the radiated emission and conducted emission noise level. This paper consists of experimental set up for common operational ground on both testing. Later the discussion and analysis will be done from a set of data obtained from multi earth resistance values.
+
+ADSL
+conducted emission
+earth resistance
+radiated emission

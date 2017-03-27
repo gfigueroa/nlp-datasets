@@ -1,0 +1,6 @@
+Zero angle of incidence transmission studies through lamellar gratings on silicon wafers were performed. Gratings with feature sizes of the order of magnitude of the radiation wavelength were fabricated on silicon wafers using micromachining technology. We found that the normal unpolarized light transmission spectra of such grating wafers have an oscillatory behavior, with minima and maxima having transmission values of the order of 0.03 and 0.5, respectively. The two absorption notches at wavelengths 9.06 and 16.39 microns, which appear as dips in the smooth spectra, are diminished in some grating structures. The oscillatory behavior of the spectra proves the existence of coupled electromagnetic modes inside the grating cavities. Theoretical simulation of the spectra based on the S-matrix propagation algorithm are in agreement with the experimental results. The results indicate the possibility of obtaining, with a proper grating design, efficient narrow band filters and mirrors. © 1998 American Institute of Physics.
+
+silicon
+elemental semiconductors
+diffraction gratings
+light transmission

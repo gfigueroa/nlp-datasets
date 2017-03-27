@@ -1,0 +1,11 @@
+A numerical algorithm for the solution of the twodimensional effectivemass Schrödinger equation for currentcarrying states, the quantum transmitting boundary method, is extended to magnetotransport problems where a magnetic field is applied. Boundary conditions appropriate for such states are developed and a solution algorithm based on the finiteelement method is constructed. The algorithm is valid for general device shapes, general potential profiles, and multiple leads of general orientations. The technique is applied to a quantum channel with a single scatterer, an antidot, in the channel. Magnetic quasibound states (MQBS) are formed around the scatterer and MQBSinduced resonant reflection is observed.
+
+TWODIMENSIONAL SYSTEMS
+MAGNETORESISTANCE
+BOUNDARY CONDITIONS
+QUANTUM MECHANICS
+SCHROEDINGER EQUATION
+FINITE ELEMENT METHOD
+ALGORITHMS
+HETEROSTRUCTURES
+TRANSPORT PROCESSES

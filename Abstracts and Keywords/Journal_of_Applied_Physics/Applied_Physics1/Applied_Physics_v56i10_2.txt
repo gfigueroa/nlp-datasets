@@ -1,0 +1,12 @@
+The empirical relation by Asbrock and Brand between the 1/f noise power, i2n[A2/Hz], and relevant parameters in phosphorusdoped polycrystalline silicon films at cryogenic temperatures is shown to follow Hooges 1/f noise model of lattice scattering, i2n/Idc<2 =±(¼/¼1)2/(Nf), where ±B2×103 is a dimensionless universal constant, N is the number of carriers in the sample, and Idc is the dc current. It is assumed here that the temperature dependence of lattice mobility is ¼1<T1.5 and that of electronic mobility is ¼<T, in polycrystalline Si:P+ films. The former relation is because of acoustic phonon interaction in covalent silicon and the latter is attributable to the decreasing barrier resistance at grain boundaries as the sample warms up.
+
+NOISE
+SILICON
+DOPED MATERIALS
+CRYSTAL DOPING
+PHOSPHORUS IONS
+ELECTRIC CONDUCTIVITY
+MOBILITY
+PHONONS
+GRAIN BOUNDARIES
+ULTRALOW TEMPERATURE

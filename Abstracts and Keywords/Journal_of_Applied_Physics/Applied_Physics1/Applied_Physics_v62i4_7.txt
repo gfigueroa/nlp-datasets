@@ -1,0 +1,11 @@
+The grain size and {110} fiber texture of lowpressure chemicalvapordeposited polycrystalline Si films were first modified using the seed selection through ion channeling process. These films were selfimplanted at 200 keV, at normal incidence, to various doses (520×1014 cm2), and were subsequently recrystallized at 600	°C. The asdeposited film was characterized by the smallest grain size, 0.08 ¼m, among all films and a weak {110} texture. The film processed with a dose of 11×1014 cm2 had an intermediate average grain size of 1.0 ¼m but was characterized by the strongest {110} texture among all films. The film processed with a dose of 20×1014 cm2, on the other hand, was characterized by the largest average grain size of 2.0 ¼m among all films but had no crystallographic texture. Metaloxidesemiconductor thinfilm transistors were then fabricated on these three films to examine the effects of grain size and fiber texture on device performance. Both n and pchannel transistors were fabricated, using a selfaligned process with a maximum processing temperature of 800	°C. For both types of transistors, the asdeposited film offered the worst device performance, exhibiting the highest threshold voltages (4 and 4 V, respectively) and the lowest channel mobilities (0.4 and 0.5 cm2/V	s, respectively). The 11×1014 cm2 film offered the best device performance, exhibiting the lowest threshold voltages (1.2 and 3.0 V, respectively) and the highest channel mobilities (42 and 34 cm2/V	s, respectively). The 20×1014 cm2 film, on the other hand, exhibited equal or slightly worse threshold voltages (1.6 and 3.0 V, respectively) and channel mobilities (35 and 24 cm2/V	s, respectively, than the 11×1014 cm2 film. These results demonstrate that both the grain size and grain orientation can be important factors in determining polycrystalline transistor performance. For grain sizes in the order of 12 ¼m, a stronger {110} texture can, in fact, lead to a better transistor material than a larger average grain size.
+
+MOSFET
+FABRICATION
+PERFORMANCE
+SILICON
+THIN FILMS
+TEXTURE
+POLYCRYSTALS
+GRAIN SIZE
+VERY HIGH TEMPERATURE

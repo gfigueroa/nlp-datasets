@@ -1,0 +1,8 @@
+The relation between absorption and emission spectra in a rare-earth doped solid is explored analytically and through numerical simulations on a model system. It is found that the widely used theory of McCumber [D. E. McCumber, Phys. Rev. 136, A954 (1964)] is strictly valid only when the linewidth of each individual transition between Stark levels is jkBT. When this assumption is relaxed, deviations between actual simulated spectra and McCumber-calculated spectra are found for both homogeneous and inhomogeneous broadening. The McCumber transform introduces a characteristic distortion of each component transition, in which the low-energy side of the spectrum is increased, and the high-energy side is decreased. The average degree of distortion for the model system is calculated to be 5% for a homogeneous width of 50	cm1 at room temperature, but only 1% for a purely inhomogeneous width of 50	cm1. For both homogeneous and inhomogeneous spectra, the distortion varies with the linewidth ”½ as (”½)3/2. The dependence of the distortion on temperature is different for the two types of line shapes, however: <T2 for homogeneous and <T1 for inhomogeneous broadening. For most rare-earth doped glasses and crystals at room temperature, the average degree of distortion is expected to be on the order of 5% or less, although the actual discrepancy in the spectral wings can be much larger. The effects described here are likely to be of importance when using McCumbers theory to obtain accurate cross section values in the spectral wings of rare-earth transitions. © 2002 American Institute of Physics. 
+
+rare earth metals
+impurity absorption spectra
+luminescence
+Stark effect
+spectral line broadening
+impurity states

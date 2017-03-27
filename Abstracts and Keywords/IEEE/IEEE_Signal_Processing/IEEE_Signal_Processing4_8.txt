@@ -1,0 +1,6 @@
+Recently we have reported development of an UWB array-based time-domain Ground Penetrating Radar for landmine detection. The radar is designed to be used within a vehicle-mounted multi-sensor system for humanitarian demining and produces 3D images of subsurface by ID mechanical scanning. In this paper, we demonstrate imaging capabilities of the developed system. The imaging capability of the radar is realized via electronic steering of the receive antenna footprint in cross-scan direction and synthetic aperture processing in along-scan direction. Imaging via footprint steering allows for drastic increase of the scanning speed.
+
+Video impulse radar
+electronic footprint steering
+subsurface imaging
+ultra-wideband antenna array

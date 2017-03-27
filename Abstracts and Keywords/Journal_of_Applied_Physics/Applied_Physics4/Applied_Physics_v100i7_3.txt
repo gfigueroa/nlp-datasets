@@ -1,0 +1,10 @@
+La2O3 is a promising candidate for future metal-oxide-semiconductor gate dielectric applications. In this work, metal-oxide-semiconductor (MOS) capacitors and metal-oxide-semiconductor field-effect transistors with La2O3 gate dielectric were fabricated. The maximum electron mobility is 270cm2/V	s. The time dependent dielectric breakdown (TDDB) of La2O3 was studied. It was observed that the Weibull slopes were independent of capacitor area. The Weibull slope increases with increasing La2O3 thickness. The TDDB of La2O3 follows the E model. The percolation model and electron trapping are used to explain the TDDB of La2O3 dielectrics.
+
+lanthanum compounds
+dielectric materials
+MOSFET
+MOS capacitors
+electron mobility
+electric breakdown
+percolation
+electron traps

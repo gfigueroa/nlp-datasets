@@ -1,0 +1,9 @@
+A method is proposed for precisely and instantaneously analyzing the optical absorption of a single microparticle. This method is based on the measurement of radiation pressure exerted on a particle, in which the Brownian motion of the particle is observed via total internal reflection microscopy, and then the femto-Newton-order radiation pressure induced by absorption is determined by thermodynamic analysis. On the basis of the MieDebye scattering theory, the imaginary part of the refractive index is estimated from the strength of the force using knowledge of the real part and the diameter of the particle. As a preliminary experiment, the concentration of rhodamine B molecules in a poly(methylmethacrylate) particle was estimated. © 2001 American Institute of Physics. 
+
+polymers
+radiation pressure
+light absorption
+Brownian motion
+optical microscopy
+refractive index
+spectrochemical analysis

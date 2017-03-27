@@ -1,0 +1,8 @@
+The Si+ and O+ signals, as obtained in secondary ion mass spectrometry (SIMS) analysis of silicon when using oxygen as the primary species, pass through an initial transient region before reaching the stationary state. We simulate this transient zone to check a phenomenological model for the secondary ionization of sputtered atoms. The simulation is split into two parts: the sputtering of neutrals obtained from implantation, sputtering, relocation/replacement, and diffusion, simulations and their subsequent ionization. The ionization phenomena are also described by some ad hoc fitting functions with which the SIMS measurements are better approached than with the model. The fitting functions and the model outputs are verified with experimental secondary ionization data. © 2001 American Institute of Physics.
+
+silicon
+elemental semiconductors
+oxygen
+sputtering
+secondary ion mass spectra
+impact ionisation

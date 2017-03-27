@@ -1,0 +1,14 @@
+Experimental studies were conducted on the elasticplastic deformation of the surface and inner layers of the metallic glass (MG) Co77Fe4Cr7Si8B4 ribbon using the indentation method. It was established that the elasticplastic properties of the surface and inner layers of the amorphous samples differ considerably. Elastic recovery of the hardness indentation in the surface layers of the amorphous alloy does not exist within the limits of the experimental error (at the depth of deformation up to 0.7 ¼m) and it gradually increases with increase of the depth of indentation. The effect of the advantageous plasticity (or superplasticity) of the surface layers is observed only in asquenched MG samples with a low concentration of crystallization centers. An increase in the volume of the crystalline phases in the amorphous matrix, when annealed in the temperature range characteristic of the process of structural relaxation, results in the appearance and considerable growth of the elastic recovery of the hardness indentation in the surface layers of the MG ribbon.
+
+HEAT TREATMENTS
+METALLIC GLASSES
+ELASTICITY
+PLASTICITY
+RIBBONS
+VICKERS HARDNESS
+COBALT ALLOYS
+IRON ALLOYS
+CHROMIUM ALLOYS
+SILICON ALLOYS
+BORON ALLOYS
+INDENTATION

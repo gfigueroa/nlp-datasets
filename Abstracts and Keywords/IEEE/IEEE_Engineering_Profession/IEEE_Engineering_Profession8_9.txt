@@ -1,0 +1,10 @@
+The Ultra Flat Architecture is a new concept of fixed-mobile convergent networks that aims to scale well with the mobile Internet traffic explosion prognosticated for the next 5-10 years. This paper presents a new delegation-based UFA signaling framework using HIP, IEEE 802.21 and the context transfer protocol. The main procedures contributed by this signaling framework are terminal attachment, session establishment, proactive handover preparation and handover execution services. The paper introduces several novel Host Identity Protocol extensions, i.e., two different HIP delegation service types for optimized message exchange in HIP-based UFA mobility and multihoming operations, a context transfer scheme for HIP and IPsec associations supporting and extending the mechanisms of the delegation-based UFA functions, and a fast operator-centric method for HIP-level access authorization. The proposed UFA signaling framework is compared with the existing SIP-based UFA signaling solution. The comparison shows that our scheme is able to support legacy Internet applications in an operator based environment, it is stronger in security, but its deployment requires more additional modules in the architecture. For IMS applications, the SIP-based alternative is a better choice.
+
+CXTP
+HIP context transfer
+HIP delegation services
+Host Identity Protocol
+IEEE 802.21
+Ultra Flat Architecture
+fast access authorization method for HIP
+scalability

@@ -1,0 +1,6 @@
+Laser-induced delamination is a recent technique aimed at characterizing adhesive strength of thin polymer coatings on metal substrates. A laser pulse is used to create a blister that initiates further delamination of the film under pressure. To process the experimental data a simple elastic model was developed. The model predicts values for the blister height and pressure in fair agreement with the experimental findings. The critical stress state required for delamination and the work of adhesion are derived. To account for possible plastic deformation computer simulations using finite elements with a mixed mode cohesive zone were carried out. The polymer coating is described with a constitutive law that includes an elastic response, yielding and hardening with increasing strain. The stress fields calculated with finite element model are in agreement with those predicted by the elastic model and it suggests that the contribution of plastic deformation to the work of adhesion is rather limited. Comparative analysis of these two approaches is presented. The theoretical predictions are compared to experimental results obtained for the 40¼m thick polyethylene terephthalate film on steel substrate.
+
+adhesion
+laser materials processing
+plastic deformation
+finite element analysis

@@ -1,0 +1,12 @@
+The microstructure of sputterdeposited granular FexAg100x thin films (0&lt;x&lt;60) has been investigated by using a high resolution transmission electron microscope. For xd14 at.	% Fe, two kinds of morphological regions exist, i.e., the crystallized and the highly disordered. As the x changes within 2036 at.	% Fe, small clusters with sizes around 1 nm are formed in the films. Further increase of x leads to the crystal grain fining and crystal frustration. The observed microstructural evolution in the films with the increase of Fe content can be correlated with the evolution of giant magnetoresistance at 4.2 K in the FeAg films: a linear relationship of the magnetoresistance ratio, ”Á/Á, with H for xd20 at.	%, the saturation trend and the decrease of ”Á/Á for xe36 at.	% Fe.
+
+IRON ALLOYS
+SILVER ALLOYS
+BINARY ALLOYS
+MICROSTRUCTURE
+TEM
+NANOSTRUCTURES
+GRAIN SIZE
+MAGNETORESISTANCE
+TEMPERATURE RANGE 013 K
+THIN FILMS

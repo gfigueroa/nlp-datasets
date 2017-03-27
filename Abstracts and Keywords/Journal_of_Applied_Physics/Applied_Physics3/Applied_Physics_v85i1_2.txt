@@ -1,0 +1,9 @@
+The microstructure of YBa2Cu3O7´ thin films grown on vicinal SrTiO3(001) has been studied as a function of the vicinal angle by x-ray diffraction using the two-dimensional q-scan technique. Our results reveal a strong correlation between the miscut of a SrTiO3(001) substrate and the anisotropic defect structure of the film. Furthermore, we observed an anisotropy of the corresponding critical current density up to 4.6 depending on the angle of miscut. © 1999 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting epitaxial layers
+critical current density (superconductivity)
+X-ray diffraction
+crystal defects

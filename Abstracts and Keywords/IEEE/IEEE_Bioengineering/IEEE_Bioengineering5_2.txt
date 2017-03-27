@@ -1,0 +1,6 @@
+Early detection is the most promising way to enhance a patient's chance for survival of lung cancer. One of the most important tasks in medical image analysis is to detect the absence or presence of disease in an image, without having precise delineations of pathology available for training. A computer algorithm for nodule detection in chest radiographs is presented. The algorithm consists of four main steps: (i) image acquisition (ii) image pre-processing; (iii) nodule candidate detection; (iv) feature extraction. Algorithm is applied on two main types of lung cancer images, like Small-Cell, Non-Small-Cell type and as well as on TB database. Total 75 images are used (25 from each category) during experiment to estimate geometrical and texture features. Active Shape Model (ASM) technique is used for lung field segmentation. Gray Level Co-occurrence Matrix (GLCM) technique is used to estimate texture features.
+
+ASM
+Chest X-ray
+GLCM
+Lung Field Segmentation

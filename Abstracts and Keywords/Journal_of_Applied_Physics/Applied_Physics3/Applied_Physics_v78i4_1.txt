@@ -1,0 +1,13 @@
+A comparison is made of the dc electrical characteristics of Si/Si1xGex heterojunction bipolar transistors (HBTs) fabricated on high oxygen content material grown using molecular beam epitaxy and low oxygen content material grown using chemical vapor deposition. The base currents of Si/Si0.85Ge0.15 HBTs with a high oxygen content are significantly higher than those of comparable devices with a low oxygen content and the base currents of both are higher than those of silicon homojunction devices. In addition the base current in the low oxygen content devices increases significantly when the germanium concentration is increased from 15% to 23%. The roles of the lifetime in the base and the outdiffusion of the boron from the Si1xGex base are investigated using a twodimensional driftdiffusion device simulator. It is shown that the increased base currents in the HBTs are caused by recombination in the neutral base, and that the lifetime in the Si1xGex is an important parameter in determining the base current. Modelling of the measured base currents indicates that the lifetime in the high oxygen content Si0.85Ge0.15 is reduced by a factor of approximately 15 compared with silicon, but in the low oxygen content Si0.77Ge0.23 by a smaller factor of approximately 4. Boron outdiffusion from the base is present in both the high and low oxygen content HBTs, but it appears to be significantly less in the former. A high oxygen content in Si1xGex HBTs therefore has the disadvantage of decreasing the lifetime, but the advantage of decreasing the boron outdiffusion from the base. © 1995 American Institute of Physics.
+
+SILICON
+GERMANIUM SILICIDES
+HETEROJUNCTIONS
+BIPOLAR TRANSISTORS
+MOLECULAR BEAM EPITAXY
+CVD
+OXYGEN
+SIMULATION
+ELECTRIC CURRENTS
+BORON ADDITIONS
+DIFFUSION

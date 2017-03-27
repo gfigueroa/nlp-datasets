@@ -1,0 +1,19 @@
+Auger electron spectroscopy (AES) and Rutherford backscattering spectroscopy (RBS) analysis were carried out in order to study the extent of interdiffusion during thermal treatment of the pinned electrode (Ta/NiFe/Cu/NiFe/IrMn/CoFe) of the magnetic tunneling junction. From the concentration profile results from RBS and AES, a significant amount of MnCoFe interdiffusion was observed when the sample was annealed at 200
+°C400
+°C under vacuum. The multilayer was completely intermixed at 400
+°C, losing the exchange bias interaction between the IrMn and CoFe layers. It was demonstrated that the migration of Mn was enhanced by the preferential oxidation of Mn on the surface. In fact, when a thin layer of Ta for oxidation protection was deposited on top of the electrode, the Mn diffusion was minimal up to 300
+°C. Our experiment suggests that in actual magnetic tunneling junctions, the Mn diffusion to the insulation layer could be enhanced by the presence of the free oxygen radicals in the insulation layer produced during the plasma oxidation of the Al layer. © 2002 American Institute of Physics.
+
+magnetic multilayers
+chemical interdiffusion
+exchange interactions (electron)
+Auger electron spectra
+Rutherford backscattering
+nickel alloys
+iron alloys
+cobalt alloys
+iridium alloys
+manganese alloys
+annealing
+tunnelling
+oxidation

@@ -1,0 +1,15 @@
+A Na2 dimer laser which is excited longitudinally by a singlefrequency Ar+ion laser at 488.1 nm exhibits a very narrow gain profile in forward direction of the pump beam. Using linear resonators with lengths r2 m, the gain profile can be appreciably narrower than the spacing of adjacent axial resonator modes. Only if a resonator mode coincides with the gain profile, laser oscillation is shown to occur. This leads to a very unstable emission with low efficiency. Possibilities to achieve controlled emission are demonstrated.
+
+GAS LASERS
+CONTROL
+DIMERS
+SODIUM
+EXCITATION
+ARGON IONS
+SPATIAL DISTRIBUTION
+GAIN
+OPTICAL PUMPING
+EXPERIMENTAL DATA
+OSCILLATION MODES
+INSTABILITY
+EFFICIENCY

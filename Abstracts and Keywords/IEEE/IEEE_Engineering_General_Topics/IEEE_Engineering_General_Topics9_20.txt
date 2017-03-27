@@ -1,0 +1,7 @@
+In this paper a new method based on particle filtering for separating and tracking event related-potential (ERP) subcomponents in different trials is presented. The latency and amplitude of each ERP subcomponent is formulated in the state space model. Based on some knowledge about ERP subcomponents, a constraint on the state space variables is provided to prevent the generation of invalid particles and also make use of a small number of particles which are most effective especially in high dimensions. The method is applied on the simulated and real P300 data. The algorithm has the ability of tracking P300 subcomponents i.e. P3a and P3b, in single trials even in the low signal-to-noise ratio situations.
+
+Event related potential (ERP)
+P300
+Particle filter
+constraint
+subcomponent

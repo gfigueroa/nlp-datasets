@@ -1,0 +1,16 @@
+Structural, optical, and photoluminescence investigations of ZnS capped with CdSe films prepared by electron beam evaporation are presented. X-ray diffraction analysis revealed that the ZnS/CdSe nanoparticles films contain cubic cadmium selenide and hexagonal zinc sulfide crystals and the ZnS grain sizes increased with increasing ZnS thickness. The refractive index was evaluated in terms of envelope method, which has been suggested by Swanepoel in the transparent region. The refractive index values were found to increase with increasing ZnS thickness. However, the optical band gap and the extinction coefficient were decreased with increasing ZnS thickness. Photoluminescence (PL) investigations revealed the presence of two broad emission bands. The ZnS thickness significantly influenced the PL intensities.
+
+cadmium compounds
+electron beam deposition
+energy gap
+extinction coefficients
+grain size
+II-VI semiconductors
+nanofabrication
+nanoparticles
+photoluminescence
+refractive index
+semiconductor growth
+vacuum deposition
+wide band gap semiconductors
+zinc compounds

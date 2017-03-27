@@ -1,0 +1,9 @@
+The exchange field Hex transferred from a thick antiferromagnetic substrate to a thin exchange coupled ferromagnetic film is shown to reach a limiting value no matter how large the exchange coupling is. The limit is due to domainwall formation in the antiferromagnet. Numerical results based on a simple model for the interface are presented and compared to experimental results.
+
+DOMAIN WALL
+ANTIFERROMAGNETIC MATERIALS
+EXCHANGE INTERACTIONS
+FERROMAGNETIC MATERIALS
+INTERFACE STRUCTURE
+COUPLING
+MATHEMATICAL MODELS

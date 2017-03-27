@@ -1,0 +1,8 @@
+The crystal structure and epitaxial orientation of self-assembled titanium silicide nanowires (NWs) on Si (111) is determined using transmission electron microdiffraction. The NWs are formed by deposition of <1 monolayer Ti on Si(111) at <850
+°C. Type 1 NWs are oriented with long axis along Si2-20	 and are identified as C49 TiSi2. The most common orientation is C49 [01-3] ## Si [112] and C49 (200) ## Si (2-20), but several other orientations are also found. Type 2 NWs are oriented with long axis along Si224	 and are identified as B27 TiSi, with orientation B27 [02-1] ## Si [111] and B27 (-312) ## Si (22-4) + 4°. Most of the NWs are incommensurate and fully strain relaxed. They generally extend below the surface with inclined incoherent interfaces. © 2003 American Institute of Physics. 
+
+titanium compounds
+metallic epitaxial layers
+nanowires
+self-assembly
+electron diffraction

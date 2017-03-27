@@ -1,0 +1,8 @@
+Electron spin resonance measurements on 4 and 40nm thick (HfO2)0.6(SiO2)0.4 and (HfO2)0.4(SiO2)0.6 high-º films on (100)Si wafers detected Pb0 and Pb1 defects at the dielectric/Si interface and verified their identities with g value mapping. Annealings of a 4nm thick (HfO2)0.6(SiO2)0.4 film in nitrogen at 800 and 1000	°C monotonically lowered total interface states. In contrast, the same annealings monotonically increased the total interface states observed in 40nm thick films of both compositions. For the 4nm technologically relevant thickness, the annealed (HfO2)0.6(SiO2)0.4 composition on (100)Si had lower interface states than the (HfO2)0.4(SiO2)0.6 composition on (100)Si. After nitrogen annealing at 800	°C, a third defect believed to be the EX, appears in larger quantities in the thicker 40nm films.
+
+hafnium compounds
+silicon compounds
+high-k dielectric thin films
+annealing
+interface states
+paramagnetic resonance

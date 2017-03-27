@@ -1,0 +1,12 @@
+Co-doped SnO2 nanocrystalline films have been fabricated by magnetron sputtering to investigate the effects of structural defects on mediating ferromagnetism in this system. X-ray photoelectron spectroscopy analysis reveals that Co element is incorporated into SnO2 lattice and is in 2+ oxidation state in all samples. High-resolution transmission electron microscopy observation indicates that along the film growth direction, Sn1xCoxO2 films change from amorphous structure to columnar grain except for the film deposited at room temperature. With the decrease of film thickness, deposition rate, and deposition temperature, a relative proportion of structural defects in films increases, resulting in an enhancement of the saturated magnetic moment of Sn1xCoxO2 film. Bound magnetic polaron mechanism is adopted to explain the mediation effect of structural defects on ferromagnetism in this system.
+
+cobalt
+ferromagnetic materials
+magnetic moments
+magnetic polarons
+magnetic thin films
+nanostructured materials
+sputter deposition
+tin compounds
+transmission electron microscopy
+X-ray photoelectron spectra

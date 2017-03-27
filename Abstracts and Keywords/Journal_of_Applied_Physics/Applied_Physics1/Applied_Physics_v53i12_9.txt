@@ -1,0 +1,21 @@
+Thin films of tantalum evaporated in high vacuum onto fused silica substrates at liquidnitrogen temperature are amorphous, even after heating above room temperature. On roomtemperature substrates, ²Ta, with a 30atom tetragonal unit cell, is deposited. The electrondiffraction interference function of the amorphous aTa agreed best with dense random packing models, although a ²Ta microcrystalline model also gave fairly good agreement. The complex optical conductivity was determined from reflection and transmission measurements in the spectral range 0.56.5 eV at room temperature. The results for aTa and ²Ta were very similar to each other, differing significantly from bcc ±Ta (deposited onto heated substrates or crystallized from amorphous films), and they could be extrapolated to the measured dc conductivity at zero energy. After subtraction of a Drude contribution with an electron meanfreepath on the order of the interatomic distance, the remainder showed some features of the interband absorption in ±Ta, though somewhat smoothed and weakened. We conclude that the local arrangement of near neighbors is more important than whether longrange order exists.
+
+tantalum
+amorphous state
+crystals
+films
+optical properties
+thickness
+evaporation
+substrates
+silicon oxides
+low temperature
+heating
+medium temperature
+tetragonal lattices
+electron diffraction
+reflection
+transmission
+wavelengths
+bcc lattices
+direct current

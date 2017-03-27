@@ -1,0 +1,8 @@
+In this article we present a unified model for studying the effect of the sizes and shapes of small semiconductor quantum dots on the electron and hole energy states. We solved the three-dimensional effective one band Schrödinger equation for semiconductor quantum dots with disk, lenticular, and conical shapes. For small InAs/GaAs quantum dots we found a substantial difference in the ground state and first excited state electron energies for dots with the same volume but different shapes. Electron energy dependence on volume is found to be quite different from the commonly quoted V2/3. The exponent can vary over a wide range and depends on the dot shapes. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+Schrodinger equation
+interface states

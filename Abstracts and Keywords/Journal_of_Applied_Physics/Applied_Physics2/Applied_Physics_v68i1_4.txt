@@ -1,0 +1,10 @@
+The smallangle xray intensities, scattered by four of the most typical natural coals, are analyzed assuming that coals behave as polydisperse distributions of cubic particles having a layered structure with an interlayer spacing partly dependent on particle sizes. The particle distributions are determined by a rather fast numerical algorithm, and in the considered momentumtransfer range, they appear independent of the interlayer spacing. The model reproduces quite well only the intensities which are neither particularly structured nor fractal at very small momentum transfers. Micropore, mesopore, and macropore relative sizes are estimated starting from the obtained particle distributions.
+
+COAL
+XRAY DIFFRACTION
+SMALL ANGLE SCATTERING
+SOLID STRUCTURE
+DISPERSIONS
+PARTICLES
+LAYERS
+FRACTALS

@@ -1,0 +1,11 @@
+We investigate the physical mechanisms responsible for waveguide formation in silica glass induced by 1kHz intense femtosecond laser pulses from a Ti-sapphire laser at 0.8¼m as well as from a femtosecond optical parametric amplifier at 1.5¼m. It is demonstrated that the densification taking place at the irradiated region is the principal cause for refractive index change in the waveguides written with both 0.8 and 1.5¼m pulses. The birefringence induced by the stress arising from such densification and its behavior against thermal annealing are also studied.
+
+densification
+optical glass
+silicon compounds
+laser beam annealing
+high-speed optical techniques
+optical waveguides
+optical fabrication
+refractive index
+birefringence

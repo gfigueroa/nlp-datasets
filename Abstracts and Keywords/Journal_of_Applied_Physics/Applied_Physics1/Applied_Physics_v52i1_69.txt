@@ -1,0 +1,8 @@
+The dependence on the thermal properties of the gas in a photoacoustic cell predicted by the samplegas thermal resistance theory is also predicted by the RosencwaigGersho theory for very thin samples.
+
+PHOTOACOUSTIC EFFECT
+TEMPERATURE EFFECTS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+GASES
+THERMODYNAMIC PROPERTIES

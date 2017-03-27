@@ -1,0 +1,5 @@
+An advanced Microgrid model is currently being developed at Concurrent Technologies Corporation (CTC) to understand and model the transient effects that occur during the operations of the Microgrid system that was built at CTC for the U.S. Army. The small-scale Microgrid is designed for different operational modes including grid-tie and island modes. CTC's Microgrid consists of two 35 kW synchronous generators (natural gas and diesel), a 40 kW renewable energy inverter, a three-phase variable resistive load bank (0&#x2013;225 kW), and two different motor-loads (a 20 hp motor load with dynamometer and four 5 hp motor loads). The development, implementation, and evaluation results of this transient power system model have been presented. The validated model is applied to develop optimized Microgrid control algorithms.
+
+Microgrid
+Transient Modeling and Analysis
+Validation and Demonstration

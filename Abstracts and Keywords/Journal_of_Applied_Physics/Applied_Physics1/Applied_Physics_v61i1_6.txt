@@ -1,0 +1,17 @@
+A technique for protecting the pn junction of InGaAs planar diodes using thermally evaporated glass films has been developed. A planar diode with a 90¼mdiam diffused junction protected with the glass film had a reverse current less than 1 nA at 20 V. The diode showed low reverse current even after prolonged hightemperature exposure (s275	°C for 24 h) in air.
+
+LEAKAGE CURRENT
+CHEMICAL VAPOR DEPOSITION
+VACUUM COATING
+GLASS
+VACUUM EVAPORATION
+PIN JUNCTIONS
+PASSIVATION
+SURFACE LAYERS
+DAMAGE
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+SEMICONDUCTOR DIODES
+PN JUNCTIONS
+VAPOR DEPOSITED COATINGS

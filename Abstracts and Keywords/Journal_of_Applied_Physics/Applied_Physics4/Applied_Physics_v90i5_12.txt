@@ -1,0 +1,8 @@
+It has been shown theoretically and demonstrated experimentally that shear horizontal (SH) surface waves can exist when the surface of an isotropic substrate is perturbed by a strong corrugation, for instance consisting of deep grooves etched in the substrate, whereas these waves cannot exist without this perturbation. It is shown in this article that a periodic array of metallic electrodes (wires) exhibiting large aspect ratios deposited over a piezoelectric substrate give rise to surface acoustic waves with general polarization. The admittance of an interdigitated transducer, which is a basic tool for predicting the waves parameters, is calculated by a combination of finite element analysis and a boundary integral method. This approach has been extended to obtain the polarization of the acoustic waves. For different piezoelectric substrates, we predict various surface acoustic modes and their polarization. Along with mostly SH modes, we also find modes mostly polarized in the sagittal plane. We discuss the frequency behavior of the surface modes as a function of the electrode height compared to the period. © 2001 American Institute of Physics. 
+
+surface acoustic waves
+substrates
+piezoelectric materials
+electromagnetic wave polarisation
+finite element analysis
+boundary integral equations

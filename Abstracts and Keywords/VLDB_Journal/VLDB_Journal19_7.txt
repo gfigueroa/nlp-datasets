@@ -1,0 +1,7 @@
+Google and other products have revolutionized the way we search for information. There are, however, still a number of research challenges. One challenge that arises specifically in desktop search is to exploit the structure and semantics of documents, as defined by the application program that generated the data (e.g., Word, Excel, or Outlook). The current generation of search products does not understand these structures and therefore often returns wrong results. This paper shows how todays search technology can be extended in order to take the specific semantics of certain structures into account. The key idea is to extend inverted file index structures with predicates which encode the circumstances under which certain keywords of a document become visible to a user. This paper provides a framework that allows to express the semantics of structures in documents and algorithms to construct enhanced, predicate-based indexes. Furthermore, this paper shows how keyword and phrase queries can be processed efficiently on such enhanced indexes. It is shown that the proposed approach has superior retrieval performance with regard to both recall and precision and has tolerable space and query running time overheads.
+
+Search
+Application data
+Desktop search
+Information retrieval
+Databases

@@ -1,0 +1,7 @@
+The angular dependence of anisotropic magnetoresistance (AMR) in epitaxial Fe3O4 films on several kinds of substrates has been investigated to explore the nature of AMR. All the measurements show that the dependence of AMR on the angle between current and magnetic field is the superimposition of sinusoidal twofold and fourfold symmetric AMR. The AMR in epitaxial Fe3O4 films is controlled by magnetic anisotropy and antiphase boundaries (APBs). The twofold and fourfold symmetric AMR originate from the scattering far away from the APBs and that near the APBs, respectively, which is consistent with the physical picture of magnetoresistance in epitaxial Fe3O4 films. The magnetic anisotropy, such as the uniaxial anisotropy induced by the step terraces and shape geometry, is closely related to the twofold symmetric AMR. The fourfold symmetric AMR is based on magnetocrystalline anisotropy and probably not correlated with the charge order in magnetite, which was verified by the fourfold symmetric AMR in octahedral-site doped epitaxial Ni0.3Fe2.7O4 films.
+
+antiphase boundaries
+enhanced magnetoresistance
+iron compounds
+magnetic anisotropy
+magnetic epitaxial layers

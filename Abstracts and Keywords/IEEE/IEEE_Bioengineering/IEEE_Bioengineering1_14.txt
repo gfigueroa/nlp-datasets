@@ -1,0 +1,6 @@
+Clustering algorithms are the core technique of data mining, machine learning, pattern matching, bioinformatics and a number of other fields. This paper proposes a new clustering method based on attribute partitioning and a novel data visualization method. In a nutshell, the idea for our method is based on two steps: 1) cluster data set using primary and secondary attributes of data; 2) map color stimulus spectrum to RGB color space and visualize clustering using the chromaticity diagram of J.C. Maxwell (Maxwell's triangle). The experiments show that the algorithm is very efficient. In addition it is simple and easy to implement. Our visualization algorithm aims at helping the user to get an overview of data as well as in prediction and decision making processes.
+
+chromaticity diagram
+clustering
+data mining
+data visualization

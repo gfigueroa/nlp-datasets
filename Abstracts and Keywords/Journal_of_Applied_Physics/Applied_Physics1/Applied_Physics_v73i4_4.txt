@@ -1,0 +1,11 @@
+A Cr oxide layer produced by the deposition of Cr onto a condensed H2O overlayer on a GaAs(100) wafer at T=90 K was studied using synchrotron radiation photoemission. Cr reacted with H2O immediately upon deposition at low temperature resulting in the synthesis of hydrated Cr oxide compounds, and then formed a stable dry oxide as the temperature of the substrate was raised toward room temperature and eventually 400	°C. The oxide was stable up to a temperature of at least 400	°C, although the substrate did show changes indicative of reaction.
+
+MOS JUNCTIONS
+GALLIUM ARSENIDES
+OXIDATION
+CHROMIUM OXIDES
+THIN FILMS
+PHOTOEMISSION
+SYNCHROTRON RADIATION
+CHEMICAL REACTIONS
+INTERFACES

@@ -1,0 +1,6 @@
+For the purpose of testing the dynamic performance of prototypes of TX6916 floor type boring-milling machine, the finite elements and test methods are adopted for vibration study of spindle. With ANSYS, the modal analysis on the spindle is adopted. On the basis of the three-dimensional solid model, the finite element model of the shaft-spindle system is established, and the first fifth-order natural vibration frequency and principal mode are obtained. With the thumper method, the dynamic response test is made for the spindle. According to comparison and analysis of the test data and the calculation results of the finite elements, the rationality of the finite element model is verified, and the source of error is analyzed. It provides the important basis for further dynamic study and optimum design of this boring-milling machine.
+
+modal analysis
+natural frequency
+spindle
+thumper method

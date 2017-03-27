@@ -1,0 +1,8 @@
+A quantitative analysis of the influence of temperature and modulation frequency on the thermal activation coupling term in laser photothermal theory is performed. Until now it was taken for granted that the coupling term is negligible only in the case of relatively low temperatures and generally when the equilibrium free-carrier density n0 satisfies the Sablicov's, Vasil'ev, and Sandomirskii inequality. In this work an extensive computational study of this inequality in the temperature range of 3001000 K was performed and a precise map is given concerning the violation of the inequality under various conditions including modulation frequency (0.1106 Hz) and doping concentration (intrinsic to 1020cm3). Some experimental photomodulated measurements have been performed in order to test the validity of the map. © 2002 American Institute of Physics. 
+
+laser theory
+thermoreflectance
+photothermal effects
+modulation spectra
+carrier density
+doping profiles

@@ -1,0 +1,20 @@
+The dielectric properties of laser-ablated 0.5-¼m-thick c-axis epitaxial Na0.5K0.5NbO3 (NKN) films on high-resistivity (&gt;7.7 k©
+cm) silicon SiO2/Si substrates are studied experimentally in the temperature interval of 30320 K and at frequencies of 1.0 MHz40 GHz. The films are grown by laser ablation from a stoichiometric target. For the measurements, planar 0.5-¼m-thick gold electrodes (interdigital and straight slot) are photolithography defined on the top surface of NKN films. The slot width between the electrodes is 2.0 or 4.0 ¼m. At low frequencies (f&lt;1.0
+GHz), the structure performance is that of a typical metaldielectricsemiconductor type, where two of this type of capacitor are connected back to back. At these frequencies, the large change in the capacitance (more than 10 times at 1.0 MHz), due to the applied dc field, is mainly due to the changes in depletion layer thickness at the surface of silicon. The associated losses are also large, tan
+´&gt;1. At microwave frequencies (f&gt;10
+GHz), the voltage dependence of the capacitance is given by the NKN film. More than a 13% capacitance change at 40 V dc bias and a Q factor of more than 15 are observed at 40 GHz, which make the structure useful for applications in electrically tunable millimeter-wave devices. © 2002 American Institute of Physics. 
+
+sodium compounds
+potassium compounds
+silicon compounds
+silicon
+elemental semiconductors
+ferroelectric thin films
+epitaxial layers
+MIS capacitors
+ferroelectric capacitors
+thin film capacitors
+capacitance
+pulsed laser deposition
+microwave devices
+millimetre wave devices

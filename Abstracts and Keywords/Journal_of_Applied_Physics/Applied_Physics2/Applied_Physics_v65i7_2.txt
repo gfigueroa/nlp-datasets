@@ -1,0 +1,10 @@
+In YBaCuO ceramics, the dc voltage (Vdc ) induced by an rf current of 220 MHz, which had been previously reported as reverse ac Josephson effect, was observed at 77300 K. The observed Vdc is not found to be due to reverse ac Josephson effect but due to nonlinear currentvoltage characteristics, as in the case of BaPb1xBixO3. However, behavior of the Vdc is different from that in BaPb1xBixO3, which was related to bulk superconducting transition. The Vdc is observed only in the sample with particular electrical contacts and only when the rf current can flow through the potential electrical contacts. The origin of the rftodc conversion effect in YBaCuO is ascribed to local nonlinear resistance near potential contacts.
+
+HIGHTC SUPERCONDUCTORS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+LOW TEMPERATURE
+MEDIUM TEMPERATURE
+NONLINEAR PROBLEMS
+ELECTRIC CONDUCTIVITY

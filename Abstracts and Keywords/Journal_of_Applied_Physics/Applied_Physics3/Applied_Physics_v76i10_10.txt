@@ -1,0 +1,12 @@
+An inhomogeneous laminar conductor model developed earlier has been applied to glasses in the system Na2OGeO2. Detailed modulus spectra have been measured for glasses containing 1020 mol	% Na2O. The experimental data are in satisfactory agreement with the theoretical values as obtained by this model.
+
+GERMANATE GLASSES
+ELECTRIC CONDUCTIVITY
+RELAXATION
+SODIUM OXIDES
+GERMANIUM OXIDES
+IONIC CONDUCTORS
+FREQUENCY RANGE
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 04001000 K
+ELECTRIC IMPEDANCE

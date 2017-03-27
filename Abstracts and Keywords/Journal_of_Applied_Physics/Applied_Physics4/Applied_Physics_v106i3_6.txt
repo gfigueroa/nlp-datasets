@@ -1,0 +1,13 @@
+Lead-free piezoelectric ceramics (1x)K0.5Na0.5NbO3xAgSbO3+0.75mol	% MnO2 were prepared by a conventional solid-state sintering technique, and the piezoelectric and dielectric properties of the ceramics were studied. The results of x-ray diffraction suggest that AgSbO3 diffuses into the K0.5Na0.5NbO3 lattices to form a new solid solution with a single-phase orthorhombic perovskite structure. After the addition of AgSbO3, the paraelectric cubic-ferroelectric tetragonal phase transition temperature (TC) and the ferroelectric tetragonal-ferroelectric orthorhombic phase transition temperature (TO-T) decrease, and the ceramics become softened, resulting in significant improvements in the ferroelectric and piezoelectric properties. The ceramics with x = 0.030.10 exhibit excellent piezoelectric properties: d33 = 130216pC/N, kp = 0.440.51, and kt = 0.400.52. The ceramics also exhibit a good thermal stability up to high TO-T, suggesting that the ceramics are promising candidates for lead-free piezoelectric ceramics.
+
+crystal structure
+ferroelectric transitions
+permittivity
+piezoceramics
+piezoelectricity
+potassium compounds
+silver compounds
+sintering
+sodium compounds
+thermal stability
+X-ray diffraction

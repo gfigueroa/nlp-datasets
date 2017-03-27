@@ -1,0 +1,6 @@
+A mechanics-based model is developed to examine the effects of clamping during wafer bonding processes. The model provides closed-form expressions that relate the initial geometry and elastic properties of the wafers to the final shape of the bonded pair and the strain energy release rate at the interface for two different clamping configurations. The results demonstrate that the curvature of bonded pairs may be controlled through the use of specific clamping arrangements during the bonding process. Furthermore, it is demonstrated that the strain energy release rate depends on the clamping configuration and that using applied loads usually leads to an undesirable increase in the strain energy release rate. The results are discussed in detail and implications for process development and bonding tool design are highlighted. © 2004 American Institute of Physics. 
+
+wafer bonding
+internal stresses
+delamination
+semiconductor process modelling

@@ -1,0 +1,7 @@
+GPR has been thought a useful sensor for detection of buried land mines, but no GPR has been practically deployed in humanitarian demining. Since 2002, we have developed a new hand-held land mine detection dual-sensor ALIS. ALIS is equipped with a metal detector and a GPR, and it has a sensor tracking system, which can record the GPR and Metal detector signal with its location. It makes possible to process the data afterwards, including migration. The migration processing drastically increases the quality of the image of the buried objects. ALIS uses two different GPR systems, namely VNA (Vector Network Analyzer) based GPR and an Impulse GPR. VNA based GPR can provide better quality GPR images, although the impulse GPR is faster and light weight. ALIS evaluation tests have been held in mine affected courtiers including Afghanistan, Croatia, Egypt and Cambodia. In the two-month evaluation test in Cambodia, ALIS worked without any problem. After some demonstrations and evaluation, we got many useful suggestions. Using these advises, we have modified the ALIS and it is now more easy to use. ALIS will be commercialized in 2007.
+
+Cambodia
+GPR
+Hand-held Dual Sensor
+Humanitarian Demining
+Sensor Tracking System

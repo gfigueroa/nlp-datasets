@@ -1,0 +1,5 @@
+Monte Carlo simulation of adsorption and diffusion of active gas particles in porous materials was carried out. Dependences of intensity of chemical reactions between particles on pores walls and penetration depth on pore size, adhesion coefficient and flux were analyzed.
+
+Monte Carlo
+porous dielectrics
+simulation

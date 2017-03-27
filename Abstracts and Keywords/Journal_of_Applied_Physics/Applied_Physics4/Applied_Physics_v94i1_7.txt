@@ -1,0 +1,20 @@
+Thin films of HfO2 high-k dielectric have been prepared by pulsed-laser deposition at various substrate temperatures and pressures. X-ray diffraction, atomic force microscopy, secondary ion mass spectroscopy and ellipsometry were used to characterize the deposited films. Experimental results show that substrate temperature has little effect on the stoichiometry, while deposition pressure plays an important role in determining the ratio of Hf and O. It is also found that the optical properties of the HfO2 thin films have strong dependence on both the deposition temperature and pressure. The electrical properties of HfO2 metalinsulatormetal (MIM) capacitors were investigated at various deposition temperatures. It is shown that the HfO2 (56 nm) MIM capacitor fabricated at 200
+°C shows an overall high performance, such as a high capacitance density of <3.0
+fF/¼m2, a low leakage current of 2×109
+A/cm2 at 3 V, low-voltage coefficients of capacitance, and good-frequency dispersion properties. All of these indicate that the HfO2 MIM capacitors are very suitable for use in Si analog circuit applications. © 2003 American Institute of Physics. 
+
+hafnium compounds
+dielectric materials
+dielectric thin films
+pulsed laser deposition
+X-ray diffraction
+atomic force microscopy
+secondary ion mass spectra
+ellipsometry
+stoichiometry
+refractive index
+extinction coefficients
+MIM devices
+capacitors
+capacitance
+leakage currents

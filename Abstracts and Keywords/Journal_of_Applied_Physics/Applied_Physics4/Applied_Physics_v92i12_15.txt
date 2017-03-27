@@ -1,0 +1,15 @@
+Epitaxial growth of n-type SiC was carried out using PH3 and N2 as the dopant precursors in a chemical vapor deposition system. Thermodynamic simulations were performed to analyze the gas phase composition at the growth conditions. It was shown that the incorporation behaviors of these two dopants are quite different. Compared to nitrogen, phosphorous incorporation has a weaker dependence on flow rate and has a limited site competition effect. Also, phosphorus incorporation for a given precursor flow decreases with temperature while that of nitrogen increases. It was also observed that phosphorous incorporation increases with decreasing C/Si when the ratio is between 0.8 and 3, which suggests phosphorous might incorporate into C site when C/Si is low. Variable temperature Hall measurements were used to characterize the doped layers. Two donor levels at 8283 and 105114 meV for phosphorous in 6HSiC, 5052 meV, and 7880 meV for phosphorous in 4HSiC were resolved. These results were compared to those from ion-implanted samples. © 2002 American Institute of Physics. 
+
+phosphorus
+nitrogen
+silicon compounds
+wide band gap semiconductors
+semiconductor doping
+semiconductor epitaxial layers
+chemical vapour deposition
+vapour phase epitaxial growth
+semiconductor growth
+impurity states
+secondary ion mass spectra
+doping profiles
+Hall effect

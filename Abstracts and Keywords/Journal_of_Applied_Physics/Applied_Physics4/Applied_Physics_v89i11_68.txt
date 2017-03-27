@@ -1,0 +1,11 @@
+High quality magnetoresistive La(1x)CaxMnO3 thin films have been prepared by the chemical solution deposition technique. A solution of propionate precursors of lanthanum, calcium, and manganese in propionic acid was used for this purpose. Films of varying compositions (x varying from 0.1 to 0.4) were spin coated on to LaAlO3(100) and SrTiO3(100) substrates at room temperature and pyrolyzed in the temperature range 600850
+°C. For fixed compositions, annealing at higher temperatures shifts the insulatormetal transition temperature (TIM) to higher values accompanied by a reduction in the resistivity values. The TIM variation for different x values was found to be less pronounced in the compositions x=0.2, 0.3, and 0.4. Typical TIM values of 283 K and 290 K were obtained for La0.7Ca0.3MnO3 coated on LaAlO3 and SrTiO3 substrates, respectively, when annealed at 850
+°C. The substrate effect was found to be more pronounced for the x value 0.1 which showed two peaks (one at 271 K and another at 122 K) in the Á-T curve. The roles of substrate mismatch, composition variation, and annealing temperatures are discussed. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+calcium compounds
+liquid phase deposited coatings
+ferromagnetic materials
+magnetic thin films
+metal-insulator transition
+colossal magnetoresistance

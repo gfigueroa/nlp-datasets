@@ -1,0 +1,18 @@
+BiFeO3 (BFO), BiFe1xTixO3, and BiFe0.9Ti0.05Co0.05O3 thin films were deposited on Pt/TiO2/SiO2/Si substrates by chemical solution deposition. BFO film has distorted rhombohedral R3c structure and in BiFe1xTixO3 (104)/(110) reflections broadened suggesting limited grain growth with Ti substitution. The surface roughness (rms) decreased in the case of Ti substituted BFO. Up to 5% Ti in the lattice reduces the leakage current substantially. For BiFe1xTixO3, the leakage current qualitatively followed the same trend and the behavior resembles to space charge limited current conduction. The magnetic properties were completely lost by Ti substitution and slightly recovered upon cosubstitution with magnetically active Co. The disappearance of ferromagnetic hysteresis of BFO with Ti substitution and its reappearance with Co is suggestive of the origin of magnetic properties consequential from the BFO lattice itself and hence support it as an intrinsic property of BFO. Capacitance-voltage characteristics of BFO, BiFe0.95Ti0.05O3, and BiFe0.9Ti0.05Co0.05O3 showed butterfly loop indicating ferroelectric property at room temperature as well as at low temperature. However, saturated polarization-voltage hysteresis was not observed in all cases and BiFe0.9Ti0.05Co0.05O3 films showed very poor ferroelectricity compared to BFO and BiFe0.95Ti0.05O3.
+
+bismuth compounds
+crystal structure
+ferroelectricity
+ferromagnetism
+grain growth
+insulating thin films
+iron compounds
+leakage currents
+liquid phase deposition
+magnetic hysteresis
+platinum
+silicon
+silicon compounds
+space charge
+surface roughness
+titanium compounds

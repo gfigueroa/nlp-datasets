@@ -1,0 +1,14 @@
+In a recent comment by Prelas and Schlapper, the statement was made that in a paper by Carter, Rowe, and Schneider, the Ne line at 632.8 nm claimed to be observed could not have been observed, since the upper state population of the laser transition could not have possibly have been sufficient to allow lasing. The comment is based on a simple model introduced by Prelas and Schlapper. We show, in this response, that this model is conceptually wrong. In addition, a calculational error was made when they computed the power input to be 4.7 mW/cm3 rather than the correct value of 9.8 mW/cm3.
+
+GAS LASERS
+NUCLEAR PUMPING
+HELIUM 3
+NEON
+WAVELENGTHS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+TIME DEPENDENCE
+ENERGYLEVEL DENSITY
+ENERGYLEVEL TRANSITIONS
+ERRORS
+COMPARATIVE EVALUATIONS

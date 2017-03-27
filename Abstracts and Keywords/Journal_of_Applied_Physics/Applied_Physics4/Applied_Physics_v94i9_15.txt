@@ -1,0 +1,15 @@
+Oriented CoxNi1x nanoparticles were synthesized by sequential implantation of 90 keV Co and Ni ions at room temperature in the near surface of an yttria-stabilized zirconia single crystal. Transmission electron microscopy and a superconducting quantum interference device magnetometer as well as a vibrating sample magnetometer were utilized to characterize the structural and magnetic properties of the implanted layer. Typical nanoparticles range from 3 to 10 nm in diameter, and some elongated precipitates as long as 25 nm were formed by joining the nanoparticles with nanotwins. Hysteresis loops were measured at both 300 and 10 K, and showed coercivity of 100 or 250 Oe, respectively. Magnetization versus temperature in zero-field-cooled and field-cooled fields was measured. No obvious superparamagnetism was detected below 300 K. © 2003 American Institute of Physics. 
+
+cobalt alloys
+nickel alloys
+nanoparticles
+magnetic particles
+ferromagnetic materials
+ion implantation
+yttrium compounds
+zirconium compounds
+transmission electron microscopy
+magnetisation
+precipitation
+magnetic hysteresis
+coercive force

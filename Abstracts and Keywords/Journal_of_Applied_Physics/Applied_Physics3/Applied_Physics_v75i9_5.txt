@@ -1,0 +1,10 @@
+Critical parameters for the development of the plasmasource ion implantation process are the ion implantation current and the sheath expansion characteristics. Recently, Xia and Chan [J. Appl. Phys. 73, 3651 (1993)] have investigated these parameters for small spherical electrodes inserted in a two component positive ionelectron plasma. This investigation is extended to a plasma that consists of three components: positive ions, negative ions, and electrons.
+
+PLASMA SOURCES
+ION IMPLANTATION
+ION DRIFT
+CURRENTS
+ANIONS
+CATIONS
+ELECTRODES
+ELECTRONS

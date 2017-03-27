@@ -1,0 +1,6 @@
+Synchrotron radiation x-ray microtomography is becoming a uniquely powerful method to nondestructively access three-dimensional internal microstructure in biological and engineering materials, with a resolution of 1¼m or less. The tiny field of view of the detector, however, requires that the sample has to be strictly small, which would limit the practical applications of the method such as in situ experiments. In this paper, a wavelet-based local tomography algorithm is proposed to recover a small region of interest inside a large object only using the local projections, which is motivated by the localization property of wavelet transform. Local tomography experiment for an AlCu alloy is carried out at SPring-8, the third-generation synchrotron radiation facility in Japan. The proposed method readily enables the high-resolution observation for a large specimen, by which the applicability of the current microtomography would be promoted to a large extent.
+
+aluminium alloys
+copper alloys
+tomography
+X-ray apparatus

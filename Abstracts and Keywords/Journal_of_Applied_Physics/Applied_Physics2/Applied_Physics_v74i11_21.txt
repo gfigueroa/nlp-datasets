@@ -1,0 +1,14 @@
+A model used to approximate the measured response of a BiSrCaCuO detector to both microwave frequency and HeNe laser light over a temperature range from zero up to the critical transition temperature of the superconductor Tc is reported. The nonbolometric (microwave) response model is based on microwave enhancement of a thermal fluctuation voltage occurring in the networks of inherent Josephson junctions. Modeling the film as a distribution of granular connections with varying critical currents and temperatures yields results similar to those observed in recent microwave response measurements. These results may be useful when optimizing the nonbolometric response for detector applications.
+
+SUPERCONDUCTING FILMS
+GRANULAR MATERIALS
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+MULTIELEMENT COMPOUNDS
+MATHEMATICAL MODELS
+DETECTORS
+TEMPERATURE RANGE
+MICROWAVE RADIATION
+JOSEPHSON JUNCTIONS

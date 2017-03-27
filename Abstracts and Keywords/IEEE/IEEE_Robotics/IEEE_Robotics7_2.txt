@@ -1,0 +1,6 @@
+The new approach to structure verification of the Web hyperlinks is presented in the paper. It utilizes several types of patterns extracted from the Web usage data: positive and negative association rules, positive sequential patterns as well as the new kind of patterns - sequential patterns with negative conclusions. All they enable to appraise the usefulness of hyperlinks in both the positive and negative way. Based on this knowledge, the content managers can adequately promote the trustworthy hyperlinks and remove the negatively verified ones.
+
+association rules
+negative association rules
+sequential patterns
+user interface structure verification

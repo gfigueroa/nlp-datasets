@@ -1,0 +1,10 @@
+The presence of UrbachMartienssens tail in the absorption coefficient spectra just below the fundamental absorption edge is observed in several samples of the ordered vacancy compound CuIn3Se5 at different temperatures below 300 K. An empirical relation that takes into account the effect of structural disorder and modification in the contribution of the thermal term, caused due to the deviation from the ideal stoichiometry 1:3:5, is proposed to explain the change of Urbachs energy KT/Ã with temperature. The phonon energy involved in the electronphonon interaction, in the absence of structural disorder, is estimated to be around 23 meV. © 1998 American Institute of Physics. 
+
+ternary semiconductors
+copper compounds
+indium compounds
+absorption coefficients
+vacancies (crystal)
+electron-phonon interactions
+visible spectra
+stoichiometry

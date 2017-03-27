@@ -1,0 +1,8 @@
+Performing mutual device authentication before providing services is a critical step for ensuring that the services are only accessible to legitimate users. This paper proposed a new form of biometric authentication, the Multiple Fingers Synchronization (MuFS) mutual authentication scheme which can be used for device mutual authentication. MuFS achieves comparable performance as traditional biometric authentication schemes such as fingerprint or face recognition in terms of False Rejection Rate (FRR), False Acceptance Rate (FAR) and Equal Error Rate (EER) under convenient user experience configurations. Additionally, the performance of MuFS is easily tuned by configuring the operation parameters. Unlike classic biometric authentication schemes, no user sensitive information such as fingerprint templates is disclosed to the verifier. The proposed scheme can be integrated with existing key agreement protocols to frustrate man-in-the-middle attacks.
+
+(MuFS) mutual authentication scheme
+Biometric authentication
+Biometrics
+Commitment
+Device authentication
+Multiple Fingers Synchronization

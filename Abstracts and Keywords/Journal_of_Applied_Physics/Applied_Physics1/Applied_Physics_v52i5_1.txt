@@ -1,0 +1,14 @@
+We have established in a simple and straightforward fashion that the analysis of quasistatic flow in fluidsaturated porous media due to Rice and Cleary is derivable from the lowfrequency limit of Biots slow compressional/diffusive mode. The single material parameter of the problem, the diffusivity, is simply related to the bulk and shear moduli and permeability of the skeletal frame and to the viscous and elastic properties of the constitutive media. Since this common theory treats fluid and solid displacements on an equal footing, it is the most general linearized description of the problem; other treatments are special cases. These latter include the rigid frame approximation used in the petroleum industry and the weak frame approximation used by De Gennes to describe the motion of polymer gels.
+
+POROUS MATERIALS
+FLUID FLOW
+MATHEMATICAL MODELS
+THEORETICAL DATA
+COMPRESSION
+DIFFUSION
+PARAMETRIC ANALYSIS
+SHEAR
+PERMEABILITY
+VISCOSITY
+ELASTICITY
+GELS

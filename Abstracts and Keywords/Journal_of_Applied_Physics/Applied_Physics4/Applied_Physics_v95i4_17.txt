@@ -1,0 +1,11 @@
+The results obtained from the finite element model of laser-generated ultrasound are presented in terms of temperature and displacement. According to thermoelastic theory, considering the temperature dependence of the thermophysical parameters of the material, the transient temperature field can be precisely calculated by using the finite element method; then, laser-generated surface acoustic wave forms are calculated in Al plates of various thicknesses. The elastic waves excited by a pulsed laser in a thin plate are typical Lamb waves, and the numerical results demonstrate that the surface vibration is mainly determined by the lower frequency components of the symmetric mode s0 and antisymmetric mode a0 of the lowest order in very thin plate materials. It is also indicated that, when the sample thickness increases, both the higher frequency components of the lower Lamb wave modes and the higher order Lamb wave modes should be considered. In a relatively thicker plate, the numerical model can still capture the significant details of the transient features taking place in the plates. The surface skimming longitudinal and shear waves are relatively stronger in the near field, distorting the observed wave form of the Rayleigh wave. These effects must be considered when the quantitative near field is applied to determining elastic parameters or residual stresses. © 2004 American Institute of Physics. 
+
+aluminium
+Rayleigh waves
+surface acoustic waves
+laser beam applications
+thermoelasticity
+finite element analysis
+surface dynamics
+internal stresses
+photoacoustic effect

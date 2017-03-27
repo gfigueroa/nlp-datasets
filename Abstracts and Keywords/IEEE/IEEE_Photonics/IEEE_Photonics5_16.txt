@@ -1,0 +1,6 @@
+A miniature tunable antenna for the reception of digital TV signals is introduced. It is integrated within a USB stick form factor receiver and shows sufficient performance for the target use case. Considerations about the antenna structure are presented as well as simulations, lab measurements and results of a field test.
+
+DVB-T
+Digital TV
+PC TV
+Tunable Antenna

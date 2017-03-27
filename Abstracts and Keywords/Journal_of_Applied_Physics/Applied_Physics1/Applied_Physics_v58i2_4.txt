@@ -1,0 +1,7 @@
+Static and transient capacitance of a n+p junction is analyzed when a large density of deep levels are present. The model has a single level but the analysis can be easily extended to more complicated systems. The effect of the presence of such deep levels to measured junction capacitance, diffusion potential, and carrier density profiles are estimated. Relevant relations for steadystate and transient measurements are derived. The possibility of obtaining deeplevel energy experimentally without making temperature measurements is pointed out.
+
+PN JUNCTIONS
+CAPACITANCE
+DLTS
+DEEP ENERGY LEVELS
+TRANSIENTS

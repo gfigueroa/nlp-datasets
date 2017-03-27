@@ -1,0 +1,9 @@
+Optical diagnostics will be critical for the operation and performance assessment of burning plasma experiments, such as ITER. At the same time, extracting light for these diagnostics with reflective mirrors becomes difficult in the burning plasma environment due to the deleterious effects of the prolonged exposure on plasma and nuclear radiations. As an alternative, we explore the possibility to use freestanding diffractive optical elements, such as transmission gratings and zone plates, as light extractors. Since in diffractive systems, light is deflected by periodic slits rather than by a surface, these may withstand plasma exposure with less degradation of their optical properties. To investigate this possibility, we developed freestanding transmission gratings for the visible range and exposed them to conditions resembling (or even exceeding) those expected for the ITER first mirrors. The results of this study indicate that the gratings can withstand high heat fluxes and plasma and energetic radiation bombardment. Additionally, in contrast to the reflective elements, the extraction efficiency of diffractive elements may even improve with plasma exposure, which is possibly due to the shaping and thinning of the grating bars by plasma erosion. Moreover, in tightly collimated configurations, even very thin gratings can be used to extract light from hot fusion plasmas, as demonstrated by our tests of an extreme ultraviolet extractor at the National Spherical Torus Experiment.
+
+diffraction gratings
+diffractive optical elements
+optical design techniques
+plasma diagnostics
+plasma toroidal confinement
+Tokamak devices
+zone plates

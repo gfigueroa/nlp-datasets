@@ -1,0 +1,11 @@
+The transport properties of superconductive YBa2Cu3O7´ (YBCO) twinned single crystals and epitaxial thin films are similar in the flux creep regime. In particular, the activation energy of the individual vortices is proportionnal to the temperature in the low temperature range. As a matter of fact, data from the literature show that this energy takes the form Ea=4À½kBT, where ½ is an integer. To investigate this behavior, the currentvoltage characteristics of epitaxial YBCO thin film microbridges were measured. The activation energy of these samples has proved to take the form given above. This common behavior of single crystals and thin films is interpreted in the framework of a critical state model according to which the vortices move along the sample twin boundaries that behave as arrays of weak links. © 2004 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting epitaxial layers
+twin boundaries
+flux flow
+flux creep
+superconducting microbridges
+critical currents

@@ -1,0 +1,5 @@
+Field-effect transistors with organic-inorganic heterojunctions of molybdenum trioxide (MoO3)/pentacene and MoO3/copper-phthalocyanine (CuPc) as active layers were prepared and analyzed. These transistors showed normally-on operation mode and a shift of threshold voltage comparing to the corresponding single-layer organic device. The interfacial electronic structures of MoO3/pentacene and MoO3/CuPc heterojunctions were investigated by ultraviolet photoemission spectroscopy. Significant electron energy level bending and space charge regions of high conductivity were observed at the heterojunction. Formation of the organic-inorganic heterojunctions and characteristics of the corresponding field-effect transistors were analyzed by considering charge exchange at heterojunction interfaces.
+
+high electron mobility transistors
+molybdenum compounds
+photoelectron spectra

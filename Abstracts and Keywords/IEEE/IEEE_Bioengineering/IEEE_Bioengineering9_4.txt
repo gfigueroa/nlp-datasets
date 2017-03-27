@@ -1,0 +1,7 @@
+The present numerical investigation is concerned with the role of second-order slip and jump in the steady incompressible slip flow and heat transfer in an isothermally heated horizontal planar microchannel. The field equations subject to the second-order boundary conditions are numerically solved by using a marching implicit procedure. Results are presented for air from a reservoir in the standard reference state into the microchannel with complete accommodation. It is found that the second-order slip and jump have a significant effect on flow and thermal characteristics. The effect is to decrease the outlet pressure required and to increase the average flow drag and average heat transfer rate obtained. Decreasing the channel length or flow speed enhances it.
+
+forced convection
+microfluidics
+rarefaction
+second-order boundary conditions
+thermocreep

@@ -1,0 +1,9 @@
+The onset of misfit dislocation generation is investigated and the critical thickness is determined by transmission electron microscopy using the epitaxial liftoff technique for InGaAs/GaAs single heterostructures and single quantum wells. The observed geometries of the dislocations in both cases are in good agreement with the predicted models [J. Appl. Phys. 41, 3800 (1970) and J. Cryst. Growth 27, 118 (1974)]. However, each dislocation undergoes the predicted elongation mechanism [J. Appl. Phys. 41, 3800 (1970)] at different strainedlayer thicknesses. A comparison of the predicted and the experimental critical thicknesses is given.
+
+HETEROSTRUCTURES
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+TERNARY COMPOUNDS
+MISFIT DISLOCATIONS
+TRANSMISSION ELECTRON MICROSCOPY
+THICKNESS

@@ -1,0 +1,10 @@
+This paper presents a method of noncontact evaluation of the anisotropic dependency of electrical conductivity of metallic specimens exposed to tensile stress. The method combines eddy current (EC) measurements using a directional probe with numerical modeling to infer the electrical conductivity longitudinal and transverse to an essentially static uniaxial applied tensile stress. The inversion method has been applied to various aluminum alloys (AA1050, AA2024, AA5083, and AA7075). The recovered changes in electrical conductivity lie within the theoretically expected range of a few percent at the yield stress. The effect of prior plastic strain and heat treatment on electrical conductivity has also been evaluated. The electrical conductivity tensor for hardenable alloys exhibit a distinct dependence on cold work compared to the nonhardenable ones. The outcomes are discussed in terms of their implications for the use of EC measurements for diagnosing the state of residual stress for aluminum alloys.
+
+aluminium alloys
+annealing
+cold working
+eddy currents
+electrical conductivity
+internal stresses
+plastic deformation
+yield stress

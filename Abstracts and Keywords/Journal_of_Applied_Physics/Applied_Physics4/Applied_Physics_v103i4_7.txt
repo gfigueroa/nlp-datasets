@@ -1,0 +1,11 @@
+An inductively coupled plasma (ICP) system with the adjustable distance between the inductance coil and substrates was designed to effectively utilize the spatial confinement of ICP discharge, and then control the gas-phase transport process. The effects of the gas phase processes on the crystallinity and preferred orientation of silicon films deposited on glass were systematically investigated. The investigation was conducted in the ICP-chemical vapor deposition process with the precursor gas of a SiH4/H2 mixture at a substrate temperature of 350	°C. Highly crystallized silicon films with different preferred orientations, (111) or (220), could be selectively deposited by adjusting the SiH4 dilution ratio [R = [SiH4]/([SiH4]+[H2])] or total working pressure. When the total working pressure is 20Pa, the crystallinity of the silicon films increases with the increase of the SiH4 dilution ratio, while the preferred orientation was changed from (111) to (220). In the case of the fixed SiH4 dilution (10%), the silicon film with I(220)/I(111) of about 3.5 and Raman crystalline fraction of about 89.6% has been deposited at 29.7nm/min when the total working pressure was increased to 40Pa. At the fixed SiH4 partial pressure of 2Pa, the film crystallinity decreases and the preferred orientation is always (111) with increasing the H2 partial pressure from 18to58Pa. Atomic force microscope reveals that the film deposited at a relatively high H2 partial pressure has a very rough surface caused by the devastating etching of H atoms to the silicon network.
+
+atomic force microscopy
+elemental semiconductors
+etching
+glass
+plasma CVD
+rough surfaces
+semiconductor thin films
+silicon
+texture

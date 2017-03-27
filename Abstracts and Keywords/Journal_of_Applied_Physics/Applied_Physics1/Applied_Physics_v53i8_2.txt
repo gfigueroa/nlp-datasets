@@ -1,0 +1,16 @@
+A model is presented that explains the flatspot powerloss phenomenon observed in silicon solar cells operating under deep space (low temperature, low intensity) conditions. Evidence is presented suggesting that the effect is due to localized metallurgical interactions between the silicon substrate and the contact metallization. These reactions are shown to result in localized regions in which the PN junction is destroyed and replaced with a metalsemiconductorlike interface. The effects of thermal treatment, crystallographic orientation, junction depth, and metallization are presented along with a method of preventing the effect through the suppression of vacancy formation at the free surface of the contact metallization. Preliminary data indicating the effectiveness of a TiN diffusion barrier in preventing the effect are also given.
+
+SILICON SOLAR CELLS
+ELECTRICAL PROPERTIES
+MATHEMATICAL MODELS
+INTERPLANETARY SPACE
+METALLURGICAL EFFECTS
+SUBSTRATES
+ELECTRIC CONTACTS
+PN JUNCTIONS
+HEAT TREATMENTS
+CRYSTAL LATTICES
+ORIENTATION
+VACANCIES
+TITANIUM NITRIDES
+DIFFUSION

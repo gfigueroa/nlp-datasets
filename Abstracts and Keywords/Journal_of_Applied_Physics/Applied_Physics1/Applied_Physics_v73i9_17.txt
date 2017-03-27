@@ -1,0 +1,10 @@
+The recent results of C. B. Vining, W. Laskow, J. O. Hanson, R. R. Van der Beck, and P. D. Gorsuch [J. Appl. Phys. 69, 4333 (1991)] regarding the effect of grain size on the thermoelectric figure of merit of heavily doped ptype silicon germanium alloys are compared to earlier results on similar materials. The data confirm that the roomtemperature figureofmerit is significantly increased in materials with a small grain size. 	
+
+GERMANIUM SILICIDES
+THERMOELECTRIC PROPERTIES
+SINTERED MATERIALS
+GRAIN SIZE
+ALLOYS
+DOPED MATERIALS
+PTYPE CONDUCTORS
+DATA ANALYSIS

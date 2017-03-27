@@ -1,0 +1,4 @@
+This paper presents the design, fabrication, and measurement of three phase-correcting lens antennas made using an electrically thin three-layer phase-shifting surface (PSS). The three phase-correction schemes realised using the PSS are the 90 degree, 45 degree and quasi-continuous cases. These lenses, which present identical cost, size and weight, are compared in terms of their far-field performance. It is shown that decreasing the size of the phase steps used in the phase-correction scheme improves the performance of the PSS lenses. As a reference to conventional designs, the performance of a dielectric plano-hyperbolic lens antenna is also presented. The performance of the PSS lenses are as good as, or better, than this conventional dielectric lens antenna within a specific operating band, over which they also offer a significant reduction in weight, thickness and cost.
+
+lens antennas
+microwave antennas

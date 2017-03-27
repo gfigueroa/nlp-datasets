@@ -1,0 +1,6 @@
+Interaction and usability aspects of software systems are critical software quality measures. This paper reports on work done in the European funded wearable computing project wearIT@work. Utilizing user centered design, we present the results of a user study conducted to evaluate different wearable input devices for menu-selection tasks in aircraft maintenance. Due to access to end users provided by wearIT@work, study participants could be recruited from both real maintenance workers and university students to study performance and group differences. Results already exhibit strong group differences. An unfamiliar data glove device using gestures was found to outperform natural speech command interaction. A familiar mouse device exhibited best performance and quick learnability but was judged inappropriate by maintainers for their daily work. Besides suffering from handling problems, speech interaction was found inapplicable for maintainers due to their language ability. Our results suggest and emphasize the necessity to include real end-users in projects to reasonably study industrial wearable computing applications and their constraints.
+
+experiment design
+subject selection
+user centered design
+wearable computing

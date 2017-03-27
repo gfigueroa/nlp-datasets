@@ -1,0 +1,6 @@
+System's loadability is very much depends on the reactive power support in the network. Lack of reactive power support may results in a serious problem to occur i.e. voltage collapse. This paper presents a method to increase the system's loadability and hence the voltage stability margin of a system by utilizing the Optimal Reactive Power Planning (ORPP). A newly developed optimization technique; namely Multiagent Immune Evolutionary Programming (MAIEP) is introduced to obtain the optimal solution to the problem. The concept of MAIEP is developed based on the combination of Multiagent System, Artificial Immune System and Evolutionary Programming. The proposed MAIEP based ORPP was tested on the IEEE-26 reliability test system in order to realize its performance. The results obtained from the proposed ORPP using MAIEP has successfully improved the load margin and at the same time the total system losses and cost of generation were reduced.
+
+Load margin
+MAIEP
+Maximum loading point
+ORPP

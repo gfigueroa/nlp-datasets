@@ -1,0 +1,11 @@
+The methods for calculation of the various optical constants in ZnSxSe1x ternary alloys are presented. The model used is based on an interpolation scheme, and the effects of alloy composition are properly taken into account in the calculation. The present model reveals distinct structures in the optical spectra at energies of the E0, E0+”0, E1, and E1+”1 gaps. The optical constants and properties considered here are the complex dielectric constant õ=õ1+iõ2, complex refractive index n=n+ik, absorption coefficient ±, and normalincidence reflectivity R. The refractive indices in the transparent region are also presented for a variety of waveguiding device applications.
+
+ZINC SELENIDES
+ZINC SULFIDES
+TERNARY ALLOYS
+OPTICAL CONSTANTS
+CALCULATION METHODS
+DIELECTRIC FUNCTION
+REFRACTIVE INDEX
+ABSORPTION
+REFLECTIVITY

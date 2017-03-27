@@ -1,0 +1,12 @@
+Pt/Ba(ZrxTi1x)O3/Pt/Ti/SiO2/Si capacitors were fabricated using radio frequency (rf) magnetron sputtering. The deposition parameter effects on the dielectric constant, capacitance, and leakage current density of the capacitors were investigated. Amorphous Ba(ZrxTi1x)O3 (BZxT1x) thin films were sputtered onto a substrate with a temperature of 300
+°C, rf power of 130 W, and in a no-oxygen atmosphere. BZxT1x thin films deposited onto Pt-coated Si substrates show a preferred orientation in the (100) reflection. The dielectric constants of the BZxT1x thin films increased with increasing Zr content and deposition temperature. The diffuse phase transition behavior of the BZxT1x thin films became more pronounced at high Zr content films. The leakage current density of the Pt/Ba(ZrxTi1x)O3/Pt/Ti/SiO2/Si capacitors at 1 kV/cm was about 1.0×107	A/cm2. This increased with increasing deposition temperature but decreased with increasing O2/(O2+Ar) ratio. From the films, PE hysteresis loops, the BZ0.1T0.9 thin films had ferroelectric characteristics. The BZ0.3T0.7 thin films exhibited paraelectric characteristics at room temperature. © 2003 American Institute of Physics. 
+
+barium compounds
+ferroelectric thin films
+sputter deposition
+permittivity
+ferroelectric capacitors
+capacitance
+leakage currents
+ferroelectric transitions
+dielectric hysteresis

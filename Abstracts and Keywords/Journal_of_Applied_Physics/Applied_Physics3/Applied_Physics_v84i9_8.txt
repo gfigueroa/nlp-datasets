@@ -1,0 +1,17 @@
+Uniform and smooth silicon nitride films have been synthesized by laser ablating a Si3N4 sintered target in an ultrahigh vacuum system in vacuum and different gas environments, N2, Ar, and He. The evolution of the composition and thickness control of SiNx overlayers grown on single-crystal Si and quartz substrates kept at room temperature have been in situ monitored by real-time ellipsometry at a fixed photon energy, 2.5 eV, and a fixed incidence angle, 71°. The different stages of the deposition process were momentarily interrupted to analyze the optical properties of the film in the photon energy range of 1.5&lt;h½&lt;5.0
+eV. The effective medium approximation is used to analyze the ellipsometric data, finding a film composed by a mixture of noncrystalline Si3N4, polycrystalline Si, and amorphous Si. The ellipsometric results are complemented by in situ characterization of the film by x-ray photoelectron spectroscopy. The films grown on quartz are also used to determine their optical band gap from transmittance measurements. The film deposition in vacuum results in nitrogen deficient films, x H 0.9. The presence of a background gas during deposition produces a strong increase of nitrogen in the SiNx films compared to those grown in vacuum. A nonporous film with a nearly ideal stoichiometry, x H 4/3, has been grown at a critical pressure. The critical pressure value depends on the type of gas, pN2 = 10
+mTorr, pAr = 22
+mTorr, and pHe = 160
+mTorr. As a consequence of the control in the film stoichiometry, the film properties can also be adjusted to the desired values by just controlling the gas pressure. The films grown in vacuum are semiconducting with a band gap of 2.8 eV, but the films grown at pN2 = 10
+mTorr are insulating with a band gap of 4.6 eV. © 1998 American Institute of Physics. 
+
+silicon compounds
+insulating thin films
+pulsed laser deposition
+thickness control
+ellipsometry
+energy gap
+stoichiometry
+semiconductor thin films
+semiconductor growth
+X-ray photoelectron spectra

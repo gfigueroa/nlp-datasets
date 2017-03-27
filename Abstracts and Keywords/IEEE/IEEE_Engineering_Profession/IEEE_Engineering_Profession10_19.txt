@@ -1,0 +1,19 @@
+A new signal interrogation concept, based on Synthetic Structural Imaging (SSI) physics, has been developed to guide therapies. The SSI method was previously successful in radar and sonar imaging; here it is demonstrated for acoustic scattering from penetrable biological targets. Operating at ultrasonic frequencies of several hundred kilohertz, SSI trades the higher resolution of typical B-mode ultrasound imaging for a significantly stronger correlation to target shape and volume, which are among the primary tissue classifiers. Tissue phantom models were fabricated with embedded spheroidal inclusions ranging from 2.41 mm through 6.3 mm in diameter. The phantom medium was 10 wt% porcine gelatin and the inclusions were 28 wt% porcine gelatin. The inclusion dimensions were measured with calipers. The phantom was interrogated with two impulse-excited Panametrics transducers: a model V301 with a peak frequency of 0.50 MHz and a -6 dB bandwidth of 81%, and a model V314 with a peak frequency of 0.99 MHz and a -6 dB bandwidth of 77%. The backscattered RF data were digitized, recorded, and digitally bandpass-filtered. The experimental profile functions were computed. Volumes were estimated by integrating the experimental profile functions. SSI-determined volume ratios were demonstrated to be within 7% to 18% of caliper-determined volume ratios.
+
+3D
+SSI
+Synthetic Structural Imaging
+breast
+cancer
+fetal development
+fetus
+monitoring
+morphology
+neoadjuvant therapy
+oncology
+organ
+prostate
+three dimensional imaging
+tumor
+ultrasound
+volume

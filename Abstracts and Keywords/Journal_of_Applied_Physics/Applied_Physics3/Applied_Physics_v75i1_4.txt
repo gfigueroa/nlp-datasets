@@ -1,0 +1,10 @@
+The beam coupling and response time of reduced BaTiO3 are reported. The major carrier changes from hole to electron after reduction. The electrooptic gain and effective trap density increase with the illumination intensity. Although the electrooptic gain varies little, the response time Ä decreases by a factor of 2.8 after reduction. Experimental results indicate that at least three energy levels including shallow level(s) exist in this BaTiO3.
+
+BARIUM TITANATES
+PHOTOREFRACTIVE EFFECT
+ELECTROOPTICAL EFFECTS
+GAIN
+CHARGE CARRIERS
+COUPLING
+ENERGY LEVELS
+ABSORPTION

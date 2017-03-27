@@ -1,0 +1,13 @@
+Metal incorporation into silicon substrates, and thermal stability of alternate gate dielectric candidates HfSixOy and ZrSixOy films after aggressive thermal annealing are reported. Considerable Zr incorporation is observed after furnace and rapid thermal annealing. No detectible Hf incorporation is observed for HfSixOy films annealed with the same conditions as the ZrSixOy films. Sputter deposited Hf silicate films showed superior thermal stability compared with chemical vapor deposited Zr silicate films. An alternate approach to obtain sub-nm resolution depth profiling of impurities in Si is also reported. Device performance associated with Zr incorporation into the channel is also discussed. © 2002 American Institute of Physics. 
+
+hafnium compounds
+zirconium compounds
+elemental semiconductors
+silicon
+semiconductor-insulator boundaries
+surface diffusion
+chemical interdiffusion
+rapid thermal annealing
+annealing
+thermal stability
+CVD coatings

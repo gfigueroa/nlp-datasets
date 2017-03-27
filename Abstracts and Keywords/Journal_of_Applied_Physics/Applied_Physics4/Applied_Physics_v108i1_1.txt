@@ -1,0 +1,11 @@
+Recombination of minority carriers in heavily doped n-InP wafers has been investigated using spectral and time-resolved photoluminescence at different temperatures. Studies of the transmitted luminescence were enabled by the partial transparency of the samples due to the MossBurstein effect. Temporal evolution of the transmitted luminescence shows virtually no effect of surface recombination but is strongly influenced by photon recycling. Temperature dependence of the decay time suggests Auger recombination as the dominant nonradiative process at room temperature. Radiative quantum efficiency has been evaluated at different doping levels and at 2×1018cm3 it is found to be as high as 97%, which makes n-InP suitable for scintillator application.
+
+Auger effect
+heavily doped semiconductors
+III-V semiconductors
+indium compounds
+minority carriers
+photoluminescence
+surface recombination
+time resolved spectra
+transparency

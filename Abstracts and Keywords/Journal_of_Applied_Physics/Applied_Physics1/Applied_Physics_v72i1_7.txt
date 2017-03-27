@@ -1,0 +1,11 @@
+It is demonstrated that electromigration testing needs to be performed in structures that reflect use conditions, such as when there is a flux divergence as provided by the W studAl(Cu) interface rather than in a simple planar structure. The Al(Cu)/W interface has been investigated using both drift velocity and resistometric techniques with pure Al, Al(0.5 wt.	% Cu) and Al(2 wt.	% Cu) lines on W studs for interlevel connections. It is shown that the mass depletion can be correlated to the resistance change and electromigration failure in line/stud chains. A new effect is demonstrated in that a critical length of Al has to be depleted on Cu before the Al can migrate; when such migration starts the Al catches up with the Cu rich region, leading to slower motion and the production of extrusions which will also cause failures by shorting to adjacent lines.
+
+INTEGRATED CIRCUITS
+CONNECTORS
+ALUMINIUM ALLOYS
+COPPER ALLOYS
+TUNGSTEN ALLOYS
+MIGRATION
+MASS TRANSFER
+INTERFACES
+FAILURES

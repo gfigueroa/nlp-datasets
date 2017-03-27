@@ -1,0 +1,8 @@
+The mechanical responses of carbon nanotubes (CNTs) under compressive and sliding forces are examined using classical molecular dynamics simulations. Several different types of nanotube systems are considered, including pristine single-walled tubes that are empty, filled with fullerenes to form nanopeapods, and filled with other nanotubes to form multiwalled tubes. In addition, the responses of systems where benzene molecules are introduced between and around the walls of single-walled nanotubes and peapods are considered. The results indicate that the filled CNT bundles can sustain higher compressive forces than the hollow CNT bundles. However, the filled CNT bundle has a similar friction coefficient to the hollow CNT bundles during sliding at low compressive pressures. The simulations further demonstrate the way in which the introduction of additive lubricants influences the friction coefficient of CNT bundles.
+
+carbon nanotubes
+fullerenes
+lubrication
+molecular dynamics method
+nanocomposites
+sliding friction

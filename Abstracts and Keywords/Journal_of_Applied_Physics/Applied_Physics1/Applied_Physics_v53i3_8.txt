@@ -1,0 +1,20 @@
+The effect of copper diffusion from the pCu2S into the nCdS region, due to heat treatment, in a Cu2S/CdS heterojunction photovoltaic cell is investigated, using the energy band diagram resulting from a modified Schottky barrier in the CdS and the solution of the onedimensional Poissons equation with appropriately assumed boundary conditions and diffusion model of Gaussian profile for the Cuacceptor concentration in the CdS. The variation of the shortcircuit current density Jsc and that of the fill factor of the device with the copperdiffusion parameters ¶ and LA are analyzed. Here ¶ denotes the fraction of copper acceptors within the Cu2S region which has diffused into the nCdS region and LA is the mean diffusion length of copper. It is shown that both Jsc and fill factor decrease with ¶ while they increase with LA. The sample calculation, made for roomtemperature operation of the device, indicates that the reduction in Jsc and fill factor can be appreciable if the amount of copper diffused is sufficient. This theoretical observation is consistent with some experimental results which have been reported elsewhere.
+
+COPPER
+DIFFUSION
+COPPER SULFIDE SOLAR CELLS
+CADMIUM SULFIDE SOLAR CELLS
+HETEROJUNCTIONS
+PTYPE CONDUCTORS
+NTYPE CONDUCTORS
+HEAT TREATMENTS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+PHOTOVOLTAIC EFFECT
+ENERGY LEVELS
+POISSON EQUATION
+BOUNDARY EQUATIONS
+CURRENT DENSITY
+DIFFUSION LENGTH
+MEDIUM TEMPERATURE
+SCHOTTKY BARRIER DIODES

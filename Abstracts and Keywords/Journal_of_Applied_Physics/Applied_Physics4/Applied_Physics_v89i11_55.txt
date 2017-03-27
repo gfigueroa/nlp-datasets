@@ -1,0 +1,12 @@
+Recent x-ray and neutron scattering studies have revealed static diffuse scattering due to polarons in the paramagnetic phase of the colossal magnetoresistive manganites La22xSr1+2xMn2O7, with x=0.40 and 0.44. We show that the polarons exhibit short-range incommensurate correlations that grow with decreasing temperature, but disappear abruptly at the combined ferromagnetic and metalinsulator transition in the x=0.40 system because of the sudden charge delocalization, while persisting at low temperature in the antiferromagnetic x=0.44 system. The melting of the polaron ordering as we cool through TC occurs with the collapse of the polaron scattering itself in the x=0.40 system. This short-range polaron order is characterized by an ordering wave vector q=(0.3,0,1) that is almost independent of x for x~0.38, and is consistent with a model of disordered stripes. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+ferromagnetic materials
+colossal magnetoresistance
+neutron diffraction
+X-ray diffraction
+charge-ordered states
+magnetic polarons
+metal-insulator transition
+ferromagnetic-paramagnetic transitions

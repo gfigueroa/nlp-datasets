@@ -1,0 +1,9 @@
+We propose a framework for a secure RSU-to-OBU message broadcasting in VANETs using proxy signatures. We consider a VANET infrastructure for which the network assumptions are similar to the current standards of VANET communications. The main purpose of our scheme is to provide message integrity, authenticate the broadcast messages, and authenticate the RSU to the OBUs. We set the appropriate liabilities to the network components enabling the OBU to verify the received message for its validity and integrity. Our contribution includes modification of the proxy signature scheme in order to fulfill the security requirements of a VANET's message broadcast. The security analysis of our scheme strongly supports the applicability of our proposed framework.
+
+OBU
+RSU
+Schnorr signature
+VANET
+discrete logarithm
+legacy warrant
+proxy signature

@@ -1,0 +1,8 @@
+The formation of epitaxial ³-Al2O3 thin films on 4H-SiC was found to be strongly dependent on the film thickness. An abrupt interface was observed in films up to 200Å thick with an epitaxial relationship of ³-Al2O3(111)4H-SiC(0001) and ³-Al2O3(40)4H-SiC(110). The in-plane alignment between the film and the substrate is nearly complete for ³-Al2O3 films up to 115Å thick, but quickly diminishes in thicker films. The films are found to be slightly strained laterally in tension; the strain increases with thickness and then decreases in films thicker than 200Å, indicating strain relaxation which is accompanied by increased misorientation. By controlling the structure of ultrathin Al2O3 films, metaloxidesemiconductor capacitors with Al2O3 gate dielectrics on 4H-SiC were found to have a very low leakage current density, suggesting suitability of Al2O3 for SiC device integration.
+
+alumina
+dielectric thin films
+epitaxial layers
+leakage currents
+MOS capacitors
+stress relaxation

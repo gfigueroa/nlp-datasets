@@ -1,0 +1,13 @@
+Charge injection leading to catastrophic breakdown has been used to study the dielectric properties of the buried oxide layer in silicon implanted with highenergy oxygen ions. Current versus gate bias, current versus time, and capacitance versus gate bias were used to characterize, at various temperatures, MOS metaloxidesemiconductor capacitors with areas in the 1×1041×102 cm2 range fabricated with commercially available single or tripleimplant separation by implanted oxygen silicon wafers. The data show that injected charge accumulates in the buried oxide at donorlike oxide traps ultimately leading to catastrophic breakdown. Both PooleFrenkel and FowlerNordheim conduction, as well as impactionization mechanisms, have been identified in the oxide. The charge and field to breakdown in the best buried oxides are, respectively, near 1 C	cm2 and 10 MV	cm1, similar to the thermally grown oxide parameters. Cumulative distributions of these parameters measured over a large number of capacitors show that the frequency of breakdown events caused by extrinsic defects is scaled with the capacitor area. Intrinsic and extrinsic defect distributions are broader than with thermally grown oxides.
+
+SILICON OXIDES
+BURIED LAYERS
+BREAKDOWN
+DIELECTRIC PROPERTIES
+ION IMPLANTATION
+IV CHARACTERISTIC
+DEFECTS
+HYSTERESIS
+FOWLERNORDHEIM THEORY
+SILICON
+MOS JUNCTIONS

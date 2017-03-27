@@ -1,0 +1,11 @@
+This report describes experiments that elucidate the phosphorescence mechanism in Sr2MgSi2O7:Eu2+, RE3+ phosphors. The first step of phosphorescence, the storage of carriers in traps, is traced to thermally assisted photoionization of Eu2+ ions, supported by thermal quenching studies that give the thermal ionization threshold of Eu2+. The trapping of these delocalized electrons has been detected using the spectroscopic signature of Sm2+ ions created by electron capture by Sm3+ in samples doped with Eu2+ and Sm3+ ions. The final steps for phosphorescence, liberation of trapped carriers and recombination with the luminescence center, have also been studied by monitoring the Eu2+ luminescence induced by optical excitation into the Sm2+ 4f6’4f55d1 absorption band. These results show that the phosphorescence in this system starts with the promotion of electrons into the conduction band and subsequent reduction of RE3+ ions, not from hole formation and RE3+ oxidation, as has been reported for similar systems. Finally, the formation of Sm2+ after Eu2+ photoionization also allows for initial spectroscopic measurements of Sm2+ in Sr2MgSi2O7.
+
+carrier lifetime
+conduction bands
+europium
+magnesium compounds
+phosphorescence
+phosphors
+quenching (thermal)
+samarium
+strontium compounds

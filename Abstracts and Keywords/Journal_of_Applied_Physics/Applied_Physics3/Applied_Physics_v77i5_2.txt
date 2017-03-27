@@ -1,0 +1,12 @@
+The effect of hydrogen content in dielectric aSiC:H films, fabricated in remote H2 plasma using tetrakis(trimethylsilyl)silane as the source gas, on the optical energy gap Eopt and the photoluminescence (PL) was investigated. The amount of hydrogen bonded to C in the fabricated aSiC:H films was three orders of magnitude higher than that bonded to Si. The total hydrogen content of the films decreased with an increase of substrate temperature maintained during the deposition. Maximum Eopt, 3.2 eV, was observed for the sample prepared at room temperature in which the hydrogen content was about 7.2×1022 cm3. This sample shows bluewhite PL with the peak energy at 475 nm. After this sample was annealed at 400	°C, the PL peak energy shifted to 425 nm with an improved chromaticity, even though the hydrogen concentration was reduced by about 14%. Further reduction of hydrogen after annealing at 600	°C resulted in a decrease of Eopt. The variation of Eopt is observed to depend on the density of unoccupied dangling bonds and the nature of SiC bonding structure with the former appearing to be the prime factor in controlling the Eopt. © 1995 American Institute of Physics.
+
+SILICON CARBIDES
+HYDROGENATION
+THIN FILMS
+PHOTOLUMINESCENCE
+CVD
+PLASMA
+AMORPHOUS STATE
+ANNEALING
+DANGLING BONDS
+ENERGY GAP

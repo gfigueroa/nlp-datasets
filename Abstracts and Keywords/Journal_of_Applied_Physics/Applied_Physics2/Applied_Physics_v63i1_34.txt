@@ -1,0 +1,9 @@
+A novel idea is proposed to control the spatial mode profile of broadarea semiconductor lasers in which the cumulative optical gain in the direction of light propagation is tailored by varying the effective length of the contact electrode across the lateral direction. Special interest is on a structure with the highest gain near the center of the device so as to favor the lowerorder lateral modes of oscillation. Preliminary experiments indicate that the concept works as intended.
+
+GAIN
+SEMICONDUCTOR LASERS
+OSCILLATIONS
+ELECTRODES
+LIGHT TRANSMISSION
+BEAM PROFILES
+OSCILLATION MODES

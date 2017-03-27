@@ -1,0 +1,8 @@
+Biodiesel, an alternative diesel fuel derived from vegetable oil, animal fat, or waste vegetable oil (WVO), is obtained in this work by reacting waste vegetable soybean oil using oil shale ash as a heterogeneous catalyst in addition to two alcohols ethylene glycol and ethanol. Results have indicated that high biodiesel yield is obtained when using ethylene glycol at high temperature, while the yield is low when solid catalytic reaction is performed using ethanol at low temperature. This indicates that heterogeneous catalytic reaction is favored at a high temperature using alcohol with a high boiling point. Maximum yield was 75% wt using ethylene glycol at 150°C and the yield dropped to 69.9% wt as the operating temperature was reduced to 100°C. The increase in yield by 5% wt as the temperature increased from 100°C to 150°C is not significant. Using ethanol, the biodiesel yield is as low as 11% wt at 60°C and 9% wt at 80°C.
+
+Biodiesel
+Ethanol
+Ethylene Glycol
+Glycerin
+KOH
+Transesterification

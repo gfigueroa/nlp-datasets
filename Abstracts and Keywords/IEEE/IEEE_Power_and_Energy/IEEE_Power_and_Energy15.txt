@@ -1,0 +1,7 @@
+This paper investigates the opportunity for energy saving in a three-phase induction motor (IM) driving pump load and proposes an improved loss model control (LMC). Compared with other power-loss reduction algorithms for IM, the presented one has the advantages of fast and smooth flux adaptation, high accuracy, and versatile implementation. The performance of LMC depends mainly on the accuracy of modeling the motor drive and losses. In this paper, the derived loss model considers the surplus power loss caused by inverter voltage harmonics using closed-form equations and also includes the magnetic saturation. An artificial neural network controller is synthesized and trained offline to determine the optimal flux level that achieves maximum drive efficiency. The drive's voltage and speed control loops are connected via the actual stator frequency, making the scheme comparatively reliable. Simulation and experimental studies are performed on 5.5-kW test motor using the proposed control method. The test results are provided and compared with the fixed flux operation to validate the effectiveness.
+
+Artificial neural network (ANN)
+efficiency optimization
+induction motor (IM) drive
+loss model control (LMC)
+pulsewidth modulation (PWM) harmonic loss

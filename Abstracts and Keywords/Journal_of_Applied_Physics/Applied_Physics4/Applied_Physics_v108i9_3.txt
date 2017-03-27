@@ -1,0 +1,5 @@
+We thoroughly investigated all the possible (C229 = 406) candidates of half-metallic (HM) antiferromagnet (AFM) with the structure LaSrBB2O6, where BB2 pairs are any combination of two 3d, 4d, and 5d transition elements. Sr was also replaced by Ca or Ba whenever HM-AFM was found and similar calculation was performed in order to probe more possibilities. We have found that LaAWXO6, where A = Ca,Sr,Ba and X = Tc,Re are potential candidates of HM-AFM. Among those HM-AFM candidates, LaAWReO6 (A = Sr,Ba) are rather robust than others for the structural optimization. Including previous Wang and Guos work in 2006 and this work, we believe that we have found all possible HM-AFM candidates for double perovskites structure LaABB2O6 (A = Ca,Sr,Ba and B,B2 = transition elements).
+
+antiferromagnetic materials
+lanthanum compounds
+magnetic structure

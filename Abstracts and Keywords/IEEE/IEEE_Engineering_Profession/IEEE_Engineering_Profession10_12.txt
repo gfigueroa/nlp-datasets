@@ -1,0 +1,7 @@
+This paper describes the basic concepts of the network migration problem, as well as its cost optimal solution with an ant colony algorithm. Generally there are many possible approaches to calculate network migration strategies. One of those is to consider the migration as a Shortest Path Problem, which can be solved using meta heuristics. In this paper it will be analyzed how ant colony optimization can be used to calculate migration sequences with minimized costs. Results of our investigation are information about the speed of convergence of ant colony algorithms towards an optimal cost value. The used resource utilization to cover increasing network demands will be presented also.
+
+Ant colony optimization
+Communication system economics
+Network migration
+Optimization methods
+Wide area networks

@@ -1,0 +1,9 @@
+The excitation and propagation of pulses in different media and guided structures are the main problems of nonstationary electromagnetics. There are several approaches for solutions such as the finite-difference time-domain (FDTD), transmission-line matrix (TLM), Green's function (GF), time-domain finite-element (TD-FE), and some others similar methods and techniques. In recent time three is growing interest to short pulse propagation in dissipative and active media, including nonlinear ones. In this paper we present some published [4-7] and new such results for one-dimensional (ID) and three-dimensional (3D) structures. We have used the 4D and 2D spatial-time integral equations and finite element technique.
+
+Green's functions
+Nonstationary electromagnetics
+excitation theory
+finite element method
+propagation of pulses
+time-domain modeling
+volume integral equations

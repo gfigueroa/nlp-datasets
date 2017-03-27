@@ -1,0 +1,15 @@
+The decay of space charge in conjugated polymers due to detrapping from deep traps after the turn-off of an external bias has been investigated. We present an experiment for measuring time-resolved laser intensity modulation method spectrum with a resolution of about 1 s. For this pyroelectric current transients have been recorded at different temperatures from 220 to 360 K. The data have been analyzed, assuming detrapping of charge carriers from single energy trap levels to a Gaussian distribution of transport levels to be the predominating process of the space-charge decay. In poly[2-methoxy, 5-(2-ethyl-hexyloxy)-p-phenylene-vinylene], we find hole trapping with a trap depth of Et=0.6
+eV and a trap density Nt&gt;2×1021
+m3. In poly(2,5-pyridinediyl) both electron and hole trapping are observed, and the analysis of the decays yield Et=0.55
+eV and Nt&gt;1021
+m3. No deep trapping could be observed in poly(9,9-dioctylfluorene), confirming the high chemical purity of this polymer. © 2003 American Institute of Physics. 
+
+conducting polymers
+organic semiconductors
+electron traps
+hole traps
+time resolved spectra
+intensity modulation
+space charge
+Gaussian distribution
+pyroelectricity

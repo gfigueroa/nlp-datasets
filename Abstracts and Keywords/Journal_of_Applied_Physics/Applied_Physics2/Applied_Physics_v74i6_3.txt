@@ -1,0 +1,12 @@
+Spectroscopic currentvoltage (IV) curves taken with a scanning tunneling microscope on a synthetic, borondoped diamond single crystal indicate that the diamond, boiled in acid and baked to 500	°C in vacuum, does not exhibit ideal Schottky characteristics. These IV curves taken in ultrahigh vacuum do not fit the traditional theory of thermionic emission; however, the deviation from ideal can be accounted for by charge screening at the diamond surface. At ambient pressure, the IV curves have a sharp threshold voltage at 1.7 eV above the valence band edge indicating pinning of the Fermi energy. This measurement is in excellent agreement with the 1/3 band gap rule of Mead and Spitzer [Phys. Rev. 134, A713 (1964)].
+
+DIAMONDS
+DOPED MATERIALS
+BORON ADDITIONS
+STM
+IV CHARACTERISTIC
+CHARGE SCREENING
+SURFACE PROPERTIES
+MONOCRYSTALS
+PINNING
+FERMI LEVEL

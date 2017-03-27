@@ -1,0 +1,8 @@
+A model-based comparison of thermal and plasma chemical vapor deposition (CVD) techniques for the growth of carbon nanotubes (CNTs) from methane feedstock is presented. In thermal CVD, the feedstock does not dissociate in the gas phase at temperatures commonly used for single- and multiwalled CNT growth (}900
+°C) and the nanotube production is entirely due to surface reaction of CH4 on the catalyst surface. In contrast, plasma reactors produce, through electron impact as well as neutral reactions, significant amounts of acetylene, ethylene, a variety of CxHy radicals and ions from the methane/hydrogen feedstock, all of which contribute to the nanotube production. Such production of higher order stable hydrocarbons and radicals may make growth of single-walled CNTs difficult using low temperature plasma CVD techniques.
+
+carbon nanotubes
+chemical vapour deposition
+plasma CVD
+catalysts
+organic compounds

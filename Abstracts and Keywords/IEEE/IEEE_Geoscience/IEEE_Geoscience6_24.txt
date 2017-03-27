@@ -1,0 +1,7 @@
+This paper describes the architecture of a ship monitoring system based on WebGIS and how we solved two critical problems we encountered during the development &#x2014; integrated reading of three formats of maps (S-57, TAB and Shapefile) and dynamical display of 3000 ships on the maps. The platform(MapServer) and libraries(OpenLayers and ExtJS) we used for developing are all open-source.
+
+MapServer
+OpenLayers
+S-57
+WebGIS
+ship monitoring system

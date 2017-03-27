@@ -1,0 +1,9 @@
+The desorption of As from GaAs (001), (111)B, and AlAs(001) is studied in detail by measuring the electronbeam current reflected from these surfaces. When the As supply to the surface was terminated, the electron specular reflectivity decreases exponentially with time due to the As desorption. The decay rate was much smaller for AlAs (001) than for GaAs (001) and (111)B, which indicates stronger atomic bonding for AlAs than for GaAs. For the GaAs (001) surface, the decay rate and the activation energy for the decay in specular reflectivity change discontinuously at the transition between (2×4) and (3×1) reconstructions. This shows the As desorption process is sensitive to the transition of surface reconstruction. The dependence of the As desorption rate on the thickness of the top GaAs layer in GaAs/AlAs heterostructures indicates an abrupt change of bond strength near the interface.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+ARSENIC
+DESORPTION
+RHEED
+SURFACE RECONSTRUCTION
+HETEROSTRUCTURES

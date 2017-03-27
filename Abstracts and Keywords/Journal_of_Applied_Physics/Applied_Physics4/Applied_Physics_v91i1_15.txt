@@ -1,0 +1,10 @@
+Morphology of Ni tips and microstructures of carbon tubules were investigated and a growth model for carbon tubules was proposed. Triangular shaped Ni tips and piled-cone structure of carbon tubules were observed at the growth temperature of 500
+°C. At the high growth temperature of 620
+°C, smoothened edge shaped Ni tips were found and graphite layers became parallel to the growth direction as they were close to the outer wall of carbon tubules. Formation of Ni nuclei for carbon tubule growth was explained by NH3 pre-etching and precipitation of carbon atoms diffused from the surface of the Ni layer. A preferential growth of carbon tubules was observed and explained with the Ni orientation and size effect. A modified tip growth model based on surface diffusion was proposed for the growth mechanism of carbon tubules. © 2002 American Institute of Physics. 
+
+carbon nanotubes
+plasma CVD
+size effect
+surface diffusion
+nickel
+catalysts

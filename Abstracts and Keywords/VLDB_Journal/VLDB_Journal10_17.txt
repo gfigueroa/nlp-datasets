@@ -1,0 +1,7 @@
+Online personalization is of great interest to e-companies. Virtually all personalization technologies are based on the idea of storing as much historical customer session data as possible, and then querying the data store as customers navigate through a web site. The holy grail of online personalization is an environment where fine-grained, detailed historical session data can be queried based on current online navigation patterns for use in formulating real-time responses. Unfortunately, as more consumers become e-shoppers, the user load and the amount of historical data continue to increase, causing scalability-related problems for almost all current personalization technologies. This paper chronicles the development of a real-time interaction management system through the integration of historical data and online visitation patterns of e-commerce site visitors. It describes the scientific underpinnings of the system as well as its architecture. Experimental evaluation of the system shows that the caching and storage techniques built into the system deliver performance that is orders of magnitude better than those derived from off-the-shelf database components.
+
+Behavior-based personalization
+Dynamic lookahead profile
+Profile caching
+Scalable online personalization
+Web site and interaction model

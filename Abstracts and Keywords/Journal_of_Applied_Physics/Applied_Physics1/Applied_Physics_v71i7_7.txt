@@ -1,0 +1,11 @@
+This paper presents a method for the measurement of doping fluctuations in high resistivity silicon wafers. Spatial fluctuations of doping are derived from the knowledge of the electrostatic potential in a completely depleted semiconductor bulk. The potential variations are indirectly measured through the analysis of the trajectories of majority carriers drifting within the depleted semiconductor material. Regions of semiconductors up to the full wafer can be investigated. An example of mapping along parallel lines of a floating zone 2 K	©	cm silicon wafer over an area of 0.4×0.8 cm2 is presented. The relative sensitivity of the method is better than 1%.
+
+WAFERS
+SILICON
+DOPING PROFILES
+FLUCTUATIONS
+MEASURING METHODS
+DEPLETION LAYERS
+ELECTRON DRIFT
+ELECTRIC POTENTIAL
+MAPPING

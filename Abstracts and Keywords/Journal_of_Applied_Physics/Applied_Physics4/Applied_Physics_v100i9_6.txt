@@ -1,0 +1,14 @@
+Nanocrystalline diamond films were grown on silicon substrates by microwave plasma enhanced chemical vapor deposition with 1% methane, 2%10% hydrogen, and argon. High resolution transmission electron microscope images and selected area electron diffraction patterns confirm that the films consist of 1020nm sized diamond grains. The residual and intrinsic stresses were investigated using wafer curvature. Intrinsic stresses were always tensile, with higher H2 concentrations generally leading to higher stresses. Annealing the films in a hydrogen plasma significantly increased these stresses. These hydrogen induced changes also appear to alter stress levels and stress gradients during the growth process itself. Raman spectra revealed subtle changes in the chemical bonding that were correlated with some of the stress variations. These results suggest that grain boundary bonding and hydrogen induced reactions at the grain boundaries can influence the intrinsic stresses in nanocrystalline diamond films.
+
+diamond
+elemental semiconductors
+semiconductor thin films
+nanostructured materials
+plasma CVD
+transmission electron microscopy
+electron diffraction
+grain size
+internal stresses
+annealing
+Raman spectra
+bonds (chemical)

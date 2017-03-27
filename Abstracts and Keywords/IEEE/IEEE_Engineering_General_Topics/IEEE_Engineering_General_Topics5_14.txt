@@ -1,0 +1,9 @@
+This paper describes the Snooker Machine, an intelligent robotic system that was built between late 1985 and early 1988. The project was documented by the BBC over the course of 2 years, "The Snooker Machine" was broadcasted on BBCs territorial channel in the UK on the one hour Q.E.D, science programme of 16th March 1988. This paper summarizes the technical details of the system. It consisted of a vision system, a fuzzy expert system and a robot manipulator. It outlines some of the difficulties that the Snooker Machine had to overcome in playing a game of snooker against a human player. Given the recent interests in developing robotic systems to play pool (Leekie and Greenspan, 2005), (Greenspan, 2006), and (Ghan et al., 2002), this paper looks back at some of these issues. It also outlines some computational intelligence approaches that may lead to solving some of the problems using today's technology
+
+Artificial Intelligence
+Computational Intelligence
+Computer Vision
+Expert System
+Fuzzy System
+Games
+Robotics

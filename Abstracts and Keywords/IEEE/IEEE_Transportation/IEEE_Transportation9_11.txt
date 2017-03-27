@@ -1,0 +1,8 @@
+A Hamiltonian state space formalism for linear elasticity of cylindrically anisotropic materials is developed by taking the displacement vector and the stress vectors as the state variables. The basic equations of anisotropic elasticity in cylindrical coordinates are formulated into the state space framework in which the state equation, the output equation, and the boundary conditions are expressed neatly in terms of the state vector composed of the displacement vector and the associated conjugate stress vector. Hamiltonian symplecticity of the formalism are examined at length, which provide an essential basis for developing a solution approach using separation of variables and eigenfunction expansion. With the Hamiltonian characteristics of the system, a viable solution approach using Fourier series and eigenfunction expansion is developed for 3D problems in cylindrical coordinates within the framework.
+
+Anisotropic elasticity
+Cylindrical anisotropy
+Cylindrical coordinates
+Eigenfunction expansion
+Hamiltonian
+State space

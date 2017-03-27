@@ -1,0 +1,10 @@
+In this study, electron-doped manganese oxide thin films La1xTexMnO3
+(x=0.1,0.15) have been fabricated and their magnetic properties and colossal magnetoresistance effect have been investigated. The experimental results show that the thin films have a high metalinsulator transition temperature TMI of <300 K and a large magnetoresistance ratio of <80% at 4 T. In addition, the resistivity of thin films has a similar change of an onoff function near room temperature and this change might be advantageous in technological application of La1xTexMnO3 materials. © 2004 American Institute of Physics. 
+
+lanthanum compounds
+tellurium compounds
+magnetic thin films
+ferromagnetic materials
+pulsed laser deposition
+metal-insulator transition
+colossal magnetoresistance

@@ -1,0 +1,6 @@
+Searching for fast and efficient algorithm to perform collision detection between static and moving objects is always fundamental problems in virtual environment. Most of previous method seems trying to tackle the problems of involving specific geometric models colliding pairs with restricted rules and guidelines. For example, convex hull bounding-volume tends to solve the collision detection problems by make the collision more accurate. However, its limitation of performing fast collision detection method must be left behind. In this paper, we introduce new traversal scheme using depth first search algorithm called earlier node detection algorithm. This algorithm automatically performs simultaneously for child nodes intersection compared to root intersection test. Result shows that our algorithm works perfectly for rigid models when performing collision detection. In practice, the new traversal algorithms helps improve the situation of determine two or more collision between rigid models especially in urban simulation.
+
+Bounding-Volume
+Bounding-Volume Hierarchies
+Collision Detection
+Urban Simulation

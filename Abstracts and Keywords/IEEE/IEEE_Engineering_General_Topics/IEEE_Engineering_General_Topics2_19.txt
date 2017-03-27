@@ -1,0 +1,7 @@
+This paper presents an efficient fingerprint indexing algorithm that retrieves the top best matches from a huge database. It considers minutia features based on 9-dimensional index space comprised of transformation invariant information and a stable triangulation algorithm i.e 1-order Delaunay triangulation, both of which are insensitive to fingerprint distortion. It uses indexing technique based on kd-tree to reduce the search space to 15% of the large database.
+
+Biometrics
+Fingerprint
+Identification
+Indexing Scheme
+kd-tree

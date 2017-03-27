@@ -1,0 +1,19 @@
+We find that the Ce3+ ion in polycrystalline sputtered SrS:Ce thin films resides in a distorted octahedral environment, as opposed to the cubic host environment. Using electron paramagnetic resonance and x-ray diffraction analysis, we show that the degree of axial distortion is related to the preferential growth direction of the SrS films. To first order, the blue-emission properties (emission wavelength and decay times) of the SrS:Ce films do not appear to be affected by the amount of distortion in the localCe3+ environment. © 1997 American Institute of Physics. 
+
+strontium compounds
+cerium
+sputtered coatings
+internal stresses
+paramagnetic resonance
+phosphors
+cathodoluminescence
+photoluminescence
+STRONTIUM SULFIDES
+EMISSION SPECTRA
+SPUTTERING
+CERIUM ADDITIONS
+THIN FILMS
+ULTRAVIOLET RADIATION
+X-RAY DIFFRACTION
+ELECTRON SPIN RESONANCE
+CRYSTAL STRUCTURE

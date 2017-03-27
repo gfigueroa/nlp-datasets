@@ -1,0 +1,6 @@
+This paper proposes a non-coherent UWB ranging scheme employing 1-bit ADCs and energy collection for precision asset location within simultaneously operating piconets (SOP). To estimate the time of arrival (ToA) of the first multipath, the proposed method is based on the correlation operation with template signal. For an appropriate 1-bit ADC process, the threshold value is extracted adaptively from sampled binary data. To improve the ranging accuracy on the existence of SOPs, gold code is assigned to each piconet. Corresponding to the proposed ranging scheme, its performance is verified by conducting simulations in two types of channel conditions. The simulation results show that the proposed ranging scheme on the existence of multiple SOP performs well even in condensed multipath environment
+
+TOA
+energy collection
+gold code
+simultaneously operating piconets

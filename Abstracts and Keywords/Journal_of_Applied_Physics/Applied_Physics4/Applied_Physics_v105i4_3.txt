@@ -1,0 +1,10 @@
+A solution-processable functional polyimide (PYTPA-PI), containing triphenylamine-substituted diphenylpyridine moieties (PYTPA, electron donors) and phthalimide moieties (PI, electron acceptors), was synthesized. The copolymer exhibits a high glass transition temperature of 342	°C. A switching device, based on a solution-cast thin film of PYTPA-PI sandwiched between an indium-tin oxide (ITO) bottom electrode and an Al top electrode, exhibits two accessible conductivity states and can be switched from the low-conductivity (OFF) state to the high-conductivity (ON) state, with an ON/OFF current ratio of more than 103, at the threshold voltage of about 2.7 V. The ON state is volatile and relaxes readily to the OFF state. However, it can be electrically sustained by a refreshing voltage pulse of 2 V. The ON state can also be reset to the initial OFF state by a reverse bias of 0.9 V. The ability to write, erase, read, and refresh the electrical states fulfills the functionality of a dynamic random access memory. The electronic transitions and transport mechanisms associated with the memory effect were elucidated from molecular simulation. In comparison with that of other functional polyimides, the electrical switching performance in PYTPA-PI illustrates the possibility of tuning memory properties in imide polymers via molecular design and synthesis.
+
+aluminium
+conducting polymers
+electrical conductivity
+glass transition
+indium compounds
+organic semiconductors
+polymer blends
+semiconductor thin films

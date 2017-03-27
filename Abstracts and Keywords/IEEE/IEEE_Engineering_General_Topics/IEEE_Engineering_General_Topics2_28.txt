@@ -1,0 +1,6 @@
+In this paper, the wavelet transform and higher-order statistical methods were introduced to the analysis of the acupuncture point signals and contrastive non-acupoint signals, i.e. the signals acquired from the Lung Channel of Hand-Taiyin (LU), the Pericardium Channel of Hand-Jueyin (PC) and some other contrastive non-acupoints. Then, the bi-spectrum analysis is implemented on the measured signals. The obtained results of the bi-spectrum analysis showed that obvious difference could be found on the magnitude of the bi-spectrum and the distribution in frequency between the acupoint and the contrastive non-acupoint signals. The experiments and analysis show that the meridian system is a channel allowing the electric signals to pass through easily.
+
+Wavelet transform
+acupuncture point
+bi-spectrum
+higher-order statistics

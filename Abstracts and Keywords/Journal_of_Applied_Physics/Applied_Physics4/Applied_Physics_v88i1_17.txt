@@ -1,0 +1,13 @@
+The nucleation and growth of Hg1xCdxTe on CdTe(211)B/Si(211) substrates by molecular beam epitaxy are comprehensively studied by in situ reflection high energy electron diffraction and transmission electron microscopy. Microtwins are observed to be formed at the interface, but are overgrown later as the growth proceeds. It is shown that the three-dimensional growth at the nucleation stage of HgCdTe on CdTe(211)B/Si and CdZnTe(211)B is more likely due to the higher surface energy of Hg1xCdxTe than that of CdTe(211)B and CdZnTe(211)B. © 2000 American Institute of Physics. 
+
+mercury compounds
+cadmium compounds
+II-VI semiconductors
+semiconductor epitaxial layers
+molecular beam epitaxial growth
+semiconductor growth
+reflection high energy electron diffraction
+transmission electron microscopy
+nucleation
+twinning
+surface energy

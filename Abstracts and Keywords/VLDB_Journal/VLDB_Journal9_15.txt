@@ -1,0 +1,8 @@
+This paper presents structural recursion as the basis of the syntax and semantics of query languages for semistructured data and XML. We describe a simple and powerful query language based on pattern matching and show that it can be expressed using structural recursion, which is introduced as a top-down, recursive function, similar to the way XSL is defined on XML trees. On cyclic data, structural recursion can be defined in two equivalent ways: as a recursive function which evaluates the data top-down and remembers all its calls to avoid infinite loops, or as a bulk evaluation which processes the entire data in parallel using only traditional relational algebra operators. The latter makes it possible for optimization techniques in relational queries to be applied to structural recursion. We show that the composition of two structural recursion queries can be expressed as a single such query, and this is used as the basis of an optimization method for mediator systems. Several other formal properties are established: structural recursion can be expressed in first-order logic extended with transitive closure; its data complexity is PTIME; and over relational data it is a conservative extension of the relational calculus. The underlying data model is based on value equality, formally defined with bisimulation. Structural recursion is shown to be invariant with respect to value equality.
+
+Optimization
+Query language
+Semistructured data
+Structural recursion
+XML
+XSL

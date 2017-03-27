@@ -1,0 +1,6 @@
+Classifiers in a high dimensional space based on the signals of multiple electrodes in EEG-based BCIs suffer from the curse of dimensionality due to the limited training dataset. In order to tackle this problem, we design a framework of two-layer hidden Markov models (HMMs) for probabilistic classification of EEG signals. We first independently model the characteristics of EEG signals embedded in each channel for different motor imagery tasks in the lower-layer, and then represent the holistic task-related dynamic EEG patterns in the upper-layer by considering the relationships among channels. From the experimental results based on the dataset II-a of BCI Competition IV (2008), we demonstrated that our method achieved high session-to-session transfer results and was superior to previous methods.
+
+Hidden Markov Models (HMMs)
+brain-computer interface (BCI)
+electroencephalography (EEG)
+motor Imagery classification

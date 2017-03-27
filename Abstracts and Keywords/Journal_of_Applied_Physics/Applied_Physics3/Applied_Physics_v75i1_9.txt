@@ -1,0 +1,12 @@
+The birefringence characteristics of optical fibers with a highly eccentric elliptical core are investigated under various thermal stress conditions. A new numerical method for solving the vectorial Maxwell equations is proposed which simultaneously takes into account the effects of ambient temperature and the geometrical distribution of the refractive indices of anisotropic propagation media. To verify the reliability of our numerical procedure, the birefringence characteristics are investigated of a highly birefringent elliptical core fiber used recently in the design of an optical sensor. The birefringence characteristics calculated by this procedure and those obtained from models currently used in the field of fiberoptic sensing devices are compared with experimental data. For highly birefringent fibers, the numerical method proposed is far more accurate.
+
+OPTICAL FIBERS
+BIREFRINGENCE
+THERMAL STRESSES
+NUMERICAL SOLUTION
+MAXWELL EQUATIONS
+ELLIPTICAL CONFIGURATION
+REFRACTIVE INDEX
+TEMPERATURE EFFECTS
+WAVE PROPAGATION
+ANISOTROPY

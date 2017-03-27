@@ -1,0 +1,11 @@
+The existence of oscillatory interlayer exchange coupling of ferromagnetic layers via (111)oriented noble metal spacer layers is controversial. We present evidence from magnetic and giant magnetoresistance studies for welldefined antiferromagnetic interlayer coupling in single crystalline (111) permalloy/Au multilayers. Four oscillations in the coupling are observed as the Au spacer layer thickness is increased. The oscillation period is B10 Å which is significantly shorter than the period of B11.5 Å predicted in RudermanKittelKasuyaYosida based models. Similar oscillatory interlayer coupling is found in polycrystalline permalloy/Au multilayers prepared by dc magnetron sputtering. The interlayer coupling strength is significantly weaker in the polycrystalline as compared to the (111)oriented crystalline samples. In both cases the coupling strength is weaker than in comparable structures containing Ag, for which the coupling is weaker than in similar structures containing Cu. The weakness of the antiferromagnetic interlayer coupling via Au leads to very low saturation fields, lower than for all other noble and transition metals. Indeed, the saturation fields are as low as just a few Oersted for sufficiently thick Au layers. Consequently, we find giant magnetoresistance values of B1%/Oe or greater at room temperature in polycrystalline permalloy/Au multilayers. These values are the highest values yet reported in multilayer structures and are comparable to or greater than those recently reported in discontinuous permalloy/Ag multilayers.
+
+MULTILAYERS
+PERMALLOY
+GOLD
+MAGNETORESISTANCE
+EXCHANGE INTERACTIONS
+MONOCRYSTALS
+POLYCRYSTALS
+OSCILLATIONS
+THICKNESS

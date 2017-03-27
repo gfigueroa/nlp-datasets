@@ -1,0 +1,6 @@
+This paper presents a sweep-based three-phase power flow method for solving general distribution networks that can be heavily meshed and include transformers around the meshes/loops. A load-stepping technique is proposed for solving common convergence problems of sweep-based load-flow solvers when dealing with overloaded radial sections. The proposed power-flow algorithm is based on the iterative solution of radial subsystems assembled together with the mesh equations to comply with Kirchhoff equations. The proposed method is robust and efficient for the solution of heavily loaded systems. Examples are presented for illustration.
+
+Distribution networks
+iterative solutions
+load flow
+sweep-based methods

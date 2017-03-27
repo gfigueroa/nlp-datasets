@@ -1,0 +1,11 @@
+The magnetotransport properties of GaAsGaAlAs multiple quantum well structures, with widths of the quantum wells Lw=3366 Å, have been investigated over a wide temperature and field range. The variation of the electron mobility with Lw (and temperature) can be accounted for by interface roughness scattering. A negative magnetoresistance was observed. An analysis within the theory of weak localization allowed us to evaluate the relaxation time of the phase of the electronic wave function and its temperature dependence ÄÆ(T). Measurements in highmagnetic fields (up to 40 T) at T=4.2 K revealed pronounced Shubnikovde Haas oscillations and the quantum Hall effect.
+
+QUANTUM WELLS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+MAGNETORESISTANCE
+QUANTUM HALL EFFECT
+ELECTRON MOBILITY
+TEMPERATURE DEPENDENCE
+SHUBNIKOVDE HAAS EFFECT

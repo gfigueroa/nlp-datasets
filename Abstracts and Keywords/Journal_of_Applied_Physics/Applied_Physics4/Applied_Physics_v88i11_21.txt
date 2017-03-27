@@ -1,0 +1,10 @@
+We present the measurements and the theoretical model of the frequency-dependent noise temperature of a superconductor lattice-cooled hot-electron bolometer mixer in the terahertz frequency range. The increase of the noise temperature with frequency is a cumulative effect of the nonuniform distribution of the high-frequency current in the bolometer and the charge imbalance, which occurs at the edges of the normal domain and at the contacts with normal metal. We show that under optimal operation the fluctuation sensitivity of the mixer is determined by thermodynamic fluctuations of the noise power, whereas at small biases there appears additional noise, which is probably due to the flux flow. We propose the prescription of how to minimize the influence of the current distribution on the mixer performance. © 2000 American Institute of Physics. 
+
+superconducting device noise
+hot carriers
+bolometers
+superconducting mixers
+fluctuations in superconductors
+submillimetre wave mixers
+submillimetre astronomy
+astronomical instruments

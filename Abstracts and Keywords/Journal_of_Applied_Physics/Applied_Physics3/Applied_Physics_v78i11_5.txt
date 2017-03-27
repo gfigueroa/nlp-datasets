@@ -1,0 +1,15 @@
+A kinetic manybody electronrelated model of crystallization in aSi:H(F) in the presence and absence of metal contacts is proposed. The model expresses the parameters of the formation of crystalline nuclei in terms of atomic and electronic material characteristics. The model is based on the kinetic electronrelated theory of thermally activated rate processes in solids. The model considers picosecond atomic and electronic phenomena occurring in the nanometer vicinity of strongly fluctuating Si atoms executing diffusionlike jumps over energy barriers to more ordered positions which are associated with the formation of crystalline nuclei. The influence of random picosecond fluctuational heatings (coolings) in the nanometer vicinity of hopping atoms on the nucleation (crystallization) rate is considered. The following main results are obtained. (i) The Arrheniuslike equations for the nucleation time tN linking it with the Si selfdiffusion in the metal/semiconductor interface are found from the kinetic consideration of the crystallization process, and are in agreement with experimental data. (ii) The Arrhenius activation energy ”E and the preexponential factor t0N of the nucleation process are calculated.
+
+ALUMINIUM
+AMORPHOUS STATE
+ARRHENIUS EQUATION
+CONTACT PROBLEMS
+CRYSTALLIZATION
+DIFFUSION
+FLUORINATION
+HYDROGENATION
+INTERFACE PHENOMENA
+MATHEMATICAL MODELS
+NUCLEATION
+PALLADIUM
+SILICON

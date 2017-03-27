@@ -1,0 +1,7 @@
+In recent years it has been proven that hybrid forms of powertrains in vehicles can lead to substantial reductions in fuel consumption and emissions. In particular, the advent of commercial hybrid electric vehicles proved that improved performance has been achieved by implementing a secondary energy source in a vehicle powertrain. However, the only secondary energy source implemented to date is based on electrochemical batteries, which suffer from technical and economic disadvantages. To overcome this, a novel powertrain based in both mechanical power transmission and mechanical energy storage is proposed. This article presents a brief explanation of flywheel technology as it applies to hybrid vehicles and a qualitative comparison with existing energy storage technologies is also presented. Finally computational simulations will show that the implementation of this powertrain in a vehicle leads to important reductions in fuel consumption while requiring only mechanical components in the system, instead of batteries, motors, generators and power electronics.
+
+CVT
+Regenerative energy
+epicyclic gearbox
+flywheel
+hybrid vehicle

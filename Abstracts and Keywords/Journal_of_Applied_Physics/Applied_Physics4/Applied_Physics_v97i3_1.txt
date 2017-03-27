@@ -1,0 +1,13 @@
+The principles and mechanisms of scanning near-field microscopy of second-harmonic generation from ferromagnetic films have been investigated. Magnetic domain image formation in near-field second-harmonic microscopy is discussed and the role of the probe tip is considered. It is shown that magnetic contrast can be achieved in the second-harmonic intensity measurements in both the transverse and longitudinal magnetization configurations for both polarizations of the fundamental light. This is related to the electromagnetic near-field properties in the vicinity of the probe tip and the electromagnetic interaction between a tip and a surface. The capabilities of this imaging approach have been illustrated using magnetic domain structures in thin Co and Ni films. The near-field second-harmonic distributions obtained with p-polarized excitation light are strongly correlated to the topography of the films. At the same time, the images obtained with s-polarized excitation light are much less sensitive to the topography.
+
+cobalt
+nickel
+metallic thin films
+magnetic thin films
+ferromagnetic materials
+magnetic domains
+magneto-optical effects
+optical harmonic generation
+magnetisation reversal
+surface topography
+near-field scanning optical microscopy

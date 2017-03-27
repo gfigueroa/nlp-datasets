@@ -1,0 +1,9 @@
+A high resolution magneto-optical technique with a magnetic indicator film was used to study the effect of a regular array of micrometer-sized mechanical indentations on magnetization dynamics at the surface of a twinned single crystal of YBa2Cu3O7´ as a function of applied magnetic field, Ha (0 to ±68 mT) at temperatures in the range of 1070 K. Direct visualization of the magnetic flux interaction with the individual indentations was observed for the first time. During magnetization at low Ha up to 15 mT at 60 K, the first row of indentations provides resistance to the flux front. In the indented area, flux is preferably pinned at the indentation sites. With increasing Ha, the vortex density at the indentations approaches the magnetic flux density in the surrounding material. During demagnetization down to Ha=0
+mT, the outgoing flux is trapped by the indentations in areas where the density of the trapped flux is small; flux is also trapped along the (110) twin boundaries behind the indentations. For Ha=0 to ±10 mT, the average value of the magnetic induction gradient in the vicinity of an indentation is H0.4 mT/¼m at 2060 K. The average induction gradient and, thus, the critical current density in the indented material is estimated to be 1.52 times greater than in the unindented material at temperatures from 40 to 70 K and Ha from 18 to 68 mT. © 2000 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+flux pinning
+magnetisation
+critical current density (superconductivity)

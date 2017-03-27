@@ -1,0 +1,11 @@
+The physical background of the device for the transportation of magnetic microparticles which is using a domain structure of garnete-ferrite films with easy-plane anisotropy are developed and experimentally proved in the present paper. The proposed device can be used in microbiology, medicine, and genetic engineering.
+
+biomagnetism
+biomedical electronics
+ferrite devices
+ferrites
+garnets
+magnetic anisotropy
+magnetic domains
+magnetic particles
+magnetic thin films

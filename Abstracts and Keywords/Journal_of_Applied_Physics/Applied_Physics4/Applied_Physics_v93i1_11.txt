@@ -1,0 +1,11 @@
+The excess Gibbs free-energy difference, ”G1s, between the undercooled liquid and the crystalline solid for LaAlNiCu(Co) alloys was calculated by using directly measured heat capacity data. The glass-forming tendency of these liquids correlated well with the computed Gibbs free-energy difference. The small value of Gibbs free energy of the undercooled liquid with respect to the crystalline solid is a contributing factor to the high glass-forming ability in this system. The kinetics of bulk LaAlNiCu(Co) glass-forming liquids were also investigated using differential scanning calorimetry. The fragility plot of the viscosities indicate that these bulk metallic glass formers are strong liquids. The glass-forming ability of these alloys is also explained in the light of this fragility concept. © 2003 American Institute of Physics. 
+
+lanthanum alloys
+aluminium alloys
+nickel alloys
+copper alloys
+cobalt alloys
+metallic glasses
+free energy
+undercooling
+differential scanning calorimetry

@@ -1,0 +1,10 @@
+The fabrication of conducting polymer films by a screen-printing method and characterization of an organic light-emitting diode (OLED) implemented using these films as an anode on plastic substrates are reported. Organic transparent electrode materials containing poly(3,4-ethylenedioxythiophene) (PEDOT) doped with poly(styrenesulfonic acid) (PSS) (PEDOT:PSS) were used after the modification by a unique nanoparticle binder design. The electro-optical properties as well as mechanical stabilities of these films were measured. The OLED performances when employing these films were comparable to that of OLEDs using indium tin oxide (ITO) despite their relatively poor conductivity. An external quantum efficiency of the OLED using this anode is < 3.5%, which is about twice as that of OLEDs using ITO. These results show that the organic transparent electrode of a conducting polymer film patterned by the screen-printing method is a potential candidate for an electrode of the flexible OLED.
+
+conducting polymers
+electrical conductivity
+electro-optical devices
+electro-optical effects
+mechanical stability
+organic light emitting diodes
+semiconductor thin films
+transparency

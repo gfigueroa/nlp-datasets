@@ -1,0 +1,16 @@
+The substitution of Ce by magnetic ions such as Pr or Nd in the CeNi0.8Pt0.2 Kondo ferromagnetic compound not only favors the magnetic interactions increasing the Curie temperatures, but also disturbs the coherence of the Kondo lattice state leading to a decrease of the Kondo temperatures and an increase of the Ce intrinsic magnetic moment. These effects have been studied by resistivity, magnetization, and neutron diffraction.
+
+FERROMAGNETIC MATERIALS
+TERNARY COMPOUNDS
+CERIUM COMPOUNDS
+NICKEL COMPOUNDS
+PLATINUM COMPOUNDS
+PRASEODYMIUM ADDITIONS
+NEODYMIUM ADDITIONS
+SUBSTITUTION
+KONDO EFFECT
+ELECTRIC CONDUCTIVITY
+MAGNETIZATION
+NEUTRON DIFFRACTION
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 013 K

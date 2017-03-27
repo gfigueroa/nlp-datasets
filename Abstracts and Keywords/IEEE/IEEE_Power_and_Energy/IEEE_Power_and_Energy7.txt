@@ -1,0 +1,5 @@
+This paper presents a comparative investigation of the performance characteristics of a directly connected photovoltaic (PV) pumping system and a scheme utilizing a constant voltage maximum power point tracking algorithm. A simple and accurate model is developed for each individual component of the system based on its measured characteristics and the system is simulated numerically. System performance is analyzed and energy utilization efficiency is calculated for different weather conditions. A detailed comparison identifying the advantages and drawbacks of each technique is presented. Experimental results obtained using a 1080-Wp PV array connected to a 1-kW permanent magnet dc motor-centrifugal pump set show very good agreement with the numerical simulation of the systems.
+
+DC&#x2013;DC power conversion
+photovoltaic (PV) power systems
+photovoltaic (PV) pumping

@@ -1,0 +1,14 @@
+We report an experimental determination of the pyroelectric coefficient for strained InGaAs layers in a pseudomorphic piezoelectric In0.17Ga0.83As/GaAs multiquantum well in a p-i-n diode configuration which was grown on a (111)B
+GaAs substrate by molecular-beam epitaxy. By analyzing the FranzKeldysh oscillations in the photoreflectance spectra over the temperature range 11300 K, we obtained the temperature dependence of the piezoelectric field, from which the temperature variation of the piezoelectric constant e14 was deduced. A linear dependence of e14 with temperature was observed. Therefore, the strain-induced component of the pyroelectric coefficient of (9.3±0.3)×107
+C/m2
+K was determined for this material system. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+semiconductor quantum wells
+piezoelectric semiconductors
+photoreflectance
+visible spectra
+III-V semiconductors
+pyroelectricity
+p-i-n diodes

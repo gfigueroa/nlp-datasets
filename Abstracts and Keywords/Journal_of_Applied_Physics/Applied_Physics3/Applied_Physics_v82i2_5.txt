@@ -1,0 +1,13 @@
+In this article an electron energy loss spectroscopy investigation of CNx thin films is reported. The bonding, composition, and structure are discussed and a more thorough extended energy loss spectroscopy investigation is carried out to determine the interatomic distances. The extended energy loss fine structure analysis reveals a component with an unusually high frequency in the data corresponding to an interatomic distance of approximately 7.3 Å. This is suggested to originate from backscattering from distant curved atomic layers. © 1997 American Institute of Physics.
+
+carbon compounds
+protective coatings
+electron energy loss spectra
+CARBON NITRIDES
+STRUCTURAL CHEMICAL ANALYSIS
+THIN FILMS
+INTERATOMIC DISTANCES
+BONDING
+CHEMICAL COMPOSITION
+SPUTTERING
+MICROSTRUCTURE

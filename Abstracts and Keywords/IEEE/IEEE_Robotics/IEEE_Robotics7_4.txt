@@ -1,0 +1,7 @@
+We have developed GrafiXML, an original user interface builder in that it enables designers and developers to design several UIs simultaneously for multiple contexts of use, i.e. for many users, platforms, and environments. For this purpose, it maintains coordination between three representations: an internal representation consisting of specifications in USer Interface extensible Markup Language (UsiXML), an external representation consisting of the interface preview, and a conceptual representation consisting of a user interface model. GrafiXML is an intelligent UI builder in that it maintains model consistency between these representations through a set of mappings based on a user interface ontology. Thanks to this mechanism, GrafiXML provides a unique set of features for supporting designing interfaces for multiple targets. These features are defined, motivated, discussed, and exemplified on a simple interface. Then, it is explained how the UI resulting from this design can support one or many levels of independence with respect to the underlying context of use.
+
+Multi-target user interface
+context awareness
+context of use
+context-aware adaptation
+user interface extensible markup language

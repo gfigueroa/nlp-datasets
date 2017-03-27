@@ -1,0 +1,19 @@
+It is shown that practical beam annealing of silicon can be accomplished with a high intensity arc lamp. The use of a onedimensional, steadystate solution for temperature is justified. The Kirchhoff transform is utilized to include the temperature dependence of the thermal conductivity. Surface temperatures produced by a xenon arc lamp are calculated for 300 and 375¼m thick silicon samples, using substrate temperatures of 350 and 500	°C. It is shown that substantial reduction of the radiation intensity required for a given surface temperature can be obtained by placing a quartz wafer between the silicon sample and the heat sink.
+
+SILICON
+HEATING
+RADIATION EFFECTS
+ELECTRIC ARCS
+ZENON
+LIGHT BULBS
+ANNEALING
+ONEDIMENSIONAL CALCULATIONS
+STEADYSTATE CONDITIONS
+TEMPERATURE DEPENDENCE
+TRANSFORMATIONS
+THERMAL CONDUCTIVITY
+MATHEMATICAL MODELS
+THEORETICAL DATA
+HIGH TEMPERATURE
+THICKNESS
+SUBSTRATES

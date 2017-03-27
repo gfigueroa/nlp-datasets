@@ -1,0 +1,12 @@
+During the open circuit voltage decay (OCVD) in a diode with ÄB/ÄEk1 (ÄB and ÄE are the lifetimes of the minority carriers in the base and emitter, respectively), the quasistatic approximation is found to be valid in the emitter but not in the base. If the bandgap narrowing ”Eg is significant, ÄE,ÄB, as well as ”Eg determine the OCVD for t&lt;ÄB. For tkÄB [and exp (qV/kT)k1] OCVD vs t plot is approximately linear with its slope <1/ÄB, irrespective of the magnitude of ”Eg.
+
+SEMICONDUCTOR JUNCTIONS
+PN JUNCTIONS
+NORMALMODE ANALYSIS
+PARAMETRIC ANALYSIS
+CHARGE CARRIERS
+ELECTRIC POTENTIAL
+DECAY
+MATHEMATICAL MODELS
+THEORETICAL DATA
+EQUATIONS

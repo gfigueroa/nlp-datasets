@@ -1,0 +1,7 @@
+Considerable evidence suggests that thick-film resistors are close to a metalinsulator transition and that tunneling processes between metallic grains are the main source of resistance. We consider as a minimal model for description of transport properties in thick-film resistors a percolative resistor network, with conducting elements governed by tunneling. For both oriented and randomly oriented networks, we show that the piezoresistive response to an applied strain is model dependent when the system is far away from the percolation thresold, while in the critical region it acquires universal properties. In particular close to the metalinsulator transition, the piezoresistive anisotropy shows a power law behavior. Within this region, there exists a simple and universal relation between the conductance and the piezoresistive anisotropy, which could be experimentally tested by common cantilever bar measurements of thick-film resistors. © 2002 American Institute of Physics. 
+
+thick film resistors
+percolation
+tunnelling
+piezoresistance
+metal-insulator transition

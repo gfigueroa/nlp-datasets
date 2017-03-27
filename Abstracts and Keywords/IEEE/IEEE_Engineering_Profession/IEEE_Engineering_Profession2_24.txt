@@ -1,0 +1,6 @@
+In this paper, we apply a robust observer-based control structure for a MIMO nonlinear model of a quadruple tank process. Our main goal here is to track a reference trajectory of the water level in the two lower tanks using the information available from the measurement of only the two bottom levels. So, we use a high gain state feedback technique for the controller synthesis which global exponential stability is proved. Due to the fact that such control law require the knowledge of the system state, such estimation problem is overcome through the use of a high gain exponentially converging observer. As the resulting closed loop performs well the separation principle, we conclude that the adopted output feedback control structure is capable of stabilizing the four tank process. Computer simulations are carried out for showing the robustness of the adopted controller against step like disturbance and noisy measurements.
+
+High Gain Control
+High Gain Observer
+Output Feedback
+Quadruple Tank Process

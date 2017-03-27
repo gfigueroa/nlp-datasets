@@ -1,0 +1,17 @@
+Powders of Ni-Mn-Ga ferromagnetic shape memory alloy (FSMA) were produced by spark erosion. Powders quenched in liquid nitrogen are primarily hollow spherical particles, whereas those quenched in liquid argon are mostly solid spheres. Electron microscopy observations of powders as-sparked in nitrogen show highly disordered nanocrystalline grains with an average size of less than 100 nm whereas those sparked in liquid argon display extensive crystallinity. Magnetic measurements indicate that the powders do not become fully ferromagnetic until after annealing at 973 K for 5 h. Investigations of annealed powders using differential scanning calorimetry reveal thermoelastic martensitic transition behavior. The annealed powders have a microtwinned martensite with many large grains showing a five-layer period modulation. These Ni-Mn-Ga powders should be suitable for the development of magnetic-field-driven FSMA powder/polymer microcomposites. © 2004 American Institute of Physics. 
+
+nickel alloys
+manganese alloys
+gallium alloys
+powder metallurgy
+annealing
+grain size
+nanoparticles
+composite materials
+quenching (thermal)
+shape memory effects
+martensitic transformations
+differential scanning calorimetry
+electron microscopy
+twinning
+Hall effect

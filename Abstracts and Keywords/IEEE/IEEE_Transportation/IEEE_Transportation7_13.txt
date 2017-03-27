@@ -1,0 +1,6 @@
+This paper proposes a method to detect the Internet Key Exchange (IKE) phase 1 messages in IPSec VPN, which is called Context-based Deep Packet Inspection (CDPI). In conventional IPSec VPN detection methods, the packet filter firewall only detects the heads of the IP packets and other protocols. Therefore, if the attackers impersonate messages of the same heads as the actual IPSec messages, the conventional methods are not aware of the spurious messages. The proposed method CDPI can not only detect the heads of the messages, but also analyze the context of the IKE messages. Through the context analysis, we can easily find whether the IKE phase 1 messages are actual IPSec messages or imitations. Furthermore, the analysis results can indicate the integrality of the IKE phase 1 exchange, which shows whether the IPSec VPN is established. The result of our experiment shows CPDI is an efficient method to ensure the validity and integrality of IKE messages.
+
+Context-based Deep Packet Inspection
+IKE
+ISAKMP
+Main mode

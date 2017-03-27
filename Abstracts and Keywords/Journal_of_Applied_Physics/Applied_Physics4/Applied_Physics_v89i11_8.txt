@@ -1,0 +1,14 @@
+Many experimental observations have clearly shown that dislocation interaction plays a crucial role in the kinetics of strain relaxation in epitaxial thin films. A set of evolution equations are presented in this article. The key feature of the equations is the incorporation of dislocation interactions into the kinetic process by introducing a resistance term. The resistance to threading dislocation gliding is characterized by a hardening function, which depends only on the relaxed plastic strain. The evolution equations are tested on the GexSi1x/Si(100) materials system. Existing fundamental parameters are incorporated into the present model. The evolution equations successfully reproduce a wide range of experimental data on strain relaxation in GexSi1x/Si heterostructures. © 2001 American Institute of Physics.
+
+Ge-Si alloys
+semiconductor materials
+silicon
+elemental semiconductors
+semiconductor heterojunctions
+semiconductor epitaxial layers
+stress relaxation
+dislocation interactions
+hardening
+plastic deformation
+slip
+internal stresses

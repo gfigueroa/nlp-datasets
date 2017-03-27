@@ -1,0 +1,5 @@
+Practical polycrystalline aggregates are expected to have macroscopic properties that depend upon the properties of constituent crystals and the aggregate geometry. Since that microgeometry is usually random, there will be some uncertainty in the observed macroscopic behavior of the aggregates. The general shape-independent upper and lower estimates for those uncertainty intervals for the elastic moduli of completely random polycrystals are constructed from the minimum energy and complementary energy principles. Applications to aggregates of cubic crystals are presented. © 2000 American Institute of Physics. 
+
+elastic moduli
+composite materials
+random media

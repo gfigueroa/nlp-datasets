@@ -1,0 +1,17 @@
+The interaction between the interelectrode plasma and macroparticles (droplets) produced by a multitude of cathode spots in a vacuum arc between Cu electrodes is analyzed, using previous experimental measurements of the macroparticle size distribution and erosion rate and a flowing plasma model. The effect of the plasma on the macroparticles is considered by treating the macroparticles as floating probes and calculating the particle, momentum, and energy fluxes to them. It is found that slow macroparticles are significantly deflected form their original trajectories owing to ion bombardment, and that steadystate macroparticle temperatures of 20002600 K are obtained from the balance of the energy influx (primarily from ion bombardment) with the evaporative outflux. The effect of the macroparticles on the plasma is considered by calculating the production rate of neutral atoms and ions originating from macroparticle evaporation, by examining the possibility of occlusion of the discharge path by macroparticles, and of cathodespot formation on detached particles. The calculated neutral density is proportional to J and is in the range 0.020.5% of the electron density, depending upon electron temperature and macroparticle velocity. In the 107	A	m2	Cu	arc, the calculated neutral density is in the range 1×10172.5×1018	m3. The neutral atoms are eventually ionized and the rate of ion production from the macroparticles can become significant in comparison with that of cathodespotproduced ions under certain conditions. Occlusion of the discharge path is negligible, and the occurrence of sustained cathodespot activity on the macroparticles is improbable.
+
+ELECTRIC ARCS
+PLASMA
+PARTICLES
+CATHODES
+MATHEMATICAL MODELS
+COPPER
+ELECTRODES
+PARTICLE SIZE
+EROSION
+PROBES
+LINEAR MOMENTUM
+TRAJECTORIES
+ION COLLISIONS
+ENERGY BALANCE
+EVAPORATION

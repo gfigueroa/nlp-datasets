@@ -1,0 +1,6 @@
+Unlike semiconducting organics, insulating polymers exhibit electroluminescence features that cannot be interpreted on the basis of the photophysical properties of the material. In particular, it is shown for the first time that the spectral components observed in electroluminescence of polyethylene can only be reproduced when the material is irradiated by an electron beam. This shows that hot electron impact is a driving process in electroluminescence and that the excited states decay route goes along the chemical pathway ending with molecular fragmentation. From these results, electroluminescence and electrical degradation can be associated in an implicit scheme, opening the way for defining safety limits in terms of electric stresses applied to a material for a given application.
+
+electroluminescence
+electron beam effects
+excited states
+polymers

@@ -1,0 +1,7 @@
+Preferential flow plays an important role in the movement of soil water. Dye tracer experiments and computer image analysis were used to analyze morphological and distribution of preferential flow paths under different land uses (forest land, shrubs land, and farmland). The relationships between the preferential flow paths and root lengths, root holes and root surface area were analyzed by Pearson method. The results indicated that the upper 0-10 cm depth of the soil in all land uses had more than 50% dye coverage, and below 20 cm depth, the dye stained area was less than 30%. Preferential flow paths in soil are closely related to soil properties, root length, root holes, and root surface area. The soil properties in the area with preferential flow paths are quite different than that in soil matrix. The soil organic matter content was approximately 5-20% higher in the preferential flow paths area than that in the soil matrix. The percent of preferential flow paths in soil is significantly affected by roots with a diameter of less than 5 mm, root holes and root surface area. The vertical distribution is quite different in different land uses. Shrubs land and farmland have more preferential flow paths in the top soil layers than forestland, and the situation conversed in deeper soil layer.
+
+image analysis
+land use
+preferential flow path
+root characteristics
+soil properties

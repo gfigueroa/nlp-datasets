@@ -1,0 +1,21 @@
+Measurements have been made of the current circulating through a plasma and an adjacent electrically isolated conductor containing an electronemitting surface region. This unipolar current (so called since it requires only a single electrode) was measured in a dc mercuryargon positive column plasma (7 mTorr Hg, 3 Torr Ar, 1.8 cm radius, 400 mA). The unipolar conductor consists of metal disks located at the boundary of the plasma; these disks include indirectly heated dispenser cathodes which act as the electronemitting regions, providing external control of the emission level. The disks can be connected externally in various combinations to form a conductor of variable distribution and area or they can be used as independent electrostatic probes. Measured unipolar currents are in good agreement with values predicted from individual experimental probe VI characteristics for the disk emitters and collectors, demonstrating that the unipolar current circulation process can be interpreted in terms of electrostatic probe characteristics.
+
+plasma diagnostics
+electrostatic probes
+films
+electric discharges
+plasma diagnostics
+gases
+electric currents
+medium vacuum
+experimental data
+electron emission
+surfaces
+low pressure
+direct current
+mercury
+argon
+positive column
+cathodes
+spatial distribution
+electrical properties

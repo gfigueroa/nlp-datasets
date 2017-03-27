@@ -1,0 +1,7 @@
+In-process surface inspection during wood machining has attracted great interest in recent years due to the growing desire to minimise wastage and the increasing demand for higher quality wooden products. In order to take advantage of the developments in machine vision technologies for surface quality inspection, it is necessary to investigate the reflectance properties of wood so that standard machine-vision based assessment methods can be established. This paper describes a method for estimating the surface albedo of wood using photometric stereo technique. It is revealed that the albedo of timber is highly variable, which can be attributed to its hygroscopic and anisotropic material nature.
+
+Lambertian reflectance
+albedo estimation
+photometric stereo
+shape from shading
+wood surface

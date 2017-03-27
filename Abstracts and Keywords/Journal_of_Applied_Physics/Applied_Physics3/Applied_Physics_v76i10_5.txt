@@ -1,0 +1,13 @@
+Deep level transient spectroscopy (DLTS) has been used to characterize deep impurity levels in ntype 6HSiC single crystals. A defect level at Ec0.71 eV with an electron capture cross section Ã=5.63×1020 cm2 was observed. Defect concentration profiles confirm that the defect is a bulk defect. Infrared absorption measurements in the spectral range of 70007700 cm1 were made using these samples. The infrared absorption spectrum characteristic of vanadium in silicon carbide is composed of a group of three absorption lines in the spectral range of 70007700 cm1. This infrared signature was seen in the specimens in which the DLTS spectrum revealed the presence of deep traps. This signature was absent in those specimens where no deep traps were indicated by DLTS. Correlating these facts, we have concluded that the observed peak at Ec0.71 eV was due to vanadium atoms in silicon carbide.
+
+SILICON CARBIDES
+DOPED MATERIALS
+VANADIUM ADDITIONS
+DLTS
+IMPURITY STATES
+NTYPE CONDUCTORS
+MONOCRYSTALS
+DEFECT STATES
+ELECTRON CAPTURE
+ABSORPTION SPECTRA
+INFRARED SPECTRA

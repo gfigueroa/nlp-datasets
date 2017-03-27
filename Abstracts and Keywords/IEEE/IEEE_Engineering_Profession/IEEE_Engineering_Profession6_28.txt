@@ -1,0 +1,6 @@
+The development and application of data mining technology puts forward new requirement to knowledge management in information era. Intelligent knowledge is the valuable knowledge that comes from data mining technology, and has the intelligent features such as memory, recognition, self-updating, disappearance etc after the transaction by man-machine interaction. On the basis of analyzing the goals and layers of intelligent knowledge management, this paper studies the implementation model of intelligent knowledge management from the aspects of its cultivation, expression and storage, audit and logic mechanism etc. It will afford new perspective for research on knowledge management.
+
+data mining
+extenics
+intelligent knowledge
+management model

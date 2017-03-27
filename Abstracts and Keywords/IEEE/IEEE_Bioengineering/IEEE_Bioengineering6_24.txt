@@ -1,0 +1,5 @@
+This paper presents a synteny visualization and analysis tool developed in connection with IMAS - the Interactive Multigenomic Analysis System. This visual analysis tool enables biologists to analyze the relationships among genomes of closely related organisms in terms of the locations of genes and clusters of genes. A biologist starts IMAS with the DNA sequence, uses BLAST to find similar genes in related sequences, and uses these similarity linkages to create an enhanced node-link diagram of syntenic sequences. We refer to this as Spring Synteny visualization, which is aimed at helping a biologist discover similar gene ordering relationships across species. The paper describes the techniques that are used to support synteny visualization, in terms of computation, visual design, and interaction design.
+
+Bioinformatics
+Sequence Analysis
+Visual Analytics

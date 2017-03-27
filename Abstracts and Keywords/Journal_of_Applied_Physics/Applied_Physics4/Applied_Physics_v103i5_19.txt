@@ -1,0 +1,13 @@
+Surface structure of BaTiO3 (BTO) films grown on SrTiO3 substrates was investigated as a function of temperature. X-ray reflectivity results show that there exists a low-density surface layer of 15Å due to surface relaxation on top of the BTO films in addition to a physical adsorbed water layer of about 5Å at 25	°C. The water layer disappeared at 70	°C; however, the surface layer remains its thickness until 115	°C. At 140	°C, the thickness of the surface layer decreases to 12Å and the electron density increases to a value near to that of the underneath BTO layer. The results of differential scanning calorimetry and the temperature dependence measurement of the lattice parameters convinced that the ferroelectric phase transition of the BTO films takes place around 135	°C ( < 130	°C for bulk BTO). This indicates that the ferroelectric phase transition would contribute to the structural change of the surface layer due to the removal of the depolarization field. Our results indicate that the ferroelectric polarization strongly influences the surface structure of BTO films.
+
+barium compounds
+dielectric polarisation
+differential scanning calorimetry
+electron density
+ferroelectric materials
+ferroelectric thin films
+ferroelectric transitions
+lattice constants
+strontium compounds
+surface structure
+X-ray reflection

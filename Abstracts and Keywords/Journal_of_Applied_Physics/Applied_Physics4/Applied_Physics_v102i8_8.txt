@@ -1,0 +1,16 @@
+Annealing measurements performed on heavily carbon-doped InAs samples grown by organometallic vapor phase epitaxy confirm that the n-type behavior observed in this material is due to the formation of dicarbon donor defects. The structural, electrical, and optical properties of n-type carbon-doped InAs annealed at temperatures of 400	°C and higher were studied. Raman and infrared spectroscopy showed a reduction in the intensity of carbon acceptor and carbon-hydrogen lines along with an increase in the strength of the dicarbon local vibrational mode after annealing. X-ray diffraction revealed that the lattice constant of annealed samples increased toward that of the undoped samples. These changes were accompanied by increases in the electron concentration and mobility. Based on the expected energy level of dicarbon donors in GaAs, we predict that the dicarbon defects in InAs should introduce a resonant level close to or slightly above the conduction band minimum.
+
+annealing
+carbon
+electron density
+electron mobility
+heavily doped semiconductors
+III-V semiconductors
+impurity states
+indium compounds
+infrared spectra
+lattice constants
+Raman spectra
+semiconductor epitaxial layers
+vibrational modes
+X-ray diffraction

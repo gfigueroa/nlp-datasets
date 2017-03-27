@@ -1,0 +1,15 @@
+The conductivity, Hall coefficient, and thermopower of Hg1xCdxTe (MCT) are calculated for 0&lt;x&lt;0.3 at temperatures below 400 K and donor doping lower than 1019 cm3. The results are obtained by solving the Boltzmann equation with the iteration method, including scattering of the carriers by ionized impurities, optical and acoustic phonons, and alloy potential. The agreement between the calculation and a large amount of compiled experimental data is excellent for bulk samples and thick films grown by molecularbeam epitaxy. Using tabulated data for the thermal conductivity the thermoelectric figure of merit Z is calculated, and in the most favorable conditions of doping and composition ZT is less than 0.33 at T=300 K. The potential for increasing the ZT of MCT is discussed.
+
+TERNARY COMPOUNDS
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+THERMOELECTRIC PROPERTIES
+ELECTRIC CONDUCTIVITY
+CARRIER MOBILITY
+DOPED MATERIALS
+TEMPERATURE RANGE 02730400 K
+BOLTZMANN EQUATION
+SCATTERING
+PHONONS
+IMPURITIES
+THERMAL CONDUCTIVITY

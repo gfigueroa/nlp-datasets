@@ -1,0 +1,5 @@
+With increase in the demand for electrical energy, the demand for constructing gas fuel based power plants has increased. As a consequence, the dependence of electrical industry to gas infrastructure is more pronounced. In a midterm scale, the generation units maintenance may be so planned that the gas network constraints can be properly observed to make the most benefit from available resources. This paper has represented a units maintenance scheduling problem in which the gas network is modeled. The model accounts for appropriate objective function and constraint terms. The proposed approach is assessed on a typical test system with satisfactory results.
+
+Fuel constrained planning
+Gas network modeling
+Maintenance scheduling

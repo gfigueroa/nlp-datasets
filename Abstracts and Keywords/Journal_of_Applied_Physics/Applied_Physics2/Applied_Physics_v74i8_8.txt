@@ -1,0 +1,12 @@
+We report accurate twodimensional simulations of switchon speeds in hydrogenated amorphous silicon thinfilm transistors. The trap charge density along, or transverse to, the direction of semiconductor channel is highly nonuniform and the trap filling time dominates the switching time as compared to the transit time, which is about four orders of magnitude smaller. Near both contacts, direction of the transverse current is always upwards toward the insulatorsemiconductor interface due to the strong electric fields. However, at the central region of the channel, the transient current is quite complex and is discussed here. When the channel length varies from 2 to 10 ¼m, the switchingon time is of the order of 103 s. The occupation function everywhere displays a partial filling of higherenergy trap states during the switchon. This is in contrast to results presented by other investigators. Finally, the relationship between the transit time and the switchon time with respect to the amount of trap states is discussed.
+
+AMORPHOUS SEMICONDUCTORS
+SILICON
+SWITCHING
+HYDROGEN ADDITIONS
+COMPUTERIZED SIMULATION
+ELECTRIC CONDUCTIVITY
+THIN FILMS
+EQUATIONS
+TRAPPING
+TRANSISTORS

@@ -1,0 +1,12 @@
+The influence of internal stress on the magnetic anisotropy and the magnetostriction was investigated in sputterdeposited amorphous (Tb0.27Dy0.73)0.42Fe0.58 films. Films with tensile stress show inplane anisotropy and giant magnetostriction of »%=400×106 at 1 T measured in a field parallel to the film plane at room temperature. The magnetostriction rises rapidly to »%=200×106 at 0.05 T and the coercivity is less than 0.01 T. On the other hand films with compressive stress show perpendicular anisotropy and still higher magnetostriction of »%=540×106 at 1 T; however, this is by far a slower increase of magnetostriction at small fields. This different behavior is explained by considering the nature of magnetization processes, i.e., domainwall motion and spin rotation.
+
+IRON ALLOYS
+TERBIUM ALLOYS
+DYSPROSIUM ALLOYS
+TERNARY ALLOYS
+AMORPHOUS STATE
+MAGNETIC ANISOTROPY
+MAGNETOSTRICTION
+SPUTTERED MATERIALS
+FILMS
+COERCIVE FORCE

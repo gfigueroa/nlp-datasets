@@ -1,0 +1,8 @@
+In this study, surface ECG recordings have been used to accomplish a non-invasive method which can predict spontaneous termination of Atrial Fibrillation (AF) and discriminate terminating (T) and non-terminating (N) AF episodes. The data set was provided by Physionet including holter recordings of 50 patients (20 training and 30 test sets). Concerning that most relevant information about the AF exists in the atrial fibrillatory wave, Several spectral and time-frequency parameters were extracted from the ECG signal after canceling the QRST complex. Also a temporal feature, RR interval variation, representing the ventricular activity was calculated. These parameters were evaluated using a scattering criterion with the purpose of selecting best features. The performance of our method was assessed using a Linear Discriminant Analysis (LDA) technique to classify the N and T groups. The result revealed accuracy of 100% for both training and test sets which shows a significant improvement in comparison with previous studies.
+
+ECG
+atrial fibrillation
+cancellation
+non-invasive arrhythmia
+non-terminating
+terminating

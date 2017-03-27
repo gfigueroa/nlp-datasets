@@ -1,0 +1,20 @@
+A study of ionimplanted zinc in GaAs has been made using three annealing techniques: ebeam, graphite strip heating, and furnace annealing in an arsine ambient. The highest hole concentrations, 78×1019 cm3, were obtained using electronbeam annealing. Graphite strip heating and electronbeam annealing were able to electrically activate 100% of the implanted dose. The effect of strain on the activation of the zinc has been demonstrated by comparing chemicalvapordeposited Si3N4 with reactively evaporated AlN encapsulants.
+
+ANNEALING
+ION IMPLANTATION
+ELECTRON BEAMS
+STRAINS
+ZINC IONS
+ALUMINIUM NITRIDES
+HOLES
+STRAINS
+ACTIVATION ENERGY
+CHEMICAL VAPOR DEPOSITION
+SILICON NITRIDES
+ARSENIC IONS
+CHARGEDPARTICLE TRANSPORT
+GALLIUM ARSENIDES
+DIFFUSION
+ACTIVATION ENERGY
+HEATING
+STRAINS

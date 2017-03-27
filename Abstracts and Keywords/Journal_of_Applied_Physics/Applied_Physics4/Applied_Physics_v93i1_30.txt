@@ -1,0 +1,15 @@
+Material characteristics of zirconium oxide thin films obtained by plasma enhanced chemical vapor deposition on p-type Si (100) substrates were investigated to explain their tunable electrical properties. The films obtained without heating had polycrystalline nanograins that are mostly of a tetragonal phase under oxygen-deficient plasma conditions but transformed into a monoclinic phase with increasing O2 addition in the plasma. Mostly amorphous bulk ZrO2 with a relatively thicker and smoother interfacial layer was obtained from oxygen-rich plasmas, resulting in a decrease in both the overall dielectric constant and the leakage current density. The interfacial layer formed between the bulk ZrO2 and Si substrate was analyzed to be zirconium silicate, which approached SiO2 as its zirconium content decreased with the increasing gas phase O2 content. © 2003 American Institute of Physics. 
+
+zirconium compounds
+dielectric thin films
+plasma CVD
+permittivity
+phase equilibrium
+solid-state phase transformations
+amorphous state
+interface structure
+leakage currents
+current density
+silicon
+elemental semiconductors
+semiconductor-insulator boundaries

@@ -1,0 +1,5 @@
+The report consists of two parts. In the first part, the sampling analysis of weight windows is conducted on the basis of atomic functions (AF) and their application in problems of the classical method of synthetic aperture radar (SAR) is considered. The second part contains fundamentals of a modified method of synthetizing the aperture. The modified ambiguity function for different signals is probed. The lacks of the Ambiguity function are detected at a modified method. The paths of elimination of the indicated lacks are offered by introduction of weight processing in a technique of the modified method. The expediency of application of weight windows based on AF in reduced problems is empirically justified.
+
+Atomic functions
+ambiguity function
+modified method of synthesis of the aperture

@@ -1,0 +1,7 @@
+We present detailed measurements on the x-ray preionization electron density in a discharge chamber filled with different gases relevant to discharge pumped high-pressure excimer lasers. By comparing experimental results with the theoretical electron densities, we conclude that the observed preionization is inconsistent with the standard picture of direct ionization through x-ray absorption in the gas. We conclude that depending on the gas pressure, type of gas, and the gap length between the discharge electrodes used, x-ray preionization in excimer gases is, to a significant extent or even dominantly, based on a different mechanism. We identify that this mechanism is based on fast photoelectrons emitted by the cathode into the discharge chamber.
+
+discharges (electric)
+electron density
+excimer lasers
+photoelectricity
+preionisation

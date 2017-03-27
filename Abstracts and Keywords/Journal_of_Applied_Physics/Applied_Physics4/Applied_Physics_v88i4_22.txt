@@ -1,0 +1,4 @@
+The absolute flux, polarization properties, and spatial dependence of the intensity of figure-8-undulator radiation were measured by a gas-scattering method. Absolute-flux measurements were in good agreement with calculated values and the angular divergence measured at 6.6 keV was also close to expected value. Polarization measurements showed oscillations of the degree of linear polarization which varied with photon energy, indicating that both horizontal and vertical polarizations were included. In addition, the polarization plane was found to rotate when the vertical observation angle was changed. These polarization characteristics are not observed in other conventional-undulator radiation and thus unique to figure-8-undulator radiation. © 2000 American Institute of Physics. 
+
+undulator radiation
+electromagnetic wave polarisation

@@ -1,0 +1,6 @@
+In this paper, rapid prototyping method is proposed and implemented for the development of reentry vehicle navigation and guidance systems. V-Cycle development approach based on rapid control prototyping is introduced to develop navigation and guidance systems efficiently. High-level modeling and simulation tools and integrated rapid prototyping systems such as RT-LAB used in the V-Cycle approach can greatly reduce the cycle and cost for the development of navigation and guidance systems compared with traditional development methods.
+
+V-cycle
+navigation and guidance
+rapid control prototyping
+real-time

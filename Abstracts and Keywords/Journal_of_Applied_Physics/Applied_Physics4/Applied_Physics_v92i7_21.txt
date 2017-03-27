@@ -1,0 +1,8 @@
+Methyl radicals (CH3) and positive ionic species in a low-pressure inductively coupled plasma under diamond-depositing conditions have been detected by using a quadrupole mass spectrometer. Absolute calibration of the fluxes of CH3 and ionic species was made by the threshold ionization technique and Langmuir probe measurement, respectively. The CH3 density increased by two to three times with a small addition of carbon monoxide to a methanehydrogen plasma and was on the order of 10111012 cm3. As the pressure decreased from 60 to 10 mTorr, the ion-to-CH3 flux ratio increased from 0.2 to 4.3, accompanied by an increase in the fraction of light ions such as Hx+ (x=13). The average ion energy in the ion energy distribution at a grounded electrode was compared with the sheath potential and the discrepancy was found to be 0.52 eV depending on pressure and ion mass. The results were used to describe the specific surface process dominated by energetic (< several eV) ions rather than thermal neutrals. © 2002 American Institute of Physics. 
+
+diamond
+plasma CVD
+plasma diagnostics
+mass spectroscopic chemical analysis
+Langmuir probes
+plasma sheaths

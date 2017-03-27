@@ -1,0 +1,9 @@
+Business-to-Business (B2B) technologies pre-date the Web. They have existed for at least as long as the Internet. B2B applications were among the first to take advantage of advances in computer networking. The Electronic Data Interchange (EDI) business standard is an illustration of such an early adoption of the advances in computer networking. The ubiquity and the affordability of the Web has made it possible for the masses of businesses to automate their B2B interactions. However, several issues related to scale, content exchange, autonomy, heterogeneity, and other issues still need to be addressed. In this paper, we survey the main techniques, systems, products, and standards for B2B interactions. We propose a set of criteria for assessing the different B2B interaction techniques, standards, and products.
+
+B2B Interactions
+Components
+E-commerce
+EDI
+Web services
+Workflows
+XML

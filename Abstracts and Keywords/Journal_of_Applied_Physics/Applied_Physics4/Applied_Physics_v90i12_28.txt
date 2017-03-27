@@ -1,0 +1,10 @@
+We report a structural and optical spectroscopic investigation of multiple layer InAs/GaAs self-assembled quantum dots, studied as a function of the GaAs thickness between the quantum dot layers. With decreasing GaAs thickness the positions of dots in different layers exhibit a transition from no correlation to full correlation. Optically the dots in uncorrelated and fully correlated structures are found to exhibit very distinct and different properties. With increasing laser power the photoluminescence of the correlated structure exhibits a high energy, asymmetrical broadening, an effect absent in the uncorrelated structure. In photoluminescence excitation multiple-LO-phonon carrier relaxation features are observed in the spectra of the uncorrelated structure but not in the spectra of the correlated structure. These differences are explained in terms of nonresonant carrier tunneling between the dots in the correlated dot structures. © 2001 American Institute of Physics. 
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+photoluminescence
+tunnelling
+phonon spectra
+self-assembly

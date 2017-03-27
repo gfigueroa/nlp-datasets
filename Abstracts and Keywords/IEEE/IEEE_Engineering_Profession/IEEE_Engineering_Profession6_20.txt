@@ -1,0 +1,6 @@
+Sentiment classification aims at mining opinions of customers for a certain product by automatically classifying the reviews into positive or negative opinions. With the fast developing of World Wide Web applications, sentiment classification would have huge opportunity to help automatic analysis of customerspsila opinions from the web information. Opinion mining will benefit both consumers and sellers. Up to now, it is still a complicated task with great challenge. Though some pioneer researches explored the approaches for English review classification, few works have been done on sentiment classification for Chinese reviews. In this paper, we focus on a specific domain-cell phone review and propose an Internet-based approach for Chinese product review mining. The experimental results show the effectiveness of the proposed approach in sentiment classification for Chinese product reviews.
+
+Chinese product review
+PMI-IR
+internet-based algorithm
+sentiment classification

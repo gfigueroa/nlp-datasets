@@ -1,0 +1,10 @@
+In this work we study the influence of the thiourea/CdCl2 concentration ratio used for the chemical bath deposition of CdS thin films on glass substrates, upon the CdS/CdTe interface recombination velocity in CdTe/CdS/glass structures, where the CdTe layer was grown on the CdS thin film by close space vapor deposition (CSVT)-hot wall technique. The interface recombination velocity was measured by means of the photoacoustic (PA) technique in a heat transmission configuration, in which minority carriers are photoexcited at the CdTe layer after illumination through the substrate and the CdS thin film. For data processing, a theoretical model was developed for the generation of the PA signal. We show a reduction in the value of the recombination velocity respecting those obtained for samples where CdS was grown by CSVT, and we observe that a minimal value appears for a thiourea/CdCl2 ratio in the CdS deposition solution equal to 5. These results show a good correlation with those of electrical measurements performed in solar cell devices.
+
+cadmium compounds
+chemical vapour deposition
+III-V semiconductors
+minority carriers
+photoacoustic effect
+semiconductor growth
+semiconductor thin films
+wide band gap semiconductors

@@ -1,0 +1,13 @@
+We have investigated the magnetic properties of Fe3O4 thin films with thicknesses below 1000 Å. Previous reports had indicated an anomalous decrease in the saturation magnetization of Fe3O4 films with thicknesses below 700 Å. The films were prepared by reactive rf magnetron sputtering and effects of film thickness, oxygen flow rate, and substrate temperature were examined. A region of acceptable magnetic properties, which do not vary with film thickness, for Fe3O4 films has been found at both RT and 400	°C. Within the processing region for singlephase Fe3O4, the magnetic properties did not vary significantly with oxygen partial pressure but did change with substrate temperature. The RT films are characterized by low saturation magnetization, 250 emu/cm3, and modest coercivity, 250 Oe. The films at 400	°C have a higher saturation magnetization, 330 emu/cm3, but also a higher coercivity, 450 Oe. The increased saturation magnetization at higher temperature results from the higher film density and lower degree of cation disorder; the higher coercivity at 400	°C is anomalous. In addition, at RT we have discovered a processing region where ferrimagnetic wüstite, Fe1xO, is formed. The Fe1xO films have good soft magnetic properties and warrant further study.
+
+IRON OXIDES
+THIN FILMS
+MAGNETIC PROPERTIES
+REACTIVE SPUTTERING
+MAGNETIZATION
+THICKNESS
+COERCIVE FORCE
+TEMPERATURE EFFECTS
+TEMPERATURE RANGE 04001000 K
+TEMPERATURE RANGE 273400 K
+FERRIMAGNETIC MATERIALS

@@ -1,0 +1,7 @@
+High-quality shock waves were produced using the ninth laser beam (converted to 2É) of Shenguang-II laser facility and the beam smoothing technology of a lens array. The spatial uniformity of the shock wave was estimated by measurements of the self-emission from the target rear surface. An AlAu four-step target with 30¼m Al base and four Au steps was fabricated and used to investigate the temporal steadiness of the shock wave in the AlAu two-layer target. The AlAu four-step target experiment indicated that the shock wave steadily propagated in the Au material with thickness range &lt;11¼m. A modified AlAu impedance-match target was designed, which could simultaneously measure shock-wave stability and Au Hugoniot data in one shot. The experiment results indicated that the shock wave steadily propagated in the Al target with thickness of about 3047¼m under a power density of < 1.0×1014W/cm2.
+
+aluminium
+equations of state
+gold
+laser beam applications
+shock waves

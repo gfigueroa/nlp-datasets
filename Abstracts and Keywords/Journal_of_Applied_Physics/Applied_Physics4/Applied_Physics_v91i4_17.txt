@@ -1,0 +1,8 @@
+The results of studies of the preparation, structure, and optical properties of undoped and Gd-doped CeO2 thin films are presented. Dense films with 4150 nm grain size have been obtained on monocrystalline sapphire substrates using a polymeric precursor spin coating method. The results of the optical measurements are presented and correlated with the microstructure of the films. The transmission spectra have been used to determine the energy dependence of the refractive index, n and the extinction coefficient, k. Both n and k of the thin films decreased as grain size decreased and these results showed that this change could be related to the transition from crystalline to amorphous CeO2. The effect of dopant has little influence on n, &lt;5%, but doping resulted in about a 30%40% reduction of k compared to undoped specimens, which could be related to the decrease of absorption centers due to the replacement of Ce by Gd. © 2002 American Institute of Physics. 
+
+cerium compounds
+gadolinium
+spin coating
+refractive index
+nanostructured materials
+grain size

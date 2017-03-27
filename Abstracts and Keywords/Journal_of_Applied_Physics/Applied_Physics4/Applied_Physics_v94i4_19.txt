@@ -1,0 +1,7 @@
+To obtain reliable magnetic tunnel junctions (MTJs) for sensor and memory applications, the quality of the Al2O3 tunnel barrier is extremely important. Here, we studied the reliability of MTJs with a 1.6 nm Al2O3 tunnel barrier formed by ultraviolet light assisted oxidation. In the stress measurements, prebreakdown current jumps and, finally, breakdown are observed. We show, by using statistics, that both the current jumps and the final breakdown can be attributed to single trap generation. Moreover, we can relate the current jump height to the trap location. In this way, we reveal the breakdown mechanism in MTJs and illustrate the importance of reliability studies. © 2003 American Institute of Physics. 
+
+alumina
+magnetic tunnelling
+electric breakdown
+oxidation
+reliability

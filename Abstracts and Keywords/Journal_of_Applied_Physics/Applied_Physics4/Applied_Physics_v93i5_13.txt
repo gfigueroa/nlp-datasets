@@ -1,0 +1,10 @@
+We study ion-irradiation-induced electrical isolation in n-type single-crystal ZnO epilayers. Emphasis is given to improving the thermal stability of isolation and obtaining a better understanding of the isolation mechanism. Results show that an increase in the dose of 2 MeV 16O ions (up to <2 orders of magnitude above the threshold isolation dose) and irradiation temperature (up to 350
+°C) has a relatively minor effect on the thermal stability of electrical isolation, which is limited to temperatures of <300400
+°C. An analysis of the temperature dependence of sheet resistance suggests that effective levels associated with irradiation-produced defects are rather shallow (&lt;50	meV). For the case of implantation with keV Cr, Fe, or Ni ions, the evolution of sheet resistance with annealing temperature is consistent with defect-induced isolation, with a relatively minor effect of Cr, Fe, or Ni impurities on the thermal stability of isolation. Results also reveal a negligible ion-beam flux effect in the case of irradiation with 2 MeV 16O ions, supporting high diffusivity of ion-beam-generated defects during ion irradiation and a very fast stabilization of collision cascade processes in ZnO. Based on these results, the mechanism for electrical isolation in ZnO by ion bombardment is discussed. © 2003 American Institute of Physics. 
+
+ion implantation
+isolation technology
+annealing
+zinc compounds
+II-VI semiconductors
+semiconductor epitaxial layers

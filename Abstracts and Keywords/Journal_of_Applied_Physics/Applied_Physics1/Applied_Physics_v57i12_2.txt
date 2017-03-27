@@ -1,0 +1,9 @@
+Interfacial elastic strain induced by the lattice parameter mismatch between epilayer and substrate results in significant energybandgap shifts for IIIV alloys. The epilayers used in this study are GaxIn1xAs on (100) InP and GaxIn1xP on (100) GaAs prepared by organometallic vapor phase epitaxy. For layer thicknesses between 1 and 1.5 ¼m, and ”as.f./a0d3.5×103 the misfit strain is assumed to be accommodated elastically. The energybandgap shifts are determined by comparing the photoluminescence peak energies of the epilayers with the best experimental relation of band gap versus composition for unstrained layers. A calculation of the energybandgap shift due to biaxial stress made for GaxIn1xAs is found to agree with the photoluminescence measurements. In addition, a comparison of the energybandgap shift for GaxIn1xP shows a clearly different dependency for tensile and compressive strain, in good agreement with calculated results.
+
+LATTICE PARAMETERS
+EPITAXIAL LAYERS
+STRAINS
+VAPOR PHASE EPITAXY
+STRESSES
+INDIUM PHOSPHIDES
+GALLIUM ARSENIDES

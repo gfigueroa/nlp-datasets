@@ -1,0 +1,9 @@
+The family of solid solutions of the type ²-K2(Bi1zSbz)8Se13
+(0&lt;z}1) was studied with respect to thermal conductivity as a function of temperature and stoichiometry. At low temperature, the variation of lattice thermal conductivity with composition shows a transition from a typical crystalline to glasslike behavior. Analysis of the high-temperature data shows a contribution due to the mixed occupation of Bi/Sb crystallographic sites as well as an additional contribution due to point defects. © 2004 American Institute of Physics. 
+
+potassium compounds
+bismuth compounds
+antimony compounds
+thermal conductivity
+stoichiometry
+point defects

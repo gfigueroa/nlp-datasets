@@ -1,0 +1,5 @@
+The frequency reconfigurable antenna normally designed with MEMS switch is flexible to change its operating frequency. However, when the operating frequency is up to millimeter wave or even higher, this kind MEMS switching operation will deteriorate performance of antenna. A novel frequency reconfigurable antenna is designed with micromechanical patch moving via electrostatic force. As the bias voltage between patch and antenna is changed, it makes the patch to move and the antenna operating frequency changes too. Its operating mode is equivalent to changing the relatively permittivity of antenna substrate. Architecture of this kind of micromechanical patch antenna is presented and its principle is analyzed. With the results of parameter analysis, the desire performance of antenna can be designed perfectly, and the simulation result is coincident with the prospective analysis.
+
+Electrostatic Actuated Antenna
+Micromechanical Patch
+Reconfigurable Antenna

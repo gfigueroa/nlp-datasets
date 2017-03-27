@@ -1,0 +1,6 @@
+This paper presents a people tracking system with multiple sensor nodes allocated in an environment. Each sensor node consists of a two-layered laser range sensor (LRS) that detects the positions of waists and knees of people. From the laser images of the people, heuristic-rule-based and global-nearest-neighbor (GNN)-based data association can identify a large number of people in crowded environments. The identified people are tracked via a model-based tracker; the interacting multiple model (IMM) estimator is applied to track people moving randomly and flexibly, such as walking, running, going/stopping suddenly, and turning suddenly. Simulation and experimental results validate our people tracking method.
+
+Data association
+Interacting multiple model estimator
+Laser range sensor
+People tracking

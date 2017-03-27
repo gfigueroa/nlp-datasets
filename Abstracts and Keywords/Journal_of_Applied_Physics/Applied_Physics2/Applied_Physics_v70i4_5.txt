@@ -1,0 +1,11 @@
+The voltage V versus current I of a highquality YBa2Cu3O7x thin film with zeroresistance temperature equal to 90.8 K was measured at temperatures near Tc (85, 87, and 90 K, respectively) under different magnetic fields (07 T). A significant result is that the criticalcurrent density of the film reached 1.37×104 A/cm2 (zero field) even at 90 K, implying that strong pinning centers exist in our sample. However, a small applied magnetic field will diminish the criticalcurrent densities remarkably. The pinningforce densities are found to follow Kramers scaling law in both perpendicular and parallel directions of the magnetic fields to the c axis of the film. A possible influence of thermally activated flux creep on the pinning mechanism is confirmed.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+CRITICAL CURRENT
+MAGNETIC FLUX
+SUPERCONDUCTING FILMS
+HIGHTC SUPERCONDUCTORS
+MAGNETIC FIELDS
+QUATERNARY COMPOUNDS

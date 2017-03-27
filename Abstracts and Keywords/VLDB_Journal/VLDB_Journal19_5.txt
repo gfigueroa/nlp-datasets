@@ -1,0 +1,7 @@
+Social resource sharing systems are central elements of the Web 2.0 and use the same kind of lightweight knowledge representation, called folksonomy. Their large user communities and ever-growing networks of user-generated content have made them an attractive object of investigation for researchers from different disciplines like Social Network Analysis, Data Mining, Information Retrieval or Knowledge Discovery. In this paper, we summarize and extend our work on different aspects of this branch of Web 2.0 research, demonstrated and evaluated within our own social bookmark and publication sharing system BibSonomy, which is currently among the three most popular systems of its kind. We structure this presentation along the different interaction phases of a user with our system, coupling the relevant research questions of each phase with the corresponding implementation issues. This approach reveals in a systematic fashion important aspects and results of the broad bandwidth of folksonomy research like capturing of emergent semantics, spam detection, ranking algorithms, analogies to search engine log data, personalized tag recommendations and information extraction techniques. We conclude that when integrating a real-life application like BibSonomy into research, certain constraints have to be considered; but in general, the tight interplay between our scientific work and the running system has made BibSonomy a valuable platform for demonstrating and evaluating Web 2.0 research.
+
+BibSonomy
+Collaborative tagging
+Web 2.0
+Folksonomy
+Data mining

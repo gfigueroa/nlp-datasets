@@ -1,0 +1,14 @@
+The work reported here evaluated the correlation between the copper composition and the structural and microwave properties of YBa2Cu3O7´ (YBCO) films deposited on MgO substrates. Detailed x-ray diffraction measurements revealed that the superconducting YBCO phase in the films has a solubility range on the copper-poor composition side. The structure of the YBCO phase depends on copper composition: a lower copper composition is associated with a larger c-axis lattice constant and a decreased degree of orthorhombicity. These structural changes correlated well with increases in normal resistivity, decreases of transition temperature Tc, and increases in microwave surface resistance Rs. The films with less copper composition also show a more gradual decrease in Rs below Tc than do copper-rich films. These results suggest that changes in these properties are closely connected with copper deficiency that can occur more easily when the copper composition is low. The copper composition is, therefore, a crucial factor in developing YBCO films with low microwave loss. © 1998 American Institute of Physics.
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting thin films
+stoichiometry
+crystal structure
+high-frequency effects
+surface conductivity
+solid solubility
+lattice constants
+electrical resistivity
+superconducting transition temperature

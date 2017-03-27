@@ -1,0 +1,5 @@
+With the rapid development of information society, intrusion has been increasing gradually, initiating a series of security problems. Traditional firewall only guards against external attacks, and can not prevent internal intrusions. Intrusion detection system can supplement the firewall insufficiency and has become one of the critical techniques in information security assurance. This paper mainly researches LINUX-based IPv6 intrusion detection system. Firstly, it introduces the concept, models and classification of intrusion detection system, models; secondly, it discusses new intrusion detection techniques based on IPv6; finally, it researches the methods of using LINUX to detect various kinds of intrusion under coexisting network environments of IPv4 and IPv6.
+
+IPv6
+feature library
+intrusion detection

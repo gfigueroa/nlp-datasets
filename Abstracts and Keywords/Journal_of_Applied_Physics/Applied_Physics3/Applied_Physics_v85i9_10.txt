@@ -1,0 +1,11 @@
+Device-quality a-Si:H films have been deposited by hot-wire chemical vapor deposition (HWCVD). We have investigated the influence of deposition parameters on the film growth and properties. The most important deposition and growth processes that influence the optoelectronic material properties of a-Si:H deposited by HWCVD are clarified. During the deposition process attention must be paid to accurately control the substrate temperature, which is a key parameter to obtain device-quality films. A heat transport model is presented to be able to correct for the heating of the substrate by the filaments. It is found that films deposited at high deposition temperatures are under a high compressive stress. We show how the hydrogen incorporation in the layer is influenced by hydrogenation of subsurface layers by the atomic hydrogen flux that is inherent to the HWCVD process. We further identify the fundamental differences between plasma enhanced CVD and HWCVD material. © 1999 American Institute of Physics.
+
+silicon
+chemical vapour deposition
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+semiconductor thin films
+semiconductor growth
+substrates
+internal stresses

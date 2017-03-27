@@ -1,0 +1,9 @@
+The use of the transmissionlinematrix (TLM) method for analyzing the grain boundary and interfacial diffusion problems in thin films is demonstrated. The method employed has a variable mesh and automatic timestepping capability, and is highly versatile in treating complex structures and incorporating various boundary conditions. The present model takes account of separate diffusion coefficients in grain boundaries, grains, interfaces, and the substrate. The combined diffusion problems are solved as a function of position and time, and the concentration distributions are presented as clearly visible isometric projections and contour plots. The results are compared with those of semiinfinite samples (Whipples analysis [Philos. Mag. 45, 1225 (1954)]) and idealized thinfilm systems (Gilmer and Farrells analysis [J. Appl. Phys. 47, 3792 (1976)]), with the emphasis being placed on the differences due to the treatment of concentration flux along the interface between the film and the substrate and into the substrate. The TLM method is shown to have considerable potential in practical applications for diffusion processes in thin films.
+
+THIN FILMS
+DIFFUSION
+GRAIN BOUNDARIES
+MATHEMATICAL MODELS
+INTERFACES
+SUBSTRATES
+MASS TRANSFER

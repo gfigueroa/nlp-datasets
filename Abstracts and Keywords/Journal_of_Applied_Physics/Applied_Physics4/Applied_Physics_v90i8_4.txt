@@ -1,0 +1,9 @@
+Selective growth of GaAs on a nanoscale SiO2-patterned GaAs(001) substrate by molecular beam epitaxy is reported. Reduction of the lateral dimensions of a SiO2 pattern below the surface diffusion length of an incident Ga atom results in preferential migration from the SiO2 surface to stable bonding configurations at nearby open GaAs substrate surfaces. This intrinsic selectivity is achieved under high growth temperature with low growth rate where surface migration on the SiO2 surface is highly extended. A large-area nanoscale SiO2 pattern is realized by interferometric lithography. A 330-nm period two-dimensional array of GaAs disks having a height of 40 nm and a diameter of about 240 nm, selectively grown on a GaAs(001) substrate is presented. Variation of the nanoscale selective growth mode depending on the diameter of GaAs disks is also observed. © 2001 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+molecular beam epitaxial growth
+semiconductor epitaxial layers
+semiconductor growth
+surface diffusion
+nanostructured materials

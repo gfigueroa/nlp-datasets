@@ -1,0 +1,6 @@
+This paper investigates the application of a novel feature called the ldquodirectorrdquo to a tapered slot antenna. This director, previously designed for a balanced antipodal Vivaldi antenna, consists of a profiled piece of higher dielectric introduced in the antenna aperture. Its effect is to increase the antenna directivity in the near-field by focusing the radiated energy in the end-fire direction. Simulated results show that the director may be highly beneficial for the tapered slot design.
+
+antenna
+near-field imaging
+tapered slot antenna
+ultrawideband

@@ -1,0 +1,11 @@
+We first reduce existing equations for nonlinear thermoelectroelasticity to the case of large electric fields, small strains, and infinitesimal temperature variations. These equations are then specialized to the case of thin plates with completely electroded major surfaces, and it is shown that in this case the charge equation of electrostatics is satisfied trivially to the lowest order. An example is given to illustrate the effect of heat conduction on the response of a thin electroded plate subjected to time harmonic voltages on the two major surfaces.
+
+PIEZOELECTRIC MATERIALS
+THERMOELASTICITY
+PLATES
+ELECTRODES
+STRAINS
+NONLINEAR PROBLEMS
+ELECTROSTATICS
+HEAT TRANSFER
+ELECTRIC FIELD EFFECTS

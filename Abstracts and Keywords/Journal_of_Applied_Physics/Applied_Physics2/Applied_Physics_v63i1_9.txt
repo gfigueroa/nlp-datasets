@@ -1,0 +1,20 @@
+The energy straggling effect on depth profiling by fast ion beams has been investigated. Prior to spectrum analysis, the electronic energy straggling for fast proton beams was measured precisely using nuclear resonance reactions. The present result has revealed the validity of Chus prediction [Phys. Rev. A 13, 2057 (1976)] based on the HartreeFockSlater model. A significant difference is seen among the depth profiles of implanted ions derived using different straggling values [N. Bohr, Philos. Mag. 30, 581 (1915); Chu, no straggling] in calculating the excitation spectrum of the nuclear resonance reaction. In depth profiling by particleinduced xray emission, the straggling effect is negligibly small except for probing ions with energies less than 150 keV/amu. In backscattering spectrum simulation, the energy straggling contributes to the spectrum shape only in the region where individual spectrum is convoluted for the constituent elements locating in the neighboring layers. This provides a useful method to search the surface and interface morphologies nondestructively.
+
+SURFACE ANALYSIS
+ION IMPLANTATION
+DEPTH PROFILES
+ION BEAMS
+RBS
+INTERFACE STRUCTURE
+SURFACE STRUCTURE
+KEV RANGE 1001000
+NONDESTRUCTIVE TESTING
+NUCLEAR REACTION ANALYSIS
+ION COLLISIONS
+ROUGHNESS
+HELIUM IONS
+ALUMINIUM 27
+PROTON REACTIONS
+SILICON 28
+FLUORINE 19
+OXYGEN 16

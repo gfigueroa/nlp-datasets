@@ -1,0 +1,9 @@
+Low frequency noise characteristics of new high voltage, high performance complementary polysilicon emitter bipolar transistors have been studied. The influence of the base biasing resistance, emitter geometry, and temperature on the noise spectra are discussed. The npn transistors studied exhibited 1/f and shot noise. The pnp transistors, on the other hand, are characterized by significant generation-recombination noise contributions to the total noise. For both types of transistors, the measured output noise is determined primarily by the noise sources in the polysiliconmonosilicon interface. The level of the 1/f noise is proportional to the square of the base current (IB2) for both npn and pnp transistors. The contribution of the 1/f noise in the collector current is also estimated. The magnitude of the 1/f noise normalized to the square of the base current for devices with different emitter areas was found to be inversely proportional to the emitter area, but for the transistors with a large ratio of emitter perimeter to emitter area, the contribution of noise sources located in the emitter perimeter may be significant. For both pnp and npn transistors, 1/f noise was found to be independent of temperature, and for pnp transistors, generation-recombination noise decreases with increasing temperature. © 1998 American Institute of Physics. 
+
+bipolar transistors
+semiconductor device noise
+1/f noise
+shot noise
+electron-hole recombination
+elemental semiconductors
+silicon

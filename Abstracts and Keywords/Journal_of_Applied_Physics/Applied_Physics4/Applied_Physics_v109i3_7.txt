@@ -1,0 +1,7 @@
+We report on a direct comparison of the depth and lateral resolution of the current state-of-the-art laser-assisted atom probe microscopy analysis of single-crystalline silicon. The isotopic heterostructures composed of 515 nm-thick 28Si- and 30Si-enriched layers were measured to reconstruct three-dimensional images of 28Si and 30Si stable isotope distributions in the surface perpendicular and parallel directions for the analysis of the depth and lateral resolution, respectively. The decay length experimentally obtained for the lateral direction is only about twice longer than in the direction, meaning that the lateral resolution is higher than obtained by secondary ion mass spectrometry.
+
+elemental semiconductors
+isotopes
+nanostructured materials
+secondary ion mass spectra
+silicon

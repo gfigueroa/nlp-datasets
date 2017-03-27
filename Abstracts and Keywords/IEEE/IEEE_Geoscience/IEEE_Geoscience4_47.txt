@@ -1,0 +1,7 @@
+Online virtual world such as second life becomes more and more popular nowadays. And way-finding in large-scale virtual worlds becomes important problem for both novices and experts. Similar to the physical world, a well-designed mapping system would play an important role in way-finding process. However, Second Life only supports thumbnail map system right now. The thumbnail map system could only provide an overview of the area and with no query support. There are several challenges to develop a better virtual mapping system. First, identify the virtual world geo-features and to develop proper criteria and algorithms to generate features from primitive which is the basic unit in virtual world. Second, provide web service for data access through the Internet from systems with different architectures. In this paper, we implemented a prototype map service system called VWMS conformed to OWS specification from OpenGIS consortium. The prototype includes an AJAX style map site and a feature generalization server-module extracting geo-feature from Open Simulator primitive database. Besides, the system also provides a Web Map Service interface for interoperability.
+
+GIS
+Open Simulator
+Second Life
+Virtual World
+Web Map Service

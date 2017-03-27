@@ -1,0 +1,10 @@
+The transformation from the C49 to the C54 phase in TiSi2 thin films has been studied for more than a decade because of its importance to the semiconductor industry. In previous work we identified three dominant C54 orientations in TiSi2 thin films on Si(001) substrates using x-ray pole figure analysis. In the current study the evolution of the three prominent C54 texture components was further examined using synchrotron based time-resolved in situ x-ray diffraction. The kinetics results show significant differences in the nucleation and growth kinetics of the individual orientations. Simulations suggest that this could be explained by an inhomogeneous nucleation of different texture components in the thin film, but not by simple differences in nucleation and/or growth rates. Classical JohnsonMehlAvramiKolmogorov (JMAK) analysis of nucleation and growth was applied to model the C49C54 phase transformation kinetics for each C54 orientation. These results showed a systematic decrease of the Avrami exponent n from 3 to 2 with increasing annealing temperature. Within a JMAK approach this could be explained by the presence of a limited number of C54 nucleation sites coupled with a faster increase in nucleation rate than in growth velocity with increasing anneal temperature. © 2002 American Institute of Physics. 
+
+titanium compounds
+sputtered coatings
+nucleation
+texture
+annealing
+X-ray diffraction
+critical exponents
+polymorphic transformations

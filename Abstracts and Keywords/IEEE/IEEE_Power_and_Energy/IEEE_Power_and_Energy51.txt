@@ -1,0 +1,5 @@
+This paper presents a new rapid nonlinear simulation method for switched reluctance motors (SRMs). An exact mathematical relationship among the magnetization curves of an SRM is obtained by curve fitting the variable parameters in the Torrey model. Only geometry-based requirements are taken as input needed. Since complete magnetic characteristics are not necessary, a lot of preliminary measurements and calculations are eliminated. The dynamic performances under two operating conditions are predicted using the proposed method, and the measured results are obtained by an experimental laboratory setup. Furthermore, predictions using other two traditional models are presented for the purpose of comparison. Experimental and simulation results verify the accuracy and rapidity of the proposed method.
+
+Modeling
+nonlinear simulation
+switched reluctance motors (SRMs)

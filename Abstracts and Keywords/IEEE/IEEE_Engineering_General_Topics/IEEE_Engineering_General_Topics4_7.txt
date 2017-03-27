@@ -1,0 +1,10 @@
+Incident management is the process through which the IT support organization manages to restore normal service operation as quickly as possible and with minimum disruption to the business. One of the ultimate measures of an IT support organization's success is the amount of time it takes to resolve an incident. Reducing this value not only reduces total cost and resource allocation but also increases customer satisfaction, which is one of the most important measures of a support center's performance. However, the support organization is often unable to collect data on their performance, let alone experiment with the consequences of reshuffling the organization and playing with alternative stalling levels. In this paper, we present our approach to assessing and improving the performance of an IT support organization in managing service incidents, based on the definition of a set of performance metrics and a methodology for guided analysis that allows a user to find the root causes of poor performance and decide on corrective actions to be taken. We provide validation of the approach by discussing its application a real-life case study of a leading IT provider for the airline industry.
+
+Business-driven IT management (BDIM)
+Information Technology Infrastructure Library (ITIL)
+businessoriented performance measures
+data warehousing
+decision support
+incident management
+modeling
+performance evaluation

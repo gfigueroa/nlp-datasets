@@ -1,0 +1,10 @@
+Photoluminescence (PL) spectra of single-crystal ZnO bulk under hydrostatic pressure are studied using the diamond-anvil-cell technique at room temperature. The PL spectrum of ZnO single crystal taken at atmospheric pressure was dominated by a strong near-band-edge exciton emission. The emission line was found to shift towards higher energy with increasing applied pressure. By examining the pressure-dependent PL spectral features, the pressure coefficient of the direct “ band gap of the wurtzite ZnO was determined. The hydrostatic deformation potential of the band gap has also been deduced from the experimental results.
+
+zinc compounds
+II-VI semiconductors
+wide band gap semiconductors
+photoluminescence
+high-pressure effects
+excitons
+spectral line shift
+energy gap

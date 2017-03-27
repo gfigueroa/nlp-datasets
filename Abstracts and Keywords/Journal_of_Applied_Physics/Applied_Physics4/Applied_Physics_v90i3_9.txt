@@ -1,0 +1,5 @@
+Direct-current plasma-enhanced chemical vapor deposition (CVD) with mixtures of acetylene and ammonia was optimized to synthesize aligned carbon nanotubes (CNTs) on Co- or Ni-covered W wires with regard to wire temperature, wire diameter, gas pressure, and sample bias. A phase diagram of CNT growth was established experimentally in this optimization process. It was revealed by transmission electron microscopy that Co-catalyzed CNTs encapsulated a Co carbide nanoparticle at their tip, disagreeing with a previous report that Co particles were located at the base of CNTs CVD grown on Co-covered Si substrates [C. Bower et al., Appl. Phys. Lett. 77, 2767 (2000)]. This leads to the conclusion that the formation mechanism of aligned CNTs depends significantly on the catalyst support material as well as the catalyst material itself. Since the sample bias strongly affected the morphology of CNTs, the selective supply of positive ions to CNT tips was possibly responsible for the alignment of growing CNTs. © 2001 American Institute of Physics. 
+
+carbon nanotubes
+plasma CVD
+transmission electron microscopy

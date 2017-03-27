@@ -1,0 +1,5 @@
+The drive frequency dependent piezoresponse (PR) phase signal in near-stoichiometric lithium niobate crystals is studied by piezoresponse force microscopy. It is clearly shown that the local and nonlocal electrostatic forces have a great contribution to the PR phase signal. The significant PR phase difference of the antiparallel domains are observed at the contact resonances, which is related to the electrostatic dominated electromechanical interactions of the cantilever and tip-sample system. Moreover, the modulation voltage induced frequency shift at higher eigenmodes could be attributed to the change of indention force depending on the modulation amplitude with a piezoelectric origin. The PR phase of the silicon wafer is also measured for comparison. It is certificated that the electrostatic interactions are universal in voltage modulated scanning probe microscopy and could be extended to other phase imaging techniques.
+
+eigenvalues and eigenfunctions
+piezoelectricity
+X-ray imaging

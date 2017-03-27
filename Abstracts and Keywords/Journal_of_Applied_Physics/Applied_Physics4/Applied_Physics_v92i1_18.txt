@@ -1,0 +1,18 @@
+High-resolution scanning electron microscopy and cathodoluminescence spectroscopy measurements were performed to study the effect of postgrowth annealing on properties of ZnO films grown on GaAs substrates by rf sputtering. The films annealed at 550
+°C show a well-oriented columnar structure and strong exciton emission at room temperature. Outdiffusion of gallium and arsenic from substrate into a ZnO film has been found to result in a different secondary electron dopant contrast, measured by the through-the lens secondary electron detector. Extended structural defects such as subgrain boundaries in ZnO assist Ga outdiffusion from the GaAs substrate and show a reduced secondary electron (SE) emission after annealing, while As doped ZnO adjacent to the ZnO/GaAs interface demonstrates an enhanced SE emission and the enhanced luminescence associated with donoracceptor pairs and exciton bound to acceptors. © 2002 American Institute of Physics. 
+
+gallium arsenide
+III-V semiconductors
+zinc compounds
+II-VI semiconductors
+semiconductor thin films
+sputtered coatings
+annealing
+scanning electron microscopy
+cathodoluminescence
+excitons
+subboundary structure
+chemical interdiffusion
+extended defects
+secondary electron emission
+defect states

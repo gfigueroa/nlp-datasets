@@ -1,0 +1,11 @@
+A quantitative investigation of laserinduced removal of particles from magnetic head slider surfaces has been carried out. The damage thresholds of magnetic head sliders for laser fluence and pulse number were found to be about 150 mJ/cm2 and 5000 pulses at 100 mJ/cm2, respectively. For laser fluence or pulse number above the damage threshold, laser irradiation onto magnetic head slider surfaces can cause microcracks around the pole tips. It is found that laser cleaning efficiency increases with increasing laser fluence and pulse number, but does not depend on repetition rate up to 30 Hz. Laser cleaning efficiency of removing particles from magnetic head slider surfaces can reach about 90% for Al particles and 100% for Sn particles, respectively, under appropriate conditions without causing damage. The mechanisms of laser cleaning of particles from magnetic head slider are laserinduced surface vibration, particle vibration, particle thermal expansion, and ablation with high laser fluence, which produce forces strong enough to detach particles from slider surfaces. Based on the above cleaning mechanisms, the dependence of laser cleaning efficiency on laser parameters can be explained. © 1996 American Institute of Physics. 
+
+MAGNETIC STORAGE DEVICES
+LASER RADIATION
+ABLATION
+PULSES
+SURFACE CLEANING
+ALUMINIUM
+TIN
+EFFICIENCY
+MICROPARTICLES

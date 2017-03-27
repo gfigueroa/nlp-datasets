@@ -1,0 +1,13 @@
+In this paper an extensive characterization of the electrical activation of ultra-low energy implanted boron in silicon is reported. The Spreading Resistance Profiling technique has been used, in a suitable configuration, for measuring doped layers shallower than 100 nm, in order to extract the carrier concentration profiles. The dependence on the implant energy, dose, and annealing temperature allowed us to gain more insight into the mechanisms responsible for the electrical activation at implant energies below 1 keV. By measuring the electrical activation as a function of time for several annealing temperatures, the thermal activation energy for the electrical activation of the dopant was achieved. It slightly depends on the implant dose and it is in the range of 23 eV. In particular, for an implant dose of 1×1014/cm2 it is 2.0 eV, close therefore to the 1.7 eV activation energy found [Napolitani et al., Appl. Phys. Lett. 75, 1869 (1999)] for the enhanced diffusion of ultra-low energy implanted boron. The best conditions to maximize electrical activation, while minimizing diffusion, are identified and junction depths of <50 nm with sheet resistance below 500 © reported. These data are reported and their implication for the fabrication of future generation devices is discussed. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+boron
+ion implantation
+semiconductor doping
+semiconductor junctions
+impurity states
+electrical resistivity
+carrier density
+annealing
+diffusion

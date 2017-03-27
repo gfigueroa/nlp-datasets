@@ -1,0 +1,7 @@
+The interest in the integration of distributed generation into distribution systems has been increased in different countries all over the world as economic and environmental factors drive new technologies to be more efficient and less polluting than their earlier counterparts. As the penetration level of DG increases, the distribution system performance has to be analyzed in details. This work investigates the effects of Distributed Wind Generation (DWG) on voltage ranges, voltage profiles, and system MWh losses of a real MV distribution network. The availability to integrate a new wind mill into the system that already contains three wind mills is examined with respect to the technical conditions for generation connection to the MV networks introduced by German Energy and Water Federation. In the simulation, we used a one year measured wind data and simulated load profiles of the households which are connected to the LV side at each MV substation.
+
+Distribution system
+distributed wind generation
+load profiles
+system losses
+voltage profiles

@@ -1,0 +1,11 @@
+We have investigated numerically a system consisting of a long Josephson junction embedded into a microstrip resonator. For such a configuration the Josephson vortex dynamics in the junction is driven by the oscillating currents in the resonator. We have calculated the complex impedance of the junction at the resonant frequency. The Q factor of the resonator and the change of the resonant frequency of the whole system can then be easily calculated knowing the parameters of the resonator without Josephson junction. The fluxon dynamics and the complex impedance of the junction are simulated for different values of the junction length, damping, dc bias current, and dc magnetic field. This allows us to explain the behavior of the impedance of the junction and different loss mechanisms. In particular, we predict a nonmonotonic dependence of the both real and imaginary parts of the impedance on the amplitude of the oscillating current in the resonator for some range of parameters. Our results show that such a combination of active and passive superconducting elements forms a rather interesting nonlinear physical system which might be useful for development of tunable/switchable superconducting resonators and suggests an experimental technique for detecting trapped vortices in long junctions. © 2002 American Institute of Physics. 
+
+Josephson effect
+superconducting junction devices
+superconducting microwave devices
+microstrip resonators
+superconducting resonators
+flux flow
+Q-factor
+losses
+current fluctuations

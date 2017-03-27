@@ -1,0 +1,11 @@
+A new method for the determination of the Li/Nb ratio of LiNbO3 single crystals is described. This method, which is quick and simple, is based on the anisotropic diffraction by photorefractive gratings. The measurement of two angles formed by laser beams provides a parameter related to the refractive indices, which, as is known, markedly vary with the crystal composition. Measurements on crystals with different Li/Nb ratios are presented. The method is compared with other methods presently available.
+
+HOMOGENEITY
+LITHIUM NIOBATES
+LITHIUM
+NIOBIUM
+CHEMICAL COMPOSITION
+QUANTITATIVE CHEMICAL ANALYSIS
+LIGHT DIFFRACTION
+PHOTOREFRACTIVE EFFECT
+MONOCRYSTALS

@@ -1,0 +1,6 @@
+Bismuth ferrite lead titanate (BFPT) films of composition xBiFeO<inf>3</inf> - (1-x)PbTiO<inf>3</inf>, with x from 0 to 1, have been deposited on platinised silicon substrates employing pulsed laser deposition under various temperatures and oxygen pressures. Dense, high quality films were deposited at 530Â°C with 150 mTorr oxygen pressure. The crystal structure and orientation of the films has been studied by powder x-ray diffraction. The film surface morphology and cross sections were studied on a FEGSEM. The films exhibit significant crystallographic texture across the solid solution range, and appear to exhibit a tetragonal and monoclinic phase mixture across the range. The c/a ratio of the tetragonal phase undergoes a maximum for a composition around x = 0.7corresponding to the bulk morphotropic phase boundary composition, and is 1.137. However, the presence of the monoclinic phase is not observed in the bulk laser targets.
+
+SEM
+XRD
+bismuth ferrite lead titanate
+pulsed laser deposition

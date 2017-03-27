@@ -1,0 +1,10 @@
+The spectral distribution of photoconductivity and infrared excited electroluminescence has been determined in GaP light emitting diodes at low temperatures by conventional infrared spectroscopic techniques. The observed photoresponse was found to be caused by ionization of shallow donors only, showing a peak sensitivity of 20 mA/W at 13¼m wavelength. Spectral structures for photon energies lower than the binding energies of shallow donors are attributed to electric field assisted photoionization. An external quantum efficiency of 3×103 was obtained being largely independent on the bias voltage and the wavelength of infrared stimulation.
+
+PHOTOCONDUCTIVITY
+INFRARED SPECTRA
+GALLIUM ARSENIDES
+ELECTROLUMINESCENCE
+BINDING ENERGY
+DONORS
+QUANTUM EFFICIENCY
+LIGHT EMITTING DIODES

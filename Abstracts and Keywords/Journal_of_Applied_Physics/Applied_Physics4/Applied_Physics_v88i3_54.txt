@@ -1,0 +1,8 @@
+We discuss results of finite-temperature Monte Carlo simulation for the switching field of multilayers of hard and soft magnets. The maximum of the energy product as a function of the soft layer thickness is very weak and becomes weaker as the temperature is increased. However, the maximum becomes more pronounced for the energy product cost as a function of the soft layer thickness. The effect of the dipolar interaction is significant but does not change the qualitative trend of the coercive field as a function of the soft layer thickness. © 2000 American Institute of Physics. 
+
+coercive force
+permanent magnets
+soft magnetic materials
+magnetic multilayers
+Monte Carlo methods
+magnetic switching

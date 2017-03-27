@@ -1,0 +1,8 @@
+The phase equilibria of the GaNiAs ternary system, especially in its upper part, has given rise to much controversy. An attempt to clarify this situation is given in this comment. We show that the re-examined diagram proposed by Ingerly et al. [J. Appl. Phys. 80, 543 (1996)] is not right owing to a much too limited number of synthesized samples, and that this diagram cannot rationalize the complex solid-state interdiffusion which occurs in the Ni/GaAs contacts. We confirm the occurrence of ordered ternary phases which crystallize in hexagonal superlattices a3,3c and 2a,4c derivative from the NiAs-type structure. Finally, we point out that these superlattices index successfully all the extra lines of the x-ray diffraction pattern that Ingerly et al. were unable to explain. © 1997 American Institute of Physics. 
+
+gallium compounds
+nickel
+III-V semiconductors
+chemical interdiffusion
+phase diagrams
+semiconductor-metal boundaries

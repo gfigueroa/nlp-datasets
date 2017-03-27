@@ -1,0 +1,13 @@
+Pb(Zr0.52Ti0.48)O3 (PZT) thin films were fabricated on Pt(111)/TiOx/SiO2/Si substrates at 375
+°C by radio frequency magnetron sputtering. A mixture of (110) and (100) orientations was found in all the PZT thin films. However, the in-plane grain size increased with an increase in film thickness, all films had smooth surfaces, and the root mean square roughness of the PZT films was in the range of 11.5 nm. As the film thickness increased, a decrease in residual stress and volume density of the PZT films was observed. PZT films become poorly crystallized with a decrease in film thickness. The magnitude of the maximum displacement from atomic force microscopy in local piezoresponse hysteresis mode increased from 187.25±9.363 in 40 nm to 418.5±20.925 in 152 nm. We suggest that the degradation in piezoelectric properties with a decrease in film thickness resulted from degradation of the crystallinity observed using transmission electron microscopy analysis, size effects derived from the grain size, and the residual stress evaluated using a laser reflectance method. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+ferroelectric thin films
+sputtered coatings
+surface topography
+grain size
+atomic force microscopy
+transmission electron microscopy
+dielectric hysteresis
+ferroelectric devices

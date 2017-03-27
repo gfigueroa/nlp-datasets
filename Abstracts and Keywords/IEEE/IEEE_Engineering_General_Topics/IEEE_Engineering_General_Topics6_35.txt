@@ -1,0 +1,8 @@
+Due to the growing application of peer-to-peer computing, the distributed applications are continuously spreading over extensive number of nodes. To cope with this large number of participants, various cluster based hierarchical solutions have been proposed. Cluster based algorithms are scalable by nature. Several of them are quorum based solutions. All of these solutions exploit the idea of coordinator/leader of cluster. Thus, fault tolerance of these algorithms is low. If any coordinator fails, election of new one is required. Here we propose a two-layer hierarchical cluster based solution where no coordinator is used. We simulate our proposed algorithm and show that it outperforms related ME algorithms.
+
+Cluster
+Distributed Algorithm
+Hierarchical
+Mutual Exclusion
+Permission
+Quorum

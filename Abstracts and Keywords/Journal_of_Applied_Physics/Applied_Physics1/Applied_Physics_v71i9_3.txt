@@ -1,0 +1,11 @@
+Timedependent vacancy concentration profiles are calculated numerically as solutions to the electromigration transport equation under dc and pulsed dc current stress conditions. An electromigration failure model based on the time to reach a critical vacancy supersaturation to initiate void formation agrees well with several reported experimental observations. In a line of finite length l carrying a constant current density j the electromigrationinduced vacancy concentration buildup at a blocking boundary saturates with time which implies a threshold value of jl is required to initiate failure. The vacancy buildup as a function of time has a j2 current density dependence below saturation. Under pulsed dc stress the level at which vacancy concentration saturates depends on duty ratio r; hence, there is a threshold value of r required to initiate failure as well. The vacancy buildup with time is found to be proportional to r2 below saturation.
+
+INTEGRATED CIRCUITS
+MIGRATION
+ELECTRIC FIELD EFFECTS
+METALLIZATION
+STRESSES
+VACANCIES
+TIME DEPENDENCE
+NUMERICAL SOLUTION
+CURRENT DENSITY

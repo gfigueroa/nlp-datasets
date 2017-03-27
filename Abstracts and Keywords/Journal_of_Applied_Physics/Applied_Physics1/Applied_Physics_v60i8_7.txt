@@ -1,0 +1,10 @@
+This paper deals with the injection of minority carriers, through a contact or junction, into materials of high resistivity and low carrier lifetime. Semiinsulating IIIV compounds and many amorphous materials come under this heading. Since the macroscopic transport equations cannot be analytically solved, it is necessary to resort to numerical computation. Recent work along those lines has shown that the nature of the assumed boundary conditions has a profound effect on the results. The relationships are illustrated by concentration and potential contours of semiinfinite and pin systems, with various ratios of lifetime to dielectric relaxation time.
+
+CARRIER LIFETIME
+MINORITY CARRIERS
+SEMICONDUCTOR MATERIALS
+CHARGEDPARTICLE TRANSPORT
+CHARGEDPARTICLE TRANSPORT THEORY
+PIN JUNCTIONS
+RELAXATION
+CHARGE INJECTION DEVICES

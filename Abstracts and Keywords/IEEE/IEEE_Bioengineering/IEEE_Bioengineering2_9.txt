@@ -1,0 +1,7 @@
+Emerging biomedical transducers combined with technologies such as radio frequency identification, mobile cellular radio and global positioning systems are about to change the revalidation process of patients that recover from a heart attack or that have excessive fat. This paper explores how, by using these technologies, a training companion can be designed that allows these patients to become nomadic without the stress of a dedicated and costly revalidation environment. An additional advantage of such a solution is that the patient can return earlier to his known home environment.
+
+Artificial intelligence
+Biomedical transducers
+Cardiovascular system
+Global Positioning System
+Medical services

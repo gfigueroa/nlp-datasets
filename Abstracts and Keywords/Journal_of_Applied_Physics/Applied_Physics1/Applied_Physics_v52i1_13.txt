@@ -1,0 +1,16 @@
+A 25J, 50ns laser pumped by opposed electron beams is described. Experiments with this device demonstrated a 9% intrinsic laser efficiency at power deposition rates of about 1 MW/cm3. Parasitic control and narrowband output required for Ramancompression experiments were demonstrated by injection locking the laser. Experiments showing an angleencoded extraction of energy from the medium (pulse stacking) with three pulses using a highgain threepass amplifier configuration are also described. The device utilizes triggering schemes of very low jitter suitable for synchronization to other components for optical pulsecompression experiments.
+
+GAS LASERS
+EXCITATION
+KRYPTON FLUOIRIDES
+PULSES
+COMPRESSION
+ELECTRON BEAMS
+EXPERIMENTAL DATA
+EFFICIENCY
+POWER
+CONTROL
+RAMAN EFFECT
+MODE LOCKING
+OPTICAL EQUIPMENT
+TRIGGER CIRCUITS

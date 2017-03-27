@@ -1,0 +1,9 @@
+An automated, level-set based, segmentation framework is proposed in this work for computation of tumoral volumes on mice brain bearing gliomal tumors. Tl and T2 weighted MRI images were acquired to monitor tumor growth, at different time points. We developed an original multi-phase and multi-channel segmentation method, based on the level set framework of Chan and Vese, to facilitate the estimation of tumoral volumes. A clinical study comparing manual and segmented volumes on 18 mice demonstrate the adequacy of the multi-channel segmentation and its superiority over single-T1 channel automated segmentation in terms of measurement accuracy and correlation.
+
+MRI
+Segmentation
+brain tumor
+level set
+mice imaging
+multi-channel
+multi-phase

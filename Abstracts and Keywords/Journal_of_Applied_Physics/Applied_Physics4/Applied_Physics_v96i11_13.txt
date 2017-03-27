@@ -1,0 +1,11 @@
+Phase defects that introduce errors in the printed image are one of the major yield limiters for reticles in extreme-ultraviolet lithography. The basis for a reticle is a mask blank, consisting of an ultra-low-expansion substrate and a reflective multilayer stack that is made up of Mo and Si. A potential methodology for repairing phase defects in these mask blanks is to locally irradiate it with a high-resolution electron beam to induce structural deformations that cancel out the distortion of the multilayer. We present experimental and modeling results that show that the interaction of an electron beam with a mask blank can only be understood when the contraction of the multilayer through silicide formation and substrate compaction, as well as the mechanical response of the mask blank, are considered. One of the consequences is that electron beams with energies around 10 keV that are less than 20 nm in diameter induce depressions in multilayers made up of 50 MoSi bilayers that have a surprisingly large diameter of about a micrometer. Our models suggest that these unacceptably large diameters can only be reduced if the compaction of the substrate is prevented.
+
+silicon
+elemental semiconductors
+molybdenum
+multilayers
+ultraviolet lithography
+reticles
+electron beam effects
+deformation
+compaction

@@ -1,0 +1,4 @@
+The room-temperature intracavity difference-frequency generation in mid-infrared spectral range have been observed in a butt-joint GaAs/InGaAs/InGaP quantum-well laser diode which supports lasing at two closely spaced wavelengths in the near-infrared range. A special asymmetric waveguide design and a low-doped substrate that minimize mid infrared losses and realize phase matching condition for the difference-frequency generation process were used in butt-joint lasers.
+
+difference frequency generation
+diode laser

@@ -1,0 +1,10 @@
+An analysis is given of the space charge region that is induced in a semiconductor by a circular Schottky contact. Using the depletion approximation, the resulting free-boundary problem for Poissons equation is formulated and approximately solved in oblate spheroidal coordinates. Expressions are derived for the boundary of the space charge region and the related depletion potential. Calculations of the thickness of the Schottky barrier as a function of the diode size, down to the nanometer range, show good agreement with published results obtained numerically. © 2004 American Institute of Physics. 
+
+Schottky diodes
+Schottky barriers
+nanostructured materials
+space charge
+numerical analysis
+Poisson equation
+semiconductor device models
+nanoelectronics

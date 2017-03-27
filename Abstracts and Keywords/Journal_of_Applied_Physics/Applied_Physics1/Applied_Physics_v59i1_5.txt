@@ -1,0 +1,10 @@
+Acoustic power flow in a LiNbO3 single crystal was calculated to find the optimal crystal cutting orientation and the wave propagation direction for the efficient excitation of acoustic waves in the crystal. By solving the stiffened Christoffel equations and calculating the acoustic Poynting vectors with piezoelectric effect included, maximum longitudinal acoustic power flow in a 30° Zrotated, Ycut LiNbO3 crystal was found.
+
+LITHIUM NIOBATES
+ACOUSTIC SURFACE WAVES
+WAVE PROPAGATION
+CRYSTAL ORIENTATION
+POWER
+PIEZOELECTRICITY
+SOUND WAVES
+EFFICIENCY

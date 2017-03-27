@@ -1,0 +1,9 @@
+A two-dimensional electron gas (2DEG) is observed in C-face 3C-SiC/6H-SiC polytype heterostructures by capacitance-voltage method. The carrier density of the 2DEG is found to be 2.5×1012cm2. By semiclassical analysis of the electrostatics, we extract the spontaneous polarization charge in 6H-SiC to be 3×1012cm2. This value quantitatively agrees well with previous measurements of the polarization charge in SiC.
+
+carrier density
+electrostatics
+polarisation
+semiconductor heterojunctions
+silicon compounds
+two-dimensional electron gas
+wide band gap semiconductors

@@ -1,0 +1,9 @@
+Simple mechanical models can be useful in investigating the structural dependence of the piezoelectric activity of uniaxially oriented polyvinylidene fluoride. An experimentally observed strong nonlinear relationship between the mechanical load and the transverse piezoelectric coefficient d32 is presented. This new behavior is discussed on the basis of a parallel arrangement of crystalline and amorphous regions perpendicular to the orientation axis. The coefficient d32 changes its sign also, the deformation being less than 3% in all cases. A mechanical series model is applied for the coefficient d31 whose behavior is very linear with the applied mechanical load. Furthermore, d32 shows a significant time dependence after a change in the mechanical load applied. These nonlinear effects depend upon structural features such as crystal perfection and were attributed to processes occurring in the crystalline regions and in their interfaces with the amorphous surrounding, respectively. Also, the technical importance of these effects is obvious.
+
+POLYVINYLS
+FLUORIDES
+PIEZOELECTRICITY
+NONLINEAR PROBLEMS
+CRYSTAL ORIENTATION
+AMORPHOUS STATE
+STATIC LOADS

@@ -1,0 +1,15 @@
+The sputter rate influences the resulting thickness of the carbon containing layer within a surface that was treated by plasma immersion ion implantation. Choosing a polycrystalline substrate with rather large crystals and a material with an inherent high sputter rate, inhomogeneous distributions of carbon over the substrate area due to different thicknesses of the incorporated carbon can be detected. A correlation of three factors namely the carbon x-ray intensity in electron probe microanalysis, the thickness of the carbon layer, and the sputter rate in depth profiling measurements via secondary ion mass spectrometry can be shown. Essential for these factors is the crystal orientation that is visualized by mapping via electron backscatter diffraction. The differences in carbon content due to the orientation are most likely one of the reasons that the adhesion of diamond-like carbon films on copper does not improve with an interlayer of implanted carbon.
+
+adhesion
+carbon
+copper
+crystal orientation
+electron backscattering
+electron diffraction
+electron probe analysis
+grain boundaries
+plasma immersion ion implantation
+polishing
+secondary ion mass spectra
+sputter deposition
+thin films

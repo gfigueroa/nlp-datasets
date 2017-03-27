@@ -1,0 +1,9 @@
+We present a quantitative and comparative study of three different photothermal techniques based on the signal produced on vertical/slanted thermal barriers under a variety of barrier/sample conditions. Models based on integral methods are developed to calculate the amplitude and phase of the sample surface temperature and mirage deflection in surrounding air. The geometries studied include: vertical, tilted, buried, and finite size barriers separating identical or different media. The models incorporate the probe and pump beam sizes, the thermal resistance of the barrier and the optothermal characteristics of the sample. Experimental measurements are performed on a variety of fabricated barriers with three modulated photothermal techniques: the thermoreflectance, infrared radiometry, and mirage detection. We discuss in a comparative way the limits, drawbacks and the applicability of each technique. Model fits to the experimental results allow characterization of the thermal barrier (spatial localization, geometry, orientation, and size) and provide an accurate determination of its thermal resistance. © 1996 American Institute of Physics. 
+
+PHOTOTHERMAL SPECTROSCOPY
+COMPARATIVE EVALUATIONS
+INFRARED RADIATION
+RADIOMETRIC ANALYSIS
+SURFACE TEMPERATURE
+MATERIALS TESTING
+BARRIERS

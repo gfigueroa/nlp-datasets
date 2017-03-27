@@ -1,0 +1,13 @@
+We have characterized by capacitancevoltage and deep level transient spectroscopy measurements the only defect detected in Sidoped GaInP layers. This defect exhibits an ionization energy of 0.435 eV but is located only at <20 meV below the bottom of the conduction band. All its characteristics, i.e., energy level, apparent capture barrier, ionization energy, can be understood if the defect is a donor associated DX center. Its cross section for electron and hole capture have been measured. The effect of an electric field on the ionization energy confirms that the defect is indeed shallow and a donor.
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+TERNARY ALLOYS
+EPITAXIAL LAYERS
+DEFECT STATES
+CV CHARACTERISTIC
+DLTS
+IONIZATION
+ELECTRON CAPTURE
+DOPED MATERIALS
+SILICON ADDITIONS

@@ -1,0 +1,15 @@
+The highTc superconductor LaBa2Cu3Oy has been prepared under various conditions, and characterized by xray and neutron powder diffraction techniques, dc and ac magnetic susceptibility measurements, and dc resistivity measurement. It has been found that samples with excellent superconducting characteristics and also with good structural properties are obtained in a reproducible way if the following three procedures are performed: preheat treatment of La2O3 powders, sintering in N2, and lowtemperature annealing in dried O2. Longtime annealing in undried O2 was sometimes found to degrade the grain boundaries and to lead to a lower zeroresistance temperature.
+
+HIGHTC SUPERCONDUCTORS
+LOW TEMPERATURE
+LANTHANUM OXIDES
+COPPER OXIDES
+BARIUM OXIDES
+SYNTHESIS
+PEROVSKITES
+SUPERCONDUCTIVITY
+MAGNETIC SUSCEPTIBILITY
+GRAIN BOUNDARIES
+MAGNETIC PROPERTIES
+ELECTRIC CONDUCTIVITY
+EXPERIMENTAL DATA

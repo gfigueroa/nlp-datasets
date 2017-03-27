@@ -1,0 +1,10 @@
+We investigated a red to yellow color change observed in ±-HgI2 when cooled below 150 K. A phase transformation to ²-HgI2, which has a yellow color, was ruled out by a variable temperature x-ray diffraction study. Instead the color change at cryogenic temperatures is caused by a shift in the transmission edge to shorter wavelengths which we attribute to a widening band gap at low temperatures. Using optical transmission spectroscopy the width of the band gap was measured between 10 and 330 K. At room temperature the gap was 2.11±0.03 eV, which is significantly smaller than the most recently published values of <2.3 eV. This smaller band gap was further verified by measuring the thermoelectric current at elevated temperatures. © 2001 American Institute of Physics. 
+
+mercury compounds
+wide band gap semiconductors
+colour
+optical constants
+spectral line shift
+energy gap
+light transmission
+thermoelectricity

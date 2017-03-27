@@ -1,0 +1,11 @@
+The implant isolation characteristics of highly doped n and ptype GaAs epitaxial layers implanted with 5 MeV O+ ions are reported. High (<108 ©/) sheet resistances are obtained in such layers following annealing at 550600	°C for ion doses around 1015 cm2. The residual conductivity is still due to hopping processes with small activation (5070 meV) energies. The use of a single MeV O+ implant considerably simplifies the isolation of GaAs/AlGaAs heterojunction bipolar transistor (HBT) structures relative to the usual multipleimplant keV energy scheme. Small geometry (2×5 ¼m2) HBTs with gains of 25 for highlydoped (p=7×1019 cm3) base layer structures have been fabricated using MeV implant isolation.
+
+OXYGEN IONS
+ION IMPLANTATION
+BIPOLAR TRANSISTORS
+HETEROJUNCTIONS
+MEV RANGE 0110
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+QUASIBINARY COMPOUNDS
+INSULATING LAYERS

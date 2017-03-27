@@ -1,0 +1,12 @@
+The effect of nanosecond pulsed excimer laser irradiation on the particle distribution and density of laserdeposited YBa2Cu3O7 thin films was investigated. HighTC YBa2Cu3O7 superconducting thin films with thicknesses varying from 800 to 2000 Å were deposited on (100) LaAlO3 and (100) yttria stabilized zirconia substrates. The asdeposited films were characterized by a distribution of particles on the films surface. The effect of controlled low energy density pulses (fluence, E=50250 mJ/cm2, wavelength »=248308 nm, and pulse duration Ä=2045×109 s) on these films was investigated. A significant reduction of particles was observed in films after single pulse irradiation at fluences below 150 mJ/cm2. Multiple pulses did not have any further change on the surface morphology. The possible mechanisms for particle removal are also discussed.
+
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+ABLATION
+LASER RADIATION
+THIN FILMS
+HIGHTC SUPERCONDUCTORS
+MORPHOLOGY
+MICROPARTICLES
+QUATERNARY COMPOUNDS

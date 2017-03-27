@@ -1,0 +1,13 @@
+Threestep asymmetric coupled quantum wells have unique excitonic properties, particularly under bias. We demonstrate these properties through the absorption changes in quantum well optical modulators. The samples consisted of pin diodes with an active region of 20 coupled wells, each coupled well containing a 50 Å GaAs well and a 20 Å In0.2Ga0.8As well separated by a 10 Å Al0.33Ga0.67As barrier. Analysis of the structure shows that fieldinduced enhancement and suppression of electron and hole envelope wave function overlap can be observed through a corresponding increase or decrease in exciton absorption peaks. Our devices showed suppressed absorption with bias for the electronheavy hole 1 exciton and enhanced absorption with bias for the electronheavy hole 2 exciton. Stressrelated effects on the electronlight hole 1 exciton are also observed. Absorption change per applied bias is five times lower than at the zerofield exciton wavelength in quantum well devices utilizing the conventional quantumconfined Stark effect (QCSE). At higher bias, the QCSE becomes dominant, producing absorptive bistability. Our devices exhibit lower chirp and lowervoltage operation than singlewell devices and the flexibility of design allows for further optimization of absorption changes.
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+BINARY ALLOYS
+TERNARY ALLOYS
+QUANTUM WELLS
+ASYMMETRY
+OPTICAL BISTABILITY
+EXCITONS
+ABSORPTION
+OPTICAL MODULATORS
+STARK EFFECT

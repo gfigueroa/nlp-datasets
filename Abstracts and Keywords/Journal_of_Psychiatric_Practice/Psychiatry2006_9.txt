@@ -1,0 +1,8 @@
+Objective. To compare oral risperidone and intramuscular (IM) haloperidol, both in combination with IM lorazepam, in the management of acute agitation and psychosis in the medical emergency department. Methods. In this prospective, randomized, placebo-controlled, double-blind study of 30 patients presenting to the emergency department with acute agitation and/or psychosis, three groups of 10 patients received oral and IM medications: 1) 2 mg oral risperidone and 2 mg IM lorazepam; 2) 5 mg oral haloperidol and 2 mg IM lorazepam; 3) oral placebo and 2 mg IM lorazepam. Each treatment group received both an injection and a tablet to reduce treatment group variability. Patients were evaluated using the Brief Psychiatric Rating Scale (BPRS) and the Positive and Negative Syndrome Scale (PANSS) before receiving medication and at 30 and 90 minutes after medication was administered. The intergroup mean percent reductions in rating scale scores were compared using ANOVA, chi-square, and Kruskal-Wallis tests. Results. There were no statistically significant differences among the groups at any point. The two groups receiving an antipsychotic plus lorazepam showed a trend towards increased symptom reduction compared with the group receiving lorazepam alone, although this trend was not statistically significant. Conclusions. Lorazepam alone was as effective as lorazepam plus haloperidol or lorazepam plus risperidone in this small trial. While not statistically significant, a trend toward better outcomes with combined treatment warrants further study. 
+
+psychotic disorders
+psychomotor agitation
+antipsychotic agents
+emergency medicine
+emergency services
+behavioral emergencies

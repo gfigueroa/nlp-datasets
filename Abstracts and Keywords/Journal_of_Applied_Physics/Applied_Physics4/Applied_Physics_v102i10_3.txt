@@ -1,0 +1,10 @@
+Redistribution during annealing of low-energy boron (B) implants in silicon on insulator (SOI) structures and in bulk Si has been investigated by comparing secondary ion mass spectrometry (SIMS) and simulated profiles. All the samples have been preamorphized with Ge at different implantation energies in order to investigate the effects of the position of the damage on B diffusion. Different B doses in the range between 2×1013 and 2×1015cm2 and annealing temperatures between 700 and 1100	°C have been investigated. All SIMS profiles show a B pileup in the first few nanometers of the Si matrix in proximity of the Si surface. The results of our simulations, performed on samples implanted at different doses (below and above the solid solubility), indicate that the B redistribution upon annealing can be explained with a simple model which considers the presence of traps in the surface region, without considering any asymmetric behavior of the dopant diffusion. The sink region is a few monolayers (12 nm) for doses of 2×1013 and 2×1014cm2, and it extends to about 7 nm for the highest dose of 2×1015cm3, in the region of very high B concentration where precipitates and clusters shrink the incoming B atoms. For the two lowest B doses, the amount of B trapped at the surface is maximum at temperatures around 800	°C, when more than 80% of the implanted dopant is made immobile and electrically inactive. In our experimental conditions, i.e., preamorphization performed with constant dose and different implantation energies, the amount of trapped B increases with reducing the depth of the amorphous layer and it is higher in the bulk Si than in SOI.
+
+amorphisation
+annealing
+boron
+diffusion
+elemental semiconductors
+secondary ion mass spectra
+silicon
+silicon-on-insulator

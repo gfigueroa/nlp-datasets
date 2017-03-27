@@ -1,0 +1,11 @@
+The polarity of GaN grown by plasma-assisted molecular beam epitaxy was inverted from N-face to Ga-face by inserting a composite AlN/aluminum oxide (AlOx) interlayer structure at the inversion interface. The change in polarity was verified in situ by reflection high energy electron diffraction via intensity transients and postgrowth surface reconstructions, and ex situ by convergent beam electron diffraction and etch studies in an aqueous potassium hydroxide solution. The inverted materials showed smooth surfaces and good electrical properties. AlGaN/GaN high electron mobility transistors fabricated on the inverted epilayers showed good dc and high frequency performance. A current-gain cutoff frequency (fT) of 21 GHz and maximum oscillation frequency (fmax) of 61 GHz were measured in devices with a gate length of 0.7¼m. These data compare favorably to those of Ga-face AlGaN/GaN devices with a similar structure grown on Si-face SiC substrates.
+
+aluminium compounds
+etching
+gallium compounds
+high electron mobility transistors
+III-V semiconductors
+molecular beam epitaxial growth
+reflection high energy electron diffraction
+surface reconstruction
+wide band gap semiconductors

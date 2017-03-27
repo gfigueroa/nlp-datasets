@@ -1,0 +1,10 @@
+The optical properties of AlxGa1xP alloys of various compositions have been investigated by electrolyte electroreflectance. E0 and E1 optical transitions have been observed for the first time in the spectral region between 3000 and 4500 Å. Both empirical relationships, E0=2.78+1.05x and E1=3.77+0.26x, between the transition energies and the alloy composition were found. The extrapolated values for x=1 were the first semiempirical values for the E0 and E1 transition of AlP at room temperature. The indirect energy gap of the sample with x=0.30 was obtained from photoelectrochemical measurements to be 2.43 eV, a value slightly higher than that reported in the literature for the same composition.
+
+ALUMINIUM PHOSPHIDES
+GALLIUM PHOSPHIDES
+OPTICAL PROPERTIES
+ENERGYLEVEL TRANSITIONS
+ELECTROLYTES
+MEDIUM TEMPERATURE
+CHEMICAL VAPOR DEPOSITION
+EPITAXY

@@ -1,0 +1,6 @@
+We focus on the problem of efficient learning of dependency trees. Once grown, they can be used as a special case of a Bayesian network, for PDF approximation, and for many other uses. Given the data, a well-known algorithm can fit an optimal tree in time that is quadratic in the number of attributes and linear in the number of records. We show how to modify it to exploit partial knowledge about edge weights. Experimental results show running time that is near-constant in the number of records, without significant loss in accuracy of the generated trees.
+
+Data mining
+Dependency trees
+Fast algorithms
+Probably approximately correct learning

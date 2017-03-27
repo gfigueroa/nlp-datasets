@@ -1,0 +1,12 @@
+This article deals with magnetic force microscope images of nanosized domains in Co-coated films made by Pt-coated tips as well as micromagnetic images of data tracks written in recording media. Pt-coated tips have improved image delineation of the magnetic field distribution compared to images obtained by Co-coated hard magnetic tips. The force acting on Pt-coated tips in the magnetic field of the substrate was modeled assuming a paramagnetic tip. Due to the ferromagnetic nature of the interaction between the tip and substrate the spatial resolution of hard magnetic tips was shown to be inadequate to measure details of the features of nanosized domains. A comparison of the magnetic images made by Pt-coated tips with topographic images shows that magnetic domains resist thermal erasure at ambient temperature when they are formed of eight metallic grains. © 2003 American Institute of Physics. 
+
+magnetic force microscopy
+magnetic domains
+nanostructured materials
+platinum
+cobalt
+micromagnetics
+magnetic recording
+metallic thin films
+magnetic thin films
+ferromagnetic materials

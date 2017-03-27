@@ -1,0 +1,6 @@
+Complete magnetization and magnetostriction loops for type II superconductors were calculated in terms of the following pinned critical state models which incorporate the flux jump instability criterion: the KimAnderson model, the exponential model, the linear model, and the model with peak effect. These results were used for constructing magnetic fieldtemperature (HT) diagrams of instability of these critical state models. Magnetothermal instabilities of superconductors with peak effect were investigated experimentally and theoretically. Regions in the HT diagram where flux jumps occur were built and compared with experimental M(H) hysteresis loops. We have explained the phenomenon of island jumps. The influence of flux trapping on the flux jump regions of magnetic fields was studied. © 2000 American Institute of Physics. 
+
+flux pinning
+magnetisation
+magnetostriction
+magnetic hysteresis

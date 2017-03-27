@@ -1,0 +1,17 @@
+Ray tracing techniques are used to derive an analytic approximation for the resolving power, »/”», of convex curved crystal spectrographs as a function of the linear source size parallel to the plane of dispersion and as a function of the Bragg angle. Using the derived expression, we investigate source size broadening in spectra from spatially and temporally integrated implodingwire plasmas. We also compare the level spacing between the last discrete spectral line and the spectral line succeeding it to various line broadening processes: line broadening due to the finite size of the plasma source (source size line broadening), Doppler broadening, and line broadening due to the crystal rocking curve. We show that, in some cases, source size line broadening is comparable to the level spacing. Source size line broadening causes difficulties in obtaining the ion density from the series merging technique, since the latter is based on Stark broadening. We show that in some previously reported experiments the ion densities determined from the series merging technique should be considered an upper limit.
+
+XRAY SPECTROMETERS
+LINE BROADENING
+CRYSTALS
+MATHEMATICAL MODELS
+THEORETICAL DATA
+OPTICAL DISPERSION
+BRAGG REFLECTION
+SPECTRA
+IMPLOSIONS
+WIRES
+PLASMA
+DOPPLER EFFECT
+ION DENSITY
+STARK EFFECT
+COMPARATIVE EVALUATIONS

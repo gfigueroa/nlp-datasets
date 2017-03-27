@@ -1,0 +1,12 @@
+We used consolidation (hot pressing) and deformation (die upsetting) techniques to produce magnetically anisotropic permanent magnets from meltspun PryCo100yxCx alloys. The primary phase in these magnets (16dyd24 at.	%) was the hexagonal PrCo5 phase. The greatest alignment was obtained for lowcarbon compositions (0dxd2 at.	%); in particular, Pr18Co81C produced a remanence of <8.7 kG and an energy product of 16.9 MG	Oe. The addition of 1 at.	% carbon enhanced the coercivity (HclJ5.9 kOe) by nearly 80% compared to the carbonfree composition (HclJ3.3 kOe). Higher carbon levels (xe4 at.	%) resulted in even larger coercivities (Hcle10 kOe) but were accompanied by significantly lower remanences (BrJ6 kG).
+
+COBALT BASE ALLOYS
+PRASEODYMIUM ALLOYS
+CARBON ALLOYS
+TERNARY ALLOYS
+MELT SPINNING
+PERMANENT MAGNETS
+FABRICATION
+MAGNETIC ANISOTROPY
+COERCIVE FORCE
+HEXAGONAL LATTICES

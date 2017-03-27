@@ -1,0 +1,10 @@
+The time-dependent current response of superlattice miniband conduction to a strong submillimeter wave electric field of varying frequency and strength is investigated at lattice temperature T = 77 and 300 K by means of the three-dimensional balance-equation method with accurate microscopic treatment of impurity and phonon scatterings. The terahertz-radiation-induced current suppression and the generated third harmonic power as functions of the input power of the high-frequency field predicted theoretically are in reasonable agreement with recent experimental findings in heavily doped GaAs superlattices. © 1997 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+semiconductor superlattices
+high-frequency effects
+harmonic generation
+impurity scattering
+electron-phonon interactions
+heavily doped semiconductors

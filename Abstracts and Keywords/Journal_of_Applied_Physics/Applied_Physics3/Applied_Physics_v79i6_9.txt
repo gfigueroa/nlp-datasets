@@ -1,0 +1,11 @@
+Epitaxial Ga2Se3 layers were grown on GaP (100) and GaAs (100) by metalorganic chemical vapor deposition and the heterovalent exchange reaction, respectively. Measurements of the sample reflectance were carried out in the spectral range from 70 to 50	000 cm1 (<10 meV6.2 eV). The dielectric functions in the far infrared were determined from the reflectance measurements and are dominated by strong phonon features of the substrate and the layers. Substrate related multiphonon absorbances and FabryPerot interference dominate the mid infrared range. The spectra in the visible spectral range reveal FabryPerot interferences up to 2.6 eV indicating a fundamental band gap energy in the blue spectral range in contrast to the previously reported lower value of 2 eV. Further electronic transition energies were observed at 3.9, 4.7, and 5.0 eV. © 1996 American Institute of Physics. 
+
+CVD
+DIELECTRIC FUNCTION
+EPITAXIAL LAYERS
+GALLIUM SELENIDES
+INFRARED SPECTRA
+INTERFERENCE
+REFLECTION SPECTROSCOPY
+ULTRAVIOLET SPECTRA
+VISIBLE SPECTRA

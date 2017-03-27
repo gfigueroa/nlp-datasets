@@ -1,0 +1,7 @@
+In this article, the solution of the periodic temperature fluctuation of an opaque material with buried spheres as a result of a modulated illumination is presented. The model includes the multiple scattering of the plane thermal wave, generated at the sample surface, when interacting with the spheres and with the sample surfaces. A series solution to the heat diffusion equation and a matrix formulation to solve the scattering coefficients are used. The solution is general in the sense that there are neither restrictions on the number of spheres, their size, and position inside the material nor on the thermal properties of spheres and sample. Measurements on calibrated samples using an infrared radiometric microscope validate our model. This theory is specially suited to the thermal characterization and nondestructive evaluation of particulate composites using photothermal techniques. © 2004 American Institute of Physics. 
+
+photothermal effects
+scattering
+particle reinforced composites
+nondestructive testing
+infrared imaging

@@ -1,0 +1,20 @@
+Proton beams with currents ~50 kA at 5 MeV in a r160ns FWHM pulse have been extracted from an ion diode operated on the Aurora pulser. This current corresponds to an efficiency (proton currrent/total current) of 20%, which compares favorably with numerical simulation. The simulation indicates that the ion current is enhanced over the ChildLangmuir value due to increased electron lifetime in the diode. The proton beam directed onto a LiCl target provides a source of 1.8×1012 neutrons/sr/pulse in the forward direction from the 7Li(p,n)	7Be reaction.
+
+ION SOURCES
+ELECTRICAL IMPEDANCE
+DIODE TUBES
+PULSE GENERATORS
+DATA
+PROTON BEAMS
+ELECTRICAL CURRENTS
+EFFICIENCY
+MATHEMATICAL MODELS
+THEORETICAL DATA
+COMPARATIVE EVALUATIONS
+COMPUTERIZED SIMULATION
+ELECTRONS
+LIFETIME
+LITHIUM CHLORIDES
+TARGETS
+LITHIUM 7 REACTIONS
+NEUTRON SOURCES

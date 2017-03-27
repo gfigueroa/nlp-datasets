@@ -1,0 +1,11 @@
+The experimental identification of cooperative energy transfer from Tb3+ to Yb3+ has been presented by the photoluminescence properties of La0.99xYbxBaB9O16:Tb0.01 and the mean decay lifetime curves of the 4 emission of Tb3+. Near-infrared quantum cutting involving the 5/2’7/2 emission of Yb3+ (about 9601040 nm) is achieved upon the excitation of 4 energy level of Tb3+ at 481 nm. Yb3+ concentration dependent quantum efficiency is calculated and the maximum efficiency approaches 152.5%. Because the energy of Yb3+ transition (about 9601040 nm) is matched well with the band gap of crystalline Si, the phosphors could be applied potentially in silicon-based solar cells.
+
+barium compounds
+doping profiles
+energy gap
+lanthanum compounds
+phosphors
+photoluminescence
+radiative lifetimes
+terbium
+ytterbium compounds

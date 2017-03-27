@@ -1,0 +1,9 @@
+We present a comprehensive study relating the magnetic properties to structural properties of Mn+-implanted Si1xGex films as a function of Ge content (x = 00.5). Ferromagnetic ordering with three critical temperatures, TB < 1016K, TC1 < 650780K, and TC2 < 825860K, are reported in this material system. Element specific x-ray absorption fine structure results show that the majority of the Mn ions are nonsubstitutional in all samples. The transmission-electron microscopy coupled with z contrast and chemical analysis reveals the presence of Mn-rich nanosized clusters including Mn4Si7 in Si-rich samples and Mn7Ge3 phases in Ge-rich samples. A composition transition occurred at x < 0.20.3, where we observe a change in bond lengths and defect structures. Additionally, an enhancement in magnetizations with an increase in both TB and TC1 as well as a conversion from n-type to p-type conduction are also detected.
+
+ferromagnetic materials
+magnetisation
+manganese
+semiconductor thin films
+silicon compounds
+transmission electron microscopy
+X-ray absorption

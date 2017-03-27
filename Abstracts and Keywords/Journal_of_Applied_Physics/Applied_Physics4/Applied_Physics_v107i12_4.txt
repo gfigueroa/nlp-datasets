@@ -1,0 +1,11 @@
+The effects of accelerating voltage (0.55 keV) on the green cathodoluminescence (CL) of CaS:Ce3+ nanocrystalline powder phosphors is reported. An increase in the CL intensity was observed from the powders when the accelerating voltage was varied from 0.5 to 5 keV, which is a relevant property for a phosphor to be used in field emission displays (FEDs). The CL degradation induced by prolonged electron beam irradiation was analyzed using CL spectroscopy, x-ray photoelectron spectroscopy (XPS) and Auger electron spectroscopy (AES). The AES data showed the decrease in the S peak intensity and an increase in the O peak intensity during electron bombardment. The CL intensity was found to decrease to 30% of its original intensity after about 50C/cm2. XPS was used to study the chemical composition of the CaS:Ce3+ nanophosphor before and after degradation. The XPS data confirms that a nonluminescent CaSO4 layer has formed on the surface during the degradation process, which may partially be responsible for the CL degradation. The electron stimulated surface chemical reaction mechanism was used to explain the effects of S desorption and the formation of the nonluminescent CaSO4 layer on the surface.
+
+Auger electron spectra
+calcium compounds
+cathodoluminescence
+cerium
+electron stimulated desorption
+field emission displays
+nanoparticles
+phosphors
+X-ray photoelectron spectra

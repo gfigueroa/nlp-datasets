@@ -1,0 +1,16 @@
+The band gaps, built-in electric field, and surface Fermi level of a series In1xAlxAs surface-intrinsic-n+ (SIN+) structures have been studied by photoreflectance at room temperature. The samples were grown by molecular beam epitaxy with an undoped layer thickness of 1000 Å. Our study indicates that, in contrast to GaAs and AlGaAs, the surface Fermi level is not pinned at midgap over aluminum concentration of 0.420.57. The pinning position is composition dependent. The undoped layer was subsequently etched to 800, 600, 400, and 200 Å. Different chemical solutions were used in the etching process and the built-in electric field is found independent of the etching process. Although the surface Fermi level, in general, varies with the undoped layer thicknesses, there exists, for each Al concentration, a certain range of thicknesses within which the surface Fermi level is weakly pinned. From the dependence of electric field and surface Fermi level on the undoped layer thickness, we conclude that the surface states distribute over two separate regions within the energy band gap and the densities of surface states are as low as 1.36±0.05×1011
+cm2
+eV1 for the distribution near the conduction band and 4.38±0.05×1011
+cm2
+eV1 for the distribution near valence band. © 1998 American Institute of Physics.
+
+indium compounds
+aluminium compounds
+III-V semiconductors
+semiconductor heterojunctions
+Fermi level
+energy gap
+interface states
+photoreflectance
+valence bands
+conduction bands

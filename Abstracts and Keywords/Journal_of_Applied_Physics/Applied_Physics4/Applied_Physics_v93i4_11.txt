@@ -1,0 +1,12 @@
+The structural evolutions of glassy carbon (GC) and graphitized glassy carbon (GGC) treated under high temperatures and high pressures have been studied by energy-dispersive x-ray diffraction in a diamond anvil cell. The equations of state of GC and GGC are determined from x-ray density data. GC has a higher bulk modulus than that of GGC. It is found that the two-dimensional order of stacked layers in GC decreases with increasing the stresses, and the orientated layers merge with the disorientated layers at higher pressures, in which it can also be attributed to the appearance of a bump in the electrical resistance measurements under high pressures. © 2003 American Institute of Physics. 
+
+carbon
+vitreous state
+glass structure
+amorphous semiconductors
+high-pressure effects
+X-ray diffraction
+equations of state
+elastic moduli
+electric resistance
+internal stresses

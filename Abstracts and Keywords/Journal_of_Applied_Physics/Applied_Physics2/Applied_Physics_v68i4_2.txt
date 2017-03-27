@@ -1,0 +1,10 @@
+This communication presents a study of the dispersion relation for propagation in axisymmetric transverse magnetic modes along a dielectriccoated conducting cylinder embedded in a strongly magnetized plasma, the cylinder axis being placed parallel to the static magnetic field. Dispersion characteristics, covering all possible values of the plasma frequency, are plotted for typical values of õd and a/b, where õd is the dielectric constant of the coating, and a and b are the radii of the cylinder without and with the coating, respectively. A discussion of how the characteristics would change if õd or a/b is varied is also presented. In particular, the special case in which õd =1 and the coating is replaced by a vacuum sheath is investigated in detail.
+
+MAGNETOPLASMA
+DIELECTRIC MATERIALS
+WAVE PROPAGATION
+CYLINDRICAL CONFIGURATION
+DISPERSION RELATIONS
+SURFACE WAVES
+ELECTRIC CONDUCTORS
+COATINGS

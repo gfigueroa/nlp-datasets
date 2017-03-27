@@ -1,0 +1,14 @@
+We have measured the energy loss rate as a function of carrier temperature for hot holes in Si/Si0.8Ge0.2 quantum wells with sheet carrier densities in the range (37)×1011
+cm2 at lattice temperatures of 0.35 and 2.0 K. Calculations of the energy loss rate for acoustic phonon deformation potential scattering with coupling constant 4.5 eV show good agreement with measurement. The deformation potential is consistent with a linear interpolation between the bulk Si and Ge values and is in agreement with that deduced from measurements of thermopower in similar samples. In contrast to previous work, we find no evidence for hole coupling to acoustic phonons via a piezoelectric interaction. © 1997 American Institute of Physics.
+
+silicon
+elemental semiconductors
+Ge-Si alloys
+semiconductor materials
+semiconductor quantum wells
+two-dimensional electron gas
+interface states
+hot carriers
+electron-phonon interactions
+hole density
+thermoelectric power

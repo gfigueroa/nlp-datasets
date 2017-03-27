@@ -1,0 +1,8 @@
+The operational lifetime of polymer light-emitting diodes was studied at several temperatures in the range from 25 to 85
+°C. When operated in constant current mode, at luminances greater than 100 cd/m
+2, lifetimes of around 20
+000 h were noted. Two significant changes in performance were found during continuous operation: the luminance of the devices varied in a nonmonotonic fashion, and the operating voltage increased in a linear fashion. Both of these changes were thermally activated, with the changes accelerated at higher temperatures. These changes are also accelerated at higher current densities. We discuss possible mechanisms for these degradation processes. © 1999 American Institute of Physics.
+
+polymers
+light emitting diodes
+semiconductor device reliability

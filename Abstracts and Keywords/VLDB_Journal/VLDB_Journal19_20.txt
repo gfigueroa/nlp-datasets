@@ -1,0 +1,7 @@
+The revolution of the Internet together with the progression in computer technology makes it easy for institutions to collect an unprecedented amount of personal data. This pervasive data collection rally coupled with the increasing necessity of dissemination and sharing of non-aggregated data, i.e., microdata, raised a lot of concerns about privacy. One method to ensure privacy is to selectively hide the confidential, i.e. sensitive, information before disclosure. However, with data mining techniques, it is now possible for an adversary to predict the hidden confidential information from the disclosed data sets. In this paper, we concentrate on one such data mining technique called classification. We extend our previous work on microdata suppression to prevent both probabilistic and decision tree classification based inference. We also provide experimental results showing the effectiveness of not only the proposed methods but also the hybrid methods, i.e., methods suppressing microdata against both classification models, on real-life data sets.
+
+Privacy
+Disclosure protection
+Data suppression
+Data perturbation
+Data mining

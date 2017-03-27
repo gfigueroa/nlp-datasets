@@ -1,0 +1,18 @@
+We have investigated the low-temperature transport properties of front-gated Al0.18Ga0.82N/GaN heterostructures. At zero gate voltage, the Hall mobility increases with decreasing temperature (20
+K}T}190
+K) due to a reduction in phonon scattering. For T}20
+K, the mobility decreases with decreasing temperature. This is due to weak localization in a weakly disordered two-dimensional system. By changing the applied gate voltage, we can vary the carrier density n from 3.11×1012 to 6.95×1012
+cm2 in our system. The carrier density shows a linear dependence on the applied gate voltage, consistent with a simple parallel-plate capacitor model. The average distance between the GaN electron system and the AlGaN/GaN interface is estimated to be 240
+Å. At high carrier densities (n&gt;4.65×1012
+cm2), the measured mobility (¼) is found to be a decreasing function of carrier density as ¼<n0.31. Loss of mobility with increasing carrier density is dominated by interface roughness scattering. At low carrier densities (n&lt;4.24×1012
+cm2), the measured mobility is found to be an increasing function of carrier density as ¼<n0.34. This is consistent with remote ionized impurity scattering, although the measured exponent 0.34 is smaller than the typical value (0.71.5) observed in an AlGaN/GaN electron system. A possible reason is that our sample mobility is approximately five times lower than those in other devices for a similar electron density. © 2003 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor heterojunctions
+Hall mobility
+interface phonons
+interface roughness
+electron density

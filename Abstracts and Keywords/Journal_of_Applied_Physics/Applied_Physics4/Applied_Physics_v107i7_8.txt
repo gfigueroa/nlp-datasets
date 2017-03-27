@@ -1,0 +1,9 @@
+Single phase cubic Gd2O3 nanophosphor codoped with Eu3+ and Yb3+ ions has been synthesized through solution combustion route. Structural properties have been investigated using x-ray diffraction (XRD) and transmission electron microscopy (TEM). The as-synthesized Gd2O3 phosphor shows amorphous nature which changes to crystalline single cubic phase on annealing. Optical properties have been investigated through absorption, photoluminescence, and lifetime measurements. Intense red emission (5D0’7F2) is observed both from cooperative upconversion (Yb3++Yb3+’Eu3+ on 976 nm excitation) as well as through downconversion process (on 355 nm excitation). The unusual and rarely reported emissions from the higher lying 5DJ (J = 2, 3, and 4) to 7FJ (J = 0, 1, 2, 3, and 4) levels are also observed with 976 nm excitation. Nearly twenty two times enhancement in the intensity of the hypersensitive transition (5D0’7F2) along with an increase in the decay time (770¼s) is observed for the sample annealed at 1200	°C on 355 nm excitation. These observations have been explained satisfactorily.
+
+europium
+gadolinium compounds
+nanostructured materials
+phosphors
+transmission electron microscopy
+X-ray diffraction
+ytterbium

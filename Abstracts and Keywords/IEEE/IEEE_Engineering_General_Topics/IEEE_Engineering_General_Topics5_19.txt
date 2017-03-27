@@ -1,0 +1,5 @@
+A combinatorial graph can be used to place a geography on a population of evolving agents. In this paper agents are trained to play prisoner's dilemma while situated on combinatorial graphs. A collection of thirteen different combinatorial graphs is used. The graph always limits which agents can mate during reproduction. Two sets of experiments are performed for each graph: one in which agents only play prisoners dilemma against their neighbors and one in which fitness is evaluated by a round robin tournament among all population members. Populations are evaluated on their level of cooperativeness, the type of play they engage in, and by identifying the type and diversity of strategies that are present. This latter analysis relies on the fingerprinting of players, a representation-independent method of identifying strategies. Changing the combinatorial graph on which a population lives is found to yield statistically significant changes in the character of the evolved populations for all the metrics used
+
+Evolutionary Computation
+Prisoner's Dilemma
+Spatial Algorithm

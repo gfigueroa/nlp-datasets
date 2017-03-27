@@ -1,0 +1,6 @@
+Learning from surprises and unexpected situations is a capability that is critical for developmental learning. This paper describes a promising approach in which a learner robot engages in a cyclic learning process consisting of ldquoprediction, action, observation, analysis (of surprise) and adaptationrdquo. In particular, the robot always predicts the consequences of its actions, detects surprises whenever there is a significant discrepancy between the prediction and the observed reality, analyzes the surprises for causes, and uses the analyzed knowledge to adapt to the unexpected situations. We tested this approach on a modular robot learning how to navigate and recover from unexpected changes in sensors, actions, goals, and environments. The results are very encouraging.
+
+Learning systems
+developmental robotics
+surprise-based learning
+unsupervised learning

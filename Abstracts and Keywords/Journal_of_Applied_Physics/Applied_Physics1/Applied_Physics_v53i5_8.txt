@@ -1,0 +1,18 @@
+Schottky barrier diodes are fabricated on silicon surfaces whose impurity concentrations are controlled by ion implantation techniques. The barriers are produced by PtSi or AlSi. The forward characteristics of the diodes show that the forward voltages of Schottky barrier diodes made by PtSi are lower than those made by AlSi for implanted doses of 2×1013 cm2 and higher. Spreading resistance measurements show that the implanted phosphorus atoms are piled up near the PtSiSi interface during PtSi formation. This phenomenon causes reduction of the effective barrier height.
+
+PHOSPHOROUS
+SPATIAL DISTRIBUTION
+PLATINUM SILICIDES
+SYNTHESIS
+ION IMPLANTATION
+SCHOTTKY BARRIER DIODES
+EXPERIMENTAL DATA
+FABRICATION
+SURFACES
+IMPURITIES
+QUANTITY RATIO
+CONTROL
+ALUMINIUM ALLOYS
+PLATINUM ALLOYS
+MATHEMATICAL MODELS
+ELECTRIC CONDUCTIVITY

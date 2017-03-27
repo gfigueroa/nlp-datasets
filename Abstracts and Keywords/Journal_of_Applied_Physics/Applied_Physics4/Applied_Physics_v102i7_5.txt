@@ -1,0 +1,14 @@
+We study the electron energy spectrum and the Debye screening length (DSL) for IIIV, ternary, and quaternary materials in the presence of light waves, whose unperturbed energy band structures are defined by the three-band model of Kane. The solution of the Boltzmann transport equation on the basis of this newly formulated electron dispersion law will introduce new physical ideas and experimental findings in the presence of external photoexcitation. It has been found taking n-InAs, n-InSb, n-Hg1xCdxTe, and n-In1xGaxAsyP1y lattice matched to InP, as examples that the DSL decreases with the increase in electron concentration, intensity, and wavelength, respectively in various manners. The strong dependence of the DSL on both light intensity and wavelength reflects the direct signature of light waves which is in contrast as compared with the corresponding bulk specimens of the said materials in the absence of external photoexcitation. The rate of change is totally band structure dependent and is significantly influenced by the presence of the different energy band constants. The classical DSL equation in the absence of light waves has been obtained as a special case of the present analysis under certain limiting conditions and this compatibility is the indirect test of our generalized formalism. We have also suggested an experimental method of determining the DSL in degenerate materials having arbitrary dispersion laws.
+
+band structure
+Boltzmann equation
+cadmium compounds
+electron density
+electron spectra
+gallium arsenide
+gallium compounds
+III-V semiconductors
+II-VI semiconductors
+indium compounds
+mercury compounds
+photoexcitation

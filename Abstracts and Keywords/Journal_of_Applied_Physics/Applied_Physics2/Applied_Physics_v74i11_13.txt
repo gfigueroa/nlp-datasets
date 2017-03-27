@@ -1,0 +1,11 @@
+A smallangle neutron scattering (SANS) study of the structure of IIVI semiconductor crystallites in a semiconductordoped glass is presented. The scattered intensity I(k) exhibits a peak at a nonzero scattering vector and decreases to zero as k goes to zero. The data are interpreted with a simple phenomenological model, based on local mass conservation, which describes a dilute gas of crystallites surrounded by depletion zones. We show that SANS allows a quick and accurate measurement of the average size and of the volume fraction of the crystallites, and we give values of both quantities for a commercial series of glasses.
+
+GLASS
+DOPED MATERIALS
+SMALL ANGLE SCATTERING
+NEUTRONS
+SCATTERING
+SEMICONDUCTOR MATERIALS
+MICROPARTICLES
+CRYSTALLINE STATE
+STRUCTURAL CHEMICAL ANALYSIS

@@ -1,0 +1,16 @@
+We have studied the effects of fluorine inclusion on the electrical transport characteristics and interface structure of the hafnium oxide barrier in a magnetic tunnel junction. The tunneling magnetoresistance (TMR) and resistance-area (RA) as a function of oxidation time show that the TMR ratio of the hafnium oxyfluoride barrier is higher (8.3%) than that of the hafnium oxide barrier (5.7%) at their optimum conditions, and the oxyfluoride barrier junctions maintain a high TMR ratio even when the RA product increases by three orders of magnitude. X-ray photoelectron spectroscopy analysis shows that the fluorine atoms in the oxyfluoride barrier play an important role in the formation of a barrier with uniform composition. We believe that the initial fluoride layer is causing the subsequent oxygen diffusion to slow down, resulting in the formation of a defect-free hafnium oxide layer. These results are consistent with what we have found for aluminum oxyfluoride barriers.
+
+hafnium compounds
+fluorine
+Permalloy
+iron alloys
+cobalt alloys
+insulating thin films
+magnetic multilayers
+metal-insulator boundaries
+tunnelling magnetoresistance
+interface structure
+impurity distribution
+oxidation
+X-ray photoelectron spectra
+diffusion barriers

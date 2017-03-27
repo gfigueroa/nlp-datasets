@@ -1,0 +1,13 @@
+We have investigated the low-frequency noise and transfer curve behavior in NiFe/AlOx/NiFe magnetic tunnel junction sensors as a function of the annealing temperature. The magnetoresistance reaches a maximum of 35% with a maximal field sensitivity of 5%/Oe at an optimal annealing temperature of 170
+°C. The origin of 1/f noise is explored by measuring the magnetic field dependence of noise at low frequencies. Our data indicate that samples annealed near this temperature exhibit 1/f noise that originates from magnetization fluctuations, whereas electronic noise due to charge trapping is dominant for other temperatures. © 2003 American Institute of Physics. 
+
+nickel alloys
+iron alloys
+aluminium compounds
+magnetic tunnelling
+tunnelling magnetoresistance
+annealing
+1/f noise
+sensitivity
+magnetic sensors
+magnetoresistive devices

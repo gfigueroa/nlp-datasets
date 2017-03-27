@@ -1,0 +1,17 @@
+We report the preparation of AlAs codoped p-type ZnO films by rf magnetron cosputtering deposition. The p-type conductivity of the films was revealed by Hall measurements, x-ray photoelectron spectroscopy (XPS), and photoluminescence measurements after being annealed in O2. It was observed by XPS that Al content increased with increasing AlAs target power from 80 to 160 W and reached a maximum value at an AlAs target power of 160 W. Hole concentration decreased with increasing Al content. With increasing AlAs target power greater than 160 W, the samples exhibit increases in As and O contents and decreases in Al and Zn contents, which contribute to the increase in hole concentration. A high hole concentration of 2.354×1020cm3, a low resistivity of 2.122×102©	cm, and a Hall mobility of 0.13cm2/V	s for the films with high As content of 16.59% were obtained. XPS has also been used to address the unresolved issues related to the p-type formation mechanism of As-doped ZnO, supporting that the acceptor is AsZn2VZn.
+
+aluminium
+annealing
+arsenic
+electrical conductivity
+electrical resistivity
+Hall mobility
+hole density
+II-VI semiconductors
+photoluminescence
+semiconductor growth
+semiconductor thin films
+sputter deposition
+wide band gap semiconductors
+X-ray photoelectron spectra
+zinc compounds

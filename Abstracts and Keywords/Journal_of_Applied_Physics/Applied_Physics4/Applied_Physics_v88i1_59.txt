@@ -1,0 +1,13 @@
+Using a high temperature solution infiltration process, ferroelectric poly(vinylidene fluoride-trifluoroethylene) copolymer is infiltrated into three-dimensional (3D) periodic opal lattices with the silica opal diameters of 180, 225, and 300 nm to form periodic composite structures. By etching out the silica opal, inverse copolymer opals can be fabricated, which retains the 3D periodic structure of the original silica opal lattice. In addition to the optical observation, x-ray diffraction and dielectric study were carried out to characterize the change in the ferroelectric behavior of the composites and inverse opals. Although the copolymer in the composites and inverse opals remains ferroelectric, the ferroelectric transition in the composites and inverse opal becomes diffused and moves to a lower temperature, which is due to the random stress introduced by the irregular voids and interfaces and may be made use of to facilitate the transformation of the copolymer into a relaxor. These results suggest the feasibility of using ferroelectric copolymer to form 3D photonic crystals. © 2000 American Institute of Physics. 
+
+polymer blends
+ferroelectric materials
+photonic band gap
+silicon compounds
+X-ray diffraction
+ferroelectric transitions
+composite materials
+materials preparation
+voids (solid)
+internal stresses
+permittivity

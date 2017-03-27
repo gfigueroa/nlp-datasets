@@ -1,0 +1,6 @@
+On the characteristics of multi-source, heterogenous structure, mass data of WebGIS as well as the complexity of the system, the paper proposes the design model based on Web and multi-agent. Moreover, through analyzing the characteristics of each agent of the design model, the paper makes a further research on the communication problem of the agents. It also proposes the communication model and gives analysis and design to communication adapter
+
+SOAP
+WebGIS
+adapter
+multi-agent

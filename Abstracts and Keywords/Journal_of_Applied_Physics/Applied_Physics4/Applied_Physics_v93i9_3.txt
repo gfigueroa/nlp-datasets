@@ -1,0 +1,7 @@
+A resonant contact atomic force microscopy technique is used to quantitatively measure the elastic modulus of polymer nanotubes. An oscillating electric field is applied between the sample holder and the microscope head to excite the oscillation of the cantilever in contact with nanotubes. The nanotubes are suspended over the pores of a membrane. The measured resonance frequency of this system, a cantilever with the tip in contact with a nanotube, is shifted to higher values with respect to the resonance frequency of the free cantilever. It is experimentally demonstrated that the system can simply be modeled by a cantilever with the tip in contact with two springs. The measurement of the frequency shift thus enables the direct determination of the spring stiffness, i.e., the nanotube stiffness. The method also enables the determination of the boundary conditions of the nanotube on the membrane. The tensile elastic modulus is then simply determined using the classical theory of beam deflection. The obtained results fairly agree to previously measured values using nanoscopic three points bending tests. It is demonstrated that resonant contact atomic force microscopy allows us to quantitatively measure the mechanical properties of nanomaterials. © 2003 American Institute of Physics. 
+
+polymers
+nanotubes
+atomic force microscopy
+elastic moduli measurement
+elastic constants

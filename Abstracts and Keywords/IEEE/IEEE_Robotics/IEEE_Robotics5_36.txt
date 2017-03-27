@@ -1,0 +1,5 @@
+A hybrid method combining principal component analysis, self-organizing feather map and probabilistic neural networks was promoted. It was applied in cognitive diagnostic. The data was got from 488 students of high school who took in Chinese language test. The results showed the principal component analysis could reduce the dimensions for SOM input data, and get the cognitive attributes. SOM network could divide the subjects into categories, and identify the cognitive shortages of different categories. Probabilistic neural network could judge cognitive bugs of the new students accurately. It was an applied cognitive diagnostic method.
+
+cognitive diagnostic
+neural networks
+principal component analysis

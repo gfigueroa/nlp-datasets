@@ -1,0 +1,11 @@
+Kerr spectra and magnetic properties for multilayers of ultrathin Co and Cu/Au composite layers were systematically investigated. A Kerr enhancement was observed for the multilayers. The peak position of Kerr rotation shifts from the Cu plasma edge (560 nm) to the Au plasma edge (480 nm) by varying the constitution of Au/Cu/Au and Cu/Au/Cu parts. Magnetic anisotropies for the multilayers strongly depend on the constitution of Cu/Au composite layers. For [Cu(t≈)/Au(252t≈)/Cu(t≈)/Co(8 ≈)]15 multilayers, the easy axis changes from perpendicular to parallel along the film plane at a Cu layer thickness of around 2.5 ≈. The anisotropy for the [Au(t≈)/Cu(252t≈)/Au(t≈)/Co(8 ≈)]15 multilayer remains unchanged below a Au layer thickness of 3 ≈ and increases above that thickness. The change of easy axis is mainly due to the change of interface anisotropy. 	
+
+MULTILAYERS
+GOLD
+COPPER
+MAGNETOOPTICAL EFFECTS
+MAGNETIC ANISOTROPY
+KERR EFFECT
+PLASMONS
+THICKNESS
+INTERFACES

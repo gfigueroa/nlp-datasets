@@ -1,0 +1,6 @@
+Self-diffusion coefficients of Si in thermally grown SiO2 on a semiconductor-grade silicon wafer have been determined at temperatures between 1150 and 1300	°C under equilibrium conditions using isotope heterostructures (natSiO2/28SiO2). Si self-diffusion was induced by appropriate heat treatments, and the diffusion depth profiles of 30Si isotope from natSiO2 to 28SiO2 layers were determined by secondary ion mass spectrometry (SIMS). The diffusion coefficients found in the present study for 11501300	°C are more than two orders of magnitude smaller than the values measured with semiconductor-grade SiO2 in the presence of excess silicon, i.e., in nonequilibrium conditions, and agree very well with previously reported values of Si self-diffusion in fused silica under equilibrium conditions. © 2003 American Institute of Physics. 
+
+silicon compounds
+self-diffusion
+heat treatment
+secondary ion mass spectra

@@ -1,0 +1,8 @@
+We present unambiguous evidence for direct, nonthermal laser desorption of molecular ions from the surface of an ionic wide band gap material, single crystal MgO. Using time resolved mass spectroscopy, we measure positive ions emitted during pulsed excimer laser irradiation at 248 nm. Species observed (besides singly and doubly charged Mg) include: Mg2+, MgO+, MgO2+, Mg2O+ and (MgO)2+. The kinetic energies determined from time of flight measurements are species dependent, nearly independent of fluence, and range from 5 to 9 eV. The ion intensities display strongly nonlinear fluence dependencies, proportional to the fluence to the nth power, where n ranges from 3 to 4. These kinetic energies and fluence dependences support a defect mediated photoelectronic desorption mechanism. Emission is attributed to molecular ion precursors adsorbed at special sites associated with surface electron traps. Emission occurs when the electron trap is photoionized via the sequential absorption of 34 photons. © 2001 American Institute of Physics.
+
+magnesium compounds
+photon stimulated desorption
+laser beam effects
+mass spectra
+electron traps
+surface states

@@ -1,0 +1,14 @@
+The magnetic and structural properties of equiatomic FePt alloy obtained from the thermal annealing of [(19Å)/Pt(25Å)]×10 multilayer have been studied as a function of vacuum annealing at different temperatures. The multilayers are prepared by ion beam sputtering. X-ray reflectivity (XRR), x-ray diffraction (XRD), magneto-optical Kerr effect, and conversion electron Mössbauer spectroscopy are used to characterize the as-deposited and annealed multilayers. Using XRR it is observed that due to intermixing FePt alloy formation takes place with annealing. The XRD indicated the presence of superstructure peaks due to fct FePt phase at 350	°C and above. Mössbauer measurements indicated a clear evidence for the strong exchange coupling between the soft fcc FePt and hard fct FePt phases. The results indicate that the multilayer structure does not transform directly to the ordered fct FePt, rather first a fcc FePt phase is formed and subsequently it gets converted into the fct FePt phase as a function of annealing.
+
+iron
+platinum
+ferromagnetic materials
+magnetic multilayers
+Mossbauer effect
+annealing
+sputter deposition
+X-ray reflection
+X-ray diffraction
+Kerr magneto-optical effect
+soft magnetic materials
+exchange interactions (electron)

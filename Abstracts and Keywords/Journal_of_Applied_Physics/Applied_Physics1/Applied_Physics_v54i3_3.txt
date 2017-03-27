@@ -1,0 +1,15 @@
+A monolithic surface acoustic wave (SAW) resonator operating at 156 MHz, in which the frequency controlling element is a FabryPerot type of SAW resonator and the gain element is a monolithic SAW amplifier (SiOx/InSb/SiOx structure located inside the SAW resonator cavity) is described and experimental details presented. Based on the existing experimental data, an uhf monolithic ring resonator oscillator is proposed.
+
+resonators
+oscillators
+design
+mhz range 1001000
+frequency control
+fabryperot interferometer
+gain
+amplifiers
+cavity resonators
+experimental data
+silicon oxides
+indium antimonides
+acoustic surface waves

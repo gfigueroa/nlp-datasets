@@ -1,0 +1,11 @@
+Resistivity, thermopower, and Halleffect measurements on large single crystals of the anatase form of TiO2 all indicate high mobility ntype carriers that are produced by thermal excitation from a density of <1018 cm3 putatively present shallow donor states. The decrease of the mobility with increasing temperature is consistent with the scattering of carriers by the optical phonons of TiO2.
+
+TITANIUM OXIDES
+ELECTRIC CONDUCTIVITY
+NTYPE CONDUCTORS
+HALL EFFECT
+THERMOELECTRIC PROPERTIES
+DONORS
+TEMPERATURE DEPENDENCE
+ELECTRONPHONON COUPLING
+CARRIER MOBILITY

@@ -1,0 +1,9 @@
+The effects of the residual strain in thin bonded silicon-on-insulator (SOI) wafers on the Hall mobilities and the Raman shifts were investigated as a function of the annealing temperature and duration. For samples with an n-type Si layer of 5 ¼m thickness and a p-type layer of 2.2 ¼m thickness, mobilities identical to the theoretical values calculated from the piezoresistive effect were found. However, a sample with an n-type SOI layer of 1.5 ¼m thickness showed anomalous variation in the electron mobility. While samples with little strain had mobilities close to the corresponding value of the bulk Si, the presence of residual strain brought about a significant decrease to one tenth of the corresponding value of the bulk Si with increasing residual strain. The observed drop in the mobility in the sample N1.5 cannot be explained by the piezoresistive effect only. A Raman microprobe was used to examine the change in the residual strain of SOI layers. A single Raman peak observed for the SOI specimens was nearly identical to that of bulk Si in intensity and half width. However, a shift associated with the residual strain was observed. From a combination of the observed Raman shifts and the precisely evaluated built-in strain in the SOI layers, the results were compared with relationships that are commonly used for quantitative determination of the existing built-in strain and associated stress from the results of Raman characterization. © 2001 American Institute of Physics.
+
+silicon-on-insulator
+Hall mobility
+annealing
+electron mobility
+internal stresses
+piezo-optical effects
+piezoelectricity

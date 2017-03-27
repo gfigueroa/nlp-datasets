@@ -1,0 +1,8 @@
+Photoluminescence of Eu3+ doped TbPO4 (TbPO4:Eu) inverse opal photonic crystals was investigated. The results showed that the energy transfer from the donor Tb3+ to the acceptor Eu3+ can be enhanced effectively by the photonic band gaps in the photonic crystals. When the fluorescence emission wavelength of the donor Tb3+ overlapped the photonic band gap, the fluorescence intensity of the acceptor Eu3+ was obviously enhanced due to the inhibition of radiative emission of donor in the inverse opal photonic crystals.
+
+europium
+fluorescence
+photoluminescence
+photonic band gap
+photonic crystals
+terbium compounds

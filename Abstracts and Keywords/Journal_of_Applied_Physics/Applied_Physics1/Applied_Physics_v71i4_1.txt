@@ -1,0 +1,11 @@
+Oxidation of the Si overlayer in silicon separated by oxygen (SIMOX) is expected to form oxidation stacking faults (OSF) since this process generates Si interstitials into the active Si layer. In spite of this process, recent experiments reveal that the density of OSF is very low. A possible mechanism to explain the absence of OSF in SIMOX is that Si interstitials rejected from the Sioverlayer/SiO2 interface could react with the SiO2 of the buried layer to form SiO molecules (Si+SiO2=2SiO). These species, which can diffuse four orders of magnitude faster than Si through the SiO2 buried layer, are recombined by the reverse reaction at the back interface due to the absence of Siinterstitial supersaturation. Since the activation energy for this process is 4.4 eV, OSF can be generated if the Si overlayer is subjected to a preoxidation treatment that introduces a high density of stacking fault (SF) nucleation sites, because the activation energy for heterogeneous generation of OSF is only 2.3 eV. In this case 0.21×103 of Si interstitials are incorporated in OSF over the total Si atoms that are consumed during the oxidation. This value agrees with the proportion of Si interstitials incorporated in OSF when the SiO2 buried layer is replaced by a Si3N4 buried layer since this layer is a barrier for the Siinterstitial migration to the substrate. The value 0.21×103 is very close to the expected theoretical value revealing that almost all the Si interstitials were captured by the OSF.
+
+SILICON
+THIN FILMS
+OXIDATION
+STACKING FAULTS
+INTERSTITIALS
+TRANSMISSION ELECTRON MICROSCOPY
+INTERFACE PHENOMENA
+BURIED LAYERS
+SILICON NITRIDES

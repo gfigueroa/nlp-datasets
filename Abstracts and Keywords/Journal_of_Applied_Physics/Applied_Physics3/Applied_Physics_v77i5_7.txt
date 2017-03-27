@@ -1,0 +1,13 @@
+The spectroscopic properties of Crdoped Ca5(PO4)3F known as Cr:FAP were examined using several different chemical and physical means. Results from analytical titration measurements indicate that chromium is tetravalent in the samples investigated. Based on electronspin resonance measurements at temperatures as low as 11 K, no trivalent chromium and only a trace of pentavalent chromium (0.510 ppm) was detected in the samples used for optical studies. We postulate that Cr4+ is stabilized in the crystal as a result of the small amount of Y2O3 that was added during the crystal growth process and that charge balance is achieved when Y3+ replaces Ca2+ and Cr4+ replaces P5+. Assuming tetravalent chromium, absorption, and emission spectra were interpreted by analyzing phonon sidebands and zerophonon transitions observed at various temperatures. The observed crystalfield splitting is compared with calculated levels based on a TanabeSugano diagram for quartet and doublet states of Cr4+(3d2) in tetrahedral symmetry. The parametrized Hamiltonian includes the freeion parameters for Cr4+(3d2) and an initial set of crystalfield parameters obtained from a pointcharge latticesum calculation where ionic distances were obtained from xray crystallographic data. The parametrized Hamiltonian with crystalfield terms in C4 symmetry, when diagonalized within the complete 3d2 configuration, yields calculated Stark levels in reasonable agreement with levels established from the experiment. © 1995 American Institute of Physics.
+
+CALCIUM PHOSPHATES
+FLUORIDES
+QUATERNARY COMPOUNDS
+CHROMIUM ADDITIONS
+LASER MATERIALS
+EMISSION SPECTRA
+ABSORPTION SPECTRA
+VALENCE
+EPR SPECTRA
+ENERGYLEVEL SPLITTING
+CRYSTAL FIELD

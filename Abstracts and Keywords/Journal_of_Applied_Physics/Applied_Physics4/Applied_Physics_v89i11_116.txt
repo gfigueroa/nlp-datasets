@@ -1,0 +1,11 @@
+We report on direct evidence of the suppression of critical current due to pair-breaking in a superconducting microbridge when the measurement is carried out by injecting spin-polarized carriers instead of normal electrons. A thin layer of La0.7Ca0.3MnO3 was used as the source of spin-polarized carriers. The microbridge was formed on the DyBa2Cu3O7´ thin film by photolithographic techniques. The design of our spin-injection device allowed us to inject spin-polarized carriers from the La0.7Ca0.3MnO3 layer directly to the DyBa2Cu3O7´ microbridge (without any insulating buffer layer) making it possible to measure the critical current when polarized electrons alone are injected into the superconductor. Our results confirm the role of polarized carriers in breaking the Cooper pairs in the superconductor. © 2001 American Institute of Physics.
+
+dysprosium compounds
+barium compounds
+high-temperature superconductors
+superconducting thin films
+lanthanum compounds
+calcium compounds
+electron spin polarisation
+critical current density (superconductivity)
+Cooper pairs

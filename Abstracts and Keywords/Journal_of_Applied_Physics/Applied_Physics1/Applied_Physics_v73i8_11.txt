@@ -1,0 +1,11 @@
+Linear and nonlinear miniband electron transport through a laterally confined superlattice is investigated systematically using the balanceequation theory. Up to 21 transverse subbands with intrasubband and intersubband impurity and phonon scatterings are included. Nonlinear drift velocity and electron temperature as functions of the electric field are calculated at lattice temperatures ranging from 45 to 300 K for several sets of superlattices having different degrees of transverse confinements. With increasing the lateral crosssection diameters, linear mobility, peak drift velocity, threshold electric field, and all the other transport properties discussed exhibit significant oscillations at lattice temperatures as high as 300 K. Drastic changes in transport properties occur in GaAsbased systems when polar optic phonon scatterings set in or are prohibited due to subband structure.
+
+SUPERLATTICES
+TRANSPORT PROCESSES
+NONLINEAR PROBLEMS
+SCATTERING
+IMPURITIES
+PHONONS
+ELECTRON TEMPERATURE
+ELECTRIC FIELD EFFECTS
+GALLIUM ARSENIDES

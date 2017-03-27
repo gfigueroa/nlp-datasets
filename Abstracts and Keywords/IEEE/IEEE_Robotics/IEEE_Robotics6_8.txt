@@ -1,0 +1,6 @@
+As the pioneers of robots for family services, the current cleaning and security robots cannot implement high-level and multi-task planning; an efficient solution to adapt the dynamic environments of household work is desired. To deal with this issue and enhance the flexibility of robots with partial observability, a HTN (Hierarchical Task Network) -based semantic planner integrating the robot's control system is developed in this paper. An approach for handling the planning with incomplete information and exception is proposed by using the robots' memory and problem template. Finally, several experiments demonstrate that the approach is applicable in an unstructured house environment.
+
+HTN
+Partial observability
+Robot Memory
+Robot planning

@@ -1,0 +1,9 @@
+We discuss the procedure of calculating the density of states in the gap for amorphous silicon by integrating the excess subbandgap absorption. We show that in general the proportionality coefficient between the density of states and the integrated subbandgap absorption is not unique. The sum rule has been used improperly since integration of the excess subgap absorption is terminated either at a fixed energy or at an energy which does not include all optical transitions to the conduction band. We estimate the errors that can arise from this procedure.
+
+SILICON
+AMORPHOUS STATE
+CRYSTAL DEFECTS
+ENERGYLEVEL DENSITY
+ENERGY GAP
+ABSORPTION
+SUM RULES

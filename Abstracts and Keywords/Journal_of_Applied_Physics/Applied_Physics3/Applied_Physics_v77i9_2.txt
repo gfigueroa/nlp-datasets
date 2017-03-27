@@ -1,0 +1,11 @@
+Luminescence at 1.491 eV was detected at liquidhelium temperatures from CdTe epilayers heavily doped with iodine. The relatively sharp emission band (FWHM=4.4 meV) was observed under both abovebandgap and belowbandgap excitation. The intensity of the 1.491 eV emission was highly dependent on sample temperature and could only be detected below 45 K. Using the tunable output from a titanium:sapphire laser, selective excitation of this emission was performed to identify the recombination center. A localized mode of 36.5 meV, much larger than the 21.3 meV bulk CdTe mode, is associated with the defect center. We identify the defect as an associate donoracceptor pair complex resulting from nearest neighbor cation (NaCd) and anion (ITe) point defects. The energy level associated with the (NaCdI+Te) neutral associate pair is approximately 0.115 eV below the CdTe conduction band. © 1995 American Institute of Physics.
+
+CADMIUM TELLURIDES
+DOPED MATERIALS
+IODINE ADDITIONS
+PHOTOLUMINESCENCE
+DEEP ENERGY LEVELS
+TEMPERATURE RANGE 1365 K
+POINT DEFECTS
+EPITAXIAL LAYERS
+NTYPE CONDUCTORS

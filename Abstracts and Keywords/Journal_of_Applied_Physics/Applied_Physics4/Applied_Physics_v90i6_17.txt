@@ -1,0 +1,7 @@
+We investigate the switching bistability between the ¦ and ¦+À twist states in liquid-crystal cells with a three-terminal electrode structure. Based on general nematohydrodynamic equations and a modeling potential of surface anchoring, numerical calculation shows that dynamic shear flow and electric-field-induced breaking of surface azimuthal anchoring are essential to the realization of the switching bistability observed experimentally. © 2001 American Institute of Physics.
+
+nematic liquid crystals
+liquid crystal displays
+optical switches
+optical bistability
+shear flow

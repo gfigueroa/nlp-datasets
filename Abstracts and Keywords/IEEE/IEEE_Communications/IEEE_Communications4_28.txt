@@ -1,0 +1,6 @@
+Future city mobility concepts will contain personalized navigation aspects. One important role will be played by autonomous and semi-autonomous transportation platforms. This article proposes a framework for dynamic navigation towards moving targets. A personal transporter, which is also capable to navigate autonomously, is introduced. This platform can approach a localized target and at the same time avoid collisions with obstacles.
+
+autonomous control
+localization
+obstacle avoidance
+personalized transport

@@ -1,0 +1,6 @@
+In this paper, a preliminary investigation is carried out on the possible advantages of employing cooperative diversity to support next generation deep space networks envisaged to operate at Ka band. The background idea is to benefit from recent advances in cooperative protocols by relaying downlink signals from the spacecraft through a geostationary satellite to mitigate tropospheric fading. Numerical comparisons based on the outage probability for practical system parameters reveal great performance improvements.
+
+cooperative diversity
+deep space
+rain attenuation
+satellite communications

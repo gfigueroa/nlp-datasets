@@ -1,0 +1,7 @@
+The trend that container ships become increasing large-scale and fast-sailing brings forward the more severe requirements to container terminal logistics system (CTLS) than ever. Whether yard trailer dispatching at container terminals is sound or not possesses of important significance to improve on the integrated operational efficiency of CTLS. So this paper utilizes hybrid flow shop with blocking based on attributes to build the mathematical model of yard trailer dynamic dispatching and presents the corresponding formalization model based on Harvard architecture and multi-agent. Both structure a self-contained modeling architecture for CTLS, which not only serves the turn to yard trailer dispatching but also to the other handling sections in CTLS. The following simulations using AnyLogic and SQL Server 2005 validate the feasibility and creditability of the above modeling methodology and provide a scientific basis and engineering way for the improvement of CTLS.
+
+Agent-based computing
+Container terminal
+Dispatching
+Harvard architecture
+Hybrid flow shop with blocking based on attributes

@@ -1,0 +1,14 @@
+We demonstrate the application of surface sensitive diffuse x-ray scattering under the condition of grazing incidence and exit angles to investigate growth and dissolution of near-surface defects after boron implantation in silicon(001) and annealing. Silicon wafers were implanted with a boron dose of 6×1015 ions/cm2 at 32 keV and went through different annealing treatments. From the diffuse intensity close to the (220) surface Bragg peak we reveal the nature and kinetic behavior of the implantation induced defects. Analyzing the q dependence of the diffuse scattering, we are able to distinguish between point defect clusters and extrinsic stacking faults on {111} planes. Characteristic for stacking faults are diffuse x-ray intensity streaks along 111	 directions, which allow for the determination of their growth and dissolution kinetics. For the annealing conditions of our crystals, we conclude that the kinetics of growth can be described by an Ostwald ripening model in which smaller faults shrink at the expense of the larger stacking faults. The growth is found to be limited by the self-diffusion of silicon interstitials. After longer rapid thermal annealing the stacking faults disappear almost completely without shrinking, most likely by transformation into perfect loops via a dislocation reaction. This model is confirmed by complementary cross-sectional transmission electron microscopy. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+boron
+ion implantation
+annealing
+rapid thermal annealing
+X-ray scattering
+interstitials
+stacking faults
+self-diffusion
+dislocation loops
+transmission electron microscopy

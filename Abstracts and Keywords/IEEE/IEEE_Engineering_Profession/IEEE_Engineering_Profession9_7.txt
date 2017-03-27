@@ -1,0 +1,7 @@
+This paper presents the first results of a study analyzing railway network stability and the spreading dynamics of disastrous events with the potential to cause system-wide blockades using an interdisciplinary graph theoretical assessment. It introduces the modelling of railway transport that is assumed to consist of five sub-network levels including infrastructure and energy. For the sub-network infrastructure, first results of the effects of random errors and intended node deletions are presented for four different test areas including the Swiss railway network (standard gauge). It is shown the infrastructure sub-networks of the test areas are small-world networks with a node-degree distribution following a power-law regime, which means that they belong to the class of scale-free networks (SFN). SFNs are robust against random errors but vulnerable towards intended attacks. However, it will be shown that putting effort on the protection of only a few nodes can significantly reduce the spreading dynamics in both, spatial and temporal dimension.
+
+complex networks
+scale-free networks
+stability
+topology analysis
+transportation systems

@@ -1,0 +1,7 @@
+Deriving local cost models for query optimization in a dynamic multidatabase system (MDBS) is a challenging issue. In this paper, we study how to evolve a query cost model to capture a slowly-changing dynamic MDBS environment so that the cost model is kept up-to-date all the time. Two novel evolutionary techniques, i.e., the shifting method and the block-moving method, are proposed. The former updates a cost model by taking up-to-date information from a new sample query into consideration at each step, while the latter considers a block (batch) of new sample queries at each step. The relevant issues, including derivation of recurrence updating formulas, development of efficient algorithms, analysis and comparison of complexities, and design of an integrated scheme to apply the two methods adaptively, are studied. Our theoretical and experimental results demonstrate that the proposed techniques are quite promising in maintaining accurate cost models efficiently for a slowly changing dynamic MDBS environment. Besides the application to MDBSs, the proposed techniques can also be applied to the automatic maintenance of cost models in self-managing database systems.
+
+Cost model
+Evolutionary technique
+Multidatabase
+Query optimization
+Self-managing database

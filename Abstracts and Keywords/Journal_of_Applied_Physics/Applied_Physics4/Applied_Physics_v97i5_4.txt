@@ -1,0 +1,9 @@
+We have investigated holographic recordings in azobenzene-containing amorphous polymers (AP) and polymer-dissolved liquid-crystalline composites (PDLCC) with two waves that have orthogonal linear polarizations. Only linear photobirefringence was induced in AP, while both linear and circular photobirefringences were induced in PDLCC. The value of the photoinduced linear and circular birefringences had an effect on the diffraction properties in the polarization holographic gratings. The diffraction properties in AP and PDLCC samples were well explained by theoretical calculation on the basis of the Jones analysis.
+
+optical polymers
+polymer dispersed liquid crystals
+dyes
+holographic gratings
+holographic storage
+holography
+birefringence

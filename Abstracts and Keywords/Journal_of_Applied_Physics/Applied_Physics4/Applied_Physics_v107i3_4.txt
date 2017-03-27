@@ -1,0 +1,7 @@
+Complex acoustic impedance is determined in a prototype refrigerator that can mimic orifice-type, inertance-type, and double inlet-type pulse tube refrigerators from simultaneous measurements of pressure and velocity oscillations at the cold end. The impedance measurements revealed the means by which the oscillatory flow condition in the basic pulse tube refrigerator is improved by additional components such as a valve and a tank. The working mechanism of pulse tube refrigerators is explained based on an electrical circuit analogy.
+
+acoustic impedance
+pressure measurement
+refrigeration
+refrigerators
+velocity measurement

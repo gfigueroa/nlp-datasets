@@ -1,0 +1,13 @@
+The implementation of trap-assisted tunneling of charge carriers into numerical simulators ASPIN and D-AMPS is briefly described. Important modeling details are highlighted and compared. In spite of the considerable differences in both approaches, the problems encountered and their solutions are surprisingly similar. Simulation results obtained for several tunneling recombination junctions made of amorphous silicon (a-Si), amorphous silicon carbide (a-SiC), or microcrystalline silicon (¼c-Si) are analyzed. Identical conclusions can be drawn using either of the simulators. Realistic performances of a-Sia-Si tandem solar cells can be reproduced with simulation programs by assuming that extended-state mobility increases exponentially with the electric field. The same field-enhanced mobilities are needed in single tunneling recombination junctions in order to achieve measured current levels. Temperature dependence of the current-voltage characteristics indicates that the activation energy of enhanced mobilities should be determined. Apparent discrepancies between simulation results and measurements are explained and eliminated making use of Gills law. For application in tandem and triple solar cell structures, tunneling recombination junctions made of (¼c-Si) are the most promising of all examined structures.
+
+silicon
+silicon compounds
+amorphous semiconductors
+elemental semiconductors
+solar cells
+electron traps
+hole traps
+electron-hole recombination
+tunnelling
+semiconductor device models
+nanostructured materials

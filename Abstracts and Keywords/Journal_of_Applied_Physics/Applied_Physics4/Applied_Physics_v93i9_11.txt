@@ -1,0 +1,12 @@
+Device structures based on thick and thin SiC epitaxial films have been studied as detectors of alpha particles and weak ionization radiation (x ray and UV quanta), respectively. In the first case relatively no transistor effect is observed and the signal is formed similarly to that in a diode structure. The possibility of alpha particle spectrometry in spite of slow carrier transport via diffusion has been demonstrated. In the second case, the signal value of the transistor-like detector on applied voltage is investigated. Different modes are used: single alpha-particle detection and induced-current recording from fluxes of x ray and optical (UV) quanta. A superlinear rise in the resulting signal is observed with increasing voltage. The signal is amplified by a factor of several tens with respect to the value chosen for normalization. A description in terms of the phototriode model gives acceptable values for the main parameters: base width, diffusion length of electrons, and space charge of ionized impurities. © 2003 American Institute of Physics. 
+
+silicon compounds
+alpha-particle detection
+X-ray detection
+ultraviolet detectors
+semiconductor counters
+wide band gap semiconductors
+semiconductor epitaxial layers
+photoconducting devices
+carrier lifetime
+alpha-particle spectroscopy

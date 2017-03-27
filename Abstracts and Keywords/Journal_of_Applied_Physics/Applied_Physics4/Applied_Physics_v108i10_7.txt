@@ -1,0 +1,7 @@
+A bidimensional analysis of 6 mm hexagonal resonators is described using a double orthonormal basis set for the expansion of field quantities. The analysis takes into account the electrical voltage source and by means of a unique formalism along with a single calculation restitutes all the types of resonance whatever the thickness to width ratio value through either modal solutions or electrical impedance. An illustrative example gives the capabilities of the method to investigate spurious modes in laterally bounded resonators.
+
+acoustic resonators
+bulk acoustic wave devices
+electric impedance
+Legendre polynomials
+modal analysis

@@ -1,0 +1,12 @@
+Scanning tunneling microscopy (STM) measurements have been made on single-crystal epitaxial layers of CuInSe2 grown on GaAs substrates. Results were obtained for as-grown, air-exposed, and cleaned surfaces; in situ cleaved surfaces; surfaces sputtered and annealed in the STM system; and samples prepared by a light chemical etch. Conventional constant-current topographs, current-voltage curves, and current imaging tunneling spectroscopy (CITS) scans were obtained. Topographic images show that the surfaces appear rough on the atomic scale and often exhibit regular features consistent with a previously proposed surface ad-dimer reconstruction. CITS scans show a spatially varying energy gap consistent with band-edge fluctuations on a scale of a few atomic spacings. Energy variations were observed in both band edges. Although quantitative description of the magnitude of these fluctuations is difficult, the fluctuations on the atomic scale appear much larger than observed by methods such as photoluminescence, which average over larger volumes.
+
+chemical vapour deposition
+copper compounds
+gallium compounds
+indium compounds
+scanning tunnelling microscopy
+semiconductor epitaxial layers
+sputter deposition
+surface cleaning
+surface topography
+ternary semiconductors

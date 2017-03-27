@@ -1,0 +1,5 @@
+In his comment [J. Appl. Phys. 88, 7366 (2000)] Tung brings into question the appropriateness of some of the simulation conditions used in J. Appl. Phys. 85, 1935 (1999) and the conclusion taken from the results. This Response explains that the differences in the conclusions between our work and the work of Sullivan et al. [J. Appl. Phys. 70, 7403 (1991)] are caused by the differences in the parameters of the inhomogeneous structures described. It is also shown that the numerical experiments made by Sullivan et al. [J. Appl. Phys. 70, 7403 (1991)] were done for special diode parameters, and they probably did not support such general conclusions as were made. © 2000 American Institute of Physics. 
+
+semiconductor device models
+numerical analysis
+Schottky diodes

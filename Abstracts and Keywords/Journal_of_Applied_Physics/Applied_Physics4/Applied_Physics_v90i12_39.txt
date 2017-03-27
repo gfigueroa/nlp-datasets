@@ -1,0 +1,9 @@
+Particulate composites with negative stiffness inclusions in a viscoelastic matrix are shown to have higher thermal expansion than that of either constituent and exceeding conventional bounds. It is also shown theoretically that other extreme linear coupled field properties including piezoelectricity and pyroelectricity occur in layer- and fiber-type piezoelectric composites, due to negative inclusion stiffness effects. The causal mechanism is a greater deformation in and near the inclusions than the composite as a whole. A block of negative stiffness material is unstable, but negative stiffness inclusions in a composite can be stabilized by the surrounding matrix and can give rise to extreme viscoelastic effects in lumped and distributed composites. In contrast to prior proposed composites with unbounded thermal expansion, neither the assumptions of void spaces nor slip interfaces are required in the present analysis. © 2001 American Institute of Physics.
+
+piezoelectric materials
+thermal expansion
+pyroelectricity
+viscoelasticity
+composite materials
+inclusions
+deformation

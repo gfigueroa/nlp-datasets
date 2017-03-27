@@ -1,0 +1,13 @@
+The tetragonal phase of SnO2 and the conducting form of polyaniline are characterized by x-ray diffraction and Fourier transform infrared spectroscopy. The electrical conductivity and the dielectric properties of tin dioxide (SnO2)-polyaniline hybrid nanocomposites have been investigated as a function of temperature and frequency for different concentrations of polyaniline. Electrical conductivity has been derived from the simple equivalent circuit pertaining to inhomogeneous polycrystalline materials. Grain and grain boundary conductivities follow an Arrhenius type of electrical conduction. The nanocomposites possess an extraordinarily high dielectric constant of about 103. Different conductivities of the grain and grain boundary give rise to a large dielectric constant in nanocomposites. The dielectric loss spectra reveal two peaks in the measured frequency interval for the maximum concentration of the SnO2 nanoparticles. The peaks are ascribed to interfacial polarization and the intrinsic oxygen defects in nanosized SnO2.
+
+conducting polymers
+dielectric losses
+dielectric relaxation
+electrical conductivity
+filled polymers
+Fourier transform spectra
+grain boundaries
+infrared spectra
+nanocomposites
+nanoparticles
+permittivity

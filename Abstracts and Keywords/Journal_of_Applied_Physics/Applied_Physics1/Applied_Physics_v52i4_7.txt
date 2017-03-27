@@ -1,0 +1,16 @@
+It is shown that superconductivity above 8 °K occurs in alloys and metallic compounds within relatively narrow regions of cohesive energy density with a sharp peak which includes Nb3Ge, SiV3, Nb3Ga, and NbN. When cross correlated with the electronatom ratio, hightemperature superconductivity can be observed in only a few regions. This suggests a search for superconductors with hightransition temperatures and critical fields within these regions.
+
+ENERGY DENSITY
+ELECTRONS
+ATOMS
+QUANTITY RATIO
+METALS
+ULTRALOW TEMPERATURE
+NIOBIUM GERMANIDES
+SILICON VANADIDES
+NIOBIUM GALLIDES
+NIOBIUM NITRIDES
+CORRELATIONS
+TRANSITION TEMPERATURE
+CRITICAL FIELD
+SUPERCONDUCTIVITY

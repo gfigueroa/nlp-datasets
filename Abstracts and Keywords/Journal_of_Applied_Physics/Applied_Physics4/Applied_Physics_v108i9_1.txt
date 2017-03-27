@@ -1,0 +1,15 @@
+We successfully measured not only the tunneling properties but also the magnetic properties of a magnetic tunnel junction without patterning the magnetic tunnel junction stack itself by the current-in-plane tunneling method. Arrays of in-line four-point-probe sets with different spacings defined on the wafer made it possible to evaluate film tunneling properties. The estimated results differed little from those estimated by the commercial instrument. The small standard deviations of measured magnetic properties prove that our method is indeed reliable. Even though the properties for a less than submicron spacing were not available, we could successfully estimate the major characteristics of magnetic tunnel junctions. Our method can be applied in any environment, even in air without any clean-room facilities, and completed in as little as a day.
+
+boron alloys
+cobalt alloys
+giant magnetoresistance
+gold
+iron alloys
+magnesium compounds
+magnetic multilayers
+manganese alloys
+platinum alloys
+ruthenium
+tantalum
+titanium
+tunnelling magnetoresistance

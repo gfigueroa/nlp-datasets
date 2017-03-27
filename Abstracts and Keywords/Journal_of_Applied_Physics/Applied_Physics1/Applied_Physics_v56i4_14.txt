@@ -1,0 +1,9 @@
+Structural and compositional properties of hydrogenated silicontin alloys have been investigated as a function of tin content, sputtering pressure, and presence of hydrogen. Transmission electron microscopy, energy dispersive xray microanalysis, and scanning electron microscopy were used to detect compositional and structural inhomogeneities in these materials.
+
+chemical composition
+microstructure
+hydrogenation
+transmission electron microscopy
+scanning electron microscopy
+thin films
+solar cells

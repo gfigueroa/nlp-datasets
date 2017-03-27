@@ -1,0 +1,5 @@
+Different methods for the measurement of synchrophasors under dynamic conditions are analyzed in this work. The focus is on the comparison of their behavior in the presence of different situations where it is no longer valid the assumption of steady state, on which the definitions provided by the international standard are based.
+
+Dynamic condition
+Phasor Measurement Unit
+Synchrophasor measurement

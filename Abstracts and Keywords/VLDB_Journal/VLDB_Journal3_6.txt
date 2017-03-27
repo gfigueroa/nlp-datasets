@@ -1,0 +1,5 @@
+Traditional protocols for distributed database management have a high message overhead; restrain or lock access to resources during protocol execution; and may become impractical for some scenarios like real-time systems and very large distributed databases. In this article, we present the demarcation protocol; it overcomes these problems by using explicit consistency constraints as the correctness criteria. The method establishes safe limits as "lines drawn in the sand" for updates, and makes it possible to change these limits dynamically, enforcing the constraints at all times. We show how this technique can be applied to linear arithmetic, existential, key, and approximate copy constraints.
+
+consistency constraints
+serializability
+transaction limits

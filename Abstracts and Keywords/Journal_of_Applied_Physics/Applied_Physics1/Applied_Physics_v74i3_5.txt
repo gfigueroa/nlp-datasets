@@ -1,0 +1,12 @@
+An attempt has been made to identify the optimum parameters for good dielectric resonator materials. The dependence of dielectric constant of the system BaLn2Ti4O12 (Ln=La, Pr, Nd, Sm) on packing fraction and nephelauxetic ratio is discussed. The reported dielectric data for this system were treated using the multiregression method.
+
+BARIUM TITANATES
+LANTHANUM OXIDES
+PRASEODYMIUM OXIDES
+NEODYMIUM OXIDES
+SAMARIUM OXIDES
+QUATERNARY COMPOUNDS
+DIELECTRIC FUNCTION
+RESONATORS
+REGRESSION ANALYSIS
+RARE EARTH COMPOUNDS

@@ -1,0 +1,13 @@
+Compressive and tensilestrain effect on 630 nm GaInP/AlGaInP multiquantumwell lasers is theoretically analyzed. The compressive strain can greatly reduce the hole density of states which results in the reduction of the threshold current as reported. On the contrary, in the case of tensile strain, it is shown that it does not reduce the threshold current, because the wider width, which is required for the given wavelength of 630 nm, reduces the quantum size effect.
+
+QUANTUM WELLS
+SEMICONDUCTOR LASERS
+GALLIUM PHOSPHIDES
+INDIUM PHOSPHIDES
+ALUMINIUM PHOSPHIDES
+QUATERNARY COMPOUNDS
+TENSILE PROPERTIES
+STRAINS
+THRESHOLD CURRENT
+ENERGYLEVEL DENSITY
+SIZE EFFECT

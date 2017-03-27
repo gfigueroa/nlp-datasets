@@ -1,0 +1,10 @@
+The scenario of the magnetization reorientation in second-order perpendicular anisotropy approximation is theoretically studied by means of MonteCarlo simulations. The microstructure is investigated as a function of the difference between first-order anisotropy and demagnetizing energy Keff=K1ED and the second-order anisotropy K2. An influence of the second-order perpendicular anisotropy on the spin reorientation transition is found when Keff vanishes. The broadening and coalescing of domain walls found earlier for K2=0 is prevented by positive K2. The domain wall width and energy are determined by K2. For K2&gt;0 the transition via a canted vortex-like structure is found which yields the smooth, continuous connection between the vertical domain structure and the vortex structure with in-plane magnetization. © 2001 American Institute of Physics. 
+
+spin dynamics
+magnetisation
+canted spin arrangements
+perpendicular magnetic anisotropy
+Monte Carlo methods
+demagnetisation
+magnetic domain walls
+magnetic transitions

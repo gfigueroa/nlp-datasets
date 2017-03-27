@@ -1,0 +1,14 @@
+The correlation between composition, microstructure, and optical properties of aSi1xCx:H thin films with different stoichiometries was established. The alloys were deposited by radio frequency glow discharge under starving plasma conditions from mixtures of SiH4 and CH4. The samples were characterized by small angle xray scattering, ultravioletvisible and infrared spectrometry, and Auger electron spectroscopy. The results showed the presence of microvoids with sizes between B3 Å and B8 Å. The relative microvoid volume fraction displayed a maximum for x around 55 at.	% and decreased for higher values of x. High carbon content alloys (xB70 at.	%) not only have a lower relative microvoid volume fraction, but show optical gaps as high as 3.7 eV, high resistivity, and very low refractive index, indicating the presence of a diamondlike CC structure. These remarkable results are attributed to the deposition under starving plasma conditions.
+
+SILICON CARBIDES
+AMORPHOUS STATE
+MICROSTRUCTURE
+CVD
+SMALL ANGLE SCATTERING
+VOIDS
+INFRARED SPECTRA
+VISIBLE SPECTRA
+AES
+ENERGY GAP
+REFRACTIVE INDEX
+ELECTRIC CONDUCTIVITY

@@ -1,0 +1,11 @@
+X-ray emission and absorption spectroscopy (XES and XAS, respectively) are important and powerful techniques for determining the electronic properties of materials. Both are used to study magnetic circular dichroism (MCD) which is especially useful for analyzing the magnetic properties of materials. We present XAS and XES measurements and a MCD model study of two thin film layered samples containing SmCo layers in order to report on the applicability of soft x-ray spectroscopic techniques to determine the composition, layer thickness, and electronic structure of such materials. Using a transmission by fluorescence attenuation (TFA) technique we determined the composition and thickness of the SmCo layer to be consistent with the intended composition and thickness. We also confirmed the thickness of the other layers by comparing the XES from the thin film with that of a bulk sample. We showed by a model study that TFA could be used to obtain MCD, and thus the anisotropy of the sample, for film thicknesses between about 400 and 800 Å. © 2003 American Institute of Physics. 
+
+samarium alloys
+cobalt alloys
+magnetic thin films
+magnetic multilayers
+buried layers
+magnetic circular dichroism
+X-ray emission spectra
+X-ray absorption spectra
+ferromagnetic materials

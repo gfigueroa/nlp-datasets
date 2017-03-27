@@ -1,0 +1,8 @@
+An optically pumped CO laser that involves a twophoton excitation of the B state is described. A photon conversion efficiency of 15% is determined for the 01 and 02 vibraonic transitions of the BA system. It appears that the major portion of the emitted light is the result of amplified spontaneous emission due to the high gain of the transition.
+
+CARBON MONOXIDE LASERS
+OPTICAL PUMPING
+GAIN
+EFFICIENCY
+EXCITATION
+EXPERIMENTAL DATA

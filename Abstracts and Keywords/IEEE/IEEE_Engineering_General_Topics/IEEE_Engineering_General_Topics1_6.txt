@@ -1,0 +1,4 @@
+This article delineates an online 3D compound virtual field trip (3D-CVFT) system developed by us and compares the 3D-CVFT with an actual field trip. Some possible educational implications in terms of the use of virtual reality technology as an alternative to the geological field trip are also discussed.
+
+Field Trip
+Virtual Reality

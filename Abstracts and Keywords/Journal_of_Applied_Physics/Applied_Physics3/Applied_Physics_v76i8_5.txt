@@ -1,0 +1,14 @@
+The application of the elastic recoil detection technique utilizing heavy ions for the analysis of semiconductor samples is demonstrated. With this technique the depth profiles of the primary constituents as well as profiles of all impurities can be measured in one spectrum. Depending on the target material, a depth resolution down to 20 nm can be achieved. All elements except hydrogen can be detected with almost the same sensitivity, namely <1×1015 at/cm2 with 136 MeV I in a 30° recoil geometry. For hydrogen, the sensitivity is about four times better.
+
+SEMICONDUCTOR MATERIALS
+DEPTH PROFILES
+HEAVY IONS
+ELASTIC SCATTERING
+RECOILS
+IMPURITIES
+CHEMICAL COMPOSITION
+RESOLUTION
+MEV RANGE 1001000
+IODINE 127
+GOLD 197
+SURFACE ANALYSIS

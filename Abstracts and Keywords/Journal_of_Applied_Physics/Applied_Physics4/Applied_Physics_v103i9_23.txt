@@ -1,0 +1,9 @@
+A frequency upconversion process in Pr3+ doped TeO2ZnO glasses containing silver nanoparticles is studied under excitation with a nanosecond laser operating at 590 nm, in resonance with the 4’2 transition. The excited Pr3+ ions exchange energy in the presence of the nanoparticles, originating efficient conversion from orange to blue. The enhancement in the intensity of the luminescence at < 482nm, corresponding to the 0’4 transition, is due to the influence of the large local field on the Pr3+ ions, which are located near the metallic nanoparticles.
+
+glass
+nanoparticles
+optical frequency conversion
+photoluminescence
+praseodymium
+tellurium compounds
+zinc compounds

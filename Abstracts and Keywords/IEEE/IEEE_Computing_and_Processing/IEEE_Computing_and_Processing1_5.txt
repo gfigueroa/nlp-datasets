@@ -1,0 +1,9 @@
+ As 3D interfaces, and in particular virtual environments, become increasingly realistic there is a need to investigate the location and configuration of information resources, as distributed in the humancomputer system, to support any required activities. It is important for the designer of 3D interfaces to be aware of information resource availability and distribution when considering issues such as cognitive load on the user. This paper explores how a model of distributed resources can support the design of alternative aids to virtual environment wayfinding with varying levels of cognitive load. The wayfinding aids have been implemented and evaluated in a desktop virtual environment.
+
+ Wayfinding
+ cognitive load
+ cooperative evaluation.
+ distributed cognition
+ navigation
+ resource allocation
+ virtual environment

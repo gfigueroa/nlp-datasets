@@ -1,0 +1,12 @@
+A theory of collective translational vibrations of 90∞ domain walls (DWs) in ferroelectric ceramics is presented. Vibrational motions of DWs forming a regular domain structure of a representative grain are assumed to be completely correlated but independent of DW oscillations in other grains. A dynamic mechanical stress field appearing in a ceramic because of DW vibrations is calculated. In contrast to former studies, this calculation takes into account effects due to the lagging of sound waves emitted by oscillating DWs and gives a general expression for the dynamic mechanical restoring force acting on DWs. From this expression we derive the equation of sustained forced DW vibrations in an oscillating external electric field that is valid for a wide frequency range including microwave frequencies. A general solution of this equation is found, which enables us to compute numerically the dependencies of amplitude and phase of DW vibrations on the frequency … of the applied electric field. It is shown that in the lowfrequency range …&lt;…=ct/g (ct=velocity of transverse sound wave, g=grain size) the general equation of DW vibrations can be reduced to a simplified equation that includes the static restoring force, the inertial reaction, and the radiation reaction selfforce of the DWs emitting sound waves. Analytic expressions are derived for the DW effective mass and for the factors characterizing the static restoring force and the radiation reaction. The contribution of DW vibrations to the complex dielectric constants of ferroelectric ceramics is calculated. It is predicted that at very high frequencies …k… the DW contribution to the real part of permittivity strongly decreases due to clamping of DWs. In this frequency range a peak of dielectric losses should also arise being caused by the emission of sound waves from oscillating DWs. It is emphasized that the above effects can be correctly described on the base of the general equation of DW vibrations only.
+
+CERAMICS
+FERROELECTRIC MATERIALS
+DOMAIN WALL
+DISPERSION RELATIONS
+MECHANICAL VIBRATIONS
+ELECTRIC FIELD EFFECTS
+SOUND WAVES
+DIELECTRIC FUNCTION
+FREQUENCY RANGE
+EQUATIONS

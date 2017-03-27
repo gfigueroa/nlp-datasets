@@ -1,0 +1,14 @@
+Three infrared-active low-polar modes are reported for highly Si-doped hexagonal (±-) GaN. The 0.81.6 ¼m thick films, grown by metal organic vapor phase epitaxy or molecular beam epitaxy on (0001) sapphire substrates, were studied by infrared spectroscopic ellipsometry. For GaN epilayers with free-electron concentration N~8×1018
+cm3 we observe, besides the usual GaN transverse-optical lattice modes and coupled longitudinal-optical phonon-plasmon modes, a band of additional modes at 567.4±2.5, 752.5±0.9, and 855.0±0.9 cm1. We tentatively assign the first one to the disorder-activated high E2 GaN mode and the third mode to an acoustic-optical combination band, whereas the origin of the second mode remains unclear. Furthermore, the ellipsometric spectra of highly n-conductive Si-doped GaN reveal thin carrier-depleted regions at the sample surface. © 2001 American Institute of Physics.
+
+gallium compounds
+silicon
+wide band gap semiconductors
+III-V semiconductors
+infrared spectra
+semiconductor epitaxial layers
+molecular beam epitaxial growth
+vapour phase epitaxial growth
+MOCVD coatings
+polaritons
+heavily doped semiconductors

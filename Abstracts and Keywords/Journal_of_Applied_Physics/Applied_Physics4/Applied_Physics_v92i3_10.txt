@@ -1,0 +1,10 @@
+The phase field microelasticity theory of a three-dimensional elastically anisotropic solid of arbitrarily inhomogeneous modulus also containing arbitrary structural inhomogeneities is proposed. The theory is based on the equation for the strain energy of the elastically and structurally inhomogeneous system presented as a functional of the phase field, which is the effective stress-free strain of the equivalent homogeneous modulus system. It is proved that the stress-free strain minimizing this functional fully determines the exact elastic equilibrium in the elastically and structurally inhomogeneous solid. The stress-free strain minimizer is obtained as a steady state solution of the time-dependent GinzburgLandau equation. The long-range strain-induced interaction due to the elastic and structural inhomogeneities is explicitly taken into account. Systems with voids and cracks are the special cases covered by this theory since voids and cracks are elastic inhomogeneities that have zero modulus. Other misfitting defects, such as dislocations and coherent precipitates, are also integrated into this theory. Examples of elastic equilibrium of elastically inhomogeneous solid under applied stress are considered. © 2002 American Institute of Physics. 
+
+elasticity
+elastic moduli
+stress-strain relations
+Ginzburg-Landau theory
+voids (solid)
+cracks
+dislocations
+precipitation

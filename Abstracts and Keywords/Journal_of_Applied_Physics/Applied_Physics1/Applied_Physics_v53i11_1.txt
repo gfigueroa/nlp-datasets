@@ -1,0 +1,15 @@
+Techniques for making electron transverse velocity measurements on an intense electron beam using thicktarget bremsstrahlung emission are presented. The procedure presented here differs from similar previous measurements using thicktarget bremsstrahlung in that it allows both time and spatial resolution. Data from the study of a 2.1MeV, 40kA, 140nslong beam are presented. Measurements on this beam had a transverse velocity resolution of about 0.1 c. The temporal resolution was about 5 ns and the spatial resolution was 6 mm. Techniques used to determine the timeresolved radial current density profile are also presented.
+
+electron beams
+orientation
+velocity
+relativistic range
+experimental data
+thickness
+targets
+bremsstrahlung
+emission
+time resolution
+spatial resolution
+current density
+spatial distribution

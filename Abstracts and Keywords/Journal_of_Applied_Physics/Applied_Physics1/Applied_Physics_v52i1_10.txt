@@ -1,0 +1,13 @@
+The threshold current density Jth(T) of the GaAsAlxGa1xAs double heterostructure laser is calculated by including both drift and diffusion mechanism for carrier leakage. For x&lt;0.25 (”Eg&lt;0.3 eV), Jth increases rapidly with further decrease in the aluminum fraction x in the ternary layers, in general agreement with previous work. The ratio Jth (70	°C)/Jth (22	°C) also increases rapidly for x&lt;0.25. The carrier concentration in the P ternary is an important quantity in determining both the temperature dependence of threshold as well as roomtemperature threshold. In order to achieve a T0s150 K for x=0.28, the Pternary carrier concentration should be greater than 1.5×1017 cm3.
+
+SEMICONDUCTOR LASERS
+TEMPERATURE DEPENDENCE
+MATHEMATICAL MODELS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+CURRENT DENSITY
+DIFFUSION
+CHARGE CARRIERS
+QUATITY RATIO
+CARRIER DENSITY
+MEDIUM TEMPERATURE

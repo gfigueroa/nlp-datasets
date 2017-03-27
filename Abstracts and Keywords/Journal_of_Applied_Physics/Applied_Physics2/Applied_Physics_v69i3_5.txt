@@ -1,0 +1,10 @@
+The effects of droplet size on light scattering by polymerdispersed liquid crystal (PDLC) films have been studied theoretically and experimentally. RayleighGans calculations predict that, provided the droplets scatter independently, backscattering will be maximum at wavelength » when the droplet radius is about »/7. However, correlation effects become noticeable for droplet volume fractions · above about 0.2 and shift the radius for maximum backscattering to about »/5 as · increases to 0.5. These calculations are consistent with hemispherical transmittance and reflectance measurements on PDLC films in which multiple scattering is known to be important. These measurements indicate that solar attenuation by PDLC films will probably be maximized by choosing droplet size to maximize backscattering of visible radiation. This choice also increases solar attenuation by absorption of radiation trapped inside a PDLC film by total internal reflection.
+
+LIQUID CRYSTALS
+DISPERSIONS
+POLYMERS
+LIGHT SCATTERING
+DROPLETS
+RAYLEIGHGANS APPROXIMATION
+BACKSCATTERING
+MULTIPLE SCATTERING

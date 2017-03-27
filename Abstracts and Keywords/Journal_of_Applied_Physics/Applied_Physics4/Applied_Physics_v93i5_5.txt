@@ -1,0 +1,11 @@
+Recent theoretical results indicate that ion-beam mixing can be used to synthesize nanocomposite structures from immiscible elements, relying on a self-organization phenomenon at steady state under irradiation. According to this modeling, self organization requires that the range of the forced atomic relocations in displacement cascades exceeds a critical value. Experimental evidence supporting the formation of nanocomposites by this mechanism has been found in the immiscible system AgCu irradiated with 1 MeV Kr ions. To address this experimentally relevant model system, and to test the theoretical predictions, we study, by molecular dynamics (MD), the characteristics of irradiation mixing in a AgCu alloy subjected to bombardment with 62 keV He, 270 keV Ne, 500 keV Ar, and 1 MeV Kr ions. The distribution of atomic relocations measured by MD is then used to perform lattice kinetic Monte Carlo (KMC) simulations of phase evolution, during which both thermal decomposition and irradiation mixing operate simultaneously. The KMC results show that, in the framework of this self-organization mechanism, a nanocomposite structure can be stabilized at steady state by irradiation with heavy ions (Ne, Ar, and Kr), but not with He ions. As the characteristic relocation range for He ions is half of that measured for the heavy ions, these results support the theoretical prediction of the existence of a critical relocation range for compositional patterning to take place under irradiation. © 2003 American Institute of Physics. 
+
+silver alloys
+copper alloys
+nanocomposites
+ion beam mixing
+phase separation
+phase equilibrium
+self-assembly
+molecular dynamics method
+Monte Carlo methods

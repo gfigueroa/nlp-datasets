@@ -1,0 +1,5 @@
+We consider the problem of using sampling to estimate the result of an aggregation operation over a subset-based SQL query, where a subquery is correlated to an outer query by a NOT EXISTS, NOT IN, EXISTS or IN clause. We design an unbiased estimator for our query and prove that it is indeed unbiased. We then provide a second, biased estimator that makes use of the superpopulation concept from statistics to minimize the mean squared error of the resulting estimate. The two estimators are tested over an extensive set of experiments.
+
+Sampling
+Approximate query processing
+Aggregate query processing

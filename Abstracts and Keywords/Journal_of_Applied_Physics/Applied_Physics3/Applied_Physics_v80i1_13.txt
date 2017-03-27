@@ -1,0 +1,10 @@
+It is shown that the 14 band k≈p analysis of TE (x,y)polarized quantum well intersubband transitions can be categorized as (i) second order (bulk limit), and (ii) first order (quantum limit) perturbation depending on the structures. In the quantum limit, TEactive intersubband transition prevails. This explains the recent reports of normal incident quantum well photodetectors made of InGaAs/GaAs, InGaAs/AlGaAs, and GaAs/AlGaAs. © 1996 American Institute of Physics. 
+
+QUANTUM WELLS
+INTERBAND TRANSITIONS
+BAND STRUCTURE
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+PHOTODETECTORS
+POLARIZATION

@@ -1,0 +1,12 @@
+Galena (PbS) is a major ingredient in ancient Egyptian eye makeup. The microstructure of PbS in Egyptian cosmetic powders is used as a fingerprint and is matched with the microstructures produced artificially in geological galena minerals. The microstructure of PbS is determined by x-ray diffraction peak profile analysis in terms of dislocation density, crystallite size, and size distribution. High-resolution powder diffractograms were measured at the ESRF Grenoble synchrotron source with high resolution and high peak-to-background ratios. The Fourier coefficients of the first nine measured reflections of galena are fitted using physically based Fourier coefficients of strain and size functions. Strain anisotropy is accounted for by the dislocation model of the mean square strain. The x-ray data are supplemented by scanning electron microscopy (SEM) and transmission electron microscopy (TEM) micrographs, and are compared with archæological documents. It enables us to describe the procedures of eye makeup manufacturing in the Middle and New Kingdoms of Egypt some 2000 years before Christ. © 2002 American Institute of Physics. 
+
+lead compounds
+IV-VI semiconductors
+powder technology
+X-ray diffraction
+crystal microstructure
+crystallites
+dislocation density
+transmission electron microscopy
+scanning electron microscopy
+archaeology

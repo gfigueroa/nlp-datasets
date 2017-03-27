@@ -1,0 +1,8 @@
+This paper presents a software reliability growth model based on Ito type stochastic differential equation. As the size of a software system is large, the number of faults detected during the testing phase becomes large ; the change of the number of faults, which are detected and removed through each debugging, becomes sufficiently small compared with the initial fault content at the beginning of the testing phase. In such a situation, we can model the software fault detection process as a stochastic process with continuous state space. In this paper, two new software reliability growth model based on Ito type of stochastic differential equation has been proposed. In software reliability growth model 1 stochastic differential equation based generalized Erlang model and in software reliability growth model 2 stochastic differential equation based generalized Erlang model with logistic error detection function is being considered.
+
+mean time between failures
+non homogeneous poisson process
+software reliability engineering
+software reliability growth model
+stochastic differential equation
+stochastic process

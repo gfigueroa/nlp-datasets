@@ -1,0 +1,8 @@
+This paper is an attempt to highlight the fundamental approaches, algorithms and techniques being employed in interesting areas of Computational Biology. The comparative analysis of genomic sequences, micro-array technology, phylo-genetic tree, alignment matters, maximum sequence search and protein structure prediction are some of NP hard problems. There has been no direct solution proposed so far. Approximate and optimal solutions have been devised using different tools. We have compared different approaches in various domains with the aid of exemplary data. We assigned different weight values for relevant features and obtained scores in comparison and alignment phenomenon. We classified sequence analysis to be a broader domain encapsulating visualization, pattern recognition, motif concentration and structure prediction. Different techniques and approaches have been evaluated and compared. It was analyzed that some approaches suitable for certain domains may not be recommended to employ for other domains. The usefulness of this analysis has been explored and further future expectations have been described.
+
+Genome
+alignment
+genetic survey
+micro-array analysis
+sequence analysis
+sequences

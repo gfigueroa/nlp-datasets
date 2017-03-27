@@ -1,0 +1,14 @@
+In this note, it is shown that the previous Monte Carlo simulations of energy dissipation in polymer films by electron beam scattering [R. J. Hawryluk, A. M. Hawryluk, and H. I. Smith, J. Appl. Phys. 45, 2551 (1974)] are consistent with the recent calculation of S. Horiguchi et al. [Appl. Phys. Lett. 15, 512 (1981)]. Such Monte Carlo simulations have been widely used in electron beam lithography.
+
+LITHOGRAPHY
+POLYMERS
+FILMS
+ELECTRON COLLISIONS
+MEAN FREE PATH
+MONTE CARLO METHOD
+SIMULATION
+LAYERS
+PRINTED CIRCUITS
+MATHEMATICAL MODELS
+ELECTRON BEAMS
+SCATTERING

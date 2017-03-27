@@ -1,0 +1,15 @@
+120 keV carbon ions implantations at high fluences (0.58×1017
+ions
+cm2) were performed at elevated temperature (~500
+°C) in silver layers deposited on various substrates (Si (100), 304 L stainless steel, and pure fused silica). Spherical carbon onions (315 nm in diameter) were so produced in the silver layers. A pure carbon onion thin film deposited on the substrate was obtained after annealing in vacuum. Atomic force microscopy and high-resolution transmission electron microscopy experiments were performed to characterize the structure of the thin films. Optical transmittance spectra of carbon onion layers deposited onto silica substrates revealed two absorption peaks centered at 220230 nm and at 265 nm that were attributed to the presence of carbon onions and residual disordered graphitic carbon, respectively. Tribological experiments performed on silvercarbon onions composite thin films revealed that the friction coefficient is close to that of a pure silver film (0.2) but with much better wear behavior. © 2002 American Institute of Physics. 
+
+carbon
+nanostructured materials
+ion implantation
+transmission electron microscopy
+atomic force microscopy
+annealing
+thin films
+visible spectra
+friction
+wear

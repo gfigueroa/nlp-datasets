@@ -1,0 +1,5 @@
+The study of gaits for a multi-legged system has been a popular and integral part for the development of an efficient walking machine. It has been proven that the wave gait possesses the optimum stability among regular and periodic gaits for legged systems with four and six legs. Choi and Song reported that, for legged systems with eight and more legs, the wave gait may not be the optimally stable gait at certain ranges of duty factor with seven phase conditions of the front legs and seven phase conditions of the rear legs. In this paper, searches for the gaits that are more stable than the wave gait are conducted. It is found that in each of the fourteen cases of front and rear phase conditions, there are a number of gaits that are more stable than the wave gait. The more-stable gaits are identified and their stabilities are compared.
+
+Gait Stability
+More Stable Gait
+Wave Gait

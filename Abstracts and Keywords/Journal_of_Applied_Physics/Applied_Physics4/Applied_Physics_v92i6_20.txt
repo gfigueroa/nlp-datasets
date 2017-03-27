@@ -1,0 +1,15 @@
+In metalorganic deposition using trifluoroacetates (TFA-MOD), CuO nanocrystallites in calcined film, which influence the critical current density (Jc) of the resulting film, have seldom been considered before. CuO nanocrystallites ripen and grow during the calcining process at 200250		°C and grow into large CuO grains in the YBa2Cu3O7-x (YBCO) film. The final diameter of the grains is about 0.1 ¼m. When highly purified coating solution is used, suppressing the creation of nanocrystallites in the precursor film is an effective way to obtain high-Jc YBCO film because the nanocrystallites consist only of CuO. We obtained the highest-Jc YBCO film on LaAlO3 single crystal with a calcining process of 9h43m at 200250
+°C. It was 141 nm thick and had a Jc of 7.5 MA/cm2 (77 K, 0 T), as measured by the four-probe method. The firing process of TFA-MOD still has several unsolved problems; why can H2O and HF gas diffuse quickly within the film? These phenomena can be explained by a model with a quasiliquid consisting of Y, Ba, Cu, O, H, and F. The H2O and HF can move quickly in the quasiliquid network within the film during the firing process. According to the model, we can get more conversion of CuO nanocrystallites into quasiliquid by increasing the amount of water vapor. Jc of the film was increased from 3.3 to 4.5 MA/cm2 (77 K, 0 T) by increasing the humidity from 4.2% to 12.1% during the long calcining profile of 66h40m at 200250
+°C. These results confirm the above model. CuO nanocrystallites in precursor films induce nonstoichiometric metal contents in the quasiliquid. Isolated CuO grains in YBCO film indirectly cause nonstoichiometric quasiliquid in other areas. Such nonstoichiometric quasiliquid leads to non-YBCO materials such as BaO, Y2O3, and Y2Cu2O5. Thus, films derived from non-highly purified coating solution and ones prepared with an inappropriate calcining process both have lower Jc values. Micrographs obtained by transmission electron microscopy and Jc results support this hypothesis. © 2002 American Institute of Physics. 
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting epitaxial layers
+liquid phase deposited coatings
+grain size
+heat treatment
+critical current density (superconductivity)
+transmission electron microscopy
+copper compounds
+nanostructured materials

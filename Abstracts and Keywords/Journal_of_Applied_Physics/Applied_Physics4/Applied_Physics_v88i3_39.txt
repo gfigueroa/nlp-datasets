@@ -1,0 +1,11 @@
+The conventional method of semiconductor charge carrier transport investigations using full band ensemble Monte Carlo simulations is extended to allow for tunneling between bands during accelerated drift of the carriers. The essentially classical picture of transport, as simulated, is preserved by implementing a stochastic selection of the band index of the initial state of each scattering process associated with phonons, with impurities, or with impact ionization. Relative probabilities for the band assignment are calculated from the overlap integrals of the cell-periodic parts of Bloch wave functions belonging to different bands, for k-vectors along the carrier k-space trajectory between successive scattering events. As an example, the method is applied to Monte Carlo transport simulations for holes in 4H SiC in a homogeneous applied electric field. Tunneling between valence bands during the drift phases is shown to have a significant impact on the carrier energy distributions when large electric fields are applied, and on physical parameters that directly depend on the carrier energy, such as the hole initiated impact ionization coefficient. © 2000 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+tunnelling
+electrical conductivity
+Monte Carlo methods
+electron-phonon interactions
+impurity scattering
+impact ionisation
+valence bands

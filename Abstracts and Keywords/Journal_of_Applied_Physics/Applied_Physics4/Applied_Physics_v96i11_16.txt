@@ -1,0 +1,11 @@
+We report here efficient air-stable p-n heterojunction organic solar cells with a structure consisting of an n-type insoluble perylene pigment penetrated by a p-type-conjugated polymer, where the interfacial area for photocurrent generation increases. The solar cells are easily produced by infiltrating a soluble-conjugated polymer intentionally into an opening among insoluble microcrystalline perylene layer under a saturated chloroform vapor. This approach can be regarded as an alternative convenient way to achieve bulk heterojunction solar cells. The cell performance is further enhanced by inserting an additional layer between the electrode and the photoactive layer to confine exciton in the photoactive layer. The overall attempt to improve the cell performance, so far, results in maximum quantum efficiency up to 45% under illumination of 485-nm monochromatic light and power conversion efficiency up to 1.9% under a simulated solar light (AM1.5) with a 100mWcm2 intensity. The approach is promising to achieve practical efficiency because tuning the opening size can further widen the photoactive area.
+
+solar cells
+polymer films
+organic semiconductors
+semiconductor thin films
+polymer structure
+p-n heterojunctions
+photoconductivity
+excitons
+conducting polymers

@@ -1,0 +1,16 @@
+We have studied the microstructures and ferroelectric properties of MnO2-doped bismuth-layered (Ca,Sr)Bi4Ti4O15 (CSBTM). The piezoelectric coefficient, dielectric loss, mechanical quality factor, and the P-E hysteresis loop measurements indicate that Mn ions entered both the A and B sites of the pseudoperovskite-layered structure, creating soft and hard doping effects simultaneously. Scanning electron microscopy and energy dispersion spectroscopy showed that the platelike grains in CSBTM ceramics become larger with the increase of MnO2 additive, and Mn ions are found inside the grains as well as in the grain boundaries. The lattice parameter, room-temperature dielectric constant, and the Curie temperature do not vary with MnO2 additive. We conclude that the Mn3+ ions play a critical role in the effects of soft and hard behaviors since it can enter both the A and B sites of the perovskite structure.
+
+manganese compounds
+calcium compounds
+strontium compounds
+bismuth compounds
+ferroelectric ceramics
+piezoceramics
+dielectric losses
+Q-factor
+dielectric hysteresis
+scanning electron microscopy
+grain boundaries
+lattice constants
+permittivity
+ferroelectric Curie temperature

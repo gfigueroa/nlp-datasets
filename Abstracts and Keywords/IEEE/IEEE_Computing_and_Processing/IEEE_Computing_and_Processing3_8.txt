@@ -1,0 +1,7 @@
+Recent phenomenal growth in broadband technology, coupled with the need for organizations to stay competitive, requires a corresponding comprehensive understanding of new and advanced technologies. In this regard, new challenges have arisen with respect to mastering the intricacies related to acquisition, design, systems development and methodologies needed to manage these complex technologies. More than ever before network administrators are required to integrate and manage heterogeneous systems and a variety of applications effectively and efficiently. This paper proposes a systematic approach to tackling these challenges. It outlines an effective strategy and methodology for designing a mature industrial-based commercially available product that will provide satisfactory solutions.
+
+Network Management
+acquisition
+challenges
+design
+systems development

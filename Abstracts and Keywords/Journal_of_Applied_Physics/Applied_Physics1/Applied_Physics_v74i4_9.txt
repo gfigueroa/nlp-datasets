@@ -1,0 +1,12 @@
+We present data concerning the dynamics of photoexcitation of defect centers in germaniumdoped silica glass optical fibers and fiber preforms. It is shown that twophoton absorption of modelocked and Qswitched light at 527 nm results in partial ionization of the germanium oxygen deficiency center (GODC) 400nm luminescence band. This bleaching induces loss in the 320600nm wavelength range, which we argue is due to the introduction of Ge(1) centers and charges trapped at structural defects in the glass. The excitation and relaxation of dynamics of the GODC are analyzed by examining the photoluminescence and absorption spectra, and two models are proposed to explain the observed behavior.
+
+OPTICAL FIBERS
+SILICA
+GLASS
+DEFECTS
+PHOTOLUMINESCENCE
+DOPED MATERIALS
+GERMANIUM ADDITIONS
+EXCITATION
+ABSORPTION SPECTRA
+BLEACHING

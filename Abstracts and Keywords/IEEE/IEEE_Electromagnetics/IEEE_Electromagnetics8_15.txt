@@ -1,0 +1,8 @@
+In this paper, a dielectric slab with the periodic implantation of the air gap in the host passive substrate material has been analyzed. The effective permittivity of the photonic crystal with host material PTFE at 600 GHz has been extracted with the help of robust method to retrieve the constitutive effective parameters of the metamaterials. Based on the extracted effective permittivity, a rectangular microstrip patch antenna at terahertz regime of the electromagnetic spectrum on the 2-D photonic crystal has been designed and simulated by using CST Microwave Studio, a commercially available simulator based on the finite integral technique.
+
+Photonic crystal
+gain
+metamaterial
+microstrip patch antenna
+radiation efficiency
+terahertz spectrum

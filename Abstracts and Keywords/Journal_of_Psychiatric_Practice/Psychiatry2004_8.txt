@@ -1,0 +1,19 @@
+This article reviews available research data supporting the use of psychotherapy in the treatment of posttraumatic stress disorder (PTSD). The authors highlight how this evidence might inform clinical choices in treating PTSD, as well as demonstrating how assumptions based on gaps in the available literature may be misleading. The authors first discuss findings concerning a number of interventions that are commonly used in the treatment of trauma victims or patients with PTSD: critical incident stress debriefing, psychoeducation, exposure therapy, eye movement desensitization reprocessing, stress inoculation therapy, trauma management therapy, cognitive therapy, psychodynamic psychotherapy, and hypnotherapy. They also discuss a number of treatment strategies that have recently been studied in PTSD, including imagery rehearsal, memory structure intervention, interpersonal psychotherapy, and dialectical behavior therapy. PTSD is associated with significant symptomatic morbidity, although desired outcomes in clinical practice are typically related more to reduction in social, interpersonal, and occupational impairment. The most methodologically robust studies, which have typically examined cognitive or behavioral treatments, indicate that psychotherapy helps to relieve symptom severity; however, there is no consistent information about whether these interventions are helpful in improving other domains of impairment and associated disability, even though these problems are often the greatest concern to patients. Nor does the available evidence indicate when, and for whom, various psychotherapeutic interventions should be provided, or whether different modalities of treatment can and should be combined, or sequentially offered, as is often done in specialized treatment programs. Clinicians should keep these issues in mind in reviewing the literature on current (and future) clinical research. Unfortunately, the current evidence base on psychotherapy for PTSD gives only limited guidance concerning clinical choices in managing PTSD. The authors therefore provide some clinical guidelines based on the literature for clinicians treating patients with PTSD. 
+
+posttraumatic stress disorder
+psychotherapy
+medication
+meta-analysis
+debriefing
+psychoeducation
+exposure therapy
+eye movement desensitization reprocessing
+stress inoculation therapy
+trauma management therapy
+cognitive therapy
+psychodynamic psychotherapy
+hypnotherapy
+imagery rehearsal
+memory structure intervention
+interpersonal psychotherapy
+dialectic behavior therapy

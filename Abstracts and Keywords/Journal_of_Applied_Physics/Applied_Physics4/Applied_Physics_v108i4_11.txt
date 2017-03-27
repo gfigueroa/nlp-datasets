@@ -1,0 +1,9 @@
+First and second order magnetic transitions in Ce(Fe0.97Ir0.3)2 are studied using the magnetic Compton scattering technique. The measurements on polycrystalline sample were carried out at SPring8, Japan for different temperatures and magnetizing fields using 175 keV elliptically polarized synchrotron radiation. The temperature dependent magnetic effects (ratio between magnetic scattering intensity and charge scattering intensity) show the magnetic transitions from antiferromagnetic’ferromagnetic’paramagnetic phases which are consistent with the magnetization data. The temperature and field dependent spin-polarized momentum densities have been analyzed mainly in terms of contribution from Fe(3d) and Ce(4f) sites to determine their role in the formation of total spin moments and thereby magnetic transitions.
+
+cerium alloys
+Compton effect
+ferromagnetic-antiferromagnetic transitions
+ferromagnetic-paramagnetic transitions
+iridium
+iron alloys
+magnetisation

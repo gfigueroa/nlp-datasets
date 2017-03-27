@@ -1,0 +1,5 @@
+Assessing motion of the knee is essential not only for diagnosis of knee ligament injuries but also for post-operative clinical evaluations. In the assessment, resultant motion has to be evaluated according to six degrees of freedom in knee kinematics. Presently, however, these evaluations rely much on the clinicianpsilas feelings and experiences, and subjective grading is generally used. The aim of this study was to develop a noninvasive measurement system electromagnetic arthrometer for assessing knee motion quantitatively. Firstly, we describe a setup of the system and the analytical methodology in detail. Secondly, reproducibility of the arthrometer was examined in in-vivo studies. As a result, the proposed system has advantages such as fully noninvasive for the observed knee, noninterference for manual laxity testing, and sufficient reproducibility for clinical use.
+
+Biomechanics
+Kinematics
+Ligament

@@ -1,0 +1,10 @@
+The temporal changes of the kinetic energy spectra of photoelectrons emitted from micrometer-thick insulating layers, SiO2, and photoresist layers, were investigated with microfocused soft x rays in soft x-ray spectromicroscopy. The energy spectra of the insulators shifted up to several tens of electronvolts toward lower energies within seconds of the initial exposure. The amount of the energy shift depended on the thickness of the insulators. For the photoresist insulator, which was susceptible to radiation damage, the energy shift then decreased as the exposure time increased. The main cause of this decrease is attributed to the increase of conductivity by the x-ray-induced chemical state change of the insulator along the x-ray path. It was also demonstrated that by choosing appropriate time and energy in detecting photoelectrons the spectromicroscopy could be used as a depth probe of the conducting microstructures covered by insulating layers. © 2003 American Institute of Physics. 
+
+silicon compounds
+insulating thin films
+photoelectron spectra
+spectral line shift
+X-ray effects
+photoresists
+scanning electron microscopy
+electric breakdown

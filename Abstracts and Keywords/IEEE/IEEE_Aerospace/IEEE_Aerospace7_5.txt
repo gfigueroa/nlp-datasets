@@ -1,0 +1,8 @@
+A set of wafer probeable diode noise source transfer standards are characterized using on-wafer noise temperature methods developed recently at the National Institute of Standards and Technology (NIST). This paper reviews the methods for accurate on-wafer measurements of noise temperature and details the preliminary design and construction of the transfer standards. Measurements are presented of their noise temperatures at frequencies from 8 to 12 GHz. Such transfer standards could be used in interlaboratory comparisons or as a verification tool for checking on-wafer noise calibration accuracy.
+
+Noise
+noise characterization
+noise measurement
+noise source
+noise temperature
+on-wafer measurement

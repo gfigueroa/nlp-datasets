@@ -1,0 +1,8 @@
+In this paper a novel combinational feature selection method on high throughput SELDI-TOF mass-spectroscopy data for ovarian cancer classification is developed. The proposed method includes 3 steps: dataset normalization, dimensionality reduction using feature filtering, selecting the most informative features utilizing binary particle swarm optimization. Indeed, the method employs a combination of filter and wrapper feature selection methods to find features with high discriminatory power. The algorithm is successfully validated using a well-known ovarian cancer proteomic dataset. Results of applying the method are superior to state of the art methods in proteomic pattern recognition. It reduces extremely high dimensionality of proteomic data to 3 dimensional and linearly separable data. Therefore, proposed system clearly outperforms previous works in both respects of accuracy and number of required features; witch may lead in high accuracy and high speed diagnosis procedure.
+
+binary particle swarm optimization (BPSO)
+cancer classification
+component
+feature ranking
+feature selection (FS)
+mass spectroscopy (MS)

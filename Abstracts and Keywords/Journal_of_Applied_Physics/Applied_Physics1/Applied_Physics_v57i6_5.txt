@@ -1,0 +1,18 @@
+This study was undertaken to investigate the potential advantages of certain rareearth elements as ntype dopants for lead chalcogenide diode lasers grown by molecular beam epitaxy. It was found that holmium (Ho), dysprosium (Dy), and erbium (Er) are ntype dopants in PbTe, producing maximum electron concentrations of 1×1019 cm3 at 77 K. However, annealing under telluriumrich conditions caused PbTe samples doped with these elements to convert to ptype under some annealing conditions. The diffusion coefficient of Ho in PbTe at 370	°C is less than 1×1016 cm2/s at high concentration (&gt;1×1018 cm3). At low concentration (<1017 cm3), fast diffusing Ho was observed. Significant degradation of contacts to Ho, Dy, and Erdoped PbTe was observed after prolonged aging.
+
+LEAD TELLURIDES
+CRYSTAL DOPING
+ANNEALING
+DOPING PROFILES
+ATOM TRANSPORT
+AGING
+MOLECULAR BEAM EPITAXY
+SEMICONDUCTOR LASERS
+OPTIMIZATION
+PERFORMANCE
+HOLMIUM
+DYSPROSIUM
+ERBIUM
+DIFFUSION
+DEGRADATION
+ELECTRON DENSITY

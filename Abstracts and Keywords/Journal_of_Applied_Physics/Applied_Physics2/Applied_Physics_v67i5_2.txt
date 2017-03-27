@@ -1,0 +1,12 @@
+An InGaAsP superluminescent diode operating at 1.5 ¼m wavelength is successfully developed using a buried bent absorbing waveguide structure and antireflection coating to suppress lasing mode. Optical characteristics such as high output power (5 mW at 200 mA), broadband spectral width (6070 nm), short coherence length (about 30 ¼m), and low spectral modulation depth (less than 10%) are achieved. Injection current dependence of emitting wavelength and spectral width are also investigated.
+
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+GALLIUM PHOSPHIDES
+GALLIUM ARSENIDES
+LIGHT EMITTING DIODES
+SUPERRADIANCE
+FABRICATION
+WAVEGUIDES
+OPTICAL PROPERTIES
+EMISSION SPECTRA

@@ -1,0 +1,11 @@
+A novel luminescence technique named photothermal luminescence has been developed. For the photothermal luminescence spectroscopy, the emission signal is caused by electronic transitions via the absorption of photons, followed by thermal excitation via electronphonon interactions, and is monitored as a function of the excitation photon energy, in which the excitation photon energy is less than that of the emission signal. This new technique has been applied to the study of electronic transitions in GaAs/AlxGa1xAs quantum wells. In addition to the observation of the n=1 electronheavyhole 1s and 2s exciton recombinations, a previously unreported fine structure in the n=1 electronheavyhole 1s exciton spectrum has also been observed. By measuring the temperature dependence of the spectra on different quantum wells, we suggest that the fine structure is due to the formation of the standing waves of acoustic vibrations in GaAs/AlxGa1xAs quantum wells. We emphasize that due to the underlying mechanism of the technique, the photothermal luminescence provides a powerful tool to investigate the processes of electronphonon interactions. 	
+
+QUANTUM WELLS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY COMPOUNDS
+LUMINESCENCE
+THERMOOPTICAL EFFECTS
+ELECTRONPHONON COUPLING
+EXCITONS
+STANDING WAVES

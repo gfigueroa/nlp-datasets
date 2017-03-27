@@ -1,0 +1,13 @@
+The effects of CeO2 incorporation on the performance of a Ta diffusion barrier in the Al/Si system were investigated in the temperature range of 450550
+°C. When Ta film was deposited without CeO2 incorporation, the reaction between Ta and Al occurred at 500
+°C, leading to the formation of Al3Ta. In the case of CeO2-incorporated Ta barriers, however, the reaction between Ta and Al was suppressed up to 550
+°C. The suppression of the reaction of Ta with Al was attributed to the strong chemical bonding of TaCeO or TaO and the amorphous-like microstructure of the CeO2-incorporated Ta barrier, followed by the reduction of the chemical driving force for the initial stage of Al3Ta formation. © 1999 American Institute of Physics.
+
+aluminium
+silicon
+tantalum
+cerium compounds
+diffusion barriers
+surface diffusion
+metallisation
+semiconductor-metal boundaries

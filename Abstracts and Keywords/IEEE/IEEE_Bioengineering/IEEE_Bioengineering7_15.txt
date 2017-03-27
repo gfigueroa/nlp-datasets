@@ -1,0 +1,7 @@
+In this paper, we present a fully automatic system for face recognition based on a silhouette of the face profile. Previous research has demonstrated the high discriminative potential of this biometric. However, for the successful employment of this characteristic one is confronted with many challenges, such as the sensitivity of a profile's geometry to face rotation and the difficulty of accurate profile extraction from images. We propose to explore the feature space of profiles under various rotations with the aid of a 3D face model. In the enrollment mode, 3D data of subjects are acquired and used to create profiles under different rotations. The features extracted from these profiles are used to train a classifier. In the identification mode, the profiles are extracted from side view images using a modified active shape model approach. We validate the accuracy of the extractor and the robustness of classification algorithms using data from a publicly available database.
+
+3D
+Profile-based Face Recognition
+active shape model
+face profile extraction
+facial data

@@ -1,0 +1,5 @@
+Wavelet technology is applied to direct the traffic of Olympic Games to locate and identify various vehicles. License plate recognition algorithm is always on the basis of Fourier transform theory. However, when expressing signal through Fourier, all frequencies it contains can be determined but when they appear cannot be determined. Apply wavelet transform theory to the whole process of license plate recognition, and give a comparison between wavelet and Fourier transform after a deep research on the theory of wavelet for the further applications in solving the anti-jamming problems of license plate recognition.
+
+Fourier transform
+license plate recognition
+wavelet transform

@@ -1,0 +1,12 @@
+The changes in dominant recombination mechanisms of Cu(In,Ga)Se2 thin films grown from (In,Ga)2Se3 precursors are investigated using energy- and time-resolved photoluminescence. The results are analyzed with a rate-equation analysis and correlated with n/p diode measurements on processed devices. The experimental results quantify a change in the dominant radiative process and an improvement in the underlying material quality. These observations support a growth model incorporating changes in the dominant defect states and recombination mechanisms during this final stage of the growth process. Additionally, evidence is presented that supports the passivation of near-surface recombination sites by CdS. © 2003 American Institute of Physics. 
+
+copper compounds
+indium compounds
+gallium compounds
+ternary semiconductors
+semiconductor thin films
+electron-hole recombination
+photoluminescence
+time resolved spectra
+defect states
+passivation

@@ -1,0 +1,6 @@
+A bottom contact pentacene based organic thin film transistor (OTFT) was fabricated in this paper. Pentacene thin film acting both as gas sensing layer and the active layer was formed by vacuum evaporation and was characterized by atomic force microscopy (AFM) and x-ray diffraction (XRD). The results show that the film is highly ordered and has a polycrystalline morphology. The current-voltage characteristics of the OTFT was also investigated. The drain-source current in the saturation region would changed when the OTFT was exposed to alcohol vapor compared to that under an exposure to nitrogen gas. It indicates that the drain-source current can be considered as a key parameter to monitoring chemical species. Such OTFTs devices are promising to act as a novel class of chemical sensors.
+
+alcohol vapor
+gas sensor
+organic thin film transistor
+pentacene

@@ -1,0 +1,10 @@
+Ten kinds of Albased layered metallizations were fabricated and investigated to find out how a refractory metal underlayer affects the crystallographic characteristics of an Al layer and, in consequence, the electromigration resistance of the metallization. Both Al grain size and Al (111) preferred orientation were compared with electromigration lifetime by using three interconnect linewidths. A W group underlayer was found to change the Al grain size while maintaining the preferred orientation. A WN underlayer, in particular, increases the Al grain size more than a SiO2 underlayer does, resulting in long electromigration lifetime. A Ti group underlayer, in contrast, improves Al (111) preferred orientation while maintaining the grain size. The crystallographic characteristics of the layered interconnects were plotted on constantlifetimeline figures indicating the direction of the next layered metallization. © 1995 American Institute of Physics.
+
+ALUMINIUM
+CONNECTORS
+CRYSTAL ORIENTATION
+GRAIN SIZE
+INTEGRATED CIRCUITS
+LAYERS
+METALLIZATION
+MIGRATION

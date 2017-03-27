@@ -1,0 +1,6 @@
+This paper documents the geometrical optimization of a micro-channel heat sink. The objective is to optimize (minimize) the wall peak temperature of the heat sink subject to various constraints such as manufacturing restraints, fixed pressure drop and total fixed volume. A gradient based optimization algorithm is used as it adequately handles the numerical objective function obtained from the computational fluid dynamics simulation. Optimal geometric parameters defining the micro-channel were obtained for a pressure drop ranging from 10 kPa to 60 kPa for a given fixed volume. The effect of pressure drop on the aspect ratio, solid volume fraction, channel hydraulic diameter and the minimized peak temperature are reported. Results also show that as the dimensionless pressure drop increases the maximised dimensionless global thermal conductance also increases. These results are in agreement with previous work found in literature.
+
+Micro-channel
+geometric optimization
+gradient based algorithm
+thermal conductance

@@ -1,0 +1,8 @@
+The analysis of web usage has mostly focused on sites composed of conventional static pages. However, huge amounts of information available in the web come from databases or other data collections and are presented to the users in the form of dynamically generated pages. The query interfaces of such sites allow the specification of many search criteria. Their generated results support navigation to pages of results combining cross-linked data from many sources. For the analysis of visitor navigation behaviour in such web sites, we propose the web usage miner (WUM), which discovers navigation patterns subject to advanced statistical and structural constraints. Since our objective is the discovery of interesting navigation patterns, we do not focus on accesses to individual pages. Instead, we construct conceptual hierarchies that reflect the query capabilities used in the production of those pages. Our experiments with a real web site that integrates data from multiple databases, the German SchulWeb, demonstrate the appropriateness of WUM in discovering navigation patterns and show how those discoveries can help in assessing and improving the quality of the site.
+
+Conceptual hierarchies
+Data mining
+Query capabilities
+Web databases
+Web query interfaces
+Web usage mining

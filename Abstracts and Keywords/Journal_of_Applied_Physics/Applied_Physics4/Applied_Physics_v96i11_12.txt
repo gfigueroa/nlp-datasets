@@ -1,0 +1,15 @@
+Analysis of hole transport in cascaded p-SiSiGe quantum well structures is performed using self-consistent rate equations simulations. The hole subband structure is calculated using the 6×6kÅp model, and then used to find carrier relaxation rates due to the alloy disorder, acoustic, and optical phonon scattering, as well as hole-hole scattering. The simulation accounts for the in-plane k-space anisotropy of both the hole subband structure and the scattering rates. Results are presented for prototype THzSiSiGe quantum cascade structures.
+
+Ge-Si alloys
+silicon
+elemental semiconductors
+semiconductor quantum wells
+hole mobility
+semiconductor process modelling
+SCF calculations
+carrier relaxation time
+band structure
+current density
+interface states
+phonons
+k.p calculations

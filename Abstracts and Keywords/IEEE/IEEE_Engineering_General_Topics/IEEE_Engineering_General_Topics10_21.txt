@@ -1,0 +1,5 @@
+Official European statistics of education indicate that the number of students entering tertiary education have significantly increased between 2000 and 2006, and indicate a trend that will continue. However, this increase is not reflected in every field of study; computer science and engineering are among those that have decreased each year, evidence of a decline of interest in following this career on the part of students. As a response to this disturbing fact, this paper aims to identify some of the possible consequences that this trend could produce in Europe. It will highlight the impacts in economic, social, political and pedagogical fields and explain how these segments will be affected if the decline in computer science persists. Supported by previous investigations and official reports, this analysis provides some examples of the problems already produced by the declining interest in computer science in Europe and proposes solutions such as teaching methods and learning strategies to attract more students to this field and therefore limit the negative effects in a near future.
+
+Computer Science studies
+learning methods
+teaching methods

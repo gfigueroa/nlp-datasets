@@ -1,0 +1,16 @@
+The high-temperature tail of small-signal deep level transient spectroscopy (DLTS) spectra of hydrogenated amorphous silicon (a-Si:H) based metal/insulator/semiconductor structures has been analyzed in terms of oxidation of some negatively charged mobile hydrogen species at the Al/a-Si:H interface, the excitation pulses of an amplitude of 0.1 V being applied repetitively between the top Al and the bottom (gate) electrodes. The concentration of the mobile hydrogen in the a-Si:H layer has been estimated to an amount up to H 2×1020
+cm3, taking the earlier published data on the diffusion coefficient. Having chosen an appropriate polarity of the excitation pulses, one could observe a DLTS peak moving with applied bias on the temperature axis. The latter is pointing to an energy distribution of states at the Al/a-Si:H interface. The interface state density increases with increasing energy depth of the states. At the ultimate experimentally observable energy of E H 0.95
+eV below the electron mobility edge Ec a corresponding areal density Na(E) of these states amounted up to 1.5×1011
+cm2
+eV1. © 1998 American Institute of Physics.
+
+silicon
+hydrogen
+elemental semiconductors
+amorphous semiconductors
+aluminium
+deep level transient spectroscopy
+MIS structures
+interface states
+oxidation
+diffusion

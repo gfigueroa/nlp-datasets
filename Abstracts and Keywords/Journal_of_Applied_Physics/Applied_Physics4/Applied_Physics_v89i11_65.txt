@@ -1,0 +1,9 @@
+In permalloy (Py) based heterostructures Ta has deleterious effects on the magnetic properties resulting in magnetic dead layers. Using the KorringaKohnRostoker coherent potential approximation method, it is shown that the average moment of Py (Ni0.8Fe0.2) is rapidly quenched by Ta substitutional additions. Locally self-consistent multiple-scattering method calculations for large supercell models of Py0.9Ta0.1 show that Ta additions also result in substantial fluctuations in the size of the local moments. The configuration dependent reductions in the local moments are larger for Ni than for Fe sites and are the largest for Ni sites closest to Ta. © 2001 American Institute of Physics.
+
+Permalloy
+tantalum alloys
+CPA calculations
+magnetic structure
+local moments
+KKR calculations
+SCF calculations

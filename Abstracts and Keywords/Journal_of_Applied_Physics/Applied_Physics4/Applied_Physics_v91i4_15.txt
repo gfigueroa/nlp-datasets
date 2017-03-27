@@ -1,0 +1,10 @@
+Strongly oriented thin film capacitors of Pb(Mg1/3Nb2/3)O3 were made by pulsed laser deposition and found to show a decreased temperature of the dielectric maximum (Tm) relative to bulk. The in-plane strain was measured and found to be compressive, a feature that is normally associated with increased Curie temperatures in conventional ferroelectrics. Other features, such as a more pronounced frequency dependence of Tm in thin films than in bulk, were also noted. An attempt to rationalize these differences by consideration of thermal expansion mismatch between substrate and film is presented. The shifts in Tm are modeled using a semiempirical LandauGinzburgDevonshire model, in which the first coefficient of the thermodynamic potential has been modified to have a quadratic, rather than linear, temperature dependence. The predictions of the model are compared with experimental results from this work and other reports on relaxor thin films extracted from the literature. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric thin films
+thermal expansion
+ferroelectric capacitors
+thin film capacitors
+pulsed laser deposition
+internal stresses
+permittivity

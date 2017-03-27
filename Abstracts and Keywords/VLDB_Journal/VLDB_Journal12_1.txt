@@ -1,0 +1,4 @@
+In traditional software systems, significant attention is devoted to keeping modules well separated and coherent with respect to functionality, thus ensuring that changes in the system are localized to a handful of modules. Reuse is seen as the key method in reaching that goal. Ontology-based systems on the Semantic Web are just a special class of software systems, so the same principles apply. In this article, we present an integrated framework for managing multiple and distributed ontologies on the Semant ic Web. It is based on the representation model for ontologies, trading off between expressivity and tractability. In our framework, we provide features for reusing existing ontologies and for evolving them while retaining the consistency. The approach is implemented within KAON, the Karlsruhe Ontology and Semantic Web tool suite.
+
+Multiple and distributed ontologies
+Ontology evolution

@@ -1,0 +1,13 @@
+Experimental problems are discussed associated with optical transmission and Raman spectroscopy measurements during pulsed laser annealing of silicon. In view of these problems, the use of these experiments in support of a plasma annealing model is questioned.
+
+SILICON
+ANNEALING
+LASERRADIATION HEATING
+PULSES
+PLASMA
+MATHEMATICAL MODELS
+ION IMPLANTATION
+DYNAMICS
+TRANSMISSION
+SPECTROSCOPY
+RAMAN EFFECT

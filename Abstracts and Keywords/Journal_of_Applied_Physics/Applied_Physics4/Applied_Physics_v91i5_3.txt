@@ -1,0 +1,9 @@
+We present correlated measurements of radioluminescence, photoluminescence, and thermoluminescence, as well as the measurements of decay kinetics both under ultraviolet and 22Na(511 keV) photon excitations for Mo-doped and doubly (Mo,Y)-doped PbWO4 single crystals. A wide concentration range of Mo doping (20050	000 ppm) is covered. Y codoping results in significant suppression of trapping states induced by the Mo doping. Consequently, an improvement of temporal characteristics, such as acceleration of the scintillation decay process, of doubly doped material with respect to Y-free crystals, is achieved. For the optimum Mo concentration (275010	000 ppm), the temporal characteristics are fully comparable to an undoped PbWO4, while the light yield is increased by a factor of 2.2. © 2002 American Institute of Physics. 
+
+lead compounds
+molybdenum
+yttrium
+scintillation counters
+scintillation
+thermoluminescence
+photoluminescence

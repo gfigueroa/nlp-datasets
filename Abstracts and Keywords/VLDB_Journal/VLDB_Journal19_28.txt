@@ -1,0 +1,6 @@
+Testing a specific feature of a DBMS requires controlling the inputs and outputs of the operators in the query execution plan. However, that is practically difficult to achieve because the inputs/outputs of a query depend on the content of the test database. In this paper, we propose a framework to test DBMS features. The framework includes a database generator called QAGen so that the generated test databases are able to meet the test requirements defined on the test queries. The framework also includes a set of tools to automate test case constructions and test executions. A wide range of DBMS feature testing tasks can be facilitated by the proposed framework.
+
+Database testing
+Data generation
+Symbolic query processing
+Symbolic execution

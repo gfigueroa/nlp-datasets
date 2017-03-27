@@ -1,0 +1,9 @@
+The electromechanical performance characteristics of electrostrictive 0.9	Pb(Mg1/3Nb2/3)O30.1	PbTiO3 and piezoelectric 0.7	Pb(Mg1/3Nb2/3)O30.3	PbTiO3 ceramics have been investigated under uniaxial stress (Ã). The results demonstrate that the large-signal electromechanical properties of electrostrictive ceramics are decreased with increasing Ã, whereas those of the piezoelectric are increased but accompanied by significantly increased hysteretic losses. © 2004 American Institute of Physics. 
+
+lead compounds
+piezoceramics
+electromechanical effects
+electrostriction
+dielectric hysteresis
+dielectric losses
+stress effects

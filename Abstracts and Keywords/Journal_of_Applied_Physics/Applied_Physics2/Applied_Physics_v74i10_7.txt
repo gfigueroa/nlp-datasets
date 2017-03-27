@@ -1,0 +1,9 @@
+Microwave interferometry appears to be a promising method for the study of wave and mass velocity in shocked dielectric materials. This paper discusses the mathematics concerning the frequencies and amplitudes in the microwave reflections from the shock wave and from an impacting piston which drives the shock into a nonreacting porous solid. Methods for the determination of the state variables in the compressed region between the shock wave and the piston are given. In this paper, these methods have been confirmed by experimental measurements in nonenergetic materials in which there is no ionization from chemical reaction. The microwave reflection from the shock wave traveling through an inert media is shown to result from a dielectric discontinuity at the wave front. Studies on energetic materials (explosives and propellants) are considered in a companion paper where ionization associated with the chemical reactions is required to explain the increased reflection from the shock front.
+
+POROUS MATERIALS
+DIELECTRIC MATERIALS
+SHOCK WAVES
+INTERFEROMETRY
+MICROWAVE RADIATION
+WAVE FRONT
+DIELECTRIC FUNCTION

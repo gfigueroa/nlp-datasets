@@ -1,0 +1,10 @@
+The paper focuses on the multiple roles and advantages of the use of remotely sensed, especially COSMO/SkyMed, imagery in the context of flooding-event prevention and management, describing a support system for civil protection from floods and some of the image processing and analysis techniques involved in.
+
+SAR
+change detection
+data fusion
+flood mapping
+fuzzy approach
+image classification
+probability density function estimation
+scattering mechanisms

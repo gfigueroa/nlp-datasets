@@ -1,0 +1,7 @@
+We have measured the magnetic domain patterns in Co/Pd multilayers of varying thickness using magnetic force microscopy in the presence of an external magnetic field applied perpendicular to the multilayers. We find that the domain patterns evolution is in qualitative agreement with existing theories for single layer thin films. Our results are in reasonable agreement with a theoretical model of domains appropriate to multilayer films. © 2001 American Institute of Physics. 
+
+cobalt
+palladium
+magnetic multilayers
+magnetic force microscopy
+magnetic domains

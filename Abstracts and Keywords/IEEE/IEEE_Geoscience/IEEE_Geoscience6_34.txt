@@ -1,0 +1,6 @@
+The paper begins with introduction on the xen-based secure computer, the common data sharing methods and virtual disk access control. It puts forward a data sharing method based on virtual disk between guest OSs of Full-Virtualization in order to deal with the shortages of data sharing between virtual guest OSs based on Xen secure computer. It induces further analysis on the Xen driver split mechanism inspiring possibility to build a communication channel from guest OS to host OS. Meanwhile, along with the Xen's virtual disk control principles, a data access control measure is also brought forward. Finally, it proves through a series of precise experiments, the method to be a cross-level data share, which makes data access more controllable and much safer with a promising efficiency beyond other sharing methods.
+
+Access Controlling
+Data Sharing
+Secure Computer
+Xen

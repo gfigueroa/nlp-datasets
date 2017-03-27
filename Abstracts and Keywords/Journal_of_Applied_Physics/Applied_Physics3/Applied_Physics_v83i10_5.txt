@@ -1,0 +1,10 @@
+Hard amorphous carbon (ta-C) films were implanted with 20 keV N+ ions with different fluences up to 6×1017/cm2 at different substrate temperatures. The nitrogen content of the films was monitored in situ using elastic recoil detection analysis. A characteristic temperature dependence is observed for the maximum achievable [N]/[C] composition ratio, with a drop of the saturation level from the room-temperature value of 0.35 to 0.170.12 above 150	°C. It is shown that the higher nitrogen retention at room temperature is correlated with the formation of N2-containing gas bubbles which are not present in samples implanted with high fluences at elevated temperatures. From residual-gas analyses it is found that nitrogen is reemitted from the films mainly as N2 when saturation occurs. Double-implantation experiments with spatially separated 14N and 15N implanted regions, respectively, indicate that the NN molecule recombination observed at large implantation fluences occurs inside the films and not at the surface. Significant changes of the microstructure of the films are found with increasing implantation fluences. Inside the implanted near-surface region of several 10 nm thickness the density of the material decreases from 3.0 to about 1.7g/cm3. Graphitic clusters are identified in samples implanted up to saturation at 400	°C, using cross-section transmission electron microscopy. A basic approach to modeling the nitrogen saturation and release at large fluences is presented. Both nitrogen release and structural modification processes are interpreted as a tendency towards thermodynamic equilibrium which may constitute a strong driving force against the synthesis of nitrogen-rich hard C:N materials, compared to other nitride phases. © 1998 American Institute of Physics. 
+
+amorphous state
+ion implantation
+nitrogen
+noncrystalline structure
+carbon
+bubbles
+transmission electron microscopy
+thin films

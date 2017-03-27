@@ -1,0 +1,7 @@
+A new and very simple method is presented for calculating exciton binding energies in quantum confined semiconductor structures. The aim of the model calculation, which is developed in the framework of the fractionaldimensional space, is not to compete with the very advanced ones already proposed but, on the contrary, to avoid tedious and expensive calculations to obtain, with a good accuracy, the exciton binding energy in most of the confined structures. Furthermore, in the cases where the 1s and 2s transition energies can be experimentally measured, the method permits one to obtain the exciton binding energy without any hypothesis nor calculation.
+
+QUANTUM WELL STRUCTURES
+EXCITONS
+ANALYTICAL SOLUTION
+BINDING ENERGY
+EFFECTIVE MASS

@@ -1,0 +1,8 @@
+The absorption coefficients of GaAs1xPx with compositions 0.0, 0.23, and 0.38 have been measured by the differential photocurrent method. The results were analyzed with the theory of optical absorption due to the exciton formation. Theoretical absorption curves for GaAs1xPx alloy (xd0.38) were provided in the photon energy range higher than the band gap.
+
+opacity
+absorptivity
+photocurrents
+absorption edge
+energy gap
+excitons

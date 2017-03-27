@@ -1,0 +1,17 @@
+Using luminescence and luminescence excitation spectroscopy, we have studied a series of very highquality molecular beam epitaxy grown multiple quantum well and superlattice structures. Reduction of the linewidth and appearance of a splitting of the exciton peaks is observed when the growth process is optimized. This behavior is explained by the enlargement of the growth islands at the GaAs/GaAlAs interfaces. The splitting, observed both in luminescence and in luminescence excitation, is explained by the occurrence of very large, only one monolayer high, interface growth defects. Introduction of larger wells in our structures (+3a/2 or +5a/2) brings a clear confirmation of this attribution. The observed splittings are in good agreement with calculated values.
+
+ENERGYLEVEL SPLITTING
+INTERFACE STATES
+PHOTOLUMINESCENCE
+INTERFACE PHENOMENA
+EXCITONS
+SUPERLATTICES
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+ISLAND STRUCTURE
+CRYSTAL DEFECTS
+IMPURITY STATES
+OPTIMIZATION
+LINE WIDTHS
+QUANTUM WELL STRUCTURES
+MOLECULAR BEAM EPITAXY

@@ -1,0 +1,9 @@
+We propose an interpolation formula which describes the dependence of the Hall factor for impurity scattering in semiconductors on the carrier concentration and temperature with sufficient accuracy for practical calculations. This formula applies to semiconductors with an arbitrary degree of degeneracy which makes it especially useful for the interpretation of the measured temperature dependencies of a Hall mobility. © 1995 American Institute of Physics. 	
+
+SEMICONDUCTOR MATERIALS
+ELECTRONIMPURITY INTERACTIONS
+CARRIER MOBILITY
+HALL EFFECT
+IONIZATION
+SCATTERING
+TEMPERATURE DEPENDENCE

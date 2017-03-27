@@ -1,0 +1,7 @@
+Dissipation properties of ferromagnetic thin films are traditionally characterized by phenomenological damping models related to ferromagnetic resonance (FMR) linewidths. They may also be analyzed in terms of thermal magnetization fluctuations, the connection being made through the fluctuationdissipation theorem. This article describes how fluctuationdissipation relations provide a means for discriminating between alternative phenomenological magnetic damping models in ways that are not obvious using traditional uniform-magnetization descriptions appropriate to FMR experiments. In particular, it is shown that recently proposed alternatives to the well-known Gilbert damping model lead to physically untenable predictions/contradictions when analyzed in this light, unlike the traditional Gilbert model itself. © 2002 American Institute of Physics. 
+
+magnetic thin films
+ferromagnetic materials
+magnetisation
+damping
+ferromagnetic resonance

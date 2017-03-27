@@ -1,0 +1,6 @@
+To meet fast changing demands on modern software architectures the ambition to shorten and improve software development processes has increased. The approach of model-driven software development focuses models as specification of software and on transformations of those models to finally get source code. The advantage of the model-driven approach still has to be proven because a continuous tool- supported transformation process from model to source code with regard to all aspects of a software system is not yet possible. This paper concentrates on the aspect of user interaction by presenting an easy to apply approach allowing for a tool- supported, model-driven software development of graphical user interfaces for any kind of platform. A case study demonstrates the usage and benefit of our model-driven approach applied to a common software development process.
+
+Graphical User Interfaces (GUI)
+Model-Driven Architecture (MDA)
+Model-Driven Software Development (MDSD)
+Software Engineering

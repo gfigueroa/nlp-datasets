@@ -1,0 +1,10 @@
+In this study, the optical properties of niobium-doped rhenium disulphide (ReS2:Nb) single crystals have been reported. The doping effects of the material were characterized by polarization-dependent transmittance, photoluminescence (PL), and piezoreflectance (PzR) measurements in the temperature range of 10300K. The indirect energy gap of ReS2:Nb shows a slight redshift with respect to the undoped sample. The low temperature PL spectra reveal two near direct band-edge excitonic peaks as well as two additional prominent features at higher energy side. The results agree well with that of the PzR investigation of the sample. In comparison with the undoped ReS2, the excitonic transition energies remain practically unchanged, while the broadening parameter of the excitonic transition features slightly increases due to impurity scattering. In addition, the parameters that describe the temperature variations of the band-edge excitonic transitions were evaluated and discussed.
+
+doping profiles
+impurity scattering
+niobium
+optical materials
+photoluminescence
+piezoreflectance
+red shift
+rhenium compounds

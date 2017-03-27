@@ -1,0 +1,14 @@
+Surface-modified planar-anisotropy Fe50Ni50 particle-resin composites have been studied in the microwave frequency range. After surface modification, the eddy current effect is suppressed effectively while the permeability is almost unchanged. High permeability and appropriate permittivity are obtained at the meantime. Simulated microwave reflection result shows that the matching thickness, corresponding frequency, ¼ and µ is coincident with the quarter wavelength matching condition. The surface-modified Fe50Ni50/resin composites can be attractive candidates for thinner microwave absorbers in L-band (12 GHz).
+
+composite materials
+eddy currents
+electromagnetic wave absorption
+iron alloys
+magnetic anisotropy
+magnetic particles
+magnetic permeability
+microwave materials
+microwave reflectometry
+nickel alloys
+permittivity
+resins

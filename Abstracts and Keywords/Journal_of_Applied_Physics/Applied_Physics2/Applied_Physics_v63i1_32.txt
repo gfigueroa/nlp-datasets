@@ -1,0 +1,9 @@
+The emission of visible radiation from reverse biased amorphous silicon carbide pin junctions at room temperature was observed. The heterostructures were made by successively depositing borondoped amorphous silicon carbideintrinsic amorphous silicon carbidephosphorous doped amorphous silicon on to indiumtinoxide coated glass. The optical gap of the p, i, and n layers were 2.0, 2.25, and 1.7 eV, respectively. The reverse current producing the radiative emission is mainly due to a fieldenhanced thermal injection mechanism. At lowcurrent densities the total light emitted is proportional to the fifth power of the injected current. At higher injections, however, it becomes quadratic. These power law dependencies are interpreted in terms of electron recombination with trapped holes and bandtoband bimolecular recombination, respectively.
+
+ELECTROLUMINESCENCE
+SILICON CARBIDES
+PIN JUNCTIONS
+SILICON
+ITO LAYERS
+HETEROJUNCTIONS
+RECOMBINATION

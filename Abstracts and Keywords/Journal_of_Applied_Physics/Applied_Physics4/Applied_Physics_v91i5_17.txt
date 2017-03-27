@@ -1,0 +1,11 @@
+The role of impurities in melting of the charge-ordered (CO) state in half-doped manganese perovskites is discussed based on the systematic study of Cr and Al doping on the CO state as well as on the ferromagneticmetallic (FM) state. The CO state in Nd0.5Sr0.5MnO3 is destroyed and the FM state is restored by 2% high-spin (S=3/2) Cr3+, whereas the CO state survives doping of spinless Al3+. On the other hand, the doping effects on the FM state in La1xSrxMnO3 are almost identical between Cr and Al, except that Cr degrades Curie temperature less. The slight resistance of the CO state against Cr doping can be explained by the magnetic interaction between the Cr and the Mn	t2g spins. © 2002 American Institute of Physics. 
+
+charge-ordered states
+magnetic impurities
+ferromagnetic materials
+Curie temperature
+chromium
+aluminium
+strontium compounds
+lanthanum compounds
+neodymium compounds

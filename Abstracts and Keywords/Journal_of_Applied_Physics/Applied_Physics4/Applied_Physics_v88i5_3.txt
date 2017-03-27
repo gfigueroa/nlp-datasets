@@ -1,0 +1,18 @@
+Alternating current losses in stacks of powder-in-tube-processed Bi2Sr2Ca2Cu3O10/Ag tapes were measured in perpendicular magnetic fields and compared with calculated hysteresis losses based on the critical-state model. Four main factors had to be taken into account for the calculations of the losses: (1) the inclusion of the area of the Ag sheath in determining the critical-current densities of the stacks, (2) the zero-applied-field critical currents Ic¥(0) with truly perpendicular fields only, not the standard self-field critical current IcS(0), and (3) the field-dependent critical current Ic(H), e.g., the Kims model, and (4) the subtraction of the frequency-dependent losses at very high fields. With these considerations, the agreement between the calculated and the measured values of the losses is excellent for fields beyond the full-penetration fields. However, these factors did not totally account for the low-field losses. © 2000 American Institute of Physics. 
+
+bismuth compounds
+strontium compounds
+calcium compounds
+high-temperature superconductors
+superconducting tapes
+critical current density (superconductivity)
+BISMUTH OXIDES
+STRONTIUM OXIDES
+CALCIUM OXIDES
+COPPER OXIDES
+SILVER
+SUPERCONDUCTING WIRES
+AC LOSSES
+MAGNETIC FIELDS
+HIGH-TC SUPERCONDUCTORS
+CRITICAL CURRENT

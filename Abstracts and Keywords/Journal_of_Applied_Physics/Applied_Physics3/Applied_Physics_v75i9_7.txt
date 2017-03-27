@@ -1,0 +1,13 @@
+The formation, structure, and the crystallization of Al85YxNi15x are studied using xray diffraction and differential scanning calorimetry. The results show two distinct glasses depending on composition. Yrich glasses (xe8) are homogeneous with a welldefined glass transition. The xray diffraction patterns have a single main peak. These glasses crystallize through a nucleation and growth process. Ypoor glasses (x&lt;8) do not show a glass transition and have a shoulder on the highangle side of the main peak in their xray diffraction patterns. We show that the shoulder peak is due to quenchedin Al nuclei. These glasses are shown to crystallize through the growth of these nuclei. Yrich glasses (xe8) are more stable as demonstrated by the presence of the glass transition and their higher crystallization temperature, enthalpy, and activation energy. The occurrence of a prepeak for all compositions is attributed to YY pairs.
+
+METALLIC GLASSES
+CRYSTALLIZATION
+FABRICATION
+STRUCTURAL CHEMICAL ANALYSIS
+ALUMINIUM ALLOYS
+YTTRIUM ALLOYS
+NICKEL ALLOYS
+XRD
+DSC
+NUCLEATION
+ACTIVATION ENERGY

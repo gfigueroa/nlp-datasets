@@ -1,0 +1,14 @@
+The structures of microcrystalline or amorphous gallium arsenide (GaAs) introduced by 120keV Si+ or P+ion implantation with a dose of 1×1016 atoms/cm2 and the subsequent regrowth properties annealed by rapid thermal annealing in the range from 300 to 900	°C have been investigated by Raman scattering (RS) and by the van der Pauw measurement (sheet carrier concentration and sheet resistivity) [Phillips Res. Rep. 13, (1958)]. Raman spectra of the LOphonon mode observed for 514.5 and 457.9nm excitation of an Ar+ laser have been analyzed on the basis of a spatial correlation model [H. Richter et al., Solid State Commun. 39, 625 (1981); K. K. Tiong et al., Appl. Phys. Lett. 44, 122 (1984)]. The results show that the regrowth stages and the regrowth rates of the disordered GaAs in the annealing process depend on the excitation wavelength and annealing temperature, and the damaged layer regrows epitaxially toward the surface. Sheet carrier concentration was observed to increase steeply, and sheet resistivity decreased rapidly when the annealing temperature was raised from 600 to 700	°C. These results are consistent with the RS result of the 514.5nm excitation in the same temperature range. The above results indicate that the implanted silicon atoms replace the GaAs lattice sites and the recrystallization of the microcrystalline GaAs substrate occurs in this temperature range. On the other hand, the sheet resistivities were observed to increase from about 5×104 to 5×106 (©/), when the annealing temperature was raised from room temperature to 500	°C, contrary to the 600700	°C case. From these facts, it is concluded that the regrowth process originates principally from the recrystallization of the ionimplantationinduced damaged GaAs substrate.
+
+GALLIUM ARSENIDES
+SILICON IONS
+PHOSPHORUS IONS
+ION IMPLANTATION
+KEV RANGE 1001000
+ANNEALING
+HIGH TEMPERATURE
+VERY HIGH TEMPERATURE
+RAMAN SPECTRA
+ELECTRICAL PROPERTIES
+EPITAXY
+RECRYSTALLIZATION

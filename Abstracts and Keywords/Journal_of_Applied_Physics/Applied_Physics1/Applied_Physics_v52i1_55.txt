@@ -1,0 +1,15 @@
+General theoretical expressions appropriate to calculating the internal and external quantum efficiency of photoluminescence (PL) are derived for a semiconductor of thickness d and bounded by two surfaces with different surfacerecombination velocities. The external efficiency expected from thin and thick layers is compared and contrasted. Under certain conditions and adopting reasonable assumptions, we indicate how a single measurement of the steadystate PL can yield information about the minoritycarrier diffusion length.
+
+SEMICONDUCTOR MATERIALS
+PHOTOLUMINESCENCE
+EFFICIENCY
+EPITAXY
+MATHEMATICAL MODELS
+THICKNESS
+SURFACE
+RECOMBINATION
+VELOCITY
+COMPARATIVE EVALUATIONS
+CHARGE CARRIERS
+THEORETICAL DATA
+DIFFUSION LENGTH

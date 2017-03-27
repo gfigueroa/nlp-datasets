@@ -1,0 +1,15 @@
+The flat band voltage shift upon hydrogen exposure of palladium gate metaloxidesemiconductor devices is only partly due to a change in the metal work function. Another effect, here called the hydrogen induced drift (HID), also occurs. The wide distribution of time constants of this effect is a limitation in some applications of the sensors. The effect is characterized and its origin is investigated. It is found that the HID is responsible for a much larger part of the voltage shift than was earlier believed. It is also shown that the effect does not occur at a palladiumalumina interface. The effect of hydrogen on sodium ion drift is examined and it is shown that hydrogen does not give rise to sodium ion drift, but rather increases the image potential barrier for mobile sodium ions at the metalsilicon dioxide interface. A qualitative model for the hydrogen induced drift on the atomic scale is presented and discussed.
+
+MOS JUNCTIONS
+GATES
+DRIFT VELOCITY
+HYDROGEN
+ION DRIFT
+ELECTRIC POTENTIAL
+POTENTIAL BARRIER
+SODIUM IONS
+WORK FUNCTIONS
+SODIUM
+SILICA
+ELECTRIC POTENTIAL
+FIELD EFFECT TRANSISTORS

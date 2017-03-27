@@ -1,0 +1,13 @@
+The structural, magnetic, and electrotransport properties of a metallic granular FexCu1x alloys (x=00.35) were studied. These alloys were fabricated by using a coevaporation technique with an extremely high deposition rate. Observations by transmission electron microscope confirmed that these alloys consist of small Fe particles embedded in a Cu matrix. The ferromagneticsuperparamagnetic transition occurs at the blocking temperature. The blocking temperature TB, dependent on the atomic fraction x of Fe, is in a range of 80300 K as x=0.100.22. Above TB, the Fe particles exhibit superparamagnetic relaxation. Their magnetic behavior can be understood based on superparamagnetic theory. At low temperature, the temperature dependence of magnetization has shown that the magnetic behavior of Fe particles in granular FeCu alloys evolves from three to twodimensional ferromagnetism as the Fe concentration is reduced. Moreover, large magnetoresistance in the granular FeCu alloys was observed at 77 K. Its magnitude is affected by the size and density of the magnetic entities, which can be controlled by varying the Fe concentration in the Cu matrix.
+
+IRON ALLOYS
+COPPER ALLOYS
+BINARY ALLOYS
+MAGNETIC PROPERTIES
+MAGNETORESISTANCE
+GRANULAR MATERIALS
+FILMS
+VACUUM EVAPORATION
+XRD
+HYSTERESIS
+FERROMAGNETIC RESONANCE

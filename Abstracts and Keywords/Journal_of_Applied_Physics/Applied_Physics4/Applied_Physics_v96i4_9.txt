@@ -1,0 +1,9 @@
+The Fröhlich interaction between electrons and surface-optical phonons is studied by using the dielectric continuum model. First, the eigenfrequencies of the surface phonons are calculated. A result for the normalized displacement of the phonon is obtained and a more accurate electron-surface phonon Fröhlich interaction Hamiltonian is calculated. The surface-optical-phonon-assisted scattering rate of an electron in free-standing GaN quantum dots is calculated with natural linewidth broadening. Finally, illustrative examples of surface-optical-phonon-assisted scattering rates are calculated to clarify the potential importance of SO-phonon-assisted transitions in potential applications of quantum dots.
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor quantum dots
+surface phonons
+electron-phonon interactions
+interface phonons

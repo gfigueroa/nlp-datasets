@@ -1,0 +1,10 @@
+It is generally recognized that thermal stresses in thin films are primarily responsible for morphological changes in thin films, including hillocks, whiskers, and void or pit formations, which present serious problems of reliability in microelectronics. In the present paper, the analytical theory of thermal stresses is constructed under some natural simplifying assumptions. The latter include that of the thermoelastic or thermoelasticplastic behavior of the materials of a film and substrate after depositing the film and cooling the composite system to an operational temperature. The closed system of governing partial differential equations for thermal stresses in a thin film is derived for any inplane shape of the film. Some particular problems are solved in an explicit form and the implication of the solutions for the prediction of hillocks is discussed. Numerical and physical experiments are planned to verify the theory. 	
+
+THIN FILMS
+THERMAL STRESSES
+SUBSTRATES
+CERAMICS
+VOIDS
+THERMOELASTICITY
+COOLING
+WHISKERS

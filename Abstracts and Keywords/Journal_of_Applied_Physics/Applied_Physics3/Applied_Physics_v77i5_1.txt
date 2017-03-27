@@ -1,0 +1,10 @@
+The diffusion length of minority carriers in nCuInS2 crystals grown under different values of nonmolecularity ”m is examined by electronbeaminduced current (EBIC) experiments. Current profiles are recorded in edgescan and planar configurations. The values of the diffusion length are obtained by comparison with modeled profiles showing reasonable agreement between both experimental configurations. The defectelectron diffusion length varies from 0.4±0.15 to 1.25±0.25 ¼m for samples prepared with ”m=0.09 to ”m=0.2, respectively. From EBIC profiles in the edgescan configuration the surface recombination velocity can be estimated to about S=104 cm	s1 for unpassivated CuInS2 samples. © 1995 American Institute of Physics.
+
+COPPER SULFIDES
+INDIUM SULFIDES
+TERNARY COMPOUNDS
+NTYPE CONDUCTORS
+MINORITY CARRIERS
+DIFFUSION LENGTH
+EBIC
+RECOMBINATION

@@ -1,0 +1,12 @@
+We have applied electricfieldinduced optical secondharmonic generation to measure the distribution of chromophore sites in a dyedoped polymer [disperse red 1 in poly (methyl methacrylate)] in terms of the standard ± and ² parameter, that is, the decay rate and the breadth parameter. These parameters have been measured from 100 to 430 K and are modeled with a smooth function over that temperature range. Over a narrow region of temperature where secondharmonic data from other groups exist, we find that our temperature dependence of ² is in excellent agreement with these other experiments. In principle, our method can be applied to any glassy polymer to characterize the temperature dependence of the distribution of nonlinearoptical dye sites. © 1995 American Institute of Physics. 	
+
+PMMA
+DOPED MATERIALS
+AZO DYES
+SECOND HARMONIC GENERATION
+TEMPERATURE DEPENDENCE
+ELECTRIC FIELD EFFECTS
+CHROMOPHORES
+DECAY
+TEMPERATURE RANGE 65273 K
+TEMPERATURE RANGE 273400 K

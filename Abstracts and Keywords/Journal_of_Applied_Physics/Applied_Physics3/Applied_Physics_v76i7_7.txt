@@ -1,0 +1,12 @@
+A scanning tunneling microscope monitored the time dependence of both the expansion and surface morphology changes of 12 mm palladium spheres exposed to 0.5 atm hydrogen gas. The surfaces were initially smooth except for 210 nm high steps separating flat terraces 50150 nm wide. Spheres exposed to hydrogen expanded, during which time the surface buckled forming 3050nmdeep and 1000nmwide features and the step structures vanished. There were two distinct regimes in the expansion: 25%30% of the total expansion occurred in the first regime, which only lasted about 5% of the time required to reach 90% of the total expansion; and in the second regime the sphere asymptotically approached the final size. Some samples took <500 h to expand, but other samples with only slightly different surface morphology expanded in as little as 8 h. We developed a quantitative model describing the time dependence of the observed expansion in the asymptotic regime by assuming the eventual formation of ²Pd hydride and the elastic properties of the material. The model also suggested the cause of the surface buckling.
+
+HYDROGEN
+ADSORPTION
+PALLADIUM
+STM
+SPHERES
+EXPANSION
+TIME DEPENDENCE
+MORPHOLOGY
+SURFACES
+STRESSES

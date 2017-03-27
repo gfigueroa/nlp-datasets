@@ -1,0 +1,12 @@
+A nondestructive technique, based on energydispersive xray spectroscopy, was applied to characterize mass divergences in multilayer interconnects. The technique was used to reveal less than 0.5¼mdiam subsurface voids, precipitates, local changes in thickness of subsurface conducting layer, electromigrationinduced mass divergences at conjugate mass source and sink in both the AlCu conducting layer and intermetallic compound overlayer, and a thin, hairline crack in the surface layer that is hardly visible in scanning electron microscopy.
+
+INTEGRATED CIRCUITS
+MASS TRANSFER
+MIGRATION
+XRAY SPECTROSCOPY
+CONNECTORS
+MULTILAYERS
+ALUMINIUM ALLOYS
+COPPER ALLOYS
+BINARY ALLOYS
+SCANNING ELECTRON MICROSCOPY

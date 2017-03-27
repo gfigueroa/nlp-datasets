@@ -1,0 +1,8 @@
+This paper presents a double-agent convoying scenario simulation that is changeable by an emergent trigger (ET). The simulation uses easy collaborative control (ECC) that consists of position control with reduced gains of the simple robust normalized IP control (SIRONOIPC), order cooperation control, and a case based scene technology (CBST).
+
+collaboration
+convoy
+emergent information technology
+multi-agent system
+scenario
+scene

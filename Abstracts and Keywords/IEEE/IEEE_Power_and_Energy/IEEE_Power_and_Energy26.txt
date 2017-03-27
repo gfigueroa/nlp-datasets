@@ -1,0 +1,6 @@
+In this paper, a novel photovoltaic (PV) maximum power point tracking (MPPT) based on biological swarm chasing behavior is proposed to increase the MPPT performance for a module-integrated PV power system. Each PV module is viewed as a particle, and as a result, the maximum power point is viewed as the moving target. Thus, every PV module can chase the maximum power point (MPP) automatically. A 525 W prototype constructed by three parallel-connected 175 W PV modules is implemented to assess the MPPT performance. Comparing with a typical perturb and observe (P &amp; O) MPPT method, the MPPT efficiency ¿<sub>MPPT</sub> is improved about 12.19% in transient state by the proposed MPPT as theoretical prediction.
+
+Maximum power point tracking (MPPT)
+particle swarm optimization
+photovoltaic (PV)
+swarm intelligence

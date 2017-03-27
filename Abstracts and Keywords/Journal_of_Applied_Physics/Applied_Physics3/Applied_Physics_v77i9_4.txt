@@ -1,0 +1,13 @@
+Existing theories of electronic properties and optical transitions in quantumwell structures are extended to ptype superlattices including the two heavy and lighthole valence bands. These theories are then used to elucidate the normal incidence opticalabsorption mechanisms including the Hartree and exchangecorrelation manybody interactions on the basis of the oneparticle local density approximation. The effects of doping density and doping configuration on the electronic structure and the intersubband optical properties of heavily doped ptype GaAs/AlGaAs superlattices are investigated for use in infrared photodetectors. It is shown that these manybody interactions cause significant changes to the subband energy structure and the opticalabsorption coefficient, and that the doping level and doping configuration have an important effect on the properties of these superlattices. Peak absorption coefficients of 600010	000 cm1 for normal light incidence at photon wavelengths of 810 ¼m are predicted for ptype GaAs/AlGaAs superlattices with well doping of 2×1019 cm3. Because of the heavier effective mass of holes in the ptype structures, as compared to the ntype structures, a relatively slower degradation of the dark current with increasing doping density is expected. This, in addition to the higher absorption values that can be achieved with heavily doped ptype superlattices, renders them highly promising for normal incidence photodetectors. © 1995 American Institute of Physics.
+
+SUPERLATTICES
+OPTICAL PROPERTIES
+ELECTRONIC STRUCTURE
+QUANTUM WELLS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+INFRARED RADIATION
+PHOTODETECTORS
+ABSORPTION
+DOPED MATERIALS
+ELECTRON DENSITY

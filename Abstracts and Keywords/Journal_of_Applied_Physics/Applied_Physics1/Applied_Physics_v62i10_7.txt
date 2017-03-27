@@ -1,0 +1,10 @@
+Effects of carbon concentration on the electrical properties of liquidencapsulated Czochralski semiinsulating GaAs crystals are investigated quantitatively for the first time by keeping other parameters such as melt stoichiometry, EL2 concentration, and dislocation density almost the same. Its dependence can be well explained by the mixed conduction model.
+
+CARBON
+IMPURITIES
+GALLIUM ARSENIDES
+DISLOCATIONS
+DEEP ENERGY LEVELS
+CZOCHRALSKI METHOD
+STOICHIOMETRY
+ELECTRICAL PROPERTIES

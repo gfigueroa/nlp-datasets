@@ -1,0 +1,6 @@
+The ablation profile in transition zone for laser refractive surgery was calculated in a series of steps. First, the proper optical region shape is determined either by Munnerlyn equations or wavefront techniques. Second, a blend region may optionally be applied. The area of the ablation zone is equal to a maximum possible pupil size of the eye. Third, the depth of the ablation shape at the outer edge of the optical region is calculated. The blend zone may have an optical power that diminishes as a nonlinear function of increasing radius, the blend zone terminating at an ablation zone edge. The model is particularly useful for enhancing the accuracy and efficacy of laser eye surgical procedures and providing enhanced refractive procedures by improving the methodology for deriving a corneal ablation profile.
+
+ablation profile
+laser cornea surgery
+optical zone
+transition zone

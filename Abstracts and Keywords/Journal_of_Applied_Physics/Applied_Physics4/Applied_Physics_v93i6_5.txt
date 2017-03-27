@@ -1,0 +1,8 @@
+The chemical kinetics and process-structure relationships of silicon oxynitride films grown in nitric oxide (NO) ambient at 9001000 °C are studied in flow reactor systems. Residual gas analyses at the reactor exit suggest that no detectable gas phase decomposition of NO takes place at these conditions. Two regions, one nitrogen-depleted (near the top dielectric surface) and one nitrogen-rich (near the dielectric/substrate interface), are considered within the dielectric film, based on reported secondary ion mass spectrometric and angled resolved x-ray photoelectron spectroscopic data. Nitrogen removal reactions are accounted for in the nitrogen-rich layer, while nitrogen incorporation reactions are considered at the dielectric/substrate interface. The diffusion-reaction growth rate model makes use of literature values for the solid-state diffusivities, reaction rate constants, and fraction of the nitrogen-rich layer. The model predictions are found to be in good agreement with all trends of the experimental data at the conditions investigated. © 2003 American Institute of Physics. 
+
+silicon compounds
+dielectric thin films
+nitridation
+oxidation
+secondary ion mass spectra
+X-ray photoelectron spectra

@@ -1,0 +1,9 @@
+Adhesive contact between an axisymmetric punch and a piezoelectric half space in the presence of a liquid bridge formed by capillary condensation is studied. The coupling between liquid-bridge force and piezoelectric elastic deformation is taken into account. The solution is obtained by using the integral transform method with the aid of the dual integral equation technique. Combined with the thermodynamics equilibrium of capillary condensation, two competitive factors closely related to the relative humidity are shown to affect the capillary adhesive force. Two dimensionless parameters, which represent the material properties, and geometric relative relationships between liquid-bridge and contact systems, respectively, are defined to investigate the role of the capillary bridge on adhesive contact. Due to the electromechanical coupling, the applied electric load is shown to evidently affect adhesive contact. This may provide a possible means by which to weaken the influence of the capillary bridge in atomic force microscopy piezoelectric measurements. © 2003 American Institute of Physics. 
+
+capillarity
+adhesion
+atomic force microscopy
+piezoelectric materials
+elastic deformation
+transforms
+electromechanical effects

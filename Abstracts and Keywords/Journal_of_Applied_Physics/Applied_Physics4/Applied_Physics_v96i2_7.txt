@@ -1,0 +1,14 @@
+This work represents a comparative analysis of bonding structure in Si, Ge, and N incorporated amorphous carbon (a-C) films using near-edge x-ray absorption fine structure (NEXAFS) and ultraviolet (UV) Raman spectroscopy. From NEXAFS analyses, changes in the À and Ã bonding states of the films with Si, Ge, and N incorporation could be determined. It is also revealed that incorporation of Si, Ge, and N play a role of increasing sp3 fractions of sputtered a-C in different ways of formation of sp3 bonds. Incorporated Si and Ge atoms substitute C atoms and open up the ring structure, promoting the sp3 hybridized bonds with its neighboring atoms. Compared to Si, incorporated Ge easily facilitated the formation of sp3 hybridized bond with neighboring C atoms due to small hybridization energy. By comparing with UV Raman spectra, incorporation of N induces N substituted five-membered ring structure without destroying the ring structure. For N incorporated a-C, the increased sp3 fraction is shown to be due to five-membered ring structure, giving rise to a cross linking between ring structures by sp3 hybridized bonds. © 2004 American Institute of Physics. 
+
+carbon
+silicon
+germanium
+nitrogen
+thin films
+impurity distribution
+EXAFS
+XANES
+bonds (chemical)
+amorphous state
+Raman spectra
+ultraviolet spectra

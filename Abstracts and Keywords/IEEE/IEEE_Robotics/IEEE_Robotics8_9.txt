@@ -1,0 +1,6 @@
+A Mechanomyography (MMG) based hand-motion patterns recognition approach was proposed in this paper. With the MMG signal acquired in the upper arm via a single sensor, eleven original features were extracted, and they were further processed by principal components analysis (PCA) in order to reduce the dimension of the feature space. Quadratic discriminant analysis (QDA) was used for four hand-motion patterns recognition. The cross-validated experimental results show that PCA method is practical in dimension reduction and QDA is functional in classifying the four types of hand-motion modes. The average classification accuracy of eight subjects is 79.66%±7.32%. It also reveals that MMG signal is effective in classifying more than two hand-motion patterns even with only one channel signal, and can provide a new choice of control signal for upper-limb prosthetic hand design.
+
+Mechanomyography
+hand-motion
+principal component analysis
+quadratic classifier

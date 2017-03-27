@@ -1,0 +1,9 @@
+A technique has been developed that uses acoustic energy to assist a magnetic field in driving twin boundary motion in a NiMnGa single crystal. Acoustic assisted magnetic-field-induced strain has been observed to increase the magnetic-field-induced strain response by up to one order of magnitude. This effect is most pronounced for magnetic field drives near the twin boundary threshold field. Increasing frequency of the acoustic wave input is shown to increase strain up to about 4 kHz after which there is a small decline in FSMA strain for higher frequencies. © 2004 American Institute of Physics. 
+
+nickel alloys
+manganese alloys
+gallium alloys
+ferromagnetic materials
+shape memory effects
+twin boundaries
+acoustic waves

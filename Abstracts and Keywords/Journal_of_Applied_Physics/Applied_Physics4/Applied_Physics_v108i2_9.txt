@@ -1,0 +1,7 @@
+The binding of 10GLY to dynamic structures of papain was investigated by molecular dynamics and docking simulations. The binding free energies and sites were greatly fluctuated depending on the time and the binding was more stable and existed at the near site of active center when the structural changes in the highly flexible residues in papain were larger. Binding stability and sites would be significantly influenced by the highly flexible residues. Analysis of such residues would provide an important guideline for clarification of enzymatic activities and modification of structural dynamics of such residues would allow us to control enzymatic activities.
+
+binding energy
+enzymes
+free energy
+molecular biophysics
+molecular dynamics method

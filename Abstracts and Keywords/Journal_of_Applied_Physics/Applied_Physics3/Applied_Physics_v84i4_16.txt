@@ -1,0 +1,12 @@
+In a comment preceding this response [J. Appl. Phys. 84, 2364 (1998)], Bhar noted that the expression we proposed to explain the dispersion of birefringence in AgGaS2 and CuGaS2 near their band gaps did not fit the long wavelength dispersion as well as the Sellmeier equation approach. We point out that our model can be improved to fit the long wavelength dispersion provided we can include contributions to the birefringence from the higher energy transitions.© 1998 American Institute of Physics. 
+
+silver compounds
+copper compounds
+gallium compounds
+ternary semiconductors
+SILVER SULFIDES
+GALLIUM SULFIDES
+COPPER SULFIDES
+BIREFRINGENCE
+DISPERSION RELATIONS
+ENERGY GAP

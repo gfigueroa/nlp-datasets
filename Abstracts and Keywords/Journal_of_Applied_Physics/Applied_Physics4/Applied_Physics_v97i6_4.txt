@@ -1,0 +1,10 @@
+Multilayers consisting of the periodic repetition of two layers with different refractive indices (nH and nL) may have an omnidirectional band gap, the width of which depends on the incidence medium and on the refractive index ratio nH/nL. In porous silicon, this ratio is limited by the material and fabrication characteristics. This article makes a theoretical study of two multilayer structures in order to enlarge the omnidirectional band gap with the same refractive index ratio by varying only the thickness of the period. These structures are named balanced and unbalanced mirrors and consist of a few periodic multilayers stacked together. Porous silicon balanced and unbalanced mirrors with enlarged omnidirectional band gap for 1.55-¼m applications are proposed. The results obtained with these mirror structures are compared with the results obtained with a chirped structure with the same characteristics.
+
+silicon
+elemental semiconductors
+porous semiconductors
+mirrors
+reflectivity
+refractive index
+photonic band gap
+optical multilayers

@@ -1,0 +1,16 @@
+A study has been made on the effect of annealing time on magnetization reversal of the pinned layer in NiFe(100 Å)/PtMnCr(500 Å) bilayers. In the as-deposited state, the PtMnCr layer is in a metastable, nonmagnetic, disordered fcc phase. Heating progressively transforms the alloy to the stable fct phase which is antiferromagnetic, providing the pinning layer for the soft ferromagnetic NiFe layer. The samples were annealed in a magnetic field at 250
+°C for 1, 1.5, 2, and 8 h. The effect of annealing is to both increase the shift of the loops along the field axis and the coercivity of the pinned ferromagnetic layer. Although the widening of the loop is correlated with the degree of antiferromagnet transformation, the exact mechanism for the increased coercivity is unclear. Measurements of loops made at different field sweep rates and after different waiting times at saturation, on the sample annealed for 1.5 h, indicate two possible mechanisms for the increased coercivity: (i) thermally activated reversal of some of the antiferromagnetic layer (AFM) during the measurement of the hysteresis loop and/or (ii) spin-flop coupling between the AFM and ferromagnet moments at a partially compensated interface. © 2001 American Institute of Physics.
+
+platinum alloys
+manganese alloys
+chromium alloys
+nickel alloys
+iron alloys
+magnetisation reversal
+exchange interactions (electron)
+magnetic multilayers
+thermal stability
+magnetic hysteresis
+soft magnetic materials
+coercive force
+antiferromagnetic materials

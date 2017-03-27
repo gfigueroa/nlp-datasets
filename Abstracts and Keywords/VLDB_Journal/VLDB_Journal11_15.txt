@@ -1,0 +1,5 @@
+Digital Libraries (DLs) introduce several challenging requirements with respect to the formulation, specification, and enforcement of adequate data protection policies. Unlike conventional database environments, a DL environment typically is characterized by a dynamic subject population, often making accesses from remote locations, and by an extraordinarily large amount of multimedia information, stored in a variety of formats. Moreover, in a DL environment, access policies are often specified based on subject qualifications and characteristics, rather than subject identity. Traditional authorization models are not adequate to meet access control requirements of DLs. In this paper, we present a Digital Library Authorization System (DLAS). DLAS employs a content-based authorization model, called a Digital Library Authorization Model (DLAM) which was proposed in previous work [1].
+
+Access control
+Credentials
+Digital libraries

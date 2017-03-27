@@ -1,0 +1,5 @@
+Web services are expected to be the key technology in enabling the next installment of the Web in the form of the Service Web. In this paradigm shift, Web services would be treated as first-class objects that can be manipulated much like data is now manipulated using a database management system. Hitherto, Web services have largely been driven by standards. However, there is a strong impetus for defining a solid and integrated foundation that would facilitate the kind of innovations witnessed in other fields, such as databases. This survey focuses on investigating the different research problems, solutions, and directions to deploying Web services that are managed by an integrated Web Service Management System (WSMS). The survey identifies the key features of a WSMS and conducts a comparative study on how current research approaches and projects fit in.
+
+Service-oriented computing
+Interoperability
+Web service management system

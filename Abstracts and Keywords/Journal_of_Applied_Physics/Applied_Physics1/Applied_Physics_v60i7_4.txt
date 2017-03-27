@@ -1,0 +1,9 @@
+Strain and quantumsize effects in pseudomorphic InxGa1xAsGaAs singlequantumwell heterostructures (SQWHs) are examined using lowtemperature photoluminescence techniques. Strain effects in InxGa1xAs epitaxial layers are first described, then photoluminescence data for a series of MBEgrown pseudomorphic SQWHs are presented and discussed. Each SQWH consists of an unintentionally doped, highly strained (õ<2%) In0.28Ga0.72As quantum well sandwiched between GaAs confining layers. The structures were grown consecutively under identical conditions, with quantumwell thicknesses ranging from 17 to 430 Å. The thinner quantumwell structures exhibit luminescence characteristics indicative of highquality material (photoluminescence half width <6 meV for Lz <17 Å), whereas significant broadening and eventual quenching of the photoluminescence peak is observed as alloy layer thicknesses approach and exceed the critical value. Quantumwell luminescence from the thinner (Lz d38 Å) SQWHs is dominated by a single, sharp feature which we attribute to n=1 electrontoheavy hole confinedcarrier transitions. An additional shallow (<20 meV) feature, perhaps impurity related, is present in the photoluminescence spectra of some of the thicker quantum wells, and peak emission intensities are examined as a function of excitation intensity for the various transitions. Finally, the observed dependence of the transition energies upon quantumwell thickness is compared to predictions from an effectivemass SQWH model which incorporates strain effects. Reasonable agreement is obtained for SQWHs with Lz d100 Å, the expected critical layer thickness for these samples. This work represents the first optical study of pseudomorphic single wells, and our results should be useful in the design of strainedlayer quantumwell lasers.
+
+OPTICAL PROPERTIES
+QUANTUM WELL STRUCTURES
+PHOTOLUMINESCENCE
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+QUENCHING
+STRAINS

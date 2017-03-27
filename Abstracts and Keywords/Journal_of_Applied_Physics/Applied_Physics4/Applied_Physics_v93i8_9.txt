@@ -1,0 +1,8 @@
+We demonstrate that, by using a concentric device geometry, the dopant density and the bulk charge-carrier mobility can simultaneously be estimated from the transfer characteristics of a single disordered organic transistor. The technique has been applied to determine the relation between the mobility and the charge density in solution-processed poly(2,5-thienylene vinylene) and poly(3-hexyl thiophene) thin-film field-effect transistors. The observation that doping due to air exposure takes place already in the dark, demonstrates that photoinduced oxygen doping is not the complete picture. © 2003 American Institute of Physics. 
+
+organic semiconductors
+field effect transistors
+impurity distribution
+carrier density
+carrier mobility
+thin film transistors

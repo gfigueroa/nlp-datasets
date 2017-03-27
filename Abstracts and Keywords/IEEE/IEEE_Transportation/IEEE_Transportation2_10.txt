@@ -1,0 +1,5 @@
+This paper presents Japanese Characters (Kanji) classification applying rejection criteria method. Since there are more than 3,000 characters, we are naturally led to hierarchical classification. Our approach is based on the observation that some of characters are misclassified easily, and some others are often classified correctly. So, in the upper layer our classifier rejects the first category of characters, while it accepts classification results for the second category of characters. The lower layer deals with more complex characters, i.e., resembling characters. Classification in the lower layer is done by applying resembling character dictionaries. We implemented our method, and conducted computer experiments. We show that performance of our system is 10.4% rejection and 0.08% misclassification rates.
+
+character recognition
+pattern recognition
+rejection criteria

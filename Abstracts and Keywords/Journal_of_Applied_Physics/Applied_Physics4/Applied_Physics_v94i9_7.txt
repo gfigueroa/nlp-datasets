@@ -1,0 +1,10 @@
+The erbium-doped hydrogenated amorphous silicon suboxide films containing amorphous silicon clusters were prepared. The samples exhibited photoluminescence peaks at around 750 nm and 1.54 ¼m, which could be assigned to the electron-hole recombination in amorphous silicon clusters and the intra-4f transition in Er3+, respectively. Correlations between the intensities of these two photoluminescence peaks and oxidation and dehydrogenation of the films during annealing were studied. It was found that the oxidation is triggered by dehydrogenation of the films even at low annealing temperatures, which decisively changes the intensities of the two photoluminescence peaks. On the other hand, the increase of Er content in the erbium-doped hydrogenated amorphous silicon suboxide film will enhance Er3+ emission at 1.54¼m, while quench amorphous silicon cluster emission at 750 nm, such a competitive relationship, was also observed in the erbium-doped silicon nanocrystals embedded in SiO2 matrix. Moreover, we found that Er3+ emission is not sensitive to whether silicon clusters are crystalline or amorphous. The amorphous silicon clusters can be as sensitizer on Er3+ emission as that of silicon nanocrystals. © 2003 American Institute of Physics. 
+
+silicon compounds
+hydrogen
+erbium
+photoluminescence
+oxidation
+annealing
+radiation quenching
+electron-hole recombination

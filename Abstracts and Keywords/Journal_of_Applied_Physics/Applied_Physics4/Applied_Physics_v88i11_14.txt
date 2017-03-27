@@ -1,0 +1,7 @@
+A new concept of polarization reversal and domain dynamics in modified ferroelectrics is presented. Accordingly, clusters with a reversed polarization within ferroelectric domains are nucleated under applied field in the vicinity of random fields around quenched defects. The random fields significantly lower the activation barrier required for nucleation, thus controlling the kinetics of polarization reversal and domain dynamics. In this model, polarization switching occurs by the breakdown of ferroelectric long-range order, through a polar cluster state. © 2001 American Institute of Physics. 
+
+electric domains
+dielectric polarisation
+random processes
+nucleation
+ferroelectric materials

@@ -1,0 +1,12 @@
+Epitaxial SrBi2Ta2O9 (SBT) thin films with well-defined (001), (116), and (103) orientations have been grown by pulsed laser deposition on (001)-, (011)-, and (111)-oriented Nb-doped SrTiO3 substrates. X-ray diffraction pole figure and Õ-scan measurements revealed that the three-dimensional epitaxial orientation relation SBT(001)SrTiO3(001), and SBT[10]SrTiO3[100] is valid for all cases of SBT thin films on SrTiO3 substrates, irrespective of their orientations. Atomic force microscopy images of the c-axis-oriented SBT revealed polyhedron-shaped grains showing spiral growth around screw dislocations. The terrace steps of the c-axis-oriented SBT films were integral multiples of a quarter of the lattice parameter c of SBT (<0.6 nm). The grains of (103)-oriented SBT films were arranged in a triple-domain configuration consistent with the symmetry of the SrTiO3(111) substrate. The measured remanent polarization (2Pr) and coercive field (2Ec) of (116)-oriented SBT films were 9.6 ¼C/cm2 and 168 kV/cm, respectively, for a maximum applied electric field of 320 kV/cm. Higher remanent polarization (2Pr=10.4 ¼C/cm2) and lower coercive field (2Ec=104 kV/cm) than those of SBT(116) films were observed in (103)-oriented SBT thin films, and (001)-oriented SBT revealed no ferroelectricity along the [001] axis. The dielectric constants of (001)-, (116)-, and (103)-oriented SBT were 133, 155, and 189, respectively. © 2000 American Institute of Physics. 
+
+strontium compounds
+bismuth compounds
+ferroelectric thin films
+epitaxial layers
+pulsed laser deposition
+X-ray diffraction
+atomic force microscopy
+ferroelectric ceramics
+permittivity
+dielectric polarisation

@@ -1,0 +1,15 @@
+Photoluminescent porous silicon (PSi) patterns of micrometer dimension were produced by the Pt-assisted electroless etching of Si in 1:1:2 methanol:HF:H2O2. Pt-containing squares with side lengths ranging from 1.25to20¼m were defined by a focused-ion-beam-assisted maskless deposition of Pt from an organometallic precursor, trimethylmethylcyclopentadienyl platinum. The Pt-patterned Si samples were then etched to produce photoluminescent pixel arrays with high fidelity transfer of the Pt deposition pattern into luminescent pixels of varying size. The morphology of the PSi patterns was correlated with the spatial luminescence characteristics at the individual pixel level. Luminescent pixels with feature sizes down to ca. 1¼m were largely confined to the areas initially coated with Pt, and the morphologies produced within any one set of equal-sized Pt squares were similar. For 5-¼m pads and larger, the morphologies obtained were an admixture of a porous structure coexisting with deeper heavily etched crater regions. Only the porous areas were observed to emit, with the deeper crater areas being dark in a two-photon luminescence. The smaller 1.25- and 2.5-¼m pads exhibited a common morphology, in which a brightly luminescent outer ring surrounds a weaker but still distinguishable luminescence in the center of the etched structure. These results are in contrast with the spatial luminescence patterns and morphologies for the millimeter-scale Pt pads [S. Chattopadhyay, X. Li, and P. W. Bohn, J. Appl. Phys. 91, 6134 (2002)], in which electroless etching and, thus, PSi formation is observed in the regions not initially coated with Pt.
+
+silicon
+platinum
+elemental semiconductors
+porous semiconductors
+nanoporous materials
+semiconductor growth
+surface morphology
+photoluminescence
+focused ion beam technology
+sputter etching
+ion beam assisted deposition
+electroless deposition
+pattern formation

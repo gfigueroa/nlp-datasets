@@ -1,0 +1,8 @@
+Time-of-flight mass spectrometry was used for analyzing ionic species produced by Nd:YAG laser ablation of polymers [polypropylene (PP), polyethylene (PE), and polytetrafluoroethylene] in vacuum. The temporal variation of the mass distribution after the laser irradiation was investigated. The target polymers were decomposed to almost atomic species by the laser irradiation. After the laser irradiation, significant temporal evolution of carbon cluster ions (CnHm+, CnHm, and CnFm) was observed. This result indicates that the cluster ions are produced from atomic species via gas-phase reactions in the ablation plume with no ambient gases. The mass spectra of Cn and CnHm obtained from the PP and PE targets suggest that even carbon clusters (C2k) are hydrogenated more efficiently than odd ones (C2k+1) to produce C2kHm. © 2001 American Institute of Physics. 
+
+carbon
+polymers
+laser ablation
+time of flight mass spectra
+molecular clusters
+atomic clusters

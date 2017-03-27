@@ -1,0 +1,10 @@
+We have demonstrated a heterojunction thermophotovoltaic device. The 0.54eV band gap device has an open-circuit voltage of 360mV for a short circuit current density of 2.7A/cm2 at T = 25	°C, which is higher than the open-circuit voltage realized in any other thermophotovoltaic device previously demonstrated having comparable band gaps.
+
+aluminium compounds
+gallium compounds
+gallium arsenide
+III-V semiconductors
+thermophotovoltaic cells
+current density
+energy gap
+p-n heterojunctions

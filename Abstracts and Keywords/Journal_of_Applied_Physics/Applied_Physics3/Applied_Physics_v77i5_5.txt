@@ -1,0 +1,13 @@
+Collinear interactions of guided light with dipoleexchange spin waves in a 4.66¼mthick Lu2.14Bi0.86Fe4.94Mg0.06O12 single crystal film has been experimentally investigated. For all four regimes of interaction TM5’TE5, TM6’TE6, TM7’TE7, TM8’TE8 diffraction peaks had a complex fine structure indicating the splitting of the spectrum of the spin waves. Frequencies of these peaks are in good agreement with the theoretical predictions based on the numerical estimations of the strong hybridization of a magnetostatic mode with seventeen spin wave resonance modes. The analysis of the amplitudes of the diffraction peaks corresponding to different hybrid spin wave modes has shown the presence of asymmetry of the pinning conditions on the surfaces of the film. © 1995 American Institute of Physics.
+
+FERRITE GARNETS
+LUTETIUM OXIDES
+BISMUTH OXIDES
+MAGNESIUM OXIDES
+MULTIELEMENT COMPOUNDS
+FILMS
+SPIN WAVES
+EXCHANGE INTERACTIONS
+WAVEGUIDES
+MAGNETOSTATIC WAVES
+HYBRIDIZATION

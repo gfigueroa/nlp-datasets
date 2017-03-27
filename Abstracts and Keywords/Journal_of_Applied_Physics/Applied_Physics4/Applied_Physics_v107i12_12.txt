@@ -1,0 +1,7 @@
+In the Pd/Co/Pd trilayer with magnetic perpendicular anisotropy, it has been found that both the saturation magnetization MS and the coercivity HC demonstrate a drastic time-dependent decrease. The time-dependent effect has been observed to be strongly related to the Co layer thickness. When the Co layer is thinner, the drops of HC and MS become much faster with time. The observed time-dependent effect is attributed to absorption of gaseous elements (for example, hydrogen) during exposure of the sample to the air, which can induce the reduction in Pd-polarization.
+
+cobalt
+coercive force
+magnetic anisotropy
+magnetic thin films
+palladium

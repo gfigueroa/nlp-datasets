@@ -1,0 +1,8 @@
+A stress-biased magnetoelectric sensor with a built-in permanent magnet has been fabricated using piezoelectric lead magnesium niobate-lead titanate single crystal and magnetostrictive Terfenol-D alloy. The resonance characteristics and magnetoelectric performance of the sensor have been evaluated under different stress-biased conditions. The resonance of the sensor shifts to higher frequency with increasing preloading stress. Due to the piezoelectric and magnetostrictive enhancements under preload, the device exhibits a giant magnetoelectric voltage coefficient of 0.22 V/Oe at a preloading stress of 2.5 MPa. This compact device has the potential to be used as a standalone sensor without requiring external power input.
+
+lead compounds
+magnetic sensors
+magnetoelectric effects
+magnetostriction
+permanent magnets
+piezoceramics

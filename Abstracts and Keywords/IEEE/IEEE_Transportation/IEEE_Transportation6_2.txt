@@ -1,0 +1,7 @@
+This paper presents a technique for the high resolution enhancement of remote sensing imagery degraded in a random channel and contaminated with composed noise (additive and multiplicative). The proposed method aggregates the Constraint Least Square (CLS), the Bayes Minimum Risk (BMR), the maximum entropy Median Filter (MF) and the Variational Analysis (VA) techniques. In the fused strategy, we first apply the MF technique unified with the CLS algorithm, next, we unify the BMR iterative algorithm with the VA techniques, and last, we aggregate the unified MF-CLS and VA-BMR techniques in the resulting fused MF-CLS-BMR-VA method with the objective of an enhanced image reconstruction with improved resolution performances.
+
+. Computer simulations
+experiment design
+regularization
+remote sensing
+software.

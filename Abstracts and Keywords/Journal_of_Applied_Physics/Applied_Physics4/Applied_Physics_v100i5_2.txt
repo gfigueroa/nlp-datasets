@@ -1,0 +1,14 @@
+This article describes the current progress in thin bismuth layer-structured ferroelectric films (BLSFs) including SrBi2Ta2O9 and (Bi,La)4Ti3O12, particularly those developed in the last ten years. BLSF thin films can be applied to ferroelectric random access memories because of their durable fatigue-free properties and lead-free composition. We will briefly introduce epitaxial thin films grown on a variety of substrates. Because of the difficulty in growing single crystals of sufficient size to characterize the ferroelectric behavior in specific crystal growth directions, we will characterize epitaxially grown thin films to obtain basic information about the anisotropic switching behavior, which is important for evaluating the performance of emerging materials. We will then discuss the fiber-textured growth on the (111)Pt-covered Si substrates of SrBi2Ta2O9 and Bi4Ti3O12 thin films. Because we expect that the spread crystal orientation will affect the bit-to-bit errors, we believe that the fiber-textured growth and the characterization technique for the deposited film orientation are interesting from a practical standpoint. Another specific challenge of thin film growth is the growth of a-axis-(polar axis)-oriented films. a-/b-axis-oriented films are characterized both crystallographically and by electric hysteresis loop. The hysteresis performance was in accordance with the volume fraction of the a/b domains; however, no evidence for 90° switching of the b domain by an external electric field was obtained. The control of film orientation also allows systematic studies on the effects of a structural modification and relation between spontaneous polarization and Curie temperature, examples of which are given in this paper. After a short description of the piezoelectric properties, we will conclude with a summary and the future prospects of BLSF thin films for research and applications.
+
+strontium compounds
+bismuth compounds
+lanthanum compounds
+ferroelectric thin films
+epitaxial growth
+epitaxial layers
+ferroelectric switching
+crystal orientation
+dielectric hysteresis
+electric domains
+dielectric polarisation
+ferroelectric Curie temperature

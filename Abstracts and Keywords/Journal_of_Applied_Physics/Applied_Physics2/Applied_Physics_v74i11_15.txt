@@ -1,0 +1,10 @@
+This paper presents a numerical simulation of the gasphase chemistry in diamond deposition processes. The simulation shows that the concentration of the two potential growth species CH3 and C in the boundary layer near the diamond film substrate are sensitive to these species concentration in the bulk gas. The concentrations in the bulk gas depend, in turn, on the physical arrangement of the reactor, and in particular on the time provided for the gas mixture to reach chemical equilibrium. With sufficient equilibration time, simulations of both a hotfilament reactor and a plasma torch reactors show that the concentration of atomic carbon at the substrate surface can be much higher than the concentration of CH3.
+
+DIAMONDS
+CVD
+CARBON
+CHEMICAL REACTIONS
+FILM GROWTH
+SIMULATION
+SUBSTRATES
+METHYL RADICALS

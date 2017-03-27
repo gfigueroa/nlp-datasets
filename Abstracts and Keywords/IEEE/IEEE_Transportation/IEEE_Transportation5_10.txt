@@ -1,0 +1,5 @@
+Current sizing algorithms for warship power generation and fuel tank capacity were developed over forty five years ago when ship service loads were a small fraction of the overall power demand. Electric load growth, particularly with the introduction of high power mission systems, results in ship service maximum margined loads being nearly the same as the maximum propulsion load. In many operating conditions, ship service power demands exceed propulsion demands. This paper proposes new sizing methods for all-electric warships that are tied to operational effectiveness. These sizing methods are based on mobility mission tactical situations such as high speed transit, economical speed transit, and on station time. Additionally, the methods are sensitive to drag reduction efforts, temperature, and the ability to maintain speed in higher sea states. The goal is to optimize shipboard power and propulsion system life cycle cost while meeting operational requirements.
+
+Load Forecasting
+Marine vehicle power systems
+Marine vehicle propulsion

@@ -1,0 +1,12 @@
+An electron spin resonance (ESR) study has been carried out of the influence of postdeposition heating on stacks of (100)Si with nanometer-thick dielectric layers of SiOx and atomic-layer-deposited Al2O3, ZrO2, and HfO2. This reveals upon postdeposition oxidation (PDO) in the range 650800	°C the appearance of various SiO2-characteristic defects, including E2, EX, and a 95-G doublet, in different intensities with increasing anneal temperature, attesting to significant modification andor additional SiOx interlayer growth. The revealed defects enable probing of the quality of the interlayer on atomic level. In terms of the E2 criterion, it is found that the SiOx interlayer formed in (100)Si/SiOx/ZrO2 is drastically inferior to standard thermal (100)Si/SiO2, exhibiting over one order of magnitude more O-deficiency (E2) centers. The (100)Si/Al2O3 and (100)Si/HfO2 systems appear more robust with better interlayer properties. Particularly in the (100)Si/HfO2 structure, both the E2 and EX densities remain small (&lt;1.6×1011cm2) after PDO, which comes as one more favorable property for the application of HfO2 as an alternative gate dielectric. Yet, the Si/Al2O3 entity exhibits the largest EX density, and there appears evidence for an additional Sidielectric interface defect. No obvious ESR-active defect inherent to the metal oxide layers could be detected.
+
+silicon compounds
+alumina
+zirconium compounds
+hafnium compounds
+dielectric thin films
+paramagnetic resonance
+annealing
+atomic layer deposition
+chemical vapour deposition
+vacancies (crystal)

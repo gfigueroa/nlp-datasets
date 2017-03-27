@@ -1,0 +1,13 @@
+Bismuth containing crystalline solutions (1x)Bi(Ga1/4Sc3/4)O3xPbTiO3 (BGSPT) have been developed using conventional ceramic technology. X-ray diffraction analysis reveals that BGS-PT has a perovskite structure, in which tetragonal to rhombohedral phase transformation appears for x=0.6. The dielectric properties were investigated at room and elevated temperatures, respectively, for different PT contents. BGSPT for x=0.6 shows enhancement in dielectric constant K and piezoelectric constant d33 of 1180 and 124 pC/N, respectively, for the compositions investigated. The Curie temperature (Tc) of BGSPT is in the range of 465510
+°C at least 100
+°C higher than that of conventional Pb(Zr,Ti)O3 piezoelectric ceramics. The coercive field (Ec) of BGSPT strongly depends on the PT content and can reach 75 kV/cm for x=0.8. Our results show that BGSPT is a good low-lead high-temperature piezoelectric ceramic. © 2003 American Institute of Physics. 
+
+bismuth compounds
+lead compounds
+piezoceramics
+X-ray diffraction
+solid-state phase transformations
+permittivity
+piezoelectricity
+ferroelectric Curie temperature
+dielectric hysteresis

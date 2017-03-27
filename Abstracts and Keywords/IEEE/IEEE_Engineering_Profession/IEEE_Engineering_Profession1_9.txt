@@ -1,0 +1,5 @@
+It should be complete, self-explanatory, and not require reference to the pa A new adaptive reversible watermarking algorithm based on wavelet lifting scheme is proposed in this letter. In the algorithm, watermark is embedded in the sub-band LL<sub>1</sub> generated from 1-level wavelet lifting scheme, and the position information with small size is kept as a secret matrix, the threshold T can be adaptive selected according to the peak-signal to noise rate, such that watermarked image has better visual effect, the novelty of the algorithm lies in that it not only is reversible, but also is robust to JPPEG compression attack, this is seldom in existing relative literatures. The experimental results show the effectiveness of the scheme in the end.
+
+Reversible watermarking
+robustness
+wavelet lifting schem

@@ -1,0 +1,7 @@
+The linear and nonlinear optical properties of one-dimensional photonic crystals containing ZnO defects were studied by linear absorption spectroscopy and the femtosecond Z-scan technique. Photonic crystals containing ZnO defects, (Ta2O5/SiO2)5/ZnO/(SiO2/Ta2O5)5, were prepared using electron-beam deposition and magnetron sputtering. The transmission spectra of these photonic crystals revealed a defect mode resonance and a broad photonic band gap. The observed transmission spectra could be described by applying the optical transfer matrix formalism to the multilayer structure. When compared with the Z-scan curve of the ZnO film, that of the resonant photonic crystal exhibited a larger transmittance dip. The enhancement of the nonlinear absorption in the resonant photonic crystal is due to the strong confinement of the optical field.
+
+high-speed optical techniques
+nonlinear optics
+photonic band gap
+photonic crystals
+zinc compounds

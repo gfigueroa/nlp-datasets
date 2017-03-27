@@ -1,0 +1,9 @@
+4H-SiC wafers of orientations (0001) and (110) were implanted with 60 keV Al in different major axial, planar, and low symmetry (random) directions to ascertain the degree of channeling and to determine the optimum tilt conditions for ion implantation. Significant channeling was observed for all axial directions with the [110] channel exhibiting the deepest channeling with a maximum penetration depth 45 times greater than the projected range of the random implants. Significant channeling was observed for the {110} and especially the {0001} planar channels while the implants in the {100} planar channels did not differ from the corresponding random implants. To minimize channeling in (0001) crystals, our results show that beam alignment normal to the surface is advisable for off-axis (0001) wafers with the miscut toward 110	, while tilting of the wafer is necessary when the miscut is toward 100	. For the (110) material, channeling can be minimized by a tilt of s10° toward the [0001] direction. © 2003 American Institute of Physics. 	 
+
+silicon compounds
+wide band gap semiconductors
+channelling
+ion implantation
+aluminium
+doping profiles
+crystal orientation

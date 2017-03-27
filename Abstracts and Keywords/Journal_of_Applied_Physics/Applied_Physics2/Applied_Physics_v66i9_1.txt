@@ -1,0 +1,14 @@
+Fe multilayered films with various intermediate layers are formed. Their magnetic properties and film structures are examined to understand the mechanism originating soft magnetic properties. The soft magnetic properties change with the lattice mismatches between Fe and intermediate layers, showing low coercive force and high relative permeability at lattice mismatches from 0.4 to 1.2%. It is thought that the lattice mismatches above 0.4% decrease Fe crystallite size and improve soft magnetic properties. Although Fe crystallite size is small at the lattice mismatches above 1.2%, the soft magnetic properties are poor. This is because the large lattice mismatch increases internal stress and magnetic anisotropy energy. This report indicates that the good soft magnetic properties are obtained when both Fe crystallite size and internal stress are small.
+
+IRON
+FILMS
+MULTILAYERS
+MAGNETIC PROPERTIES
+SOLID STRUCTURE
+COERCIVE FORCE
+MAGNETIC SUSCEPTIBILITY
+STRESSES
+ANISOTROPY
+MEDIUM TEMPERATURE
+XRAY DIFFRACTION
+TRANSMISSION ELECTRON MICROSCOPY

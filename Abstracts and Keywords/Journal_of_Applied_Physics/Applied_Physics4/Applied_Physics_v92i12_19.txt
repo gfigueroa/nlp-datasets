@@ -1,0 +1,8 @@
+Experimental measurements of the viscosity of silica (SiO2) are critically examined; the best measurements show an activation energy of 515 kJ/mole above 1400 °C and 720 kJ/mole below this temperature. The diffusion of silicon and oxygen in silica have temperature dependencies close to that of the high temperature viscosity. Mechanisms of viscous flow and diffusion of silicon and oxygen in silica are proposed that involve motion of SiO molecules. Viscous flow is proposed to result from the motion of line defects composed of SiO molecules At temperatures below 1400 °C the fraction of SiO molecules in line defects changes with temperature. The relaxation of this fraction to an equilibrium value depends on the time. These proposed mechanisms are consistent with experimental measurements of silica viscosity. © 2002 American Institute of Physics. 
+
+silicon compounds
+viscosity
+glass transition
+self-diffusion
+noncrystalline defects
+glass

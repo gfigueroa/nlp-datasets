@@ -1,0 +1,12 @@
+We describe a procedure to consider the impact of lateral positional correlation of SiGe nanoscale islands onto the diffuse scattering within a high resolution x-ray diffraction experiment. The samples have been grown by means of liquid phase epitaxy which provides monodisperse island ensembles containing up to 109 equivalent objects. It is shown that a proper numerical simulation of the x-ray diffuse scattering pattern requires careful consideration of the partial coherence of x rays. An appropriate numerical procedure consists of coherent summation over sample areas with lateral dimensions as given by the coherence properties of the radiation and subsequent incoherent summation over a large enough number of such areas. For the given case an effective lateral coherence length of H1¼m has been used, which is derived taking into account also the detector resolution. The according simulation is in good agreement with the experimentally observed x-ray diffuse intensity pattern.
+
+Ge-Si alloys
+semiconductor materials
+liquid phase epitaxial growth
+semiconductor growth
+X-ray diffraction
+island structure
+atomic force microscopy
+X-ray scattering
+nanostructured materials
+diffusion

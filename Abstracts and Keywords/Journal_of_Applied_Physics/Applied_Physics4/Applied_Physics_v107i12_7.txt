@@ -1,0 +1,12 @@
+We investigate the interplay between the thermodynamic properties and spin-dependent transport in a mesoscopic device based on a magnetic multilayer (F/f/F), in which two strongly ferromagnetic layers (F) are exchange-coupled through a weakly ferromagnetic spacer (f) with the Curie temperature in the vicinity of room temperature. We show theoretically that the Joule heating produced by the spin-dependent current allows a spin-thermoelectronic control of the ferromagnetic-to-paramagnetic (f/N) transition in the spacer and, thereby, of the relative orientation of the outer F-layers in the device (spin-thermoelectric manipulation of nanomagnets). Supporting experimental evidence of such thermally-controlled switching from parallel to antiparallel magnetization orientations in F/f(N)/F sandwiches is presented. Furthermore, we show theoretically that local Joule heating due to a high concentration of current in a magnetic point contact or a nanopillar can be used to reversibly drive the weakly ferromagnetic spacer through its Curie point and thereby exchange couple and decouple the two strongly ferromagnetic F-layers. For the devices designed to have an antiparallel ground state above the Curie point of the spacer, the associated spin-thermionic parallel to antiparallel switching causes magnetoresistance oscillations whose frequency can be controlled by proper biasing from essentially dc to GHz. We discuss in detail an experimental realization of a device that can operate as a thermomagnetoresistive switch or oscillator.
+
+Curie temperature
+ferroelectric Curie temperature
+ferromagnetic materials
+ferromagnetic-paramagnetic transitions
+ground states
+magnetic multilayers
+magnetisation
+magnetoresistance
+nanomagnetics
+thermodynamics

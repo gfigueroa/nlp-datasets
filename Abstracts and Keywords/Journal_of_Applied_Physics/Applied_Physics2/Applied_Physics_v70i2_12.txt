@@ -1,0 +1,9 @@
+The measurement of nonequilibrium electron and lattice temperatures via transient reflectance (TR) technique is considered for metals. It is shown that TR is a function of the electronic relaxation time and the optical properties of the material. It is argued, that the photon energy of the transient reflectivity measurement should be chosen in the free electron domain and then the electron relaxation time may be determined quantitatively with the help of the temperature coefficients of the real and imaginary parts of the dielectric constant.
+
+REFLECTIVITY
+ELECTROOPTICAL EFFECTS
+DIELECTRIC FUNCTION
+CARRIER LIFETIME
+METALS
+ELECTRIC CONDUCTIVITY
+PHONONS

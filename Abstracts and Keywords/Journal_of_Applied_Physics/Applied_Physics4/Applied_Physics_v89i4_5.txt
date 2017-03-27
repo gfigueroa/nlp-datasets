@@ -1,0 +1,8 @@
+The H atom lifetime in a low pressure hydrogen microwave plasma was measured using a pulse induced fluorescence technique. This technique is compared to results obtained by a laser spectroscopy technique. We first demonstrate the validity of the method and then deduce H atom lifetime pressure dependence. The H atom surface loss probability on fused silica was also deduced from our measurements. We show that this coefficient is not constant in the time afterglow but decreases almost by one order of magnitude (from 2.3×103 to 2.1×104) during the first milliseconds. These results are explained using recent experimental and theoretical works concerning atom-surface interaction in low temperature plasmas. © 2001 American Institute of Physics.
+
+hydrogen neutral atoms
+surface recombination
+fluorescence
+plasma-wall interactions
+plasma diagnostics
+afterglows

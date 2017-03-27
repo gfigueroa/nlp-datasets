@@ -1,0 +1,15 @@
+Hall and resistivity measurements as functions of temperature were used to study the segregation of phosphorus in atmospheric-pressure chemical-vapor deposited, <300-nm-thick, polycrystalline Si0.95Ge0.5 and Si0.9Ge0.1 thin films, implanted at 80 keV with 6×10135×1014	P/cm2, and annealed for 1 h at 800
+°C. Hall measurements, feasible only in heavily doped films, indicated that 29% of the dopant in Si0.9Ge0.1 and 42% of the dopant in Si0.95Ge0.05 were electrically inactive. The loss is consistent with dopant segregation to grain boundaries. The density of grain-boundary carrier traps is 3.6×1012/cm2 in Si0.95Ge0.05 and 4.4×1012/cm2 in Si0.9Ge0.1, increasing sublinearly with Ge content. © 2002 American Institute of Physics. 
+
+Ge-Si alloys
+semiconductor thin films
+CVD coatings
+phosphorus
+electrical resistivity
+Hall effect
+grain boundary segregation
+impurity distribution
+heavily doped semiconductors
+annealing
+electron traps
+hole traps

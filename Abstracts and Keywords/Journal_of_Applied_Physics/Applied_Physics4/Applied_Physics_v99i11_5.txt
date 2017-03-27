@@ -1,0 +1,10 @@
+We have investigated the effect of the Rashba spin splitting and a magnetic field on the energy levels of electrons in parabolic quantum dots. We find that with an increase in the Rashba parameter, the spin-orbit interaction mixes states of higher angular momentum together. In the absence of a magnetic field, the energy levels of the electrons are doubly degenerate and decrease as the Rashba parameter increases. In the presence of a magnetic field, this degeneracy is removed and the energy splitting of the spin states increases with the increase in both the Rashba parameter and the magnetic field. The Fermi energy level as a function of the magnetic field shows oscillatory behavior due to the crossings between the energy levels of the system. The magnetization of the electron gas is investigated and shows strong oscillations with the magnetic field for large values of the Rashba parameter.
+
+indium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum dots
+spin-orbit interactions
+Fermi level
+magnetisation
+two-dimensional electron gas

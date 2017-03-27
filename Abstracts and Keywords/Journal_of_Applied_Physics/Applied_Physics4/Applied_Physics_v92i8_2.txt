@@ -1,0 +1,9 @@
+The conduction mechanism in aluminum-doped zinc oxide has been studied. Structural investigation shows that crystallographic orientation as well as grain boundary scattering can be neglected. Based on the analysis of the Hall mobility, it has been found that scattering at neutral and ionized impurities dominates the mobility. Further improvement in the mobility can be achieved by lowering the density of neutral impurities through careful control of the film processing parameters. © 2002 American Institute of Physics. 
+
+zinc compounds
+aluminium
+II-VI semiconductors
+semiconductor thin films
+Hall mobility
+impurity scattering
+grain boundaries

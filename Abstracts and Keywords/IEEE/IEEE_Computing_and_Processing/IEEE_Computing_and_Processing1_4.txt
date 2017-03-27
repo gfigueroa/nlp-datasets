@@ -1,0 +1,7 @@
+We present the designs of two new lab-on-chip devices that use 3D integrated circuit technology to support the separation, purification, and assay of biological particles. Our technique is based on a nanoscale implementation of dielectrophoresis. The key feature of our designs is the use of fabrication features found in 3D technology to create on-chip, nanoscale electrode arrays. The capabilities of our designs are demonstrated with multi-physics simulations of the chips sorting heterogeneous mixtures of HSV-1 capsids.
+
+3D integrated circuits
+Bio-chip
+Cytometry
+Dielectrophoresis
+Lab-on-chip

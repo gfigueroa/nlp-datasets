@@ -1,0 +1,11 @@
+A method of data reconstruction from a digital magnetooptical disk system with diffractionlimited spot size is described. Using a linear filter with highfrequency enhancement we show that significant improvements in the storage capacity can be achieved at a reasonable cost in terms of the signaltonoise ratio. Performance is evaluated against an optimum but impractical method as well as a technique for the reconstruction of the analog waveforms.
+
+OPTICAL STORAGE
+DATA PROCESSING
+READOUT SYSTEMS
+MAGNETOOPTICAL EFFECTS
+PERFORMANCE
+BEAM PROFILES
+OPTIMIZATION
+SIGNALTONOISE RATIO
+SIGNAL PROCESSING

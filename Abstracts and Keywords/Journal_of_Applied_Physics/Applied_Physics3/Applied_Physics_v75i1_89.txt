@@ -1,0 +1,8 @@
+The stress field in laterally small strained semiconductor epilayers has been studied by the finite element method. The reaction of the epilayer on the substrate and the bulgingout effect caused by shear forces in the side wall boundaries play an important role. Analytical approximate methods are shown to be deficient. The normal stresses relax faster than a simple exponential with height z and virtually complete relaxation occurs at a height heffJ ab/2 (where a and b are the width and length, respectively, of the parallellopipidial epilayer) which is in good agreement with recent experiments. An equivalent lattice spacing fm as a function of z/ab is defined and calculated.
+
+SEMICONDUCTOR MATERIALS
+EPITAXIAL LAYERS
+STRESSES
+RELAXATION
+FINITE ELEMENT METHOD
+LATTICE PARAMETERS

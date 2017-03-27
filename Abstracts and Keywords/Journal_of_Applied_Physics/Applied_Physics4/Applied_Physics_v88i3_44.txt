@@ -1,0 +1,14 @@
+The silicon deep donor (so-called DX center) is known to exhibit a bistable charged state DX/d+ in GaAs and related compounds. We investigate the electron mobility as a function of the carrier concentration ¼(n) in a silicon doped GaAsAlAs short period superlattice at the temperature of liquid nitrogen, i.e., in the regime of metastability of the DX center. To vary the electron density, two methods are utilized: gradual photoexcitation of the DX donors or appropriate thermal capture cycles after complete photoionization of the DX donors. We observe the multivalued character of ¼(n) and hysteresis effects when tuning of the metastable DX center occupancy is achieved with various procedures. Similar behavior has been previously observed in the silicon doped AlGaAs alloy and has been explained as the result of changing the degree of the donor charge spatial correlation. Our results show the influence of the photon energy when the electron concentration is varied by illuminating the sample with above- or below-bandgap light. This is due to radically different mechanisms of persistent photoconductivity in these two spectral domains. Moreover, the strong mobility enhancement we observed in the interband regime is explained by DX charge transfers which are specific for superlattice structures. © 2000 American Institute of Physics. 
+
+gallium arsenide
+aluminium compounds
+III-V semiconductors
+silicon
+semiconductor superlattices
+electron mobility
+electron density
+electron correlations
+deep levels
+impurity states
+interface states
+photoconductivity

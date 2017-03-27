@@ -1,0 +1,10 @@
+Plasmon energies near a cubic-ZrO2 (c-ZrO2)/±-Al2O3 interface were studied by electron energy loss spectroscopy using a field-emission transmission electron microscope. The plasmon energies measured by scanning an electron probe of 1 nm in diameter across the interface showed that, approaching the interface, the plasmon energy of c-ZrO2 increases from 23.9 to 24.3 eV and that of ±-Al2O3 decreases from 24.3 to 23.4 eV. Energy dispersive x-ray spectroscopy revealed that fluctuation of the chemical composition across the interface is small (}5%) and causes only a slight change in the plasmon energies (}0.16 eV). We conclude that the large energy changes (up to 0.9 eV) are mainly caused by lattice distortion. Using the Drude model, it was found that, 3 nm from the interface, the unit cell volume of c-ZrO2 decreases by 3% and that of ±-Al2O3 increases by 6% compared with the volumes at 50 nm. The presence of lattice distortion near the interface was also confirmed by the convergent-beam electron diffraction method. The results show that plasmon loss is useful to evaluate lattice distortion. © 2000 American Institute of Physics. 
+
+corundum
+surface plasmons
+zirconium compounds
+electron energy loss spectra
+transmission electron microscopy
+X-ray diffraction
+X-ray chemical analysis
+electron diffraction

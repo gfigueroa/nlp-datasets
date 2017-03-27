@@ -1,0 +1,15 @@
+The alloying behavior of Ni and Ni/In/Ni thinfilm contacts to GaAs was studied using scanning electron microscopy and scanning Auger microscopy. A liquid was observed to form in both contacts upon annealing at 820	°C for three min. The cause of this behavior was postulated to be the presence of a ternary eutectic reaction in the galliumnickelarsenic system. Differential thermal analysis confirmed the existence in this system of the reaction L’NiGa+NiAs+GaAs at 810	°C. It was speculated that the liquid phase observed in the Ni/In/Ni contacts was due to the rapid segregation of indium metal to the contact surface and the subsequent melting of the nearly ternary interfacial region. These results demonstrated the inadequacy of rationalizing reactions between metals and compound semiconductors in terms of constituent binary phase equilibria.
+
+OHMIC CONTACTS
+NICKEL ALLOYS
+INDIUM ALLOYS
+GALLIUM ARSENIDES
+NTYPE CONDUCTORS
+FILMS
+METALLURGICAL EFFECTS
+SCANNING ELECTRON MICROSCOPY
+AUGER ELECTRON SPECTROSCOPY
+ANNEALING
+DIFFERENTIAL THERMAL ANALYSIS
+CHEMICAL REACTIONS
+SEGREGATION

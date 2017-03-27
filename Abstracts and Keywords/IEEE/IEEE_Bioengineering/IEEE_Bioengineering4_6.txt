@@ -1,0 +1,7 @@
+Previous computational models generally exclude homology out of the training set to reduce potential predictive bias. This paper proposes a hierarchical kernel to incorporate homology for more accurate similarity definition between two protein sequences. Metaphorized as the scenario of multi-instance learning, a homologous sequence is viewed as one evolutionary instance of the target sequence and all the homologous sequences constitute one homology bag. The bottom-level kernel is defined as k-mer spectrum kernel to define the similarity between any two instances; the middle-level multi-instance kernel is defined as the sum of all the spectrum kernels, actually the similarity definition between two homology bags, called Homology-based Multi-instance Kernel (HoMIKernel). By varying k-mer size and compressing 20 amino acids, we can derive multiple HoMIKernels, which are further combined into the top-level kernel called HoMIKernel+ to capture more contextual information and cover size-varying motifs. We evaluate HoMIKernel+ on Gram-negative benchmark dataset. The experiments show that HoMIKernel+ achieves better predictive performance than the baseline models and the incorporation of homologous sequences does increase the predictive performance.
+
+homology
+kernel method
+multi-instance kernel
+protein subcelluar localization
+spectrum kernel

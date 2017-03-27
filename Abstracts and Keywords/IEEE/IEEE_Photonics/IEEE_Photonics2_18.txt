@@ -1,0 +1,7 @@
+This paper discusses distributed surveillance problems, where a set of sensors, of different modalities, can sense collaboratively and continuously a certain volume of interest. Surveillance operations in complex environments, such as littoral regions, are introduced and their main features and challenges are presented. Effective cooperation among the sensors can synergistically improve the performance of these systems and can endow them with higher-level faculties, such as dynamic task allocation, communication relaying, and cooperative target search and tracking. Different forms of cooperation in distributed surveillance systems are mentioned. The paper focuses on intra-and inter-platform target cueing and handoff as augmentative forms of cooperation in distributed surveillance.
+
+Cooperation
+Cueing
+Distributed Surveillance
+Handoff
+Target Tracking

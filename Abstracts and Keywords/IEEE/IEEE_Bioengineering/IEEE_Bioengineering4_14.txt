@@ -1,0 +1,6 @@
+Oral anticoagulation therapy, largely performed by warfarin-based drugs, is commonly used for patients with a high risk of blood clotting which can lead to stroke or thrombosis. The state of the patient, with respect to anticoagulation, is captured by the index INR, which is to be kept within a therapeutic range. The patients' response is marked by high interindividual and inter-temporal variability, which can lead to serious adverse events. Polymorphisms of two genes CYP2C9 and VKORC1, considered markers of lower dosage requirements, still account for a relatively minor part of this variability. In this work, authors show that classification methods can identify groups of patients homogeneous with respect to the dynamics of INR. In particular, authors use classification methods in order to characterize patients according to their warfarin metabolism and hence their sensitivity to different doses. Finally a Markov model to capture the dynamics of the patient's response over the years is proposed.
+
+Classification
+Clustering
+Markov Models
+Oral Anticoagulation Therapy

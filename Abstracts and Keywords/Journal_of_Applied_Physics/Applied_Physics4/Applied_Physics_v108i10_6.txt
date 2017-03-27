@@ -1,0 +1,10 @@
+This paper discusses numerical simulations of the magnetic field produced by an electromagnet for generation of forces on superparamagnetic microspheres used in manipulation of single molecules or cells. Single molecule force spectroscopy based on magnetic tweezers can be used in applications that require parallel readout of biopolymer stretching or biomolecular binding. The magnetic tweezers exert forces on the surface-immobilized macromolecule by pulling a magnetic bead attached to the free end of the molecule in the direction of the field gradient. In a typical force spectroscopy experiment, the pulling forces can range between subpiconewton to tens of piconewtons. In order to effectively provide such forces, an understanding of the source of the magnetic field is required as the first step in the design of force spectroscopy systems. In this study, we use a numerical technique, the method of auxiliary sources, to investigate the influence of electromagnet geometry and material parameters of the magnetic core on the magnetic forces pulling the target beads in the area of interest. The close proximity of the area of interest to the magnet body results in deviations from intuitive relations between magnet size and pulling force, as well as in the force decay with distance. We discuss the benefits and drawbacks of various geometric modifications affecting the magnitude and spatial distribution of forces achievable with an electromagnet.
+
+biological effects of fields
+biological techniques
+electric field effects
+electromagnetic fields
+electromagnetic forces
+magnetic field effects
+molecular biophysics
+paramagnetic materials

@@ -1,0 +1,17 @@
+Ferroelectric thin films of barium titanate were fabricated by solgel technique on platinum substrates. The processing temperature was 700
+°C. The films obtained with a thickness of 1.5 ¼m were dense, transparent, and showed ferroelectricity. Scanning electron microscopy and x-ray diffraction were used for studying the surface morphology and crystallographic structure of the film. Films in the metalferroelectricmetal configuration (MFM) were used for the electrical measurements. Dielectric constant and loss tangent were found to be 430 and 0.015, respectively, at 10 kHz under ambient conditions. The õ2(T) curve shows broad peak centered around 120
+°C as in the case of diffuse phase transition. The ac conductivity is proportional to É0.9 in the low frequency region and É1.8 in the high frequency region. The dc conductivity versus temperature curve showed a change in the slope around 125
+°C, corresponding to the phase transition. To study the low temperature phase transitions, dielectric parameters on the films were measured to a temperature down to about 10 K. Remanent polarization (Pr) and coercive field (Ec) obtained from the hysteresis loop at room temperature are <2.0 ¼C/cm2 and <27 kV/cm, respectively. Capacitancevoltage studies performed on the MFM structures showed butterfly loop at 135
+°C. © 2001 American Institute of Physics.
+
+barium compounds
+ferroelectric thin films
+sol-gel processing
+dielectric polarisation
+dielectric hysteresis
+permittivity
+ferroelectric transitions
+scanning electron microscopy
+X-ray diffraction
+dielectric losses
+electrical conductivity

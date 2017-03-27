@@ -1,0 +1,5 @@
+A transmission line model, based on the transverse resonance technique, is here introduced to extract a good approximation of guided defect modes in two dimensional photonic crystals. The proposed model simulates the electromagnetic field behavior in the transverse direction. Applying the resonance condition to the proposed circuit model renders a simple and elegant dispersion relation for defect modes in the structure. The obtained results are verified by being compared against numerical results extracted by using rigorous methods.
+
+guided modes
+photonic crystal waveguides
+transverse resonance technique

@@ -1,0 +1,6 @@
+The entire Band IV/V (470-862 MHz), allocated to analogue broadcasting services in Europe and Africa, will not be used after switchover to digital TV transmission. Re-planning of broadcasting networks will exhibit the so called digital dividend, the frequencies no more necessary for DVB-T (SD and HD) and DVB-H transmissions. WRC 07 identified the 790-862 MHz band for mobile in Europe, the Middle East and Africa. The digital dividend is a viable opportunity to extend the coverage of wireless broadband networks in sparsely populated areas, as well as indoors. Mobile broadband technologies, such as HSPA and LTE, can do for broadband availability what GSM did for voice. EU is driving a bloc-wide approach on digital dividend utilization. This is likely to result in major licence auctions as the national regulators start allocating the band. The GSM licences in the 900 MHz range are going to expire in the following years. This fact extends the opportunity for new technology independent auctions for the existing GSM band.
+
+Digital dividend
+HSPA
+LTE
+digital switch over

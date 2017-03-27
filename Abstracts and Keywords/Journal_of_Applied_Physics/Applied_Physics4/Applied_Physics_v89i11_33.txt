@@ -1,0 +1,12 @@
+Ion irradiation is an excellent tool to modify magnetic properties on the submicrometer scale, without modification of the sample topography. We utilize this effect to magnetically pattern exchange bias double layers using resist masks patterned by electron-beam lithography. Ion irradiation through the masks leads to a lateral modification of the magnetization reversal behavior and allows one to study the magnetization reversal as a function of the exchange bias field strength on a single sample. Results are presented on the macroscopic and microscopic magnetization reversal using the magneto-optic Kerr effect and magnetic force microscopy, respectively. © 2001 American Institute of Physics. 
+
+iron alloys
+nickel alloys
+manganese alloys
+magnetisation reversal
+exchange interactions (electron)
+magnetic multilayers
+magnetic force microscopy
+ion beam lithography
+ion beam effects
+Kerr magneto-optical effect

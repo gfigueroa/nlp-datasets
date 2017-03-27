@@ -1,0 +1,11 @@
+The magnetic field and temperature dependence of the magnetic susceptibility is studied for the ferromagnetic layered manganites SrO(La1xSrxMnO3)2 in the composition range x=0.320.40. In the paramagnetic phase, the susceptibility exhibits an anomalous maximum at an intermediate magnetic field value. The size of this field-induced susceptibility enhancement increases dramatically with x from 10% for x=0.32 to 160% for x=0.40. The temperature dependence of the effect shows a maximum at TH1.1
+TC for all x. Quantitative analysis in terms of the Landau theory of phase transitions enables us to identify a distortion of the free energy F in the paramagnetic phase that is associated with the susceptibility anomaly. This free energy distortion corresponds to a magnetic system that approaches a first order magnetic phase transition as the temperature is lowered toward TC. Such a behavior is indicative of a second, competing order parameter, which is identified as the recently observed charge density wave. In the immediate vicinity of TC, the anomaly disappears and the system seems to undergo a more conventional second order paramagneticferromagnetic phase transition. © 2001 American Institute of Physics. 
+
+lanthanum compounds
+strontium compounds
+paramagnetic materials
+magnetic susceptibility
+magnetisation
+ferromagnetic-paramagnetic transitions
+free energy
+Curie temperature

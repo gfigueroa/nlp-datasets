@@ -1,0 +1,10 @@
+We have investigated transport properties of carriers excited in high-quality homoepitaxial diamond (100) films by 5.6eV photons or 15keV electrons. The high-quality single-crystalline diamond films were homoepitaxially grown on type-Ib diamond substrates at a rate of 2.5¼mh by high-power microwave-plasma chemical-vapor-deposition (MPCVD). In cathodoluminescence (CL) measurements, strong free-exciton recombination emissions were observed at room temperature from the almost whole specimen surface, indicating the grown films have substantially high quality. It is found through an analysis of the visible emission band originating from the type-Ib substrate that decay constants estimated for excited carriers were <5¼m in the depth direction. This is consistent with the fact that the intensity of spotlike CL images varied with an exponential function of the lateral length. From transient photocurrent measurements using ultrashort pulse laser excitations, decay times Ä for the present high-quality diamond were estimated to be 15 and 100ns for electrons and holes, respectively. Charge collection distances at an electric field E of 830Vcm were deduced to be <190¼m and over 1.2mm for electrons and holes, respectively. The former may give a high electron drift mobility of ¼<1600cm2Vs while the diffusion coefficients estimated for electrons are 55±14cm2Vs, which is comparable with or even higher than those of Si. These physical quantities demonstrate high quality of the diamond films grown by means of the high-power MPCVD method.
+
+diamond
+epitaxial layers
+plasma CVD
+carrier lifetime
+electron mobility
+photoconductivity
+cathodoluminescence
+excitons

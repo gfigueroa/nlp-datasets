@@ -1,0 +1,9 @@
+Making use of hydrodynamics theory, we have studied effects of electron emission from a solid surface on steady-state argon plasma sheaths in which the emitted electron-neutral atom collisions and the ion-neutral atom collisions are taken into account. Numerical results indicate that the effects of electron emission on the distributions of the sheath parameters such as the sheath electric field and the ion densities are obvious as the neutral gas density increases or the beam current density of the emitted electrons increases. © 2000 American Institute of Physics. 
+
+plasma sheaths
+plasma kinetic theory
+ion density
+plasma density
+thermionic electron emission
+secondary electron emission
+plasma-wall interactions

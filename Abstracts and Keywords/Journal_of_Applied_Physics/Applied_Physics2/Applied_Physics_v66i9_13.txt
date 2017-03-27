@@ -1,0 +1,8 @@
+Laser cutting of biological matter is explained by a combined action of evaporation and ejection of liquid. It is shown that when the depth of the incision is larger than its diameter and when a certain critical value of the intensity is exceeded, a new effect, a turbulent flow of the liquid layer, emerges as a result of the increased vapor pressure gradient. This turbulent flow is accompanied by the appearance of a number of additional effects. These are the occurrence of a local minimum in the dependence of the normalized recoil momentum as a function of the position of the beam focus, the formation of bumps and, connected with this, a change in the extent and velocity of the ejection. These effects are experimentally studied in the present investigation. In addition, it is shown that for cutting soft tissue the accuracy of focusing has a crucial influence on the depth of the generated incision and the extension of the created thermal damage zone.
+
+LASER RADIATION
+SURGERY
+ANIMAL TISSUES
+EVAPORATION
+LIQUIDS
+TURBULENT FLOW

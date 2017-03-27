@@ -1,0 +1,18 @@
+Specific heat results are reported for the intermetallic rare earth compounds Lu6Mn23, Gd6Mn23, Dy6Mn23, and Er6Mn23 in the temperature range 1.718 K. No evidence was found which indicated changes in magnetic spin structure for Gd6Mn23 and Dy6Mn23. The origin of a broad bump in the region from 28 K for Er6Mn23 is not understood. The specific heat of the diamagnetic compound Lu6Mn23 was well described by the expression, C=³T+±T3+´T5, where ³=0.277±0.005 and ´=0.00285±0.00005 when C is in units of J/mol K. From the value of ±, ¸D was calculated to be 270±2 K.
+
+lutetium compounds
+gadolinium compounds
+dysprosium compounds
+erbium compounds
+manganese compounds
+specific heat
+ultralow temperature
+very low temperature
+intermetallic compounds
+rare earths
+magnetism
+spin
+experimental data
+diamagnetism
+equations
+debye temperature

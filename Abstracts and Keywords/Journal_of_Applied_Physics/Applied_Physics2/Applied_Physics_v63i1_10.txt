@@ -1,0 +1,8 @@
+In this study we have examined the effect of temperature dependence of switching using a simple probe pulse waveform. The effect of more complex waveforms shows that the area law is observed for switching, but the magnitude of the area depends on the shape of the pulse employed. Switch and latch behavior is found all across the smectic C range, although the switching time increases as the temperatures decrease. Symmetry in switching was also observed across the entire smectic C range. The decrease in the switching speed is primarily due to the increase in the viscosity of the material, which for the most part behaves in an Arrhenius fashion. An unexpected and unusual phase transition around 3	°C was found which is most likely of the smecticCtosmecticI type. This unusual behavior of the phase transition may be due to the complexity of the mixture producing this phase.
+
+SWITCHING
+SMECTIC CRYSTALS
+FERROELECTRIC PHASE TRANSFORMATIONS
+ELECTROOPTICAL EFFECTS
+TEMPERATURE EFFECTS
+PULSES

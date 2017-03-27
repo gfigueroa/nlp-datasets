@@ -1,0 +1,12 @@
+Photoluminescence (PL) spectra of CdTe single crystals and films, undoped and Ag-doped, were studied in the range of the photon energy (h½):	1.51.6 eV, at 10 K. Films were doped during the growth process. Thin layers of Ag were vacuum evaporated onto the surface of undoped CdTe crystals, then were submitted to thermal annealing in a N2+2% H2 ambient at 400
+°C for 3 h. PL spectra of crystals exhibit a donoracceptor pair (DAP) emission at h½=1.491	eV (named here DAPAg2) with the highest intensity with respect to other signals. The PL of films is characterized by a peak at 1.5 eV followed by several phonon replicas. In both cases, the DAP emissions are due to the Ag-impurity presence and are accompanied by phonon replicas. Unannealed intrinsic crystals exhibit a unique broad DAPAg1 peak at h½=1.501	eV, and one month aged at room temperature Ag-doped crystals only display a wide DAPAg2 peak at h½=1.491	eV with 65% of its initial intensity, that reflects a reduced density of Ag diffused-doping levels. The origin of DAP lines in a PL spectra of CdTe:Ag has not been completely well defined until now, and we have introduced some explanatory conclusions about and a simple model for electronic transitions. This issue is important because Ag is an everpresent residual impurity in CdTe. © 2003 American Institute of Physics. 	 
+
+cadmium compounds
+II-VI semiconductors
+silver
+semiconductor thin films
+photoluminescence
+annealing
+spectral line intensity
+phonons
+impurity states

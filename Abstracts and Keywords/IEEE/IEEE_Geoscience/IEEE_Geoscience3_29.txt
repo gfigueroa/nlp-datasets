@@ -1,0 +1,6 @@
+In this paper the practical implementation of a flow-based method for the allocation of limited cross-border transmission capacity is modeled. In order to evaluate the efficiency of the approach compared to traditional methods based on bilateral conventions for the trading transactions, economic and technical performance indicators are presented. The developed approach is applied to a model of the Central Western European region. The results show that the flow-based method can improve the network efficiency leading to lower generation cost and higher economic welfare in the regarded region. The necessary simplifications of the load flow equations cause inevitable deviations of the estimated flows but the general behavior is uncritical. Apart from that, single situations require a sensitive monitoring by the involved parties.
+
+congestion management
+electricity markets
+flow-based market coupling
+power transfer distribution factors

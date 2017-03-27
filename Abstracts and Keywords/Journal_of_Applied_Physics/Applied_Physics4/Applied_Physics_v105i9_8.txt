@@ -1,0 +1,10 @@
+This paper investigates the generation of power at terahertz frequencies by a single-walled semiconducting carbon nanotube (s-SWCNT). The prediction of negative differential resistance (NDR) in s-SWCNTs allows for their consideration as a Gunn-type oscillator. Here we consider the regime of limited-space-charge accumulation within nanotubes biased with a potential along the tube axis. This regime minimizes the growth of high-field domain regions, which may be destructive to the nanotube, and allows for efficient high-power operation. Results show that a high-power, efficient, miniaturized, room temperature source of terahertz radiation is possible by appropriate biasing of the s-SWCNT element in the NDR region of operation. Nanotubes of diameter (d) 0.84.5 nm are considered. The generated ac power (Pac) is found to range in the ¼W/¼m range, reaching values as high as 13¼W/¼m at high bias and small diameter. Very large generation efficiencies (·) were found with a maximum value of 20% at high bias and small d. For a fixed dc bias field to NDR threshold field ratio, performance parameters are found to decrease with increasing s-SWCNT tube diameter as Pac < d2 and · < d1/3. Frequencies of operation where found to span the terahertz regime, indicating that a s-SWCNT may serve as the active element in terahertz oscillator diodes.
+
+carbon nanotubes
+elemental semiconductors
+Gunn oscillators
+limited space charge accumulation
+negative resistance
+semiconductor nanotubes
+terahertz wave generation
+terahertz wave spectra

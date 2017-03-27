@@ -1,0 +1,6 @@
+The approach of this study is to install a realtime concentration monitoring system in a slurry blending system with the main intention of replacing a complex auto-titration system for cost reduction and optimization of the blending process. A Swagelok CR-288 concentration sensor was installed in a Kinetics Slurry Blending System to monitor in real-time the peroxide concentration of the slurry batch from the initial stage of slurry mixing to the final step of supplying the qualified slurry to the CMP polishers. The integration of the realtime concentration sensor in the slurry blending system contributed to a 60% cost reduction in the equipment cost of ownership (COO) as well as the optimization of the blending process parameters.
+
+Chemical Mechanical Planarization (CMP)
+Cost of Ownership (COO)
+Index of refraction (IoR)
+Supervisory Control And Data Acquisition (SCADA)

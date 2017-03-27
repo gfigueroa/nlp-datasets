@@ -1,0 +1,8 @@
+Wei et al. [J. Appl. Phys. 85, 7418 (1999)] performed the room temperature spectroscopic ellipsometry to determine the dielectric function of CdTe1xSx films. They have fit the obtained dielectric function using the Holdens model dielectric function [Phys. Rev. B 56, 4037 (1997)], and derived conclusions about the line shape at the band gap E0. However, their description of the fitting procedure is ambiguous, and some model parameters in Table I [J. Appl. Phys. 85, 7418 (1999)] are missing which makes it impossible to reproduce their calculations. Furthermore, the results of Wei et al. [J. Appl. Phys. 85, 7418 (1999)] do not represent conclusive proof of the advantages of their approach over other models available in the literature. © 2000 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+semiconductor thin films
+ellipsometry
+dielectric function
+spectral line breadth

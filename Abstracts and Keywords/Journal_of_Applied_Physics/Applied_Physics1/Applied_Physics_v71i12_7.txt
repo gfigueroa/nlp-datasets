@@ -1,0 +1,10 @@
+The Si doping efficiency (a[e]/[Si]) in homoepitaxial GaAs has been measured as a function of molecular beam epitaxial growth conditions (As pressure, substrate temperature, and growth rate) and postgrowth thermal annealing conditions. The doping efficiency decreases from one under optimal growth conditions to almost zero: (1) exponentially with inverse substrate temperature below 400	°C and (2) as a power law in the As4toGa beamequivalent fluence ratio above unity. The doping efficiency of nonoptimally grown films increases from almost zero to near one upon postgrowth thermal annealing above 650	°C with slower than exponential kinetics. These changes are attributed to charge trapping into and release from, respectively, excessAsrelated defects, which are incorporated during growth and removed by outdiffusion during annealing.
+
+GALLIUM ARSENIDES
+CRYSTAL DOPING
+MOLECULAR BEAM EPITAXY
+THIN FILMS
+HALL EFFECT
+SILICON ADDITIONS
+CHARGE CARRIERS
+NONSTOICHIOMETRY

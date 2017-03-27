@@ -1,0 +1,19 @@
+In ² alumina used as a solid electrolyte in Na/S batteries, the formation of metallic centers is probably at the origin of the degradation. In silver ² ferrite (	² aluminatype compound), silver metallic centers are directly formed by reduction of Ag+ by Fe2+ and consequently the mechanism of metallic precipitation can be studied. Xray diffuse scattering investigation shows that the silver atoms cluster together into twodimensional aggregates, which are surrounded by regions poor in Ag. With heating, the clusters first grow in size, silver atoms remaining on the sites along the honeycomb lattice. Then, the silver precipitation arises and is probably enhanced by collapse of the ² alumina structure into the spinel one.
+
+precipitation
+solid electrolytes
+electric batteries
+x radiation
+scattering
+silver
+solid clusters
+silver ions
+whiskers
+crystal defects
+agglomeration
+degradation
+ferrites
+silver compounds
+heating
+potassium ions
+reduction

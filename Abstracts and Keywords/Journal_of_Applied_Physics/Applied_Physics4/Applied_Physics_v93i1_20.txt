@@ -1,0 +1,13 @@
+The magnetic properties of FePt samples, potential materials for high density recording media, depend sharply on the degree of chemical ordering produced during their preparation. This has prompted our investigation of the chemical order in both paramagnetic (P) and ferromagnetic (F) phases of a Fe0.5Pt0.5 solid solution and its effect upon the magnetocrystalline anisotropy (MAE) of the latter phase. Our first-principles theory uses density functional electronic structure calculations and a mean field treatment of both compositional and magnetic local moment fluctuations. We find both phases to be unstable to L10 (CuAu)-type order below temperatures of 1975 K (P) and 1565 K (F) which compares well with that found experimentally (H1600 K) and our estimate of the Curie temperature as 575 K is also in fair agreement (710 K). For L10 order the calculated MAE is uniaxial with a simple form, ÅL10c(0,0,1)2
+sin2
+¸, where the coefficient ÅL10=9.7×108	erg/cm3, c(0,0,1) is the degree of order (between 0 and 0.5) and ¸ is the angle between the magnetization direction and the magnetic easy axis, which lies perpendicular to the layering of the L10 structure, also consistent with experimental data. Tetragonal distortions of the underlying face-centered-cubic lattice that occur as chemical order sets in are found to have a much smaller effect on the MAE. © 2003 American Institute of Physics. 
+
+iron alloys
+platinum alloys
+ferromagnetic materials
+magnetic anisotropy
+paramagnetic materials
+Curie temperature
+ab initio calculations
+density functional theory
+chemical structure

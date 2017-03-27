@@ -1,0 +1,7 @@
+Multilevel Reed-Solomon (RS) codes are powerful types of generalized concatenated codes which can improve the error-correcting capability of RS codes without resorting to large finite fields. The redundancy has to be non-uniformly distributed over the rows in order to maximize the minimum distance of multilevel RS codes. So the straightforward columnwise interleaving is not the efficient way of interleaving in these schemes. In this paper, we provide optimal interleaving algorithms in order to maximize the burst-correcting capability of multilevel RS codes.
+
+burst error-correction
+generalized concatenated codes
+interleaving algorithm
+multilevel codes
+optimal interleaving

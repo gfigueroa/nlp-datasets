@@ -1,0 +1,9 @@
+Incorporating the volumetric change due to local solid reaction in the theory of diffusion-induced stress, a general relation is derived among concentration of solute atoms, local reaction product, and mechanical stress. This relation describes the dependence of local stress on the local dilatation created by diffusion of solute atoms and local solid reaction. Assuming that the elastic properties of an isotropic thin plate are constants independent of reaction product and concentration of solute atoms, closed-form solutions of the diffusion-induced deformation fields in the plate are obtained when the plate is free of external stress and subjected to a constant concentration of solute atoms on surface. Local solid reaction significantly increases the stress on the surface of the plate, which can potentially cause structural degradation.
+
+diffusion
+elastic constants
+elastic deformation
+failure (mechanical)
+numerical analysis
+plates (structures)
+stress effects

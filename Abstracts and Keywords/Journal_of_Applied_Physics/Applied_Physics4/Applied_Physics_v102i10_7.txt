@@ -1,0 +1,4 @@
+The electrical conductance of single- and double-wall carbon nanotube systems was measured by a mechanically controllable break-junction technique using freestanding nanotubes not subject to any chemical modification. For metallic single-wall carbon nanotubes, two channels with transmission coefficient of 0.88 contribute to ballistic electronic transport at room temperature. In double-wall carbon nanotubes, one metallic channel contributes to ballistic electronic transport and additional field- and temperature-dependent two-channel contributions were observed.
+
+ballistic transport
+carbon nanotubes

@@ -1,0 +1,7 @@
+Short-range atomic structures including the chemical environment and interatomic distance along the in- and out-of-plane directions in [Co(1ML)/Pd(3ML)]13 multilayer films (ML notes monolayer) are studied using polarized Co K-edge extended x-ray absorption fine structure. The chemical Co environment is found to be isotropic. The alloy-like character is dominant at interfaces in typical Co/Pd multilayers and yields perpendicular magnetic anisotropy (PMA) through the strain anisotropy of Co atoms. The broken symmetry, generally considered as of PMA origin, is not definitely necessary to result in PMA in Co/Pd multilayers. © 2001 American Institute of Physics. 
+
+cobalt
+palladium
+magnetic multilayers
+perpendicular magnetic anisotropy
+EXAFS

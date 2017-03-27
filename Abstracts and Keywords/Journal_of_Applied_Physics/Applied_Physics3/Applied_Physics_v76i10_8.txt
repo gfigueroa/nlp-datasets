@@ -1,0 +1,13 @@
+The impurity effects on the phase transformation in a single crystal of PbTiO3 have been studied by insitu xray diffraction technique. Two single crystals were employed for this study with one containing a noticeable amount of impurities. For the pure sample, a hysteresis of the structural parameters such as lattice constants with respect to temperature for the cubictotetragonal phase transformation is found. Such a hysteresis loop is typical of the martensitic phase transformation. Existence of the athermal regions has been reported for the first time. The athermal regions were found to be asymmetric between heating and cooling cycles. Furthermore, the lattice parameters in both athermal regions show different behavior. These are caused by microstrain effects during growth of the product phase. In fact, within the athermal regions both the cubic and tetragonal phases are highly strained due to coherency strain. The sample with impurities has shown the existence of embryonic tetragonal fluctuations at temperatures far above Tc. The presence of impurities lowers Tc, and results in a wider hysteresis. The athermal regions are narrower for the sample with impurities, suggesting preferred heterogeneous nucleation at impurity defects.
+
+LEAD TITANATES
+PHASE TRANSFORMATIONS
+XRD
+IMPURITIES
+CUBIC LATTICES
+TETRAGONAL LATTICES
+MONOCRYSTALS
+CRYSTAL STRUCTURE
+LATTICE PARAMETERS
+TEMPERATURE DEPENDENCE
+HYSTERESIS

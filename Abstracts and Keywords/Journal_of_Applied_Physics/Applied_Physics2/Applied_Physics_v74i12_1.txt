@@ -1,0 +1,10 @@
+Spall strength measurements for commerical grade molybdenum and molybdenum single crystals were made in a wide range of load durations (<109 s  106 s) and intensities (<5  100 GPa). Resistance to fracture of pure single crystals was found to exceed two times the spall strength of polycrystalline molybdenum and to increase with shorter load duration. The value of the shock wave amplitude does not influence the spall strength of single crystals. The largest spall strength obtained under nanosecond load duration amounts to 30% of the ultimate theoretical strength.
+
+MOLYBDENUM
+MONOCRYSTALS
+YIELD STRENGTH
+LOADING
+PRESSURE EFFECTS
+VERY HIGH PRESSURE
+SHOCK WAVES
+NS RANGE

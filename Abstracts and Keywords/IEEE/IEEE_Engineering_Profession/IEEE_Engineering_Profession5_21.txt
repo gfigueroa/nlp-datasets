@@ -1,0 +1,7 @@
+We proposed a novel 90&#x00B0; hybrid using a paired-interference based linearly tapered 2&#x00D7;4 multimode interference (MMI) coupler and a 2&#x00D7;2 MMI coupler. We theoretically calculated and experimentally demonstrated that the proposed 90&#x00B0; hybrid has very short device length of ~227 &#x03BC;m and is never accompanied by any waveguide intersections for performing balanced detection. The proposed device exhibited quadrature phase response with a relative phase deviation of &lt;;&#x00B1;5&#x00B0; over C-band spectral range.
+
+Coherent detection
+MMI coupler
+Optical waveguide device
+QPSK demodulator
+optical hybrid device

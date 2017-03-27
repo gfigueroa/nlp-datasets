@@ -1,0 +1,6 @@
+This paper describes a sparse priority queue suitable for reporting the results from a sequence database search, using a self-timed protocol. The prioritization is simplified through an insertion sort scheme with no greater/less than logic. The resulting implementation promises to be compact, fast, and suitable for the specified application area. The architectural design has been validated on a prototype platform with Altera Cyclone II field programmable gate array (FPGA).
+
+Hardware sorter
+insertion sort
+priority queue
+self-timed queue

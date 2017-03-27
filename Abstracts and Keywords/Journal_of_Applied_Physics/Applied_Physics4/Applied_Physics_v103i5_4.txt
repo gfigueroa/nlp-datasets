@@ -1,0 +1,12 @@
+It has been established that deviations from stoichiometry during the growth of ZnSe crystals result in point defects, which influence its electronic properties. We report on detailed photoluminescence results and their systematic analysis for ZnSe nanowires. We studied photoluminescence from vapor-phase grown undoped ZnSe nanowires grown under excess Zn conditions, and in particular the dependence on excitation intensity. Luminescence spectra were characterized by strong near-band-edge luminescence with negligible deep-level emission. We observed excitonic emission at 2.794 eV related to the neutral donor at VSe. The binding energy of the exciton was found to be 7 meV, and that of the donor was 35 meV. Two donor-acceptor pair transitions at 2.714 and 2.686 eV were also observed, which can be related to the defect complexes of native defects with other native defects or with common unintentional shallow donors and acceptors. The ionization energies of both donors were 27 meV, whereas those of the acceptors were 102 and 139 meV, respectively.
+
+binding energy
+excitons
+II-VI semiconductors
+impurity states
+nanowires
+photoluminescence
+point defects
+stoichiometry
+wide band gap semiconductors
+zinc compounds

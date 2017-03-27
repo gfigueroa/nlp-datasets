@@ -1,0 +1,19 @@
+The contemporary wonder of sciences and engineering has recently refocused on the beginning point of them: how the brain processes internal and external information autonomously and cognitively rather than imperatively as those of conventional computers. Cognitive Informatics (CI) is a transdisciplinary enquiry of computer science, information sciences, cognitive science, and intelligence science that investigates into the internal information processing mechanisms and processes of the brain and natural intelligence, as well as their engineering applications in cognitive computing. This paper reports a set of 9 position statements presented in the plenary panel of ICCI'10 on Cognitive Informatics and Its Future Development contributed from invited panelists who are part of the world's renowned researchers and scholars in the field of cognitive informatics and cognitive computing.
+
+Cognitive informatics
+ICCI
+RTPA
+abstract intelligence
+artificial intelligence
+cognitive computers
+cognitive computing
+computational intelligence
+concept algebra
+denotational mathematics
+eBrain
+engineering applications
+granular algebra
+machinable intelligence
+natural intelligence
+system algebra
+visual semantic algebra

@@ -1,0 +1,14 @@
+Understanding the neuron/material adhesion is important for neuron stimulation and growth. The current challenges remain in the lack of precision of measuring techniques and understanding the behavior of neuron. Here, we report a fluid shear method to investigate adhesion at the neuron/poly-D-lysine interface. In this study, the adhesion of 12-day-old chick embryo-retina neurons cultured on poly-D-lysine coated glass coverslips was measured via parallel disk rotational flow. The shear stress experienced by the cells increases with the disk radius. There is a critical point along the radius (Rc) where the stress experienced by the neurons equals their adhesion. The measured Rc can be used to calculate the neuron adhesion. Our results demonstrate that neurons adhered to the poly-D-lysine had a strain hardening effect. The adhesive shear stress of the neuron-material increased with applied shear (Äa). When the Äa reached or exceeded the value of 40dyn/cm2, the adhesion remained constant at approximately 30dyn/cm2. The present work allowed us not only to quantify the adhesive strength and force but also to evaluate the value of strain hardening at the neuron/poly-D-lysine interface.
+
+adhesion
+biomechanics
+biomedical materials
+biomedical measurement
+cellular biophysics
+hardening
+neurophysiology
+polymers
+prosthetics
+stress measurement
+tissue engineering
+work hardening

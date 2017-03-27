@@ -1,0 +1,14 @@
+The growth and characterization of GaxIn1xP (x=0.51, 0.65, 0.69) are described in this paper. The organometallic vaporphase epitaxial (OMVPE) growth was carried out in an atomospheric pressure reactor using trimethylgallium (TMGa), trimethylindium (TMIn), and phosphine (PH3). GaAs and commercially available hydride vaporphase epitaxial GaAs0.70P0.30 and GaAs0.61P0.39 were used as the substrates. The influence of growth temperature and V/III ratio on the properties of the OMVPE epilayers was studied. This resulted in the determination of an optimum growth temperature of 625	°C and an optimum V/III ratio range of 4050. The results of the mismatch due to the different lattice constants of the GaxIn1xP epilayer and the substrate were investigated. It was found that highquality GaxIn1xP epilayers can be obtained only when the mismatch ”a/a0 is less than 1×103. Under the conditions mentioned above, epilayers were reproducibly obtained with featureless surface morphologies, and photoluminescence (PL) with high intensities and narrow halfwidths (4143 meV at 300 K). The dislocation etch pit densities 	Á of Ga0.65In0.35P and Ga0.69In0.31P epilayers were 7.48.6×104 cm2, grown lattice matched to GaAs1yPy (	y=0.30, 0.39) substrates with 	Á=6.47.5×105 cm2. The degradation of PL intensity after annealing at temperatures between 400 and 600	°C in H2 or N2 indicates an increase in the surface recombination velocity for GaInP epilayers. Etching 30 Å from the surface was found to restore the original PL intensity.
+
+VAPOR PHASE EPITAXY
+CHEMICAL VAPOR DEPOSITION
+LATTICE PARAMETERS
+MORPHOLOGY
+ANNEALING
+PHOTOLUMINESCENCE
+DISLOCATIONS
+RECOMBINATION
+ETCHING
+ETCH PITS
+GALLIUM PHOSPHIDES
+INDIUM PHOSPHIDES

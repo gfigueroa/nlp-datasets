@@ -1,0 +1,7 @@
+In an effort to assess effective linear dimensionality of hyperspectral images, a notion of virtual dimensionality (VD) has been developed, and it is being used in many papers. In this paper, we argue that VD is not a suitable method for that purpose. We then introduce an alternative method to VD that we call the Modified Broken-Stick Rule. We show a numerical example of implementing the new method on an AVIRIS image (used in previous studies) for which VD cannot be defined.
+
+covariance matrix
+effective dimensionality
+eigenvalues
+hyperspectral imagery
+virtual dimensionality

@@ -1,0 +1,14 @@
+We study the anomalous acoustic softening behavior in La68xCexAl10Cu20Co2 (x = 0, 34, and 68) metallic glasses by magnetic susceptibility, thermal expansion, and specific heat at low temperatures. The Ce-based metallic glass exhibits valence fluctuation phenomenon, anomalous thermal expansion and acoustic Grüneisen parameter at low temperatures. And we provide experimental evidence of the existence of strong electronphonon coupling in the Ce-based metallic glasses by specific heat. The anomalous acoustic and thermal properties are attributed to the valence instability in the metallic glasses.
+
+aluminium alloys
+cerium alloys
+cobalt alloys
+copper alloys
+electron-phonon interactions
+Gruneisen coefficient
+lanthanum alloys
+magnetic susceptibility
+metallic glasses
+mixed valence compounds
+specific heat
+thermal expansion

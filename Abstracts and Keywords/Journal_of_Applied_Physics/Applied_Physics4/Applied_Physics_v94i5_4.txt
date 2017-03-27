@@ -1,0 +1,7 @@
+Glide and creep in three crystal structures (rocksalt ceramics, and cubic and wurtzite semiconductors) are quantitatively related. Two deformation regimes with different temperature dependences are observed. The underlying activation energies obey the same laws in each regime, and are interpreted in terms of diffusion-controlled mechanisms. The physical origin of this correspondence may be sought in the interatomic binding that is predominantly covalent for the different crystal structures. These results eventually corroborate a former suggestion, that the kink mechanism of dislocation glide of tetrahedrally coordinated semiconductors may be basically governed by an elementary diffusion step. A bond-breaking mechanism, however, may not be totally ruled out. © 2003 American Institute of Physics. 
+
+semiconductors
+creep
+ceramics
+slip
+plasticity

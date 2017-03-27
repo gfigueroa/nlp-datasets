@@ -1,0 +1,11 @@
+Test structures consisting of shallow trench isolation (STI) structures are fabricated using advanced silicon (Si) technology. Different process parameters and geometrical features are implemented to investigate the residual mechanical stress in the structures. A technology computer aided design homemade tool, IMPACT, is upgraded and optimized to yield strain fields in deep submicron complementary metaloxidesemiconductor devices. Residual strain in the silicon substrate is measured with micro-Raman spectroscopy (¼-RS) and/or convergent beam electron diffraction (CBED) for large (25 ¼m) and medium size (2 ¼m), while only CBED is used for deep submicron STI (0.22 ¼m). We propose a methodology combining CBED and technology computer aided design (TCAD) with ¼-RS to assess the accuracy of the CBED measurements and TCAD calculations on the widest structures. The method is extended to measure (by CBED) and calculate (by TCAD) the strain tensor in the smallest structures, out of the reach of the ¼-RS technique. The capability of determining, by both measurement and calculation, the strain field distribution in the active regions of deep submicron devices is demonstrated. In particular, it is found that for these structures an elastoplastic model for Si relaxation must be assumed. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+electron diffraction
+Raman spectra
+isolation technology
+semiconductor process modelling
+internal stresses
+CMOS integrated circuits
+elastoplasticity

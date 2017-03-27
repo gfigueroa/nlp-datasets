@@ -1,0 +1,10 @@
+The deposition kinetics of hydrogenated amorphous silicon (aSi:H) from a SiH4 glowdischarge plasma have been investigated by examining the diffusion of SiH3 monoradicals in the dischargefree space within a triode reactor. This experiment suggests that the SiH3 radicals are responsible for about 37% of the total deposition rate of aSi:H in a conventional SiH4 glowdischarge process. The contribution of other radicals and atoms to the deposition rate is also discussed through the analysis of reactionrate constants.
+
+GLOW DISCHARGES
+SILICON
+SILANES
+CHEMICAL VAPOR DEPOSITION
+HYDROGEN
+RADICALS
+FILM GROWTH
+KINETICS

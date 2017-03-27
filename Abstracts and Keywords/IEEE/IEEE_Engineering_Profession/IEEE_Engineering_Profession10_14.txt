@@ -1,0 +1,6 @@
+This paper evaluates the potential market for experience-optimized service delivery also known as Quality of Experience (QoE). The competitive environment, market potential as well as revenue and cost estimations are part of the analysis that has been conducted within the EUREKA CELTIC project RUBENS. Major findings imply an implicit demand for QoE that remains to be explicated and initiated. A major driver for QoE technologies is the need for network operators to be able to deliver new, personalized and video related services with the quality levels that customers expect. This driver goes along with expected network congestion in the future and the wish for network efficiency increases. This results in the need for access and aggregation networks to become more cost efficient, whereas increasing expenditures for control and application servers would be coherent to customer expectations.
+
+QoE
+QoE value network
+Scenario Analysis
+Target Costing

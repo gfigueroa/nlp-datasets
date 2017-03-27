@@ -1,0 +1,26 @@
+The relationships among the equivalent oxide thickness (EOT), nanochemistry, and nanostructure of atomic layer chemical-vapor-deposited (ALCVD) HfO-based films, with oxide and nitrided oxide interlayers on Si substrates, were studied using x-ray photoelectron spectroscopy (XPS), high-resolution transmission electron microscopy (HRTEM), scanning transmission electron microscopy (STEM) in annular dark-field imaging (ADF), and parallel electron energy-loss spectroscopy (PEELS), capacitancevoltage, and leakage-currentvoltage measurements. The XPS (Hf
+4f binding energy shift) studies indicated the formation of HfOSi bonds in as-deposited amorphous films, the amount of which was influenced by the interlayer composition and annealing conditions. After post-deposition annealing in N2 and O2, the HfO layers were nanocrystalline. Although HRTEM images showed a structurally sharp interface between the HfO layer and the interlayer, angle-resolved XPS, ADF imaging, and PEELS in the STEM revealed a chemically diffused HfSiOx region in between. This interdiffusion was observed by the detection of Si (using Si
+L edge) and Hf (using Hf
+O2,3 edge) in the HfO layer and the interlayer. For an annealed HfO/interlayer stack, with an ALCVD target thickness of 4.0 nm for the HfO layer on 1.2 nm of nitrided chemical oxide, the experimentally measured EOT and leakage current (at 1 V) were 1.52 nm and <108	A/cm2. A three-layer (1.2 nm interlayer of nitrided chemical oxide/compositionally graded, 2 nm region of HfSiOx/2	nm HfO2 layer) capacitor model was used to determine the respective contributions to the measured EOT, and the dielectric permittivity of the interlayer was found to be 6.06. These studies clearly indicate that a total EOT of 1 nm and below is attainable in the HfNOSi/SiNO system. © 2004 American Institute of Physics. 
+
+hafnium compounds
+dielectric materials
+dielectric thin films
+amorphous state
+nanostructured materials
+atomic layer deposition
+chemical vapour deposition
+leakage currents
+current density
+binding energy
+bonds (chemical)
+annealing
+chemical interdiffusion
+permittivity
+electron energy loss spectra
+transmission electron microscopy
+X-ray photoelectron spectra
+semiconductor-insulator boundaries
+scanning electron microscopy
+silicon
+elemental semiconductors

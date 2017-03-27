@@ -1,0 +1,18 @@
+SnO2 and its Mn alloy thin films have been grown on Al2O3(0001) substrates by reactive radio-frequency magnetron sputtering performed in the presence of O2 gas. The prepared films showed preferred orientation in the [100] direction of the rutile structure of SnO2. The O2/Ar gas-flow ratio maintained during the sputtering was found to significantly affect the crystalline quality and stoichiometry of the films. The optical constants of the SnO2 and Sn1xMnxO2
+(x}0.27) films were measured by spectroscopic ellipsometry in the 25 eV photon energy region. The band-gap energy of SnO2 is determined to be 3.86 eV and that of Sn1xMnxO2 increases for x}0.11 and then decreases for the higher x, exhibiting a negative bowing. The initial increase of the band-gap energy is attributable to the hybridization between localized Mn
+d states located near the band gap and O
+p-like valence bands. The decrease of the band-gap energy is interpreted as due to the SnO2MnO2 alloying effects. © 2003 American Institute of Physics. 
+
+tin compounds
+manganese compounds
+wide band gap semiconductors
+semiconductor thin films
+sputter deposition
+semiconductor growth
+stoichiometry
+crystal structure
+ellipsometry
+optical constants
+energy gap
+valence bands
+localised states

@@ -1,0 +1,8 @@
+In this article, a simple physical model describing the current transport mechanism in shallow Si p-n junctions containing silicide spikes is proposed and discussed. It includes analytical calculations of maximum electrical field around a silicide spike tip and tunneling probability of electrons at the silicide/silicon interface. The athermal behavior of the reverse current in shallow junctions containing silicide spikes is explained in terms of electric field enhancement at the sharp spikes and the resulting dominance of electron field-emission across the silicide/silicon Schottky barrier. The model also allows extraction of important parameters of such shallow junctions, such as the average radius of the silicide spikes. © 2002 American Institute of Physics. 
+
+silicon
+silicon compounds
+semiconductor-metal boundaries
+tunnelling
+carrier mobility
+Schottky barriers

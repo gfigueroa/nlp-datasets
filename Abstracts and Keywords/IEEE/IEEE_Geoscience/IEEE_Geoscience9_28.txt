@@ -1,0 +1,7 @@
+A new digital implementation of continuous-time ripple correlation control (RCC) for maximum power point tracking of photovoltaic (PV) panels. This implementation is straightforward and provides easy and convenient expansion to multiple-panel PV systems. The simple graphical user interface developed helps control and monitor the panels, with the options of manual control or RCC. Digital implementation provides a suitable environment for phase-shift compensation which usually leads to convergence problems with RCC. Results show that over 95% convergence accuracy is achieved using the proposed implementation.
+
+Maximum power point tracking
+digital control of photovoltaics
+microconverter
+multi-panel phovoltaic systems
+ripple correlation control

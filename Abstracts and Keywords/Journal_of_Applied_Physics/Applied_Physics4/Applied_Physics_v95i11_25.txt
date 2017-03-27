@@ -1,0 +1,11 @@
+Tensile and compressive loading experiments were conducted at room temperature on a thin slab (1 mm) of Ni50Mn33Ga17 single crystal ferromagnetic shape memory alloy while subjected to cyclic magnetic field (up to 550 kA/m). Tensile loads ranged from 0.4 MPa to 0.8 MPa while compressive loads ranged from 0.4 MPa to 2.2 MPa, with increasing compressive loads resulting in a reduced overall strain. Results indicate that magnetic field produces significant strains (over 4%) within the material. Experimental data also show that a tensile load reduces the required magnetic field for actuation by almost 80%. © 2004 American Institute of Physics. 
+
+nickel alloys
+manganese alloys
+gallium alloys
+ferromagnetic materials
+internal stresses
+shape memory effects
+magnetic field effects
+twin boundaries
+magnetomechanical effects

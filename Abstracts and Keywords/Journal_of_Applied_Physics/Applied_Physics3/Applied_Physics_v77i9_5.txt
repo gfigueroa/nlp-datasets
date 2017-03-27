@@ -1,0 +1,13 @@
+The phase and amplitude of the response to infrared radiation of superconducting bolometers was investigated. The detectors were fabricated with 120550 nm Y1Ba2Cu3O7´ films on MgO, SrTiO3, and LaAlO3 substrates. A model for the response is developed and compared to the experimental results. The response versus frequency of the samples shows bolometric behavior, in agreement with the measured time dependence of the signals at low frequencies. Different techniques were developed to measure the key parameter in the response of the bolometers, G, the thermal conductance. Several anomalies were observed in the study that provide insight into heat conduction in these devices. The dc or low modulation frequency thermal conductance, G(0), of the samples is found to be limited by the substrate/coldhead thermal boundary resistance. It was also found to decrease with increasing substrate thickness, but still limited by the substrate/coldhead interface. This thickness dependence of G(0) is attributed to scattering of phonons within the substrate, that changes their transmission rate through the substrate/coldhead interface. The results from simultaneous measurements of the IR response and dR/dT (using R versus T) at low modulation frequencies (20 Hz) show that the magnitude of the response differs by up to 30% from the dR/dT curve. The discrepancy is found to be frequency dependent, increasing with decreasing modulation frequency.
+
+SEMICONDUCTOR DEVICES
+BOLOMETERS
+INFRARED RADIATION
+HIGHTC SUPERCONDUCTORS
+THIN FILMS
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+RESPONSE FUNCTIONS
+THERMAL CONDUCTIVITY
+FREQUENCY DEPENDENCE

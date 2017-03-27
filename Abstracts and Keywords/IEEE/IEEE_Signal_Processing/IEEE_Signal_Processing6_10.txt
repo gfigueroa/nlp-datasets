@@ -1,0 +1,7 @@
+The regulation of cargo trafficking between intracellular compartments is central to the control of many cellular processes. Rapid sub-second imaging shows that GFP-GLUT4 vesicles exhibited two types of movement, firstly rapid vibrations around a point and linear movements. To gain further insights into the molecular basis underlying these movements, and understand how insulin causes translocation to the cell surface, it is essential to develop methods by which we can accurately track and measure the speed and directionality of vesicles, and their fluorescent intensity, under a variety of conditions. In this paper we propose a novel tracking mechanism to study the dynamics of these vesicles in single living cells. The proposed model is based on a multi-resolution block matching algorithm for motion estimation and a genetic algorithm. We demonstrate the success of the model through results obtained on various real time videos.
+
+block matching
+genetic algorithm
+motion estimation
+multi-resolution
+object tracking

@@ -1,0 +1,8 @@
+The effect of fluorescence reabsorption on the optical cooling in the condensed phase was calculated using a stochastic model, based on spectral data of Rhodamine 101 in ethanol. The redshift in measured fluorescence for increasing Rhodamine 101 concentrations is reproduced for concentrations up to 104	M, suggesting that radiative transfer can be simulated accurately using a relatively simple random walk model. This also ensures a degree of accuracy in calculating the effect of radiative transfer processes on the optical cooling of a sample of given geometry. The stochastic method, using only the absorbance and molecular fluorescence (i.e., fluorescence unaffected by reabsorption) spectra as the input values, allows one to estimate the chromophore concentration for which maximum cooling efficiency occurs, given a cell geometry and quantum yield and vice versa. The method predicts a cooling efficiency that is an order of magnitude lower than has been reported previously [J. L. Clark and G. Rumbles, Phys. Rev. Lett. 76, 2037 (1996); J. L. Clark, P. F. Miller, and G. Rumbles, J. Phys. Chem. A 102, 4428 (1998)]. The difference is attributed to an overestimate of the experimental data that is in part due to the measurement of a local cooling effect rather than a macroscopic, bulk cooling. © 2003 American Institute of Physics. 
+
+dyes
+laser cooling
+fluorescence
+light absorption
+red shift
+stochastic processes

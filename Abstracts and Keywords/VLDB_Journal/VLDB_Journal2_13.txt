@@ -1,0 +1,8 @@
+In a multi-query environment, the marginal utilities of allocating additional buffer to the various queries can be vastly different. The conventional approach examines each query in isolation to determine the optimal access plan and the corresponding locality set. This can lead to performance that is far from optimal. As each query can have different access plans with dissimilar locality sets and sensitivities to memory requirement, we employ the concepts of memory consumption and return on consumption (ROC) as the basis for memory allocations. Memory consumption of a query is its space-time product, while ROC is a measure of the effectiveness of response-time reduction through additional memory consumption. A global optimization strategy using simulated annealing is developed, which minimizes the average response over all queries under the constraint that the total memory consumption rate has to be less than the buffer size. It selects the optimal join method and memory allocation for all query types simultaneously. By analyzing the way the optimal strategy makes memory allocations, a heuristic threshold strategy is then proposed. The threshold strategy is based on the concept of ROC. As the memory consumption rate by all queries is limited by the buffer size, the strategy tries to allocate the memory so as to make sure that a certain level of ROC is achieved. A simulation model is developed to demonstrate that the heuristic strategy yields performance that is very close to the optimal strategy and is far superior to the conventional allocation strategy.
+
+buffer management
+join methods
+query optimization
+queueing model
+simulated annealing
+simulation

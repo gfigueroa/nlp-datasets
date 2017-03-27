@@ -1,0 +1,11 @@
+The high computational power of graphics processing units (GPU) is used for several purposes nowadays. Factoring integers, computing discrete logarithms, and pattern matching in network intrusion detection systems (IDS) are popular tasks in the field of information security where GPUs are used for acceleration. GPUs are commodity components and are widely available in computer systems which would make them an ideal platform for a wide-spread IDS. We investigate the feasibility to use current GPUs for asynchronous host intrusion detection as proposed in a former work and come to the conclusion that several constraints of GPUs limit the use for concurrent and asynchronous off-CPU processing in host IDSs. GPUs have restrictions in terms of continuity, asynchronism, and unrestricted access to perform this task. We propose an observation mechanism and discuss current constraints on autonomous use of standard GPU components for intrusion detection. Finally, we come to the conclusion that several modifications to graphics cards are necessary to enable our approach.
+
+CUDA
+DMA
+GPU
+Host intrusion detection system
+IDS
+asynchronous memory access
+constraints
+coprocessor
+graphics card

@@ -1,0 +1,17 @@
+The full quantum theory of mixing has been widely developed by Tucker. From theoretical analysis it allows one to predict the optimal performances of a quasiparticle superconducting insulator-superconducting junction mixer from knowing the junction current-voltage characteristics. This theory, however, considers only quasiparticle processes and neglects pair effects. At frequencies close to the superconductor energy gap, the Josephson currents become unavoidable and are reputed to be the cause of strong instabilities and noise. We present here a theoretical calculation of the Josephson noise and losses, which is consistent with experimental results. The width of the Josephson noise peaks is discussed. © 1997 American Institute of Physics. 
+
+superconductor-insulator-superconductor mixers
+superconducting microwave devices
+quantum theory
+superconducting device noise
+superconducting energy gap
+Josephson effect
+submillimetre wave mixers
+submillimetre wave detectors
+SUPERCONDUCTING DEVICES
+MIXERS
+JOSEPHSON JUNCTIONS
+NOISE
+QUASI PARTICLES
+STABILITY
+FREQUENCY DEPENDENCE

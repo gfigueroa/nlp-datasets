@@ -1,0 +1,5 @@
+This paper presents a new indirect frequency synthesizer based on a digital time delay tanlock loop. The loop used is a second order one and that results in a zero steady state error once the system is in lock. The process of locking the complete system following the introduction of the divider is achieved through the incorporation of a special adaptive locking mechanism. The adaptation block includes a finite state machine that eventually controls the loop digital filter and the digital controlled oscillator.
+
+Digital Phase locked loops
+Frequency synthe
+Time delay digital tank loop

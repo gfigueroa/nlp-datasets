@@ -1,0 +1,7 @@
+Although the effect of the impact ionization and the consequent avalanche multiplication in amorphous selenium (a-Se) was established long ago and has led to the development and commercialization of ultrasensitive video tubes, the underlying physics of these phenomena in amorphous semiconductors has not yet been fully understood. In particular, it is puzzling why this effect has been evidenced at practical electric fields only in a-Se among all amorphous materials. For instance, impact ionization seems much more feasible in hydrogenated amorphous silicon (a-Si:H) since the charge carrier mobility in a-Si:H is much higher than that in a-Se and also the amount of energy needed for ionization of secondary carriers in a-Si:H is lower than that in a-Se. Using the description of the avalanche effect based on the lucky-drift model recently developed for amorphous semiconductors we show how this intriguing question can be answered. It is the higher phonon energy in a-Si:H than that in a-Se, which is responsible for the shift of the avalanche threshold in a-Si:H to essentially higher fields as compared to a-Se.
+
+amorphous semiconductors
+elemental semiconductors
+impact ionisation
+selenium
+silicon

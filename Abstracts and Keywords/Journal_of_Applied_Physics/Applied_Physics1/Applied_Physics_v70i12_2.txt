@@ -1,0 +1,13 @@
+Switching speeds are calculated for GaAsAlGaAs resonanttunneling diode structures with different barrier widths from the timedependent Schrödinger equation. The speed is determined by monitoring the device current as the bias voltage is instantaneously switched. Effective mass discontinuities at the barrier and quantum well edges are included. Comparisons with previously published results using the wave packet approach are given. It is found that the turnoff transient is dominated by the lifetime of the quasibound state; however, care must be used in calculating the lifetime.
+
+TUNNEL DIODES
+SWITCHING
+SCHROEDINGER EQUATION
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+QUASIBINARY COMPOUNDS
+POTENTIAL BARRIER
+EFFECTIVE MASS
+WAVE PACKETS
+TIME DEPENDENCE
+CURRENTS

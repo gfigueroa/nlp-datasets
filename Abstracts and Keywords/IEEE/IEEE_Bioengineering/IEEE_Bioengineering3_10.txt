@@ -1,0 +1,5 @@
+In this article we propose the development of a tool for helping in the medical diagnosis using neural networks, in particular the multilayer perceptron. This new tool is meant to help the urologists in obtaining an automatic diagnosis for complex multi-variable systems, and to avoid painful and costly medical treatments. The clinical study has been carried out using the medical registers of patients with dysfunctions in the lower urinary tract. The system is able to distinguish and classify dysfunctions as arreflexive, hyper-reflexive, and effort incontinence. Moreover, it is able to predict whether there is presence of dysfunction or not. The results of the experiments display a high percentage of certainty of about 85%
+
+Urology
+artificial neural network
+decision support systems

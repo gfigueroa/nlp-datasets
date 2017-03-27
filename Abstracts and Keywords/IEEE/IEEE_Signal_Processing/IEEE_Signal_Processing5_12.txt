@@ -1,0 +1,6 @@
+This paper describes an autonomous eye-in-hand coordination application of security robot for services in a variety of applications. We have designed an autonomous mobile security robot called ldquoSecurity Warriorrdquo, which equipped with arms and embedded motion controller combines the non-specific environment of vision system with the robust inverse kinematics computation. In order to reduce the cost and volume, we design an embedded control system for 14 servo motor of robot arms. Besides, we combine inverse kinematics to eye-in-hand servo control robot arm to get closer target and use CCD on robot wrist to feedback target position. In order to reach and grasp the target object, we have used vision system by using particle analysis to find out centroid of region, the edge of the region and the percentage of area of a picture. This system has been integrated and experimentally demonstrated the success of target object acquisition.
+
+Robot arm
+Security robot
+Visual servo system
+eye-in-hand

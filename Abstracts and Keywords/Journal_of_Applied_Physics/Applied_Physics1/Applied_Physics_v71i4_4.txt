@@ -1,0 +1,12 @@
+CdxHg1xTe epilayers and CdxHg1xTe/CdyHg1yTe quantum well heterostructures have been grown by molecular beam epitaxy. The various parameters of the growth technique have been carefully optimized: control of the thickness by the observation of the oscillations of the reflectionhighenergy electron diffraction, the alloy composition by measuring the Cd sticking coefficient in our growth procedure, and the quality of the interfaces by performing transmission electron microscopy. The photoluminescence spectra at 5 K of thick CdxHg1xTe epilayers are dominated by bound exciton recombination below the fundamental band gap Eg. By contrast, the main emission in the quantum wells photoluminescence spectra is due to an intrinsic recombination of the confined carriers in their respective ground state. The influence of CdxHg1xTe well thickness and the CdyHg1yTe barrier composition of this quantum well transition energy are presented.
+
+QUANTUM WELL STRUCTURES
+CADMIUM TELLURIDES
+MERCURY TELLURIDES
+QUASIBINARY COMPOUNDS
+MOLECULAR BEAM EPITAXY
+HETEROSTRUCTURES
+RHEED
+TRANSMISSION ELECTRON MICROSCOPY
+PHOTOLUMINESCENCE
+CHEMICAL COMPOSITION

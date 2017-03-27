@@ -1,0 +1,11 @@
+Pulsedlaser irradiation of a highpressure metal halide discharge tuned to excite Hg and the metal additives, sodium and scandium, produced negative optogalvanic voltage signals and positive optogalvanic current signals. The optogalvanic signals resulted from excitation of groundstate sodium atoms at 589 and 589.6 nm, from excitation of both ground and excitedstate scandium atoms throughout the visible, and from excited states of Hg. The optogalvanic spectrum was very similar to the emission spectrum, except for the absence of selfreversal in the optogalvanic spectrum. The nonlinear dependence of the optogalvanic signals on laser energy for groundstate Na and Sc and the excited states of Hg was attributed to stimulated emission. Vertical segregation of Na and Sc was evident from the axial variation of the optogalvanic signals. Increasing the envelope temperature, and hence the vapor pressures of the additives (by raising the input power to the discharge), increased the optogalvanic signals from groundstate Na and Sc.
+
+OPTOGALVANIC EFFECT
+SODIUM
+SCANDIUM
+MERCURY
+PLASMA DIAGNOSTICS
+EXCITATION
+EXCITED STATES
+EMISSION SPECTROSCOPY
+ELECTRIC DISCHARGES

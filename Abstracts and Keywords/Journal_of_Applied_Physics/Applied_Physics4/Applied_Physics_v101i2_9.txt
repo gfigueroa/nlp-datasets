@@ -1,0 +1,11 @@
+Based on the Landau-Devonshire phenomenological theory, phase diagram of epitaxial BST50/50 thin films on anisotropic in-plane strains is investigated. Different from BaTiO3 thin films, the paraelectric phase appears under the anisotropic misfit strains on barium strontium titanate (BST)50/50 thin films at room temperature. The pyroelectric property of the BST films is also calculated. We find that the position of pyroelectric peak greatly depends on anisotropic misfit strains.
+
+barium compounds
+strontium compounds
+ferroelectric materials
+ferroelectric thin films
+epitaxial layers
+internal stresses
+pyroelectricity
+phase diagrams
+piezoelectricity

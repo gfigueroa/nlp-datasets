@@ -1,0 +1,11 @@
+Results are presented of the first experiments in which highcurrent electron beam injection is shown to modify the combustion of both lean and rich ethyleneair mixtures. The rate of pressure rise in the chamber increases by up to a factor of 2 and flame speed increases by 40%50% for cases in which an electron beam is injected into a sparkignited nonstoichiometric ethyleneair mixture. Spectroscopic emission from the flame is modified by electron beam injection with more rapid rise and decay of OH line emission. Further research is needed to identify the cause of the observed enhancement in combustion rate.
+
+ETHYLENE
+AIR
+COMBUSTION
+CHEMICAL RADIATION EFFECTS
+COMBUSTION KINETICS
+COMBUSTION PROPERTIES
+EXPERIMENTAL DATA
+COMBUSTION PRODUCTS
+ELECTRONMOLECULE COLLISIONS

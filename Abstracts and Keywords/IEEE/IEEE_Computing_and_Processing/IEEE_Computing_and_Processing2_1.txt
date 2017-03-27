@@ -1,0 +1,5 @@
+Wireless ad hoc network is a collection of mobile nodes forming a temporary network without the aid of any centralized administration or standard support services regularly available on conventional networks. It differs from the infrastructure-based network by not having base stations to rely on but the network achieves connectivity by using an ad hoc routing protocol. Absence of any fixed infrastructure pose number of different problems to this area. Some of the challenges that require standard solutions include routing, bandwidth constraints, hidden terminal problem and limited battery power. Routing is the process of information exchange between two hosts in networks. Routing is the first area that attainedfocus since the invention of commercialized mobile ad hoc networks In this paper, we present a comprehensive review for routing features and techniques in wireless ad hoc networks. For more than a dozen typical existing routing protocols, we compare their properties according to different criteria, and categorize them according to their routing strategies and relationships.
+
+Ad hoc networks
+Routing protocols
+Wireless communications

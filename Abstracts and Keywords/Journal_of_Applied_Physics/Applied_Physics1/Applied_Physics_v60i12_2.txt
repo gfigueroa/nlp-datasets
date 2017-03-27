@@ -1,0 +1,12 @@
+Using in situ ellipsometry as a probe, the effect of substrate microstructure on the growth habit of highquality hydrogenated amorphous silicon (aSi:H) has been studied. An understanding of the growth process is important when combining aSi:H with other materials in thinfilm multilayer devices. The present study concentrates on cases where aSi:H of different microstructure, microcrystalline Si:H (¼cSi:H), and singlecrystal Si are used as substrates. The aSi:H top film is grown under identical conditions on each substrate material and pseudodielectricfunction trajectories are collected during growth. These trajectories have been applied to characterize the bulk and interface structure and the evolution of surface roughness layers during growth. For the same deposition conditions, a range of growth patterns is observed, depending on the structure of the substrate.
+
+SILICON
+FILM GROWTH
+ELLIPSOMETRY
+HYDROGENATION
+MICROSTRUCTURE
+INTERFACE STRUCTURE
+ROUGHNESS
+SURFACE COATING
+DIELECTRIC FUNCTION
+SURFACE STRUCTURE

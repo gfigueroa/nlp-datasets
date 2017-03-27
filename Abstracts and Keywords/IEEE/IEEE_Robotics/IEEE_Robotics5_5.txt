@@ -1,0 +1,6 @@
+In this document we will show our own design about an meteorological station. This is a general approach, in that you can see how we will choose the different kind of transducers that we will use in the station. Some of these transducers will be made by us, by this reason this document shown our own designs of each one of these. You have to know that this meteorological station is a monitoring system, because it doesn 't needs to be controlled, it have to be just monitored
+
+Metereological
+Monitoring
+Remote
+Transducer

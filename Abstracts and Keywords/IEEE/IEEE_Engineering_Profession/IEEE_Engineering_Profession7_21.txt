@@ -1,0 +1,6 @@
+Recent studies have examined the usage of and effectiveness of icons, particularly safety icons. Collectively, these studies have found that some icons tend to be more effective than others. Various factors influence usability of an icon: culture, familiarity [1], detail, stylizing, simplification [2], color, and adherence to an archetype [3], ldquonaturalnessrdquo and ldquodifferentiation,rdquo [4], but also familiarity, uniqueness, completeness and clarity [5]. So far, no study has attempted a ranking for these factors, differentiating important and minor considerations. Also missing is an organizing model of icon interpretation, explaining how these various factors relate, and a lack of theoretical understanding in usability studies generally as discussed by Lund [6]. Without a consistent framework for understanding visual interpretation, when ldquoerrorsrdquo are found and corrected in a visual form, the change in visual form may or may not actually increase usability [7]. This study organizes previous safety icon research using the Peircean framework proposed by Amare and Manning[8] [9] [10] [11].
+
+safety icons
+semiotics
+usability
+visual rhetoric

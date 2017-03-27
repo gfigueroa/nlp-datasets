@@ -1,0 +1,7 @@
+The ability to efficiently and effectively select the inter-organizational and heterogeneous services is the important support for the development of the Web service technology. Quality of service (QoS) profiles of Web services are crucial in determining which service best addresses the user desires and objectives. This paper developed a general QoS-based service selection method. By importing the proposed QoS ontology into OWL-S standards, the method can express Web service's nonfunctional attributes in a semantic and extensible way. Web service QoS based selection is formulated as a multi-criteria decision making (MCDM) which can be solved by using different MCDM models to evaluate QoS criteria of the candidate Web services. The values of quality parameters of a Web service are normalized to a non-negative real-valued number where higher normalized values represent higher levels of service performance. The proposed approach can be used as a solution for the complexity and reliability Web service selection problem.
+
+OWL-S
+QoS
+Web service selection
+multiple criteria decision making
+ontology

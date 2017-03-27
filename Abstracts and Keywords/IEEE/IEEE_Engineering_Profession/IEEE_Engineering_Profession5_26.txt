@@ -1,0 +1,7 @@
+Complexity is a topical interdisciplinary subject debated in different scientific circles. Complexity is difficult to univocally define as it isn't a physical quantity simple to measure but an abstract concept for which different definitions can be given. This paper deepens technological complexity applied to engineering and industrial manufacturing, focusing the related aspects that can affect a product and a production system and investigating the different measurement approaches proposed in literature, classifying them into five categories. Technological complexity is significant in product engineering development, where designers have to consider this aspect to create a functional and reliable product. Technological complexity measures are important in order to support manufacturing enterprises management in decisions concerning selection of new products to be manufactured and their production. Once a technological complexity level is defined for each product, it is possible to develop feasibility studies in order to check the plant capability to produce it.
+
+Complexity
+engineering
+manufacturing
+production management
+technology

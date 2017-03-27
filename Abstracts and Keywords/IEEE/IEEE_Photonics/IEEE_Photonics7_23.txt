@@ -1,0 +1,7 @@
+Micromachined technology has been widely used to reduce device size and improve performance. In this paper, our research activities on micromachined piezoelectric acoustic devices at wide frequency range, from audio microphones to ultrasonic transducers, are reviewed. These devices are based on ferroelectric thin films, and exceed the conventional acoustic devices in excellent performance, miniaturized size, high reliability and compatibility with conventional integrated circuit fabrication. Resonance frequency can be determined by the thickness of each layer composing the thin film. Compact arrays of these devices are designed, fabricated and characterized to enhance sensitivity and pointing. Micromachined acoustic devices could find extensive applications in practical systems.
+
+MEMS
+Micromachined acoustic device
+PZT
+ferroelectric thin film
+ultrasonic transducer

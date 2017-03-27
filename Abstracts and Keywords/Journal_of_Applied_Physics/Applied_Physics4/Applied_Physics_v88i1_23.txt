@@ -1,0 +1,12 @@
+Thermoreversible gels of the liquid-crystal LC-E7 with 1,3:2,4-Di-O-benzylidene-D-sorbitol (DBS) form white light-scattering films that are reversibly switchable to a clear state by ac electric fields. The light scattering by the gelled films is an intrinsic material property that originates in the phase diagram of the system displaying a monotectic-type equilibrium (mesotectic) among a liquid, a solid, and a mesophase at extremely low concentrations of DBS. Electro-optical characteristics and demonstrated viscoelastic behavior of the films produced indicate the applicability of DBS/LC-E7 in large area scattering-based flat panel displays and projection systems.© 2000 American Institute of Physics. 
+
+electro-optical effects
+liquid crystal displays
+nematic liquid crystals
+liquid crystal phase transformations
+gels
+light scattering
+liquid films
+viscoelasticity
+differential scanning calorimetry
+X-ray scattering

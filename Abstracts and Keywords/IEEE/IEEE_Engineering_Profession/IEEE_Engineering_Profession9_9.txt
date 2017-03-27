@@ -1,0 +1,7 @@
+In this paper two different hybrid active filter is proposed for induction furnace compensation. Hybrid filter consists of two single tuned passive filters and a series active filter in two conditions, along power system and passive filter, respectively. A simple control method is used. The proposed configurations are simulated and simulation results are shown. On basis of obtained results, one configuration is chosen as optimal option.
+
+harmonic
+hybrid active filter
+induction furnace
+power quality
+reactive power

@@ -1,0 +1,13 @@
+The relationship between spontaneous and stimulated emission from a variety of AlGaAsGaAs doubleheterostructure laser diodes has been studied as a function of temperature over a range of 1070	°C. The spontaneous emission varied exponentially with temperature, and we introduce T20(J) as the characteristic temperature of spontaneous emission. As the temperature was changed, the laser threshold and slope efficiency for a device strongly covaried with spontaneous emission. A moderately high correlation (r&gt;0.75) was obtained between the lasing and spontaneous emission slope efficiencies of 20 randomly selected lasers from different suppliers.
+
+SPONTANEOUS EMISSION
+DH LASERS
+LASER DIODES
+SEMICONDUCTOR LASERS
+HETEROJUNCTIONS
+THRESHOLD ENERGY
+EFFICIENCY
+STIMULATED EMISSION
+ALUMINIUM ARSENIDES
+GALLIUM ARSENIDES
+TEMPERATURE DEPENDENCE

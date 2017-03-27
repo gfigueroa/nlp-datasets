@@ -1,0 +1,9 @@
+Electron transfer into the L and X bands of GaAs is observed in the dependence of transfer ratio ± (collector current Ic/emitter current Ie) of an AlGaAs/GaAs hotelectron transistor upon emitterbase voltage Veb. The ±Veb curve and its variation with temperature change confirms the idea that electron transfer to the higher bands randomizes the electron motion and is effective in reducing ±. The differential transfer ratio ”± (dIc/dIe) shows double peaks and a clear shoulder. The lowerenergy peak may indicate the onset of elastic intervalley scattering.
+
+HOT ELECTRONS
+JUNCTION TRANSISTORS
+HETEROJUNCTIONS
+CHARGEDPARTICLE TRANSPORT
+BAND STRUCTURE
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES

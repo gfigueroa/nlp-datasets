@@ -1,0 +1,5 @@
+This research aims to assess the safety of 300 kHz ultrasound (300 kHz) for disruption of the blood brain barrier (BBB) to enable drug delivery to the brain of non-human primates (NHP). The approach is to measure in-situ acoustic pressure (ISAP) in an ex-vivo cadaver skull model to predict acoustic pressure in the brains of live NHP subjects. Two dual-transducer therapeutic ultrasound systems were built: an in-vivo system to expose live NHP subjects to 300 kHz, and an ex-vivo system to expose NHP cadaver skulls to 300 kHz and map ISAP within the skulls. The highest acoustic pressure sites (hot spots) were found in the center of the skulls between the two transducers. The average ISAP was a mechanical index (MI) of 0.2. MI is defined as the in-situ peak rarefactional acoustic pressure divided by the square root of frequency. MI values ranged from 0.01 to 0.98 MI. Histology from 300-kHz exposed NHP subjects showed evidence of delivery of BBB markers with no evidence of bleeding or other harmful bioeffects. Feasibility was demonstrated for safe 300 kHz enabled BBB disruption, in a treatment range below 1.0 MI.
+
+blood brain barrier
+drug delivery
+ultrasound

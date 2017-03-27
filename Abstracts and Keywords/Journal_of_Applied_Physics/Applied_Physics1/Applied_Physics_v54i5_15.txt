@@ -1,0 +1,19 @@
+Schottky diodes made on ntype InP, containing 2×1016 cm3 free carriers, have been irradiated at room temperature with <1 MeV electrons. Using transient capacitance techniques, three electron traps situated at 0.14, 0.24, and 0.41 eV below the conduction band have been detected. Measurement of their introduction rates and comparison with the carrier removal rate measured at 80 K indicate that these traps represent <20% of the electrically active defects created by the irradiation. The capture cross section for electrons of the trap at EC 0.24 eV is 3×1020 cm2.
+
+indium phosphides
+crystal defects
+radiation effects
+electrons
+irradiation
+schottky barrier diodes
+ntype conductors
+experimental data
+charge carriers
+medium temperature
+mev range
+transients
+energy levels
+low temperature
+traps
+cross sections
+electrical properties

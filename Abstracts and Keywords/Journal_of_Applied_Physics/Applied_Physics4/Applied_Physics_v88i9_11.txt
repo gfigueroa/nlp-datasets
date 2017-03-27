@@ -1,0 +1,9 @@
+The thickness dependence of stress-induced leakage currents (SILCs) has been investigated for silicon-dioxide films with thicknesses between 5.1 and 9.6 nm. Assuming a two-step trap-assisted tunneling process accompanied by an energy relaxation process of trapped electrons, a set of analytical equations is given, which describes quantitatively the SILC dependence on oxide electric field with trap site location, trapped sheet charge density, and trap state energy as characteristic trap site parameters. Applying this model to the SILC data of 5.19.6-nm-thick silicon-dioxide films, the best agreement between experimental and calculated IV data is achieved by a constant trap state energy of 1.93 eV relative to the silicon-dioxide conduction-band edge. Trap sites are located at 4.24 nm from the gate interface for 6.89.6-nm-thick films, while the 5.1 nm film exhibits a slightly different trap site location of 4.08 nm. The trapped sheet charge density Qtrap increases linearly with oxide thickness from 0.34×106 to 1.29×106
+C/cm2. As a result, the thickness dependence of Qtrap suppresses the local tunneling current between the gate injection interface and trap sites by a reduction of the local oxide electric field. This fact explains the decrease of SILC with an increase in oxide thickness. © 2000 American Institute of Physics. 
+
+silicon compounds
+insulating thin films
+leakage currents
+conduction bands
+electron traps
+tunnelling

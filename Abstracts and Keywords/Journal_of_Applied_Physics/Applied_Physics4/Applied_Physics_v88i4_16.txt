@@ -1,0 +1,13 @@
+The magnetic and structural properties of sputtered Co50Fe50(CoFe) films were examined. CoFe films 300 Å thick deposited on Si substrates at room temperature showed large coercive fields of 140 Oe. When similar thickness films were deposited at 100
+°C, the coercivity dropped to 90 Oe, and when they were deposited on CoO, the coercivity was reduced to 12 Oe. Cross-sectional imaging with transmission electron microscopy revealed that the CoO underlayer had induced a columnar grain structure in the CoFe, with grain diameters ranging from 50 to 150 Å. CoFe films grown on Si contained larger grains of 200350 Å in diameter with fewer distinct vertical grain boundaries. Lorentz microscopy showed that domain walls in the hard CoFe film formed complex, fixed patterns in fields less than the coercivity, whereas walls in the CoFe/CoO sample were more conformal and mobile in response to changing fields. Possible structural origins for the wide variation in coercivity obtained with different substrates, deposition temperature, and thickness of CoFe films are discussed. © 2000 American Institute of Physics. 
+
+cobalt alloys
+iron alloys
+coercive force
+magnetic thin films
+sputtered coatings
+transmission electron microscopy
+crystal microstructure
+grain size
+grain boundaries
+magnetic domain walls

@@ -1,0 +1,18 @@
+We have investigated the ac magnetic susceptibility and magnetic heating of aqueous suspensions of ³Fe2O3 nanoparticles embedded in alginate hydrogel matrix and isolated ³Fe2O3 and Fe3O4 nanoparticles coated with tetramethyl ammonium hydroxide. All three ferrofluids were characterized by measuring the dc magnetization, ac susceptibility, and magnetic heating. We found that significant Néel relaxation is present in all samples, but only the isolated nanoparticle ferrofluids show any significant feature associated with Brownian relaxation near the freezing temperature of the carrier liquid. The heating rate of the ferrofluids varies systematically with the magnitude of the Brownian relaxation peak, despite similar values of the absolute magnetization. These results highlight the importance of the Brownian relaxation for heating applications incorporating magnetic nanoparticles.
+
+biomedical materials
+Brownian motion
+cooling
+ferromagnetic materials
+freezing
+gels
+iron compounds
+magnetic fluids
+magnetic particles
+magnetic relaxation
+magnetic susceptibility
+magnetisation
+nanobiotechnology
+nanoparticles
+organic compounds
+suspensions

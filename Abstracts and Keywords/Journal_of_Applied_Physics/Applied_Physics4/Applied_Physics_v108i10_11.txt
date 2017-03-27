@@ -1,0 +1,10 @@
+High-resolution synchrotron x-ray diffraction and field emission-scanning electron microscopy were used to investigate domain structures of the unpoled (001)-oriented 89.5%Pb(Zn1/3Nb2/3)O310.5%PbTiO3 (PZN10.5%PT) single crystal. The results revealed the coexistence of 180° and 90° tetragonal nanotwin domains at room temperature. Upon zero-field heating, the PZN10.5%PT undergoes a tetragonal-to-cubic transformation near 185	°C. Tetragonal PZN10.5%PT crystal has better thermal stability notably in the temperature range of 80150	°C. This makes the tetragonal PZNPT potential candidates for high temperature piezoelectric devices.
+
+electric domains
+ferroelectric materials
+heat treatment
+lead compounds
+scanning electron microscopy
+solid-state phase transformations
+thermal stability
+X-ray diffraction

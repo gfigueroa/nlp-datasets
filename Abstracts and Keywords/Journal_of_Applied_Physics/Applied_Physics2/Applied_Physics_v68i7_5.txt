@@ -1,0 +1,13 @@
+We report on the complete dielectric tensor spectra of Y3xBixFe5O12 with 0dxd1.42 in the photon energy range 1dÉ(eV)d4.8, i.e., 1240248 nm wavelength. In an attempt to identify the involved optical transitions we have (i) parametrized these spectra in terms of Gaussian (õ311 spectra) and diamagnetic or paramagnetic (õ212 and õ312 spectra) line shapes, and (ii) come up with a set of coefficients of a cubic interpolation polynomial for each spectral line from which any of the n, ±, ˜F, õF, ˜K, õK, õ211, õ311, õ212, õ312 spectra can be calculated for any bismuth substitution in the above compositional and spectral range. It is found that such a lineshape analysis is not unique and requires physical knowledge on the optical excitations involved which, however, is still incomplete for iron garnets.
+
+YIG
+BISMUTH ADDITIONS
+THIN FILMS
+OPTICAL PROPERTIES
+MAGNETOOPTICAL EFFECTS
+DIAMAGNETISM
+LINE SHAPE
+DIELECTRIC PROPERTIES
+REFRACTIVITY
+ABSORPTIVITY
+INTERFEROMETRY

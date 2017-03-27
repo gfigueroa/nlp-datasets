@@ -1,0 +1,6 @@
+The timeliness of phishing incident response is hindered by the need for human verification of whether suspicious URLs are actually phishing sites. This paper presents a method for automating the determination, and demonstrates the effectiveness of this method in reducing the number of suspicious URLs that need human review through a method of comparing new URLs and their associated Web content with previously archived content of confirmed phishing sites. The results can be used to automate shutdown requests, to supplement traditional ldquoURL black listrdquo toolbars allowing blocking of previously unreported URLs, or to indicate dominant phishing site patterns which can be used to prioritize limited investigative resources.
+
+Brand-matching
+Campaigns
+Detection
+Phishing

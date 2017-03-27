@@ -1,0 +1,14 @@
+In a recent paper, Yamaguchi and Ando [J. Appl. Phys. 51, 5007 (1980)] discussed the composition of thermally grown oxide films on InP. Reanalysis of their infrared absorption data in conjunction with Raman data shows that their assignments of oxide products are in error. The dominant product at Ts620	°C is indium orthophosphate.
+
+FILMS
+INDIUM PHOSPHIDES
+OXIDATION
+TEMPERATURE EFFECTS
+OXIDES
+OPTICAL PROPERTIES
+QUANTITY RATIO
+INFRARED RADIATION
+ABSORPTION
+RAMAN EFFECT
+INDIUM PHOSPHATES
+HIGH TEMPERATURE

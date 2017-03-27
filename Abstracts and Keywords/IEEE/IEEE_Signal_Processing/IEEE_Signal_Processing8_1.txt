@@ -1,0 +1,7 @@
+This paper examines the technique of using a memoryless noise-suppressing nonlinearity in the adaptive filter error feedback-loop of an acoustic echo canceler (AEC) based on normalized least-mean square (NLMS) when there is an additive noise at the near-end. It will be shown that introducing the nonlinearity to ldquoenhancerdquo the filter estimation error is well-founded in the information-theoretic sense and has a deep connection to the independent component analysis (ICA). The paradigm of AEC as a problem that can be approached by ICA leads to new algorithmic possibilities beyond the conventional LMS family of techniques. In particular, a right combination of the error enhancement procedure and a properly implemented regularization procedure enables the AEC to be performed recursively and continuously in the frequency domain when there are both ambient noise and double-talk even without the double-talk detection (DTD) or the voice activity detection (VAD) procedure.
+
+acoustic echo cancellation
+independent component analysis
+residual echo enhancement
+robust adaptive filtering
+semi-blind source separation

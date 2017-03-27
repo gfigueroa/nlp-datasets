@@ -1,0 +1,6 @@
+A new mutation operator based on the T probability distribution is studied. The T probability distribution is stable and can generate an offspring that is farther away from its parent than the commonly employed Gaussian mutation. Moreover, it has a better fine-tuning ability than the Cauchy mutation. In this paper, evolutionary programming (EP) with mutations based on the T probability distribution is studied. The new algorithm is tested on 23 benchmark functions and compared with the conventional EP and the fast EP. The experimental results demonstrate that the performance of the proposed algorithm outperforms the conventional EP and the fast EP
+
+Evolutionary programming
+T mutation
+T probability distribution
+function optimization

@@ -1,0 +1,14 @@
+Physical properties such as dielectric, specific heat, thermal expansion, and mechanical hardness have been measured for sodium p-nitrophenolate dihydrate single crystals. The dielectric measurements were made both as a function of frequency (in the range 15 kHz10 MHz) and temperature (in the range 3080
+°C). For the range of frequencies measured the values were found to vary between 4.03 and 3.69 for µ11, 8.11 and 7.05 for µ22, and 5.71 and 5.36 for µ33 at room temperature, and piezoelectric resonances were observed at certain frequencies. The dielectric measurements made as a function of temperature did not exhibit any anomaly in the temperature range measured. The specific heat studies carried out for this compound showed H30% increase in Cp with the temperature in the measured range. The thermal expansion measured as a function of temperature in the range 3080
+°C exhibited linear behavior and the average thermal expansion coefficients were found to be ±1=7.48×105
+K1, ±2=4.30×106
+K1, and ±3=1.99×105
+K1. The polar plots drawn for these coefficients were correlated with crystallographic features of the structure. The Vickers hardness measurements, carried out along the three crystallographic axes, also exhibited anisotropy. © 2000 American Institute of Physics. 
+
+permittivity
+specific heat
+thermal expansion
+Vickers hardness
+organic compounds
+nonlinear optics
+optical materials

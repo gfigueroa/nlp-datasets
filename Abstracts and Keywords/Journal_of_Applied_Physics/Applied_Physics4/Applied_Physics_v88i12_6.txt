@@ -1,0 +1,10 @@
+This article presents a detailed simulation study of the highest achievable voltage ratings on bi-directional semiconductor controlled rectifiers designed using wide band-gap materials. It is shown that the voltage ratings of 4HSiC and GaN are limited by small carrier lifetimes, as a result of material defects or crystal structure. Symmetric thyristors rated up to 8 kV are possible with commercially available 4HSiC wafers that have carrier lifetimes longer than 300 ns. With further improvements in wafer quality, devices with voltage rating higher than 15 kV may be achievable. The performance of 8 kV 4HSiC thyristors is compared with that of 8 kV Si thyristors. It is shown that the on-state voltage of 4HSiC thyristors has very little dependence on temperature up to 300
+°C unlike Si thyristors, with a positive temperature coefficient. Finally, simulations suggest that symmetric GaN thyristors may be impractical primarily because of the low carrier lifetimes resulting from direct band structure. © 2000 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+silicon compounds
+wide band gap semiconductors
+thyristors
+solid-state rectifiers
+carrier lifetime

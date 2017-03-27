@@ -1,0 +1,5 @@
+We describe the development of a consistent set of low-energy electron-collision cross sections for tetraethoxysilane, also known as tetraethylorthosilicate. Ab initio calculations are used to obtain the elastic and momentum-transfer cross sections. These are combined with measured values of the ionization cross section and with model vibrational and electronic excitation cross sections to form a preliminary cross section set, which is then adjusted to achieve consistency with measured swarm parameters. © 2002 American Institute of Physics. 
+
+organic compounds
+ab initio calculations
+molecule-electron collisions

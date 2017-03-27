@@ -1,0 +1,11 @@
+Both stress and atomic force microscopy (AFM) measurements were carried out in situ during potentiostatic electrodeposition of copper on gold in 0.05mol	dm3 CuSO4 in 0.1mol	dm3 H2SO4 with and without additives. With no additives, compressive stress generally developed initially and films subsequently underwent a compressive-to-tensile (C-T) transition. With increasing negative potential, the time for the C-T transition decreased rapidly as the rate of coalescence of nuclei (measured by AFM) increased rapidly. This is consistent with models that attribute the C-T transition to increasing tensile stress due to coalescence of nuclei. Furthermore, at a potential of 75mV (Cu/Cu2+), where AFM showed very little coalescence of nuclei, no C-T transition was observed, again consistent with these models. The nucleation density measured by AFM increased from 2.7×107cm2 at 75mVto2.5×109cm2 at 300mV. Stress measurements with a combination of three additives [1×103mol	dm3 Cl, 8.82×105mol	dm3 polyethylene glycol, and 1×105mol	dm3 3-mercapto-1-propanesulfonic acid sodium salt (MPSA)] also showed that compressive stress generally developed initially and its magnitude was greater than in additive-free electrolyte. At less negative potentials, even though the rate of coalescence of nuclei was rapid, as observed by AFM, the stress continued to evolve in the compressive direction. At intermediate potentials (90to150mV), classical compressive-tensile-compressive (C-T-C) behavior was observed, while at more negative potentials the stress continued to evolve in the tensile direction. Similar results were obtained with a combination of two additives (1×103mol	dm3 Cl and 1×105mol	dm3 MPSA), but in that case the compressive stress appeared to be greater, and consequently the T-C transition was observed even at 500mV. The results are consistent with enhancement of a compressive component of stress in the presence of additives.
+
+atomic force microscopy
+copper
+electrochemical analysis
+electrodeposition
+gold
+nanostructured materials
+nucleation
+solid-state phase transformations
+thin films

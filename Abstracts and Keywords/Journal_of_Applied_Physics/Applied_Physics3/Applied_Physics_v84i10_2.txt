@@ -1,0 +1,13 @@
+The physical optical effects which take place when the size of the surface textures of a solar cell or a photodiode is in the micron range are studied. Both the antireflective and the light trapping properties of linear periodic grooves of triangular cross sections are treated in the framework of an exact, coupled-wave, electromagnetic analysis. The most important physical optics effects are the diffraction of light at the groove edges, the interference of light reflected by the different surfaces of the grooves, and the tunneling across the grooved surface of light incident from the silicon side at an angle greater than the critical angle. There is also the effect of the interference of the light reflected by the front and back surfaces of the silicon layer which is important only for very thin layers. As the groove period increases above the wavelength, the exact results approach the geometrical optics predictions rather slowly in an oscillatory way. Simple physical optics arguments are presented for obtaining a criterion for the accuracy of ray tracing methods in optical modeling of surface textures. © 1998 American Institute of Physics. 	
+
+silicon
+elemental semiconductors
+solar cells
+photodiodes
+surface texture
+ray tracing
+physical optics
+light reflection
+light diffraction
+light interference
+tunnelling

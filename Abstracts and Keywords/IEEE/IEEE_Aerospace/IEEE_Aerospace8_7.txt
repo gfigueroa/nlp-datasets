@@ -1,0 +1,5 @@
+A design technique based on a shape optimization strategy (topology gradient algorithm) and a 3D ceramic stereolithography process are described in this paper. Our goals are to propose innovative components in terms of electric performances and topologies, by using these two approaches together. Several components have been designed, manufactured and tested with success. An example is given for the design of microwave filters including dielectric resonators.
+
+ceramic process
+dielectric resonator
+shape optimization

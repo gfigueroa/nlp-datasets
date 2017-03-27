@@ -1,0 +1,6 @@
+Chromium disilicide layers have been formed by ion bombardment through a chromium layer into silicon at room temperature. It was found that the thickness of the silicide formed under the chromium layer was similar for hydrogenated amorphous silicon, laser crystallized silicon, and crystalline silicon substrates. The growth was consistent with a radiation enhanced diffusion mechanism in which the rate limiting process was the diffusion of silicon or chromium through the silicide. It was found that the amount of chromium in the silicide and its thickness were proportional to the square root of the total amount of energy dissipated by the ion beam at the interface between the chromium and the substrate. © 2002 American Institute of Physics. 
+
+chromium compounds
+ion beam mixing
+chemical interdiffusion
+interface structure

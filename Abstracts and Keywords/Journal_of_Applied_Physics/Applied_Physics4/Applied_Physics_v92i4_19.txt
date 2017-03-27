@@ -1,0 +1,5 @@
+Moving-coil loudspeakers are appropriate drivers for thermoacoustic refrigeration. They are cheap, commercially available, compact, light, and can be adapted to meet specific requirements. This paper deals with the optimization of loudspeakers for thermoacoustic refrigeration. Using an electrical model that describes the refrigerator, it is concluded that the electroacoustic efficiency can be maximized over a wider frequency range by matching the mechanical resonance frequency of the driver to the acoustic resonance frequency of the resonator. A gas-spring system is introduced as a practical tool to shift the mechanical resonance frequency of the driver. An electroacoustic efficiency of 35% is obtained when the mechanical resonance frequency of the driver and the acoustic resonance frequency are equal. Additionally, the efficiency is constant over a relatively wide frequency range. This has advantages for thermoacoustic refrigeration. During cool-down, the operating acoustic frequency decreases so that the refrigerator will keep near the optimum performance. © 2002 American Institute of Physics. 
+
+thermoacoustics
+refrigeration
+refrigerators

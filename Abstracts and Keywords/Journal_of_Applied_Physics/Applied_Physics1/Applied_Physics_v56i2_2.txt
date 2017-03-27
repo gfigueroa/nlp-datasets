@@ -1,0 +1,13 @@
+The effect of fluorine and chlorine implantation on the solidphase epitaxial regrowth of amorphized 100	 Si was studied in intrinsic and heavily boron doped material. Annealings were performed at 500 and 600	°C. Both F and Cl retard the regrowth rate at 500	°C. The growth rates are much faster in Bdoped than in undoped Si. Complete regrowth in Bdoped Si is obtained for all investigated doses of fluorine up to 5×1015 F/cm2 at 600	°C for 30 min. The highest dose of chlorine (5×1015 Cl/cm2) stops the regrowth at this temperature.
+
+solidphase epitaxy
+recrystallization
+silicon
+ion implantation
+amorphous state
+boron ions
+fluorine ions
+chlorine ions
+annealing
+high temperature
+mass spectroscopy

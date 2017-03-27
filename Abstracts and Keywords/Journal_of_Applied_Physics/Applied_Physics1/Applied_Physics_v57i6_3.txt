@@ -1,0 +1,17 @@
+Directional solidification of a GeTiGe2 eutectic yields an array of aligned TiGe2 fibers in a Ge matrix. These aligned metallic fibers result in a highly anisotropic material such that the ratio of the resistivities perpendicular and parallel to the rods is typically 102103 at room temperature and even larger at low temperatures. The resistivity of these semiconductor based eutectic composites is examined as a function of the type and concentration of donors. A significant distinction in the resistivity perpendicular to the rods is observed between composites with a ptype and ntype Ge matrix. This difference is analyzed in terms of the depletion layers at the metalsemiconductor junction, as well as the high density of crystalline defects in the Ge created by the two phase solidification and cooling stresses.
+
+SOLIDIFICATION
+FABRICATION
+ELECTRIC CONDUCTIVITY
+MIS JUNCTIONS
+CRYSTAL DEFECTS
+TITANIUM COMPOUNDS
+GERMANIUM COMPOUNDS
+FIBERS
+RODS
+COMPOSITE MATERIALS
+MATRIX MATERIALS
+SYNTHESIS
+DEPLETION LAYERS
+STRESSES
+EUTECTICS

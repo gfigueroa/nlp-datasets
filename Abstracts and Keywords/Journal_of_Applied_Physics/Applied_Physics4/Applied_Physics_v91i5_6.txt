@@ -1,0 +1,13 @@
+We have investigated the laser interference crystallization (LIC) of amorphous germanium films on (100)-oriented GaAs substrates using nanosecond laser pulses. We demonstrate that LIC can produce periodic arrays of epitaxially crystallized Ge lines on GaAs with submicrometer widths. The gratings display a surface undulation with faceted surfaces, which depends on laser fluency. The undulation is attributed to the lateral solidification process induced by the temperature gradients created during the LIC process. © 2002 American Institute of Physics. 
+
+germanium
+gallium arsenide
+elemental semiconductors
+amorphous semiconductors
+semiconductor thin films
+crystallisation
+surface structure
+solidification
+temperature distribution
+laser beam effects
+light interference

@@ -1,0 +1,6 @@
+The CAN protocol was originally introduced for distributed automotive applications in the 1980s, and is still widely used by the industry today. CAN provides the basis for many cost-effective distributed systems, and since its first inception has proved to be a continuous area of research. One major drawback that can severely limit the applicability of CAN in data-intensive real-time applications is related to the wired-AND nature of the physical layer that is used to manage message arbitration; a side effect of this is that it acts to severely limit both the maximum transmission speed and bus length of a given CAN network. This paper is concerned with over-clocking a CAN network to improve the data rate and information throughput, whilst simultaneously maintaining the priority-driven arbitration mechanism that is a major beneficial feature of the protocol. The paper will first describe briefly an already existing implementation of an overclocked CAN-controller done by the authors in a previous work. The paper then presents an analysis as to its expected performance in real-time applications. Specifically, the paper discusses the calculation of message transmission times, investigates the effects of the technique on message transmission jitter, and potential effects on the expected bit error rate.
+
+CAN
+overclocking
+soft-core
+transmission jitter

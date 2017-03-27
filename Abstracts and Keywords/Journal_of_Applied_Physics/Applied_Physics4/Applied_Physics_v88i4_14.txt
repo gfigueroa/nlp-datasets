@@ -1,0 +1,9 @@
+The Schottky barrier height (SBH) of MnSb(0001)/n-GaAs(111)B diodes was investigated in terms of currentvoltage characteristics for three different GaAs surfaces, GaAs (×), GaAs (2×2), and sulfur passivated GaAs. We observed that the SBH and the ideality factor changed significantly depending on the GaAs surface structure prepared before the MnSb growth. The sulfur passivated sample was superior to the others in that it has a lower ideality factor and higher barrier. The SBH fell off linearly with increasing ideality factor n. The SBHofMnSb(0001)/n-GaAs(111)B was estimated to be 0.94 eV by extrapolating the linear relationship to n=1. © 2000 American Institute of Physics. 
+
+manganese compounds
+gallium arsenide
+III-V semiconductors
+semiconductor heterojunctions
+Schottky barriers
+interface structure
+interface states

@@ -1,0 +1,13 @@
+An enhancement of the giant magnetoresistance effect is investigated in spin valves where oxide layers, which are formed from magnetic layers, are incorporated in the structure. Information about CoFe based nanooxide layer (NOL) is obtained via x-ray photoelectron spectroscopy and Rutherford backscattering spectrometry. Cross-section transmission electron microscopy is also used to explore the effect of an NOL on the polycrystalline structure of the spin valve. © 2000 American Institute of Physics. 
+
+giant magnetoresistance
+spin valves
+Rutherford backscattering
+transmission electron microscopy
+X-ray photoelectron spectra
+interface structure
+oxidation
+iron compounds
+cobalt compounds
+magnetic multilayers
+nanostructured materials

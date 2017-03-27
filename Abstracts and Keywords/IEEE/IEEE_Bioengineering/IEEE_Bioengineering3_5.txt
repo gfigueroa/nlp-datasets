@@ -1,0 +1,8 @@
+Constructing the face of a criminal from the selection of individual facial parts is a hard task. We have been working on a new system called EvoFIT that involves the selection and breeding of complete faces. The approach is theoretically better founded and produces more identifiable composites than those from a traditional 'feature' system. In the current paper, we explored three new methods of presenting faces to a person using EvoFIT. A better quality face was evolved if (1) the external parts of the face were subjected to a Gaussian blur, allowing a user to focus on the important inner region of the face, (2) if the faces were simplified to make them sketch-like in appearance, and (3) if users took longer in deciding which faces to select for breeding. Taken together, these approaches would appear to make a marked improvement in the ability to evolve an identifiable likeness of a target.
+
+GA
+crime
+evolve
+face recognition
+facial composite
+witness

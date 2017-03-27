@@ -1,0 +1,5 @@
+Existing spatiotemporal indexes suffer from either large update cost or poor query performance, except for the B x -tree (the state-of-the-art), which consists of multiple B +-trees indexing the 1D values transformed from the (multi-dimensional) moving objects based on a space filling curve (Hilbert, in particular). This curve, however, does not consider object velocities, and as a result, query processing with a B x -tree retrieves a large number of false hits, which seriously compromises its efficiency. It is natural to wonder can we obtain better performance by capturing also the velocity information, using a Hilbert curve of a higher dimensionality?. This paper provides a positive answer by developing the B dual -tree, a novel spatiotemporal access method leveraging pure relational methodology. We show, with theoretical evidence, that the B dual -tree indeed outperforms the B x -tree in most circum- stances. Furthermore, our technique can effectively answer progressive spatiotemporal queries, which are poorly supported by B x -trees.
+
+Access method
+Spatiotemporal
+Space filling curve

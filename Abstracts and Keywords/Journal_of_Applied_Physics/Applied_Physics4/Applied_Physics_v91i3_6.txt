@@ -1,0 +1,14 @@
+Single and coupled ´-doped InP channel heterostructure field-effect transistors using high barrier height (&gt;0.73 eV) and wide energy band gap (<1.8 eV) In0.34Al0.66As0.85Sb0.15 Schottky layer have been successfully grown by low-pressure metalorganic chemical vapor deposition. Comprehensive material characterizations have been conducted and investigated for various growth specifications, including the Hall measurement, secondary ion mass spectrometry, double crystal x-ray diffraction technique, and photoluminescence measurement. Excellent gate-source breakdown characteristics (&gt;40 V), low leakage current (111 ¼A/mm), improved gate voltage swing, improved carrier mobility, good saturation and pinch-off properties, and low output conductance (0.5 mS/mm) have been achieved by using the high barrier height In0.34Al0.66As0.85Sb0.15 Schottky layer and InP channels. The proposed structure provides good potential for high-power circuit applications. © 2002 American Institute of Physics. 
+
+indium compounds
+aluminium compounds
+III-V semiconductors
+wide band gap semiconductors
+Schottky barriers
+MOCVD coatings
+semiconductor growth
+semiconductor heterojunctions
+Hall effect
+secondary ion mass spectra
+X-ray diffraction
+photoluminescence

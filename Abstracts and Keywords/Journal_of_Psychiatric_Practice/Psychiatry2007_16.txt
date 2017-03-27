@@ -1,0 +1,10 @@
+Objective. To report efficacy and safety of transitioning patients receiving intramuscular (IM) formulations of aripiprazole or haloperidol to their respective oral formulations. Methods. 448 agitated patients with schizophrenia (73%) or schizoaffective disorder (27%) were randomized to receive aripiprazole IM 9.75 mg, haloperidol IM 6.5 mg, or placebo IM within 24 hours. Patients treated with aripiprazole IM or haloperidol IM who completed this 24-hour IM phase were transitioned to the respective blinded oral formulations for 4 days (aripiprazole 10-15 mg/day, <em>n</em> = 153; haloperidol 7.5-10 mg/day, <em>n</em> = 151). Patients treated with placebo IM were transitioned to oral aripiprazole (analysis not included). The primary efficacy measure was mean change in Positive and Negative Syndrome Scale-Excited Component (PEC) score from baseline of oral phase (last value from 24-hour IM phase) to endpoint (study day 5, last observation carried forward). Results. During the oral phase, aripiprazole 15 mg and haloperidol 10 mg were both effective in maintaining responses achieved on all efficacy measures during the 24-hour IM phase. Mean improvements in PEC scores from study day 1 to 5 were -1.37 for aripiprazole and -1.40 for haloperidol (<em>p</em> = NS for aripiprazole versus haloperidol). Oral aripiprazole was well tolerated. Extrapyramidal symptom-related adverse events were lower for aripiprazole (1.3%) than haloperidol (8.0%). Nausea and vomiting occurred more frequently in patients receiving aripiprazole (3.9% and 2.6%, respectively) than in those receiving haloperidol (0.7% and 1.3%, respectively). Conclusions. Acutely agitated patients with schizophrenia or schizoaffective disorder treated with aripiprazole IM or haloperidol IM demonstrated similar effective and safe transition to their respective oral formulations. Initial benefits of reduced agitation and improved clinical status during the IM phase of the study were maintained throughout the oral phase of the study with good tolerability. 
+
+aripiprazole
+haloperidol
+intramuscular
+oral
+transition
+schizophrenia
+agitation
+behavioral emergencies

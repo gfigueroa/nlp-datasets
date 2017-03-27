@@ -1,0 +1,13 @@
+Structural and electrical characteristics of chemical vapor deposited (CVD) diamond films have been studied as a function of film thickness. The samples comprise a set of codeposited, nominally undoped diamond films with average grain size on the growth surface increasing linearly with the film thickness. Raman scattering analysis reveals a decrease of nondiamond phase and intragrain defects with increasing film thickness. Temperature dependent dc conductivity results indicate that, as the film thickness increases, the Fermi level moves towards the valence band. There is a corresponding decrease in the density of states at the Fermi level, as deduced from the space-charge-limited current in the bulk of the samples. The spatial variation in the density of states through the material closely reflects the changes observed in the structural and electrical properties of the films. Such characteristic has the implication on the application of CVD diamond in the area of electronics. © 2001 American Institute of Physics. 
+
+diamond
+elemental semiconductors
+CVD coatings
+grain size
+Fermi level
+Raman spectra
+semiconductor thin films
+space-charge-limited conduction
+energy gap
+valence bands
+electronic density of states

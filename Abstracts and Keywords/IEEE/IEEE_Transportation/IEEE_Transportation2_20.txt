@@ -1,0 +1,7 @@
+This paper explains the relationship between the MOF and EMF meta-models and describes the ATL transformation tool. Based on this specific mapping, general principles for transformation between these modelling frameworks are discussed and used to reflect on our current standardization work on MOF query/view/transformations (QVT) within the OMG's model driven architecture initiative.
+
+EMF
+MDA
+MOF
+QVT
+model transformation

@@ -1,0 +1,12 @@
+Gate leakage currents in AlGaN/GaN heterostructure field-effect transistor (HFET) structures with conventional and polarization-enhanced barriers have been studied. Comparisons of extensive gate leakage current measurements with two-dimensional simulations show that vertical tunneling is the dominant mechanism for gate leakage current in the standard-barrier HFET and that the enhanced-barrier structure suppresses this mechanism in order to achieve a reduced leakage current. An analytical model of vertical tunneling in a reverse-biased HFET gate-drain diode is developed to evaluate the plausibility of this conclusion. The model can be fit to the measured data, but suggests that additional leakage mechanisms such as lateral tunneling from the edge of the gate to the drain or defect-assisted tunneling also contribute to the total leakage current. The vertical tunneling current mechanism is shown to be more significant to the gate leakage current in IIIV nitride HFETs than in HFETs fabricated in other IIIV material systems, in which the lateral tunneling current component generally dominates the gate leakage current. © 2000 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+leakage currents
+digital simulation
+semiconductor device models
+tunnelling
+field effect transistors
+semiconductor heterojunctions
+junction gate field effect transistors

@@ -1,0 +1,6 @@
+A battery and ultracapacitor active-parallel interface creates a power source with greater power and energy density than either source can alone. This paper explores a control scheme which allows an active-parallel interface between a battery and ultracapacitor to be implemented using one converter on the fast source only. This scheme is shown in simulation to be effective at keeping large current transients from reaching the battery, while allowing the bus voltage to float with battery state-of-charge. An analysis of the effects of loss on circuit performance is performed and guidelines for component sizing are established.
+
+Battery
+active-parallel interface
+hybrid power source
+ultracapacitor

@@ -1,0 +1,12 @@
+A simple analytic central potential with two adjustable parameters is proposed for the helium atom. The potential parameters are obtained by appealing to the precise values of optical oscillator strengths calculated by Schiff et al. Using the Born approximation we calculate 1	1Sn	1P electronimpact excitation cross sections up to 5 keV. Good agreement with experiment is obtained.
+
+EXCITATION
+HELIUM
+ELECTRONATOM COLLISIONS
+MATHEMATICAL MODELS
+POTENTIALS
+OSCILLATOR STRENGTHS
+BORN APPROXIMATION
+CROSS SECTIONS
+COMPARATIVE EVALUATIONS
+THEORETICAL DATA

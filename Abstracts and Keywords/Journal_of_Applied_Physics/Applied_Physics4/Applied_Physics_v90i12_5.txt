@@ -1,0 +1,7 @@
+Electron energy distribution functions (EEDF) in N2 Townsend discharges for E/N between 1 and 30 kTd (1 Td=1021 V m2) were measured using a multigridded energy analyzer behind a small (0.1 mm) aperture in the graphite anode. Experimental results are further analyzed by applying Monte Carlo simulations in order to describe nonequilibrium transport in steady state Townsend discharges and to determine the origin of the observed EEDF features. Boundary effects at electrodes are described by allowing exact representation of absorption, reflection, and secondary electron production at the anode. It was found that it is necessary to include electron reflection and secondary electron production in order to model the low energy part of the observed EEDF. © 2001 American Institute of Physics.
+
+nitrogen
+Townsend discharge
+plasma transport processes
+Monte Carlo methods
+plasma simulation

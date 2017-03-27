@@ -1,0 +1,9 @@
+TiO2 films are deposited by electron beam evaporation as a function of oxygen partial pressure. The packing density, refractive index, and extinction coefficient all decrease with the increase of pressure, which also induces the change of the films microstructure, such as the increase of voids and H2O concentration in the film. The laser-induced damage threshold (LIDT) of the film increases monotonically with the rise of pressure in this experiment. The porous structure and low nonstoichiometric defects absorption contribute to the films high LIDT. The films prepared at the lowest and the highest pressure show nonstoichiometric and surface-defects-induced damage features, respectively.
+
+laser beam effects
+porous materials
+refractive index
+stoichiometry
+thin films
+titanium compounds
+voids (solid)

@@ -1,0 +1,17 @@
+A thin, amorphous LiAlF4 film, with lithium ion conductivity of 1×104 S/m at 25	°C, has been prepared by vacuum evaporation. Utilizing this thin film as a solid electrolyte, an ITO/WO3/LiAlF4/LiIn overlayer has been constructed (ITO: indiumtinoxide). For it, the electrochromism of WO3 due to lithium ion injection was observed.
+
+TUNGSTEN OXIDES
+LITHIUM FLUORIDES
+ALUMINUM FLUORIDES
+LITHIUM INDINIDES
+ELECTROCHEMISTRY
+COLOR CENTERS
+THICKNESS
+FILMS
+LAYERS
+AMORPHOUS STATE
+ELECTRIC CONDUCTIVITY
+MEDIUM TEMPERATURE
+DATA
+SOLIDS
+ELECTROLYTES

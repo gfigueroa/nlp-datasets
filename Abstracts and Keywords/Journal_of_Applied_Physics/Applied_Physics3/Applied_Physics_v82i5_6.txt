@@ -1,0 +1,10 @@
+Amorphous SiO2 was deposited on three single-crystalline substrates: alumina, CaF2, and hydrogen-terminated silicon, by chemical vapor deposition (CVD) using tetraethoxysilane (TEOS) and ozone (O3). The deposited layers were then examined by using atomic force microscopy (AFM). For deposition times of 3, 8, 15, and 180 s, the film thickness ranged from less than 2.4 to 150 nm, respectively. Comparison of the surface roughness with the film thickness, as determined independently by ellipsometry, indicated that the thinnest film formed on the silicon surface (2.4 nm) was continuous. During film formation, for all three substrates, the surface roughness increased initially, reached a maximum, and then decreased. Surprisingly, the surface became smooth (within the resolution of 0.2 nm of our AFM). For the silicon substrate, this smoothing occurred between 3 and 8 s, which corresponds to 2.4 and 6.4 nm of deposition, respectively. Furthermore, just before the smoothing started, the surface of the deposited film contained protuberances, 1.6 nm high and 16 nm×16 nm in area. This indicates that smooth film of a few tens angstroms in thickness can form on the silicon. The smoothing of the protuberances occurred between 3 and 8 s for the CaF2 substrate, and between 15 to 180 s for the alumina substrate. The initial formation of a rough surface followed by smoothing is likely to be inherent in TEOS/O3 CVD systems, irrespective of substrate type. Surface-tension-induced flows of the surface, which has liquidlike properties, is a plausible mechanism. © 1997 American Institute of Physics.
+
+silicon compounds
+chemical vapour deposition
+insulating thin films
+atomic force microscopy
+surface topography
+ellipsometry
+surface tension
+amorphous state

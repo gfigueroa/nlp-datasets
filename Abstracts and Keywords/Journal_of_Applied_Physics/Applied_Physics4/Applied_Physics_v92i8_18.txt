@@ -1,0 +1,14 @@
+Maps of the electric field distribution on the surface of thick film resistors (TFRs) have been acquired by using electric force microscopy (EFM). TFRs based on various types of conducting phases (Bi-ruthenate, Pb-ruthenate, or RuO2) and with different volume fractions in the glassy matrix have been examined. Scanning electron microscopy, x-ray energy dispersive spectroscopy and x-ray diffraction have been used to correlate the EFM results to the morphological, microchemical, and structural characteristics of the samples. The evolution of the TFRs microstructure and the segregation characteristic with the firing conditions have been investigated. The results showed that the concentration of the electric field around the conductive grains is a general feature of all the films, independently of the resistor composition, and a meander-like path of charge carriers on a microscopic scale has been assessed. The observations also indicated that at high firing temperatures the segregated structure did not disappear, but on the contrary was enhanced. All the results are critically discussed in relation to the electrical and piezoresistive properties of the TFRs and suggestions for new models to correlate the microstructure and the electric properties are presented. © 2002 American Institute of Physics. 
+
+thick film resistors
+electric field measurement
+microscopy
+atomic force microscopy
+scanning electron microscopy
+X-ray chemical analysis
+X-ray diffraction
+segregation
+piezoresistance
+ruthenium compounds
+bismuth compounds
+lead compounds

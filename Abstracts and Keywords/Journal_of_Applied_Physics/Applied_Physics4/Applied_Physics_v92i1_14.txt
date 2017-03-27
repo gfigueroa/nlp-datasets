@@ -1,0 +1,13 @@
+The strain relaxation due to cracks of different depths in AlGaN layers grown on GaN template layers has been investigated using spatially resolved cathodoluminescence spectroscopy, high-resolution x-ray diffraction and two-dimensional finite element simulations. The experimental data consistently show that the relief of tensile stress increases with decreasing crack spacing. The measured strain profiles between the cracks are well described by the theoretical calculations for small crack spacings; whereas, deviations for larger crack spacings have been found. The latter is discussed in terms of inelastic strain relaxation mechanisms, the reliability of the deformation potential for AlGaN employed in this article, and the spatial variations in the properties of the AlGaN, e.g., its composition. © 2002 American Institute of Physics. 
+
+aluminium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+stress relaxation
+internal stresses
+cracks
+cathodoluminescence
+X-ray diffraction
+finite element analysis

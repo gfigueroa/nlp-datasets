@@ -1,0 +1,14 @@
+Ohmic contacts to pGaSb were prepared by the deposition of (100 Å Au+100 Å Zn+800 Å Au) and their characteristics were analyzed. Measurements of specific contact resistance as a function of annealing temperature show a minimum value of <1×105 © cm2 for alloying at 300	°C for 15 min. Auger electron spectroscopy depth profiles and Rutherford backscattering spectroscopy analysis for samples annealed at different temperatures show the diffusion of Au into GaSb and also give evidence of Ga outdiffusion and Zn indiffusion. The presence of oxygen in the film surface and at the interface is discussed.
+
+GOLD ALLOYS
+ZINC ALLOYS
+GALLIUM ANTIMONIDES
+PTYPE CONDUCTORS
+ELECTRIC CONTACTS
+ELECTRICAL PROPERTIES
+ELECTRIC CONDUCTIVITY
+ANNEALING
+TEMPERATURE DEPENDENCE
+AUGER ELECTRON SPECTROSCOPY
+DIFFUSION
+INTERFACE PHENOMENA

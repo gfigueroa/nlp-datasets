@@ -1,0 +1,12 @@
+We have studied the effect of oxygen on the diffusion of Ni into Pt in the PtNiPt films. Below 400 °C, the diffusion rates of Ni into both Pt layers are greatly reduced by oxygen. Above 500 °C, however, Ni rapidly mixes with Pt layers, which leads to the formation of Ni oxide on the Pt surface in the presence of oxygen.
+
+FILMS
+DIFFUSION
+NICKEL
+PLANTINUM
+HIGH TEMPERATURE
+DATA
+LAYERS
+OXIDES
+SURFACES
+OXYGEN

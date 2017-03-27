@@ -1,0 +1,16 @@
+(Ba1xSrx)(Ti0.9Sn0.1)O3 (BSxTS) thin films prepared by rf magnetron sputtering have been characterized as a function of temperature, applied voltage, and electric field. The BSxTS thin films have been confirmed with x-ray diffraction and electron diffraction analysis. The BSxTS thin films show a strong (111) preferred orientation for Sr content 0.1fxf0.3. Grain size increases with increasing deposition temperature and is correlated to high dielectric constants. Leakage current density at 1 kV/cm varies from below 107 to mid 109	A/cm2 for the O2/(O2+Ar) ratio varying from 5/(5+5) to 1/(1+9). A large and clear hysteresis shows ferroelectricity at 25
+°C for all BSxTS thin films. The remnant polarization increases with increasing Sr content, which is preseemably caused by the lattice mismatch between BSxTS thin films and Pt layers. © 2002 American Institute of Physics. 
+
+barium compounds
+strontium compounds
+ferroelectric materials
+ferroelectric thin films
+grain size
+sputter deposition
+electron diffraction
+X-ray diffraction
+permittivity
+leakage currents
+current density
+dielectric hysteresis
+dielectric polarisation

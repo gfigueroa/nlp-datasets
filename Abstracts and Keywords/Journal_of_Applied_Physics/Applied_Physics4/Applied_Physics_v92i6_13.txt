@@ -1,0 +1,7 @@
+We describe an optical technique using divergent laser beams and sample scanning for measuring electric-field distributions in the spaces between interdigital electrodes. We present experimental results using a LiNbO3 sample and compare them to calculated electric-field distributions. The basic structure of the fields and the locations of the maxima show excellent agreement between experiment and theory. © 2002 American Institute of Physics. 
+
+lithium compounds
+electric field measurement
+platinum
+capacitors
+measurement by laser beam

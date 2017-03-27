@@ -1,0 +1,15 @@
+The generation and evolution of defects in 4HSiC p-n junctions due to carrier injection under forward bias have been investigated by synchrotron white beam x-ray topography, electroluminescence imaging, and KOH etching. The defects are Shockley stacking faults with rhombic or triangular shapes bound by partial dislocation loops with dislocation lines along Peierls valleys (11-20	) or along the intersection of the basal plane containing the fault and diode surface. The Burgers vector of all bounding partials was of 1/310-10	-type. Among six possible types of partial dislocations with these properties, only two were observed in the volume of the epitaxial structure. One was tentatively identified as 30° carbon-core [C(g)	30°] and second as 30° silicon-core [Si(g)	30°] partial dislocation. Only one of them [proposed to be the Si(g)	30° partial] have been observed to move and emit light under forward bias. The other type of bounding dislocation [C(g)	30°] remained stationary during current injection. Low angle grain boundaries have been observed to act as one of a number of possible nucleation sites of stacking faults. © 2002 American Institute of Physics. 
+
+silicon compounds
+wide band gap semiconductors
+semiconductor epitaxial layers
+electron-hole recombination
+X-ray topography
+electroluminescence
+dislocation etching
+stacking faults
+dislocation loops
+grain boundaries
+dislocation motion
+semiconductor diodes
+p-n junctions

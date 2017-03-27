@@ -1,0 +1,5 @@
+By combining GA (Genetic Algorithm), which has the advantage of global optimization, and RBF, which has the advantage of local optimization, the calculation accuracy and convergence rate of the traditional RBF neural network are improved. So a combinational evaluation model is presented based on GA and RBF neural network. And it is applied to comprehensive analysis and evaluation of water quality, not only retains the original merits of the neural network, but also overcomes these shortcomings, and establishes water quality evaluation model. The experimental results show that the hybrid algorithm model has evaluation of high precision, and can be applied to water quality evaluation. The simulation result shows this method has high convergent speed and easily oriented global optimization and is therefore of great practical value.
+
+RBF neural network
+genetic algorithm
+water quality

@@ -1,0 +1,8 @@
+The performance of point-to-point routing protocols is limited by a trade-off between routing state and routing stretch. A wireless sensor network (WSN) designer can choose from a whole spectrum of routing techniques that exploit this trade-off at varying granularity. We aim to make such choices more informed; our contributions are twofold. First, we present the first point-to-point routing framework for WSNs that provides uniform implementations of four routing techniques that, from the state-stretch trade-off perspective, represent the entire spectrum. Second, using the framework we conduct an unprecedented experimental comparison of the techniques in TOSSIM and on two testbeds. In particular, we show that most techniques with sub-linear state offer a small stretch in WSNs. These results can guide the initial choice of potential routing techniques for a given WSN; the framework can facilitate the choice of a particular technique by enabling experiments in one's own settings.
+
+Beacon vector routing
+compact routing
+hierarchical routing
+point-to-point routing
+shortest-path routing
+wireless sensor network

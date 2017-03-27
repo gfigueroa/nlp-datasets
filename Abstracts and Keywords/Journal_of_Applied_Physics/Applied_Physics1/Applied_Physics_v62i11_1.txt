@@ -1,0 +1,7 @@
+Photorefractivity has been observed in several GeO2doped fibers. The effect is manifested by formation of a grating in the fiber core introduced by laser radiation in the green part of the spectrum. The grating is a distributed Bragg reflector which selectively reflects light at the writing wavelength. Reflections of up to 50% in a 15 cm length of fiber have been observed. The grating persists for at least five days after being written.
+
+GRATINGS
+OPTICAL FIBERS
+PHOTOREFRACTIVE EFFECT
+SILICA
+BRAGG REFLECTION

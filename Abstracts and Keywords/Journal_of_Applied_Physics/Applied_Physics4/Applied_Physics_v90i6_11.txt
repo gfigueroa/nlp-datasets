@@ -1,0 +1,7 @@
+Surface breakdown discharges are one probable failure mechanism of metallized polymeric film capacitors used in power systems, traction drives, and other technological applications. To assess whether surface breakdown discharges may undergo considerable elongation on the electrode surface to affect significantly capacitor performance, an equivalent electric circuit model is developed for metallized polymer film capacitors under the thermal equilibrium condition. With the aid of a surface field gradient mechanism, propagation of surface plasmas is studied and the necessary condition for their possible elongation is obtained. Numerical examples of a metallized film capacitor are used to demonstrate that surface breakdown plasmas and their elongation are unlikely to affect capacitor performance in a significant fashion. Then the generic problem of plasma propagation is restudied under thermally nonequilibrium conditions. Based on a heat conduction formulation in the one-dimensional limit, a temperature gradient mechanism is proposed to explain the possible elongation of breakdown plasmas on an electrode surface. Numerical examples are again used to deduce that thermally nonequilibrium surface plasmas are unlikely to evolve into catastrophic flashover arcs to fail film capacitors. © 2001 American Institute of Physics. 
+
+thin film capacitors
+surface discharges
+polymer films
+capacitors
+flashover

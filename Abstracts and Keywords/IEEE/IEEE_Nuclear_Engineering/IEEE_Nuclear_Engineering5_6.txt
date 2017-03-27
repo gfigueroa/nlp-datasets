@@ -1,0 +1,6 @@
+In an effort to protect the environment despite the projected development of the electrical power system, the European community is focusing on a significant increase in the installed wind power capacity up to the level of 300 GW by the year 2030 throughout Europe. Most of the planned installations - about 150 GW - are going to be realized in the offshore sector, a large part of which will be located in the North Sea. Such development will lead to new challenges regarding integration of the bulk offshore wind power into the power systems and will require a comprehensive analysis concerning various aspects such as optimal planning and operation taking into account new concepts, as multi-terminal VSC HVDC. In this paper the establishment of a test system for analysis of the offshore DC grid behavior is proposed taking into account the recent structural and technological concepts on this field as well as the national plans. Hence, in the first step the configuration of the analyzed offshore grid was defined, which includes a mix of AC and DC system. Further, the assumptions for the system parameters will be discussed and the implementation of this test system into a power system simulator as well as some exemplary calculations will be shown.
+
+DC offshore grid
+benchmark
+multi-terminal HVDC
+wind energy integration

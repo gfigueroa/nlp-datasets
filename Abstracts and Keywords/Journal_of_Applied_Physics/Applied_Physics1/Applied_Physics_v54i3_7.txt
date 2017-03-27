@@ -1,0 +1,21 @@
+The surface of a solid insulator in vacuum (and in a high gas pressure) becomes electrically charged when subjected to a high voltage stress. The surface charge density is proportional to the applied voltage. The magnitude of the surface charge density depends on the secondary electron emission characteristic, the geometrical shape, and the material of the insulator. The field enchancement, contributing to a lower withstand voltage of solid insulators in vacuum (and in high pressure gases), due to the presence of surface charge is computed along the surface of the solid insulator and at the triple electrodesolid insulatorvacuum junction near the anode and cathode. Different patterns of surface charge density distribution has been considered in order to evaluate their effects on the field enhancement. The polarity, the magnitude and the shape of the distribution of the surface charge density has been found to have a considerable effect on the field enhancement. The observed influence of the charge distribution patterns on the electric field suggests that in order to obtain the experimentally observed field enhancements, the insulator surface must possess a positive surface charge except in the region close to the anode, where it is negatively charged. The electric field and the potential distributions of the interfacial boundary between the solid insulator and vacuum is computed for different realistic surface charge distributions. The computed electric field at the triple junction for varying values of the dc applied field is then compared with the measured values reported in the literature. Good agreement is obtained. The effects of the magnitude of surface charge density, the applied field and the length of the solid insulator on the field enhancement at the triple junctions are also investigated. Nine different solid insulator materials having a relative permittivity in the range 2.113 and electron impact energies in the range 2060 eV are examined. The effect of the surface charge on the withstand voltage of the insulating vacuum gap bridged by a solid insulator is discussed.
+
+electrical insulators
+electric fields
+surface properties
+variations
+solids
+interfaces
+electric charges
+experimental data
+gases
+stresses
+charge density
+secondary emission
+electron emission
+shape
+geometry
+mathematical models
+electrodes
+spatial distribution
+direct current

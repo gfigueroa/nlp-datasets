@@ -1,0 +1,12 @@
+We study photoluminescence (PL) of ZnO-opal structures excited by a 351.1 nm laser line. The structures were fabricated by infiltration of ZnO from an aqueous solution of zinc nitrate into opal matrices. The emission spectrum of thick ZnO layers grown on the surface of bulk opals exhibits narrow PL bands associated with the recombination of bound and free-excitons. The free-exciton lines are discussed taking into account the polariton phenomena. The width of the excitonic lines (23 meV) along with their energy position is indicative of high quality and strain-free state of the layer. The emission from ZnO crystallites embedded into bulk opal is dominated by near band gap luminescence, a weak quantum confinement effect being observed for crystallites with sizes around 50 nm. Thin ZnO films grown on single-layer opals exhibit enhanced resonant Raman scattering, phonon confinement effects, and surface-related modes. Strong exciton-LO phonon and exciton-Fröhlich mode coupling in ZnO nanostructures is deduced from the analysis of multiphonon excitonic resonant Raman scattering. © 2004 American Institute of Physics. 
+
+zinc compounds
+silicon compounds
+II-VI semiconductors
+nanostructured materials
+semiconductor thin films
+energy gap
+Raman spectra
+photoluminescence
+polaritons
+phonon-exciton interactions

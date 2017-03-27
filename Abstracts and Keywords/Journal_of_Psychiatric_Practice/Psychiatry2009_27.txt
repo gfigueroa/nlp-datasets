@@ -1,0 +1,11 @@
+Objective. The goal of this study was to evaluate which anthropometric measure (human body measurement) best predicts insulin resistance measured by the insulin sensitivity index (SI) and the homeostasis model of assessment of insulin resistance (HOMA-IR) in nondiabetic patients with schizophrenia treated with clozapine or olanzapine. Methods. We conducted a cross-sectional study of nondiabetic subjects with schizophrenia being treated with olanzapine or clozapine using a frequently sampled intravenous glucose tolerance test, nutritional assessment, and anthropometric measures, to assess the relationship between anthropometric measures and insulin resistance. Results. No difference was found between the groups treated with clozapine and olanzapine in age, gender, race, body mass index (BMI), waist circumference (WC), lipid levels, HOMA-IR, or SI. The disposition index (SI x the acute insulin response to glucose), which measures how the body compensates for insulin resistance to maintain a normal glucose level, was significantly lower in the group treated with clozapine than in the group treated with olanza-pine (1067±1390 vs. 2521±2805; <em>P</em>=0.013), suggesting that the subjects treated with clozapine had a reduced compensatory response to IR compared with the subjects treated with olanzapine. In the clozapine group, both higher WC and BMI were significantly associated with elevated HOMA-IR and lower SI; however, WC was a stronger correlate of IR than BMI, as measured by SI (-0.50 vs. -0.40). In the olanzapine group, neither WC nor BMI was significantly associated with any measure of glucose metabolism. Conclusions. In this study, WC was the single best anthropometric surrogate for predicting IR in patients treated with clozapine but not olanzapine. The results suggest that WC may be a valuable screening tool for predicting IR in patients with schizophrenia being treated with clozapine who are at relatively higher risk of developing the metabolic syndrome, type 2 diabetes mellitus, and associated cardiovascular disease. (<em>Journal of Psychiatric Practice</em> 2009;15:251-261). 
+
+schizophrenia
+waist circumference
+insulin resistance
+glucose metabolism
+metabolic syndrome
+diabetes mellitus
+second-generation (atypical) antipsychotic
+clozapine
+olanzapine

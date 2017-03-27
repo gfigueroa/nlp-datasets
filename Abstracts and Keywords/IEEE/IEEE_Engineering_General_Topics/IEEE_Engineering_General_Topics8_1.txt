@@ -1,0 +1,7 @@
+With the technology entering the nano dimension, manufacturing processes are less and less reliable, thus drastically impacting the yield. A possible solution to alleviate this problem in the future could consist in using fault tolerant architectures to tolerate manufacturing defects. In this paper, we use the classical triple modular redundancy (TMR) fault tolerant architecture as a case study. Firstly we analyze the conditions that make the use of TMR architectures interesting for yield improvement purpose. In the second part of the paper, we investigate the test requirements for the TMR architecture and we propose a solution for generating test patterns for this type of architecture. Finally, we propose a new manner to implement the TMR architecture that makes it very effective for yield improvement purpose. Experimental results are provided on ISCAS and ITC benchmark circuits to prove the efficiency of the proposed approach in terms of yield improvement with a low area overhead.
+
+Fault-tolerance
+TMR
+manufacturing defects
+test of tolerant architecture
+yield ramp-up

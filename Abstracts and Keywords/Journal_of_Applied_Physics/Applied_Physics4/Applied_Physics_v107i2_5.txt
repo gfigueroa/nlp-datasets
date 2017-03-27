@@ -1,0 +1,6 @@
+A finite three-dimensional layer-by-layer photonic crystal with planar defects in a layer is shown to drastically modify the spontaneous emission rate of an embedded dipole. Finite-difference time-domain calculations with one quarter symmetric boundary condition and perfectly matched layer demonstrate the strong enhancement effects induced by the cavity resonance of defect modes and band-edge resonant modes. Simulation shows that the emission spectra are quite different when the position or polarization of the dipole is changed. Moreover, the extraction efficiency is calculated to observe the percentage of light leakage through a substrate.
+
+finite difference time-domain analysis
+luminescence
+optical multilayers
+photonic crystals

@@ -1,0 +1,6 @@
+This paper presents a simple and effective approach based on two dynamic matrixes of node-relay matrix (NRM) and relay-incidence matrix (RIM) to determine minimum break point set (MBPS) for coordination of the directional relays. Firstly, the NRM and RIM are defined and their calculation methods are developed. Then, some optimization operations for network reduction and special structure are presented to update the NRM and RIM and the detailed flowchart is provided. At last, case studies on various topologies demonstrate the effectiveness and simplicity of the proposed method.
+
+Minimum break point set (MBPS)
+node-relay matrix (NRM)
+power system protection
+relay-incidence matrix (RIM)

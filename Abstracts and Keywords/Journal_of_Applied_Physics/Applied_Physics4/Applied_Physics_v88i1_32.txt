@@ -1,0 +1,14 @@
+Formation of extended states or minibands in two-dimensional (2D) In0.4Ga0.6As/GaAs(311)B quantum dot superlattices (QDSLs) is directly demonstrated in time-resolved photoluminescence measurements. At a low excitation density of 1 W/cm2, photoluminescence transients with <15 ps rise time and <25 ps decay time are observed. Both rise and decay times are found to increase with increasing excitation density. The excitons in 2D QDSLs exhibit different relaxation and recombination behaviors as compared to those in quantum wells and quantum dots. A physical model treating 2D QDSLs as disordered systems containing localized and extended states can successfully interpret all of the experimental observations. © 2000 American Institute of Physics. 
+
+gallium arsenide
+indium compounds
+III-V semiconductors
+semiconductor quantum dots
+semiconductor superlattices
+two-dimensional electron gas
+photoluminescence
+time resolved spectra
+excitons
+carrier relaxation time
+electron-hole recombination
+localised states

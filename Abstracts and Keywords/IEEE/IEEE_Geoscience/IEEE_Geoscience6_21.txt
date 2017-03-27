@@ -1,0 +1,8 @@
+Claim Mobile is a platform designed to support a project that subsidizes healthcare by reimbursing health service providers in Uganda for treatment of patients with sexually transmitted infections. As with many development projects, the Uganda Output-Based Aid (OBA) project involves a number of stakeholders: the service providers, the project implementers, the financiers, and the Ugandan government. Design of an appropriate solution requires meeting the various and conflicting requirements of all of these stakeholders. In this paper we detail the rapid design and testing of a pilot implementation of a mobile and web-based system for processing claims forms, based on two prior field visits to Uganda. Based on a comparative device study, semi-structured interviews, health clinic surveys, and a brief deployment, we affirm the selection of the mobile phone as a platform from the health clinic perspective, and further suggest that effective design for development requires more than addressing requirements of the the Â¿usersÂ¿ of the mobile phones but also all the other stakeholders involved, who may have conflicting requirements.
+
+Africa
+HCI
+ICTD
+health
+mobile phone
+participatory design

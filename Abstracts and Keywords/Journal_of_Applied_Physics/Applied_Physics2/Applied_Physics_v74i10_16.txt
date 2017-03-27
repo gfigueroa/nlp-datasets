@@ -1,0 +1,11 @@
+Optical absorption spectra of quasi1D GaAs quantum well wires are theoretically investigated within the framework of multiband effective mass theory. In the calculation, the mixing of heavyhole and lighthole bands resulting from both 1D quantum confinement and electronhole Coulomb interaction is considered. Detailed excitonic structures in the absorption spectrum near the band edge are clarified by taking into account Coulombic bound states and unbound continuum states. Polarization dependence of the optical absorption spectra is discussed in terms of the band mixing effects.
+
+QUANTUM WIRES
+ABSORPTION SPECTRA
+GALLIUM ARSENIDES
+EFFECTIVE MASS
+CONFINEMENT
+EXCITONS
+POLARIZATION
+ELECTRONHOLE COUPLING
+COULOMB FIELD

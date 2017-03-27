@@ -1,0 +1,6 @@
+We enunciate the need for watermarking database relations to deter data piracy, identify the characteristics of relational data that pose unique challenges for watermarking, and delineate desirable properties of a watermarking system for relational data. We then present an effective watermarking technique geared for relational data. This technique ensures that some bit positions of some of the attributes of some of the tuples contain specific values. The specific bit locations and values are algorithmically determined under the control of a secret key known only to the owner of the data. This bit pattern constitutes the watermark. Only if one has access to the secret key can the watermark be detected with high probability. Detecting the watermark requires access neither to the original data nor the watermark, and the watermark can be easily and efficiently maintained in the presence of insertions, updates, and deletions. Our analysis shows that the proposed technique is robust against various forms of malicious attacks as well as benign updates to the data. Using an implementation running on DB2, we also show that the algorithms perform well enough to be used in real-world applications.
+
+Database
+Information hiding
+Steganography
+Watermarking

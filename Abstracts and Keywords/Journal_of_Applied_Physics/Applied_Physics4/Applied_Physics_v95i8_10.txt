@@ -1,0 +1,17 @@
+Deep level transient spectroscopy and optical absorption spectroscopy measurement revealed three outstanding features of density-of-states (DOS) appeared above the valence band edge (Ev) of Al oxide thin films. The broad peak located at 0.39 eV above Ev disappears while the other two located at 1.0 and 1.3 eV shift in position and attenuate in intensity upon annealing at 200
+°C. The latter two peaks are removed by annealing at temperature up to 400
+°C. The observed midgap DOS feature dynamics is in accordance with the oxygen lone pair features as confirmed earlier with Raman spectroscopy in the low-frequency ranges [C. Q. Sun et al., J. Appl. Phys. 90, 2615 (2001)] and thermal desorption measurements of other oxide surfaces. © 2004 American Institute of Physics. 
+
+aluminium
+aluminium compounds
+silicon
+elemental semiconductors
+MIS structures
+valence bands
+absorption coefficients
+electronic density of states
+annealing
+thermally stimulated desorption
+electrical conductivity
+Raman spectra
+deep level transient spectroscopy

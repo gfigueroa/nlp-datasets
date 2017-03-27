@@ -1,0 +1,5 @@
+The general formulation of the coil impedance of a conducting but nonmagnetic half space is examined. An intermediate kernel function is used to recast the theory in a form which gives a fuller physical interpretation and at the same time provides avenues for the solution of the ill-conditioned inverse conductivity problem. In particular, reflection and transmission coefficients depending upon the kernel function are introduced, which yield expressions for the induced and penetration fields, respectively. Correspondences between the forward and inverse conductivity problems, and problems in the London theory of superconductivity for the penetration depth, are established. The use of the kernel function aids in the development of analytic expressions for the single- and multiturn coil impedance and their instance for a half space of constant conductivity. Analytic results are obtained for various integral representations for both general and special impedance cases. © 2001 American Institute of Physics. 
+
+eddy current testing
+electric impedance measurement
+coils

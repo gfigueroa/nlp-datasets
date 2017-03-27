@@ -1,0 +1,12 @@
+In0.2Ga0.8As single strained quantum well lasers with GaAs/Al0.45Ga0.55As shortperiod superlattice barrier (SPSB)layers have been successfully prepared using molecular beam epitaxy although a part of SPSB has been grown in the forbidden temperature region for AlGaAs, where the specular smooth bulk AlGaAs cannot be grown. The averaged AlAs mole fraction of the present SPSB is 0.25, which gives the heterobarrier height larger than that of the conventional GaAs barrier layers. The threshold temperature sensitivity factor T0 of the laser with SPSB has been measured to be as low as 240 K, which is much larger than that of 90 K in the laser with GaAs barrier layers. This improvement results from the reduction of carrier leakage from quantum well to barrier layers.
+
+QUANTUM WELLS
+SEMICONDUCTOR LASERS
+SUPERLATTICES
+MOLECULAR BEAM EPITAXY
+STRAINS
+INDIUM ARSENIDES
+GALLIUM ARSENIDES
+TERNARY ALLOYS
+BARRIER HEIGHT
+TEMPERATURE RANGE

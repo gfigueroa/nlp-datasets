@@ -1,0 +1,12 @@
+We report on the demonstration that layers producing Franz-Keldysh oscillations (FKOs) in photoreflectance (PR) spectra of multiple-layer structures can be nondestructively determined through the line-shape analysis. At first, we discuss PR spectra of two kinds of AlGaAsGaAs heterojunction bipolar transistor (HBT) structures with a difference in the base-layer thickness. We have found that the phase of FKOs is sensitive to the total layer thickness over the interface associated with the FKOs. In order to analyze the FKO phase, we have derived a calculation model for the line shape of the FKOs, taking account of the probe-light interference effect. The phase of the calculated FKO profile agrees with that of the measured spectra, which supports the appropriateness of the present model. The calculation model has been also applied to the analysis of FKOs from an InGaPGaAs HBT structure. The calculation model well reproduces the phase of the FKOs from the base-emitter region as well as that of the FKOs from the base-collector region. In addition, we have demonstrated that the band-gap energy of the InGaP emitter layer can be precisely estimated from the FKOs with the use of the phase factor taking account of the interference effect.
+
+aluminium compounds
+gallium arsenide
+indium compounds
+gallium compounds
+III-V semiconductors
+heterojunction bipolar transistors
+photoreflectance
+photoluminescence
+energy gap
+nondestructive testing

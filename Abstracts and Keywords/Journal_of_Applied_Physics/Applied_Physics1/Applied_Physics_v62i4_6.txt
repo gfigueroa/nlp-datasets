@@ -1,0 +1,12 @@
+Schottky diodes were fabricated on ptype CdIn2Te4 using evaporated aluminum dots. The forward and reverse currentvoltage characteristics of these Schottky barrier devices were studied as a function of temperature. An analysis of this data allows the determination of the barrier height, the behavior of traps, and the current transport mechanism of the devices. The forward conduction mechanism appears to be a multistep tunneling process. The reverse transport is dominated by a diffusion process. The height of the barrier associated with the junction as revealed by the reverse IV characteristics is 0.4 eV. The conductivity type of the crystals can be changed from n type to p type in a manner similar to CdTe.
+
+SCHOTTKY BARRIER DIODES
+FABRICATION
+IV CHARACTERISTIC
+TUNNEL EFFECT
+DIFFUSION
+BARRIER HEIGHT
+CHARGEDPARTICLE TRANSPORT
+CADMIUM TELLURIDES
+INDIUM TELLURIDES
+TRAPS

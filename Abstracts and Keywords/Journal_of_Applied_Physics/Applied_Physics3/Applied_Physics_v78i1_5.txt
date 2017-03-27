@@ -1,0 +1,10 @@
+A theoretical model for the microsecondconductiontime plasma opening switch (POS) based on magnetohydrodynamics is presented. The operating processes are associated with the magnetic field transport in the switch. The concept of the freezingin of magnetic field in fluids is used to analyse the dynamics of this field in the plasma. Onedimensional and twodimensional numerical simulations lead to the identification of two operating regimes, related to the Hall and the snowplow effects. The transition between these two regimes is determined by the plasma density. Scaling relations are developed from this model. In particular the electrical charge Q, conducted by the POS during the conduction time, provides a useful tool for comparisons between theory and experiments; it is shown to be the essential parameter for the switch design. © 1995 American Institute of Physics.
+
+PLASMA SWITCHES
+OPERATION
+MAGNETIC FIELDS
+PLASMA DENSITY
+SCALING
+POWER TRANSMISSION LINES
+HYDRODYNAMICS
+MS RANGE

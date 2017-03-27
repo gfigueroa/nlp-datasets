@@ -1,0 +1,9 @@
+Colloidal silica particles of micrometric size are dispersed in 5CB, a nonionic nematic liquid crystal, and are glued on a glass-indium-tin-oxide substrate by means of an in situ synthesized acrylate polymer film. In order to evaluate the gluing properties of the film, we address pull-off forces in the piconewton range on the beads on applying small electric fields. This provides us with an extremely sensitive tool for studying the adhesion of the beads on the substrate. We thus determine their pull-off statistics. We show that the gluing properties of the film depend on whether the polymerization of the film is initiated via volume or surface nucleation, and whether the film is synthesized before or after the beads are deposited on the substrate. Typically, the adhesion is measured around 25pN which nevertheless could be interesting for particular applications.
+
+adhesion
+colloids
+electric fields
+nematic liquid crystals
+polymer films
+polymerisation
+silicon compounds

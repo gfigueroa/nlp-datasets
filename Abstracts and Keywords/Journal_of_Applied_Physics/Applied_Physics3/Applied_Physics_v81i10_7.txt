@@ -1,0 +1,9 @@
+A new technique for high precision measurement of magnetic anisotropy fields in thin and ultrathin films called modulated field magneto-optical anisometry (MFMA) is described. MFMA can be performed by a simple extension to a conventional magneto-optical Kerr effect magnetometer, and is therefore experimentally simple. It can resolve an arbitrary combination of anisotropies of different symmetries with a very high precision, even when there is little magneto-optical signal (e.g., ultrathin in-plane magnetized films) and high optical noise. It is spatially resolving and readily suited to the ultrahigh vacuum environment. MFMA thus offers many advantages over existing anisotropy measurement methods. A quantitative comparison is made between anisotropy field measurements made by MFMA and by Brillouin light scattering on an ultrathin Fe(001) epitaxial film. Agreement is found to within a high precision. © 1997 American Institute of Physics.
+
+iron
+ferromagnetic materials
+magnetic epitaxial layers
+magnetic anisotropy
+magneto-optical effects
+magnetisation
+Brillouin spectra

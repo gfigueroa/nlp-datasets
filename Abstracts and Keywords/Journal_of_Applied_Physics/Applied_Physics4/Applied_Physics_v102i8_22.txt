@@ -1,0 +1,10 @@
+While most organic light emitting diodes are designed to emit in the visible region, we report a series of polysilane based diodes for developing ultraviolet emitters at room temperature. These reported devices can also be controlled to simultaneously emit both ultraviolet and visible light, very close to the equienergy white point [Commission Internationale de lEclairage coordinate (0.33,0.33)]. Furthermore, the color coordinate of the visible emission is independent of the applied voltage. Therefore, the reported polysilane organic light emitting diodes can also be used as a white light source in which the ultraviolet emission from the same device provides an opportunity to modulate the color. While the origin of ultraviolet emission in electroluminescence is ascribed to an excitonic emission from the Ã-Ã* transition, consistent with its presence in the photoluminescence spectrum, we assign visible emission to defects states, based on degradation studies of the electroluminescent device.
+
+defect states
+electroluminescence
+electroluminescent devices
+excitons
+organic light emitting diodes
+organic semiconductors
+photoluminescence
+polymers

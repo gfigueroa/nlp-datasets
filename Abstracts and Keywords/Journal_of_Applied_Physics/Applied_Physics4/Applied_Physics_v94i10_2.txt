@@ -1,0 +1,13 @@
+We describe in this article atomistic modeling of transient enhanced diffusion of indium and end-of-range defects in silicon using a kinetic Monte Carlo (KMC) simulation technique. All types of defects, including small point defect clusters, {311} defects, dislocation loops, and voids are taken into account during the random walk of indium in silicon. Neutral point defect-mediated indium migration, which includes both indium-interstitial and indium-vacancy pairs, is implemented in the KMC diffusion simulator. Indium diffusion simulation after a subamorphous implant dose (In 200 keV, 1×1013/cm2) could be fully explained by indium-interstitial pair migration with reasonable activation energy and the FrankTurnbull mechanism was not dominant. In the case of an amorphous implant dose (In 200 keV, 1×1014/cm2), the KMC simulation shows small {311} defects at the initial stage of annealing that nucleate into dislocation loops. Atomistic KMC simulation also confirms that it is primarily interstitial clusters, {311} defects, and loops that play the most important roles in indium diffusion above the amorphous implant dose. © 2003 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+indium
+Monte Carlo methods
+ion implantation
+impurity-vacancy interactions
+interstitials
+dislocation loops
+segregation
+annealing
+diffusion

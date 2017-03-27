@@ -1,0 +1,6 @@
+Most national spatial data infrastructures (SDI) were built based on a clearinghouse concept. The concept requires all of the service providers to maintain a Web (map) service recourse which leads to duplication of efforts from data collectors. The objectives of developing a geo service broker are to make data services and other services within an SDI centrally organized, available and accessible to consumers. A geo service broker offers a centralized and harmonized view on resources. The objective of this research is to investigate how a geo service broker is built as a tool for intelligent search and information retrieval in the semantic Web for better service delivery of geo services over the Internet.
+
+Geo-Service Broker
+SDI
+SOA
+Web services

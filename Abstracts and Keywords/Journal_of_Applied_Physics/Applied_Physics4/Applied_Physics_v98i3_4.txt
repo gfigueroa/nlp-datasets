@@ -1,0 +1,12 @@
+Ignition behaviors associated with nano- and micron-scale particulate composite thermites were studied experimentally and modeled theoretically. The experimental analysis utilized a CO2 laser ignition apparatus to ignite the front surface of compacted nickel (Ni) and aluminum (Al) pellets at varying heating rates. Ignition delay time and ignition temperature as a function of both Ni and Al particle size were measured using high-speed imaging and microthermocouples. The apparent activation energy was determined from this data using a Kissinger isoconversion method. This study shows that the activation energy is significantly lower for nano- compared with micron-scale particulate media (i.e., as low as 17.4 compared with 162.5kJ/mol, respectively). Two separate Arrhenius-type mathematical models were developed that describe ignition in the nano- and the micron-composite thermites. The micron-composite model is based on a heat balance while the nanocomposite model incorporates the energy of phase transformation in the alumina shell theorized to be an initiating step in the solid-solid diffusion reaction and uniquely appreciable in nanoparticle media. These models were found to describe the ignition of the Ni/Al alloy for a wide range of heating rates.
+
+nickel
+aluminium
+nanocomposites
+particle reinforced composites
+nanoparticles
+high-speed optical techniques
+thermocouples
+particle size
+combustion synthesis
+reaction-diffusion systems

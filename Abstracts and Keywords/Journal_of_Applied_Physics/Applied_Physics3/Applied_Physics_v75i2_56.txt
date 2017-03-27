@@ -1,0 +1,12 @@
+The absorption coefficient of crystalline silicon is an important input for designing solar cells and extracting recombination parameters from device measurements. Since many contradicting measurements have been published, an assessment of data is given based on device measurements and on the discussion of experiments in the literature. An absorption coefficient for the ultraviolet to infrared spectral range is proposed, based on the results of three groups. These data can be described semiempirically by the theory of direct and indirect band transitions. This formulation enables the determination of the optical absorption in crystalline silicon at an arbitrary temperature. The interpretation and design of solar cells for operation at temperatures above room temperature is now possible.
+
+SILICON
+OPTICAL PROPERTIES
+ABSORPTION
+SILICON SOLAR CELLS
+DATA ANALYSIS
+ULTRAVIOLET RADIATION
+INFRARED RADIATION
+CRYSTALLINE STATE
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 273400 K

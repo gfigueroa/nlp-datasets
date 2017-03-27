@@ -1,0 +1,23 @@
+Bipolar disorder may be more prevalent than previously believed. Because a substantial number of patients with bipolar disorder present with an index depressive episode, it is likely that many are misdiagnosed with unipolar major depression. Even if a correct diagnosis is made, depressive symptoms in bipolar disorder are notoriously difficult to treat. Patients are often treated with antidepressants, which, if used improperly, are known to induce mania and provoke rapid cycling. This article explores diagnostic conundrums in bipolar depression and their possible solutions, based on current research evidence. It also elucidates current evidence regarding the risks and benefits associated with antidepressant use and evaluates alternative treatment regimens for the depressed bipolar population, including the use of traditional mood stabilizers such as lithium, novel anticonvulsants such as lamotrigine, and atypical antipsychotics. Recent evidence has suggested that a substantial minority of depressed patients may have unrecognized bipolar illness. 1,2 Epidemiologic surveys from over a decade ago identified a 1%-2% lifetime prevalence rate for bipolar disorder<sup>,</sup>3,4 although more recent literature suggests this may be an underestimate. Broad diagnostic constructs of a bipolar spectrum-including cyclical mood disturbances that fall short of DSM-IV 5 syndromal criteria for mania or hypomania-may pertain to as much as 5%-7% of the general population. 6 A recent U.S. nationwide survey identified bipolar spectrum features in 3.7% of the respondents, particularly those aged 18-24. 7 As reviewed by Angst and Stassen, 8 nine European studies have identified a 3%-7.8% prevalence of bipolar spectrum disorders in the general population (median across studies = 3.4%). However, because mood instability can occur across a broad range of psychiatric disorders, 9 controversy has arisen about the most appropriate taxonomy for the spectrum of cyclical mood disorders. Beyond the mere heuristic value of such distinctions, hazards arise when cyclical mood disorders receive incorrect treatments. While most bipolar patients initially present with depression, 10 it can be a formidable challenge for clinicians to recognize telltale signs of a bipolar diathesis before it becomes fully manifest. Nevertheless, clinicians must determine when antidepressant medications are or are not safe and effective treatments for patients with depression. Practitioners may not routinely view mood stabilizers as antidepressants, although controlled trials have identified only a limited number of agents that treat depression without inducing mania or that prevent mood destabilization. 11 This paper will describe complexities in the treatment of bipolar depression and examine the controversy over whether antidepressants are mood destabilizers in bipolar patients. The potential liability for antidepressants to provoke cycle acceleration and mood destabilization will be examined relative to their presumed therapeutic benefits. 
+
+bipolar disorder
+rapid cycling
+bipolar depression
+antidepressants
+selective serotonin reuptake inhibitors (SSRIs)
+anticonvulsants
+antipsychotics
+mood stabilizers
+lithium
+lamotrigine
+olanzapine
+divalproex
+bupropion
+hypomania
+mania
+tricyclic antidepressants (TCAs)
+switches
+antidepressant-induced mania
+mood stabilization
+mood disorder
+Mood Disorder Questionnaire (MDQ)

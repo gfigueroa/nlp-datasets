@@ -1,0 +1,17 @@
+The texture of blanket C49 and C54 phase TiSi2 films on Si (001) substrates was examined with x-ray pole figure analysis. Textures were studied both in films with initial Ti deposited by sputtering and by low-temperature, plasma assisted chemical vapor deposition. Detailed differences were observed between silicide films grown by subsequently annealing films deposited with the two different methods. However, in both cases, the dominant C49 phase orientational relationships develop with respect to the substrate (001) planes. In contrast, we find that the dominant crystallographic relationships of the C54 phases in both cases are not with the surface (001) plane of the substrate, but instead with the Si (111) planes. Texturing in the case of the sputtered films is particularly complex with one prominent orientation having C54
+(10)(11)
+Si with C54
+()(01)
+Si and a second having C54
+(0)(1)
+Si with C54
+(040)(10)
+Si. These orientations, which suggest local epitaxy of the disilicide with the Si {111} planes, have not been previously identified for C54 TiSi2 growth on Si (001) substrates. This strong orientational relationship suggests that significant {111} faceting of the Si surface may occur during the silicide formation. © 2002 American Institute of Physics. 
+
+titanium compounds
+metallic thin films
+sputtered coatings
+plasma CVD coatings
+X-ray diffraction
+texture
+annealing

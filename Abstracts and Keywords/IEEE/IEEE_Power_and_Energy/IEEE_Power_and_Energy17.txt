@@ -1,0 +1,10 @@
+Power flow tracing has been suggested as an approach for evaluating 1) transmission system usage (TSU) cost and 2) loss (MW) cost for generator and load entities in the system. Recently, optimal power flow tracing methods have been proposed to &#x201C;explicitly&#x201D; model fairness constraints in the tracing framework. This paper, further, strengthens the tracing-compliant min-max fair cost allocation approach. The min-max model proposed in this paper is robust. It addresses concerns like scalability, numerical stability and termination in a finite number of steps while searching the optimal solution. We also propose a methodology to model DISCOMs and GENCOs as coalition within min-max framework. Case studies on an all India network of 1699 nodes and comparison with average participation and marginal participation methods bring out the better conflict resolution feature of the proposed approach. A method to model HVDC lines within the marginal participation scheme is also proposed. Quantitative and qualitative comparison of various TSU cost allocation methods on such a large system is another noteworthy contribution of the paper.
+
+Cooperative game theory
+equity
+linear programs
+marginal participation method
+min-max fairness
+power flow tracing
+transmission systems
+usage cost allocation

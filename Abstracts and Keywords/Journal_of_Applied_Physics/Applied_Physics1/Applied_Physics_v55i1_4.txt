@@ -1,0 +1,9 @@
+The magnetic field at the entrance of a wiggler magnet in a freeelectron laser (FEL) determines the character of the electron orbits and influences the FEL gain. To obtain the desired adiabatic entrance conditions, it is necessary to investigate different methods of connecting leads to the wiggler as well as methods of gradually reducing the wiggler field. The field of a currentdriven, finitelength bifilar helical wiggler magnet is derived and is used to investigate the magnetic field end perturbations. For a limited range of wiggler parameters, flaring the wiggler end produces an adiabatic entrance region. Alternatively, gradually terminating the wiggler current at the wiggler entrance is shown to produce an adiabatic entrance for a larger range of parameters.
+
+free electron lasers
+gain
+magnetic fields
+electrons
+trajectories
+wiggler magnets
+magnetic field configurations

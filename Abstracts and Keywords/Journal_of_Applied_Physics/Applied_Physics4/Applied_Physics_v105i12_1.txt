@@ -1,0 +1,5 @@
+A quantum point contact placed close to a quantum dot can be used as a charge detector with time resolution to monitor the charge flow on the level of individual electrons. The current through the quantum point contact may take two possible values corresponding to the situation of an additional electron being on or off the quantum dot. Time traces of such two-level behavior allow to measure the average current, the tunnel rates in and out of the quantum dot, the time-dependent fluctuations of the current (noise), as well as higher-order current correlations. This high-sensitivity method to measure charge flow can also be used to detect time-resolved single-electron interference.
+
+quantum point contacts
+semiconductor quantum dots
+tunnelling

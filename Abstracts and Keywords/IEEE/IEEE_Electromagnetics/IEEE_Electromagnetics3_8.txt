@@ -1,0 +1,8 @@
+WLCSP bumps have traditionally been produced by dropping preformed solder spheres through a metal template onto silicon wafers using modified surface mount stencil printers. The squeegee blades associated with these printers have been retrofitted with a special fixture in which spheres are gravity feed down through a narrow slot. This same stencil printer is often used to apply the flux to the wafer just prior to sphere dropping. Several issues are associated with this technology that limit its widespread use in high volume and high yield applications. These limitations include: 1) there is a practical lower limit to the size of sphere that can be dropped, 2) the seal between the slotted fixturing and the wafer can fail, causing a release of all the spheres into the tool (often referred to as bursts or escapes), and 3) the yields are statistically low. One new WLCSP technology that is showing high promise toward eliminating these issues, is Wafer Level Solder Sphere Transfer (also called Gang Ball Placement). This technology uses a patterned vacuum plate to simultaneous pick up all of the preformed solder spheres, optically inspect for yield, and then transfer them over to the wafer. This paper will discuss this technology and the process parameters for producing WLCSP bumps. Throughput levels of 25 to 30 wafers per hour were measured. Yield losses of less than 10 ppm were realized for placing 300 Â¿m spheres onto 200 mm wafers with ~80,000 I/Os. Similar yields have been observed for placing 60 Â¿m flip chip sized spheres onto semiconductor wafers.
+
+Electroless Nickel
+Flip Chip
+Gang Ball Placement
+Solder Ball Transfer
+Solder Sphere
+WLCSP

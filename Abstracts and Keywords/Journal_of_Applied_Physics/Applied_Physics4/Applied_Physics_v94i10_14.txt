@@ -1,0 +1,15 @@
+Carrier dynamics in In0.10Ga0.90N/In0.03Ga0.97N multiple quantum wells and epilayers were studied by nondegenerate femtosecond pump and probe spectroscopy and by using monochromatic continuous wave light at room temperature. Structurally dependent transient absorption spectra were observed after pump pulse excitation. These spectral changes are caused by excitonic absorption quenching and screening of internal piezoelectric fields by photoinduced carriers. Both rapid (<400	ps) and slow (<90	¼s) temporal behavior was observed in the transient absorption spectra. The results of time-resolved photoluminescence measurements and the existence of saturation pump fluences indicate that trapped carriers in potential minima originating from In-rich regions and/or midgap carrier traps are responsible for the lasting screening of the internal electric field. © 2003 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+high-speed optical techniques
+III-V semiconductors
+semiconductor quantum wells
+semiconductor epitaxial layers
+wide band gap semiconductors
+ultraviolet spectra
+time resolved spectra
+photoluminescence
+excitons
+piezoelectric semiconductors
+radiation quenching

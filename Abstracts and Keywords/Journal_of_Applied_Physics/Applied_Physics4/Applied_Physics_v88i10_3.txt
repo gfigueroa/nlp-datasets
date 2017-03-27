@@ -1,0 +1,10 @@
+Deep level transient spectroscopy (DLTS) measurements have been made on GaAs n+p diodes containing GaSb self-assembled quantum dots and control junctions without dots. The self-assembled dots were formed by molecular beam epitaxy using the StranskiKrastanov growth mode. The dots are located in the depletion region on the p side of the junction where they act as a potential well that may capture and emit holes. Spectra recorded for temperatures between 77 and 440 K reveal several peaks in diodes containing dots. A control sample with a GaSb wetting layer was found to contain a single broad high temperature peak that is similar to a line found in the GaSb quantum dot samples. No lines were found in the spectra of a control sample prepared without GaSb. DLTS profiling procedures indicate that one of the peaks is due to a quantum-confined energy level associated with the GaSb dots while the others are due to defects in the GaAs around the dots. The peak identified as a quantum-confined energy level shifts to higher temperatures and its intensity decreases on increasing the reverse bias. The activation energy for the quantum-confined level increases from 400 meV when measured at a low reverse bias to 550 meV for a large reverse bias. Lines with activation energies of 400, 640, and 840 meV are associated with defects in the GaAs based on the bias dependence of their peak positions and amplitudes. 
+
+gallium compounds
+III-V semiconductors
+deep level transient spectroscopy
+semiconductor quantum dots
+capacitance
+self-assembly
+molecular beam epitaxial growth
+defect states

@@ -1,0 +1,10 @@
+The switching fields of magnetic wires with trilayer structure consisting of NiFe/Cu/Co were investigated using giant magnetic resistance effect. The switching fields of both magnetic layers were observed to be inversely proportional to wire width (150520 nm). We found that the magnetization of the NiFe layer switches under much lower applied field than in the case of single layer structure by the assistance of the stray field from the magnetic charge of Co at the edge of the wire. Attaching a pad at one end of the wire causes drastic decrease of the switching field. We investigated pad shape dependence of the switching field of the Co layer. For the sample with a square pad we measured the temperature dependence of the switching field between 5 and 300 K. The dependence at low temperatures between 5 and 50 K can be described by the model on thermally assisted magnetization reversal over a simple potential barrier. © 2000 American Institute of Physics. 
+
+copper
+cobalt
+iron compounds
+nickel compounds
+giant magnetoresistance
+magnetisation reversal
+magnetic switching
+magnetic multilayers

@@ -1,0 +1,6 @@
+Raman spectra of poly (polycrystalline) 3C-SiC thin films, which were deposited on the oxidized Si substrate by APCVD, have been measured. They were used to study the mechanical characteristics of poly 3C-SiC grown in various temperatures. TO and LO modes of 2.0 mum poly 3C-SiC grown at 1180degC occurred at 794.4 and 965.7 cm<sup>-1</sup>. Their FWHMs (full width half maximum) were used to investigate the stress and the disorder of 3C-SiC. The broad FWHM can explain that the crystallinity of 3C-SiC grown at 1180degC becomes polycrystalline instead of the disordered crystal. The ratio of intensity I<sub>(LO)</sub>/I<sub>(TO)</sub> ap 1.0 means that the crystal defect of 3C-SiC/SiO<sub>2</sub>/Si is small. The biaxial stress of poly 3C-SiC was obtained as 428 MPa. In the interface of 3C-SiC/SiO<sub>2</sub>, the phonon mode of C-O bonding appeared at 1122.6 cm<sup>-1</sup>. The phonon modes related to D and G bands of C-C bonding were measured at 1355.8 and 1596.8 cm<sup>-1</sup> respectively.
+
+Nanoparticle Graphite
+Raman spectra
+SWNT
+poly 3C-SiC

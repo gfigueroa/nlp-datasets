@@ -1,0 +1,9 @@
+We explore the alloy structures that can evolve in nonequilibrium driven systems, using two-dimensional atomistic simulations of mechanical alloying. By tailoring the intrinsic system thermodynamics we demonstrate the evolution of alloys with various states of topological and chemical ordering, including random solid solutions with both crystalline and amorphous topology, short-range ordered glasses and crystals, and segregated dual-phase systems. Our observations are broadly consistent with the experimental literature for mechanical alloying of binary systems. Further, while most of our results can be rationalized on the grounds of existing theories for either (i) glass formation and stability or (ii) nonequilibrium systems under external driving, we also observe strong correlations between topological and chemical ordering which have not yet been addressed in the context of driven systems. © 2004 American Institute of Physics. 
+
+mechanical alloying
+solid solutions
+vitrification
+metallic glasses
+topology
+plastic deformation
+short-range order

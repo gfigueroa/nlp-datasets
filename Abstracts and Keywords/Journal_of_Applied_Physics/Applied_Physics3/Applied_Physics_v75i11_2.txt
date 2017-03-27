@@ -1,0 +1,11 @@
+A method for the absolute measurement of magnetization at nanometer spatial resolution in magnetic thin films has been developed. A biprism placed in the illumination system of a scanning transmission electron microscope allows the operation of two distinct holography modes. The absolute mode displays a linear change in phase difference for regions of constant magnetization and thickness and the slope determines the magnitude of magnetization. The differential mode displays a constant value of phase difference in these regions allowing a simple and straightforward determination of domain wall profiles. Micromagnetic structure extracted from identical areas of thin Co films is compared using the new holography modes, differential phase constrast Lorentz microscopy and conventional Fresnel Lorentz microscopy in the same instrument.
+
+COBALT
+THIN FILMS
+MAGNETIZATION
+MEASURING METHODS
+TEM
+HOLOGRAPHY
+DOMAIN WALLS
+MAGNETIC STRUCTURE
+SPATIAL RESOLUTION

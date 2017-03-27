@@ -1,0 +1,8 @@
+A systematic experimental study of the laser ablation of three alkaline-earth metals (Ca, Mg, and Ba) was carried out to understand the ablation processes of the metals. In this work the infrared laser ablation of alkaline-earth metals was studied by mass spectrometry together with the optical emission spectroscopy of the species generated in the ablation process. The analysis and modeling of the results were done using a heuristic equation that includes the Arrhenius, the screening, and the lineal regions that describe the three different regimes usually observed as a function of the laser fluence. We intend to prove that this equation depends on a fit surface parameter that includes the roughness surface, and it allows us to determine a critical fluence that can be related to the physical properties of the metal target.
+
+calcium compounds
+magnesium compounds
+barium compounds
+mass spectra
+laser ablation
+surface roughness

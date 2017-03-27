@@ -1,0 +1,8 @@
+  During the last years a shift from technology-oriented management to user-centered and service-oriented management of information technologies could be observed. Today the aim of service providers is not only to run necessary technologies but also to recognize user needs on service functionality and quality. In order to fulfill service levels agreed with customers, providers have to define and implement new processes for service management. To execute these processes efficiently in conjunction with traditional management processes, applications supporting service-oriented management have to be developed. This paper presents an approach how demands on applications can be derived from service management processes as extensions of traditional management processes. To extend traditional management applications with additional service management applications we propose an integration based on a service-oriented architecture. 
+
+  Integrated Management Architecture 
+  Management Application 
+  Process Modeling 
+  Service Level Management 
+  Service Management 
+  Web Service

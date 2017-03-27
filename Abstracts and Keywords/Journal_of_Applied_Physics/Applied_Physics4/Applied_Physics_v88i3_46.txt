@@ -1,0 +1,13 @@
+Wurtzite InxGa1xN (0.01rxr0.14) films have been grown by metalorganic vapor phase epitaxy on sapphire substrates. Integrated photoluminescence intensity and line shapes have been studied as functions of temperature and alloy composition x. We compare the effective InGaN band gap energy assessed by photothermal deflection spectroscopy with a mean band gap energy calculated from room temperature photoluminescence spectra utilizing the van RoosbroeckShockley relation and assuming a Gaussian energy dependence of the subband gap absorption coefficient. The Stokes shift between band gap energy and 300	K photoluminescence peak is explained by this model. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor epitaxial layers
+MOCVD coatings
+vapour phase epitaxial growth
+semiconductor growth
+photoluminescence
+absorption coefficients
+energy gap

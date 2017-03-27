@@ -1,0 +1,9 @@
+Porous Si (PS) layers are prepared by stain etching in a HF/NaNO2 solution on both p and ntype crystal Si substrates, and are characterized by photoluminescence (PL), electron paramagnetic resonance (EPR), and infrared absorption (IR) spectroscopy. The PL spectra under 488 nm laser excitation exhibit a strong peak at 680720 nm for various samples of different substrate parameters and remain stable upon aging in air or ³ irradiation; asetched (<20 min in air before measurement) and aged (for up to six months) samples show no detectable EPR signal but the ³irradiated samples show an isotropic g=2.006 signal of peaktopeak linewidth of 1.1 mT supporting an amorphous Si structure; the IR spectra show both hydrogen and oxygen related IR modes in the asetched samples and the former decreases with aging time in air while the latter increases. Comparing our results with those of anodically etched PS samples we conclude that: (1) the PL peak position of the stain PS seems to be unique and stable as compared with that of the anodic PS varying in 620830 nm; (2) the isotropic EPR signal of the stain PS reflects no crystallinity, in contrast with the anisotropic signal of the anodic PS; and (3) obvious oxidation in the asetched stain PS is also in contrast with the nonobservation of oxygenrelated IR modes in the asetched anodic PS. We discuss the results in terms of structural properties and PL mechanism of PS.
+
+SILICON
+POROSITY
+PHOTOLUMINESCENCE
+EPR SPECTRA
+INFRARED SPECTRA
+ABSORPTION SPECTRA
+ETCHING

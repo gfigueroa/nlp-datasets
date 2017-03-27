@@ -1,0 +1,14 @@
+Films of CoGa and CoAs have been deposited on Ga1xAlxAs surfaces. Control of the Ga1xAlxAs surface prior to CoGa deposition results in the preferential formation of two epitaxial orientations, either (100)[011]CoGa%(100)[011]Ga1xAlxAs or (110)[001]CoGa%(100)[011]Ga1xAlxAs. The crystalline quality of (100)oriented CoGa was good as determined by Rutherford backscattering with channeling measurements, Çmin<7%, and crosssectional transmission electron microscopy. The (110)CoGa films did not have as good a crystalline quality, Çmin<41%. CoAs films were found to be highly textured, but not single crystal. Schottky barrier diodes fabricated from CoGa/Ga1xAlxAs and CoAs/Ga1xAlxAs showed good characteristics with low ideality factors, n&lt;1.15. In general CoGa contacts had a <0.1 eV lower barrier height than CoAs.
+
+COBALT ALLOYS
+GALLIUM ALLOYS
+ARSENIC ALLOYS
+FILMS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+SUBSTRATES
+MOLECULAR BEAM EPITAXY
+ELECTRIC CONTACTS
+RBS
+TRANSMISSION ELECTRON MICROSCOPY
+SCHOTTKY BARRIER DIODES

@@ -1,0 +1,7 @@
+In the previous article, we showed that a very large Grüneisen parameter for poly(methylmethacrylate) is estimated for a very large slope in shock-particle velocity Hugoniot below the kink point at 150 m/s. This large gamma corresponds to the intermolecular vibrational mode, which is supposed to be excited almost exclusively at the shock front. Rosenberg claimed that his shock temperature measurement by gauge method showed no deflection, which could be observed across the Hugoniot kink, if the above condition is fulfilled. Thermal energy transfer between intermolecular to intramolecular vibrational modes does not occur in the time scale realized in experiments. Then, thermalization between the nonequilibrium polymer region and the gauge material is expected to have similar or longer relaxation time than stress relaxation. Rosenbergs temperature records seem to support this scenario. © 2000 American Institute of Physics. 
+
+polymers
+vibrational modes
+shock wave effects
+stress relaxation
+Gruneisen coefficient

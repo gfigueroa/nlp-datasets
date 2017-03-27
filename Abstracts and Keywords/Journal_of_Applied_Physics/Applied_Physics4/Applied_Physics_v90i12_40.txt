@@ -1,0 +1,20 @@
+Hafnium oxides and hafnium silicate films were investigated as a possible replacement for the SiO2 gate dielectric. Hafnium oxide films were formed by reactive sputtering from a single Hf oxide target in a predominantly Ar atmosphere containing small additions of oxygen. Hafnium silicates were made by adding a He-diluted silane gas for Si incorporation. By changing the silane gas flow, different Si atomic concentrations were incorporated into the Hf oxide films. Depositions were performed with the substrate held at temperatures of 22
+°C and 500
+°C. The chemical composition of the films was determined with nuclear techniques. Optical reflectivity was used to measure the optical band gap. The film morphology was investigated by transmission electron microscopy (TEM) and the electrical properties were measured with capacitancevoltage and currentvoltage measurements using aluminum gate capacitors. TEM and electrical measurement showed that a SiO2 interfacial layer of about 3 nm formed at the Si interface due to the oxidizing sputter ambient. This precluded the growth of Hf based high-K films with small equivalent thickness. After correction for the interfacial oxide layer, the dielectric constant was found to decrease from about 21 for Hf oxide to about 45 for the Hafnium silicates with low Hf content (3 at.
+% Hf and 32 at.
+% Si). The optical band gap was found to increase from 5.8 eV for Hf oxide to about 7 eV for the silicate films. After annealing at 1000
+°C followed by a 300
+°C postmetallization anneal, negligible flat band voltage shift were measured on hafnium silicate films and good interface passivation was observed. However, leakage currents increased due to the high temperature processing. © 2001 American Institute of Physics. 
+
+sputtered coatings
+hafnium compounds
+sputter deposition
+reflectivity
+energy gap
+optical constants
+transmission electron microscopy
+permittivity
+passivation
+annealing
+leakage currents
+MOS capacitors

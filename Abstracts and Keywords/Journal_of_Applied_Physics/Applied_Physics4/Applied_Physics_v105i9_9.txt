@@ -1,0 +1,17 @@
+Nanoparticles play key roles in reducing thermal conductivity, and hence increasing figure of merit for many thermoelectric materials. We have studied the structure of AgPb18SbTe20 (LAST-18) using high resolution imaging, nanoelectron diffraction, energy dispersive spectrum, and electron energy loss spectrum, and observed a range of nanoparticles with different sizes (from less than 1nm to more than 10nm) and shape (sphere, ellipse, square, etc.). The lattice parameters of the nanoparticles have a wide range from 0.601to0.655nm, while those of the matrix have a range from 0.633to0.646nm. The nanoparticles are formed due to the ordering of Pb and AgSb. There are four ordered structures with primitive cubic, primitive tetragonal (T1, a H a0/2, c H a0, here, a0 is the lattice parameter of the rocksalt-type matrix), primitive tetragonal (T2, a H a0/2, c H 2a0), and body-centered tetragonal (T3, a H a0/2, c H 3a0) lattices, respectively. Antiphase domains, twins, and phase separations were often observed in the nanoparticles. The strain field in the surrounding matrix due to the presence of nanoparticles was retrieved from the high resolution images. The characteristic that the strain field is anisotropic and extends to large area is considered to enhance the scattering of the phonons. The results provide quantitative structure information about nanoparticles, that is essential for the understanding of the origin of the high thermoelectric performance in this class of materials.
+
+antimony compounds
+antiphase boundaries
+electron diffraction
+electron energy loss spectra
+lattice constants
+lead compounds
+nanoparticles
+phase separation
+phonons
+Seebeck effect
+semiconductor materials
+silver compounds
+thermal conductivity
+twinning
+X-ray chemical analysis

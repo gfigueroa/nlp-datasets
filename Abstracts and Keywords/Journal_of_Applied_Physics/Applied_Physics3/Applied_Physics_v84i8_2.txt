@@ -1,0 +1,6 @@
+The currentvoltage characteristics of metal-oxide-semiconductor capacitors with a 4.2 nm SiO2 gate oxide are investigated. After the occurrence of soft breakdown, which is observed during constant current stress of the devices, the gate current is shown to behave like a power law of the applied gate voltage. We propose that this power law behavior is due to the formation of a percolation path between the electrons traps generated in the SiO2 layer during current stress of the capacitor. We describe a simple model which accounts for the currentvoltage characteristics between two neighbor trapping sites, as well as a distribution of percolation thresholds in these (finite size) ultrathin SiO2 layers. The prediction of the model is in fair agreement with the experimental results in a large voltage range, and leads to a better description of the data than previously reported models. Furthermore, it is shown that this percolation model can also explain the temperature dependence of the gate current after the occurrence of soft breakdown. © 1998 American Institute of Physics. 
+
+MOS capacitors
+electric breakdown
+electron traps
+percolation

@@ -1,0 +1,15 @@
+NiMnSb is expected to be a ferromagnetic half metal, an expectation that is based in part on band structure calculations. Here we report optical conductivity studies of the band structure for a film prepared by pulsed laser deposition onto a Si substrate held at a relatively low temperature as is required for some device applicationsfilms which are susceptible to site disorder associated with the vacant site in this half-Heusler compound. We demonstrate that the direct interband transitions are essentially unshifted in comparison with bulk material, though they are somewhat broadened. Below the direct-transition absorption edge we report the presence of indirect spin-reversing transitions between the Fermi energy (Ef) and the extrema of the minority-spin valence and conduction bands, providing a measure of the band edge energies. Both of these edges appear closer to Ef than is seen in well-ordered bulk NiMnSb, with the conduction-band minimum showing weight at only 200cm1 above Ef, close enough to have substantial occupation at ambient temperature.
+
+nickel alloys
+manganese alloys
+antimony alloys
+surface morphology
+ferromagnetic materials
+conduction bands
+Fermi level
+magnetic thin films
+optical conductivity
+pulsed laser deposition
+valence bands
+reflectivity
+semimetallic thin films

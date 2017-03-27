@@ -1,0 +1,12 @@
+Photoreflectance (PR) spectroscopy, x-ray diffraction (XRD) method, and secondary ion mass spectroscopy (SIMS) were used to observe the radial distribution of the band-edge transition and modification of the band structure due to the variation of indium in 3 in. indium-alloyed semi-insulating GaAs (InxGa1xAs) grown by the liquid-encapsulated Czochralski method. The data from room temperature PR measurements showed the variation of the transition energy with positions indicating the radial distribution of the indium content across the wafers; indium content being higher around the edge region than the central area. The splitting of the degenerate valence band around the edge region of the wafers was also shown in PR data due to the different indium content in adjacent regions where indium content varies rapidly. The XRD measurements showed the drastic change in the distribution of lattice constant on where the splitting of the heavy and light holes happened and the SIMS analysis was adopted to confirm the distribution of indium content across the wafer. The possible model was proposed from the experimental data. © 2000 American Institute of Physics. 
+
+gallium arsenide
+indium compounds
+III-V semiconductors
+photoreflectance
+substrates
+X-ray diffraction
+secondary ion mass spectra
+band structure
+impurity distribution
+lattice constants

@@ -1,0 +1,12 @@
+A dense phase of GaAs wires forms a corrugated surface in the early stages of strained growth on GaP, assembling from elongated StranskiKrastanow islands. For a series of samples, the evolution of shape and whisker periodicity has been followed as a function of deposition time. This has been done with the help of atomic-force microscopy together with autocorrelation measurements. Transmission electron microscopy measurements support the results. The lateral wire period and long shapes are not predicted by published models, though we conclude that the island orientation is picked out by facet energy inequivalencies. © 2001 American Institute of Physics.
+
+gallium arsenide
+III-V semiconductors
+island structure
+rough surfaces
+atomic force microscopy
+transmission electron microscopy
+semiconductor quantum wires
+chemical beam epitaxial growth
+semiconductor epitaxial layers
+semiconductor growth

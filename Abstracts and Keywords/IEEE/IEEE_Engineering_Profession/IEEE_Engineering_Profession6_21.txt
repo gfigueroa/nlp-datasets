@@ -1,0 +1,7 @@
+The paper is motivated by Microsoft Windows and Linux competition at the server operating systems market. Microsoft/Linux mixed duopoly dynamics is analyzed using optimal control mathematical model where Microsoft is considered as a profit-maximizing competitor while Linux as an open source software project is assumed non-for-profit. The conditions when Linux And Windows coexist at the market and when Linux is pushed out by Windows and vice versa are obtained and discussed. The special attention in the model presented is given to a piracy of Windows and strategic contribution to Linux issues which for the first time were discussed also by Cassadeus-Masanell and Ghemawat (2006).
+
+Linux
+Windows
+competition
+open-source software
+optimal control

@@ -1,0 +1,7 @@
+We report first experimental registration of the splitting induced generation of a soliton train from a single incident strain soliton in two- and three-layered elastic waveguides. The origin is in the nonlinear response of the wave to an abrupt change of physical properties of the waveguide. We show a good agreement between our experimental results and theoretical estimates, based on a weakly nonlinear solution for the doubly dispersive (Boussinesq type) equation with piecewise constant coefficients for the waveguide made of a piecewise isotropic nonlinearly elastic material.
+
+elasticity
+optical solitons
+optical waveguides
+solitons
+waveguides

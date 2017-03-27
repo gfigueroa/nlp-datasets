@@ -1,0 +1,9 @@
+We improve the trapping model of carrier transport in conducting polymers by integrating the coupled Poisson and continuity equations numerically. In the case of exponentially distributed traps calculated log J vs 1/T plots are straight lines indicating that the activation of carriers to the extended states can be described by one single activation energy, Eeff. The improved trapping model agrees well with the recent experimental data at high temperatures (i.e., near room temperature). At low temperatures the trapping model does not work since the available thermal energy is not sufficient to ionize the traps. We use the hopping mobility model at low temperatures. The model explains the low-temperature JV characteristics well. This mechanism of charge carrier transport is similar to that used for interpreting experiments on inorganic amorphous materials. © 2002 American Institute of Physics. 
+
+conducting polymers
+hopping conduction
+space-charge-limited conduction
+hole traps
+hole mobility
+organic semiconductors
+Poole-Frenkel effect

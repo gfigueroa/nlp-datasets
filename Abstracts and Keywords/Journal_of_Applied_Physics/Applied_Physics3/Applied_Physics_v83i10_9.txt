@@ -1,0 +1,10 @@
+Synergetic effects have been observed for low energy Ar+ ion bombardment combined with low temperature annealing for producing clean and well-ordered Si(100) surfaces. Low energy, mass-selected Ar+ bombardment of Si(100) surfaces in the range of 50300 eV was performed over the temperature range 25500	°C. The surfaces were characterized by in situ Auger electron spectroscopy and reflection high energy electron diffraction and ex situ atomic force microscopy. It is found that a clean and well-ordered Si surface can be obtained at a lower temperature when ion bombardment and annealing are applied simultaneously than if they are applied separately or in sequence. Nearly ideal surfaces can be obtained for the conditions of 100200 eV Ar+ bombardment at 400500	°C. This synergy between ion bombardment and annealing is discussed in terms of a subplantation model that includes Ar-defect complexes. Additionally, formation of SiC by 100 eV Ar+ ion bombardment of the carbon contaminated silicon surface was observed. © 1998 American Institute of Physics.
+
+silicon
+elemental semiconductors
+annealing
+ion-surface impact
+atomic force microscopy
+reflection high energy electron diffraction
+Auger effect
+impurity-defect interactions

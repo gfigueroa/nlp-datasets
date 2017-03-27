@@ -1,0 +1,6 @@
+Predicting protein folding rate is useful for understanding protein folding process and guiding protein design. Most previous methods of predicting folding rate require the tertiary structure of a protein as an input. And most methods do not distinguish the different kinetic natures (two-state folding and multi-state folding) of the proteins. Here we developed a method, SeqRate, to predict both protein folding kinetic type (two-state versus multi-state) and real-value folding rate using features extracted from only protein sequence with support vector machines. On a standard benchmark dataset, the accuracy of folding kinetic type classification is 80%. The Pearson correlation coefficient and the mean absolute difference between predicted and experimental folding rates (sec<sup>-1</sup>) in the base-10 logarithmic scale are 0.81 and 0.79 for two-state protein folders, and 0.80 and 0.68 for three-state protein folders. SeqRate is the first sequence-based method for protein folding type classification and its accuracy of fold rate prediction is improved over previous sequence-based methods. Both the Web server and software of predicting folding rate are publicly available at http://casp.rnet.missouri.edu/fold_rate/index.html.
+
+classifcation
+folding rate
+folding type
+support vector machine

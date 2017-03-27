@@ -1,0 +1,9 @@
+Deep levels have been characterized in n-type GaAs crystalline films grown by metalorganic chemical vapor deposition, doped in situ with 4d transition metal, rhodium, using the deep level transient spectroscopy (DLTS) technique. Two prominent broad bands of deep levels are found to be associated with Rh impurity, one in the upper half and the other in the lower half of the band gap. The band of electron emitting deep levels is shown to extend from 0.570.67 eV below the conduction band edge while the hole emitting deep levels band peaks at Ev+0.42	eV. Detailed double-correlation DLTS measurements are performed to investigate the characteristics of the observed Rh-related deep levels. Both deep level bands are found to exhibit significant dependence of the thermal emission rates on the electric field from these measurements. The observed variation of the peak profile with the capture time for the electron emission band and theoretical analysis of the field dependence data support a band-like-extended-defect nature of this deep level band. © 2003 American Institute of Physics. 
+
+gallium arsenide
+rhodium
+III-V semiconductors
+deep level transient spectroscopy
+impurity states
+MOCVD coatings
+semiconductor thin films

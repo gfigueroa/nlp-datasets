@@ -1,0 +1,7 @@
+The Northern Line track circuit based train control system is being replaced with a transmission based train control system. A key objective of this change is achieving system compatibility without adversely impacting the operational railway. This paper focuses on the design for system compatibility between the 95TS and Alcatel's Seltrac TBTC system, describing the interference issues encountered and the implementation of cost effective design solutions to achieve system compatibility
+
+EMC
+Northern Line
+System Compatibility
+TBTC System
+Tube Stock

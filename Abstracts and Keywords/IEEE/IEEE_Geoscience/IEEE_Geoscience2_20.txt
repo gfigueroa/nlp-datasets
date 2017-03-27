@@ -1,0 +1,7 @@
+According to the water environment assessment characteristics, the fuzzy comprehensive model was optimized. First, the exponential membership function was put forward. The problem was solved that the result was warped because the affect of this indicator was neglected when the membership function of non-neighboring grade is zero. Second, when the overstandard ratio of some indicator is huge, the indicator was excessively relied on during the evaluation. The introduction of the information entropy has revised the weight coefficient with the overstandard ratio. The result in the test showed the evaluation result is more reasonable.
+
+Fuzzy comprehensive evaluation
+Information entropy
+Membership function
+Water environment assessment
+Weight

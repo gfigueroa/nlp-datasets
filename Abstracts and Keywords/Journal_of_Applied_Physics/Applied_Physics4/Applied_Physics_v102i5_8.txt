@@ -1,0 +1,9 @@
+In this work, we used quantitative x-ray diffraction measurements and optical metallography to investigate the relationship between structural quality and critical current densities Jc for 3- and 4-¼m-thick YBa2Cu3O7 (YBCO) films grown on CeO2-buffered NiW substrates by the BaF2 process. The Jc of the films was shown to be approximately: (1) proportional to the intensity of the YBCO (006) diffraction line, and (2) inversely proportional to the average grain size of the c-axis oriented YBCO as determined from optical micrographs of polished surface of the films. We conclude that to achieve Jcs well above 106A/cm2 in self-field and at 77 K, it is critical to suppress the formation of randomly oriented YBCO grains while maintaining high crystallographic quality of the c-axis oriented part of the film. The quality of the c-axis oriented YBCO was found to be strongly dependent on the YBCO grains sizee.g., the grains, which are smaller than 10¼m, are required for high Jc films. The fine-grain high Jc films can be synthesized under processing conditions that promote a high rate of nucleation of c-axis oriented YBCO.
+
+barium compounds
+critical current density (superconductivity)
+grain size
+high-temperature superconductors
+superconducting thin films
+X-ray diffraction
+yttrium compounds

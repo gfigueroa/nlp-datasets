@@ -1,0 +1,5 @@
+Neural network based system is proposed as a tool supporting time series forecasting. Wavelets analysis is suggested for raw data preprocessing. The preprocessed data are fed into SOM neural networks for clustering. The system has been tested as a tool supporting stock market investment decisions and shows good prediction accuracy of the method. However effectiveness, measured by income from shares trading according to the system, is not satisfactory to the same extend.
+
+Artificial neural networks
+stock market prediction
+wavelets decomposition

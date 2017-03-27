@@ -1,0 +1,7 @@
+In data integration efforts, portal development in particular, much development time is devoted to entity resolution. Often advanced similarity measurement techniques are used to remove semantic duplicates or solve other semantic conflicts. It proves impossible, however, to automatically get rid of all semantic problems. An often-used rule of thumb states that about 90% of the development effort is devoted to semi-automatically resolving the remaining 10% hard cases. In an attempt to significantly decrease human effort at data integration time, we have proposed an approach that strives for a good enough initial integration which stores any remaining semantic uncertainty and conflicts in a probabilistic database. The remaining cases are to be resolved with user feedback during query time. The main contribution of this paper is an experimental investigation of the effects and sensitivity of rule definition, threshold tuning, and user feedback on the integration quality. We claim that our approach indeed reduces development effortand not merely shifts the effortby showing that setting rough safe thresholds and defining only a few rules suffices to produce a good enough initial integration that can be meaningfully used, and that user feedback is effective in gradually improving the integration quality.
+
+Data integration
+Entity resolution
+Uncertain databases
+Data quality
+User feedback

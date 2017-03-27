@@ -1,0 +1,10 @@
+Optical characterization methods were applied to a series of microcrystalline silicon thin films and solar cells deposited by the very high frequency glow discharge technique. Bulk and surface light scattering effects were analyzed. A detailed theory for evaluation of the optical absorption coefficient ± from transmittance, reflectance and absorptance (with the help of constant photocurrent method) measurements in a broad spectral region is presented for the case of surface and bulk light scattering. The spectral dependence of ± is interpreted in terms of defect density, disorder, crystalline/amorphous fraction and material morphology. The enhanced light absorption in microcrystalline silicon films and solar cells is mainly due to a longer optical path as the result of an efficient diffuse light scattering at the textured film surface. This light scattering effect is a key characteristic of efficient thin-film-silicon solar cells. © 2000 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+plasma deposited coatings
+light scattering
+absorption coefficients
+reflectivity
+solar cells
+surface texture

@@ -1,0 +1,7 @@
+An approximate model for calculating the average lifting force and absorbed power, for a magnetically levitated metallic sphere, is presented. It is shown that by imposing suitable boundary conditions, expressed in terms of matching conditions for the magnetic field, it is possible to express the average absorbed power in terms of appropriate physical parameters. For a given conductive sphere, three cases of interest are analyzed, namely: (i) fixed frequency and resistivity; (ii) fixed external currents and resistivity; (iii) fixed external currents and frequency. The analysis displays the relevant parametric dependence and proves the existence of minima for the absorbed power in parameter space. The results are of potential interest for improving the temperature control of the metallic sample, which is of fundamental importance both in levitation melting and undercooling processes. © 1998 American Institute of Physics.
+
+magnetic levitation
+metals
+melting
+undercooling
+materials preparation

@@ -1,0 +1,17 @@
+Ferroelectric Pb5Cr3F19 forms a complete series of solid solutions both with Pb5Al3F19 and Pb5Fe3F19. The end and intermediate compositions are isostructural with the ferroelectric A5M3F19 family previously reported [J. Appl. Phys. 62, 4299 (1987)]. The a and c axial lengths in Pb5(Cr0.2Al0.8)3F19 undergo discontinuities of +0.5% and 0.8%, respectively on heating through the Curie temperature (Tc =325 K), and exhibit a hysteresis of about 40 K between the phase transition temperature on heating and on cooling, characteristic of a firstorder phase change. The value of Tc may be varied continuously between 555 and 280 K for the solid solution Pb5(Cr1xAlx) 3F19, and between 555 and 725 K for Pb5(Cr1xFex) 3F19, by increasing x from 0 to 1. The entropy change at the phase transition in Pb5Fe3F19, Pb5Cr3F19, and Pb5(Cr0.8Al0.2)3 F19 is high, at about Rln8. The maximum dielectric permittivity in Pb5Cr3F19 is about 2000.
+
+LEAD FLUORIDES
+CHROMIUM FLUORIDES
+ALUMINIUM FLUORIDES
+IRON FLUORIDES
+FERROELECTRICITY
+CURIE POINT
+MEDIUM TEMPERATURE
+HIGH TEMPERATURE
+SOLID SOLUTIONS
+QUANTITY RATIO
+LATTICE PARAMETERS
+HYSTERESIS
+SOLIDSTATE PHASE TRANSFORMATIONS
+ENTROPY
+PERMITTIVITY

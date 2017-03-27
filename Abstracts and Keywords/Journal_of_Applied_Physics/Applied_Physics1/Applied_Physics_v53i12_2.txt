@@ -1,0 +1,11 @@
+Magnetic leakage fields from nonspherical inclusions in magnetic materials are discussed using classical electromagnetic theory. The model used is that of a prolate or oblate spheroidal inclusion embedded in an infinite medium. Deviations from the leakage field behavior of a spherical inclusion are discussed and procedures are suggested whereby one can test for inclusion shape.
+
+magnetic fields
+inclusions
+mathematical models
+spheroids
+shape
+magnetic materials
+electromagnetic fields
+spherical configuration
+theoretical data

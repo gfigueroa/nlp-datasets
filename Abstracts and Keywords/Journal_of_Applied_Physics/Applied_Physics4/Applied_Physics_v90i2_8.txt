@@ -1,0 +1,13 @@
+The electronic structures of the Ga1xInxNyAs1y/GaAs compressive strained quantum wells are investigated using 6×6
+kÅp Hamiltonian including the heavy hole, light hole, and spin-orbit splitting band. By varying the well width and mole fraction of N in the well material, the effects of quantum confinement and compressive strain are examined. The curves of dependence of transition energy on well width and N mole fraction are obtained. The valence subband energy dispersion curves and TE and TM squared optical transition matrix elements of three possible quantum well structures for emitting 1.3 ¼m wavelength are given. © 2001 American Institute of Physics. 
+
+gallium arsenide
+indium compounds
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+semiconductor quantum wells
+valence bands
+k.p calculations
+spin-orbit interactions
+stoichiometry

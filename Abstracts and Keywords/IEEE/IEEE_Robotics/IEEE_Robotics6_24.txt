@@ -1,0 +1,8 @@
+In this paper, a kernel-based classifier for automatic liver diseases diagnosis of CT images is introduced. Three kinds of liver diseases are identified including cyst, hepatoma and cavernous hemangioma. The diagnosis scheme includes two steps: features extraction and classification. The features, derived from gray levels, co-occurrence matrix, and shape descriptors, are obtained from the region of interests (ROIs) among the normal and abnormal CT images. Then, a 3-layer hierarchical scheme is adopted in the classifier. Finally the receiver operating characteristic (ROC) curve is employed to evaluate the performance of the diagnosis system.
+
+ROC
+SVM
+co-occurrence matrix
+hemangioma
+hepatoma
+liver cyst

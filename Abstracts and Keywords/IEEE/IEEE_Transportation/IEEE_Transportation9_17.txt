@@ -1,0 +1,5 @@
+A novel printed ultra-wideband (UWB) monopole antenna fed by coaxial cable is presented with a modified semicircle ground plane and a semicircle modified radiation patch. The bandwidth of the proposed antenna could increase by properly adjusting the dimensions of the ground plane and the radiation patch. The measured results show that the proposed monopole antenna offers a bandwidth from 2.95 to 11.3 GHz, defined by -10dB return loss, besides this, symmetrical and omnidirectional radiation patterns are also achieved in a very wide frequency range.
+
+coaxial cable
+printed monopole antenna ultra wideband (UWB)
+semicircle radiation patch

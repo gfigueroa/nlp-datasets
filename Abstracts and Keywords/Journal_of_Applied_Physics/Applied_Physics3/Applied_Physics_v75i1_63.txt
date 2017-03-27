@@ -1,0 +1,13 @@
+As a special class of nuclearmagneticresonance (NMR) relaxation mechanisms, reorientations mediated by translational displacements, is considered. This particularly refers to systems in which molecules are confined to disordered structures defining (a) local preferential orientations and permitting (b) translational degrees of freedom with a certain reduced dimensionality. Examples are molecules adsorbed on surfaces of macromolecules, particle aggregates, and porous media. The dipolar correlation function of molecules diffusing along such confining structures therefore does not only reflect the molecular dynamics but also the structural properties of the confining system. Using fieldcycling and other NMR relaxation techniques the frequency dependence of the spinlattice relaxation times of several porous materials were measured in a range 3×1023×108 Hz. The data were numerically analyzed using an orientational structure factor which was introduced ad hoc and which renders the distribution of wave numbers of the surfaces forming the geometrical restrictions of molecular displacements. This distribution turned out to consist of a powerlaw and a singlepeak term. The results are discussed with respect to the microstructure. Characteristic length scales can be estimated by bringing in data of the translational diffusion coefficient effective in short time intervals.
+
+POROUS MATERIALS
+NMR SPECTRA
+SPINLATTICE RELAXATION
+MICROSTRUCTURE
+ADSORPTION
+FRACTALS
+WATER
+SOLIDFLUID INTERFACES
+FREQUENCY DEPENDENCE
+NUMERICAL ANALYSIS
+DIFFUSION

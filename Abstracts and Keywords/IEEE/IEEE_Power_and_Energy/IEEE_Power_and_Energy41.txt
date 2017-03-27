@@ -1,0 +1,6 @@
+This paper provides a detailed core model for the step-down transformer (SDT) of the coupling capacitor voltage transformer (CCVT) to investigate the CCVT transients and ferroresonance behavior. The core model represents hysteresis symmetric and asymmetric minor loops, remnant flux, and the eddy current effects. Based on the developed model, the impacts of passive and active ferroresonance suppression circuits (PFSC and AFSC) and overvoltage protection devices (OPDs) for fast suppression of the CCVT ferroresonance phenomenon are also studied. This paper also presents a generalized methodology to select the AFSC parameters. The simulation results, in the PSCAD/EMTDC environment, indicate that the hysteresis and eddy current effects of the SDT core significantly influence the CCVT ferroresonance behavior. The study results also show that: 1) in both the presence and the absence of arresters and spark gaps, the AFSC can mitigate the phenomenon faster than the PFSC, i.e., in about two cycles and 2) the output fidelity of the AFSC-based CCVT is less dependent on the burden as compared with that of the PFSC.
+
+Coupling capacitor voltage transformer (CCVT)
+ferroresonance
+ferroresonance suppression circuits
+least error squares curve fitting

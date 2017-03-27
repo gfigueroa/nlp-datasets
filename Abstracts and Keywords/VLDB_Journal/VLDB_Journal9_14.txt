@@ -1,0 +1,5 @@
+When authoring multimedia scenarios, and in particular scenarios with user interaction, where the sequence and time of occurrence of interactions is not predefined, it is difficult to guarantee the consistency of the resulting scenarios. As a consequence, the execution of the scenario may result in unexpected behavior or inconsistent use of media. The present paper proposes a methodology for checking the temporal integrity of interactive multimedia document (IMD) scenarios at authoring time at various levels. The IMD flow is mainly defined by the events occurring during the IMD session. Integrity checking consists of a set of discrete steps, during which we transform the scenario into temporal constraint networks representing the constraints linking the different possible events in the scenario. Temporal constraint verification techniques are applied to verify the integrity of the scenario, deriving a minimal network, showing possible temporal relationships between events given a set of constraints.
+
+Constraint networks
+Multimedia presentation
+Temporal integrity

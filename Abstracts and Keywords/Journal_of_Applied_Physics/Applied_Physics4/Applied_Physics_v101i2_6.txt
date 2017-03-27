@@ -1,0 +1,10 @@
+We investigate the nonlinear dielectric properties of 0.9Pb(Mg1/3,Nb2/3)O30.1PbTiO3 (PMN-PT) and Ba[Ti0.85,Sn0.15]O3 (BTS) paraelectrics experimentally and theoretically. We measure the nonlinear dielectric response in the parallel plate capacitor configuration, whereby we obtain the low frequency linear permittivity (µ33), and the higher order permittivities (µ3333,µ333333) at 298K as µ33PMN-PT = 2.1×107 and µ33BTS = 4.1×108F/m, µ3333PMN-PT = 4.9×1020 and µ3333BTS = 7.3×1021F3	m/C2, and µ333333PMN-PT = 7.6×1033 and µ333333BTS = 9.85×1034F5	m3/C4. By using a self-consistent thermodynamic theory in conjunction with the experimental data, we compute the E3 dependence of electrostatic free energy ”G, the field-induced polarization P3, and the thermodynamic tunability 2P3/E32, and prove that electrostatic free energy has to be expanded at least up to the sixth order in the electric field to define the critical field #E3*# at which maximum tunability is attained. We also show that #E3*# is a function on #µ3333#/µ333333 only. Consequently, we find #E3*#PMN-PT = 8.0×105V/m and #E3*#BTS = 8.6×105V/m. We compute the engineering tunabilities as “PMN-PT = 65% and “BTS = 55%, and then define a normalized tunability ¾ to take into account the #E3*# parameter. Thereof, we determine #¾#PMT-PT = 8.1×105%/V	m1 and #¾#BTS = 6.4×105%/V	m1. Our results reveal that #E3*#BTS&gt;#E3*#PMN-PT although “BTS&lt;“PMN-PT, unequivocally showing the need for defining a critical field parameter in evaluating the nonlinear dielectric response and tunability, in particular, and in nonlinear dielectrics in general. The results also indicate that the nonlinear dielectric properties of PMN-PT are an order of magnitude higher than that of BTS, which we discuss in the context of structure-property relations of relaxors.
+
+lead compounds
+barium compounds
+dielectric materials
+permittivity
+electrostatics
+free energy
+dielectric polarisation
+dielectric thin films

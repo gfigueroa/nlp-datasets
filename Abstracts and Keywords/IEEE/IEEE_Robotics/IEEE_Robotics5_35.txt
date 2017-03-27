@@ -1,0 +1,4 @@
+On the basis of matter element model and correlation function in extension, this paper provided a method of the extension cluster modeling mechanism for the forecast on the volume of exhaust emissions. An interval forecast on the volume of exhaust emissions was made combining with Shanghai's statistical data. The forecasting result shows that the method is more effective and high accuracy.
+
+extension cluster forcast model
+the volume of exhaust emissions

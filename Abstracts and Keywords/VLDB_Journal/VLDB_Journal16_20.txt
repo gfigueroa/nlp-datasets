@@ -1,0 +1,6 @@
+We extend the OLAP data model to represent data ambiguity, specifically imprecision and uncertainty, and introduce an allocation-based approach to the semantics of aggregation queries over such data. We identify three natural query properties and use them to shed light on alternative query semantics. While there is much work on representing and querying ambiguous data, to our knowledge this is the first paper to handle both imprecision and uncertainty in an OLAP setting.
+
+Aggregation
+Ambiguous
+Imprecision
+Uncertainty

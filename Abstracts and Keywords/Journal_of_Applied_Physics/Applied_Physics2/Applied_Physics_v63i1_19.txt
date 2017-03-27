@@ -1,0 +1,15 @@
+The growing conditions and the basic interface properties of InPsulfidemetal structures formed by direct and indirect plasmaenhanced sulfidation were investigated. The grownin sulfide layer is an admixture of InPS4 and In2S3. The relative concentration of the lowgap indium sulfide is responsible for the high leakage currents (103 A	cm2) in the direct plasma layers. In the indirect plasma case the leakage currents are reduced to 106 A	cm2 with breakdown voltages about 7×106 V	cm1. The current transport and the frequency dependence of the capacitance of these diodes are consistently attributed to traps located in the sulfide near the semiconductor (SC) surface with a concentration in the 1011 cm2 range. Detailed measurements of the capacitancevoltage characteristics reveal that the Fermi level in InP is swept through the upper half portion of the band gap and that accumulation and strong depletion regimes are reached. These measurements also reveal that the roomtemperature hysteresisfree CV plots result from the compensative effects of mobile charges in the sulfide and of charges trapped on the interface states. Separation is made by freezing the mobile charges either in the nearby InP or Au electrode region and the interface states in the empty or in the filled state. Induced shifts in the CV characteristics allow a direct access to both concentrations which are in the high 1011 cm2 range. The energy density of interface states is calculated in two ways from the CV plots and directly measured by deeplevel transient spectroscopy. The energy density is equal to <1.1012 cm2	eV1 from Ec to Ec0.6 eV and then increases to 78×1012 cm2	eV1 near Ec0.7 eV.
+
+MISFET
+MIS JUNCTIONS
+ELECTRICAL PROPERTIES
+INTERFACE STATES
+IMPURITY STATES
+TRAPS
+INDIUM PHOSPHIDES
+INDIUM SULFIDES
+LEAKAGE CURRENT
+CV CHARACTERISTIC
+GOLD
+FERMI LEVEL
+BREAKDOWN

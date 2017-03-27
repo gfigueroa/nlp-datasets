@@ -1,0 +1,16 @@
+We propose a procedure to grow GaN quantum dots (QDs) on AlN by using the Ga surfactant effect in plasma-assisted molecular beam epitaxy. Self-formed GaN islands were spontaneously generated under vacuum, after evaporation of the Ga bilayer stabilizing the two-dimensional GaN layer grown under Ga-rich conditions. Island characteristics (size and density) are studied as a function of the nominal amount of GaN deposited. We demonstrate that the QD density can be controlled in the 3×1010	cm22×1011	cm2 range. It is shown that beyond a given amount of GaN nominally deposited, there is a coexistence between elastic and plastic relaxation, with GaN islands being formed on a partially relaxed two-dimensional GaN layer thicker than two monolayers. © 2003 American Institute of Physics. 
+
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+aluminium compounds
+semiconductor quantum dots
+semiconductor growth
+plasma deposition
+molecular beam epitaxial growth
+semiconductor epitaxial layers
+surfactants
+island structure
+self-assembly
+stress relaxation
+internal stresses

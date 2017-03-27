@@ -1,0 +1,5 @@
+This paper proposes a new communication model based on synchronized behaviors. If people talk about real world information, they use non-verbal expressions to draw otherpsilas attention to the target. To achieve the reference to the information, we focus on behaviors which occur simultaneously. The simultaneous behaviors are the evidence that both humans share the same context in interaction. We employ this communication evidence for the communication robot. By generating simultaneous gestures, the robot make a human feel that the robot share the same context with him/her.
+
+Context Sharing
+Humanoid Robot
+Simultaneous gestures

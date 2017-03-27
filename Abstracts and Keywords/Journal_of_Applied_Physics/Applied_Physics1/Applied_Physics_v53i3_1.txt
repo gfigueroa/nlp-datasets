@@ -1,0 +1,21 @@
+Singlecrystal lanthanum hexaboride (LaB6) rods 1 mm in diameter by more than 150 mm in length have been fabricated by the laserheated floating zone process. The procedure is described and the effects of process parameters such as power input and pulling and feeding rates on the geometry of the molten zone and on the quality of the grown rods are discussed. By seeded growth, the orientation of the rod axis can be selected; crystals having a rod axis corresponding to 100	, 110	, 111	, 210	, 211	, and 321	 were prepared during this study, each with a uniform diameter and having high crystalline quality. These crystals have been used for evaluating the performance of the indirectlyheatedtype LaB6 rod cathode. An electron optical test column allows the angular emission pattern, the crossover intensity distribution, the tip temperature, and the on axis brightness of the cathode to be observed and measured. Symmetries in the angular emission and the crossover are related to the LaB6 lattice structure, and these patterns are accurately reproducible. At operating temperatures of 1800 K, the angular emission is smooth and the crossover a uniform round spot. Brightness measurements of the six different orientations show that the brightness increases with increasing temperature and eventually levels off to a spacecharge limitation. The use of 100	oriented rod cathodes with a cone tip of less than 2 ¼m radius gives the best results and an increase in brightness of a factor of about three as compared to sintered material of the same geometry can be achieved.
+
+LANTHANUM BORIDES
+CATHODES
+FABRICATION
+DATA
+MONOCRYSTALS
+RODS
+LENGTH
+HEATING
+ZONE MELTING
+POWER DEPENDENCE
+GEOMETRY
+ORIENTATION
+CRYSTAL LATTICES
+ELECTRON EMISSION
+SYMMETRY
+VERY HIGH TEMPERATURE
+TEMPERATURE MEASUREMENT
+DATA
+BRIGHTNESS

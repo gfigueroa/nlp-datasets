@@ -1,0 +1,5 @@
+This contribution describes the Single Line Network Installation (SNI) of SEW Eurodrive which is a challenging approach for a cost efficient installation topology based on Power Line Communication Technology. It was designed for the use in rough environment of industrial applications. It is part of the new generation of Decentralized Installation Technology and reduces installation cost and the risk of hidden failures due to the wiring process dramatically.
+
+Installation Topology
+Power Line Network Technology
+Single Line Network Installation

@@ -1,0 +1,9 @@
+Oh and Persson [J. Appl. Phys. 65, 3852 (1989)] proposed an equation of state to extrapolate highpressure shock Hugoniot data to other highpressure and hightemperature states and compared it to data. The requirement that F=(E/V)P/(E/V)HJ1 (E is specific internal energy, V is specific volume, P is the constant pressure path and H is the constant Hugoniot path) needed to establish the equation of state appears to be in error. I have found F to vary from 0.16 to 3.59 for fifteen common materials of interest to shock physicists. Oh and Perssons [J. Appl. Phys. 65, 3852 (1989)] comparison of their equation of state to data gives the impression of a better agreement than actually occurs because of possible errors in the transcription of data, and the use of an inappropriate Hugoniot for water. When data are correctly plotted and an appropriate water Hugoniot is used, the comparison of data to theory indicates that the equation of state loses accuracy with increasing pressure or decreasing porous initial density.
+
+COPPER
+EQUATIONS OF STATE
+HUGONIOTS
+POLYURETHANES
+SHOCK WAVES
+TUNGSTEN
+WATER

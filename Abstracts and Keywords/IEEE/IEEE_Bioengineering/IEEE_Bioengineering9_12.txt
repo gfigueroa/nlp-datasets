@@ -1,0 +1,6 @@
+Colored Petri Net has the characteristics of good readability, expandability and graphic interface, it can control executive steps by simulation method. This paper analyzed stop-wait protocol using Colored Petri net. Firstly, the definition of Colored Petri net was introduced, then stop and wait protocol was described, finally, this paper modeled and analyzed stop and wait protocol using CPN, meanwhile, it simulated and evaluated the protocol by means of CPN Tools.
+
+Colored Petri Net
+Modeling
+Verification
+stop and wait protocol

@@ -1,0 +1,6 @@
+To resolve real-time the traditional water quality detection method, a novel system of remote water quality measuring and monitoring based on wireless sensor network (WSN) and Code Division Multiple Access (CDMA) technology is proposed. The WSNs can monitor the targets and water quality information of the waters through the cooperation of a large amount of sensors. The optimization of node distribution is studied with the intention of reducing the energy consumption and ensuring the effective information acquisition in wireless sensor network. The functions of remote detection and real-time monitoring of natural water are implemented through the CDMA wireless data transmission. This system has a simple architecture, and isn't confined by the geographical position. The experimental results show that this system can run stably, and its operation is convenient.
+
+Code Division Multiple Access
+Water quality parameters (WQP)
+remote monitoring and measuring
+wireless sensor networks

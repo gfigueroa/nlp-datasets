@@ -1,0 +1,10 @@
+Low and high electric field transport in the CdIn2Te4 electrooptical semiconductor were investigated. The conductivity, the carrier concentration, and the mobility were measured versus the temperature using Hall techniques. Nonlinear currentvoltage characteristics in high fields are interpreted in terms of thermal effects, not in terms of spacechargelimited currents as usually encountered. The nonreversibility of IV measurements is also discussed, diffusion of species are proposed to explain the change of activation energy of the conductivity.
+
+CADMIUM TELLURIDES
+INDIUM TELLURIDES
+TERNARY COMPOUNDS
+ELECTRIC CONDUCTIVITY
+ELECTRIC FIELD EFFECTS
+TEMPERATURE DEPENDENCE
+IV CHARACTERISTIC
+CARRIER MOBILITY

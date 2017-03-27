@@ -1,0 +1,8 @@
+Sr3Cu2Sc2O5S2, a layered oxysulfide, composed of anti-PbO-like [Cu2S2] slabs alternating with perovskitelike [Sr3Sc2O5] slabs, was systematically studied as a p-type transparent conducting material. The material has a wide energy gap of 3.1eV and a p-type electrical conductivity of 2.8S	cm1 at room temperature. The hole mobility of +150cm2	V1	S1 at room temperature, which is much higher than the typical value of < 10110cm2	V1	S1 found in other copper compounds. The performances of bulk undoped Sr3Cu2Sc2O5S2 show the promise of copper oxysulfides as a class of p-type transparent conductive materials that is essential for optoelectronic applications.
+
+copper compounds
+energy gap
+hole mobility
+optoelectronic devices
+strontium compounds
+wide band gap semiconductors

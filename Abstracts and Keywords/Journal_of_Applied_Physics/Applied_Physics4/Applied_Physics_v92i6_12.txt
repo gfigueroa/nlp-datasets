@@ -1,0 +1,9 @@
+We studied the effect of ion damage on the properties of 50 keV Ga+ focused ion beam fabricated lead-zirconate-titanate capacitors as a function of the ion dose. We observed significant modification in the chemical composition of the damaged layer due to loss of lead and oxygen, and gallium impurity accumulation. The 510 nm thick damaged layer becomes dielectric after annealing and does not recover its ferroelectric properties. This dielectric layer substantially reduces the actual volume of the ferroelectric material in sub-100 nm structures, and can affect their performance. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+focused ion beam technology
+ion beam effects
+ferroelectric capacitors
+stoichiometry
+annealing

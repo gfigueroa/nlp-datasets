@@ -1,0 +1,6 @@
+With the increasing importance of XML, LDAP directories, and text-based information sources on the Internet, there is an ever-greater need to evaluate queries involving (sub)string matching. In many cases, matches need to be on multiple attributes/dimensions, with correlations between the multiple dimensions. Effective query optimization in this context requires good selectivity estimates. In this paper, we use pruned count-suffix trees (PSTs) as the basic data structure for substring selectivity estimation. For the 1-D problem, we present a novel technique called MO (Maximal Overlap). We then develop and analyze two 1-D estimation algorithms, MOC and MOLC, based on MO and a constraint-based characterization of all possible completions of a given PST. For the k-D problem, we first generalize PSTs to multiple dimensions and develop a space- and time-efficient probabilistic algorithm to construct k-D PSTs directly. We then show how to extend MO to multiple dimensions. Finally, we demonstrate, both analytically and experimentally, that MO is both practical and substantially superior to competing algorithms.
+
+Maximal overlap
+Pruned count-suffix tree
+Short memory property
+String selectivity

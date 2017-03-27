@@ -1,0 +1,13 @@
+This paper will focus on a proposal for a methodology, namely the fab overall equipment productivity (OEP) X-factor Contribution Box (FOX BOXcopy). Based on overall equipment efficiency (OEE) which is already widely in use in the semiconductor industry, the pivotal data analysis tool in this methodology is a two-dimensional, easily comprehensible visualization interface from which the user could readily discern which quadrant each toolset (or equipment) in the fab belongs to, what the extent of its OEP's deviation from plan is, and hence finally and most importantly which tools provide the most scope for improving the fab's X-factor (and hence, cycle time).
+
+Capacity Loss Components
+Cycle time
+Industrial Engineering
+Manufacturing Efficiency
+Operational Curve
+Overall Equipment Efficiency (OEE)
+Overall Equipment Productivity (OEP)
+SEMATECH
+Tool Utilization
+X-factor
+X-factor Contribution

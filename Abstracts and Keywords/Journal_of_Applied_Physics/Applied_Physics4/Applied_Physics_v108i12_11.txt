@@ -1,0 +1,14 @@
+The 0.5Bi0.8La0.2FeO30.5PbTiO3 (BLF-PT) solid solution nanoparticles of different particle sizes are prepared using sol-gel method and characterized in terms of the size-dependent crystal structure, Raman scattering, dielectric susceptibility, and magnetism. Upon decreasing particle size, the crystal structure evolves from tetragonal symmetry to rhombohedral one, and a substantial enhancement of magnetization is observed. These size-dependent effects are reasonably explained by a simple thermodynamic scenario and first-principles calculation based on the BLF-PT multilayer model.
+
+bismuth compounds
+crystal structure
+ferromagnetism
+lanthanum compounds
+lead compounds
+magnetic particles
+magnetisation
+nanoparticles
+optical susceptibility
+particle size
+Raman spectra
+solid solutions

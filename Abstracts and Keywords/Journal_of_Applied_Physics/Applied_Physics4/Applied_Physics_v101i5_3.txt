@@ -1,0 +1,6 @@
+We carried out in situ conductivity measurements on silver iodide (AgI) under high pressure using a fabricated microcircuit on a diamond anvil cell (DAC). The result shows that the conductivity of AgI increases discontinuously by two orders of magnitude at 1.0 GPa, accompanying the transition from wurtzite/zinc-blende structure to AgI-III (NaCl structure). The conductivity gradually decreases with increasing pressure from 1.0 to 11 GPa, indicating the ionic conduction is impeded by the application of pressure. The conductivity changes very little with further pressure increase from 11 to 20 GPa, implying that the ionic conductivity decrease with pressure may be offset by the conductivity increase with pressure from the electronic process. Above 20 GPa, the conductivity starts to increase again, indicating that the electronic contribution becomes dominant. We calculated the ionic carrier concentration and the activation energy for ionic transport in AgI-III, and investigated the temperature and pressure dependence of conductivity above 20 GPa. Based on this experimental information, we predict that the metallization of AgI should occur at about 91 GPa.
+
+silver compounds
+ionic conductivity
+high-pressure solid-state phase transformations
+carrier density

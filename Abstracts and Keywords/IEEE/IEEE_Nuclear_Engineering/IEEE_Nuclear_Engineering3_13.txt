@@ -1,0 +1,8 @@
+Wireless sensor networks are now being considered for mission critical applications, which are often largely unattended and need to operate reliably for years. However, due to the real world communication, sensing and failure realities, clock drift, and node faults, the system performance may degrade significantly over time. It is highly desirable that these natural deteriorations can be monitored continuously and can be corrected with self-healing when necessary. In this paper, we introduce a dependency constraint directed self-healing scheme for wireless sensor networks. We reveal that when self-healing services are being composed, certain dependency constraints, including invocation, parameter consistency, control and implicit assumption dependencies must be carefully identified and respected. We illustrate each of these dependency constraints through case studies in 3 different systems covering the typical functions of wireless sensor networks, including sensing, communication and tracking. Our research indicates that, following the dependency constraints in self-healing design is not only a must for the correctness of self-healing services, but is also a key to energy efficient self-healing.
+
+Self-healing
+communication
+dependency
+sensing
+tracking
+wireless sensor networks

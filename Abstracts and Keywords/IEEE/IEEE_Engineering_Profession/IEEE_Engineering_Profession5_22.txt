@@ -1,0 +1,6 @@
+In this paper, we concentrate on discussing and developing a fuzzy rough multi-objective inventory model. We present some crisp equivalent models and a traditional algorithm based on an interactive fuzzy satisfying method to obtain the decision maker's satisfying solution. Then these are applied to a practical inventory problem in which all inventory costs, purchasing and selling prices in the objectives and constraints are assumed to be fuzzy rough variables in nature. Finally, numerical example are given in order to show the application of the proposed models and algorithm, which will be of much use of the management, provide significant solutions to construct other inventory models with fuzzy rough variables in real life.
+
+Multi-objective
+fuzzy rough
+fuzzy rough variable
+inventory

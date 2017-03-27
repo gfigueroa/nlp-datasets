@@ -1,0 +1,6 @@
+The combination of SGML and database technology allows to refine both declarative and navigational access mechanisms for structured document collection: with regard to declarative access, the user can formulate complex information needs without knowing a query language, the respective document type definition (DTD) or the underlying modelling. Navigational access is eased by hyperlink-rendition mechanisms going beyond plain link-integrity checking. With our approach, the database-internal representation of documents is configurable. It allows for an efficient implementation of operations, because DTD knowledge is not needed for document structure recognition. We show how the number of method invocations and the cost of parsing can be significantly reduced.
+
+Document query languages
+Navigation
+OODBMSs
+SGML

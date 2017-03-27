@@ -1,0 +1,7 @@
+The upper cladding and residual guide thickness have been varied to develop an optimal asymmetric cladding ridge waveguide geometry for use in photonic integrated circuits (PICs). Measured values of the intrinsic loss, threshold current, and lateral modal characteristics allowed the determination of the geometry that simultaneously achieved good active device performance and a strong lateral index step. The bend loss was found by fabricating curved-waveguide y-branch lasers. These characteristics are important for fabricating low-loss routing structures in PICS. This experimental work analyzed an asymmetric cladding ridge waveguide for use with photonic integrated circuits; however, the method presented here generally can be used for the experimental optimization of ridge waveguide lasers.
+
+integrated optics
+optical fibre cladding
+optimisation
+ridge waveguides
+semiconductor lasers

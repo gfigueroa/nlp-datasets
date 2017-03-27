@@ -1,0 +1,12 @@
+Various techniques were used to measure the anisotropic electrical conductivity of carbonfiber/epoxy resin composites. The conductivity of these materials, irrespective of the direction, is large enough to consider the composite to be a good conductor for all frequencies normally used in nuclear magnetic resonance (NMR). Thus, a simple analysis based on the skin depth can be used to determine the rf magnetic fields in the composite. The rf magnetic fields decrease exponentially with distance into the material. This attenuation is severe enough to prevent detection of NMR signals from nuclei located much deeper into the material than the skin depth. For rf penetrating into the face of a crossply composite panel, the attenuation is dominated by the conductivity along the carbon fibers. We found this effective conductivity to be 25	000 S/m, which allowed NMR imaging to depths &lt;2 mm. In some cases images were obtained at greater depths in regions where broken fibers existed. For penetration into the edge of a crossply composite, the attenuation is dominated by the fibertofiber conductivities between adjacent plies. We found this conductivity to be 125 S/m, allowing NMR images to be obtained within an <1cmwide strip around the edge of the composite. Thus, NMR imaging is most likely not a viable technique for the nondestructive evaluation of large carbonfiber composites, but NMR might be applicable to imaging samples having conductive regions smaller than the skin depth, and for mapping rf magnetic fields within slightly conductive materials.
+
+CARBON
+FIBERS
+EPOXIDES
+COMPOSITE MATERIALS
+ELECTRIC CONDUCTIVITY
+ANISOTROPY
+MAGNETIC FIELDS
+RADIOWAVE RADIATION
+SKIN EFFECT
+NMR IMAGING

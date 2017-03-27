@@ -1,0 +1,6 @@
+People have the perception that prior to making a voluntary movement, there is an intention to move. The timing of this subjective impression has been measured using Libet's clock and is on average about 300 ms prior to EMG onset. EEG and MEG show activity prior to movement, and by the voltage measurement, there is a rising negativity called the Bereitschafts potential beginning about 1.5 s prior to EMG onset. This indicates that the brain mechanisms for generating a voluntary movement begin prior to the subjective intention, that is, unconsciously. If it were possible to detect relevant EEG signals with single events in real time, then it would be possible to identify that movement is being prepared prior to, or at least simultaneously with, the subjective experience. Work in our laboratory has been making progress in identifying EEG and MEG activity indicating the intention to move and which movement will be made. Such signals could be used to drive a brain-computer interface.
+
+EEGs Bereitschaftspotential
+event-related desynchronization
+intention
+voluntary movement

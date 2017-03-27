@@ -1,0 +1,12 @@
+The reflective and absorptive contributions to the optical modulation in sputterdeposited thin films of crystalline LixWO3 have been determined as a function of lithium concentration (0&lt;x&lt;0.5). The magnitude of the reflective response increases with increasing substrate temperature (Ts) during deposition for Tsd466	°C. For Ts&gt;466	°C, the reflective component decreases. The lithium concentration dependence of the absorption coefficients supports the hypothesis that absorption in crystalline LixWO3 arises from freeelectron scattering.
+
+REFLECTIVITY
+ELECTROOPTICAL EFFECTS
+ELECTROCHROMISM
+ABSORPTIVITY
+SCATTERING
+THIN FILMS
+LITHIUM OXIDES
+TUNGSTEN OXIDES
+ELECTROCHEMISTRY
+CHEMICAL COMPOSITION

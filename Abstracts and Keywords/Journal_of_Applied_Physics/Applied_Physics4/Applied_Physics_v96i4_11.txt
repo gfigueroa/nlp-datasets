@@ -1,0 +1,14 @@
+We review the sensitivity of the open-circuit voltage (Voc) to material, device and dark diode parameters, and try to assess the possibilities of improving this quantity in hydrogenated amorphous silicon (a-Si:H) p-i-n solar cells, having a wide band-gap emitter layer. We find that parameters that affect Voc can broadly be classified into two categories: those that alter the built-in potential (Vbi) appreciably, and those that produce small or no change in Vbi, but can still alter Voc by changing the dark recombination current in the intrinsic absorber or the interfaces. The study is carried out using an electrical-optical model based on the solution of the Poissons and the continuity equations. In agreement with existing work, we find that Voc is very sensitive to all parameters that appreciably alter Vbi, viz., the transparent conducting oxideP contact barrier height, the P layer thickness and its activation energy, although Voc is found to be more sensitive to these parameters than Vbi itself. However, we cannot correlate such changes in Voc to the dark diode parameters. On the other hand, parameters that have little effect on Vbi, but alter the dark recombination current, viz., the density of states, capture cross-sections and the Urbach edge, have only a minor influence on Voc, although these changes can qualitatively be linked to changes in the dark current. Also we find that the common belief that Voc decreases as the reverse bias generation current increases is not always true. Boron profiling of the PI interface and its effect on Voc has also been studied. All in all our study indicates that in a-Si:H p-i-n cells under AM1.5 light, there is little scope of further improving Voc, while retaining the cell efficiency.
+
+silicon
+hydrogen
+amorphous semiconductors
+elemental semiconductors
+p-i-n diodes
+solar cells
+semiconductor device models
+electronic density of states
+surface states
+dark conductivity
+interface states
+Poisson equation

@@ -1,0 +1,8 @@
+In this work, we develop a numerical simulation method to characterize the photonic properties of photonic crystals made of either dielectric or magnetic materials. Due to the magnetic materials in the photonic crystals, not only the dielectric but also the magnetic permeability functions vary periodically with position. Thus, a master equation is needed. The simulation method based on the existing algorithm developed for periodic media with uniform magnetic permeability [Johnson and Joannopoulos, Opt. Express 8, 173 (2001)] is further modified for the present case. We then use the modified numerical simulation method to investigate the photonic properties, such as the dispersion relation, photonic band gap, and electromagnetic field distribution, of some typical photonic crystals which possess analytic expression or well-known photonic properties. A good match between the simulated and the analytic results is obtained. This fact shows that the modified numerical simulation method can be used to explore electromagnetic waves in both dielectrically and the magnetically periodic media. © 2004 American Institute of Physics. 
+
+photonic crystals
+photonic band gap
+frequency-domain analysis
+numerical analysis
+magnetic permeability
+permittivity

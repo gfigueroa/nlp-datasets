@@ -1,0 +1,11 @@
+Monte Carlo studies of transferred electron oscillators based on bulk wurtzite GaN are presented. Two structures have been examined: (i) devices with the conventional single notch structure, and (ii) repetitive structures with serial segments to fashion a multiple domain device. Wurtzite material has been chosen because of the higher drift velocity and because analytical expressions for the band structure have recently become available. Performance parameters of interest such as the operating frequency, output power, and conversion efficiency are calculated. Variations due to changes in temperature, biasing voltage, and device length are also included. It is shown that multidomain Gunn diodes can lead to significant improvements in output power over conventional, single-transit structure, and so such multiple GaN diodes merit serious experimental study. © 2003 American Institute of Physics. 
+
+gallium compounds
+Gunn oscillators
+power semiconductor diodes
+microwave diodes
+microwave generation
+Monte Carlo methods
+semiconductor device models
+III-V semiconductors
+wide band gap semiconductors

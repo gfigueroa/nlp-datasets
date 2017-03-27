@@ -1,0 +1,15 @@
+After reviewing the actual state of knowledge on ShockInduced Polarization, we discuss the validity of Allisons theory, specially concerning the physical meaning of his three parameters P0s, K2, and Ä. We then propose another approach, splitting the electric field in the dielectric into two components: the electric field (uniform) produced by the charges in the plates, and the electric field (nonuniform) produced by the polarization charges. This enables us to relate the line integral of polarization across the dielectric with an easily measurable potential difference F(t	). Its time derivative (t	) is then found to be related with the polarization discontinuity across the shock front, without making any assumptions on the space or time dependence of polarization. Later, we introduce the dielectric properties in a Lagrangian frame, which are finally inserted, in Eulerian form, in (t	). Four equations for (t	) are obtained, depending on the relaxing properties of the nonshocked medium and on the mechanism producing the polarization: the dipolar orientation or the bond scission model. We also present the (t	) equation when there is no reflected shock at the second electrode, the entire dielectric being shocked.
+
+polarization
+impact shock
+mathematical models
+parametric analysis
+electric fields
+dielectric materials
+electric charges
+integrals
+electric potential
+time dependence
+space dependence
+lagrange equations
+relaxation

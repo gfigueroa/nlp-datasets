@@ -1,0 +1,7 @@
+This paper presents an approach of using Google's Android software stack as an application environment for digital television (DTV) sets and set-top boxes. Expanding Android software stack to support DTV decoder devices and developing universal TV and set-top box applications for Android environment enables rapid software development and shorter release time for next generation products. Paper describes the process of porting complete Android software stack (Android Linux kernel, system drivers, user space libraries, Android specific libraries and programs) to a DTV decoder platform with Linux kernel and available stable device drivers; implementation of extensions to support DTV channel search, memorizing, playback and recording. Performance and features of final system will be presented.
+
+Android software stack
+DTV set
+Linux kernel
+embedded systems
+set-top box

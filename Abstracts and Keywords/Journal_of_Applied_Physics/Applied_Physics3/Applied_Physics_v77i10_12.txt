@@ -1,0 +1,12 @@
+Effects of an impurity sheet in the middle of the well on resonant tunneling are theoretically analyzed in doublebarrier structures. It was found that the energies of the evenresonance states shift toward higher levels and the states get broader as the height of the perturbation potential strength increases. There are no changes in the oddresonance states because of the nature of their wave functions. © 1995 American Institute of Physics.
+
+QUANTUM WELLS
+TUNNEL EFFECT
+RESONANCE
+IMPURITIES
+SUPERLATTICES
+PERTURBATION THEORY
+POTENTIAL BARRIER
+TRANSITION PROBABILITIES
+SCATTERING
+NUMERICAL SOLUTION

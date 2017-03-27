@@ -1,0 +1,11 @@
+Polycrystalline aluminum nitride thin films were deposited onto platinum, aluminum, and titanium electrodes by reactive magnetron sputtering in the pulsed direct current mode. The films exhibited all a columnar microstructure and a c-axis texture. The built-in stress and the piezoelectric properties of these films were studied as a function of both the processing conditions and the electrode material. Stress was found to be very much dependent on the growth conditions, and values ranging from strong compression to high tension were observed. The piezoelectric d33,f coefficient was shown to rely on substrate quality and ionic bombardment: The nucleation surface must be stable with regard to the nitrogen plasma and present a hexagonal symmetry and, on the other hand, enough energy must be delivered to the growing film through ionic bombardment. © 2001 American Institute of Physics. 
+
+aluminium compounds
+III-V semiconductors
+semiconductor thin films
+sputtered coatings
+piezoelectric thin films
+piezoelectric semiconductors
+crystal microstructure
+semiconductor growth
+wide band gap semiconductors

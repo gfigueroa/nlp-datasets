@@ -1,0 +1,11 @@
+In the phasecoherent transport regime the possibility of a solidstate electron biprism employing an intentionally implanted impurity in a splitgate heterostructure is theoretically studied. The impurityassisted interference phenomenon has been investigated under several impurity profiles and positions within the constriction. The effect of gate width on quenching the interference has also been considered. A quantitative explanation is offered which is based on the Fourier analysis of the wave function at the aperture and the guidedmode dynamics within the constriction.
+
+SEMICONDUCTOR MATERIALS
+HETEROSTRUCTURES
+INTERFERENCE
+PRISMS
+IMPURITIES
+ELECTRONS
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+COHERENCE LENGTH

@@ -1,0 +1,8 @@
+In this study static magnetic birefringence (SMB) was used to investigate the effects of aging of two biocompatible magnetic fluid (BMF) samples after dilution with pure water. The two BMF samples are based on dimercaptosuccinic-coated maghemite nanoparticles, with very similar average core diameters (7.2 and 7.9 nm) but presenting different dimercaptosuccinic acid surface grafting coefficients. Stock samples were submitted to different degrees of dilution and left to age on shelve before recording the SMB signal. Changes in the diluted and aged samples were evaluated via the average Q-cluster size value (Q	) and Q-cluster size-dispersion value (ÃQ) related to a log-normal distribution function P(Q). The Q	 and ÃQ values were obtained from the analysis of the SMB signal. We found strong evidences that the higher the dilution and the higher the surface grafting coefficient the lower both the Q	 and ÃQ values.
+
+ageing
+birefringence
+iron compounds
+magnetic fluids
+nanoparticles
+organic compounds

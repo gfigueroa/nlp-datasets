@@ -1,0 +1,7 @@
+A double-inverter-fed wound-rotor induction machine (DIF-WRIM) requires two inverters whereas standard configuration using induction machines requires one. This supplementary inverter leads to more possibilities with respect to energy management. Indeed, it allows new DOFs to be used. Energetic macroscopic representation (EMR) is used to represent the system in a graphical way. The model of the system is thus organized to highlight the DOFs of the system. An inversion-based control is then graphically deduced from the EMR of the system. Two strategies regarding the energy management are then used to exploit all DOFs. First, the distribution of the active power between the stator and rotor is achieved as in other works. A new minimum loss strategy is then added to increase the efficiency of the system. Experimental results validate the suggested control with both strategies, and good dynamic performances are achieved.
+
+Control
+WRIM
+double-inverter-fed wound-rotor induction machine (DIF-WRIM)
+energetic macroscopic representation (EMR)
+modeling

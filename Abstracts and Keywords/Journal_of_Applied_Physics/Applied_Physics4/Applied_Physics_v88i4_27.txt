@@ -1,0 +1,9 @@
+This communication is a response to the Comment on Optical properties of CdTeS: Experiment and modeling by A. B. Djuriai and E. H. Li. The shortcomings of a number of schemes to model the optical constants of diamond- and zincblende-type semiconductors, which do not include continuum exciton effects at either the E0, E0+”0 or E1, E1+”1 critical points (CPs), are discussed. The Holden model, which has been used to fit the CdTeS data, does include these effects, making it possible to extract important parameters, such as the binding energy of the exciton associated with the E1, E1+”1 CPs, not deduced by the other approaches. © 2000 American Institute of Physics. 
+
+cadmium compounds
+II-VI semiconductors
+semiconductor thin films
+optical constants
+dielectric function
+critical points
+excitons

@@ -1,0 +1,9 @@
+Permanent magnet and wound rotor synchronous machines (PMSMs and WRSMs) are often used in diesel engine-based portable power generation systems. In these applications, there is a growing desire to improve machine efficiency in order to reduce fossil fuel requirements. In addition, there is a desire to reduce mass to improve mobility. To attempt to address these competing performance objectives, a system analyst is confronted with numerous choices, including machine type (PM or WR), converter architecture (active/passive), and control. Herein, to assist the analyst, design tools capable of performing automated multi-objective optimization of PMSMs and WRSMs connected to both active and passive rectifiers are described. The tools are then used to derive tradeoffs between mass and efficiency for a 3 kW application.
+
+converter
+design
+efficiency
+mass
+permanent magnet synchronous machine
+rectifier
+wound rotor synchronous machine

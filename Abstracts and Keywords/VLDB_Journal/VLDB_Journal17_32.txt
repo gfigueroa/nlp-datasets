@@ -1,0 +1,6 @@
+Histograms have been widely used for selectivity estimation in query optimization, as well as for fast approximate query answering in many OLAP, data mining, and data visualization applications. This paper presents a new family of histograms, the Hierarchical Model Fitting (HMF) histograms, based on the Minimum Description Length principle. Rather than having each bucket of a histogram described by the same type of model, the HMF histograms employ a local optimal model for each bucket. The improved effectiveness of the locally chosen models offsets more than the overhead of keeping track of the representation of each individual bucket. Through a set of experiments, we show that the HMF histograms are capable of providing more accurate approximations than previously proposed techniques for many real and synthetic data sets across a variety of query workloads.
+
+Query processing
+Approximate query answering
+Data summarization
+Histograms

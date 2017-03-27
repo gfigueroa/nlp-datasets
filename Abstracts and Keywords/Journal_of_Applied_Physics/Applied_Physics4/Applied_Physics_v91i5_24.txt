@@ -1,0 +1,12 @@
+The effect of ion irradiation on the formation of luminescent Si nanocrystals from silicon-rich silicon oxide (SRSO) films deposited by electron cyclotron resonance plasma-enhanced chemical vapor deposition (PECVD) whose Si content ranged from 33 to 50 at.
+% is investigated. As-deposited SRSO films contained a high density of irregular-shaped Si nanocrystals. Irradiating these films with 380 keV Si at room temperature to a dose of 5.7×1015	cm2 prior to anneal at 1000
+°C is found to increase the luminescence intensity due to Si nanocrystals over the films. Based on the x-ray photoemission spectra and the dependence of the luminescence intensity on the irradiating ion dose, anneal time, and the silicon content of the film, we propose the destruction of pre-existing Si clusters by ion irradiation to be an important factor responsible for the observed enhancement of luminescence, and suggest that preanneal irradiation may be a viable method to control the formation of luminescent Si nanocrystals in PECVD-deposited silicon-rich silicon oxide. © 2002 American Institute of Physics. 
+
+silicon compounds
+plasma CVD coatings
+ion beam effects
+annealing
+photoluminescence
+nanostructured materials
+X-ray photoelectron spectra
+silicon

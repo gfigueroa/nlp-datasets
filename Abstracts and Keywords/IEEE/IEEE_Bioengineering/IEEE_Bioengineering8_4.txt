@@ -1,0 +1,6 @@
+The display of the colonoscope shape inside human body is a new technique under development which helps the doctor to judge visually if the patient colon is in normal situation or tends to twist the colonoscope into an unusual and unsafe shape. This paper presents a real-time shape reconstruction method based on biber Bragg grating (FBG) sensor array and a positioning technique of colonoscope's handle part by means of binocular vision, while the colonoscope inserted into human colon. Detailed analysis include the detecting principles, spatial curve reconstruction algorithm from the information of FBG sensors, and estimation of pose of the handle part of the colonoscope relative to the world frame. Experimental results demonstrate the effectiveness of the proposed techniques. With an accuracy of shape reconstruction to be improved to 4.5 mm compared with earlier research. By adding the pose detecting subsystem for the colonoscope's handle part, the 3D shape display subsystem will work more effectively and become more practical.
+
+3D reconstruction
+Colonoscope shape display
+FBG
+binocular vision

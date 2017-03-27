@@ -1,0 +1,19 @@
+Bulk magnetic hardening of cast Y2Co17-based alloys was systematically studied for different compositions and heat treatments. Additions of Cu and Zr, Hf, or Ti to the YCo were found to be essential for developing coercivity. The performance of YCoCuZr magnets can be significantly improved by partial Pr and Fe substitutions for Y and Co, respectively. Anisotropic (Y0.8Pr0.2)11.5Zr2.75Co56.75Fe14Cu15 powders with intrinsic coercivity of 7.8 kOe and energy product of 14.4 MG
+Oe were obtained after annealing at 900
+°C for 15 min and cooling to 200
+°C at the rate of 4
+°C/min. We also explored the effects of some other rare earths (La, Nd, Gd) and transition metals (Mn, Ni) on the magnetic properties of the YCoCuZr magnets. The phases present and the microstructure were analyzed with x-ray diffraction, thermomagnetic analysis, and transmission electron microscopy. The cellular/lamellar microstructure of the bulk-hardened alloys is similar to that of SmCoCuZr magnets. Among the most noticeable distinctions in the YCoCuZr alloys are a smaller average size of 2:17 cells and a variety of Zr-rich phases, like Zr2Co11 and Zr6Co23. Although the Y2Co17 phase is known to have an easy-plane anisotropy, the x-ray diffraction experiments with magnetically oriented powders suggest that in the bulk-hardened YCoCuZr and YCoCuFeZr magnets the 2:17 phase has uniaxial anisotropy. © 2001 American Institute of Physics. 
+
+yttrium alloys
+cobalt alloys
+casting
+hardening
+annealing
+coercive force
+permanent magnets
+transmission electron microscopy
+X-ray diffraction
+alloying additions
+magnetic anisotropy
+crystal microstructure
+powder metallurgy

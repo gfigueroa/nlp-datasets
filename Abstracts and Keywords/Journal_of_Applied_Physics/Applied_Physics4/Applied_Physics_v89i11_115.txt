@@ -1,0 +1,4 @@
+We have calculated the dc Josephson current through multi-barrier superconducting junctions (MBSJs). The current-phase relationship of the MBSJs has been obtained numerically from the probability amplitude of the process in which an electron-like quasiparticle is reflected as a hole-like quasiparticle (Andreev reflection) in the junctions. Moreover, using the obtained current-phase relationship of MBSJs, the characteristics of superconducting quantum interference devices containing MBSJs have also been analyzed. © 2001 American Institute of Physics. 
+
+SQUIDs
+Josephson effect

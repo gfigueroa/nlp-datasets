@@ -1,0 +1,10 @@
+Epitaxially grown W/NbN nanolayers are superlattice materials that exhibit a hardness at small bilayer repeat periods which exceed the hardness predicted by the rule of mixtures for normal composites. Interfaces in the bilayered superlattice play a critical role in the superhardening process. The objective of this investigation was to examine the behavior of the superlattice material, W/NbN. Nanoindentations and in situ surface imaging were conducted over a range of applied loads on samples of W/NbN with two different bilayer periods (›=5.6 and 10.4 nm), and monolithic samples of the niobium nitride (NbN) ceramic and the tungsten (W) metal which comprise the superlattice material. Shallow nanoindentations were made to a depth equal to the individual layer thicknesses of the epitaxially grown W/NbN nanolayers in order to investigate the individual interface effect. The mechanical properties were determined using the Oliver and Pharr method and compared for all the samples. The energies of indentation are calculated. The characteristics of the material pileup resulting from the nanoindentations are determined from the scanned surface images. An increase in hardness is observed in the superlattice materials at deeper indentation depths. The results indicate that this increase in hardness is related to the nature of the interface between the layers in the superlattice materials. © 2003 American Institute of Physics. 
+
+tungsten
+niobium compounds
+metallic epitaxial layers
+metallic superlattices
+nanocomposites
+indentation
+hardness
+ceramics

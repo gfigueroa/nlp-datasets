@@ -1,0 +1,6 @@
+This paper describes a novel power optimized RF amplifier with linear in dB gain steps. Using basic P-N junction diode in 45 nm CMOS process the implemented VGA provides large dynamic range with accurate linear-in-dB gain steps. The gain steps of the VGA do not depend on process variation and has a predictable variation across temperature. The VGA also has an automatic power reduction mechanism which reduces power consumption at low VGA gain.
+
+CMOS VGA
+VGA
+dB-linear
+exponential gain control

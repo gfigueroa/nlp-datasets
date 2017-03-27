@@ -1,0 +1,5 @@
+A thorough comparison is made between the different implementation schemes of Space-Time and Space-Frequency Block Coded OFDM, showing the features of each alternative, and suggesting typical situations where it excels. New designs are also introduced to complete the comparison set. The issue of mixing diversity modes is addressed, too.
+
+OFDM
+Space-Time Block Coding
+Time Domain Implementation

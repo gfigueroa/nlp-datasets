@@ -1,0 +1,6 @@
+In the mobile wireless computing environment of the future, a large number of users, equipped with low-powered palmtop machines, will query databases over wireless communication channels. Palmtop-based units will often be disconnected for prolonged periods of time, due to battery power saving measures; palmtops also will frequently relocate between different cells, and will connect to different data servers at different times. Caching of frequently accessed data items will be an important technique that will reduce contention on the narrow-bandwidth, wireless channel. However, cache individualization strategies will be severely affected by the disconnection and mobility of the clients. The server may no longer know which clients are currently residing under its cell, and which of them are currently on. We propose a taxonomy of different cache invalidation strategies, and study the impact of clients' disconnection times on their performance. We study ways to improve further the efficiency of the invalidation techniques described. We also describe how our techniques can be implemented over different network environments.
+
+caching
+data management
+information services
+wireless

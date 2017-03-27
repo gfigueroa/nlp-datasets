@@ -1,0 +1,8 @@
+Molecular dynamics simulation was carried out to investigate the stick-slip on an atomic scale by using the embedded atom method potential for NiAl. The analyses of the dynamic features of the atoms in the sliding block clearly show that the elastic deformation of the surface layers is the main cause for the stick-slip phenomenon, which is consistent with the macroscopic stick-slip. The simulation results also indicate that phonons are emitted during stick-slip, and a commensurate fit between the contacting surfaces is not significant for the stick-slip friction. © 2001 American Institute of Physics. 
+
+nickel alloys
+aluminium alloys
+sliding friction
+molecular dynamics method
+elastic deformation
+phonons

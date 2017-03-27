@@ -1,0 +1,15 @@
+We have used positron annihilation spectroscopy to study the thermal behavior of different native vacancy defects typical of freestanding GaN grown by hydride vapor phase epitaxy under high pressure annealing at different annealing temperatures. The results show that the VGaON pairs dissociate and the Ga vacancies anneal out from the bulk of the material at temperatures 15001700K. A binding energy of Eb = 1.6(4)eV can be determined for the pair. Thermal formation of Ga vacancies is observed at the annealing temperatures above 1700K, indicating that Ga vacancies are created thermally at the high growth temperature, but their ability to form complexes such as VGaON determines the fraction of vacancy defects surviving the cooling down. The formation energy of the isolated Ga vacancy is experimentally determined.
+
+thermal stability
+vacancies (crystal)
+gallium compounds
+III-V semiconductors
+wide band gap semiconductors
+vapour phase epitaxial growth
+positron annihilation
+high-pressure effects
+annealing
+dissociation
+binding energy
+Fermi level
+semiconductor epitaxial layers

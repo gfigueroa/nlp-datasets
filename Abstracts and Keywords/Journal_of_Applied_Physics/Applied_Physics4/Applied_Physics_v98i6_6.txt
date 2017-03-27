@@ -1,0 +1,8 @@
+The influence of ultraviolet (UV) light (wavelengths » = 334 and 305nm) on the ferroelectric domain inversion of lithium niobate crystals doped with different amounts of magnesium ranging from 0to7.5mol	% is investigated. Illumination at » = 334nm leads to a coercive field reduction of up to 50%, but only in samples doped with a magnesium concentration above the so-called optical damage threshold. For » = 305nm the effective coercive field is reduced significantly in all samples. Different behavior of the coercive field reduction at both wavelengths indicates the presence of two mechanisms. To explain the effect occurring for 305nm illumination a model is presented in which an UV-induced photoconductivity alters the electric-field distribution through the crystal thickness. Utilizing an UV-interference pattern and a suitable homogeneous external electrical field, periodically poled lithium niobate with a period length of 55¼m is produced.
+
+magnesium
+lithium compounds
+ferroelectric materials
+electric domains
+ultraviolet radiation effects
+photoconductivity

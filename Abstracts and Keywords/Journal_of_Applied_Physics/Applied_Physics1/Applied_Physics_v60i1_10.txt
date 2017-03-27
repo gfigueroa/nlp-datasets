@@ -1,0 +1,11 @@
+The effects of the orientation of the LiNbO3 samples on the characteristics of planar waveguides fabricated by He+ implantation are presented. They show that the number of extraordinary modes is the same in Y and Zcut samples whereas the Zcut samples support more ordinary modes than do Ycut samples. Also the attenuation of each mode is lower in Zcut material, showing that Zcut material is more suitable for the fabrication of low loss waveguides.
+
+LITHIUM NIOBATES
+ION IMPLANTATION
+FABRICATION
+ATTENUATION
+ORIENTATION
+HELIUM IONS
+LIGHT TRANSMISSION
+WAVEGUIDES
+OPTICAL MODES

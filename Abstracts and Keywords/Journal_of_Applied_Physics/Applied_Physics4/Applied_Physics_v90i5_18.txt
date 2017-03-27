@@ -1,0 +1,7 @@
+The avalanche multiplication and excess noise properties of a range of submicron Si diodes have been measured and analyzed using a model for impact ionization which includes the effect of dead space, modified to allow for a gradual onset of ionization, with realistic threshold energies. Good agreement is achieved between the predictions of this soft dead space model and measurements of multiplication and excess noise, both on a range of submicron diodes with uniform electric fields and also on a p+n diode with a highly nonuniform electric field. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+impact ionisation
+avalanche photodiodes
+semiconductor device noise

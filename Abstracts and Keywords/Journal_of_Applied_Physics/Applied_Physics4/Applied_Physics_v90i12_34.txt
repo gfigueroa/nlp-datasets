@@ -1,0 +1,9 @@
+We propose an experiment for the detection of quantum cellular automaton (QCA) operation in a cell made up of four silicon quantum dots. We show that correlated switching between the two pairs of dots forming the cell can be clearly detected from the locking of the Coulomb blockade current peaks through each pair. We have performed numerical simulations on the basis of capacitance values obtained from experimental results on cells fabricated with silicon-on-insulator technology. This approach is shown to allow detection of QCA switching without the need for additional charge detectors, although fabrication parameters are rather critical. © 2001 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor quantum dots
+Coulomb blockade
+cellular automata
+capacitance
+silicon-on-insulator

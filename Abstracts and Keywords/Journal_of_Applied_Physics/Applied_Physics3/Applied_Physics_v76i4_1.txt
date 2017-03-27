@@ -1,0 +1,14 @@
+Low resistance ohmic contacts have been formed on diamond films using bilayer structures of TiC/Au or TaSi2/Au. The initial films of TiC or TaSi2 were sputterdeposited from preformed targets. The overlying Au film was deposited by ebeam evaporation. Contact resistivities of the order of 105 ©	cm2 were obtained for the asdeposited layers. It was observed that the contact resistivity can only be marginally modified upon vacuum annealing at a temperature of 850	°C. In the more conventional approach of forming ohmic contacts using Ti/Au, a postdeposition anneal at a temperature of 850	°C is essential in order to obtain low contact resistivities. However, during this anneal procedure, a substantial amount of O is taken up by the Ti layer resulting in the formation of mixed oxide phases of Ti in addition to the interfacial TiC. In contrast, it has been demonstrated that the oxide formation can be avoided by sputter depositing the initial layer of either TiC or TaSi2 instead of elemental Ti. Moreover, in the case of the TaSi2/Au contact, the Au film is most probably lost due to a eutectic formation with Si. In this respect, the annealed TiC/Au contact appears satisfactory.
+
+DIAMONDS
+OHMIC CONTACTS
+ION IMPLANTATION
+BORON IONS
+TITANIUM CARBIDES
+TANTALUM SILICIDES
+GOLD
+THIN FILMS
+PHYSICAL VAPOR DEPOSITION
+SPUTTERING
+ELECTRIC CONDUCTIVITY
+ANNEALING

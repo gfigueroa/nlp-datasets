@@ -1,0 +1,13 @@
+The Hg content of anodic sulfide films on Hg1xCdxTe (MCT) were investigated for asgrown and heattreated films by using 3040MeV O5+ ion backscattering. Heat treatments were performed in a vacuum for 60 min at various temperatures up to 300	°C for the samples with x=0.20 and up to 350	°C for the samples with x=0.30 and 0.35. A significant Hg content of about 15 at.	% of Cd was found in the asgrown anodic sulfide film on MCT samples with x=0.20, 0.30, and 0.35. After heat treatment above 260	°C for x=0.30 and 0.35 and above 210240	°C for x=0.20, the Hg atoms were removed from the films, and Hg deficient layers were formed near the interface region of the MCT crystal. This suggests that the residual Hg in the anodic sulfide films introduced during the sulfidization process plays an important role toward the degradation of the passivation properties of the sulfide film on MCT.
+
+SULFIDES
+MERCURY TELLURIDES
+CADMIUM TELLURIDES
+BACKSCATTERING
+STABILITY
+FILM GROWTH
+DIFFUSION
+ATOM TRANSPORT
+HEAT TREATMENTS
+MERCURY
+SURFACE TREATMENTS

@@ -1,0 +1,8 @@
+Calculations of the transient charging currents to an insulating surface exposed to a dc discharge after the application of a pulse bias to the insulating surface are made based on a quasistatic treatment of the sheaths impedance as a nonlinear dc resistance. Measurements of these transient charging currents are shown to correlate with the calculated transient currents for the experimental conditions used in this study. Discussion is then provided to indicate the limits on the pulse, plasma, and coupling conditions in which this quasistatic, dc treatment of the sheaths response to the applied pulse remains valid. © 2001 American Institute of Physics. 
+
+surface charging
+plasma materials processing
+sputter etching
+plasma sheaths
+transients
+plasma diagnostics

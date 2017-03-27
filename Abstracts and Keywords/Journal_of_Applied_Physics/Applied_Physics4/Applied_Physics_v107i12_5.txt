@@ -1,0 +1,15 @@
+Transparent conducting polycrystalline Ga-doped ZnO (GZO) films with different thicknesses were deposited on glass substrates at a substrate temperature of 200	°C by ion-plating deposition with direct current arc-discharge. The dependences of crystal structure, electrical, and optical properties of the GZO films on thickness have been systematically studied. Optical response due to free electrons of the GZO films was characterized in the photon energy range from 0.73 to 3.8 eV by spectroscopic ellipsometry (SE). The free electron response was expressed by the simple Drude model combined with the TaucLorentz model. From the SE analysis and the results of Hall measurements, electron effective mass, m, and optical mobility, ¼opt, of the GZO films were determined, based on the assumptions that the films are homogeneous and optically isotropic. By comparing the ¼opt and Hall mobility, ¼Hall, an indication on the effect of ingrain and grain boundary scattering limiting the electron mobility has been obtained. Moreover, the variation in scattering mechanism causing thickness dependence of ¼Hall was correlated with the development of polycrystalline grain structure.
+
+arcs (electric)
+conducting polymers
+electron mobility
+ellipsometry
+gallium
+grain boundaries
+Hall mobility
+II-VI semiconductors
+ion plating
+scattering
+semiconductor thin films
+wide band gap semiconductors
+zinc compounds

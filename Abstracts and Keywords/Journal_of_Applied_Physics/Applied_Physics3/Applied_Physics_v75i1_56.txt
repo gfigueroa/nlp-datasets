@@ -1,0 +1,11 @@
+The variation of the linear electrooptic effect in ()2(±methylbenzylamino)5nitropyridine with the wavelength of the incident light at room temperature has been measured. The reduced halfwave voltages have been found to have the values 2.1, 2.8, and 6.0 kV at 488, 514.5, and 632.8 nm respectively and the corresponding values of the linear electrooptic coefficient have been evaluated. The interpretation of the results in terms of the structures of the molecule and the crystal is discussed. The thermal variation of the birefringence has also been investigated and the coefficient for the temperature variation of the refractive index difference is found to have the value (d”n/dT)=9.3×105 K1.
+
+NITRO COMPOUNDS
+ORGANIC COMPOUNDS
+PYRIDINES
+OPTICAL MATERIALS
+ELECTROOPTICAL EFFECTS
+NONLINEAR OPTICS
+DISPERSION RELATIONS
+BIREFRINGENCE
+REFRACTIVE INDEX

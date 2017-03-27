@@ -1,0 +1,12 @@
+Oxygen concentration of silicon has been determined by the ratio of the A center to E center in gammairradiated ntype silicon. The concentrations of these defects were measured by the deeplevel transient spectroscopy technique. It has been found that the ratio of the A center to E center is simply proportional to that of oxygen to phosphorus content by a factor of 0.072. In addition to extending the range of sensitivity to oxygen to levels below that obtainable using infrared absorption, this new method permits easy determination of the distribution of oxygen.
+
+SILICON
+OXYGEN ADDITIONS
+QUANTITY RATIO
+A CENTERS
+E CENTERS
+NTYPE CONDUCTORS
+GAMMA RADIATION
+DLTS
+SPATIAL DISTRIBUTION
+IMPURITIES

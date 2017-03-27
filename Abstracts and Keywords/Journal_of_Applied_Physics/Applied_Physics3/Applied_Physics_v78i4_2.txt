@@ -1,0 +1,9 @@
+We have investigated the influence of island size on the operation of single electron tunneling (SET) devices. The selfheating, selfcapacitance, and charge noise have been determined for six SET transistors with island sizes varying from 0.17×0.17 ¼m2 to 5×5 ¼m2. The IV characteristics of these devices can be well fit to a model where the heat flow from the device is limited by the electronphonon coupling. The best fit to this model was obtained with an electronphonon coupling parameter of £=0.3×109 W	K5	m3. We have found a clear indication that the charge noise of our SET transistors, which are fabricated with the usual techniques, increases with increasing island size. These results have been used to estimate the thermal error of a single electron turnstile assuming that selfheating and charge noise in the turnstile are the same as in our SET transistors. The accuracy of the turnstile is dramatically reduced by the selfheating and the charge noise. © 1995 American Institute of Physics.
+
+MIM JUNCTIONS
+TUNNEL EFFECT
+ISLAND STRUCTURE
+IV CHARACTERISTIC
+ELECTRONPHONON COUPLING
+TRANSISTORS
+NOISE

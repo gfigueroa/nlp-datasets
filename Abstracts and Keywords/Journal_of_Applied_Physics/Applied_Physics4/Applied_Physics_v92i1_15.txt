@@ -1,0 +1,9 @@
+Ca3xSrxCo4O9 (x=0,0.5,1.0) samples were prepared by solid state reaction. As expected from the radii of Sr2+ and Ca2+, the cell parameters increase with Sr content x. Simultaneously, the resistivity and the carrier localization at low temperature are enhanced. The thermoelectric power is not sensitive to the Sr content. Furthermore, the ferromagnetism at low temperature becomes weaker with the increase of Sr content, which shows that antiferromagnetism and ferromagnetism compete in these cobaltites. Large Sr content enhances antiferromagnetic interactions, which can be related to the extending plateau of magnetoresistance ratio of Á(H)/Á(0) in the low magnetic field region. © 2002 American Institute of Physics. 
+
+lattice constants
+electrical resistivity
+thermoelectric power
+magnetoresistance
+calcium compounds
+strontium compounds
+ferromagnetic materials

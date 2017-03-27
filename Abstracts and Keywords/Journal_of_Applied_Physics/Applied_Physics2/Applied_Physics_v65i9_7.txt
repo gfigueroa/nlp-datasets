@@ -1,0 +1,18 @@
+GaAsAlxGa1xAs heterostructures were irradiated with 6MeV protons at low temperature to study systematically the influence of lattice disorder in twodimensional electron systems on resistivity, mobility, carrier concentration n, and quantum Halleffect structures. The additional irradiationinduced scattering centers lead to a linear decrease of n with the proton fluence and to a broadening of the quantum Hall plateaus, which is qualitatively explained in the framework of localization in magnetic fields.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+HETEROSTRUCTURES
+QUANTUM HALL EFFECT
+CRYSTAL DEFECTS
+IRRADIATION
+PROTONS
+MEV RANGE 0110
+ELECTRIC CONDUCTIVITY
+MOBILITY
+CARRIER DENSITY
+MAGNETIC FIELDS
+ELECTRON GAS
+TWODIMENSIONAL SYSTEMS
+VERY LOW TEMPERATURE
+ULTRALOW TEMPERATURE

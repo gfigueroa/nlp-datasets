@@ -1,0 +1,9 @@
+The effect of Cu doped into Pt spacer layers on magneto-optical properties for sputtered Pt/Co multilayers has been investigated. The polar Kerr rotation ¸k oscillates with the content of Cu in Pt spacer layers, and an obvious enhancement of ¸k at the first and second peaks on its oscillation curve can be seen. The numerical calculation indicates that the components of conductivity tensor in PtCu layers make a simultaneous oscillation with the polar Kerr rotation. These behaviors may result from the spin polarization in PtCu layers. © 1998 American Institute of Physics. 
+
+platinum alloys
+copper alloys
+cobalt
+magnetic multilayers
+Kerr magneto-optical effect
+electron spin polarisation
+numerical analysis

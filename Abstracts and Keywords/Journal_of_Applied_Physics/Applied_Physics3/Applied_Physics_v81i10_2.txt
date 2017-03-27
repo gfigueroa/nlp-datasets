@@ -1,0 +1,15 @@
+A reproducible process for fabricating Ba1xKxBiO3/Nb-doped SrTiO3 (BKBO/STNO) all-oxide-type Schottky junctions has been established, and the electrical properties of the junctions have been investigated at room temperature. Improving the STNO surface conditions by high-temperature oxygen-annealing made it possible to fabricate junctions with good rectification properties. The currentvoltage characteristics of the junctions were explained by conventional thermionic emission theory. Anomalous capacitancevoltage characteristics of the junctions were observed and were analyzed with a model taking into account the electric-field-dependent permittivity of STNO and the presence of the interfacial layer. The potential barrier profile of the BKBO/STNO interface was calculated and it can be concluded that this model quantitatively explains the capacitancevoltage characteristics. © 1997 American Institute of Physics.
+
+barium compounds
+potassium compounds
+strontium compounds
+niobium
+Schottky barriers
+superconductor-semiconductor boundaries
+annealing
+rectification
+thermionic electron emission
+capacitance
+electrical conductivity
+permittivity
+high-temperature superconductors

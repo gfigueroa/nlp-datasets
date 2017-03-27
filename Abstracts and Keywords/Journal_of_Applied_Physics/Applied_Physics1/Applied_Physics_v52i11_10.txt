@@ -1,0 +1,21 @@
+Silicon wafers (100) and (111) orientation, implanted at 10 KeV energy with 2×1015 P+/cm2 have been annealed with a fixed 20kV multiscanning electron beam at different current densities. Doping profiles and some transport properties (i.e., carrier diffusion length, mobility, etc.) have been studied to define the parameters for optimal annealing conditions. Analysis of the residual damage, and of the defects induced by the electron beam itself when too high annealing current densities are used, has been made by using Rutherford backscattering, transmission electron microscopy, and xray topography. It has been found that very high doping levels up to 1021 at/cm3, exceeding equilibrium solid solubility limits, can be obtained with the scanning electron beam technique working in the current densitytime range which involves a solid phase epitaxial regrowth of the damaged layer. Such conditions have been used for fabricating good efficiency solar cells.
+
+SOLAR CELLS
+ELECTRON SCANNING
+ANNEALING
+PHOSPHOROUS IONS
+ION IMPLANTATION
+CRYSTAL LATTICES
+ORIENTATION
+KEV RANGE
+CURRENT DENSITY
+SPATIAL DISTRIBUTION
+CHARGE CARRIERS
+DIFFUSION LENGTH
+MOBILITY
+DATA
+PARAMETRIC ANALYSIS
+DAMAGE
+OPTIMIZATION
+CRYSTAL DEFECTS
+BACKSCATTERING

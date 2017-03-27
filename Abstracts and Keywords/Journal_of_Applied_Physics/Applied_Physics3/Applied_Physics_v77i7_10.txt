@@ -1,0 +1,11 @@
+Time and spaceresolved emission and laserinduced fluorescence spectroscopic measurements were performed to investigate vaporization and plasma formation resulting from excimer laser irradiation of titanium targets in a lowpressure nitrogen atmosphere. Measurement series have been done by varying the laser intensity from the vaporization threshold at 25 MW	cm2 up to values of about 500 MW	cm2 typically applied in pulsed laser deposition processing of titanium nitride films. Thus, the transition from thermal evaporation to the highdensity plasma formation process, leading to the production of reactive species and highenergy ions, was evidenced. An interesting result for the comprehension of the reactive deposition process was the observation of a quantity of dissociated and ionized nitrogen, which is transported with the plasma front in the direction of the substrate. © 1995 American Institute of Physics.
+
+TITANIUM NITRIDES
+LASERPRODUCED PLASMA
+PLASMA DIAGNOSTICS
+LAYERS
+DEPOSITION
+FLUORESCENCE SPECTROSCOPY
+EMISSION SPECTROSCOPY
+PULSES
+EVAPORATION

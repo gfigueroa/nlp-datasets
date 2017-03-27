@@ -1,0 +1,16 @@
+In this article the first calculation of hole transport in the 3C phase of SiC is presented. The salient features of the model are the full band-structure computed by the empirical pseudopotential method, a numerically calculated hole-phonon scattering rate and the impact ionization transition rates. The coupling constants necessary to determine the scattering rates have been determined either from available data in the literature or by fitting the calculated mobility values to low field experimental results. The impact ionization transition rates have been determined directly from the band-structure based on a wave-vector dependent dielectric function. The steady state drift velocity as a function of the applied electric field strength is computed for different field directions and doping concentrations. The calculated results show the presence of an anisotropy in the drift velocity for the field applied along different directions, similar to what is found in silicon. The maximum values of the velocity are 1.63×107
+cm
+s1 and 1.43×107
+cm
+s1 for the (100) and (111) field directions, respectively. High field transport has also been studied. The calculated ionization coefficients show no appreciable anisotropy for the field applied along different directions. The second valence band contributes the most to the impact ionization rate. It is further found that the ionization threshold is relatively soft. © 1999 American Institute of Physics.
+
+high field effects
+impact ionisation
+dielectric function
+wide band gap semiconductors
+silicon compounds
+band structure
+pseudopotential methods
+carrier mobility
+valence bands
+Monte Carlo methods

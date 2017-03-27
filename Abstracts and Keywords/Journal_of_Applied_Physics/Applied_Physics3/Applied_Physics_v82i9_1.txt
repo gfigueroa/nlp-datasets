@@ -1,0 +1,9 @@
+Cu diffusion in chalcopyrite CuInSe2 was studied directly, using 64Cu as a radioactive tracer. For diffusion from a thin surface layer, the Cu diffusion coefficients at 380 and 430	°C, were found to vary from 108 to 109
+cm2/s. In case of diffusion from a volume source at 400	°C, a value of 1010
+cm2/s was calculated from diffusion profiles. Electromigration of Cu was demonstrated, by applying a strong electric field to a sample and following the redistribution of 64Cu, that had been thermally diffused into the sample, prior to electric field application. © 1997 American Institute of Physics. 
+
+copper compounds
+electromigration
+diffusion
+ternary semiconductors
+indium compounds

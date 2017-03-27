@@ -1,0 +1,21 @@
+Al2O3/Si(001) surfaces and interfaces were investigated using scanning reflection electron microscopy, reflection high-energy electron diffraction, x-ray photoelectron spectroscopy, and Auger electron spectroscopy. A uniform, stoichiometric and ultrathin Al2O3 film of about 0.6 nm was grown on an atomically flat Si(001)-2×1 surface, and the resulting Al2O3/Si(001) interface was atomically abrupt. An intentional reoxidation of the Al2O3/Si(001) system under low oxygen pressure (2×106, 5×106, and 2×105
+Torr O2) showed that the ultrathin Al2O3 film stoichiometry and the interface abruptness were maintained with progress in reoxidation time. Furthermore, the film and the interface showed no degradation under low-pressure reoxidation at various temperatures (400750
+°C). A high-pressure reoxidation of the Al2O3/Si(001) system at 5×105
+Torr O2 resulted in the formation of an interfacial SiO2 layer which grew in a layer-by-layer mode with atomic-scale uniformity and had an atomically abrupt interface with Si(001) substrate up to 700
+°C. Additionally, a very weak temperature dependence of the growth of interfacial SiO2 was observed. A high-pressure reoxidation at 750
+°C led to the formation of crystalline ultrathin Al2O3 film and also caused degradation of the film by formation of SiO2 in the near-surface region, where a slight decrease in the Al2O3 film thickness was observed. This was attributed to the formation of interstitial Si in the interfacial SiO2 layer and the subsequent mobility of Si and Al under this growth condition. Under low-pressure reoxidation, the Si and Al were immobile because of the absence of an interfacial SiO2 layer at the Al2O3/Si(001) interface. These results indicate that the oxygen pressure of the ambience plays an important role in the oxidation of the Al2O3/Si(001) interface, and the mobility, transport, and chemical reactions at various oxidation temperatures (400750
+°C). © 2002 American Institute of Physics. 
+
+alumina
+silicon
+elemental semiconductors
+semiconductor-insulator boundaries
+oxidation
+surface structure
+interface structure
+thermal stability
+scanning electron microscopy
+reflection high energy electron diffraction
+X-ray photoelectron spectra
+Auger electron spectra
+stoichiometry

@@ -1,0 +1,7 @@
+Healthcare services are becoming vital and growing immensely with the passage of time, and so is the use of information technology in every aspect of life. Information and communication technologies are essential parts of any healthcare or life critical solution available in this era - the era of information technology. Quality is one of the major issues that are currently being faced. For healthcare and life critical solutions, quality can not be compromised. The use of information technology in healthcare potentially improves quality. This paper discusses the parameters of quality in healthcare, and how information technology ensures quality based on these parameters in some major domains of healthcare; Healthcare Information Management, Emergency Medical Services, Ubiquitous Healthcare and Distributed Diagnosis &amp; Home Healthcare. A framework has also been presented, integrating the four domains, which ensures quality in the provided services satisfying the quality parameters discussed in the paper.
+
+Components
+D<inf>2</inf>H<inf>2</inf>
+Information Technology
+Quality Healthcare
+e-Health

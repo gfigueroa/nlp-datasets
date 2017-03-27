@@ -1,0 +1,9 @@
+In SrRuO3/PbZr0.52Ti0.48O3/SrRuO3 multilayer thin films on SrTiO3 substrates the different lattice distortion behavior of the top and the bottom SrRuO3 film layer is found and characterized by means of transmission electron microscopy. The bottom SrRuO3 layer is compressively strained in the film plane by a constraint of the SrTiO3 substrate. In contrast, in the interface area of the top SrRuO3 layer, a lattice dilatation is measured not only in the film plane but also parallel to the film normal. The misfit strain, the lead interdiffusion and the oxygen concentration in this area are investigated and discussed as possible reasons for the unexpected lattice dilatation along the film normal direction. © 2002 American Institute of Physics. 
+
+strontium compounds
+lead compounds
+ferroelectric thin films
+multilayers
+chemical interdiffusion
+transmission electron microscopy
+internal stresses

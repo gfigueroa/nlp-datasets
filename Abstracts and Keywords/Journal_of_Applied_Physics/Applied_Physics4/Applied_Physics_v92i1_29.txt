@@ -1,0 +1,10 @@
+For poled oriented 0.67Pb(Mg1/3Nb2/3)O30.33PbTiO3 single crystals, dielectric measurements have revealed pseudolinear (CurieWeiss) behavior for temperatures below a phase transition; however, significant deviations are observed in the paraelectric phase. The value of the Curie constant (C) in the poled polydomain condition was found to be significantly larger than that in a poled monodomain condition. It is believed that polarization heterogeneity exists within the poled polydomain condition. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+dielectric polarisation
+ferroelectric transitions
+ferroelectric Curie temperature
+electric domains
+permittivity
+optical susceptibility

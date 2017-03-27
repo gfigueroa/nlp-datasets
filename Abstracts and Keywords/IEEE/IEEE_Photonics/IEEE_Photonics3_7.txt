@@ -1,0 +1,9 @@
+In this paper we describe the design and implementation details of a mobile application supporting news access and virtual community interactive services, based on open technologies such as Java programming language, Java Mobile Edition (Java ME) libraries, MySQL database and an open Web server. The goal was to create an easy to use, mobile, interactive, flexible and extensible client-server solution, including a portable Java client and a Web portal access to the content. To prove these features, we chose to implement and compare two different kind of interactive services, and made plans for further services and improvements.
+
+Java ME
+interactive services
+mobile application
+news access
+open technologies
+portal
+virtual community

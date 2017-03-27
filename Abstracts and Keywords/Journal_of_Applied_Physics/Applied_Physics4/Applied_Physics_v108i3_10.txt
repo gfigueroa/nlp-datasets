@@ -1,0 +1,9 @@
+Schrodingers equation is solved using recursive Greens function algorithm self-consistently with Poissons equation to study the transport physics of uniaxial and torsional strained double-walled (DW) carbon nanotube (CNT) field-effect transistors (FETs) and to analyze their performance. The characteristics and performance of proposed DW CNTFET are compared with existing single-walled (SW) CNTFET. The strain has great impact on the I-V characteristics of both SW and DW CNT devices. Tensile and torsional strains improve greatly the off-state current and on/off current ratio of both devices. Compressive strain improves on-state current, but this improvement is comparatively small. The effect of strain on off-state current, on-state current, and on/off current ratio is higher in SW CNTFET. The inverse subthreshold slope of DW CNTFET is better than SW CNTFET. But the variation in inverse subthreshold slope with strain is smaller in DW CNTFET. Unlike SW CNTFET the on-state transconductance of DW CNTFET improves with tensile and torsional strains, and degrades with compressive strain. The on-state cut-off frequency of DW CNTFET also shows opposite behavior to SW CNTFET with strain following on-state transconductance. Concrete Physical description is provided to explain all above changes with strain.
+
+carbon nanotubes
+field effect transistors
+Green's function methods
+nanotube devices
+Poisson equation
+Schottky barriers
+Schrodinger equation

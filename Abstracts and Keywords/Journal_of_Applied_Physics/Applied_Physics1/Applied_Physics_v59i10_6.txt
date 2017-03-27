@@ -1,0 +1,12 @@
+The incorporation of thallium in molecularbeamepitaxial indium antimonide has been studied by secondaryion mass spectrometry. At temperatures above 300	°C desorption competes with incorporation. Increasing incorporation and surface accumulation is observed below 300	°C. The incorporation rate is also affected by the surface stoichiometry in a manner consistent with thallium occupying indium sublattice sites.
+
+THALLIUM
+MOLECULAR BEAM EPITAXY
+INDIUM ANTIMONIDES
+SIMS
+DESORPTION
+IMPURITIES
+DOPING PROFILES
+ABSORPTIVITY
+ABSORPTION SPECTRA
+STOICHIOMETRY

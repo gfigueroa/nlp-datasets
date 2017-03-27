@@ -1,0 +1,16 @@
+The variation in the rate of fluorine loss from electronbombarded Na3AlF6 films with time, beamcurrent density, and temperature is reported. The loss is shown to be due to the emission of F atoms; the observation of F2 emission is shown to be an experimental artifact. A kinetic model is proposed which involves movement of fluorine into the bombarded area and which provides a good quantitative fit to a range of experimental data. The value for the cross section for dissociation of Na3AlF6 under bombardment with 500eV electrons is found to be (1.35±0.4)×1016 cm2.
+
+SODIUM FLUORIDES
+ALUMINIUM
+DISSOCIATION
+KINETICS
+ELECTRONS
+IRRADIATION
+DATA
+FILMS
+TIME DEPENDENCE
+TEMPERATURE DEPENDENCE
+CURRENT DENSITY
+MATHEMATICAL MODELS
+CROSS SECTIONS
+EV RANGE

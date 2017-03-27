@@ -1,0 +1,24 @@
+An experimental study of the Hall effect in nonmetallic Y-Ba-Cu-O thin films is reported. Both epitaxial crystalline YBa2Cu3O6+x (x } 0.5) and multiphase/amorphous Y-Ba-Cu-O thin films were studied. The structure of the samples was measured by x-ray diffraction and Raman microprobe. The amorphous Y-Ba-Cu-O samples were found to have a grain size of about 100 Å. The conduction properties were studied and analyzed for the two types of samples over a wide temperature range including room temperature. The Hall effect measurements showed positive charge carriers with a concentration ranging from 1017 to 1020 cm3 at room temperature. The mobility was found to decrease with higher Hall carrier concentration. The empirical relationship for the mobility dependence on impurity concentration agreed with the relationship between mobility and the experimental Hall carrier concentration, suggesting that the same localized states were responsible for both providing the carriers and reducing the mobility through scattering. It was also observed that the mobility values for both amorphous and crystalline samples followed the same empirical curve, a result which showed that the conduction mechanisms in the epitaxial (tetragonal) and amorphous Y-Ba-Cu-O materials are very likely to be similar despite the differences in the composition and structure of the films. The similarity is consistent with other work that concludes that the conduction mechanism occurs along the copper oxide planes. Our work implies that the conduction mechanism operates over a short range, less than the 100 Å grain size of the amorphous, such that the lack of order in the amorphous samples was essentially irrelevant to the charge transport. © 1997 American Institute of Physics.
+
+yttrium compounds
+barium compounds
+high-temperature superconductors
+superconducting epitaxial layers
+amorphous semiconductors
+semiconductor epitaxial layers
+Hall mobility
+electron mobility
+electron density
+X-ray diffraction
+Raman spectra
+localised states
+YTTRIUM OXIDES
+BARIUM OXIDES
+COPPER OXIDES
+HALL EFFECT
+AMORPHOUS STATE
+STRUCTURAL CHEMICAL ANALYSIS
+GRAIN SIZE
+ELECTRIC CONDUCTIVITY
+TEMPERATURE DEPENDENCE
+CARRIER MOBILITY

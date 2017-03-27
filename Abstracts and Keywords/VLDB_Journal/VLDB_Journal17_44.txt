@@ -1,0 +1,6 @@
+This paper presents a probabilistic relational modelling (implementation) of the major probabilistic retrieval models. Such a high-level implementation is useful since it supports the ranking of any object, it allows for the reasoning across structured and unstructured data, and it gives the software (knowledge) engineer control over ranking and thus supports customisation. The contributions of this paper include the specification of probabilistic SQL (PSQL) and probabilistic relational algebra (PRA), a new relational operator for probability estimation (the relational Bayes), the probabilistic relational modelling of retrieval models, a comparison of modelling retrieval with traditional SQL versus modelling retrieval with PSQL, and a comparison of the performance of probability estimation with traditional SQL versus PSQL. The main findings are that the PSQL/PRA paradigm allows for the description of advanced retrieval models, is suitable for solving large-scale retrieval tasks, and outperforms traditional SQL in terms of abstraction and performance regarding probability estimation.
+
+DB + IR integration
+Probabilistic databases
+Probabilistic relational modelling
+Retrieval models

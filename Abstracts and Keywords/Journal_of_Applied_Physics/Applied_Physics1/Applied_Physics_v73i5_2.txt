@@ -1,0 +1,9 @@
+The modified differential phase contrast (MDPC) mode of Lorentz electron microscopy was used to study the micromagnetic structure of crosstie walls in permalloy. The distribution of magnetic induction along these walls is characterized and studied in detail by vector mappings calculated from MDPC image pairs. The wall thickness of the crosstie wall is determined by fitting the calculated image signal of an analytical function to the MDPC wall profiles. A pronounced dip in the wall width is found at the center of the vortex structure of the crosstie wall. The results are compared to theoretical calculations by Nakatani, Uesaka, and Hayashi, Jpn. J. Appl. Phys. 28, 2485 (1989).
+
+PERMALLOY
+MAGNETIC STRUCTURE
+TEM
+DOMAIN WALL
+THIN FILMS
+NICKEL ALLOYS
+IRON ALLOYS

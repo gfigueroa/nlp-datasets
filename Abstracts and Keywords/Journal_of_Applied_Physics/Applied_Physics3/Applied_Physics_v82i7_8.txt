@@ -1,0 +1,5 @@
+We examine how the spatial extent of the most probable potential well influences the form of the distribution of electronic states in disordered semiconductors. We show that, over most of the relevant energy spectrum, the spatial extent of this well does not vary greatly. A simple model, in which all potential wells are taken to be of the same spatial scale, is demonstrated to have the same physical content as a model in which variations of the spatial scale of the most probable potential well are taken into account. © 1997 American Institute of Physics.
+
+amorphous semiconductors
+electronic density of states
+electronic structure

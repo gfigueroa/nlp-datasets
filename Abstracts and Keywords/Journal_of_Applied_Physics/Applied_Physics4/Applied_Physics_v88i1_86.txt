@@ -1,0 +1,16 @@
+The ±-Fe/R2Fe14B-type nanocomposite magnets have been prepared by hot pressing melt spun Pr8Dy1Fe74.5Co10Nb0.5B6 flakes under a conventional pressure P of 125 MPa and high pressures ranging from 1 to 7 GPa. It was found that increasing compaction pressure from 125 MPa to 5 GPa led to marked grain refinement in the magnet and consequently resulted in significant improvement of magnetic properties. When hot pressing under even higher pressure (P&gt;5 GPa), however, the crystallization was constrained and the hot pressed magnets retained a certain amount of amorphous phase besides the Pr2Fe14B-type phase and ±-(FeCo) phase, which resulted in the deterioration of the magnetic properties. A remanence of 11.1 kG, coercivity of 10.2 kOe, and maximum energy product of 23.6 MGOe have been achieved in the magnet hot pressed under a pressure of 5 GPa. © 2000 American Institute of Physics. 
+
+iron
+praseodymium alloys
+iron alloys
+boron alloys
+permanent magnets
+ferromagnetic materials
+grain refinement
+hot pressing
+high-pressure effects
+nanostructured materials
+remanence
+magnetisation
+coercive force
+magnetic hysteresis

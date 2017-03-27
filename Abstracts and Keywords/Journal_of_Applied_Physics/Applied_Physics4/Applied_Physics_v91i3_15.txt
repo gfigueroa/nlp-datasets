@@ -1,0 +1,7 @@
+To investigate the structural effect on the ferroelectric electron emission, the electric field distribution in a two-dimensional structure was calculated as a function of thickness and upper electrode diameter, and the switching charge density and emission charge were measured simultaneously. The simulation results of the electric field distribution showed that an asymmetric electrode structure caused a stray field on the bare surface of the ferroelectric cathode near the edge of upper electrode. The distance of the stray field from the electrode edge increased with increasing ferroelectric thickness, but it did not depend on the upper electrode diameter. The switching charge density increased more on the cathode with thicker ferroelectric and smaller upper electrode diameter. This was attributed to the difference of field distribution on the bare ferroelectric surface near the electrode edge. The expanded stray field for the thicker ferroelectric cathode enhanced polarization switching near the electrode edge. As a result, with increasing ferroelectric thickness, the emission charge increased and the threshold field decreased. However, there was no apparent difference between the emission charges from the different upper electrode diameters. © 2002 American Institute of Physics. 
+
+lead compounds
+ferroelectric switching
+ferroelectric materials
+electron field emission
+cathodes

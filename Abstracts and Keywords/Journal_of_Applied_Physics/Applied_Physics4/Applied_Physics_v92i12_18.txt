@@ -1,0 +1,7 @@
+An ionic polymer-metal composite (IPMC) consisting of a thin Nafion sheet sandwiched between two thin metallic plates like platinum, silver, and copper ones exhibits a large self-bending motion in its transversal direction upon such a small voltage as 1 V. Estimating Youngs moduli and generated force, which are time dependent and difficult to measure by standard methods, is fundamental for understanding their mechanical properties. We propose a simple method to estimate the time-dependent nominal Youngs moduli and generated force in experiments. We use cantilever beams of IPMCs and obtain their Youngs moduli and generated force (bending moments) from their shapes and vertical force at the tips by neglecting their inertia and viscosity property. The validity of the method is demonstrated by numerical simulation results. For an IPMC consisting of a Nafion sheet and two thin silver plates we give experimental results, which are considerably consistent with ones previously reported. Moreover, we see that its Youngs modulus and generated force have large variations in the process of its self-bending. © 2002 American Institute of Physics. 
+
+Young's modulus
+bending
+ionic conductivity
+composite materials
+polymers

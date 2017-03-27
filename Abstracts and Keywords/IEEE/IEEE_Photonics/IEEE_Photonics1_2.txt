@@ -1,0 +1,5 @@
+Increasing rapid changes and highly precise manufacturing environments require timely monitoring and intervention when deemed necessary. Traditional SPC charting, a popular tool but not effective and an appropriate in the case of automotive manufacturing system. Therefore, in this paper two type of pattern recognition models were suggested and compared each other for neural network control charts. This study was focused on these two models. It was observed that the generalization ability of the encoded model in terms of error percentage, the generalization ability of the function approximation approach was significantly greater for all levels of slopes varied from 0.25 to 1
+
+Control Charts
+Neural Network
+Pattern Recognition

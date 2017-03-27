@@ -1,0 +1,18 @@
+A theoretical analysis is given of the induced current profiles at grain boundaries in polycrystalline solar cells, as obtained by light or electron beam excitation. The area A and the variance Ã2 of the contrast profile of a grain boundary are calculated for realistic generations as functions of the interface recombination velocity vs and the minority carrier diffusion length L. A graphical new procedure is proposed which allows the simultaneous determination of vs and L from the measured values of A and Ã. The evaluation of an experimental electron beam induced current profile illustrates the applicability of the theory.
+
+solar cells
+grain boundaries
+electric currents
+mathematical models
+polycrystals
+visible radiation
+size
+theoretical data
+electron beams
+excitation
+interfaces
+recombination
+charge carriers
+diffusion length
+experimental data
+spatial distribution

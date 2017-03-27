@@ -1,0 +1,8 @@
+A study of the photoluminescence characteristics of a ZnO single crystal at the temperature range 173823 K is presented. The analysis employed the electron-phonon interaction model as well as the radiative recombination rate model. Both studies indicate that at < 700K the photoluminescence character undergoes a transition from being a free exciton emission to a band gap recombination, implying a breakup of excitons into free carriers is occurring. The transition temperature corresponds to < 60meV, which is consistent with the binding energy of the free exciton in ZnO.
+
+electron-hole recombination
+II-VI semiconductors
+phonon-exciton interactions
+photoluminescence
+wide band gap semiconductors
+zinc compounds

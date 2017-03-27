@@ -1,0 +1,6 @@
+Witness testing is a fact of life. There is nothing like close proximity to increase awareness of a machine in both the customer and the factory organizations. A user's factory witness personnel commit to making critical decisions based on knowledge and experience. Motor manufacturers dedicate considerable effort and resources to ensuring that the customer is satisfied with the product testing. There are several excellent papers describing in detail machine test procedures from API standards. In this paper, points of view of manufacturer and user are brought together in open dialogue on six of the popular API tests. Their experiences are linked to demonstrate effective factory witness testing. Witness expectations are discussed for six key tests, including: (1) Pulsation torques (2) Losses and efficiency (3) Vibration and critical frequencies (4) Sealed winding conformance (5) Dissipation factor and tip-up (6) Sacrificial coil tests. Each test is described in the API standards, but the method of application of the standards may vary. The witness needs to understand what the tests are supposed to assure, different ways they can be set up, and what to watch for during the test procedure.
+
+API 541
+API 546
+Witness
+motor testing

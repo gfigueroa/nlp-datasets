@@ -1,0 +1,9 @@
+We report a computationally efficient algorithm to calculate reflection high-energy electron diffraction (RHEED) intensities from well-textured, small-grained polycrystalline films in the kinematic limit. We also show how the intensity maps of the spots in a RHEED pattern from such a film can be quantitatively analyzed to determine the films average grain size, as well as its in-plane orientation and texture distributions. We find that the in-plane orientation and texture distribution widths of these films can be determined to within 1 degree and that the average lateral grain size can be measured to within a fraction of a nanometer after suitable calibration of our technique. © 2002 American Institute of Physics. 
+
+magnesium compounds
+reflection high energy electron diffraction
+physics computing
+grain size
+crystal orientation
+texture
+thin films

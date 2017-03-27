@@ -1,0 +1,13 @@
+We have obtained Al/SiNx:H/InP metal-insulator-semiconductor devices depositing SiNx:H thin films by the electron cyclotron resonance plasma method at 200	°C. The electrical properties of the structures were analyzed according to capacitancevoltage and deep level transient spectroscopy measurements. We deduce an inverse correlation between the insulator compositionthe N/Si ratioand the density of interface traps: those films with the maximum N/Si ratio (1.49) produce devices with the minimum trap density2×1012 cm2 eV1 at 0.42 eV. above the midgap. We explain the influence of film composition on the interface trap density in terms of a substitution of phosphorous vacancies at the InP surface, Vp, by N atoms coming from the insulator, NVp. The values obtained in our research for the interface trap distribution were similar to other published results for devices that use chemical and/or physical passivation processes of the InP surface prior to the deposition of the insulator.© 1998 American Institute of Physics.
+
+aluminium
+silicon compounds
+indium compounds
+III-V semiconductors
+hydrogen
+MIS capacitors
+plasma deposition
+deep level transient spectroscopy
+interface states
+electron traps
+vacancies (crystal)

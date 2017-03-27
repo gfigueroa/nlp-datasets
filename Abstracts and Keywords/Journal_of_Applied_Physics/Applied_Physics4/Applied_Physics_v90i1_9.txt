@@ -1,0 +1,11 @@
+We have used invariance properties of fourth-rank tensors within the VoigtReussHill averaging procedure, to calculate the elastic stiffness and compliance of cubic polycrystalline materials exhibiting texture. The computation is extended to the bulk and shear modulus as well as to Youngs modulus, volume compressibility and Poissons ratios. Numerical values and polar plots are given for all texture directions in the plane (10) of diamond and silicon. © 2001 American Institute of Physics. 
+
+texture
+elemental semiconductors
+shear modulus
+Young's modulus
+compressibility
+Poisson ratio
+elastic constants
+diamond
+silicon

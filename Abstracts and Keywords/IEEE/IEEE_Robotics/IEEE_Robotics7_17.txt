@@ -1,0 +1,4 @@
+This paper describes development and demonstration of an obstacle avoidance algorithm termed ELA+ that is adaptable to rescue robots. ELA+ consists of two routines; one related to goal-oriented intention and the other to standing rotation for steering. In ELA+, autonomous navigation based on ELA (emergency level around) proceeds until a goal is reached, and goal-oriented navigation with ELA then follows. It was assumed that the tested scenario was similar to an actual disaster situation, and ELA+ was shown to be able to avoid obstacles located in a 2D virtual space. Simulation results show that ELA+ is able to guide a robot successfully to a goal using only bearing information, even when the distance to the goal and the localization are not prepared.
+
+obstacle avoidance
+rescue robot

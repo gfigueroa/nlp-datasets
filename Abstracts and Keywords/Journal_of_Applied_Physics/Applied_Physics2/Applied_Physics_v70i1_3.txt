@@ -1,0 +1,13 @@
+A model is proposed for the consistent description of the steadystate interaction between a highpower microwave and a breakdown plasma in transmitreceive (TR) tubes often used as switches in radar microwave systems. The electrondensity equilibrium in the TR tube is established as a balance between the ionization produced by the wave and various electronloss processes. In the currently proposed model, it is shown that diffusive losses of electrons in the direction of wave propagation is the most important loss process. An approximate analytical solution is derived from the model and compared with the numerically obtained full solution. Finally, the predictions obtained from the model concerning the scaling of absorbed and reflected microwave power are shown to be in good agreement with experimental results.
+
+DIODE TUBES
+MICROWAVE RADIATION
+BREAKDOWN
+PLASMA
+STEADYSTATE CONDITIONS
+ELECTRON DENSITY
+DIFFUSION
+ANALYTICAL SOLUTION
+MATHEMATICAL MODELS
+NUMERICAL SOLUTION
+SCALING LAWS

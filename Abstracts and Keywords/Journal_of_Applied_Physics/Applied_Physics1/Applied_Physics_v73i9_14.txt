@@ -1,0 +1,12 @@
+In situ GaAs surface cleaning prior to molecular beam epitaxy using a combined thermal/Hatom treatment, the Hatom flux being derived from a rf (13.56 MHz) plasma discharge, hydrogen freeradical source, has been compared and contrasted to conventional thermal treatment of GaAs surfaces. Surface quality, i.e, morphology, was monitored in situ in real time using conventional reflection highenergy electron diffraction and a diffuse optical reflectivity technique employed simultaneously. GaAs surfaces were found to clean readily at temperatures below 400	°C using the combined thermal/Hatom treatment as opposed to the conventional thermal treatment, which requires temperatures in the vicinity of 600	°C. The atomically clean GaAs surfaces were also found to be specular when prepared using the combined thermal/H atom treatment in contrast to conventional thermally treated GaAs surfaces, which are considerably rough on the atomic scale, surface roughening in the conventional case being associated with the oxide desorption process.
+
+GALLIUM ARSENIDES
+SURFACE CLEANING
+MOLECULAR BEAM EPITAXY
+ELECTRIC DISCHARGES
+PLASMA
+HYDROGEN
+ATOMIC BEAMS
+RHEED
+TEMPERATURE RANGE 4001000 K
+DESORPTION

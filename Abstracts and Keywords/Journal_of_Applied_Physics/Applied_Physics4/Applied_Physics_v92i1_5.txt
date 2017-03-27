@@ -1,0 +1,7 @@
+How different plasma species influence the reactions and reactivity of each other during plasma processing is not fully understood, especially with respect to surface interactions. The goal of this study is to provide insight into the relationships between gas-phase NHx species in NH3 plasmas. Specifically, formation of NHx, their relationship with the surface during plasma processing, and the effects of charged species on these interactions are discussed. The surface reactivities of NH and NH2 radicals with different substrate materials during NH3 plasma processing were investigated using the imaging of radicals interacting with surfaces technique. Scatter coefficients, S, for NHx species were obtained as a function of applied rf power for polyimide, polytetrafluoroethylene, and platinum substrates. To investigate the role of ions on the formation of NHx radicals in the gas phase and at the surface, ions were removed (&gt;98%) from the plasma molecular beam. Results from the ion-free conditions suggest that ions enhance NH2 surface generation, but suppress NH-forming mechanisms at high rf powers. Surface interaction results for NH and NH2 with and without ions provide the basis for a discussion of possible surface interaction mechanisms for the different substrates examined. © 2002 American Institute of Physics. 
+
+polymers
+surface treatment
+plasma materials processing
+surface chemistry
+ammonia

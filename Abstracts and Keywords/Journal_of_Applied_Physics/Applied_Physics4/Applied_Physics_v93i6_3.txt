@@ -1,0 +1,7 @@
+A theoretical analysis of the Monte Carlo method for steady-state semiconductor device simulation, also known as the single-particle Monte Carlo method, is presented. At the outset of the formal treatment is the stationary Boltzmann equation supplemented by boundary conditions, which is transformed into an integral equation. The conjugate equation has been formulated in order to develop forward Monte Carlo algorithms. The elements of the conjugate Neumann series are evaluated by means of Monte Carlo integration. Using this mathematically-based approach, the single-particle Monte Carlo method is derived in a formal way. In particular, the following are recovered: the probability densities for trajectory construction, both the time averaging and the synchronous ensemble methods for mean value calculation, and the rule that the initial points of the trajectories have to be generated from the velocity weighted boundary distribution. Furthermore, the independent, identically distributed random variables of the simulated process are identified. © 2003 American Institute of Physics. 
+
+semiconductor device models
+Monte Carlo methods
+Boltzmann equation
+boundary integral equations
+boundary-value problems

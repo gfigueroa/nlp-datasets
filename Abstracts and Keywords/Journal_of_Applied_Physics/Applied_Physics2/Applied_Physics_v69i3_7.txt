@@ -1,0 +1,10 @@
+The effect of heat treatments on optical properties of Sidoped GaAs was investigated. Special care was taken to avoid the evaporation of As during heat treatment. Several kinds of photoluminescence peaks were found to be developed, depending on the Si concentration of the crystal and the temperature of the heat treatment. In crystals of high concentrations of Si a broad photoluminescence peak centered at about 1040 nm in wavelength was observed. The intensity and position of the peak were found to depend on the temperature of the heat treatment for a crystal in which the Si concentration was higher than 3.8×1018 atoms/cm3. The change in the peak position was accompanied by the changes in the optical absorptions related to SiGaSiAs and SiAsVGa pairs and also by the change in the concentration of free electrons. The characteristics of the observations were well interpreted with the idea that the photoluminescence peak was related to clusters of Si atoms and that clustering of Si atoms took place during heat treatment. Such clustering of Si atoms did not take place appreciably in a crystal of a Si concentration lower than 3.0×1018 atoms/cm3. The origins of other photoluminescence peaks related to shallow levels were identified, while those related to deep levels are not known at the present moment.
+
+GALLIUM ARSENIDES
+SILICON ADDITIONS
+HEAT TREATMENTS
+OPTICAL PROPERTIES
+PHOTOLUMINESCENCE
+THERMOOPTICAL EFFECTS
+DEFECT STRUCTURE
+IMPURITY STATES

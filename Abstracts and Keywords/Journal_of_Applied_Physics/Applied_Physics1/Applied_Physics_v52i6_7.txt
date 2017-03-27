@@ -1,0 +1,10 @@
+A quantitative derivation is presented for the production of the photothermal signal in solids. Both the frequency and timedomain responses are discussed. Typical time response curves are presented and interpreted in terms of the physical processes occurring in the photothermal emission.
+
+RADIOMETRIC ANALYSIS
+MATHEMATICAL MODELS
+RADIATION EFFECTS
+THEORETICAL DATA
+SIGNALS
+FREQUENCY DEPENDENCE
+TIME DEPENDENCE
+COMPARATIVE EVALUATIONS

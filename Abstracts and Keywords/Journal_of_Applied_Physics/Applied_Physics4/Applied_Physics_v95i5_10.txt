@@ -1,0 +1,8 @@
+Polarization relaxation was studied in Pb(Zn1/3Nb2/3)O3-PbTiO3 (PZN-PT) single crystals that show fatigue anisotropy. To excite prepoled crystals, a modest dc voltage (&lt;1/2 of the coercive field) was applied along the poling direction. Upon removal of the voltage, the polarization decay in the time domain was measured. Experimental data were modeled with a stretched exponential function. Stretching exponent (²hkl	) and characteristic time (Ähkl	) constants for polarization relaxation were determined from data over four decades in the time domain at different stages of bipolar cycling. ²hkl	 values after 101 cycles were 0.146±0.002 and 0.247±0.0004 in the 001	 and 111	 orientations, respectively. The ²111	 constant increased up to 0.453±0.104 after 105 cycles in 111	 oriented crystals that show fatigue. However, much less change is observed in ²001	 as a function of cycling for 001	 crystals. Characteristic time constants for relaxation (Ähkl	) were calculated for 001	 and 111	 orientations as 0.401±0.048 s and 57.46±0.10 s, respectively. These results suggest a faster polarization relaxation in 001	 than in the 111	 orientation of rhombohedral PZN-PT ferroelectric crystals. © 2004 American Institute of Physics. 
+
+lead compounds
+ferroelectric materials
+dielectric relaxation
+dielectric polarisation
+dielectric hysteresis
+ferroelectric switching

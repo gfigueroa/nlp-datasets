@@ -1,0 +1,10 @@
+We present the consistent electronic and magnetic properties in high-quality defect-controlled single crystals of CaB6, based on temperature-dependent transport and isothermal magnetization. Pure CaB6 single crystals, synthesized with 99.9999%-pure boron, exhibited fully semiconducting characteristics, such as monotonic resistance for 2300 K. Boron-related defects formed in CaB6 single crystals, synthesized with 99.9%-pure boron, induced extra free charge carriers. Remarkably, no ferromagnetic signals were detected from single crystals made with 99.9999%-pure boron, regardless of stoichiometry, whereas those made with 99.9%-boron exhibited ferromagnetism within a finite range of carrier density. This indicates that the boron-related defects generate both the local magnetic moments associated with the exotic ferromagnetism and extra free charge carriers. © 2004 American Institute of Physics. 
+
+calcium compounds
+ferromagnetic materials
+electrical resistivity
+local moments
+magnetisation
+carrier density
+stoichiometry
+magnetic semiconductors

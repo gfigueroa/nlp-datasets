@@ -1,0 +1,15 @@
+Absorption spectra obtained between 1550 and 440nm and fluorescence spectra obtained between 1700 and 1500nm are reported in a comparative spectroscopic study of polycrystalline ceramic Y3Al5O12 (YAG) and single-crystal laser rod YAG, both containing 50at.% Er3+ as a dopant in the garnet host. The spectra are observed in both samples at temperatures between 8K and room temperature. The detailed splitting of individual multiplet manifolds, , Er3+(4f11), by the crystalline electric field is similar in both the ceramic sample and the single-crystal laser rod. With few exceptions, there is little shift in energy (few wave numbers) of individual Stark levels within a manifold, between dilute and concentrated Er3+ samples. This is not too surprising since Y3Al5O12 and Er3Al5O12 form a solid solution with the majority of Er3+ ions occupying cation sites having D2 symmetry in the garnet lattice over the entire solid solution range. As a check on the observed manifold splittings of Er3+ in ceramic YAG, we compared the present results to the calculated splitting that several of us reported earlier for Er3+ in single-crystal YAG. To within the standard deviation reported earlier, the present results agree with that calculation. Thus, one set of atomic and crystal-field parameters describes the splitting of the Er3+ energy levels in either the ceramic or single-crystal host for Er3+ in D2 sites.
+
+yttrium compounds
+erbium
+garnets
+ceramics
+solid solutions
+fluorescence
+spectral analysis
+Stark effect
+impurity distribution
+energy states
+impurity absorption spectra
+absorption coefficients
+crystal field interactions

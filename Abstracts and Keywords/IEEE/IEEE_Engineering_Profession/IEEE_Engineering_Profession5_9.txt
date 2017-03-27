@@ -1,0 +1,6 @@
+In this paper, a problem of MIMO object identification expressed mathematically in terms of fuzzy relational equations is considered. The identification problem consists of extraction of an unknown relational matrix which can be translated as a set of fuzzy IF-THEN rules. In fuzzy relational calculus this type of the problem relates to inverse problem and requires resolution for the composite fuzzy relational equations. The resulting solution is linguistically interpreted as a set of possible rules bases. The approach proposed is illustrated by computer experiment and example of heart diseases diagnosis.
+
+fuzzy knowledge bases
+fuzzy relational equations
+fuzzy relational identification
+genetic algorithm

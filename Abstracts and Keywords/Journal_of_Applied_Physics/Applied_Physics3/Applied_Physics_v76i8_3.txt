@@ -1,0 +1,10 @@
+An experiment was performed in order to determine whether a firstorder or secondorder mechanism governs the reemission of deuterium molecules from graphite during D+ bombardment. The order of the release mechanism should be reflected in the dependence of the reemission on the incident flux density. No flux density dependence was observed, indicating a firstorder process, in agreement with a hydrogen transport model where the rate of molecule release is determined by a firstorder process involving H diffusion within graphite crystallites.
+
+GRAPHITE
+PHYSICAL RADIATION EFFECTS
+DEUTERIUM
+EMISSION
+FLUX DENSITY
+DEUTERIUM IONS
+HYDROGEN
+DIFFUSION

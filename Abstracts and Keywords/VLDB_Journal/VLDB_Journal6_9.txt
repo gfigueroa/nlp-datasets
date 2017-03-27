@@ -1,0 +1,7 @@
+Recent developments in database technology, such as deductive database systems, have given rise to the demand for new, cost-effective optimization techniques for join expressions. In this paper many different algorithms that compute approximate solutions for optimizing join orders are studied since traditional dynamic programming techniques are not appropriate for complex problems. Two possible solution spaces, the space of left-deep and bushy processing trees, are evaluated from a statistical point of view. The result is that the common limitation to left-deep processing trees is only advisable for certain join graph types. Basically, optimizers from three classes are analysed: heuristic, randomized and genetic algorithms. Each one is extensively scrutinized with respect to its working principle and its fitness for the desired application. It turns out that randomized and genetic algorithms are well suited for optimizing join expressions. They generate solutions of high quality within a reasonable running time. The benefits of heuristic optimizers, namely the short running time, are often outweighed by merely moderate optimization performance.
+
+Genetic algorithms
+Heuristic algorithms
+Join ordering
+Query optimization
+Randomized algorithms

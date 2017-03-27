@@ -1,0 +1,10 @@
+The defect structure of bulk and nano-indium-tin oxide was investigated by a combination of experimental techniques, including high-resolution synchrotron x-ray diffraction, extended x-ray absorption fine structure, and time-of-flight neutron diffraction on powder specimens. The structural results include atomic positions, cation distributions, and oxygen interstitial populations for oxidized and reduced materials. These structural parameters were correlated with theoretical calculations and in situ electrical conductivity and thermopower measurements as well as existing defect models, with special reference to the model of Frank and Köstlin [G. Frank and H. Köstlin, Appl. Phys. A 27, 197 (1982)].
+
+indium compounds
+X-ray diffraction
+neutron diffraction
+nanoparticles
+interstitials
+electrical conductivity
+thermoelectric power
+EXAFS

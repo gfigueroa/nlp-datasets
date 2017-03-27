@@ -1,0 +1,18 @@
+The solid-phase crystallization of an amorphous silicon film to polycrystalline silicon by a low-temperature (}600
+°C) furnace anneal has been investigated in a suspended cantilever structure without underlying silicon oxide by transmission electron microscopy and Raman spectroscopy. The grain size of polysilicon increases up to <3.0 ¼m and the density of intragranular defects decreases one order of magnitude in the samples without underlying oxide, compared with those with underlying oxide. The main reasons for the high quality of the suspended structures are thought to be due to the lower stress in the films during crystallization and a reduced grain nucleation rate. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+semiconductor thin films
+crystallisation
+annealing
+transmission electron microscopy
+Raman spectra
+grain size
+internal stresses
+thin film transistors
+amorphous semiconductors
+twinning
+dislocations
+nucleation
+grain growth

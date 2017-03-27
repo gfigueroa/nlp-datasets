@@ -1,0 +1,12 @@
+Impuritygas effects on the electrical properties of PbIn alloy Josephson junctions fabricated by rf plasma oxidation are discussed in this paper. The impurity gas in rf O2 discharge originates from decomposition of the organic photoresist used in the liftoff process for counterelectrodes. Optical emission and quadrupole mass spectroscopies show that CO2 and H2O are the main impurities. These impurity effects are precisely analyzed using photoresistfree wafers with counterelectrodes patterned by chemical etching. Junctions formed on photoresistfree wafers and conventional photoresistcoated wafers are compared, and two types of impurity effects having different effective ranges are identified. Based on the effectiverange length measurement, one impurity effect appears to be related to the atmospheric impurity concentration and the other to backscattering of sputtered organic substances onto the barrier oxide surface.
+
+JOSEPHSON JUNCTIONS
+IMPURITIES
+ELECTRICAL PROPERTIES
+OXIDATION
+LEAD ALLOYS
+INDIUM ALLOYS
+EMISSION SPECTROSCOPY
+ETCHING
+FABRICATION
+BACKSCATTERING

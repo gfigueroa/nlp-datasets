@@ -1,0 +1,8 @@
+The electricity supply industry, unlike other industries, is hard pressed by the very nature of electricity. The inability to be stored economically and the requirement for instant response to consumption demands are the two major business challenges facing the electricity supply industry's service providers. The industry has, therefore, to invest in assets with capacities that may be called upon, in total or in part, only for limited periods of time during any given year. For these reasons and for other potential cost saving measures the need for consumers' continuous, Â¿on-lineÂ¿, interaction arises. This paper presents two mathematical equations to continuously compute the capacity and energy charges with built in incentives and penalties to the consumers. The proposed equations lend themselves, to a large extent, to replace currently applied yearly averaged incentives and penalties. The application of the proposed equations would, in essence, avoid the current potential adverse impact on the economics of the electricity industry service providers, that are typically associated with the unaccounted for fluctuations of the consumption. The primary objective of the proposed equations is to entice consumers to interactively manage and/or customize, on their own, their consumption patterns to their benefits and that of the service providers.
+
+Energy management
+energy measurement
+load management
+power measurement
+power system economics
+tariffs

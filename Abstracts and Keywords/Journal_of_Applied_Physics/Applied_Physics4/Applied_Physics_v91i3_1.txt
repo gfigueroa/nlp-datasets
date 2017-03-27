@@ -1,0 +1,7 @@
+An anomalously high density of positive trapped charges was observed in thin (4.3-nm thickness) nitrided gate oxides subjected to high-field impulse stressing. Additionally, the transient stress-induced leakage current (AC-SILC) was found to be larger than the steady-state SILC (DC-SILC) in these impulse-stressed thin oxides, contrary to observations in dc-stressed thin oxides. The large AC-SILC was found to be related to the high density of positive trapped holes in the oxide. The hot-hole generation occurs via a regenerative feedback mechanism, with minimal charge relaxation due to the short duration of the impulse stress. This gives rise to an extremely high density of oxide trapped holes that were not observed under dc stress conditions. The trapped holes can be easily annealed electrically at room temperature and the annihilation of the positive oxide trapped charges is accompanied by a reduction in the AC-SILC and a higher number of interface states being created. The trapped holes can either be uniformly or nonuniformly distributed, depending on the polarity of the applied stressing impulse in relation to the substrate doping type. A better understanding of thin oxide degradation under impulse stressing can help in the choice of a suitable write/erase pulse amplitude and duration for use in endurance testing of nonvolatile semiconductor memories to ensure long-term reliable operation. © 2002 American Institute of Physics.
+
+MIS structures
+hole traps
+leakage currents
+hot carriers
+interface states

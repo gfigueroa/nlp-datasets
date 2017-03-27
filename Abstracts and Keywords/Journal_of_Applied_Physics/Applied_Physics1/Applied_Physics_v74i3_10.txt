@@ -1,0 +1,14 @@
+The optical properties of low pressure metal organic vapor deposition grown GaAs/AlxGa1xAs (x=0.5) single quantum well structures (SQW) with grownin dislocations (GD) were studied by low temperature cathodoluminescence (CL) and photoluminescence (PL). High luminescence efficiency around the GD was observed and attributed to impurity decoration. CL spectra show a region surrounding the GD that consists of Si impurities and native defects in the SQW and barrier layers. The diameter of this region was found to be in the order of 1 ¼m using spectrally resolved CL micrographs.
+
+GALLIUM ARSENIDES
+ALUMINIUM ARSENIDES
+TERNARY ALLOYS
+QUANTUM WELLS
+CATHODOLUMINESCENCE
+PHOTOLUMINESCENCE
+DISLOCATIONS
+CVD
+QUANTUM EFFICIENCY
+DOPED MATERIALS
+SILICON ADDITIONS
+DEFECTS

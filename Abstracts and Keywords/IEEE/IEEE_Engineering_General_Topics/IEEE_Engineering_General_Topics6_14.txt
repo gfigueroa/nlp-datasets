@@ -1,0 +1,7 @@
+The paper describes a system for slicing concurrent statecharts. Slicing seeks to remove those parts of a statechart that are not relevant for a given criteria. The technique can be applied to support model-based analysis, testing, debugging and maintenance of embedded systems and reactive systems. An And-Or dependence graph is used to represent the control and data dependencies of statecharts. The slicing algorithm determines the slice by traversing the dependence graph from a point that is specified by the slicing criteria. We deal with concurrent statecharts by taking into account of interference dependencies including parallel control dependence, interference control dependence and interference data dependence.
+
+Backward Slicing
+Concurrent Statechart Slicing
+Interference Dependencies
+Model-based Slicing
+Slicing Reactive Systems

@@ -1,0 +1,13 @@
+GaInAs/InP quantum wells were grown by using atmospheric pressure organometallic vaporphase epitaxy with and without interruptions at the interfaces. The growth schedule has a major effect on the optical properties of the quantum wells. For approximately 10Åthick wells, the groundstate energy as determined by 10K photoluminescence decreases in the following order: continuous growth, an interruption at the second interface, and interruptions at both interfaces. It is demonstrated that As is effective in substituting for P atoms on the InP surface during AsH3 purge. Varying the AsH3 flow rate during growth of the GaInAs well layer significantly influences the emission energies for samples grown continuously or with an interruption at the second interface. However, the emission energies of quantum wells grown with interruptions at both interfaces are found to be independent of the AsH3 flow rate, indicating insignificant substitution of As for P in the InP barriers. An interfacial layer of InAsxP1x may play a dominant role in determining the emission energies for quantum wells thinner than 50 Å.
+
+GALLIUM ARSENIDES
+INDIUM ARSENIDES
+INDIUM PHOSPHIDES
+QUANTUM WELL STRUCTURES
+VAPOR PHASE EPITAXY
+MEDIUM PRESSURE
+OPTICAL PROPERTIES
+GROUND STATES
+PHOTOLUMINESCENCE
+ULTRALOW TEMPERATURE
+INTERFACES

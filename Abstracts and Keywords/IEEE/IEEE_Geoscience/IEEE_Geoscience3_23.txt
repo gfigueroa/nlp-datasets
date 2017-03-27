@@ -1,0 +1,7 @@
+Investments in new generation, specially in renewables, grew up in several countries contributing to change the generation mix. Among these new technologies, wind power became an important source in the sense that the share in installed capacity is large in countries as Germany, Denmark, Spain and Portugal namely considering the prices paid to the generated power. These subsidizing schemes are in several cases responsible for a large amount of the final end user costs meaning that in the future new ways of integrating this power in the grid have to be adopted. This means that for investors it is important to evaluate from a economic point of view the interest of new wind power projects admitting changes in current tariff schemes. For regulatory agencies it is also important to investigate the impact of changes in current schemes. This paper details an approach to characterize this type of investments in terms of the Net Present Value, NPV, and the Internal Return Rate, IRR, so that more sounded investment and policy decisions are adopted.
+
+Wind Power
+electricity markets
+generation expansion
+long run strategies
+uncertainties

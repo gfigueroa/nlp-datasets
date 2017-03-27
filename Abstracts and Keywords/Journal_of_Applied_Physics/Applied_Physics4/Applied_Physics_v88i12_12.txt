@@ -1,0 +1,13 @@
+He+-ion irradiation was applied for electrical isolation of p-In0.49Ga0.51P in InGaP/GaAs/InGaAs structures. Sheet resistance of approximately 1×106 ©/¡ was achieved with doses above 1×1013 cm2 at 100 keV. Thermal stability of isolation was maintained for annealing temperatures up to 500	°C. Photoluminescence results show that InGaP transparency to InGaAs/GaAs quantum-well emission is closely related to sheet resistance changes in the irradiated structure. © 2000 American Institute of Physics. 
+
+indium compounds
+gallium compounds
+gallium arsenide
+III-V semiconductors
+semiconductor quantum wells
+transparency
+thermal stability
+annealing
+ion beam effects
+photoluminescence
+isolation technology

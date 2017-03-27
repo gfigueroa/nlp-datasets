@@ -1,0 +1,9 @@
+Objective: Attrition from treatment in the short and long term for major depressive disorder (MDD) is clearly an adverse outcome. To assist in tailoring the delivery of interventions to specific patients to reduce attrition, this study reports the incidence, timing, and predictors of attrition from outpatient treatment in public mental health clinics. Methods: Outpatients with psychotic and nonpsychotic MDD receiving measurement-based care in the Texas Medication Algorithm Project (N=179) were evaluated to determine timing and rates of attrition as well as baseline sociodemographic, clinical, and attitu-dinal predictors of attrition. Results: Overall, 23% (42/179) of the patients left treatment by 6 months, and 47% (84/179) left by 12 months. Specific beliefs about the impact of medication, such as its perceived harmfulness, predicted attrition at both 6 and 12 months. Younger age (<em>P</em>=0.0004) and fewer side effects at baseline (<em>P</em>=0.0376) were associated with attrition at 6 months. Younger age (<em>P</em>=0.0013), better perceived physical functioning (<em>P</em>=0.0007), and more negative attitudes about psychiatric medications at baseline (<em>P</em>=0.0075) were associated with attrition at 12 months. Conclusions: Efforts to elicit attitudes about medications and tailoring educational and other retention interventions for patients with negative beliefs about antidepressants both when initiating a new medication and throughout treatment may reduce attrition. Particular focus on younger patients and those requiring frequent visits may be helpful. <em>(Journal of Psychiatric Practice.</em> 2009;15:113-124). 
+
+adherence
+compliance
+major depressive disorder
+antidepressant medication
+beliefs
+attitudes
+attrition

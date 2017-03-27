@@ -1,0 +1,10 @@
+We examined mechanisms underlying Si nanocrystal formation in Si-rich SiO2 using a combination of quantum mechanical and Monte Carlo (MC) simulations. We find that this process is mainly driven by suboxide penalty arising from incomplete O coordination, with a minor contribution of strain, and it is primarily controlled by O diffusion rather than excess Si diffusion and agglomeration. The overall behavior of Si cluster growth from our MC simulations based on these fundamental findings agrees well with experiments.
+
+crystal growth
+diffusion
+elemental semiconductors
+Monte Carlo methods
+nanostructured materials
+nanotechnology
+semiconductor technology
+silicon

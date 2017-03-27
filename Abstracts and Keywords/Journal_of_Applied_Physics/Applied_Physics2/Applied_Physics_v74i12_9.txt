@@ -1,0 +1,15 @@
+The ablated flux characteristics of PbZr0.52Ti0.48O3 (PZT), La0.5Sr0.5CoO3 (LSC), and MgO ceramic targets have been studied as functions of the ablation time, the ablation energy, and the chamber gas pressure. The time dependence of the ablation rate shows an initial exponential decay, reaching a steadystate value at longer times. The energy dependence of the ablation rate (in vacuum) reveals a distinct ablation threshold energy for MgO ablation, while for PZT and LSC no ablation threshold is evident. The differences in the ablation characteristics of these materials are explained mainly by differences in their melting points, thermal conductivities, and absorption coefficients. Upon adding O2 gas, a visual change in the color and shape of the PZT ablation plume is evident. The color change indicates a gas phase reaction of the ablated species with the O2 gas, while the shape change implies a change in the angular distribution of the ablated species. We have measured a narrowing of the ablated flux distribution from a PZT target as O2 is added, from a cos40	¸ distribution in a low pressure, up to a cos260	¸ distribution in an O2 pressure of 300 mTorr. This narrowing, or focusing, of the ablation plume is observed with high laser energies and high pressures of O2 or noble gases. At low laser power, the deposition rate decreases and the plume broadens as the gas pressure is increased. The plume narrowing and plume broadening regimes are both controlled by gas scattering effects. The angular distribution of depositing species, and the ratio of deposition flux to O2 flux, are very different in each of these regimes.
+
+CERAMICS
+ABLATION
+LASER RADIATION
+PZT
+MAGNESIUM OXIDES
+LANTHANUM OXIDES
+COBALT OXIDES
+STRONTIUM OXIDES
+QUATERNARY COMPOUNDS
+PARTICLE FLUX
+TIME DEPENDENCE
+ANGULAR DISTRIBUTION
+DEPOSITION

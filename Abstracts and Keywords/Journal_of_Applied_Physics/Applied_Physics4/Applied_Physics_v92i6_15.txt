@@ -1,0 +1,10 @@
+Temperature dependence of the complex effective piezoelectric coefficient d31 for a ferroelectric 0-3 composite of small ceramic volume fraction has been studied. Theoretical predictions are based on our previously derived explicit expression of d31 for a dilute dispersion of spherical particles in a continuous matrix [C. K. Wong, Y. M. Poon, and F. G. Shin, Ferroelectrics 264, 39 (2001); J. Appl. Phys. 90, 4690 (2001)]. Comparison is made with the well-known Furukawas model and their experimental measurements on a lead zirconate titanate (PZT)/epoxy composite with 13 vol
+% PZT [T. Furukawa, K. Fujino, and E. Fukada, Jpn. J. Appl. Phys. 15, 2119 (1976)], covering a wide temperature range from 140 to +140
+°C. The real part and the imaginary part of the effective piezoelectric coefficient for the composite are investigated separately. Predictions for the real part of d31 agree well with the observed values for temperatures larger than 60
+°C, but are larger than the observed values for lower temperatures, while predictions for the imaginary part of d31 give fairly good agreement with the experimental data throughout the temperature range. © 2002 American Institute of Physics. 
+
+lead compounds
+polymers
+composite materials
+piezoelectric materials
+ferroelectric materials

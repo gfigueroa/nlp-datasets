@@ -1,0 +1,5 @@
+In this paper, we investigate the impact of packaging on the behavior of MEMS convective accelerometers. The objective is to identify the influence of package dimensions on system performances to develop in a close future a compact model that integrates those influences. Experiments are based on FEM simulations and results are discussed with respect to the package height, the package shape and the depth of the bottom cavity.
+
+MEMS
+convective accelerometer
+package influence

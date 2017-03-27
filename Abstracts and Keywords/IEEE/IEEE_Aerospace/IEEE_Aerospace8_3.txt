@@ -1,0 +1,6 @@
+A new methodology for measuring the cable characteristic impedance (Zo) is presented. The approach employs a least square fit to extract accurate and repeatable Zo values from the TDR measurements. The RLGC circuit modeling explores various cable losses and shows that the proposed approach agrees with the transmission line theory. A frequency domain plot of Zo measurements correlates with the new methodology. The proposed methodology equips a test engineer with a quantifiable and efficient way to evaluate the cable performance as a function of environmental and physical changes.
+
+characteristic impedance
+coaxial cable
+telegrapher's equations
+time domain reflectometry

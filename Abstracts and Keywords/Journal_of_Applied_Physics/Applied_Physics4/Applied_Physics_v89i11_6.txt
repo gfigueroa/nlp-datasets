@@ -1,0 +1,11 @@
+This work demonstrates the correlation between the microstructure of nanocrystalline SnO2 thin films and their electrical transport properties and sensitivities to reducing gases. SnO2 thin films were deposited on the (012) surface of ±-Al2O3 (sapphire) using electron beam evaporation of a pure SnO2 ceramic source, followed by postdeposition annealing in synthetic air. SnO2 thin films with randomly oriented nanosized grains were obtained by annealing an amorphous SnO film deposited at room temperature. Films with nanosized SnO2 laminates were obtained by annealing epitaxial ±-SnO films deposited at 600
+°C. The laminates are oriented with their (101) planes parallel to the substrate surface and have a high density of coherent twin boundaries. Hall measurements indicate that the electron concentration of the film with laminate grains is much lower than for the film with random grains. It is proposed that the high density twin boundaries inside the laminates trap conducting electrons and significantly reduce the electron concentration. As a result, the sensitivity to reducing gases of the laminar film is higher than that of the corresponding film with randomly oriented SnO2 grains. It was also found that the grain size has strong effects on the sensitivity of SnO2 films. © 2001 American Institute of Physics. 
+
+tin compounds
+semiconductor thin films
+nanostructured materials
+crystal microstructure
+twin boundaries
+electrical resistivity
+gas sensors
+electron density

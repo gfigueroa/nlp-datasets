@@ -1,0 +1,11 @@
+We present a numerically stable computational method to calculate multiple subband states in quantum wells based on the variational minimization of the total Hamiltonian involving the nonlinear interaction terms such as the Hartree and exchange-correlation interactions. Application of a nonlinear multidimensional minimization procedure to the total Hamiltonian enables us to realize multiple state computations of improved convergence. As an example of the multiple state calculation, subband states of interacting electrons and holes in single quantum wells are computed. We demonstrate that the dependence of the overlap integral of electron and hole wave functions on the electronhole density is significantly modified by the exchange-correlation interaction. Furthermore, we show the effects of the nonlinear interactions on the carrier population and chemical potential in multiple subbands at various temperatures and carrier concentrations. This method is expected to be a convenient tool for investigating the high-density behavior of carriers in semiconductor low-dimensional structures. © 2003 American Institute of Physics. 
+
+semiconductor quantum wells
+solid-state plasma
+SCF calculations
+exchange interactions (electron)
+electron correlations
+variational techniques
+minimisation
+carrier density
+chemical potential

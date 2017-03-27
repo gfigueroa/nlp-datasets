@@ -1,0 +1,14 @@
+The electroreflectance (ER) of CuInS2 thin film solar cells prepared by sequential processing is investigated as a function of the process parameters Cu/In ratio and sulfurization temperature in order to get a better understanding of the growth mechanisms. A detailed interpretation of the ER spectra is presented. The disappearance of the ER signal under indium-rich conditions is explained by a superficial CuIn5S8 secondary phase. An additional structure in ER spectra below the band gap energy is attributed to electroabsorption and is explained by the transition between copper vacancies and sulfur vacancies in CuInS2 as identified by photoluminescence. The strong dependence of this electroabsorption structure on the process parameters and the occurrence of the superficial CuIn5S8 secondary phase is explained by phase transitions in the equilibrium phase diagrams of the metal sulfides formed during sulfurization. © 2001 American Institute of Physics.
+
+copper compounds
+indium compounds
+ternary semiconductors
+electroreflectance
+solar cells
+phase diagrams
+electroabsorption
+energy gap
+vacancies (crystal)
+defect states
+semiconductor thin films
+photoluminescence

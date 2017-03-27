@@ -1,0 +1,6 @@
+Results of analytic theory, numerical simulation, and experimental studies on a Ceronkov generator with coaxial slow wave structure are presented. The dispersion curves and the field patterns of the axial modes are given in the analytic theory, showing the operation mode of quasi-TEM mode. The numerical simulation results indicate that the device is featured by the resonance characteristics, the microwave frequency spectrum illustrates high purity, the dominant frequency remains fairly constant over a wide range of diode voltage, and the optimized efficiency of more than 37% is obtained. In preliminary experiment, a microwave pulse with frequency of 7.7GHz, power of 1.3GW, and efficiency of 28% was obtained.
+
+Cherenkov radiation
+dispersion relations
+microwave generation
+slow wave structures

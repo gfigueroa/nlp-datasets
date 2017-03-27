@@ -1,0 +1,9 @@
+Ultrafast transient reflecting grating (TRG) spectroscopy was applied to investigate the influence of various defect states on ultrafast carrier dynamics of up to 3 ps duration in an ion-implanted silicon surface region. The TRG spectra revealed the energy-state distribution of two kinds of defect states, and it was observed that photoexcited carriers were trapped in each state depending on annealing time. It was proposed that TRG spectroscopy can be used as an analytical method for characterizing defects in the surface region of semicondcutors. © 2002 American Institute of Physics. 
+
+silicon
+elemental semiconductors
+surface states
+ion implantation
+defect states
+annealing
+time resolved spectra

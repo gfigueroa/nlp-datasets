@@ -1,0 +1,10 @@
+We have performed magnetization (M) measurements on the S=1 quasi-one-dimensional Heisenberg antiferromagnet, Ni(C5H14N2)2N3(PF6) (NDMAP) with a vibrating sample magnetometer in a static field (H). In the temperature (T) dependence of the susceptibility (M/H), we observed that a transition from the gapped phase to a gapless one occurs at a finite H. On increasing H further, we observed a bending in the M/HT curve and the M/H takes almost constant value below the bending temperature (TB). Since TB corresponds to the critical temperature determined from heat capacity measurements, we identify the T independent susceptibility to the perpendicular susceptibility of an anisotropic antiferromagnet. We also observed a change in the MH curves of NDMAP at finite H. The value of H where M changes corresponds to the phase boundary between the field induced long-range ordered and paramagnetic phases determined from the heat capacity measurement. © 2001 American Institute of Physics. 
+
+nickel compounds
+organic compounds
+magnetisation
+Heisenberg model
+antiferromagnetic materials
+magnetic susceptibility
+specific heat
+magnetic transitions

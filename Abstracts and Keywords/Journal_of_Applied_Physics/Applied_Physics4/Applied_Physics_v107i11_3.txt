@@ -1,0 +1,9 @@
+Quantum paraelectric SrTiO3 has resulted in many investigations because of the anomalous properties. Here, using the conventional solid-state reaction method, we fabricated polycrystalline SrTiO3 ceramics with pure cubic perovskite structure. A dielectric loss peak is observed at around 450 K and 100 Hz and it shifts to higher temperature with increasing frequency. The typical high-temperature dielectric relaxation process is confirmed to be related to the oxygen vacancies (OVs) inside ceramics. More interestingly, a ColeCole fitting to loss peaks reveals a weaker correlation among OVs for such dielectric materials compared with that of ferroelectrics.
+
+ceramics
+crystal structure
+dielectric losses
+dielectric materials
+dielectric relaxation
+strontium compounds
+vacancies (crystal)

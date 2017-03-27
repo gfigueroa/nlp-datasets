@@ -1,0 +1,5 @@
+Radiometry for the next generation of high-efficiency, high-power industrial lasers requires thermal management at optical power levels exceeding 10 kW. Laser damage and thermal transport present fundamental challenges for laser radiometry in support of common manufacturing processes, such as welding, cutting, ablation, or vaporization. To address this growing need for radiometry at extremely high power densities, we demonstrate multiwalled carbon nanotube (MWCNT) coatings with damage thresholds exceeding 15	000W/cm2 and absorption efficiencies over 90% at 1.06¼m. This result demonstrates specific design advantages not possible with other contemporary high-power laser coatings. Furthermore, the results demonstrate a performance difference between MWCNTs and single-walled carbon nanotube coatings, which is attributed to the lower net thermal resistance of the MWCNT coatings. We explore the behavior of carbon nanotubes at two laser wavelengths (1.06 and 10.6¼m) and also evaluate the optical-absorption efficiency and bulk properties of the coatings.
+
+carbon nanotubes
+laser beam machining
+radiometry

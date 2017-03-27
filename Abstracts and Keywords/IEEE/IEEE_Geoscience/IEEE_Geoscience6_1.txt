@@ -1,0 +1,6 @@
+In this paper, we evaluate three endmember extraction algorithms for use in hyperspectral imagery unmixing: automatic target generation procedure (ATGP), independent component analysis endmember extraction algorithm (ICA-EEA), and vertex component analysis (VCA). We evaluate each algorithm's ability to find known pure pixels in a scene of simulated data. Several variations of simulated data are used to thoroughly examine the unmixing limits of each algorithm.
+
+ATGP
+Hyperspectral unmixing
+ICA-EEA
+VCA

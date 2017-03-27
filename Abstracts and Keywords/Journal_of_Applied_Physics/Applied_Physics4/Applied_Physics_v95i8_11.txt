@@ -1,0 +1,17 @@
+A Mössbauer spectrometry and magnetic study have been performed on FeCoSiAlGaPCB amorphous alloys in order to get information about the variations in the atomic short range order with the substitution of Fe by Co. The decrease of the Curie temperature with decreasing Fe content was analyzed in the framework of the molecular field theory. The average hyperfine magnetic field at 77 K decreases linearly with increasing Co content as does the average magnetic moment per transition metal atom and a linear dependence between both quantities is found. The standard deviation of the hyperfine magnetic field distribution at 77 K does not change with Fe substitution and the average isomer shift increases linearly with the Co content of the alloy. The hyperfine magnetic field distributions show a bimodal character that evidences the presence of two types of Fe environments in the as-cast alloys. © 2004 American Institute of Physics. 	 
+
+iron alloys
+cobalt alloys
+silicon alloys
+aluminium alloys
+gallium alloys
+phosphorus alloys
+boron alloys
+Mossbauer effect
+Curie temperature
+magnetic moments
+hyperfine interactions
+amorphous state
+ferromagnetic materials
+metallic glasses
+amorphous magnetic materials

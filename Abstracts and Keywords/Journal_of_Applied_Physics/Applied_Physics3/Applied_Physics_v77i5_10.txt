@@ -1,0 +1,12 @@
+Results of the oxidation of polycrystalline silver films with hyperthermal (812 km/s) oxygen atoms are presented. The oxidation process is monitored using two techniques. The mass gain of a silver film is measured with a quartz crystal microbalance (QCM) and the resistance of a thin strip of the polycrystalline film is monitored during the oxidation process. These silver film monitors are to be used in atomic oxygen flux measurements. We have found the QCM to be the more reliable monitor of hyperthermal atomic oxygen for reasons discussed herein. Mass uptake measurements of films with a known silver mass loading in addition to xray diffraction analysis of the resulting oxides have identified the oxide as Ag2O2. The reaction probability of 8 km/s oxygen atoms with the silver films is shown to be greater than 0.5. No oxygen atom velocity dependence was observed for the oxidation rate over the range 812 km/s, nor was a temperature dependence observed between 0 and 85	°C. Oxidation is shown to be diffusion limited after an oxide layer of <250 Å thick has formed. © 1995 American Institute of Physics.
+
+SILVER
+THIN FILMS
+POLYCRYSTALS
+OXIDATION
+ELECTRIC CONDUCTIVITY
+MASS DIFFERENCE
+MICROBALANCES
+XRD
+TEMPERATURE DEPENDENCE
+TEMPERATURE RANGE 273400 K

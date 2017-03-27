@@ -1,0 +1,6 @@
+Physics-based animations executing on 3D game engines enabled with physics middleware libraries and coprocessors can be used to explore the suitability of potential robot behaviors in working environments and robot configurations that are ill-defined or difficult and time-consuming to model with traditional quantitative tools. We use an inexpensive game development engine and PC hardware to develop physics-based animations of potential biomimetic subterranean robot burrowing behaviors. Qualitative assessment of energy efficiency, burrowing time, and digging capabilities of several biomimetic robot designs are validated with data from physical prototypes operated in a range of soil types and models of soil using colored particles. Results suggest this methodology is applicable to rapid screening of potential robot designs intended to operate in a variety of domains.
+
+Biomimetics
+game engines
+modeling and simulation
+subterranean robotics

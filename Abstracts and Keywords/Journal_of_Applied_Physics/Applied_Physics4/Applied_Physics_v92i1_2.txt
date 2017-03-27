@@ -1,0 +1,8 @@
+The nonequilibrium excited-state distribution of mercury atoms up to the ionization limit in high-pressure discharges is deduced through comparison of the actual level-population densities with those calculated from the Saha equation at the plasma-electron temperature. Emission data obtained from two ac (50 Hz) mercury discharges at 2 and 5 bar are used to deduce the absolute excited-state population densities and the electron temperature. It is found that at the maximum emission phase (5 ms), the excited states deviate from the Saha equilibrium, the levels are overpopulated, the overpopulation decreases with the level-excitation energy, the deviation is larger for the higher-pressure discharge, and the two discharges are closer to the equilibrium at the minimum emission phase (0.5 ms). Possible causes of the observed deviations from the Saha equilibrium are suggested. The plasma temperature and densities are also found assuming equilibrium conditions and compared with the results obtained initially. © 2002 American Institute of Physics. 
+
+mercury (metal)
+excited states
+plasma density
+plasma temperature
+discharges (electric)
+light sources

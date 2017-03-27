@@ -1,0 +1,13 @@
+The transient electroluminescence behavior of a Au/porous silicon/silicon/aluminum structure is investigated by a doubly injected short voltage pulse method. It is found that the electroluminescence response of porous silicon diode is very similar to that of an ordinary pn junction lightemitting diode. A delay time and a rise time at the on side and a fall time at the off side are observed. The mechanism of electroluminescence is explained as the carrier injection through the Au/porous silicon Schottky barrier and the porous silicon/pSi heterojunction into the corrugated Si nanostructures, where the radiative recombination of carriers occurs. From the fall edge of electroluminescence transient response, the recombination lifetime of the injected carriers is found to be in the order of 30 ns. The major time constant of the diode structure is the delay time which ranges from 107 to 106 s and is determined by the quality of the Au/porous silicon contact.
+
+SILICON
+POROSITY
+SCHOTTKY BARRIER DIODES
+ELECTROLUMINESCENCE
+GOLD
+ALUMINIUM
+CHARGE INJECTION DEVICES
+NANOSTRUCTURES
+TRANSIENTS
+MINORITY CARRIERS
+RECOMBINATION

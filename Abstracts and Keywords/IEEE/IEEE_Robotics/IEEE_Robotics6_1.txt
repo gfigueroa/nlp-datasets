@@ -1,0 +1,6 @@
+Mathematical morphology is the emerging theory and method in digital image processing now. Based on the basic theory and algorithm of mathematical morphology, self-adaptive multi-scale weight morphological operator was advanced and used in the defect identification of wood products X-ray computed tomography image. As can be seen in the experimental analysis, compared with the traditional edge detection algorithm, self-adaptive multi-scale weight morphological operator had the characteristics of a high degree of detection and identification accuracy in wood products edge detection. Wood Products non-destructive testing real-time imaging hardware and wood products real-time imaging image processing software system were built in the study. And self-adaptive multi-scale weight morphological operator was used to edge detection of wood products X-ray image. The achievements in the study realized the real-time online detection of wood products X-ray computed tomography image, and improved the detection accuracy of defects in the image. They have a wide range of applications in the quality identification of wood board and defects detection in the logs.
+
+Image processing
+Mathematical morphology
+Wood products detection
+self-adaptive multi-scale weight morphological operator

@@ -1,0 +1,12 @@
+Uniaxial compression experiments on aluminum honeycomb are performed to investigate localization of deformation in cellular materials. Physical experiments, combined with numerical simulation of the honeycomb microstructure, feature the indepth analysis of the nucleation and propagation of plastic collapse bands. The onset of inelasticity is determined by the von Kármán collapse load for the honeycomb microstructure. The plastic collapse mechanism yields localization of deformation in the form of collapse bands. At the same time, microstructural imperfections are generated in the vicinity of those bands. As a result, three microstructural configurations characterize the honeycomb specimen: Uncrushed material with deformation-induced imperfections, crushed material containing folded cell walls, and an active interface between the uncrushed and crushed regions. Globally, the active interface emerges as a flat propagating crushing front that travels down the specimen. It appears that the behavior of the interface governs the macroscopic response of the honeycomb. Consequently, a one-dimensional interface-based constitutive law is developed along with an additional field equation that monitors the imperfection intensity. The results provide a basis for the mechanical modeling of materials that evolve statistically inhomogeneous microstructures during deformation. © 2003 American Institute of Physics. 
+
+plastic deformation
+nucleation
+compressibility
+aluminium alloys
+structural engineering
+crystal microstructure
+buckling
+crushing
+densification
+softening

@@ -1,0 +1,8 @@
+The elastic interaction between an edge dislocation and a macrocrack with a microcrack has been investigated by means of the Muskhelishvili potential method. The stress and displacement fields were obtained. From the stress field, we derived the stress intensity factor at each crack tip and the image force on the dislocation. The effects of the distance between two cracks on the crack shielding and of the image force on the edge dislocation were examined. The effects of the microcrack length on the shielding of the macrocrack and of the image force of the dislocation were also considered. The dislocations in the microcrack play an important role in fracture. Two conditions, an edge dislocation emitting from the microcrack and originating from elsewhere, are discussed. We compare the mechanical behavior between edge and screw dislocations near the macrocrack with the microcrack. Newtons third law is satisfied for this system. Two special cases are discussed.
+
+EDGE DISLOCATIONS
+CRACKS
+INTERACTIONS
+STRESSES
+IMAGE FORCE
+ELASTICITY

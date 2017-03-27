@@ -1,0 +1,7 @@
+The influenza-A virus is a rapidly mutating virus. Detecting the variability of the influenza-A virus is a key point in understanding the changeability in the genetic information of this virus and can help in designing or rebuilding the annual vaccine. In this paper, we propose a novel distance distribution paradigm to detect influenza-virus variability in high dimensional spaces. We conduct an experiment and the results show the robustness of the proposed paradigm in detecting this variability.
+
+Distance Distribution
+Distribution of Distances
+High Dimensional Space
+Influenza-A virus Variability
+Metric Space

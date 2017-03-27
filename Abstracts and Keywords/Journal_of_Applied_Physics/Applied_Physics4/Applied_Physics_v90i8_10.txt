@@ -1,0 +1,12 @@
+We simulated capacitancevoltage (CV) curves of Si3N4/GaAs, Si3N4/Si and also Si3N4/Semi (virtual semiconductor) metalinsulatorsemiconductor (MIS) capacitors and compared them with experimental CV curves of a Si3N4/Si/GaAs structure. The experimental CV curves of the Si3N4/Si/GaAs MIS capacitors are not in agreement with the simulated CV curves of the Si3N4/GaAs and Si3N4/Si MIS capacitors, but are in agreement with those of the Si3N4/Semi MIS capacitors, where Semi is a virtual semiconductor with ni=7×1011
+cm3 or EG=0.88
+eV. This indicates that the Si3N4/Si/GaAs structure is somewhat like a narrow band gap material with EG=0.88
+eV. The comparison yields strong support for our theoretical energy band of the Si3N4/Si/GaAs MIS structure based on quantum well confinement. A depletion mode MIS field-effect-transistor (MISFET) is successfully fabricated with transconductance of 85 mS/mm, and an inversion mode MISFET is fabricated with transconductance of 0.05 mS/mm. The small transconductance for the inversion mode MISFET is ascribed to strong scattering due to confinement of electrons in the Si quantum well. © 2001 American Institute of Physics. 
+
+silicon compounds
+silicon
+elemental semiconductors
+gallium arsenide
+III-V semiconductors
+MIS capacitors
+MISFET

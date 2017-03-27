@@ -1,0 +1,10 @@
+Nanoscale desorption of the Si(100)2×1 hydrogen terminated surface has been achieved using a scanning tunneling microscope (STM) in an ultrahigh vacuum chamber. We have studied the patterned linewidth as a function of the sample bias and the dose, either with the feedback servo loop on or off. We propose a simple analytical model to explain the variation of the linewidth versus the electron dose. Finally, we show that the best resolution is obtained for pulsed voltages with the STM feedback servo loop on. © 1999 American Institute of Physics.
+
+silicon
+elemental semiconductors
+surface structure
+scanning tunnelling microscopy
+electron stimulated desorption
+nanotechnology
+electron beam lithography
+hydrogen

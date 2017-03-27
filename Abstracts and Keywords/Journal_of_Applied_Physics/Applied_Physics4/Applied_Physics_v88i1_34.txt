@@ -1,0 +1,7 @@
+New materials for nonlinear optical (NLO) applications are still of great interest. The monoclinic BiB3O6 (BIBO) shows exceptionally large NLO coefficients. In this article we will present the linear optical properties in the wavelength range between 350 and 2400 nm, the phase matching conditions calculated for second harmonic generation, and optical parametric oscillation. Angular bandwidth data are also given. The wide tuning range of phase matched directions together with the monoclinic symmetry allow a broad variety of applications. The laser damage threshold is comparable to high quality lithium triborate. © 2000 American Institute of Physics. 
+
+bismuth compounds
+refractive index
+visible spectra
+infrared spectra
+optical harmonic generation

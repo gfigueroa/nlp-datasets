@@ -1,0 +1,5 @@
+Nanotechnology is an emerging area with very useful applications in medicine. Study of flagellar propulsion in microorganisms gives us an idea of how to design swimming nanorobots. Resistive force theory gives good results for small amplitudes of bending waves. Resistive force theory based modeling of swimming nanorobots with small amplitude and an inert head is done. The nature of change of efficiency and velocity fraction with other non-dimensional parameters are simulated and analyzed. The expression for the total thrust force on the moving robot is also derived and discussed.
+
+flagellar motion
+nano swimmers
+nanorobots

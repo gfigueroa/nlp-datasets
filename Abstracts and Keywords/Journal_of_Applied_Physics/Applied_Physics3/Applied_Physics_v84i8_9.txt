@@ -1,0 +1,6 @@
+The behavior of torque curves of amorphous ribbons, in which their amplitude decreases with the applied magnetic field has been obtained in some samples of Vitrovac 6150. An explanation is given for this behavior based on the analysis of the superposition of orthogonal uniaxial magnetic anisotropies caused by the oriented surface roughness of the amorphous ribbons. Based on this explanation, important information on the magnetic anisotropies of amorphous magnetic ribbons is obtained and the values of the involved anisotropy constants are calculated. © 1998 American Institute of Physics. 
+
+amorphous magnetic materials
+magnetic anisotropy
+surface topography
+magnetisation

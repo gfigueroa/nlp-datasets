@@ -1,0 +1,5 @@
+This paper describes the realisation of an antenna array system consisting of three, quarter-wavelength spaced, monopoles and a passive network. This compact planar network decouples and matches the antenna array, in order to prevent gain reduction. At the same time, the network forms orthogonal radiation patterns at the system ports, which divide the space into three different sections. The described system promises switched beam applications in small mobile platforms, where lack of space and processing power prevents the use of conventional antenna arrays.
+
+Antenna Array
+Decoupling
+Miniaturisation

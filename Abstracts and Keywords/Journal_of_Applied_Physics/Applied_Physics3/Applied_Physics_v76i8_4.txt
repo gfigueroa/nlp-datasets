@@ -1,0 +1,13 @@
+Abnormal (100) grain growth has been characterized in predominantly (111)textured Cu thin films as a function of deposition temperature, annealing temperature and the presence of a Ta or W underlayer. For films deposited at room temperature, bimodal grain size distributions are observed at annealing temperatures at or above 150	°C for Cu on Ta and 100	°C for Cu on W. Suppression of (100) abnormal grain growth was achieved by depositing Cu on either barrier layer at 150	°C. A bimodal grain size distribution was still observed for the film deposited on W at 150	°C but the large grains forming this distribution were found to be (111) oriented. These results are explained as the result of competition between strain energy minimization and surface and interface energy minimization. The (100) growth is shown to be driven by a reduction of the orientationdependent strain energy that builds up due to the elastic anisotropy of Cu. Films deposited at higher temperatures have a lower yield stress which limits the achievable strain energy driving force, thereby suppressing the (100) growth. Surface energy minimization drives the (111) abnormal growth.
+
+COPPER
+THIN FILMS
+ANNEALING
+GRAIN GROWTH
+TEXTURE
+TANTALUM
+TUNGSTEN
+SUBSTRATES
+STRAINS
+SURFACE ENERGY
+INTERFACES

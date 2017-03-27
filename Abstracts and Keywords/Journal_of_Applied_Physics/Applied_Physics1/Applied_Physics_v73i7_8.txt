@@ -1,0 +1,12 @@
+Thin epitaxial singlecrystalline Btype CoSi2 films (twinoriented) have been grown in ultrahigh vacuum by stoichiometric codeposition of Co and Si on slightly misoriented (0.1°0.3°) Si(111) substrates. The microstructure as well as the nature of interfacial defects has been investigated in detail by transmission electron microscopy. The defect structure is found to depend closely on the initial deposition parameters, annealing temperature, and the topography of the Si substrate. It will be shown that even during the early stages of layer growth, loss of coherence is obtained and lattice strain already starts to occur with the introduction of misfit dislocations with Burgers vector b=a/2110	 inclined to the interface or with Burgers vector b=a/6112	 parallel to it. It is demonstrated that ultrathin CoSi2 films with thickness of about 1 nm grown on slightly misoriented substrates with parallel surface steps, exhibit quite different defect structures at annealing temperatures between 300	°C and 550	°C. Control of the dislocation density has been obtained by applying a twostep growth procedure. CoSi2 layers grown to a thickness &lt;hc (45 nm) exhibit line defects with Burgers vector b=a/6112	 associated with interfacial misorientationrelated steps. Above this thickness additional dislocations in the three equivalent directions are formed, indicating biaxial strain relaxation. In addition, calculations of the critical thickness hc of biaxial strain relaxation based on thermodynamic equilibrium theory are presented. It is shown that the observed critical thickness hc is in qualitative agreement with theoretical predictions.
+
+THIN FILMS
+COBALT SILICIDES
+DEFECT STRUCTURE
+TEM
+MICROSTRUCTURE
+ANNEALING
+MISFIT DISLOCATIONS
+INTERFACES
+MOLECULAR BEAM EPITAXY
+THICKNESS

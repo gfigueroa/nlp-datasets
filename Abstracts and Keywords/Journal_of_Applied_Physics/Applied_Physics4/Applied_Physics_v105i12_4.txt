@@ -1,0 +1,15 @@
+In situ measurements of the high-frequency shear modulus during linear heating into the glass transition region of bulk glassy Pd40Cu30Ni10P20 sample in the initial state, after full structural relaxation, and subsequent fast quenching from the supercooled liquid region have been performed. It has been found that heating of the initial sample is accompanied by structural relaxation-induced increase in the shear modulus that was used for the reconstruction of the underlying activation energy spectrum (AES) within the framework of the interstitialcy theory. Fast quenching after full relaxation results in the recovery of structural relaxation. The room-temperature shear modulus in this case becomes even lower than that in the initial state, while the AES is enriched by low-energy defect states. The concentration of interstitialcylike defects in the initial, relaxed, and quenched conditions has been calculated.
+
+ageing
+copper alloys
+defect states
+glass structure
+glass transition
+high-frequency effects
+interstitials
+metallic glasses
+nickel alloys
+palladium alloys
+phosphorus alloys
+shear modulus
+supercooling

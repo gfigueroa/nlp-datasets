@@ -1,0 +1,12 @@
+The paper analyzes constitutive behavior of phase-transforming materials and metal powders loaded by shock waves. A two-phase material model developed earlier is extended to the case of materials with strength. Available experimental free surface velocities of iron samples under the ±-µ phase transition and shock velocity data for porous aluminum and copper are analyzed numerically with the present model. The phase transition hysteresis is demonstrated by numerical analysis of experimental free surface velocities. Possible role of the martensitic mechanism in the hysteresis is emphasized. The calculated anomalous Hugoniots as well as pressure equilibrium (PE) and pressure-temperature equilibrium (PTE) Hugoniots are compared with available experiments for aluminum and copper powders. It is argued that a large nonequilibrium interphase heat transfer zone for aluminum powders results in a scatter of experimental Hugoniot points between the PE and PTE Hugoniots in low pressure region. In turn, in high pressure region, the effect of strength on porous Hugoniot may increase with porosity due to an extra dissipation, which improves description of experiments for an extremely porous aluminum.
+
+aluminium
+copper
+equations of state
+heat transfer
+hysteresis
+martensitic transformations
+mechanical strength
+porosity
+porous materials
+shock waves
